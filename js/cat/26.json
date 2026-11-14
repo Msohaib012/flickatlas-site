@@ -1,8 +1,8 @@
 {
  "bucket": "26",
- "count": 8,
+ "count": 17,
  "titles": {
-  "10426": {
+  "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
    "budget": 20000000,
    "cast": [
@@ -98,7 +98,7 @@
    "vote_average": 6.417,
    "vote_count": 487
   },
-  "12626": {
+  "movie:12626": {
    "backdrop_path": "/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
    "budget": 20000000,
    "cast": [
@@ -251,7 +251,7 @@
    "vote_average": 6.787,
    "vote_count": 495
   },
-  "20726": {
+  "movie:20726": {
    "backdrop_path": "/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
    "budget": 20000000,
    "cast": [
@@ -347,7 +347,7 @@
    "vote_average": 6.6,
    "vote_count": 499
   },
-  "347126": {
+  "movie:347126": {
    "backdrop_path": "/j1X0A0tDagEdtG1vmOjvT5hTf82.jpg",
    "budget": 5000000,
    "cast": [
@@ -510,7 +510,7 @@
    "vote_average": 6.192,
    "vote_count": 435
   },
-  "437626": {
+  "movie:437626": {
    "backdrop_path": "/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
    "budget": 0,
    "cast": [
@@ -639,7 +639,7 @@
    "vote_average": 5.9,
    "vote_count": 459
   },
-  "491926": {
+  "movie:491926": {
    "backdrop_path": "/vNeEaRg6WWDSOGOwXuaZ2UziMWY.jpg",
    "budget": 0,
    "cast": [
@@ -792,7 +792,7 @@
    "vote_average": 6.959,
    "vote_count": 486
   },
-  "728526": {
+  "movie:728526": {
    "backdrop_path": "/zlj0zHo67xXoj7hvwGtaKRkSdBV.jpg",
    "budget": 0,
    "cast": [
@@ -908,7 +908,7 @@
    "vote_average": 6.276,
    "vote_count": 480
   },
-  "833326": {
+  "movie:833326": {
    "backdrop_path": "/v3zHKRxNH3G3oop2GmSbgOzxza8.jpg",
    "budget": 0,
    "cast": [
@@ -1004,6 +1004,1562 @@
    "type": "movie",
    "vote_average": 6.286,
    "vote_count": 474
+  },
+  "tv:10126": {
+   "backdrop_path": "/kWwj7gNJsnd5ocTRvlmEznaB8wG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Taz / Bushwhacker Bob (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Hugh / Daniel Platypus (voice)",
+     "n": "Maurice LaMarche"
+    },
+    {
+     "c": "Jean (voice)",
+     "n": "Miriam Flynn"
+    },
+    {
+     "c": "Molly (voice)",
+     "n": "Kellie Martin"
+    },
+    {
+     "c": "Jake (voice)",
+     "n": "Debi Derryberry"
+    },
+    {
+     "c": "Mr. Thickly (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Bull Gator (voice)",
+     "n": "John Astin"
+    },
+    {
+     "c": "Axl Gator / Francis X. Bushlad / Timothy Platypus (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Mum / Constance Koala (voice)",
+     "n": "Rosalyn Landor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "FOX",
+   "created_by": [
+    "Tom Ruegger",
+    "Jean MacCurdy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "1991-09-07",
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 10126,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Fox Kids"
+   ],
+   "number_of_episodes": 123,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The wildest teenager south of the Equator, Taz lives to party. With his insatiable appetite, he tends to eat everything in sight. The oldest child in a family of five, Taz works at a rather bizarre coastal resort, the Hotel Tasmania, as a bellhop, busboy to earn party money.",
+   "popularity": 24.0729,
+   "poster_path": "/ozqJKBZq3k7BjyAwv2A7V1Zv6Ba.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "CN Rewind Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1991-09-07",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1992-09-05",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1993-09-11",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-09-13",
+     "episode_count": 48,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Taz-Mania",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.983,
+   "vote_count": 270
+  },
+  "tv:2426": {
+   "backdrop_path": "/38g8BjnbRpxdTER5guYi6ANWsjk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Angel",
+     "n": "David Boreanaz"
+    },
+    {
+     "c": "Fred Burkle / Illyria",
+     "n": "Amy Acker"
+    },
+    {
+     "c": "Wesley Wyndam-Pryce",
+     "n": "Alexis Denisof"
+    },
+    {
+     "c": "Charles Gunn",
+     "n": "J. August Richards"
+    },
+    {
+     "c": "Spike",
+     "n": "James Marsters"
+    },
+    {
+     "c": "Lorne",
+     "n": "Andy Hallett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "Joss Whedon",
+    "David Greenwalt"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-10-05",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 2426,
+   "industry": "world",
+   "networks": [
+    "The WB"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The vampire Angel, cursed with a soul, moves to Los Angeles and aids people with supernatural-related problems while questing for his own redemption. A spin-off from Buffy the Vampire Slayer.",
+   "popularity": 43.4771,
+   "poster_path": "/142tpNAfillE1aolOMI5iPYeUy9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 34,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-10-05",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-09-26",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-09-24",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-10-06",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-10-01",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Lost souls saved nightly.",
+   "title": "Angel",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.842,
+   "vote_count": 1048
+  },
+  "tv:30826": {
+   "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Carlos Mercado Orduña"
+   ],
+   "director": [
+    "Juan Pablo Blanco",
+    "Gastón Tuset",
+    "Karina Duprez",
+    "Marta Luna",
+    "Eduardo Said",
+    "Alejandro Aragón",
+    "Claudio Reyes",
+    "Alfredo Gurrola",
+    "Ricardo de la Parra",
+    "Lily Garza"
+   ],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2008-02-05",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 30826,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 901,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Stories about people who get into problems who use the help of Virgin Mary and where a rose appears and their problems are solved.",
+   "popularity": 47.1973,
+   "poster_path": "/9RaNva340arNWeZn2uKpKePkg91.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-02-05",
+     "episode_count": 200,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 200,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 200,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 200,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-01-28",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-02-07",
+     "episode_count": 4,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "",
+     "episode_count": 8,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "",
+     "episode_count": 10,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "",
+     "episode_count": 8,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "",
+     "episode_count": 7,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "",
+     "episode_count": 39,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Season 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "La rosa de Guadalupe",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 302
+  },
+  "tv:326": {
+   "backdrop_path": "/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dave Lister",
+     "n": "Craig Charles"
+    },
+    {
+     "c": "Arnold Rimmer",
+     "n": "Chris Barrie"
+    },
+    {
+     "c": "Cat",
+     "n": "Danny John-Jules"
+    },
+    {
+     "c": "Kryten",
+     "n": "Robert Llewellyn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC Two",
+   "created_by": [
+    "Doug Naylor",
+    "Rob Grant"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "1988-02-15",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 326,
+   "industry": "world",
+   "networks": [
+    "BBC Two",
+    "U&Dave"
+   ],
+   "number_of_episodes": 73,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+   "popularity": 35.141,
+   "poster_path": "/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-11-07",
+     "episode_count": 120,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1988-02-15",
+     "episode_count": 6,
+     "name": "Series I",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-09-06",
+     "episode_count": 6,
+     "name": "Series II",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-11-14",
+     "episode_count": 6,
+     "name": "Series III",
+     "season_number": 3
+    },
+    {
+     "air_date": "1991-02-14",
+     "episode_count": 6,
+     "name": "Series IV",
+     "season_number": 4
+    },
+    {
+     "air_date": "1992-02-20",
+     "episode_count": 6,
+     "name": "Series V",
+     "season_number": 5
+    },
+    {
+     "air_date": "1993-10-07",
+     "episode_count": 6,
+     "name": "Series VI",
+     "season_number": 6
+    },
+    {
+     "air_date": "1997-01-17",
+     "episode_count": 8,
+     "name": "Series VII",
+     "season_number": 7
+    },
+    {
+     "air_date": "1999-02-18",
+     "episode_count": 8,
+     "name": "Series VIII",
+     "season_number": 8
+    },
+    {
+     "air_date": "2009-04-10",
+     "episode_count": 3,
+     "name": "Back to Earth",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-10-04",
+     "episode_count": 6,
+     "name": "Series X",
+     "season_number": 10
+    },
+    {
+     "air_date": "2016-09-22",
+     "episode_count": 6,
+     "name": "Series XI",
+     "season_number": 11
+    },
+    {
+     "air_date": "2017-10-12",
+     "episode_count": 6,
+     "name": "Series XII",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Smeg Head!",
+   "title": "Red Dwarf",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.072,
+   "vote_count": 469
+  },
+  "tv:32726": {
+   "backdrop_path": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bob Belcher (voice)",
+     "n": "H. Jon Benjamin"
+    },
+    {
+     "c": "Linda Belcher (voice)",
+     "n": "John Roberts"
+    },
+    {
+     "c": "Louise Belcher (voice)",
+     "n": "Kristen Schaal"
+    },
+    {
+     "c": "Gene Belcher (voice)",
+     "n": "Eugene Mirman"
+    },
+    {
+     "c": "Tina Belcher (voice)",
+     "n": "Dan Mintz"
+    },
+    {
+     "c": "Teddy (voice)",
+     "n": "Larry Murphy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "FOX",
+   "created_by": [
+    "Jim Dauterive",
+    "Loren Bouchard"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-01-09",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 32726,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 313,
+   "number_of_seasons": 16,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers \"grand re-re-re-opening\" a success.",
+   "popularity": 109.3361,
+   "poster_path": "/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+     "name": "FOX One Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-04-17",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-01-09",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-03-11",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-10-05",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 19,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-09-25",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 21,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-09-30",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2020-09-27",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2021-09-26",
+     "episode_count": 22,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2022-09-25",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2023-10-01",
+     "episode_count": 16,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2024-09-29",
+     "episode_count": 22,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2025-09-28",
+     "episode_count": 15,
+     "name": "Season 16",
+     "season_number": 16
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Bob's Burgers",
+   "trailer": {
+    "key": "cCrZfBME9Gc",
+    "name": "Bob's Burgers Season 7 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1165
+  },
+  "tv:3626": {
+   "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Judge",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Ryan Seacrest"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Keith Urban"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Harry Connick Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "FOX",
+   "created_by": [
+    "Simon Fuller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    85
+   ],
+   "first_air_date": "2002-06-11",
+   "genres": [
+    "Reality"
+   ],
+   "id": 3626,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 567,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+   "popularity": 63.4663,
+   "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-05-19",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-06-11",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-01-21",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-01-19",
+     "episode_count": 45,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-01-18",
+     "episode_count": 42,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-01-17",
+     "episode_count": 41,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-01-16",
+     "episode_count": 41,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-01-15",
+     "episode_count": 42,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-01-13",
+     "episode_count": 40,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-01-12",
+     "episode_count": 43,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-01-19",
+     "episode_count": 39,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2012-01-18",
+     "episode_count": 40,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2013-01-16",
+     "episode_count": 37,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2014-01-15",
+     "episode_count": 39,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2015-01-07",
+     "episode_count": 30,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2016-01-07",
+     "episode_count": 24,
+     "name": "The Farewell Season",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Dream big.",
+   "title": "American Idol",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.0,
+   "vote_count": 185
+  },
+  "tv:4626": {
+   "backdrop_path": "/5syecfwO1pkIVViRG3j7UuStCpm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Betty Suarez",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Daniel Meade",
+     "n": "Eric Mabius"
+    },
+    {
+     "c": "Wilhelmina Slater",
+     "n": "Vanessa Williams"
+    },
+    {
+     "c": "Ignacio Suarez",
+     "n": "Tony Plana"
+    },
+    {
+     "c": "Hilda Suarez",
+     "n": "Ana Ortiz"
+    },
+    {
+     "c": "Claire Meade",
+     "n": "Judith Light"
+    },
+    {
+     "c": "Amanda Tanen",
+     "n": "Becki Newton"
+    },
+    {
+     "c": "Marc St. James",
+     "n": "Michael Urie"
+    },
+    {
+     "c": "Justin Suarez",
+     "n": "Mark Indelicato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Silvio Horta"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2006-09-28",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 4626,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 85,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wannabe writer Betty Suarez is a plain girl from Queens, who is smart, hardworking and savvy but lacks a fashionable sense of style. When publishing mogul Bradford Meade puts his son Daniel in charge of Mode magazine, he hires Betty to be Daniel's new assistant -- mostly because he knows that she may be the only woman in Manhattan with whom the younger man won't sleep.",
+   "popularity": 23.9594,
+   "poster_path": "/prGylxnFpIWMcvHh9sUC46hmiIC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-04-12",
+     "episode_count": 21,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-09-28",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-10-16",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Ugly is the new beautiful.",
+   "title": "Ugly Betty",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.444,
+   "vote_count": 301
+  },
+  "tv:63926": {
+   "backdrop_path": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Saitama (voice)",
+     "n": "Makoto Furukawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2015-10-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 63926,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+   "popularity": 33.2754,
+   "poster_path": "/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-12-04",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-10-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-04-10",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-10-12",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "All it takes is one punch.",
+   "title": "One-Punch Man",
+   "trailer": {
+    "key": "2JAElThbKrI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.361,
+   "vote_count": 4299
+  },
+  "tv:67026": {
+   "backdrop_path": "/AhufsCP0kYIkpr0Iy2GrLSM1noL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom Kirkman",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Hannah Wells",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Seth Wright",
+     "n": "Kal Penn"
+    },
+    {
+     "c": "Aaron Shore",
+     "n": "Adan Canto"
+    },
+    {
+     "c": "Emily Rhodes",
+     "n": "Italia Ricci"
+    },
+    {
+     "c": "Président Ortega",
+     "n": "Emiliano Díez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "David Guggenheim"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-09-21",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 67026,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "Netflix"
+   ],
+   "number_of_episodes": 53,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+   "popularity": 25.5014,
+   "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-06-07",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Declare your independence.",
+   "title": "Designated Survivor",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.153,
+   "vote_count": 1222
   }
  }
 }

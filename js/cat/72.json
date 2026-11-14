@@ -1,8 +1,8 @@
 {
  "bucket": "72",
- "count": 7,
+ "count": 15,
  "titles": {
-  "219572": {
+  "movie:219572": {
    "backdrop_path": "/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
    "budget": 35000000,
    "cast": [
@@ -146,7 +146,7 @@
    "vote_average": 6.2,
    "vote_count": 449
   },
-  "301272": {
+  "movie:301272": {
    "backdrop_path": "/IorAAceTVBGg6Nf3b9X0DiibC4.jpg",
    "budget": 0,
    "cast": [
@@ -235,7 +235,7 @@
    "vote_average": 6.3,
    "vote_count": 467
   },
-  "373072": {
+  "movie:373072": {
    "backdrop_path": "/1ZtTi3s6IYtYMpKJbbrCJKfnNib.jpg",
    "budget": 0,
    "cast": [
@@ -436,7 +436,7 @@
    "vote_average": 7.188,
    "vote_count": 455
   },
-  "431072": {
+  "movie:431072": {
    "backdrop_path": "/bHrlWNVW96SMmWzrNi0EwKyjWCU.jpg",
    "budget": 10000000,
    "cast": [
@@ -542,7 +542,7 @@
    "vote_average": 6.4,
    "vote_count": 470
   },
-  "534072": {
+  "movie:534072": {
    "backdrop_path": "/vvzucWIigLAWS8QawQRvpmUKM6.jpg",
    "budget": 0,
    "cast": [
@@ -709,7 +709,7 @@
    "vote_average": 5.2,
    "vote_count": 436
   },
-  "626872": {
+  "movie:626872": {
    "backdrop_path": "/fI8hv1IqWUIUjx4YRfl6TWhdqHW.jpg",
    "budget": 18052672,
    "cast": [
@@ -861,7 +861,7 @@
    "vote_average": 7.398,
    "vote_count": 460
   },
-  "8272": {
+  "movie:8272": {
    "backdrop_path": "/2KoLLmYiVTBlTv0GYIJYOjYZ9s5.jpg",
    "budget": 8000000,
    "cast": [
@@ -1010,6 +1010,1484 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 456
+  },
+  "tv:1972": {
+   "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Commander William Adama",
+     "n": "Edward James Olmos"
+    },
+    {
+     "c": "Laura Roslin",
+     "n": "Mary McDonnell"
+    },
+    {
+     "c": "Lee 'Apollo' Adama",
+     "n": "Jamie Bamber"
+    },
+    {
+     "c": "Kara 'Starbuck' Thrace",
+     "n": "Katee Sackhoff"
+    },
+    {
+     "c": "Gaius Baltar",
+     "n": "James Callis"
+    },
+    {
+     "c": "Number Six",
+     "n": "Tricia Helfer"
+    },
+    {
+     "c": "Karl 'Helo' Agathon",
+     "n": "Tahmoh Penikett"
+    },
+    {
+     "c": "Sharon 'Boomer' Valerii",
+     "n": "Grace Park"
+    },
+    {
+     "c": "Saul Tigh",
+     "n": "Michael Hogan"
+    },
+    {
+     "c": "Galen Tyrol",
+     "n": "Aaron Douglas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Syfy",
+   "created_by": [
+    "Glen A. Larson",
+    "Ronald D. Moore"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2004-10-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 1972,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 73,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "CA",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+   "popularity": 40.434,
+   "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "ITVX"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-08-13",
+     "episode_count": 47,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-10-18",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-07-15",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-10-06",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-04-04",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "So say we all!",
+   "title": "Battlestar Galactica",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1897
+  },
+  "tv:253372": {
+   "backdrop_path": "/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tim Jamieson",
+     "n": "Ben Barnes"
+    },
+    {
+     "c": "Luke Ellis",
+     "n": "Joe Freeman"
+    },
+    {
+     "c": "Kalisha",
+     "n": "Simone Miller"
+    },
+    {
+     "c": "Nick Wilholm",
+     "n": "Fionn Laird"
+    },
+    {
+     "c": "Wendy Gullickson",
+     "n": "Hannah Galway"
+    },
+    {
+     "c": "Hendricks",
+     "n": "Robert Joy"
+    },
+    {
+     "c": "Ms. Sigsby",
+     "n": "Mary-Louise Parker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "MGM+",
+   "created_by": [
+    "Benjamin Cavell"
+   ],
+   "director": [],
+   "episode_run_time": [
+    58
+   ],
+   "first_air_date": "2025-07-13",
+   "genres": [
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 253372,
+   "industry": "world",
+   "networks": [
+    "MGM+"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+   "popularity": 42.0113,
+   "poster_path": "/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-11-08",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Institute",
+   "trailer": {
+    "key": "1BcvAdfyL5Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 224
+  },
+  "tv:3172": {
+   "backdrop_path": "/2iYitemZYaZUcmSo0l2p3WHvj5J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Addison Montgomery",
+     "n": "Kate Walsh"
+    },
+    {
+     "c": "Cooper Freedman",
+     "n": "Paul Adelstein"
+    },
+    {
+     "c": "Charlotte King",
+     "n": "KaDee Strickland"
+    },
+    {
+     "c": "Amelia Shepherd",
+     "n": "Caterina Scorsone"
+    },
+    {
+     "c": "Sam Bennett",
+     "n": "Taye Diggs"
+    },
+    {
+     "c": "Violet Turner",
+     "n": "Amy Brenneman"
+    },
+    {
+     "c": "Jake Reilly",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Sheldon Wallace",
+     "n": "Brian Benben"
+    },
+    {
+     "c": "Mason Warner",
+     "n": "Griffin Gluck"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Shonda Rhimes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2007-09-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 3172,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 111,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Having left behind Seattle Grace Hospital, renowned surgeon Addison Forbes Montgomery moves to Los Angeles for sunnier weather and happier possibilities. She reunites with her friends from medical school, joining them at their chic, co-op, Oceanside Wellness Center in Santa Monica.",
+   "popularity": 37.711,
+   "poster_path": "/pW20ANAGdrgreYJExduUVaWos6H.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-09-19",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-09-26",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-10-01",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-10-01",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-09-29",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-09-25",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A new start on life.",
+   "title": "Private Practice",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.492,
+   "vote_count": 363
+  },
+  "tv:3772": {
+   "backdrop_path": "/2XFBqLWmMem1nImSPCnPVOXH1MF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cordell Walker",
+     "n": "Chuck Norris"
+    },
+    {
+     "c": "Jimmy Trivette",
+     "n": "Clarence Gilyard Jr."
+    },
+    {
+     "c": "Alex Cahill",
+     "n": "Sheree J. Wilson"
+    },
+    {
+     "c": "Francis Gage",
+     "n": "Judson Mills"
+    },
+    {
+     "c": "Sydney Cooke",
+     "n": "Nia Peeples"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Albert S. Ruddy",
+    "Paul Haggis"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-04-21",
+   "genres": [
+    "Drama",
+    "Western",
+    "Crime"
+   ],
+   "id": 3772,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 202,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Modern-day Texas Ranger, Cordell Walker's independent crime-solving methods have their roots in the rugged traditions of the Old West. Walker's closest friend is former Ranger, C.D. Parker, who retired after a knee injury, and now owns \"C.D.'s,\" a Country/Western saloon/restaurant. Rookie Ranger, James \"Jimmy\" Trivette is an ex-football player who bases his crime-solving methods on reason and uses computers and cellular phones. Alex Cahill is the Assistant DA who shares a mutual attraction with Walker, but often disagrees with his unorthodox approach to law enforcement.",
+   "popularity": 34.1457,
+   "poster_path": "/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-10-16",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-04-21",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-25",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-09-24",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-09-23",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-21",
+     "episode_count": 27,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-09-27",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1998-09-26",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1999-09-25",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2000-10-07",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Walker, Texas Ranger",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 599
+  },
+  "tv:38472": {
+   "backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jessica Jones",
+     "n": "Krysten Ritter"
+    },
+    {
+     "c": "Patricia 'Trish' Walker",
+     "n": "Rachael Taylor"
+    },
+    {
+     "c": "Malcolm Ducasse",
+     "n": "Eka Darville"
+    },
+    {
+     "c": "Erik Gelden",
+     "n": "Benjamin Walker"
+    },
+    {
+     "c": "Jeryn 'Jeri' Hogarth",
+     "n": "Carrie-Anne Moss"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Melissa Rosenberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-11-20",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 38472,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+   "popularity": 26.6363,
+   "poster_path": "/oxnWofiE9fHOgUfs9NJa6nG6NTR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-11-20",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-03-08",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-06-14",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Your powers can't save you.",
+   "title": "Marvel's Jessica Jones",
+   "trailer": {
+    "key": "nWHUjuJ8zxE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.472,
+   "vote_count": 2775
+  },
+  "tv:39272": {
+   "backdrop_path": "/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Regina Mills / Evil Queen",
+     "n": "Lana Parrilla"
+    },
+    {
+     "c": "Captain Hook",
+     "n": "Colin O'Donoghue"
+    },
+    {
+     "c": "Mr. Gold / Rumplestiltskin / Weaver",
+     "n": "Robert Carlyle"
+    },
+    {
+     "c": "Victoria Belfrey / Lady Tremaine",
+     "n": "Gabrielle Anwar"
+    },
+    {
+     "c": "Jacinda Vidrio / Cinderella",
+     "n": "Dania Ramirez"
+    },
+    {
+     "c": "Sabine / Tiana",
+     "n": "Mekia Cox"
+    },
+    {
+     "c": "Henry Mills",
+     "n": "Andrew J. West"
+    },
+    {
+     "c": "Lucy Vidrio",
+     "n": "Alison Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Edward Kitsis",
+    "Adam Horowitz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2011-10-23",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 39272,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 156,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.",
+   "popularity": 71.4287,
+   "poster_path": "/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-09-29",
+     "episode_count": 44,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-10-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-09-25",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-10-06",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Magic is coming.",
+   "title": "Once Upon a Time",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.391,
+   "vote_count": 2576
+  },
+  "tv:60572": {
+   "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoshi (voice)",
+     "n": "Rica Matsumoto"
+    },
+    {
+     "c": "Pikachu (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Gou (voice)",
+     "n": "Daiki Yamashita"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Kenyu Horiuchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1997-04-01",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60572,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 1235,
+   "number_of_seasons": 25,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+   "popularity": 552.4856,
+   "poster_path": "/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Pokémon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1997-10-07",
+     "episode_count": 56,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-04-01",
+     "episode_count": 82,
+     "name": "Indigo League",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-01-28",
+     "episode_count": 36,
+     "name": "Adventures in the Orange Islands",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-10-14",
+     "episode_count": 41,
+     "name": "The Johto Journeys",
+     "season_number": 3
+    },
+    {
+     "air_date": "2000-08-03",
+     "episode_count": 52,
+     "name": "Johto League Champions",
+     "season_number": 4
+    },
+    {
+     "air_date": "2001-08-09",
+     "episode_count": 65,
+     "name": "Master Quest",
+     "season_number": 5
+    },
+    {
+     "air_date": "2002-11-21",
+     "episode_count": 40,
+     "name": "Advanced",
+     "season_number": 6
+    },
+    {
+     "air_date": "2003-09-04",
+     "episode_count": 52,
+     "name": "Advanced Challenge",
+     "season_number": 7
+    },
+    {
+     "air_date": "2004-09-09",
+     "episode_count": 53,
+     "name": "Advanced Battle",
+     "season_number": 8
+    },
+    {
+     "air_date": "2005-10-06",
+     "episode_count": 46,
+     "name": "Battle Frontier",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-09-28",
+     "episode_count": 52,
+     "name": "Diamond and Pearl",
+     "season_number": 10
+    },
+    {
+     "air_date": "2007-11-08",
+     "episode_count": 52,
+     "name": "DP Battle Dimension",
+     "season_number": 11
+    },
+    {
+     "air_date": "2008-12-04",
+     "episode_count": 53,
+     "name": "DP Galactic Battles",
+     "season_number": 12
+    },
+    {
+     "air_date": "2010-01-07",
+     "episode_count": 34,
+     "name": "DP Sinnoh League Victors",
+     "season_number": 13
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 48,
+     "name": "Black & White",
+     "season_number": 14
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 49,
+     "name": "Black & White: Rival Destinies",
+     "season_number": 15
+    },
+    {
+     "air_date": "2012-10-11",
+     "episode_count": 45,
+     "name": "Black & White: Adventures in Unova",
+     "season_number": 16
+    },
+    {
+     "air_date": "2013-10-17",
+     "episode_count": 48,
+     "name": "XY",
+     "season_number": 17
+    },
+    {
+     "air_date": "2014-11-13",
+     "episode_count": 45,
+     "name": "XY: Kalos Quest",
+     "season_number": 18
+    },
+    {
+     "air_date": "2015-10-29",
+     "episode_count": 49,
+     "name": "XYZ",
+     "season_number": 19
+    },
+    {
+     "air_date": "2016-11-17",
+     "episode_count": 43,
+     "name": "Sun & Moon",
+     "season_number": 20
+    },
+    {
+     "air_date": "2017-10-05",
+     "episode_count": 49,
+     "name": "Sun & Moon: Ultra Adventures",
+     "season_number": 21
+    },
+    {
+     "air_date": "2018-10-21",
+     "episode_count": 54,
+     "name": "Sun & Moon: Ultra Legends",
+     "season_number": 22
+    },
+    {
+     "air_date": "2019-11-17",
+     "episode_count": 48,
+     "name": "Journeys",
+     "season_number": 23
+    },
+    {
+     "air_date": "2020-12-11",
+     "episode_count": 42,
+     "name": "Master Journeys",
+     "season_number": 24
+    },
+    {
+     "air_date": "2021-12-17",
+     "episode_count": 57,
+     "name": "Ultimate Journeys",
+     "season_number": 25
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Gotta catch 'em all!",
+   "title": "Pokémon",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.988,
+   "vote_count": 2308
+  },
+  "tv:94372": {
+   "backdrop_path": "/4BrWdbv2Cqe0zLqvNzkoednZQAb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Remy Scott",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Nina Chase",
+     "n": "Shantel VanSanten"
+    },
+    {
+     "c": "Sheryll Barnes",
+     "n": "Roxy Sternberg"
+    },
+    {
+     "c": "Hana Gibson",
+     "n": "Keisha Castle-Hughes"
+    },
+    {
+     "c": "Ray Cannon",
+     "n": "Edwin Hodge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "René Balcer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-01-07",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 94372,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 108,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau's Most Wanted list. Seasoned agents oversee the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
+   "popularity": 41.6268,
+   "poster_path": "/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-01-07",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-11-17",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-21",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-02-13",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-10-15",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "No ordinary criminal makes the list. No ordinary agent takes them off.",
+   "title": "FBI: Most Wanted",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.603,
+   "vote_count": 452
   }
  }
 }

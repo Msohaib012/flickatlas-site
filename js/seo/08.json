@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 8,
+ "count": 18,
  "titles": {
   "movie:1908": {
    "d": "Inherit the Wind (1960): Drama film. Story: Schoolteacher Bertram Cates is arrested for teaching… See cast, budget $2M, and TMDB rating 7.6/10.",
@@ -509,6 +509,563 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Killer (2022)</h1>\n<p class=\"ssr-lead\">While his girlfriend is away on a trip, retired assassin Bang Ui-kang is tasked with looking after her friend&#x27;s 17-year-old daughter. After a street attack, Bang Ui-kang becomes embroiled in a murder investigation and dangerous trafficking gang.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 2022</li><li>Runtime: 95 minutes</li><li>Director: Choi Jae-hoon</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 7.6/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jang Hyuk as Bang Ui-kang</li><li>Lee Seo-young as Kim Yoon-ji</li><li>Bang Eun-jeong as Sung-yeon</li><li>Bruce Khan as Yuri</li><li>Lee Seung-joon as Detective Lee</li><li>Yoo Seo-jin as Divorced Woman</li><li>Shin Seung-hwan as Park Hyung-joo</li><li>Hong Seo-jun as Kim Jung-hoon</li><li>Lee Chae-young as Hyun-soo</li><li>Choi Ki-seob as &quot;Birthmark&quot;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv</li></ul>\n</article>",
    "t": "The Killer (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "tv:126308": {
+   "d": "Shōgun (2024) is a Drama and War & Politics TV series. Explore its story: In Japan in the year 1600, at the dawn of a…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+   "industry": "world",
+   "k": "Shōgun, Shōgun TV series, Shōgun cast, Shōgun story, Shōgun seasons, Shōgun episodes, Shōgun season 1, Shōgun 10 episodes, Shōgun first air date, Shōgun trailer, Shōgun Drama, Shōgun War & Politics, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Sanada"
+     },
+     {
+      "@type": "Person",
+      "name": "Cosmo Jarvis"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Sawai"
+     },
+     {
+      "@type": "Person",
+      "name": "Tadanobu Asano"
+     },
+     {
+      "@type": "Person",
+      "name": "Takehiro Hira"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1982,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "Shōgun (2024) is a Drama and War & Politics TV series. Explore its story: In Japan in the year 1600, at the dawn of a…, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Drama",
+     "War & Politics"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=126308",
+    "name": "Shōgun",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2024-02-27",
+    "url": "https://flickatlas.co.uk/show?id=126308"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shōgun (2024)</h1>\n<p class=\"ssr-lead\">In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 27 February 2024</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Rachel Kondo, Justin Marks</li><li>Genres: Drama, War &amp; Politics</li><li>TMDB rating: 8.4/10 (1982 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hiroyuki Sanada as Yoshii Toranaga</li><li>Cosmo Jarvis as John Blackthorne</li><li>Anna Sawai as Toda Mariko</li><li>Tadanobu Asano as Kashigi Yabushige</li><li>Takehiro Hira as Ishido Kazunari</li><li>Tommy Bastow as Father Martin Alvito</li><li>Fumi Nikaido as Ochiba No Kata / Ruri</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Shōgun (2024) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2024"
+  },
+  "tv:1408": {
+   "d": "House (2004) is a Drama TV series. Explore its story: Dr. Gregory House, a drug-addicted, unconventional…, cast, 8 seasons, and 176 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+   "industry": "world",
+   "k": "House, House TV series, House cast, House story, House seasons, House episodes, House season 8, House 176 episodes, House first air date, House Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Laurie"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Sean Leonard"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Epps"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Spencer"
+     },
+     {
+      "@type": "Person",
+      "name": "Odette Annable"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8033,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "House (2004) is a Drama TV series. Explore its story: Dr. Gregory House, a drug-addicted, unconventional…, cast, 8 seasons, and 176 episodes.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=1408",
+    "name": "House",
+    "numberOfEpisodes": 176,
+    "numberOfSeasons": 8,
+    "startDate": "2004-11-16",
+    "url": "https://flickatlas.co.uk/show?id=1408"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>House (2004)</h1>\n<p class=\"ssr-lead\">Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 November 2004</li><li>Seasons: 8 · Episodes: 176</li><li>Created by: David Shore</li><li>Genres: Drama</li><li>TMDB rating: 8.6/10 (8033 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Laurie as Gregory House</li><li>Robert Sean Leonard as James Wilson</li><li>Omar Epps as Eric Foreman</li><li>Jesse Spencer as Robert Chase</li><li>Odette Annable as Jessica Adams</li><li>Peter Jacobson as Chris Taub</li><li>Lo Mutuc as Chi Park</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "House (2004) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2004"
+  },
+  "tv:1908": {
+   "d": "Miami Vice (1984) is a Crime and Drama TV series. Explore its story: The story of the Miami Police Department's vice squad…, cast, 5 seasons, and 110 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+   "industry": "world",
+   "k": "Miami Vice, Miami Vice TV series, Miami Vice cast, Miami Vice story, Miami Vice seasons, Miami Vice episodes, Miami Vice season 5, Miami Vice 110 episodes, Miami Vice first air date, Miami Vice trailer, Miami Vice Crime, Miami Vice Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Don Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Michael Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Saundra Santiago"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Talbott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 555,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Miami Vice (1984) is a Crime and Drama TV series. Explore its story: The story of the Miami Police Department's vice squad…, cast, 5 seasons, and 110 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=1908",
+    "name": "Miami Vice",
+    "numberOfEpisodes": 110,
+    "numberOfSeasons": 5,
+    "startDate": "1984-09-16",
+    "url": "https://flickatlas.co.uk/show?id=1908"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Miami Vice (1984)</h1>\n<p class=\"ssr-lead\">The story of the Miami Police Department&#x27;s vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 September 1984</li><li>Seasons: 5 · Episodes: 110</li><li>Created by: Anthony Yerkovich</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.5/10 (555 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Don Johnson as Sonny Crockett</li><li>Philip Michael Thomas as Rico Tubbs</li><li>Saundra Santiago as Gina Calabrese</li><li>Olivia Brown as Trudy Joplin</li><li>Michael Talbott as Stan Switek</li><li>Edward James Olmos as Martin Castillo</li><li>Jay Cannistraci as Speaker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
+   "t": "Miami Vice (1984) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "1984"
+  },
+  "tv:2408": {
+   "d": "The Wild Thornberrys (1998) is an Animation and Comedy TV series. Explore its story: Travel the world with the Thornberrys and come…, cast, and 5 seasons.",
+   "img": "https://image.tmdb.org/t/p/w780/nVj1LYX8uOsdGVb9LcLN4YUTkDs.jpg",
+   "industry": "world",
+   "k": "The Wild Thornberrys, The Wild Thornberrys TV series, The Wild Thornberrys cast, The Wild Thornberrys story, The Wild Thornberrys seasons, The Wild Thornberrys episodes, The Wild Thornberrys season 5, The Wild Thornberrys 91 episodes, The Wild Thornberrys first air date, The Wild Thornberrys Animation, The Wild Thornberrys Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lacey Chabert"
+     },
+     {
+      "@type": "Person",
+      "name": "Jodi Carlisle"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Curry"
+     },
+     {
+      "@type": "Person",
+      "name": "Flea"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Harris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Wild Thornberrys (1998) is an Animation and Comedy TV series. Explore its story: Travel the world with the Thornberrys and come…, cast, and 5 seasons.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nVj1LYX8uOsdGVb9LcLN4YUTkDs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=2408",
+    "name": "The Wild Thornberrys",
+    "numberOfEpisodes": 91,
+    "numberOfSeasons": 5,
+    "startDate": "1998-09-01",
+    "url": "https://flickatlas.co.uk/show?id=2408"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wild Thornberrys (1998)</h1>\n<p class=\"ssr-lead\">Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 September 1998</li><li>Seasons: 5 · Episodes: 91</li><li>Created by: Gábor Csupó, Arlene Klasky</li><li>Genres: Animation, Comedy, Action &amp; Adventure, Kids, Family</li><li>TMDB rating: 7.0/10 (312 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lacey Chabert as Eliza Thornberry (voice)</li><li>Jodi Carlisle as Marianne Thornberry (voice)</li><li>Tim Curry as Nigel Thornberry (voice)</li><li>Flea as Donnie Thornberry (voice)</li><li>Danielle Harris as Debbie Thornberry (voice)</li><li>Tom Kane as Darwin (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Wild Thornberrys (1998) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "1998"
+  },
+  "tv:2808": {
+   "d": "Totally Spies! (2002) is an Animation and Kids TV series. Explore its story: Totally Spies! depicts three girlfriends 'with an…, cast, and 8 seasons.",
+   "img": "https://image.tmdb.org/t/p/w780/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+   "industry": "world",
+   "k": "Totally Spies!, Totally Spies! TV series, Totally Spies! cast, Totally Spies! story, Totally Spies! seasons, Totally Spies! episodes, Totally Spies! season 8, Totally Spies! 208 episodes, Totally Spies! first air date, Totally Spies! Animation, Totally Spies! Kids, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Claire Guyot"
+     },
+     {
+      "@type": "Person",
+      "name": "Fily Keita"
+     },
+     {
+      "@type": "Person",
+      "name": "Céline Mauge"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Donda"
+     },
+     {
+      "@type": "Person",
+      "name": "Déborah Claude"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Totally Spies! (2002) is an Animation and Kids TV series. Explore its story: Totally Spies! depicts three girlfriends 'with an…, cast, and 8 seasons.",
+    "genre": [
+     "Animation",
+     "Kids"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=2808",
+    "name": "Totally Spies!",
+    "numberOfEpisodes": 208,
+    "numberOfSeasons": 8,
+    "startDate": "2002-04-03",
+    "url": "https://flickatlas.co.uk/show?id=2808"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Totally Spies! (2002)</h1>\n<p class=\"ssr-lead\">Totally Spies! depicts three girlfriends &#x27;with an attitude&#x27; who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 3 April 2002</li><li>Seasons: 8 · Episodes: 208</li><li>Created by: Vincent Chalvon-Demersay, David Michel</li><li>Genres: Animation, Kids, Comedy, Action &amp; Adventure</li><li>TMDB rating: 7.4/10 (307 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Claire Guyot as Sam (voice)</li><li>Fily Keita as Clover (voice)</li><li>Céline Mauge as Alex (voice)</li><li>Jean-Claude Donda as Jerry (voice)</li><li>Déborah Claude as Zerlina (voice)</li><li>Gauthier Battoue as Toby (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Totally Spies! (2002) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2002"
+  },
+  "tv:32608": {
+   "d": "Ancient Aliens (2010) is a Documentary and Mystery TV series. Explore its story: Did intelligent beings from outer space visit Earth…, cast, and 22 seasons.",
+   "img": "https://image.tmdb.org/t/p/w780/vBk9KQW01pJJfn3wAL2MJgTMch1.jpg",
+   "industry": "world",
+   "k": "Ancient Aliens, Ancient Aliens TV series, Ancient Aliens cast, Ancient Aliens story, Ancient Aliens seasons, Ancient Aliens episodes, Ancient Aliens season 22, Ancient Aliens 291 episodes, Ancient Aliens first air date, Ancient Aliens trailer, Ancient Aliens Documentary, Ancient Aliens Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Clotworthy"
+     },
+     {
+      "@type": "Person",
+      "name": "Giorgio A. Tsoukalos"
+     },
+     {
+      "@type": "Person",
+      "name": "Ariel Bar Tzadok"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Young"
+     },
+     {
+      "@type": "Person",
+      "name": "David Childress"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Ancient Aliens (2010) is a Documentary and Mystery TV series. Explore its story: Did intelligent beings from outer space visit Earth…, cast, and 22 seasons.",
+    "genre": [
+     "Documentary",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vBk9KQW01pJJfn3wAL2MJgTMch1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=32608",
+    "name": "Ancient Aliens",
+    "numberOfEpisodes": 291,
+    "numberOfSeasons": 22,
+    "startDate": "2010-04-20",
+    "url": "https://flickatlas.co.uk/show?id=32608"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ancient Aliens (2010)</h1>\n<p class=\"ssr-lead\">Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 April 2010</li><li>Seasons: 22 · Episodes: 291</li><li>Created by: Kevin Burns</li><li>Genres: Documentary, Mystery, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.1/10 (328 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Clotworthy as Narrator (voice)</li><li>Giorgio A. Tsoukalos as Self</li><li>Ariel Bar Tzadok as Self</li><li>Jonathan Young as Self</li><li>David Childress as Self</li><li>Erich von Däniken as Self</li><li>Linda Moulton Howe as Self</li><li>David Wilcock as Self</li><li>George Noory as Self</li><li>Philip Coppens as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Discovery+, Discovery+ Amazon Channel</li></ul>\n</article>",
+   "t": "Ancient Aliens (2010) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2010"
+  },
+  "tv:40008": {
+   "d": "Hannibal (2013) is a Drama and Crime TV series. Explore its story: Both a gift and a curse, Graham has the extraordinary…, cast, 3 seasons, and 39 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/mCwQJqyuCFlbFyJR5sWg3PqtHEN.jpg",
+   "industry": "world",
+   "k": "Hannibal, Hannibal TV series, Hannibal cast, Hannibal story, Hannibal seasons, Hannibal episodes, Hannibal season 3, Hannibal 39 episodes, Hannibal first air date, Hannibal Drama, Hannibal Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mads Mikkelsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Dancy"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Caroline Dhavernas"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Anderson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3133,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Hannibal (2013) is a Drama and Crime TV series. Explore its story: Both a gift and a curse, Graham has the extraordinary…, cast, 3 seasons, and 39 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mCwQJqyuCFlbFyJR5sWg3PqtHEN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=40008",
+    "name": "Hannibal",
+    "numberOfEpisodes": 39,
+    "numberOfSeasons": 3,
+    "startDate": "2013-04-04",
+    "url": "https://flickatlas.co.uk/show?id=40008"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hannibal (2013)</h1>\n<p class=\"ssr-lead\">Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 April 2013</li><li>Seasons: 3 · Episodes: 39</li><li>Created by: Bryan Fuller</li><li>Genres: Drama, Crime</li><li>TMDB rating: 8.3/10 (3133 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mads Mikkelsen as Dr. Hannibal Lecter</li><li>Hugh Dancy as Will Graham</li><li>Laurence Fishburne as Jack Crawford</li><li>Caroline Dhavernas as Dr. Alana Bloom</li><li>Gillian Anderson as Dr. Bedelia Du Maurier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Philo, Netflix Standard with Ads, Amazon Prime Video with Ads</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Hannibal (2013) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2013"
+  },
+  "tv:4608": {
+   "d": "30 Rock (2006) is a Comedy TV series. Explore its story: Liz Lemon, the head writer for a late-night TV…, cast, 7 seasons, 138 episodes, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+   "industry": "world",
+   "k": "30 Rock, 30 Rock TV series, 30 Rock cast, 30 Rock story, 30 Rock seasons, 30 Rock episodes, 30 Rock season 7, 30 Rock 138 episodes, 30 Rock first air date, 30 Rock Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tina Fey"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracy Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Krakowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack McBrayer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 875,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "30 Rock (2006) is a Comedy TV series. Explore its story: Liz Lemon, the head writer for a late-night TV…, cast, 7 seasons, 138 episodes, and TMDB rating 7.5/10.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=4608",
+    "name": "30 Rock",
+    "numberOfEpisodes": 138,
+    "numberOfSeasons": 7,
+    "startDate": "2006-10-11",
+    "url": "https://flickatlas.co.uk/show?id=4608"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>30 Rock (2006)</h1>\n<p class=\"ssr-lead\">Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 October 2006</li><li>Seasons: 7 · Episodes: 138</li><li>Created by: Tina Fey</li><li>Genres: Comedy</li><li>TMDB rating: 7.5/10 (875 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tina Fey as Liz Lemon</li><li>Alec Baldwin as Jack Donaghy</li><li>Tracy Morgan as Tracy Jordan</li><li>Jane Krakowski as Jenna Maroney</li><li>Jack McBrayer as Kenneth Parcell</li><li>Scott Adsit as Pete Hornberger</li><li>Judah Friedlander as Frank Rossitano</li><li>Keith Powell as James &#x27;Toofer&#x27; Spurlock</li><li>Maulik Pancholy as Jonathan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li></ul>\n</article>",
+   "t": "30 Rock (2006) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2006"
+  },
+  "tv:60708": {
+   "d": "Gotham (2014) is a Drama and Crime TV series. Explore its story: Everyone knows the name Commissioner Gordon. He is…, cast, 5 seasons, and 100 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+   "industry": "world",
+   "k": "Gotham, Gotham TV series, Gotham cast, Gotham story, Gotham seasons, Gotham episodes, Gotham season 5, Gotham 100 episodes, Gotham first air date, Gotham trailer, Gotham Drama, Gotham Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben McKenzie"
+     },
+     {
+      "@type": "Person",
+      "name": "Donal Logue"
+     },
+     {
+      "@type": "Person",
+      "name": "David Mazouz"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Pertwee"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Lord Taylor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3843,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Gotham (2014) is a Drama and Crime TV series. Explore its story: Everyone knows the name Commissioner Gordon. He is…, cast, 5 seasons, and 100 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=60708",
+    "name": "Gotham",
+    "numberOfEpisodes": 100,
+    "numberOfSeasons": 5,
+    "startDate": "2014-09-22",
+    "url": "https://flickatlas.co.uk/show?id=60708"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gotham (2014)</h1>\n<p class=\"ssr-lead\">Everyone knows the name Commissioner Gordon. He is one of the crime world&#x27;s greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon&#x27;s story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world&#x27;s most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 September 2014</li><li>Seasons: 5 · Episodes: 100</li><li>Created by: Bruno Heller</li><li>Genres: Drama, Crime, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.6/10 (3843 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben McKenzie as James &#x27;Jim&#x27; Gordon</li><li>Donal Logue as Harvey Bullock</li><li>David Mazouz as Bruce Wayne</li><li>Sean Pertwee as Alfred Pennyworth</li><li>Robin Lord Taylor as Oswald Cobblepot</li><li>Erin Richards as Barbara Kean</li><li>Camren Bicondova as Selina Kyle</li><li>Cory Michael Smith as Edward Nygma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
+   "t": "Gotham (2014) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2014"
+  },
+  "tv:87108": {
+   "d": "Chernobyl (2019) is a Drama TV series. Explore its story: The true story of one of the worst man-made…, cast, 1 season, 5 episodes, and TMDB rating 8.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+   "industry": "world",
+   "k": "Chernobyl, Chernobyl TV series, Chernobyl cast, Chernobyl story, Chernobyl seasons, Chernobyl episodes, Chernobyl season 1, Chernobyl 5 episodes, Chernobyl first air date, Chernobyl trailer, Chernobyl Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jared Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Ritter"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessie Buckley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8537,
+     "ratingValue": 8.7,
+     "worstRating": 0
+    },
+    "description": "Chernobyl (2019) is a Drama TV series. Explore its story: The true story of one of the worst man-made…, cast, 1 season, 5 episodes, and TMDB rating 8.7/10.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=87108",
+    "name": "Chernobyl",
+    "numberOfEpisodes": 5,
+    "numberOfSeasons": 1,
+    "startDate": "2019-05-06",
+    "url": "https://flickatlas.co.uk/show?id=87108"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chernobyl (2019)</h1>\n<p class=\"ssr-lead\">The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 May 2019</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Craig Mazin</li><li>Genres: Drama</li><li>TMDB rating: 8.7/10 (8537 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jared Harris as Valery Legasov</li><li>Stellan Skarsgård as Boris Shcherbina</li><li>Emily Watson as Ulana Khomyuk</li><li>Paul Ritter as Anatoly Dyatlov</li><li>Jessie Buckley as Lyudmilla Ignatenko</li><li>Adam Nagaitis as Vasily Ignatenko</li><li>Sam Troughton as Alexandr Akimov</li><li>Robert Emms as Leonid Toptunov</li><li>Con O&#x27;Neill as Viktor Bryukhanov</li><li>Adrian Rawlins as Nikolai Fomin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Chernobyl (2019) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2019"
   }
  }
 }

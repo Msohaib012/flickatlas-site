@@ -1,8 +1,8 @@
 {
  "bucket": "41",
- "count": 8,
+ "count": 16,
  "titles": {
-  "10741": {
+  "movie:10741": {
    "backdrop_path": "/3ivhTBoGtSRcxqsTdXHHkYFLxO2.jpg",
    "budget": 0,
    "cast": [
@@ -172,7 +172,7 @@
    "vote_average": 6.421,
    "vote_count": 439
   },
-  "11141": {
+  "movie:11141": {
    "backdrop_path": "/ktvFYpvolLOzUzWV7tXt6Mz0jwH.jpg",
    "budget": 28000000,
    "cast": [
@@ -292,7 +292,7 @@
    "vote_average": 5.829,
    "vote_count": 476
   },
-  "16241": {
+  "movie:16241": {
    "backdrop_path": "/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg",
    "budget": 12000000,
    "cast": [
@@ -489,7 +489,7 @@
    "vote_average": 6.724,
    "vote_count": 479
   },
-  "16441": {
+  "movie:16441": {
    "backdrop_path": "/zHTnieWaWlObW2wLQO3ePkwHlom.jpg",
    "budget": 8000000,
    "cast": [
@@ -757,7 +757,7 @@
    "vote_average": 6.313,
    "vote_count": 491
   },
-  "184341": {
+  "movie:184341": {
    "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
    "budget": 20000000,
    "cast": [
@@ -873,7 +873,7 @@
    "vote_average": 6.598,
    "vote_count": 470
   },
-  "46441": {
+  "movie:46441": {
    "backdrop_path": "/tGpJAfSwqpXjARSRrAWUiouUSnr.jpg",
    "budget": 0,
    "cast": [
@@ -1024,7 +1024,7 @@
    "vote_average": 5.518,
    "vote_count": 477
   },
-  "536841": {
+  "movie:536841": {
    "backdrop_path": "/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",
    "budget": 0,
    "cast": [
@@ -1144,7 +1144,7 @@
    "vote_average": 7.403,
    "vote_count": 455
   },
-  "740441": {
+  "movie:740441": {
    "backdrop_path": "/mLnbZF4B2ZUYkrbGZL5RGkfe0n4.jpg",
    "budget": 0,
    "cast": [
@@ -1251,6 +1251,1449 @@
    "type": "movie",
    "vote_average": 7.268,
    "vote_count": 436
+  },
+  "tv:131041": {
+   "backdrop_path": "/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoichi Isagi (voice)",
+     "n": "Kazuki Ura"
+    },
+    {
+     "c": "Meguru Bachira (voice)",
+     "n": "Tasuku Kaito"
+    },
+    {
+     "c": "Rensuke Kunigami (voice)",
+     "n": "Yuki Ono"
+    },
+    {
+     "c": "Hyoma Chigiri (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Shoei Baro (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Seishiro Nagi (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Jingo Raichi (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2022-10-09",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 131041,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High school soccer players from across Japan gather for a controversial project designed to create the best — and most egoistic — striker in the world.",
+   "popularity": 26.5021,
+   "poster_path": "/fcKH1NQzoTXiYO1OrhaFFwTKhBp.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-10-09",
+     "episode_count": 41,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-10-09",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "BLUE LOCK",
+   "trailer": {
+    "key": "IVsII3dLbWc",
+    "name": "Now Streaming | Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.293,
+   "vote_count": 690
+  },
+  "tv:141": {
+   "backdrop_path": "/5U7NIuRK836GutAlo7TLPfmVtGW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Malone",
+     "n": "Ted Danson"
+    },
+    {
+     "c": "Rebecca Howe",
+     "n": "Kirstie Alley"
+    },
+    {
+     "c": "Carla Tortelli",
+     "n": "Rhea Perlman"
+    },
+    {
+     "c": "Norm Peterson",
+     "n": "George Wendt"
+    },
+    {
+     "c": "Cliff Clavin",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Woody Boyd",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Frasier Crane",
+     "n": "Kelsey Grammer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Les Charles",
+    "James Burrows",
+    "Glen Charles"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1982-09-30",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 141,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 269,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story about a blue-collar Boston bar run by former sports star Sam Malone and the quirky and wonderful people who worked and drank there.",
+   "popularity": 69.2379,
+   "poster_path": "/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-11-08",
+     "episode_count": 26,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1982-09-30",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1983-09-29",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1984-09-27",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1985-09-26",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1986-09-25",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1987-09-24",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1988-10-27",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1989-09-21",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1990-09-20",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1991-09-19",
+     "episode_count": 25,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1992-09-24",
+     "episode_count": 25,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Where everybody knows your name.",
+   "title": "Cheers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.574,
+   "vote_count": 731
+  },
+  "tv:157741": {
+   "backdrop_path": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommy Norris",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Cami Miller",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Gallino",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Angela Norris",
+     "n": "Ali Larter"
+    },
+    {
+     "c": "Cooper Norris",
+     "n": "Jacob Lofland"
+    },
+    {
+     "c": "Ainsley Norris",
+     "n": "Michelle Randolph"
+    },
+    {
+     "c": "Ariana Medina",
+     "n": "Paulina Chávez"
+    },
+    {
+     "c": "Rebecca Falcone",
+     "n": "Kayla Wallace"
+    },
+    {
+     "c": "Sheriff Walt Joeberg",
+     "n": "Mark Collie"
+    },
+    {
+     "c": "Dale Bradley",
+     "n": "James Jordan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+",
+   "created_by": [
+    "Taylor Sheridan",
+    "Christian Wallace"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-11-17",
+   "genres": [
+    "Drama"
+   ],
+   "id": 157741,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+   "popularity": 45.41,
+   "poster_path": "/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-11-14",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-11-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-11-16",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Landman",
+   "trailer": {
+    "key": "wXzhEhCOlnM",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.208,
+   "vote_count": 674
+  },
+  "tv:21641": {
+   "backdrop_path": "/u1jUHmL3oKM48HVGmwrscdRK5hy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Teddy Duncan",
+     "n": "Bridgit Mendler"
+    },
+    {
+     "c": "Amy Duncan",
+     "n": "Leigh-Allyn Baker"
+    },
+    {
+     "c": "Gabe Duncan",
+     "n": "Bradley Steven Perry"
+    },
+    {
+     "c": "Charlie Duncan",
+     "n": "Mia Talerico"
+    },
+    {
+     "c": "Bob Duncan",
+     "n": "Eric Allan Kramer"
+    },
+    {
+     "c": "PJ Duncan",
+     "n": "Jason Dolley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Drew Vaupen",
+    "Phil Baker"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23,
+    49,
+    30
+   ],
+   "first_air_date": "2010-04-04",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 21641,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 99,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Duncans a European-American family in Colorado is adjusting to the surprise birth of their fourth child, Charlie. When parents Amy and Bob return to work they put their latest addition in the care of her three older siblings, PJ, Teddy, and Gabe. Teens PJ and Teddy and tween brother Gabe are typical kids -- that is, until their mother has another baby. The arrival of their new sister completely upends the entire household. When their mother heads back to work after Charlie's birth, it's up to the kids and their dad to keep the home fires burning -- and to keep Charlie out of trouble as she learns to sit up, crawl, walk and run. Teddy, as the older sister, makes a personalized video diary for Charlie, in each episode adding a nugget of wisdom for her baby sibling.",
+   "popularity": 34.5907,
+   "poster_path": "/cyYwkXW1vd3YpiFVlb7y0hgIzuu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-02",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-04-04",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-02-21",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-05-06",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-04-28",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Good Luck Charlie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.881,
+   "vote_count": 461
+  },
+  "tv:341": {
+   "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Justin Walker",
+     "n": "Dave Annable"
+    },
+    {
+     "c": "Nora Walker",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Kitty Walker",
+     "n": "Calista Flockhart"
+    },
+    {
+     "c": "Sarah Walker",
+     "n": "Rachel Griffiths"
+    },
+    {
+     "c": "Kevin Walker",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Saul Holden",
+     "n": "Ron Rifkin"
+    },
+    {
+     "c": "Scotty Wandell",
+     "n": "Luke Macfarlane"
+    },
+    {
+     "c": "Luc Laurent",
+     "n": "Gilles Marini"
+    },
+    {
+     "c": "Holly Harper",
+     "n": "Patricia Wettig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Jon Robin Baitz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    41,
+    43
+   ],
+   "first_air_date": "2006-09-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 341,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 109,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The close-knit Walker family deals with struggles and triumphs.",
+   "popularity": 46.8146,
+   "poster_path": "/u49srJvTHKlgdakN4SQzFysfBlu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-09-24",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-09-30",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Family is everything.",
+   "title": "Brothers and Sisters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 207
+  },
+  "tv:34141": {
+   "backdrop_path": "/p0dpg6vwRbGIoWB7hS7AqcqAkYi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tyki Mikk (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Komui Lee (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Allen Walker (voice)",
+     "n": "Sanae Kobayashi"
+    },
+    {
+     "c": "Lavi (voice)",
+     "n": "Kenichi Suzumura"
+    },
+    {
+     "c": "Bookman (voice)",
+     "n": "Takeshi Aono"
+    },
+    {
+     "c": "Millennium Earl (voice)",
+     "n": "Junpei Takiguchi"
+    },
+    {
+     "c": "Skin Boric (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Miranda Lotto (voice)",
+     "n": "Megumi Toyoguchi"
+    },
+    {
+     "c": "Yu Kanda (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Aleister Crowley III (voice)",
+     "n": "Mitsuo Iwata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2006-10-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 34141,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Darkness is moving in, and young exorcist Allen Walker is humanity's greatest hope against the wicked forces conspiring to bring civilization to its knees. Akuma – cruel spirits born of tragedy and lost souls – lurk in every shadow, willing and eager to do the bidding of their leader, the dread Millennium Earl. With an eye cursed to see evil in its truest form and blessed with an arm to slay soul-devouring demons, Allen stands ready to confront the gathering evil. Should he fail, Innocence will be lost forever. The war to decide the fate of mankind has begun – and the carnage will be endless.",
+   "popularity": 25.5451,
+   "poster_path": "/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Animax Amazon Channel"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-10-03",
+     "episode_count": 51,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-10-02",
+     "episode_count": 52,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "D.Gray-man",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 173
+  },
+  "tv:58841": {
+   "backdrop_path": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hank Voight",
+     "n": "Jason Beghe"
+    },
+    {
+     "c": "Kim Burgess",
+     "n": "Marina Squerciati"
+    },
+    {
+     "c": "Adam Ruzek",
+     "n": "Patrick John Flueger"
+    },
+    {
+     "c": "Officer Dante Torres",
+     "n": "Benjamin Levy Aguilar"
+    },
+    {
+     "c": "Officer Eva Imani",
+     "n": "Arienne Mandi"
+    },
+    {
+     "c": "Trudy Platt",
+     "n": "Amy Morton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Wolf",
+    "Matt Olmstead"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-01-08",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 58841,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 271,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+   "popularity": 124.8396,
+   "poster_path": "/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-01-08",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-09-30",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-11-11",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-01-17",
+     "episode_count": 13,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2024-09-25",
+     "episode_count": 22,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 21,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 9,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Welcome home.",
+   "title": "Chicago P.D.",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.42,
+   "vote_count": 2653
+  },
+  "tv:59941": {
+   "backdrop_path": "/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Jimmy Fallon"
+    },
+    {
+     "c": "Self - Announcer",
+     "n": "Steve Higgins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [],
+   "director": [
+    "Dave Diomedi"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2014-02-17",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 59941,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 2441,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+   "popularity": 346.8276,
+   "poster_path": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+     "name": "NBC",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-02-17",
+     "episode_count": 191,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-01-05",
+     "episode_count": 263,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-01-04",
+     "episode_count": 144,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 208,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 190,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 194,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-09-23",
+     "episode_count": 201,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 197,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-09-19",
+     "episode_count": 194,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 132,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2023-10-01",
+     "episode_count": 182,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2024-09-22",
+     "episode_count": 163,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2025-09-22",
+     "episode_count": 155,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2026-09-21",
+     "episode_count": 28,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Tonight's just getting started.",
+   "title": "The Tonight Show Starring Jimmy Fallon",
+   "trailer": {
+    "key": "q-0YafsWK_M",
+    "name": "Trailer (ABC2)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.8,
+   "vote_count": 401
   }
  }
 }

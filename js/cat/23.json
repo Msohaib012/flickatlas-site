@@ -1,8 +1,8 @@
 {
  "bucket": "23",
- "count": 7,
+ "count": 22,
  "titles": {
-  "11223": {
+  "movie:11223": {
    "backdrop_path": "/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
    "budget": 4500000,
    "cast": [
@@ -108,7 +108,7 @@
    "vote_average": 6.756,
    "vote_count": 485
   },
-  "14123": {
+  "movie:14123": {
    "backdrop_path": "/A1CCx5tX8owG0CMQH0fvMHpkk6m.jpg",
    "budget": 20000000,
    "cast": [
@@ -260,7 +260,7 @@
    "vote_average": 5.7,
    "vote_count": 484
   },
-  "20123": {
+  "movie:20123": {
    "backdrop_path": "/kWNvrV0lZY1kYGo50hIUq4n76vC.jpg",
    "budget": 0,
    "cast": [
@@ -363,7 +363,7 @@
    "vote_average": 7.616,
    "vote_count": 463
   },
-  "369523": {
+  "movie:369523": {
    "backdrop_path": "/bMJ0h7EiLxtUq8Bd6KeZeQkV9Dn.jpg",
    "budget": 0,
    "cast": [
@@ -474,7 +474,7 @@
    "vote_average": 7.1,
    "vote_count": 493
   },
-  "808023": {
+  "movie:808023": {
    "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
    "budget": 0,
    "cast": [
@@ -582,7 +582,7 @@
    "vote_average": 5.925,
    "vote_count": 464
   },
-  "855823": {
+  "movie:855823": {
    "backdrop_path": "/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
    "budget": 0,
    "cast": [
@@ -693,7 +693,7 @@
    "vote_average": 7.285,
    "vote_count": 492
   },
-  "9623": {
+  "movie:9623": {
    "backdrop_path": "/g0CGOIl3H1FDsqHpPzlfkhXAtv8.jpg",
    "budget": 44000000,
    "cast": [
@@ -813,6 +813,2145 @@
    "type": "movie",
    "vote_average": 5.716,
    "vote_count": 462
+  },
+  "tv:1423": {
+   "backdrop_path": "/k1UpU2cfa4PbDUBnJtr43TpdNBg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ray Donovan",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Terry Donovan",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Bunchy Donovan",
+     "n": "Dash Mihok"
+    },
+    {
+     "c": "Daryll",
+     "n": "Pooch Hall"
+    },
+    {
+     "c": "Bridget Donovan",
+     "n": "Kerris Dorsey"
+    },
+    {
+     "c": "Jacob 'Smitty' Smith",
+     "n": "Graham Rogers"
+    },
+    {
+     "c": "Mickey Donovan",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Detective Perry",
+     "n": "Quincy Tyler Bernstine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Showtime",
+   "created_by": [
+    "Ann Biderman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-06-30",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1423,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 82,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the sprawling mecca of the rich and famous, Ray Donovan does the dirty work for LA's top power players, and makes their problems disappear. His father's unexpected release from prison sets off a chain of events that shakes the Donovan family to its core.",
+   "popularity": 34.0462,
+   "poster_path": "/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-06-30",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-07-13",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-07-12",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-06-26",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-08-06",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-10-28",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-11-17",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Some damage can't be controlled.",
+   "title": "Ray Donovan",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.498,
+   "vote_count": 879
+  },
+  "tv:18123": {
+   "backdrop_path": "/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scooby-Doo / Fred Jones (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Daphne Blake (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "Mindy Cohn"
+    },
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Matthew Lillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Tony Cervone",
+    "Spike Brandt",
+    "Mitch Watson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2010-07-12",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 18123,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+   "popularity": 27.089,
+   "poster_path": "/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-07-12",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-07-30",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The most hauntedest place on Earth.",
+   "title": "Scooby-Doo! Mystery Incorporated",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.232,
+   "vote_count": 1148
+  },
+  "tv:1823": {
+   "backdrop_path": "/2XtfGULDOvBiPByLscc9UEqrf0z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Merril Stubing",
+     "n": "Gavin MacLeod"
+    },
+    {
+     "c": "Adam Bricker",
+     "n": "Bernie Kopell"
+    },
+    {
+     "c": "Isaac Washington",
+     "n": "Ted Lange"
+    },
+    {
+     "c": "Julie McCoy",
+     "n": "Lauren Tewes"
+    },
+    {
+     "c": "Vicki Stubing",
+     "n": "Jill Whelan"
+    },
+    {
+     "c": "Ashley Covington Evans",
+     "n": "Ted McGinley"
+    },
+    {
+     "c": "Emily Stubing",
+     "n": "Marion Ross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "ABC",
+   "created_by": [
+    "Aaron Spelling",
+    "Wilford Lloyd Baumes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "1977-09-24",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1823,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 251,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the \"Love Boat\", where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.",
+   "popularity": 56.029,
+   "poster_path": "/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "REELZ+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wmnIsgoR3OISzFKW40EuikKbLhx.png",
+     "name": "REELZ+ Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1977-09-24",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1978-09-16",
+     "episode_count": 27,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1979-09-15",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1980-10-25",
+     "episode_count": 28,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1981-10-10",
+     "episode_count": 31,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1982-10-02",
+     "episode_count": 29,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1983-10-01",
+     "episode_count": 27,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1984-09-22",
+     "episode_count": 27,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1985-09-28",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1986-11-21",
+     "episode_count": 4,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You Say You Can't Score on Shore? On This Cruise... You Can't Lose!",
+   "title": "The Love Boat",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.25,
+   "vote_count": 208
+  },
+  "tv:250923": {
+   "backdrop_path": "/77sozyYenyY1JraK6YzLfDlTMpp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joanne Williams",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Noah Roklov",
+     "n": "Adam Brody"
+    },
+    {
+     "c": "Morgan Williams",
+     "n": "Justine Lupe"
+    },
+    {
+     "c": "Sasha Roklov",
+     "n": "Timothy Simons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Erin Foster"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-09-26",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 250923,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
+   "popularity": 24.7751,
+   "poster_path": "/1RNtqMeSNNBkXqK8WPUMf72vGrt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-09-26",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-10-23",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-10-22",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Making moves.",
+   "title": "Nobody Wants This",
+   "trailer": {
+    "key": "Xn2PsXD8m4A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.296,
+   "vote_count": 323
+  },
+  "tv:2723": {
+   "backdrop_path": "/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samurai Jack (voice)",
+     "n": "Phil LaMarr"
+    },
+    {
+     "c": "Aku (voice)",
+     "n": "Greg Baldwin"
+    },
+    {
+     "c": "Ashi (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "The High Priestess (voice)",
+     "n": "Grey DeLisle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Genndy Tartakovsky"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2001-08-10",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Animation"
+   ],
+   "id": 2723,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network",
+    "Adult Swim"
+   ],
+   "number_of_episodes": 58,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A great warrior is displaced to the distant future by the evil shape-shifting wizard Aku. The world has become a bleak place under the rule of Aku, segregated into fantastic tribes and ruled by Aku's evil robot warlords. Jack travels this foreign landscape in search of a time portal that can return him to his home time so he can \"undo the future that is Aku!\".",
+   "popularity": 31.7511,
+   "poster_path": "/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-07-01",
+     "episode_count": 20,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-08-10",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-03-01",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-10-18",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-06-14",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-03-11",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Death is failure.",
+   "title": "Samurai Jack",
+   "trailer": {
+    "key": "VSrv_n4tw7w",
+    "name": "Samurai Jack Season 5 Trailer | Samurai Jack | Adult Swim",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.416,
+   "vote_count": 953
+  },
+  "tv:33623": {
+   "backdrop_path": "/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Iron Man (voice)",
+     "n": "Eric Loomis"
+    },
+    {
+     "c": "Captain America (voice)",
+     "n": "Brian Bloom"
+    },
+    {
+     "c": "Thor (voice)",
+     "n": "Rick D. Wasserman"
+    },
+    {
+     "c": "Wasp (voice)",
+     "n": "Colleen O'Shaughnessey"
+    },
+    {
+     "c": "Hawkeye (voice)",
+     "n": "Chris Cox"
+    },
+    {
+     "c": "Hulk (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Ms. Marvel (voice)",
+     "n": "Jennifer Hale"
+    },
+    {
+     "c": "Black Panther (voice)",
+     "n": "James C. Mathis III"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney XD",
+   "created_by": [
+    "Joshua Fine",
+    "Ciro Nieli",
+    "Christopher L. Yost"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2010-10-20",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 33623,
+   "industry": "world",
+   "networks": [
+    "Disney XD"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The most powerful villains on the planet escape from prison. However, none of the superheroes can stop them without help, not even S.H.I.E.L.D. The Avengers then join forces to fight evil, and discover that as a group they are stronger.",
+   "popularity": 25.7434,
+   "poster_path": "/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-10-20",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-04-01",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Avengers: Earth's Mightiest Heroes",
+   "trailer": {
+    "key": "0oRwpy66NXc",
+    "name": "The Avengers: Earth's Mightiest Heroes! - Trailer - Coming Fall 2010",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 803
+  },
+  "tv:46923": {
+   "backdrop_path": "/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DI Ruth Calder",
+     "n": "Ashley Jensen"
+    },
+    {
+     "c": "DI Alison 'Tosh' McIntosh",
+     "n": "Alison O'Donnell"
+    },
+    {
+     "c": "DC Sandy Wilson",
+     "n": "Steven Robertson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "BBC One",
+   "created_by": [
+    "Ann Cleaves"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-03-10",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 46923,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Four"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+   "popularity": 52.261,
+   "poster_path": "/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-09-18",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-03-10",
+     "episode_count": 2,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-03-11",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-01-15",
+     "episode_count": 6,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-02-13",
+     "episode_count": 6,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-02-12",
+     "episode_count": 6,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-10-20",
+     "episode_count": 6,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2022-08-10",
+     "episode_count": 6,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2023-11-01",
+     "episode_count": 6,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2024-11-06",
+     "episode_count": 6,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2025-11-05",
+     "episode_count": 6,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2026-11-12",
+     "episode_count": 4,
+     "name": "Series 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Murder is only a ferry ride away.",
+   "title": "Shetland",
+   "trailer": {
+    "key": "6bvOxd4183E",
+    "name": "Shetland Trailer - BBC One",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 218
+  },
+  "tv:61223": {
+   "backdrop_path": "/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tatsumi (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Akame (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Mine (voice)",
+     "n": "Yukari Tamura"
+    },
+    {
+     "c": "Leone (voice)",
+     "n": "Yuu Asakawa"
+    },
+    {
+     "c": "Daidara (voice)",
+     "n": "Anri Katsu"
+    },
+    {
+     "c": "Kurome (voice)",
+     "n": "Ayaka Ohashi"
+    },
+    {
+     "c": "Bols (voice)",
+     "n": "Eiji Takemoto"
+    },
+    {
+     "c": "Suzuki (voice)",
+     "n": "Eriko Matsui"
+    },
+    {
+     "c": "Nyau (voice)",
+     "n": "Hitomi Nabatame"
+    },
+    {
+     "c": "Budo (voice)",
+     "n": "Hozumi Goda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2014-07-07",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 61223,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Young Tatsumi travels to the capital of the Empire in order to earn money for his starving people and encounters a world of unimaginable depravity, dominated by the ruthless Prime Minister who controls the child Emperor. Tatsumi is recruited by Night Raid, a group of assassins dedicated to eliminating corruption by mercilessly killing officials and privileged nobles.",
+   "popularity": 24.8056,
+   "poster_path": "/rMpvMbSlPbm5QYfFem9fx2Jnttq.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-07-07",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-07-07",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "\"If you can't find a reason to fight, then you shouldn't be fighting.\"",
+   "title": "Akame ga Kill!",
+   "trailer": {
+    "key": "sCGWxQuSoDU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.225,
+   "vote_count": 1283
+  },
+  "tv:61923": {
+   "backdrop_path": "/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Star Butterfly (voice)",
+     "n": "Eden Sher"
+    },
+    {
+     "c": "Marco Diaz (voice)",
+     "n": "Adam McArthur"
+    },
+    {
+     "c": "Ludo / King River Butterfly (voice)",
+     "n": "Alan Tudyk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney XD",
+   "created_by": [
+    "Daron Nefcy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2015-01-18",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 61923,
+   "industry": "world",
+   "networks": [
+    "Disney XD",
+    "Disney Channel"
+   ],
+   "number_of_episodes": 140,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
+   "popularity": 759.7253,
+   "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-01-18",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-07-11",
+     "episode_count": 41,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-07-15",
+     "episode_count": 38,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-03-10",
+     "episode_count": 37,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Star vs. the Forces of Evil",
+   "trailer": {
+    "key": "fnEDKISvZZ0",
+    "name": "The Battle For Mewni Trailer | Star vs. the Forces of Evil | Disney XD",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 1542
+  },
+  "tv:62223": {
+   "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "James Corden"
+    },
+    {
+     "c": "Self - Bandleader",
+     "n": "Reggie Watts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "David Letterman",
+    "Peter Lassally"
+   ],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2015-03-23",
+   "genres": [
+    "Talk"
+   ],
+   "id": 62223,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 1198,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+   "popularity": 105.7233,
+   "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-03-29",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-03-23",
+     "episode_count": 164,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-03-28",
+     "episode_count": 207,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-09-05",
+     "episode_count": 146,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-09-03",
+     "episode_count": 146,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-09-02",
+     "episode_count": 136,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-09-07",
+     "episode_count": 153,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-09-07",
+     "episode_count": 144,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2022-09-06",
+     "episode_count": 102,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Late Late Show with James Corden",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.133,
+   "vote_count": 150
+  },
+  "tv:63623": {
+   "backdrop_path": "/aiXDRO3jglLdpkBjTJTJ1o8yQbL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DJ Tanner-Fuller",
+     "n": "Candace Cameron Bure"
+    },
+    {
+     "c": "Stephanie Tanner",
+     "n": "Jodie Sweetin"
+    },
+    {
+     "c": "Kimmy Gibbler",
+     "n": "Andrea Barber"
+    },
+    {
+     "c": "Max Fuller",
+     "n": "Elias Harger"
+    },
+    {
+     "c": "Ramona Gibbler",
+     "n": "Soni Bringas"
+    },
+    {
+     "c": "Jackson Fuller",
+     "n": "Michael Campion"
+    },
+    {
+     "c": "Tommy Fuller Jr.",
+     "n": "Fox Messitt"
+    },
+    {
+     "c": "Fernando",
+     "n": "Juan Pablo Di Pace"
+    },
+    {
+     "c": "Tommy Fuller Jr.",
+     "n": "Dashiell Messitt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [
+    "Jeff Franklin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-02-26",
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 63623,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 75,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Tanner family's adventures continue as DJ Tanner-Fuller shares a home with her sister Stephanie and friend Kimmy who help raise her three boys.",
+   "popularity": 26.2089,
+   "poster_path": "/n4ZZB471d2UueUFEaOWnKetCxnY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-12-29",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-02-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-12-09",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-09-22",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-12-14",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-12-06",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Life is fuller with family.",
+   "title": "Fuller House",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 604
+  },
+  "tv:70523": {
+   "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonas Kahnwald",
+     "n": "Louis Hofmann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Baran bo Odar",
+    "Jantje Friese"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-12-01",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 70523,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+   "popularity": 38.5318,
+   "poster_path": "/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-12-11",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-12-01",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-06-21",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-06-27",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "Everything is connected.",
+   "title": "Dark",
+   "trailer": {
+    "key": "ESEUoa-mz2c",
+    "name": "Teaser [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.429,
+   "vote_count": 7998
+  },
+  "tv:73223": {
+   "backdrop_path": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Asta (voice)",
+     "n": "Gakuto Kajiwara"
+    },
+    {
+     "c": "Yuno (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Noelle Silva (voice)",
+     "n": "Kana Yuuki"
+    },
+    {
+     "c": "Yami Sukehiro (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Magna Swing (voice)",
+     "n": "Genki Muro"
+    },
+    {
+     "c": "Luck Voltia (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Finral Roulacase (voice)",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "Gauche Adlai (voice)",
+     "n": "Satoshi Hino"
+    },
+    {
+     "c": "Charmy Papittoson (voice)",
+     "n": "Kiyono Yasuno"
+    },
+    {
+     "c": "Vanessa Enoteca (voice)",
+     "n": "Nana Mizuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2017-10-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 73223,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 196,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+   "popularity": 46.8599,
+   "poster_path": "/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-11-27",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-10-03",
+     "episode_count": 170,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-03",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Black Clover",
+   "trailer": {
+    "key": "QwNWY6z93O4",
+    "name": "Black Clover Season 1 - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.533,
+   "vote_count": 2315
+  },
+  "tv:81723": {
+   "backdrop_path": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bertha Russell",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "George Russell",
+     "n": "Morgan Spector"
+    },
+    {
+     "c": "Marian Brook",
+     "n": "Louisa Jacobson"
+    },
+    {
+     "c": "Peggy Scott",
+     "n": "Denée Benton"
+    },
+    {
+     "c": "Gladys Russell",
+     "n": "Taissa Farmiga"
+    },
+    {
+     "c": "Larry Russell",
+     "n": "Harry Richardson"
+    },
+    {
+     "c": "Oscar van Rhijn",
+     "n": "Blake Ritson"
+    },
+    {
+     "c": "Alfred Bannister",
+     "n": "Simon Jones"
+    },
+    {
+     "c": "Church",
+     "n": "Jack Gilpin"
+    },
+    {
+     "c": "Ada Brook",
+     "n": "Cynthia Nixon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Julian Fellowes"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-01-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 81723,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 33,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+   "popularity": 48.8324,
+   "poster_path": "/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-03-05",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-01-24",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-10-28",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-06-22",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-11-01",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "What's your family worth?",
+   "title": "The Gilded Age",
+   "trailer": {
+    "key": "wKj1cMz3yfI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 296
+  },
+  "tv:98123": {
+   "backdrop_path": "/Q7AZOhmO9NGO6WRzu0uKh2dbWO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wang Ling (voice)",
+     "n": "Sun Lulu"
+    },
+    {
+     "c": "Sun Rong (voice)",
+     "n": "Qian Chen"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Yin Long"
+    },
+    {
+     "c": "Chen Chao (voice)",
+     "n": "Gu Jiangshan"
+    },
+    {
+     "c": "Zhuo Yi (voice)",
+     "n": "Titus Jin"
+    },
+    {
+     "c": "Wang Zukang (voice)",
+     "n": "Guo Haoran"
+    },
+    {
+     "c": "Tun Tianha (voice)",
+     "n": "Shuai Guan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "bilibili",
+   "created_by": [
+    "Xuan Ku"
+   ],
+   "director": [
+    "Xuan Ku"
+   ],
+   "episode_run_time": [
+    18
+   ],
+   "first_air_date": "2020-01-18",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 98123,
+   "industry": "world",
+   "networks": [
+    "bilibili"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…",
+   "popularity": 34.0555,
+   "poster_path": "/7By0jV3kf9MVvv3X3K8u4mhRUwp.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-04-04",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-01-18",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-10-30",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-10-02",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-12-17",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-12-14",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Daily Life of the Immortal King",
+   "trailer": {
+    "key": "ugUm2Q0FNq8",
+    "name": "When the Main Character Is Overpowered | The Daily Life of the Immortal King | Clip | Netflix Anime",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.338,
+   "vote_count": 732
   }
  }
 }

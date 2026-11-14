@@ -1,8 +1,8 @@
 {
  "bucket": "97",
- "count": 9,
+ "count": 16,
  "titles": {
-  "1043197": {
+  "movie:1043197": {
    "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
    "budget": 0,
    "cast": [
@@ -141,7 +141,7 @@
    "vote_average": 6.679,
    "vote_count": 441
   },
-  "13997": {
+  "movie:13997": {
    "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
    "budget": 32400000,
    "cast": [
@@ -255,7 +255,7 @@
    "vote_average": 6.056,
    "vote_count": 480
   },
-  "19997": {
+  "movie:19997": {
    "backdrop_path": "/ctUWlPJ0jLYkwyXjvofdQjtRdgu.jpg",
    "budget": 1250000,
    "cast": [
@@ -355,7 +355,7 @@
    "vote_average": 6.809,
    "vote_count": 467
   },
-  "36897": {
+  "movie:36897": {
    "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
    "budget": 0,
    "cast": [
@@ -448,7 +448,7 @@
    "vote_average": 6.79,
    "vote_count": 447
   },
-  "377897": {
+  "movie:377897": {
    "backdrop_path": "/bTU64xL4uToTjQZwICPZzMb4yZt.jpg",
    "budget": 0,
    "cast": [
@@ -603,7 +603,7 @@
    "vote_average": 6.99,
    "vote_count": 437
   },
-  "735697": {
+  "movie:735697": {
    "backdrop_path": "/1bBq4sVRqqdVIlg1rTF76rgOYU0.jpg",
    "budget": 4340000,
    "cast": [
@@ -760,7 +760,7 @@
    "vote_average": 6.048,
    "vote_count": 452
   },
-  "79697": {
+  "movie:79697": {
    "backdrop_path": "/ezc6SYtwErbIpBqJUOc5JuPS9N4.jpg",
    "budget": 0,
    "cast": [
@@ -875,7 +875,7 @@
    "vote_average": 5.9,
    "vote_count": 438
   },
-  "986097": {
+  "movie:986097": {
    "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
    "budget": 27000000,
    "cast": [
@@ -1016,7 +1016,7 @@
    "vote_average": 5.57,
    "vote_count": 478
   },
-  "9997": {
+  "movie:9997": {
    "backdrop_path": "/381VJtVELz6gH7NwsLNVeXHIxVp.jpg",
    "budget": 200000,
    "cast": [
@@ -1117,6 +1117,1138 @@
    "type": "movie",
    "vote_average": 6.006,
    "vote_count": 437
+  },
+  "tv:202297": {
+   "backdrop_path": "/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bode Leone",
+     "n": "Max Thieriot"
+    },
+    {
+     "c": "Manny Perez",
+     "n": "Kevin Alejandro"
+    },
+    {
+     "c": "Jake Crawford",
+     "n": "Jordan Calloway"
+    },
+    {
+     "c": "Eve Edwards",
+     "n": "Jules Latimer"
+    },
+    {
+     "c": "CJ Ryan",
+     "n": "Olivia Thirlby"
+    },
+    {
+     "c": "Sharon Leone",
+     "n": "Diane Farr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Joan Rater",
+    "Max Thieriot",
+    "Tony Phelan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-10-07",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 202297,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Seeking redemption and a shortened prison sentence, young convict Bode Donovan joins a firefighting program that returns him to his small Northern California hometown, where he and other inmates work alongside elite firefighters to extinguish massive blazes across the region.",
+   "popularity": 42.2046,
+   "poster_path": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-10-06",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-02-16",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-10-18",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-10-17",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 7,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Face the fire.",
+   "title": "Fire Country",
+   "trailer": {
+    "key": "qEGFgZgUu8s",
+    "name": "Official Trailer (US Only)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.029,
+   "vote_count": 190
+  },
+  "tv:39297": {
+   "backdrop_path": "/m6APcUIeNdFormiiKsGaG8Hdu49.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike Baxter",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Vanessa Baxter",
+     "n": "Nancy Travis"
+    },
+    {
+     "c": "Ed Alzate",
+     "n": "Héctor Elizondo"
+    },
+    {
+     "c": "Kyle Anderson",
+     "n": "Christoph Sanders"
+    },
+    {
+     "c": "Kristin Baxter",
+     "n": "Amanda Fuller"
+    },
+    {
+     "c": "Ryan Vogelson",
+     "n": "Jordan Masterson"
+    },
+    {
+     "c": "Mandy Baxter",
+     "n": "Molly McCook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Jack Burditt"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2011-10-11",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 39297,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "FOX"
+   ],
+   "number_of_episodes": 194,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A married father of three tries to maintain his manliness in a world increasingly dominated by women.",
+   "popularity": 39.3336,
+   "poster_path": "/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-08",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-10-11",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-11-02",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-20",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-10-03",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-09-25",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-09-28",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-01-02",
+     "episode_count": 21,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-01-03",
+     "episode_count": 21,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Last Man Standing",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.193,
+   "vote_count": 378
+  },
+  "tv:397": {
+   "backdrop_path": "/usnCQeoAWw4MDCn7q6luOWqSwQO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luke Duke",
+     "n": "Tom Wopat"
+    },
+    {
+     "c": "Bo Duke",
+     "n": "John Schneider"
+    },
+    {
+     "c": "Daisy Duke",
+     "n": "Catherine Bach"
+    },
+    {
+     "c": "Jesse Duke",
+     "n": "Denver Pyle"
+    },
+    {
+     "c": "Cooter Davenport",
+     "n": "Ben Jones"
+    },
+    {
+     "c": "Boss Hogg",
+     "n": "Sorrell Booke"
+    },
+    {
+     "c": "Rosco P. Coltrane",
+     "n": "James Best"
+    },
+    {
+     "c": "Enos Strate",
+     "n": "Sonny Shroyer"
+    },
+    {
+     "c": "The Balladeer",
+     "n": "Waylon Jennings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Rod Amateau",
+    "Gy Waldron"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1979-01-26",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 397,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 147,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cousins Bo and Luke Duke and their car \"General Lee\", assisted by Cousin Daisy and Uncle Jesse, have a running battle with the authorities of Hazzard County (Boss Hogg and Sheriff Coltrane), plus a string of ne'er-do-wells often backed by the scheming Hogg.",
+   "popularity": 27.3342,
+   "poster_path": "/r9eXJUxP6zgrpCMEOJzaEXzXLsp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1997-04-25",
+     "episode_count": 23,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1979-01-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1979-09-21",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1980-09-16",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1981-10-09",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1982-09-24",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1983-09-23",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1984-09-21",
+     "episode_count": 17,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You're in Hazzard County where the lawmen are crooks, the good guys are outlaws and ever'body's in-laws!",
+   "title": "The Dukes of Hazzard",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 369
+  },
+  "tv:60797": {
+   "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter O'Brien",
+     "n": "Elyes Gabel"
+    },
+    {
+     "c": "Paige Dineen",
+     "n": "Katharine McPhee"
+    },
+    {
+     "c": "Happy Quinn",
+     "n": "Jadyn Wong"
+    },
+    {
+     "c": "Toby Curtis",
+     "n": "Eddie Kaye Thomas"
+    },
+    {
+     "c": "Sylvester Dodd",
+     "n": "Ari Stidham"
+    },
+    {
+     "c": "Ralph Dineen",
+     "n": "Riley B. Smith"
+    },
+    {
+     "c": "Cabe Gallo",
+     "n": "Robert Patrick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Nick Santora"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-09-22",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 60797,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 93,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eccentric genius Walter O’Brien and his team of brilliant misfits comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
+   "popularity": 41.0752,
+   "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+   "production_countries": [
+    "US",
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-03",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "This team is pure genius.",
+   "title": "Scorpion",
+   "trailer": {
+    "key": "l4QFpheS_JQ",
+    "name": "City Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.193,
+   "vote_count": 4209
+  },
+  "tv:897": {
+   "backdrop_path": "/7aWytAE9Gcf6UZXcS6ejJEdEhEb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grim (voice)",
+     "n": "Greg Eagles"
+    },
+    {
+     "c": "Billy (voice)",
+     "n": "Richard Steven Horvitz"
+    },
+    {
+     "c": "Mandy (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Irwin (voice)",
+     "n": "Vanessa Marshall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Maxwell Atoms"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11,
+    7,
+    22
+   ],
+   "first_air_date": "2001-08-24",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 897,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 184,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The exploits of the Grim Reaper, who has been forced into being the best friend of two children. A spin-off of the show Grim & Evil.",
+   "popularity": 37.5698,
+   "poster_path": "/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-03-30",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-08-24",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-06-13",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-06-11",
+     "episode_count": 32,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-02-25",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-07-29",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-01-06",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2006-06-06",
+     "episode_count": 21,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's Good Grim Fun!",
+   "title": "The Grim Adventures of Billy and Mandy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 1041
+  },
+  "tv:94997": {
+   "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prince Daemon Targaryen",
+     "n": "Matt Smith"
+    },
+    {
+     "c": "Queen Rhaenyra Targaryen",
+     "n": "Emma D'Arcy"
+    },
+    {
+     "c": "Queen Alicent Hightower",
+     "n": "Olivia Cooke"
+    },
+    {
+     "c": "Lord Ormund Hightower",
+     "n": "James Norton"
+    },
+    {
+     "c": "Lord Corlys 'The Sea Snake' Velaryon",
+     "n": "Steve Toussaint"
+    },
+    {
+     "c": "Ser Criston Cole",
+     "n": "Fabien Frankel"
+    },
+    {
+     "c": "Lord Larys 'Clubfoot' Strong",
+     "n": "Matthew Needham"
+    },
+    {
+     "c": "Mysaria 'The White Worm'",
+     "n": "Sonoya Mizuno"
+    },
+    {
+     "c": "King Aegon II Targaryen",
+     "n": "Tom Glynn-Carney"
+    },
+    {
+     "c": "Prince Aemond Targaryen",
+     "n": "Ewan Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "George R.R. Martin",
+    "Ryan J. Condal"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-08-21",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 94997,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+   "popularity": 86.0425,
+   "poster_path": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-08-21",
+     "episode_count": 89,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-08-21",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-06-16",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-06-21",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Win or die.",
+   "title": "House of the Dragon",
+   "trailer": {
+    "key": "DotnJ7tTA34",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.378,
+   "vote_count": 7318
+  },
+  "tv:97": {
+   "backdrop_path": "/13EiscbHCfPD83aW1Ay1G3zV5G1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Drew Carey",
+     "n": "Drew Carey"
+    },
+    {
+     "c": "Lewis Kiniski",
+     "n": "Ryan Stiles"
+    },
+    {
+     "c": "Oswald Lee Harvey",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Kellie Newmark",
+     "n": "Cynthia Watros"
+    },
+    {
+     "c": "Mimi Bobeck",
+     "n": "Kathy Kinney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Bruce Helford",
+    "Drew Carey"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22,
+    30
+   ],
+   "first_air_date": "1995-09-13",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 97,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 233,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Drew is an assistant director of personnel in a Cleveland department store and he has been stuck there for ten years. Other than fighting with co-worker Mimi, his hobbies include drinking beer and not being able to get dates. To make a few extra bucks he has a micro-brewery going in his garage with his buddies.",
+   "popularity": 41.9647,
+   "poster_path": "/1E2uZPVGz69aikN6vIgygvYSwGt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1995-09-13",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1996-09-18",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-09-23",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1998-09-23",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1999-09-22",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2000-10-04",
+     "episode_count": 27,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2001-09-26",
+     "episode_count": 27,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2002-09-09",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2004-06-02",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Drew Carey Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.516,
+   "vote_count": 191
   }
  }
 }

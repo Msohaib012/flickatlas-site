@@ -1,8 +1,8 @@
 {
  "bucket": "89",
- "count": 11,
+ "count": 19,
  "titles": {
-  "10389": {
+  "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
    "budget": 10706075,
    "cast": [
@@ -155,7 +155,7 @@
    "vote_average": 6.569,
    "vote_count": 495
   },
-  "1155089": {
+  "movie:1155089": {
    "backdrop_path": "/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
    "budget": 0,
    "cast": [
@@ -280,7 +280,7 @@
    "vote_average": 7.218,
    "vote_count": 444
   },
-  "13189": {
+  "movie:13189": {
    "backdrop_path": "/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
    "budget": 0,
    "cast": [
@@ -393,7 +393,7 @@
    "vote_average": 7.474,
    "vote_count": 445
   },
-  "1689": {
+  "movie:1689": {
    "backdrop_path": "/roWqJp8dXekp1DShC1RNpG9Yr3y.jpg",
    "budget": 35000000,
    "cast": [
@@ -567,7 +567,7 @@
    "vote_average": 6.277,
    "vote_count": 467
   },
-  "209189": {
+  "movie:209189": {
    "backdrop_path": "/zxxIzU6XjzTQKS9pPeLmYTDTFL1.jpg",
    "budget": 12000000,
    "cast": [
@@ -691,7 +691,7 @@
    "vote_average": 5.7,
    "vote_count": 443
   },
-  "24589": {
+  "movie:24589": {
    "backdrop_path": "/qDm20Q4ifjK9BlBQshDtL5byAHZ.jpg",
    "budget": 0,
    "cast": [
@@ -800,7 +800,7 @@
    "vote_average": 6.986,
    "vote_count": 467
   },
-  "287689": {
+  "movie:287689": {
    "backdrop_path": "/iCP1SCtQfb8p071TZmsLQYbHO78.jpg",
    "budget": 0,
    "cast": [
@@ -910,7 +910,7 @@
    "vote_average": 6.494,
    "vote_count": 447
   },
-  "30689": {
+  "movie:30689": {
    "backdrop_path": "/jVcHJSP3rYv03WgrglsREJtQjJj.jpg",
    "budget": 0,
    "cast": [
@@ -1030,7 +1030,7 @@
    "vote_average": 6.501,
    "vote_count": 444
   },
-  "341689": {
+  "movie:341689": {
    "backdrop_path": "/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg",
    "budget": 0,
    "cast": [
@@ -1204,7 +1204,7 @@
    "vote_average": 6.0,
    "vote_count": 443
   },
-  "427989": {
+  "movie:427989": {
    "backdrop_path": "/xdDnTXhPd7q0gKu6KpDoZ9F3xeC.jpg",
    "budget": 0,
    "cast": [
@@ -1292,7 +1292,7 @@
    "vote_average": 6.0,
    "vote_count": 442
   },
-  "679989": {
+  "movie:679989": {
    "backdrop_path": "/vdoJZC5TBeUm5ohlxGcAhCo962a.jpg",
    "budget": 0,
    "cast": [
@@ -1380,6 +1380,1338 @@
    "type": "movie",
    "vote_average": 5.902,
    "vote_count": 468
+  },
+  "tv:120089": {
+   "backdrop_path": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Loid Forger (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Anya Forger (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Yor Forger (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Bond Forger (voice)",
+     "n": "Kenichirou Matsuda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2022-04-09",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 120089,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+   "popularity": 58.7396,
+   "poster_path": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-07-28",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-04-09",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-10-07",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The father... a spy. The mother... an assassin. The daughter... a telepath.",
+   "title": "SPY x FAMILY",
+   "trailer": {
+    "key": "JP6vBnazpWI",
+    "name": "Official International Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 2389
+  },
+  "tv:1489": {
+   "backdrop_path": "/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Jimmy Kimmel"
+    },
+    {
+     "c": "Self",
+     "n": "Guillermo Rodriguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "ABC",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-01-26",
+   "genres": [
+    "Talk",
+    "Comedy"
+   ],
+   "id": 1489,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 3377,
+   "number_of_seasons": 25,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+   "popularity": 104.0777,
+   "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-06-23",
+     "episode_count": 74,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-01-26",
+     "episode_count": 189,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-01-26",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-01-10",
+     "episode_count": 178,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-01-03",
+     "episode_count": 189,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-01-02",
+     "episode_count": 154,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-01-02",
+     "episode_count": 172,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-01-06",
+     "episode_count": 171,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-01-05",
+     "episode_count": 176,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-01-03",
+     "episode_count": 168,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-01-03",
+     "episode_count": 166,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-01-08",
+     "episode_count": 171,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-01-06",
+     "episode_count": 169,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2015-01-05",
+     "episode_count": 152,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-01-04",
+     "episode_count": 16,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-01-09",
+     "episode_count": 15,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-01-08",
+     "episode_count": 32,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-01-07",
+     "episode_count": 171,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-01-06",
+     "episode_count": 120,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 185,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2021-09-20",
+     "episode_count": 167,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 104,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2023-10-02",
+     "episode_count": 145,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2024-09-03",
+     "episode_count": 157,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2025-09-02",
+     "episode_count": 157,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2026-09-08",
+     "episode_count": 35,
+     "name": "Season 25",
+     "season_number": 25
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Jimmy Kimmel Live!",
+   "trailer": {
+    "key": "2kqZi3RoA5I",
+    "name": "Political Promo",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.3,
+   "vote_count": 226
+  },
+  "tv:2289": {
+   "backdrop_path": "/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain Oliver Hudson",
+     "n": "Michael Ironside"
+    },
+    {
+     "c": "Lucas Wolenczak",
+     "n": "Jonathan Brandis"
+    },
+    {
+     "c": "Commander Jonathan Ford",
+     "n": "Don Franklin"
+    },
+    {
+     "c": "Seaman Anthony Piccolo",
+     "n": "Michael DeLuise"
+    },
+    {
+     "c": "Lieutenant Tim O'Neill",
+     "n": "Ted Raimi"
+    },
+    {
+     "c": "Lieutenant Lonnie Henderson",
+     "n": "Kathy Evison"
+    },
+    {
+     "c": "Lieutenant J.J. Fredericks",
+     "n": "Elise Neal"
+    },
+    {
+     "c": "Dagwood",
+     "n": "Peter DeLuise"
+    },
+    {
+     "c": "Darwin (voice)",
+     "n": "Frank Welker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Rockne S. O'Bannon"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1993-09-12",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 2289,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 58,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the early 21st century, mankind has colonized the oceans. The United Earth Oceans Organization enlists Captain Nathan Bridger and the submarine seaQuest DSV to keep the peace and explore the last frontier on Earth.",
+   "popularity": 24.6018,
+   "poster_path": "/azbnl41bGqTcp2ajyfm9JYekEHp.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-07-19",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-09-12",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-18",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-20",
+     "episode_count": 13,
+     "name": "Season 3 - seaQuest 2032",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "seaQuest DSV",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.063,
+   "vote_count": 166
+  },
+  "tv:2389": {
+   "backdrop_path": "/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danny McCoy",
+     "n": "Josh Duhamel"
+    },
+    {
+     "c": "Samantha Marquez",
+     "n": "Vanessa Marcil"
+    },
+    {
+     "c": "Delinda Deline",
+     "n": "Molly Sims"
+    },
+    {
+     "c": "Mike Cannon",
+     "n": "James Lesure"
+    },
+    {
+     "c": "A.J. Cooper",
+     "n": "Tom Selleck"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "NBC",
+   "created_by": [
+    "Gary Scott Thompson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-09-22",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 2389,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 106,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former protégé, becomes the Montecito's new President of Operations.",
+   "popularity": 48.4131,
+   "poster_path": "/AknZ6uDYvswlIrUKDm2Nte32xge.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-09-22",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-09-13",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-10-27",
+     "episode_count": 17,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-28",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Fast. Furious. Fun",
+   "title": "Las Vegas",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.011,
+   "vote_count": 273
+  },
+  "tv:4589": {
+   "backdrop_path": "/q9yVRPakPnsIngnXwjW7F9GVcnD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Bluth",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Lindsay Bluth Fünke",
+     "n": "Portia de Rossi"
+    },
+    {
+     "c": "Gob Bluth",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "George Michael Bluth",
+     "n": "Michael Cera"
+    },
+    {
+     "c": "Maeby Fünke",
+     "n": "Alia Shawkat"
+    },
+    {
+     "c": "Byron 'Buster' Bluth",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Tobias Fünke",
+     "n": "David Cross"
+    },
+    {
+     "c": "George Bluth Sr.",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Lucille Bluth",
+     "n": "Jessica Walter"
+    },
+    {
+     "c": "Narrator",
+     "n": "Ron Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FOX",
+   "created_by": [
+    "Mitchell Hurwitz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-11-02",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4589,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Netflix"
+   ],
+   "number_of_episodes": 84,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.",
+   "popularity": 39.7333,
+   "poster_path": "/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-11-02",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-11-07",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-05-26",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-05-29",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Someone had to get the family back together.",
+   "title": "Arrested Development",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 1798
+  },
+  "tv:589": {
+   "backdrop_path": "/cCCyFrM6AtUQXVNOL2D0BTKB64K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Remington Steele",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Laura Holt",
+     "n": "Stephanie Zimbalist"
+    },
+    {
+     "c": "Mildred Krebs",
+     "n": "Doris Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Robert Butler",
+    "Michael Gleason"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1982-10-01",
+   "genres": [
+    "Drama",
+    "Family",
+    "Comedy"
+   ],
+   "id": 589,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Laura Holt, a licensed private detective, opens a detective agency but finds that potential clients refuse to hire a woman, however qualified. To solve the problem, Laura invents a fictitious male superior whom she names Remington Steele. Through a series of events that unfold in the first episode, \"License to Steele,\" a former thief and con man, whose real name is never revealed, assumes the identity of Remington Steele. Behind the scenes, Laura remains firmly in charge.",
+   "popularity": 31.9078,
+   "poster_path": "/3UGDVrdwavyU0WIddhZf4eov6yv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1982-10-01",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1983-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1984-09-25",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1985-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1987-01-05",
+     "episode_count": 6,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Before He Was Bond He Was...",
+   "title": "Remington Steele",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.073,
+   "vote_count": 151
+  },
+  "tv:61889": {
+   "backdrop_path": "/pPALpad1Fh14g7ejyQjqKzlhrBw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matt Murdock / Daredevil",
+     "n": "Charlie Cox"
+    },
+    {
+     "c": "Karen Page",
+     "n": "Deborah Ann Woll"
+    },
+    {
+     "c": "Foggy Nelson",
+     "n": "Elden Henson"
+    },
+    {
+     "c": "Wilson Fisk / Kingpin",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Rahul 'Ray' Nadeem",
+     "n": "Jay Ali"
+    },
+    {
+     "c": "Benjamin 'Dex' Poindexter",
+     "n": "Wilson Bethel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Drew Goddard"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-04-10",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 61889,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+   "popularity": 38.8985,
+   "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-04-10",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-03-18",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-10-19",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Do not fear the dark. Become it.",
+   "title": "Marvel's Daredevil",
+   "trailer": {
+    "key": "jAy6NJ_D5vU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.174,
+   "vote_count": 5503
+  },
+  "tv:71789": {
+   "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jason Hayes",
+     "n": "David Boreanaz"
+    },
+    {
+     "c": "Ray Perry",
+     "n": "Neil Brown Jr."
+    },
+    {
+     "c": "Sonny Quinn",
+     "n": "A.J. Buckley"
+    },
+    {
+     "c": "Lisa Davis",
+     "n": "Toni Trucks"
+    },
+    {
+     "c": "Drew Franklin",
+     "n": "Beau Knapp"
+    },
+    {
+     "c": "Trent Sawyer",
+     "n": "Tyler Grey"
+    },
+    {
+     "c": "Brock Reynolds",
+     "n": "Justin Melnick"
+    },
+    {
+     "c": "Omar Hamza",
+     "n": "Raffi Barsoumian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Benjamin Cavell"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-09-27",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 71789,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "Paramount+"
+   ],
+   "number_of_episodes": 112,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
+   "popularity": 78.6635,
+   "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-10-03",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-10-02",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-12-02",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-10-10",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-09-18",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-08-11",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "SEAL Team",
+   "trailer": {
+    "key": "3k9o6y-wjMg",
+    "name": "SEAL Team | Official Trailer | Paramount+",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.033,
+   "vote_count": 1699
   }
  }
 }

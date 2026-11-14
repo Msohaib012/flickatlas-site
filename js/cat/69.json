@@ -1,8 +1,8 @@
 {
  "bucket": "69",
- "count": 11,
+ "count": 21,
  "titles": {
-  "101669": {
+  "movie:101669": {
    "backdrop_path": "/yiTNRdUZ5CTUcojwdjITKfBfjRB.jpg",
    "budget": 11000000,
    "cast": [
@@ -163,7 +163,7 @@
    "vote_average": 6.475,
    "vote_count": 493
   },
-  "10169": {
+  "movie:10169": {
    "backdrop_path": "/gaG4QLl41v9WwHk3D3NqE9XzB5Z.jpg",
    "budget": 9000000,
    "cast": [
@@ -287,7 +287,7 @@
    "vote_average": 5.68,
    "vote_count": 450
   },
-  "103269": {
+  "movie:103269": {
    "backdrop_path": "/mBwnZsZj6W0Gm1sUQDkUQEdY9lT.jpg",
    "budget": 3500000,
    "cast": [
@@ -388,7 +388,7 @@
    "vote_average": 6.914,
    "vote_count": 467
   },
-  "10869": {
+  "movie:10869": {
    "backdrop_path": "/vFjPid59AjCjmhQMRmEKlCB5Dmm.jpg",
    "budget": 0,
    "cast": [
@@ -550,7 +550,7 @@
    "vote_average": 6.152,
    "vote_count": 458
   },
-  "11169": {
+  "movie:11169": {
    "backdrop_path": "/1dm0kjWhYDcVPyBk0CZRThxwNyK.jpg",
    "budget": 19250000,
    "cast": [
@@ -720,7 +720,7 @@
    "vote_average": 6.16,
    "vote_count": 444
   },
-  "338969": {
+  "movie:338969": {
    "backdrop_path": "/qo7WRoSXkpgvmc9TgaklzrsukLW.jpg",
    "budget": 0,
    "cast": [
@@ -867,7 +867,7 @@
    "vote_average": 5.928,
    "vote_count": 471
   },
-  "34069": {
+  "movie:34069": {
    "backdrop_path": "/lLt7UMEHeMNnwLQJow8crCcmVU6.jpg",
    "budget": 4500000,
    "cast": [
@@ -960,7 +960,7 @@
    "vote_average": 5.919,
    "vote_count": 467
   },
-  "383869": {
+  "movie:383869": {
    "backdrop_path": "/7rjGAp3HBM6EZp4WVo8l3FKN2i5.jpg",
    "budget": 8600000,
    "cast": [
@@ -1049,7 +1049,7 @@
    "vote_average": 5.692,
    "vote_count": 473
   },
-  "48769": {
+  "movie:48769": {
    "backdrop_path": "/gWP0xqcpeapXBqKKPFqLFc2rxDQ.jpg",
    "budget": 3000000,
    "cast": [
@@ -1149,7 +1149,7 @@
    "vote_average": 6.861,
    "vote_count": 461
   },
-  "714869": {
+  "movie:714869": {
    "backdrop_path": "/a0VwprxXWIhQcHPPWsQeKr1LzSf.jpg",
    "budget": 22000000,
    "cast": [
@@ -1239,7 +1239,7 @@
    "vote_average": 6.291,
    "vote_count": 443
   },
-  "9669": {
+  "movie:9669": {
    "backdrop_path": "/oTp23mDGYlgOVp2uxEuAGHFhZic.jpg",
    "budget": 6000000,
    "cast": [
@@ -1420,6 +1420,1629 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 486
+  },
+  "tv:14069": {
+   "backdrop_path": "/gpPg6JSixhf9JZbZtD32X3nNYCm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Brooke Taylor",
+     "n": "Uzo Aduba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HBO",
+   "created_by": [
+    "Rodrigo García"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-01-28",
+   "genres": [
+    "Drama"
+   ],
+   "id": 14069,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 130,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The intimate confines of psychotherapy sessions are seen from the perspective of a therapist and individual patients.",
+   "popularity": 29.0111,
+   "poster_path": "/gytzjthKWMji7olvAnBGohbGmWS.jpg",
+   "production_countries": [
+    "US",
+    "IL"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-01-28",
+     "episode_count": 43,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-04-05",
+     "episode_count": 35,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-10-25",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-05-23",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The time is yours.",
+   "title": "In Treatment",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.662,
+   "vote_count": 194
+  },
+  "tv:1769": {
+   "backdrop_path": "/gxSbrQ0pR85NdEA0bXvSokVVRdA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Test (voice)",
+     "n": "James Arnold Taylor"
+    },
+    {
+     "c": "Susan Test (voice)",
+     "n": "Maryke Hendrikse"
+    },
+    {
+     "c": "Mary Test (voice)",
+     "n": "Ashleigh Ball"
+    },
+    {
+     "c": "The General / Bling-Bling Boy (voice)",
+     "n": "Lee Tockar"
+    },
+    {
+     "c": "Hugh Test (voice)",
+     "n": "Ian James Corlett"
+    },
+    {
+     "c": "Dukey (voice)",
+     "n": "Trevor Devall"
+    },
+    {
+     "c": "Lila Test (voice)",
+     "n": "Kathleen Barr"
+    },
+    {
+     "c": "Mr. White / Bumper (voice)",
+     "n": "Scott McNeil"
+    },
+    {
+     "c": "Mr. Black (voice)",
+     "n": "Bill Mondy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "Scott Fellows"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2005-09-17",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 1769,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "Cartoon Network",
+    "The CW",
+    "Teletoon",
+    "Boomerang"
+   ],
+   "number_of_episodes": 234,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Young Johnny is gung-ho and full of courage. Johnny's brainiac twin sisters, Susan and Mary, use Johnny as their guinea pig for their outrageous scientific experiments. If they can dream it up, Johnny will do it; as long as his genetically engineered super dog, Dukey, can come along.",
+   "popularity": 26.35,
+   "poster_path": "/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-09-17",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-10-28",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-08-17",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-09-10",
+     "episode_count": 52,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-06-13",
+     "episode_count": 52,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-04-23",
+     "episode_count": 52,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Johnny Test",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.344,
+   "vote_count": 266
+  },
+  "tv:208569": {
+   "backdrop_path": "/9pGzG5CYx2XM8JFFQvMk9Z3z9ze.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Will Trent",
+     "n": "Ramón Rodríguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Daniel T. Thomsen",
+    "Liz Heldens"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-01-03",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 208569,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster care system. Determined to make sure no one feels as he did, he now has the highest clearance rate.",
+   "popularity": 60.713,
+   "poster_path": "/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-01-03",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-02-20",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-01-07",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2027-01-05",
+     "episode_count": 1,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The truth is out of control.",
+   "title": "Will Trent",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 218
+  },
+  "tv:269": {
+   "backdrop_path": "/gJOpHgHa37qnglH3dL9g63iztky.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nathan Scott",
+     "n": "James Lafferty"
+    },
+    {
+     "c": "Haley James Scott",
+     "n": "Bethany Joy Lenz"
+    },
+    {
+     "c": "Brooke Davis",
+     "n": "Sophia Bush"
+    },
+    {
+     "c": "Julian Baker",
+     "n": "Austin Nichols"
+    },
+    {
+     "c": "Clay Evans",
+     "n": "Robert Buckley"
+    },
+    {
+     "c": "Quinn James",
+     "n": "Shantel VanSanten"
+    },
+    {
+     "c": "Jamie Scott",
+     "n": "Jackson Brundage"
+    },
+    {
+     "c": "Marvin 'Mouth' McFadden",
+     "n": "Lee Norris"
+    },
+    {
+     "c": "Millicent Huxtable",
+     "n": "Lisa Goldstein Kirsch"
+    },
+    {
+     "c": "Chase Adams",
+     "n": "Stephen Colletti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "Mark Schwahn"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2003-09-23",
+   "genres": [
+    "Drama"
+   ],
+   "id": 269,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "The CW"
+   ],
+   "number_of_episodes": 186,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+   "popularity": 97.1466,
+   "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-10-05",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-27",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-01-08",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-09-01",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-14",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-14",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-01-11",
+     "episode_count": 13,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Where nothing ever changed until one outsider changed everything.",
+   "title": "One Tree Hill",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 642
+  },
+  "tv:30669": {
+   "backdrop_path": "/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yūsuke Urameshi (voice)",
+     "n": "Nozomu Sasaki"
+    },
+    {
+     "c": "Kazuma Kuwabara (voice)",
+     "n": "Shigeru Chiba"
+    },
+    {
+     "c": "Kurama/Shūichi Minamino (voice)",
+     "n": "Megumi Ogata"
+    },
+    {
+     "c": "Hiei (voice)",
+     "n": "Nobuyuki Hiyama"
+    },
+    {
+     "c": "Keiko Yukimura (voice)",
+     "n": "Yuri Amano"
+    },
+    {
+     "c": "Genkai (voice)",
+     "n": "Hisako Kyoda"
+    },
+    {
+     "c": "Koenma (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Shizuru Kuwabara (voice)",
+     "n": "Ai Orikasa"
+    },
+    {
+     "c": "Narration (voice)",
+     "n": "Tomomichi Nishimura"
+    },
+    {
+     "c": "Botan",
+     "n": "Sanae Miyuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1992-10-10",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 30669,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 112,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
+   "popularity": 36.3745,
+   "poster_path": "/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-10-05",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-10-10",
+     "episode_count": 25,
+     "name": "The Spirit Detective",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-04-17",
+     "episode_count": 41,
+     "name": "The Dark Tournament",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-02-05",
+     "episode_count": 28,
+     "name": "Chapter Black",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-08-20",
+     "episode_count": 18,
+     "name": "Saga of the Three Kings",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Yu Yu Hakusho",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.474,
+   "vote_count": 522
+  },
+  "tv:39269": {
+   "backdrop_path": "/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olivia Pope",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Abby Whelan",
+     "n": "Darby Stanchfield"
+    },
+    {
+     "c": "Quinn Perkins",
+     "n": "Katie Lowes"
+    },
+    {
+     "c": "Huck",
+     "n": "Guillermo Díaz"
+    },
+    {
+     "c": "Cyrus Beene",
+     "n": "Jeff Perry"
+    },
+    {
+     "c": "President Fitzgerald Grant",
+     "n": "Tony Goldwyn"
+    },
+    {
+     "c": "David Rosen",
+     "n": "Joshua Malina"
+    },
+    {
+     "c": "Mellie Grant",
+     "n": "Bellamy Young"
+    },
+    {
+     "c": "Charlie",
+     "n": "George Newbern"
+    },
+    {
+     "c": "Jake Ballard",
+     "n": "Scott Foley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Shonda Rhimes"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-04-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 39269,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 124,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits,\" who specialize in fixing the lives of other people, have trouble fixing those closest at hand -- their own.",
+   "popularity": 51.6389,
+   "poster_path": "/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-04-05",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-10-03",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-09-24",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-01-26",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-10-05",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Dirty little secrets always come out.",
+   "title": "Scandal",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.195,
+   "vote_count": 630
+  },
+  "tv:4269": {
+   "backdrop_path": "/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Optimus Prime (voice)",
+     "n": "Peter Cullen"
+    },
+    {
+     "c": "Galvatron / Chromedome (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Hot Rod (voice)",
+     "n": "Richard Gautier"
+    },
+    {
+     "c": "Ultra Magnus / Cyclonus (voice)",
+     "n": "Jack Angel"
+    },
+    {
+     "c": "Arcee (voice)",
+     "n": "Susan Blu"
+    },
+    {
+     "c": "Spike Witwicky (voice)",
+     "n": "Corey Burton"
+    },
+    {
+     "c": "Daniel Witwicky (voice)",
+     "n": "David Mendenhall"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Victor Caroli"
+    },
+    {
+     "c": "Scourge (voice)",
+     "n": "Stan Jones"
+    },
+    {
+     "c": "Kup (voice)",
+     "n": "John Stephenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Syndication",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1984-10-06",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4269,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 95,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Transformers is the first animated television series in the Transformers franchise. The series depicts a war among giant robots that can transform into vehicles and other objects.",
+   "popularity": 35.3076,
+   "poster_path": "/h0BLnOet7BtgrDpkU5KSSmiqQTg.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hasbrotv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1984-09-17",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-10-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-23",
+     "episode_count": 49,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-14",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-11-09",
+     "episode_count": 3,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "More than Meets the Eye!",
+   "title": "The Transformers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 459
+  },
+  "tv:76669": {
+   "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Omar Shanaa",
+     "n": "Omar Ayuso"
+    },
+    {
+     "c": "Isadora Artiñan",
+     "n": "Valentina Zenere"
+    },
+    {
+     "c": "Iván Carvalho",
+     "n": "André Lamoglia"
+    },
+    {
+     "c": "Sara",
+     "n": "Carmen Arrufat"
+    },
+    {
+     "c": "Nico",
+     "n": "Ander Puig"
+    },
+    {
+     "c": "Sonia",
+     "n": "Nadia Al Saidi"
+    },
+    {
+     "c": "Joel",
+     "n": "Fernando Lindez"
+    },
+    {
+     "c": "Chloe",
+     "n": "Mirela Balić"
+    },
+    {
+     "c": "Eric",
+     "n": "Gleb Abrosimov"
+    },
+    {
+     "c": "Dalmar",
+     "n": "Iván Mendes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Darío Madrona",
+    "Carlos Montero"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-10-05",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 76669,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 64,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+   "popularity": 36.9739,
+   "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-10-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-06",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-03-13",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-06-18",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-04-08",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-11-18",
+     "episode_count": 8,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-10-20",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2024-07-26",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Elite",
+   "trailer": {
+    "key": "QNwhAdrdwp0",
+    "name": "ELITE: Main Trailer | Official [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.999,
+   "vote_count": 9440
+  },
+  "tv:77169": {
+   "backdrop_path": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Lawrence",
+     "n": "William Zabka"
+    },
+    {
+     "c": "Daniel LaRusso",
+     "n": "Ralph Macchio"
+    },
+    {
+     "c": "Amanda LaRusso",
+     "n": "Courtney Henggeler"
+    },
+    {
+     "c": "Miguel Diaz",
+     "n": "Xolo Maridueña"
+    },
+    {
+     "c": "Robby Keene",
+     "n": "Tanner Buchanan"
+    },
+    {
+     "c": "Samantha LaRusso",
+     "n": "Mary Mouser"
+    },
+    {
+     "c": "Tory Nichols",
+     "n": "Peyton List"
+    },
+    {
+     "c": "Eli 'Hawk' Moskowitz",
+     "n": "Jacob Bertrand"
+    },
+    {
+     "c": "Demetri Alexopoulos",
+     "n": "Gianni DeCenzo"
+    },
+    {
+     "c": "Kenny Payne",
+     "n": "Dallas Dupree Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Josh Heald",
+    "Hayden Schlossberg",
+    "Jon Hurwitz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-05-02",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 77169,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "YouTube Premium"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+   "popularity": 44.0517,
+   "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-05-02",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-04-24",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-01-01",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-12-31",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-07-18",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Back in the Valley. One final fight.",
+   "title": "Cobra Kai",
+   "trailer": {
+    "key": "xCwwxNbtK6Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.192,
+   "vote_count": 7061
+  },
+  "tv:7869": {
+   "backdrop_path": "/tdDRR3qnwwicr2DJbaaF8CDW168.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Skipper (voice)",
+     "n": "Tom McGrath"
+    },
+    {
+     "c": "Kowalski (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Private (voice)",
+     "n": "James Patrick Stuart"
+    },
+    {
+     "c": "Rico (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "King Julien XIII (voice)",
+     "n": "Danny Jacobs"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Kevin Michael Richardson"
+    },
+    {
+     "c": "Mort (voice)",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Marlene (voice)",
+     "n": "Nicole Sullivan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Eric Darnell",
+    "Tom McGrath"
+   ],
+   "director": [
+    "Bret Haaland"
+   ],
+   "episode_run_time": [
+    11,
+    10,
+    12
+   ],
+   "first_air_date": "2008-11-28",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 7869,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 149,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of four penguins—Skipper, Kowalski, Private, and Rico, who perform various commando-like missions to protect their home in the Central Park Zoo. The penguins often have to deal with problems caused, or made worse, by their zoo neighbors, King Julien XIII (a ring-tailed lemur), Maurice (an aye-aye), and Mort (a mouse lemur).",
+   "popularity": 47.5591,
+   "poster_path": "/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-10-07",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-11-28",
+     "episode_count": 48,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-03-13",
+     "episode_count": 68,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-04-16",
+     "episode_count": 33,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Penguins of Madagascar",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 476
   }
  }
 }

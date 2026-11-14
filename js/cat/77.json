@@ -1,8 +1,8 @@
 {
  "bucket": "77",
- "count": 10,
+ "count": 16,
  "titles": {
-  "10077": {
+  "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
    "budget": 80000000,
    "cast": [
@@ -188,7 +188,7 @@
    "vote_average": 4.848,
    "vote_count": 473
   },
-  "11577": {
+  "movie:11577": {
    "backdrop_path": "/mEEJC1tHmxJZ49L0Gc7jsFlvQXJ.jpg",
    "budget": 4638783,
    "cast": [
@@ -354,7 +354,7 @@
    "vote_average": 7.203,
    "vote_count": 491
   },
-  "12277": {
+  "movie:12277": {
    "backdrop_path": "/sxoz5X2wlLrQtY7hSTe1sEnLKfc.jpg",
    "budget": 25000000,
    "cast": [
@@ -467,7 +467,7 @@
    "vote_average": 5.9,
    "vote_count": 462
   },
-  "123377": {
+  "movie:123377": {
    "backdrop_path": "/iOmGHgU3qhCMTBcf73m528risb.jpg",
    "budget": 103000,
    "cast": [
@@ -606,7 +606,7 @@
    "vote_average": 6.983,
    "vote_count": 441
   },
-  "20077": {
+  "movie:20077": {
    "backdrop_path": "/326o6Tw8QHP6TtIXqU56dDYgnzL.jpg",
    "budget": 0,
    "cast": [
@@ -704,7 +704,7 @@
    "vote_average": 7.0,
    "vote_count": 435
   },
-  "335777": {
+  "movie:335777": {
    "backdrop_path": "/snobCf0u4ex9OKNNFuNQKmGe3gJ.jpg",
    "budget": 40000000,
    "cast": [
@@ -850,7 +850,7 @@
    "vote_average": 6.2,
    "vote_count": 489
   },
-  "451877": {
+  "movie:451877": {
    "backdrop_path": "/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
    "budget": 0,
    "cast": [
@@ -1019,7 +1019,7 @@
    "vote_average": 5.8,
    "vote_count": 472
   },
-  "615177": {
+  "movie:615177": {
    "backdrop_path": "/43DsuheCGvF8ERS2tz0bm3fC25p.jpg",
    "budget": 0,
    "cast": [
@@ -1127,7 +1127,7 @@
    "vote_average": 5.412,
    "vote_count": 453
   },
-  "71677": {
+  "movie:71677": {
    "backdrop_path": "/6Yv1L8F373buOO8UGGtwSkpgJdB.jpg",
    "budget": 8000000,
    "cast": [
@@ -1245,7 +1245,7 @@
    "vote_average": 6.3,
    "vote_count": 494
   },
-  "771077": {
+  "movie:771077": {
    "backdrop_path": "/BevYc51yFcr4zppO8RI3Au8wXA.jpg",
    "budget": 7780000,
    "cast": [
@@ -1356,6 +1356,983 @@
    "type": "movie",
    "vote_average": 7.383,
    "vote_count": 467
+  },
+  "tv:1777": {
+   "backdrop_path": "/7mgf8w8xPyLnIln0kFo6qH2OEGh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cory Matthews",
+     "n": "Ben Savage"
+    },
+    {
+     "c": "Shawn Hunter",
+     "n": "Rider Strong"
+    },
+    {
+     "c": "Topanga Lawrence",
+     "n": "Danielle Fishel"
+    },
+    {
+     "c": "George Feeny",
+     "n": "William Daniels"
+    },
+    {
+     "c": "Eric Matthews",
+     "n": "Will Friedle"
+    },
+    {
+     "c": "Amy Matthews",
+     "n": "Betsy Randle"
+    },
+    {
+     "c": "Alan Matthews",
+     "n": "William Russ"
+    },
+    {
+     "c": "Jack Hunter",
+     "n": "Matthew Lawrence"
+    },
+    {
+     "c": "Angela Moore",
+     "n": "Trina McGee"
+    },
+    {
+     "c": "Rachel McGuire",
+     "n": "Maitland Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "April Kelly",
+    "Michael Jacobs"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1993-09-24",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1777,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 158,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The coming of age events and everyday life-lessons of Cory Matthews, a Philadelphian who grows up from a young boy to a married man.",
+   "popularity": 25.433,
+   "poster_path": "/bS2ZDv7vVIuyWMOiMn9R6CF35jY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/n0IYtqCRKBhqnioKooWDLOS3l3r.png",
+     "name": "Freeform",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-09-24",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-23",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-22",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-10-03",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-09-25",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-09-24",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "His older brother likes girls. His younger sister likes dolls. His parents like rules. And he'd like to know where he fits in.",
+   "title": "Boy Meets World",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.285,
+   "vote_count": 599
+  },
+  "tv:1877": {
+   "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phineas Flynn (voice)",
+     "n": "Vincent Martella"
+    },
+    {
+     "c": "Candace Flynn (voice)",
+     "n": "Ashley French"
+    },
+    {
+     "c": "Isabella Garcia-Shapiro (voice)",
+     "n": "Alyson Stoner"
+    },
+    {
+     "c": "Ferb Fletcher (voice)",
+     "n": "David Errigo Jr."
+    },
+    {
+     "c": "Baljeet Tjinder (voice)",
+     "n": "Maulik Pancholy"
+    },
+    {
+     "c": "Buford Van Stomm (voice)",
+     "n": "Bobby Gaylor"
+    },
+    {
+     "c": "Dr. Heinz Doofenshmirtz (voice)",
+     "n": "Dan Povenmire"
+    },
+    {
+     "c": "Major Francis Monogram (voice)",
+     "n": "Jeff 'Swampy' Marsh"
+    },
+    {
+     "c": "Linda Flynn-Fletcher (voice)",
+     "n": "Caroline Rhea"
+    },
+    {
+     "c": "Perry the Platypus / Dr. Diminutive (voice)",
+     "n": "Dee Bradley Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney XD",
+   "created_by": [
+    "Dan Povenmire",
+    "Jeff 'Swampy' Marsh"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2007-08-17",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 1877,
+   "industry": "world",
+   "networks": [
+    "Disney XD",
+    "Disney Channel"
+   ],
+   "number_of_episodes": 263,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+   "popularity": 912.7994,
+   "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-02-26",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-08-17",
+     "episode_count": 47,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-02-19",
+     "episode_count": 66,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-03-04",
+     "episode_count": 62,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-12-07",
+     "episode_count": 48,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-05-26",
+     "episode_count": 38,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-10-06",
+     "episode_count": 2,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "We're getting the band back together!",
+   "title": "Phineas and Ferb",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.894,
+   "vote_count": 1089
+  },
+  "tv:209077": {
+   "backdrop_path": "/8uoNGqXeJCBoG2gLOsKW3qUDuaI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fuko Izumo (voice)",
+     "n": "Moe Kahara"
+    },
+    {
+     "c": "Andy (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Shen (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Void (voice)",
+     "n": "Kenji Nomura"
+    },
+    {
+     "c": "Gina (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Nico (voice)",
+     "n": "Koji Yusa"
+    },
+    {
+     "c": "Juiz (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Tatiana (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Top (voice)",
+     "n": "Nobuhiko Okamoto"
+    },
+    {
+     "c": "Billy (voice)",
+     "n": "Rikiya Koyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2023-10-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 209077,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Andy, a Negator with the ability \"Undead,\" has been long in search for someone with the ability to give him a 'real death.' Fuko Izumo brings misfortune to those around her due to her ability \"Unluck.\" The two decide to join the Union, an organization which aims to control and protect the world from unidentified phenomena. The two uncover the mystery of the world as they search for the \"greatest death ever.\"",
+   "popularity": 28.7227,
+   "poster_path": "/pJYOYFlu4Vayz5xXJJuP7ViwHnT.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-26",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-10-07",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Undead Unluck",
+   "trailer": {
+    "key": "ot9mHEQGA5M",
+    "name": "English Dub Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.981,
+   "vote_count": 156
+  },
+  "tv:2777": {
+   "backdrop_path": "/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Piya (voice)",
+     "n": "Kaycie Chase"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "France 3",
+   "created_by": [
+    "Jean-Yves Raimbaud"
+   ],
+   "director": [],
+   "episode_run_time": [
+    7
+   ],
+   "first_air_date": "1999-09-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 2777,
+   "industry": "world",
+   "networks": [
+    "France 3",
+    "Canal+ Family",
+    "Gulli"
+   ],
+   "number_of_episodes": 579,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Oggy, an anthropomorphic cat, would prefer to spend his days watching television and eating, but is continuously pestered by three roaches: Joey, Marky and Dee Dee. The cockroaches' slapstick mischief ranges from plundering Oggy's refrigerator to hijacking the train he just boarded. In many situations Oggy is also helped by Jack, who is more violent and short-tempered than him and is also annoyed by the cockroaches. Bob, a short-tempered bulldog, also appears in the show, and is Oggy's neighbor.",
+   "popularity": 26.799,
+   "poster_path": "/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+   "production_countries": [
+    "FR",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1999-09-06",
+     "episode_count": 78,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-09-04",
+     "episode_count": 78,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-10-18",
+     "episode_count": 39,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-06-02",
+     "episode_count": 74,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-06-30",
+     "episode_count": 39,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-11-25",
+     "episode_count": 115,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-01-12",
+     "episode_count": 78,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-11-08",
+     "episode_count": 78,
+     "name": "Next Generation",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "Cats vs Cockroaches, who do you think will win?",
+   "title": "Oggy and the Cockroaches",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 386
+  },
+  "tv:85077": {
+   "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mary Magdalene",
+     "n": "Elizabeth Tabish"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Prime Video",
+   "created_by": [
+    "Dallas Jenkins"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2019-04-21",
+   "genres": [
+    "Action & Adventure",
+    "Family",
+    "Drama"
+   ],
+   "id": 85077,
+   "industry": "world",
+   "networks": [
+    "Prime Video",
+    "VidAngel",
+    "Angel",
+    "TheChosen.tv"
+   ],
+   "number_of_episodes": 46,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The life of Christ through the eyes of those who encountered him.",
+   "popularity": 64.1355,
+   "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-12-01",
+     "episode_count": 331,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-04-21",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-04-04",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-12-11",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-06-02",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-06-15",
+     "episode_count": 8,
+     "name": "Last Supper",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-11-15",
+     "episode_count": 6,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Rise up.",
+   "title": "The Chosen",
+   "trailer": {
+    "key": "5CVj41dtkIA",
+    "name": "The Chosen: Last Supper Official Trailer (Season 5)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 1054
+  },
+  "tv:96677": {
+   "backdrop_path": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Assane Diop",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Claire Laurent",
+     "n": "Ludivine Sagnier"
+    },
+    {
+     "c": "Benjamin Férel",
+     "n": "Antoine Gouy"
+    },
+    {
+     "c": "Youssef Guédira",
+     "n": "Soufiane Guerrab"
+    },
+    {
+     "c": "Sofia Belkacem",
+     "n": "Shirine Boutella"
+    },
+    {
+     "c": "Raoul Diop",
+     "n": "Théo Christine"
+    },
+    {
+     "c": "Adèle Kapoor",
+     "n": "Laïka Blanc-Francard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "George Kay",
+    "François Uzan",
+    "Marie Roussin",
+    "Florent Meyer",
+    "Tigran Rosine"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-01-08",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 96677,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "popularity": 95.9402,
+   "poster_path": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-10-05",
+     "episode_count": 7,
+     "name": "Part 3",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-10-23",
+     "episode_count": 8,
+     "name": "Part 4",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "Two Lupins. One too many.",
+   "title": "Lupin",
+   "trailer": {
+    "key": "ga0iTWXCGa0",
+    "name": "Official Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.679,
+   "vote_count": 2794
   }
  }
 }

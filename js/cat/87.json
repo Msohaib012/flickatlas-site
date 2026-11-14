@@ -1,8 +1,8 @@
 {
  "bucket": "87",
- "count": 7,
+ "count": 14,
  "titles": {
-  "1139087": {
+  "movie:1139087": {
    "backdrop_path": "/8KJMOKyl9rpgb9ELEwhfBMIaTHw.jpg",
    "budget": 0,
    "cast": [
@@ -110,7 +110,7 @@
    "vote_average": 8.252,
    "vote_count": 457
   },
-  "12187": {
+  "movie:12187": {
    "backdrop_path": "/orjpvbnfiDQvqRJIy9cLAb8WTgF.jpg",
    "budget": 0,
    "cast": [
@@ -207,7 +207,7 @@
    "vote_average": 7.0,
    "vote_count": 442
   },
-  "20187": {
+  "movie:20187": {
    "backdrop_path": "/2fao0EDChNM0naadJs75IUeLHkY.jpg",
    "budget": 9000000,
    "cast": [
@@ -329,7 +329,7 @@
    "vote_average": 6.14,
    "vote_count": 479
   },
-  "2487": {
+  "movie:2487": {
    "backdrop_path": "/sNEO4KDId8ZHpZgKwiFDcuNuaNF.jpg",
    "budget": 0,
    "cast": [
@@ -509,7 +509,7 @@
    "vote_average": 7.5,
    "vote_count": 450
   },
-  "339987": {
+  "movie:339987": {
    "backdrop_path": "/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
    "budget": 0,
    "cast": [
@@ -642,7 +642,7 @@
    "vote_average": 6.895,
    "vote_count": 485
   },
-  "747687": {
+  "movie:747687": {
    "backdrop_path": "/kYJNrQ5say16fewLCdOVGjNpsX9.jpg",
    "budget": 0,
    "cast": [
@@ -747,7 +747,7 @@
    "vote_average": 6.157,
    "vote_count": 459
   },
-  "800787": {
+  "movie:800787": {
    "backdrop_path": "/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg",
    "budget": 0,
    "cast": [
@@ -856,6 +856,1736 @@
    "type": "movie",
    "vote_average": 6.984,
    "vote_count": 474
+  },
+  "tv:2187": {
+   "backdrop_path": "/tZ2kKliPcBVEKQOTYbndFdIKIB8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lieutenant Jim Dangle",
+     "n": "Thomas Lennon"
+    },
+    {
+     "c": "Deputy Sven Jones",
+     "n": "Cedric Yarbrough"
+    },
+    {
+     "c": "Deputy Trudy Wiegel",
+     "n": "Kerri Kenney"
+    },
+    {
+     "c": "Deputy Travis Junior",
+     "n": "Robert Ben Garant"
+    },
+    {
+     "c": "Deputy Raineesha Williams",
+     "n": "Niecy Nash-Betts"
+    },
+    {
+     "c": "Deputy Frank Salvatore Rizzo",
+     "n": "Joe Lo Truglio"
+    },
+    {
+     "c": "Sergeant Jack Declan",
+     "n": "Ian Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Comedy Central",
+   "created_by": [
+    "Thomas Lennon",
+    "Kerri Kenney",
+    "Robert Ben Garant"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2003-07-23",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2187,
+   "industry": "world",
+   "networks": [
+    "Comedy Central"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This partially unscripted comedy brings viewers into the squad car as incompetent officers swing into action, answering 911 calls about everything from speeding violations and prostitution to staking out a drug den. Within each episode, viewers catch a \"fly on the wall\" glimpse of the cops' often politically incorrect opinions, ranging from their personal feelings to professional critiques of their colleagues.",
+   "popularity": 31.1085,
+   "poster_path": "/jIoeMgmcGdgTDqQUq4sDWFNsPUD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 52,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-07-23",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-06-09",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-06-14",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-07-09",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-01-16",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-04-01",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Reno 911!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 205
+  },
+  "tv:2287": {
+   "backdrop_path": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Batman",
+     "n": "Adam West"
+    },
+    {
+     "c": "Robin",
+     "n": "Burt Ward"
+    },
+    {
+     "c": "Batgirl",
+     "n": "Yvonne Craig"
+    },
+    {
+     "c": "Commissioner Gordon",
+     "n": "Neil Hamilton"
+    },
+    {
+     "c": "Chief O'Hara",
+     "n": "Stafford Repp"
+    },
+    {
+     "c": "Alfred",
+     "n": "Alan Napier"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "William Dozier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "William Dozier",
+    "Lorenzo Semple Jr."
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1966-01-12",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 2287,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 120,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wealthy entrepreneur Bruce Wayne and his ward Dick Grayson lead a double life: they are actually crime fighting duo Batman and Robin. A secret Batpole in the Wayne mansion leads to the Batcave, where Police Commissioner Gordon often calls with the latest emergency threatening Gotham City. Racing to the scene of the crime in the Batmobile, Batman and Robin must (with the help of their trusty Bat-utility-belt) thwart the efforts of a variety of master criminals, including The Riddler, The Joker, Catwoman, and The Penguin.",
+   "popularity": 41.7528,
+   "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 26,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1966-01-12",
+     "episode_count": 34,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1966-09-07",
+     "episode_count": 60,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1967-09-14",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The worst is yet to come.",
+   "title": "Batman",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 629
+  },
+  "tv:387": {
+   "backdrop_path": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "SpongeBob SquarePants / Gary the Snail / French Narrator (voice) / Patchy The Pirate",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Patrick Star (voice)",
+     "n": "Bill Fagerbakke"
+    },
+    {
+     "c": "Squidward (voice)",
+     "n": "Rodger Bumpass"
+    },
+    {
+     "c": "Mr. Krabs (voice)",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Sandy Cheeks (voice)",
+     "n": "Carolyn Lawrence"
+    },
+    {
+     "c": "Mrs. Puff (voice)",
+     "n": "Mary Jo Catlett"
+    },
+    {
+     "c": "Plankton / Larry the Lobster (voice)",
+     "n": "Mr. Lawrence"
+    },
+    {
+     "c": "Karen Plankton (voice)",
+     "n": "Jill Talley"
+    },
+    {
+     "c": "Pearl Krabs (voice)",
+     "n": "Lori Alan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Stephen Hillenburg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-05-01",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 387,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 659,
+   "number_of_seasons": 18,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+   "popularity": 106.072,
+   "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sensical Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-01-01",
+     "episode_count": 113,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-05-01",
+     "episode_count": 41,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-10-26",
+     "episode_count": 36,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-01-21",
+     "episode_count": 40,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-05-06",
+     "episode_count": 40,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-04-13",
+     "episode_count": 36,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-03-03",
+     "episode_count": 47,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-07-19",
+     "episode_count": 52,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-03-26",
+     "episode_count": 52,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-10-27",
+     "episode_count": 47,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2017-02-25",
+     "episode_count": 20,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2017-09-23",
+     "episode_count": 51,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2019-01-12",
+     "episode_count": 35,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2020-10-22",
+     "episode_count": 64,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2023-11-02",
+     "episode_count": 23,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2024-12-03",
+     "episode_count": 24,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2025-06-27",
+     "episode_count": 22,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2026-06-12",
+     "episode_count": 26,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2026-11-27",
+     "episode_count": 3,
+     "name": "Season 18",
+     "season_number": 18
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Be there and be square!",
+   "title": "SpongeBob SquarePants",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.723,
+   "vote_count": 3308
+  },
+  "tv:4087": {
+   "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fox Mulder",
+     "n": "David Duchovny"
+    },
+    {
+     "c": "Dana Scully",
+     "n": "Gillian Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Chris Carter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-09-10",
+   "genres": [
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Crime"
+   ],
+   "id": 4087,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 218,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+   "popularity": 103.3286,
+   "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 122,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-09-10",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-16",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-22",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-10-04",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-11-02",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-11-08",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-11-07",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2000-11-05",
+     "episode_count": 21,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-11-11",
+     "episode_count": 20,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2016-01-24",
+     "episode_count": 6,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2018-01-03",
+     "episode_count": 10,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The truth is out there.",
+   "title": "The X-Files",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 3789
+  },
+  "tv:5687": {
+   "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Papa Smurf (voice)",
+     "n": "Don Messick"
+    },
+    {
+     "c": "Smurfette (voice)",
+     "n": "Lucille Bliss"
+    },
+    {
+     "c": "Hefty Smurf (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Handy Smurf (voice)",
+     "n": "Michael Bell"
+    },
+    {
+     "c": "Jokey Smurf (voice)",
+     "n": "June Foray"
+    },
+    {
+     "c": "Gargamel (voice)",
+     "n": "Paul Winchell"
+    },
+    {
+     "c": "Brainy Smurf (voice)",
+     "n": "Danny Goldman"
+    },
+    {
+     "c": "Greedy Smurf (voice)",
+     "n": "Hamilton Camp"
+    },
+    {
+     "c": "Clumsy Smurf (voice)",
+     "n": "William Callaway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Peyo"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11,
+    22
+   ],
+   "first_air_date": "1981-09-12",
+   "genres": [
+    "Animation",
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Kids",
+    "Comedy"
+   ],
+   "id": 5687,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 422,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
+   "popularity": 49.2342,
+   "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+   "production_countries": [
+    "BE",
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1982-04-08",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1981-09-12",
+     "episode_count": 39,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1982-09-18",
+     "episode_count": 46,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1983-09-17",
+     "episode_count": 55,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1984-09-15",
+     "episode_count": 48,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1985-09-21",
+     "episode_count": 40,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1986-09-13",
+     "episode_count": 63,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1987-09-19",
+     "episode_count": 67,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1988-09-10",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1989-09-09",
+     "episode_count": 40,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Smurfs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 605
+  },
+  "tv:61387": {
+   "backdrop_path": "/gEEp2TJC8gLVzLmdR8m7dxgPB3p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dwayne Pride",
+     "n": "Scott Bakula"
+    },
+    {
+     "c": "Tammy Gregorio",
+     "n": "Vanessa Ferlito"
+    },
+    {
+     "c": "Hannah Khoury",
+     "n": "Necar Zadegan"
+    },
+    {
+     "c": "Quentin Carter",
+     "n": "Charles Michael Davis"
+    },
+    {
+     "c": "Sebastian Lund",
+     "n": "Rob Kerkovich"
+    },
+    {
+     "c": "Patton 'Triple P' Plame",
+     "n": "Daryl Mitchell"
+    },
+    {
+     "c": "Loretta Wade",
+     "n": "CCH Pounder"
+    },
+    {
+     "c": "Rita Deveraux",
+     "n": "Chelsea Field"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Gary Glasberg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2014-09-23",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 61387,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 155,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A drama about the local field office that investigates criminal cases affecting military personnel in The Big Easy, a city known for its music, entertainment and decadence.",
+   "popularity": 39.2526,
+   "poster_path": "/1WJJUUZODmRTcFydLDBUtiztL6x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-23",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-22",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-11-08",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "New Orleans is a city of secrets. This team uncovers them.",
+   "title": "NCIS: New Orleans",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.278,
+   "vote_count": 484
+  },
+  "tv:987": {
+   "backdrop_path": "/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Frank Hursley",
+    "Doris Hursley"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1963-04-01",
+   "genres": [
+    "Soap"
+   ],
+   "id": 987,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 10866,
+   "number_of_seasons": 64,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+   "popularity": 33.7564,
+   "poster_path": "/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-12-14",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1963-04-01",
+     "episode_count": 2,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "1980-05-14",
+     "episode_count": 30,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1984-01-02",
+     "episode_count": 261,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1985-01-01",
+     "episode_count": 260,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1986-01-01",
+     "episode_count": 261,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "1987-01-02",
+     "episode_count": 260,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1988-01-04",
+     "episode_count": 259,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "1989-01-03",
+     "episode_count": 256,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "1990-01-01",
+     "episode_count": 259,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "1991-01-02",
+     "episode_count": 257,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "1992-01-01",
+     "episode_count": 259,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "1993-01-03",
+     "episode_count": 260,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "1994-01-03",
+     "episode_count": 258,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "1995-01-03",
+     "episode_count": 258,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "1996-01-02",
+     "episode_count": 261,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "1997-01-02",
+     "episode_count": 258,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "1998-01-02",
+     "episode_count": 256,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "1999-01-04",
+     "episode_count": 258,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2000-01-03",
+     "episode_count": 257,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2001-01-02",
+     "episode_count": 254,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2002-01-02",
+     "episode_count": 258,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2003-01-02",
+     "episode_count": 257,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2004-01-02",
+     "episode_count": 258,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2005-01-02",
+     "episode_count": 257,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2006-01-03",
+     "episode_count": 257,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2007-01-02",
+     "episode_count": 256,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2008-01-02",
+     "episode_count": 254,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2009-01-02",
+     "episode_count": 251,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2010-01-04",
+     "episode_count": 63,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2010-03-31",
+     "episode_count": 248,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2011-04-01",
+     "episode_count": 255,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2012-04-01",
+     "episode_count": 248,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2013-03-31",
+     "episode_count": 248,
+     "name": "Season 51",
+     "season_number": 51
+    },
+    {
+     "air_date": "2014-03-31",
+     "episode_count": 251,
+     "name": "Season 52",
+     "season_number": 52
+    },
+    {
+     "air_date": "2015-03-31",
+     "episode_count": 253,
+     "name": "Season 53",
+     "season_number": 53
+    },
+    {
+     "air_date": "2016-03-31",
+     "episode_count": 249,
+     "name": "Season 54",
+     "season_number": 54
+    },
+    {
+     "air_date": "2017-04-02",
+     "episode_count": 250,
+     "name": "Season 55",
+     "season_number": 55
+    },
+    {
+     "air_date": "2018-04-01",
+     "episode_count": 246,
+     "name": "Season 56",
+     "season_number": 56
+    },
+    {
+     "air_date": "2019-03-31",
+     "episode_count": 246,
+     "name": "Season 57",
+     "season_number": 57
+    },
+    {
+     "air_date": "2020-03-31",
+     "episode_count": 298,
+     "name": "Season 58",
+     "season_number": 58
+    },
+    {
+     "air_date": "2021-09-12",
+     "episode_count": 244,
+     "name": "Season 59",
+     "season_number": 59
+    },
+    {
+     "air_date": "2022-09-12",
+     "episode_count": 245,
+     "name": "Season 60",
+     "season_number": 60
+    },
+    {
+     "air_date": "2023-09-05",
+     "episode_count": 250,
+     "name": "Season 61",
+     "season_number": 61
+    },
+    {
+     "air_date": "2024-09-03",
+     "episode_count": 251,
+     "name": "Season 62",
+     "season_number": 62
+    },
+    {
+     "air_date": "2025-09-08",
+     "episode_count": 250,
+     "name": "Season 63",
+     "season_number": 63
+    },
+    {
+     "air_date": "2026-09-08",
+     "episode_count": 59,
+     "name": "Season 64",
+     "season_number": 64
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "General Hospital",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.8,
+   "vote_count": 219
   }
  }
 }

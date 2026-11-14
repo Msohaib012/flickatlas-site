@@ -1,8 +1,8 @@
 {
  "bucket": "59",
- "count": 9,
+ "count": 13,
  "titles": {
-  "104859": {
+  "movie:104859": {
    "backdrop_path": "/hozr6lmxzdEAwADSINd4YQjmTg6.jpg",
    "budget": 0,
    "cast": [
@@ -174,7 +174,7 @@
    "vote_average": 6.494,
    "vote_count": 469
   },
-  "10859": {
+  "movie:10859": {
    "backdrop_path": "/t6cgMy0nJXEBuCFxjerZiHbBJiy.jpg",
    "budget": 14500000,
    "cast": [
@@ -277,7 +277,7 @@
    "vote_average": 6.487,
    "vote_count": 482
   },
-  "11059": {
+  "movie:11059": {
    "backdrop_path": "/aNUEHLNsNMprLZt6fjf5nqDq6er.jpg",
    "budget": 12000000,
    "cast": [
@@ -442,7 +442,7 @@
    "vote_average": 3.11,
    "vote_count": 444
   },
-  "11959": {
+  "movie:11959": {
    "backdrop_path": "/dAz8vPSI2daM4ZVrHSKnpNLUvDM.jpg",
    "budget": 5000000,
    "cast": [
@@ -552,7 +552,7 @@
    "vote_average": 6.66,
    "vote_count": 441
   },
-  "13159": {
+  "movie:13159": {
    "backdrop_path": "/kE3HQaJx9IuQCMIn3VVCXazXTea.jpg",
    "budget": 20000000,
    "cast": [
@@ -731,7 +731,7 @@
    "vote_average": 5.963,
    "vote_count": 496
   },
-  "14859": {
+  "movie:14859": {
    "backdrop_path": "/emBph7jfl9XYAwJovxjsAzM6mKq.jpg",
    "budget": 0,
    "cast": [
@@ -873,7 +873,7 @@
    "vote_average": 7.033,
    "vote_count": 499
   },
-  "1859": {
+  "movie:1859": {
    "backdrop_path": "/AjYX2r2dn1s31A8fDaPPiYRrZ6L.jpg",
    "budget": 1365000,
    "cast": [
@@ -974,7 +974,7 @@
    "vote_average": 7.5,
    "vote_count": 462
   },
-  "30959": {
+  "movie:30959": {
    "backdrop_path": "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
    "budget": 885000,
    "cast": [
@@ -1175,7 +1175,7 @@
    "vote_average": 7.738,
    "vote_count": 491
   },
-  "460059": {
+  "movie:460059": {
    "backdrop_path": "/JYyQPEd22hldQLIaNLZI5oFvmM.jpg",
    "budget": 0,
    "cast": [
@@ -1268,6 +1268,595 @@
    "type": "movie",
    "vote_average": 6.725,
    "vote_count": 473
+  },
+  "tv:1759": {
+   "backdrop_path": "/wWXFRPABf2D0eFjYNXNM0JhmTZF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heathcliff Huxtable",
+     "n": "Bill Cosby"
+    },
+    {
+     "c": "Clair Huxtable",
+     "n": "Phylicia Rashād"
+    },
+    {
+     "c": "Theo Huxtable",
+     "n": "Malcolm-Jamal Warner"
+    },
+    {
+     "c": "Vanessa Huxtable",
+     "n": "Tempestt Bledsoe"
+    },
+    {
+     "c": "Rudy Huxtable",
+     "n": "Keshia Knight Pulliam"
+    },
+    {
+     "c": "Sondra Huxtable",
+     "n": "Sabrina Le Beauf"
+    },
+    {
+     "c": "Elvin Tibideaux",
+     "n": "Geoffrey Owens"
+    },
+    {
+     "c": "Olivia Kendall",
+     "n": "Raven-Symoné"
+    },
+    {
+     "c": "Pam Tucker",
+     "n": "Erika Alexander"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Bill Cosby",
+    "Michael J. Leeson",
+    "Ed. Weinberger"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1984-09-20",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 1759,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 197,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Cosby Show is an American television situation comedy starring Bill Cosby, which aired for eight seasons on NBC from September 20, 1984 until April 30, 1992. The show focuses on the Huxtable family, an upper middle-class African-American family living in Brooklyn, New York.",
+   "popularity": 44.3398,
+   "poster_path": "/dc6sR5FWN4uX8fZENq2UTsrSg3x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-05-19",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-09-20",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-26",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-25",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-24",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-10-06",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1989-09-21",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1990-09-20",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1991-09-19",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Cosby Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.995,
+   "vote_count": 525
+  },
+  "tv:2359": {
+   "backdrop_path": "/eyi5tMbK6fRtXNFffUTIhRiX0LT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Crawford",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Caitlin Moore",
+     "n": "Heather Locklear"
+    },
+    {
+     "c": "Randall Winston",
+     "n": "Barry Bostwick"
+    },
+    {
+     "c": "Paul Lassiter",
+     "n": "Richard Kind"
+    },
+    {
+     "c": "Stuart Bondek",
+     "n": "Alan Ruck"
+    },
+    {
+     "c": "Carter Heywood",
+     "n": "Michael Boatman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Gary David Goldberg",
+    "Bill Lawrence"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1996-09-17",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 2359,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 145,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Workaholic Mike Flaherty is the Deputy Mayor of New York City, serving as Mayor Randall Winston's key strategist and much-needed handler. Mike runs the city with the help of his oddball staff: an anxious and insecure press secretary; a sexist, boorish chief of staff; an impeccably groomed gay activist running minority affairs; a sharp and efficient, man-crazy accountant; and an idealistic young speechwriter. Like Mike, they are all professionally capable but personally challenged.",
+   "popularity": 31.6308,
+   "poster_path": "/3Ksmbpg33PigXKWncD8rFMl24vF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-10-24",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-09-17",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-24",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-09-22",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-21",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2000-10-18",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2001-09-25",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Spin City",
+   "trailer": {
+    "key": "FNigmlUFack",
+    "name": "Spin City - Seasons 1-6 (Complete Series) Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.046,
+   "vote_count": 358
+  },
+  "tv:312359": {
+   "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku / Son Goten (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Vegeta (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "Chichi (voice)",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "Mr. Satan (voice)",
+     "n": "Unsho Ishizuka"
+    },
+    {
+     "c": "Beerus (voice)",
+     "n": "Koichi Yamadera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 312359,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Tokai Television Broadcasting",
+    "Kansai TV",
+    "Fukui TV",
+    "Hokkaido Cultural Broadcasting",
+    "Iwate Menkoi Television",
+    "TOS",
+    "Sendai Television",
+    "SAGA TV",
+    "Ishikawa TV",
+    "TNC",
+    "OHK",
+    "Kochi Sun Sun Broadcasting",
+    "Television Shin Hiroshima System",
+    "TV Shizuoka",
+    "UMK TV Miyazaki",
+    "NST",
+    "NBS",
+    "Sakuranbo TV",
+    "TSK",
+    "Ehime Broadcasting",
+    "KTS",
+    "Fukushima TV",
+    "AKT",
+    "Toyama Television",
+    "TV Kumamoto",
+    "Okinawa Television Broadcasting",
+    "KTN"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+   "popularity": 87.2976,
+   "poster_path": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-10",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Dragon Ball Super: Beerus",
+   "trailer": {
+    "key": "lJMXyiENRAM",
+    "name": "Official English Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.628,
+   "vote_count": 414
+  },
+  "tv:60059": {
+   "backdrop_path": "/rfxryDIv8huejujg4JueDJx8zCz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jimmy McGill",
+     "n": "Bob Odenkirk"
+    },
+    {
+     "c": "Mike Ehrmantraut",
+     "n": "Jonathan Banks"
+    },
+    {
+     "c": "Kim Wexler",
+     "n": "Rhea Seehorn"
+    },
+    {
+     "c": "Lalo Salamanca",
+     "n": "Tony Dalton"
+    },
+    {
+     "c": "Gus Fring",
+     "n": "Giancarlo Esposito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "AMC",
+   "created_by": [
+    "Vince Gilligan",
+    "Peter Gould"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-02-08",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 60059,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+   "popularity": 92.6328,
+   "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-11-10",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-02-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-02-15",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-10",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-08-06",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-02-23",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-04-18",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "Putting the \"criminal\" in \"criminal lawyer.\"",
+   "title": "Better Call Saul",
+   "trailer": {
+    "key": "HN4oydykJFc",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.716,
+   "vote_count": 7092
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "48",
- "count": 9,
+ "count": 16,
  "titles": {
-  "14648": {
+  "movie:14648": {
    "backdrop_path": "/9XizmVKaw8Fce9J8YUY1LN0i6EQ.jpg",
    "budget": 0,
    "cast": [
@@ -141,7 +141,7 @@
    "vote_average": 5.94,
    "vote_count": 481
   },
-  "152748": {
+  "movie:152748": {
    "backdrop_path": "/jRxc6dVw7AxRUuOtFxmGop0IZ5p.jpg",
    "budget": 4000000,
    "cast": [
@@ -304,7 +304,7 @@
    "vote_average": 6.09,
    "vote_count": 478
   },
-  "2148": {
+  "movie:2148": {
    "backdrop_path": "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
    "budget": 58000000,
    "cast": [
@@ -466,7 +466,7 @@
    "vote_average": 6.483,
    "vote_count": 459
   },
-  "26748": {
+  "movie:26748": {
    "backdrop_path": "/vsxo1dkhRHd9YT9Um5IaxvnF8Yt.jpg",
    "budget": 5000000,
    "cast": [
@@ -649,7 +649,7 @@
    "vote_average": 7.056,
    "vote_count": 441
   },
-  "301348": {
+  "movie:301348": {
    "backdrop_path": "/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
    "budget": 5000000,
    "cast": [
@@ -761,7 +761,7 @@
    "vote_average": 6.0,
    "vote_count": 452
   },
-  "325848": {
+  "movie:325848": {
    "backdrop_path": "/fkVNy4cJOQVTelANXu0wh5wQ8hL.jpg",
    "budget": 0,
    "cast": [
@@ -918,7 +918,7 @@
    "vote_average": 5.793,
    "vote_count": 496
   },
-  "427348": {
+  "movie:427348": {
    "backdrop_path": "/mBmxc4EQi8GlNAgtx7r9SRxOivK.jpg",
    "budget": 0,
    "cast": [
@@ -1008,7 +1008,7 @@
    "vote_average": 6.7,
    "vote_count": 454
   },
-  "438348": {
+  "movie:438348": {
    "backdrop_path": "/lSHVojy2zwL5AzwIqwY1CmgRVde.jpg",
    "budget": 0,
    "cast": [
@@ -1111,7 +1111,7 @@
    "vote_average": 6.401,
    "vote_count": 483
   },
-  "970348": {
+  "movie:970348": {
    "backdrop_path": "/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
    "budget": 0,
    "cast": [
@@ -1277,6 +1277,1184 @@
    "type": "movie",
    "vote_average": 7.189,
    "vote_count": 446
+  },
+  "tv:105248": {
+   "backdrop_path": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "D (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Roman (voice)",
+     "n": "Momoka Terasawa"
+    },
+    {
+     "c": "Talia (voice)",
+     "n": "Akari Kito"
+    },
+    {
+     "c": "Weak (voice)",
+     "n": "Kentaro Tone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Rafał Jaki",
+    "Bartosz Sztybor"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-09-13",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Crime"
+   ],
+   "id": 105248,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP",
+    "PL",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "popularity": 55.7668,
+   "poster_path": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "production_countries": [
+    "JP",
+    "PL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-09-13",
+     "episode_count": 10,
+     "name": "Cyberpunk: Edgerunners",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-20",
+     "episode_count": 10,
+     "name": "Cyberpunk: Edgerunners 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "New legends. Same Night City.",
+   "title": "Cyberpunk: Edgerunners",
+   "trailer": {
+    "key": "JtqIas3bYhg",
+    "name": "Official NSFW Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.504,
+   "vote_count": 2149
+  },
+  "tv:1848": {
+   "backdrop_path": "/gPLVnGRW1lXb8wBauIG41kQkoCX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bloom (voice)",
+     "n": "Letizia Ciampa"
+    },
+    {
+     "c": "Stella (voice)",
+     "n": "Perla Liberatori"
+    },
+    {
+     "c": "Flora (voice)",
+     "n": "Ilaria Latini"
+    },
+    {
+     "c": "Musa (voice)",
+     "n": "Gemma Donati"
+    },
+    {
+     "c": "Tecna (voice)",
+     "n": "Domitilla D'Amico"
+    },
+    {
+     "c": "Aisha (voice)",
+     "n": "Laura Lenghi"
+    },
+    {
+     "c": "Darcy (voice)",
+     "n": "Federica De Bortoli"
+    },
+    {
+     "c": "Stormy (voice)",
+     "n": "Valeria Vidali"
+    },
+    {
+     "c": "Sky (voice)",
+     "n": "Alessandro Quarta"
+    },
+    {
+     "c": "Griffin (voice)",
+     "n": "Antonella Giannini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Iginio Straffi"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2004-01-28",
+   "genres": [
+    "Kids",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 1848,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon",
+    "Nick Jr.",
+    "Rai 2",
+    "Rai YoYo"
+   ],
+   "number_of_episodes": 208,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In a magical universe, witches, warriors begin fighting in the name of good .vs. evil! At a magic school, five teenage girls are selected to defend the universe with their magic.",
+   "popularity": 35.9181,
+   "poster_path": "/iAEh0rhHfq0oPdsZbsCSNPRBHXW.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Winx Club & Friends Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-11-30",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-01-28",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-04-19",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-30",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-04-15",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-10-16",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-04-15",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "The magic's in you!",
+   "title": "Winx Club",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 562
+  },
+  "tv:46648": {
+   "backdrop_path": "/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Liz Danvers",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Evangeline Navarro",
+     "n": "Kali Reis"
+    },
+    {
+     "c": "Rose Aguineau",
+     "n": "Fiona Shaw"
+    },
+    {
+     "c": "Peter Prior",
+     "n": "Finn Bennett"
+    },
+    {
+     "c": "Leah Danvers",
+     "n": "Isabella Star LaBlanc"
+    },
+    {
+     "c": "Hank Prior",
+     "n": "John Hawkes"
+    },
+    {
+     "c": "Student (uncredited)",
+     "n": "Grace Pitts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Nic Pizzolatto",
+    "Issa López"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-01-12",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 46648,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+   "popularity": 194.6286,
+   "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-01-07",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-01-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-06-21",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-01-13",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-01-14",
+     "episode_count": 6,
+     "name": "Night Country",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The truth lies in the dark.",
+   "title": "True Detective",
+   "trailer": {
+    "key": "fVQUcaO4AvE",
+    "name": "Official HBO UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.294,
+   "vote_count": 4486
+  },
+  "tv:648": {
+   "backdrop_path": "/vl2lLJcbbnTcvWH6ZfHlXuLxIaP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Banner",
+     "n": "Bill Bixby"
+    },
+    {
+     "c": "Incredible Hulk",
+     "n": "Lou Ferrigno"
+    },
+    {
+     "c": "Jack McGee",
+     "n": "Jack Colvin"
+    },
+    {
+     "c": "Hulk (voice)",
+     "n": "Charles Napier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Kenneth Johnson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "1977-11-04",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 648,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 82,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
+   "popularity": 25.6847,
+   "poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1977-11-04",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1977-11-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1978-09-22",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1979-09-21",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1980-11-07",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1981-10-02",
+     "episode_count": 7,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Driven by rage. Pursued by an investigative reporter. Wanted for a murder he didn't commit. No one ever said it was easy being green.",
+   "title": "The Incredible Hulk",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.24,
+   "vote_count": 526
+  },
+  "tv:80748": {
+   "backdrop_path": "/j9nU0GHNakbQhoFCDE61OrvMjTC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maggie Bell",
+     "n": "Missy Peregrym"
+    },
+    {
+     "c": "Omar Adom 'OA' Zidan",
+     "n": "Zeeko Zaki"
+    },
+    {
+     "c": "Stuart Scola",
+     "n": "John Boyd"
+    },
+    {
+     "c": "Jubal Valentine",
+     "n": "Jeremy Sisto"
+    },
+    {
+     "c": "Isobel Castille",
+     "n": "Alana de la Garza"
+    },
+    {
+     "c": "Eva Ramos",
+     "n": "Juliana Aidén Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Dick Wolf",
+    "Craig Turk"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-09-25",
+   "genres": [
+    "Crime",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 80748,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 167,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+   "popularity": 100.7631,
+   "poster_path": "/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 19,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-11-17",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-09-21",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-20",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-02-13",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-10-15",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2025-10-13",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2026-10-05",
+     "episode_count": 10,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Fidelity, Bravery, Integrity.",
+   "title": "FBI",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.922,
+   "vote_count": 969
+  },
+  "tv:85948": {
+   "backdrop_path": "/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beckett Mariner (voice)",
+     "n": "Tawny Newsome"
+    },
+    {
+     "c": "Brad Boimler (voice)",
+     "n": "Jack Quaid"
+    },
+    {
+     "c": "D'Vana Tendi (voice)",
+     "n": "Noël Wells"
+    },
+    {
+     "c": "Sam Rutherford (voice)",
+     "n": "Eugene Cordero"
+    },
+    {
+     "c": "Carol Freeman (voice)",
+     "n": "Dawnn Lewis"
+    },
+    {
+     "c": "T’Ana (voice)",
+     "n": "Gillian Vigman"
+    },
+    {
+     "c": "Jack Ransom (voice)",
+     "n": "Jerry O'Connell"
+    },
+    {
+     "c": "Shaxs (voice)",
+     "n": "Fred Tatasciore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS All Access",
+   "created_by": [
+    "Mike McMahan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    27
+   ],
+   "first_air_date": "2020-08-06",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 85948,
+   "industry": "world",
+   "networks": [
+    "CBS All Access",
+    "Paramount+"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lives of the support crew serving on one of Starfleet's least important ships, the U.S.S. Cerritos, in 2380. Ensigns Mariner, Boimler, Rutherford and Tendi have to keep up with their duties and their social lives, often while the ship is being rocked by a multitude of sci-fi anomalies.",
+   "popularity": 28.221,
+   "poster_path": "/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-07-23",
+     "episode_count": 50,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-08-06",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-08-12",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-08-25",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-09-07",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-10-24",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The adventure begins when their shift ends.",
+   "title": "Star Trek: Lower Decks",
+   "trailer": {
+    "key": "BO0jw-7gCaY",
+    "name": "Star Trek: Lower Decks Premieres August 6",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 498
+  },
+  "tv:86848": {
+   "backdrop_path": "/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr Kristen Bouchard",
+     "n": "Katja Herbers"
+    },
+    {
+     "c": "David Acosta",
+     "n": "Mike Colter"
+    },
+    {
+     "c": "Ben Shakir",
+     "n": "Aasif Mandvi"
+    },
+    {
+     "c": "Dr Leland Townsend",
+     "n": "Michael Emerson"
+    },
+    {
+     "c": "Lynn Bouchard",
+     "n": "Brooklyn Shuck"
+    },
+    {
+     "c": "Lila Bouchard",
+     "n": "Skylar Gray"
+    },
+    {
+     "c": "Lexis Bouchard",
+     "n": "Maddy Crocco"
+    },
+    {
+     "c": "Laura Bouchard",
+     "n": "Dalya Knapp"
+    },
+    {
+     "c": "Sister Andrea",
+     "n": "Andrea Martin"
+    },
+    {
+     "c": "Dr. Kurt Boggs",
+     "n": "Kurt Fuller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "CBS",
+   "created_by": [
+    "Michelle King",
+    "Robert King"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2019-09-26",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 86848,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "Paramount+"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.",
+   "popularity": 29.3808,
+   "poster_path": "/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-06-20",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-06-12",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-05-23",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Some mysteries can’t be explained.",
+   "title": "Evil",
+   "trailer": {
+    "key": "WFvo3fS4Zwc",
+    "name": "Evil On CBS | First Look",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.835,
+   "vote_count": 1105
   }
  }
 }

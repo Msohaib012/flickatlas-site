@@ -1,8 +1,8 @@
 {
  "bucket": "65",
- "count": 10,
+ "count": 16,
  "titles": {
-  "1001865": {
+  "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
    "budget": 0,
    "cast": [
@@ -110,7 +110,7 @@
    "vote_average": 6.8,
    "vote_count": 498
   },
-  "1043565": {
+  "movie:1043565": {
    "backdrop_path": "/ekZUWo5XtSrfe10RKWrL0YKkq9b.jpg",
    "budget": 0,
    "cast": [
@@ -260,7 +260,7 @@
    "vote_average": 5.851,
    "vote_count": 451
   },
-  "10765": {
+  "movie:10765": {
    "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
    "budget": 15000000,
    "cast": [
@@ -379,7 +379,7 @@
    "vote_average": 5.956,
    "vote_count": 439
   },
-  "12165": {
+  "movie:12165": {
    "backdrop_path": "/7BSSLv4MvBjEmercZIolaOUR42q.jpg",
    "budget": 20000000,
    "cast": [
@@ -552,7 +552,7 @@
    "vote_average": 6.6,
    "vote_count": 481
   },
-  "1242265": {
+  "movie:1242265": {
    "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
    "budget": 45000000,
    "cast": [
@@ -744,7 +744,7 @@
    "vote_average": 7.1,
    "vote_count": 497
   },
-  "13665": {
+  "movie:13665": {
    "backdrop_path": "/s7m59L9kv1JufLXsrWRRow9k2vT.jpg",
    "budget": 7000000,
    "cast": [
@@ -848,7 +848,7 @@
    "vote_average": 6.5,
    "vote_count": 490
   },
-  "15265": {
+  "movie:15265": {
    "backdrop_path": "/w9QL9kd2SijhGNxB8cYBrGWUQy2.jpg",
    "budget": 0,
    "cast": [
@@ -973,7 +973,7 @@
    "vote_average": 7.742,
    "vote_count": 463
   },
-  "426865": {
+  "movie:426865": {
    "backdrop_path": "/s5Dz4TsaW5jyLw5GS73jgqgwHsZ.jpg",
    "budget": 0,
    "cast": [
@@ -1096,7 +1096,7 @@
    "vote_average": 6.926,
    "vote_count": 482
   },
-  "430365": {
+  "movie:430365": {
    "backdrop_path": "/itPvsJxgKLp83rAGjSKLMUvdu2f.jpg",
    "budget": 0,
    "cast": [
@@ -1216,7 +1216,7 @@
    "vote_average": 5.2,
    "vote_count": 495
   },
-  "724665": {
+  "movie:724665": {
    "backdrop_path": "/3xGfsAYAxVmYj1CbE5vAkmMJbHo.jpg",
    "budget": 20000000,
    "cast": [
@@ -1351,6 +1351,1076 @@
    "type": "movie",
    "vote_average": 6.184,
    "vote_count": 439
+  },
+  "tv:117465": {
+   "backdrop_path": "/zlXW7Y5LvqTQBlhalMKc0gUrYYE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabimaru (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Yamada Asaemon Sagiri (voice)",
+     "n": "Yumiri Hanamori"
+    },
+    {
+     "c": "Aza Chobei (voice)",
+     "n": "Ryohei Kimura"
+    },
+    {
+     "c": "Yuzuriha (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Tamiya Gantetsusai (voice)",
+     "n": "Tetsu Inada"
+    },
+    {
+     "c": "Yamada Asaemon Fuchi (voice)",
+     "n": "Aoi Ichikawa"
+    },
+    {
+     "c": "Nurugai (voice)",
+     "n": "Makoto Koichi"
+    },
+    {
+     "c": "Yamada Asaemon Senta (voice)",
+     "n": "Daiki Yamashita"
+    },
+    {
+     "c": "Mei (voice)",
+     "n": "Konomi Kohara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "TV Tokyo",
+   "created_by": [
+    "Yuji Kaku"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2023-04-01",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 117465,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+   "popularity": 27.0597,
+   "poster_path": "/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-11",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-04-01",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Nothing will ever be allowed to have any say in how we live...not even death itself.",
+   "title": "Hell's Paradise",
+   "trailer": {
+    "key": "PkCcADlua1w",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.212,
+   "vote_count": 543
+  },
+  "tv:18165": {
+   "backdrop_path": "/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stefan Salvatore",
+     "n": "Paul Wesley"
+    },
+    {
+     "c": "Damon Salvatore",
+     "n": "Ian Somerhalder"
+    },
+    {
+     "c": "Bonnie Bennett",
+     "n": "Kat Graham"
+    },
+    {
+     "c": "Caroline Forbes",
+     "n": "Candice King"
+    },
+    {
+     "c": "Matt Donovan",
+     "n": "Zach Roerig"
+    },
+    {
+     "c": "Enzo St. John",
+     "n": "Michael Malarkey"
+    },
+    {
+     "c": "Alaric Saltzman",
+     "n": "Matthew Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Julie Plec",
+    "Kevin Williamson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2009-09-10",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 18165,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 171,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+   "popularity": 1228.5641,
+   "poster_path": "/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-08-24",
+     "episode_count": 54,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-10",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-09",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-15",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-10-11",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-10-03",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-10-02",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-10-08",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-10-21",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You remember your first kiss forever... and ever.",
+   "title": "The Vampire Diaries",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.297,
+   "vote_count": 9847
+  },
+  "tv:258165": {
+   "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cathy Ames",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Adam Trask",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Charles Trask",
+     "n": "Mike Faist"
+    },
+    {
+     "c": "Caleb Trask",
+     "n": "Joseph Zada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Zoe Kazan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-01",
+   "genres": [
+    "Drama"
+   ],
+   "id": 258165,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+   "popularity": 22.5253,
+   "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-01",
+     "episode_count": 7,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You are what you choose.",
+   "title": "East of Eden",
+   "trailer": {
+    "key": "M9NWvGZViCg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.806,
+   "vote_count": 157
+  },
+  "tv:33765": {
+   "backdrop_path": "/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Twilight Sparkle (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Applejack / Rainbow Dash (voice)",
+     "n": "Ashleigh Ball"
+    },
+    {
+     "c": "Pinkie Pie / Fluttershy (voice)",
+     "n": "Andrea Libman"
+    },
+    {
+     "c": "Rarity (voice)",
+     "n": "Tabitha St. Germain"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Cathy Weseluck"
+    },
+    {
+     "c": "Princess Celestia (voice)",
+     "n": "Nicole Oliver"
+    },
+    {
+     "c": "Apple Bloom (voice)",
+     "n": "Michelle Creber"
+    },
+    {
+     "c": "Sweetie Belle (voice)",
+     "n": "Claire Margaret Corlett"
+    },
+    {
+     "c": "Scootaloo (voice)",
+     "n": "Madeleine Peters"
+    },
+    {
+     "c": "Big McIntosh (voice)",
+     "n": "Peter New"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Hub Network",
+   "created_by": [
+    "Lauren Faust"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2010-10-10",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 33765,
+   "industry": "world",
+   "networks": [
+    "Hub Network",
+    "Treehouse TV",
+    "Discovery Family"
+   ],
+   "number_of_episodes": 221,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+   "popularity": 91.1386,
+   "poster_path": "/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Hasbrotv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-05-28",
+     "episode_count": 56,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-10-10",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-17",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-11-10",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-11-23",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-04-04",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-03-26",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-04-15",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2018-03-24",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2019-04-06",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Little Pony: Friendship Is Magic",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.195,
+   "vote_count": 789
+  },
+  "tv:47665": {
+   "backdrop_path": "/A7lo83g09i3cDmLRKtDiiYN8w0z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain James Flint",
+     "n": "Toby Stephens"
+    },
+    {
+     "c": "John Silver",
+     "n": "Luke Arnold"
+    },
+    {
+     "c": "Eleanor Guthrie",
+     "n": "Hannah New"
+    },
+    {
+     "c": "Max",
+     "n": "Jessica Parker Kennedy"
+    },
+    {
+     "c": "Jack Rackham",
+     "n": "Toby Schmitz"
+    },
+    {
+     "c": "William \"Billy Bones\" Manderly",
+     "n": "Tom Hopper"
+    },
+    {
+     "c": "Anne Bonny",
+     "n": "Clara Paget"
+    },
+    {
+     "c": "Blackbeard",
+     "n": "Ray Stevenson"
+    },
+    {
+     "c": "Woodes Rogers",
+     "n": "Luke Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Robert Levine",
+    "Jonathan E. Steinberg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2014-01-25",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 47665,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The pirate adventures of Captain Flint and his men twenty years prior to Robert Louis Stevenson’s classic “Treasure Island.” Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.",
+   "popularity": 25.8193,
+   "poster_path": "/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+   "production_countries": [
+    "ZA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-12-23",
+     "episode_count": 21,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-01-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-01-24",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-01-23",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-01-29",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "Take what's yours.",
+   "title": "Black Sails",
+   "trailer": {
+    "key": "rT2Y5jjBNpQ",
+    "name": "Black Sails | Official Trailer | STARZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.627,
+   "vote_count": 1554
+  },
+  "tv:61865": {
+   "backdrop_path": "/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth Thatcher",
+     "n": "Erin Krakow"
+    },
+    {
+     "c": "Rosemary LeVeaux",
+     "n": "Pascale Hutton"
+    },
+    {
+     "c": "Bill Avery",
+     "n": "Jack Wagner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Hallmark Channel",
+   "created_by": [
+    "Michael Landon Jr.",
+    "Brian Bird"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-01-11",
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "id": 61865,
+   "industry": "world",
+   "networks": [
+    "Hallmark Channel"
+   ],
+   "number_of_episodes": 139,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+   "popularity": 37.1574,
+   "poster_path": "/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-12-25",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-01-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-04-25",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-12-26",
+     "episode_count": 9,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-02-19",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-02-18",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-02-24",
+     "episode_count": 9,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-02-23",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-02-21",
+     "episode_count": 12,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2022-03-06",
+     "episode_count": 12,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2023-07-30",
+     "episode_count": 12,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-04-07",
+     "episode_count": 12,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2025-01-05",
+     "episode_count": 12,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2026-01-04",
+     "episode_count": 12,
+     "name": "Season 13",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Good things come to those who hope.",
+   "title": "When Calls the Heart",
+   "trailer": {
+    "key": "48P1jc5tyTw",
+    "name": "Hallmark Channel - When Calls The Heart Series Premiere Promo",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.27,
+   "vote_count": 161
   }
  }
 }

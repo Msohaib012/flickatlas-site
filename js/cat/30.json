@@ -1,8 +1,8 @@
 {
  "bucket": "30",
- "count": 12,
+ "count": 16,
  "titles": {
-  "1024530": {
+  "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
    "budget": 0,
    "cast": [
@@ -108,7 +108,7 @@
    "vote_average": 5.0,
    "vote_count": 435
   },
-  "1040330": {
+  "movie:1040330": {
    "backdrop_path": "/jVsbzy5gj3McD8V6dDr7EMrLSqT.jpg",
    "budget": 0,
    "cast": [
@@ -172,7 +172,7 @@
    "vote_average": 7.2,
    "vote_count": 459
   },
-  "11330": {
+  "movie:11330": {
    "backdrop_path": "/mRqM7jaTPCdzRELR5sjOMgiDDwo.jpg",
    "budget": 0,
    "cast": [
@@ -369,7 +369,7 @@
    "vote_average": 7.173,
    "vote_count": 468
   },
-  "11830": {
+  "movie:11830": {
    "backdrop_path": "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
    "budget": 1500000,
    "cast": [
@@ -543,7 +543,7 @@
    "vote_average": 7.795,
    "vote_count": 469
   },
-  "238930": {
+  "movie:238930": {
    "backdrop_path": "/4iiIIBk4Aw2GpSfrkvk8GWiwOxd.jpg",
    "budget": 0,
    "cast": [
@@ -631,7 +631,7 @@
    "vote_average": 3.9,
    "vote_count": 450
   },
-  "339530": {
+  "movie:339530": {
    "backdrop_path": "/7dp89ED6xDTNYMIHOzRXbr9niQQ.jpg",
    "budget": 0,
    "cast": [
@@ -739,7 +739,7 @@
    "vote_average": 5.6,
    "vote_count": 491
   },
-  "430": {
+  "movie:430": {
    "backdrop_path": "/4safDVSZx7a4I1TQoSyz6E1agzM.jpg",
    "budget": 3000000,
    "cast": [
@@ -833,7 +833,7 @@
    "vote_average": 7.498,
    "vote_count": 446
   },
-  "445030": {
+  "movie:445030": {
    "backdrop_path": "/zmJtqKaByFqYrxipeXyoAUSTD1w.jpg",
    "budget": 0,
    "cast": [
@@ -952,7 +952,7 @@
    "vote_average": 7.837,
    "vote_count": 471
   },
-  "509730": {
+  "movie:509730": {
    "backdrop_path": "/3EfhschqkWcT4WH7aowAd5d0aen.jpg",
    "budget": 0,
    "cast": [
@@ -1067,7 +1067,7 @@
    "vote_average": 5.9,
    "vote_count": 459
   },
-  "619930": {
+  "movie:619930": {
    "backdrop_path": "/ogFIG0fNXEYRQKrpnoRJcXQNX9n.jpg",
    "budget": 8000000,
    "cast": [
@@ -1178,7 +1178,7 @@
    "vote_average": 6.7,
    "vote_count": 469
   },
-  "778730": {
+  "movie:778730": {
    "backdrop_path": "/hyHpPzBFLpqlUixtSggSrHcjXdU.jpg",
    "budget": 0,
    "cast": [
@@ -1285,7 +1285,7 @@
    "vote_average": 7.184,
    "vote_count": 496
   },
-  "943930": {
+  "movie:943930": {
    "backdrop_path": "/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg",
    "budget": 0,
    "cast": [
@@ -1389,6 +1389,705 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 480
+  },
+  "tv:117830": {
+   "backdrop_path": "/zbaUXbBBLmGmHARAVurvUJbIEWt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lara Croft (voice)",
+     "n": "Hayley Atwell"
+    },
+    {
+     "c": "Sam Nishimura (voice)",
+     "n": "Karen Fukuhara"
+    },
+    {
+     "c": "Eshu (voice)",
+     "n": "O-T Fagbenle"
+    },
+    {
+     "c": "Zip (voice)",
+     "n": "Allen Maldonado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-10-10",
+   "genres": [
+    "Action & Adventure",
+    "Animation"
+   ],
+   "id": 117830,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thrust into a high-stakes chase around the world, fearless adventurer Lara Croft confronts her traumatic past while unraveling an ancient mystery.",
+   "popularity": 33.8832,
+   "poster_path": "/1WF982MFHGmsURH13HMQP51Dgr3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-10-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-12-11",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Tomb Raider: The Legend of Lara Croft",
+   "trailer": {
+    "key": "v-UgqcoSz5c",
+    "name": "Tomb Raider: The Legend of Lara Croft | Season 2 Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 165
+  },
+  "tv:2530": {
+   "backdrop_path": "/6sdfL7enLoMUnyMcNKyETQ68dn3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mr. Bean (voice)",
+     "n": "Rowan Atkinson"
+    },
+    {
+     "c": "Mrs. Julia Wicket (Voice)",
+     "n": "Sally Grace"
+    },
+    {
+     "c": "Irma Gobb, Mr. Bean's girlfriend (voice)",
+     "n": "Matilda Ziegler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CITV",
+   "created_by": [
+    "Richard Curtis",
+    "Rowan Atkinson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2002-01-05",
+   "genres": [
+    "Kids",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 2530,
+   "industry": "world",
+   "networks": [
+    "CITV",
+    "ITV1"
+   ],
+   "number_of_episodes": 182,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
+   "popularity": 30.5512,
+   "poster_path": "/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Tata Play"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/plYToJSPNPQPJi2hJrkyVA9RISS.png",
+     "name": "Tata Play",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-01-05",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-02-16",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-05-06",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-02-16",
+     "episode_count": 52,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-04-09",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-05-01",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2026-03-02",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Mr. Bean: The Animated Series",
+   "trailer": {
+    "key": "RYBfHE5xfvU",
+    "name": "Mr Bean: The Animated Series is now on CiTV. Watch the trailer here!",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 468
+  },
+  "tv:2730": {
+   "backdrop_path": "/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucy Ricardo",
+     "n": "Lucille Ball"
+    },
+    {
+     "c": "Ricky Ricardo",
+     "n": "Desi Arnaz"
+    },
+    {
+     "c": "Ethel Mertz",
+     "n": "Vivian Vance"
+    },
+    {
+     "c": "Fred Mertz",
+     "n": "William Frawley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "CBS",
+   "created_by": [
+    "Bob Carroll Jr.",
+    "Jess Oppenheimer",
+    "Madelyn Pugh"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1951-10-15",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 2730,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 180,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+   "popularity": 37.008,
+   "poster_path": "/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-04-30",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1951-10-15",
+     "episode_count": 35,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1952-09-15",
+     "episode_count": 31,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1953-10-05",
+     "episode_count": 31,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1954-10-04",
+     "episode_count": 30,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1955-10-03",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1956-10-01",
+     "episode_count": 27,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Vitameatavegamin - Spoon Your Way To Health!",
+   "title": "I Love Lucy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.935,
+   "vote_count": 270
+  },
+  "tv:4630": {
+   "backdrop_path": "/jlruzecsif3tkCSoHlUaPR01O7U.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Timmy Turner / Poof (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Wanda / Mrs. Turner (voice)",
+     "n": "Susanne Blakeslee"
+    },
+    {
+     "c": "Cosmo / Mr. Turner (voice)",
+     "n": "Daran Norris"
+    },
+    {
+     "c": "Denzel Q. Crocker (voice)",
+     "n": "Carlos Alazraqui"
+    },
+    {
+     "c": "Chet Ubetcha (voice)",
+     "n": "Jim Ward"
+    },
+    {
+     "c": "A.J. (voice)",
+     "n": "Gary LeRoi Gray"
+    },
+    {
+     "c": "Vicky (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Chloe Carmichael (voice)",
+     "n": "Kari Wahlgren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Butch Hartman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "2001-03-30",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 4630,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon",
+    "Nicktoons"
+   ],
+   "number_of_episodes": 268,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they grant wishes for their pint-sized charge.",
+   "popularity": 64.3238,
+   "poster_path": "/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-12-12",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-03-30",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-03-01",
+     "episode_count": 29,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-01-20",
+     "episode_count": 29,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-02-16",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-02-14",
+     "episode_count": 34,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-03-10",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-07-06",
+     "episode_count": 27,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-02-12",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2013-03-23",
+     "episode_count": 43,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2016-01-15",
+     "episode_count": 37,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Fairly OddParents",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 1163
   }
  }
 }

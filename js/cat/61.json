@@ -1,8 +1,8 @@
 {
  "bucket": "61",
- "count": 6,
+ "count": 10,
  "titles": {
-  "222461": {
+  "movie:222461": {
    "backdrop_path": "/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
    "budget": 0,
    "cast": [
@@ -157,7 +157,7 @@
    "vote_average": 6.379,
    "vote_count": 476
   },
-  "352161": {
+  "movie:352161": {
    "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
    "budget": 3500000,
    "cast": [
@@ -280,7 +280,7 @@
    "vote_average": 6.803,
    "vote_count": 461
   },
-  "38961": {
+  "movie:38961": {
    "backdrop_path": "/n4rEE6PiYG57qAQYmZpmsy5SuJ2.jpg",
    "budget": 0,
    "cast": [
@@ -434,7 +434,7 @@
    "vote_average": 5.872,
    "vote_count": 497
   },
-  "49361": {
+  "movie:49361": {
    "backdrop_path": "/93Q0oOm0j3WHbEAB6S6JBjtVScj.jpg",
    "budget": 0,
    "cast": [
@@ -708,7 +708,7 @@
    "vote_average": 7.307,
    "vote_count": 443
   },
-  "570661": {
+  "movie:570661": {
    "backdrop_path": "/ooVOGpJA40wWyohGUQ1T7ibrGRR.jpg",
    "budget": 0,
    "cast": [
@@ -864,7 +864,7 @@
    "vote_average": 7.384,
    "vote_count": 453
   },
-  "74461": {
+  "movie:74461": {
    "backdrop_path": "/4BXLVLRwHxtydcUIhxphPVirJX5.jpg",
    "budget": 0,
    "cast": [
@@ -1070,6 +1070,622 @@
    "type": "movie",
    "vote_average": 5.559,
    "vote_count": 466
+  },
+  "tv:21561": {
+   "backdrop_path": "/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Leslie Stevens"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44,
+    60
+   ],
+   "first_air_date": "1995-03-26",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 21561,
+   "industry": "world",
+   "networks": [
+    "Showtime",
+    "Syfy"
+   ],
+   "number_of_episodes": 153,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Anthology series composed of distinct story episodes, sometimes with a plot twist at the end, with occasional recurring story elements that were often tied together during season-finale clip shows.",
+   "popularity": 26.4569,
+   "poster_path": "/1mf3GKgYeEIBhsp61uTGmI58NIB.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1995-03-26",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1996-01-14",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-01-19",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1998-01-23",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1999-01-22",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2000-01-21",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2001-03-16",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Outer Limits",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.717,
+   "vote_count": 256
+  },
+  "tv:276161": {
+   "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Na Hwa-jin",
+     "n": "Kim Moo-yul"
+    },
+    {
+     "c": "Choi Kang-seok",
+     "n": "Lee Sung-min"
+    },
+    {
+     "c": "Im Han-rim",
+     "n": "Jin Ki-joo"
+    },
+    {
+     "c": "Bong Geun-dae",
+     "n": "P.O"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Chae Yong-taek",
+    "Han Ga-ram"
+   ],
+   "director": [
+    "Hong Jong-chan"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2026-06-05",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 276161,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+   "popularity": 33.8681,
+   "poster_path": "/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-05",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Let us protect you!",
+   "title": "Teach You a Lesson",
+   "trailer": {
+    "key": "LdezlX84py0",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.4,
+   "vote_count": 1018
+  },
+  "tv:46261": {
+   "backdrop_path": "/bifZUqMGfI2WdPMLKQAiTsJbwCj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Natsu Dragneel (voice)",
+     "n": "Tetsuya Kakihara"
+    },
+    {
+     "c": "Lucy Heartfilia (voice)",
+     "n": "Aya Hirano"
+    },
+    {
+     "c": "Happy (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Gray Fullbuster (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Erza Scarlet (voice)",
+     "n": "Sayaka Ohara"
+    },
+    {
+     "c": "Wendy Marvell (voice)",
+     "n": "Satomi Sato"
+    },
+    {
+     "c": "Carla (voice)",
+     "n": "Yui Horie"
+    },
+    {
+     "c": "Elfman Strauss  (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Gajeel Redfox  (voice)",
+     "n": "Wataru Hatano"
+    },
+    {
+     "c": "Panther Lily (voice)",
+     "n": "Hiroki Touchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [
+    "Shinji Ishihira"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2009-10-12",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 46261,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 328,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+   "popularity": 31.6643,
+   "poster_path": "/AsfCVSHnFnUnbepLucvIB1N30Il.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-04-15",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-10-12",
+     "episode_count": 48,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-10-11",
+     "episode_count": 48,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-17",
+     "episode_count": 54,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-10-06",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-04-05",
+     "episode_count": 51,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-04-04",
+     "episode_count": 39,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-01-09",
+     "episode_count": 12,
+     "name": "FAIRY TAIL ZERØ",
+     "season_number": 7
+    },
+    {
+     "air_date": "2018-10-07",
+     "episode_count": 51,
+     "name": "Final Series",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fairy Tail",
+   "trailer": {
+    "key": "mAAKPx-ndAg",
+    "name": "Part 1 - Available on Blu-ray and DVD Combo 11.22.11 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 1066
+  },
+  "tv:79061": {
+   "backdrop_path": "/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Craig Williams (voice)",
+     "n": "Philip Solomon"
+    },
+    {
+     "c": "John 'J.P' Paul (voice)",
+     "n": "H. Michael Croner"
+    },
+    {
+     "c": "Kelsey / Mortimor (voice)",
+     "n": "Noël Wells"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Matt Burnett",
+    "Ben Levin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2018-03-30",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 79061,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 172,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Craig and his two friends, Kelsey and JP, embark on adventures in the untamed wilderness of the Creek, a place where children can run wild and free. The group of friends solve mysteries, fulfil quests and compete in battles against the other kids.",
+   "popularity": 39.3621,
+   "poster_path": "/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-12-01",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-03-30",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-03-18",
+     "episode_count": 38,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-06-21",
+     "episode_count": 36,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-10-25",
+     "episode_count": 40,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2023-07-09",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-05-31",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The creek is everywhere.",
+   "title": "Craig of the Creek",
+   "trailer": {
+    "key": "d8SpNwDpvoU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 270
   }
  }
 }

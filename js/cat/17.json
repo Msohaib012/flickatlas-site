@@ -1,8 +1,8 @@
 {
  "bucket": "17",
- "count": 9,
+ "count": 24,
  "titles": {
-  "10217": {
+  "movie:10217": {
    "backdrop_path": "/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
    "budget": 5000000,
    "cast": [
@@ -164,7 +164,7 @@
    "vote_average": 6.9,
    "vote_count": 445
   },
-  "2117": {
+  "movie:2117": {
    "backdrop_path": "/4co3a3mx5BgoHCmJUPAI03MDOWy.jpg",
    "budget": 0,
    "cast": [
@@ -342,7 +342,7 @@
    "vote_average": 7.115,
    "vote_count": 482
   },
-  "30017": {
+  "movie:30017": {
    "backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
    "budget": 0,
    "cast": [
@@ -469,7 +469,7 @@
    "vote_average": 7.983,
    "vote_count": 475
   },
-  "542417": {
+  "movie:542417": {
    "backdrop_path": "/etyZEgWCf46AzKKDMQcLoiYKwec.jpg",
    "budget": 0,
    "cast": [
@@ -655,7 +655,7 @@
    "vote_average": 6.9,
    "vote_count": 493
   },
-  "61717": {
+  "movie:61717": {
    "backdrop_path": "/kuXldgiMg0YZMD8XV4n2orFa1FX.jpg",
    "budget": 6000000,
    "cast": [
@@ -782,7 +782,7 @@
    "vote_average": 6.174,
    "vote_count": 458
   },
-  "6917": {
+  "movie:6917": {
    "backdrop_path": "/vxRUX12ZXoTwffLcqS7RAZqcknj.jpg",
    "budget": 2500000,
    "cast": [
@@ -904,7 +904,7 @@
    "vote_average": 6.079,
    "vote_count": 452
   },
-  "733317": {
+  "movie:733317": {
    "backdrop_path": "/cxwImFWajltfkBhsTEy8ZXiQ9NP.jpg",
    "budget": 1900000,
    "cast": [
@@ -1039,7 +1039,7 @@
    "vote_average": 6.379,
    "vote_count": 466
   },
-  "844417": {
+  "movie:844417": {
    "backdrop_path": "/1KpCjh3hedCEX8mvxtldU0Z2IiE.jpg",
    "budget": 20000000,
    "cast": [
@@ -1162,7 +1162,7 @@
    "vote_average": 5.712,
    "vote_count": 453
   },
-  "91417": {
+  "movie:91417": {
    "backdrop_path": "/s4NJh9hLa9ZbgiXfJpjsZ5i47ug.jpg",
    "budget": 0,
    "cast": [
@@ -1252,6 +1252,2390 @@
    "type": "movie",
    "vote_average": 7.266,
    "vote_count": 453
+  },
+  "tv:1417": {
+   "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rachel Berry",
+     "n": "Lea Michele"
+    },
+    {
+     "c": "Kurt Hummel",
+     "n": "Chris Colfer"
+    },
+    {
+     "c": "Will Schuester",
+     "n": "Matthew Morrison"
+    },
+    {
+     "c": "Sue Sylvester",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "Sheldon Beiste",
+     "n": "Dot-Marie Jones"
+    },
+    {
+     "c": "Sam Evans",
+     "n": "Chord Overstreet"
+    },
+    {
+     "c": "Blaine Anderson",
+     "n": "Darren Criss"
+    },
+    {
+     "c": "Mercedes Jones",
+     "n": "Amber Riley"
+    },
+    {
+     "c": "Artie Abrams",
+     "n": "Kevin McHale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "FOX",
+   "created_by": [
+    "Ryan Murphy",
+    "Ian Brennan",
+    "Brad Falchuk"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-05-19",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1417,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 121,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this musical comedy, optimistic high school teacher Will Schuester tries to refuel his own passion while reinventing the high school's glee club and challenging a group of outcasts to realize their star potential as they strive to outshine their singing competition while navigating the cruel halls of McKinley High.",
+   "popularity": 75.7177,
+   "poster_path": "/9WlKHB3lmqMmxO1SfL6MVOJxKPP.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-08-12",
+     "episode_count": 42,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-05-19",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-20",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-13",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-26",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-01-09",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Join the club.",
+   "title": "Glee",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 1000
+  },
+  "tv:2317": {
+   "backdrop_path": "/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Earl Hickey",
+     "n": "Jason Lee"
+    },
+    {
+     "c": "Randy Hickey",
+     "n": "Ethan Suplee"
+    },
+    {
+     "c": "Joy Turner",
+     "n": "Jaime Pressly"
+    },
+    {
+     "c": "Catalina Aruca",
+     "n": "Nadine Velazquez"
+    },
+    {
+     "c": "Darnell Turner",
+     "n": "Eddie Steeples"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Greg Garcia"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-09-20",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2317,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When petty criminal Earl Hickey wins the lottery, he sets off on a quest to repair his questionable karma.",
+   "popularity": 35.617,
+   "poster_path": "/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 63,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-21",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Karma is a funny thing.",
+   "title": "My Name Is Earl",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.64,
+   "vote_count": 1208
+  },
+  "tv:2617": {
+   "backdrop_path": "/aUSTj1kif2dqt65POwHrcyjhXRg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Lambert",
+     "n": "Patrick Duffy"
+    },
+    {
+     "c": "Carol Foster Lambert",
+     "n": "Suzanne Somers"
+    },
+    {
+     "c": "J.T. Lambert",
+     "n": "Brandon Call"
+    },
+    {
+     "c": "Dana Foster",
+     "n": "Staci Keanan"
+    },
+    {
+     "c": "Alicia Lambert",
+     "n": "Christine Lakin"
+    },
+    {
+     "c": "Karen Foster",
+     "n": "Angela Watson"
+    },
+    {
+     "c": "Mark Foster",
+     "n": "Christopher Castile"
+    },
+    {
+     "c": "Rich Halke",
+     "n": "Jason Marsden"
+    },
+    {
+     "c": "Lilly Foster-Lambert",
+     "n": "Emily Mae Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "ABC",
+   "created_by": [
+    "Michael Warren",
+    "William Bickley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    20,
+    30
+   ],
+   "first_air_date": "1991-09-20",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 2617,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "CBS"
+   ],
+   "number_of_episodes": 160,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Step by Step is an American television sitcom with two single parents, who spontaneously get married after meeting one another during a vacation, resulting in them becoming the heads of a large blended family",
+   "popularity": 28.9681,
+   "poster_path": "/4XMxYOxNvxEkfxUKhs8AoGBQiVD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1991-09-20",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1992-09-18",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1993-09-24",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-09-23",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1995-09-22",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-03-07",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1997-09-19",
+     "episode_count": 19,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Step by Step",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 481
+  },
+  "tv:31917": {
+   "backdrop_path": "/6NuvpA24GbWrnkKsYrNyr2RiRbp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aria Montgomery",
+     "n": "Lucy Hale"
+    },
+    {
+     "c": "Spencer Hastings",
+     "n": "Troian Bellisario"
+    },
+    {
+     "c": "Hanna Marin",
+     "n": "Ashley Benson"
+    },
+    {
+     "c": "Emily Fields",
+     "n": "Shay Mitchell"
+    },
+    {
+     "c": "Alison DiLaurentis",
+     "n": "Sasha Pieterse"
+    },
+    {
+     "c": "Ezra Fitz",
+     "n": "Ian Harding"
+    },
+    {
+     "c": "Caleb Rivers",
+     "n": "Tyler Blackburn"
+    },
+    {
+     "c": "Mona Vanderwaal",
+     "n": "Janel Parrish"
+    },
+    {
+     "c": "Mary Drake",
+     "n": "Andrea Parker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC Family",
+   "created_by": [
+    "I. Marlene King"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-06-08",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 31917,
+   "industry": "world",
+   "networks": [
+    "ABC Family",
+    "Freeform"
+   ],
+   "number_of_episodes": 161,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew.",
+   "popularity": 62.4941,
+   "poster_path": "/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-08-28",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-06-08",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-06-14",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-06-05",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-06-11",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-06-10",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-06-02",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-06-21",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Time to bring your A game.",
+   "title": "Pretty Little Liars",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.951,
+   "vote_count": 2866
+  },
+  "tv:33217": {
+   "backdrop_path": "/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dick Grayson / Robin / Nightwing (voice)",
+     "n": "Jesse McCartney"
+    },
+    {
+     "c": "Kaldur'ahm / Aquaman (voice)",
+     "n": "Khary Payton"
+    },
+    {
+     "c": "Conner Kent / Superboy (voice)",
+     "n": "Nolan North"
+    },
+    {
+     "c": "M'gaan M'orzz / Megan Morse / Miss Martian (voice)",
+     "n": "Danica McKellar"
+    },
+    {
+     "c": "Artemis Crock / Artemis / Tigress (voice)",
+     "n": "Stephanie Lemelin"
+    },
+    {
+     "c": "Garfield Logan / Beast Boy (voice)",
+     "n": "Greg Cipes"
+    },
+    {
+     "c": "Zatanna Zatara / Zatanna (voice)",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Raquel Ervin / Rocket (voice)",
+     "n": "Denise Boutte"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Greg Weisman",
+    "Brandon Vietti"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2010-11-26",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 33217,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network",
+    "DC Universe",
+    "HBO Max"
+   ],
+   "number_of_episodes": 98,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenage superheroes strive to prove themselves as members of the Justice League.",
+   "popularity": 50.3552,
+   "poster_path": "/fn2wMnrPWIjDMnxIf0H89ZtDehK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-12-04",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-11-26",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-04-28",
+     "episode_count": 20,
+     "name": "Invasion",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-01-04",
+     "episode_count": 26,
+     "name": "Outsiders",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-10-16",
+     "episode_count": 26,
+     "name": "Phantoms",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Don't call them sidekicks.",
+   "title": "Young Justice",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.383,
+   "vote_count": 1269
+  },
+  "tv:44217": {
+   "backdrop_path": "/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ivar Lothbrok / Ivar the Boneless",
+     "n": "Alex Høgh Andersen"
+    },
+    {
+     "c": "Ubbe Lothbrok",
+     "n": "Jordan Patrick Smith"
+    },
+    {
+     "c": "Hvitserk Lothbrok",
+     "n": "Marco Ilsø"
+    },
+    {
+     "c": "King Harald Finehair",
+     "n": "Peter Franzén"
+    },
+    {
+     "c": "Torvi",
+     "n": "Georgia Hirst"
+    },
+    {
+     "c": "Prince Oleg of Novgorod",
+     "n": "Danila Kozlovsky"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Michael Hirst"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-03-03",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 44217,
+   "industry": "world",
+   "networks": [
+    "Prime Video",
+    "History"
+   ],
+   "number_of_episodes": 89,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+   "popularity": 310.3246,
+   "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+   "production_countries": [
+    "CA",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-02-25",
+     "episode_count": 31,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-03-03",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-02-27",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-02-19",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-02-18",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-11-29",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-12-04",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Vikings",
+   "trailer": {
+    "key": "7rcozIVtujw",
+    "name": "Vikings: Vikings Official Trailer | History",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.103,
+   "vote_count": 8013
+  },
+  "tv:44317": {
+   "backdrop_path": "/anrVGmcs2fn8cn8WNZ7Low6NkSQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pegasus Koga (voice)",
+     "n": "Hikaru Midorikawa"
+    },
+    {
+     "c": "Lionet Souma (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Dragon Ryuho (voice)",
+     "n": "Tetsuya Kakihara"
+    },
+    {
+     "c": "Orion Eden (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Wolf Haruto (voice)",
+     "n": "Tatsuhisa Suzuki"
+    },
+    {
+     "c": "Bear Geki (voice)",
+     "n": "Kiyoyuki Yanada"
+    },
+    {
+     "c": "Dorado Spear (voice)",
+     "n": "Yusei Oda"
+    },
+    {
+     "c": "Volans Argo (voice)",
+     "n": "Nobutoshi Canna"
+    },
+    {
+     "c": "Hornet Sonia (voice)",
+     "n": "Aya Hisakawa"
+    },
+    {
+     "c": "Mars (voice)",
+     "n": "Hidekatsu Shibata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "tv asahi",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2012-04-01",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 44317,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 97,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis. Unaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.",
+   "popularity": 27.7483,
+   "poster_path": "/rgPgae8BIu4wsTNzXsI4wtt30pn.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-04-01",
+     "episode_count": 97,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Saint Seiya Omega",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 247
+  },
+  "tv:51817": {
+   "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonardo (voice)",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Donatello (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Raphael (voice)",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Michelangelo (voice)",
+     "n": "Greg Cipes"
+    },
+    {
+     "c": "April (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Casey Jones (voice)",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Karai",
+     "n": "Kelly Hu"
+    },
+    {
+     "c": "Shinigami",
+     "n": "Gwendoline Yeo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Ciro Nieli",
+    "Joshua Sternin",
+    "Jennifer Ventimilia"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2012-09-28",
+   "genres": [
+    "Kids",
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 51817,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon",
+    "Nicktoons"
+   ],
+   "number_of_episodes": 124,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
+   "popularity": 48.8027,
+   "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-09-28",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-10-12",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-10-03",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-10-25",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-03-19",
+     "episode_count": 20,
+     "name": "Tales of the Teenage Mutant Ninja Turtles",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Teenage Mutant Ninja Turtles",
+   "trailer": {
+    "key": "neexNjauRZA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.314,
+   "vote_count": 818
+  },
+  "tv:5917": {
+   "backdrop_path": "/d80flL9gjiYBhK7lqApwrRFGGCb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Annie Wilson",
+     "n": "Shenae Grimes-Beech"
+    },
+    {
+     "c": "Dixon Wilson",
+     "n": "Tristan Mack Wilds"
+    },
+    {
+     "c": "Naomi Clark",
+     "n": "AnnaLynne McCord"
+    },
+    {
+     "c": "Erin Silver",
+     "n": "Jessica Stroup"
+    },
+    {
+     "c": "Navid Shirazi",
+     "n": "Michael Steger"
+    },
+    {
+     "c": "Adrianna Tate-Duncan",
+     "n": "Jessica Lowndes"
+    },
+    {
+     "c": "Liam Court",
+     "n": "Matt Lanter"
+    },
+    {
+     "c": "",
+     "n": "Cassandra Church"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Rob Thomas",
+    "Gabe Sachs",
+    "Jeff Judah"
+   ],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2008-09-02",
+   "genres": [
+    "Drama"
+   ],
+   "id": 5917,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 114,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "90210 revolves around several students at the fictional West Beverly Hills High School, including new Beverly Hills residents Annie Wilson and Dixon Wilson. Their father, Harry Wilson, has returned from Kansas to his Beverly Hills childhood home with his family to care for his mother, former television and theater actress Tabitha Wilson, who has a drinking problem and clashes with his wife Debbie Wilson. Annie and Dixon struggle to adjust to their new lives while making friends and yet adhering to their parents' wishes.",
+   "popularity": 32.9919,
+   "poster_path": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-05-13",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-02",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-08",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-13",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-09-13",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-10-08",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "New drama. Same ZIP Code.",
+   "title": "90210",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.8,
+   "vote_count": 219
+  },
+  "tv:62017": {
+   "backdrop_path": "/pLio7Lod6YoNMM7ybFVjIJjwIxe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Juliana Crain",
+     "n": "Alexa Davalos"
+    },
+    {
+     "c": "John Smith",
+     "n": "Rufus Sewell"
+    },
+    {
+     "c": "Inspector Kido",
+     "n": "Joel de la Fuente"
+    },
+    {
+     "c": "Wyatt Price",
+     "n": "Jason O'Mara"
+    },
+    {
+     "c": "Robert Childan",
+     "n": "Brennan Brown"
+    },
+    {
+     "c": "Helen Smith",
+     "n": "Chelah Horsdal"
+    },
+    {
+     "c": "Bell Mallory",
+     "n": "Frances Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Frank Spotnitz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-01-15",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 62017,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore what it would be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States. Based on Philip K. Dick's award-winning novel.",
+   "popularity": 27.9425,
+   "poster_path": "/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-01-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-12-16",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-10-04",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-11-15",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Freedom is under control.",
+   "title": "The Man in the High Castle",
+   "trailer": {
+    "key": "hzz_6dmv03I",
+    "name": "Official Trailer: What If?",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.53,
+   "vote_count": 1593
+  },
+  "tv:62117": {
+   "backdrop_path": "/wCdhtaLMNtQ37j4OEch4dSKXyoE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Liza Miller",
+     "n": "Sutton Foster"
+    },
+    {
+     "c": "Kelsey Peters",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Maggie Amato",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Josh",
+     "n": "Nico Tortorella"
+    },
+    {
+     "c": "Lauren Heller",
+     "n": "Molly Bernard"
+    },
+    {
+     "c": "Charles Brooks",
+     "n": "Peter Hermann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Land",
+   "created_by": [
+    "Darren Star"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2015-03-31",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 62117,
+   "industry": "world",
+   "networks": [
+    "TV Land",
+    "Paramount+"
+   ],
+   "number_of_episodes": 84,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Liza Miller, a suddenly single stay-at-home mother, tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at 40-year old. When a chance encounter convinces her she looks younger than she is, Liza tries to pass herself off as 26 and lands a job as an assistant at Empirical Press. Now she just has to make sure no one finds out the secret only she and her best friend Maggie share.",
+   "popularity": 32.1331,
+   "poster_path": "/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-03-31",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-01-13",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-28",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-06-28",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-06-05",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-06-12",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-04-15",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's only a lie if you get caught.",
+   "title": "Younger",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.86,
+   "vote_count": 257
+  },
+  "tv:67117": {
+   "backdrop_path": "/8TLIyltOIjgN1qliQpQ3SCU9DrJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katie Otto",
+     "n": "Katy Mixon"
+    },
+    {
+     "c": "Greg Otto",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Taylor Otto",
+     "n": "Meg Donnelly"
+    },
+    {
+     "c": "Anna-Kat Otto",
+     "n": "Giselle Eisenberg"
+    },
+    {
+     "c": "Oliver Otto",
+     "n": "Daniel DiMaggio"
+    },
+    {
+     "c": "Doris",
+     "n": "Ali Wong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Sarah Dunn"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2016-10-11",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 67117,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family comedy narrated by Katie, a strong-willed mother, raising her flawed family in a wealthy town filled with perfect wives and their perfect offspring.",
+   "popularity": 26.7663,
+   "poster_path": "/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-10-11",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-09-27",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-10-28",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Still the wife of the party.",
+   "title": "American Housewife",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 187
+  },
+  "tv:72517": {
+   "backdrop_path": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kiyotaka Ayanokoji (voice)",
+     "n": "Shoya Chiba"
+    },
+    {
+     "c": "Suzune Horikita (voice)",
+     "n": "Akari Kito"
+    },
+    {
+     "c": "Kei Karuizawa (voice)",
+     "n": "Ayana Taketatsu"
+    },
+    {
+     "c": "Kikyo Kushida (voice)",
+     "n": "Yurika Kubo"
+    },
+    {
+     "c": "Airi Sakura (voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "Yosuke Hirata (voice)",
+     "n": "Ryota Osaka"
+    },
+    {
+     "c": "Ken Sudo (voice)",
+     "n": "Eiji Takeuchi"
+    },
+    {
+     "c": "Arisu Sakayanagi (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Honami Ichinose (voice)",
+     "n": "Nao Toyama"
+    },
+    {
+     "c": "Sae Chabashira (voice)",
+     "n": "Rina Sato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2017-07-12",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 72517,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 54,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kiyotaka Ayanokouji enrolls at the prestigious Tokyo Koudo Ikusei Academy, but is assigned to Class 1-D, where students with behavioral problems are housed. The school awards points equivalent to 100,000 yen per month and allows unusual freedom in classes, masking a more complex system.",
+   "popularity": 47.657,
+   "poster_path": "/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-07-12",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-07-04",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-01-03",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-04-01",
+     "episode_count": 16,
+     "name": "4th Season: Second Year, First Semester",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Classroom of the Elite 5th Season",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Classroom of the Elite",
+   "trailer": {
+    "key": "RTvdxGyWV6c",
+    "name": "Complete Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.416,
+   "vote_count": 879
+  },
+  "tv:87917": {
+   "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miles Dale",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Celia Boyd",
+     "n": "Mireille Enos"
+    },
+    {
+     "c": "Dev Ayesa",
+     "n": "Edi Gathegi"
+    },
+    {
+     "c": "Kelly Baldwin",
+     "n": "Cynthy Wu"
+    },
+    {
+     "c": "Aleida Rosales",
+     "n": "Coral Peña"
+    },
+    {
+     "c": "Leonid 'Lenya' Polivanov",
+     "n": "Costa Ronin"
+    },
+    {
+     "c": "Alex Poletov Baldwin",
+     "n": "Sean Kaufman"
+    },
+    {
+     "c": "Lily Dale",
+     "n": "Ruby Cruz"
+    },
+    {
+     "c": "Avery 'AJ' Jarrett",
+     "n": "Ines Asserson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Matt Wolpert",
+    "Ronald D. Moore",
+    "Ben Nedivi"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-11-01",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "War & Politics"
+   ],
+   "id": 87917,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+   "popularity": 40.0986,
+   "poster_path": "/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-02-12",
+     "episode_count": 37,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-11-01",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-02-19",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-06-09",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-11-09",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-03-26",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "The fight for freedom lies beyond the stars.",
+   "title": "For All Mankind",
+   "trailer": {
+    "key": "HZS9M52Bd_w",
+    "name": "Official First Look Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.75,
+   "vote_count": 1087
+  },
+  "tv:97617": {
+   "backdrop_path": "/fxISKAY8c2xYXt2CFLjUU2bEx8n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Misha Necron (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Anos Voldigoad (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Sasha Necron (voice)",
+     "n": "Yuko Natsuyoshi"
+    },
+    {
+     "c": "Lay Glanzudlii (voice)",
+     "n": "Takuma Terashima"
+    },
+    {
+     "c": "Misa Ilioroagu (voice)",
+     "n": "Nene Hieda"
+    },
+    {
+     "c": "Eleonore Bianca (voice)",
+     "n": "Sayumi Watabe"
+    },
+    {
+     "c": "Zeshia Bianca (voice)",
+     "n": "Misaki Kuno"
+    },
+    {
+     "c": "Shin Reglia (voice)",
+     "n": "Wataru Hatano"
+    },
+    {
+     "c": "Great Spirit Leno (voice)",
+     "n": "Kana Asumi"
+    },
+    {
+     "c": "Erdomaid Dittijohn (voice)",
+     "n": "Rikiya Koyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2020-07-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 97617,
+   "industry": "world",
+   "networks": [
+    "AT-X",
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 37,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Anos Voldigord was a tyrannical Demon King that eradicated humans, spirits, and even the gods, but became bored of eternal warfare and reincarnated with dreams of a peaceful world. However, what awaited him in reincarnation after 2000 years were descendants who became too weak after being accustomed to peace, and all sorts of magic that deteriorated to the extreme. Anos enters Demon King Academy that gathers and educates those who are viewed as the reincarnation of the Demon King, but the academy could not see through his true powers and ends up branding him as a misfit.",
+   "popularity": 29.6916,
+   "poster_path": "/xBNR7V4s5b0qQfRCiyEvIC5PS6v.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-07-04",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-01-08",
+     "episode_count": 24,
+     "name": "The Misfit of Demon King Academy II",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Misfit of Demon King Academy",
+   "trailer": {
+    "key": "WmFzkTTqcsA",
+    "name": "PV 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 885
   }
  }
 }

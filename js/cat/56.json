@@ -1,8 +1,8 @@
 {
  "bucket": "56",
- "count": 4,
+ "count": 12,
  "titles": {
-  "11056": {
+  "movie:11056": {
    "backdrop_path": "/dO9VVu7Z2EqqgGnij7UubQfLGzA.jpg",
    "budget": 10600000,
    "cast": [
@@ -156,7 +156,7 @@
    "vote_average": 5.663,
    "vote_count": 451
   },
-  "11456": {
+  "movie:11456": {
    "backdrop_path": "/uKwQGbxSQ3VWfVRJWeZ7sNQlBJ5.jpg",
    "budget": 75000000,
    "cast": [
@@ -348,7 +348,7 @@
    "vote_average": 5.767,
    "vote_count": 488
   },
-  "31056": {
+  "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
    "budget": 0,
    "cast": [
@@ -462,7 +462,7 @@
    "vote_average": 7.78,
    "vote_count": 438
   },
-  "597156": {
+  "movie:597156": {
    "backdrop_path": "/wX1n8ndD7l6PsHSUmo66GRJHcwG.jpg",
    "budget": 0,
    "cast": [
@@ -567,6 +567,1633 @@
    "type": "movie",
    "vote_average": 6.753,
    "vote_count": 474
+  },
+  "tv:290856": {
+   "backdrop_path": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kayce Dutton",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Pete Calvin",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Belle Skinner",
+     "n": "Arielle Kebbel"
+    },
+    {
+     "c": "Andrea Cruz",
+     "n": "Ash Santos"
+    },
+    {
+     "c": "Miles Kittle",
+     "n": "Tatanka Means"
+    },
+    {
+     "c": "Tate Dutton",
+     "n": "Brecken Merrill"
+    },
+    {
+     "c": "Mo",
+     "n": "Mo Brings Plenty"
+    },
+    {
+     "c": "Thomas Rainwater",
+     "n": "Gil Birmingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Spencer Hudnut"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-01",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 290856,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+   "popularity": 79.1353,
+   "poster_path": "/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-01",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-04",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A new era of Yellowstone.",
+   "title": "Marshals",
+   "trailer": {
+    "key": "FGKuQa6ulEQ",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.985,
+   "vote_count": 432
+  },
+  "tv:41956": {
+   "backdrop_path": "/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Selwyn Patterson",
+     "n": "Don Warrington"
+    },
+    {
+     "c": "Catherine Bordey",
+     "n": "Élisabeth Bourgine"
+    },
+    {
+     "c": "Naomi Thomas",
+     "n": "Shantol Jackson"
+    },
+    {
+     "c": "Mervin Wilson",
+     "n": "Don Gilet"
+    },
+    {
+     "c": "Sebastian Rose",
+     "n": "Shaquille Ali-Yebuah"
+    },
+    {
+     "c": "Mattie Fletcher",
+     "n": "Catherine Garton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "BBC One",
+   "created_by": [
+    "Robert Thorogood"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53
+   ],
+   "first_air_date": "2011-10-25",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 41956,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 120,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
+   "popularity": 78.8609,
+   "poster_path": "/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-12-26",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-10-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-01-08",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-14",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-01-08",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-01-07",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-01-05",
+     "episode_count": 8,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-01-04",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-01-10",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2020-01-09",
+     "episode_count": 8,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2021-01-07",
+     "episode_count": 8,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2022-01-07",
+     "episode_count": 8,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2023-01-06",
+     "episode_count": 8,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2024-02-04",
+     "episode_count": 8,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2025-01-31",
+     "episode_count": 8,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2026-01-30",
+     "episode_count": 8,
+     "name": "Season 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Death in Paradise",
+   "trailer": {
+    "key": "f9B6dljC7ag",
+    "name": "Death in paradise - Trailer - Original Version",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.436,
+   "vote_count": 351
+  },
+  "tv:4556": {
+   "backdrop_path": "/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John 'J.D.' Dorian",
+     "n": "Zach Braff"
+    },
+    {
+     "c": "Christopher Turk",
+     "n": "Donald Faison"
+    },
+    {
+     "c": "Perry Cox",
+     "n": "John C. McGinley"
+    },
+    {
+     "c": "Denise Mahoney",
+     "n": "Eliza Coupe"
+    },
+    {
+     "c": "Lucy Bennett",
+     "n": "Kerry Bishé"
+    },
+    {
+     "c": "Drew Suffin",
+     "n": "Michael Mosley"
+    },
+    {
+     "c": "Cole Aaronson",
+     "n": "Dave Franco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Bill Lawrence"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2001-10-02",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4556,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "NBC"
+   ],
+   "number_of_episodes": 181,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the unreal world of Sacred Heart Hospital, John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
+   "popularity": 79.9043,
+   "poster_path": "/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-04-24",
+     "episode_count": 77,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-10-02",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-09-26",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-10-02",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-08-31",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-01-03",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-11-30",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2007-10-25",
+     "episode_count": 11,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-01-06",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2009-12-01",
+     "episode_count": 13,
+     "name": "Med School",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Canceled",
+   "tagline": "Laughter is the best medicine... Especially when it's your first day as a doctor.",
+   "title": "Scrubs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.154,
+   "vote_count": 309
+  },
+  "tv:456": {
+   "backdrop_path": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty the Clown / Groundskeeper Willie / Mayor Quimby (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Marge Simpson / Patty Bouvier / Selma Bouvier / Jacqueline Bouvier (voice)",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Bart Simpson / Maggie Simpson / Nelson Muntz / Ralph Wiggum (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Lisa Simpson / Maggie Simpson (voice)",
+     "n": "Yeardley Smith"
+    },
+    {
+     "c": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl Carlson / Superintendent Chalmers (voice)",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Ned Flanders / Mr. Burns / Smithers / Principal Skinner / Lenny Leonard (voice)",
+     "n": "Harry Shearer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "FOX",
+   "created_by": [
+    "Matt Groening"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1989-12-17",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 456,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 816,
+   "number_of_seasons": 38,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+   "popularity": 1932.1709,
+   "poster_path": "/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1987-04-19",
+     "episode_count": 82,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-12-17",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-10-11",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-09-19",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-09-24",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-09-30",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-09-04",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1995-09-17",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1996-10-27",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1997-09-21",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1998-08-23",
+     "episode_count": 23,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1999-09-26",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2000-11-01",
+     "episode_count": 21,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2001-11-06",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2002-11-03",
+     "episode_count": 22,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2003-11-02",
+     "episode_count": 22,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2004-11-07",
+     "episode_count": 21,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2005-09-11",
+     "episode_count": 22,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2006-09-10",
+     "episode_count": 22,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2007-09-23",
+     "episode_count": 20,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 21,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 23,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 22,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 22,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 22,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 22,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2016-09-25",
+     "episode_count": 22,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 21,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2018-09-30",
+     "episode_count": 23,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 22,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2020-09-27",
+     "episode_count": 22,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2021-09-26",
+     "episode_count": 22,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2022-09-25",
+     "episode_count": 22,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2023-10-01",
+     "episode_count": 18,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2024-09-29",
+     "episode_count": 18,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2025-09-28",
+     "episode_count": 15,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2026-09-27",
+     "episode_count": 15,
+     "name": "Season 38",
+     "season_number": 38
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Just a product of society that's lost its good manners.",
+   "title": "The Simpsons",
+   "trailer": {
+    "key": "_jgYEYERYFQ",
+    "name": "32 Seasons | The Simpsons | Disney+",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.028,
+   "vote_count": 11168
+  },
+  "tv:4656": {
+   "backdrop_path": "/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "USA Network",
+   "created_by": [
+    "Vince McMahon"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-01-11",
+   "genres": [
+    "Reality"
+   ],
+   "id": 4656,
+   "industry": "world",
+   "networks": [
+    "USA Network",
+    "Spike",
+    "Netflix",
+    "The New TNN"
+   ],
+   "number_of_episodes": 1756,
+   "number_of_seasons": 34,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "popularity": 211.8503,
+   "poster_path": "/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-12-18",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-01-11",
+     "episode_count": 45,
+     "name": "1993",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-01-03",
+     "episode_count": 47,
+     "name": "1994",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-01-02",
+     "episode_count": 48,
+     "name": "1995",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-01-01",
+     "episode_count": 51,
+     "name": "1996",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-01-06",
+     "episode_count": 52,
+     "name": "1997",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-01-05",
+     "episode_count": 52,
+     "name": "1998",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-01-04",
+     "episode_count": 52,
+     "name": "1999",
+     "season_number": 7
+    },
+    {
+     "air_date": "2000-01-03",
+     "episode_count": 52,
+     "name": "2000",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-01-01",
+     "episode_count": 53,
+     "name": "2001",
+     "season_number": 9
+    },
+    {
+     "air_date": "2002-01-07",
+     "episode_count": 52,
+     "name": "2002",
+     "season_number": 10
+    },
+    {
+     "air_date": "2003-01-06",
+     "episode_count": 52,
+     "name": "2003",
+     "season_number": 11
+    },
+    {
+     "air_date": "2004-01-05",
+     "episode_count": 52,
+     "name": "2004",
+     "season_number": 12
+    },
+    {
+     "air_date": "2005-01-03",
+     "episode_count": 52,
+     "name": "2005",
+     "season_number": 13
+    },
+    {
+     "air_date": "2006-01-02",
+     "episode_count": 52,
+     "name": "2006",
+     "season_number": 14
+    },
+    {
+     "air_date": "2007-01-01",
+     "episode_count": 53,
+     "name": "2007",
+     "season_number": 15
+    },
+    {
+     "air_date": "2008-01-07",
+     "episode_count": 52,
+     "name": "2008",
+     "season_number": 16
+    },
+    {
+     "air_date": "2009-01-05",
+     "episode_count": 52,
+     "name": "2009",
+     "season_number": 17
+    },
+    {
+     "air_date": "2010-01-04",
+     "episode_count": 52,
+     "name": "2010",
+     "season_number": 18
+    },
+    {
+     "air_date": "2011-01-03",
+     "episode_count": 52,
+     "name": "2011",
+     "season_number": 19
+    },
+    {
+     "air_date": "2012-01-02",
+     "episode_count": 53,
+     "name": "2012",
+     "season_number": 20
+    },
+    {
+     "air_date": "2013-01-07",
+     "episode_count": 52,
+     "name": "2013",
+     "season_number": 21
+    },
+    {
+     "air_date": "2014-01-05",
+     "episode_count": 52,
+     "name": "2014",
+     "season_number": 22
+    },
+    {
+     "air_date": "2015-01-04",
+     "episode_count": 52,
+     "name": "2015",
+     "season_number": 23
+    },
+    {
+     "air_date": "2016-01-03",
+     "episode_count": 52,
+     "name": "2016",
+     "season_number": 24
+    },
+    {
+     "air_date": "2017-01-01",
+     "episode_count": 52,
+     "name": "2017",
+     "season_number": 25
+    },
+    {
+     "air_date": "2017-12-31",
+     "episode_count": 53,
+     "name": "2018",
+     "season_number": 26
+    },
+    {
+     "air_date": "2019-01-06",
+     "episode_count": 52,
+     "name": "2019",
+     "season_number": 27
+    },
+    {
+     "air_date": "2020-01-05",
+     "episode_count": 52,
+     "name": "2020",
+     "season_number": 28
+    },
+    {
+     "air_date": "2021-01-03",
+     "episode_count": 52,
+     "name": "2021",
+     "season_number": 29
+    },
+    {
+     "air_date": "2022-01-02",
+     "episode_count": 52,
+     "name": "2022",
+     "season_number": 30
+    },
+    {
+     "air_date": "2023-01-01",
+     "episode_count": 52,
+     "name": "2023",
+     "season_number": 31
+    },
+    {
+     "air_date": "2023-12-29",
+     "episode_count": 53,
+     "name": "2024",
+     "season_number": 32
+    },
+    {
+     "air_date": "2024-12-31",
+     "episode_count": 52,
+     "name": "2025",
+     "season_number": 33
+    },
+    {
+     "air_date": "2026-01-05",
+     "episode_count": 52,
+     "name": "2026",
+     "season_number": 34
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Raw",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.747,
+   "vote_count": 384
+  },
+  "tv:61056": {
+   "backdrop_path": "/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Annalise Keating",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Nate Lahey",
+     "n": "Billy Brown"
+    },
+    {
+     "c": "Connor Walsh",
+     "n": "Jack Falahee"
+    },
+    {
+     "c": "Gabriel Maddox",
+     "n": "Rome Flynn"
+    },
+    {
+     "c": "Michaela Pratt",
+     "n": "Aja Naomi King"
+    },
+    {
+     "c": "Asher Millstone",
+     "n": "Matt McGorry"
+    },
+    {
+     "c": "Oliver Hampton",
+     "n": "Conrad Ricamora"
+    },
+    {
+     "c": "Tegan Price",
+     "n": "Amirah Vann"
+    },
+    {
+     "c": "Frank Delfino",
+     "n": "Charlie Weber"
+    },
+    {
+     "c": "Bonnie Winterbottom",
+     "n": "Liza Weil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "ABC",
+   "created_by": [
+    "Peter Nowalk"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-09-25",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 61056,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 90,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot and will shake the entire university and change the course of their lives.",
+   "popularity": 46.0982,
+   "poster_path": "/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-25",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-24",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-22",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-28",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-09-27",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "How to Get Away with Murder",
+   "trailer": {
+    "key": "VHKRO7rSbOs",
+    "name": "How to Get Away with Murder: Trailer [UK & Ireland] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.805,
+   "vote_count": 1858
+  },
+  "tv:81356": {
+   "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Otis Milburn",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Jean Milburn",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Eric Effiong",
+     "n": "Ncuti Gatwa"
+    },
+    {
+     "c": "Maeve Wiley",
+     "n": "Emma Mackey"
+    },
+    {
+     "c": "Jackson Marchetti",
+     "n": "Kedar Williams-Stirling"
+    },
+    {
+     "c": "Sarah 'O' Owens",
+     "n": "Thaddea Graham"
+    },
+    {
+     "c": "Ruby Matthews",
+     "n": "Mimi Keene"
+    },
+    {
+     "c": "Abbi Montgomery",
+     "n": "Anthony Lexa"
+    },
+    {
+     "c": "Adam Groff",
+     "n": "Connor Swindells"
+    },
+    {
+     "c": "Aimee Gibbs",
+     "n": "Aimee Lou Wood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Laurie Nunn"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-01-11",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 81356,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+   "popularity": 46.1025,
+   "poster_path": "/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-01-11",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-01-17",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-17",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-09-21",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Growth is a group project.",
+   "title": "Sex Education",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.187,
+   "vote_count": 8082
+  },
+  "tv:82856": {
+   "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Din Djarin / The Mandalorian",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Bo-Katan Kryze",
+     "n": "Katee Sackhoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Disney+",
+   "created_by": [
+    "Jon Favreau"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-11-12",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 82856,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+   "popularity": 40.8416,
+   "poster_path": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-12-11",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-11-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-10-30",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-03-01",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Bounty hunting is a complicated profession.",
+   "title": "The Mandalorian",
+   "trailer": {
+    "key": "2RVnrBLOBcI",
+    "name": "Special Look",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.397,
+   "vote_count": 11392
   }
  }
 }

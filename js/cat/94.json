@@ -1,8 +1,8 @@
 {
  "bucket": "94",
- "count": 13,
+ "count": 19,
  "titles": {
-  "10994": {
+  "movie:10994": {
    "backdrop_path": "/yB252zjuN70KFyOUY7MFTfqGa1C.jpg",
    "budget": 16000000,
    "cast": [
@@ -166,7 +166,7 @@
    "vote_average": 7.0,
    "vote_count": 442
   },
-  "11194": {
+  "movie:11194": {
    "backdrop_path": "/7c4vVXeI1m1wR4jGZHlR6GawgxH.jpg",
    "budget": 0,
    "cast": [
@@ -297,7 +297,7 @@
    "vote_average": 7.6,
    "vote_count": 487
   },
-  "12994": {
+  "movie:12994": {
    "backdrop_path": "/cR39VUrIKWrv9TfoiOzfim5D9p9.jpg",
    "budget": 0,
    "cast": [
@@ -463,7 +463,7 @@
    "vote_average": 6.0,
    "vote_count": 498
   },
-  "14794": {
+  "movie:14794": {
    "backdrop_path": "/b5OqjAne0vAV08V43QvXpmlfvSg.jpg",
    "budget": 500000,
    "cast": [
@@ -576,7 +576,7 @@
    "vote_average": 7.026,
    "vote_count": 447
   },
-  "180894": {
+  "movie:180894": {
    "backdrop_path": "/7Q67AjYx1EUC5lopy51wxgES6ap.jpg",
    "budget": 0,
    "cast": [
@@ -730,7 +730,7 @@
    "vote_average": 6.759,
    "vote_count": 467
   },
-  "19794": {
+  "movie:19794": {
    "backdrop_path": "/6epafgrlSnOJrNakHgY7pbYr513.jpg",
    "budget": 10000000,
    "cast": [
@@ -913,7 +913,7 @@
    "vote_average": 5.4,
    "vote_count": 467
   },
-  "28794": {
+  "movie:28794": {
    "backdrop_path": "/vdokrAQX8D2SfNY12GB8f3YdCaT.jpg",
    "budget": 785000,
    "cast": [
@@ -1049,7 +1049,7 @@
    "vote_average": 6.3,
    "vote_count": 465
   },
-  "332794": {
+  "movie:332794": {
    "backdrop_path": "/fvzLL73L2WeQZ7n20sOtk3Mjv5J.jpg",
    "budget": 20000000,
    "cast": [
@@ -1225,7 +1225,7 @@
    "vote_average": 6.6,
    "vote_count": 442
   },
-  "369894": {
+  "movie:369894": {
    "backdrop_path": "/a0jV1eyShyfovNmk1FIMBZYx8zV.jpg",
    "budget": 0,
    "cast": [
@@ -1454,7 +1454,7 @@
    "vote_average": 6.13,
    "vote_count": 470
   },
-  "485894": {
+  "movie:485894": {
    "backdrop_path": "/mUoRmzM8HOQVPUpHgSG3cO92rJH.jpg",
    "budget": 0,
    "cast": [
@@ -1571,7 +1571,7 @@
    "vote_average": 6.164,
    "vote_count": 479
   },
-  "7294": {
+  "movie:7294": {
    "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
    "budget": 0,
    "cast": [
@@ -1703,7 +1703,7 @@
    "vote_average": 7.43,
    "vote_count": 472
   },
-  "79694": {
+  "movie:79694": {
    "backdrop_path": "/sie33RpTUQJxJq2XXjrOBXJpASL.jpg",
    "budget": 17000000,
    "cast": [
@@ -1817,7 +1817,7 @@
    "vote_average": 4.501,
    "vote_count": 484
   },
-  "8094": {
+  "movie:8094": {
    "backdrop_path": "/teMi2HuGuWOmBL599u7dg1xtD1Q.jpg",
    "budget": 5000000,
    "cast": [
@@ -1972,6 +1972,974 @@
    "type": "movie",
    "vote_average": 7.445,
    "vote_count": 495
+  },
+  "tv:194": {
+   "backdrop_path": "/uGGmIOPc2QLNF4t3Ro46wRcYr3t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andy Sipowicz",
+     "n": "Dennis Franz"
+    },
+    {
+     "c": "John Clark Jr.",
+     "n": "Mark-Paul Gosselaar"
+    },
+    {
+     "c": "Baldwin Jones",
+     "n": "Henry Simmons"
+    },
+    {
+     "c": "Greg Medavoy",
+     "n": "Gordon Clapp"
+    },
+    {
+     "c": "John Irvin",
+     "n": "Bill Brochtrup"
+    },
+    {
+     "c": "Rita Ortiz",
+     "n": "Jacqueline Obradors"
+    },
+    {
+     "c": "Thomas Bale",
+     "n": "Currie Graham"
+    },
+    {
+     "c": "Laura Murphy",
+     "n": "Bonnie Somerville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "David Milch",
+    "Steven Bochco"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1993-09-21",
+   "genres": [
+    "Drama"
+   ],
+   "id": 194,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 261,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Police drama set in New York City, exploring the internal and external struggles of the fictional 15th precinct of Manhattan. Each episode typically intertwined several plots involving an ensemble cast.",
+   "popularity": 57.6498,
+   "poster_path": "/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-09-21",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-10-11",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-10-24",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-10-15",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-09-30",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-10-20",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-01-11",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2001-01-09",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-11-06",
+     "episode_count": 23,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2002-09-24",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Ride along with the boys in blue.",
+   "title": "NYPD Blue",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.08,
+   "vote_count": 188
+  },
+  "tv:35894": {
+   "backdrop_path": "/n4MfPSRk5PzHeVrm43NHam8oH5d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kiyomaro Takamine (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Gash Bell (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Umagon (voice)",
+     "n": "Satomi Korogi"
+    },
+    {
+     "c": "Tio (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Megumi Oumi (voice)",
+     "n": "Ai Maeda"
+    },
+    {
+     "c": "Kanchomé (voice)",
+     "n": "Masami Kikuchi"
+    },
+    {
+     "c": "Parco Folgore / Dufort (voice)",
+     "n": "Hiroki Takahashi"
+    },
+    {
+     "c": "Sherry Belmont (voice)",
+     "n": "Fumiko Orikasa"
+    },
+    {
+     "c": "Brago (voice)",
+     "n": "Kazunari Kojima"
+    },
+    {
+     "c": "Naomi (voice)",
+     "n": "Kinoko Yamada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Fuji TV",
+   "created_by": [
+    "Makoto Raiku"
+   ],
+   "director": [
+    "Makoto Raiku"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2003-04-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 35894,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 150,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Takamine Kiyomaro, a depressed don't-care-about-the-world guy, was suddenly given a little demon named Zatch Bell to take care of. Little does he know that Zatch is embroiled in an intense fight to see who is the ruler of the demon world.",
+   "popularity": 32.8918,
+   "poster_path": "/cBcHLTG8UgtKi1i1iN0XVcRAB78.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-10-29",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-04-06",
+     "episode_count": 150,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Zatch Bell!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 273
+  },
+  "tv:4194": {
+   "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ahsoka Tano (voice)",
+     "n": "Ashley Eckstein"
+    },
+    {
+     "c": "Anakin Skywalker (voice)",
+     "n": "Matt Lanter"
+    },
+    {
+     "c": "Obi-Wan Kenobi (voice)",
+     "n": "James Arnold Taylor"
+    },
+    {
+     "c": "Clone Troopers (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Yoda / Wullf Yularen / Narrator (voice)",
+     "n": "Tom Kane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "George Lucas"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-10-03",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Animation"
+   ],
+   "id": 4194,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network",
+    "Netflix",
+    "Disney+"
+   ],
+   "number_of_episodes": 133,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+   "popularity": 71.0393,
+   "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-25",
+     "episode_count": 60,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-10-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-10-02",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-17",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-09-16",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-09-29",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-03-07",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-02-21",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Star Wars: The Clone Wars",
+   "trailer": {
+    "key": "ZLW2jkd6E7g",
+    "name": "Star Wars: The Clone Wars | Official Trailer | Disney+",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.461,
+   "vote_count": 2467
+  },
+  "tv:60694": {
+   "backdrop_path": "/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "John Oliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "John Oliver"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-04-27",
+   "genres": [
+    "Talk",
+    "Comedy",
+    "News"
+   ],
+   "id": 60694,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 380,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A half-hour satirical look at the week in news, politics and current events.",
+   "popularity": 65.0867,
+   "poster_path": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-04-27",
+     "episode_count": 65,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-04-27",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-02-08",
+     "episode_count": 35,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-02-14",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-02-12",
+     "episode_count": 30,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-02-18",
+     "episode_count": 30,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-02-17",
+     "episode_count": 30,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-02-16",
+     "episode_count": 30,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-02-14",
+     "episode_count": 30,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2022-02-20",
+     "episode_count": 30,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2023-02-19",
+     "episode_count": 21,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-02-18",
+     "episode_count": 30,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2025-02-16",
+     "episode_count": 30,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2026-02-15",
+     "episode_count": 30,
+     "name": "Season 13",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Please hold.",
+   "title": "Last Week Tonight with John Oliver",
+   "trailer": {
+    "key": "PawUmci7JuU",
+    "name": "Season 13 Trailer: Last Week Tonight with John Oliver (HBO)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 867
+  },
+  "tv:65494": {
+   "backdrop_path": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Queen Elizabeth II",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Prince Philip, Duke of Edinburgh",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "Princess Margaret",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Prince Charles",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Princess Anne",
+     "n": "Claudia Harrison"
+    },
+    {
+     "c": "Queen Elizabeth the Queen Mother",
+     "n": "Marcia Warren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Peter Morgan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-11-04",
+   "genres": [
+    "Drama"
+   ],
+   "id": 65494,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+   "popularity": 113.3592,
+   "poster_path": "/1M876KPjulVwppEpldhdc8V4o68.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-11-04",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-12-08",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-11-17",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-11-15",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-11-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-11-16",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Duty lasts a lifetime.",
+   "title": "The Crown",
+   "trailer": {
+    "key": "JWtnJjn6ng0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.181,
+   "vote_count": 2478
+  },
+  "tv:71694": {
+   "backdrop_path": "/eEXwPg7nIERmRHC1yJoBf3Q5C7k.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Franklin Saint",
+     "n": "Damson Idris"
+    },
+    {
+     "c": "Teddy McDonald",
+     "n": "Carter Hudson"
+    },
+    {
+     "c": "Gustavo 'El Oso' Zapata",
+     "n": "Sergio Peris-Mencheta"
+    },
+    {
+     "c": "Cissy Saint",
+     "n": "Michael Hyatt"
+    },
+    {
+     "c": "Jerome Saint",
+     "n": "Amin Joseph"
+    },
+    {
+     "c": "Louanne 'Louie' Jones-Saint",
+     "n": "Angela Lewis"
+    },
+    {
+     "c": "Leon Simmons",
+     "n": "Isaiah John"
+    },
+    {
+     "c": "Veronique Turner",
+     "n": "Devyn A. Tyler"
+    },
+    {
+     "c": "Ruben",
+     "n": "Alejandro Edda"
+    },
+    {
+     "c": "Wanda Bell",
+     "n": "Gail Bean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FX",
+   "created_by": [
+    "Eric Amadio",
+    "Dave Andron",
+    "John Singleton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-07-05",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 71694,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Los Angeles. 1983. A storm is coming and its name is crack. Set against the infancy of the crack cocaine epidemic and its ultimate radical impact on the culture as we know it, the story follows numerous characters on a violent collision course.",
+   "popularity": 41.5203,
+   "poster_path": "/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-07-05",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-07-19",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-07-10",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-02-24",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-02-23",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-02-22",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "This is how crack began.",
+   "title": "Snowfall",
+   "trailer": {
+    "key": "hoJzibuefgU",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.388,
+   "vote_count": 833
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "88",
- "count": 7,
+ "count": 18,
  "titles": {
-  "1088": {
+  "movie:1088": {
    "backdrop_path": "/dLJ6qwEXg2AglBSClRV5iVYZI1b.jpg",
    "budget": 8000000,
    "cast": [
@@ -242,7 +242,7 @@
    "vote_average": 7.027,
    "vote_count": 468
   },
-  "30588": {
+  "movie:30588": {
    "backdrop_path": "/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
    "budget": 2000000,
    "cast": [
@@ -374,7 +374,7 @@
    "vote_average": 7.701,
    "vote_count": 497
   },
-  "475888": {
+  "movie:475888": {
    "backdrop_path": "/Oeo4ZabmekrqCQyn34SI95692d.jpg",
    "budget": 0,
    "cast": [
@@ -550,7 +550,7 @@
    "vote_average": 7.498,
    "vote_count": 481
   },
-  "51588": {
+  "movie:51588": {
    "backdrop_path": "/mN0rbiE6kEyVefPTLOBmICfvxJJ.jpg",
    "budget": 8000000,
    "cast": [
@@ -711,7 +711,7 @@
    "vote_average": 6.1,
    "vote_count": 478
   },
-  "747688": {
+  "movie:747688": {
    "backdrop_path": "/jpadmB7KftfYHJnyY9e8AFH60L8.jpg",
    "budget": 0,
    "cast": [
@@ -819,7 +819,7 @@
    "vote_average": 6.29,
    "vote_count": 453
   },
-  "8288": {
+  "movie:8288": {
    "backdrop_path": "/jN8QlFopLe2i4Eyzl8WKyVvnMwW.jpg",
    "budget": 0,
    "cast": [
@@ -968,7 +968,7 @@
    "vote_average": 6.462,
    "vote_count": 495
   },
-  "9588": {
+  "movie:9588": {
    "backdrop_path": "/acceAT7dXF46O6ksnowcVAbnkY3.jpg",
    "budget": 0,
    "cast": [
@@ -1104,6 +1104,1768 @@
    "type": "movie",
    "vote_average": 6.72,
    "vote_count": 455
+  },
+  "tv:100088": {
+   "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellie Williams",
+     "n": "Bella Ramsey"
+    },
+    {
+     "c": "Tommy Miller",
+     "n": "Gabriel Luna"
+    },
+    {
+     "c": "Dina",
+     "n": "Isabela Merced"
+    },
+    {
+     "c": "Jesse",
+     "n": "Young Mazino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "Neil Druckmann",
+    "Craig Mazin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-01-15",
+   "genres": [
+    "Drama"
+   ],
+   "id": 100088,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+   "popularity": 120.0047,
+   "poster_path": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-01-15",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-04-13",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Every path has a price.",
+   "title": "The Last of Us",
+   "trailer": {
+    "key": "uLtkt8BonwM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.393,
+   "vote_count": 7515
+  },
+  "tv:117488": {
+   "backdrop_path": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shauna Sadecki",
+     "n": "Melanie Lynskey"
+    },
+    {
+     "c": "Taissa Turner",
+     "n": "Tawny Cypress"
+    },
+    {
+     "c": "Teen Shauna Shipman",
+     "n": "Sophie Nélisse"
+    },
+    {
+     "c": "Teen Taissa Turner",
+     "n": "Jasmin Savoy Brown"
+    },
+    {
+     "c": "Teen Natalie Scatorccio",
+     "n": "Sophie Thatcher"
+    },
+    {
+     "c": "Teen Misty Quigley",
+     "n": "Sammi Hanratty"
+    },
+    {
+     "c": "Jeff Sadecki",
+     "n": "Warren Kole"
+    },
+    {
+     "c": "Misty Quigley",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "Clara",
+     "n": "Summer H. Howell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Ashley Lyle",
+    "Bart Nickerson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-11-14",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 117488,
+   "industry": "world",
+   "networks": [
+    "Showtime",
+    "Paramount+ with Showtime"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+   "popularity": 26.4535,
+   "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-07-19",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-11-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-03-26",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-02-16",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-11-22",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "We hear the wilderness and it hears us.",
+   "title": "Yellowjackets",
+   "trailer": {
+    "key": "zDFHivyECDU",
+    "name": "Yellowjackets - Season 4 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.429,
+   "vote_count": 1077
+  },
+  "tv:125988": {
+   "backdrop_path": "/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Juliette Nichols",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Robert Sims",
+     "n": "Common"
+    },
+    {
+     "c": "Paul Billings",
+     "n": "Chinaza Uche"
+    },
+    {
+     "c": "Daniel Keene",
+     "n": "Ashley Zukerman"
+    },
+    {
+     "c": "Knox",
+     "n": "Shane McRae"
+    },
+    {
+     "c": "Shirley Campbell",
+     "n": "Remmie Milner"
+    },
+    {
+     "c": "Camille Sims",
+     "n": "Alexandria Riley"
+    },
+    {
+     "c": "Henry",
+     "n": "Reed Birney"
+    },
+    {
+     "c": "Senator Thurman",
+     "n": "Laura Innes"
+    },
+    {
+     "c": "Charlotte Keene",
+     "n": "Jessica Brown Findlay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Graham Yost"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-05-04",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 125988,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 31,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+   "popularity": 82.2964,
+   "poster_path": "/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-05-04",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-11-14",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-07-02",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2027-07-08",
+     "episode_count": 1,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The key to the future lies in the past.",
+   "title": "Silo",
+   "trailer": {
+    "key": "8ZYhuvIv1pA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 2908
+  },
+  "tv:131488": {
+   "backdrop_path": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Empress Elisabeth 'Sisi' von Wittelsbach",
+     "n": "Devrim Lingnau"
+    },
+    {
+     "c": "Franz Joseph of Austria-Hungary",
+     "n": "Philip Froissant"
+    },
+    {
+     "c": "Princess Sophie of Bavaria",
+     "n": "Melika Foroutan"
+    },
+    {
+     "c": "Archduke Maximilian",
+     "n": "Johannes Nussbaum"
+    },
+    {
+     "c": "Duchess Helene of Bavaria",
+     "n": "Elisa Schlott"
+    },
+    {
+     "c": "Princess Ludovika of Bavaria",
+     "n": "Jördis Triebel"
+    },
+    {
+     "c": "Leontine von Apafi",
+     "n": "Almila Bağrıaçık"
+    },
+    {
+     "c": "Countess Sophie Esterházy",
+     "n": "Wiebke Puls"
+    },
+    {
+     "c": "Baron Alexander von Bach",
+     "n": "Alexander Finkenwirth"
+    },
+    {
+     "c": "Ambassadeur De Bourqueney",
+     "n": "Raymond Tarabay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Katharina Eyssen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-09-29",
+   "genres": [
+    "Drama"
+   ],
+   "id": 131488,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+   "popularity": 28.9758,
+   "poster_path": "/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-09-29",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-11-22",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-11-12",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Empress",
+   "trailer": {
+    "key": "KfySe96FPr8",
+    "name": "The Empress | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.665,
+   "vote_count": 191
+  },
+  "tv:211288": {
+   "backdrop_path": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Colter Shaw",
+     "n": "Justin Hartley"
+    },
+    {
+     "c": "Reenie Greene",
+     "n": "Fiona Rene"
+    },
+    {
+     "c": "Randy Davis",
+     "n": "Chris Lee"
+    },
+    {
+     "c": "Melanie 'Mel' Day",
+     "n": "Cassady McClincy-Zhang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Ben H. Winters"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-02-11",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 211288,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+   "popularity": 55.8533,
+   "poster_path": "/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-02-11",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-10-13",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-10-19",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-10-04",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "We're all looking for something.",
+   "title": "Tracker",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.631,
+   "vote_count": 351
+  },
+  "tv:2288": {
+   "backdrop_path": "/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Scofield",
+     "n": "Wentworth Miller"
+    },
+    {
+     "c": "Lincoln Burrows",
+     "n": "Dominic Purcell"
+    },
+    {
+     "c": "Sara Tancredi",
+     "n": "Sarah Wayne Callies"
+    },
+    {
+     "c": "Benjamin 'C-Note' Franklin",
+     "n": "Rockmond Dunbar"
+    },
+    {
+     "c": "Theodore 'T-Bag' Bagwell",
+     "n": "Robert Knepper"
+    },
+    {
+     "c": "Sheba",
+     "n": "Inbar Lavi"
+    },
+    {
+     "c": "David 'Whip' Martin",
+     "n": "Augustus Prew"
+    },
+    {
+     "c": "Jacob Ness",
+     "n": "Mark Feuerstein"
+    },
+    {
+     "c": "terrorist",
+     "n": "Said Bey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Paul T. Scheuring"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-08-29",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 2288,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+   "popularity": 106.3449,
+   "poster_path": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-10-11",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-08-29",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-08-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-17",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-01",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-04-04",
+     "episode_count": 9,
+     "name": "Resurrection",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Just have a little faith.",
+   "title": "Prison Break",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.059,
+   "vote_count": 6269
+  },
+  "tv:4588": {
+   "backdrop_path": "/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abby Lockhart",
+     "n": "Maura Tierney"
+    },
+    {
+     "c": "Neela Rasgotra",
+     "n": "Parminder Nagra"
+    },
+    {
+     "c": "Samantha Taggart",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Archie Morris",
+     "n": "Scott Grimes"
+    },
+    {
+     "c": "Simon Brenner",
+     "n": "David Lyons"
+    },
+    {
+     "c": "Catherine Banfield",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Tony Gates",
+     "n": "John Stamos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Michael Crichton"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1994-09-19",
+   "genres": [
+    "Drama"
+   ],
+   "id": 4588,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 331,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+   "popularity": 75.4844,
+   "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-04-02",
+     "episode_count": 51,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1994-09-19",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1995-09-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1996-09-26",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1997-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-09-24",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1999-09-30",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-10-12",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2001-09-27",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2002-09-26",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2003-09-25",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2004-09-23",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2005-09-22",
+     "episode_count": 22,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2006-09-21",
+     "episode_count": 23,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 19,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 22,
+     "name": "Season 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Life. Death. Chaos. It's all in a day's work.",
+   "title": "ER",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.801,
+   "vote_count": 987
+  },
+  "tv:62688": {
+   "backdrop_path": "/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kara Danvers / Supergirl / Kara Zor-El",
+     "n": "Melissa Benoist"
+    },
+    {
+     "c": "Alex Danvers / Sentinel",
+     "n": "Chyler Leigh"
+    },
+    {
+     "c": "J'onn J'onzz / Martian Manhunter",
+     "n": "David Harewood"
+    },
+    {
+     "c": "Lena Luthor",
+     "n": "Katie McGrath"
+    },
+    {
+     "c": "Querl 'Brainy' Dox / Brainiac-5",
+     "n": "Jesse Rath"
+    },
+    {
+     "c": "Nia Nal / Dreamer",
+     "n": "Nicole Maines"
+    },
+    {
+     "c": "Kelly Olsen / Guardian",
+     "n": "Azie Tesfai"
+    },
+    {
+     "c": "Andrea Rojas / Acrata",
+     "n": "Julie Gonzalo"
+    },
+    {
+     "c": "William Dey",
+     "n": "Staz Nair"
+    },
+    {
+     "c": "Nyxlygsptlnz / 'Nyxly'",
+     "n": "Peta Sergeant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Greg Berlanti",
+    "Andrew Kreisberg",
+    "Ali Adler"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2015-10-26",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 62688,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "The CW"
+   ],
+   "number_of_episodes": 126,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+   "popularity": 44.5438,
+   "poster_path": "/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-10-26",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-10-10",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-10-09",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-10-14",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-10-06",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-03-30",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Better. Stronger. Together.",
+   "title": "Supergirl",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.253,
+   "vote_count": 4498
+  },
+  "tv:66788": {
+   "backdrop_path": "/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clay Jensen",
+     "n": "Dylan Minnette"
+    },
+    {
+     "c": "Ani Achola",
+     "n": "Grace Saif"
+    },
+    {
+     "c": "Tony Padilla",
+     "n": "Christian Navarro"
+    },
+    {
+     "c": "Jessica Davis",
+     "n": "Alisha Boe"
+    },
+    {
+     "c": "Justin Foley",
+     "n": "Brandon Flynn"
+    },
+    {
+     "c": "Bryce Walker",
+     "n": "Justin Prentice"
+    },
+    {
+     "c": "Alex Standall",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Zach Dempsey",
+     "n": "Ross Butler"
+    },
+    {
+     "c": "Tyler Down",
+     "n": "Devin Druid"
+    },
+    {
+     "c": "Montgomery de la Cruz",
+     "n": "Timothy Granaderos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Brian Yorkey",
+    "Jay Asher"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-03-31",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 66788,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 49,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "High school student Clay Jensen lands in the center of a series of heartbreaking mysteries set in motion by a friend's tragic suicide.",
+   "popularity": 25.3942,
+   "poster_path": "/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-03-31",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-05-18",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-08-23",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-06-05",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "If you're listening, you're too late.",
+   "title": "13 Reasons Why",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 4713
+  },
+  "tv:688": {
+   "backdrop_path": "/67nEeu5DGCflZUFRiNNySISEtV9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Josiah Bartlet",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "C.J. Cregg",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Leo McGarry",
+     "n": "John Spencer"
+    },
+    {
+     "c": "Josh Lyman",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Will Bailey",
+     "n": "Joshua Malina"
+    },
+    {
+     "c": "Arnold Vinick",
+     "n": "Alan Alda"
+    },
+    {
+     "c": "Matthew Santos",
+     "n": "Jimmy Smits"
+    },
+    {
+     "c": "Annabeth Schott",
+     "n": "Kristin Chenoweth"
+    },
+    {
+     "c": "Kate Harper",
+     "n": "Mary McCormack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Aaron Sorkin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-09-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 688,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 154,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+   "popularity": 80.0863,
+   "poster_path": "/yz1qWFZ8kjgQjqB9NX5kWMetX4w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-10-03",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-10-04",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-10-10",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-09-25",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-09-24",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-10-20",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Right place. Right time. Right man.",
+   "title": "The West Wing",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.279,
+   "vote_count": 632
+  },
+  "tv:888": {
+   "backdrop_path": "/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man (voice)",
+     "n": "Christopher Daniel Barnes"
+    },
+    {
+     "c": "Mary Jane Watson (voice)",
+     "n": "Sara Ballantine"
+    },
+    {
+     "c": "Felicia Hardy (voice)",
+     "n": "Jennifer Hale"
+    },
+    {
+     "c": "J. Jonah Jameson (voice)",
+     "n": "Ed Asner"
+    },
+    {
+     "c": "Joe 'Robbie' Robertson (voice)",
+     "n": "Rodney Saulsberry"
+    },
+    {
+     "c": "Kingpin (voice)",
+     "n": "Roscoe Lee Browne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "FOX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1994-11-19",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 888,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Fox Kids"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bitten by a neogenetic spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+   "popularity": 34.7109,
+   "poster_path": "/1BX1HZZqDoLDx9Ry4oET6dA9293.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-11-19",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1995-09-09",
+     "episode_count": 14,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1996-04-27",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1997-02-01",
+     "episode_count": 11,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-09-12",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Stop crawling the walls! The moment you've been waiting for has arrived!",
+   "title": "Spider-Man",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.314,
+   "vote_count": 1194
   }
  }
 }

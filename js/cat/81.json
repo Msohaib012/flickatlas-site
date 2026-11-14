@@ -1,8 +1,8 @@
 {
  "bucket": "81",
- "count": 6,
+ "count": 12,
  "titles": {
-  "15681": {
+  "movie:15681": {
    "backdrop_path": "/lePVhFlkuRsE24agMApfg1V4wrB.jpg",
    "budget": 10000000,
    "cast": [
@@ -92,7 +92,7 @@
    "vote_average": 5.7,
    "vote_count": 472
   },
-  "340481": {
+  "movie:340481": {
    "backdrop_path": "/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
    "budget": 0,
    "cast": [
@@ -280,7 +280,7 @@
    "vote_average": 6.2,
    "vote_count": 442
   },
-  "342281": {
+  "movie:342281": {
    "backdrop_path": "/44aEUVjYtOLOBHZB55b3AXpdzA7.jpg",
    "budget": 0,
    "cast": [
@@ -377,7 +377,7 @@
    "vote_average": 5.2,
    "vote_count": 440
   },
-  "5781": {
+  "movie:5781": {
    "backdrop_path": "/79ofDLTW1ozMSYDNWhDYe5cQzAa.jpg",
    "budget": 0,
    "cast": [
@@ -481,7 +481,7 @@
    "vote_average": 7.433,
    "vote_count": 473
   },
-  "920081": {
+  "movie:920081": {
    "backdrop_path": "/gvNmnvu13TPAewP54hvCyuHwNwR.jpg",
    "budget": 0,
    "cast": [
@@ -666,7 +666,7 @@
    "vote_average": 6.3,
    "vote_count": 473
   },
-  "9781": {
+  "movie:9781": {
    "backdrop_path": "/NH15yF3nLKyYpog18sy5ynnGBf.jpg",
    "budget": 6500000,
    "cast": [
@@ -777,6 +777,1480 @@
    "type": "movie",
    "vote_average": 6.757,
    "vote_count": 480
+  },
+  "tv:1781": {
+   "backdrop_path": "/uCvpgfY4oTeZxEcFqm1ATJkDDmu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Almanzo James Wilder",
+     "n": "Dean Butler"
+    },
+    {
+     "c": "Laura Ingalls",
+     "n": "Melissa Gilbert"
+    },
+    {
+     "c": "Harriet Oleson",
+     "n": "Katherine MacGregor"
+    },
+    {
+     "c": "Nels Oleson",
+     "n": "Richard Bull"
+    },
+    {
+     "c": "Willie Oleson",
+     "n": "Jonathan Gilbert"
+    },
+    {
+     "c": "Nancy Oleson",
+     "n": "Allison Balson"
+    },
+    {
+     "c": "Jeb Carter",
+     "n": "Lindsay Kennedy"
+    },
+    {
+     "c": "Jason Carter",
+     "n": "David Friedman"
+    },
+    {
+     "c": "Jenny Wilder",
+     "n": "Shannen Doherty"
+    },
+    {
+     "c": "Sarah Reed Carter",
+     "n": "Pamela Roylance"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Ed Friendly",
+    "Laura Ingalls Wilder"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1974-09-11",
+   "genres": [
+    "Western",
+    "Drama",
+    "Family"
+   ],
+   "id": 1781,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 200,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the big woods of Wisconsin becomes a difficult spot for hunting, Charles Ingalls reluctantly decides to move his family, pioneering west. Their life on the farm in Walnut Grove, Minnesota, in the 1870s and 1880s is full of adventure, tragedy, and triumph. Based on the books of Laura Ingalls Wilder.",
+   "popularity": 50.5257,
+   "poster_path": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1974-03-30",
+     "episode_count": 20,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1974-09-11",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1975-09-10",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1976-09-27",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1977-09-12",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1978-09-10",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1979-09-16",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1980-09-22",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1981-10-05",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1982-09-27",
+     "episode_count": 21,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Together, a pioneering family faces a crucial test of its courage and its love!",
+   "title": "Little House on the Prairie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.977,
+   "vote_count": 1052
+  },
+  "tv:1981": {
+   "backdrop_path": "/ueZFcwAUvkjyAB9beaiqJyg0M8H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Piper Halliwell",
+     "n": "Holly Marie Combs"
+    },
+    {
+     "c": "Phoebe Halliwell",
+     "n": "Alyssa Milano"
+    },
+    {
+     "c": "Paige Matthews",
+     "n": "Rose McGowan"
+    },
+    {
+     "c": "Leo Wyatt",
+     "n": "Brian Krause"
+    },
+    {
+     "c": "Billie Jenkins",
+     "n": "Kaley Cuoco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The WB",
+   "created_by": [
+    "Constance M. Burge"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1998-10-07",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 1981,
+   "industry": "world",
+   "networks": [
+    "The WB"
+   ],
+   "number_of_episodes": 178,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three sisters (Prue, Piper and Phoebe) reunite and unlock their powers to become the Charmed Ones, the most powerful good witches of all time, whose prophesied destiny is to protect innocent lives from evil beings such as demons and warlocks. Each sister possesses unique magical powers that grow and evolve, while they attempt to maintain normal lives in modern day San Francisco. ",
+   "popularity": 84.2313,
+   "poster_path": "/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1998-10-07",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-10-07",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-09-30",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-10-05",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-10-04",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-09-22",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2003-09-28",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2004-09-12",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Charmed",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.153,
+   "vote_count": 2620
+  },
+  "tv:30981": {
+   "backdrop_path": "/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tenma (voice)",
+     "n": "Hidenobu Kiuchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2004-04-07",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 30981,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 74,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kenzou Tenma, a Japanese brain surgeon in Germany, finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+   "popularity": 46.7968,
+   "poster_path": "/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-04-07",
+     "episode_count": 74,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The only thing humans are equal in is death.",
+   "title": "Monster",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.517,
+   "vote_count": 875
+  },
+  "tv:58981": {
+   "backdrop_path": "/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phoebe Thunderman",
+     "n": "Kira Kosarin"
+    },
+    {
+     "c": "Max Thunderman",
+     "n": "Jack Griffo"
+    },
+    {
+     "c": "Nora Thunderman",
+     "n": "Addison Riecke"
+    },
+    {
+     "c": "Billy Thunderman",
+     "n": "Diego Velazquez"
+    },
+    {
+     "c": "Hank Thunderman",
+     "n": "Chris Tallman"
+    },
+    {
+     "c": "Barb Thunderman",
+     "n": "Rosa Blasi"
+    },
+    {
+     "c": "Chloe Thunderman",
+     "n": "Maya Le Clark"
+    },
+    {
+     "c": "Puppeteer",
+     "n": "Edward Chiodo"
+    },
+    {
+     "c": "Chloe thunderman in great British version",
+     "n": "Majesie lewton ll"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Jed Spingarn"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2013-10-14",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 58981,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 98,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Meet The Thundermans, a typical suburban family that happens to have astounding superpowers. At the center of the action are the 14-year-old Thunderman twins, who share the same bathroom, the same school, and the same annoying little siblings. Their only difference? The sister is a super student with a super sunny disposition who super looks forward to being a superhero someday, and her twin brother is a super villain.",
+   "popularity": 30.2307,
+   "poster_path": "/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+   "production_countries": [
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-10-12",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-10-14",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-13",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-06-27",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-10-22",
+     "episode_count": 29,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Thundermans",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.986,
+   "vote_count": 619
+  },
+  "tv:61381": {
+   "backdrop_path": "/czpfLUoJt7uPQf2i7S2Mo2cwRGl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andre Johnson",
+     "n": "Anthony Anderson"
+    },
+    {
+     "c": "Rainbow Johnson",
+     "n": "Tracee Ellis Ross"
+    },
+    {
+     "c": "Junior Johnson",
+     "n": "Marcus Scribner"
+    },
+    {
+     "c": "Diane Johnson",
+     "n": "Marsai Martin"
+    },
+    {
+     "c": "Jack Johnson",
+     "n": "Miles Brown"
+    },
+    {
+     "c": "Ruby Johnson",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Charlie Telphy",
+     "n": "Deon Cole"
+    },
+    {
+     "c": "Leslie Stevens",
+     "n": "Peter MacKenzie"
+    },
+    {
+     "c": "Josh Oppenhol",
+     "n": "Jeff Meacham"
+    },
+    {
+     "c": "Olivia Lockhart",
+     "n": "Katlyn Nichol"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Kenya Barris"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2014-09-24",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 61381,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 175,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
+   "popularity": 45.022,
+   "poster_path": "/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-03-11",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-10-03",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-10-16",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-10-04",
+     "episode_count": 21,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2022-01-04",
+     "episode_count": 13,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "black-ish",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 352
+  },
+  "tv:881": {
+   "backdrop_path": "/e7MSbwYRVqd4rZQQWcNuJvOSHLC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "EJ DiMera",
+     "n": "Daniel Feuerriegel"
+    },
+    {
+     "c": "Sydney DiMera",
+     "n": "Sydney Malakeh"
+    },
+    {
+     "c": "Johnny DiMera",
+     "n": "Carson Boatman"
+    },
+    {
+     "c": "Chanel DiMera",
+     "n": "Raven Bowens"
+    },
+    {
+     "c": "Rita Lesley",
+     "n": "Maggie Carney"
+    },
+    {
+     "c": "Dominic Marino",
+     "n": "Kyle Pryor"
+    },
+    {
+     "c": "Dante Vitali",
+     "n": "Franco Lo Presti"
+    },
+    {
+     "c": "Dr. Marlena Evans",
+     "n": "Deidre Hall"
+    },
+    {
+     "c": "Brady Black",
+     "n": "Eric Martsolf"
+    },
+    {
+     "c": "Tate Black",
+     "n": "Leo Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Irna Phillips",
+    "Ted Corday",
+    "Betty Corday",
+    "Allan Chase"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1965-11-08",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 881,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "Peacock"
+   ],
+   "number_of_episodes": 9071,
+   "number_of_seasons": 64,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Horton and Brady broods endure the romantic trials of life in Salem, a Midwestern hamlet filled with evil geniuses, star-crossed lovers and a rich family history.",
+   "popularity": 28.2036,
+   "poster_path": "/7Zm7epVFEovMEVLpM6FvrjhaNXn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1992-01-10",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1965-11-07",
+     "episode_count": 17,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1983-11-08",
+     "episode_count": 258,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "1984-11-08",
+     "episode_count": 258,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1985-11-08",
+     "episode_count": 257,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1986-11-10",
+     "episode_count": 256,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1987-11-09",
+     "episode_count": 258,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "1988-11-08",
+     "episode_count": 258,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1989-11-08",
+     "episode_count": 257,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "1990-11-08",
+     "episode_count": 254,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "1991-11-08",
+     "episode_count": 259,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "1992-11-09",
+     "episode_count": 255,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "1993-11-08",
+     "episode_count": 255,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "1994-11-08",
+     "episode_count": 211,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "1995-11-08",
+     "episode_count": 1,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "1996-11-08",
+     "episode_count": 1,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "1997-11-07",
+     "episode_count": 1,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "1998-11-09",
+     "episode_count": 1,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "1999-11-08",
+     "episode_count": 1,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2000-11-08",
+     "episode_count": 1,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2001-11-08",
+     "episode_count": 1,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2002-11-08",
+     "episode_count": 61,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2003-11-10",
+     "episode_count": 244,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2004-11-08",
+     "episode_count": 259,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2005-11-08",
+     "episode_count": 256,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2006-11-09",
+     "episode_count": 255,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2007-11-08",
+     "episode_count": 258,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2008-11-10",
+     "episode_count": 254,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2009-11-09",
+     "episode_count": 251,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2010-11-08",
+     "episode_count": 256,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2011-11-08",
+     "episode_count": 246,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2012-11-08",
+     "episode_count": 252,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2013-11-08",
+     "episode_count": 255,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 254,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 240,
+     "name": "Season 51",
+     "season_number": 51
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 257,
+     "name": "Season 52",
+     "season_number": 52
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 253,
+     "name": "Season 53",
+     "season_number": 53
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 254,
+     "name": "Season 54",
+     "season_number": 54
+    },
+    {
+     "air_date": "2019-09-23",
+     "episode_count": 254,
+     "name": "Season 55",
+     "season_number": 55
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 242,
+     "name": "Season 56",
+     "season_number": 56
+    },
+    {
+     "air_date": "2021-09-19",
+     "episode_count": 243,
+     "name": "Season 57",
+     "season_number": 57
+    },
+    {
+     "air_date": "2022-09-18",
+     "episode_count": 245,
+     "name": "Season 58",
+     "season_number": 58
+    },
+    {
+     "air_date": "2023-08-28",
+     "episode_count": 260,
+     "name": "Season 59",
+     "season_number": 59
+    },
+    {
+     "air_date": "2024-08-26",
+     "episode_count": 260,
+     "name": "Season 60",
+     "season_number": 60
+    },
+    {
+     "air_date": "2025-08-25",
+     "episode_count": 260,
+     "name": "Season 61",
+     "season_number": 61
+    },
+    {
+     "air_date": "2026-08-24",
+     "episode_count": 141,
+     "name": "Season 62",
+     "season_number": 62
+    },
+    {
+     "air_date": "2027-08-23",
+     "episode_count": 1,
+     "name": "Season 63",
+     "season_number": 63
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 64",
+     "season_number": 64
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Days of Our Lives",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.2,
+   "vote_count": 159
   }
  }
 }

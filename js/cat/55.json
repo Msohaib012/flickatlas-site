@@ -1,8 +1,8 @@
 {
  "bucket": "55",
- "count": 8,
+ "count": 16,
  "titles": {
-  "1212855": {
+  "movie:1212855": {
    "backdrop_path": "/jDyNnLyJUOsVgseQgkHPRxpyo4o.jpg",
    "budget": 40000000,
    "cast": [
@@ -146,7 +146,7 @@
    "vote_average": 6.288,
    "vote_count": 440
   },
-  "13555": {
+  "movie:13555": {
    "backdrop_path": "/uDIZFlKa3h9ufzxpGXerCbIgmLc.jpg",
    "budget": 2000000,
    "cast": [
@@ -245,7 +245,7 @@
    "vote_average": 5.8,
    "vote_count": 444
   },
-  "14055": {
+  "movie:14055": {
    "backdrop_path": "/1aIM2oiOBH5TJsvjcdU6ca9zwQX.jpg",
    "budget": 0,
    "cast": [
@@ -354,7 +354,7 @@
    "vote_average": 6.4,
    "vote_count": 468
   },
-  "168055": {
+  "movie:168055": {
    "backdrop_path": "/mOzQklElA7ZBg3dSniCG7Npot7U.jpg",
    "budget": 0,
    "cast": [
@@ -509,7 +509,7 @@
    "vote_average": 5.955,
    "vote_count": 443
   },
-  "255": {
+  "movie:255": {
    "backdrop_path": "/42pH01hfjrpuKvplFjkLQYOlbmO.jpg",
    "budget": 350000,
    "cast": [
@@ -688,7 +688,7 @@
    "vote_average": 7.297,
    "vote_count": 480
   },
-  "28055": {
+  "movie:28055": {
    "backdrop_path": "/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
    "budget": 0,
    "cast": [
@@ -834,7 +834,7 @@
    "vote_average": 7.3,
    "vote_count": 499
   },
-  "460555": {
+  "movie:460555": {
    "backdrop_path": "/zYWgVYAI7elv6lpnXCyUtIkSOpM.jpg",
    "budget": 70000000,
    "cast": [
@@ -987,7 +987,7 @@
    "vote_average": 7.358,
    "vote_count": 453
   },
-  "791155": {
+  "movie:791155": {
    "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
    "budget": 0,
    "cast": [
@@ -1132,6 +1132,1481 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 441
+  },
+  "tv:108255": {
+   "backdrop_path": "/zWOhdkAgyo0HVDDHE5ZsztaPtCQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Herriot",
+     "n": "Nicholas Ralph"
+    },
+    {
+     "c": "Siegfried Farnon",
+     "n": "Samuel West"
+    },
+    {
+     "c": "Mrs Hall",
+     "n": "Anna Madeley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "5",
+   "created_by": [
+    "Colin Callender"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2020-09-01",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 108255,
+   "industry": "world",
+   "networks": [
+    "5"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The heartwarming and humorous adventures of a young country vet in the Yorkshire Dales in the 1930s. A remake of the 1978 series.",
+   "popularity": 26.0941,
+   "poster_path": "/hchdfgmviL9qzJ3OVd0LOkh1b5F.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+     "name": "PBS Masterpiece Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+     "name": "Thirteen",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+     "name": "WETA+",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-08-15",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-09-01",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-09-16",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-09-15",
+     "episode_count": 7,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-10-05",
+     "episode_count": 7,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-09-19",
+     "episode_count": 7,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 7,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2026-09-17",
+     "episode_count": 6,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Welcome home.",
+   "title": "All Creatures Great & Small",
+   "trailer": {
+    "key": "Ymqeh4IiaWI",
+    "name": "All Creatures Great and Small: Official Trailer (Channel 5)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 169
+  },
+  "tv:155": {
+   "backdrop_path": "/adsc78pBssCRr3iTgzxgdCPI1v2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dick Solomon",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Sally Solomon",
+     "n": "Kristen Johnston"
+    },
+    {
+     "c": "Mary Albright",
+     "n": "Jane Curtin"
+    },
+    {
+     "c": "Tommy Solomon",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Harry Solomon",
+     "n": "French Stewart"
+    },
+    {
+     "c": "Nina Campbell",
+     "n": "Simbi Khali"
+    },
+    {
+     "c": "Don Orville",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Mrs. Dubcek",
+     "n": "Elmarie Wendel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Terry Turner",
+    "Bonnie Turner"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1996-01-09",
+   "genres": [
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 155,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 139,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The high commander of an alien expedition lands on Earth -- what he considers to be the least-important planet -- in human form as Dick Solomon. Along for the ride are his alien compatriots Harry, Sally and Tommy -- who is the eldest of the group but is now angrily trapped in a teen's body.",
+   "popularity": 39.5335,
+   "poster_path": "/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-01-09",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1996-09-22",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-09-24",
+     "episode_count": 27,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1998-09-23",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1999-09-21",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2000-10-24",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There's a new family in town. They're not from another city... They're from another planet.",
+   "title": "3rd Rock from the Sun",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 601
+  },
+  "tv:1855": {
+   "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kathryn Janeway",
+     "n": "Kate Mulgrew"
+    },
+    {
+     "c": "Chakotay",
+     "n": "Robert Beltran"
+    },
+    {
+     "c": "B'Elanna Torres",
+     "n": "Roxann Dawson"
+    },
+    {
+     "c": "Tom Paris",
+     "n": "Robert Duncan McNeill"
+    },
+    {
+     "c": "Neelix",
+     "n": "Ethan Phillips"
+    },
+    {
+     "c": "The Doctor",
+     "n": "Robert Picardo"
+    },
+    {
+     "c": "Tuvok",
+     "n": "Tim Russ"
+    },
+    {
+     "c": "Seven of Nine",
+     "n": "Jeri Ryan"
+    },
+    {
+     "c": "Harry Kim",
+     "n": "Garrett Wang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "UPN",
+   "created_by": [
+    "Jeri Taylor",
+    "Rick Berman",
+    "Gene Roddenberry",
+    "Michael Piller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45,
+    60
+   ],
+   "first_air_date": "1995-01-16",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 1855,
+   "industry": "world",
+   "networks": [
+    "UPN"
+   ],
+   "number_of_episodes": 169,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pulled to the far side of the galaxy, where the Federation is 75 years away at maximum warp speed, a Starfleet ship must cooperate with Maquis rebels to find a way home.",
+   "popularity": 74.3423,
+   "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1995-01-09",
+     "episode_count": 90,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1995-01-16",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1995-08-28",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1996-09-04",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1997-09-03",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-10-14",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1999-09-22",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-10-04",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Charting the new frontier",
+   "title": "Star Trek: Voyager",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1187
+  },
+  "tv:202555": {
+   "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matt Murdock / Daredevil",
+     "n": "Charlie Cox"
+    },
+    {
+     "c": "Wilson Fisk",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Benjamin Poindexter / Bullseye",
+     "n": "Wilson Bethel"
+    },
+    {
+     "c": "Karen Page",
+     "n": "Deborah Ann Woll"
+    },
+    {
+     "c": "Heather Glenn",
+     "n": "Margarita Levieva"
+    },
+    {
+     "c": "Mr. Charles",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Gov Marge McCaffrey",
+     "n": "Lili Taylor"
+    },
+    {
+     "c": "Daniel Blake",
+     "n": "Michael Gandolfini"
+    },
+    {
+     "c": "Kirsten Mcduffie",
+     "n": "Nikki M. James"
+    },
+    {
+     "c": "Buck Cashman",
+     "n": "Arty Froushan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [
+    "Dario Scardapane",
+    "Chris Ord",
+    "Matt Corman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-03-04",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 202555,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 17,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+   "popularity": 39.3198,
+   "poster_path": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-03-04",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-03-24",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "All hell breaks loose.",
+   "title": "Daredevil: Born Again",
+   "trailer": {
+    "key": "7xALolZzhSM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1180
+  },
+  "tv:21755": {
+   "backdrop_path": "/zzZzApaNDa2IxQUWo8x3Rbgs7iW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Rick Harrison"
+    },
+    {
+     "c": "Self",
+     "n": "Corey Harrison"
+    },
+    {
+     "c": "Self",
+     "n": "Austin Lee Russell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "History",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-07-19",
+   "genres": [
+    "Reality"
+   ],
+   "id": 21755,
+   "industry": "world",
+   "networks": [
+    "History"
+   ],
+   "number_of_episodes": 683,
+   "number_of_seasons": 25,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Go inside the colorful world of the pawn business. At the Gold & Silver Pawn Shop on the outskirts of Las Vegas, generations of the Harrison family run the family business, and there’s clashing and camaraderie every step of the way.",
+   "popularity": 31.6604,
+   "poster_path": "/3YxmQmoSbv9bXHYWIEDztstZguC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HISTORY Vault Apple TV channel"
+    },
+    {
+     "name": "HISTORY Vault Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "History"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HistoryPlay Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-12-21",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-07-19",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-01-18",
+     "episode_count": 33,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-08-16",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-04-04",
+     "episode_count": 38,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-11-28",
+     "episode_count": 30,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-04-09",
+     "episode_count": 28,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-11-05",
+     "episode_count": 34,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-05-30",
+     "episode_count": 46,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-01-02",
+     "episode_count": 52,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2014-07-10",
+     "episode_count": 44,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-01-08",
+     "episode_count": 42,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2015-10-22",
+     "episode_count": 45,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2016-07-27",
+     "episode_count": 29,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2017-04-10",
+     "episode_count": 30,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-10-16",
+     "episode_count": 30,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2019-01-21",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-10-21",
+     "episode_count": 28,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-11-16",
+     "episode_count": 25,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2021-10-02",
+     "episode_count": 14,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2022-04-23",
+     "episode_count": 13,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2023-03-15",
+     "episode_count": 15,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2024-07-10",
+     "episode_count": 10,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2025-01-22",
+     "episode_count": 10,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2026-01-07",
+     "episode_count": 10,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 5,
+     "name": "Season 25",
+     "season_number": 25
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Pawn Stars",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.124,
+   "vote_count": 315
+  },
+  "tv:2755": {
+   "backdrop_path": "/xYnYBGtDsuduzIznvVKeLnpEtXt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeff Bingham",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Russell Dunbar",
+     "n": "David Spade"
+    },
+    {
+     "c": "Audrey Bingham",
+     "n": "Megyn Price"
+    },
+    {
+     "c": "Jennifer Morgan",
+     "n": "Bianca Kajlich"
+    },
+    {
+     "c": "Adam Rhodes",
+     "n": "Oliver Hudson"
+    },
+    {
+     "c": "Timmy Patel",
+     "n": "Adhir Kalyan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Tom Hertz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2007-02-05",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2755,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rules of Engagement is a comedy about the different phases of male/female relationships, as seen through the eyes of a newly engaged couple, Adam and Jennifer, a long-time married pair, Jeff and Audrey, and a single guy on the prowl, Russell. As they find out, the often confusing stages of a relationship can seem like being on a roller coaster. People can describe the ride to you, but to really know what it's like you have to experience it for yourself.",
+   "popularity": 28.4105,
+   "poster_path": "/tRma9RQCgwLXqkDrCPyrQwsazuJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-02-05",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-03-02",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-03-01",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-10-20",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2013-02-04",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Rules of Engagement",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.151,
+   "vote_count": 209
+  },
+  "tv:4455": {
+   "backdrop_path": "/hYAFCCbfhYdSdKxnlNqVadzg7dk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maxwell Smart",
+     "n": "Don Adams"
+    },
+    {
+     "c": "Agent 99",
+     "n": "Barbara Feldon"
+    },
+    {
+     "c": "Thaddeus",
+     "n": "Edward Platt"
+    },
+    {
+     "c": "Larabee",
+     "n": "Robert Karvelas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "NBC",
+   "created_by": [
+    "Buck Henry",
+    "Mel Brooks"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1965-09-18",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4455,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "CBS"
+   ],
+   "number_of_episodes": 138,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Maxwell Smart, a hilariously inept and maladroit secret agent for CONTROL, battles the nefarious—though equally incompetent—KAOS.",
+   "popularity": 41.6598,
+   "poster_path": "/AqhPucVAvnocglq5WYXbh6t9wuE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-01-01",
+     "episode_count": 27,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1965-09-18",
+     "episode_count": 30,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1966-09-17",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1967-09-16",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1968-09-21",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1969-09-26",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Agent 86 is face to face with danger again \"and loving it!\"",
+   "title": "Get Smart",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.965,
+   "vote_count": 453
+  },
+  "tv:655": {
+   "backdrop_path": "/qmliLoo6GVheM2FihatlAXxCKyF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean-Luc Picard",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "William T. Riker",
+     "n": "Jonathan Frakes"
+    },
+    {
+     "c": "Data",
+     "n": "Brent Spiner"
+    },
+    {
+     "c": "Geordi La Forge",
+     "n": "LeVar Burton"
+    },
+    {
+     "c": "Worf",
+     "n": "Michael Dorn"
+    },
+    {
+     "c": "Deanna Troi",
+     "n": "Marina Sirtis"
+    },
+    {
+     "c": "Beverly Crusher",
+     "n": "Gates McFadden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Syndication",
+   "created_by": [
+    "Gene Roddenberry"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1987-09-28",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 655,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 176,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+   "popularity": 95.7252,
+   "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-07-23",
+     "episode_count": 138,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1987-09-28",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-11-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-09-25",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-09-24",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-09-23",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-09-21",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1993-09-20",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "New stars. New stories. New worlds to explore.",
+   "title": "Star Trek: The Next Generation",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.382,
+   "vote_count": 1899
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "93",
- "count": 4,
+ "count": 11,
  "titles": {
-  "27793": {
+  "movie:27793": {
    "backdrop_path": "/12Tr8MQ3z4M2Kpsz7bQQhghNJ5X.jpg",
    "budget": 17000000,
    "cast": [
@@ -117,7 +117,7 @@
    "vote_average": 4.5,
    "vote_count": 447
   },
-  "38093": {
+  "movie:38093": {
    "backdrop_path": "/gvNBgLoVxEGZrzjyudnTY0tdDlz.jpg",
    "budget": 0,
    "cast": [
@@ -227,7 +227,7 @@
    "vote_average": 6.549,
    "vote_count": 477
   },
-  "5393": {
+  "movie:5393": {
    "backdrop_path": "/zBW4LZyYi0Moqz82BTkEQzR7h0z.jpg",
    "budget": 47000000,
    "cast": [
@@ -336,7 +336,7 @@
    "vote_average": 5.1,
    "vote_count": 458
   },
-  "626393": {
+  "movie:626393": {
    "backdrop_path": "/mQngZ4DtXqdkX9fOQRsm9iym5OW.jpg",
    "budget": 0,
    "cast": [
@@ -442,6 +442,1312 @@
    "type": "movie",
    "vote_average": 6.372,
    "vote_count": 461
+  },
+  "tv:2593": {
+   "backdrop_path": "/9PBVvl5o88WyKoynCYsws9jkGAl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Malone",
+     "n": "Anthony LaPaglia"
+    },
+    {
+     "c": "Samantha Spade",
+     "n": "Poppy Montgomery"
+    },
+    {
+     "c": "Vivian Johnson",
+     "n": "Marianne Jean-Baptiste"
+    },
+    {
+     "c": "Danny Taylor",
+     "n": "Enrique Murciano"
+    },
+    {
+     "c": "Elena Delgado",
+     "n": "Roselyn Sánchez"
+    },
+    {
+     "c": "Martin Fitzgerald",
+     "n": "Eric Close"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Hank Steinberg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2002-09-26",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 2593,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 160,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+   "popularity": 51.0766,
+   "poster_path": "/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-09-26",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-09-25",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-09-23",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-09-29",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-09-24",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-09-23",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Without a Trace",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 287
+  },
+  "tv:38693": {
+   "backdrop_path": "/ptEtIr3rVuAJpmbwaLJJqND6HVq.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Michael Hegner",
+    "Tommy Andreasen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-01-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 38693,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 210,
+   "number_of_seasons": 16,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+   "popularity": 97.8088,
+   "poster_path": "/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+   "production_countries": [
+    "CA",
+    "DK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-01-13",
+     "episode_count": 87,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-01-11",
+     "episode_count": 13,
+     "name": "Rise of the Snakes",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-07-18",
+     "episode_count": 13,
+     "name": "Legacy of the Green Ninja",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-29",
+     "episode_count": 8,
+     "name": "Rebooted",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-02-23",
+     "episode_count": 10,
+     "name": "Tournament of Elements",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-06-29",
+     "episode_count": 10,
+     "name": "Possession",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-06-09",
+     "episode_count": 10,
+     "name": "Skybound",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-05-15",
+     "episode_count": 10,
+     "name": "Hands of Time",
+     "season_number": 7
+    },
+    {
+     "air_date": "2018-04-16",
+     "episode_count": 10,
+     "name": "Sons of Garmadon",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-09-03",
+     "episode_count": 10,
+     "name": "Hunted",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-01-19",
+     "episode_count": 4,
+     "name": "March of the Oni",
+     "season_number": 10
+    },
+    {
+     "air_date": "2019-06-22",
+     "episode_count": 30,
+     "name": "Secrets of the Forbidden Spinjitzu",
+     "season_number": 11
+    },
+    {
+     "air_date": "2020-07-19",
+     "episode_count": 16,
+     "name": "Prime Empire",
+     "season_number": 12
+    },
+    {
+     "air_date": "2020-07-06",
+     "episode_count": 16,
+     "name": "Master of the Mountain",
+     "season_number": 13
+    },
+    {
+     "air_date": "2021-03-07",
+     "episode_count": 4,
+     "name": "The Island",
+     "season_number": 14
+    },
+    {
+     "air_date": "2021-04-04",
+     "episode_count": 16,
+     "name": "Seabound",
+     "season_number": 15
+    },
+    {
+     "air_date": "2022-05-20",
+     "episode_count": 30,
+     "name": "Crystalized",
+     "season_number": 16
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Ninjago: Masters of Spinjitzu",
+   "trailer": {
+    "key": "K_YnSAYs7h4",
+    "name": "LEGO® NINJAGO Crystalized - Series Finale Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 803
+  },
+  "tv:39793": {
+   "backdrop_path": "/a600KQ3DdQUQl5LewN5imbL0BaF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jennifer Worth (voice)",
+     "n": "Vanessa Redgrave"
+    },
+    {
+     "c": "Sister Julienne",
+     "n": "Jenny Agutter"
+    },
+    {
+     "c": "Sister Monica Joan",
+     "n": "Judy Parfitt"
+    },
+    {
+     "c": "Sister Catherine",
+     "n": "Molly Vevers"
+    },
+    {
+     "c": "Sister Veronica",
+     "n": "Rebecca Gethings"
+    },
+    {
+     "c": "Nurse Rosalind Clifford",
+     "n": "Natalie Quarry"
+    },
+    {
+     "c": "Nurse Phyllis Crane",
+     "n": "Linda Bassett"
+    },
+    {
+     "c": "Nurse Joyce Highland",
+     "n": "Renee Bailey"
+    },
+    {
+     "c": "Dr Patrick Turner",
+     "n": "Stephen McGann"
+    },
+    {
+     "c": "Nurse Shelagh Turner",
+     "n": "Laura Main"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "BBC One",
+   "created_by": [
+    "Heidi Thomas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "2012-01-15",
+   "genres": [
+    "Drama"
+   ],
+   "id": 39793,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 117,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Drama following the lives of a group of midwives working in the poverty-stricken East End of London during the 1950s, based on the best-selling memoirs of Jennifer Worth.",
+   "popularity": 49.9381,
+   "poster_path": "/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-12-25",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-01-15",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-01-20",
+     "episode_count": 8,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-19",
+     "episode_count": 8,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-01-18",
+     "episode_count": 8,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-01-17",
+     "episode_count": 8,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-01-22",
+     "episode_count": 8,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-01-21",
+     "episode_count": 8,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-01-13",
+     "episode_count": 8,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2020-01-05",
+     "episode_count": 8,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2021-04-18",
+     "episode_count": 7,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2022-01-02",
+     "episode_count": 8,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2023-01-01",
+     "episode_count": 8,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2024-01-07",
+     "episode_count": 8,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2025-01-05",
+     "episode_count": 8,
+     "name": "Series 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2026-01-11",
+     "episode_count": 8,
+     "name": "Series 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "In 1950's London, they delivered hope for all.",
+   "title": "Call the Midwife",
+   "trailer": {
+    "key": "aVfdZevxf_o",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 267
+  },
+  "tv:4493": {
+   "backdrop_path": "/Ahc9QBI1oTHkQMDza2Rr4JQWiup.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edina Monsoon",
+     "n": "Jennifer Saunders"
+    },
+    {
+     "c": "Patsy Stone",
+     "n": "Joanna Lumley"
+    },
+    {
+     "c": "Saffron 'Saffy' Monsoon",
+     "n": "Julia Sawalha"
+    },
+    {
+     "c": "Mother",
+     "n": "June Whitfield"
+    },
+    {
+     "c": "Bubble",
+     "n": "Jane Horrocks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC One",
+   "created_by": [
+    "Dawn French",
+    "Jennifer Saunders"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "1992-11-12",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4493,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Two"
+   ],
+   "number_of_episodes": 34,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set in the world of fashion and PR, immature fun-loving mother Edina Monsoon and her best friend Patsy drive Eddie's sensible daughter, Saffron, up the wall with their constant drug abuse and outrageous selfishness. Numerous in-jokes and heavy doses of cruel humour have made this series a cult hit in the UK and abroad.",
+   "popularity": 25.2733,
+   "poster_path": "/s6HrSQwSwtzLlJYq2yeur3J5iR9.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "OUTtv Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6TPYB5MB5fFK5lgzi4VHnwxgPp5.png",
+     "name": "OUTtv Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-11-06",
+     "episode_count": 38,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-11-12",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-01-27",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-03-30",
+     "episode_count": 6,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-08-31",
+     "episode_count": 6,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-10-17",
+     "episode_count": 7,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-12-25",
+     "episode_count": 3,
+     "name": "20th Anniversary Specials",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Darling!",
+   "title": "Absolutely Fabulous",
+   "trailer": {
+    "key": "Ms9LQAZ-siU",
+    "name": "Patsy Stone's Best One-Liners | Absolutely Fabulous",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 198
+  },
+  "tv:693": {
+   "backdrop_path": "/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Susan Mayer",
+     "n": "Teri Hatcher"
+    },
+    {
+     "c": "Lynette Scavo",
+     "n": "Felicity Huffman"
+    },
+    {
+     "c": "Bree Van de Kamp",
+     "n": "Marcia Cross"
+    },
+    {
+     "c": "Gabrielle Solis",
+     "n": "Eva Longoria"
+    },
+    {
+     "c": "Carlos Solis",
+     "n": "Ricardo Chavira"
+    },
+    {
+     "c": "Tom Scavo",
+     "n": "Doug Savant"
+    },
+    {
+     "c": "Mike Delfino",
+     "n": "James Denton"
+    },
+    {
+     "c": "Mary Alice Young",
+     "n": "Brenda Strong"
+    },
+    {
+     "c": "Renee Perry",
+     "n": "Vanessa Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Marc Cherry"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2004-10-03",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 693,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 177,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Looking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.",
+   "popularity": 142.1584,
+   "poster_path": "/4qeI51jDzH81PpUUNaJCBrfm7f6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 53,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-10-03",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-24",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-30",
+     "episode_count": 17,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Secrets. Romance. Murder. All on one street",
+   "title": "Desperate Housewives",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.893,
+   "vote_count": 2175
+  },
+  "tv:79593": {
+   "backdrop_path": "/x40yXVPV8tPbuWAjSPGAGauDrhj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas Magnum",
+     "n": "Jay Hernandez"
+    },
+    {
+     "c": "Juliet Higgins",
+     "n": "Perdita Weeks"
+    },
+    {
+     "c": "Orville 'Rick' Wright",
+     "n": "Zachary Knighton"
+    },
+    {
+     "c": "Theodore 'T.C.' Calvin",
+     "n": "Stephen Hill"
+    },
+    {
+     "c": "Gordon Katsumoto",
+     "n": "Tim Kang"
+    },
+    {
+     "c": "Teuila 'Kumu' Tuileta",
+     "n": "Amy Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Peter M. Lenkov",
+    "Eric Guggenheim"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-09-24",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 79593,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "CBS"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a private investigator in Hawaii taking jobs no one else will—with the help of fellow vets T.C. Calvin and Rick Wright, and former MI:6 agent, Juliet Higgins.",
+   "popularity": 80.4591,
+   "poster_path": "/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-27",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-12-04",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-10-01",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2023-02-19",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "He'll have you at aloha.",
+   "title": "Magnum P.I.",
+   "trailer": {
+    "key": "qMmv9JFOEB0",
+    "name": "First Look At Magnum P.I. on CBS",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.534,
+   "vote_count": 354
+  },
+  "tv:89393": {
+   "backdrop_path": "/bBziqQXj6ELvVCpPfxGM9OWJpWa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Owen Strand",
+     "n": "Rob Lowe"
+    },
+    {
+     "c": "Tommy Vega",
+     "n": "Gina Torres"
+    },
+    {
+     "c": "Tyler Kennedy 'T.K.' Strand",
+     "n": "Ronen Rubinstein"
+    },
+    {
+     "c": "Judd Ryder",
+     "n": "Jim Parrack"
+    },
+    {
+     "c": "Marjan Marwani",
+     "n": "Natacha Karam"
+    },
+    {
+     "c": "Paul Strickland",
+     "n": "Brian Michael Smith"
+    },
+    {
+     "c": "Carlos Reyes",
+     "n": "Rafael L. Silva"
+    },
+    {
+     "c": "Mateo Chavez",
+     "n": "Julian Works"
+    },
+    {
+     "c": "Nancy Gillian",
+     "n": "Brianna Baker"
+    },
+    {
+     "c": "Evie Vega",
+     "n": "Skyler Yates"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Brad Falchuk",
+    "Tim Minear",
+    "Ryan Murphy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-01-19",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 89393,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 72,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nearly 20 years ago, Owen Strand was the lone survivor of his Manhattan firehouse on 9/11. In the wake of the attack, Owen had the unenviable task of rebuilding his station. After a similar tragedy happens to a firehouse in Austin, Owen, along with his troubled firefighter son, T.K., takes his progressive philosophies of life and firefighting down to Texas, where he helps them start anew. On the surface, Owen is all about big-city style and swagger, but underneath he struggles with a secret he hides from the world - one that could very well end his life.",
+   "popularity": 33.5945,
+   "poster_path": "/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-01-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-01-18",
+     "episode_count": 14,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-01-03",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-01-24",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-09-23",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Tough enough for Texas.",
+   "title": "9-1-1: Lone Star",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 1250
   }
  }
 }

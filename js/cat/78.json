@@ -1,8 +1,8 @@
 {
  "bucket": "78",
- "count": 4,
+ "count": 13,
  "titles": {
-  "114478": {
+  "movie:114478": {
    "backdrop_path": "/sFfD1TvTUzmzWFpSm7GnYrKcWJH.jpg",
    "budget": 0,
    "cast": [
@@ -129,7 +129,7 @@
    "vote_average": 5.858,
    "vote_count": 464
   },
-  "119278": {
+  "movie:119278": {
    "backdrop_path": "/m7B3pDhzf3pfHrVE1aQ6gzOKXAH.jpg",
    "budget": 0,
    "cast": [
@@ -236,7 +236,7 @@
    "vote_average": 4.3,
    "vote_count": 447
   },
-  "12178": {
+  "movie:12178": {
    "backdrop_path": "/aJGSoNe4sjCrYwUtIgkA3x05B43.jpg",
    "budget": 0,
    "cast": [
@@ -351,7 +351,7 @@
    "vote_average": 6.8,
    "vote_count": 438
   },
-  "72478": {
+  "movie:72478": {
    "backdrop_path": "/zGNLkZYzFrBvROL2g6UNJsfnA8h.jpg",
    "budget": 1400000,
    "cast": [
@@ -454,6 +454,1466 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 498
+  },
+  "tv:108978": {
+   "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Reacher",
+     "n": "Alan Ritchson"
+    },
+    {
+     "c": "Lila Hoth",
+     "n": "Agnez Mo"
+    },
+    {
+     "c": "Tamara Green",
+     "n": "Sydelle Noel"
+    },
+    {
+     "c": "Amisha Hoth",
+     "n": "Anggun"
+    },
+    {
+     "c": "Jacob Merrick",
+     "n": "Christopher Rodriguez Marquette"
+    },
+    {
+     "c": "Shaun Docherty",
+     "n": "Kevin Corrigan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Nick Santora"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-02-03",
+   "genres": [
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 108978,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+   "popularity": 188.7259,
+   "poster_path": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-02-03",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-12-14",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-02-20",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-08-12",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Reacher's back.",
+   "title": "Reacher",
+   "trailer": {
+    "key": "GSycMV-_Csw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.125,
+   "vote_count": 3597
+  },
+  "tv:1678": {
+   "backdrop_path": "/jOHsdywPKOTr9R9y21Wjfti9CIY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dorothy Zbornak",
+     "n": "Bea Arthur"
+    },
+    {
+     "c": "Rose Nylund",
+     "n": "Betty White"
+    },
+    {
+     "c": "Blanche Devereaux",
+     "n": "Rue McClanahan"
+    },
+    {
+     "c": "Sophia Petrillo",
+     "n": "Estelle Getty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Susan Harris"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1985-09-14",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1678,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 180,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+   "popularity": 33.0966,
+   "poster_path": "/1qoHn5J0Qclte98j1olNbOQOXVz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-06-02",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1985-09-14",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1986-09-27",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1987-09-19",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1988-10-08",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1989-09-23",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1990-09-22",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1991-09-21",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Meet four outrageous women who know when it comes to a good laugh, there's nothing like experience!",
+   "title": "The Golden Girls",
+   "trailer": {
+    "key": "1O7ZCFME2Z4",
+    "name": "The Entire Series Now Streaming • The Golden Girls On Hulu",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.582,
+   "vote_count": 423
+  },
+  "tv:37678": {
+   "backdrop_path": "/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Carson Daly"
+    },
+    {
+     "c": "Self - Coach",
+     "n": "Adam Levine"
+    },
+    {
+     "c": "Self - Coach",
+     "n": "Kelly Clarkson"
+    },
+    {
+     "c": "Self - Coach",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Self - Coach",
+     "n": "Riley Green"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "John de Mol"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-04-26",
+   "genres": [
+    "Reality"
+   ],
+   "id": 37678,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 708,
+   "number_of_seasons": 30,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+   "popularity": 600.3713,
+   "poster_path": "/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+     "name": "NBC",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-04-21",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-04-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-02-05",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-10",
+     "episode_count": 32,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-03-25",
+     "episode_count": 28,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-23",
+     "episode_count": 27,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-02-24",
+     "episode_count": 27,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 27,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2015-02-23",
+     "episode_count": 29,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 27,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2016-02-29",
+     "episode_count": 28,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 26,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2017-02-27",
+     "episode_count": 28,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 28,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2018-02-26",
+     "episode_count": 29,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 27,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2019-02-25",
+     "episode_count": 23,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-09-23",
+     "episode_count": 27,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-02-24",
+     "episode_count": 18,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2020-10-19",
+     "episode_count": 19,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2021-03-01",
+     "episode_count": 18,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2021-09-20",
+     "episode_count": 26,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 26,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2023-03-06",
+     "episode_count": 19,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2023-09-25",
+     "episode_count": 26,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2024-02-26",
+     "episode_count": 22,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2024-09-23",
+     "episode_count": 22,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2025-02-03",
+     "episode_count": 23,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2025-09-22",
+     "episode_count": 19,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2026-02-23",
+     "episode_count": 10,
+     "name": "Battle of Champions",
+     "season_number": 29
+    },
+    {
+     "air_date": "2026-09-21",
+     "episode_count": 14,
+     "name": "Season 30",
+     "season_number": 30
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Voice",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.872,
+   "vote_count": 231
+  },
+  "tv:4278": {
+   "backdrop_path": "/dzHSMD1IY6RriYxkS3T2ysFdvdp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eric Taylor",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Tami Taylor",
+     "n": "Connie Britton"
+    },
+    {
+     "c": "Julie Taylor",
+     "n": "Aimee Teegarden"
+    },
+    {
+     "c": "Vince Howard",
+     "n": "Michael B. Jordan"
+    },
+    {
+     "c": "Jess Merriweather",
+     "n": "Jurnee Smollett-Bell"
+    },
+    {
+     "c": "Becky Sproles",
+     "n": "Dora Madison"
+    },
+    {
+     "c": "Hastings Ruckle",
+     "n": "Grey Damon"
+    },
+    {
+     "c": "Luke Cafferty",
+     "n": "Matt Lauria"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Brian Grazer",
+    "Peter Berg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2006-10-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 4278,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "The 101"
+   ],
+   "number_of_episodes": 76,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The trials and triumphs of life in the small town of Dillon, Texas, where high school football is everything.",
+   "popularity": 29.6,
+   "poster_path": "/Eu7MzZY1DldJ683z7vLkILHNRD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-08-28",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-10-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-10-05",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-10-01",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-10-28",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-10-27",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Clear eyes. Full hearts. Can't lose!",
+   "title": "Friday Night Lights",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.022,
+   "vote_count": 342
+  },
+  "tv:42878": {
+   "backdrop_path": "/n9JOYF83rMMeYdGWeqcm8bVF8XA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Goodson",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Jennifer Goodson",
+     "n": "Shawnee Smith"
+    },
+    {
+     "c": "Lacey",
+     "n": "Noureen DeWulf"
+    },
+    {
+     "c": "Patrick",
+     "n": "Michael Arden"
+    },
+    {
+     "c": "Jack Nolan",
+     "n": "Derek Richardson"
+    },
+    {
+     "c": "Ed",
+     "n": "Barry Corbin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FX",
+   "created_by": [
+    "Bruce Helford"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2012-06-28",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 42878,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice and he performs pro bono counseling for an inmate group at a state prison. Prior to his career as a therapist, he was a major league baseball player whose career was put on the shelf for good by his own struggle with anger issues.",
+   "popularity": 27.3847,
+   "poster_path": "/ekItnn6W73RN9muvLTbeRW8LHlo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-06-28",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-01-17",
+     "episode_count": 90,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Anger Management",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 301
+  },
+  "tv:578": {
+   "backdrop_path": "/oYwaOeQmE0tuBKy8kt43NFNI4bE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Eppes",
+     "n": "Rob Morrow"
+    },
+    {
+     "c": "Charlie Eppes",
+     "n": "David Krumholtz"
+    },
+    {
+     "c": "Alan Eppes",
+     "n": "Judd Hirsch"
+    },
+    {
+     "c": "David Sinclair",
+     "n": "Alimi Ballard"
+    },
+    {
+     "c": "Amita Ramanujan",
+     "n": "Navi Rawat"
+    },
+    {
+     "c": "Liz Warner",
+     "n": "Aya Sumika"
+    },
+    {
+     "c": "Colby Granger",
+     "n": "Dylan Bruno"
+    },
+    {
+     "c": "Nikki Betancourt",
+     "n": "Sophina Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Nicolas Falacci",
+    "Cheryl Heuton"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2005-01-23",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 578,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 118,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inspired by actual cases and experiences, Numb3rs depicts the confluence of police work and mathematics in solving crime as an FBI agent recruits his mathematical genius brother to help solve a wide range of challenging crimes in Los Angeles from a very different perspective.",
+   "popularity": 43.6776,
+   "poster_path": "/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-01-23",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-23",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-22",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-28",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-10-03",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-25",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "We all use Math every day.",
+   "title": "Numb3rs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.03,
+   "vote_count": 462
+  },
+  "tv:61378": {
+   "backdrop_path": "/jzkTau3O7CfG3LkKopxkNWPZf8d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth McCord",
+     "n": "Téa Leoni"
+    },
+    {
+     "c": "Henry McCord",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Russell Jackson",
+     "n": "Željko Ivanek"
+    },
+    {
+     "c": "Daisy Grant",
+     "n": "Patina Miller"
+    },
+    {
+     "c": "Blake Moran",
+     "n": "Erich Bergen"
+    },
+    {
+     "c": "Stephanie 'Stevie' McCord",
+     "n": "Wallis Currie-Wood"
+    },
+    {
+     "c": "Mike B.",
+     "n": "Kevin Rahm"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Barbara Hall"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2014-09-21",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 61378,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 120,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After years away from the CIA, Elizabeth McCord is pulled back into the political arena. The newly appointed Secretary of State is tough, fair, and smart, driving international diplomacy, wrangling office politics, and circumventing protocol as she negotiates global and domestic issues, both at the White House and at home.",
+   "popularity": 38.5215,
+   "poster_path": "/6Nl1ablo4DNTLb4ZH7Mycz81AEt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-21",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-02",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-10-08",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-10-07",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-10-06",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Not politics as usual.",
+   "title": "Madam Secretary",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.011,
+   "vote_count": 349
+  },
+  "tv:67178": {
+   "backdrop_path": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Castle / Punisher",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Billy Russo",
+     "n": "Ben Barnes"
+    },
+    {
+     "c": "Dinah Madani",
+     "n": "Amber Rose Revah"
+    },
+    {
+     "c": "John Pilgrim",
+     "n": "Josh Stewart"
+    },
+    {
+     "c": "Curtis Hoyle",
+     "n": "Jason R. Moore"
+    },
+    {
+     "c": "Dr. Krista Dumont",
+     "n": "Floriana Lima"
+    },
+    {
+     "c": "Amy Bendix",
+     "n": "Giorgia Whigham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Steve Lightfoot"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53
+   ],
+   "first_air_date": "2017-11-17",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 67178,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+   "popularity": 49.5247,
+   "poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-11-17",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-01-18",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The truth must be taken.",
+   "title": "Marvel's The Punisher",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.158,
+   "vote_count": 3443
+  },
+  "tv:69478": {
+   "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "June Osborne / Offred / Ofjoseph",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "Serena Joy Waterford",
+     "n": "Yvonne Strahovski"
+    },
+    {
+     "c": "Moira Strand",
+     "n": "Samira Wiley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Hulu",
+   "created_by": [
+    "Bruce Miller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-04-26",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 69478,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 66,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+   "popularity": 51.4544,
+   "poster_path": "/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-02-03",
+     "episode_count": 125,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-04-26",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-04-25",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-06-05",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-04-28",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-14",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-04-08",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The revolution is here.",
+   "title": "The Handmaid's Tale",
+   "trailer": {
+    "key": "81PyH5TH-NQ",
+    "name": "Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.139,
+   "vote_count": 3498
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "32",
- "count": 6,
+ "count": 16,
  "titles": {
-  "10032": {
+  "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
    "budget": 0,
    "cast": [
@@ -174,7 +174,7 @@
    "vote_average": 5.073,
    "vote_count": 447
   },
-  "11832": {
+  "movie:11832": {
    "backdrop_path": "/iFl8eN4vWcMNNozmJk8E7cLgeT9.jpg",
    "budget": 0,
    "cast": [
@@ -351,7 +351,7 @@
    "vote_average": 7.2,
    "vote_count": 461
   },
-  "20532": {
+  "movie:20532": {
    "backdrop_path": "/wJfbBUiJH8C9PTAunn11Ms4KN8h.jpg",
    "budget": 0,
    "cast": [
@@ -476,7 +476,7 @@
    "vote_average": 8.075,
    "vote_count": 446
   },
-  "305932": {
+  "movie:305932": {
    "backdrop_path": "/6L5vre1eJu0dppvk6kGfVuSGNyC.jpg",
    "budget": 0,
    "cast": [
@@ -602,7 +602,7 @@
    "vote_average": 5.78,
    "vote_count": 457
   },
-  "568332": {
+  "movie:568332": {
    "backdrop_path": "/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
    "budget": 0,
    "cast": [
@@ -694,7 +694,7 @@
    "vote_average": 8.19,
    "vote_count": 442
   },
-  "72432": {
+  "movie:72432": {
    "backdrop_path": "/4ANhs0bjHHu7wy2HOEaGrxgGp0Z.jpg",
    "budget": 0,
    "cast": [
@@ -834,6 +834,1627 @@
    "type": "movie",
    "vote_average": 6.663,
    "vote_count": 456
+  },
+  "tv:127532": {
+   "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shun Mizushino (voice)",
+     "n": "Taito Ban"
+    },
+    {
+     "c": "Kenta Morobishi (voice)",
+     "n": "Genta Nakamura"
+    },
+    {
+     "c": "Aoi Mizushino (voice)",
+     "n": "Haruna Mikawa"
+    },
+    {
+     "c": "Shizuku Kousaka (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Shin Mogami (voice)",
+     "n": "Daisuke Hirakawa"
+    },
+    {
+     "c": "Taiga Shirakawa (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Kiyoomi Goto (voice)",
+     "n": "Banjo Ginga"
+    },
+    {
+     "c": "Akira Inukai (voice)",
+     "n": "Makoto Furukawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2024-01-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 127532,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+   "popularity": 46.7149,
+   "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+   "production_countries": [
+    "JP",
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-02-25",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-01-05",
+     "episode_count": 25,
+     "name": "Solo Leveling",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "He used to be the weakest.",
+   "title": "Solo Leveling",
+   "trailer": {
+    "key": "HkIKAnwLZCw",
+    "name": "Official Trailer 4 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.686,
+   "vote_count": 2087
+  },
+  "tv:1432": {
+   "backdrop_path": "/aHWLirPLro7B00SuhMy6zQy3UIJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Veronica Mars",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Keith Mars",
+     "n": "Enrico Colantoni"
+    },
+    {
+     "c": "Logan Echolls",
+     "n": "Jason Dohring"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "UPN",
+   "created_by": [
+    "Rob Thomas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2004-09-22",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1432,
+   "industry": "world",
+   "networks": [
+    "UPN",
+    "The CW",
+    "Hulu"
+   ],
+   "number_of_episodes": 72,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+   "popularity": 31.3774,
+   "poster_path": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-10-23",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-28",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-10-03",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-07-19",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Still fighting crime like a girl.",
+   "title": "Veronica Mars",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 746
+  },
+  "tv:1532": {
+   "backdrop_path": "/9GEghzkUfxWNQ65BbRwfysKOVoS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenneth Hutchinson",
+     "n": "David Soul"
+    },
+    {
+     "c": "David Starsky",
+     "n": "Paul Michael Glaser"
+    },
+    {
+     "c": "Huggy Bear Brown",
+     "n": "Antonio Fargas"
+    },
+    {
+     "c": "Harold Dobey",
+     "n": "Bernie Hamilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "William Blinn"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1975-09-10",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1532,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Streetwise Detective David Starsky partners up with a more intellectual partner, Kenneth 'Hutch' Hutchinson, to protect citizens and patrol the streets of Bay City.",
+   "popularity": 25.4564,
+   "poster_path": "/aBj5oTi1uibVcXDoCJeKseJNY2d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1975-04-23",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1975-09-10",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1976-09-25",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1977-09-17",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1978-09-12",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Me and Thee",
+   "title": "Starsky & Hutch",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.408,
+   "vote_count": 223
+  },
+  "tv:15632": {
+   "backdrop_path": "/2CmVYL5aOebxlE4cUl5xU4kcgdc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cleveland Brown / Rallo Tubbs (voice)",
+     "n": "Mike Henry"
+    },
+    {
+     "c": "Donna Tubbs (voice)",
+     "n": "Sanaa Lathan"
+    },
+    {
+     "c": "Cleveland Brown, Jr (voice)",
+     "n": "Kevin Michael Richardson"
+    },
+    {
+     "c": "Roberta Tubbs (voice)",
+     "n": "Reagan Gomez-Preston"
+    },
+    {
+     "c": "Holt Richter (voice)",
+     "n": "Jason Sudeikis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Seth MacFarlane",
+    "Richard Appel",
+    "Mike Henry"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2009-09-27",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 15632,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The bizarre adventures of Cleveland Brown and his family.",
+   "popularity": 25.6158,
+   "poster_path": "/Qp4gvTc5Cp15VBdt77oXKQ54xF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-10-07",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Cleveland Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.9,
+   "vote_count": 481
+  },
+  "tv:204832": {
+   "backdrop_path": "/p1swd15DRtCnNj20U904dbXeVsi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mash Burnedead (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Finn Ames (voice)",
+     "n": "Reiji Kawashima"
+    },
+    {
+     "c": "Lance Crown (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Dot Barrett (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Lemon Irvine (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Narration (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Chichi Lance (voice)",
+     "n": "Hiroshi Watanabe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2023-04-08",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 204832,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "This is a world of magic where magic is used for everything. But deep in the forest exists a young man who spends his time training and bulking up. He can't use magic, but he enjoys a peaceful life with his father. But one day, his life is put in danger! Will his muscular body protect him from the magic users who are out to get him? Powerfully trained muscles crush magic as this abnormal magical fantasy begins!",
+   "popularity": 24.6083,
+   "poster_path": "/hfSh6ISwUvtvihITPMK6TPOWarK.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Animax Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-05-20",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-04-08",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "MASHLE: MAGIC AND MUSCLES",
+   "trailer": {
+    "key": "dKA-QWW_wc8",
+    "name": "MASHLE: MAGIC AND MUSCLES - Season 3 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.264,
+   "vote_count": 694
+  },
+  "tv:31132": {
+   "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mordecai / Hi Five Ghost (voice)",
+     "n": "J.G. Quintel"
+    },
+    {
+     "c": "Rigby (voice)",
+     "n": "William Salyers"
+    },
+    {
+     "c": "Skips (voice)",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Benson / Pops / Muscle Man (voice)",
+     "n": "Sam Marin"
+    },
+    {
+     "c": "Eileen (voice)",
+     "n": "Minty Lewis"
+    },
+    {
+     "c": "Chance Sureshot / Recap Robot (voice)",
+     "n": "Matthew Mercer"
+    },
+    {
+     "c": "Toothpick Sally (voice)",
+     "n": "Vanessa Marshall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "J.G. Quintel"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2010-09-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 31132,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 245,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
+   "popularity": 89.8744,
+   "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-05-09",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-09-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-11-29",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 39,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 37,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-02",
+     "episode_count": 37,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-10-09",
+     "episode_count": 28,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-07-06",
+     "episode_count": 36,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-09-26",
+     "episode_count": 28,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's anything but.",
+   "title": "Regular Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.636,
+   "vote_count": 2346
+  },
+  "tv:37632": {
+   "backdrop_path": "/atwkAlHM9NQjEOes09YuSrwsPPQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bay Kennish",
+     "n": "Vanessa Marano"
+    },
+    {
+     "c": "Daphne Vasquez",
+     "n": "Katie Leclerc"
+    },
+    {
+     "c": "Toby Kennish",
+     "n": "Lucas Grabeel"
+    },
+    {
+     "c": "Kathryn Kennish",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Regina Vasquez",
+     "n": "Constance Marie"
+    },
+    {
+     "c": "John Kennish",
+     "n": "D.W. Moffett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC Family",
+   "created_by": [
+    "Lizzy Weiss"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2011-06-06",
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 37632,
+   "industry": "world",
+   "networks": [
+    "ABC Family",
+    "Freeform"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of two teenage girls who discover they were accidentally switched as newborns in the hospital. Bay Kennish grew up in a wealthy family with two parents and a brother, while Daphne Vasquez, who lost her hearing at an early age due to a case of meningitis, grew up with a single mother in a working-class neighborhood. Things come to a dramatic head when both families meet and struggle to learn how to live together for the sake of the girls.",
+   "popularity": 25.9185,
+   "poster_path": "/db5XnOxGcUHeNhBRNbHfqTlzXmk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/n0IYtqCRKBhqnioKooWDLOS3l3r.png",
+     "name": "Freeform",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-06-06",
+     "episode_count": 30,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-01-07",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-13",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-01-06",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-01-31",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One mistake changed two families forever.",
+   "title": "Switched at Birth",
+   "trailer": {
+    "key": "WgUKOnbKD68",
+    "name": "Switched at Birth | Switched at Birth is Back | Freeform",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.466,
+   "vote_count": 222
+  },
+  "tv:57532": {
+   "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Keith Chapman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-08-12",
+   "genres": [
+    "Animation",
+    "Kids"
+   ],
+   "id": 57532,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 578,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+   "popularity": 120.9555,
+   "poster_path": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Tata Play"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Hopster Amazon Channel"
+    },
+    {
+     "name": "Kidstream Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/plYToJSPNPQPJi2hJrkyVA9RISS.png",
+     "name": "Tata Play",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-11-12",
+     "episode_count": 29,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-08-12",
+     "episode_count": 47,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-08-13",
+     "episode_count": 47,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-11-20",
+     "episode_count": 50,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-02-06",
+     "episode_count": 45,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-02-06",
+     "episode_count": 49,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-02-22",
+     "episode_count": 47,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-03-27",
+     "episode_count": 47,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-05-28",
+     "episode_count": 47,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2022-09-09",
+     "episode_count": 42,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2023-07-10",
+     "episode_count": 49,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-09-18",
+     "episode_count": 50,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2025-10-17",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2026-03-09",
+     "episode_count": 19,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2026-07-31",
+     "episode_count": 19,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "PAW Patrol",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.978,
+   "vote_count": 830
+  },
+  "tv:64432": {
+   "backdrop_path": "/qb9vehNFxTpPrazhD7JJ6QtEtCv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Quinn",
+     "n": "Olivia Taylor Dudley"
+    },
+    {
+     "c": "William 'Penny' Adiyodi",
+     "n": "Arjun Gupta"
+    },
+    {
+     "c": "Julia Wicker",
+     "n": "Stella Maeve"
+    },
+    {
+     "c": "Eliot Waugh",
+     "n": "Hale Appleman"
+    },
+    {
+     "c": "Margo Hanson",
+     "n": "Summer Bishil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Syfy",
+   "created_by": [
+    "Sera Gamble"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2015-12-16",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 64432,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Brakebills University is a secret institution specializing in magic. There, amidst an unorthodox education of spellcasting, a group of twenty-something friends soon discover that a magical fantasy world they read about as children is all too real— and poses grave danger to humanity.",
+   "popularity": 49.2026,
+   "poster_path": "/A66dZN98BPEYeFQAhNdNCIXa57d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-12-16",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-01-25",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-01-10",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-01-23",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-01-15",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "All magic comes at a cost.",
+   "title": "The Magicians",
+   "trailer": {
+    "key": "2CPCoqF1F0U",
+    "name": "THE MAGICIANS | Season 1 Trailer | SYFY",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.588,
+   "vote_count": 1740
+  },
+  "tv:66732": {
+   "backdrop_path": "/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joyce Byers",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "Jim Hopper",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Eleven / Jane Hopper",
+     "n": "Millie Bobby Brown"
+    },
+    {
+     "c": "Mike Wheeler",
+     "n": "Finn Wolfhard"
+    },
+    {
+     "c": "Dustin Henderson",
+     "n": "Gaten Matarazzo"
+    },
+    {
+     "c": "Lucas Sinclair",
+     "n": "Caleb McLaughlin"
+    },
+    {
+     "c": "Will Byers",
+     "n": "Noah Schnapp"
+    },
+    {
+     "c": "Max Mayfield",
+     "n": "Sadie Sink"
+    },
+    {
+     "c": "Nancy Wheeler",
+     "n": "Natalia Dyer"
+    },
+    {
+     "c": "Jonathan Byers",
+     "n": "Charlie Heaton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Ross Duffer",
+    "Matt Duffer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-07-15",
+   "genres": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 66732,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 42,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+   "popularity": 110.6858,
+   "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-07-15",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-10-27",
+     "episode_count": 9,
+     "name": "Stranger Things 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-07-04",
+     "episode_count": 8,
+     "name": "Stranger Things 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-05-27",
+     "episode_count": 9,
+     "name": "Stranger Things 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-11-26",
+     "episode_count": 8,
+     "name": "Stranger Things 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It only gets stranger...",
+   "title": "Stranger Things",
+   "trailer": {
+    "key": "b9EkMc79ZSU",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 22130
   }
  }
 }

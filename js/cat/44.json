@@ -1,8 +1,8 @@
 {
  "bucket": "44",
- "count": 9,
+ "count": 16,
  "titles": {
-  "10944": {
+  "movie:10944": {
    "backdrop_path": "/e1hIGr5HTAPPiHNs7fMlW2JMSPl.jpg",
    "budget": 12000000,
    "cast": [
@@ -165,7 +165,7 @@
    "vote_average": 5.129,
    "vote_count": 481
   },
-  "1115544": {
+  "movie:1115544": {
    "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
    "budget": 0,
    "cast": [
@@ -276,7 +276,7 @@
    "vote_average": 6.66,
    "vote_count": 498
   },
-  "317744": {
+  "movie:317744": {
    "backdrop_path": "/kyx15eUlLQy7HHm8HRuvi9QagO8.jpg",
    "budget": 8000000,
    "cast": [
@@ -481,7 +481,7 @@
    "vote_average": 6.129,
    "vote_count": 446
   },
-  "433244": {
+  "movie:433244": {
    "backdrop_path": "/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg",
    "budget": 0,
    "cast": [
@@ -589,7 +589,7 @@
    "vote_average": 5.288,
    "vote_count": 453
   },
-  "634544": {
+  "movie:634544": {
    "backdrop_path": "/bfnUoHV9IPDGmxQmGAEOKIBNIWM.jpg",
    "budget": 0,
    "cast": [
@@ -701,7 +701,7 @@
    "vote_average": 7.28,
    "vote_count": 466
   },
-  "640344": {
+  "movie:640344": {
    "backdrop_path": "/wooZWiC4NWH0ahCSUOogEmVejHo.jpg",
    "budget": 75000,
    "cast": [
@@ -796,7 +796,7 @@
    "vote_average": 8.035,
    "vote_count": 474
   },
-  "74944": {
+  "movie:74944": {
    "backdrop_path": "/5li8dEJE67Ahe5j3gZPEY0ZRsgm.jpg",
    "budget": 0,
    "cast": [
@@ -962,7 +962,7 @@
    "vote_average": 6.036,
    "vote_count": 445
   },
-  "77944": {
+  "movie:77944": {
    "backdrop_path": "/qx0XH83qU14AWJ73j2wHKYeKpTX.jpg",
    "budget": 11000000,
    "cast": [
@@ -1050,7 +1050,7 @@
    "vote_average": 6.112,
    "vote_count": 456
   },
-  "9544": {
+  "movie:9544": {
    "backdrop_path": "/5gnBqLDi1pjJxxCgpOJCu5VSLp1.jpg",
    "budget": 40000000,
    "cast": [
@@ -1208,6 +1208,998 @@
    "type": "movie",
    "vote_average": 3.875,
    "vote_count": 439
+  },
+  "tv:196944": {
+   "backdrop_path": "/7uyRCBMQIWwJSWIR2aCrvPjbPzi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miyo Saimori (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Kiyoka Kudo (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Yoshito Godo (voice)",
+     "n": "Hiro Shimono"
+    },
+    {
+     "c": "Arata Tsuruki / Arata Usuba (voice)",
+     "n": "Ryohei Kimura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2023-07-05",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 196944,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Miyo's abusive family deems her worthless – but together with her powerful husband-to-be, her true self and hidden powers slowly begin to shine.",
+   "popularity": 28.292,
+   "poster_path": "/5RZIBqSYHhpQF6s8Dgw2aXlA4ZS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-03-15",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-07-05",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "Is this marriage a blessing? Or a curse?",
+   "title": "My Happy Marriage",
+   "trailer": {
+    "key": "LHkn20xqybk",
+    "name": "Official Trailer #2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.276,
+   "vote_count": 263
+  },
+  "tv:42444": {
+   "backdrop_path": "/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seiya (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Shiryu (voice)",
+     "n": "Hirotaka Suzuoki"
+    },
+    {
+     "c": "Shun (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "Hyoga (voice)",
+     "n": "Koichi Hashimoto"
+    },
+    {
+     "c": "Ikki (voice)",
+     "n": "Hideyuki Hori"
+    },
+    {
+     "c": "Saori Kido (voice)",
+     "n": "Keiko Han"
+    },
+    {
+     "c": "Narrator / Aiolia (voice)",
+     "n": "Hideyuki Tanaka"
+    },
+    {
+     "c": "Shaina (voice)",
+     "n": "Mami Koyama"
+    },
+    {
+     "c": "Marin (voice)",
+     "n": "Yuriko Yamamoto"
+    },
+    {
+     "c": "Saga / Kanon (voice)",
+     "n": "Kazuyuki Sogabe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "tv asahi",
+   "created_by": [],
+   "director": [
+    "Kazuhito Kikuchi"
+   ],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1986-10-11",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 42444,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 114,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ages ago, the goddess Athena was served by fighters called Saints who channeled the power of the Cosmos within them. Now a youth named Seiya has trained to become a Saint himself by earning the mystical Cloth of Pegasus. He is joined by other Saints with Cloths of their own to fight for Athena.",
+   "popularity": 31.3243,
+   "poster_path": "/dhtiYYbob8saEUFWle3aWgVY28M.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1986-10-11",
+     "episode_count": 114,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Saint Seiya",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.486,
+   "vote_count": 1479
+  },
+  "tv:4344": {
+   "backdrop_path": "/bmPIJET1BbQqvUEYSfjdz0BxGRR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommy Gavin",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Chief 'Needles' Nelson",
+     "n": "Adam Ferrara"
+    },
+    {
+     "c": "Janet Gavin",
+     "n": "Andrea Roth"
+    },
+    {
+     "c": "Kenneth 'Lou' Shea",
+     "n": "John Scurti"
+    },
+    {
+     "c": "Franco Rivera",
+     "n": "Daniel Sunjata"
+    },
+    {
+     "c": "Mike Silletti",
+     "n": "Michael Lombardi"
+    },
+    {
+     "c": "Sean Garrity",
+     "n": "Steven Pasquale"
+    },
+    {
+     "c": "Bart 'Black Shawn' Johnston",
+     "n": "Larenz Tate"
+    },
+    {
+     "c": "Sheila Keefe",
+     "n": "Callie Thorne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Peter Tolan",
+    "Denis Leary"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60,
+    43
+   ],
+   "first_air_date": "2004-07-21",
+   "genres": [
+    "Drama"
+   ],
+   "id": 4344,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 93,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The aftermath of 9/11 has left the firefighters of the NYFD traumatized, and no one more so than Tommy Gavin. Recently separated from his wife and their three kids, Tommy drifts between sorrow and anger as he tries to shake the recurring nightmares of his fallen comrades, especially his late cousin, Jimmy Keefe. Working alongside veterans like Lt. “Lou” Shea, Franco Rivera and Sean Garrity, and rookie Mike Lombardi, Tommy battles alcohol and drugs as he struggles to remain first and foremost a New York City firefighter.",
+   "popularity": 30.5987,
+   "poster_path": "/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-06-24",
+     "episode_count": 28,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-07-21",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-06-21",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-05-30",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-06-13",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-04-07",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-06-29",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-07-13",
+     "episode_count": 9,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "They save us, but who saves them?",
+   "title": "Rescue Me",
+   "trailer": {
+    "key": "ho_ZJIaAO1Q",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.566,
+   "vote_count": 197
+  },
+  "tv:54344": {
+   "backdrop_path": "/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kevin Garvey",
+     "n": "Justin Theroux"
+    },
+    {
+     "c": "Nora Durst",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Laurie Garvey",
+     "n": "Amy Brenneman"
+    },
+    {
+     "c": "Matt Jamison",
+     "n": "Christopher Eccleston"
+    },
+    {
+     "c": "John Murphy",
+     "n": "Kevin Carroll"
+    },
+    {
+     "c": "Tom Garvey",
+     "n": "Chris Zylka"
+    },
+    {
+     "c": "Michael Murphy",
+     "n": "Jovan Adepo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "Damon Lindelof",
+    "Tom Perrotta"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-06-29",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 54344,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 28,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When 2% of the world's population abruptly disappears without explanation, the world struggles to understand just what they're supposed to do about it. This is the story of the people who didn't make the cut.",
+   "popularity": 24.782,
+   "poster_path": "/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-06-23",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-06-29",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-16",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We're still here.",
+   "title": "The Leftovers",
+   "trailer": {
+    "key": "rKtgMEKMoiU",
+    "name": "The Leftovers Season 1: Trailer #2 (HBO)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.672,
+   "vote_count": 1324
+  },
+  "tv:67744": {
+   "backdrop_path": "/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Holden Ford",
+     "n": "Jonathan Groff"
+    },
+    {
+     "c": "Bill Tench",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Wendy Carr",
+     "n": "Anna Torv"
+    },
+    {
+     "c": "Nancy Tench",
+     "n": "Stacey Roca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Joe Penhall"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-10-13",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 67744,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
+   "popularity": 85.4943,
+   "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-10-13",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-08-16",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "History. Pattern. Profile.",
+   "title": "MINDHUNTER",
+   "trailer": {
+    "key": "evdxH50J3rs",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.147,
+   "vote_count": 3206
+  },
+  "tv:79744": {
+   "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Nolan",
+     "n": "Nathan Fillion"
+    },
+    {
+     "c": "Lucy Chen",
+     "n": "Melissa O'Neil"
+    },
+    {
+     "c": "Tim Bradford",
+     "n": "Eric Winter"
+    },
+    {
+     "c": "Angela Lopez",
+     "n": "Alyssa Diaz"
+    },
+    {
+     "c": "Wade Grey",
+     "n": "Richard T. Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Alexi Hawley"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-10-16",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 79744,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 145,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+   "popularity": 173.6267,
+   "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-10-16",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-01-03",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-09-26",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-25",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-02-20",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-01-07",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2027-01-06",
+     "episode_count": 1,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Never off duty.",
+   "title": "The Rookie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 3616
+  },
+  "tv:81144": {
+   "backdrop_path": "/2GlkdaHtxORqWfPccv2YLDoLxMb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Calvin Butler",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Dave Johnson",
+     "n": "Max Greenfield"
+    },
+    {
+     "c": "Tina Butler",
+     "n": "Tichina Arnold"
+    },
+    {
+     "c": "Gemma Johnson",
+     "n": "Beth Behrs"
+    },
+    {
+     "c": "Malcolm Butler",
+     "n": "Sheaun McKinney"
+    },
+    {
+     "c": "Marty Butler",
+     "n": "Marcel Spears"
+    },
+    {
+     "c": "Courtney",
+     "n": "Skye Townsend"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Jim Reynolds"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2018-10-01",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 81144,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 155,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+   "popularity": 32.2074,
+   "poster_path": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-30",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-22",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-11-15",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-09-19",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-02-12",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-10-21",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2025-10-13",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It pays to be nice.",
+   "title": "The Neighborhood",
+   "trailer": {
+    "key": "M1COucIcYhU",
+    "name": "First Look At The Neighborhood on CBS",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.529,
+   "vote_count": 189
   }
  }
 }

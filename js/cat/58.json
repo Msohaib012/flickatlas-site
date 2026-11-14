@@ -1,8 +1,8 @@
 {
  "bucket": "58",
- "count": 8,
+ "count": 18,
  "titles": {
-  "17058": {
+  "movie:17058": {
    "backdrop_path": "/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
    "budget": 1202000,
    "cast": [
@@ -145,7 +145,7 @@
    "vote_average": 7.594,
    "vote_count": 470
   },
-  "20558": {
+  "movie:20558": {
    "backdrop_path": "/85z4NC6FzMQJBGlFqq8qQ2QByD4.jpg",
    "budget": 0,
    "cast": [
@@ -303,7 +303,7 @@
    "vote_average": 7.403,
    "vote_count": 442
   },
-  "2058": {
+  "movie:2058": {
    "backdrop_path": "/35b11n97MKmmkjJoJcx8tqHIVJ2.jpg",
    "budget": 0,
    "cast": [
@@ -423,7 +423,7 @@
    "vote_average": 6.171,
    "vote_count": 464
   },
-  "250658": {
+  "movie:250658": {
    "backdrop_path": "/o85Xk5nCcx4NWlYKLm9ebrQaqMI.jpg",
    "budget": 0,
    "cast": [
@@ -589,7 +589,7 @@
    "vote_average": 7.9,
    "vote_count": 481
   },
-  "454458": {
+  "movie:454458": {
    "backdrop_path": "/93gOZuHazBWulk7b47MCXWVTiqh.jpg",
    "budget": 45000000,
    "cast": [
@@ -733,7 +733,7 @@
    "vote_average": 6.63,
    "vote_count": 489
   },
-  "5458": {
+  "movie:5458": {
    "backdrop_path": "/rhj7SiBtWzP2ZkVuJvpcKDr5Byn.jpg",
    "budget": 0,
    "cast": [
@@ -834,7 +834,7 @@
    "vote_average": 5.11,
    "vote_count": 460
   },
-  "693158": {
+  "movie:693158": {
    "backdrop_path": "/jm2kJQZRmYRzHJzB07oOOVDiQD1.jpg",
    "budget": 0,
    "cast": [
@@ -982,7 +982,7 @@
    "vote_average": 6.8,
    "vote_count": 443
   },
-  "801058": {
+  "movie:801058": {
    "backdrop_path": "/AcvxSLa140z7qgGQ8G2UjhcgVEY.jpg",
    "budget": 0,
    "cast": [
@@ -1083,6 +1083,1808 @@
    "type": "movie",
    "vote_average": 7.795,
    "vote_count": 488
+  },
+  "tv:106158": {
+   "backdrop_path": "/3mDSrhLUX2cAhaPqurNBslPh8rz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Elliot Stabler",
+     "n": "Christopher Meloni"
+    },
+    {
+     "c": "Sgt. Ayanna Bell",
+     "n": "Danielle Moné Truitt"
+    },
+    {
+     "c": "Det. Bobby Reyes",
+     "n": "Rick Gonzalez"
+    },
+    {
+     "c": "Randall Stabler",
+     "n": "Dean Norris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Wolf",
+    "Ilene Chaiken",
+    "Matt Olmstead"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2021-04-01",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 106158,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "Peacock"
+   ],
+   "number_of_episodes": 75,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The detectives of the Organized Crime Control Bureau work to dismantle New York City's most vicious and violent illegal enterprises.",
+   "popularity": 32.2128,
+   "poster_path": "/4AvB6Dg8eAbfWv5WOqzCCv2zS90.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-04-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-09-22",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-01-18",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-04-17",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "In Stabler we trust.",
+   "title": "Law & Order: Organized Crime",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 313
+  },
+  "tv:121658": {
+   "backdrop_path": "/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wesley Mitchell",
+     "n": "Jesse Lee Soffer"
+    },
+    {
+     "c": "Andre Raines",
+     "n": "Carter Redwood"
+    },
+    {
+     "c": "Cameron Vo",
+     "n": "Vinessa Vidotto"
+    },
+    {
+     "c": "Megan 'Smitty' Garretson",
+     "n": "Eva Jane Willis"
+    },
+    {
+     "c": "Amanda Tate",
+     "n": "Christina Wolfe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Dick Wolf",
+    "Derek Haas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2021-09-21",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 121658,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows the elite agents of the FBI's International Fly Team headquartered in Budapest as they travel the world with the mission of protecting Americans wherever they may be.",
+   "popularity": 27.4429,
+   "poster_path": "/1Ublm6D8zmqMroqrXkn3Fgd353q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-09-21",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-02-13",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-10-15",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "FBI: International",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.508,
+   "vote_count": 254
+  },
+  "tv:14658": {
+   "backdrop_path": "/1oaj0RL4cM0WuUQJUuarpVWrhb0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Jeff Probst"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Charlie Parsons",
+    "Mark Burnett"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-05-31",
+   "genres": [
+    "Reality"
+   ],
+   "id": 14658,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 744,
+   "number_of_seasons": 51,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
+   "popularity": 98.9328,
+   "poster_path": "/Ap0qf8VxF9DW4NXLYvMmpg3WkdF.jpg",
+   "production_countries": [
+    "US",
+    "FJ"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-02-05",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-05-31",
+     "episode_count": 14,
+     "name": "Borneo",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-01-28",
+     "episode_count": 17,
+     "name": "The Australian Outback",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-10-11",
+     "episode_count": 16,
+     "name": "Africa",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-02-28",
+     "episode_count": 15,
+     "name": "Marquesas",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-09-19",
+     "episode_count": 15,
+     "name": "Thailand",
+     "season_number": 5
+    },
+    {
+     "air_date": "2003-02-13",
+     "episode_count": 15,
+     "name": "The Amazon",
+     "season_number": 6
+    },
+    {
+     "air_date": "2003-09-18",
+     "episode_count": 15,
+     "name": "Pearl Islands",
+     "season_number": 7
+    },
+    {
+     "air_date": "2004-02-01",
+     "episode_count": 18,
+     "name": "All-Stars",
+     "season_number": 8
+    },
+    {
+     "air_date": "2004-09-16",
+     "episode_count": 15,
+     "name": "Vanuatu - Islands of Fire",
+     "season_number": 9
+    },
+    {
+     "air_date": "2005-02-17",
+     "episode_count": 15,
+     "name": "Palau",
+     "season_number": 10
+    },
+    {
+     "air_date": "2005-09-15",
+     "episode_count": 15,
+     "name": "Guatemala - The Mayan Empire",
+     "season_number": 11
+    },
+    {
+     "air_date": "2006-02-02",
+     "episode_count": 16,
+     "name": "Panama - Exile Island",
+     "season_number": 12
+    },
+    {
+     "air_date": "2006-09-14",
+     "episode_count": 16,
+     "name": "Cook Islands",
+     "season_number": 13
+    },
+    {
+     "air_date": "2007-02-08",
+     "episode_count": 15,
+     "name": "Fiji",
+     "season_number": 14
+    },
+    {
+     "air_date": "2007-09-20",
+     "episode_count": 15,
+     "name": "China",
+     "season_number": 15
+    },
+    {
+     "air_date": "2008-02-07",
+     "episode_count": 15,
+     "name": "Micronesia - Fans vs. Favorites",
+     "season_number": 16
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 14,
+     "name": "Gabon - Earth's Last Eden",
+     "season_number": 17
+    },
+    {
+     "air_date": "2009-02-12",
+     "episode_count": 15,
+     "name": "Tocantins",
+     "season_number": 18
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 16,
+     "name": "Samoa",
+     "season_number": 19
+    },
+    {
+     "air_date": "2010-02-11",
+     "episode_count": 15,
+     "name": "Heroes vs. Villains",
+     "season_number": 20
+    },
+    {
+     "air_date": "2010-09-15",
+     "episode_count": 16,
+     "name": "Nicaragua",
+     "season_number": 21
+    },
+    {
+     "air_date": "2011-02-16",
+     "episode_count": 15,
+     "name": "Redemption Island",
+     "season_number": 22
+    },
+    {
+     "air_date": "2011-09-14",
+     "episode_count": 16,
+     "name": "South Pacific",
+     "season_number": 23
+    },
+    {
+     "air_date": "2012-02-15",
+     "episode_count": 15,
+     "name": "One World",
+     "season_number": 24
+    },
+    {
+     "air_date": "2012-09-19",
+     "episode_count": 15,
+     "name": "Philippines",
+     "season_number": 25
+    },
+    {
+     "air_date": "2013-02-13",
+     "episode_count": 15,
+     "name": "Caramoan - Fans vs. Favorites",
+     "season_number": 26
+    },
+    {
+     "air_date": "2013-09-18",
+     "episode_count": 15,
+     "name": "Blood vs. Water",
+     "season_number": 27
+    },
+    {
+     "air_date": "2014-02-26",
+     "episode_count": 14,
+     "name": "Cagayan",
+     "season_number": 28
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 15,
+     "name": "San Juan del Sur - Blood vs. Water",
+     "season_number": 29
+    },
+    {
+     "air_date": "2015-02-25",
+     "episode_count": 15,
+     "name": "Worlds Apart",
+     "season_number": 30
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 15,
+     "name": "Cambodia - Second Chance",
+     "season_number": 31
+    },
+    {
+     "air_date": "2016-02-17",
+     "episode_count": 15,
+     "name": "Kaôh Rōng",
+     "season_number": 32
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 14,
+     "name": "Millennials vs. Gen X",
+     "season_number": 33
+    },
+    {
+     "air_date": "2017-03-08",
+     "episode_count": 13,
+     "name": "Game Changers - Mamanuca Islands",
+     "season_number": 34
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 15,
+     "name": "Heroes v. Healers v. Hustlers",
+     "season_number": 35
+    },
+    {
+     "air_date": "2018-02-28",
+     "episode_count": 15,
+     "name": "Ghost Island",
+     "season_number": 36
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 14,
+     "name": "David vs. Goliath",
+     "season_number": 37
+    },
+    {
+     "air_date": "2019-02-20",
+     "episode_count": 14,
+     "name": "Edge of Extinction",
+     "season_number": 38
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 14,
+     "name": "Island of the Idols",
+     "season_number": 39
+    },
+    {
+     "air_date": "2020-02-12",
+     "episode_count": 14,
+     "name": "Winners at War",
+     "season_number": 40
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 13,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2022-03-09",
+     "episode_count": 12,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 13,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2023-03-01",
+     "episode_count": 13,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2023-09-27",
+     "episode_count": 13,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2024-02-28",
+     "episode_count": 13,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2024-09-18",
+     "episode_count": 14,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2025-02-26",
+     "episode_count": 13,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2025-09-24",
+     "episode_count": 13,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2026-02-25",
+     "episode_count": 13,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2026-09-23",
+     "episode_count": 13,
+     "name": "Season 51",
+     "season_number": 51
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Outwit, outplay, outlast.",
+   "title": "Survivor",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.273,
+   "vote_count": 459
+  },
+  "tv:1558": {
+   "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tim Taylor",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Jill Taylor",
+     "n": "Patricia Richardson"
+    },
+    {
+     "c": "Wilson Wilson Jr.",
+     "n": "Earl Hindman"
+    },
+    {
+     "c": "Al Borland",
+     "n": "Richard Karn"
+    },
+    {
+     "c": "Heidi",
+     "n": "Debbe Dunning"
+    },
+    {
+     "c": "Brad Taylor",
+     "n": "Zachery Ty Bryan"
+    },
+    {
+     "c": "Mark Taylor",
+     "n": "Taran Noah Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Carmen Finestra",
+    "Matt Williams",
+    "David McFadzean"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1991-09-17",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1558,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 203,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+   "popularity": 41.8445,
+   "poster_path": "/aBBXL6YIYbUPBRAVYdEUW46oqsA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q44PU5iFUrxhOLKW19BrPuEN6Go.png",
+     "name": "Wonder Project Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-05-04",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1991-09-17",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1992-09-16",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1993-09-15",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-09-20",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1995-09-19",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1996-09-17",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1997-09-23",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1998-09-22",
+     "episode_count": 27,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Home Improvement",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.362,
+   "vote_count": 761
+  },
+  "tv:2458": {
+   "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mac Taylor",
+     "n": "Gary Sinise"
+    },
+    {
+     "c": "Lindsay Monroe",
+     "n": "Anna Belknap"
+    },
+    {
+     "c": "Jo Danville",
+     "n": "Sela Ward"
+    },
+    {
+     "c": "Danny Messer",
+     "n": "Carmine Giovinazzo"
+    },
+    {
+     "c": "Sheldon Hawkes",
+     "n": "Hill Harper"
+    },
+    {
+     "c": "Donald Flack Jr.",
+     "n": "Eddie Cahill"
+    },
+    {
+     "c": "Sid Hammerback",
+     "n": "Robert Joy"
+    },
+    {
+     "c": "Adam Ross",
+     "n": "A.J. Buckley"
+    },
+    {
+     "c": "Forensic Lab Tech",
+     "n": "Lester G. Reynolds"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Ann Donahue",
+    "Carol Mendelsohn",
+    "Anthony E. Zuiker"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2004-09-22",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 2458,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 197,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+   "popularity": 57.267,
+   "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-09-22",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-28",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-20",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-26",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-24",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-23",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-24",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-09-23",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-09-28",
+     "episode_count": 17,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "How long does it take to get hooked on the latest CSI: hit? About a New York minute.",
+   "title": "CSI: NY",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.304,
+   "vote_count": 792
+  },
+  "tv:39358": {
+   "backdrop_path": "/u7XADmNNOyuza7UkoAa94bycqp3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emily Thorne",
+     "n": "Emily VanCamp"
+    },
+    {
+     "c": "Victoria Grayson",
+     "n": "Madeleine Stowe"
+    },
+    {
+     "c": "Jack Porter",
+     "n": "Nick Wechsler"
+    },
+    {
+     "c": "Nolan Ross",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "Margaux LeMarchal",
+     "n": "Karine Vanasse"
+    },
+    {
+     "c": "David Clarke",
+     "n": "James Tupper"
+    },
+    {
+     "c": "Louise Ellis",
+     "n": "Elena Satine"
+    },
+    {
+     "c": "Ben Hunter",
+     "n": "Brian Hallisay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Mike Kelley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2011-09-21",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 39358,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 89,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Emily Thorne moves to the Hamptons, everyone wonders about the new girl, but she knows everything about them, including what they did to her family. Years ago, they took everything from her. Now, one by one, she's going to make them pay.",
+   "popularity": 33.6909,
+   "poster_path": "/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-11",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-09-21",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "What goes around comes around.",
+   "title": "Revenge",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.542,
+   "vote_count": 872
+  },
+  "tv:4658": {
+   "backdrop_path": "/rn7TTwCnoGA34vEhZGa2VdplLw4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Willie Tanner",
+     "n": "Max Wright"
+    },
+    {
+     "c": "Kate Tanner",
+     "n": "Anne Schedeen"
+    },
+    {
+     "c": "Lynn Tanner",
+     "n": "Andrea Elson"
+    },
+    {
+     "c": "Brian Tanner",
+     "n": "Benji Gregory"
+    },
+    {
+     "c": "Alf / Gordon Shumway",
+     "n": "Mihaly 'Michu' Meszaros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "NBC",
+   "created_by": [
+    "Paul Fusco",
+    "Tom Patchett"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1986-09-22",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4658,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A furry alien wiseguy comes to live with a terran family after crashing into their garage.",
+   "popularity": 26.0001,
+   "poster_path": "/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1986-09-22",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1987-09-21",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1988-10-03",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1989-09-18",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Got cat?",
+   "title": "ALF",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 1287
+  },
+  "tv:69158": {
+   "backdrop_path": "/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Diane Lockhart",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "Liz Reddick",
+     "n": "Audra McDonald"
+    },
+    {
+     "c": "Marissa Gold",
+     "n": "Sarah Steele"
+    },
+    {
+     "c": "Jay Dipersia",
+     "n": "Nyambi Nyambi"
+    },
+    {
+     "c": "Julius Cain",
+     "n": "Michael Boatman"
+    },
+    {
+     "c": "Carmen Moyo",
+     "n": "Charmaine Bingwa"
+    },
+    {
+     "c": "Ri'Chard Lane",
+     "n": "Andre Braugher"
+    },
+    {
+     "c": "Lyle Bettencourt",
+     "n": "John Slattery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS All Access",
+   "created_by": [
+    "Michelle King",
+    "Robert King",
+    "Phil Alden Robinson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2017-02-19",
+   "genres": [
+    "Drama"
+   ],
+   "id": 69158,
+   "industry": "world",
+   "networks": [
+    "CBS All Access",
+    "Paramount+"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Picking up one year after the events of the final broadcast episode of \"The Good Wife\", an enormous financial scam has destroyed the reputation of a young lawyer, Maia Rindell, while simultaneously wiping out her mentor and godmother Diane Lockhart's savings. Forced out of her law firm, now called \"Lockhart, Deckler, Gussman, Lee, Lyman, Gilbert, Lurie, Kagan, Tannebaum & Associates\", they join Lucca Quinn at one of Chicago's preeminent law firms.",
+   "popularity": 32.7021,
+   "poster_path": "/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-02-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-03-04",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-03-14",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-04-09",
+     "episode_count": 7,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-06-24",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-09-08",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Kill all the lawyers.",
+   "title": "The Good Fight",
+   "trailer": {
+    "key": "tBZpCjzc_oM",
+    "name": "The Good Fight Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.546,
+   "vote_count": 358
+  },
+  "tv:8358": {
+   "backdrop_path": "/1GY7ih45OzZKjNCJ97XHxBCtuSU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cal Lightman",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Gillian Foster",
+     "n": "Kelli Williams"
+    },
+    {
+     "c": "Ria Torres",
+     "n": "Monica Raymund"
+    },
+    {
+     "c": "Eli Loker",
+     "n": "Brendan Hines"
+    },
+    {
+     "c": "Emily Lightman",
+     "n": "Hayley McFarland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Sam Baum"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2009-01-21",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 8358,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The world's leading deception researcher, Dr. Cal Lightman, studies facial expression, body language and tone of voice to determine when a person is lying and why, which helps law enforcement and government agencies uncover the truth. But his skills also make it easier for him to deceive others.",
+   "popularity": 27.9051,
+   "poster_path": "/2xpQxwsGYtdGDrmLvCosTZ0I54R.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-01-21",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-28",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-10-04",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "They're undeceivable.",
+   "title": "Lie to Me",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.864,
+   "vote_count": 1762
+  },
+  "tv:84958": {
+   "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Loki",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "The Variant",
+     "n": "Sophia Di Martino"
+    },
+    {
+     "c": "Hunter B-15",
+     "n": "Wunmi Mosaku"
+    },
+    {
+     "c": "Casey",
+     "n": "Eugene Cordero"
+    },
+    {
+     "c": "OB",
+     "n": "Ke Huy Quan"
+    },
+    {
+     "c": "Mobius",
+     "n": "Owen Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Disney+",
+   "created_by": [
+    "Michael Waldron"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-06-09",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 84958,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+   "popularity": 45.6371,
+   "poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-06-09",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-10-05",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Loki's time has come.",
+   "title": "Loki",
+   "trailer": {
+    "key": "nW948Va-l10",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.181,
+   "vote_count": 12902
   }
  }
 }

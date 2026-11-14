@@ -1,8 +1,8 @@
 {
  "bucket": "84",
- "count": 16,
+ "count": 22,
  "titles": {
-  "10384": {
+  "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
    "budget": 90000000,
    "cast": [
@@ -113,7 +113,7 @@
    "vote_average": 4.985,
    "vote_count": 461
   },
-  "10484": {
+  "movie:10484": {
    "backdrop_path": "/s72ijbHb5yUB3SpC5unhUYpAmtl.jpg",
    "budget": 0,
    "cast": [
@@ -272,7 +272,7 @@
    "vote_average": 6.6,
    "vote_count": 456
   },
-  "1198984": {
+  "movie:1198984": {
    "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
    "budget": 0,
    "cast": [
@@ -446,7 +446,7 @@
    "vote_average": 6.115,
    "vote_count": 439
   },
-  "13384": {
+  "movie:13384": {
    "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
    "budget": 0,
    "cast": [
@@ -567,7 +567,7 @@
    "vote_average": 7.4,
    "vote_count": 470
   },
-  "14684": {
+  "movie:14684": {
    "backdrop_path": "/3WWQtVKOra73bde9ViwOwq1GnsN.jpg",
    "budget": 18000000,
    "cast": [
@@ -666,7 +666,7 @@
    "vote_average": 6.52,
    "vote_count": 453
   },
-  "17684": {
+  "movie:17684": {
    "backdrop_path": "/rXw6VPz2trn9tYh29GeJAmhZtwZ.jpg",
    "budget": 0,
    "cast": [
@@ -777,7 +777,7 @@
    "vote_average": 5.252,
    "vote_count": 481
   },
-  "1884": {
+  "movie:1884": {
    "backdrop_path": "/waWPYcXrbENXEoJkrQt7zFUdq14.jpg",
    "budget": 3000000,
    "cast": [
@@ -880,7 +880,7 @@
    "vote_average": 5.8,
    "vote_count": 442
   },
-  "2084": {
+  "movie:2084": {
    "backdrop_path": "/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
    "budget": 13000000,
    "cast": [
@@ -990,7 +990,7 @@
    "vote_average": 5.9,
    "vote_count": 456
   },
-  "25284": {
+  "movie:25284": {
    "backdrop_path": "/8KbWuuthHkS7U1wntWCrgo36igG.jpg",
    "budget": 2500000,
    "cast": [
@@ -1144,7 +1144,7 @@
    "vote_average": 6.739,
    "vote_count": 467
   },
-  "298584": {
+  "movie:298584": {
    "backdrop_path": "/wtDRdoHSKIY5zhv8pwy4WuOcoTD.jpg",
    "budget": 0,
    "cast": [
@@ -1283,7 +1283,7 @@
    "vote_average": 4.748,
    "vote_count": 495
   },
-  "390584": {
+  "movie:390584": {
    "backdrop_path": "/hrchlLkjT0ejyp7tWIprCZxRHm.jpg",
    "budget": 0,
    "cast": [
@@ -1492,7 +1492,7 @@
    "vote_average": 5.8,
    "vote_count": 495
   },
-  "4484": {
+  "movie:4484": {
    "backdrop_path": "/xkrLPXpDBwzKW0jzbUEzqnnusLb.jpg",
    "budget": 1100000,
    "cast": [
@@ -1611,7 +1611,7 @@
    "vote_average": 6.8,
    "vote_count": 461
   },
-  "45284": {
+  "movie:45284": {
    "backdrop_path": "/ugVAfKcbMPrnLy4ebmXTMOelvUN.jpg",
    "budget": 0,
    "cast": [
@@ -1809,7 +1809,7 @@
    "vote_average": 6.871,
    "vote_count": 479
   },
-  "468284": {
+  "movie:468284": {
    "backdrop_path": "/ekIdTKHLWzZ4ojDLEkzLzNb8ggK.jpg",
    "budget": 3000000,
    "cast": [
@@ -1987,7 +1987,7 @@
    "vote_average": 7.479,
    "vote_count": 496
   },
-  "67884": {
+  "movie:67884": {
    "backdrop_path": "/fqRJLbbakXAT88XTBVz0no4xavg.jpg",
    "budget": 5000000,
    "cast": [
@@ -2115,7 +2115,7 @@
    "vote_average": 7.267,
    "vote_count": 461
   },
-  "9584": {
+  "movie:9584": {
    "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
    "budget": 12000000,
    "cast": [
@@ -2236,6 +2236,1041 @@
    "type": "movie",
    "vote_average": 6.299,
    "vote_count": 458
+  },
+  "tv:2284": {
+   "backdrop_path": "/6xqMp5UfKUlYPSjwJ6jzRFxG5qR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonardo (voice)",
+     "n": "Michael Sinterniklaas"
+    },
+    {
+     "c": "Michelangelo (voice)",
+     "n": "Wayne Grayson"
+    },
+    {
+     "c": "Donatello (voice)",
+     "n": "Sam Riegel"
+    },
+    {
+     "c": "Raphael (voice)",
+     "n": "Gregory Abbey"
+    },
+    {
+     "c": "Master Splinter (voice)",
+     "n": "Darren Dunstan"
+    },
+    {
+     "c": "April O'Neil (voice)",
+     "n": "Veronica Taylor"
+    },
+    {
+     "c": "Casey Jones (voice)",
+     "n": "Marc Thompson"
+    },
+    {
+     "c": "Shredder (voice)",
+     "n": "Scott Rayow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "FOX",
+   "created_by": [
+    "Lloyd Goldfine"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2003-02-08",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Kids"
+   ],
+   "id": 2284,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "The CW"
+   ],
+   "number_of_episodes": 154,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When four pet turtles were bathed in alien ooze, they began to mutate and became the Teenage Mutant Ninja Turtles. Raised in New York City sewers by their foster father and wise sensei, Master Splinter, Leonardo, Michelangelo, Donatello, and Raphael wage war against crime. Led by Master Splinter, the four turtles learn the ancient martial art of Ninjitsu, mastering skills of stealth, weapons, and fighting. They stop evildoers in all forms, whether barbaric gangs, lowlife crooks, deranged cyborgs, or even the crime syndicate The Foot, led by their archrival, The Shredder.",
+   "popularity": 33.8725,
+   "poster_path": "/sEb6sTxyGoguCX4fK1G0hyzyLcv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-10-14",
+     "episode_count": 23,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-02-08",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-11-08",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-10-09",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-09-10",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-02-16",
+     "episode_count": 12,
+     "name": "Ninja Tribunal",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-07-29",
+     "episode_count": 26,
+     "name": "Fast Forward",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-09-13",
+     "episode_count": 13,
+     "name": "Back to the Sewer",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Teenage Mutant Ninja Turtles",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.947,
+   "vote_count": 245
+  },
+  "tv:2384": {
+   "backdrop_path": "/6QRnGINFJQ4iWQQeELnqgzqyYsN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Knight",
+     "n": "David Hasselhoff"
+    },
+    {
+     "c": "Devon Miles",
+     "n": "Edward Mulhare"
+    },
+    {
+     "c": "KITT (voice)",
+     "n": "William Daniels"
+    },
+    {
+     "c": "Bonnie Barstow",
+     "n": "Patricia McPherson"
+    },
+    {
+     "c": "RC3",
+     "n": "Peter Parros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "NBC",
+   "created_by": [
+    "Glen A. Larson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "1982-09-26",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Crime"
+   ],
+   "id": 2384,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 84,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series depicts Michael's exploits as he and KITT battle the forces of evil on behalf of the Foundation for Law and Government.",
+   "popularity": 38.9816,
+   "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1991-05-19",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1982-09-26",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1983-10-02",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1984-09-30",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1985-09-20",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Michael Knight is today's hero! Driving the car of tomorrow! Together, they're the ultimate crimecrashers!",
+   "title": "Knight Rider",
+   "trailer": {
+    "key": "jQfU1WIaukg",
+    "name": "Knight Rider - Show Trailer | NBC Classics",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.536,
+   "vote_count": 1487
+  },
+  "tv:30984": {
+   "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ichigo Kurosaki (voice)",
+     "n": "Masakazu Morita"
+    },
+    {
+     "c": "Rukia Kuchiki (voice)",
+     "n": "Fumiko Orikasa"
+    },
+    {
+     "c": "Yasutora Sado (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Orihime Inoue (voice)",
+     "n": "Yuki Matsuoka"
+    },
+    {
+     "c": "Uryu Ishida (voice)",
+     "n": "Noriaki Sugiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2004-10-05",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 30984,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC",
+    "BS TV Tokyo"
+   ],
+   "number_of_episodes": 416,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+   "popularity": 124.4779,
+   "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-12-18",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-10-05",
+     "episode_count": 366,
+     "name": "Bleach",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-10-11",
+     "episode_count": 50,
+     "name": "Thousand-Year Blood War",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Bleach",
+   "trailer": {
+    "key": "0c4IoCA5fY0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.35,
+   "vote_count": 2341
+  },
+  "tv:484": {
+   "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jessica Fletcher",
+     "n": "Angela Lansbury"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Richard Levinson",
+    "William Link",
+    "Peter S. Fischer"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1984-09-30",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 484,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 264,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
+   "popularity": 64.1857,
+   "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1984-09-30",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-29",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-28",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-10-23",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1989-09-24",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1990-09-16",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1991-09-15",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1992-09-20",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1993-09-12",
+     "episode_count": 21,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1994-09-25",
+     "episode_count": 21,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1995-09-21",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "She may be wrong. But frankly, we doubt it.",
+   "title": "Murder, She Wrote",
+   "trailer": {
+    "key": "xq9D_wlTcuw",
+    "name": "Murder She Wrote Series Trailer - on DVD",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.524,
+   "vote_count": 481
+  },
+  "tv:67384": {
+   "backdrop_path": "/ypWZ3iWt16kOoXfaD7KzgPqa8Bl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billy McBride",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Patty Solis-Papagian",
+     "n": "Nina Arianda"
+    },
+    {
+     "c": "Brittany Gold",
+     "n": "Tania Raymonde"
+    },
+    {
+     "c": "Denise McBride",
+     "n": "Diana Hopper"
+    },
+    {
+     "c": "Frank Zax",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "Rob Bettencourt",
+     "n": "Brandon Scott"
+    },
+    {
+     "c": "Griffin Petock",
+     "n": "Geoffrey Arend"
+    },
+    {
+     "c": "Kate Zax",
+     "n": "Clara Wong"
+    },
+    {
+     "c": "Samantha Margolis",
+     "n": "Jena Malone"
+    },
+    {
+     "c": "George Zax",
+     "n": "J.K. Simmons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "David E. Kelley",
+    "Jonathan Shapiro"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-10-13",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 67384,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Once a powerful lawyer, Billy McBride is now burned out and washed up, spending more time in a bar than a courtroom. When he reluctantly agrees to pursue a wrongful death lawsuit against the biggest client of Cooperman &amp; McBride, the massive law firm he helped create, Billy and his ragtag team uncover a vast and deadly conspiracy, pitting them all in a life or death trial against the ultimate Goliath.",
+   "popularity": 24.8288,
+   "poster_path": "/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-10-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-06-14",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-10-03",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Goliath",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.587,
+   "vote_count": 511
+  },
+  "tv:82684": {
+   "backdrop_path": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rimuru (voice)",
+     "n": "Miho Okasaki"
+    },
+    {
+     "c": "Veldora (voice)",
+     "n": "Tomoaki Maeno"
+    },
+    {
+     "c": "Souei (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Hakurou (voice)",
+     "n": "Hochu Otsuka"
+    },
+    {
+     "c": "Gobta (voice)",
+     "n": "Asuna Tomari"
+    },
+    {
+     "c": "Ranga (voice)",
+     "n": "Chikahiro Kobayashi"
+    },
+    {
+     "c": "Gabiru (voice)",
+     "n": "Jun Fukushima"
+    },
+    {
+     "c": "Trainie (voice)",
+     "n": "Rie Tanaka"
+    },
+    {
+     "c": "Milim (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Rimiris (voice)",
+     "n": "Anzu Haruno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2018-10-02",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 82684,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "YTV",
+    "TOKYO MX",
+    "BS11",
+    "FBS",
+    "Chukyo TV",
+    "RNB",
+    "HTV",
+    "FCT",
+    "STV",
+    "KNB",
+    "YBS",
+    "KTK",
+    "NKT",
+    "RAB",
+    "TVI",
+    "MMT",
+    "ABS",
+    "JRT",
+    "TOS",
+    "YBC",
+    "TSB",
+    "TeNY",
+    "RNC",
+    "NIB",
+    "KKT",
+    "Daiichi-TV",
+    "FBC",
+    "RKC",
+    "KYT",
+    "KRY"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+   "popularity": 31.9035,
+   "poster_path": "/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "YouTube"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-03-26",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-10-02",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-01-12",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-04-05",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-04-03",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "Ascend into your true form.",
+   "title": "That Time I Got Reincarnated as a Slime",
+   "trailer": {
+    "key": "uOzwqb74K34",
+    "name": "Official Preview [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.437,
+   "vote_count": 1015
   }
  }
 }

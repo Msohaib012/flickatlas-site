@@ -1,8 +1,8 @@
 {
  "bucket": "73",
- "count": 7,
+ "count": 21,
  "titles": {
-  "127373": {
+  "movie:127373": {
    "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
    "budget": 6000000,
    "cast": [
@@ -180,7 +180,7 @@
    "vote_average": 7.1,
    "vote_count": 466
   },
-  "13973": {
+  "movie:13973": {
    "backdrop_path": "/z3nCGUiYtMGaCsUsgEo7BuVxhLC.jpg",
    "budget": 3000000,
    "cast": [
@@ -338,7 +338,7 @@
    "vote_average": 6.091,
    "vote_count": 462
   },
-  "26973": {
+  "movie:26973": {
    "backdrop_path": "/nehq8TDd7WnwBnTLnvv8BQNekzW.jpg",
    "budget": 3500000,
    "cast": [
@@ -437,7 +437,7 @@
    "vote_average": 6.952,
    "vote_count": 444
   },
-  "452773": {
+  "movie:452773": {
    "backdrop_path": "/4Pv4JRqT7LT1F290JbbjQsaB6LD.jpg",
    "budget": 10778400,
    "cast": [
@@ -546,7 +546,7 @@
    "vote_average": 6.7,
    "vote_count": 463
   },
-  "467673": {
+  "movie:467673": {
    "backdrop_path": "/pL2oToUMXQCA2WsVGm202W2gj3d.jpg",
    "budget": 0,
    "cast": [
@@ -640,7 +640,7 @@
    "vote_average": 5.529,
    "vote_count": 483
   },
-  "615173": {
+  "movie:615173": {
    "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
    "budget": 0,
    "cast": [
@@ -810,7 +810,7 @@
    "vote_average": 7.452,
    "vote_count": 494
   },
-  "810873": {
+  "movie:810873": {
    "backdrop_path": "/2r0O6rOOSfsZ3bIpWTOt0Xabxkf.jpg",
    "budget": 0,
    "cast": [
@@ -918,6 +918,2336 @@
    "type": "movie",
    "vote_average": 6.416,
    "vote_count": 446
+  },
+  "tv:1973": {
+   "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Bauer",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Chloe O'Brian",
+     "n": "Mary Lynn Rajskub"
+    },
+    {
+     "c": "Audrey Raines",
+     "n": "Kim Raver"
+    },
+    {
+     "c": "Kate Morgan",
+     "n": "Yvonne Strahovski"
+    },
+    {
+     "c": "Mark Boudreau",
+     "n": "Tate Donovan"
+    },
+    {
+     "c": "James Heller",
+     "n": "William Devane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Robert Cochran",
+    "Joel Surnow"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2001-11-06",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1973,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 204,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
+   "popularity": 97.3424,
+   "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-12-07",
+     "episode_count": 17,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-11-06",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-10-29",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-10-28",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-01-09",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-01-15",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-01-14",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-01-11",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-01-17",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-05-05",
+     "episode_count": 12,
+     "name": "Live Another Day",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A lot can happen in a day.",
+   "title": "24",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1931
+  },
+  "tv:2473": {
+   "backdrop_path": "/AqZ48TMJRPCpbuy09S0RXFAhvFa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Steed",
+     "n": "Patrick Macnee"
+    },
+    {
+     "c": "Tara King",
+     "n": "Linda Thorson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ITV1",
+   "created_by": [
+    "Sydney Newman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50,
+    60
+   ],
+   "first_air_date": "1961-01-07",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 2473,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 161,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A quirky spy show of the adventures of eccentrically suave British Agent John Steed and his predominantly female partners. Jonathan Steed - an urbane, proper gentleman spy - teams with various assistants throughout the series' run, including Dr. David Keel, Cathy Gale, Emma Peel and Tara King, to repeatedly save the world from diabolical schemes plotted by equally diabolical evil-doers (among them robots and man-eating monsters).",
+   "popularity": 42.726,
+   "poster_path": "/7D2DosFWqmNc0vfZJPqwY5uIvsR.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 116,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1961-01-07",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1962-09-29",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1963-09-28",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1965-10-02",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1967-01-14",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1968-09-25",
+     "episode_count": 33,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Mrs Peel, We're Needed!",
+   "title": "The Avengers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.794,
+   "vote_count": 160
+  },
+  "tv:2673": {
+   "backdrop_path": "/5WVAGHTNMWhNwk5l3FoeAScmw7M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandy Cohen",
+     "n": "Peter Gallagher"
+    },
+    {
+     "c": "Kirsten Cohen",
+     "n": "Kelly Rowan"
+    },
+    {
+     "c": "Ryan Atwood",
+     "n": "Ben McKenzie"
+    },
+    {
+     "c": "Seth Cohen",
+     "n": "Adam Brody"
+    },
+    {
+     "c": "Julie Cooper",
+     "n": "Melinda Clarke"
+    },
+    {
+     "c": "Summer Roberts",
+     "n": "Rachel Bilson"
+    },
+    {
+     "c": "Taylor Townsend",
+     "n": "Autumn Reeser"
+    },
+    {
+     "c": "Kaitlin Cooper",
+     "n": "Willa Holland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Josh Schwartz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2003-08-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 2673,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ryan Atwood, a teen from the wrong side of the tracks, moves in with a wealthy family willing to give him a chance. But Ryan's arrival disturbs the status quo of the affluent, privileged community of Newport Beach, California.",
+   "popularity": 40.771,
+   "poster_path": "/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-09-16",
+     "episode_count": 32,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-08-05",
+     "episode_count": 27,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-11-04",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-08",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-11-02",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's nothing like where you live. And nothing like you imagine.",
+   "title": "The O.C.",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 990
+  },
+  "tv:288673": {
+   "backdrop_path": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carrie White",
+     "n": "Summer H. Howell"
+    },
+    {
+     "c": "Margaret White",
+     "n": "Samantha Sloyan"
+    },
+    {
+     "c": "Sue Snell",
+     "n": "Siena Agudong"
+    },
+    {
+     "c": "Chris Hargensen",
+     "n": "Alison Thornton"
+    },
+    {
+     "c": "Tommy Ross",
+     "n": "Joel Oulette"
+    },
+    {
+     "c": "Tina Blake",
+     "n": "Josie Totah"
+    },
+    {
+     "c": "Billy Nolan",
+     "n": "Arthur Conti"
+    },
+    {
+     "c": "Emaline West",
+     "n": "Thalia Dudek"
+    },
+    {
+     "c": "Miss Desjardin",
+     "n": "Amber Midthunder"
+    },
+    {
+     "c": "Principal Grayle",
+     "n": "Matthew Lillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Mike Flanagan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-07",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 288673,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+   "popularity": 48.1121,
+   "poster_path": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "She just wanted a friend. They gave her a fight.",
+   "title": "Carrie",
+   "trailer": {
+    "key": "jkUw2nh6fT0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.239,
+   "vote_count": 595
+  },
+  "tv:32573": {
+   "backdrop_path": "/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sergeant Daniel “Mac” Macallister",
+     "n": "Warren Brown"
+    },
+    {
+     "c": "Sergeant Samuel Wyatt",
+     "n": "Daniel MacPherson"
+    },
+    {
+     "c": "Lance Corporal Gracie Novin",
+     "n": "Alin Sumarwata"
+    },
+    {
+     "c": "Col. Alexander Coltrane",
+     "n": "Jamie Bamber"
+    },
+    {
+     "c": "Guard 1",
+     "n": "Thulasizwe Kubheka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Sky One",
+   "created_by": [
+    "Jed Mercurio",
+    "Marigo Kehoe"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2010-05-05",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 32573,
+   "industry": "world",
+   "networks": [
+    "Sky One",
+    "Cinemax"
+   ],
+   "number_of_episodes": 76,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+   "popularity": 105.4367,
+   "poster_path": "/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-05-05",
+     "episode_count": 6,
+     "name": "Chris Ryan's Strike Back",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-08-12",
+     "episode_count": 10,
+     "name": "Project Dawn",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-08-17",
+     "episode_count": 10,
+     "name": "Vengeance",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-08-09",
+     "episode_count": 10,
+     "name": "Shadow Warfare",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-06-03",
+     "episode_count": 10,
+     "name": "Legacy",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-10-31",
+     "episode_count": 10,
+     "name": "Retribution",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-01-25",
+     "episode_count": 10,
+     "name": "Revolution",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-02-14",
+     "episode_count": 10,
+     "name": "Vendetta",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Strike Back",
+   "trailer": {
+    "key": "G7qfp5pgg1A",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.421,
+   "vote_count": 420
+  },
+  "tv:42573": {
+   "backdrop_path": "/eklM8HZeGKB5KMKRqkuff0yW0Oq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hanamichi Sakuragi (voice)",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "Kaede Rukawa (voice)",
+     "n": "Hikaru Midorikawa"
+    },
+    {
+     "c": "Takenori Akagi (voice)",
+     "n": "Kiyoyuki Yanada"
+    },
+    {
+     "c": "Ryota Miyagi (voice)",
+     "n": "Yoku Shioya"
+    },
+    {
+     "c": "Hisashi Mitsui (voice)",
+     "n": "Ryotaro Okiayu"
+    },
+    {
+     "c": "Haruko Akagi (voice)",
+     "n": "Akiko Hiramatsu"
+    },
+    {
+     "c": "Ayako (voice)",
+     "n": "Eriko Hara"
+    },
+    {
+     "c": "Kiminobu Kogure (voice)",
+     "n": "Hideyuki Tanaka"
+    },
+    {
+     "c": "Shin'ichi Maki (voice)",
+     "n": "Hisao Egawa"
+    },
+    {
+     "c": "Akira Sendo (voice)",
+     "n": "Hochu Otsuka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "tv asahi",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1993-10-16",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 42573,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+   "popularity": 28.8706,
+   "poster_path": "/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-03-12",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-10-16",
+     "episode_count": 101,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Slam Dunk",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 991
+  },
+  "tv:4573": {
+   "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Conan O'Brien"
+    },
+    {
+     "c": "Self - Announcer (voice)",
+     "n": "Joel Godard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Lorne Michaels",
+    "Conan O'Brien"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-09-13",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 4573,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 2724,
+   "number_of_seasons": 16,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+   "popularity": 67.6625,
+   "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-09-12",
+     "episode_count": 30,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-09-13",
+     "episode_count": 230,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-12",
+     "episode_count": 228,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-11",
+     "episode_count": 195,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-09-17",
+     "episode_count": 162,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-09-09",
+     "episode_count": 170,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-09-15",
+     "episode_count": 160,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-09-07",
+     "episode_count": 166,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2000-09-05",
+     "episode_count": 157,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-09-04",
+     "episode_count": 160,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2002-09-03",
+     "episode_count": 160,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2003-09-03",
+     "episode_count": 153,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2004-08-31",
+     "episode_count": 166,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2005-09-06",
+     "episode_count": 162,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2006-09-05",
+     "episode_count": 194,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2007-09-04",
+     "episode_count": 163,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2008-09-02",
+     "episode_count": 98,
+     "name": "Season 16",
+     "season_number": 16
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Late Night with Conan O'Brien",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.315,
+   "vote_count": 170
+  },
+  "tv:60573": {
+   "backdrop_path": "/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Hendricks",
+     "n": "Thomas Middleditch"
+    },
+    {
+     "c": "Donald 'Jared' Dunn",
+     "n": "Zach Woods"
+    },
+    {
+     "c": "Dinesh Chugtai",
+     "n": "Kumail Nanjiani"
+    },
+    {
+     "c": "Bertram Gilfoyle",
+     "n": "Martin Starr"
+    },
+    {
+     "c": "Monica Hall",
+     "n": "Amanda Crew"
+    },
+    {
+     "c": "Gavin Belson",
+     "n": "Matt Ross"
+    },
+    {
+     "c": "Nelson 'Big Head' Bighetti",
+     "n": "Josh Brener"
+    },
+    {
+     "c": "Laurie Bream",
+     "n": "Suzanne Cryer"
+    },
+    {
+     "c": "Jian-Yang",
+     "n": "Jimmy O. Yang"
+    },
+    {
+     "c": "Russ Hanneman",
+     "n": "Chris Diamantopoulos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Dave Krinsky",
+    "Mike Judge",
+    "John Altschuler"
+   ],
+   "director": [],
+   "episode_run_time": [
+    28
+   ],
+   "first_air_date": "2014-04-06",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 60573,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 53,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. Partially inspired by Mike Judge’s own experiences as a Silicon Valley engineer in the late ‘80s, Silicon Valley is an American sitcom that centers around six programmers who are living together and trying to make it big in the Silicon Valley.",
+   "popularity": 27.8682,
+   "poster_path": "/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-04-06",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-04-06",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-04-12",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-04-24",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-04-23",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-03-25",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-10-27",
+     "episode_count": 7,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "How big is too big?",
+   "title": "Silicon Valley",
+   "trailer": {
+    "key": "Vm4tx1O9GAc",
+    "name": "Silicon Valley - Season 1: Trailer - Official HBO UK",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.151,
+   "vote_count": 2085
+  },
+  "tv:66573": {
+   "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eleanor Shellstrop",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Michael",
+     "n": "Ted Danson"
+    },
+    {
+     "c": "Chidi Anagonye",
+     "n": "William Jackson Harper"
+    },
+    {
+     "c": "Tahani Al-Jamil",
+     "n": "Jameela Jamil"
+    },
+    {
+     "c": "Jason Mendoza",
+     "n": "Manny Jacinto"
+    },
+    {
+     "c": "Janet",
+     "n": "D'Arcy Carden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Michael Schur"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2016-09-19",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 66573,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eleanor Shellstrop, an ordinary woman who, through an extraordinary string of events, enters the afterlife where she comes to realize that she hasn't been a very good person. With the help of her wise afterlife mentor, she's determined to shed her old way of living and discover the awesome (or at least the pretty good) person within.",
+   "popularity": 24.4552,
+   "poster_path": "/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-09-13",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-20",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-27",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What the fork?!",
+   "title": "The Good Place",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.964,
+   "vote_count": 2138
+  },
+  "tv:68073": {
+   "backdrop_path": "/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lincoln Loud (voice)",
+     "n": "Grant Palmer"
+    },
+    {
+     "c": "Lincoln Loud (voice)",
+     "n": "Nick Fisher"
+    },
+    {
+     "c": "Luan Loud (voice)",
+     "n": "Cristina Pucelli"
+    },
+    {
+     "c": "Lola Loud / Lana Loud / Lily Loud (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Leni Loud (voice)",
+     "n": "Liliana Mumy"
+    },
+    {
+     "c": "Luna Loud (voice)",
+     "n": "Nika Futterman"
+    },
+    {
+     "c": "Lynn Loud Jr. / Lucy Loud (voice)",
+     "n": "Jessica DiCicco"
+    },
+    {
+     "c": "Lisa Loud (voice)",
+     "n": "Lara Jill Miller"
+    },
+    {
+     "c": "Clyde McBride (voice)",
+     "n": "Caleel Harris"
+    },
+    {
+     "c": "Clyde McBride (voice)",
+     "n": "Juliano Krue Valdi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Chris Savino"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2016-05-02",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 68073,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon",
+    "Netflix"
+   ],
+   "number_of_episodes": 407,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+   "popularity": 64.3691,
+   "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-04-18",
+     "episode_count": 28,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-05-02",
+     "episode_count": 52,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-11-09",
+     "episode_count": 49,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-01-19",
+     "episode_count": 48,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-05-27",
+     "episode_count": 50,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-09-11",
+     "episode_count": 47,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-05-30",
+     "episode_count": 49,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-05-17",
+     "episode_count": 38,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2024-06-10",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2025-07-31",
+     "episode_count": 37,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2026-09-11",
+     "episode_count": 15,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Loud House",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.784,
+   "vote_count": 587
+  },
+  "tv:76773": {
+   "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andy Herrera",
+     "n": "Jaina Lee Ortiz"
+    },
+    {
+     "c": "Ben Warren",
+     "n": "Jason George"
+    },
+    {
+     "c": "Robert Sullivan",
+     "n": "Boris Kodjoe"
+    },
+    {
+     "c": "Victoria Hughes",
+     "n": "Barrett Doss"
+    },
+    {
+     "c": "Travis Montgomery",
+     "n": "Jay Hayden"
+    },
+    {
+     "c": "Maya Bishop",
+     "n": "Danielle Savre"
+    },
+    {
+     "c": "Dr. Carina DeLuca",
+     "n": "Stefania Spampinato"
+    },
+    {
+     "c": "Theo Ruiz",
+     "n": "Carlos Miranda"
+    },
+    {
+     "c": "Sean Beckett",
+     "n": "Josh Randall"
+    },
+    {
+     "c": "Natasha Ross",
+     "n": "Merle Dandridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Stacy McKee"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-03-22",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 76773,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 105,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of heroic firefighters at Seattle Fire Station 19—from captain to newest recruit—risk their lives and hearts both in the line of duty and off the clock. These brave men and women are like family, literally and figuratively, and together they put their own lives in jeopardy as first responders to save the lives of others.",
+   "popularity": 37.118,
+   "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-03-22",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-10-04",
+     "episode_count": 17,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-01-23",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-11-12",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-09-30",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-10-06",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-03-14",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Courage under fire.",
+   "title": "Station 19",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.196,
+   "vote_count": 1568
+  },
+  "tv:78173": {
+   "backdrop_path": "/vyhmiHVWUvmH6jrfvtPdcwYc2I8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hiccup (voice)",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Astrid (voice)",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Snotlout (voice)",
+     "n": "Zack Pearlman"
+    },
+    {
+     "c": "Fishlegs (voice)",
+     "n": "Christopher Mintz-Plasse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Netflix",
+   "created_by": [
+    "Dean DeBlois"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2015-06-26",
+   "genres": [
+    "Family",
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 78173,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
+   "popularity": 28.0246,
+   "poster_path": "/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-06-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-01-08",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-06-24",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-02-17",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-08-25",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-02-16",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dragons: Race to the Edge",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.362,
+   "vote_count": 500
+  },
+  "tv:84773": {
+   "backdrop_path": "/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sauron /  Halbrand",
+     "n": "Charlie Vickers"
+    },
+    {
+     "c": "Galadriel",
+     "n": "Morfydd Clark"
+    },
+    {
+     "c": "Elrond",
+     "n": "Robert Aramayo"
+    },
+    {
+     "c": "Durin IV",
+     "n": "Owain Arthur"
+    },
+    {
+     "c": "Disa",
+     "n": "Sophia Nomvete"
+    },
+    {
+     "c": "Elanor 'Nori' Brandyfoot",
+     "n": "Markella Kavenagh"
+    },
+    {
+     "c": "Arondir",
+     "n": "Ismael Cruz Cordova"
+    },
+    {
+     "c": "Theo",
+     "n": "Tyroe Muhafidin"
+    },
+    {
+     "c": "Gandalf",
+     "n": "Daniel Weyman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Patrick McKay",
+    "John D. Payne"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-09-01",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 84773,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+   "popularity": 741.6876,
+   "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-09-03",
+     "episode_count": 36,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-09-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-08-29",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-11-11",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Evil has had many names.",
+   "title": "The Lord of the Rings: The Rings of Power",
+   "trailer": {
+    "key": "x8UAUAuKNcU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.213,
+   "vote_count": 4061
+  },
+  "tv:873": {
+   "backdrop_path": "/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Columbo",
+     "n": "Peter Falk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "William Link",
+    "Richard Levinson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1971-09-15",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 873,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "NBC"
+   ],
+   "number_of_episodes": 67,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
+   "popularity": 422.2635,
+   "poster_path": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1968-02-20",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1971-09-15",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1972-09-17",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1973-09-23",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1974-09-15",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1975-09-14",
+     "episode_count": 6,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1976-10-10",
+     "episode_count": 3,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1977-11-21",
+     "episode_count": 5,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1989-02-06",
+     "episode_count": 4,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1989-11-25",
+     "episode_count": 6,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1990-12-09",
+     "episode_count": 14,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Oh, just one more thing...",
+   "title": "Columbo",
+   "trailer": {
+    "key": "8ZOHmz3bfAI",
+    "name": "Just One More Thing! 50 Years of Columbo",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.055,
+   "vote_count": 889
   }
  }
 }

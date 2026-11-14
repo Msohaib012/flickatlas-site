@@ -1,8 +1,8 @@
 {
  "bucket": "43",
- "count": 4,
+ "count": 8,
  "titles": {
-  "270343": {
+  "movie:270343": {
    "backdrop_path": "/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",
    "budget": 0,
    "cast": [
@@ -106,7 +106,7 @@
    "vote_average": 6.495,
    "vote_count": 462
   },
-  "3543": {
+  "movie:3543": {
    "backdrop_path": "/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
    "budget": 0,
    "cast": [
@@ -288,7 +288,7 @@
    "vote_average": 7.2,
    "vote_count": 459
   },
-  "496743": {
+  "movie:496743": {
    "backdrop_path": "/mz8xBEIl1l18e2ToNlV1Tt5HVmJ.jpg",
    "budget": 0,
    "cast": [
@@ -440,7 +440,7 @@
    "vote_average": 6.088,
    "vote_count": 471
   },
-  "507143": {
+  "movie:507143": {
    "backdrop_path": "/n5Apka5JaYrLXcQa3lXhnzuBXHj.jpg",
    "budget": 0,
    "cast": [
@@ -547,6 +547,832 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 492
+  },
+  "tv:13943": {
+   "backdrop_path": "/88Va90aHKqJo15wWRhmxG4A3F99.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beavis / Butt-Head (voice)",
+     "n": "Mike Judge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MTV",
+   "created_by": [
+    "Mike Judge"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11,
+    20,
+    30
+   ],
+   "first_air_date": "1993-03-08",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 13943,
+   "industry": "world",
+   "networks": [
+    "MTV"
+   ],
+   "number_of_episodes": 221,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two dimwitted teenagers discuss TV, heavy-metal music, nachos, and trying to \"score with chicks.\" When the duo aren't sitting on the couch, they try to pick up girls at the local convenience store, slack off at school, or wreak havoc while working at a burger joint.",
+   "popularity": 34.9315,
+   "poster_path": "/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1992-09-22",
+     "episode_count": 209,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-03-08",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-05-17",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1993-09-06",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-03-14",
+     "episode_count": 32,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1994-10-31",
+     "episode_count": 50,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1995-10-31",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1997-01-26",
+     "episode_count": 40,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-10-27",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Beavis and Butt-Head",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.061,
+   "vote_count": 486
+  },
+  "tv:2243": {
+   "backdrop_path": "/b73DCbaqYICq3yUbBe5vxtbXjTX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monica",
+     "n": "Roma Downey"
+    },
+    {
+     "c": "Tess",
+     "n": "Della Reese"
+    },
+    {
+     "c": "Andrew",
+     "n": "John Dye"
+    },
+    {
+     "c": "Gloria",
+     "n": "Valerie Bertinelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "John Masius"
+   ],
+   "director": [],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "1994-09-21",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Family"
+   ],
+   "id": 2243,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 211,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Monica, an angel, is tasked with bringing guidance and messages from God to various people who are at a crossroads in their lives.",
+   "popularity": 32.7826,
+   "poster_path": "/jiSv0xNx6MGhAFfv05Ov7DgDELJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-09-21",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1995-09-23",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1996-09-15",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1997-09-21",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-09-20",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1999-09-26",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-10-15",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2001-09-29",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2002-09-28",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Touched by an Angel",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.205,
+   "vote_count": 193
+  },
+  "tv:57243": {
+   "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Doctor",
+     "n": "Jodie Whittaker"
+    },
+    {
+     "c": "Yasmin 'Yaz' Khan",
+     "n": "Mandip Gill"
+    },
+    {
+     "c": "Dan Lewis",
+     "n": "John Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC One",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-03-26",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 57243,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 153,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+   "popularity": 1728.3235,
+   "poster_path": "/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+   "production_countries": [
+    "CA",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Kanopy"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+     "name": "Kanopy",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-11-18",
+     "episode_count": 199,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-03-26",
+     "episode_count": 13,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-04-15",
+     "episode_count": 13,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-04-01",
+     "episode_count": 13,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-04-05",
+     "episode_count": 13,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-04-03",
+     "episode_count": 13,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-04-23",
+     "episode_count": 13,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-09-01",
+     "episode_count": 13,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2014-08-23",
+     "episode_count": 12,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2015-09-19",
+     "episode_count": 12,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2017-04-15",
+     "episode_count": 12,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2018-10-07",
+     "episode_count": 10,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2020-01-01",
+     "episode_count": 10,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2021-10-31",
+     "episode_count": 6,
+     "name": "Flux",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Space. For all.",
+   "title": "Doctor Who",
+   "trailer": {
+    "key": "2V_xYubUJFo",
+    "name": "The Adventure of a Lifetime",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.633,
+   "vote_count": 3510
+  },
+  "tv:62643": {
+   "backdrop_path": "/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sara Lance / White Canary",
+     "n": "Caity Lotz"
+    },
+    {
+     "c": "Zari Tarazi",
+     "n": "Tala Ashe"
+    },
+    {
+     "c": "Ava Sharpe",
+     "n": "Jes Macallan"
+    },
+    {
+     "c": "Astra Logue",
+     "n": "Olivia Swann"
+    },
+    {
+     "c": "Gary Green",
+     "n": "Adam Tsekhman"
+    },
+    {
+     "c": "Nathaniel 'Nate' Heywood / Steel",
+     "n": "Nick Zano"
+    },
+    {
+     "c": "Behrad Tarazi",
+     "n": "Shayan Sobhian"
+    },
+    {
+     "c": "Esperanza 'Spooner' Cruz",
+     "n": "Lisseth Chavez"
+    },
+    {
+     "c": "Gideon / Evil Gideon",
+     "n": "Amy Louise Pemberton"
+    },
+    {
+     "c": "Dr. Gwyn Davies",
+     "n": "Matt Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Greg Berlanti",
+    "Andrew Kreisberg",
+    "Marc Guggenheim",
+    "Phil Klemmer"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2016-01-21",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 62643,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
+   "popularity": 52.4672,
+   "poster_path": "/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-01-19",
+     "episode_count": 29,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-01-21",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-10-13",
+     "episode_count": 17,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-10-10",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-10-22",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-01-14",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-05-02",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-10-13",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "A roaring rewind.",
+   "title": "DC's Legends of Tomorrow",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.232,
+   "vote_count": 2539
   }
  }
 }

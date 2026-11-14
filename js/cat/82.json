@@ -1,8 +1,8 @@
 {
  "bucket": "82",
- "count": 6,
+ "count": 15,
  "titles": {
-  "1387382": {
+  "movie:1387382": {
    "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
    "budget": 0,
    "cast": [
@@ -176,7 +176,7 @@
    "vote_average": 7.4,
    "vote_count": 490
   },
-  "17182": {
+  "movie:17182": {
    "backdrop_path": "/lOiIE1MS7q756PYHYiAw6glruxZ.jpg",
    "budget": 20000000,
    "cast": [
@@ -288,7 +288,7 @@
    "vote_average": 6.276,
    "vote_count": 492
   },
-  "2882": {
+  "movie:2882": {
    "backdrop_path": "/2StTZG7zzlXRN7tY1LnoTqkFAJL.jpg",
    "budget": 0,
    "cast": [
@@ -442,7 +442,7 @@
    "vote_average": 6.498,
    "vote_count": 455
   },
-  "340382": {
+  "movie:340382": {
    "backdrop_path": "/s2ymiH8yTigrWZjoWvLOtZ9npB2.jpg",
    "budget": 0,
    "cast": [
@@ -543,7 +543,7 @@
    "vote_average": 6.343,
    "vote_count": 440
   },
-  "482": {
+  "movie:482": {
    "backdrop_path": "/bKHTti0HkETmAr24eUVkPWdI5kj.jpg",
    "budget": 1125000,
    "cast": [
@@ -645,7 +645,7 @@
    "vote_average": 6.423,
    "vote_count": 446
   },
-  "92182": {
+  "movie:92182": {
    "backdrop_path": "/imk3oXgLZJg5lcm93jPUukP73fl.jpg",
    "budget": 2000000,
    "cast": [
@@ -817,6 +817,1499 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 469
+  },
+  "tv:125282": {
+   "backdrop_path": "/eVGaiNUPhwKyiuWH6LfNa60JFyQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thony De La Rosa",
+     "n": "Élodie Yung"
+    },
+    {
+     "c": "Luca De La Rosa",
+     "n": "Sebastien LaSalle"
+    },
+    {
+     "c": "Luca De La Rosa",
+     "n": "Valentino LaSalle"
+    },
+    {
+     "c": "",
+     "n": "Eva De Dominici"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Miranda Kwok"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-01-03",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 125282,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 46,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A whip-smart doctor comes to the U.S. for a medical treatment to save her ailing son. But when the system fails and pushes her into hiding, she refuses to be beaten down and marginalized. Instead, she becomes a cleaning lady for the mob and starts playing the game by her own rules.",
+   "popularity": 28.1131,
+   "poster_path": "/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-01-03",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-03-05",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-03-25",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Canceled",
+   "tagline": "It's a dirty business.",
+   "title": "The Cleaning Lady",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.473,
+   "vote_count": 274
+  },
+  "tv:3382": {
+   "backdrop_path": "/jJVfPCkCbXrGOWtzfm1bhQg3HBq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly Garrett",
+     "n": "Jaclyn Smith"
+    },
+    {
+     "c": "Kris Munroe",
+     "n": "Cheryl Ladd"
+    },
+    {
+     "c": "Julie Rogers",
+     "n": "Tanya Roberts"
+    },
+    {
+     "c": "John Bosley",
+     "n": "David Doyle"
+    },
+    {
+     "c": "Charles Townsend (voice)",
+     "n": "John Forsythe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Ivan Goff",
+    "Ben Roberts"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "1976-09-22",
+   "genres": [
+    "Action & Adventure"
+   ],
+   "id": 3382,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 115,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Beautiful, intelligent, and ultra-sophisticated, Charlie's Angels are everything a man could dream of... and way more than they could ever handle! Receiving their orders via speaker phone from their never seen boss, Charlie, the Angels employ their incomparable sleuthing and combat skills, as well as their lethal feminine charm, to crack even the most seemingly insurmountable of cases.",
+   "popularity": 44.0777,
+   "poster_path": "/jxyI5V4LZ5rHDrXv7NpPh4EBCAo.jpg",
+   "production_countries": [
+    "US",
+    "CA",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1976-03-21",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1976-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1977-09-14",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1978-09-13",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1979-09-12",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1980-11-30",
+     "episode_count": 17,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We're the one to turn to.",
+   "title": "Charlie's Angels",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.674,
+   "vote_count": 247
+  },
+  "tv:43982": {
+   "backdrop_path": "/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DS Steve Arnott",
+     "n": "Martin Compston"
+    },
+    {
+     "c": "DC Kate Fleming",
+     "n": "Vicky McClure"
+    },
+    {
+     "c": "SI Ted Hastings",
+     "n": "Adrian Dunbar"
+    },
+    {
+     "c": "Ryan Pilkington",
+     "n": "Gregory Piper"
+    },
+    {
+     "c": "DI Ian Buckells",
+     "n": "Nigel Boyle"
+    },
+    {
+     "c": "DCI Jo Davidson",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Philip Osborne",
+     "n": "Owen Teale"
+    },
+    {
+     "c": "Farida Jatri",
+     "n": "Anneika Rose"
+    },
+    {
+     "c": "Suitor",
+     "n": "Matthew Forsythe"
+    },
+    {
+     "c": "DC Chloë Bishop",
+     "n": "Shalom Brune-Franklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "BBC One",
+   "created_by": [
+    "Jed Mercurio"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2012-06-26",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 43982,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Two"
+   ],
+   "number_of_episodes": 42,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A drama about the investigations of AC-12, a controversial police anticorruption unit.",
+   "popularity": 26.7641,
+   "poster_path": "/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-03-17",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-06-26",
+     "episode_count": 5,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-02-12",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-03-24",
+     "episode_count": 6,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-03-26",
+     "episode_count": 6,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-03-31",
+     "episode_count": 6,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-03-21",
+     "episode_count": 7,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Series 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "If you think catching criminals is tough, try catching police officers.",
+   "title": "Line of Duty",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.216,
+   "vote_count": 507
+  },
+  "tv:4482": {
+   "backdrop_path": "/anpV87sJo2XvZg1IM9Zg31WqHN6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samantha Stephens",
+     "n": "Elizabeth Montgomery"
+    },
+    {
+     "c": "Darrin Stephens",
+     "n": "Dick Sargent"
+    },
+    {
+     "c": "Endora",
+     "n": "Agnes Moorehead"
+    },
+    {
+     "c": "Larry Tate",
+     "n": "David White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "ABC",
+   "created_by": [
+    "Sol Saks"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1964-09-17",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 4482,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 254,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Samantha Stephens is a seemingly normal suburban housewife who also happens to be a genuine witch, with all the requisite magical powers. Her husband Darrin insists that Samantha keep her witchcraft under wraps, but situations invariably require her to indulge her powers while keeping her bothersome mother Endora at bay.",
+   "popularity": 53.4549,
+   "poster_path": "/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "REELZ+ Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1964-09-17",
+     "episode_count": 36,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1965-09-16",
+     "episode_count": 38,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1966-09-15",
+     "episode_count": 33,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1967-09-07",
+     "episode_count": 33,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1968-09-26",
+     "episode_count": 30,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1969-09-18",
+     "episode_count": 30,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1970-09-24",
+     "episode_count": 28,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1971-09-15",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Witches are people too!",
+   "title": "Bewitched",
+   "trailer": {
+    "key": "CyFUZI4228s",
+    "name": "Seasons 3 & 4 | Limited Edition Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 777
+  },
+  "tv:45782": {
+   "backdrop_path": "/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kirito (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    },
+    {
+     "c": "Asuna (voice)",
+     "n": "Haruka Tomatsu"
+    },
+    {
+     "c": "Klein (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Alice Synthesis Thirty (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Silica (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Agil (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Critter (voice",
+     "n": "Isshin Chiba"
+    },
+    {
+     "c": "Selka (voice)",
+     "n": "Kaori Maeda"
+    },
+    {
+     "c": "Iskahn (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Dee Eye Ell (voice)",
+     "n": "Yuhko Kaida"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2012-07-08",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 45782,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "tvk",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
+   "popularity": 47.7085,
+   "poster_path": "/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-10-24",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-07-08",
+     "episode_count": 25,
+     "name": "Sword Art Online",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-07-05",
+     "episode_count": 24,
+     "name": "Sword Art Online II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-10-07",
+     "episode_count": 24,
+     "name": "Sword Art Online Alicization",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-10-13",
+     "episode_count": 23,
+     "name": "Sword Art Online Alicization: War of Underworld",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Blurring the line between the virtual and the real.",
+   "title": "Sword Art Online",
+   "trailer": {
+    "key": "6ohYYtxfDCg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.144,
+   "vote_count": 2207
+  },
+  "tv:7482": {
+   "backdrop_path": "/giluKEg4kEG9QlM2E2lJ4ZjMXVo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nathan Ford",
+     "n": "Timothy Hutton"
+    },
+    {
+     "c": "Sophie Devereaux",
+     "n": "Gina Bellman"
+    },
+    {
+     "c": "Eliot Spencer",
+     "n": "Christian Kane"
+    },
+    {
+     "c": "Parker",
+     "n": "Beth Riesgraf"
+    },
+    {
+     "c": "Alec Hardison",
+     "n": "Aldis Hodge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TNT",
+   "created_by": [
+    "John Rogers",
+    "Chris Downey"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2008-12-07",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 7482,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 77,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A five-person team comprised of a thief, a grifter, a hacker, and a retrieval specialist, led by former insurance investigator Nathan Ford, use their skills to fight corporate and governmental injustices inflicted on ordinary citizens.",
+   "popularity": 24.5748,
+   "poster_path": "/t5KJXooBqJLKUClpvYuSKNrcYGy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-12-07",
+     "episode_count": 28,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-12-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-07-15",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-06-20",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-06-26",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-07-15",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The art of the con",
+   "title": "Leverage",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.556,
+   "vote_count": 461
+  },
+  "tv:82": {
+   "backdrop_path": "/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yakko / Pinky (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Wakko (voice)",
+     "n": "Jess Harnell"
+    },
+    {
+     "c": "Dot (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "The Brain / Squit (voice)",
+     "n": "Maurice LaMarche"
+    },
+    {
+     "c": "Slappy Squirrel (voice)",
+     "n": "Sherri Stoner"
+    },
+    {
+     "c": "Pesto (voice)",
+     "n": "Chick Vennera"
+    },
+    {
+     "c": "Bobby (voice)",
+     "n": "John Mariano"
+    },
+    {
+     "c": "Skippy Squirrel (voice)",
+     "n": "Nathan Ruegger"
+    },
+    {
+     "c": "Mindy (voice)",
+     "n": "Nancy Cartwright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "The WB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-09-13",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Comedy",
+    "Family"
+   ],
+   "id": 82,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "Fox Kids"
+   ],
+   "number_of_episodes": 275,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The two Warner Brothers Yakko and Wakko and their Warner sister Dot had been (supposedly) created in the 1930's, but their cartoons were too screwy for the general public to handle. The three Warners were locked up in the studio water tower until they escaped in the 90's. There, they run wild, causing chaos everywhere!",
+   "popularity": 61.0325,
+   "poster_path": "/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-25",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-09-13",
+     "episode_count": 172,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-10",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-09",
+     "episode_count": 46,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-09-07",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-09-08",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "They're zany to the max!",
+   "title": "Animaniacs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.008,
+   "vote_count": 794
+  },
+  "tv:82782": {
+   "backdrop_path": "/vXPxMNfuapkRXBUhac3LAkuzSzc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jesse Gemstone",
+     "n": "Danny McBride"
+    },
+    {
+     "c": "Kelvin Gemstone",
+     "n": "Adam Devine"
+    },
+    {
+     "c": "Judy Gemstone",
+     "n": "Edi Patterson"
+    },
+    {
+     "c": "Eli Gemstone",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Amber Gemstone",
+     "n": "Cassidy Freeman"
+    },
+    {
+     "c": "Keefe Chambers",
+     "n": "Tony Cavalero"
+    },
+    {
+     "c": "Benjamin Jason 'BJ' Barnes",
+     "n": "Tim Baltz"
+    },
+    {
+     "c": "Gideon Gemstone",
+     "n": "Skyler Gisondo"
+    },
+    {
+     "c": "Martin Imari",
+     "n": "Gregory Alan Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Danny McBride"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-08-18",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 82782,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of a world-famous televangelist family with a history of deviance, greed and, yes, charitable work, all in the name of Jesus.",
+   "popularity": 27.851,
+   "poster_path": "/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-08-18",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-01-09",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-06-18",
+     "episode_count": 9,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-03-09",
+     "episode_count": 9,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Raising holy hell one last time.",
+   "title": "The Righteous Gemstones",
+   "trailer": {
+    "key": "D2m9sP3VqB0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.524,
+   "vote_count": 335
+  },
+  "tv:90282": {
+   "backdrop_path": "/uMsTtNaUEWOE2q64m8zthBIMgen.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Levy",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Bradley Jackson",
+     "n": "Reese Witherspoon"
+    },
+    {
+     "c": "Cory Ellison",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Charlie 'Chip' Black",
+     "n": "Mark Duplass"
+    },
+    {
+     "c": "Mia Jordan",
+     "n": "Karen Pittman"
+    },
+    {
+     "c": "Christina 'Chris' Hunter",
+     "n": "Nicole Beharie"
+    },
+    {
+     "c": "Celine Dumont",
+     "n": "Marion Cotillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Jay Carson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-11-01",
+   "genres": [
+    "Drama"
+   ],
+   "id": 90282,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
+   "popularity": 25.8222,
+   "poster_path": "/y9x2R87yt2U616736NJrP0d56dt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-11-01",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-09-17",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-09-12",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-09-16",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Change is on the air.",
+   "title": "The Morning Show",
+   "trailer": {
+    "key": "iJjp5p51Cow",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 971
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "45",
- "count": 9,
+ "count": 18,
  "titles": {
-  "17845": {
+  "movie:17845": {
    "backdrop_path": "/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg",
    "budget": 3200000,
    "cast": [
@@ -92,7 +92,7 @@
    "vote_average": 6.862,
    "vote_count": 458
   },
-  "1845": {
+  "movie:1845": {
    "backdrop_path": "/jyaCqYH5gLEp0Z9oZJ8nQrQM9pA.jpg",
    "budget": 0,
    "cast": [
@@ -267,7 +267,7 @@
    "vote_average": 6.251,
    "vote_count": 446
   },
-  "336845": {
+  "movie:336845": {
    "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
    "budget": 0,
    "cast": [
@@ -368,7 +368,7 @@
    "vote_average": 7.275,
    "vote_count": 453
   },
-  "351145": {
+  "movie:351145": {
    "backdrop_path": "/g1AKuu59k5tC9Cukjns0VmH1wiI.jpg",
    "budget": 4670099,
    "cast": [
@@ -519,7 +519,7 @@
    "vote_average": 6.706,
    "vote_count": 478
   },
-  "365045": {
+  "movie:365045": {
    "backdrop_path": "/1PlM2EeieSZPJ9jrM5XYIJyoRRL.jpg",
    "budget": 8800000,
    "cast": [
@@ -702,7 +702,7 @@
    "vote_average": 7.27,
    "vote_count": 455
   },
-  "43645": {
+  "movie:43645": {
    "backdrop_path": "/cpoCmsmKGsqxwSRPWFKegZbmoQz.jpg",
    "budget": 0,
    "cast": [
@@ -791,7 +791,7 @@
    "vote_average": 6.723,
    "vote_count": 444
   },
-  "489245": {
+  "movie:489245": {
    "backdrop_path": "/O7GlRZ6nN1rqUXSkHbnXGjn6nl.jpg",
    "budget": 0,
    "cast": [
@@ -948,7 +948,7 @@
    "vote_average": 6.5,
    "vote_count": 444
   },
-  "74945": {
+  "movie:74945": {
    "backdrop_path": "/swdekl4vQJ0LOnjSZcmKUIUz26S.jpg",
    "budget": 0,
    "cast": [
@@ -1056,7 +1056,7 @@
    "vote_average": 5.945,
    "vote_count": 481
   },
-  "800345": {
+  "movie:800345": {
    "backdrop_path": "/nHWr40LGgyxymEhZCOA2WHATPpn.jpg",
    "budget": 0,
    "cast": [
@@ -1164,6 +1164,1696 @@
    "type": "movie",
    "vote_average": 5.963,
    "vote_count": 451
+  },
+  "tv:10545": {
+   "backdrop_path": "/nGhC6P0lgcrY57NRB9nweu4nWaK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sookie Stackhouse",
+     "n": "Anna Paquin"
+    },
+    {
+     "c": "Bill Compton",
+     "n": "Stephen Moyer"
+    },
+    {
+     "c": "Eric Northman",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Sam Merlotte",
+     "n": "Sam Trammell"
+    },
+    {
+     "c": "Jason Stackhouse",
+     "n": "Ryan Kwanten"
+    },
+    {
+     "c": "Lafayette Reynolds",
+     "n": "Nelsan Ellis"
+    },
+    {
+     "c": "Arlene Fowler",
+     "n": "Carrie Preston"
+    },
+    {
+     "c": "Tara Thornton",
+     "n": "Rutina Wesley"
+    },
+    {
+     "c": "Lettie Mae Thornton",
+     "n": "Adina Porter"
+    },
+    {
+     "c": "Andy Bellefleur",
+     "n": "Chris Bauer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "Alan Ball"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60,
+    52
+   ],
+   "first_air_date": "2008-09-07",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 10545,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 80,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thanks to a Japanese scientist's invention of synthetic blood, vampires have progressed overnight from legendary monsters to fellow citizens. And while humans have been safely removed from the menu, many remain apprehensive about these creatures \"coming out of the coffin.\" Religious leaders, government officials, and vampire fundamentalists around the world have chosen their sides.  But in the small Louisiana town of Bon Temps, the jury is still out.",
+   "popularity": 46.4701,
+   "poster_path": "/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg",
+   "production_countries": [
+    "SG",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-06-16",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-06-14",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-06-13",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-06-26",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-06-10",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-06-16",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-06-22",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Thou shall not crave thy neighbor.",
+   "title": "True Blood",
+   "trailer": {
+    "key": "3Wk3HSiX-vQ",
+    "name": "Official HBO UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.606,
+   "vote_count": 2182
+  },
+  "tv:115645": {
+   "backdrop_path": "/k8rqfo7RWsaILRdXIfpEJcuG1lT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "José do Egito",
+     "n": "Juliano Laham"
+    },
+    {
+     "c": "Zilpa",
+     "n": "Ingra Lyberato"
+    },
+    {
+     "c": "Lia",
+     "n": "Daniela Escobar"
+    },
+    {
+     "c": "Azenate",
+     "n": "Letícia Almeida"
+    },
+    {
+     "c": "Jacó / Israel",
+     "n": "Petrônio Gontijo"
+    },
+    {
+     "c": "Judá de Israel",
+     "n": "Thiago Rodrigues"
+    },
+    {
+     "c": "Miguel",
+     "n": "Paulo Dalagnoli"
+    },
+    {
+     "c": "Bila",
+     "n": "Patrícia França"
+    },
+    {
+     "c": "Aolibama",
+     "n": "Dani Moreno"
+    },
+    {
+     "c": "Judite",
+     "n": "Juliana Lohmann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Record",
+   "created_by": [
+    "Camilo Pellegrini",
+    "Raphaela Castro",
+    "Stephanie Ribeiro"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-01-19",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 115645,
+   "industry": "world",
+   "networks": [
+    "Record"
+   ],
+   "number_of_episodes": 226,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "The story of the first 2,300 years of humanity and recounts events exclusively from that period. The plot begins by giving us a greater understanding of why we exist and how we turned from perfection to imperfection. The origin of all social and racial problems is there at the beginning of everything, when via one decision a human being who only knew good and enjoyed it so much also chose to know evil.",
+   "popularity": 37.1466,
+   "poster_path": "/qZJt1XlRVbQhGV7MtZnbiR6vxPh.jpg",
+   "production_countries": [
+    "BR",
+    "MA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-23",
+     "episode_count": 21,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-01-19",
+     "episode_count": 226,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "To understand the present, we have to go back to the beginning of everything…",
+   "title": "Genesis",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.051,
+   "vote_count": 255
+  },
+  "tv:2345": {
+   "backdrop_path": "/olYeeEi5aa197P0s8ETXyriP9Ih.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Possible (voice)",
+     "n": "Christy Carlson Romano"
+    },
+    {
+     "c": "Ron Stoppable (voice)",
+     "n": "Will Friedle"
+    },
+    {
+     "c": "Rufus (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Wade Load (voice)",
+     "n": "Tahj Mowry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Mark McCorkle",
+    "Bob Schooley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2002-06-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 2345,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 86,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
+   "popularity": 33.6063,
+   "poster_path": "/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-11-28",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-06-07",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-07-18",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-09-25",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-02-10",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What's the sitch?",
+   "title": "Kim Possible",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.514,
+   "vote_count": 593
+  },
+  "tv:2745": {
+   "backdrop_path": "/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aladdin (voice)",
+     "n": "Scott Weinger"
+    },
+    {
+     "c": "Jasmine (voice)",
+     "n": "Linda Larkin"
+    },
+    {
+     "c": "Genie (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Iago (voice)",
+     "n": "Gilbert Gottfried"
+    },
+    {
+     "c": "Abu (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Sultan (voice)",
+     "n": "Val Bettin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1994-02-06",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 2745,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "Disney Channel",
+    "Syndication"
+   ],
+   "number_of_episodes": 86,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Coming on the heels of the direct-to-video sequel The Return of Jafar, the series picked up where that installment left off, with Aladdin now living in the palace, engaged to beautiful and spunky Princess Jasmine. \"Al\" and Jasmine went together into peril among sorcerers, monsters, thieves, and more. Monkey sidekick Abu, the animated Magic Carpet, and the fast-talking, shape-shifting Genie came along to help, as did sassy, complaining parrot Iago, formerly Jafar’s pet but now an antihero.",
+   "popularity": 23.4347,
+   "poster_path": "/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1994-02-06",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-09-05",
+     "episode_count": 69,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-16",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Aladdin",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.037,
+   "vote_count": 392
+  },
+  "tv:27845": {
+   "backdrop_path": "/7apk7MDXON2zZ2ntXgaIusHrUNa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sakuno Ryūzaki (voice)",
+     "n": "Mikako Takahashi"
+    },
+    {
+     "c": "Ryōma Echizen (voice)",
+     "n": "Junko Minagawa"
+    },
+    {
+     "c": "Eiji Kikumaru (voice)",
+     "n": "Hiroki Takahashi"
+    },
+    {
+     "c": "Takashi Kawamura (voice)",
+     "n": "Naru Kawamoto"
+    },
+    {
+     "c": "Shūsuke Fuji (voice)",
+     "n": "Yuki Kaida"
+    },
+    {
+     "c": "Shūichirō Ōishi (voice), Takaya Nomura (voice), Tatsunori Mori (voice)",
+     "n": "Takayuki Kondo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2001-10-10",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 27845,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 178,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Tennis prodigiy Ryoma Echizen enters the tennis powerhouse Seishun Academy. Once he fights his way onto the team, the game will never be the same.",
+   "popularity": 29.4322,
+   "poster_path": "/atwLUO5yHwMteP9TcW1LQSbWyqA.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-12-21",
+     "episode_count": 54,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-10-10",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-04-17",
+     "episode_count": 27,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-10-23",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-04-09",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-10-01",
+     "episode_count": 27,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-04-14",
+     "episode_count": 37,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-01-12",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Prince of Tennis",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.373,
+   "vote_count": 153
+  },
+  "tv:3845": {
+   "backdrop_path": "/lyAx1XlcrPaenfwvSYnOl4h4WMk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arthur Fonzarelli",
+     "n": "Henry Winkler"
+    },
+    {
+     "c": "Howard Cunningham",
+     "n": "Tom Bosley"
+    },
+    {
+     "c": "Marion Cunningham",
+     "n": "Marion Ross"
+    },
+    {
+     "c": "Potsie Weber",
+     "n": "Anson Williams"
+    },
+    {
+     "c": "Chachi Arcola",
+     "n": "Scott Baio"
+    },
+    {
+     "c": "Roger Phillips",
+     "n": "Ted McGinley"
+    },
+    {
+     "c": "Joanie Cunningham",
+     "n": "Erin Moran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "ABC",
+   "created_by": [
+    "Garry Marshall"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22,
+    30
+   ],
+   "first_air_date": "1974-01-15",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 3845,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 252,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1950s Milwaukee the Cunningham family must contend with Fonzie, a motorcycle riding Casanova.",
+   "popularity": 47.6617,
+   "poster_path": "/sepIwNPCEhkKvFOQSjXK6tekkjR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1976-01-12",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1974-01-15",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1974-09-10",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1975-09-09",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1976-09-21",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1977-09-13",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1978-09-12",
+     "episode_count": 27,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1979-09-11",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1980-11-11",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1981-10-06",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1982-09-28",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1983-09-27",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Those were the days of the 1950's...filled with innocence and the promise of even better days to come.",
+   "title": "Happy Days",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.647,
+   "vote_count": 330
+  },
+  "tv:45": {
+   "backdrop_path": "/bJROfBstoARn6vOqqPylYLpGYDH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Chris Harris"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Paddy McGuinness"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Andrew Flintoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "BBC One",
+   "created_by": [
+    "Andy Wilman",
+    "Jeremy Clarkson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2002-10-20",
+   "genres": [
+    "Reality",
+    "Talk"
+   ],
+   "id": 45,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Two"
+   ],
+   "number_of_episodes": 218,
+   "number_of_seasons": 33,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy McGuinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
+   "popularity": 56.2011,
+   "poster_path": "/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "HISTORY Vault Apple TV channel"
+    },
+    {
+     "name": "HISTORY Vault Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Xive TV Documentaries Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-01-29",
+     "episode_count": 104,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-10-20",
+     "episode_count": 10,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-05-11",
+     "episode_count": 10,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-10-26",
+     "episode_count": 9,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-05-09",
+     "episode_count": 10,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-10-24",
+     "episode_count": 9,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2005-05-22",
+     "episode_count": 11,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-11-13",
+     "episode_count": 7,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2006-05-07",
+     "episode_count": 8,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2007-01-28",
+     "episode_count": 6,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2007-10-07",
+     "episode_count": 10,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2008-06-22",
+     "episode_count": 6,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2008-11-02",
+     "episode_count": 8,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2009-06-21",
+     "episode_count": 7,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2009-11-15",
+     "episode_count": 7,
+     "name": "Series 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2010-06-27",
+     "episode_count": 6,
+     "name": "Series 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2011-01-23",
+     "episode_count": 6,
+     "name": "Series 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2011-06-26",
+     "episode_count": 6,
+     "name": "Series 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2012-01-29",
+     "episode_count": 7,
+     "name": "Series 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2013-01-27",
+     "episode_count": 7,
+     "name": "Series 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2013-06-30",
+     "episode_count": 6,
+     "name": "Series 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2014-02-02",
+     "episode_count": 7,
+     "name": "Series 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2015-01-25",
+     "episode_count": 8,
+     "name": "Series 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2016-05-29",
+     "episode_count": 6,
+     "name": "Series 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2017-03-05",
+     "episode_count": 7,
+     "name": "Series 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2018-02-25",
+     "episode_count": 6,
+     "name": "Series 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2019-02-17",
+     "episode_count": 5,
+     "name": "Series 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2019-06-16",
+     "episode_count": 5,
+     "name": "Series 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2020-01-26",
+     "episode_count": 6,
+     "name": "Series 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2020-10-04",
+     "episode_count": 5,
+     "name": "Series 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2021-03-14",
+     "episode_count": 4,
+     "name": "Series 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2021-11-14",
+     "episode_count": 5,
+     "name": "Series 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2022-06-05",
+     "episode_count": 5,
+     "name": "Series 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2022-10-30",
+     "episode_count": 5,
+     "name": "Series 33",
+     "season_number": 33
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The world’s biggest motoring show.",
+   "title": "Top Gear",
+   "trailer": {
+    "key": "BF-ZjLJiy5s",
+    "name": "Top Gear Series 27 | Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.605,
+   "vote_count": 943
+  },
+  "tv:61345": {
+   "backdrop_path": "/pYErfWWb52zq9QQFoZ0Qeoo5Yz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Murphy",
+     "n": "Keith Allan"
+    },
+    {
+     "c": "Roberta Warren",
+     "n": "Kellita Smith"
+    },
+    {
+     "c": "Addy Carver",
+     "n": "Anastasia Baranova"
+    },
+    {
+     "c": "10K",
+     "n": "Nat Zang"
+    },
+    {
+     "c": "Doc",
+     "n": "Russell Hodgkinson"
+    },
+    {
+     "c": "Georgia 'George' St. Clair",
+     "n": "Katy O'Brian"
+    },
+    {
+     "c": "Sgt. Lilley",
+     "n": "Gracie Gillam"
+    },
+    {
+     "c": "Citizen Z",
+     "n": "DJ Qualls"
+    },
+    {
+     "c": "Kaya",
+     "n": "Ramona Young"
+    },
+    {
+     "c": "Lucy Murphy",
+     "n": "Tara Holt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Syfy",
+   "created_by": [
+    "Karl Schaefer",
+    "Craig Engler"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-09-12",
+   "genres": [
+    "Mystery",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 61345,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 68,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.",
+   "popularity": 24.6635,
+   "poster_path": "/gXfeDMkEcHoYBvtkbU11g3F81b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-12",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-11",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-16",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-29",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-10-05",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Z Nation",
+   "trailer": {
+    "key": "aRnGA9iZdRA",
+    "name": "Z Nation: Super Tease | Season 1 | SYFY",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.251,
+   "vote_count": 1000
+  },
+  "tv:97645": {
+   "backdrop_path": "/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Korvo (voice)",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Terry (voice)",
+     "n": "Thomas Middleditch"
+    },
+    {
+     "c": "Yumyulack (voice)",
+     "n": "Sean Giambrone"
+    },
+    {
+     "c": "Jesse (voice)",
+     "n": "Mary Mack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Hulu",
+   "created_by": [
+    "Mike McMahan",
+    "Justin Roiland"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-05-08",
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 97645,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family of aliens from a much better world must take refuge in middle America after the destruction of their planet. Their mission: protect the Pupa, a living super computer that will one day evolve into its true form, consume them and terraform the Earth.",
+   "popularity": 28.6211,
+   "poster_path": "/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-05-20",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-05-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-03-26",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-07-13",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-08-14",
+     "episode_count": 11,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-08-12",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-10-13",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Buckle up for another crazy ride.",
+   "title": "Solar Opposites",
+   "trailer": {
+    "key": "sMDb4ewturw",
+    "name": "Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.777,
+   "vote_count": 691
   }
  }
 }

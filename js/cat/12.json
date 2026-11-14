@@ -1,8 +1,8 @@
 {
  "bucket": "12",
- "count": 11,
+ "count": 20,
  "titles": {
-  "118412": {
+  "movie:118412": {
    "backdrop_path": "/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
    "budget": 0,
    "cast": [
@@ -98,7 +98,7 @@
    "vote_average": 7.311,
    "vote_count": 487
   },
-  "12912": {
+  "movie:12912": {
    "backdrop_path": "/41jcP1qLW6dxr2FYaaW5jSERVPR.jpg",
    "budget": 0,
    "cast": [
@@ -202,7 +202,7 @@
    "vote_average": 6.4,
    "vote_count": 490
   },
-  "18912": {
+  "movie:18912": {
    "backdrop_path": "/jn5LRTCl8zR0jsV2Pf04WyhMcHZ.jpg",
    "budget": 472000,
    "cast": [
@@ -328,7 +328,7 @@
    "vote_average": 7.0,
    "vote_count": 456
   },
-  "2212": {
+  "movie:2212": {
    "backdrop_path": "/zn5hHgu7J3YzB6Wjab2o0veuAZI.jpg",
    "budget": 10000000,
    "cast": [
@@ -433,7 +433,7 @@
    "vote_average": 6.095,
    "vote_count": 465
   },
-  "330112": {
+  "movie:330112": {
    "backdrop_path": "/21IMO1CC5V6VuHoM7MSg3pr61DA.jpg",
    "budget": 0,
    "cast": [
@@ -534,7 +534,7 @@
    "vote_average": 6.2,
    "vote_count": 478
   },
-  "367412": {
+  "movie:367412": {
    "backdrop_path": "/sO70LyX3CHDNimbUwdGqL6pjrD3.jpg",
    "budget": 0,
    "cast": [
@@ -623,7 +623,7 @@
    "vote_average": 7.775,
    "vote_count": 447
   },
-  "553512": {
+  "movie:553512": {
    "backdrop_path": "/aQ7444JX7gefPhGJTlvilj3zG2S.jpg",
    "budget": 0,
    "cast": [
@@ -701,7 +701,7 @@
    "vote_average": 8.3,
    "vote_count": 437
   },
-  "56812": {
+  "movie:56812": {
    "backdrop_path": "/otJG0ohrujK1ZQoD7Xuv1uQrpxQ.jpg",
    "budget": 7000000,
    "cast": [
@@ -896,7 +896,7 @@
    "vote_average": 6.68,
    "vote_count": 465
   },
-  "7012": {
+  "movie:7012": {
    "backdrop_path": "/AfBGTLp9JtsWNUJC6rP1U1XCPCE.jpg",
    "budget": 0,
    "cast": [
@@ -986,7 +986,7 @@
    "vote_average": 6.8,
    "vote_count": 475
   },
-  "8512": {
+  "movie:8512": {
    "backdrop_path": "/n6SFCz0OsyZ800ZSlaD5WpNmqCj.jpg",
    "budget": 27000000,
    "cast": [
@@ -1113,7 +1113,7 @@
    "vote_average": 6.46,
    "vote_count": 488
   },
-  "86812": {
+  "movie:86812": {
    "backdrop_path": "/xEm9JBfXdQyVvJ2FEEpzZIICZBc.jpg",
    "budget": 0,
    "cast": [
@@ -1287,6 +1287,1725 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 449
+  },
+  "tv:1412": {
+   "backdrop_path": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oliver Queen / Green Arrow",
+     "n": "Stephen Amell"
+    },
+    {
+     "c": "John Diggle / Spartan",
+     "n": "David Ramsey"
+    },
+    {
+     "c": "Rene Ramirez / Wild Dog",
+     "n": "Rick Gonzalez"
+    },
+    {
+     "c": "Dinah Drake / Black Canary",
+     "n": "Juliana Harkavy"
+    },
+    {
+     "c": "Mia Smoak / Blackstar",
+     "n": "Katherine McNamara"
+    },
+    {
+     "c": "Adult William Clayton",
+     "n": "Ben Lewis"
+    },
+    {
+     "c": "Connor Hawke",
+     "n": "Joseph David-Jones"
+    },
+    {
+     "c": "Laurel Lance / Black Canary",
+     "n": "Katie Cassidy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Andrew Kreisberg",
+    "Greg Berlanti",
+    "Marc Guggenheim"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-10-10",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 1412,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 170,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+   "popularity": 88.9902,
+   "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-10-02",
+     "episode_count": 41,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-10-10",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-10-09",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-10-08",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-10-07",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-10-05",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-10-12",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-10-15",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-10-15",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Heroes fall. Legends rise.",
+   "title": "Arrow",
+   "trailer": {
+    "key": "QLVHmovfMQI",
+    "name": "Arrow - Comic-Con 2017 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.835,
+   "vote_count": 6550
+  },
+  "tv:153312": {
+   "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dwight 'The General' Manfredi",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Lawrence 'Bodhi' Geigerman",
+     "n": "Martin Starr"
+    },
+    {
+     "c": "Tyson Mitchell",
+     "n": "Jay Will"
+    },
+    {
+     "c": "Vince Antonacci",
+     "n": "Vincent Piazza"
+    },
+    {
+     "c": "Joanne",
+     "n": "Annabella Sciorra"
+    },
+    {
+     "c": "Goodie Carangi",
+     "n": "Chris Caldovino"
+    },
+    {
+     "c": "Grace",
+     "n": "McKenna Quigley Harrington"
+    },
+    {
+     "c": "Bill Bevilaqua",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Bigfoot",
+     "n": "Michael Walden"
+    },
+    {
+     "c": "Quiet Ray Renzetti",
+     "n": "James Russo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Paramount+",
+   "created_by": [
+    "Taylor Sheridan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-11-13",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 153312,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "popularity": 241.7489,
+   "poster_path": "/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-11-11",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-11-13",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-09-15",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-09-21",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-10-16",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Storms break. Kings don't.",
+   "title": "Tulsa King",
+   "trailer": {
+    "key": "aaQSScwZPbA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.32,
+   "vote_count": 2949
+  },
+  "tv:2612": {
+   "backdrop_path": "/qdVdWLUAj9Xxrx0OIT76gWVI4fg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Bill \"Wild Bill\" Wichrowski"
+    },
+    {
+     "c": "Self",
+     "n": "Keith Colburn"
+    },
+    {
+     "c": "Self",
+     "n": "Sig Hansen"
+    },
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Mike Rowe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Discovery",
+   "created_by": [
+    "Thom Beers"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-04-12",
+   "genres": [
+    "Reality"
+   ],
+   "id": 2612,
+   "industry": "world",
+   "networks": [
+    "Discovery"
+   ],
+   "number_of_episodes": 386,
+   "number_of_seasons": 22,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+   "popularity": 28.2445,
+   "poster_path": "/aqF7wHfA2n89zbBqG6DLuDjrHut.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Discovery"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery +"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-03-26",
+     "episode_count": 81,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-04-12",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-03-28",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-04-03",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-04-15",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-04-14",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-04-13",
+     "episode_count": 17,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-04-12",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2012-04-10",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2013-04-16",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2014-04-22",
+     "episode_count": 16,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-04-14",
+     "episode_count": 18,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2016-03-29",
+     "episode_count": 18,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2017-04-11",
+     "episode_count": 19,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2018-04-10",
+     "episode_count": 19,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2019-04-09",
+     "episode_count": 21,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2020-04-14",
+     "episode_count": 23,
+     "name": "Season 16 - A New Cold War",
+     "season_number": 16
+    },
+    {
+     "air_date": "2021-04-20",
+     "episode_count": 22,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2022-04-19",
+     "episode_count": 23,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2023-04-18",
+     "episode_count": 22,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2024-06-11",
+     "episode_count": 19,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2025-08-01",
+     "episode_count": 16,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2026-05-08",
+     "episode_count": 19,
+     "name": "Season 22",
+     "season_number": 22
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Deadliest Catch",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 181
+  },
+  "tv:2912": {
+   "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Ken Jennings"
+    },
+    {
+     "c": "Self - Announcer (voice)",
+     "n": "Johnny Gilbert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Syndication",
+   "created_by": [
+    "Merv Griffin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1984-09-10",
+   "genres": [
+    "Reality",
+    "Family"
+   ],
+   "id": 2912,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 9423,
+   "number_of_seasons": 43,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+   "popularity": 122.7423,
+   "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1983-09-18",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-09-10",
+     "episode_count": 162,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-09",
+     "episode_count": 194,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-08",
+     "episode_count": 231,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-07",
+     "episode_count": 220,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-09-05",
+     "episode_count": 215,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1989-09-04",
+     "episode_count": 201,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1990-09-03",
+     "episode_count": 212,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1991-09-02",
+     "episode_count": 194,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1992-09-07",
+     "episode_count": 229,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1993-09-06",
+     "episode_count": 230,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1994-09-05",
+     "episode_count": 213,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1995-09-04",
+     "episode_count": 229,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1996-09-02",
+     "episode_count": 218,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1997-09-01",
+     "episode_count": 230,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1998-09-07",
+     "episode_count": 230,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1999-09-06",
+     "episode_count": 230,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2000-09-04",
+     "episode_count": 230,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2001-09-03",
+     "episode_count": 229,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2002-09-02",
+     "episode_count": 230,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2003-09-08",
+     "episode_count": 230,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2004-09-06",
+     "episode_count": 230,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2005-09-12",
+     "episode_count": 230,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2006-09-11",
+     "episode_count": 230,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2007-09-10",
+     "episode_count": 230,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2008-09-08",
+     "episode_count": 230,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2009-09-14",
+     "episode_count": 230,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2010-09-13",
+     "episode_count": 230,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 230,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2012-09-17",
+     "episode_count": 230,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2013-09-16",
+     "episode_count": 230,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2014-09-15",
+     "episode_count": 230,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2015-09-14",
+     "episode_count": 230,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2016-09-12",
+     "episode_count": 230,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2017-09-11",
+     "episode_count": 230,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2018-09-10",
+     "episode_count": 230,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2019-09-09",
+     "episode_count": 190,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2020-09-14",
+     "episode_count": 230,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2021-09-13",
+     "episode_count": 230,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2022-09-12",
+     "episode_count": 230,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2023-09-11",
+     "episode_count": 236,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2024-09-09",
+     "episode_count": 230,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2025-09-08",
+     "episode_count": 230,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2026-09-14",
+     "episode_count": 45,
+     "name": "Season 43",
+     "season_number": 43
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Jeopardy!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.908,
+   "vote_count": 168
+  },
+  "tv:42912": {
+   "backdrop_path": "/zhtEYosjlYtNavbvImxcs36We4i.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "松风天马",
+     "n": "Yuka Terasaki"
+    },
+    {
+     "c": "剑城京介",
+     "n": "Takashi Oohara"
+    },
+    {
+     "c": "神童拓人",
+     "n": "Mitsuki Saiga"
+    },
+    {
+     "c": "雾野兰丸",
+     "n": "Yu Kobayashi"
+    },
+    {
+     "c": "野咲 樱",
+     "n": "Aya Endo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [
+    "Yoshikazu Miyao"
+   ],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2008-10-05",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 42912,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 268,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Mamoru Endou is a cheerful goalkeeper in Raimon Jr High, with six other players in the team. But there was a day when the team was almost lead to disbandment by Natsumi unless they are able to win the match against the Teikoku Gakuen, currently the best team in Japan. He tried to save the club by gathering four more players to join the team.",
+   "popularity": 53.5163,
+   "poster_path": "/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-07",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-10-05",
+     "episode_count": 127,
+     "name": "Inazuma Eleven",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-05-04",
+     "episode_count": 47,
+     "name": "Inazuma Eleven GO",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-04-18",
+     "episode_count": 51,
+     "name": "Inazuma Eleven GO: Chrono Stone",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-05-08",
+     "episode_count": 43,
+     "name": "Inazuma Eleven GO: Galaxy",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Inazuma Eleven",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 322
+  },
+  "tv:50712": {
+   "backdrop_path": "/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sebastian Michaelis (voice)",
+     "n": "Daisuke Ono"
+    },
+    {
+     "c": "Ciel Phantomhive (voice)",
+     "n": "Maaya Sakamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2008-10-02",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 50712,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "AT-X",
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 70,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In Victorian London, 12-year-old business magnate Ciel Phantomhive thwarts dangers to the queen as he's watched over by his demon butler, Sebastian.",
+   "popularity": 33.2869,
+   "poster_path": "/iXGs130TRoUplHf0o86zp9MqAYc.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-01-09",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-10-02",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-07-02",
+     "episode_count": 12,
+     "name": "Black Butler II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-07-11",
+     "episode_count": 10,
+     "name": "Book of Circus",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-04-13",
+     "episode_count": 11,
+     "name": "Public School Arc",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-04-05",
+     "episode_count": 13,
+     "name": "Emerald Witch Arc",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Black Butler",
+   "trailer": {
+    "key": "EoipHZFNXv0",
+    "name": "Black Butler Complete Blu-ray Set Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.794,
+   "vote_count": 298
+  },
+  "tv:512": {
+   "backdrop_path": "/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tyrone Davis Jr.",
+     "n": "Coby Bell"
+    },
+    {
+     "c": "Sasha Monroe",
+     "n": "Nia Long"
+    },
+    {
+     "c": "Faith Yokas",
+     "n": "Molly Price"
+    },
+    {
+     "c": "Carlos Nieto",
+     "n": "Anthony Ruivivar"
+    },
+    {
+     "c": "John Sullivan",
+     "n": "Skipp Sudduth"
+    },
+    {
+     "c": "Maritza Cruz",
+     "n": "Tia Texada"
+    },
+    {
+     "c": "Maurice Boscorelli",
+     "n": "Jason Wiles"
+    },
+    {
+     "c": "Grace Foster",
+     "n": "Cara Buono"
+    },
+    {
+     "c": "Brendan Finney",
+     "n": "Josh Stewart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "John Wells",
+    "Edward Allen Bernero"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "1999-09-23",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 512,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 131,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The exploits of a group of men and women who serve the City of New York as police officers, firemen, and paramedics, all working the same fictional 55th precinct during the 3pm to 11pm shift - the 'Third Watch'.",
+   "popularity": 46.1763,
+   "poster_path": "/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-10-15",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-09-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-10-02",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-10-22",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-09-30",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-09-29",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-09-17",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Third Watch",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 241
+  },
+  "tv:71712": {
+   "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Shaun Murphy",
+     "n": "Freddie Highmore"
+    },
+    {
+     "c": "Dr. Morgan Reznick",
+     "n": "Fiona Gubelmann"
+    },
+    {
+     "c": "Dr. Alex Park",
+     "n": "Will Yun Lee"
+    },
+    {
+     "c": "Dr. Audrey Lim",
+     "n": "Christina Chang"
+    },
+    {
+     "c": "Lea Dilallo",
+     "n": "Paige Spara"
+    },
+    {
+     "c": "Dr. Jordan Allen",
+     "n": "Bria Samoné Henderson"
+    },
+    {
+     "c": "Dr. Asher Wolke",
+     "n": "Noah Galvin"
+    },
+    {
+     "c": "Dr. Jared Kalu",
+     "n": "Chuku Modu"
+    },
+    {
+     "c": "Dr. Aaron Glassman",
+     "n": "Richard Schiff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "David Shore"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-09-25",
+   "genres": [
+    "Drama"
+   ],
+   "id": 71712,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 126,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+   "popularity": 84.7274,
+   "poster_path": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-09-23",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-09-22",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-11-02",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-09-27",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-10-02",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-02-20",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Everyone operates differently.",
+   "title": "The Good Doctor",
+   "trailer": {
+    "key": "lnY9FWUTY84",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 12980
+  },
+  "tv:71912": {
+   "backdrop_path": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Geralt of Rivia",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Yennefer of Vengerberg",
+     "n": "Anya Chalotra"
+    },
+    {
+     "c": "Princess Cirilla 'Ciri' of Cintra",
+     "n": "Freya Allan"
+    },
+    {
+     "c": "Jaskier / The Sandpiper",
+     "n": "Joey Batey"
+    },
+    {
+     "c": "Cahir",
+     "n": "Eamon Farren"
+    },
+    {
+     "c": "Fringilla Vigo",
+     "n": "Mimî M. Khayisa"
+    },
+    {
+     "c": "Triss Merigold",
+     "n": "Anna Shaffer"
+    },
+    {
+     "c": "Vilgefortz of Roggeveen",
+     "n": "Mahesh Jadu"
+    },
+    {
+     "c": "Milva",
+     "n": "Zhang Meng'er"
+    },
+    {
+     "c": "Zoltan Chivay",
+     "n": "Danny Woodburn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Lauren Schmidt Hissrich"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-12-20",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 71912,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+   "popularity": 46.3903,
+   "poster_path": "/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+   "production_countries": [
+    "US",
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-12-20",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-12-17",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-06-29",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-10-30",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Destiny is a beast.",
+   "title": "The Witcher",
+   "trailer": {
+    "key": "eb90gqGYP9c",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.878,
+   "vote_count": 7018
   }
  }
 }

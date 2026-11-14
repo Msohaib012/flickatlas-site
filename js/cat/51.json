@@ -1,8 +1,8 @@
 {
  "bucket": "51",
- "count": 7,
+ "count": 15,
  "titles": {
-  "10951": {
+  "movie:10951": {
    "backdrop_path": "/3OAB1xYywss9szLG34YzHkC00Wk.jpg",
    "budget": 0,
    "cast": [
@@ -143,7 +143,7 @@
    "vote_average": 6.5,
    "vote_count": 455
   },
-  "12151": {
+  "movie:12151": {
    "backdrop_path": "/pLuVm0Y37m2uuztLoaQbfimipqN.jpg",
    "budget": 11000000,
    "cast": [
@@ -246,7 +246,7 @@
    "vote_average": 6.59,
    "vote_count": 472
   },
-  "12651": {
+  "movie:12651": {
    "backdrop_path": "/8kVhN0OC5AmdHJJ1BxKCakZhvQO.jpg",
    "budget": 23000000,
    "cast": [
@@ -350,7 +350,7 @@
    "vote_average": 6.764,
    "vote_count": 462
   },
-  "364051": {
+  "movie:364051": {
    "backdrop_path": "/1lafNmLIrcWXHlASKmyo2sEAIOu.jpg",
    "budget": 0,
    "cast": [
@@ -586,7 +586,7 @@
    "vote_average": 7.064,
    "vote_count": 436
   },
-  "539651": {
+  "movie:539651": {
    "backdrop_path": "/2JMG17kxeq1w88oHUkesxpIHmTZ.jpg",
    "budget": 5000000,
    "cast": [
@@ -701,7 +701,7 @@
    "vote_average": 6.931,
    "vote_count": 486
   },
-  "621151": {
+  "movie:621151": {
    "backdrop_path": "/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
    "budget": 0,
    "cast": [
@@ -831,7 +831,7 @@
    "vote_average": 6.365,
    "vote_count": 477
   },
-  "829051": {
+  "movie:829051": {
    "backdrop_path": "/5pNH4IvHu4A0Fhbtecklw3QFYyY.jpg",
    "budget": 29100000,
    "cast": [
@@ -966,6 +966,1416 @@
    "type": "movie",
    "vote_average": 6.045,
    "vote_count": 444
+  },
+  "tv:119051": {
+   "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wednesday Addams",
+     "n": "Jenna Ortega"
+    },
+    {
+     "c": "Barry Dort",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Enid Sinclair",
+     "n": "Emma Myers"
+    },
+    {
+     "c": "Tyler Galpin",
+     "n": "Hunter Doohan"
+    },
+    {
+     "c": "Bianca Barclay",
+     "n": "Joy Sunday"
+    },
+    {
+     "c": "Eugene Ottinger",
+     "n": "Moosa Mostafa"
+    },
+    {
+     "c": "Ajax Petropolus",
+     "n": "Georgie Farmer"
+    },
+    {
+     "c": "Pugsley Addams",
+     "n": "Isaac Ordonez"
+    },
+    {
+     "c": "Slurp / Isaac Night",
+     "n": "Owen Painter"
+    },
+    {
+     "c": "Isadora Capri",
+     "n": "Billie Piper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Miles Millar",
+    "Alfred Gough"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-11-23",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 119051,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+   "popularity": 49.4612,
+   "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-11-23",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-08-06",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The wait has been torture.",
+   "title": "Wednesday",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.324,
+   "vote_count": 10968
+  },
+  "tv:2251": {
+   "backdrop_path": "/8Y8vn9feCVUoJRXpWK6xno5VrUz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Reiger",
+     "n": "Judd Hirsch"
+    },
+    {
+     "c": "Louie De Palma",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Elaine O'Connor-Nardo",
+     "n": "Marilu Henner"
+    },
+    {
+     "c": "Tony Banta",
+     "n": "Tony Danza"
+    },
+    {
+     "c": "Latka Gravas",
+     "n": "Andy Kaufman"
+    },
+    {
+     "c": "Jim Ignatowski",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Simka Gravas",
+     "n": "Carol Kane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Stan Daniels",
+    "Ed. Weinberger",
+    "James L. Brooks",
+    "David Davis"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30,
+    24
+   ],
+   "first_air_date": "1978-09-12",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 2251,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "NBC"
+   ],
+   "number_of_episodes": 114,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Louie De Palma is a cantankerous, acerbic taxi dispatcher in New York City. He tries to maintain order over a collection of varied and strange characters who drive for him. As he bullies and insults them from the safety of his “cage,” they form a special bond among themselves, becoming friends and supporting each other through the inevitable trials and tribulations of life.",
+   "popularity": 27.2683,
+   "poster_path": "/pua3A2XSaO6bP6WhVDBRbcyRTAS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1978-09-12",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1979-09-11",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1980-11-19",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1981-10-08",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1982-09-30",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's off the laugh meter!",
+   "title": "Taxi",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 188
+  },
+  "tv:251": {
+   "backdrop_path": "/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Master Shake (voice)",
+     "n": "Dana Snyder"
+    },
+    {
+     "c": "Frylock (voice)",
+     "n": "Carey Means"
+    },
+    {
+     "c": "Meatwad / Carl (voice)",
+     "n": "Dave Willis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Matt Maiellaro",
+    "Dave Willis"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-12-30",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 251,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 144,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.",
+   "popularity": 27.9788,
+   "poster_path": "/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-12-30",
+     "episode_count": 41,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-12-30",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-05-25",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-04-25",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-12-04",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-01-20",
+     "episode_count": 9,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-03-29",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-12-13",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-05-08",
+     "episode_count": 10,
+     "name": "Aqua Unit Patrol Squad 1",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-06-24",
+     "episode_count": 10,
+     "name": "Aqua Something You Know Whatever",
+     "season_number": 9
+    },
+    {
+     "air_date": "2013-08-11",
+     "episode_count": 10,
+     "name": "Aqua TV Show Show",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-06-21",
+     "episode_count": 9,
+     "name": "Aqua Teen Hunger Force Forever",
+     "season_number": 11
+    },
+    {
+     "air_date": "2023-11-26",
+     "episode_count": 5,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Dancing is forbidden!",
+   "title": "Aqua Teen Hunger Force",
+   "trailer": {
+    "key": "XXS3MYMsHXw",
+    "name": "Aqua Teen Hunger Force Forever: The Final Season | Aqua Teen Hunger Force Forever | Adult Swim",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 272
+  },
+  "tv:31251": {
+   "backdrop_path": "/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tori Vega",
+     "n": "Victoria Justice"
+    },
+    {
+     "c": "Andre Harris",
+     "n": "Leon Thomas III"
+    },
+    {
+     "c": "Robbie Shapiro",
+     "n": "Matt Bennett"
+    },
+    {
+     "c": "Jade West",
+     "n": "Elizabeth Gillies"
+    },
+    {
+     "c": "Cat Valentine",
+     "n": "Ariana Grande"
+    },
+    {
+     "c": "Beck Oliver",
+     "n": "Avan Jogia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Dan Schneider"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2010-03-27",
+   "genres": [
+    "Comedy",
+    "Kids"
+   ],
+   "id": 31251,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 57,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
+   "popularity": 32.4403,
+   "poster_path": "/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-11-27",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-03-27",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-04-02",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-01-28",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-22",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Victorious",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1764
+  },
+  "tv:39351": {
+   "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nick Burkhardt",
+     "n": "David Giuntoli"
+    },
+    {
+     "c": "Monroe",
+     "n": "Silas Weir Mitchell"
+    },
+    {
+     "c": "Hank Griffin",
+     "n": "Russell Hornsby"
+    },
+    {
+     "c": "Sean Renard",
+     "n": "Sasha Roiz"
+    },
+    {
+     "c": "Drew Wu",
+     "n": "Reggie Lee"
+    },
+    {
+     "c": "Rosalee Calvert",
+     "n": "Bree Turner"
+    },
+    {
+     "c": "Adalind Schade",
+     "n": "Claire Coffee"
+    },
+    {
+     "c": "Eve",
+     "n": "Elizabeth Tulloch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "David Greenwalt",
+    "Jim Kouf",
+    "Stephen Carpenter"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2011-10-28",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 39351,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 122,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+   "popularity": 96.217,
+   "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-10-10",
+     "episode_count": 124,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-10-28",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-08-13",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-10-25",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-10-24",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-10-30",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-01-06",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Mortal. Danger.",
+   "title": "Grimm",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.261,
+   "vote_count": 3678
+  },
+  "tv:4551": {
+   "backdrop_path": "/2E755aAQIavM2loSDuClbZmM1Pt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Judge",
+     "n": "Simon Cowell"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Howie Mandel"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Sofía Vergara"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Mel B"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Terry Crews"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Ken Warwick"
+   ],
+   "director": [],
+   "episode_run_time": [
+    85
+   ],
+   "first_air_date": "2006-06-21",
+   "genres": [
+    "Reality"
+   ],
+   "id": 4551,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 515,
+   "number_of_seasons": 21,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A weekly talent competition where an array of performers – from singers and dancers, to comedians and novelty acts – vie for a $1 million cash prize.",
+   "popularity": 52.9872,
+   "poster_path": "/y9Lee4CQ7mAD8B5PAExU6D4oEp5.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+     "name": "NBC",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-06-24",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-06-21",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-06-05",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-06-17",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-06-23",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-06-01",
+     "episode_count": 32,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-05-31",
+     "episode_count": 32,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-05-14",
+     "episode_count": 32,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-06-04",
+     "episode_count": 27,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-05-27",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2015-05-26",
+     "episode_count": 26,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2016-05-31",
+     "episode_count": 23,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2017-05-30",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2018-05-29",
+     "episode_count": 31,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2019-05-28",
+     "episode_count": 30,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2020-05-26",
+     "episode_count": 25,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2021-06-01",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2022-05-31",
+     "episode_count": 22,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2023-05-30",
+     "episode_count": 24,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2024-05-28",
+     "episode_count": 21,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2025-05-27",
+     "episode_count": 24,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2026-06-02",
+     "episode_count": 23,
+     "name": "Season 21",
+     "season_number": 21
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Summer's got star power!",
+   "title": "America's Got Talent",
+   "trailer": {
+    "key": "jWDdlxzs9oI",
+    "name": "Season 21 Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.72,
+   "vote_count": 277
+  },
+  "tv:63351": {
+   "backdrop_path": "/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Javier Peña",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Jorge Salcedo",
+     "n": "Matias Varela"
+    },
+    {
+     "c": "Gilberto Rodríguez Orejuela",
+     "n": "Damián Alcázar"
+    },
+    {
+     "c": "Miguel Rodríguez Orejuela",
+     "n": "Francisco Denis"
+    },
+    {
+     "c": "Pacho Herrera",
+     "n": "Alberto Ammann"
+    },
+    {
+     "c": "Chepe Santacruz Londoño",
+     "n": "Pêpê Rapazote"
+    },
+    {
+     "c": "David Rodriguez",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Chris Feistl",
+     "n": "Michael Stahl-David"
+    },
+    {
+     "c": "Daniel Van Ness",
+     "n": "Matt Whelan"
+    },
+    {
+     "c": "Maria Salazar",
+     "n": "Andrea Londo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Chris Brancato",
+    "Doug Miro",
+    "Carlo Bernard"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-08-28",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 63351,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+   "popularity": 29.0979,
+   "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-08-28",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-09-02",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-09-01",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There's no business like blow business.",
+   "title": "Narcos",
+   "trailer": {
+    "key": "RNWAKZzgbp4",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.094,
+   "vote_count": 3552
+  },
+  "tv:97951": {
+   "backdrop_path": "/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike McLusky",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Ian Ferguson",
+     "n": "Hugh Dillon"
+    },
+    {
+     "c": "Deverin 'Bunny' Washington",
+     "n": "Tobi Bamtefa"
+    },
+    {
+     "c": "Kyle McClusky",
+     "n": "Taylor Handley"
+    },
+    {
+     "c": "Assistant D.A. Evelyn Foley",
+     "n": "Necar Zadegan"
+    },
+    {
+     "c": "Stevie",
+     "n": "Derek Webster"
+    },
+    {
+     "c": "Robert Sawyer",
+     "n": "Hamish Allan-Headley"
+    },
+    {
+     "c": "Tracy",
+     "n": "Nishi Munshi"
+    },
+    {
+     "c": "Cindy Stephens",
+     "n": "Laura Benanti"
+    },
+    {
+     "c": "Frank Moses",
+     "n": "Lennie James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+",
+   "created_by": [
+    "Hugh Dillon",
+    "Taylor Sheridan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-11-14",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 97951,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+   "popularity": 50.6816,
+   "poster_path": "/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-11-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-01-15",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-06-02",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-10-26",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2027-01-15",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "There's a new warden in town.",
+   "title": "Mayor of Kingstown",
+   "trailer": {
+    "key": "VkQzvwxOp0s",
+    "name": "Mayor of Kingstown | Season 4 Official Trailer | Paramount+",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.95,
+   "vote_count": 709
   }
  }
 }

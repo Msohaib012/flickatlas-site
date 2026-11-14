@@ -1,8 +1,8 @@
 {
  "bucket": "79",
- "count": 5,
+ "count": 11,
  "titles": {
-  "101179": {
+  "movie:101179": {
    "backdrop_path": "/g0dcZKZe5XygwPpMrISPnidGH1W.jpg",
    "budget": 0,
    "cast": [
@@ -145,7 +145,7 @@
    "vote_average": 5.569,
    "vote_count": 436
   },
-  "450179": {
+  "movie:450179": {
    "backdrop_path": "/kprXFwqItxrDuDZk0nyPNNCxm6z.jpg",
    "budget": 7033745,
    "cast": [
@@ -283,7 +283,7 @@
    "vote_average": 5.5,
    "vote_count": 452
   },
-  "606679": {
+  "movie:606679": {
    "backdrop_path": "/xw2Qyos3clcRz87xS5fkoagL506.jpg",
    "budget": 0,
    "cast": [
@@ -396,7 +396,7 @@
    "vote_average": 7.0,
    "vote_count": 483
   },
-  "799379": {
+  "movie:799379": {
    "backdrop_path": "/mIW7eFxHnNqlwKwKWb6dpVjmHao.jpg",
    "budget": 9000000,
    "cast": [
@@ -528,7 +528,7 @@
    "vote_average": 6.454,
    "vote_count": 477
   },
-  "82679": {
+  "movie:82679": {
    "backdrop_path": "/bK1SE6E0nik4YL7irkRFrXD6dat.jpg",
    "budget": 14000000,
    "cast": [
@@ -633,6 +633,976 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 457
+  },
+  "tv:106379": {
+   "backdrop_path": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucy MacLean",
+     "n": "Ella Purnell"
+    },
+    {
+     "c": "Maximus",
+     "n": "Aaron Moten"
+    },
+    {
+     "c": "Norm MacLean",
+     "n": "Moisés Arias"
+    },
+    {
+     "c": "Barb Howard",
+     "n": "Frances Turner"
+    },
+    {
+     "c": "Overseer Hank MacLean",
+     "n": "Kyle MacLachlan"
+    },
+    {
+     "c": "The Ghoul / Cooper Howard",
+     "n": "Walton Goggins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Graham Wagner",
+    "Geneva Robertson-Dworet"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-04-10",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 106379,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+   "popularity": 33.1593,
+   "poster_path": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-04-10",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-04-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-12-16",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Let the end times roll.",
+   "title": "Fallout",
+   "trailer": {
+    "key": "0kQ8i2FpRDk",
+    "name": "Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.103,
+   "vote_count": 3254
+  },
+  "tv:18779": {
+   "backdrop_path": "/fEYf9tJpex1MMKX7i65kbltZYnR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hank Lawson",
+     "n": "Mark Feuerstein"
+    },
+    {
+     "c": "Evan R. Lawson",
+     "n": "Paulo Costanzo"
+    },
+    {
+     "c": "Divya Katdare",
+     "n": "Reshma Shetty"
+    },
+    {
+     "c": "Paige Collins",
+     "n": "Brooke D'Orsay"
+    },
+    {
+     "c": "Jeremiah Sacani",
+     "n": "Ben Shenkman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "USA Network",
+   "created_by": [
+    "Andrew Lenchewski",
+    "John Rogers"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2009-06-04",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 18779,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 104,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant \"doctor for hire\" to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.",
+   "popularity": 26.8013,
+   "poster_path": "/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-06-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-06-03",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-06-29",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-06-06",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-06-12",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-06-10",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-06-02",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-05-18",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Some doctors still make house calls.",
+   "title": "Royal Pains",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.808,
+   "vote_count": 167
+  },
+  "tv:210879": {
+   "backdrop_path": "/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenshin Himura (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Kaoru Kamiya (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Sanosuke Sagara (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Yahiko Myojin (voice)",
+     "n": "Makoto Koichi"
+    },
+    {
+     "c": "Megumi Takani (voice)",
+     "n": "Saori Onishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2023-07-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 210879,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Iwate Menkoi Television",
+    "SAGA TV",
+    "Sakuranbo TV",
+    "Fukushima TV"
+   ],
+   "number_of_episodes": 47,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money.",
+   "popularity": 28.9501,
+   "poster_path": "/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-09-25",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-07-07",
+     "episode_count": 47,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Rurouni Kenshin",
+   "trailer": {
+    "key": "vf2WjuZk-S0",
+    "name": "English Dub Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 153
+  },
+  "tv:76479": {
+   "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billy Butcher",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Hugh 'Hughie' Campbell",
+     "n": "Jack Quaid"
+    },
+    {
+     "c": "Homelander",
+     "n": "Antony Starr"
+    },
+    {
+     "c": "Annie January / Starlight",
+     "n": "Erin Moriarty"
+    },
+    {
+     "c": "Marvin T. 'Mother's Milk' Milk / M.M.",
+     "n": "Laz Alonso"
+    },
+    {
+     "c": "Kevin Moskowitz / The Deep",
+     "n": "Chace Crawford"
+    },
+    {
+     "c": "Serge / Frenchie",
+     "n": "Tomer Capone"
+    },
+    {
+     "c": "Kimiko Miyashiro",
+     "n": "Karen Fukuhara"
+    },
+    {
+     "c": "Justin / Black Noir II",
+     "n": "Nathan Mitchell"
+    },
+    {
+     "c": "Ashley Barrett",
+     "n": "Colby Minifie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Eric Kripke"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-07-25",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 76479,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+   "popularity": 92.7199,
+   "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-05-01",
+     "episode_count": 77,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-07-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-09-03",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-06-02",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-06-13",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-04-08",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Never meet your heroes.",
+   "title": "The Boys",
+   "trailer": {
+    "key": "tcrNsIaQkb4",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.423,
+   "vote_count": 13672
+  },
+  "tv:79": {
+   "backdrop_path": "/4EvgShbukpyeLBu0BKYNCyQi27y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dora the Explorer (voice)",
+     "n": "Kathleen Herles"
+    },
+    {
+     "c": "Map / Swiper (voice)",
+     "n": "Marc Weiner"
+    },
+    {
+     "c": "Dora the Explorer (voice)",
+     "n": "Caitlin Sanchez"
+    },
+    {
+     "c": "Isa (voice)",
+     "n": "Ashley Flemming"
+    },
+    {
+     "c": "Diego (voice)",
+     "n": "Jacob Medrano"
+    },
+    {
+     "c": "Backpack (voice)",
+     "n": "Alexandria Suarez"
+    },
+    {
+     "c": "Tico (voice)",
+     "n": "Jose Zelaya"
+    },
+    {
+     "c": "Dora (voice)",
+     "n": "Dolly Peter Lopes"
+    },
+    {
+     "c": "Dora the Explorer (voice)",
+     "n": "Fatima Ptacek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Valerie Walsh",
+    "Eric Weiner",
+    "Chris Gifford"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2000-08-14",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Family",
+    "Kids"
+   ],
+   "id": 79,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 177,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
+   "popularity": 32.444,
+   "poster_path": "/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-08-14",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-02-13",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-10-06",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-09-24",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-15",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-11-05",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-03-16",
+     "episode_count": 19,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-03-18",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dora the Explorer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.234,
+   "vote_count": 354
+  },
+  "tv:95479": {
+   "backdrop_path": "/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2020-10-03",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 95479,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+   "popularity": 84.1696,
+   "poster_path": "/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-08",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-10-03",
+     "episode_count": 59,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "A boy fights... for \"the right death.\"",
+   "title": "JUJUTSU KAISEN",
+   "trailer": {
+    "key": "VpO6APNqY1c",
+    "name": "Official Trailer 3 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.574,
+   "vote_count": 4743
   }
  }
 }

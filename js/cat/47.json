@@ -1,8 +1,8 @@
 {
  "bucket": "47",
- "count": 3,
+ "count": 9,
  "titles": {
-  "412547": {
+  "movie:412547": {
    "backdrop_path": "/u39BX33drFeaUTobnECyRRQbCED.jpg",
    "budget": 0,
    "cast": [
@@ -141,7 +141,7 @@
    "vote_average": 4.8,
    "vote_count": 458
   },
-  "438347": {
+  "movie:438347": {
    "backdrop_path": "/vefBoV3dLztLmvbAGEKbCa8QMCa.jpg",
    "budget": 0,
    "cast": [
@@ -247,7 +247,7 @@
    "vote_average": 6.11,
    "vote_count": 487
   },
-  "94047": {
+  "movie:94047": {
    "backdrop_path": "/4QHF7kAYjIpZ5U8A0amvhRkHlZ1.jpg",
    "budget": 25500000,
    "cast": [
@@ -417,6 +417,1201 @@
    "type": "movie",
    "vote_average": 7.904,
    "vote_count": 472
+  },
+  "tv:1447": {
+   "backdrop_path": "/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shawn Spencer",
+     "n": "James Roday Rodriguez"
+    },
+    {
+     "c": "Burton Guster",
+     "n": "Dulé Hill"
+    },
+    {
+     "c": "Carlton Lassiter",
+     "n": "Timothy Omundson"
+    },
+    {
+     "c": "Juliet O'Hara",
+     "n": "Maggie Lawson"
+    },
+    {
+     "c": "Karen Vick",
+     "n": "Kirsten Nelson"
+    },
+    {
+     "c": "Henry Spencer",
+     "n": "Corbin Bernsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "USA Network",
+   "created_by": [
+    "Steve Franks"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2006-07-07",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1447,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 120,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thanks to his police officer father's efforts, Shawn Spencer spent his childhood developing a keen eye for detail (and a lasting dislike of his dad). Years later, Shawn's frequent tips to the police lead to him being falsely accused of a crime he solved.\n\nNow, Shawn has no choice but to use his abilities to perpetuate his cover story: psychic crime-solving powers, all the while dragging his best friend, his dad, and the police along for the ride.",
+   "popularity": 63.8911,
+   "poster_path": "/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-01-01",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-07-07",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-07-13",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-07-18",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-08-07",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-07-14",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-10-12",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2013-02-27",
+     "episode_count": 15,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2014-01-08",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Fake psychic. Real detectives.",
+   "title": "Psych",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.889,
+   "vote_count": 1064
+  },
+  "tv:18347": {
+   "backdrop_path": "/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeff Winger",
+     "n": "Joel McHale"
+    },
+    {
+     "c": "Britta Perry",
+     "n": "Gillian Jacobs"
+    },
+    {
+     "c": "Annie Edison",
+     "n": "Alison Brie"
+    },
+    {
+     "c": "Dean Craig Pelton",
+     "n": "Jim Rash"
+    },
+    {
+     "c": "Abed Nadir",
+     "n": "Danny Pudi"
+    },
+    {
+     "c": "Ben Chang",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Francesca \"Frankie\" Dart",
+     "n": "Paget Brewster"
+    },
+    {
+     "c": "Elroy Patashnik",
+     "n": "Keith David"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Dan Harmon"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-09-17",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 18347,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "Yahoo! Screen"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
+   "popularity": 48.889,
+   "poster_path": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-03-05",
+     "episode_count": 45,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-02-07",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-01-02",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-03-17",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Mastering the B.S. degree at community college.",
+   "title": "Community",
+   "trailer": {
+    "key": "C4W4L9TLJa8",
+    "name": "Community Season 1 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.993,
+   "vote_count": 2234
+  },
+  "tv:2947": {
+   "backdrop_path": "/vKaDMLbdLrThldFj9Vavo6suTS2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Selina Meyer",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "Amy Brookheimer",
+     "n": "Anna Chlumsky"
+    },
+    {
+     "c": "Gary Walsh",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Dan Egan",
+     "n": "Reid Scott"
+    },
+    {
+     "c": "Jonah Ryan",
+     "n": "Timothy Simons"
+    },
+    {
+     "c": "Mike McLintock",
+     "n": "Matt Walsh"
+    },
+    {
+     "c": "Ben Cafferty",
+     "n": "Kevin Dunn"
+    },
+    {
+     "c": "Kent Davison",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Richard Splett",
+     "n": "Sam Richardson"
+    },
+    {
+     "c": "Catherine Meyer",
+     "n": "Sarah Sutherland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Armando Iannucci"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-04-22",
+   "genres": [
+    "Comedy",
+    "War & Politics"
+   ],
+   "id": 2947,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look into American politics, revolving around former Senator Selina Meyer who finds being Vice President of the United States is nothing like she expected and everything everyone ever warned her about.",
+   "popularity": 31.6526,
+   "poster_path": "/cdd78fGdaA3EbK2ToZRWcaaB1fx.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-04-09",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-04-22",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-04-14",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-04-06",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-04-12",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-04-24",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-04-16",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-03-31",
+     "episode_count": 7,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The buck stops somewhere near here.",
+   "title": "Veep",
+   "trailer": {
+    "key": "I2HoCG_iyhU",
+    "name": "Veep - Season 1: Trailer - Official HBO UK",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.512,
+   "vote_count": 555
+  },
+  "tv:47": {
+   "backdrop_path": "/6zzyWTu3p2Diztotbnb0kf128uo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chaves",
+     "n": "Roberto Gómez Bolaños"
+    },
+    {
+     "c": "Seu Madruga",
+     "n": "Ramón Valdés"
+    },
+    {
+     "c": "Quico",
+     "n": "Carlos Villagrán"
+    },
+    {
+     "c": "Chiquinha / Dona Neves",
+     "n": "María Antonieta de las Nieves"
+    },
+    {
+     "c": "Doña Florinda / Popis",
+     "n": "Florinda Meza García"
+    },
+    {
+     "c": "Profesor Jirafales \"Maistro Longaniza\"",
+     "n": "Rubén Aguirre"
+    },
+    {
+     "c": "Señor Barriga / Ñoño",
+     "n": "Edgar Vivar"
+    },
+    {
+     "c": "Doña Cleotilde \"La Bruja del 71\"",
+     "n": "Angelines Fernández"
+    },
+    {
+     "c": "Jaimito \"El Cartero\"",
+     "n": "Raúl 'Chato' Padilla"
+    },
+    {
+     "c": "Godinez",
+     "n": "Horacio Gómez Bolaños"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Roberto Gómez Bolaños"
+   ],
+   "director": [
+    "Enrique Segoviano"
+   ],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1973-02-26",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 47,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 314,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "The mishaps of Chavo, an 8-year-old Mestizo-Latino American orphan boy who lives in a village. Together with Quico, Chilindrina, Ñoño and La Popis, Chavo experiences a series of humorous entanglements.",
+   "popularity": 32.726,
+   "poster_path": "/1TdBpVOASafzfWlnecwW17UL6a5.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1972-02-01",
+     "episode_count": 39,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1973-02-26",
+     "episode_count": 45,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1974-01-07",
+     "episode_count": 45,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1975-01-06",
+     "episode_count": 40,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1976-01-05",
+     "episode_count": 47,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1977-01-31",
+     "episode_count": 45,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1978-03-06",
+     "episode_count": 41,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1979-01-29",
+     "episode_count": 51,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "El Chavo del Ocho",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.078,
+   "vote_count": 2094
+  },
+  "tv:63247": {
+   "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christina",
+     "n": "Evan Rachel Wood"
+    },
+    {
+     "c": "Maeve Millay",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Bernard Lowe",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Charlotte Hale",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Caleb Nichols",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Theodore 'Teddy' Flood",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Clementine Pennyfeather",
+     "n": "Angela Sarafyan"
+    },
+    {
+     "c": "Man in Black",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Ashley Stubbs",
+     "n": "Luke Hemsworth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HBO",
+   "created_by": [
+    "Jonathan Nolan",
+    "Lisa Joy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-10-02",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Western"
+   ],
+   "id": 63247,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+   "popularity": 53.1368,
+   "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-11-07",
+     "episode_count": 61,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-10-02",
+     "episode_count": 10,
+     "name": "Season One: The Maze",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-04-22",
+     "episode_count": 10,
+     "name": "Season Two: The Door",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-03-15",
+     "episode_count": 8,
+     "name": "Season Three: The New World",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-06-26",
+     "episode_count": 8,
+     "name": "Season Four: The Choice",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "These violent delights have violent ends.",
+   "title": "Westworld",
+   "trailer": {
+    "key": "kEkZdgWu7mM",
+    "name": "Season 1 Official HBO UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.011,
+   "vote_count": 6484
+  },
+  "tv:6647": {
+   "backdrop_path": "/slVKYnKNyfcPv35AG3MXlAq9IqV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brooke Logan",
+     "n": "Katherine Kelly Lang"
+    },
+    {
+     "c": "Eric Forrester",
+     "n": "John McCook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "William J. Bell",
+    "Lee Phillip Bell"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1987-03-23",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 6647,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 8872,
+   "number_of_seasons": 40,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+   "popularity": 26.9421,
+   "poster_path": "/rbmLSQHmSSCBhSfRhvToAEvSsqI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1987-03-23",
+     "episode_count": 241,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-03-21",
+     "episode_count": 252,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-01-10",
+     "episode_count": 254,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-03-19",
+     "episode_count": 247,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-03-19",
+     "episode_count": 253,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-03-17",
+     "episode_count": 252,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1993-03-23",
+     "episode_count": 253,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1994-03-14",
+     "episode_count": 251,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1995-03-27",
+     "episode_count": 251,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1996-03-25",
+     "episode_count": 252,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1997-03-27",
+     "episode_count": 252,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1998-01-05",
+     "episode_count": 250,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1999-03-23",
+     "episode_count": 255,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2000-03-23",
+     "episode_count": 250,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2001-03-23",
+     "episode_count": 247,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2002-03-25",
+     "episode_count": 249,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2003-03-24",
+     "episode_count": 252,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2004-03-22",
+     "episode_count": 87,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 254,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2006-09-18",
+     "episode_count": 256,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 251,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 251,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 255,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 8,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "",
+     "episode_count": 257,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "",
+     "episode_count": 5,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2013-09-23",
+     "episode_count": 252,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 253,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 110,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 145,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2017-09-18",
+     "episode_count": 253,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2018-09-17",
+     "episode_count": 251,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2019-09-16",
+     "episode_count": 184,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 250,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 250,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2022-09-26",
+     "episode_count": 250,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2023-09-21",
+     "episode_count": 250,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2024-09-16",
+     "episode_count": 250,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2025-09-15",
+     "episode_count": 250,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2026-09-08",
+     "episode_count": 54,
+     "name": "Season 40",
+     "season_number": 40
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "B&B",
+   "title": "The Bold and the Beautiful",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.6,
+   "vote_count": 152
   }
  }
 }

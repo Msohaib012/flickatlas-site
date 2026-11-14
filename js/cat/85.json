@@ -1,8 +1,8 @@
 {
  "bucket": "85",
- "count": 8,
+ "count": 18,
  "titles": {
-  "12185": {
+  "movie:12185": {
    "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
    "budget": 15000000,
    "cast": [
@@ -108,7 +108,7 @@
    "vote_average": 6.7,
    "vote_count": 466
   },
-  "16085": {
+  "movie:16085": {
    "backdrop_path": "/6VuGhV3iv3CHF2mTRDMa6fTu4Vn.jpg",
    "budget": 14100000,
    "cast": [
@@ -221,7 +221,7 @@
    "vote_average": 7.145,
    "vote_count": 452
   },
-  "26285": {
+  "movie:26285": {
    "backdrop_path": "/7XHRntPB5HeRzkFxHbsZ4khxFQf.jpg",
    "budget": 0,
    "cast": [
@@ -329,7 +329,7 @@
    "vote_average": 6.473,
    "vote_count": 494
   },
-  "271185": {
+  "movie:271185": {
    "backdrop_path": "/4v7osWGP3caNCth0g2boIWEJNqY.jpg",
    "budget": 950000,
    "cast": [
@@ -524,7 +524,7 @@
    "vote_average": 5.6,
    "vote_count": 437
   },
-  "383785": {
+  "movie:383785": {
    "backdrop_path": "/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
    "budget": 65000000,
    "cast": [
@@ -645,7 +645,7 @@
    "vote_average": 5.865,
    "vote_count": 452
   },
-  "582885": {
+  "movie:582885": {
    "backdrop_path": "/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
    "budget": 0,
    "cast": [
@@ -741,7 +741,7 @@
    "vote_average": 5.115,
    "vote_count": 492
   },
-  "595985": {
+  "movie:595985": {
    "backdrop_path": "/ob8w7gQNV4uL43fCGbD6y89rpDn.jpg",
    "budget": 2700000,
    "cast": [
@@ -918,7 +918,7 @@
    "vote_average": 5.3,
    "vote_count": 439
   },
-  "901385": {
+  "movie:901385": {
    "backdrop_path": "/dR78i8aMsa8wIuBiHGfU8K5gNL7.jpg",
    "budget": 0,
    "cast": [
@@ -1022,6 +1022,1622 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 442
+  },
+  "tv:19885": {
+   "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "John Watson",
+     "n": "Martin Freeman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "BBC One",
+   "created_by": [
+    "Mark Gatiss",
+    "Steven Moffat"
+   ],
+   "director": [],
+   "episode_run_time": [
+    90
+   ],
+   "first_air_date": "2010-07-25",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 19885,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+   "popularity": 185.1002,
+   "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "PBS"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-08-30",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-07-25",
+     "episode_count": 3,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-01-01",
+     "episode_count": 3,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-01",
+     "episode_count": 3,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-01-01",
+     "episode_count": 3,
+     "name": "Series 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A new sleuth for the 21st century.",
+   "title": "Sherlock",
+   "trailer": {
+    "key": "gGqWqGOSTGQ",
+    "name": "Official Hulu Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.504,
+   "vote_count": 6860
+  },
+  "tv:2085": {
+   "backdrop_path": "/dugFpakDXxjDjEUloukNqAx3cjK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Courage (voice)",
+     "n": "Marty Grabstein"
+    },
+    {
+     "c": "Muriel Bagge (voice)",
+     "n": "Thea White"
+    },
+    {
+     "c": "The Computer (voice)",
+     "n": "Simon Prebble"
+    },
+    {
+     "c": "Ma Bagge (voice)",
+     "n": "Billie Lou Watt"
+    },
+    {
+     "c": "Katz (voice)",
+     "n": "Paul Schoeffler"
+    },
+    {
+     "c": "Eustace Bagge (voice)",
+     "n": "Arthur Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "John R. Dilworth"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "1999-11-12",
+   "genres": [
+    "Animation",
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 2085,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 102,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The bizarre misadventures of a cowardly dog named Courage and his elderly owners in a farmhouse in Nowhere, Kansas.",
+   "popularity": 28.5032,
+   "poster_path": "/uJQsBgzlrgZpjeB5fHBtJQA04nS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1995-04-30",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-11-12",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-10-31",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-11-16",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-09-06",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Stupid dog. You make me look bad.",
+   "title": "Courage the Cowardly Dog",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.227,
+   "vote_count": 1695
+  },
+  "tv:225385": {
+   "backdrop_path": "/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helen Webb",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Sam Young",
+     "n": "Ben Whishaw"
+    },
+    {
+     "c": "Mrs. Reed",
+     "n": "Sarah Lancashire"
+    },
+    {
+     "c": "Wallace",
+     "n": "Andrew Buchan"
+    },
+    {
+     "c": "Williams",
+     "n": "Ella Lily Hyland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Joe Barton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-12-05",
+   "genres": [
+    "Action & Adventure",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 225385,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+   "popularity": 78.4116,
+   "poster_path": "/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-12-05",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-11-05",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Black Doves",
+   "trailer": {
+    "key": "shzJzjVscno",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.049,
+   "vote_count": 488
+  },
+  "tv:2685": {
+   "backdrop_path": "/vIeMoVqSqhEr2AaG9feqKBjeb8z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carl Winslow",
+     "n": "Reginald VelJohnson"
+    },
+    {
+     "c": "Eddie Winslow",
+     "n": "Darius McCrary"
+    },
+    {
+     "c": "Laura Winslow",
+     "n": "Kellie Shanygne Williams"
+    },
+    {
+     "c": "Steve Urkel",
+     "n": "Jaleel White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "ABC",
+   "created_by": [
+    "Michael Warren",
+    "William Bickley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1989-09-22",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 2685,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "CBS"
+   ],
+   "number_of_episodes": 215,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and their pesky next-door neighbor, ultra-nerd Steve Urkel. A spin-off of Perfect Strangers.",
+   "popularity": 39.4981,
+   "poster_path": "/tT7C8BLZSNQJnjNCz9ZLohIHJAz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png",
+     "name": "TBS",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1989-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-09-21",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-09-20",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-09-18",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-09-24",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-09-23",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1995-09-22",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1996-09-20",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1997-09-19",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Family Matters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.759,
+   "vote_count": 380
+  },
+  "tv:2985": {
+   "backdrop_path": "/rY4HsR1MLlddyrotCDskeC4ROXb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dylan Hunt",
+     "n": "Kevin Sorbo"
+    },
+    {
+     "c": "Beka Valentine",
+     "n": "Lisa Ryder"
+    },
+    {
+     "c": "Trance Gemini",
+     "n": "Laura Bertram"
+    },
+    {
+     "c": "Seamus Harper",
+     "n": "Gordon Michael Woolvett"
+    },
+    {
+     "c": "Andromeda Ascendant",
+     "n": "Lexa Doig"
+    },
+    {
+     "c": "Doyle",
+     "n": "Brandy Ledford"
+    },
+    {
+     "c": "Telemachus Rhade",
+     "n": "Steve Bacic"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Syfy",
+   "created_by": [
+    "Gene Roddenberry",
+    "Robert Hewitt Wolfe"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2000-10-02",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 2985,
+   "industry": "world",
+   "networks": [
+    "Syfy",
+    "Syndication",
+    "Global TV"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captain Dylan Hunt and his crew quest to restore a government that once presided over an extended peace and prosperity.",
+   "popularity": 30.3647,
+   "poster_path": "/uAOyxeDiNwYU8GuOebU0FExh49C.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-10-02",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-10-01",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-09-21",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-09-29",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-09-24",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Andromeda",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.061,
+   "vote_count": 318
+  },
+  "tv:31585": {
+   "backdrop_path": "/2vrv8S6xfVSbiak5uosssgMDhJf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andy McNally",
+     "n": "Missy Peregrym"
+    },
+    {
+     "c": "Sam Swarek",
+     "n": "Ben Bass"
+    },
+    {
+     "c": "Dov Epstein",
+     "n": "Gregory Smith"
+    },
+    {
+     "c": "Traci Nash",
+     "n": "Enuka Okuma"
+    },
+    {
+     "c": "Chris Diaz",
+     "n": "Travis Milne"
+    },
+    {
+     "c": "Gail Peck",
+     "n": "Charlotte Sullivan"
+    },
+    {
+     "c": "Nick Collins",
+     "n": "Peter Mooney"
+    },
+    {
+     "c": "Oliver Shaw",
+     "n": "Matt Gordon"
+    },
+    {
+     "c": "Chloe Price",
+     "n": "Priscilla Faia"
+    },
+    {
+     "c": "Steve Peck",
+     "n": "Adam MacDonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Global TV",
+   "created_by": [
+    "Ellen Vanstone",
+    "Tassie Cameron",
+    "Morwyn Brebner"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2010-06-24",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 31585,
+   "industry": "world",
+   "networks": [
+    "Global TV"
+   ],
+   "number_of_episodes": 74,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Ambitious young cops try to prove themselves in their high-stakes careers, in which the smallest mistake can have deadly consequences. At the core of the close-knit group is perfectionist Andy McNally, whose father was a homicide detective before he burned out on the job. The series follows Andy and her four colleagues -- Dov Epstein, Gail Peck, Traci Nash and Chris Diaz -- as they experience the trials, triumphs and tribulations of police work, as well as its effect on their personal lives.",
+   "popularity": 24.5273,
+   "poster_path": "/rUINbQ8JKiQwN9g9PYJ6Nu0Iap1.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-05-15",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-06-24",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-06-23",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-05-24",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-05-23",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-05-19",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-05-21",
+     "episode_count": 11,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Every day is a first.",
+   "title": "Rookie Blue",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.664,
+   "vote_count": 228
+  },
+  "tv:39185": {
+   "backdrop_path": "/wR5x19DbeD2FiwU2fbYvXVtx1we.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DCI Vera Stanhope",
+     "n": "Brenda Blethyn"
+    },
+    {
+     "c": "DC Kenny Lockhart",
+     "n": "Jon Morrison"
+    },
+    {
+     "c": "DC Mark Edwards",
+     "n": "Riley Jones"
+    },
+    {
+     "c": "Dr Paula Bennett",
+     "n": "Sarah Kameela Impey"
+    },
+    {
+     "c": "DC Stephanie 'Steph' Duncan",
+     "n": "Rhiannon Clements"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "ITV1",
+   "created_by": [
+    "Ann Cleeves"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-05-01",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 39185,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 56,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A sharp detective with a messy life, DCI Vera Stanhope patrols her “patch” of northeast England, pursuing the truth in cases of murder, kidnapping, and blackmail. Vera is obsessive about her work and faces the world with caustic wit, guile and courage.",
+   "popularity": 42.5768,
+   "poster_path": "/yeYImRVVEX6LM2151oEkmNUKLVR.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-12-26",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-05-01",
+     "episode_count": 4,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-04-22",
+     "episode_count": 4,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-08-25",
+     "episode_count": 4,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-04-27",
+     "episode_count": 4,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-04-05",
+     "episode_count": 4,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-02-01",
+     "episode_count": 4,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-03-19",
+     "episode_count": 4,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2018-01-07",
+     "episode_count": 4,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2019-01-13",
+     "episode_count": 4,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2020-01-12",
+     "episode_count": 4,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-08-29",
+     "episode_count": 6,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2023-01-29",
+     "episode_count": 5,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2024-01-07",
+     "episode_count": 3,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2025-01-01",
+     "episode_count": 2,
+     "name": "Series 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Vera",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.386,
+   "vote_count": 185
+  },
+  "tv:4385": {
+   "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stephen Colbert - Host",
+     "n": "Stephen Colbert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Comedy Central",
+   "created_by": [
+    "Stephen Colbert",
+    "Jon Stewart",
+    "Ben Karlin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24,
+    22,
+    30
+   ],
+   "first_air_date": "2005-10-17",
+   "genres": [
+    "News",
+    "Comedy"
+   ],
+   "id": 4385,
+   "industry": "world",
+   "networks": [
+    "Comedy Central"
+   ],
+   "number_of_episodes": 1447,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, a former correspondent for The Daily Show with Jon Stewart. The Colbert Report is a spin-off from and counterpart to The Daily Show that comments on politics and the media in a similar way. The show focuses on a fictional anchorman character named Stephen Colbert, played by his real-life namesake. The character, described by Colbert as a \"well-intentioned, poorly informed, high-status idiot\", is a caricature of televised political pundits.",
+   "popularity": 132.4309,
+   "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-11-23",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-10-17",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-01-09",
+     "episode_count": 161,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-01-08",
+     "episode_count": 138,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-01-07",
+     "episode_count": 160,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-01-05",
+     "episode_count": 161,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-01-04",
+     "episode_count": 161,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-01-03",
+     "episode_count": 124,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-10-03",
+     "episode_count": 155,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-10-01",
+     "episode_count": 155,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2013-09-30",
+     "episode_count": 160,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2014-09-29",
+     "episode_count": 40,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Colbert Report",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.997,
+   "vote_count": 322
+  },
+  "tv:60585": {
+   "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Bosch",
+     "n": "Titus Welliver"
+    },
+    {
+     "c": "Jerry Edgar",
+     "n": "Jamie Hector"
+    },
+    {
+     "c": "Grace Billets",
+     "n": "Amy Aquino"
+    },
+    {
+     "c": "Irvin Irving",
+     "n": "Lance Reddick"
+    },
+    {
+     "c": "Maddie Bosch",
+     "n": "Madison Lintz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Eric Overmyer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-01-14",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+   ],
+   "id": 60585,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 68,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs.",
+   "popularity": 47.8134,
+   "poster_path": "/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-02-05",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-01-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-03-10",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-20",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-04-12",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-04-18",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-04-16",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-06-24",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Every murder tells the tale of a city.",
+   "title": "Bosch",
+   "trailer": {
+    "key": "vuVAP_4TQEY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.927,
+   "vote_count": 777
+  },
+  "tv:92685": {
+   "backdrop_path": "/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luz (voice)",
+     "n": "Sarah-Nicole Robles"
+    },
+    {
+     "c": "Gus (voice)",
+     "n": "Issac Ryan Brown"
+    },
+    {
+     "c": "Eda (voice)",
+     "n": "Wendie Malick"
+    },
+    {
+     "c": "Willow (voice)",
+     "n": "Tati Gabrielle"
+    },
+    {
+     "c": "Amity (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Hunter (voice)",
+     "n": "Zeno Robinson"
+    },
+    {
+     "c": "King / Hooty (voice)",
+     "n": "Alex Hirsch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Dana Terrace"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-01-10",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 92685,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 43,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Luz, a self-assured teenage human girl, accidentally stumbles upon a portal to a magical new world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King.",
+   "popularity": 25.3592,
+   "poster_path": "/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-04-04",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-01-10",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-06-12",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-10-15",
+     "episode_count": 3,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Us weirdos have to stick together.",
+   "title": "The Owl House",
+   "trailer": {
+    "key": "1W1FFiT51lg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 1859
   }
  }
 }

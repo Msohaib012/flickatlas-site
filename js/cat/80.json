@@ -1,8 +1,8 @@
 {
  "bucket": "80",
- "count": 8,
+ "count": 19,
  "titles": {
-  "10480": {
+  "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
    "budget": 24000000,
    "cast": [
@@ -119,7 +119,7 @@
    "vote_average": 6.068,
    "vote_count": 447
   },
-  "11680": {
+  "movie:11680": {
    "backdrop_path": "/zPGBsl1DvMtr0KEgkdvy1zaWYtp.jpg",
    "budget": 0,
    "cast": [
@@ -208,7 +208,7 @@
    "vote_average": 6.332,
    "vote_count": 482
   },
-  "13980": {
+  "movie:13980": {
    "backdrop_path": "/mfu8cTvpJwrnu3sm2vDqh7o4yXX.jpg",
    "budget": 0,
    "cast": [
@@ -323,7 +323,7 @@
    "vote_average": 7.601,
    "vote_count": 497
   },
-  "3780": {
+  "movie:3780": {
    "backdrop_path": "/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg",
    "budget": 650000,
    "cast": [
@@ -467,7 +467,7 @@
    "vote_average": 8.172,
    "vote_count": 436
   },
-  "425980": {
+  "movie:425980": {
    "backdrop_path": "/eRfANc4xSRNaR8E9fUI9hdLkCWB.jpg",
    "budget": 0,
    "cast": [
@@ -604,7 +604,7 @@
    "vote_average": 6.284,
    "vote_count": 470
   },
-  "664280": {
+  "movie:664280": {
    "backdrop_path": "/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
    "budget": 0,
    "cast": [
@@ -681,7 +681,7 @@
    "vote_average": 8.429,
    "vote_count": 478
   },
-  "94380": {
+  "movie:94380": {
    "backdrop_path": "/yWaUueQsfojYlA7NQowbcKlj2BE.jpg",
    "budget": 0,
    "cast": [
@@ -850,7 +850,7 @@
    "vote_average": 5.8,
    "vote_count": 452
   },
-  "980": {
+  "movie:980": {
    "backdrop_path": "/dmmiwTfk4AraKkK8DwmrXYas5rS.jpg",
    "budget": 565000,
    "cast": [
@@ -999,6 +999,1879 @@
    "type": "movie",
    "vote_average": 7.694,
    "vote_count": 446
+  },
+  "tv:1480": {
+   "backdrop_path": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ally McBeal",
+     "n": "Calista Flockhart"
+    },
+    {
+     "c": "Richard Fish",
+     "n": "Greg Germann"
+    },
+    {
+     "c": "Elaine Vassal",
+     "n": "Jane Krakowski"
+    },
+    {
+     "c": "Corretta Lipp",
+     "n": "Regina Hall"
+    },
+    {
+     "c": "John Cage",
+     "n": "Peter MacNicol"
+    },
+    {
+     "c": "Vonda Shepard",
+     "n": "Vonda Shepard"
+    },
+    {
+     "c": "Nelle Porter",
+     "n": "Portia de Rossi"
+    },
+    {
+     "c": "Raymond Millbury",
+     "n": "Josh Hopkins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "FOX",
+   "created_by": [
+    "David E. Kelley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "1997-09-08",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1480,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 112,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+   "popularity": 31.619,
+   "poster_path": "/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1999-03-22",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-09-08",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1998-09-14",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-10-25",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2000-10-23",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2001-10-29",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A series that dares to reveal what's most exciting about a woman's body... her mind.",
+   "title": "Ally McBeal",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 399
+  },
+  "tv:30980": {
+   "backdrop_path": "/73uQJImy9J9w93zFEh8JtdQVOQR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Touma Kamijou (voice)",
+     "n": "Atsushi Abe"
+    },
+    {
+     "c": "Index (voice)",
+     "n": "Yuka Iguchi"
+    },
+    {
+     "c": "Mikoto Misaka (voice)",
+     "n": "Rina Sato"
+    },
+    {
+     "c": "Accelerator (voice)",
+     "n": "Nobuhiko Okamoto"
+    },
+    {
+     "c": "Shiage Hamazura (voice)",
+     "n": "Satoshi Hino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2008-10-05",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 30980,
+   "industry": "world",
+   "networks": [
+    "MBS"
+   ],
+   "number_of_episodes": 74,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Touma Kamijou is a student living in Academy City, a highly advanced place in terms of technology. Despite being gauged as a level zero esper (no powers), he possesses on his right hand the Imagine Breaker, an ability that negates any power whatsoever.\n\nTouma finds a young girl named Index who is trying to run away from Necessarius, a powerful magic organization that she is member of. Blessed with the skill of memorizing any sort of information, she holds 103,000 forbidden magical books within her head.\n\nAs science and magic cross paths, Touma must face several dangers amid espers and magicians who appear in the exciting scientific town.",
+   "popularity": 34.7479,
+   "poster_path": "/v3Ka0J3iMte50oiH4cmXPISM3rm.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-01-23",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-10-05",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-10-08",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-10-05",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Certain Magical Index",
+   "trailer": {
+    "key": "9tYlS81AVYM",
+    "name": "A Certain Magical Index Complete Season 1 Collection Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 203
+  },
+  "tv:33880": {
+   "backdrop_path": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Korra (voice)",
+     "n": "Janet Varney"
+    },
+    {
+     "c": "Mako (voice)",
+     "n": "David Faustino"
+    },
+    {
+     "c": "Bolin (voice)",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Asami Sato (voice)",
+     "n": "Seychelle Gabriel"
+    },
+    {
+     "c": "Tenzin (voice)",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Naga / Pabu / Bum-Ju / Oogi / Tarrlok (voice)",
+     "n": "Dee Bradley Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Bryan Konietzko",
+    "Michael Dante DiMartino"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2012-04-14",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 33880,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+   "popularity": 105.9712,
+   "poster_path": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+   "production_countries": [
+    "JP",
+    "US",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-08-09",
+     "episode_count": 47,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-04-14",
+     "episode_count": 12,
+     "name": "Book One: Air",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-09-13",
+     "episode_count": 14,
+     "name": "Book Two: Spirits",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-06-27",
+     "episode_count": 13,
+     "name": "Book Three: Change",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-10-03",
+     "episode_count": 13,
+     "name": "Book Four: Balance",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Only the Avatar can master all four elements.",
+   "title": "The Legend of Korra",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 2499
+  },
+  "tv:37680": {
+   "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harvey Specter",
+     "n": "Gabriel Macht"
+    },
+    {
+     "c": "Louis Litt",
+     "n": "Rick Hoffman"
+    },
+    {
+     "c": "Donna Paulsen",
+     "n": "Sarah Rafferty"
+    },
+    {
+     "c": "Katrina Bennett",
+     "n": "Amanda Schull"
+    },
+    {
+     "c": "Alex Williams",
+     "n": "Dulé Hill"
+    },
+    {
+     "c": "Samantha Wheeler",
+     "n": "Katherine Heigl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "USA Network",
+   "created_by": [
+    "Aaron Korsh"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2011-06-23",
+   "genres": [
+    "Drama"
+   ],
+   "id": 37680,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 134,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
+   "popularity": 105.6107,
+   "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-06-07",
+     "episode_count": 76,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-06-23",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-06-14",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-07-16",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-06-11",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-06-24",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-07-13",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-07-12",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2018-07-18",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2019-07-17",
+     "episode_count": 10,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Two lawyers. One degree.",
+   "title": "Suits",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.22,
+   "vote_count": 6027
+  },
+  "tv:46080": {
+   "backdrop_path": "/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bear (voice)",
+     "n": "Boris Kutnevich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Russia-1",
+   "created_by": [
+    "Oleg Kuzovkov"
+   ],
+   "director": [],
+   "episode_run_time": [
+    7
+   ],
+   "first_air_date": "2009-01-07",
+   "genres": [
+    "Animation",
+    "Family",
+    "Kids",
+    "Comedy"
+   ],
+   "id": 46080,
+   "industry": "world",
+   "networks": [
+    "Russia-1"
+   ],
+   "number_of_episodes": 208,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Masha is an energetic three-year-old who can’t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",
+   "popularity": 29.0889,
+   "poster_path": "/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hopster Amazon Channel"
+    },
+    {
+     "name": "Kidstream Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-02-01",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-01-07",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-07-07",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-11-28",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-05-31",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-08-27",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-03-16",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-11-16",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2025-08-22",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Masha and the Bear",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 424
+  },
+  "tv:46880": {
+   "backdrop_path": "/fs5VXKvIUcfTn3nsc3g4s3OIcV4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stef Foster",
+     "n": "Teri Polo"
+    },
+    {
+     "c": "Lena Adams",
+     "n": "Sherri Saum"
+    },
+    {
+     "c": "Jude Jacob",
+     "n": "Hayden Byerly"
+    },
+    {
+     "c": "Jesus Foster",
+     "n": "Noah Centineo"
+    },
+    {
+     "c": "Brandon Foster",
+     "n": "David Lambert"
+    },
+    {
+     "c": "Callie Adams Foster",
+     "n": "Maia Mitchell"
+    },
+    {
+     "c": "Mike Foster",
+     "n": "Danny Nucci"
+    },
+    {
+     "c": "Mariana Foster",
+     "n": "Cierra Ramirez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC Family",
+   "created_by": [
+    "Bradley Bredeweg",
+    "Peter Paige"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2013-06-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 46880,
+   "industry": "world",
+   "networks": [
+    "ABC Family",
+    "Freeform"
+   ],
+   "number_of_episodes": 104,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stef Foster, a dedicated police officer, and her partner Lena Adams, a school vice principal, have built a close-knit, loving family with Stef's biological son from a previous marriage, Brandon, and their adopted twins, Mariana and Jesus. Their lives are disrupted in unexpected ways when Lena meets Callie, a hardened teen with an abusive past who has spent her life in and out of foster homes. Lena and Stef welcome Callie and her brother, Jude, into their home thinking it's just for a few weeks, until a more permanent placement can be found. But life has something else in store for the Fosters.",
+   "popularity": 31.5227,
+   "poster_path": "/iRCmazqaUNNsgZyR6tNDl88pXp3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/n0IYtqCRKBhqnioKooWDLOS3l3r.png",
+     "name": "Freeform",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-03-02",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-06-03",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-06-16",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-06-08",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-06-20",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-07-10",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "How do you define family?",
+   "title": "The Fosters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 344
+  },
+  "tv:580": {
+   "backdrop_path": "/cm3srKkyVn8zUK40ox8ZNjRJRdE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Benjamin Sisko",
+     "n": "Avery Brooks"
+    },
+    {
+     "c": "Kira Nerys",
+     "n": "Nana Visitor"
+    },
+    {
+     "c": "Miles O'Brien",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "Worf",
+     "n": "Michael Dorn"
+    },
+    {
+     "c": "Julian Bashir",
+     "n": "Alexander Siddig"
+    },
+    {
+     "c": "Jake Sisko",
+     "n": "Cirroc Lofton"
+    },
+    {
+     "c": "Quark",
+     "n": "Armin Shimerman"
+    },
+    {
+     "c": "Odo",
+     "n": "René Auberjonois"
+    },
+    {
+     "c": "Ezri Dax",
+     "n": "Nicole De Boer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Syndication",
+   "created_by": [
+    "Rick Berman",
+    "Michael Piller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1993-01-03",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 580,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 173,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+   "popularity": 69.0804,
+   "poster_path": "/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-02-25",
+     "episode_count": 116,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-01-03",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-09-26",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-09-26",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-10-02",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-30",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-09-29",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1998-09-30",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "At the edge of the Final Frontier, the Universe's greatest mystery is about to unfold.",
+   "title": "Star Trek: Deep Space Nine",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.91,
+   "vote_count": 1050
+  },
+  "tv:66980": {
+   "backdrop_path": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gereon Rath",
+     "n": "Volker Bruch"
+    },
+    {
+     "c": "Charlotte Ritter",
+     "n": "Liv Lisa Fries"
+    },
+    {
+     "c": "Dr. Edmund Forster",
+     "n": "Ulrich Noethen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Das Erste",
+   "created_by": [
+    "Tom Tykwer",
+    "Achim von Borries",
+    "Hendrik Handloegten"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-10-13",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 66980,
+   "industry": "world",
+   "networks": [
+    "Das Erste",
+    "Sky One"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to the epicenter of political and social changes in the Golden Twenties.",
+   "popularity": 29.6729,
+   "poster_path": "/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Kanopy"
+    },
+    {
+     "name": "MZ Choice Amazon Channel"
+    },
+    {
+     "name": "Mhz Choice"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+     "name": "Kanopy",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6kINh90KLGRqWa9HS2oj4JI1ipO.png",
+     "name": "MZ Choice Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lLCtT8BA42vuYn23UxuPPQDrLap.png",
+     "name": "Mhz Choice",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-10-02",
+     "episode_count": 35,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-10-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-11-10",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-01-24",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-10-08",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-09-10",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Babylon Berlin",
+   "trailer": {
+    "key": "HAn3RXeCrLg",
+    "name": "BABYLON BERLIN | OFFICIAL TRAILER | ENGLISH SUBS | LUMIÈRE SERIES",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.747,
+   "vote_count": 433
+  },
+  "tv:79680": {
+   "backdrop_path": "/h8dzXytAPFkAHv1kZAN1SshXI68.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andre Layton",
+     "n": "Daveed Diggs"
+    },
+    {
+     "c": "Bess Till",
+     "n": "Mickey Sumner"
+    },
+    {
+     "c": "Ruth Wardell",
+     "n": "Alison Wright"
+    },
+    {
+     "c": "Bennett Knox",
+     "n": "Iddo Goldberg"
+    },
+    {
+     "c": "Javier de La Torre",
+     "n": "Roberto Urbina"
+    },
+    {
+     "c": "Alexandra Cavill",
+     "n": "Rowan Blanchard"
+    },
+    {
+     "c": "Josie Wellstead",
+     "n": "Katie McGuinness"
+    },
+    {
+     "c": "John Osweiller",
+     "n": "Sam Otto"
+    },
+    {
+     "c": "Admiral Anton Milius",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Dr. Nima Rousseau",
+     "n": "Michael Aronov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TNT",
+   "created_by": [
+    "Graeme Manson",
+    "Josh Friedman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-05-17",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 79680,
+   "industry": "world",
+   "networks": [
+    "TNT",
+    "AMC"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+   "popularity": 29.5563,
+   "poster_path": "/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-05-21",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-05-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-01-25",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-01-24",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-07-21",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Prepare to brace.",
+   "title": "Snowpiercer",
+   "trailer": {
+    "key": "1e8m6e4BX7g",
+    "name": "Snowpiercer | Final Season Official Trailer | Premieres July 21 on AMC and AMC+",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.333,
+   "vote_count": 1519
+  },
+  "tv:95480": {
+   "backdrop_path": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackson Lamb",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "River Cartwright",
+     "n": "Jack Lowden"
+    },
+    {
+     "c": "Diana Taverner",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Frank Harkness",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Catherine Standish",
+     "n": "Saskia Reeves"
+    },
+    {
+     "c": "Roddy Ho",
+     "n": "Christopher Chung"
+    },
+    {
+     "c": "Shirley Dander",
+     "n": "Aimee-Ffion Edwards"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-04-01",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 95480,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "popularity": 118.1462,
+   "poster_path": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-04-01",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-12-02",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-11-29",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-09-04",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-09-24",
+     "episode_count": 6,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 6,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "MI5's most unruly spies are back and under attack.",
+   "title": "Slow Horses",
+   "trailer": {
+    "key": "O9ZJChzPn0U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.071,
+   "vote_count": 1130
+  },
+  "tv:96580": {
+   "backdrop_path": "/aCbOj4wc6vQUUVNKppssj2PYUy0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Vanderspeigle",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Asta Twelvetrees",
+     "n": "Sara Tomko"
+    },
+    {
+     "c": "Mike Thompson",
+     "n": "Corey Reynolds"
+    },
+    {
+     "c": "D'Arcy Bloom",
+     "n": "Alice Wetterlund"
+    },
+    {
+     "c": "Ben Hawthorne",
+     "n": "Levi Fiehler"
+    },
+    {
+     "c": "Liv Baker",
+     "n": "Elizabeth Bowen"
+    },
+    {
+     "c": "Kate Hawthorne",
+     "n": "Meredith Garretson"
+    },
+    {
+     "c": "Max Hawthorne",
+     "n": "Judah Prehn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "USA Network",
+   "created_by": [
+    "Chris Sheridan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-01-27",
+   "genres": [
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 96580,
+   "industry": "world",
+   "networks": [
+    "USA Network",
+    "Syfy"
+   ],
+   "number_of_episodes": 44,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Crash-landed alien Harry takes on the identity of a small-town Colorado doctor. Arriving with a secret mission, he starts off living a simple life…but things get a bit rocky when he’s roped into solving a local murder and realizes he needs to assimilate into his new world. As he does, he begins to wrestle with the moral dilemma of his mission and asking the big life questions like: “Are human beings worth saving?” and “Why do they fold their pizza before eating it?”",
+   "popularity": 24.5217,
+   "poster_path": "/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-27",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-01-26",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-02-14",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-06-06",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Beam this up.",
+   "title": "Resident Alien",
+   "trailer": {
+    "key": "p4SnjgAfNRU",
+    "name": "Resident Alien (2021) Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.768,
+   "vote_count": 1093
   }
  }
 }

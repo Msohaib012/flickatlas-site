@@ -1,8 +1,8 @@
 {
  "bucket": "00",
- "count": 11,
+ "count": 17,
  "titles": {
-  "12600": {
+  "movie:12600": {
    "backdrop_path": "/lnwNzJdU4gMlgoQlaT8HgSI2OpD.jpg",
    "budget": 0,
    "cast": [
@@ -143,7 +143,7 @@
    "vote_average": 6.5,
    "vote_count": 487
   },
-  "12700": {
+  "movie:12700": {
    "backdrop_path": "/vc31DWCeiEJn2eOe40CEVQiGXFY.jpg",
    "budget": 30000000,
    "cast": [
@@ -308,7 +308,7 @@
    "vote_average": 5.3,
    "vote_count": 446
   },
-  "15600": {
+  "movie:15600": {
    "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg",
    "budget": 9600000,
    "cast": [
@@ -408,7 +408,7 @@
    "vote_average": 7.2,
    "vote_count": 453
   },
-  "16300": {
+  "movie:16300": {
    "backdrop_path": "/5fCjc8FlHwaK5soz0PBwN73CRxh.jpg",
    "budget": 30000000,
    "cast": [
@@ -515,7 +515,7 @@
    "vote_average": 5.556,
    "vote_count": 450
   },
-  "18900": {
+  "movie:18900": {
    "backdrop_path": "/gQYsE1Zu89fbi3yUL4bubxoRjbh.jpg",
    "budget": 3500000,
    "cast": [
@@ -665,7 +665,7 @@
    "vote_average": 7.512,
    "vote_count": 463
   },
-  "24100": {
+  "movie:24100": {
    "backdrop_path": "/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
    "budget": 35000000,
    "cast": [
@@ -790,7 +790,7 @@
    "vote_average": 7.0,
    "vote_count": 495
   },
-  "270400": {
+  "movie:270400": {
    "backdrop_path": "/xxkuySNoMailIohAdqJQuyNbuOz.jpg",
    "budget": 0,
    "cast": [
@@ -974,7 +974,7 @@
    "vote_average": 7.1,
    "vote_count": 492
   },
-  "400": {
+  "movie:400": {
    "backdrop_path": "/J4l8AvrK8ByAjnoKposMLh3ubL.jpg",
    "budget": 8000000,
    "cast": [
@@ -1071,7 +1071,7 @@
    "vote_average": 6.445,
    "vote_count": 453
   },
-  "568300": {
+  "movie:568300": {
    "backdrop_path": "/8GXkzHTvuj3ftethkrqW330LJKz.jpg",
    "budget": 0,
    "cast": [
@@ -1153,7 +1153,7 @@
    "vote_average": 8.202,
    "vote_count": 463
   },
-  "689700": {
+  "movie:689700": {
    "backdrop_path": "/k0bZfbtwZvMtKazaabeLVGQLhGg.jpg",
    "budget": 0,
    "cast": [
@@ -1340,7 +1340,7 @@
    "vote_average": 6.148,
    "vote_count": 474
   },
-  "874300": {
+  "movie:874300": {
    "backdrop_path": "/kogLnm2OMn6iUBeZIkIywsrwl3H.jpg",
    "budget": 0,
    "cast": [
@@ -1505,6 +1505,916 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 497
+  },
+  "tv:1100": {
+   "backdrop_path": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ted Mosby",
+     "n": "Josh Radnor"
+    },
+    {
+     "c": "Barney Stinson",
+     "n": "Neil Patrick Harris"
+    },
+    {
+     "c": "Marshall Eriksen",
+     "n": "Jason Segel"
+    },
+    {
+     "c": "Lily Aldrin",
+     "n": "Alyson Hannigan"
+    },
+    {
+     "c": "Robin Scherbatsky",
+     "n": "Cobie Smulders"
+    },
+    {
+     "c": "Tracy McConnell",
+     "n": "Cristin Milioti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Craig Thomas",
+    "Carter Bays"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-09-19",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1100,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 208,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+   "popularity": 1211.3517,
+   "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-11-20",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-18",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2012-09-24",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2013-09-23",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A love story in reverse.",
+   "title": "How I Met Your Mother",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 6076
+  },
+  "tv:1400": {
+   "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jerry Seinfeld",
+     "n": "Jerry Seinfeld"
+    },
+    {
+     "c": "George Costanza",
+     "n": "Jason Alexander"
+    },
+    {
+     "c": "Cosmo Kramer",
+     "n": "Michael Richards"
+    },
+    {
+     "c": "Elaine Benes",
+     "n": "Julia Louis-Dreyfus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Jerry Seinfeld",
+    "Larry David"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1989-07-05",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1400,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 180,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+   "popularity": 1130.2436,
+   "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-11-25",
+     "episode_count": 163,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-07-05",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1991-01-23",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-09-18",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-08-12",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-09-16",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-09-22",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1995-09-21",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1996-09-19",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1997-09-25",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A show about nothing.",
+   "title": "Seinfeld",
+   "trailer": {
+    "key": "hQXKyIG_NS4",
+    "name": "Official Netflix Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.244,
+   "vote_count": 2513
+  },
+  "tv:4500": {
+   "backdrop_path": "/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kevin Arnold",
+     "n": "Fred Savage"
+    },
+    {
+     "c": "John 'Jack' Arnold",
+     "n": "Dan Lauria"
+    },
+    {
+     "c": "Norma Arnold",
+     "n": "Alley Mills"
+    },
+    {
+     "c": "Wayne Arnold",
+     "n": "Jason Hervey"
+    },
+    {
+     "c": "Gwendolyn 'Winnie' Cooper",
+     "n": "Danica McKellar"
+    },
+    {
+     "c": "Paul Joshua Pfeiffer",
+     "n": "Josh Saviano"
+    },
+    {
+     "c": "Narrator (Adult Kevin)",
+     "n": "Daniel Stern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Neal Marlens",
+    "Carol Black"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1988-01-31",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 4500,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 115,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Kevin Arnold facing the trials and tribulations of youth while growing up during the 1960s and 70s. Told through narration from an adult Kevin, Kevin faces the difficulties of maintaining relationships and friendships on his enthralling journey into adulthood.",
+   "popularity": 40.781,
+   "poster_path": "/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 53,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1988-01-31",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-11-30",
+     "episode_count": 17,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-10-03",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-09-19",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-10-02",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-09-23",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "With a little help from my friends.",
+   "title": "The Wonder Years",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.351,
+   "vote_count": 1127
+  },
+  "tv:500": {
+   "backdrop_path": "/bEjFkaFctIXgCUeYn4ei3ECULQi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Buchman",
+     "n": "Paul Reiser"
+    },
+    {
+     "c": "Jamie Buchman",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "Ira Buchman",
+     "n": "John Pankow"
+    },
+    {
+     "c": "Sylvia Buchman",
+     "n": "Cynthia Harris"
+    },
+    {
+     "c": "Burt Buchman",
+     "n": "Louis Zorich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Paul Reiser",
+    "Danny Jacobson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1992-09-23",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 500,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 164,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young, urban newlyweds Paul and Jamie Buchman try to sustain their marital bliss while sidestepping the hurdles of love in the '90s.",
+   "popularity": 40.6726,
+   "poster_path": "/vvnslQjc1LnERuroGVh8bPdBi2r.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-09-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-09-16",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-09-22",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-09-24",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-17",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-09-23",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1998-09-22",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Never marry anyone more neurotic than yourself.",
+   "title": "Mad About You",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.792,
+   "vote_count": 272
+  },
+  "tv:600": {
+   "backdrop_path": "/8LaQ8T9iMQeU207awX2RPWLSTEf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Reno Raines",
+     "n": "Lorenzo Lamas"
+    },
+    {
+     "c": "Bobby Sixkiller",
+     "n": "Branscombe Richmond"
+    },
+    {
+     "c": "Donald 'Dutch' Dixon",
+     "n": "Stephen J. Cannell"
+    },
+    {
+     "c": "Opening Sequence Narrator (voice)",
+     "n": "Don LaFontaine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "USA Network",
+   "created_by": [
+    "Stephen J. Cannell"
+   ],
+   "director": [
+    "BJ Davis",
+    "James Whitmore Jr."
+   ],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "1992-09-19",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 600,
+   "industry": "world",
+   "networks": [
+    "USA Network",
+    "Syndication"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Framed for murder, Detective Reno Raines becomes a fugitive bounty hunter who fights crime while trying to clear his name. His troubles began after he testified about police corruption, leading Lt. Donald Dixon to set him up.",
+   "popularity": 33.5618,
+   "poster_path": "/9ESXaOpVv2EsORITmUz9z26hqC8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-09-19",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-09-18",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-09-12",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-09-11",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-13",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "An outlaw hunting outlaws, a bounty hunter—a renegade",
+   "title": "Renegade",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.782,
+   "vote_count": 156
+  },
+  "tv:900": {
+   "backdrop_path": "/saBnI34QTYTjG9sj8DsembO4PBK.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "E4",
+   "created_by": [
+    "Bryan Elsley",
+    "Jamie Brittain"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2007-01-25",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 900,
+   "industry": "world",
+   "networks": [
+    "E4"
+   ],
+   "number_of_episodes": 61,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Irreverent comedy drama which follows the messy lives, loves, delirious highs and inevitable lows of a group of raucous teenage friends in Bristol.",
+   "popularity": 36.8985,
+   "poster_path": "/bf4L6bB9YOGyrPeLdlpz3FlMZQg.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Vrott Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k8teC7ImsMzvTXhlWV8zu9Bf2hB.png",
+     "name": "Vrott Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-10-10",
+     "episode_count": 65,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-01-25",
+     "episode_count": 9,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-02-11",
+     "episode_count": 10,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-01-22",
+     "episode_count": 10,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-01-28",
+     "episode_count": 8,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-01-27",
+     "episode_count": 8,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-01-23",
+     "episode_count": 10,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2013-07-01",
+     "episode_count": 6,
+     "name": "Series 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Skins",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.139,
+   "vote_count": 1453
   }
  }
 }

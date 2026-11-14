@@ -1,8 +1,8 @@
 {
  "bucket": "35",
- "count": 8,
+ "count": 17,
  "titles": {
-  "10935": {
+  "movie:10935": {
    "backdrop_path": "/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
    "budget": 44000000,
    "cast": [
@@ -119,7 +119,7 @@
    "vote_average": 6.741,
    "vote_count": 444
   },
-  "17835": {
+  "movie:17835": {
    "backdrop_path": "/hA5A3srsuVmKe5tR4UePS2ZPaDw.jpg",
    "budget": 420000,
    "cast": [
@@ -274,7 +274,7 @@
    "vote_average": 7.6,
    "vote_count": 450
   },
-  "48035": {
+  "movie:48035": {
    "backdrop_path": "/62pTb3zkfE2860lIqQFlxQ5tUEL.jpg",
    "budget": 0,
    "cast": [
@@ -404,7 +404,7 @@
    "vote_average": 7.935,
    "vote_count": 437
   },
-  "5335": {
+  "movie:5335": {
    "backdrop_path": "/7o5uc27hJD4L95ZnJO9CR5iHdfQ.jpg",
    "budget": 0,
    "cast": [
@@ -577,7 +577,7 @@
    "vote_average": 6.981,
    "vote_count": 467
   },
-  "764835": {
+  "movie:764835": {
    "backdrop_path": "/qp8qKiP7Q7zK4z3LItwWMHfV9kJ.jpg",
    "budget": 0,
    "cast": [
@@ -721,7 +721,7 @@
    "vote_average": 5.966,
    "vote_count": 494
   },
-  "85435": {
+  "movie:85435": {
    "backdrop_path": "/udq3vR6jqIT8U6lw4zmEMnfFSyK.jpg",
    "budget": 14400000,
    "cast": [
@@ -875,7 +875,7 @@
    "vote_average": 5.7,
    "vote_count": 462
   },
-  "85735": {
+  "movie:85735": {
    "backdrop_path": "/hmmWBSDWEuHnglPHm470MqDJ9Yq.jpg",
    "budget": 0,
    "cast": [
@@ -967,7 +967,7 @@
    "vote_average": 5.744,
    "vote_count": 440
   },
-  "859235": {
+  "movie:859235": {
    "backdrop_path": "/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
    "budget": 12000000,
    "cast": [
@@ -1142,6 +1142,1377 @@
    "type": "movie",
    "vote_average": 6.199,
    "vote_count": 460
+  },
+  "tv:125935": {
+   "backdrop_path": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Janine Teagues",
+     "n": "Quinta Brunson"
+    },
+    {
+     "c": "Gregory Eddie",
+     "n": "Tyler James Williams"
+    },
+    {
+     "c": "Barbara Howard",
+     "n": "Sheryl Lee Ralph"
+    },
+    {
+     "c": "Melissa Schemmenti",
+     "n": "Lisa Ann Walter"
+    },
+    {
+     "c": "Jacob Hill",
+     "n": "Chris Perfetti"
+    },
+    {
+     "c": "Ava Coleman",
+     "n": "Janelle James"
+    },
+    {
+     "c": "Mr. Johnson",
+     "n": "William Stanford Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Quinta Brunson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-12-07",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 125935,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+   "popularity": 46.7845,
+   "poster_path": "/zk2aNVIHoapdWKOcaYp7PhX9SxD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-12-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-02-07",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-10-09",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 9,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Catching a break... Any way they can.",
+   "title": "Abbott Elementary",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 362
+  },
+  "tv:127235": {
+   "backdrop_path": "/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aneesha Malik",
+     "n": "Golshifteh Farahani"
+    },
+    {
+     "c": "Mitsuki Yamato",
+     "n": "Shioli Kutsuna"
+    },
+    {
+     "c": "Trevante Cole",
+     "n": "Shamier Anderson"
+    },
+    {
+     "c": "Jamila Huston",
+     "n": "India Brown"
+    },
+    {
+     "c": "Clark Evans",
+     "n": "Enver Gjokaj"
+    },
+    {
+     "c": "Nikhil Kapur",
+     "n": "Shane Zaza"
+    },
+    {
+     "c": "Verna",
+     "n": "Erika Alexander"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Simon Kinberg",
+    "David Weil"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-10-21",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 127235,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Earth is visited by an alien species that threatens humanity's existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
+   "popularity": 26.5402,
+   "poster_path": "/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-10-21",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-08-22",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-08-21",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The threat has evolved.",
+   "title": "Invasion",
+   "trailer": {
+    "key": "DlaHxL3mHAU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.052,
+   "vote_count": 1250
+  },
+  "tv:127635": {
+   "backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man (Spidey) (voice)",
+     "n": "Nick Fisher"
+    },
+    {
+     "c": "Gwen Stacy / Ghost-Spider (voice)",
+     "n": "Audrey Bennett"
+    },
+    {
+     "c": "Miles Morales / Spider-Man (Spin) (voice)",
+     "n": "Carter Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y",
+   "channel": "Disney Channel",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "2021-08-06",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 127635,
+   "industry": "world",
+   "networks": [
+    "Disney Channel",
+    "Disney Junior"
+   ],
+   "number_of_episodes": 216,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
+   "popularity": 42.3467,
+   "poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-06-21",
+     "episode_count": 52,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-08-06",
+     "episode_count": 50,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-08-19",
+     "episode_count": 58,
+     "name": "Glow Webs Glow/Web-Spinners",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-01-08",
+     "episode_count": 60,
+     "name": "Web-Spinners/Dino-Webs",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-06-16",
+     "episode_count": 38,
+     "name": "Dino-Webs/Water Webs",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-07-13",
+     "episode_count": 10,
+     "name": "Rescue-Webs",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Glow webs glow.",
+   "title": "Spidey and His Amazing Friends",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 268
+  },
+  "tv:1435": {
+   "backdrop_path": "/uinrziSwEmS6s8VvGBad5sed7bF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alicia Florrick",
+     "n": "Julianna Margulies"
+    },
+    {
+     "c": "Diane Lockhart",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "Cary Agos",
+     "n": "Matt Czuchry"
+    },
+    {
+     "c": "Eli Gold",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "Lucca Quinn",
+     "n": "Cush Jumbo"
+    },
+    {
+     "c": "Jason Crouse",
+     "n": "Jeffrey Dean Morgan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Michelle King",
+    "Robert King"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2009-09-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1435,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 156,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail.",
+   "popularity": 72.2583,
+   "poster_path": "/lasNCd45fpPLirlA7QxkuopWro.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-01",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-22",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-28",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-09-21",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Don't let the name fool you.",
+   "title": "The Good Wife",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.626,
+   "vote_count": 722
+  },
+  "tv:236235": {
+   "backdrop_path": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eddie Horniman, Duke of Halstead",
+     "n": "Theo James"
+    },
+    {
+     "c": "Susie Glass",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Freddy Horniman",
+     "n": "Daniel Ings"
+    },
+    {
+     "c": "Lady Sabrina Horniman",
+     "n": "Joely Richardson"
+    },
+    {
+     "c": "Geoff Seacombe",
+     "n": "Vinnie Jones"
+    },
+    {
+     "c": "Uncle Stan",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Bella",
+     "n": "Benedetta Porcaroli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Guy Ritchie"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-03-07",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 236235,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+   "popularity": 44.588,
+   "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-03-07",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-03",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Ambition can't be tamed.",
+   "title": "The Gentlemen",
+   "trailer": {
+    "key": "wyEOwHrpZH4",
+    "name": "The Gentlemen | A Guy Ritchie Series Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.88,
+   "vote_count": 1075
+  },
+  "tv:24835": {
+   "backdrop_path": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tomoya Okazaki (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Nagisa Furukawa (voice)",
+     "n": "Mai Nakahara"
+    },
+    {
+     "c": "Akio Furukawa (voice)",
+     "n": "Ryotaro Okiayu"
+    },
+    {
+     "c": "Sanae Furukawa (voice)",
+     "n": "Kikuko Inoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2007-10-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 24835,
+   "industry": "world",
+   "networks": [
+    "TBS"
+   ],
+   "number_of_episodes": 44,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Tomoya Okazaki is a third year high school student resentful of his life. His mother passed away from a car accident when he was younger, causing his father to resort to alcohol and cigarettes. This results in fights between the two until Tomoya's shoulder is injured in a fight. Since then, Tomoya has had distant relationships with his father, causing him to become a delinquent over time. While on a walk to school, he meets a strange girl named Nagisa Furukawa who is a year older, but is repeating due to illness. Due to this, she is often alone as most of her friends have moved on. The two begin hanging out and slowly, as time goes by, Tomoya finds his life shifting in a new direction.",
+   "popularity": 27.2355,
+   "poster_path": "/jPBMYp4ddXkGJDSxxmaKBjzv2r3.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/63UDiSB2rJAEUaxUXTNZbGNnjRm.png",
+     "name": "Hidive Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-03-28",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-10-05",
+     "episode_count": 22,
+     "name": "Clannad",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-10-03",
+     "episode_count": 22,
+     "name": "Clannad: After Story",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Clannad",
+   "trailer": {
+    "key": "IecYMqp1N4k",
+    "name": "Clannad ~After Story~ Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 500
+  },
+  "tv:50035": {
+   "backdrop_path": "/1kTVbczFhMDA2dyJO4GvoMwWu38.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clarence / Camden / Mavis (voice)",
+     "n": "Spencer Rothbell"
+    },
+    {
+     "c": "Sumo (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Jeff (voice)",
+     "n": "Sean Giambrone"
+    },
+    {
+     "c": "Mary / Ms. Baker / Ms. Shoop (voice)",
+     "n": "Katie Crown"
+    },
+    {
+     "c": "Chad (voice)",
+     "n": "Eric Edelstein"
+    },
+    {
+     "c": "Belson / Percy (voice)",
+     "n": "Roger Craig Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Skyler Page"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2014-04-14",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 50035,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 129,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world of noise, Clarence is a jar of sunshine, pure and simple. He sees the world only in his favorite colors: goofy grape and neon green. Clarence values his friends Jeff and Sumo and his mother Mary more than gold. No matter what happens, good or bad, nothing brings Clarence down.",
+   "popularity": 40.1042,
+   "poster_path": "/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-02-17",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-04-14",
+     "episode_count": 51,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-01-18",
+     "episode_count": 38,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-02-10",
+     "episode_count": 40,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Clarence",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.025,
+   "vote_count": 358
+  },
+  "tv:60735": {
+   "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barry Allen / The Flash",
+     "n": "Grant Gustin"
+    },
+    {
+     "c": "Iris West-Allen",
+     "n": "Candice Patton"
+    },
+    {
+     "c": "Khione",
+     "n": "Danielle Panabaker"
+    },
+    {
+     "c": "Cecile Horton",
+     "n": "Danielle Nicolet"
+    },
+    {
+     "c": "Allegra Garcia",
+     "n": "Kayla Compton"
+    },
+    {
+     "c": "Chester P. Runk",
+     "n": "Brandon McKnight"
+    },
+    {
+     "c": "Mark Blaine / Chillblaine",
+     "n": "Jon Cor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Geoff Johns",
+    "Greg Berlanti",
+    "Andrew Kreisberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-10-07",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60735,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 184,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+   "popularity": 1163.6659,
+   "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-04-19",
+     "episode_count": 72,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-10-06",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-05",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-03",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-10-10",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-10-09",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-10-08",
+     "episode_count": 19,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-03-02",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-11-16",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2023-02-08",
+     "episode_count": 13,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The fastest man alive.",
+   "title": "The Flash",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.738,
+   "vote_count": 11867
+  },
+  "tv:67335": {
+   "backdrop_path": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Catalina Santana",
+     "n": "Carmen Villalobos"
+    },
+    {
+     "c": "Catalina Marín",
+     "n": "Carolina Gaitán"
+    },
+    {
+     "c": "Yésica Beltrán \"La Diabla\"",
+     "n": "Majida Issa"
+    },
+    {
+     "c": "Albeiro Marín",
+     "n": "Fabián Ríos"
+    },
+    {
+     "c": "Hilda Santana",
+     "n": "Catherine Siachoque"
+    },
+    {
+     "c": "Santiago Sanín",
+     "n": "Roberto Manrique"
+    },
+    {
+     "c": "Hernán Darío Bayona 'Nachi'",
+     "n": "Juan Pablo Urrego"
+    },
+    {
+     "c": "José Luis Vargas \"Jota\"",
+     "n": "Francisco Bolívar"
+    },
+    {
+     "c": "Esteban Calvo",
+     "n": "Manuel Antonio Gómez"
+    },
+    {
+     "c": "Aurelio Jaramillo \"El Titi\"",
+     "n": "Gregorio Pernía"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Telemundo",
+   "created_by": [
+    "Gustavo Bolívar"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2016-07-19",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 67335,
+   "industry": "world",
+   "networks": [
+    "Telemundo"
+   ],
+   "number_of_episodes": 240,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "CO",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+   "popularity": 37.3164,
+   "poster_path": "/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+   "production_countries": [
+    "CO",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-07-19",
+     "episode_count": 90,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-07-20",
+     "episode_count": 87,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-06-12",
+     "episode_count": 63,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Sin senos sí hay paraíso",
+   "trailer": {
+    "key": "4la3R5i57u4",
+    "name": "Sin Senos Si Hay Paraíso 2 | Avance exclusivo de la nueva temporada | Telemundo",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.571,
+   "vote_count": 2950
   }
  }
 }

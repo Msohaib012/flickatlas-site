@@ -1,8 +1,8 @@
 {
  "bucket": "06",
- "count": 11,
+ "count": 22,
  "titles": {
-  "10606": {
+  "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
    "budget": 9000000,
    "cast": [
@@ -145,7 +145,7 @@
    "vote_average": 6.11,
    "vote_count": 480
   },
-  "114606": {
+  "movie:114606": {
    "backdrop_path": "/iefrdyVseBkydA2L6pMkuYhod9W.jpg",
    "budget": 0,
    "cast": [
@@ -338,7 +338,7 @@
    "vote_average": 5.658,
    "vote_count": 477
   },
-  "121606": {
+  "movie:121606": {
    "backdrop_path": "/fF5XLTGoZEsP84wcDF3HtGNp5zm.jpg",
    "budget": 0,
    "cast": [
@@ -507,7 +507,7 @@
    "vote_average": 6.329,
    "vote_count": 499
   },
-  "15206": {
+  "movie:15206": {
    "backdrop_path": "/tEJf6vcobkTzIk2cRJYvLKeUuLY.jpg",
    "budget": 3500000,
    "cast": [
@@ -671,7 +671,7 @@
    "vote_average": 4.552,
    "vote_count": 469
   },
-  "21506": {
+  "movie:21506": {
    "backdrop_path": "/9gF8o7nNCWtzYiiAkvPNGw4yxsg.jpg",
    "budget": 2000000,
    "cast": [
@@ -893,7 +893,7 @@
    "vote_average": 6.891,
    "vote_count": 474
   },
-  "34106": {
+  "movie:34106": {
    "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
    "budget": 1640000,
    "cast": [
@@ -994,7 +994,7 @@
    "vote_average": 7.479,
    "vote_count": 473
   },
-  "360606": {
+  "movie:360606": {
    "backdrop_path": "/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
    "budget": 9000000,
    "cast": [
@@ -1130,7 +1130,7 @@
    "vote_average": 7.232,
    "vote_count": 450
   },
-  "500006": {
+  "movie:500006": {
    "backdrop_path": "/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
    "budget": 22000000,
    "cast": [
@@ -1234,7 +1234,7 @@
    "vote_average": 7.114,
    "vote_count": 472
   },
-  "519106": {
+  "movie:519106": {
    "backdrop_path": "/gTql1SBpG15fzsoYKQZZtKujSxI.jpg",
    "budget": 0,
    "cast": [
@@ -1400,7 +1400,7 @@
    "vote_average": 6.012,
    "vote_count": 484
   },
-  "70706": {
+  "movie:70706": {
    "backdrop_path": "/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg",
    "budget": 0,
    "cast": [
@@ -1541,7 +1541,7 @@
    "vote_average": 5.79,
    "vote_count": 470
   },
-  "977506": {
+  "movie:977506": {
    "backdrop_path": "/czVIuIXqDPgCBHI3vLYQcRtzAo7.jpg",
    "budget": 13700000,
    "cast": [
@@ -1735,6 +1735,1931 @@
    "type": "movie",
    "vote_average": 6.462,
    "vote_count": 485
+  },
+  "tv:106": {
+   "backdrop_path": "/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andy Taylor",
+     "n": "Andy Griffith"
+    },
+    {
+     "c": "Opie Taylor",
+     "n": "Ron Howard"
+    },
+    {
+     "c": "Aunt Bee Taylor",
+     "n": "Frances Bavier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "CBS",
+   "created_by": [
+    "Sheldon Leonard",
+    "Danny Thomas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1960-10-03",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 106,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 249,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Andy Taylor is the widowed sheriff of the fictional small community of Mayberry, North Carolina. His life is complicated by an inept, but well-meaning deputy, Barney Fife, a spinster aunt and housekeeper, Aunt Bee, and a precocious young son, Opie. Local ne'er-do-wells, bumbling pals, and temperamental girlfriends further complicate his life.",
+   "popularity": 63.3922,
+   "poster_path": "/x2DNKGyeJ273Tt5hwty4GQnbwkV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1960-02-15",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1960-10-03",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1961-10-02",
+     "episode_count": 31,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1962-10-01",
+     "episode_count": 32,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1963-09-30",
+     "episode_count": 32,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1964-09-21",
+     "episode_count": 32,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1965-09-13",
+     "episode_count": 30,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1966-09-12",
+     "episode_count": 30,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1967-09-11",
+     "episode_count": 30,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Nip it in the bud!",
+   "title": "The Andy Griffith Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.625,
+   "vote_count": 180
+  },
+  "tv:1606": {
+   "backdrop_path": "/dWhMavg03rBGM96JSQmiUGcj3WE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Melinda Gordon",
+     "n": "Jennifer Love Hewitt"
+    },
+    {
+     "c": "Delia Banks",
+     "n": "Camryn Manheim"
+    },
+    {
+     "c": "Eli James",
+     "n": "Jamie Kennedy"
+    },
+    {
+     "c": "Aiden Lucas",
+     "n": "Connor Gibbs"
+    },
+    {
+     "c": "Sam \"Jim\" Lucas",
+     "n": "David Conrad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "John Gray"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-09-23",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 1606,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 107,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+   "popularity": 49.425,
+   "poster_path": "/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 33,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-09-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-22",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-28",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-10-03",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-09-25",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The dead are talking...and she is listening.",
+   "title": "Ghost Whisperer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.059,
+   "vote_count": 1934
+  },
+  "tv:1706": {
+   "backdrop_path": "/uSNmMsfadV5dEhYEwqn6Kojctj9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jarod",
+     "n": "Michael T. Weiss"
+    },
+    {
+     "c": "Miss Parker/Catherine Parker",
+     "n": "Andrea Parker"
+    },
+    {
+     "c": "Sydney/Jacob",
+     "n": "Patrick Bauchau"
+    },
+    {
+     "c": "Broots",
+     "n": "Jon Gries"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Craig W. Van Sickle",
+    "Steven Long Mitchell"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "1996-09-19",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 1706,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 86,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Raised in a secret facility built for experimenting on children, Jarod is a genius who can master any profession and become anyone he has to be. When he realizes as an adult that he's actually a prisoner and his captors are not as benevolent as he's been told, he breaks out. While trying to find his real identity, Jarod helps those he encounters and tries to avoid the woman sent to retrieve him.",
+   "popularity": 25.1216,
+   "poster_path": "/76q5tPOPQkQYIuZu2SG6viZcp2b.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-01-22",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-09-19",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-11-01",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-10-17",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-25",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Hero of a thousand faces. Man of a thousand lives.",
+   "title": "The Pretender",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.387,
+   "vote_count": 230
+  },
+  "tv:1906": {
+   "backdrop_path": "/pIe3Gn1NcE0fQJZuNn31CCSxR2Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Gallagher",
+     "n": "David Threlfall"
+    },
+    {
+     "c": "Shane Maguire",
+     "n": "Nicky Evans"
+    },
+    {
+     "c": "Karen Maguire",
+     "n": "Rebecca Atkinson"
+    },
+    {
+     "c": "Mimi Maguire",
+     "n": "Tina Malone"
+    },
+    {
+     "c": "Jamie Maguire",
+     "n": "Aaron McCusker"
+    },
+    {
+     "c": "Chesney Karib",
+     "n": "Qasim Akhtar"
+    },
+    {
+     "c": "Lillian Tyler",
+     "n": "Alice Barry"
+    },
+    {
+     "c": "Aidan Croker",
+     "n": "Robbie Conway"
+    },
+    {
+     "c": "Avril Powell",
+     "n": "Karen Bryson"
+    },
+    {
+     "c": "Letitia Powell",
+     "n": "Kira Martin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Channel 4",
+   "created_by": [
+    "Paul Abbott"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2004-01-13",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1906,
+   "industry": "world",
+   "networks": [
+    "Channel 4"
+   ],
+   "number_of_episodes": 138,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The story of a young group of siblings pretty much abandoned by their parents, surviving by their wits - and humor - on a rough Manchester council estate. Whilst they won't admit it, they need help and find it in Steve, a young middle class lad who falls for Fiona, the oldest sibling, and increasingly finds himself drawn to this unconventional and unique family. Anarchic family life seen through the eyes of an exceptionally bright fifteen year old, who struggles to come of age in the context of his belligerent father, closeted brother, psychotic sister and internet porn star neighbors.",
+   "popularity": 35.5648,
+   "poster_path": "/kE30UWJvJZ03KIIJMmL6m6YoG0l.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-12-23",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-01-13",
+     "episode_count": 7,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-01-04",
+     "episode_count": 10,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-01-03",
+     "episode_count": 8,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-01-09",
+     "episode_count": 8,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-01-01",
+     "episode_count": 16,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-01-27",
+     "episode_count": 16,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-01-26",
+     "episode_count": 16,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-01-10",
+     "episode_count": 22,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-01-09",
+     "episode_count": 11,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-09-12",
+     "episode_count": 10,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-02-26",
+     "episode_count": 14,
+     "name": "Series 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Shameless",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.549,
+   "vote_count": 163
+  },
+  "tv:2406": {
+   "backdrop_path": "/1fLufp1ZI2cofG4rV2xYYk4ahSS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jordan Cavanaugh",
+     "n": "Jill Hennessy"
+    },
+    {
+     "c": "Garrett Macy",
+     "n": "Miguel Ferrer"
+    },
+    {
+     "c": "Woody Hoyt",
+     "n": "Jerry O'Connell"
+    },
+    {
+     "c": "Nigel Townsend",
+     "n": "Steve Valentine"
+    },
+    {
+     "c": "Mahesh 'Bug' Vijay",
+     "n": "Ravi Kapoor"
+    },
+    {
+     "c": "Lily Lebowski",
+     "n": "Kathryn Hahn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "NBC",
+   "created_by": [
+    "Tim Kring"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2001-09-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 2406,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 117,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Crossing Jordan is an American television crime/drama series that stars Jill Hennessy as Jordan Cavanaugh, M.D., a crime-solving forensic pathologist employed in the Massachusetts Office of the Chief Medical Examiner.",
+   "popularity": 40.4086,
+   "poster_path": "/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-09-24",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-09-23",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-03-07",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-09-26",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-01-14",
+     "episode_count": 17,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Every body tells a story.",
+   "title": "Crossing Jordan",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 167
+  },
+  "tv:2506": {
+   "backdrop_path": "/3wGykQ9hQzX6YVayQRvEDVhU8bF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe Hackett",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Brian Hackett",
+     "n": "Steven Weber"
+    },
+    {
+     "c": "Helen Chapel",
+     "n": "Crystal Bernard"
+    },
+    {
+     "c": "Roy Biggins",
+     "n": "David Schramm"
+    },
+    {
+     "c": "Fay Cochran",
+     "n": "Rebecca Schull"
+    },
+    {
+     "c": "Antonio Scarpacci",
+     "n": "Tony Shalhoub"
+    },
+    {
+     "c": "Casey Davenport",
+     "n": "Amy Yasbeck"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "David Angell",
+    "Peter Casey",
+    "David Clark Lee"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1990-04-19",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 2506,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 172,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Brothers Brian and Joe Hackett attempt to run an airline on the New England island of Nantucket while surrounded by their various wacky friends and employees.",
+   "popularity": 35.3812,
+   "poster_path": "/eqf5p8fU7liYAMznUBMWMeSYfCQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-04-19",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-09-28",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-09-19",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-09-24",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-09-16",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-09-20",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1995-09-19",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1996-09-18",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Look, up in the air. It's a bird! It's a plane! It's a high-flying comedy - where the laughs always arrive on schedule!",
+   "title": "Wings",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 151
+  },
+  "tv:37606": {
+   "backdrop_path": "/gmO3aezFgDcrhcymhNSJLGZ3CT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gumball Watterson (voice)",
+     "n": "Nicolas Cantu"
+    },
+    {
+     "c": "Anais Watterson (voice)",
+     "n": "Kyla Kowalewski"
+    },
+    {
+     "c": "Darwin Watterson (voice)",
+     "n": "Donielle T. Hansley Jr."
+    },
+    {
+     "c": "Darwin Watterson (voice)",
+     "n": "Christian J. Simon"
+    },
+    {
+     "c": "Nicole Watterson / Penny Fitzgerald / Teri / Mrs. Robinson (voice)",
+     "n": "Teresa Gallagher"
+    },
+    {
+     "c": "Richard Watterson / Patrick Fitzgerald (voice)",
+     "n": "Dan Russell"
+    },
+    {
+     "c": "Larry Needlemeyer / Leslie / Bobert / Hector / Additional Voices (voice)",
+     "n": "Kerry Shale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Ben Bocquelet"
+   ],
+   "director": [
+    "Mic Graves"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2011-05-03",
+   "genres": [
+    "Animation",
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 37606,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 240,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+   "popularity": 79.4197,
+   "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+   "production_countries": [
+    "GB",
+    "DE",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-05-09",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-05-03",
+     "episode_count": 36,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-08-07",
+     "episode_count": 40,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-06-05",
+     "episode_count": 40,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-07-07",
+     "episode_count": 40,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-09-01",
+     "episode_count": 40,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-01-05",
+     "episode_count": 44,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Amazing World of Gumball",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.534,
+   "vote_count": 1831
+  },
+  "tv:44006": {
+   "backdrop_path": "/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly Severide",
+     "n": "Taylor Kinney"
+    },
+    {
+     "c": "Christopher Herrmann",
+     "n": "David Eigenberg"
+    },
+    {
+     "c": "Randy 'Mouch' McHolland",
+     "n": "Christian Stolte"
+    },
+    {
+     "c": "Stella Kidd",
+     "n": "Miranda Rae Mayo"
+    },
+    {
+     "c": "Violet Mikami",
+     "n": "Hanako Greensmith"
+    },
+    {
+     "c": "Paramedic Lyla 'Lizzie' Novak",
+     "n": "Jocelyn Hudon"
+    },
+    {
+     "c": "Salvador 'Sal' Vasquez",
+     "n": "Brandon Larracuente"
+    },
+    {
+     "c": "Marcus Burke",
+     "n": "Da'Vinchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Derek Haas",
+    "Michael Brandt"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2012-10-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 44006,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 301,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+   "popularity": 169.649,
+   "poster_path": "/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-02-11",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-10-10",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-09-24",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-09-23",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-10-13",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-10-11",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-09-28",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2020-11-11",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2024-01-17",
+     "episode_count": 13,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2024-09-25",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 21,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 9,
+     "name": "Season 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Welcome home.",
+   "title": "Chicago Fire",
+   "trailer": {
+    "key": "IIeSDILTE5M",
+    "name": "Season One | Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.413,
+   "vote_count": 2467
+  },
+  "tv:4606": {
+   "backdrop_path": "/4qcNKcng7HYlKJJ0DFYIH52gWNF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Garfield (voice)",
+     "n": "Lorenzo Music"
+    },
+    {
+     "c": "Odie / Orson (voice)",
+     "n": "Gregg Berger"
+    },
+    {
+     "c": "Jon Arbuckle / Roy / Binky the Clown (voice)",
+     "n": "Thom Huge"
+    },
+    {
+     "c": "Wade (voice)",
+     "n": "Howard Morris"
+    },
+    {
+     "c": "Bo / Booker / Sheldon (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Dr. Liz / Lanolin (voice)",
+     "n": "Julie Payne"
+    },
+    {
+     "c": "Nermal (voice)",
+     "n": "Desiree Goyette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "CBS",
+   "created_by": [
+    "Jim Davis"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1988-09-17",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 4606,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 363,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+   "popularity": 55.675,
+   "poster_path": "/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1988-09-17",
+     "episode_count": 39,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1989-09-16",
+     "episode_count": 78,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1990-09-15",
+     "episode_count": 54,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1991-09-14",
+     "episode_count": 48,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1992-09-19",
+     "episode_count": 48,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1993-09-18",
+     "episode_count": 48,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1994-09-17",
+     "episode_count": 48,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Garfield and Friends",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 415
+  },
+  "tv:57706": {
+   "backdrop_path": "/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ranma Saotome ♂ (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Ranma Saotome ♀ (voice)",
+     "n": "Megumi Hayashibara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1989-04-15",
+   "genres": [
+    "Comedy",
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 57706,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 161,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
+   "popularity": 59.9976,
+   "poster_path": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-11-07",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-04-15",
+     "episode_count": 161,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Ranma ½",
+   "trailer": {
+    "key": "ykQrD1J09ts",
+    "name": "Blu-ray Set 1 - Official Trailer - VIZ Media",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 1556
+  },
+  "tv:75006": {
+   "backdrop_path": "/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Number Five",
+     "n": "Aidan Gallagher"
+    },
+    {
+     "c": "Viktor Hargreeves / Number Seven",
+     "n": "Elliot Page"
+    },
+    {
+     "c": "Luther Hargreeves / Number One",
+     "n": "Tom Hopper"
+    },
+    {
+     "c": "Allison Hargreeves / Number Three",
+     "n": "Emmy Raver-Lampman"
+    },
+    {
+     "c": "Klaus Hargreeves / Number Four",
+     "n": "Robert Sheehan"
+    },
+    {
+     "c": "Diego Hargreeves / Number Two",
+     "n": "David Castañeda"
+    },
+    {
+     "c": "Ben Hargreeves / Number Six",
+     "n": "Justin H. Min"
+    },
+    {
+     "c": "Lila Pitts",
+     "n": "Ritu Arya"
+    },
+    {
+     "c": "Sir Reginald Hargreeves",
+     "n": "Colm Feore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Steve Blackman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-02-15",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 75006,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets — and a looming threat to humanity.",
+   "popularity": 25.7439,
+   "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-08-18",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-02-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-07-31",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-06-22",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-08-08",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Too many siblings. Not enough timeline.",
+   "title": "The Umbrella Academy",
+   "trailer": {
+    "key": "0DAmWHxeoKw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.446,
+   "vote_count": 10212
   }
  }
 }

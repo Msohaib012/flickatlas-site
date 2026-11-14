@@ -1,8 +1,8 @@
 {
  "bucket": "14",
- "count": 10,
+ "count": 19,
  "titles": {
-  "12614": {
+  "movie:12614": {
    "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
    "budget": 15000000,
    "cast": [
@@ -155,7 +155,7 @@
    "vote_average": 7.3,
    "vote_count": 471
   },
-  "14114": {
+  "movie:14114": {
    "backdrop_path": "/t2AGfYqtbx0BhWbzDpA9JC0RY34.jpg",
    "budget": 8000000,
    "cast": [
@@ -270,7 +270,7 @@
    "vote_average": 6.4,
    "vote_count": 490
   },
-  "16314": {
+  "movie:16314": {
    "backdrop_path": "/qoSIw7XPwpbo5p3WuQoc5AvKZ4.jpg",
    "budget": 6500000,
    "cast": [
@@ -372,7 +372,7 @@
    "vote_average": 5.746,
    "vote_count": 499
   },
-  "20714": {
+  "movie:20714": {
    "backdrop_path": "/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
    "budget": 4000000,
    "cast": [
@@ -463,7 +463,7 @@
    "vote_average": 6.636,
    "vote_count": 436
   },
-  "26914": {
+  "movie:26914": {
    "backdrop_path": "/tUpwbw38aR5Ka175adYtJViqcWR.jpg",
    "budget": 65000,
    "cast": [
@@ -573,7 +573,7 @@
    "vote_average": 3.936,
    "vote_count": 494
   },
-  "27414": {
+  "movie:27414": {
    "backdrop_path": "/x2vgmjG6yPh6dT6U4057KqsWXKh.jpg",
    "budget": 1065000,
    "cast": [
@@ -827,7 +827,7 @@
    "vote_average": 5.9,
    "vote_count": 467
   },
-  "33914": {
+  "movie:33914": {
    "backdrop_path": "/r76QpU49VuKiMhJMx3PYDXmeQ8x.jpg",
    "budget": 0,
    "cast": [
@@ -959,7 +959,7 @@
    "vote_average": 6.935,
    "vote_count": 468
   },
-  "395814": {
+  "movie:395814": {
    "backdrop_path": "/3vSrGsnMjzAycIU80udh7NFAJkP.jpg",
    "budget": 0,
    "cast": [
@@ -1072,7 +1072,7 @@
    "vote_average": 6.078,
    "vote_count": 498
   },
-  "52214": {
+  "movie:52214": {
    "backdrop_path": "/bro3aAx14EfSG5SQqL4P3mLDkfe.jpg",
    "budget": 0,
    "cast": [
@@ -1161,7 +1161,7 @@
    "vote_average": 5.7,
    "vote_count": 489
   },
-  "96714": {
+  "movie:96714": {
    "backdrop_path": "/6VKQ2ynCyPcrVIkP5S3cP3kcC7M.jpg",
    "budget": 6453637,
    "cast": [
@@ -1310,6 +1310,1808 @@
    "type": "movie",
    "vote_average": 7.172,
    "vote_count": 443
+  },
+  "tv:12614": {
+   "backdrop_path": "/fF3WxjOMQC1vYbSBGp69qTesute.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabriela Chávez",
+     "n": "Sherlyn"
+    },
+    {
+     "c": "Kike González",
+     "n": "Aarón Díaz"
+    },
+    {
+     "c": "Juan David Rodríguez Pineda",
+     "n": "Alfonso Herrera"
+    },
+    {
+     "c": "Marcela Mejía",
+     "n": "Dulce María"
+    },
+    {
+     "c": "Daniela Jiménez Robles",
+     "n": "Grettell Valdéz"
+    },
+    {
+     "c": "Fernando Lucena 'Fercho'",
+     "n": "Christian Chávez"
+    },
+    {
+     "c": "Carlos Muñoz 'El Caballo'",
+     "n": "Francisco Rubio"
+    },
+    {
+     "c": "Freddy Ordóñez Peñaloza",
+     "n": "Frantz Cossío"
+    },
+    {
+     "c": "Antonio \"Chacho\" Mendoza Cuervo",
+     "n": "Arap Bethke"
+    },
+    {
+     "c": "Alejandro Acero Pineda",
+     "n": "Imanol"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "Univision",
+   "created_by": [
+    "Pedro Damián"
+   ],
+   "director": [
+    "Juan Carlos Muñoz",
+    "Luis Pardo"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2002-07-01",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 12614,
+   "industry": "world",
+   "networks": [
+    "Univision",
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 350,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "The realistic chronicles of a working class group of Hispanic youth, with heavy subject matter like sex, drug dealing, teen pregnancy, abuse, drinking, rape, deception, and heartbreak.",
+   "popularity": 35.5039,
+   "poster_path": "/jxDBJk0qwfoj18LMtK4gdvICa85.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-07-01",
+     "episode_count": 35,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-08-19",
+     "episode_count": 100,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-01-06",
+     "episode_count": 165,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-08-25",
+     "episode_count": 50,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Clase 406",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 265
+  },
+  "tv:1414": {
+   "backdrop_path": "/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vic Mackey",
+     "n": "Michael Chiklis"
+    },
+    {
+     "c": "Danielle 'Danny' Sofer",
+     "n": "Catherine Dent"
+    },
+    {
+     "c": "Tina Hanlon",
+     "n": "Paula Garcés"
+    },
+    {
+     "c": "Shane Vendrell",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Julien Lowe",
+     "n": "Michael Jace"
+    },
+    {
+     "c": "Holland 'Dutch' Wagenbach",
+     "n": "Jay Karnes"
+    },
+    {
+     "c": "David Aceveda",
+     "n": "Benito Martinez"
+    },
+    {
+     "c": "Steve Billings",
+     "n": "David Marciano"
+    },
+    {
+     "c": "Claudette Wyms",
+     "n": "CCH Pounder"
+    },
+    {
+     "c": "Corrine Mackey",
+     "n": "Cathy Cahlin Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "FX",
+   "created_by": [
+    "Shawn Ryan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2002-03-12",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 1414,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of an inner-city Los Angeles police precinct where some of the cops aren't above breaking the rules or working against their associates to both keep the streets safe and their self-interests intact.",
+   "popularity": 43.1049,
+   "poster_path": "/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-01-07",
+     "episode_count": 34,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-03-12",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-01-07",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-03-09",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-03-15",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-01-10",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-04-03",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-09-02",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The law is just a suggestion.",
+   "title": "The Shield",
+   "trailer": {
+    "key": "klSVH4dJrGU",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.173,
+   "vote_count": 929
+  },
+  "tv:14814": {
+   "backdrop_path": "/qnTBxxv7q4xVwgZBLb0vtILLelh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Kris Jenner"
+    },
+    {
+     "c": "Self",
+     "n": "Kourtney Kardashian Barker"
+    },
+    {
+     "c": "Self",
+     "n": "Kim Kardashian"
+    },
+    {
+     "c": "Self",
+     "n": "Khloé Kardashian"
+    },
+    {
+     "c": "Self",
+     "n": "Kendall Jenner"
+    },
+    {
+     "c": "Self",
+     "n": "Kylie Jenner"
+    },
+    {
+     "c": "Self",
+     "n": "Scott Disick"
+    },
+    {
+     "c": "Self",
+     "n": "Tristan Thompson"
+    },
+    {
+     "c": "Self",
+     "n": "Corey Gamble"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "E!",
+   "created_by": [
+    "Eliot Goldberg",
+    "Ryan Seacrest"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2007-10-14",
+   "genres": [
+    "Reality"
+   ],
+   "id": 14814,
+   "industry": "world",
+   "networks": [
+    "E!"
+   ],
+   "number_of_episodes": 282,
+   "number_of_seasons": 20,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A peek inside the exploits and privileged private lives of the blended Kardashian-Jenner family, including sisters Kim, Kourtney and Khloé.",
+   "popularity": 55.5251,
+   "poster_path": "/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Hayu"
+    },
+    {
+     "name": "Hayu Amazon Channel"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-12-01",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-10-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-03-09",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-03-08",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-11-08",
+     "episode_count": 11,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-08-22",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-06-12",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-05-20",
+     "episode_count": 19,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-06-02",
+     "episode_count": 21,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-01-19",
+     "episode_count": 20,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2015-03-15",
+     "episode_count": 17,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-11-15",
+     "episode_count": 13,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2016-05-01",
+     "episode_count": 21,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2017-03-12",
+     "episode_count": 14,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 19,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2018-08-05",
+     "episode_count": 16,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2019-03-31",
+     "episode_count": 12,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-09-08",
+     "episode_count": 12,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-03-26",
+     "episode_count": 6,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2020-09-17",
+     "episode_count": 8,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2021-03-18",
+     "episode_count": 14,
+     "name": "Season 20",
+     "season_number": 20
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Family ever after.",
+   "title": "Keeping Up with the Kardashians",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.326,
+   "vote_count": 933
+  },
+  "tv:314": {
+   "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonathan Archer",
+     "n": "Scott Bakula"
+    },
+    {
+     "c": "T'Pol",
+     "n": "Jolene Blalock"
+    },
+    {
+     "c": "Charles 'Trip' Tucker III",
+     "n": "Connor Trinneer"
+    },
+    {
+     "c": "Phlox",
+     "n": "John Billingsley"
+    },
+    {
+     "c": "Malcolm Reed",
+     "n": "Dominic Keating"
+    },
+    {
+     "c": "Hoshi Sato",
+     "n": "Linda Park"
+    },
+    {
+     "c": "Travis Mayweather",
+     "n": "Anthony Montgomery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "UPN",
+   "created_by": [
+    "Brannon Braga",
+    "Rick Berman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2001-09-26",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 314,
+   "industry": "world",
+   "networks": [
+    "UPN"
+   ],
+   "number_of_episodes": 97,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the mid-22nd century, a century before Captain Kirk's five-year mission, Jonathan Archer captains the United Earth ship Enterprise during the early years of Starfleet, leading up to the Earth-Romulan War and the formation of the Federation.",
+   "popularity": 43.8658,
+   "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 96,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-09-26",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-09-08",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-09-10",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-10-08",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The future is closer than you think.",
+   "title": "Star Trek: Enterprise",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.489,
+   "vote_count": 1008
+  },
+  "tv:4414": {
+   "backdrop_path": "/6GzNuxHWvaEzNNVZ5xI0LsqxFCl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Duncan MacLeod",
+     "n": "Adrian Paul"
+    },
+    {
+     "c": "Joe Dawson",
+     "n": "Jim Byrnes"
+    },
+    {
+     "c": "Methos",
+     "n": "Peter Wingfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "Syndication",
+   "created_by": [
+    "Gregory Widen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1992-10-03",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 4414,
+   "industry": "world",
+   "networks": [
+    "Syndication",
+    "RTL",
+    "TF1",
+    "M6"
+   ],
+   "number_of_episodes": 119,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Duncan MacLeod cannot die -- he is a 400-year-old immortal, who has seen his share of humanity's history. Still, he risks his life in battle against other immortals and tries to save people from harm.",
+   "popularity": 31.1,
+   "poster_path": "/rlJzuTbdMAa6jOdpKxxTx8KVN88.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "IT",
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "MyOutdoor TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xikgB1gYVoXNvi28NwMsWy7jFxW.png",
+     "name": "MyOutdoor TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-04-27",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-10-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-10-02",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-10-01",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-10-01",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-23",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-10-04",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "THERE CAN BE ONLY ONE.",
+   "title": "Highlander: The Series",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.387,
+   "vote_count": 441
+  },
+  "tv:4614": {
+   "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Timothy McGee",
+     "n": "Sean Murray"
+    },
+    {
+     "c": "Nick Torres",
+     "n": "Wilmer Valderrama"
+    },
+    {
+     "c": "Jessica Knight",
+     "n": "Katrina Law"
+    },
+    {
+     "c": "Jimmy Palmer",
+     "n": "Brian Dietzen"
+    },
+    {
+     "c": "Kasie Hines",
+     "n": "Diona Reasonover"
+    },
+    {
+     "c": "Alden Parker",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Anthony DiNozzo",
+     "n": "Michael Weatherly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Don McGill",
+    "Donald P. Bellisario"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-09-23",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 4614,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 513,
+   "number_of_seasons": 24,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+   "popularity": 263.0265,
+   "poster_path": "/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-04-22",
+     "episode_count": 123,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-09-28",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-19",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-25",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-09-23",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-22",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-21",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-09-20",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-09-25",
+     "episode_count": 24,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-09-24",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-09-23",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2015-09-22",
+     "episode_count": 24,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 24,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 24,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 24,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 20,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-11-17",
+     "episode_count": 16,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2021-09-20",
+     "episode_count": 21,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2022-09-19",
+     "episode_count": 22,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2024-02-12",
+     "episode_count": 10,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2024-10-14",
+     "episode_count": 20,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2025-10-14",
+     "episode_count": 20,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2026-10-06",
+     "episode_count": 8,
+     "name": "Season 24",
+     "season_number": 24
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Back in force.",
+   "title": "NCIS",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.605,
+   "vote_count": 2618
+  },
+  "tv:52814": {
+   "backdrop_path": "/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Master Chief, Spartan-117 / John-117",
+     "n": "Pablo Schreiber"
+    },
+    {
+     "c": "Dr. Catherine Halsey",
+     "n": "Natascha McElhone"
+    },
+    {
+     "c": "James Ackerson",
+     "n": "Joseph Morgan"
+    },
+    {
+     "c": "Margaret Parangosky",
+     "n": "Shabana Azmi"
+    },
+    {
+     "c": "Cortana",
+     "n": "Christina Bennington"
+    },
+    {
+     "c": "Riz-028",
+     "n": "Natasha Culzac"
+    },
+    {
+     "c": "Dr. Miranda Keyes",
+     "n": "Olive Gray"
+    },
+    {
+     "c": "Kwan Ha",
+     "n": "Yerin Ha"
+    },
+    {
+     "c": "Vannak-134",
+     "n": "Bentley Kalu"
+    },
+    {
+     "c": "Kai-125",
+     "n": "Kate Kennedy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "Kyle Killen",
+    "Steven Kane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-03-24",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 52814,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 17,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+   "popularity": 25.9551,
+   "poster_path": "/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-03-24",
+     "episode_count": 35,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-03-24",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-02-08",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Rise from the fall.",
+   "title": "Halo",
+   "trailer": {
+    "key": "b4doITNi2RE",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.184,
+   "vote_count": 3324
+  },
+  "tv:71914": {
+   "backdrop_path": "/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Moiraine Damodred",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "al'Lan Mandragoran",
+     "n": "Daniel Henney"
+    },
+    {
+     "c": "Rand al'Thor",
+     "n": "Josha Stradowski"
+    },
+    {
+     "c": "Nynaeve al'Meara",
+     "n": "Zoë Robins"
+    },
+    {
+     "c": "Egwene al'Vere",
+     "n": "Madeleine Madden"
+    },
+    {
+     "c": "Perrin Aybara",
+     "n": "Marcus Rutherford"
+    },
+    {
+     "c": "Mat Cauthon",
+     "n": "Dónal Finn"
+    },
+    {
+     "c": "Elayne Trakand",
+     "n": "Ceara Coveney"
+    },
+    {
+     "c": "Lanfear",
+     "n": "Natasha O'Keeffe"
+    },
+    {
+     "c": "Aviendha",
+     "n": "Ayoola Smart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Rafe Judkins"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-11-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 71914,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+   "popularity": 35.5342,
+   "poster_path": "/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-11-18",
+     "episode_count": 21,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-11-18",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-08-31",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-03-13",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Wheel of Time",
+   "trailer": {
+    "key": "11ZozKfRqvA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.581,
+   "vote_count": 2537
+  },
+  "tv:8514": {
+   "backdrop_path": "/jNV9cnBRukyzUdBb1kw1UXY2l9R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "RuPaul"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Michelle Visage"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "MTV",
+   "created_by": [
+    "RuPaul",
+    "Fenton Bailey",
+    "Randy Barbato"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-02-02",
+   "genres": [
+    "Reality"
+   ],
+   "id": 8514,
+   "industry": "world",
+   "networks": [
+    "MTV",
+    "Logo",
+    "VH1"
+   ],
+   "number_of_episodes": 255,
+   "number_of_seasons": 18,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Join RuPaul, the world's most famous drag queen, as the host, mentor and judge for the ultimate in drag queen competitions. The top drag queens in the U.S. will vie for drag stardom as RuPaul, in full glamazon drag, will reign supreme in all judging and eliminations while helping guide the contestants as they prepare for each challenge.",
+   "popularity": 84.5172,
+   "poster_path": "/ySs9xkTfPgQCUNB2ctOzcMWP14n.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "WOW Presents Plus"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/8pME6TzkiDzMnKZioeoqqvfaNya.png",
+     "name": "WOW Presents Plus",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-01-26",
+     "episode_count": 43,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-02-02",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-02-01",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-01-24",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-01-30",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-01-28",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-02-24",
+     "episode_count": 14,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-03-02",
+     "episode_count": 14,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-03-07",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-03-24",
+     "episode_count": 14,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2018-03-22",
+     "episode_count": 14,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2019-02-28",
+     "episode_count": 14,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2020-02-28",
+     "episode_count": 14,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2021-01-01",
+     "episode_count": 16,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2022-01-07",
+     "episode_count": 16,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2023-01-06",
+     "episode_count": 16,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2024-01-05",
+     "episode_count": 16,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2025-01-03",
+     "episode_count": 16,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2026-01-02",
+     "episode_count": 16,
+     "name": "Season 18",
+     "season_number": 18
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "In shady times, let there be light.",
+   "title": "RuPaul's Drag Race",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.475,
+   "vote_count": 301
   }
  }
 }

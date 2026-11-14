@@ -1,8 +1,8 @@
 {
  "bucket": "36",
- "count": 7,
+ "count": 12,
  "titles": {
-  "11536": {
+  "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
    "budget": 4000000,
    "cast": [
@@ -122,7 +122,7 @@
    "vote_average": 7.0,
    "vote_count": 460
   },
-  "121936": {
+  "movie:121936": {
    "backdrop_path": "/cRDXDysyWRh3b2UquaBykvoZRLJ.jpg",
    "budget": 15000000,
    "cast": [
@@ -216,7 +216,7 @@
    "vote_average": 6.1,
    "vote_count": 449
   },
-  "14736": {
+  "movie:14736": {
    "backdrop_path": "/jF71CkY9bHyWvZTNQUThyzecXYb.jpg",
    "budget": 20000000,
    "cast": [
@@ -334,7 +334,7 @@
    "vote_average": 7.342,
    "vote_count": 484
   },
-  "16136": {
+  "movie:16136": {
    "backdrop_path": "/54xcERdFHlRny2FJ9NC4koForkR.jpg",
    "budget": 5000000,
    "cast": [
@@ -508,7 +508,7 @@
    "vote_average": 7.2,
    "vote_count": 491
   },
-  "1936": {
+  "movie:1936": {
    "backdrop_path": "/mhvGp9LGViHQviOu86HW0Boo0kI.jpg",
    "budget": 2195000,
    "cast": [
@@ -658,7 +658,7 @@
    "vote_average": 6.7,
    "vote_count": 498
   },
-  "436": {
+  "movie:436": {
    "backdrop_path": "/q6xEN0Lx214QUXXXlQfLaoJS7EB.jpg",
    "budget": 3000000,
    "cast": [
@@ -776,7 +776,7 @@
    "vote_average": 7.2,
    "vote_count": 447
   },
-  "974036": {
+  "movie:974036": {
    "backdrop_path": "/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
    "budget": 13000000,
    "cast": [
@@ -912,6 +912,808 @@
    "type": "movie",
    "vote_average": 7.652,
    "vote_count": 452
+  },
+  "tv:1436": {
+   "backdrop_path": "/cyieN1P9Xo5SvLasSUT7SaAAzfy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Raylan Givens",
+     "n": "Timothy Olyphant"
+    },
+    {
+     "c": "Boyd Crowder",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Art Mullen",
+     "n": "Nick Searcy"
+    },
+    {
+     "c": "Wynn Duffy",
+     "n": "Jere Burns"
+    },
+    {
+     "c": "Ava Crowder",
+     "n": "Joelle Carter"
+    },
+    {
+     "c": "Tim Gutterson",
+     "n": "Jacob Pitts"
+    },
+    {
+     "c": "Rachel Brooks",
+     "n": "Erica Tazel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "FX",
+   "created_by": [
+    "Graham Yost"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-03-16",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1436,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A character drama based on the 2001 Elmore Leonard short story \"Fire in the Hole.\" Leonard's tale centers around U.S. Marshal Raylan Givens of Kentucky, a quiet but strong-willed official of the law. The tale covers his high-stakes job, as well as his strained relationships with his ex-wife and father.",
+   "popularity": 35.495,
+   "poster_path": "/ie1quhMk09lDtvtAyQAHTu09R9Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-03-16",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-02-09",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-01-17",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-01-08",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-01-07",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-01-20",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "He's law and order.",
+   "title": "Justified",
+   "trailer": {
+    "key": "86zzu8wz0-U",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.984,
+   "vote_count": 908
+  },
+  "tv:28136": {
+   "backdrop_path": "/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenshin Himura (voice)",
+     "n": "Mayo Suzukaze"
+    },
+    {
+     "c": "Kaoru Kamiya (voice)",
+     "n": "Miki Fujitani"
+    },
+    {
+     "c": "Yahiko Myoujin (voice)",
+     "n": "Mina Tominaga"
+    },
+    {
+     "c": "Sanosuke Sagara (voice)",
+     "n": "Yuji Ueda"
+    },
+    {
+     "c": "Megumi Takani (voice)",
+     "n": "Mika Doi"
+    },
+    {
+     "c": "Hajime Saitô (voice)",
+     "n": "Hirotaka Suzuoki"
+    },
+    {
+     "c": "Makimachi Misao (voice)",
+     "n": "Tomo Sakurai"
+    },
+    {
+     "c": "Aoshi Shinomori (voice)",
+     "n": "Yoshito Yasuhara"
+    },
+    {
+     "c": "Gensai (voice)",
+     "n": "Yoku Shioya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1996-01-10",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 28136,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The Meiji Era was one of great renewal for Japan, where swords and killing were outlawed. However, many survivors from the time of Revolution still live, lurking in the shadows and waiting for a chance to use their killing blades again. Only Kenshin Himura, formerly one of the most brutal of killers, hopes to keep his swordsman's honor and still live in the new era.",
+   "popularity": 32.3106,
+   "poster_path": "/lQ4p6OF9KjagTfs8otZt0VTe3Al.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1998-12-02",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-01-10",
+     "episode_count": 27,
+     "name": "Wandering Samurai",
+     "season_number": 1
+    },
+    {
+     "air_date": "1996-10-30",
+     "episode_count": 35,
+     "name": "Legend of Kyoto",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-10-14",
+     "episode_count": 32,
+     "name": "Tales of the Meiji",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Rurouni Kenshin",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.523,
+   "vote_count": 837
+  },
+  "tv:36": {
+   "backdrop_path": "/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Allison Dubois",
+     "n": "Patricia Arquette"
+    },
+    {
+     "c": "Joe Dubois",
+     "n": "Jake Weber"
+    },
+    {
+     "c": "Manuel Devalos",
+     "n": "Miguel Sandoval"
+    },
+    {
+     "c": "Lee Scanlon",
+     "n": "David Cubitt"
+    },
+    {
+     "c": "Ariel Dubois",
+     "n": "Sofia Vassilieva"
+    },
+    {
+     "c": "Bridgette Dubois",
+     "n": "Feodor Lark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Glenn Gordon Caron"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-01-03",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 36,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "CBS"
+   ],
+   "number_of_episodes": 128,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
+   "popularity": 62.7647,
+   "poster_path": "/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-11-21",
+     "episode_count": 30,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-01-03",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-11-15",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-01-07",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-02-02",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-25",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-24",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "She Sees What Others Can't.",
+   "title": "Medium",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.461,
+   "vote_count": 600
+  },
+  "tv:67136": {
+   "backdrop_path": "/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Pearson",
+     "n": "Milo Ventimiglia"
+    },
+    {
+     "c": "Rebecca Pearson",
+     "n": "Mandy Moore"
+    },
+    {
+     "c": "Randall Pearson",
+     "n": "Sterling K. Brown"
+    },
+    {
+     "c": "Kate Pearson",
+     "n": "Chrissy Metz"
+    },
+    {
+     "c": "Kevin Pearson",
+     "n": "Justin Hartley"
+    },
+    {
+     "c": "Beth Pearson",
+     "n": "Susan Kelechi Watson"
+    },
+    {
+     "c": "Toby Damon",
+     "n": "Chris Sullivan"
+    },
+    {
+     "c": "Miguel Rivas",
+     "n": "Jon Huertas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Dan Fogelman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-09-20",
+   "genres": [
+    "Drama"
+   ],
+   "id": 67136,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 105,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+   "popularity": 55.3624,
+   "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-13",
+     "episode_count": 119,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-10-27",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-01-04",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "This is real. This is love. This is life.",
+   "title": "This Is Us",
+   "trailer": {
+    "key": "ViBgNO0FpmE",
+    "name": "All The Feels",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.224,
+   "vote_count": 1694
+  },
+  "tv:936": {
+   "backdrop_path": "/ebbeTgwFRvKEdFSAoHsBPvZsAFf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Desaad (voice)",
+     "n": "René Auberjonois"
+    },
+    {
+     "c": "Aquaman (voice)",
+     "n": "William Callaway"
+    },
+    {
+     "c": "Superman (voice)",
+     "n": "Danny Dark"
+    },
+    {
+     "c": "Cyborg (voice)",
+     "n": "Ernie Hudson"
+    },
+    {
+     "c": "Robin (voice)",
+     "n": "Casey Kasem"
+    },
+    {
+     "c": "Firestorm (voice)",
+     "n": "Mark L. Taylor"
+    },
+    {
+     "c": "Darkseid (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Wonder Woman (voice)",
+     "n": "B.J. Ward"
+    },
+    {
+     "c": "Batman (voice)",
+     "n": "Adam West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "ABC",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1973-09-08",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 936,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 109,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The most powerful heroes ever--Superman, Wonder Woman, Aquaman, Batman and Robin--join forces with teenagers Wendy and Marvin and their dog, Marvel the Wonderdog, to defend justice and guard the innocent.",
+   "popularity": 24.5982,
+   "poster_path": "/3AvUm2Lf7YnEb7yHIJmC87mh0kK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1973-09-08",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1977-09-10",
+     "episode_count": 15,
+     "name": "The All-New Super Friends Hour",
+     "season_number": 2
+    },
+    {
+     "air_date": "1978-09-09",
+     "episode_count": 32,
+     "name": "Challenge of the Super Friends",
+     "season_number": 3
+    },
+    {
+     "air_date": "1979-09-22",
+     "episode_count": 8,
+     "name": "The World's Greatest Super Friends",
+     "season_number": 4
+    },
+    {
+     "air_date": "1980-09-13",
+     "episode_count": 8,
+     "name": "Super Friends - A Dangerous Fate",
+     "season_number": 5
+    },
+    {
+     "air_date": "1981-09-26",
+     "episode_count": 6,
+     "name": "Super Friends! Legacy Of Super Powers",
+     "season_number": 6
+    },
+    {
+     "air_date": "1983-09-10",
+     "episode_count": 8,
+     "name": "Super Friends - The Lost Episodes",
+     "season_number": 7
+    },
+    {
+     "air_date": "1984-09-08",
+     "episode_count": 8,
+     "name": "Super Friends: The Legendary Super Powers Show",
+     "season_number": 8
+    },
+    {
+     "air_date": "1985-09-07",
+     "episode_count": 8,
+     "name": "The Super Powers Team: Galactic Guardians",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Super Friends",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 167
   }
  }
 }

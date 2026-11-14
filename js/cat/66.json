@@ -1,8 +1,8 @@
 {
  "bucket": "66",
- "count": 3,
+ "count": 9,
  "titles": {
-  "417466": {
+  "movie:417466": {
    "backdrop_path": "/iqd7U0nrQw9zKUKyG05dtWpBVJT.jpg",
    "budget": 1800000,
    "cast": [
@@ -172,7 +172,7 @@
    "vote_average": 6.641,
    "vote_count": 461
   },
-  "43266": {
+  "movie:43266": {
    "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
    "budget": 800000,
    "cast": [
@@ -326,7 +326,7 @@
    "vote_average": 7.314,
    "vote_count": 480
   },
-  "606566": {
+  "movie:606566": {
    "backdrop_path": "/hsAZKgLMhReTakzdBxCAJsTinea.jpg",
    "budget": 0,
    "cast": [
@@ -423,6 +423,860 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 444
+  },
+  "tv:11466": {
+   "backdrop_path": "/91AH5BKrPHSCkUcvUp9mZRMyTCa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roi Arthur",
+     "n": "Alexandre Astier"
+    },
+    {
+     "c": "Guenièvre",
+     "n": "Anne Girouard"
+    },
+    {
+     "c": "Léodagan",
+     "n": "Lionnel Astier"
+    },
+    {
+     "c": "Séli",
+     "n": "Joëlle Sevilla"
+    },
+    {
+     "c": "Lancelot",
+     "n": "Thomas Cousseau"
+    },
+    {
+     "c": "Perceval",
+     "n": "Franck Pitiot"
+    },
+    {
+     "c": "Karadoc",
+     "n": "Jean-Christophe Hembert"
+    },
+    {
+     "c": "Bohort",
+     "n": "Nicolas Gabion"
+    },
+    {
+     "c": "Galessin",
+     "n": "Alexis Hénon"
+    },
+    {
+     "c": "Calogrenant",
+     "n": "Stéphane Margot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "channel": "M6",
+   "created_by": [
+    "Alexandre Astier"
+   ],
+   "director": [],
+   "episode_run_time": [
+    40,
+    52,
+    4,
+    7
+   ],
+   "first_air_date": "2005-01-03",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 11466,
+   "industry": "world",
+   "networks": [
+    "M6"
+   ],
+   "number_of_episodes": 458,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "An offbeat account of King Arthur's quest for the Grail, where virtually every journey, battle or adventure is stopped dead in its tracks by the Knights of the Round Table's most worldly traits: cowardice, greed, idiocy or misplaced chivalry. Consequently, instead of epic adventures, the characters' pragmatism and anachronisms take on each and every event in the Grail legend, true to the purest sitcom tradition.",
+   "popularity": 40.1908,
+   "poster_path": "/oy6ZhZd8zGjrJrPjCBCIc4bk5Qz.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-09-28",
+     "episode_count": 26,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-01-03",
+     "episode_count": 100,
+     "name": "Livre I",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-05-02",
+     "episode_count": 100,
+     "name": "Livre II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-01-09",
+     "episode_count": 100,
+     "name": "Livre III",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-18",
+     "episode_count": 99,
+     "name": "Livre IV",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-05-01",
+     "episode_count": 50,
+     "name": "Livre V",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-10-17",
+     "episode_count": 9,
+     "name": "Livre VI",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kaamelott",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 218
+  },
+  "tv:194766": {
+   "backdrop_path": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Isabel 'Belly' Conklin",
+     "n": "Lola Tung"
+    },
+    {
+     "c": "Conrad Fisher",
+     "n": "Christopher Briney"
+    },
+    {
+     "c": "Jeremiah Fisher",
+     "n": "Gavin Casalegno"
+    },
+    {
+     "c": "Steven Conklin",
+     "n": "Sean Kaufman"
+    },
+    {
+     "c": "Taylor Jewel",
+     "n": "Rain Spencer"
+    },
+    {
+     "c": "Laurel Park",
+     "n": "Jackie Chung"
+    },
+    {
+     "c": "Denise",
+     "n": "Isabella Briggs"
+    },
+    {
+     "c": "Lucinda Jewel",
+     "n": "Kristen Connolly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Jenny Han",
+    "Gabrielle Stanton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-06-16",
+   "genres": [
+    "Drama"
+   ],
+   "id": 194766,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+   "popularity": 35.9309,
+   "poster_path": "/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-06-16",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-07-13",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-07-16",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We'll always have summer.",
+   "title": "The Summer I Turned Pretty",
+   "trailer": {
+    "key": "faL_S-7z4_I",
+    "name": "The Summer I Turned Pretty Season 3 - Official Trailer | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 1162
+  },
+  "tv:222766": {
+   "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Jackal",
+     "n": "Eddie Redmayne"
+    },
+    {
+     "c": "Bianca Pullman",
+     "n": "Lashana Lynch"
+    },
+    {
+     "c": "Zina Jansone",
+     "n": "Eleanor Matsuura"
+    },
+    {
+     "c": "Osita Halcrow",
+     "n": "Chukwudi Iwuji"
+    },
+    {
+     "c": "Nuria",
+     "n": "Úrsula Corberó"
+    },
+    {
+     "c": "Carlitos",
+     "n": "Adoney Díaz Barajas"
+    },
+    {
+     "c": "Bodyguard",
+     "n": "David Gojković"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Sky Atlantic",
+   "created_by": [
+    "Ronan Bennett"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-11-07",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 222766,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic",
+    "Sky Showcase"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
+   "popularity": 26.1635,
+   "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-11-07",
+     "episode_count": 10,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The hunter. Hunted.",
+   "title": "The Day of the Jackal",
+   "trailer": {
+    "key": "EUb_04MdnMI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1416
+  },
+  "tv:48866": {
+   "backdrop_path": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clarke Griffin",
+     "n": "Eliza Taylor"
+    },
+    {
+     "c": "Bellamy Blake",
+     "n": "Bob Morley"
+    },
+    {
+     "c": "Raven Reyes",
+     "n": "Lindsey Morgan"
+    },
+    {
+     "c": "Octavia Blake",
+     "n": "Marie Avgeropoulos"
+    },
+    {
+     "c": "John Murphy",
+     "n": "Richard Harmon"
+    },
+    {
+     "c": "Echo",
+     "n": "Tasya Teles"
+    },
+    {
+     "c": "Russell Lightbourne",
+     "n": "JR Bourne"
+    },
+    {
+     "c": "Jordan Green",
+     "n": "Shannon Kook"
+    },
+    {
+     "c": "Gabriel Santiago",
+     "n": "Chuku Modu"
+    },
+    {
+     "c": "Hope Diyoza",
+     "n": "Shelby Flannery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Jason Rothenberg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2014-03-19",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 48866,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+   "popularity": 707.7859,
+   "poster_path": "/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-03-19",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-10-22",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-01-21",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-02-01",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-04-24",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-04-30",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-05-20",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Survival isn't who you are. It's who you become.",
+   "title": "The 100",
+   "trailer": {
+    "key": "aDrsItJ_HU4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.876,
+   "vote_count": 8882
+  },
+  "tv:60866": {
+   "backdrop_path": "/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olivia 'Liv' Moore",
+     "n": "Rose McIver"
+    },
+    {
+     "c": "Blaine DeBeers",
+     "n": "David Anders"
+    },
+    {
+     "c": "Major Lilywhite",
+     "n": "Robert Buckley"
+    },
+    {
+     "c": "Clive Babinaux",
+     "n": "Malcolm Goodwin"
+    },
+    {
+     "c": "Ravi Chakrabarti",
+     "n": "Rahul Kohli"
+    },
+    {
+     "c": "Peyton Charles",
+     "n": "Aly Michalka"
+    },
+    {
+     "c": "Don E",
+     "n": "Bryce Hodgson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Diane Ruggiero-Wright",
+    "Rob Thomas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2015-03-17",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60866,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 71,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A medical student who becomes a zombie joins a Coroner's Office in order to gain access to the brains she must reluctantly eat so that she can maintain her humanity. But every brain she eats, she also inherits their memories and must now solve their deaths with help from the Medical examiner and a police detective.",
+   "popularity": 25.9186,
+   "poster_path": "/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-03-17",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-06",
+     "episode_count": 19,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-04",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-02-26",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-05-02",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Rebel without a cure.",
+   "title": "iZombie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.788,
+   "vote_count": 2989
+  },
+  "tv:99966": {
+   "backdrop_path": "/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nam On-jo",
+     "n": "Park Ji-hu"
+    },
+    {
+     "c": "Lee Cheong-san",
+     "n": "Yoon Chan-young"
+    },
+    {
+     "c": "Choi Nam-ra",
+     "n": "Cho Yi-hyun"
+    },
+    {
+     "c": "Lee Su-hyeok",
+     "n": "Lomon"
+    },
+    {
+     "c": "Yoon Gwi-nam",
+     "n": "Yoo In-soo"
+    },
+    {
+     "c": "Lee Na-yeon",
+     "n": "Lee You-mi"
+    },
+    {
+     "c": "Lee Byeong-chan",
+     "n": "Kim Byong-chul"
+    },
+    {
+     "c": "Song Jae-ik",
+     "n": "Lee Kyoo-hyung"
+    },
+    {
+     "c": "Nam So-ju",
+     "n": "Jeon Bae-soo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Chun Sung-il",
+    "JQ Lee",
+    "Kim Nam-su"
+   ],
+   "director": [],
+   "episode_run_time": [
+    65
+   ],
+   "first_air_date": "2022-01-28",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 99966,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+   "popularity": 25.6483,
+   "poster_path": "/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-01-28",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Returning Series",
+   "tagline": "Hope is the most painful torture for people who want to despair.",
+   "title": "All of Us Are Dead",
+   "trailer": {
+    "key": "IN5TD4VRcSM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.29,
+   "vote_count": 4524
   }
  }
 }

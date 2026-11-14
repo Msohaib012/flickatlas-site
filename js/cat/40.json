@@ -1,8 +1,8 @@
 {
  "bucket": "40",
- "count": 9,
+ "count": 23,
  "titles": {
-  "12540": {
+  "movie:12540": {
    "backdrop_path": "/i4QeiIfRVQUU5iLIjQQcvReqDOB.jpg",
    "budget": 0,
    "cast": [
@@ -97,7 +97,7 @@
    "vote_average": 5.98,
    "vote_count": 469
   },
-  "171540": {
+  "movie:171540": {
    "backdrop_path": "/ynWCPMkcx8VO4BmTlTnosbrLw8p.jpg",
    "budget": 0,
    "cast": [
@@ -302,7 +302,7 @@
    "vote_average": 6.608,
    "vote_count": 446
   },
-  "27040": {
+  "movie:27040": {
    "backdrop_path": "/otRHDr3aMJboh9N4AMbuKKnlHYL.jpg",
    "budget": 275,
    "cast": [
@@ -371,7 +371,7 @@
    "vote_average": 7.57,
    "vote_count": 464
   },
-  "36040": {
+  "movie:36040": {
    "backdrop_path": "/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
    "budget": 1000000,
    "cast": [
@@ -562,7 +562,7 @@
    "vote_average": 7.278,
    "vote_count": 481
   },
-  "479040": {
+  "movie:479040": {
    "backdrop_path": "/gzmKA50LtpHSDYC7lKjUqLtK7Kn.jpg",
    "budget": 0,
    "cast": [
@@ -692,7 +692,7 @@
    "vote_average": 5.6,
    "vote_count": 461
   },
-  "6440": {
+  "movie:6440": {
    "backdrop_path": "/9gzaEGkgadqCRHbBhZie4qtOthQ.jpg",
    "budget": 38000000,
    "cast": [
@@ -800,7 +800,7 @@
    "vote_average": 6.401,
    "vote_count": 440
   },
-  "668640": {
+  "movie:668640": {
    "backdrop_path": "/cuyXEls6uOMDqflx2MSzZOuQSn2.jpg",
    "budget": 4100000,
    "cast": [
@@ -925,7 +925,7 @@
    "vote_average": 6.61,
    "vote_count": 477
   },
-  "814340": {
+  "movie:814340": {
    "backdrop_path": "/1LMGpNSUekWg3XCPweN33knQPW9.jpg",
    "budget": 0,
    "cast": [
@@ -1039,7 +1039,7 @@
    "vote_average": 7.09,
    "vote_count": 469
   },
-  "81440": {
+  "movie:81440": {
    "backdrop_path": "/3SXATaC4JZA8qxLyAUFjcq17BBV.jpg",
    "budget": 0,
    "cast": [
@@ -1149,6 +1149,2444 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 437
+  },
+  "tv:103540": {
+   "backdrop_path": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Percy Jackson",
+     "n": "Walker Scobell"
+    },
+    {
+     "c": "Annabeth Chase",
+     "n": "Leah Sava Jeffries"
+    },
+    {
+     "c": "Grover Underwood",
+     "n": "Aryan Simhadri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Hulu",
+   "created_by": [
+    "Rick Riordan",
+    "Jonathan E. Steinberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-12-19",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Family"
+   ],
+   "id": 103540,
+   "industry": "world",
+   "networks": [
+    "Hulu",
+    "Disney+"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+   "popularity": 32.8779,
+   "poster_path": "/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-12-19",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-12-10",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-11-20",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A Titan's curse. A hero's destiny.",
+   "title": "Percy Jackson and the Olympians",
+   "trailer": {
+    "key": "yT1ng2tiwLA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 869
+  },
+  "tv:1940": {
+   "backdrop_path": "/k16YijUgyXWnDCQPLTuVr7dVPFl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eric Murphy",
+     "n": "Kevin Connolly"
+    },
+    {
+     "c": "Vincent Chase",
+     "n": "Adrian Grenier"
+    },
+    {
+     "c": "Johnny 'Drama' Chase",
+     "n": "Kevin Dillon"
+    },
+    {
+     "c": "Turtle",
+     "n": "Jerry Ferrara"
+    },
+    {
+     "c": "Ari Gold",
+     "n": "Jeremy Piven"
+    },
+    {
+     "c": "Melissa Gold",
+     "n": "Perrey Reeves"
+    },
+    {
+     "c": "Lloyd Lee",
+     "n": "Rex Lee"
+    },
+    {
+     "c": "Billy Walsh",
+     "n": "Rhys Coiro"
+    },
+    {
+     "c": "Scott Lavin",
+     "n": "Scott Caan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Doug Ellin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2004-07-18",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1940,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+   "popularity": 49.3907,
+   "poster_path": "/pDueLVvdrR2jSMrQ2pFXI9ff5zB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-07-18",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-06-05",
+     "episode_count": 14,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-06-11",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-06-17",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-07",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-07-12",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-06-27",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-07-24",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A lifestyle is a terrible thing to waste.",
+   "title": "Entourage",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 693
+  },
+  "tv:2140": {
+   "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ray Barone",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Debra Barone",
+     "n": "Patricia Heaton"
+    },
+    {
+     "c": "Robert Barone",
+     "n": "Brad Garrett"
+    },
+    {
+     "c": "Ally Barone",
+     "n": "Madylin Sweeten"
+    },
+    {
+     "c": "Geoffrey Barone",
+     "n": "Sawyer Sweeten"
+    },
+    {
+     "c": "Michael Barone",
+     "n": "Sullivan Sweeten"
+    },
+    {
+     "c": "Marie Barone",
+     "n": "Doris Roberts"
+    },
+    {
+     "c": "Frank Barone",
+     "n": "Peter Boyle"
+    },
+    {
+     "c": "Amy MacDougall-Barone",
+     "n": "Monica Horan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Phil Rosenthal"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30,
+    22
+   ],
+   "first_air_date": "1996-09-13",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2140,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 210,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ray Barone is a successful sportswriter living on Long Island with his wife Debra, daughter Ally, and twin sons, Geoffrey and Michael. Ray's meddling parents, Frank and Marie, and brother, Robert, live directly across the street.",
+   "popularity": 52.1827,
+   "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-04-28",
+     "episode_count": 27,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-09-13",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-22",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-09-21",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-20",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2000-10-02",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2001-09-24",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2002-09-23",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2003-09-22",
+     "episode_count": 23,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2004-09-20",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A comedy about a dad who just can't resist being irresistible.",
+   "title": "Everybody Loves Raymond",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.845,
+   "vote_count": 691
+  },
+  "tv:240": {
+   "backdrop_path": "/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Jackie Chan (voice)",
+     "n": "James Sie"
+    },
+    {
+     "c": "Jade Chan (voice)",
+     "n": "Stacie Chan"
+    },
+    {
+     "c": "Uncle (voice)",
+     "n": "Sab Shimono"
+    },
+    {
+     "c": "Tohru (voice)",
+     "n": "Noah Nelson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "John Rogers"
+   ],
+   "director": [],
+   "episode_run_time": [
+    20
+   ],
+   "first_air_date": "2000-09-09",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 240,
+   "industry": "world",
+   "networks": [
+    "The WB"
+   ],
+   "number_of_episodes": 95,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
+   "popularity": 50.3962,
+   "poster_path": "/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-09-09",
+     "episode_count": 95,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-09-09",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-09-08",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-09-14",
+     "episode_count": 17,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-09-13",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-09-11",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Jackie Chan Adventures",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.156,
+   "vote_count": 905
+  },
+  "tv:2440": {
+   "backdrop_path": "/nvm6q6p0y7CdRG1JQuGzWLdV7p7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonathan Smith",
+     "n": "Michael Landon"
+    },
+    {
+     "c": "Mark Gordon",
+     "n": "Victor French"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "William F. Claxton",
+    "Michael Landon"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1984-09-19",
+   "genres": [
+    "Family",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 2440,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 111,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A probationary angel is sent back to Earth to team up with an ex-cop and help people.",
+   "popularity": 25.2433,
+   "poster_path": "/mcAqVE5RY2KBA9JYC1wqb37wquB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Great American Pure Flix Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+     "name": "Pure Flix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+     "name": "Great American Pure Flix Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-09-19",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-18",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-24",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-16",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-10-12",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Some powers are higher than others.",
+   "title": "Highway to Heaven",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.443,
+   "vote_count": 210
+  },
+  "tv:273240": {
+   "backdrop_path": "/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hannah Wells",
+     "n": "Ella Bright"
+    },
+    {
+     "c": "Garrett Graham",
+     "n": "Belmont Cameli"
+    },
+    {
+     "c": "Allie Hayes",
+     "n": "Mika Abdalla"
+    },
+    {
+     "c": "Dean Di Laurentis",
+     "n": "Stephen Kalyn"
+    },
+    {
+     "c": "John Tucker",
+     "n": "Jalen Thomas Brooks"
+    },
+    {
+     "c": "John Logan",
+     "n": "Antonio Cipriano"
+    },
+    {
+     "c": "Justin Kohl",
+     "n": "Josh Heuston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Louisa Levy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-13",
+   "genres": [
+    "Drama"
+   ],
+   "id": 273240,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+   "popularity": 39.2346,
+   "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-04-28",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Love was never part of the deal.",
+   "title": "Off Campus",
+   "trailer": {
+    "key": "wAozjf2frxw",
+    "name": "S1 Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 912
+  },
+  "tv:39340": {
+   "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max Black",
+     "n": "Kat Dennings"
+    },
+    {
+     "c": "Caroline Channing",
+     "n": "Beth Behrs"
+    },
+    {
+     "c": "Earl Washington",
+     "n": "Garrett Morris"
+    },
+    {
+     "c": "Oleg Golishevsky",
+     "n": "Jonathan Kite"
+    },
+    {
+     "c": "Han Lee",
+     "n": "Matthew Moy"
+    },
+    {
+     "c": "Sophie Kachinsky",
+     "n": "Jennifer Coolidge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Whitney Cummings",
+    "Michael Patrick King"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2011-09-19",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 39340,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 137,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Comedy about the unlikely friendship that develops between two very different young women who meet waitressing at a diner in trendy Williamsburg, Brooklyn, and form a bond over one day owning their own successful cupcake business. Only one thing stands in their way – they’re broke.",
+   "popularity": 49.2989,
+   "poster_path": "/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-24",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-23",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-10-27",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-11-12",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-10-10",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "2 Broke Girls",
+   "trailer": {
+    "key": "aUkwxpMVW9M",
+    "name": "Exclusive Preview",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.188,
+   "vote_count": 1819
+  },
+  "tv:40": {
+   "backdrop_path": "/sCTNR6iYgEAaYxjvibhzt8sc1nQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bobby Ewing",
+     "n": "Patrick Duffy"
+    },
+    {
+     "c": "Michelle Stevens Ewing",
+     "n": "Kimberly Foster"
+    },
+    {
+     "c": "J.R. Ewing",
+     "n": "Larry Hagman"
+    },
+    {
+     "c": "Cliff Barnes",
+     "n": "Ken Kercheval"
+    },
+    {
+     "c": "James Beaumont",
+     "n": "Sasha Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "David Jacobs"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1978-04-02",
+   "genres": [
+    "Soap",
+    "Drama",
+    "Family"
+   ],
+   "id": 40,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 357,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+   "popularity": 69.0842,
+   "poster_path": "/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-11-07",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1978-04-02",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1978-09-23",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1979-09-21",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1980-11-07",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1981-10-09",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1982-10-01",
+     "episode_count": 28,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1983-09-30",
+     "episode_count": 30,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1984-09-28",
+     "episode_count": 30,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1985-09-27",
+     "episode_count": 31,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1986-09-26",
+     "episode_count": 29,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1987-09-25",
+     "episode_count": 30,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1988-10-28",
+     "episode_count": 26,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1989-09-22",
+     "episode_count": 27,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1990-11-02",
+     "episode_count": 23,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A family ruthless in its quest for power and passion.",
+   "title": "Dallas",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.89,
+   "vote_count": 259
+  },
+  "tv:45140": {
+   "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robin (voice)",
+     "n": "Scott Menville"
+    },
+    {
+     "c": "Beast Boy (voice)",
+     "n": "Greg Cipes"
+    },
+    {
+     "c": "Cyborg (voice)",
+     "n": "Khary Payton"
+    },
+    {
+     "c": "Raven (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Starfire (voice)",
+     "n": "Hynden Walch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-04-23",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 45140,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 454,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+   "popularity": 99.7406,
+   "poster_path": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-09-12",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-04-23",
+     "episode_count": 52,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-06-12",
+     "episode_count": 52,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-07-31",
+     "episode_count": 53,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-10-20",
+     "episode_count": 52,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-06-25",
+     "episode_count": 54,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-11-27",
+     "episode_count": 50,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-04-17",
+     "episode_count": 53,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2023-02-06",
+     "episode_count": 36,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2025-03-01",
+     "episode_count": 52,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Teen Titans Go!",
+   "trailer": {
+    "key": "2Cwksub4wdE",
+    "name": "Teen Titans GO! | Teen Titans GO! | Cartoon Network",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.387,
+   "vote_count": 746
+  },
+  "tv:47640": {
+   "backdrop_path": "/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ephraim Goodweather",
+     "n": "Corey Stoll"
+    },
+    {
+     "c": "Vasiliy Fet",
+     "n": "Kevin Durand"
+    },
+    {
+     "c": "Gus Elizalde",
+     "n": "Miguel Gómez"
+    },
+    {
+     "c": "Abraham Setrakian",
+     "n": "David Bradley"
+    },
+    {
+     "c": "Eldritch Palmer",
+     "n": "Jonathan Hyde"
+    },
+    {
+     "c": "Thomas Eichorst",
+     "n": "Richard Sammel"
+    },
+    {
+     "c": "Zach Goodweather",
+     "n": "Max Charles"
+    },
+    {
+     "c": "Dutch Velders",
+     "n": "Ruta Gedmintas"
+    },
+    {
+     "c": "Mr. Quinlan",
+     "n": "Rupert Penry-Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Guillermo del Toro",
+    "Carlton Cuse"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2014-07-13",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 47640,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 46,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
+   "popularity": 32.356,
+   "poster_path": "/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-07-11",
+     "episode_count": 57,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-07-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-07-12",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-08-28",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-07-16",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Strain",
+   "trailer": {
+    "key": "GGdlKM8tFaw",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.456,
+   "vote_count": 2086
+  },
+  "tv:66840": {
+   "backdrop_path": "/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jason Bull",
+     "n": "Michael Weatherly"
+    },
+    {
+     "c": "Marissa Morgan",
+     "n": "Geneva Carr"
+    },
+    {
+     "c": "Danielle James",
+     "n": "Jaime Lee Kirchner"
+    },
+    {
+     "c": "Chunk Palmer",
+     "n": "Christopher Jackson"
+    },
+    {
+     "c": "Taylor Rentzel",
+     "n": "Mackenzie Meehan"
+    },
+    {
+     "c": "Isabella Colón",
+     "n": "Yara Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Phil McGraw",
+    "Paul Attanasio"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2016-09-20",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 66840,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 125,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+   "popularity": 34.9794,
+   "poster_path": "/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-09-23",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-11-16",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-10-07",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "He'll get you off.",
+   "title": "Bull",
+   "trailer": {
+    "key": "zKcPXkh4ftA",
+    "name": "Bull (2016-) Season 1 Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.053,
+   "vote_count": 409
+  },
+  "tv:69740": {
+   "backdrop_path": "/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marty Byrde",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Wendy Byrde",
+     "n": "Laura Linney"
+    },
+    {
+     "c": "Charlotte Byrde",
+     "n": "Sofia Hublitz"
+    },
+    {
+     "c": "Jonah Byrde",
+     "n": "Skylar Gaertner"
+    },
+    {
+     "c": "Ruth Langmore",
+     "n": "Julia Garner"
+    },
+    {
+     "c": "Wyatt Langmore",
+     "n": "Charlie Tahan"
+    },
+    {
+     "c": "Maya Miller",
+     "n": "Jessica Frances Dukes"
+    },
+    {
+     "c": "Omar Navarro",
+     "n": "Felix Solis"
+    },
+    {
+     "c": "Jim Rettelsdorf",
+     "n": "Damian Young"
+    },
+    {
+     "c": "Mel Sattem",
+     "n": "Adam Rothenberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Bill Dubuque",
+    "Mark Williams"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-07-21",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 69740,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 44,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+   "popularity": 28.1384,
+   "poster_path": "/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-07-21",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-08-31",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-03-27",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-01-21",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "No one gets out clean.",
+   "title": "Ozark",
+   "trailer": {
+    "key": "5hAXVqrljbs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 2996
+  },
+  "tv:74440": {
+   "backdrop_path": "/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harley Quinn (voice)",
+     "n": "Kaley Cuoco"
+    },
+    {
+     "c": "Poison Ivy (voice)",
+     "n": "Lake Bell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "DC Universe",
+   "created_by": [
+    "Patrick Schumacker",
+    "Justin Halpern",
+    "Dean Lorey"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-11-29",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 74440,
+   "industry": "world",
+   "networks": [
+    "DC Universe",
+    "HBO Max",
+    "Max"
+   ],
+   "number_of_episodes": 57,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Harley Quinn has finally broken things off once and for all with the Joker. Now, she's trying to make it on her own as the criminal Queenpin of Gotham City, with help from Poison Ivy and a ragtag crew of DC castoffs.",
+   "popularity": 32.5498,
+   "poster_path": "/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-08-22",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-11-29",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-04-03",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-07-28",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-07-27",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-01-16",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We're not in Gotham anymore.",
+   "title": "Harley Quinn",
+   "trailer": {
+    "key": "0FrB7mJoesg",
+    "name": "Harley Quinn Season 5 | Official Trailer | Max",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 1202
+  },
+  "tv:93740": {
+   "backdrop_path": "/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hari Seldon",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Brother Day",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Gaal Dornick",
+     "n": "Lou Llobell"
+    },
+    {
+     "c": "Demerzel",
+     "n": "Laura Birn"
+    },
+    {
+     "c": "Brother Dawn",
+     "n": "Cassian Bilton"
+    },
+    {
+     "c": "Brother Dusk",
+     "n": "Terrence Mann"
+    },
+    {
+     "c": "Ambassador Quent",
+     "n": "Cherry Jones"
+    },
+    {
+     "c": "Han Pritcher",
+     "n": "Brandon P Bell"
+    },
+    {
+     "c": "Bayta Mallow",
+     "n": "Synnøve Karlsen"
+    },
+    {
+     "c": "Toran Mallow",
+     "n": "Cody Fern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "David S. Goyer",
+    "Josh Friedman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-09-23",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 93740,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
+   "popularity": 37.8177,
+   "poster_path": "/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-07-13",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "No future lasts forever.",
+   "title": "Foundation",
+   "trailer": {
+    "key": "X4QYV5GTz7c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.709,
+   "vote_count": 1876
   }
  }
 }

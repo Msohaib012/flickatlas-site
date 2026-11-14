@@ -1,8 +1,8 @@
 {
  "bucket": "71",
- "count": 8,
+ "count": 17,
  "titles": {
-  "10671": {
+  "movie:10671": {
    "backdrop_path": "/4h4UaUk0ENBR9mdttafE1q4fkeI.jpg",
    "budget": 10000000,
    "cast": [
@@ -100,7 +100,7 @@
    "vote_average": 6.463,
    "vote_count": 480
   },
-  "11071": {
+  "movie:11071": {
    "backdrop_path": "/bW83NQMHtgFIkDSoZBer4eEnc9V.jpg",
    "budget": 23000000,
    "cast": [
@@ -269,7 +269,7 @@
    "vote_average": 6.82,
    "vote_count": 499
   },
-  "15171": {
+  "movie:15171": {
    "backdrop_path": "/jyO7LscqXmxOjQpkYYBRImwD300.jpg",
    "budget": 0,
    "cast": [
@@ -409,7 +409,7 @@
    "vote_average": 6.906,
    "vote_count": 438
   },
-  "235271": {
+  "movie:235271": {
    "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
    "budget": 0,
    "cast": [
@@ -525,7 +525,7 @@
    "vote_average": 5.906,
    "vote_count": 468
   },
-  "296271": {
+  "movie:296271": {
    "backdrop_path": "/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
    "budget": 0,
    "cast": [
@@ -652,7 +652,7 @@
    "vote_average": 6.406,
    "vote_count": 499
   },
-  "4271": {
+  "movie:4271": {
    "backdrop_path": "/veVadjT1OFnU34KOupKy8pUFp7o.jpg",
    "budget": 0,
    "cast": [
@@ -820,7 +820,7 @@
    "vote_average": 6.74,
    "vote_count": 478
   },
-  "433471": {
+  "movie:433471": {
    "backdrop_path": "/f13RF99zjorGVJnSSsOqyj5dzYh.jpg",
    "budget": 0,
    "cast": [],
@@ -909,7 +909,7 @@
    "vote_average": 7.537,
    "vote_count": 441
   },
-  "703771": {
+  "movie:703771": {
    "backdrop_path": "/hdXQxlD4mep7qtC5TsvhIt840OV.jpg",
    "budget": 0,
    "cast": [
@@ -1010,6 +1010,1720 @@
    "type": "movie",
    "vote_average": 6.963,
    "vote_count": 488
+  },
+  "tv:105971": {
+   "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Bad Batch (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Omega (voice)",
+     "n": "Michelle Ang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Disney+",
+   "created_by": [
+    "Dave Filoni"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-05-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 105971,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 47,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
+   "popularity": 23.8075,
+   "poster_path": "/5mHus672nuinyaE0FtqvD0AddcY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-05-04",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-01-04",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-02-21",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It is time for the new Era.",
+   "title": "Star Wars: The Bad Batch",
+   "trailer": {
+    "key": "BsOmYpP4UDU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.136,
+   "vote_count": 1217
+  },
+  "tv:12971": {
+   "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku / Son Gohan / Son Goten (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Vegeta (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "Piccolo (voice)",
+     "n": "Toshio Furukawa"
+    },
+    {
+     "c": "Krillin / Uranai Baba (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Oolong / Karin (voice)",
+     "n": "Naoki Tatsuta"
+    },
+    {
+     "c": "Freeza (voice)",
+     "n": "Ryusei Nakao"
+    },
+    {
+     "c": "Dr. Briefs (voice)",
+     "n": "Joji Yanami"
+    },
+    {
+     "c": "Puar / Chi-Chi (voice)",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "Tien Shinhan (voice)",
+     "n": "Hirotaka Suzuoki"
+    },
+    {
+     "c": "Android 18 (voice)",
+     "n": "Miki Ito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    26
+   ],
+   "first_air_date": "1989-04-26",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 12971,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 291,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+   "popularity": 88.3904,
+   "poster_path": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-10-17",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-04-26",
+     "episode_count": 39,
+     "name": "Saiyan Saga",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-03-14",
+     "episode_count": 35,
+     "name": "Namek Saga",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-01-30",
+     "episode_count": 33,
+     "name": "Frieza Saga",
+     "season_number": 3
+    },
+    {
+     "air_date": "1991-09-18",
+     "episode_count": 32,
+     "name": "Androids Saga",
+     "season_number": 4
+    },
+    {
+     "air_date": "1992-05-20",
+     "episode_count": 26,
+     "name": "Cell Saga",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-11-25",
+     "episode_count": 29,
+     "name": "Cell Games Saga",
+     "season_number": 6
+    },
+    {
+     "air_date": "1993-07-28",
+     "episode_count": 25,
+     "name": "World Tournament Saga",
+     "season_number": 7
+    },
+    {
+     "air_date": "1994-03-09",
+     "episode_count": 34,
+     "name": "Majin Buu Saga",
+     "season_number": 8
+    },
+    {
+     "air_date": "1995-02-01",
+     "episode_count": 38,
+     "name": "Kid Buu Saga",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The Saiyans have returned...",
+   "title": "Dragon Ball Z",
+   "trailer": {
+    "key": "z_pKjQitI8o",
+    "name": "30th Anniversary Collector's Edition | Dragon Ball Z",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 5079
+  },
+  "tv:1871": {
+   "backdrop_path": "/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC One",
+   "created_by": [
+    "Julia Smith",
+    "Tony Holland"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "1985-02-19",
+   "genres": [
+    "Soap",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1871,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 7351,
+   "number_of_seasons": 42,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+   "popularity": 154.9286,
+   "poster_path": "/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1988-12-26",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1985-02-19",
+     "episode_count": 91,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1986-01-02",
+     "episode_count": 105,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1987-01-01",
+     "episode_count": 107,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1988-01-05",
+     "episode_count": 104,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1989-01-03",
+     "episode_count": 104,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1990-01-02",
+     "episode_count": 104,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1991-01-01",
+     "episode_count": 105,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1992-01-02",
+     "episode_count": 106,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1993-01-05",
+     "episode_count": 105,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1994-01-04",
+     "episode_count": 142,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1995-01-02",
+     "episode_count": 157,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1996-01-01",
+     "episode_count": 161,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1997-01-02",
+     "episode_count": 162,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1998-01-01",
+     "episode_count": 164,
+     "name": "Series 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1999-01-04",
+     "episode_count": 169,
+     "name": "Series 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2000-01-03",
+     "episode_count": 160,
+     "name": "Series 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2001-01-01",
+     "episode_count": 179,
+     "name": "Series 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2002-01-01",
+     "episode_count": 211,
+     "name": "Series 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2003-01-01",
+     "episode_count": 210,
+     "name": "Series 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2004-01-01",
+     "episode_count": 209,
+     "name": "Series 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2005-01-03",
+     "episode_count": 209,
+     "name": "Series 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2006-01-02",
+     "episode_count": 207,
+     "name": "Series 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2007-01-01",
+     "episode_count": 208,
+     "name": "Series 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2008-01-01",
+     "episode_count": 208,
+     "name": "Series 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2009-01-01",
+     "episode_count": 209,
+     "name": "Series 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2010-01-01",
+     "episode_count": 204,
+     "name": "Series 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2011-01-01",
+     "episode_count": 210,
+     "name": "Series 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2012-01-01",
+     "episode_count": 206,
+     "name": "Series 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2013-01-01",
+     "episode_count": 213,
+     "name": "Series 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2014-01-01",
+     "episode_count": 206,
+     "name": "Series 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2015-01-01",
+     "episode_count": 209,
+     "name": "Series 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2016-01-01",
+     "episode_count": 210,
+     "name": "Series 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2017-01-01",
+     "episode_count": 209,
+     "name": "Series 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2018-01-01",
+     "episode_count": 206,
+     "name": "Series 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2019-01-01",
+     "episode_count": 210,
+     "name": "Series 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2020-01-01",
+     "episode_count": 138,
+     "name": "Series 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2021-01-01",
+     "episode_count": 209,
+     "name": "Series 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2022-01-03",
+     "episode_count": 209,
+     "name": "Series 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2023-01-01",
+     "episode_count": 210,
+     "name": "Series 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2024-01-01",
+     "episode_count": 210,
+     "name": "Series 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2025-01-01",
+     "episode_count": 211,
+     "name": "Series 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2026-01-01",
+     "episode_count": 189,
+     "name": "Series 42",
+     "season_number": 42
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "EastEnders",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 4.3,
+   "vote_count": 232
+  },
+  "tv:2171": {
+   "backdrop_path": "/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lilly Rush",
+     "n": "Kathryn Morris"
+    },
+    {
+     "c": "Scotty Valens",
+     "n": "Danny Pino"
+    },
+    {
+     "c": "Nick Vera",
+     "n": "Jeremy Ratchford"
+    },
+    {
+     "c": "Will Jeffries",
+     "n": "Thom Barry"
+    },
+    {
+     "c": "Kat Miller",
+     "n": "Tracie Thoms"
+    },
+    {
+     "c": "John Stillman",
+     "n": "John Finn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Meredith Stiehm"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2003-09-28",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 2171,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 156,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
+   "popularity": 47.1065,
+   "poster_path": "/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-09-28",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-10-03",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-24",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-23",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Cold Case",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.736,
+   "vote_count": 469
+  },
+  "tv:4271": {
+   "backdrop_path": "/uo4wPlubpUwjlLm39PF8BxXCqLm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Crichton",
+     "n": "Ben Browder"
+    },
+    {
+     "c": "Aeryn Sun",
+     "n": "Claudia Black"
+    },
+    {
+     "c": "Dominar Rygel XVI (voice)",
+     "n": "Jonathan Hardy"
+    },
+    {
+     "c": "Ka D'Argo",
+     "n": "Anthony Simcoe"
+    },
+    {
+     "c": "Chiana",
+     "n": "Gigi Edgley"
+    },
+    {
+     "c": "Scorpius",
+     "n": "Wayne Pygram"
+    },
+    {
+     "c": "Noranti",
+     "n": "Melissa Jaffer"
+    },
+    {
+     "c": "Sikozu",
+     "n": "Raelee Hill"
+    },
+    {
+     "c": "Captain Bialar Crais  / Pilot",
+     "n": "Lani John Tupu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Nine Network",
+   "created_by": [
+    "Rockne S. O'Bannon"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1999-03-19",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 4271,
+   "industry": "world",
+   "networks": [
+    "Nine Network",
+    "Syfy"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A freak accident during an experimental space mission catapults Astronaut John Crichton across a thousand galaxies to an alien battlefield.",
+   "popularity": 34.0397,
+   "poster_path": "/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-03-16",
+     "episode_count": 105,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-03-19",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-03-17",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-03-16",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-06-06",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "My name is John Crichton, an astronaut.  I'm just looking for a way home.",
+   "title": "Farscape",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 646
+  },
+  "tv:5371": {
+   "backdrop_path": "/u3rph1KVUOKbOtrPIgCb27H08Fy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carly Shay",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Sam Puckett",
+     "n": "Jennette McCurdy"
+    },
+    {
+     "c": "Freddie Benson",
+     "n": "Nathan Kress"
+    },
+    {
+     "c": "Spencer Shay",
+     "n": "Jerry Trainor"
+    },
+    {
+     "c": "Gibby Gibson",
+     "n": "Noah Munck"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Dan Schneider"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2007-09-08",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 5371,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 107,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",
+   "popularity": 41.1397,
+   "poster_path": "/zswxst53aM8g2LysdVbtQNJAiKM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-04-24",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-09-08",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-09-27",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-09-12",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-07-30",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-08-13",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-03-24",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "iCarly",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.946,
+   "vote_count": 1593
+  },
+  "tv:72071": {
+   "backdrop_path": "/ulXewCeBreYuw1fpjpibYQ66RRv.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Showtime",
+   "created_by": [
+    "Lena Waithe"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-01-07",
+   "genres": [
+    "Drama"
+   ],
+   "id": 72071,
+   "industry": "world",
+   "networks": [
+    "Showtime",
+    "Paramount+ with Showtime"
+   ],
+   "number_of_episodes": 88,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A relevant, timely and distinctive coming-of-age story following a half dozen interrelated characters in the South Side of Chicago. The story centers on Brandon, an ambitious and confident young man who dreams about opening a restaurant of his own someday, but is conflicted between the promise of a new life and his responsibility to his mother and teenage brother back in the South Side.",
+   "popularity": 26.0197,
+   "poster_path": "/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-12-15",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-01-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-04-07",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-06-21",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-05-23",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-06-26",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-08-06",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-05-18",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-05-24",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Love lives on.",
+   "title": "The Chi",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 229
+  },
+  "tv:80671": {
+   "backdrop_path": "/aOQL8UYduNxDePbynZROLZ1nfsf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Red Blood Cell AE3803 (Erythrocyte) (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "White Blood Cell U-1146 (Neutrophil) (voice)",
+     "n": "Tomoaki Maeno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2018-07-08",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 80671,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 21,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "This is a story about you. A tale about the inside of your body... According to a new study, the human body consists of approximately 37 trillion cells. These cells are hard at work every day within a world that is your body. From the oxygen-carrying red blood cells to the bacteria-fighting white blood cells, get to know the unsung heroes and the drama that unfolds inside of you! It's the oddly relatable and interesting story that is the life of cells!",
+   "popularity": 24.585,
+   "poster_path": "/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-12-26",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-07-08",
+     "episode_count": 13,
+     "name": "Cells at Work!",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-01-10",
+     "episode_count": 8,
+     "name": "Cells at Work!!",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Cells at Work!",
+   "trailer": {
+    "key": "HMXWvvjAJek",
+    "name": "Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.021,
+   "vote_count": 326
+  },
+  "tv:85271": {
+   "backdrop_path": "/fSCb3lzRbHknuKD7apdH4RYJLkc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wanda Maximoff / Scarlet Witch",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Vision / The Vision",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Agnes / Agatha Harkness",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Monica Rambeau / Geraldine",
+     "n": "Teyonah Parris"
+    },
+    {
+     "c": "Jimmy Woo",
+     "n": "Randall Park"
+    },
+    {
+     "c": "Darcy Lewis / The Escape Artist",
+     "n": "Kat Dennings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Disney+",
+   "created_by": [
+    "Jac Schaeffer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-01-15",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 85271,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+   "popularity": 31.7296,
+   "poster_path": "/ijWWwINc8h71NQ8j1LTJMFSj5wr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-11-28",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-01-14",
+     "episode_count": 9,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Experience a new vision of reality.",
+   "title": "WandaVision",
+   "trailer": {
+    "key": "UBhlqe2OTt4",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 13048
   }
  }
 }

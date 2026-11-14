@@ -1,8 +1,8 @@
 {
  "bucket": "91",
- "count": 8,
+ "count": 13,
  "titles": {
-  "1051891": {
+  "movie:1051891": {
    "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
    "budget": 5000000,
    "cast": [
@@ -117,7 +117,7 @@
    "vote_average": 6.835,
    "vote_count": 486
   },
-  "11091": {
+  "movie:11091": {
    "backdrop_path": "/wXax3nRWlZDfRqgrmBIKfE2OnaJ.jpg",
    "budget": 48000000,
    "cast": [
@@ -232,7 +232,7 @@
    "vote_average": 6.738,
    "vote_count": 498
   },
-  "117691": {
+  "movie:117691": {
    "backdrop_path": "/riwwiv2BMD9D6L3NM4sJjHCMVsm.jpg",
    "budget": 1400000,
    "cast": [
@@ -357,7 +357,7 @@
    "vote_average": 7.126,
    "vote_count": 471
   },
-  "175291": {
+  "movie:175291": {
    "backdrop_path": "/1jpP5hIgpEX1mZK4uGZEVkwscJo.jpg",
    "budget": 200000,
    "cast": [
@@ -555,7 +555,7 @@
    "vote_average": 6.4,
    "vote_count": 472
   },
-  "335791": {
+  "movie:335791": {
    "backdrop_path": "/vjGYFfG8Amm019QoSB9csEZC4X2.jpg",
    "budget": 10000000,
    "cast": [
@@ -686,7 +686,7 @@
    "vote_average": 5.843,
    "vote_count": 442
   },
-  "611291": {
+  "movie:611291": {
    "backdrop_path": "/nQRTynJcXF5GRcyEHF09yZIuQ7F.jpg",
    "budget": 0,
    "cast": [
@@ -775,7 +775,7 @@
    "vote_average": 8.295,
    "vote_count": 464
   },
-  "848791": {
+  "movie:848791": {
    "backdrop_path": "/h37garYpEwYeKBGZq9cHTbtEHPU.jpg",
    "budget": 0,
    "cast": [
@@ -885,7 +885,7 @@
    "vote_average": 6.178,
    "vote_count": 446
   },
-  "9491": {
+  "movie:9491": {
    "backdrop_path": "/3ZohISQDjkS0PtjCJss72MFaBEj.jpg",
    "budget": 0,
    "cast": [
@@ -1031,6 +1031,810 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 482
+  },
+  "tv:2691": {
+   "backdrop_path": "/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walden Schmidt",
+     "n": "Ashton Kutcher"
+    },
+    {
+     "c": "Alan Harper",
+     "n": "Jon Cryer"
+    },
+    {
+     "c": "Berta",
+     "n": "Conchata Ferrell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Lee Aronsohn",
+    "Chuck Lorre"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-09-22",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2691,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 262,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+   "popularity": 115.1017,
+   "poster_path": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 41,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-09-22",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-09-20",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-19",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-18",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-09-27",
+     "episode_count": 23,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-09-26",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-10-30",
+     "episode_count": 16,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Two adults. One kid. No grown-ups.",
+   "title": "Two and a Half Men",
+   "trailer": {
+    "key": "E7ap_eCWxYI",
+    "name": "First Five Minutes of the Series",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.442,
+   "vote_count": 3842
+  },
+  "tv:34391": {
+   "backdrop_path": "/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man (voice)",
+     "n": "Drake Bell"
+    },
+    {
+     "c": "Aunt May Parker (voice)",
+     "n": "Misty Lee"
+    },
+    {
+     "c": "J. Jonah Jameson (voice)",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Nick Fury (voice)",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Luke Cage / Power Man (voice)",
+     "n": "Ogie Banks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney XD",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-04-01",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 34391,
+   "industry": "world",
+   "networks": [
+    "Disney XD"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While being trained by S.H.I.E.L.D., Spider-Man battles evil with a new team of teen colleagues.",
+   "popularity": 26.085,
+   "poster_path": "/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-04-01",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-01-21",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-07-06",
+     "episode_count": 25,
+     "name": "Season 3: Web-Warriors",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-02-21",
+     "episode_count": 26,
+     "name": "Season 4: vs the Sinister 6",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Marvel's Ultimate Spider-Man",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.681,
+   "vote_count": 1066
+  },
+  "tv:48891": {
+   "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jake Peralta",
+     "n": "Andy Samberg"
+    },
+    {
+     "c": "Amy Santiago",
+     "n": "Melissa Fumero"
+    },
+    {
+     "c": "Terry Jeffords",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Charles Boyle",
+     "n": "Joe Lo Truglio"
+    },
+    {
+     "c": "Rosa Diaz",
+     "n": "Stephanie Beatriz"
+    },
+    {
+     "c": "Raymond Holt",
+     "n": "Andre Braugher"
+    },
+    {
+     "c": "Michael Hitchcock",
+     "n": "Dirk Blocker"
+    },
+    {
+     "c": "Norman Scully",
+     "n": "Joel McKinnon Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Daniel J. Goor",
+    "Michael Schur"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-09-17",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 48891,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "FOX"
+   ],
+   "number_of_episodes": 152,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+   "popularity": 67.1406,
+   "poster_path": "/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-08-11",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-09-17",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-01-10",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-02-06",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2021-08-12",
+     "episode_count": 9,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The law. Without the order.",
+   "title": "Brooklyn Nine-Nine",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.207,
+   "vote_count": 4240
+  },
+  "tv:78191": {
+   "backdrop_path": "/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe Goldberg",
+     "n": "Penn Badgley"
+    },
+    {
+     "c": "Kate Galvin",
+     "n": "Charlotte Ritchie"
+    },
+    {
+     "c": "Teddy Lockwood",
+     "n": "Griffin Matthews"
+    },
+    {
+     "c": "Maddie Lockwood / Reagan Lockwood",
+     "n": "Anna Camp"
+    },
+    {
+     "c": "Louise Flannery",
+     "n": "Madeline Brewer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Lifetime",
+   "created_by": [
+    "Greg Berlanti",
+    "Sera Gamble"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-09-09",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 78191,
+   "industry": "world",
+   "networks": [
+    "Lifetime",
+    "Netflix"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
+   "popularity": 221.3989,
+   "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-09",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-12-26",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-10-15",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-02-09",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-04-24",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What goes around comes around.",
+   "title": "You",
+   "trailer": {
+    "key": "v99ooSjCVhg",
+    "name": "Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.992,
+   "vote_count": 4174
+  },
+  "tv:85991": {
+   "backdrop_path": "/2vIjTPITEoHeetz1jU4UxyHL9tg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tohru Honda (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Yuki Sōma (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Kyō Sōma (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Shigure Sōma (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Kagura Sōma (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Momiji Sōma (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Hatsuharu Sōma (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Hatori Sōma (voice)",
+     "n": "Kazuyuki Okitsu"
+    },
+    {
+     "c": "Ayame Sōma (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Kisa Sōma (voice)",
+     "n": "Reina Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2019-04-06",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 85991,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TV Osaka"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a family tragedy turns her life upside down, 16-year-old high school student Tohru Honda takes matters into her own hands and moves out… into a tent! Unfortunately for her, she pitches her new home on private land belonging to the mysterious Soma clan, and it isn't long before the owners discover her secret. But, as Tohru quickly finds out when the family offers to take her in, the Somas have a secret of their own—when hugged by the opposite sex, they turn into the animals of the Chinese Zodiac!",
+   "popularity": 29.6373,
+   "poster_path": "/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Animax Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-04-06",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-04-07",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-04-29",
+     "episode_count": 13,
+     "name": "The Final Season",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fruits Basket",
+   "trailer": {
+    "key": "Wz0P0mYYY0Q",
+    "name": "Fruits Basket Season 1 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 186
   }
  }
 }

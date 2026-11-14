@@ -1,8 +1,8 @@
 {
  "bucket": "75",
- "count": 5,
+ "count": 14,
  "titles": {
-  "120475": {
+  "movie:120475": {
    "backdrop_path": "/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
    "budget": 0,
    "cast": [
@@ -92,7 +92,7 @@
    "vote_average": 7.168,
    "vote_count": 471
   },
-  "12775": {
+  "movie:12775": {
    "backdrop_path": "/rrVvVOw98E2RvtKZx1RIgYIl9um.jpg",
    "budget": 6500000,
    "cast": [
@@ -218,7 +218,7 @@
    "vote_average": 6.6,
    "vote_count": 465
   },
-  "13975": {
+  "movie:13975": {
    "backdrop_path": "/bS5JamW3vbZsP2E5H3NiqjyHFZ.jpg",
    "budget": 17000000,
    "cast": [
@@ -367,7 +367,7 @@
    "vote_average": 6.1,
    "vote_count": 492
   },
-  "2075": {
+  "movie:2075": {
    "backdrop_path": "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
    "budget": 0,
    "cast": [
@@ -470,7 +470,7 @@
    "vote_average": 6.423,
    "vote_count": 452
   },
-  "9275": {
+  "movie:9275": {
    "backdrop_path": "/xse1f9OR0PVByGnTChplzUgYz7t.jpg",
    "budget": 55000000,
    "cast": [
@@ -568,6 +568,1397 @@
    "type": "movie",
    "vote_average": 5.943,
    "vote_count": 473
+  },
+  "tv:200875": {
+   "backdrop_path": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlotte Hanlon",
+     "n": "Taylour Paige"
+    },
+    {
+     "c": "Leroy Hanlon",
+     "n": "Jovan Adepo"
+    },
+    {
+     "c": "General Francis Shaw",
+     "n": "James Remar"
+    },
+    {
+     "c": "Hank Grogan",
+     "n": "Stephen Rider"
+    },
+    {
+     "c": "Marge Truman",
+     "n": "Matilda Lawler"
+    },
+    {
+     "c": "Ronnie Grogan",
+     "n": "Amanda Christine"
+    },
+    {
+     "c": "Lilly Bainbridge",
+     "n": "Clara Stack"
+    },
+    {
+     "c": "Will Hanlon",
+     "n": "Blake Cameron James"
+    },
+    {
+     "c": "Rich Santos",
+     "n": "Arian S. Cartaya"
+    },
+    {
+     "c": "Dick Hallorann",
+     "n": "Chris Chalk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "Andy Muschietti",
+    "Barbara Muschietti",
+    "Jason Fuchs"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-26",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 200875,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+   "popularity": 63.3524,
+   "poster_path": "/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-26",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Go back to where IT all began.",
+   "title": "IT: Welcome to Derry",
+   "trailer": {
+    "key": "u4JE2AyqDII",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 1796
+  },
+  "tv:213375": {
+   "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vision",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Ultron",
+     "n": "James Spader"
+    },
+    {
+     "c": "Thomas",
+     "n": "Ruaridh Mollica"
+    },
+    {
+     "c": "Paladin",
+     "n": "Todd Stashwick"
+    },
+    {
+     "c": "Lisa Molinari",
+     "n": "Lauren Morais"
+    },
+    {
+     "c": "The Butcherbird",
+     "n": "T'Nia Miller"
+    },
+    {
+     "c": "F.R.I.D.A.Y.",
+     "n": "Orla Brady"
+    },
+    {
+     "c": "D.U.M.-E.",
+     "n": "Henry Lewis"
+    },
+    {
+     "c": "U.",
+     "n": "Jonathan Sayer"
+    },
+    {
+     "c": "E.D.I.T.H.",
+     "n": "Emily Hampshire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [
+    "Terry Matalas"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-13",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 213375,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "popularity": 342.7505,
+   "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-13",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "VisionQuest",
+   "trailer": {
+    "key": "sXKnmgmbkoE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.39,
+   "vote_count": 449
+  },
+  "tv:243875": {
+   "backdrop_path": "/h927CLfeAjiy0MNKRxWZgEq7bHR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Georgie Cooper",
+     "n": "Montana Jordan"
+    },
+    {
+     "c": "Mandy Cooper",
+     "n": "Emily Osment"
+    },
+    {
+     "c": "Audrey McAllister",
+     "n": "Rachel Bay Jones"
+    },
+    {
+     "c": "Jim McAllister",
+     "n": "Will Sasso"
+    },
+    {
+     "c": "Connor McAllister",
+     "n": "Dougie Baldwin"
+    },
+    {
+     "c": "Ruben",
+     "n": "Jessie Prez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Chuck Lorre",
+    "Steve Holland",
+    "Steven Molaro"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-10-17",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 243875,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
+   "popularity": 42.3408,
+   "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-10-17",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-10-16",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 7,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The first time's always the hardest.",
+   "title": "Georgie & Mandy's First Marriage",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.016,
+   "vote_count": 281
+  },
+  "tv:2875": {
+   "backdrop_path": "/dW58Jn2Fi29P5tC0oSJ6YWhiV9E.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Angus MacGyver",
+     "n": "Richard Dean Anderson"
+    },
+    {
+     "c": "Pete Thornton",
+     "n": "Dana Elcar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Lee David Zlotoff"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1985-09-29",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 2875,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 139,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "He's everyone's favorite action hero... but he's a hero with a difference. Angus MacGyver is a secret agent whose wits are his deadliest weapon. Armed with only a knapsack filled with everyday items he picks up along the way, he improvises his way out of every peril the bad guys throw at him.\n\nMaking a bomb out of chewing gum? Fixing a speeding car's brakes... while he's riding in it? Using soda pop to cook up tear gas? That's all in a day's adventures for MacGyver. He's part Boy Scout, part genius. And all hero.",
+   "popularity": 69.8482,
+   "poster_path": "/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-05-14",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1985-09-29",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1986-09-22",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1987-09-21",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1988-10-31",
+     "episode_count": 19,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1989-09-18",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1990-09-17",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1991-09-16",
+     "episode_count": 14,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "His mind is the ultimate weapon.",
+   "title": "MacGyver",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.688,
+   "vote_count": 992
+  },
+  "tv:3475": {
+   "backdrop_path": "/6OcRNLQP6jzRRGcS0JmnYKuX4oX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bette Porter",
+     "n": "Jennifer Beals"
+    },
+    {
+     "c": "Shane McCutcheon",
+     "n": "Kate Moennig"
+    },
+    {
+     "c": "Jenny Schecter",
+     "n": "Mia Kirshner"
+    },
+    {
+     "c": "Alice Pieszecki",
+     "n": "Leisha Hailey"
+    },
+    {
+     "c": "Tina Kennard",
+     "n": "Laurel Holloman"
+    },
+    {
+     "c": "Moira/Max Sweeney",
+     "n": "Daniel Sea"
+    },
+    {
+     "c": "Kit Porter",
+     "n": "Pam Grier"
+    },
+    {
+     "c": "Tasha Williams",
+     "n": "Rose Rollins"
+    },
+    {
+     "c": "Jodi Lerner",
+     "n": "Marlee Matlin"
+    },
+    {
+     "c": "Helena Peabody",
+     "n": "Rachel Shelley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Ilene Chaiken"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2004-01-18",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 3475,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 71,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of lesbian friends struggle with romance and careers in Los Angeles.",
+   "popularity": 25.8509,
+   "poster_path": "/nuBhtv4P5nY9loJ6kXb1hsyc9EA.jpg",
+   "production_countries": [
+    "CA",
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-01-18",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-02-20",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-01-08",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-01-07",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-01-06",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-01-18",
+     "episode_count": 8,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "L hath no fury...",
+   "title": "The L Word",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.658,
+   "vote_count": 871
+  },
+  "tv:40075": {
+   "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dipper Pines (voice)",
+     "n": "Jason Ritter"
+    },
+    {
+     "c": "Mabel Pines (voice)",
+     "n": "Kristen Schaal"
+    },
+    {
+     "c": "Grunkle Stan / Soos Ramirez / Bill Cipher / Old Man McGucket (voice)",
+     "n": "Alex Hirsch"
+    },
+    {
+     "c": "Wendy Corduroy (voice)",
+     "n": "Linda Cardellini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Alex Hirsch"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-06-15",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 40075,
+   "industry": "world",
+   "networks": [
+    "Disney Channel",
+    "Disney XD"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+   "popularity": 52.5969,
+   "poster_path": "/my3IKg5kSCn1Swf07hewcZKJS3K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-10-14",
+     "episode_count": 102,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-06-15",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-08-01",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Just west of weird.",
+   "title": "Gravity Falls",
+   "trailer": {
+    "key": "VviwUvs3hd0",
+    "name": "Gravity Falls: Complete Series Collector's Edition - Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 3652
+  },
+  "tv:61175": {
+   "backdrop_path": "/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steven Universe (voice)",
+     "n": "Zach Callison"
+    },
+    {
+     "c": "Garnet (voice)",
+     "n": "Estelle"
+    },
+    {
+     "c": "Amethyst (voice)",
+     "n": "Michaela Dietz"
+    },
+    {
+     "c": "Pearl (voice)",
+     "n": "Deedee Magno Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Rebecca Sugar"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2013-11-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 61175,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 154,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
+   "popularity": 42.5693,
+   "poster_path": "/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-05-21",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-11-04",
+     "episode_count": 49,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-03-13",
+     "episode_count": 29,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-05-12",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-08-11",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-05-29",
+     "episode_count": 28,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Believe in Steven.",
+   "title": "Steven Universe",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.409,
+   "vote_count": 1410
+  },
+  "tv:67075": {
+   "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shigeo 'Mob' Kageyama (voice)",
+     "n": "Setsuo Ito"
+    },
+    {
+     "c": "Arataka Reigen (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Ritsu Kageyama (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Dimple (voice)",
+     "n": "Akio Otsuka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2016-07-12",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 67075,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 37,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+   "popularity": 33.7449,
+   "poster_path": "/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-28",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-07-12",
+     "episode_count": 12,
+     "name": "Mob Psycho",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-01-07",
+     "episode_count": 13,
+     "name": "Mob Psycho II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-10-06",
+     "episode_count": 12,
+     "name": "Mob Psycho III",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Mob Psycho 100",
+   "trailer": {
+    "key": "YIezct4JGNs",
+    "name": "Season 1 | Now Available on DVD & Blu-Ray",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.485,
+   "vote_count": 1412
+  },
+  "tv:73375": {
+   "backdrop_path": "/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Ryan",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "James Greer",
+     "n": "Wendell Pierce"
+    },
+    {
+     "c": "Cathy Mueller",
+     "n": "Abbie Cornish"
+    },
+    {
+     "c": "Adebayo 'Ade' Osoji",
+     "n": "Okieriete Onaodowan"
+    },
+    {
+     "c": "Chao Fah Sein",
+     "n": "Louis Ozawa"
+    },
+    {
+     "c": "Zeyara Lemos",
+     "n": "Zuleikha Robinson"
+    },
+    {
+     "c": "Bennu Fah",
+     "n": "Ryn Greenwell"
+    },
+    {
+     "c": "Domingo Chavez",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Elizabeth Wright",
+     "n": "Betty Gabriel"
+    },
+    {
+     "c": "Mike November",
+     "n": "Michael Kelly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Graham Roland",
+    "Carlton Cuse"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-08-30",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 73375,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+   "popularity": 37.9969,
+   "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-08-30",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-10-31",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-12-20",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-06-29",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr",
+    "de",
+    "ja",
+    "ru",
+    "es",
+    "tr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Tom Clancy's Jack Ryan",
+   "trailer": {
+    "key": "wjpcQ-6F12Q",
+    "name": "Legacy Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.665,
+   "vote_count": 1938
   }
  }
 }

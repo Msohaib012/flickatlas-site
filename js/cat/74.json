@@ -1,8 +1,8 @@
 {
  "bucket": "74",
- "count": 7,
+ "count": 13,
  "titles": {
-  "10874": {
+  "movie:10874": {
    "backdrop_path": "/seOhwRXVDGJilTipevwsMNGbXTh.jpg",
    "budget": 31000000,
    "cast": [
@@ -106,7 +106,7 @@
    "vote_average": 6.713,
    "vote_count": 497
   },
-  "2274": {
+  "movie:2274": {
    "backdrop_path": "/lTxRQzTfGwApLoxQlRldgOIcx55.jpg",
    "budget": 45000000,
    "cast": [
@@ -259,7 +259,7 @@
    "vote_average": 5.5,
    "vote_count": 460
   },
-  "248774": {
+  "movie:248774": {
    "backdrop_path": "/7DsPcLMbybqpl7nNMcwzPCM4VKG.jpg",
    "budget": 1000000,
    "cast": [
@@ -435,7 +435,7 @@
    "vote_average": 6.447,
    "vote_count": 484
   },
-  "284674": {
+  "movie:284674": {
    "backdrop_path": "/st3saCQAN1q72ws0gHoFLmQ0rL.jpg",
    "budget": 0,
    "cast": [
@@ -541,7 +541,7 @@
    "vote_average": 4.994,
    "vote_count": 496
   },
-  "30974": {
+  "movie:30974": {
    "backdrop_path": "/4lajnEr8oZFAGhwkHKuGsnvXA14.jpg",
    "budget": 0,
    "cast": [
@@ -619,7 +619,7 @@
    "vote_average": 6.028,
    "vote_count": 458
   },
-  "342474": {
+  "movie:342474": {
    "backdrop_path": "/oqLKzqL3SIh3ltX1R9kFGjE7yrh.jpg",
    "budget": 0,
    "cast": [
@@ -810,7 +810,7 @@
    "vote_average": 5.661,
    "vote_count": 443
   },
-  "394374": {
+  "movie:394374": {
    "backdrop_path": "/wsD8nxCRrVyGLsBLQhVgtTdl6Kr.jpg",
    "budget": 0,
    "cast": [
@@ -937,6 +937,915 @@
    "type": "movie",
    "vote_average": 7.049,
    "vote_count": 477
+  },
+  "tv:1274": {
+   "backdrop_path": "/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nate Fisher",
+     "n": "Peter Krause"
+    },
+    {
+     "c": "David Fisher",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Ruth Fisher",
+     "n": "Frances Conroy"
+    },
+    {
+     "c": "Claire Fisher",
+     "n": "Lauren Ambrose"
+    },
+    {
+     "c": "Federico Diaz",
+     "n": "Freddy Rodríguez"
+    },
+    {
+     "c": "Keith Charles",
+     "n": "Mathew St. Patrick"
+    },
+    {
+     "c": "Brenda Chenowith",
+     "n": "Rachel Griffiths"
+    },
+    {
+     "c": "Vanessa Diaz",
+     "n": "Justina Machado"
+    },
+    {
+     "c": "George Sibley",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Devon (uncredited)",
+     "n": "Jim Brooks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "Alan Ball"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2001-06-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1274,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When death is your business, what is your life? For the Fisher family, the world outside of their family-owned funeral home continues to be at least as challenging as—and far less predictable than—the one inside.",
+   "popularity": 37.6194,
+   "poster_path": "/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-06-03",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-03-03",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-03-02",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-06-13",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-06-06",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Life is pain, get use to it.",
+   "title": "Six Feet Under",
+   "trailer": {
+    "key": "E3gYi-KvKug",
+    "name": "Six Feet Under Trailer (HBO)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 1193
+  },
+  "tv:38974": {
+   "backdrop_path": "/jDEvpKn1Ry8U7KM4kgC2Iw6ZCJ1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jessie Prescott",
+     "n": "Debby Ryan"
+    },
+    {
+     "c": "Emma Ross",
+     "n": "Peyton List"
+    },
+    {
+     "c": "Luke Ross",
+     "n": "Cameron Boyce"
+    },
+    {
+     "c": "Ravi Ross",
+     "n": "Karan Brar"
+    },
+    {
+     "c": "Zuri Ross",
+     "n": "Skai Jackson"
+    },
+    {
+     "c": "Bertram Winkle",
+     "n": "Kevin Chamberlin"
+    },
+    {
+     "c": "Zuri Ross in great British version in season 1-2",
+     "n": "Majestie lewton ll"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Pamela Eells"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2011-09-30",
+   "genres": [
+    "Comedy",
+    "Kids",
+    "Drama",
+    "Family"
+   ],
+   "id": 38974,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 98,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An idealistic teen from rural Texas embarks on the adventure of a lifetime when she decides to leave behind starry nights for big city lights. Thrilled to be on her own and determined not to be intimidated by New York City, she accepts a job as nanny for a high-profile couple with four kids. Helping to keep her moral compass in check are Bertram, the family's butler, and Tony, the building's 20-year-old doorman.",
+   "popularity": 24.595,
+   "poster_path": "/tspQe0FuiaUj0U1R1norNbiYTe4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-30",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-10-05",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-10-05",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-01-09",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Jessie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 696
+  },
+  "tv:4574": {
+   "backdrop_path": "/8GlKBQJTFZp9mpLXJrmNCtdTyxx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Professor X (voice)",
+     "n": "Cedric Smith"
+    },
+    {
+     "c": "Cyclops (voice)",
+     "n": "Norm Spencer"
+    },
+    {
+     "c": "Jean Grey (voice)",
+     "n": "Catherine Disher"
+    },
+    {
+     "c": "Storm (voice)",
+     "n": "Alison Sealy-Smith"
+    },
+    {
+     "c": "Rogue (voice)",
+     "n": "Lenore Zann"
+    },
+    {
+     "c": "Wolverine (voice)",
+     "n": "Cal Dodd"
+    },
+    {
+     "c": "Jubilee (voice)",
+     "n": "Alyson Court"
+    },
+    {
+     "c": "Beast (voice)",
+     "n": "George Buza"
+    },
+    {
+     "c": "Gambit (voice)",
+     "n": "Tony Daniels"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "FOX",
+   "created_by": [
+    "Eric Lewald"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1992-10-31",
+   "genres": [
+    "Kids",
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 4574,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "YTV",
+    "Syndication",
+    "Fox Kids"
+   ],
+   "number_of_episodes": 76,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
+   "popularity": 27.7793,
+   "poster_path": "/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1989-09-16",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-10-31",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-10-23",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-07-29",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-09-09",
+     "episode_count": 17,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-07",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "X-Men",
+   "trailer": {
+    "key": "gh0KJImjkqc",
+    "name": "Unofficial Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.203,
+   "vote_count": 1434
+  },
+  "tv:60574": {
+   "backdrop_path": "/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas Shelby",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Arthur Shelby",
+     "n": "Paul Anderson"
+    },
+    {
+     "c": "Ada Shelby",
+     "n": "Sophie Rundle"
+    },
+    {
+     "c": "Lizzie Stark",
+     "n": "Natasha O'Keeffe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "BBC One",
+   "created_by": [
+    "Steven Knight"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-09-12",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 60574,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Two"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+   "popularity": 67.9319,
+   "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-09-12",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-09-12",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-10-02",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-05-05",
+     "episode_count": 6,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-11-15",
+     "episode_count": 6,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-08-25",
+     "episode_count": 6,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-02-27",
+     "episode_count": 6,
+     "name": "Series 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "London's for the taking.",
+   "title": "Peaky Blinders",
+   "trailer": {
+    "key": "EM12mcTEI88",
+    "name": "Series Launch Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 11535
+  },
+  "tv:61374": {
+   "backdrop_path": "/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ken Kaneki (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Touka Kirishima (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Nishiki Nishio (voice)",
+     "n": "Shintaro Asanuma"
+    },
+    {
+     "c": "Uta (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Hinami Fueguchi (voice)",
+     "n": "Sumire Morohoshi"
+    },
+    {
+     "c": "Arata Kirishima (voice)",
+     "n": "Yuuya Uchida"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2014-07-04",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 61374,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ken Kaneki, a bookworm college student, meets Rize, a girl his own age with whom he shares many interests.",
+   "popularity": 41.2271,
+   "poster_path": "/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-09-30",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-07-04",
+     "episode_count": 12,
+     "name": "Tokyo Ghoul",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-01-09",
+     "episode_count": 12,
+     "name": "Tokyo Ghoul √A",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-04-03",
+     "episode_count": 12,
+     "name": "Tokyo Ghoul:re",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-10-09",
+     "episode_count": 12,
+     "name": "Tokyo Ghoul:re  2nd Season",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "He is what he eats and that's the problem.",
+   "title": "Tokyo Ghoul",
+   "trailer": {
+    "key": "I0-yFnbPdj0",
+    "name": "Tokyo Ghoul Season 1 (Uncut) - Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.246,
+   "vote_count": 2634
+  },
+  "tv:63174": {
+   "backdrop_path": "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucifer Morningstar",
+     "n": "Tom Ellis"
+    },
+    {
+     "c": "Chloe Decker",
+     "n": "Lauren German"
+    },
+    {
+     "c": "Dan Espinoza",
+     "n": "Kevin Alejandro"
+    },
+    {
+     "c": "Amenadiel",
+     "n": "D. B. Woodside"
+    },
+    {
+     "c": "Mazikeen 'Maze'",
+     "n": "Lesley-Ann Brandt"
+    },
+    {
+     "c": "Ella Lopez",
+     "n": "Aimee Garcia"
+    },
+    {
+     "c": "Linda Martin",
+     "n": "Rachael Harris"
+    },
+    {
+     "c": "Aurora Morningstar",
+     "n": "Brianna Hildebrand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Tom Kapinos"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45,
+    62
+   ],
+   "first_air_date": "2016-01-25",
+   "genres": [
+    "Crime",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 63174,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Netflix"
+   ],
+   "number_of_episodes": 93,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+   "popularity": 100.0441,
+   "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-07-10",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-01-25",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-10-02",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-05-08",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-08-20",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-09-10",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's good to be bad.",
+   "title": "Lucifer",
+   "trailer": {
+    "key": "X4bF_quwNtw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.428,
+   "vote_count": 15786
   }
  }
 }

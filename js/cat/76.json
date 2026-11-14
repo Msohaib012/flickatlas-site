@@ -1,8 +1,8 @@
 {
  "bucket": "76",
- "count": 7,
+ "count": 11,
  "titles": {
-  "10476": {
+  "movie:10476": {
    "backdrop_path": "/d4ZrRcwEPmLQvOCyrSdWw5NglGB.jpg",
    "budget": 8000000,
    "cast": [
@@ -110,7 +110,7 @@
    "vote_average": 7.172,
    "vote_count": 480
   },
-  "1413976": {
+  "movie:1413976": {
    "backdrop_path": "/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
    "budget": 0,
    "cast": [
@@ -266,7 +266,7 @@
    "vote_average": 6.418,
    "vote_count": 458
   },
-  "166076": {
+  "movie:166076": {
    "backdrop_path": "/y53r9qgxybrfuknz9356I7V8CP4.jpg",
    "budget": 0,
    "cast": [
@@ -364,7 +364,7 @@
    "vote_average": 6.581,
    "vote_count": 482
   },
-  "28176": {
+  "movie:28176": {
    "backdrop_path": "/evVZ3tKKOQ9gxwTGRQRZxh12MGB.jpg",
    "budget": 23000000,
    "cast": [
@@ -488,7 +488,7 @@
    "vote_average": 6.743,
    "vote_count": 452
   },
-  "340176": {
+  "movie:340176": {
    "backdrop_path": "/rch5tr1bpNyfeRJxARoU7I2a9KR.jpg",
    "budget": 1250000,
    "cast": [
@@ -584,7 +584,7 @@
    "vote_average": 6.413,
    "vote_count": 436
   },
-  "606876": {
+  "movie:606876": {
    "backdrop_path": "/fFDapFaawMLjLOoYFNg3aqkIQg6.jpg",
    "budget": 0,
    "cast": [
@@ -761,7 +761,7 @@
    "vote_average": 6.1,
    "vote_count": 486
   },
-  "948276": {
+  "movie:948276": {
    "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
    "budget": 0,
    "cast": [
@@ -870,6 +870,591 @@
    "type": "movie",
    "vote_average": 6.515,
    "vote_count": 498
+  },
+  "tv:253376": {
+   "backdrop_path": "/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Laura Sanderson",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Cherry Laine",
+     "n": "Olivia Cooke"
+    },
+    {
+     "c": "Daniel Sanderson",
+     "n": "Laurie Davidson"
+    },
+    {
+     "c": "Howard Sanderson",
+     "n": "Waleed Zuaiter"
+    },
+    {
+     "c": "Tracey Laine",
+     "n": "Karen Henthorn"
+    },
+    {
+     "c": "Isabella Russell-Bailey",
+     "n": "Tanya Moodie"
+    },
+    {
+     "c": "Brigitte Russell-Bailey",
+     "n": "Shalom Brune-Franklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Naomi Sheldon",
+    "Gabbie Asher"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-10",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 253376,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
+   "popularity": 699.5649,
+   "poster_path": "/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-10",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There are two sides to every story.",
+   "title": "The Girlfriend",
+   "trailer": {
+    "key": "SKGdid_6V5s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.137,
+   "vote_count": 168
+  },
+  "tv:270476": {
+   "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mayor Tom Loftis",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Patricia Moyer",
+     "n": "Kate O'Flynn"
+    },
+    {
+     "c": "Sheriff Bechir Clemmons",
+     "n": "Kevin Carroll"
+    },
+    {
+     "c": "Rosemary",
+     "n": "Dale Dickey"
+    },
+    {
+     "c": "Evan Loftis",
+     "n": "Kingston Rumi Southwick"
+    },
+    {
+     "c": "Wyck Crawford",
+     "n": "Stephen Root"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Katie Dippold"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-28",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 270476,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+   "popularity": 25.5329,
+   "poster_path": "/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-28",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Welcome to the island, please enjoy your stay. Just don't ask too many questions.",
+   "title": "Widow's Bay",
+   "trailer": {
+    "key": "VcpYPxKeGAc",
+    "name": "Official Teaser Trailer (The Sea Hag)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.009,
+   "vote_count": 605
+  },
+  "tv:39276": {
+   "backdrop_path": "/xadC4VMl6UPRdBINAUgTBmYL7BF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carrie Wells",
+     "n": "Poppy Montgomery"
+    },
+    {
+     "c": "Al Burns",
+     "n": "Dylan Walsh"
+    },
+    {
+     "c": "Jay Lee",
+     "n": "James Hiroyuki Liao"
+    },
+    {
+     "c": "Denny Padilla",
+     "n": "E.J. Bonilla"
+    },
+    {
+     "c": "Delina Michaels",
+     "n": "La La Anthony"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "John Bellucci",
+    "Ed Redlich"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2011-09-20",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 39276,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "A&E"
+   ],
+   "number_of_episodes": 61,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Former Syracuse, New York, police detective Carrie Wells has hyperthymesia, a rare medical condition that gives her the ability to visually remember everything. She reluctantly joins the New York City Police Department's Queens homicide unit after her former boyfriend and partner asks for help with solving a case. The move allows her to try to find out the one thing she has been unable to remember, which is what happened the day her sister was murdered.",
+   "popularity": 43.0869,
+   "poster_path": "/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-20",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-07-28",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-06-29",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-11-27",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "She can do anything but forget.",
+   "title": "Unforgettable",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.24,
+   "vote_count": 358
+  },
+  "tv:4376": {
+   "backdrop_path": "/rxnschfLZf3ZPRiIa6oBBMtY7hF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harmon Rabb",
+     "n": "David James Elliott"
+    },
+    {
+     "c": "Sarah MacKenzie",
+     "n": "Catherine Bell"
+    },
+    {
+     "c": "Bud Roberts",
+     "n": "Patrick Labyorteaux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Donald P. Bellisario"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1995-09-23",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 4376,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "CBS"
+   ],
+   "number_of_episodes": 227,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Harmon \"Harm\" Rabb Jr. is a former pilot turned lawyer working for the military's JAG (Judge Advocate General) division, the elite legal wing of officers that prosecutes and defends those accused of military-related crimes. He works closely with Lt. Col. Sarah Mackenzie, and together they do what needs to be done to find the truth.",
+   "popularity": 79.4939,
+   "poster_path": "/cnRwRjFmt8VC08mTdCrky3OC0CO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-09",
+     "episode_count": 17,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1995-09-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-01-03",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-09-23",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1998-09-22",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1999-09-21",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2000-10-03",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2001-09-25",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2002-09-24",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2003-09-26",
+     "episode_count": 23,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2004-09-24",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The defense never rests.",
+   "title": "JAG",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.25,
+   "vote_count": 416
   }
  }
 }

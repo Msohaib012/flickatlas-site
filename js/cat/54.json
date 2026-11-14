@@ -1,8 +1,8 @@
 {
  "bucket": "54",
- "count": 16,
+ "count": 24,
  "titles": {
-  "11054": {
+  "movie:11054": {
    "backdrop_path": "/ersVrGMSzq2WU6ynBQrHJhwuQ85.jpg",
    "budget": 2000000,
    "cast": [
@@ -105,7 +105,7 @@
    "vote_average": 6.8,
    "vote_count": 471
   },
-  "11854": {
+  "movie:11854": {
    "backdrop_path": "/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
    "budget": 2420000,
    "cast": [
@@ -247,7 +247,7 @@
    "vote_average": 7.5,
    "vote_count": 457
   },
-  "13754": {
+  "movie:13754": {
    "backdrop_path": "/iAlJWcoEqKTmfxVMQ6pDyizPRsK.jpg",
    "budget": 4200000,
    "cast": [
@@ -402,7 +402,7 @@
    "vote_average": 7.419,
    "vote_count": 461
   },
-  "14554": {
+  "movie:14554": {
    "backdrop_path": "/tQv32m6pufbJT2rKuKDzt0kVynQ.jpg",
    "budget": 1271000,
    "cast": [
@@ -559,7 +559,7 @@
    "vote_average": 7.276,
    "vote_count": 449
   },
-  "14854": {
+  "movie:14854": {
    "backdrop_path": "/yR10dIRDAuRfRUxQ2azF4GSwJNb.jpg",
    "budget": 5000000,
    "cast": [
@@ -682,7 +682,7 @@
    "vote_average": 6.477,
    "vote_count": 448
   },
-  "15854": {
+  "movie:15854": {
    "backdrop_path": "/iezp56ettTUsHWgBjkqvEps5oxc.jpg",
    "budget": 0,
    "cast": [
@@ -772,7 +772,7 @@
    "vote_average": 6.8,
    "vote_count": 497
   },
-  "2054": {
+  "movie:2054": {
    "backdrop_path": "/oUptKQLatCgywVDx0ETVhq7knHt.jpg",
    "budget": 31000000,
    "cast": [
@@ -932,7 +932,7 @@
    "vote_average": 6.959,
    "vote_count": 478
   },
-  "372754": {
+  "movie:372754": {
    "backdrop_path": "/tLmyP7akYmxLwyfTEt2qyj2sOR3.jpg",
    "budget": 0,
    "cast": [
@@ -1014,7 +1014,7 @@
    "vote_average": 8.302,
    "vote_count": 470
   },
-  "4254": {
+  "movie:4254": {
    "backdrop_path": "/9SBIiF803WgYbLtgstZ64GCW9Hh.jpg",
    "budget": 0,
    "cast": [
@@ -1153,7 +1153,7 @@
    "vote_average": 7.5,
    "vote_count": 469
   },
-  "47854": {
+  "movie:47854": {
    "backdrop_path": "/r8VWydH7HYYt8VLiAFq9lQ2FgSp.jpg",
    "budget": 0,
    "cast": [
@@ -1275,7 +1275,7 @@
    "vote_average": 6.8,
    "vote_count": 470
   },
-  "48254": {
+  "movie:48254": {
    "backdrop_path": "/fQh5iXY9YySfH1KqCoxwi8JncyN.jpg",
    "budget": 0,
    "cast": [
@@ -1364,7 +1364,7 @@
    "vote_average": 7.2,
    "vote_count": 486
   },
-  "4954": {
+  "movie:4954": {
    "backdrop_path": "/hZh1kD7Dp8aMTc3OP41KGREH52V.jpg",
    "budget": 45000000,
    "cast": [
@@ -1465,7 +1465,7 @@
    "vote_average": 5.776,
    "vote_count": 484
   },
-  "566454": {
+  "movie:566454": {
    "backdrop_path": "/gCjfb9jUiem4zhzJShnilUuFkmG.jpg",
    "budget": 0,
    "cast": [
@@ -1646,7 +1646,7 @@
    "vote_average": 6.454,
    "vote_count": 496
   },
-  "602654": {
+  "movie:602654": {
    "backdrop_path": "/2KX79ljurDq6bBXcyoQLROVxkU8.jpg",
    "budget": 0,
    "cast": [
@@ -1760,7 +1760,7 @@
    "vote_average": 5.571,
    "vote_count": 441
   },
-  "694254": {
+  "movie:694254": {
    "backdrop_path": "/uNxgZ4IlBi1N1cj2sODAxeB0w8T.jpg",
    "budget": 0,
    "cast": [
@@ -1866,7 +1866,7 @@
    "vote_average": 6.435,
    "vote_count": 444
   },
-  "712454": {
+  "movie:712454": {
    "backdrop_path": "/8Yqx44MZbBSQCW1OWFeuHwqQtWv.jpg",
    "budget": 9850000,
    "cast": [
@@ -1975,6 +1975,1675 @@
    "type": "movie",
    "vote_average": 7.716,
    "vote_count": 447
+  },
+  "tv:1054": {
+   "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "channel": "CBS",
+   "created_by": [
+    "William J. Bell",
+    "Lee Phillip Bell"
+   ],
+   "director": [],
+   "episode_run_time": [
+    37
+   ],
+   "first_air_date": "1973-03-26",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 1054,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 8436,
+   "number_of_seasons": 54,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+   "popularity": 30.3673,
+   "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1973-03-26",
+     "episode_count": 370,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1974-09-02",
+     "episode_count": 256,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1975-09-02",
+     "episode_count": 256,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1976-09-07",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1977-09-06",
+     "episode_count": 1,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1978-09-04",
+     "episode_count": 1,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1979-09-04",
+     "episode_count": 1,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1980-09-01",
+     "episode_count": 1,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1981-09-01",
+     "episode_count": 1,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1982-09-01",
+     "episode_count": 1,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1983-09-01",
+     "episode_count": 1,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1984-09-03",
+     "episode_count": 1,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1985-09-02",
+     "episode_count": 1,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1986-09-01",
+     "episode_count": 258,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1987-09-01",
+     "episode_count": 1,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1988-09-01",
+     "episode_count": 1,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "1989-03-27",
+     "episode_count": 2,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "1990-03-26",
+     "episode_count": 1,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1991-03-25",
+     "episode_count": 60,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "1992-03-30",
+     "episode_count": 10,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1993-03-29",
+     "episode_count": 8,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1994-03-28",
+     "episode_count": 10,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1995-03-27",
+     "episode_count": 12,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "1996-03-25",
+     "episode_count": 10,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1997-03-24",
+     "episode_count": 123,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "1998-03-23",
+     "episode_count": 129,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "1999-03-29",
+     "episode_count": 253,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2000-03-27",
+     "episode_count": 252,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2001-03-26",
+     "episode_count": 247,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2002-03-25",
+     "episode_count": 249,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2003-03-24",
+     "episode_count": 256,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2004-03-29",
+     "episode_count": 251,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2005-03-28",
+     "episode_count": 253,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2006-03-27",
+     "episode_count": 252,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2007-03-26",
+     "episode_count": 366,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2008-09-02",
+     "episode_count": 256,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2009-09-08",
+     "episode_count": 252,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2010-09-07",
+     "episode_count": 250,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2011-09-01",
+     "episode_count": 255,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2012-09-04",
+     "episode_count": 138,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2013-03-25",
+     "episode_count": 368,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2014-09-02",
+     "episode_count": 255,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2015-09-01",
+     "episode_count": 256,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2016-09-01",
+     "episode_count": 255,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2017-09-01",
+     "episode_count": 255,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2018-09-03",
+     "episode_count": 255,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2019-09-03",
+     "episode_count": 187,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 255,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2021-09-29",
+     "episode_count": 255,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2022-09-30",
+     "episode_count": 255,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2023-10-03",
+     "episode_count": 255,
+     "name": "Season 51",
+     "season_number": 51
+    },
+    {
+     "air_date": "2024-10-03",
+     "episode_count": 255,
+     "name": "Season 52",
+     "season_number": 52
+    },
+    {
+     "air_date": "2025-10-07",
+     "episode_count": 257,
+     "name": "Season 53",
+     "season_number": 53
+    },
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 32,
+     "name": "Season 54",
+     "season_number": 54
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Young and the Restless",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 170
+  },
+  "tv:1554": {
+   "backdrop_path": "/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Presenter",
+     "n": "Sandi Toksvig"
+    },
+    {
+     "c": "Self - Panellist",
+     "n": "Alan Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "BBC One",
+   "created_by": [
+    "John Lloyd"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-09-11",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 1554,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Four",
+    "BBC Two"
+   ],
+   "number_of_episodes": 372,
+   "number_of_seasons": 24,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+   "popularity": 54.3111,
+   "poster_path": "/9zWVsauqP7GM9E1N9WDYVf9CWe3.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-12-06",
+     "episode_count": 62,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-09-11",
+     "episode_count": 12,
+     "name": "Series A",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-10-08",
+     "episode_count": 12,
+     "name": "Series B",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-30",
+     "episode_count": 12,
+     "name": "Series C",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-29",
+     "episode_count": 13,
+     "name": "Series D",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-21",
+     "episode_count": 13,
+     "name": "Series E",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-11-14",
+     "episode_count": 12,
+     "name": "Series F",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-11-26",
+     "episode_count": 18,
+     "name": "Series G",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-17",
+     "episode_count": 18,
+     "name": "Series H",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-09-09",
+     "episode_count": 18,
+     "name": "Series I",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-09-14",
+     "episode_count": 18,
+     "name": "Series J",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-09-06",
+     "episode_count": 18,
+     "name": "Series K",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-10-03",
+     "episode_count": 18,
+     "name": "Series L",
+     "season_number": 12
+    },
+    {
+     "air_date": "2015-10-16",
+     "episode_count": 18,
+     "name": "Series M",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-10-21",
+     "episode_count": 18,
+     "name": "Series N",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-10-20",
+     "episode_count": 18,
+     "name": "Series O",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-09-10",
+     "episode_count": 18,
+     "name": "Series P",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-09-06",
+     "episode_count": 18,
+     "name": "Series Q",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-05-28",
+     "episode_count": 16,
+     "name": "Series R",
+     "season_number": 18
+    },
+    {
+     "air_date": "2021-09-09",
+     "episode_count": 16,
+     "name": "Series S",
+     "season_number": 19
+    },
+    {
+     "air_date": "2022-11-11",
+     "episode_count": 16,
+     "name": "Series T",
+     "season_number": 20
+    },
+    {
+     "air_date": "2023-12-18",
+     "episode_count": 17,
+     "name": "Series U",
+     "season_number": 21
+    },
+    {
+     "air_date": "2024-10-22",
+     "episode_count": 16,
+     "name": "Series V",
+     "season_number": 22
+    },
+    {
+     "air_date": "2025-10-21",
+     "episode_count": 16,
+     "name": "Series W",
+     "season_number": 23
+    },
+    {
+     "air_date": "2026-11-03",
+     "episode_count": 3,
+     "name": "Series X",
+     "season_number": 24
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "QI",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 294
+  },
+  "tv:31654": {
+   "backdrop_path": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daisuke Motomiya (voice)",
+     "n": "Reiko Kiuchi"
+    },
+    {
+     "c": "Iori Hida / Armadimon (voice)",
+     "n": "Megumi Urawa"
+    },
+    {
+     "c": "Miyako Inoue (voice)",
+     "n": "Rio Natsuki"
+    },
+    {
+     "c": "Takeru Takaishi (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Ken Ichijouji / Digimon Kaiser (voice)",
+     "n": "Romi Park"
+    },
+    {
+     "c": "V-mon (voice)",
+     "n": "Junko Noda"
+    },
+    {
+     "c": "Hikari Yagami (voice)",
+     "n": "Kae Araki"
+    },
+    {
+     "c": "Hawkmon (voice)",
+     "n": "Koichi Tochika"
+    },
+    {
+     "c": "Patamon (voice)",
+     "n": "Miwa Matsumoto"
+    },
+    {
+     "c": "Wormmon (voice)",
+     "n": "Naozumi Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1999-03-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 31654,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 104,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "While at summer camp, seven kids come across seven Digivices and are transported to a strange digital world. In this new world they make friends with creatures that call themselves Digimon who were born to defend their world from various evil forces.",
+   "popularity": 29.0483,
+   "poster_path": "/vFJAiBNUlzEVa54mXgHGumr1z1s.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1999-03-07",
+     "episode_count": 54,
+     "name": "Digimon Adventure",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-04-02",
+     "episode_count": 50,
+     "name": "Digimon Adventure 02",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Digimon: Digital Monsters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.073,
+   "vote_count": 955
+  },
+  "tv:37854": {
+   "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monkey D. Luffy (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Roronoa Zoro (voice)",
+     "n": "Kazuya Nakai"
+    },
+    {
+     "c": "Yoko (voice)",
+     "n": "Mari Yaguchi"
+    },
+    {
+     "c": "Nami (voice)",
+     "n": "Akemi Okamura"
+    },
+    {
+     "c": "Usopp (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Sanji (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Tony Tony Chopper (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Nico Robin (voice)",
+     "n": "Yuriko Yamaguchi"
+    },
+    {
+     "c": "Franky (voice)",
+     "n": "Kazuki Yao"
+    },
+    {
+     "c": "Jinbe (voice)",
+     "n": "Katsuhisa Houki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1999-10-20",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Animation"
+   ],
+   "id": 37854,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Tokai Television Broadcasting"
+   ],
+   "number_of_episodes": 1180,
+   "number_of_seasons": 23,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+   "popularity": 463.6134,
+   "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1999-12-15",
+     "episode_count": 39,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-10-20",
+     "episode_count": 61,
+     "name": "East Blue",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 16,
+     "name": "Whiskey Peak & Little Garden",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 14,
+     "name": "Drum Island",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 39,
+     "name": "Alabasta",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 13,
+     "name": "Dreams!, The Zenny Pirate Crew Sortie!, Beyond the Rainbow",
+     "season_number": 5
+    },
+    {
+     "air_date": "",
+     "episode_count": 52,
+     "name": "Skypiea",
+     "season_number": 6
+    },
+    {
+     "air_date": "",
+     "episode_count": 33,
+     "name": "G-8 & Long Ring Long Land",
+     "season_number": 7
+    },
+    {
+     "air_date": "",
+     "episode_count": 35,
+     "name": "Water Seven",
+     "season_number": 8
+    },
+    {
+     "air_date": "",
+     "episode_count": 73,
+     "name": "Enies Lobby",
+     "season_number": 9
+    },
+    {
+     "air_date": "",
+     "episode_count": 45,
+     "name": "Thriller Bark",
+     "season_number": 10
+    },
+    {
+     "air_date": "",
+     "episode_count": 26,
+     "name": "Sabaody Archipelago",
+     "season_number": 11
+    },
+    {
+     "air_date": "",
+     "episode_count": 14,
+     "name": "Amazon Lily",
+     "season_number": 12
+    },
+    {
+     "air_date": "",
+     "episode_count": 101,
+     "name": "Impel Down & Marineford",
+     "season_number": 13
+    },
+    {
+     "air_date": "",
+     "episode_count": 58,
+     "name": "Fishman Island",
+     "season_number": 14
+    },
+    {
+     "air_date": "",
+     "episode_count": 62,
+     "name": "Punk Hazard",
+     "season_number": 15
+    },
+    {
+     "air_date": "",
+     "episode_count": 50,
+     "name": "Dressrosa",
+     "season_number": 16
+    },
+    {
+     "air_date": "",
+     "episode_count": 56,
+     "name": "Dressrosa (2)",
+     "season_number": 17
+    },
+    {
+     "air_date": "2016-07-13",
+     "episode_count": 55,
+     "name": "Zou",
+     "season_number": 18
+    },
+    {
+     "air_date": "2017-09-05",
+     "episode_count": 74,
+     "name": "Whole Cake Island",
+     "season_number": 19
+    },
+    {
+     "air_date": "2019-04-01",
+     "episode_count": 14,
+     "name": "Levely Arc",
+     "season_number": 20
+    },
+    {
+     "air_date": "2019-07-08",
+     "episode_count": 197,
+     "name": "Wano Country Arc",
+     "season_number": 21
+    },
+    {
+     "air_date": "",
+     "episode_count": 67,
+     "name": "Egghead",
+     "season_number": 22
+    },
+    {
+     "air_date": "",
+     "episode_count": 25,
+     "name": "Elbaph",
+     "season_number": 23
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "Set sail for One Piece!",
+   "title": "One Piece",
+   "trailer": {
+    "key": "1KMcoJBMWE4",
+    "name": "We're Just Getting Started Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 5650
+  },
+  "tv:4454": {
+   "backdrop_path": "/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Will Truman",
+     "n": "Eric McCormack"
+    },
+    {
+     "c": "Grace Adler",
+     "n": "Debra Messing"
+    },
+    {
+     "c": "Jack McFarland",
+     "n": "Sean Hayes"
+    },
+    {
+     "c": "Karen Walker",
+     "n": "Megan Mullally"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Max Mutchnick",
+    "David Kohan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1998-09-21",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4454,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 194,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Will Truman and Grace Adler are best friends living in New York, and when Grace's engagement falls apart, she moves in with Will. Together, along with their friends, they go through the trials of dating, sex, relationships and their careers, butting heads at times but ultimately supporting one another while exchanging plenty of witty banter along the way.",
+   "popularity": 51.2276,
+   "poster_path": "/aEaYdyHcpHN3fIXHhXHtXOs8Rtk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-11-21",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-09-21",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-09-21",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-10-12",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-09-27",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-09-26",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2003-09-25",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2004-09-16",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2005-09-29",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Where there's a Will there's a Grace.",
+   "title": "Will & Grace",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.885,
+   "vote_count": 607
+  },
+  "tv:60554": {
+   "backdrop_path": "/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kanan Jarrus (voice)",
+     "n": "Freddie Prinze Jr."
+    },
+    {
+     "c": "Ezra Bridger (voice)",
+     "n": "Taylor Gray"
+    },
+    {
+     "c": "Hera Syndulla (voice)",
+     "n": "Vanessa Marshall"
+    },
+    {
+     "c": "Sabine Wren (voice)",
+     "n": "Tiya Sircar"
+    },
+    {
+     "c": "C1-10P 'Chopper' (voice) (uncredited)",
+     "n": "Dave Filoni"
+    },
+    {
+     "c": "Garazeb 'Zeb' Orrelios (voice)",
+     "n": "Steve Blum"
+    },
+    {
+     "c": "Agent Kallus (voice)",
+     "n": "David Oyelowo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney XD",
+   "created_by": [
+    "Simon Kinberg",
+    "Dave Filoni",
+    "Carrie Beck"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-10-13",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60554,
+   "industry": "world",
+   "networks": [
+    "Disney XD"
+   ],
+   "number_of_episodes": 69,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
+   "popularity": 31.9387,
+   "poster_path": "/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",
+   "production_countries": [
+    "US",
+    "MY",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-08-11",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-10-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-14",
+     "episode_count": 19,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-24",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-10-16",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A spark of rebellion ignites...",
+   "title": "Star Wars Rebels",
+   "trailer": {
+    "key": "xg5YN3LAGw4",
+    "name": "Official Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.727,
+   "vote_count": 1056
+  },
+  "tv:68854": {
+   "backdrop_path": "/nh0BS0sLXozmkTpOe1Ve33MyxlK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sawako Kuronuma (voice)",
+     "n": "Mamiko Noto"
+    },
+    {
+     "c": "Shota Kazehaya (voice)",
+     "n": "Daisuke Namikawa"
+    },
+    {
+     "c": "Ayane Yano (voice)",
+     "n": "Miyuki Sawashiro"
+    },
+    {
+     "c": "Chizuru 'Chizu' Yoshida (voice)",
+     "n": "Yuko Sanpei"
+    },
+    {
+     "c": "Ryu Sanada (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Kento Miura (voice)",
+     "n": "Mamoru Miyano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-10-07",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 68854,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "Netflix"
+   ],
+   "number_of_episodes": 42,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Nicknamed \"Sadako\" for her spooky appearance, high schooler Sawako begins to break out of her shell when she befriends popular boy Kazehaya.",
+   "popularity": 26.3517,
+   "poster_path": "/lLUAZzJc6vfyE2TeY56AGGb3E5K.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-01-05",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-10-07",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-01-12",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-08-01",
+     "episode_count": 5,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "From Me to You: Kimi ni Todoke",
+   "trailer": {
+    "key": "_gJR6gfRYEQ",
+    "name": "Vol 1 & 2 - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.355,
+   "vote_count": 380
+  },
+  "tv:94954": {
+   "backdrop_path": "/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vaggie (voice)",
+     "n": "Stephanie Beatriz"
+    },
+    {
+     "c": "Husk (voice)",
+     "n": "Keith David"
+    },
+    {
+     "c": "Niffty (voice)",
+     "n": "Kimiko Glenn"
+    },
+    {
+     "c": "Charlie Morningstar (voice)",
+     "n": "Erika Henningsen"
+    },
+    {
+     "c": "Angel Dust (voice)",
+     "n": "Blake Roman"
+    },
+    {
+     "c": "Alastor (voice)",
+     "n": "Amir Talai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Vivienne Medrano"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-01-18",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 94954,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+   "popularity": 65.4505,
+   "poster_path": "/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-10-28",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-01-18",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Returning Series",
+   "tagline": "It's a beautiful day in Hell.",
+   "title": "Hazbin Hotel",
+   "trailer": {
+    "key": "OLSWVCwy88g",
+    "name": "Season 1 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 1680
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "01",
- "count": 11,
+ "count": 19,
  "titles": {
-  "1013601": {
+  "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
    "budget": 45000000,
    "cast": [
@@ -154,7 +154,7 @@
    "vote_average": 6.211,
    "vote_count": 488
   },
-  "1116201": {
+  "movie:1116201": {
    "backdrop_path": "/seuG9UslSFybML8C4enbrE6Hsyz.jpg",
    "budget": 3000000,
    "cast": [
@@ -273,7 +273,7 @@
    "vote_average": 6.789,
    "vote_count": 487
   },
-  "1261501": {
+  "movie:1261501": {
    "backdrop_path": "/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
    "budget": 0,
    "cast": [
@@ -382,7 +382,7 @@
    "vote_average": 6.2,
    "vote_count": 474
   },
-  "203101": {
+  "movie:203101": {
    "backdrop_path": "/4eifGTQNH0Gk4JemP6r1vlQ6iOS.jpg",
    "budget": 0,
    "cast": [
@@ -461,7 +461,7 @@
    "vote_average": 7.4,
    "vote_count": 478
   },
-  "20701": {
+  "movie:20701": {
    "backdrop_path": "/fGEOTZQHYrfB509jdhmfo1rpref.jpg",
    "budget": 3500000,
    "cast": [
@@ -627,7 +627,7 @@
    "vote_average": 6.2,
    "vote_count": 449
   },
-  "340101": {
+  "movie:340101": {
    "backdrop_path": "/vZbAwP1LthxHzRnodvVwXKwUk4n.jpg",
    "budget": 11795877,
    "cast": [
@@ -790,7 +790,7 @@
    "vote_average": 6.6,
    "vote_count": 465
   },
-  "42801": {
+  "movie:42801": {
    "backdrop_path": "/i7awVEzUulqDX35EDKtXijRCpzM.jpg",
    "budget": 0,
    "cast": [
@@ -960,7 +960,7 @@
    "vote_average": 7.415,
    "vote_count": 490
   },
-  "508101": {
+  "movie:508101": {
    "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
    "budget": 0,
    "cast": [
@@ -1092,7 +1092,7 @@
    "vote_average": 6.816,
    "vote_count": 438
   },
-  "588001": {
+  "movie:588001": {
    "backdrop_path": "/ensZ2nLvJEtFEioRFE6GJN9JPRI.jpg",
    "budget": 0,
    "cast": [
@@ -1196,7 +1196,7 @@
    "vote_average": 6.0,
    "vote_count": 438
   },
-  "81401": {
+  "movie:81401": {
    "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
    "budget": 1000000,
    "cast": [
@@ -1289,7 +1289,7 @@
    "vote_average": 7.6,
    "vote_count": 441
   },
-  "952701": {
+  "movie:952701": {
    "backdrop_path": "/ngsAuG8JYOiuwgGejN7xljgETNt.jpg",
    "budget": 0,
    "cast": [
@@ -1415,6 +1415,1237 @@
    "type": "movie",
    "vote_average": 6.248,
    "vote_count": 498
+  },
+  "tv:124101": {
+   "backdrop_path": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Deborah Vance",
+     "n": "Jean Smart"
+    },
+    {
+     "c": "Ava",
+     "n": "Hannah Einbinder"
+    },
+    {
+     "c": "Marcus",
+     "n": "Carl Clemons-Hopkins"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Paul W. Downs"
+    },
+    {
+     "c": "Kayla",
+     "n": "Megan Stalter"
+    },
+    {
+     "c": "Damien",
+     "n": "Mark Indelicato"
+    },
+    {
+     "c": "Josefina",
+     "n": "Rose Abdoo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [
+    "Lucia Aniello",
+    "Paul W. Downs",
+    "Jen Statsky"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-05-13",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 124101,
+   "industry": "world",
+   "networks": [
+    "HBO Max",
+    "Max",
+    "HBO Max"
+   ],
+   "number_of_episodes": 47,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+   "popularity": 47.1954,
+   "poster_path": "/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-05-13",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-05-12",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-05-02",
+     "episode_count": 9,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Saving the best for last.",
+   "title": "Hacks",
+   "trailer": {
+    "key": "pJcfoJCCJ50",
+    "name": "Hacks | Official Trailer | HBO GO",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.527,
+   "vote_count": 414
+  },
+  "tv:138501": {
+   "backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Agnes O'Connor / Agatha Harkness",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Teen",
+     "n": "Joe Locke"
+    },
+    {
+     "c": "Jennifer Kale",
+     "n": "Sasheer Zamata"
+    },
+    {
+     "c": "Alice Wu-Gulliver",
+     "n": "Ali Ahn"
+    },
+    {
+     "c": "Mrs. Hart",
+     "n": "Debra Jo Rupp"
+    },
+    {
+     "c": "Lilia Calderu",
+     "n": "Patti LuPone"
+    },
+    {
+     "c": "Rio Vidal",
+     "n": "Aubrey Plaza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [
+    "Jac Schaeffer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-09-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 138501,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+   "popularity": 26.0624,
+   "poster_path": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-09-18",
+     "episode_count": 9,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Revenge is a witch.",
+   "title": "Agatha All Along",
+   "trailer": {
+    "key": "R9pXbNz6Vbw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 1097
+  },
+  "tv:33001": {
+   "backdrop_path": "/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Audrey Parker",
+     "n": "Emily Rose"
+    },
+    {
+     "c": "Nathan Wournos",
+     "n": "Lucas Bryant"
+    },
+    {
+     "c": "Duke Crocker",
+     "n": "Eric Balfour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "Syfy",
+   "created_by": [
+    "Jim Dunn",
+    "Sam Ernst"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-07-09",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 33001,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "FBI agent Audrey Parker arrives in the small town of Haven, Maine to solve a murder and soon discovers the town's many secrets—which also hold the key to unlocking the mysteries of her lost past.",
+   "popularity": 33.0747,
+   "poster_path": "/aceumwROgphFLSyOXFfijaoSZJE.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-12",
+     "episode_count": 59,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-07-09",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-06-11",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-21",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-13",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-09-11",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It takes a village to hide a secret",
+   "title": "Haven",
+   "trailer": {
+    "key": "YB4v6fRVjf0",
+    "name": "Season 1 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.512,
+   "vote_count": 523
+  },
+  "tv:43901": {
+   "backdrop_path": "/rhYgYFWcH13gDUSf523ftltWH72.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walt Longmire",
+     "n": "Robert Taylor"
+    },
+    {
+     "c": "Victoria 'Vic' Moretti",
+     "n": "Katee Sackhoff"
+    },
+    {
+     "c": "Henry Standing Bear",
+     "n": "Lou Diamond Phillips"
+    },
+    {
+     "c": "Cady Longmire",
+     "n": "Cassidy Freeman"
+    },
+    {
+     "c": "Ferg",
+     "n": "Adam Bartley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "A&E",
+   "created_by": [
+    "John Coveny",
+    "Hunt Baldwin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-06-03",
+   "genres": [
+    "Western",
+    "Crime",
+    "Drama"
+   ],
+   "id": 43901,
+   "industry": "world",
+   "networks": [
+    "A&E",
+    "Netflix"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the “Walt Longmire” series of mystery novels written by best-selling author Craig Johnson.",
+   "popularity": 26.32,
+   "poster_path": "/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-06-03",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-05-27",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-06-02",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-09-10",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-11-17",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Loyalty is a dying breed.",
+   "title": "Longmire",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.711,
+   "vote_count": 341
+  },
+  "tv:4601": {
+   "backdrop_path": "/qLYumObEHeRHFMC6N3SfCrnBFjp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert Goren",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Alexandra Eames",
+     "n": "Kathryn Erbe"
+    },
+    {
+     "c": "Paula Gyson",
+     "n": "Julia Ormond"
+    },
+    {
+     "c": "Joseph Hannah",
+     "n": "Jay O. Sanders"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Wolf"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2001-09-30",
+   "genres": [
+    "Drama"
+   ],
+   "id": 4601,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "USA Network"
+   ],
+   "number_of_episodes": 195,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The third installment of the “Law & Order” franchise takes viewers deep into the minds of its criminals while following the intense psychological approaches the Major Case Squad uses to solve its crimes.",
+   "popularity": 97.9382,
+   "poster_path": "/zwqeNcgITL8ixEVVhe1dCnMQksq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-09-30",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-09-29",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-09-28",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-09-26",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-09-19",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2007-10-04",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-04-19",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-03-30",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-05-01",
+     "episode_count": 8,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Law & Order: Criminal Intent",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.591,
+   "vote_count": 392
+  },
+  "tv:63401": {
+   "backdrop_path": "/cl5FVcBEgddaC7dUL8HDMH6m2tp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grizzly (voice)",
+     "n": "Eric Edelstein"
+    },
+    {
+     "c": "Ice Bear (voice)",
+     "n": "Demetri Martin"
+    },
+    {
+     "c": "Panda (voice)",
+     "n": "Bobby Moynihan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Daniel Chong"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2015-08-24",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 63401,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 138,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
+   "popularity": 48.6812,
+   "poster_path": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-11-06",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-08-24",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-02-11",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-03",
+     "episode_count": 47,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-07-30",
+     "episode_count": 43,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "We Bare Bears",
+   "trailer": {
+    "key": "Pc7_-y4g2Lc",
+    "name": "We Bare Bears (Volume 1): Viral Video - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 1879
+  },
+  "tv:79501": {
+   "backdrop_path": "/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Crazy Jane",
+     "n": "Diane Guerrero"
+    },
+    {
+     "c": "Rita Farr / Elasti-Woman",
+     "n": "April Bowlby"
+    },
+    {
+     "c": "Victor Stone / Cyborg",
+     "n": "Joivan Wade"
+    },
+    {
+     "c": "Kay Challis",
+     "n": "Skye Roberts"
+    },
+    {
+     "c": "Cliff Steele / Robotman",
+     "n": "Riley Shanahan"
+    },
+    {
+     "c": "Larry Trainor / Negative Man",
+     "n": "Matthew Zuk"
+    },
+    {
+     "c": "Larry Trainor / Negative Man (voice)",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Cliff Steele / Robotman (voice)",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Laura De Mille / Madame Rouge",
+     "n": "Michelle Gomez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "DC Universe",
+   "created_by": [
+    "Jeremy Carver"
+   ],
+   "director": [],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "2019-02-15",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 79501,
+   "industry": "world",
+   "networks": [
+    "DC Universe",
+    "HBO Max",
+    "Max"
+   ],
+   "number_of_episodes": 46,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+   "popularity": 28.2316,
+   "poster_path": "/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-10-01",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-02-15",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-06-25",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-12-08",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "All good things are doomed.",
+   "title": "Doom Patrol",
+   "trailer": {
+    "key": "6tTM9nbRk5A",
+    "name": "Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.47,
+   "vote_count": 1512
+  },
+  "tv:91801": {
+   "backdrop_path": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Iruma Suzuki (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Alice Asmodeus (voice)",
+     "n": "Ryohei Kimura"
+    },
+    {
+     "c": "Clara Valac (voice)",
+     "n": "Ayaka Asai"
+    },
+    {
+     "c": "Naberius Kalego (voice)",
+     "n": "Daisuke Ono"
+    },
+    {
+     "c": "Ameri Azazel (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Sabro Sabnock (voice)",
+     "n": "Takuya Sato"
+    },
+    {
+     "c": "Sullivan (voice)",
+     "n": "Takaya Kuroda"
+    },
+    {
+     "c": "Opera (voice)",
+     "n": "Mitsuki Saiga"
+    },
+    {
+     "c": "Lied Shax (voice)",
+     "n": "Yoshitaka Yamaya"
+    },
+    {
+     "c": "Keroli Crocell / Evidol Kuromu (voice)",
+     "n": "Nao Toyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NHK Educational TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2019-10-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 91801,
+   "industry": "world",
+   "networks": [
+    "NHK Educational TV"
+   ],
+   "number_of_episodes": 89,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Fourteen-year-old Iruma Suzuki has just been abandoned and sold to a demon by his irresponsible parents! Surprisingly, the next thing he knows he's living with the demon who has adopted him as his new grandson and has been transferred into a school in the Netherworld where his new demon grandfather works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly as he faces his true self, takes on challenges, and rises to become someone great.",
+   "popularity": 34.8572,
+   "poster_path": "/msqjiRwQiaGQpPdnG0Y4OYjDqL9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-10-05",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-04-17",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-10-08",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-04-04",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Welcome to Demon School! Iruma-kun",
+   "trailer": {
+    "key": "kkeuJt0DE7g",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.283,
+   "vote_count": 315
   }
  }
 }

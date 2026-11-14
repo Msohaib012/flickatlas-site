@@ -1,8 +1,8 @@
 {
  "bucket": "57",
- "count": 10,
+ "count": 22,
  "titles": {
-  "11157": {
+  "movie:11157": {
    "backdrop_path": "/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
    "budget": 20000000,
    "cast": [
@@ -120,7 +120,7 @@
    "vote_average": 5.963,
    "vote_count": 447
   },
-  "11457": {
+  "movie:11457": {
    "backdrop_path": "/cq0xYG4TIcEPaFPhkgTpDhWLIqo.jpg",
    "budget": 18000000,
    "cast": [
@@ -269,7 +269,7 @@
    "vote_average": 7.1,
    "vote_count": 468
   },
-  "170657": {
+  "movie:170657": {
    "backdrop_path": "/60Y6NXOXiqPHACYhMoW5Fo4eCO5.jpg",
    "budget": 0,
    "cast": [
@@ -458,7 +458,7 @@
    "vote_average": 7.0,
    "vote_count": 475
   },
-  "2457": {
+  "movie:2457": {
    "backdrop_path": "/ubERa5VEJlBRglxDSBSL0YBG7XB.jpg",
    "budget": 0,
    "cast": [
@@ -598,7 +598,7 @@
    "vote_average": 8.05,
    "vote_count": 476
   },
-  "317557": {
+  "movie:317557": {
    "backdrop_path": "/awZwLXuPAGZEARF3y18S3qWt5LH.jpg",
    "budget": 15000000,
    "cast": [
@@ -716,7 +716,7 @@
    "vote_average": 7.229,
    "vote_count": 484
   },
-  "348657": {
+  "movie:348657": {
    "backdrop_path": "/7XolBNeZsAm4Gehx09Y4cPdvd5q.jpg",
    "budget": 0,
    "cast": [
@@ -925,7 +925,7 @@
    "vote_average": 7.197,
    "vote_count": 452
   },
-  "354857": {
+  "movie:354857": {
    "backdrop_path": "/An1FS6Baec7uogTcQyEYqruYAtM.jpg",
    "budget": 3000000,
    "cast": [
@@ -1036,7 +1036,7 @@
    "vote_average": 7.942,
    "vote_count": 455
   },
-  "53957": {
+  "movie:53957": {
    "backdrop_path": "/A6wkxXOLteYJtWKW9cgEcDLFtbd.jpg",
    "budget": 0,
    "cast": [
@@ -1126,7 +1126,7 @@
    "vote_average": 6.722,
    "vote_count": 497
   },
-  "645757": {
+  "movie:645757": {
    "backdrop_path": "/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",
    "budget": 0,
    "cast": [
@@ -1236,7 +1236,7 @@
    "vote_average": 7.15,
    "vote_count": 461
   },
-  "667257": {
+  "movie:667257": {
    "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
    "budget": 0,
    "cast": [
@@ -1324,6 +1324,2256 @@
    "type": "movie",
    "vote_average": 8.465,
    "vote_count": 453
+  },
+  "tv:100757": {
+   "backdrop_path": "/fGk5GVPP7qfEHr8b9pzS6AWsOmV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John B. Routledge",
+     "n": "Chase Stokes"
+    },
+    {
+     "c": "Sarah Cameron",
+     "n": "Madelyn Cline"
+    },
+    {
+     "c": "Kiara Carrera",
+     "n": "Madison Bailey"
+    },
+    {
+     "c": "Pope Heyward",
+     "n": "Jonathan Daviss"
+    },
+    {
+     "c": "Cleo",
+     "n": "Carlacia Grant"
+    },
+    {
+     "c": "Rafe Cameron",
+     "n": "Drew Starkey"
+    },
+    {
+     "c": "Sheriff Shoupe",
+     "n": "Cullen Moss"
+    },
+    {
+     "c": "Chandler Groff",
+     "n": "J Anthony Crane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Josh Pate",
+    "Shannon Burke",
+    "Jonas Pate"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-04-15",
+   "genres": [
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 100757,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+   "popularity": 38.031,
+   "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-04-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-07-30",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-02-23",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-10-10",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-08-20",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Pogues for life.",
+   "title": "Outer Banks",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1307
+  },
+  "tv:135157": {
+   "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jang Uk",
+     "n": "Lee Jae-wook"
+    },
+    {
+     "c": "Naksu / Cho-young / Jin Bu-yeon",
+     "n": "Go Youn-jung"
+    },
+    {
+     "c": "Seo Yul",
+     "n": "Minhyun"
+    },
+    {
+     "c": "Seo Yul (teen)",
+     "n": "Moon Seong-hyun"
+    },
+    {
+     "c": "Crown Prince Go Won",
+     "n": "Shin Seung-ho"
+    },
+    {
+     "c": "Park Jin",
+     "n": "Yu Jun-sang"
+    },
+    {
+     "c": "Maid Kim Do-ju",
+     "n": "Oh Na-ra"
+    },
+    {
+     "c": "Park Dang-gu",
+     "n": "Yoo In-soo"
+    },
+    {
+     "c": "Jin Cho-yeon",
+     "n": "ARIN"
+    },
+    {
+     "c": "Jin Mu",
+     "n": "Jo Jae-yun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "Hong Jeong-eun",
+    "Hong Mi-ran",
+    "Park Joon-hwa"
+   ],
+   "director": [],
+   "episode_run_time": [
+    75
+   ],
+   "first_air_date": "2022-06-18",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 135157,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "She was named Naksu because wherever she went, a trail of heads followed. She performs the alchemy of souls, magic that can change people's bodies and souls, which is forbidden in Daeho, and ends up being chased. Naksu hurriedly abandons her body and attempts the alchemy of souls on a woman passing by. Jang Wook, the son of the King of Daeho, realizes that Mudeok's soul has been changed and helps her. Jang Wook wants to learn Naksu's martial arts and become a sorcerer, and Naksu, in the body of Mudeok, stays by his side so she can recover her strength.",
+   "popularity": 31.703,
+   "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-08-13",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-06-18",
+     "episode_count": 20,
+     "name": "Part 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-12-10",
+     "episode_count": 10,
+     "name": "Part 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Stay close, so no one can attack us!",
+   "title": "Alchemy of Souls",
+   "trailer": {
+    "key": "50kLmhGpt1s",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.591,
+   "vote_count": 831
+  },
+  "tv:203857": {
+   "backdrop_path": "/hzznrBI07C2chXivlLYvEmQESP7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ambassador Kate Wyler",
+     "n": "Keri Russell"
+    },
+    {
+     "c": "Hal Wyler",
+     "n": "Rufus Sewell"
+    },
+    {
+     "c": "Eidra Park",
+     "n": "Ali Ahn"
+    },
+    {
+     "c": "Prime Minister Nicol Trowbridge",
+     "n": "Rory Kinnear"
+    },
+    {
+     "c": "Stuart Hayford",
+     "n": "Ato Essandoh"
+    },
+    {
+     "c": "Todd Penn",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Grace Penn",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Billie Appiah",
+     "n": "Nana Mensah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Debora Cahn"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-04-20",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 203857,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+   "popularity": 45.134,
+   "poster_path": "/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-04-20",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-10-31",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-10-16",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-10-15",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "No alliance lasts forever.",
+   "title": "The Diplomat",
+   "trailer": {
+    "key": "lV6sJlBbhPs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.634,
+   "vote_count": 534
+  },
+  "tv:30957": {
+   "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Phil Keoghan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Bertram van Munster",
+    "Elise Doganieri"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2001-09-05",
+   "genres": [
+    "Reality"
+   ],
+   "id": 30957,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 459,
+   "number_of_seasons": 39,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+   "popularity": 56.8133,
+   "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-09-05",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-03-11",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-10-02",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-05-29",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-07-06",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-11-16",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-03-01",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2005-09-27",
+     "episode_count": 11,
+     "name": "Family Edition",
+     "season_number": 8
+    },
+    {
+     "air_date": "2006-02-28",
+     "episode_count": 12,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-09-17",
+     "episode_count": 13,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2007-02-18",
+     "episode_count": 13,
+     "name": "All-Stars",
+     "season_number": 11
+    },
+    {
+     "air_date": "2007-11-04",
+     "episode_count": 11,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 11,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2009-02-15",
+     "episode_count": 12,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 11,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2010-02-14",
+     "episode_count": 12,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 12,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2011-02-20",
+     "episode_count": 12,
+     "name": "Unfinished Business",
+     "season_number": 18
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 12,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2012-02-19",
+     "episode_count": 12,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 11,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2013-02-17",
+     "episode_count": 11,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 12,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2014-02-23",
+     "episode_count": 12,
+     "name": "All-Stars",
+     "season_number": 24
+    },
+    {
+     "air_date": "2014-09-26",
+     "episode_count": 12,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2015-02-25",
+     "episode_count": 12,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2015-09-25",
+     "episode_count": 12,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2016-02-12",
+     "episode_count": 12,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2017-03-30",
+     "episode_count": 12,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2018-01-03",
+     "episode_count": 12,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2019-04-17",
+     "episode_count": 11,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2020-10-14",
+     "episode_count": 12,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2022-01-05",
+     "episode_count": 11,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 12,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2023-09-27",
+     "episode_count": 12,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2024-03-13",
+     "episode_count": 10,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2025-03-05",
+     "episode_count": 12,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 12,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2026-09-30",
+     "episode_count": 10,
+     "name": "Season 39",
+     "season_number": 39
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The world is waiting for you.",
+   "title": "The Amazing Race",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 171
+  },
+  "tv:4057": {
+   "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Rossi",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "Emily Prentiss",
+     "n": "Paget Brewster"
+    },
+    {
+     "c": "Luke Alvez",
+     "n": "Adam Rodriguez"
+    },
+    {
+     "c": "Penelope Garcia",
+     "n": "Kirsten Vangsness"
+    },
+    {
+     "c": "Jennifer Jareau",
+     "n": "A.J. Cook"
+    },
+    {
+     "c": "Dr. Tara Lewis",
+     "n": "Aisha Tyler"
+    },
+    {
+     "c": "Elias Voit",
+     "n": "Zach Gilford"
+    },
+    {
+     "c": "Tyler Green",
+     "n": "Ryan-James Hatanaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Jeff Davis"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-09-22",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 4057,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "Paramount+"
+   ],
+   "number_of_episodes": 364,
+   "number_of_seasons": 19,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+   "popularity": 1051.5386,
+   "poster_path": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-20",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-26",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-24",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-09-23",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-09-21",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2012-09-26",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2013-09-25",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2014-10-01",
+     "episode_count": 23,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-09-30",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2016-09-28",
+     "episode_count": 22,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2018-10-03",
+     "episode_count": 15,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2020-01-08",
+     "episode_count": 10,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2022-11-24",
+     "episode_count": 10,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2024-06-06",
+     "episode_count": 10,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2025-05-08",
+     "episode_count": 10,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2026-05-28",
+     "episode_count": 10,
+     "name": "Season 19",
+     "season_number": 19
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "To catch a criminal, you have to think like one.",
+   "title": "Criminal Minds",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 4225
+  },
+  "tv:4357": {
+   "backdrop_path": "/com4DoP6rNkf1fs5KiuLPCRVK6V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Phelps",
+     "n": "Peter Graves"
+    },
+    {
+     "c": "Barney Collier",
+     "n": "Greg Morris"
+    },
+    {
+     "c": "Willy Armitage",
+     "n": "Peter Lupus"
+    },
+    {
+     "c": "Lisa Casey",
+     "n": "Lynda Day George"
+    },
+    {
+     "c": "Man on Tape (voice)",
+     "n": "Bob Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Bruce Geller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1966-09-17",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 4357,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 171,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mission: Impossible is an American television series that was created and initially produced by Bruce Geller. It chronicles the missions of a team of secret government agents known as the Impossible Missions Force. In the first season, the team is led by Dan Briggs, played by Steven Hill; Jim Phelps, played by Peter Graves, takes charge for the remaining seasons. A hallmark of the series shows Briggs or Phelps receiving his instructions on a recording that then self-destructs, followed by the theme music composed by Lalo Schifrin.\n\nThe series aired on the CBS network from September 1966 to March 1973, then returned to television for two seasons on ABC, from 1988 to 1990, retaining only Graves in the cast. It later inspired a popular series of theatrical motion pictures starring Tom Cruise, beginning in 1996.",
+   "popularity": 41.9767,
+   "poster_path": "/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1966-09-17",
+     "episode_count": 28,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1967-09-10",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1968-09-29",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1969-09-28",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1970-09-19",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1971-09-18",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1972-09-16",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Failure impossible.",
+   "title": "Mission: Impossible",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.601,
+   "vote_count": 331
+  },
+  "tv:44857": {
+   "backdrop_path": "/Anedep7H7KwaakxhLc1TA6GfWHb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Mindy Lahiri",
+     "n": "Mindy Kaling"
+    },
+    {
+     "c": "Dr. Jeremy Reed",
+     "n": "Ed Weeks"
+    },
+    {
+     "c": "Morgan Tookers",
+     "n": "Ike Barinholtz"
+    },
+    {
+     "c": "Beverly",
+     "n": "Beth Grant"
+    },
+    {
+     "c": "Tamra Webb",
+     "n": "Xosha Roquemore"
+    },
+    {
+     "c": "Colette Kimball-Kinney",
+     "n": "Fortune Feimster"
+    },
+    {
+     "c": "Dr. Jody Kimball-Kinney",
+     "n": "Garret Dillahunt"
+    },
+    {
+     "c": "Dr. Anna Ziev",
+     "n": "Rebecca Rittenhouse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Mindy Kaling"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2012-09-25",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 44857,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Hulu"
+   ],
+   "number_of_episodes": 117,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Obstetrician/gynecologist Mindy Lahiri tries to balance her personal and professional life, surrounded by quirky co-workers in a small medical practice in New York City.",
+   "popularity": 31.5493,
+   "poster_path": "/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-09-25",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-09-17",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-09-16",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-09-15",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-10-04",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-09-12",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Find your happy place.",
+   "title": "The Mindy Project",
+   "trailer": {
+    "key": "LcKf9DHwN5I",
+    "name": "The Mindy Project Series 1 DVD trailer  #MindyProject",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.303,
+   "vote_count": 195
+  },
+  "tv:45857": {
+   "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tsunayoshi Sawada (voice)",
+     "n": "Yukari Kokubun"
+    },
+    {
+     "c": "Reborn (voice)",
+     "n": "NEEKO"
+    },
+    {
+     "c": "Kyoya Hibari (voice)",
+     "n": "Takashi Kondo"
+    },
+    {
+     "c": "Mukuro Rokudo (voice)",
+     "n": "Toshinobu Iida"
+    },
+    {
+     "c": "Adult Lambo (voice)",
+     "n": "Kenjiro Tsuda"
+    },
+    {
+     "c": "Basil (voice)",
+     "n": "Yuka Terasaki"
+    },
+    {
+     "c": "Lambo (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Chrome Dokuro (voice)",
+     "n": "Satomi Akesaka"
+    },
+    {
+     "c": "Takeshi Yamamoto (voice)",
+     "n": "Suguru Inoue"
+    },
+    {
+     "c": "Ryohei Sasagawa (voice)",
+     "n": "Hidenobu Kiuchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [
+    "Kenichi Imaizumi"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2006-10-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 45857,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 203,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+   "popularity": 40.4085,
+   "poster_path": "/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-03-01",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-10-07",
+     "episode_count": 33,
+     "name": "Daily Life & Kokuyo Arc",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-06-02",
+     "episode_count": 32,
+     "name": "Varia Arc",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-01-19",
+     "episode_count": 8,
+     "name": "Varia Arc II",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-03-15",
+     "episode_count": 68,
+     "name": "Future Arc",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-07-18",
+     "episode_count": 13,
+     "name": "Arcobaleno Trials Arc",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-10-17",
+     "episode_count": 23,
+     "name": "Choice Arc",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-04-03",
+     "episode_count": 12,
+     "name": "Primo Family Arc",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-06-26",
+     "episode_count": 14,
+     "name": "Future Final Battle Arc",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "REBORN!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.165,
+   "vote_count": 197
+  },
+  "tv:6357": {
+   "backdrop_path": "/zAgcM7zwWAVOIT9dMMzQx7e4vdX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Rod Serling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Rod Serling"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25,
+    52
+   ],
+   "first_air_date": "1959-10-02",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 6357,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 156,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An anthology series containing drama, psychological thriller, fantasy, science fiction, suspense, and/or horror, often concluding with a macabre or unexpected twist.",
+   "popularity": 41.3189,
+   "poster_path": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1958-11-24",
+     "episode_count": 182,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1959-10-02",
+     "episode_count": 36,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1960-09-30",
+     "episode_count": 29,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1961-09-15",
+     "episode_count": 37,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1963-01-03",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1963-09-27",
+     "episode_count": 36,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You are about to enter another dimension.",
+   "title": "The Twilight Zone",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 1100
+  },
+  "tv:69557": {
+   "backdrop_path": "/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Doron Kavillio",
+     "n": "Lior Raz"
+    },
+    {
+     "c": "Gali Kavillio",
+     "n": "Netta Garti"
+    },
+    {
+     "c": "Hertzel 'Steve' Pinto",
+     "n": "Doron Ben-David"
+    },
+    {
+     "c": "Nurit",
+     "n": "Rona-Lee Shimon"
+    },
+    {
+     "c": "Gabi \"Captain Eyov\"",
+     "n": "Itzik Cohen"
+    },
+    {
+     "c": "Eli",
+     "n": "Yaakov Zada-Daniel"
+    },
+    {
+     "c": "European Terrorist",
+     "n": "Dan Kadosh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "yes",
+   "created_by": [
+    "Avi Issacharoff",
+    "Lior Raz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2015-02-15",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "War & Politics"
+   ],
+   "id": 69557,
+   "industry": "world",
+   "networks": [
+    "yes"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "IL"
+   ],
+   "original_language": "he",
+   "overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
+   "popularity": 31.04,
+   "poster_path": "/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
+   "production_countries": [
+    "IL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-02-15",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-12-31",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-12-26",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-07-13",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2026-05-18",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "he",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Fauda",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.419,
+   "vote_count": 295
+  },
+  "tv:95057": {
+   "backdrop_path": "/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clark Kent / Superman",
+     "n": "Tyler Hoechlin"
+    },
+    {
+     "c": "Lois Lane",
+     "n": "Elizabeth Tulloch"
+    },
+    {
+     "c": "Jordan Kent",
+     "n": "Alex Garfin"
+    },
+    {
+     "c": "Jonathan Kent",
+     "n": "Michael Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The CW",
+   "created_by": [
+    "Greg Berlanti",
+    "Todd Helbing"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2021-02-23",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 95057,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 53,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+   "popularity": 46.4892,
+   "poster_path": "/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-10-19",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-02-23",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-01-11",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-03-14",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-10-07",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "New strength awakens.",
+   "title": "Superman & Lois",
+   "trailer": {
+    "key": "SJPJPUpNvDw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.049,
+   "vote_count": 2784
+  },
+  "tv:95557": {
+   "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark Grayson / Invincible (voice)",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Debbie Grayson (voice)",
+     "n": "Sandra Oh"
+    },
+    {
+     "c": "Nolan Grayson / Omni-Man (voice)",
+     "n": "J.K. Simmons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-03-25",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 95557,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+   "popularity": 58.4805,
+   "poster_path": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-07-21",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-03-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-11-02",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-02-06",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-03-18",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Almost there.",
+   "title": "INVINCIBLE",
+   "trailer": {
+    "key": "-bfAVpuko5o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 6164
   }
  }
 }

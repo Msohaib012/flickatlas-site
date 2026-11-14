@@ -1,8 +1,8 @@
 {
  "bucket": "08",
- "count": 8,
+ "count": 18,
  "titles": {
-  "1908": {
+  "movie:1908": {
    "backdrop_path": "/es4sV6krplqscHmhn9TFSqkl8ee.jpg",
    "budget": 2000000,
    "cast": [
@@ -238,7 +238,7 @@
    "vote_average": 7.645,
    "vote_count": 498
   },
-  "276908": {
+  "movie:276908": {
    "backdrop_path": "/znDbUAz0uPgc329iHBiobnnYA2P.jpg",
    "budget": 0,
    "cast": [
@@ -450,7 +450,7 @@
    "vote_average": 6.625,
    "vote_count": 479
   },
-  "33908": {
+  "movie:33908": {
    "backdrop_path": "/lJ5lUT0yccP3ejklErN0HqlGMwv.jpg",
    "budget": 77532,
    "cast": [
@@ -698,7 +698,7 @@
    "vote_average": 6.802,
    "vote_count": 442
   },
-  "400608": {
+  "movie:400608": {
    "backdrop_path": "/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
    "budget": 0,
    "cast": [
@@ -774,7 +774,7 @@
    "vote_average": 8.011,
    "vote_count": 460
   },
-  "532908": {
+  "movie:532908": {
    "backdrop_path": "/vBhFCHx3gMQfAdqJTyIiQK3IckS.jpg",
    "budget": 0,
    "cast": [
@@ -934,7 +934,7 @@
    "vote_average": 7.098,
    "vote_count": 496
   },
-  "79108": {
+  "movie:79108": {
    "backdrop_path": "/oWaSlhlfx9woNAYP9XeqarG6JYH.jpg",
    "budget": 0,
    "cast": [
@@ -1070,7 +1070,7 @@
    "vote_average": 6.903,
    "vote_count": 499
   },
-  "8208": {
+  "movie:8208": {
    "backdrop_path": "/o9QuotgupLq34zYyzFrfd4TrimC.jpg",
    "budget": 180000,
    "cast": [
@@ -1266,7 +1266,7 @@
    "vote_average": 6.5,
    "vote_count": 477
   },
-  "938008": {
+  "movie:938008": {
    "backdrop_path": "/6D2yFWcDhGPpNmfkATZwf845p9z.jpg",
    "budget": 0,
    "cast": [
@@ -1376,6 +1376,1764 @@
    "type": "movie",
    "vote_average": 7.604,
    "vote_count": 445
+  },
+  "tv:126308": {
+   "backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoshii Toranaga",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "John Blackthorne",
+     "n": "Cosmo Jarvis"
+    },
+    {
+     "c": "Toda Mariko",
+     "n": "Anna Sawai"
+    },
+    {
+     "c": "Kashigi Yabushige",
+     "n": "Tadanobu Asano"
+    },
+    {
+     "c": "Ishido Kazunari",
+     "n": "Takehiro Hira"
+    },
+    {
+     "c": "Father Martin Alvito",
+     "n": "Tommy Bastow"
+    },
+    {
+     "c": "Ochiba No Kata / Ruri",
+     "n": "Fumi Nikaido"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Rachel Kondo",
+    "Justin Marks"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-02-27",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 126308,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "Hulu"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+   "popularity": 31.8147,
+   "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-02-27",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "An epic saga of war, passion, and power set in Feudal Japan.",
+   "title": "Shōgun",
+   "trailer": {
+    "key": "HIs9x49DK7I",
+    "name": "New Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.426,
+   "vote_count": 1982
+  },
+  "tv:1408": {
+   "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gregory House",
+     "n": "Hugh Laurie"
+    },
+    {
+     "c": "James Wilson",
+     "n": "Robert Sean Leonard"
+    },
+    {
+     "c": "Eric Foreman",
+     "n": "Omar Epps"
+    },
+    {
+     "c": "Robert Chase",
+     "n": "Jesse Spencer"
+    },
+    {
+     "c": "Jessica Adams",
+     "n": "Odette Annable"
+    },
+    {
+     "c": "Chris Taub",
+     "n": "Peter Jacobson"
+    },
+    {
+     "c": "Chi Park",
+     "n": "Lo Mutuc"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "David Shore"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2004-11-16",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1408,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 176,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+   "popularity": 1531.0373,
+   "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-02-10",
+     "episode_count": 46,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-11-16",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-13",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-05",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-25",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-16",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-10-03",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Everybody lies.",
+   "title": "House",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.559,
+   "vote_count": 8033
+  },
+  "tv:1908": {
+   "backdrop_path": "/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sonny Crockett",
+     "n": "Don Johnson"
+    },
+    {
+     "c": "Rico Tubbs",
+     "n": "Philip Michael Thomas"
+    },
+    {
+     "c": "Gina Calabrese",
+     "n": "Saundra Santiago"
+    },
+    {
+     "c": "Trudy Joplin",
+     "n": "Olivia Brown"
+    },
+    {
+     "c": "Stan Switek",
+     "n": "Michael Talbott"
+    },
+    {
+     "c": "Martin Castillo",
+     "n": "Edward James Olmos"
+    },
+    {
+     "c": "Speaker",
+     "n": "Jay Cannistraci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Anthony Yerkovich"
+   ],
+   "director": [],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "1984-09-16",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1908,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
+   "popularity": 42.3707,
+   "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-01-25",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-09-16",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-26",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-11-04",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There's no stopping them.",
+   "title": "Miami Vice",
+   "trailer": {
+    "key": "gWQX0avgnlM",
+    "name": "Miami Vice - Show Trailer | NBC Classics",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.458,
+   "vote_count": 555
+  },
+  "tv:2408": {
+   "backdrop_path": "/nVj1LYX8uOsdGVb9LcLN4YUTkDs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eliza Thornberry (voice)",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Marianne Thornberry (voice)",
+     "n": "Jodi Carlisle"
+    },
+    {
+     "c": "Nigel Thornberry (voice)",
+     "n": "Tim Curry"
+    },
+    {
+     "c": "Donnie Thornberry (voice)",
+     "n": "Flea"
+    },
+    {
+     "c": "Debbie Thornberry (voice)",
+     "n": "Danielle Harris"
+    },
+    {
+     "c": "Darwin (voice)",
+     "n": "Tom Kane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Gábor Csupó",
+    "Arlene Klasky"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1998-09-01",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Kids",
+    "Family"
+   ],
+   "id": 2408,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 91,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!",
+   "popularity": 25.1528,
+   "poster_path": "/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1998-09-01",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-09-01",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-08-16",
+     "episode_count": 37,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-09-12",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-08-18",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-02-03",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Wild Thornberrys",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.994,
+   "vote_count": 312
+  },
+  "tv:2808": {
+   "backdrop_path": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam (voice)",
+     "n": "Claire Guyot"
+    },
+    {
+     "c": "Clover (voice)",
+     "n": "Fily Keita"
+    },
+    {
+     "c": "Alex (voice)",
+     "n": "Céline Mauge"
+    },
+    {
+     "c": "Jerry (voice)",
+     "n": "Jean-Claude Donda"
+    },
+    {
+     "c": "Zerlina (voice)",
+     "n": "Déborah Claude"
+    },
+    {
+     "c": "Toby (voice)",
+     "n": "Gauthier Battoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TF1",
+   "created_by": [
+    "Vincent Chalvon-Demersay",
+    "David Michel"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2002-04-03",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 2808,
+   "industry": "world",
+   "networks": [
+    "TF1",
+    "Gulli"
+   ],
+   "number_of_episodes": 208,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
+   "popularity": 26.445,
+   "poster_path": "/w4JZDCrWxDhO5wKUeTvVHSzaTDk.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Kartoon Channel Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-04-03",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-01-25",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-11-12",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-04-19",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-08-29",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-06-19",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-05-12",
+     "episode_count": 26,
+     "name": "WOOHP World",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-08-19",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Totally Spies!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.368,
+   "vote_count": 307
+  },
+  "tv:32608": {
+   "backdrop_path": "/vBk9KQW01pJJfn3wAL2MJgTMch1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Robert Clotworthy"
+    },
+    {
+     "c": "Self",
+     "n": "Giorgio A. Tsoukalos"
+    },
+    {
+     "c": "Self",
+     "n": "Ariel Bar Tzadok"
+    },
+    {
+     "c": "Self",
+     "n": "Jonathan Young"
+    },
+    {
+     "c": "Self",
+     "n": "David Childress"
+    },
+    {
+     "c": "Self",
+     "n": "Erich von Däniken"
+    },
+    {
+     "c": "Self",
+     "n": "Linda Moulton Howe"
+    },
+    {
+     "c": "Self",
+     "n": "David Wilcock"
+    },
+    {
+     "c": "Self",
+     "n": "George Noory"
+    },
+    {
+     "c": "Self",
+     "n": "Philip Coppens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "History",
+   "created_by": [
+    "Kevin Burns"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42,
+    60
+   ],
+   "first_air_date": "2010-04-20",
+   "genres": [
+    "Documentary",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 32608,
+   "industry": "world",
+   "networks": [
+    "History"
+   ],
+   "number_of_episodes": 291,
+   "number_of_seasons": 22,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.",
+   "popularity": 43.2869,
+   "poster_path": "/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HISTORY Vault Apple TV channel"
+    },
+    {
+     "name": "HISTORY Vault Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "History"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "HistoryPlay Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+     "name": "Discovery+",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-03-08",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-04-20",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-10-28",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-07-28",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-02-17",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-12-21",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-09-30",
+     "episode_count": 11,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-01-24",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2014-06-13",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-10-31",
+     "episode_count": 12,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2015-07-24",
+     "episode_count": 10,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2016-05-06",
+     "episode_count": 15,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2017-04-28",
+     "episode_count": 16,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2018-04-27",
+     "episode_count": 15,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2019-05-31",
+     "episode_count": 22,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2020-01-25",
+     "episode_count": 12,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2020-11-13",
+     "episode_count": 10,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2021-08-05",
+     "episode_count": 7,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2022-01-07",
+     "episode_count": 20,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2023-01-05",
+     "episode_count": 20,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2024-01-04",
+     "episode_count": 20,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2025-02-06",
+     "episode_count": 17,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2026-01-15",
+     "episode_count": 15,
+     "name": "Season 22",
+     "season_number": 22
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ancient Aliens",
+   "trailer": {
+    "key": "SLHoeKZmV1U",
+    "name": "Ancient Aliens: History Will Change Forever | History",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.13,
+   "vote_count": 328
+  },
+  "tv:40008": {
+   "backdrop_path": "/mCwQJqyuCFlbFyJR5sWg3PqtHEN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Hannibal Lecter",
+     "n": "Mads Mikkelsen"
+    },
+    {
+     "c": "Will Graham",
+     "n": "Hugh Dancy"
+    },
+    {
+     "c": "Jack Crawford",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Dr. Alana Bloom",
+     "n": "Caroline Dhavernas"
+    },
+    {
+     "c": "Dr. Bedelia Du Maurier",
+     "n": "Gillian Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "NBC",
+   "created_by": [
+    "Bryan Fuller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2013-04-04",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 40008,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.",
+   "popularity": 48.8397,
+   "poster_path": "/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-04-24",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-04-04",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-02-28",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-06-04",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Savor the hunt.",
+   "title": "Hannibal",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 3133
+  },
+  "tv:4608": {
+   "backdrop_path": "/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Liz Lemon",
+     "n": "Tina Fey"
+    },
+    {
+     "c": "Jack Donaghy",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Tracy Jordan",
+     "n": "Tracy Morgan"
+    },
+    {
+     "c": "Jenna Maroney",
+     "n": "Jane Krakowski"
+    },
+    {
+     "c": "Kenneth Parcell",
+     "n": "Jack McBrayer"
+    },
+    {
+     "c": "Pete Hornberger",
+     "n": "Scott Adsit"
+    },
+    {
+     "c": "Frank Rossitano",
+     "n": "Judah Friedlander"
+    },
+    {
+     "c": "James 'Toofer' Spurlock",
+     "n": "Keith Powell"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Maulik Pancholy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Tina Fey"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2006-10-11",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4608,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 138,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+   "popularity": 53.7659,
+   "poster_path": "/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-06-27",
+     "episode_count": 30,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-10-11",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-10-04",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-10-30",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-10-15",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-01-12",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-10-04",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Work can be such a production.",
+   "title": "30 Rock",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 875
+  },
+  "tv:60708": {
+   "backdrop_path": "/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James 'Jim' Gordon",
+     "n": "Ben McKenzie"
+    },
+    {
+     "c": "Harvey Bullock",
+     "n": "Donal Logue"
+    },
+    {
+     "c": "Bruce Wayne",
+     "n": "David Mazouz"
+    },
+    {
+     "c": "Alfred Pennyworth",
+     "n": "Sean Pertwee"
+    },
+    {
+     "c": "Oswald Cobblepot",
+     "n": "Robin Lord Taylor"
+    },
+    {
+     "c": "Barbara Kean",
+     "n": "Erin Richards"
+    },
+    {
+     "c": "Selina Kyle",
+     "n": "Camren Bicondova"
+    },
+    {
+     "c": "Edward Nygma",
+     "n": "Cory Michael Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "FOX",
+   "created_by": [
+    "Bruno Heller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2014-09-22",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60708,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+   "popularity": 59.2919,
+   "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-08-18",
+     "episode_count": 76,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-01-03",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Before Batman, there was Gotham.",
+   "title": "Gotham",
+   "trailer": {
+    "key": "0d1zpt6k5OI",
+    "name": "Official Extended Trailer | GOTHAM",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.597,
+   "vote_count": 3843
+  },
+  "tv:87108": {
+   "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valery Legasov",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Boris Shcherbina",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Ulana Khomyuk",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Anatoly Dyatlov",
+     "n": "Paul Ritter"
+    },
+    {
+     "c": "Lyudmilla Ignatenko",
+     "n": "Jessie Buckley"
+    },
+    {
+     "c": "Vasily Ignatenko",
+     "n": "Adam Nagaitis"
+    },
+    {
+     "c": "Alexandr Akimov",
+     "n": "Sam Troughton"
+    },
+    {
+     "c": "Leonid Toptunov",
+     "n": "Robert Emms"
+    },
+    {
+     "c": "Viktor Bryukhanov",
+     "n": "Con O'Neill"
+    },
+    {
+     "c": "Nikolai Fomin",
+     "n": "Adrian Rawlins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HBO",
+   "created_by": [
+    "Craig Mazin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-05-06",
+   "genres": [
+    "Drama"
+   ],
+   "id": 87108,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+   "popularity": 28.3578,
+   "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-05-06",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What is the cost of lies?",
+   "title": "Chernobyl",
+   "trailer": {
+    "key": "s9APLXM9Ei8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.732,
+   "vote_count": 8537
   }
  }
 }

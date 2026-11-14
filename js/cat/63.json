@@ -1,8 +1,8 @@
 {
  "bucket": "63",
- "count": 10,
+ "count": 16,
  "titles": {
-  "10063": {
+  "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
    "budget": 0,
    "cast": [
@@ -125,7 +125,7 @@
    "vote_average": 5.493,
    "vote_count": 447
   },
-  "10763": {
+  "movie:10763": {
    "backdrop_path": "/zf2eFbIgNvg4qRa8bUsHkw2JkSE.jpg",
    "budget": 23000000,
    "cast": [
@@ -288,7 +288,7 @@
    "vote_average": 5.665,
    "vote_count": 471
   },
-  "13763": {
+  "movie:13763": {
    "backdrop_path": "/s3WFrpZV1QIo8Aao2TaAI5ERUTO.jpg",
    "budget": 7200000,
    "cast": [
@@ -428,7 +428,7 @@
    "vote_average": 6.711,
    "vote_count": 444
   },
-  "29963": {
+  "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
    "budget": 10000000,
    "cast": [
@@ -580,7 +580,7 @@
    "vote_average": 6.62,
    "vote_count": 497
   },
-  "30163": {
+  "movie:30163": {
    "backdrop_path": "/cbz3HdoFVFmd49CVpWG2OzuT4dT.jpg",
    "budget": 0,
    "cast": [
@@ -669,7 +669,7 @@
    "vote_average": 6.781,
    "vote_count": 464
   },
-  "333663": {
+  "movie:333663": {
    "backdrop_path": "/szbrULGgcOIVEvP73wHlUQSK6xo.jpg",
    "budget": 0,
    "cast": [
@@ -799,7 +799,7 @@
    "vote_average": 5.728,
    "vote_count": 491
   },
-  "34463": {
+  "movie:34463": {
    "backdrop_path": "/19kbfE5zM3dOAzKVwOVquRiEVFR.jpg",
    "budget": 15719,
    "cast": [
@@ -877,7 +877,7 @@
    "vote_average": 6.889,
    "vote_count": 436
   },
-  "592863": {
+  "movie:592863": {
    "backdrop_path": "/gTtr2ovxRwHyOI3XrX6h6cgG7MD.jpg",
    "budget": 55000000,
    "cast": [
@@ -1033,7 +1033,7 @@
    "vote_average": 6.763,
    "vote_count": 492
   },
-  "9263": {
+  "movie:9263": {
    "backdrop_path": "/ic529Vlnxmp2ArVSYr5vBLoNFEK.jpg",
    "budget": 12000000,
    "cast": [
@@ -1190,7 +1190,7 @@
    "vote_average": 6.9,
    "vote_count": 493
   },
-  "94363": {
+  "movie:94363": {
    "backdrop_path": "/w9VGzSCTgqiLDDOVCQkJd7yvICw.jpg",
    "budget": 0,
    "cast": [
@@ -1412,6 +1412,860 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 464
+  },
+  "tv:1663": {
+   "backdrop_path": "/kRRYafjTZh8gnZDLKSg5imj80es.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Austin",
+     "n": "Lee Majors"
+    },
+    {
+     "c": "Dr. Rudy Wells",
+     "n": "Martin E. Brooks"
+    },
+    {
+     "c": "Oscar Goldman",
+     "n": "Richard Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Kenneth Johnson",
+    "Martin Caidin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1974-01-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 1663,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "Red Letter Films"
+   ],
+   "number_of_episodes": 99,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the adventures of Steve Austin, cybernetically enhanced astronaut turned secret agent, employed by the OSI, under the command of Oscar Goldman and supervised by the scientist who created his cybernetics, Rudy Wells. Steve uses the superior strength and speed provided by his bionic arm and legs, and the enhanced vision provided by his artificial eye, to fight enemy agents, aliens, mad scientists, and a wide variety of other villains.",
+   "popularity": 32.5535,
+   "poster_path": "/5pd6DayQgZxK9lQHdZZYZuXyaZ2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1973-03-07",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1974-01-18",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1974-09-13",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1975-09-14",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1976-09-19",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1977-09-11",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Better. Stronger. Faster.",
+   "title": "The Six Million Dollar Man",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.293,
+   "vote_count": 452
+  },
+  "tv:3763": {
+   "backdrop_path": "/e1mgahsZE1t1lXzuDIvaZY24lSN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Earl Sinclair (voice)",
+     "n": "Stuart Pankin"
+    },
+    {
+     "c": "Fran Sinclair (voice)",
+     "n": "Jessica Walter"
+    },
+    {
+     "c": "Robbie Sinclair (voice)",
+     "n": "Jason Willinger"
+    },
+    {
+     "c": "Charlene Sinclair (voice)",
+     "n": "Sally Struthers"
+    },
+    {
+     "c": "Baby Sinclair (voice)",
+     "n": "Kevin Clash"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "ABC",
+   "created_by": [
+    "Bob Young",
+    "Michael Jacobs"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1991-04-26",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "id": 3763,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "Syndication"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dinosaurs follows the life of a family of dinosaurs, living in a modern world. They have TV's, fridges, microwaves, and every modern convenience.",
+   "popularity": 28.6327,
+   "poster_path": "/rcD2grjO6xAerWLkSgpmGkGhnTH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1991-04-26",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1991-09-18",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1992-09-18",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1994-06-01",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The Funniest Family in 60 Million Years!",
+   "title": "Dinosaurs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1125
+  },
+  "tv:47663": {
+   "backdrop_path": "/nUEcobWsTpvOh23US0MRZXIU8jt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Sharon Garnet",
+     "n": "Christie Burke"
+    },
+    {
+     "c": "Lt. James Brice",
+     "n": "Richard Fleeshman"
+    },
+    {
+     "c": "Alicia Nevins",
+     "n": "Stacey Read"
+    },
+    {
+     "c": "Angus Medford",
+     "n": "Ryan Adams"
+    },
+    {
+     "c": "Lt. Felix Strickland",
+     "n": "Pavle Jerinić"
+    },
+    {
+     "c": "Dr. Sanjivni Kabir",
+     "n": "Shalini Peiris"
+    },
+    {
+     "c": "Eva Markovic",
+     "n": "Tiana Upcheva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Syfy",
+   "created_by": [
+    "Dean Devlin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "2023-02-01",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 47663,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "100 years in the future, planetary colonization missions have begun as a necessity to help secure the survival of the human race. The first of these missions on a spacecraft known as Ark One encounters a catastrophic event causing massive destruction and loss of life. With more than a year left to go before reaching their target planet, a lack of life-sustaining supplies and loss of leadership, the remaining crew must become the best versions of themselves to stay on course and survive.",
+   "popularity": 26.2846,
+   "poster_path": "/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Kanopy"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+     "name": "Kanopy",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-02-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-07-17",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-07-29",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The end of one world. The beginning of the next.",
+   "title": "The Ark",
+   "trailer": {
+    "key": "YKtH0mVhwSg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 189
+  },
+  "tv:60863": {
+   "backdrop_path": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shoyo Hinata (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Tobio Kageyama (voice)",
+     "n": "Kaito Ishikawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2014-04-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 60863,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "BSN",
+    "tys"
+   ],
+   "number_of_episodes": 85,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Inspired by a small-statured pro volleyball player, Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama’s team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+   "popularity": 41.042,
+   "poster_path": "/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Animax Amazon Channel"
+    },
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-03-04",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-04-06",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-08",
+     "episode_count": 10,
+     "name": "Karasuno High School vs Shiratorizawa Academy",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-01-11",
+     "episode_count": 25,
+     "name": "TO THE TOP",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Haikyu!!",
+   "trailer": {
+    "key": "KhZG9Uw7PxM",
+    "name": "Haikyu Complete Season 1 - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.611,
+   "vote_count": 1570
+  },
+  "tv:65763": {
+   "backdrop_path": "/h8tzpd1pqyKCu5V4lw3eUiO6L9Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bugs Bunny / Elmer Fudd / Foghorn Leghorn / Sylvester (voice)",
+     "n": "Jeff Bergman"
+    },
+    {
+     "c": "Squeaks / Daffy Duck (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Porky Pig / Tweety / Gabby Goat (voice)",
+     "n": "Bob Bergen"
+    },
+    {
+     "c": "Yosemite Sam (voice)",
+     "n": "Fred Tatasciore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Erik Kuska",
+    "Robb Pratt",
+    "Scott Bern"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2015-09-21",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 65763,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network",
+    "Boomerang",
+    "Boomerang (SVOD)"
+   ],
+   "number_of_episodes": 312,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wabbit is an animated series starring Bugs Bunny. The series features many other Looney Tunes characters including Wile E. Coyote, Yosemite Sam, and the Tasmanian Devil.",
+   "popularity": 62.5572,
+   "poster_path": "/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 104,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-06-25",
+     "episode_count": 104,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-08-29",
+     "episode_count": 104,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "New Looney Tunes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.061,
+   "vote_count": 156
+  },
+  "tv:91363": {
+   "backdrop_path": "/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Watcher (voice)",
+     "n": "Jeffrey Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-08-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 91363,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
+   "popularity": 32.3257,
+   "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-08-11",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-12-22",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-12-22",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One question changes everything.",
+   "title": "What If...?",
+   "trailer": {
+    "key": "x9D0uUKJ5KI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.023,
+   "vote_count": 4771
   }
  }
 }

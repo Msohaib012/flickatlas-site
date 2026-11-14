@@ -1,8 +1,8 @@
 {
  "bucket": "18",
- "count": 7,
+ "count": 15,
  "titles": {
-  "10118": {
+  "movie:10118": {
    "backdrop_path": "/53dMoCCdlUnU1ldPDpLr5fheZbG.jpg",
    "budget": 15000000,
    "cast": [
@@ -92,7 +92,7 @@
    "vote_average": 5.271,
    "vote_count": 494
   },
-  "10818": {
+  "movie:10818": {
    "backdrop_path": "/an06c8GBu9W55aU3UTUSBKxKBFu.jpg",
    "budget": 0,
    "cast": [
@@ -192,7 +192,7 @@
    "vote_average": 6.504,
    "vote_count": 488
   },
-  "12618": {
+  "movie:12618": {
    "backdrop_path": "/onOF95lPTacI4lKHGG9REPw3fHJ.jpg",
    "budget": 64000000,
    "cast": [
@@ -309,7 +309,7 @@
    "vote_average": 5.6,
    "vote_count": 440
   },
-  "1818": {
+  "movie:1818": {
    "backdrop_path": "/kgAZX0WXLuK6YYQ6lKN2UdF1Tho.jpg",
    "budget": 0,
    "cast": [
@@ -477,7 +477,7 @@
    "vote_average": 7.186,
    "vote_count": 464
   },
-  "432618": {
+  "movie:432618": {
    "backdrop_path": "/kJfFqcP6jb1caPg6VMpAfkHUMLd.jpg",
    "budget": 0,
    "cast": [
@@ -569,7 +569,7 @@
    "vote_average": 5.833,
    "vote_count": 453
   },
-  "44918": {
+  "movie:44918": {
    "backdrop_path": "/e9XRikkyth0GtG8RkU3XNm0oMsA.jpg",
    "budget": 500000,
    "cast": [
@@ -717,7 +717,7 @@
    "vote_average": 4.791,
    "vote_count": 469
   },
-  "54518": {
+  "movie:54518": {
    "backdrop_path": "/wsuO9N3t89buTgtzJ5vUMBCHBB6.jpg",
    "budget": 13000000,
    "cast": [
@@ -847,6 +847,1319 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 439
+  },
+  "tv:1018": {
+   "backdrop_path": "/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben Cartwright",
+     "n": "Lorne Greene"
+    },
+    {
+     "c": "Joe Cartwright",
+     "n": "Michael Landon"
+    },
+    {
+     "c": "Candy Canaday",
+     "n": "David Canary"
+    },
+    {
+     "c": "Griff King",
+     "n": "Tim Matheson"
+    },
+    {
+     "c": "Jamie Hunter Cartwright",
+     "n": "Mitch Vogel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "David Dortort"
+   ],
+   "director": [],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "1959-09-12",
+   "genres": [
+    "Western",
+    "Action & Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 1018,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 431,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+   "popularity": 67.0272,
+   "poster_path": "/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Best Westerns Ever Amazon Channel"
+    },
+    {
+     "name": "Great American Pure Flix Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+     "name": "Pure Flix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uYU06duoAxGGLY6xcNqpzKiRA6f.png",
+     "name": "Best Westerns Ever Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+     "name": "Great American Pure Flix Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1959-09-12",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1960-09-10",
+     "episode_count": 34,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1961-09-24",
+     "episode_count": 34,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1962-09-23",
+     "episode_count": 34,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1963-09-22",
+     "episode_count": 34,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1964-09-20",
+     "episode_count": 34,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1965-09-12",
+     "episode_count": 33,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1966-09-11",
+     "episode_count": 34,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1967-09-17",
+     "episode_count": 34,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1968-09-15",
+     "episode_count": 30,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1969-09-14",
+     "episode_count": 28,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1970-09-13",
+     "episode_count": 28,
+     "name": "Season12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1971-09-19",
+     "episode_count": 26,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1972-09-12",
+     "episode_count": 16,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "America's Favorite TV Western",
+   "title": "Bonanza",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.541,
+   "vote_count": 506
+  },
+  "tv:1418": {
+   "backdrop_path": "/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonard Hofstadter",
+     "n": "Johnny Galecki"
+    },
+    {
+     "c": "Sheldon Cooper",
+     "n": "Jim Parsons"
+    },
+    {
+     "c": "Penny",
+     "n": "Kaley Cuoco"
+    },
+    {
+     "c": "Howard Wolowitz",
+     "n": "Simon Helberg"
+    },
+    {
+     "c": "Rajesh Koothrappali",
+     "n": "Kunal Nayyar"
+    },
+    {
+     "c": "Bernadette Rostenkowski",
+     "n": "Melissa Rauch"
+    },
+    {
+     "c": "Amy Farrah Fowler",
+     "n": "Mayim Bialik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Chuck Lorre",
+    "Bill Prady"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2007-09-24",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1418,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 279,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+   "popularity": 72.8291,
+   "poster_path": "/euKFiO5M125rpngFRBbSW83beeI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 17,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-09-27",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2013-09-26",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2016-09-19",
+     "episode_count": 24,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Smart is the new sexy.",
+   "title": "The Big Bang Theory",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.93,
+   "vote_count": 12962
+  },
+  "tv:1918": {
+   "backdrop_path": "/fy9fhl09shpTLjw4IEqqmVMYM28.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Robin Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "CBS",
+   "created_by": [
+    "Rod Serling"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30,
+    45
+   ],
+   "first_air_date": "1985-09-27",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1918,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This 1980s revival of the classic sci-fi series features a similar style to the original anthology series. Each episode tells a tale (sometimes two or three) rooted in horror or suspense, often with a surprising twist at the end. Episodes usually feature elements of drama and comedy.",
+   "popularity": 26.1638,
+   "poster_path": "/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1985-09-27",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1986-09-27",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1988-09-24",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Twilight Zone",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.696,
+   "vote_count": 271
+  },
+  "tv:247718": {
+   "backdrop_path": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Da Souza",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Conrad Harrigan",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Kevin Harrigan",
+     "n": "Paddy Considine"
+    },
+    {
+     "c": "Jan Da Souza",
+     "n": "Joanne Froggatt"
+    },
+    {
+     "c": "Isabella 'Bella' Harrigan",
+     "n": "Lara Pulver"
+    },
+    {
+     "c": "Eddie Harrigan",
+     "n": "Anson Boon"
+    },
+    {
+     "c": "Seraphina Harrigan",
+     "n": "Mandeep Dhillon"
+    },
+    {
+     "c": "Zosia",
+     "n": "Jasmine Jobson"
+    },
+    {
+     "c": "Gina Da Souza",
+     "n": "Teddie Allen"
+    },
+    {
+     "c": "Paul",
+     "n": "Emmett J. Scanlan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Paramount+",
+   "created_by": [
+    "Ronan Bennett"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-03-30",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 247718,
+   "industry": "world",
+   "networks": [
+    "Paramount+",
+    "Paramount+"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 359.6873,
+   "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-03-30",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-18",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "af",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Chaos reigns.",
+   "title": "MobLand",
+   "trailer": {
+    "key": "qKGgw7Ob5f4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.649,
+   "vote_count": 1232
+  },
+  "tv:4018": {
+   "backdrop_path": "/5TpptGoxVVght2n6oz8QJklmSTu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Beckett",
+     "n": "Scott Bakula"
+    },
+    {
+     "c": "Al Calavicci",
+     "n": "Dean Stockwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Donald P. Bellisario"
+   ],
+   "director": [],
+   "episode_run_time": [
+    48,
+    60
+   ],
+   "first_air_date": "1989-03-26",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 4018,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Theorizing that one could time travel within his own lifetime, Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished... He woke to find himself trapped in the past, facing mirror images that were not his own and driven by an unknown force to change history for the better. His only guide on this journey is Al, an observer from his own time, who appears in the form of a hologram that only Sam can see and hear. And so Dr. Beckett finds himself leaping from life to life, striving to put right what once went wrong and hoping each time that his next leap will be the leap home.",
+   "popularity": 43.0618,
+   "poster_path": "/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1989-03-26",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1989-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1990-09-28",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1991-09-18",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1992-09-22",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Oh Boy!",
+   "title": "Quantum Leap",
+   "trailer": {
+    "key": "aq-dzTREY4M",
+    "name": "Show Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.009,
+   "vote_count": 820
+  },
+  "tv:61118": {
+   "backdrop_path": "/3gqDstdBLUbJ2jY3hl953iS97D4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jimmy Shive-Overly",
+     "n": "Chris Geere"
+    },
+    {
+     "c": "Gretchen Cutler",
+     "n": "Aya Cash"
+    },
+    {
+     "c": "Edgar Quintero",
+     "n": "Desmin Borges"
+    },
+    {
+     "c": "Lindsay Jillian",
+     "n": "Kether Donohue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FX",
+   "created_by": [
+    "Stephen Falk"
+   ],
+   "director": [],
+   "episode_run_time": [
+    26
+   ],
+   "first_air_date": "2014-07-17",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 61118,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "FXX"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Narcissistic, brash, and self-destructive Jimmy Shive-Overly thinks all relationships are doomed. Cynical, people-pleasing, and stubborn Gretchen Cutler knows that relationships aren't for her. So when they meet at a wedding, it's only natural that the two of them go home together.",
+   "popularity": 53.8488,
+   "poster_path": "/whXfP89yXz4AwQ9dzWCTGcl9YvV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-07-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-09",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-01",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-06",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-01-09",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Terrible people. Perfect for each other.",
+   "title": "You're the Worst",
+   "trailer": {
+    "key": "4ao_jIEqRgg",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 271
+  },
+  "tv:61418": {
+   "backdrop_path": "/netPctcZmTb1yW0xhxMgY1zVj3q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jane Villanueva",
+     "n": "Gina Rodriguez"
+    },
+    {
+     "c": "Xiomara Villanueva",
+     "n": "Andrea Navedo"
+    },
+    {
+     "c": "Petra Solano",
+     "n": "Yael Grobglas"
+    },
+    {
+     "c": "Rafael Solano",
+     "n": "Justin Baldoni"
+    },
+    {
+     "c": "Alba Villanueva",
+     "n": "Ivonne Coll"
+    },
+    {
+     "c": "Rogelio De La Vega",
+     "n": "Jaime Camil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "The CW",
+   "created_by": [
+    "Jennie Snyder Urman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2014-10-13",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 61418,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A comedy-drama following a chaste young woman who is accidentally impregnated via artificial insemination as she struggles to inform her devoutly religious family and make the right choices concerning the child. Based on the telenovela \"Juana la virgen.\"",
+   "popularity": 37.0457,
+   "poster_path": "/DRRHgvsNEfBloMgIP8bBw4zi4E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-10-13",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-10-12",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-17",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-10-13",
+     "episode_count": 17,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-03-27",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "What's a virgin mother to do?",
+   "title": "Jane the Virgin",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.893,
+   "vote_count": 925
+  },
+  "tv:918": {
+   "backdrop_path": "/8nkOWsMtWZvp7IGuYdVbJeoWzQx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hawkeye Pierce",
+     "n": "Alan Alda"
+    },
+    {
+     "c": "B. J. Hunnicutt",
+     "n": "Mike Farrell"
+    },
+    {
+     "c": "Sherman Potter",
+     "n": "Harry Morgan"
+    },
+    {
+     "c": "Margaret Houlihan",
+     "n": "Loretta Swit"
+    },
+    {
+     "c": "Charles Winchester",
+     "n": "David Ogden Stiers"
+    },
+    {
+     "c": "Maxwell Klinger",
+     "n": "Jamie Farr"
+    },
+    {
+     "c": "Father Mulcahy",
+     "n": "William Christopher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Larry Gelbart"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1972-09-17",
+   "genres": [
+    "War & Politics",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 918,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 251,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+   "popularity": 59.7045,
+   "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1972-09-17",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1973-09-15",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1974-09-10",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1975-09-12",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1976-09-21",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1977-09-20",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1978-09-18",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1979-09-17",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1980-11-17",
+     "episode_count": 20,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1981-10-26",
+     "episode_count": 21,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1982-10-25",
+     "episode_count": 16,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Goodbye, Farewell, and Amen.",
+   "title": "M*A*S*H",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.96,
+   "vote_count": 792
   }
  }
 }

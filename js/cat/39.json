@@ -1,8 +1,8 @@
 {
  "bucket": "39",
- "count": 12,
+ "count": 19,
  "titles": {
-  "160139": {
+  "movie:160139": {
    "backdrop_path": "/rX0EqXVwtTUhVb8Va4WPMiUmHWg.jpg",
    "budget": 7700000,
    "cast": [
@@ -199,7 +199,7 @@
    "vote_average": 6.5,
    "vote_count": 445
   },
-  "26039": {
+  "movie:26039": {
    "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
    "budget": 2500000,
    "cast": [
@@ -310,7 +310,7 @@
    "vote_average": 7.056,
    "vote_count": 464
   },
-  "28739": {
+  "movie:28739": {
    "backdrop_path": "/rimhdm7tiOdZqTz0QKckoJ7mGac.jpg",
    "budget": 5000000,
    "cast": [
@@ -415,7 +415,7 @@
    "vote_average": 4.6,
    "vote_count": 443
   },
-  "31439": {
+  "movie:31439": {
    "backdrop_path": "/s7xVB5OPWw6GO40VBeEJcX9EwNt.jpg",
    "budget": 0,
    "cast": [
@@ -506,7 +506,7 @@
    "vote_average": 8.3,
    "vote_count": 440
   },
-  "437739": {
+  "movie:437739": {
    "backdrop_path": "/bd4Y1hoqK36VgXQvisWfg2GQ6Yj.jpg",
    "budget": 0,
    "cast": [
@@ -596,7 +596,7 @@
    "vote_average": 4.8,
    "vote_count": 499
   },
-  "444539": {
+  "movie:444539": {
    "backdrop_path": "/57LEr2CScU29AwdaYg7OlUGBdR2.jpg",
    "budget": 5400000,
    "cast": [
@@ -732,7 +732,7 @@
    "vote_average": 6.503,
    "vote_count": 476
   },
-  "4539": {
+  "movie:4539": {
    "backdrop_path": "/crw9RXI54qmSfc0tIiH5hip79uw.jpg",
    "budget": 0,
    "cast": [
@@ -837,7 +837,7 @@
    "vote_average": 7.923,
    "vote_count": 447
   },
-  "726139": {
+  "movie:726139": {
    "backdrop_path": "/cIBp7rip1kZLSD7BQrEE4UXs6aq.jpg",
    "budget": 14750000,
    "cast": [
@@ -971,7 +971,7 @@
    "vote_average": 6.801,
    "vote_count": 440
   },
-  "755339": {
+  "movie:755339": {
    "backdrop_path": "/36xTkr5CxVGKqe55q6lxVa8LyK3.jpg",
    "budget": 0,
    "cast": [
@@ -1076,7 +1076,7 @@
    "vote_average": 7.33,
    "vote_count": 450
   },
-  "785539": {
+  "movie:785539": {
    "backdrop_path": "/TB88CYene7rzMs32FzFTLs0eU4.jpg",
    "budget": 0,
    "cast": [
@@ -1183,7 +1183,7 @@
    "vote_average": 7.117,
    "vote_count": 437
   },
-  "807339": {
+  "movie:807339": {
    "backdrop_path": "/bGwBlxl9Ht2zljBHfNQD0YCEtrk.jpg",
    "budget": 0,
    "cast": [
@@ -1299,7 +1299,7 @@
    "vote_average": 6.107,
    "vote_count": 440
   },
-  "9839": {
+  "movie:9839": {
    "backdrop_path": "/rp09OsrEIpFdsxQjIyWn821Wp7c.jpg",
    "budget": 35000000,
    "cast": [
@@ -1417,6 +1417,1102 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 457
+  },
+  "tv:1639": {
+   "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noah Bennet",
+     "n": "Jack Coleman"
+    },
+    {
+     "c": "Hiro Nakamura",
+     "n": "Masi Oka"
+    },
+    {
+     "c": "Nathan Petrelli",
+     "n": "Adrian Pasdar"
+    },
+    {
+     "c": "Claire Bennet",
+     "n": "Hayden Panettiere"
+    },
+    {
+     "c": "Gabriel 'Sylar' Gray",
+     "n": "Zachary Quinto"
+    },
+    {
+     "c": "Peter Petrelli",
+     "n": "Milo Ventimiglia"
+    },
+    {
+     "c": "Matt Parkman",
+     "n": "Greg Grunberg"
+    },
+    {
+     "c": "Mohinder Suresh",
+     "n": "Sendhil Ramamurthy"
+    },
+    {
+     "c": "Tracy Strauss",
+     "n": "Ali Larter"
+    },
+    {
+     "c": "Samuel Sullivan",
+     "n": "Robert Knepper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Tim Kring"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2006-09-25",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 1639,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+   "popularity": 83.0277,
+   "poster_path": "/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-21",
+     "episode_count": 57,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-09-25",
+     "episode_count": 23,
+     "name": "Genesis",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 11,
+     "name": "Generations",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 25,
+     "name": "Villains / Fugitives",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 19,
+     "name": "Redemption",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "ja"
+   ],
+   "status": "Canceled",
+   "tagline": "You can't choose your family, you can choose a side.",
+   "title": "Heroes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 2735
+  },
+  "tv:1739": {
+   "backdrop_path": "/hZmWDFV7qVAlhvEqJ23txLD7oHa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim",
+     "n": "Jim Belushi"
+    },
+    {
+     "c": "Cheryl",
+     "n": "Courtney Thorne-Smith"
+    },
+    {
+     "c": "Andy",
+     "n": "Larry Joe Campbell"
+    },
+    {
+     "c": "Ruby",
+     "n": "Taylor Atelian"
+    },
+    {
+     "c": "Gracie",
+     "n": "Billi Bruno"
+    },
+    {
+     "c": "Kyle",
+     "n": "Conner Rayburn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Jonathan Stark",
+    "Tracy Newman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2001-10-03",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1739,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 182,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jim is the typical all-American guy — a macho \"everyman\" — with a soft spot for his beautiful wife and children. Jim's boyish bravado and humorous antics keep a certain level of turmoil in their home, but there's never a doubt that this \"opposites attract\" couple are in their marriage for keeps!",
+   "popularity": 38.6551,
+   "poster_path": "/iNegoiByXFILSmBccfISNpVmTAK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-05-11",
+     "episode_count": 13,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-10-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-10-01",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 29,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-01-03",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-01-01",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2008-12-02",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "According to Jim",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.528,
+   "vote_count": 413
+  },
+  "tv:249039": {
+   "backdrop_path": "/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vince Friedken",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Jake Friedken",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Babbitt",
+     "n": "Chris Coy"
+    },
+    {
+     "c": "Joe Mancuso",
+     "n": "Troy Kotsur"
+    },
+    {
+     "c": "Anna",
+     "n": "Abbey Lee"
+    },
+    {
+     "c": "Gen",
+     "n": "Odessa Young"
+    },
+    {
+     "c": "Tony",
+     "n": "Robin de Jesús"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Zach Baylin",
+    "Kate Susman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-18",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 249039,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+   "popularity": 26.5915,
+   "poster_path": "/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-18",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "How far would you go for family?",
+   "title": "Black Rabbit",
+   "trailer": {
+    "key": "9j_IFlmFRvU",
+    "name": "Emmy Awards 2025 Commercial",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.947,
+   "vote_count": 244
+  },
+  "tv:4239": {
+   "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Al Bundy",
+     "n": "Ed O'Neill"
+    },
+    {
+     "c": "Peggy Bundy",
+     "n": "Katey Sagal"
+    },
+    {
+     "c": "Marcy D'Arcy",
+     "n": "Amanda Bearse"
+    },
+    {
+     "c": "Kelly Bundy",
+     "n": "Christina Applegate"
+    },
+    {
+     "c": "Bud Bundy",
+     "n": "David Faustino"
+    },
+    {
+     "c": "Jefferson D'Arcy",
+     "n": "Ted McGinley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "FOX",
+   "created_by": [
+    "Michael G. Moye",
+    "Ron Leavitt"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1987-04-05",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4239,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 258,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+   "popularity": 70.0015,
+   "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1986-12-12",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1987-04-05",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1987-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1988-11-06",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1989-09-03",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1990-09-23",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1991-09-08",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1992-09-13",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1993-09-05",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1994-09-04",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1995-09-17",
+     "episode_count": 26,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1996-09-28",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Domestic bliss was never like this!",
+   "title": "Married... with Children",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.729,
+   "vote_count": 1296
+  },
+  "tv:63639": {
+   "backdrop_path": "/eVwD4s4dBOK5Jn7CzOLBTo0vXNH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Holden",
+     "n": "Steven Strait"
+    },
+    {
+     "c": "Naomi Nagata",
+     "n": "Dominique Tipper"
+    },
+    {
+     "c": "Amos Burton",
+     "n": "Wes Chatham"
+    },
+    {
+     "c": "Chrisjen Avasarala",
+     "n": "Shohreh Aghdashloo"
+    },
+    {
+     "c": "Bobbie Draper",
+     "n": "Frankie Adams"
+    },
+    {
+     "c": "Camina Drummer",
+     "n": "Cara Gee"
+    },
+    {
+     "c": "Clarissa Mao",
+     "n": "Nadine Nicole"
+    },
+    {
+     "c": "Marco Inaros",
+     "n": "Keon Alexander"
+    },
+    {
+     "c": "Filip Inaros",
+     "n": "Jasai Chase-Owens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Syfy",
+   "created_by": [
+    "Mark Fergus",
+    "Hawk Ostby"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-12-14",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 63639,
+   "industry": "world",
+   "networks": [
+    "Syfy",
+    "Prime Video"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history.",
+   "popularity": 65.2842,
+   "poster_path": "/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-12-14",
+     "episode_count": 66,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-12-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-02-01",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-04-11",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-12-13",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-12-16",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-12-09",
+     "episode_count": 6,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The stars are better off without us.",
+   "title": "The Expanse",
+   "trailer": {
+    "key": "M0QwBp_da28",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.074,
+   "vote_count": 3006
+  },
+  "tv:82739": {
+   "backdrop_path": "/8165gnzhyRbkKfm3WFBINdkDQBR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sakuta Azusagawa (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Mai Sakurajima (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Uzuki Hirokawa (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Tomoe Koga (voice)",
+     "n": "Nao Toyama"
+    },
+    {
+     "c": "Rio Futaba (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Ikumi Akagi (voice)",
+     "n": "Aya Yamane"
+    },
+    {
+     "c": "Nodoka Toyohama (voice)",
+     "n": "Maaya Uchida"
+    },
+    {
+     "c": "Sara Himeji (voice)",
+     "n": "Konomi Kohara"
+    },
+    {
+     "c": "Kaede Azusagawa (voice)",
+     "n": "Yurika Kubo"
+    },
+    {
+     "c": "Miori Mito (voice)",
+     "n": "Manaka Iwami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2018-10-04",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 82739,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "ABC TV",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Puberty Syndrome—a rumored, mysterious syndrome that only affects those in their puberty. For example, a bunny girl suddenly appeared in front of Sakuta Azusagawa. The bunny girl's real identity is Mai Sakurajima, a teenage celebrity who is currently an inactive high school senior. For some reason, her charming figure does not reflect in the eyes of others. In the course of revealing the mystery behind this phenomenon, Sakuta begins to explore his feelings towards Mai. Set in a city where the skies and seas shine, Sakuta unfolds the meaning behind his bizarre encounters on women with the said syndrome.",
+   "popularity": 25.4907,
+   "poster_path": "/fbqDG7GjodvaNecgv1q8kfSNPl5.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-12-19",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-10-04",
+     "episode_count": 13,
+     "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-07-05",
+     "episode_count": 13,
+     "name": "Rascal Does Not Dream of Santa Claus",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "trailer": {
+    "key": "o0TZj_d3Yfg",
+    "name": "Trailer 1 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.513,
+   "vote_count": 1351
+  },
+  "tv:91239": {
+   "backdrop_path": "/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lady Violet Bridgerton",
+     "n": "Ruth Gemmell"
+    },
+    {
+     "c": "Benedict Bridgerton",
+     "n": "Luke Thompson"
+    },
+    {
+     "c": "Sophie Baek",
+     "n": "Yerin Ha"
+    },
+    {
+     "c": "Colin Bridgerton",
+     "n": "Luke Newton"
+    },
+    {
+     "c": "Eloise Bridgerton",
+     "n": "Claudia Jessie"
+    },
+    {
+     "c": "Hyacinth Bridgerton",
+     "n": "Florence Hunt"
+    },
+    {
+     "c": "Gregory Bridgerton",
+     "n": "Will Tilston"
+    },
+    {
+     "c": "Lady Agatha Danbury",
+     "n": "Adjoa Andoh"
+    },
+    {
+     "c": "Lady Whistledown (voice)",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Queen Charlotte",
+     "n": "Golda Rosheuvel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Chris Van Dusen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-12-25",
+   "genres": [
+    "Drama"
+   ],
+   "id": 91239,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+   "popularity": 48.1235,
+   "poster_path": "/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-12-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-03-25",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-05-16",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-01-29",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs"
+   ],
+   "status": "Returning Series",
+   "tagline": "Even a wallflower can bloom.",
+   "title": "Bridgerton",
+   "trailer": {
+    "key": "gpv7ayf_tyE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 3452
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "86",
- "count": 11,
+ "count": 23,
  "titles": {
-  "11986": {
+  "movie:11986": {
    "backdrop_path": "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
    "budget": 0,
    "cast": [
@@ -163,7 +163,7 @@
    "vote_average": 7.203,
    "vote_count": 493
   },
-  "14886": {
+  "movie:14886": {
    "backdrop_path": "/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",
    "budget": 2300000,
    "cast": [
@@ -279,7 +279,7 @@
    "vote_average": 7.01,
    "vote_count": 441
   },
-  "18086": {
+  "movie:18086": {
    "backdrop_path": "/lmAsNDUXVFSytRVwJKrSIjPfyKK.jpg",
    "budget": 0,
    "cast": [
@@ -369,7 +369,7 @@
    "vote_average": 6.4,
    "vote_count": 485
   },
-  "19186": {
+  "movie:19186": {
    "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
    "budget": 0,
    "cast": [
@@ -530,7 +530,7 @@
    "vote_average": 7.028,
    "vote_count": 452
   },
-  "21786": {
+  "movie:21786": {
    "backdrop_path": "/99xMo0iXjCUzV1sYuANA4eUujXv.jpg",
    "budget": 0,
    "cast": [
@@ -651,7 +651,7 @@
    "vote_average": 6.232,
    "vote_count": 487
   },
-  "353686": {
+  "movie:353686": {
    "backdrop_path": "/cY2NRhbnAH4AqeVGZ80EeCzbhoz.jpg",
    "budget": 0,
    "cast": [
@@ -752,7 +752,7 @@
    "vote_average": 5.3,
    "vote_count": 467
   },
-  "4886": {
+  "movie:4886": {
    "backdrop_path": "/anyaK6Ab3g2FQyXpTI36rAWRQsw.jpg",
    "budget": 0,
    "cast": [
@@ -875,7 +875,7 @@
    "vote_average": 7.041,
    "vote_count": 440
   },
-  "5486": {
+  "movie:5486": {
    "backdrop_path": "/2E2tfSguMHWrzbc29j1yKWifKDv.jpg",
    "budget": 0,
    "cast": [
@@ -1045,7 +1045,7 @@
    "vote_average": 6.566,
    "vote_count": 456
   },
-  "582186": {
+  "movie:582186": {
    "backdrop_path": "/jrlUhWTQy3Dpmsexlp4RvUgaZwz.jpg",
    "budget": 2800000,
    "cast": [
@@ -1135,7 +1135,7 @@
    "vote_average": 5.807,
    "vote_count": 436
   },
-  "659986": {
+  "movie:659986": {
    "backdrop_path": "/xUUtcxWC6H48UCrpRwwSPQz69XC.jpg",
    "budget": 0,
    "cast": [
@@ -1280,7 +1280,7 @@
    "vote_average": 5.6,
    "vote_count": 462
   },
-  "70586": {
+  "movie:70586": {
    "backdrop_path": "/iRCHM6AR78Pjffl5y1fiUwD3YiE.jpg",
    "budget": 20000000,
    "cast": [
@@ -1483,6 +1483,2407 @@
    "type": "movie",
    "vote_average": 4.853,
    "vote_count": 456
+  },
+  "tv:12786": {
+   "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Detective William Murdoch",
+     "n": "Yannick Bisson"
+    },
+    {
+     "c": "Dr. Julia Ogden",
+     "n": "Helene Joy"
+    },
+    {
+     "c": "Chief Constable Thomas Brackenreid",
+     "n": "Thomas Craig"
+    },
+    {
+     "c": "Constable George Crabtree",
+     "n": "Jonny Harris"
+    },
+    {
+     "c": "Constable Henry Higgins",
+     "n": "Lachlan Murdoch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBC Television",
+   "created_by": [
+    "Maureen Jennings"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2008-01-24",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 12786,
+   "industry": "world",
+   "networks": [
+    "CBC Television",
+    "Citytv"
+   ],
+   "number_of_episodes": 338,
+   "number_of_seasons": 20,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+   "popularity": 67.6644,
+   "poster_path": "/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-05-13",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-01-24",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-02-10",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-02-16",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-02-15",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-02-28",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-01-07",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2013-09-30",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2014-10-06",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2015-10-05",
+     "episode_count": 18,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2016-10-10",
+     "episode_count": 18,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 18,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 18,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2019-09-16",
+     "episode_count": 18,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2021-01-04",
+     "episode_count": 11,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2021-09-13",
+     "episode_count": 24,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2022-09-12",
+     "episode_count": 24,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2023-10-02",
+     "episode_count": 24,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2024-09-30",
+     "episode_count": 22,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2025-10-06",
+     "episode_count": 21,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2026-10-05",
+     "episode_count": 8,
+     "name": "Season 20",
+     "season_number": 20
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Forensic sleuthing in the age of invention.",
+   "title": "Murdoch Mysteries",
+   "trailer": {
+    "key": "f17UNwtTMgQ",
+    "name": "Murdoch Mysteries Season 10 Trailer | Alibi",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 309
+  },
+  "tv:1486": {
+   "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Judy Hoffs",
+     "n": "Holly Robinson Peete"
+    },
+    {
+     "c": "Anthony McCann",
+     "n": "Michael Bendetti"
+    },
+    {
+     "c": "Doug Penhall",
+     "n": "Peter DeLuise"
+    },
+    {
+     "c": "Adam Fuller",
+     "n": "Steven Williams"
+    },
+    {
+     "c": "Joey Penhall",
+     "n": "Michael DeLuise"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Stephen J. Cannell",
+    "Patrick Hasburgh"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1987-04-12",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 1486,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "21 Jump Street revolves around a group of young cops who would use their youthful appearance to go undercover and solve crimes involving teenagers and young adults.",
+   "popularity": 43.0381,
+   "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1987-04-12",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1987-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1988-11-06",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1989-09-18",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1990-10-13",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Too cool for school.",
+   "title": "21 Jump Street",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.281,
+   "vote_count": 217
+  },
+  "tv:186": {
+   "backdrop_path": "/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nancy Botwin",
+     "n": "Mary-Louise Parker"
+    },
+    {
+     "c": "Andy Botwin",
+     "n": "Justin Kirk"
+    },
+    {
+     "c": "Silas Botwin",
+     "n": "Hunter Parrish"
+    },
+    {
+     "c": "Shane Botwin",
+     "n": "Alexander Gould"
+    },
+    {
+     "c": "Doug Wilson",
+     "n": "Kevin Nealon"
+    },
+    {
+     "c": "Jill Price-Grey",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Stevie Ray Botwin",
+     "n": "Ethan Kent"
+    },
+    {
+     "c": "Stevie Ray Botwin",
+     "n": "Gavin Kent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Jenji Kohan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-08-07",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 186,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 102,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the unexpected death of her husband, a suburban mom resorts to selling weed to support her family.",
+   "popularity": 46.3908,
+   "poster_path": "/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-08-01",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-08-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-08-14",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-08-13",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-06-16",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-06-08",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-08-16",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-06-27",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2012-07-01",
+     "episode_count": 13,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The neighborhood has gone green.",
+   "title": "Weeds",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.474,
+   "vote_count": 1057
+  },
+  "tv:2286": {
+   "backdrop_path": "/vA0rSXM1gwpiefyJamQBvMbIb4B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Egon Spengler (voice)",
+     "n": "Maurice LaMarche"
+    },
+    {
+     "c": "Peter Venkman (voice)",
+     "n": "Dave Coulier"
+    },
+    {
+     "c": "Ray Stantz / Slimer (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Janine Melnitz (voice)",
+     "n": "Kath Soucie"
+    },
+    {
+     "c": "Winston Zeddemore (voice)",
+     "n": "Buster Jones"
+    },
+    {
+     "c": "Louis Tully (voice)",
+     "n": "Rodger Bumpass"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "ABC",
+   "created_by": [
+    "Dan Aykroyd",
+    "Harold Ramis"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1986-09-13",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 2286,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 140,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The continuing adventures of paranormal investigators Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, their secretary Janine Melnitz and their mascot ghost Slimer.",
+   "popularity": 27.0501,
+   "poster_path": "/kLquadlhGPfpKHkVNRgrq0tzHkL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1986-09-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1987-09-14",
+     "episode_count": 65,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1987-09-12",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1988-09-10",
+     "episode_count": 8,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1989-09-16",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1990-09-08",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1991-09-07",
+     "episode_count": 4,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Who you gonna call? Ghostbusters!",
+   "title": "The Real Ghostbusters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.705,
+   "vote_count": 307
+  },
+  "tv:2686": {
+   "backdrop_path": "/4ubxzr6wNZElImE3EOUsjxvVjYw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Tripper",
+     "n": "John Ritter"
+    },
+    {
+     "c": "Janet Wood",
+     "n": "Joyce DeWitt"
+    },
+    {
+     "c": "Terri Alden",
+     "n": "Priscilla Barnes"
+    },
+    {
+     "c": "Ralph Furley",
+     "n": "Don Knotts"
+    },
+    {
+     "c": "Larry Dallas",
+     "n": "Richard Kline"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Johnnie Mortimer",
+    "Brian Cooke"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1977-03-15",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2686,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 171,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When two single girls, Janet and Chrissy, need a roommate to share their Santa Monica apartment, they decide to offer a room to Jack, a man they find passed out in the bathtub after the going-away party for their last roommate. However, hijinks ensure when Jack must pretend to be gay in order to throw off the scent of the trio's conservative landlady.",
+   "popularity": 30.9053,
+   "poster_path": "/6xn9XQ5iwJIa1FkoZAFtnh5tAQl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1982-05-18",
+     "episode_count": 21,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1977-03-15",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1977-09-13",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1978-09-12",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1979-09-11",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1980-10-28",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1981-10-06",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1982-09-28",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1983-09-27",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Come and knock on our door",
+   "title": "Three's Company",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.552,
+   "vote_count": 201
+  },
+  "tv:4386": {
+   "backdrop_path": "/yXuZVMnOEsIhx1vtu9kJGpzmjGN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jason Ioane",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Leigh Dyer",
+     "n": "Brande Roderick"
+    },
+    {
+     "c": "J.D. Darius",
+     "n": "Michael Bergin"
+    },
+    {
+     "c": "Kekoa Tanaka",
+     "n": "Stacy Kamano"
+    },
+    {
+     "c": "Sean Monroe",
+     "n": "Jason Brooks"
+    },
+    {
+     "c": "Jenna Avid",
+     "n": "Krista Allen"
+    },
+    {
+     "c": "Zack McEwan",
+     "n": "Charlie Brumbly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Michael Berk",
+    "Douglas Schwartz",
+    "Gregory J. Bonann"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "1989-04-23",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 4386,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "Syndication"
+   ],
+   "number_of_episodes": 242,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
+   "popularity": 57.3055,
+   "poster_path": "/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+     "name": "FOX One Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-02-28",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-04-23",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1991-09-23",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1992-09-14",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1993-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1994-09-26",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1995-09-25",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1996-09-23",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1997-09-22",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1998-09-21",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1999-09-20",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2000-10-02",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "'Cause I'm always ready, I won't let you out of my sight.",
+   "title": "Baywatch",
+   "trailer": {
+    "key": "V3YE977cSuU",
+    "name": "Baywatch Remastered | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.947,
+   "vote_count": 580
+  },
+  "tv:4586": {
+   "backdrop_path": "/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lorelai Gilmore",
+     "n": "Lauren Graham"
+    },
+    {
+     "c": "Rory Gilmore",
+     "n": "Alexis Bledel"
+    },
+    {
+     "c": "Luke Danes",
+     "n": "Scott Patterson"
+    },
+    {
+     "c": "Sookie St. James",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Lane Kim",
+     "n": "Keiko Agena"
+    },
+    {
+     "c": "Michel Gerard",
+     "n": "Yanic Truesdale"
+    },
+    {
+     "c": "Paris Geller",
+     "n": "Liza Weil"
+    },
+    {
+     "c": "Kirk Gleason",
+     "n": "Sean Gunn"
+    },
+    {
+     "c": "Logan Huntzberger",
+     "n": "Matt Czuchry"
+    },
+    {
+     "c": "Emily Gilmore",
+     "n": "Kelly Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "Amy Sherman-Palladino"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2000-10-05",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 4586,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "The CW"
+   ],
+   "number_of_episodes": 153,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",
+   "popularity": 93.3146,
+   "poster_path": "/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-10-05",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-10-09",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-09-24",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2005-09-13",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2006-09-26",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Life's short. Talk fast.",
+   "title": "Gilmore Girls",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 1342
+  },
+  "tv:46786": {
+   "backdrop_path": "/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Norma Bates",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Norman Bates",
+     "n": "Freddie Highmore"
+    },
+    {
+     "c": "Dylan Massett",
+     "n": "Max Thieriot"
+    },
+    {
+     "c": "Emma Decody",
+     "n": "Olivia Cooke"
+    },
+    {
+     "c": "Alex Romero",
+     "n": "Nestor Carbonell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "A&E",
+   "created_by": [
+    "Carlton Cuse",
+    "Kerry Ehrin",
+    "Anthony Cipriano"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2013-03-18",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 46786,
+   "industry": "world",
+   "networks": [
+    "A&E"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A \"contemporary prequel\" to the 1960 film Psycho, depicting the life of Norman Bates and his mother Norma prior to the events portrayed in Hitchcock's film, albeit in a different fictional town and in a modern setting. The series begins after the death of Norma's husband, when she purchases a motel located in a coastal Oregon town so she and Norman can start a new life.",
+   "popularity": 25.5787,
+   "poster_path": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-03-03",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-03-18",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-03-03",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-03-09",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-03-07",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-02-20",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Together until the end.",
+   "title": "Bates Motel",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.044,
+   "vote_count": 1857
+  },
+  "tv:4686": {
+   "backdrop_path": "/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben Tennyson (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Gwen Tennyson (voice)",
+     "n": "Meagan Moore"
+    },
+    {
+     "c": "Grandpa Max (voice)",
+     "n": "Paul Eiding"
+    },
+    {
+     "c": "Stinkfly / Wildmutt (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Ghostfreak / Heatblast / Vilgax (voice)",
+     "n": "Steve Blum"
+    },
+    {
+     "c": "Four Arms (voice)",
+     "n": "Richard McGonagle"
+    },
+    {
+     "c": "Grey Matter (voice)",
+     "n": "Richard Steven Horvitz"
+    },
+    {
+     "c": "Diamondhead / Wildvine / XLR8 (voice)",
+     "n": "Jim Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Duncan Rouleau",
+    "Joe Kelly",
+    "Joe Casey",
+    "Steven T. Seagle"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2005-12-27",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 4686,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into ten different alien heroes, each with uniquely awesome powers. With such abilities at his disposal, Ben realizes a greater responsibility to help others and stop evildoers, but that doesn't mean he's above a little superpowered mischief now and then.",
+   "popularity": 30.7708,
+   "poster_path": "/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-07-14",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-12-27",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-05-29",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-11-25",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-07-07",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "An alter ego for every occasion.",
+   "title": "Ben 10",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.147,
+   "vote_count": 1848
+  },
+  "tv:59186": {
+   "backdrop_path": "/9I7aHbHlXwsQais5wBcccWnboTx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Brian Quinn"
+    },
+    {
+     "c": "Self",
+     "n": "James Murray"
+    },
+    {
+     "c": "Self",
+     "n": "Sal Vulcano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TBS",
+   "created_by": [
+    "Joe Gatto",
+    "Sal Vulcano",
+    "Brian Quinn",
+    "James Murray"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2011-12-15",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 59186,
+   "industry": "world",
+   "networks": [
+    "TBS",
+    "truTV"
+   ],
+   "number_of_episodes": 293,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This hidden-camera series follows four lifelong friends -- Brian \"Q\"' Quinn, James \"Murr\"' Murray, Joe Gatto and Sal Vulcano -- who take dares to an outrageous level. To find out who is best under pressure, the guys compete in awkward and outrageous hidden-camera hijinks with the loser performing what is deemed to be the most-mortifying challenge yet.",
+   "popularity": 38.0671,
+   "poster_path": "/tRLj19YXH9GPiaqlU7GwWyd6G5K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-02-16",
+     "episode_count": 50,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-12-15",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-05",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-01-01",
+     "episode_count": 31,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-01-28",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-02-12",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-02-08",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-01-31",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-03-27",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-02-03",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2023-02-08",
+     "episode_count": 19,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-07-24",
+     "episode_count": 18,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 18,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2026-07-23",
+     "episode_count": 7,
+     "name": "Season 13",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Same jokers. New network.",
+   "title": "Impractical Jokers",
+   "trailer": {
+    "key": "vL0pCFEGG2U",
+    "name": "Impractical Jokers | Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.958,
+   "vote_count": 431
+  },
+  "tv:62286": {
+   "backdrop_path": "/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Morgan Jones",
+     "n": "Lennie James"
+    },
+    {
+     "c": "Madison Clark",
+     "n": "Kim Dickens"
+    },
+    {
+     "c": "Victor Strand",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Luciana Galvez",
+     "n": "Danay García"
+    },
+    {
+     "c": "Dwight",
+     "n": "Austin Amelio"
+    },
+    {
+     "c": "Grace Mukherjee",
+     "n": "Karen David"
+    },
+    {
+     "c": "Sherry",
+     "n": "Christine Evangelista"
+    },
+    {
+     "c": "Troy Otto",
+     "n": "Daniel Sharman"
+    },
+    {
+     "c": "June",
+     "n": "Jenna Elfman"
+    },
+    {
+     "c": "Daniel Salazar",
+     "n": "Rubén Blades"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "AMC",
+   "created_by": [
+    "Robert Kirkman",
+    "Dave Erickson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-08-23",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 62286,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 113,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+   "popularity": 44.9935,
+   "poster_path": "/eKt4ELpQZUKGZCKIDobEbwHwk3I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png",
+     "name": "AMC",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-08-23",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-04-10",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-06-04",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-04-15",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-06-02",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-10-11",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-10-17",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2023-05-14",
+     "episode_count": 12,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "Every decision is life or death.",
+   "title": "Fear the Walking Dead",
+   "trailer": {
+    "key": "WDxew5SguVw",
+    "name": "Official Comic Con Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.604,
+   "vote_count": 5267
+  },
+  "tv:73586": {
+   "backdrop_path": "/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kayce Dutton",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Beth Dutton",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Jamie Dutton",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Rip Wheeler",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Monica Dutton",
+     "n": "Kelsey Asbille"
+    },
+    {
+     "c": "Tate Dutton",
+     "n": "Brecken Merrill"
+    },
+    {
+     "c": "Walker",
+     "n": "Ryan Bingham"
+    },
+    {
+     "c": "Carter",
+     "n": "Finn Little"
+    },
+    {
+     "c": "Ryan",
+     "n": "Ian Bohen"
+    },
+    {
+     "c": "Lloyd",
+     "n": "Forrie J. Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount Network",
+   "created_by": [
+    "Taylor Sheridan",
+    "John Linson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-06-20",
+   "genres": [
+    "Western",
+    "Drama"
+   ],
+   "id": 73586,
+   "industry": "world",
+   "networks": [
+    "Paramount Network"
+   ],
+   "number_of_episodes": 53,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+   "popularity": 84.0263,
+   "poster_path": "/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-06-20",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-06-19",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-06-21",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-11-07",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-11-13",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "My land, my rules.",
+   "title": "Yellowstone",
+   "trailer": {
+    "key": "suobrMPBLlo",
+    "name": "Exclusive Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.282,
+   "vote_count": 3430
   }
  }
 }

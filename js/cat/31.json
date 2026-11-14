@@ -1,8 +1,8 @@
 {
  "bucket": "31",
- "count": 10,
+ "count": 16,
  "titles": {
-  "101731": {
+  "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
    "budget": 0,
    "cast": [
@@ -211,7 +211,7 @@
    "vote_average": 7.0,
    "vote_count": 469
   },
-  "18331": {
+  "movie:18331": {
    "backdrop_path": "/kTgPUrv6jICp5CDDq5vS40zvVKX.jpg",
    "budget": 0,
    "cast": [
@@ -319,7 +319,7 @@
    "vote_average": 6.511,
    "vote_count": 495
   },
-  "27431": {
+  "movie:27431": {
    "backdrop_path": "/5yunPf3vpOMYon7HBJtrwZNs1YG.jpg",
    "budget": 1000000,
    "cast": [
@@ -456,7 +456,7 @@
    "vote_average": 6.68,
    "vote_count": 472
   },
-  "399031": {
+  "movie:399031": {
    "backdrop_path": "/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
    "budget": 13600000,
    "cast": [
@@ -616,7 +616,7 @@
    "vote_average": 6.193,
    "vote_count": 445
   },
-  "403431": {
+  "movie:403431": {
    "backdrop_path": "/t2wxBFRFbbUTy9eDneGN7EvzrVR.jpg",
    "budget": 0,
    "cast": [
@@ -750,7 +750,7 @@
    "vote_average": 7.097,
    "vote_count": 436
   },
-  "517331": {
+  "movie:517331": {
    "backdrop_path": "/cLAvMhCYwRelzzOJTXuXxzMFZZV.jpg",
    "budget": 4552700,
    "cast": [
@@ -878,7 +878,7 @@
    "vote_average": 7.065,
    "vote_count": 497
   },
-  "63831": {
+  "movie:63831": {
    "backdrop_path": "/59NaUtfZuK2f0lQedSDQwVF7X9E.jpg",
    "budget": 0,
    "cast": [
@@ -1073,7 +1073,7 @@
    "vote_average": 7.063,
    "vote_count": 477
   },
-  "664031": {
+  "movie:664031": {
    "backdrop_path": "/cL8nGFsbFkvaHh33PesJPKgs2HJ.jpg",
    "budget": 0,
    "cast": [
@@ -1180,7 +1180,7 @@
    "vote_average": 6.9,
    "vote_count": 486
   },
-  "774531": {
+  "movie:774531": {
    "backdrop_path": "/wrifTYmJPTxBf26xJrwyPfGbg3T.jpg",
    "budget": 40000000,
    "cast": [
@@ -1284,7 +1284,7 @@
    "vote_average": 7.851,
    "vote_count": 472
   },
-  "9431": {
+  "movie:9431": {
    "backdrop_path": "/4pdn51JC1pliaFjf5tNDi8sMRqs.jpg",
    "budget": 15000000,
    "cast": [
@@ -1390,6 +1390,1106 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
+  },
+  "tv:1431": {
+   "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "D.B. Russell",
+     "n": "Ted Danson"
+    },
+    {
+     "c": "Nick Stokes",
+     "n": "George Eads"
+    },
+    {
+     "c": "Sara Sidle",
+     "n": "Jorja Fox"
+    },
+    {
+     "c": "Greg Sanders",
+     "n": "Eric Szmanda"
+    },
+    {
+     "c": "Al Robbins",
+     "n": "Robert David Hall"
+    },
+    {
+     "c": "David Hodges",
+     "n": "Wallace Langham"
+    },
+    {
+     "c": "Henry Andrews",
+     "n": "Jon Wellner"
+    },
+    {
+     "c": "Morgan Brody",
+     "n": "Elisabeth Harnois"
+    },
+    {
+     "c": "Julie Finlay",
+     "n": "Elisabeth Shue"
+    },
+    {
+     "c": "David Phillips",
+     "n": "David Berman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Ann Donahue",
+    "Anthony E. Zuiker"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2000-10-06",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1431,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 335,
+   "number_of_seasons": 15,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+   "popularity": 161.9758,
+   "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-10-06",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-09-27",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-09-25",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-09-24",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-09-23",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2005-09-22",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2006-09-21",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 17,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2008-10-09",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2009-09-24",
+     "episode_count": 23,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2011-09-21",
+     "episode_count": 22,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2012-09-26",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2013-09-25",
+     "episode_count": 22,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 18,
+     "name": "Season 15",
+     "season_number": 15
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "CSI: Crime Scene Investigation",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.595,
+   "vote_count": 1451
+  },
+  "tv:331": {
+   "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Judge",
+     "n": "Tyra Banks"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Drew Elliott"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Law Roach"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Ashley Graham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "UPN",
+   "created_by": [
+    "Tyra Banks"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2003-05-20",
+   "genres": [
+    "Reality"
+   ],
+   "id": 331,
+   "industry": "world",
+   "networks": [
+    "UPN",
+    "The CW",
+    "VH1"
+   ],
+   "number_of_episodes": 312,
+   "number_of_seasons": 24,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.",
+   "popularity": 47.218,
+   "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-02-06",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-05-20",
+     "episode_count": 8,
+     "name": "Cycle 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-01-13",
+     "episode_count": 10,
+     "name": "Cycle 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 12,
+     "name": "Cycle 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-03-02",
+     "episode_count": 12,
+     "name": "Cycle 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-21",
+     "episode_count": 12,
+     "name": "Cycle 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-03-07",
+     "episode_count": 12,
+     "name": "Cycle 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2006-09-20",
+     "episode_count": 13,
+     "name": "Cycle 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2007-02-28",
+     "episode_count": 13,
+     "name": "Cycle 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2007-09-19",
+     "episode_count": 13,
+     "name": "Cycle 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2008-02-20",
+     "episode_count": 13,
+     "name": "Cycle 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2008-09-03",
+     "episode_count": 13,
+     "name": "Cycle 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2009-03-04",
+     "episode_count": 13,
+     "name": "Cycle 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2009-09-09",
+     "episode_count": 13,
+     "name": "Cycle 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2010-03-10",
+     "episode_count": 12,
+     "name": "Cycle 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2010-09-08",
+     "episode_count": 13,
+     "name": "Cycle 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2011-02-23",
+     "episode_count": 13,
+     "name": "Cycle 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2011-09-14",
+     "episode_count": 13,
+     "name": "All-Stars",
+     "season_number": 17
+    },
+    {
+     "air_date": "2012-02-29",
+     "episode_count": 13,
+     "name": "British Invasion",
+     "season_number": 18
+    },
+    {
+     "air_date": "2012-08-24",
+     "episode_count": 13,
+     "name": "College Edition",
+     "season_number": 19
+    },
+    {
+     "air_date": "2013-08-02",
+     "episode_count": 16,
+     "name": "Guys & Girls",
+     "season_number": 20
+    },
+    {
+     "air_date": "2014-08-18",
+     "episode_count": 16,
+     "name": "Guys & Girls",
+     "season_number": 21
+    },
+    {
+     "air_date": "2015-08-05",
+     "episode_count": 16,
+     "name": "Guys & Girls",
+     "season_number": 22
+    },
+    {
+     "air_date": "2016-12-12",
+     "episode_count": 15,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2018-01-09",
+     "episode_count": 15,
+     "name": "Season 24",
+     "season_number": 24
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "New Faces. New Attitude. New York.",
+   "title": "America's Next Top Model",
+   "trailer": {
+    "key": "d6TfCQcXHpY",
+    "name": "America's Next Top Model | Season 24 Official Super Trailer | VH1",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.4,
+   "vote_count": 151
+  },
+  "tv:65931": {
+   "backdrop_path": "/79lc4Rocfnn9RIv1YlHC0jeBsqf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Osamu Dazai (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Atsushi Nakajima (voice)",
+     "n": "Yuto Uemura"
+    },
+    {
+     "c": "Shirase (voice)",
+     "n": "Masaaki Mizunaka"
+    },
+    {
+     "c": "Mark Twain",
+     "n": "Hiroyuki Yoshino"
+    },
+    {
+     "c": "Kyouka Izumi",
+     "n": "Sumire Morohoshi"
+    },
+    {
+     "c": "Odasaku Oda",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Lovecraft",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Herman Melville",
+     "n": "Takayuki Sugo"
+    },
+    {
+     "c": "Ango Sakaguchi",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "Rintarou Mori",
+     "n": "Mitsuru Miyamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2016-04-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 65931,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.",
+   "popularity": 33.3237,
+   "poster_path": "/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-08-04",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-04-07",
+     "episode_count": 60,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Bungo Stray Dogs",
+   "trailer": {
+    "key": "1f6PUs8T61g",
+    "name": "10th Anniversary Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 452
+  },
+  "tv:76331": {
+   "backdrop_path": "/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kendall Roy",
+     "n": "Jeremy Strong"
+    },
+    {
+     "c": "Roman Roy",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Siobhan 'Shiv' Roy",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Logan Roy",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Tom Wambsgans",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Connor Roy",
+     "n": "Alan Ruck"
+    },
+    {
+     "c": "Gerri Kellman",
+     "n": "J. Smith-Cameron"
+    },
+    {
+     "c": "Greg Hirsch",
+     "n": "Nicholas Braun"
+    },
+    {
+     "c": "Karolina Novotney",
+     "n": "Dagmara Dominczyk"
+    },
+    {
+     "c": "Frank Vernon",
+     "n": "Peter Friedman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Jesse Armstrong"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-06-03",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 76331,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+   "popularity": 39.9665,
+   "poster_path": "/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-06-03",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-08-11",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-10-17",
+     "episode_count": 9,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-03-26",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Make your move.",
+   "title": "Succession",
+   "trailer": {
+    "key": "ZO-XX1UpsqY",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 1852
+  },
+  "tv:83631": {
+   "backdrop_path": "/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nandor the Relentless",
+     "n": "Kayvan Novak"
+    },
+    {
+     "c": "Laszlo Cravensworth",
+     "n": "Matt Berry"
+    },
+    {
+     "c": "Nadja",
+     "n": "Natasia Demetriou"
+    },
+    {
+     "c": "Guillermo de la Cruz",
+     "n": "Harvey Guillén"
+    },
+    {
+     "c": "Colin Robinson",
+     "n": "Mark Proksch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Jemaine Clement"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-03-27",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 83631,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 61,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+   "popularity": 47.8888,
+   "poster_path": "/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+   "production_countries": [
+    "US",
+    "NZ"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-09-02",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-03-27",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-04-15",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-02",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-07-12",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2023-07-13",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-10-21",
+     "episode_count": 11,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Don't ask what they do outside the shadows.",
+   "title": "What We Do in the Shadows",
+   "trailer": {
+    "key": "3_jTVuExbAo",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.008,
+   "vote_count": 1100
+  },
+  "tv:86831": {
+   "backdrop_path": "/3L8oAMr4B72XNoKAs3FY9EfKcVY.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Tim Miller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-03-15",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 86831,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 45,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+   "popularity": 32.8941,
+   "poster_path": "/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-03-15",
+     "episode_count": 18,
+     "name": "Volume 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-05-14",
+     "episode_count": 8,
+     "name": "Volume 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-05-20",
+     "episode_count": 9,
+     "name": "Volume 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 10,
+     "name": "Volume 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The threesome you've been waiting for.",
+   "title": "Love, Death & Robots",
+   "trailer": {
+    "key": "p6XL6W_7_GA",
+    "name": "LOVE DEATH + ROBOTS VOLUME 4 | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.201,
+   "vote_count": 4253
   }
  }
 }

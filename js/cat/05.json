@@ -1,8 +1,8 @@
 {
  "bucket": "05",
- "count": 5,
+ "count": 16,
  "titles": {
-  "1069905": {
+  "movie:1069905": {
    "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
    "budget": 0,
    "cast": [
@@ -113,7 +113,7 @@
    "vote_average": 6.1,
    "vote_count": 488
   },
-  "11205": {
+  "movie:11205": {
    "backdrop_path": "/bhJwUazhSk735vkZLkmrBeqDxSH.jpg",
    "budget": 0,
    "cast": [
@@ -227,7 +227,7 @@
    "vote_average": 6.9,
    "vote_count": 471
   },
-  "29005": {
+  "movie:29005": {
    "backdrop_path": "/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
    "budget": 0,
    "cast": [
@@ -340,7 +340,7 @@
    "vote_average": 7.193,
    "vote_count": 493
   },
-  "458005": {
+  "movie:458005": {
    "backdrop_path": "/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",
    "budget": 0,
    "cast": [
@@ -471,7 +471,7 @@
    "vote_average": 5.873,
    "vote_count": 461
   },
-  "84105": {
+  "movie:84105": {
    "backdrop_path": "/fsiMxZEe8tabMhM11HgGjQO57KV.jpg",
    "budget": 0,
    "cast": [
@@ -619,6 +619,1618 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 451
+  },
+  "tv:105": {
+   "backdrop_path": "/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carrie Bradshaw",
+     "n": "Sarah Jessica Parker"
+    },
+    {
+     "c": "Samantha Jones",
+     "n": "Kim Cattrall"
+    },
+    {
+     "c": "Miranda Hobbes",
+     "n": "Cynthia Nixon"
+    },
+    {
+     "c": "Charlotte York",
+     "n": "Kristin Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Darren Star"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1998-06-06",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 105,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ",
+   "popularity": 49.051,
+   "poster_path": "/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-10-01",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-06-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-06-06",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-06-04",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-06-03",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-07-21",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2003-06-22",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The next best thing to being there.",
+   "title": "Sex and the City",
+   "trailer": {
+    "key": "b58gZlXm2yI",
+    "name": "25th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 2225
+  },
+  "tv:1405": {
+   "backdrop_path": "/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dexter Morgan",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Debra Morgan",
+     "n": "Jennifer Carpenter"
+    },
+    {
+     "c": "Tom Matthews",
+     "n": "Geoff Pierson"
+    },
+    {
+     "c": "Angel Batista",
+     "n": "David Zayas"
+    },
+    {
+     "c": "Harry Morgan",
+     "n": "James Remar"
+    },
+    {
+     "c": "Jamie Batista",
+     "n": "Aimee Garcia"
+    },
+    {
+     "c": "Joseph Quinn",
+     "n": "Desmond Harrington"
+    },
+    {
+     "c": "Vince Masuka",
+     "n": "C.S. Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Showtime",
+   "created_by": [
+    "James Manos Jr."
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2006-10-01",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1405,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+   "popularity": 143.4667,
+   "poster_path": "/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-10-25",
+     "episode_count": 74,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-10-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-09-30",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2011-10-02",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-06-30",
+     "episode_count": 12,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "A serial killer with a heart..... just pray it's not yours.",
+   "title": "Dexter",
+   "trailer": {
+    "key": "YQeUmSD1c3g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.242,
+   "vote_count": 6023
+  },
+  "tv:1705": {
+   "backdrop_path": "/rYlIRj9NA945UuYohw9jUbDEbts.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olivia Dunham",
+     "n": "Anna Torv"
+    },
+    {
+     "c": "Peter Bishop",
+     "n": "Joshua Jackson"
+    },
+    {
+     "c": "Astrid Farnsworth",
+     "n": "Jasika Nicole"
+    },
+    {
+     "c": "Walter Bishop",
+     "n": "John Noble"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Alex Kurtzman",
+    "Roberto Orci",
+    "J.J. Abrams"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-09-09",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1705,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
+   "popularity": 65.14,
+   "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-10-05",
+     "episode_count": 46,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-09",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-09-23",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-09-28",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Question the answers.",
+   "title": "Fringe",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.128,
+   "vote_count": 2979
+  },
+  "tv:2405": {
+   "backdrop_path": "/yjmemOZIkskkY5fKRlI8VTvCESB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Bravo (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Bunny Bravo (voice)",
+     "n": "Brenda Vaccaro"
+    },
+    {
+     "c": "Little Suzy (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Carl Chryniszzswics (voice)",
+     "n": "Tom Kenny"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Van Partible"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1997-07-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 2405,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 181,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Johnny Bravo tells the story of a biceps-bulging, karate-chopping free spirit who believes he is a gift from God to the women of the earth. Unfortunately for Johnny, everyone else sees him as a narcissistic Mama's boy with big muscles and even bigger hair. In short, he is the quintessential guy who 'just doesn't get it.' No matter what he does, or where he finds himself, he always winds up being his own worst enemy.",
+   "popularity": 33.002,
+   "poster_path": "/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "CN Rewind Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-07-07",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-07-02",
+     "episode_count": 66,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-08-11",
+     "episode_count": 53,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-02-20",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Johnny Bravo",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 671
+  },
+  "tv:37305": {
+   "backdrop_path": "/yOkNYWCOWLh3HFtUlo3QT1g5pHG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maka Albarn (voice)",
+     "n": "Chiaki Omigawa"
+    },
+    {
+     "c": "Soul 'Eater' Evans (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Black Star (voice)",
+     "n": "Yumiko Kobayashi"
+    },
+    {
+     "c": "Tsubaki Nakatsukasa (voice)",
+     "n": "Kaori Nazuka"
+    },
+    {
+     "c": "Death the Kid (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Crona (voice)",
+     "n": "Maaya Sakamoto"
+    },
+    {
+     "c": "Elizabeth Thompson (voice)",
+     "n": "Akeno Watanabe"
+    },
+    {
+     "c": "Death (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Patricia Thompson (voice)",
+     "n": "Narumi Takahira"
+    },
+    {
+     "c": "Medusa (voice)",
+     "n": "Houko Kuwashima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2008-04-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 37305,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 51,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch. Maka & Soul Eater, Black Star & Tsubaki, and Death the Kid with Patty and Liz Thompson are the characters Soul Eater revolves around. Besides taking the time to gather souls, these students of Shibusen defend Death City from some of the most powerful of creatures while still attending school and trying to become stronger.",
+   "popularity": 29.8216,
+   "poster_path": "/8ROoGBnHBscVIIomFl7DjlGidYk.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-04-07",
+     "episode_count": 51,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-04-07",
+     "episode_count": 51,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "A sound soul dwells within a sound mind and a sound body.",
+   "title": "Soul Eater",
+   "trailer": {
+    "key": "iv9Ev11O1cU",
+    "name": "Soul Eater - AnimeLab Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.781,
+   "vote_count": 377
+  },
+  "tv:42705": {
+   "backdrop_path": "/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ippo Makunouchi (voice)",
+     "n": "Kohei Kiyasu"
+    },
+    {
+     "c": "Mamoru Takamura (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Masaru Aoki (voice)",
+     "n": "Wataru Takagi"
+    },
+    {
+     "c": "Tatsuya Kimura (voice)",
+     "n": "Keiji Fujiwara"
+    },
+    {
+     "c": "Ralph Anderson (voice)",
+     "n": "Jurota Kosugi"
+    },
+    {
+     "c": "David Eagle (voice)",
+     "n": "Hidenobu Kiuchi"
+    },
+    {
+     "c": "Iwao Shimabukuro (voice)",
+     "n": "Hisao Egawa"
+    },
+    {
+     "c": "Ryuhei Sawamura (voice)",
+     "n": "Shin-ichiro Miki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2000-10-03",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 42705,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 126,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+   "popularity": 36.0293,
+   "poster_path": "/fEYVJu08En9A7n0e5TTpeoSjtIm.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-03-21",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-10-03",
+     "episode_count": 75,
+     "name": "The First Step",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-01-06",
+     "episode_count": 26,
+     "name": "New Challenger",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-10-06",
+     "episode_count": 25,
+     "name": "Rising",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The moment you back down is the moment you lose!",
+   "title": "Fighting Spirit",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 1246
+  },
+  "tv:4605": {
+   "backdrop_path": "/8Il5j5hPlsBfSX9jKPCRHoAiA9p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zack Martin",
+     "n": "Dylan Sprouse"
+    },
+    {
+     "c": "Cody Martin",
+     "n": "Cole Sprouse"
+    },
+    {
+     "c": "Maddie Fitzpatrick",
+     "n": "Ashley French"
+    },
+    {
+     "c": "London Tipton",
+     "n": "Brenda Song"
+    },
+    {
+     "c": "Carey Martin",
+     "n": "Kim Rhodes"
+    },
+    {
+     "c": "Marion Moseby",
+     "n": "Phill Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Danny Kallis",
+    "Jim Geoghan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2005-03-18",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 4605,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 87,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Meet Zack and Cody, 11 year-old identical twins and the newest residents of Boston's swanky Tipton Hotel. Living in a suite with their mom Carey, the boys treat the Tipton like their own personal playground.",
+   "popularity": 24.927,
+   "poster_path": "/wAYjFO8TPn7qVtD0nMykFyFQ9XL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-03-18",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-02-03",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-06-23",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Suite Life of Zack & Cody",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.605,
+   "vote_count": 722
+  },
+  "tv:605": {
+   "backdrop_path": "/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sabrina Spellman",
+     "n": "Melissa Joan Hart"
+    },
+    {
+     "c": "Morgan Cavanaugh",
+     "n": "Elisa Donovan"
+    },
+    {
+     "c": "Roxie King",
+     "n": "Soleil Moon Frye"
+    },
+    {
+     "c": "Salem Saberhagen (voice)",
+     "n": "Nick Bakay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Nell Scovell"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1996-09-27",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 605,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "The WB"
+   ],
+   "number_of_episodes": 163,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On her sixteenth birthday, Sabrina Spellman discovers she has magical powers. She lives with her 600-year-old aunts Hilda and Zelda as well as talking cat Salem in the fictional town of Westbridge, Massachusetts.",
+   "popularity": 46.735,
+   "poster_path": "/nNhj3coHNVVJPVM7fm5PEYVTCMO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-09-27",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-26",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-09-25",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-24",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2000-09-22",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2001-10-05",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2002-09-20",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Sabrina, the Teenage Witch",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.776,
+   "vote_count": 1263
+  },
+  "tv:93405": {
+   "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seong Gi-hun / Player 456",
+     "n": "Lee Jung-jae"
+    },
+    {
+     "c": "Lee Myung-gi / Player 333",
+     "n": "Yim Si-wan"
+    },
+    {
+     "c": "Detective Hwang Jun-ho",
+     "n": "Wi Ha-jun"
+    },
+    {
+     "c": "Kim Jun-hee / Player 222",
+     "n": "Jo Yuri"
+    },
+    {
+     "c": "Front Man / Hwang In-ho",
+     "n": "Lee Byung-hun"
+    },
+    {
+     "c": "Kang No-eul / Guard 011",
+     "n": "Park Gyu-young"
+    },
+    {
+     "c": "Jang Geum-ja / Player 149",
+     "n": "Kang Ae-sim"
+    },
+    {
+     "c": "Park Gyeong-seok / Player 246",
+     "n": "Lee Jin-uk"
+    },
+    {
+     "c": "Park Yong-sik / Player 007",
+     "n": "Yang Dong-geun"
+    },
+    {
+     "c": "Cho Hyun-ju / Player 120",
+     "n": "Park Sung-hoon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Hwang Dong-hyuk"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-09-17",
+   "genres": [
+    "Action & Adventure",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 93405,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+   "popularity": 51.1959,
+   "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-09-17",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-12-26",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-06-27",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko",
+    "ur"
+   ],
+   "status": "Ended",
+   "tagline": "Only one can win.",
+   "title": "Squid Game",
+   "trailer": {
+    "key": "oqxAJKy0ii4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.851,
+   "vote_count": 17944
+  },
+  "tv:94605": {
+   "backdrop_path": "/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vi (voice)",
+     "n": "Hailee Steinfeld"
+    },
+    {
+     "c": "Jinx (voice)",
+     "n": "Ella Purnell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Christian Linke",
+    "Alex Yee"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-11-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 94605,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+   "popularity": 41.979,
+   "poster_path": "/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-10-08",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-11-06",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-11-09",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The hunt is on.",
+   "title": "Arcane",
+   "trailer": {
+    "key": "W4gLFBNGgiY",
+    "name": "Franchise Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.747,
+   "vote_count": 6320
+  },
+  "tv:95205": {
+   "backdrop_path": "/z8CzVVAGHRRmgJQ6ZRjr8OuCmlj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robyn McCall",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Detective Marcus Dante",
+     "n": "Tory Kittles"
+    },
+    {
+     "c": "Harry Keshegian",
+     "n": "Adam Goldberg"
+    },
+    {
+     "c": "Melody 'Mel' Bayan",
+     "n": "Liza Lapira"
+    },
+    {
+     "c": "Delilah 'Dee' Fulton",
+     "n": "Laya DeLeon Hayes"
+    },
+    {
+     "c": "Viola 'Vi' Marsette",
+     "n": "Lorraine Toussaint"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Andrew W. Marlowe",
+    "Terri Edda Miller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-02-07",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 95205,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 74,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Robyn McCall, an enigmatic former CIA operative with a mysterious background, uses her extensive skills to help those with nowhere else to turn.",
+   "popularity": 35.8812,
+   "poster_path": "/oxJG9F16AUji71jpPxkEOBWanMP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-02-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-10-10",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-10-02",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-02-18",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-10-20",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Equalizer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.219,
+   "vote_count": 338
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "83",
- "count": 8,
+ "count": 12,
  "titles": {
-  "11583": {
+  "movie:11583": {
    "backdrop_path": "/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
    "budget": 6000000,
    "cast": [
@@ -124,7 +124,7 @@
    "vote_average": 6.7,
    "vote_count": 461
   },
-  "14283": {
+  "movie:14283": {
    "backdrop_path": "/kOpaLjBnfpRqgo4vE9ViIZINt5J.jpg",
    "budget": 18000000,
    "cast": [
@@ -316,7 +316,7 @@
    "vote_average": 7.3,
    "vote_count": 466
   },
-  "21683": {
+  "movie:21683": {
    "backdrop_path": "/kaYyrF2iPVtGN3f4eKI0AqHtVNc.jpg",
    "budget": 0,
    "cast": [
@@ -419,7 +419,7 @@
    "vote_average": 6.7,
    "vote_count": 469
   },
-  "369883": {
+  "movie:369883": {
    "backdrop_path": "/xDHCtB2rUUJYMEWoYbXITbQcirY.jpg",
    "budget": 8500000,
    "cast": [
@@ -536,7 +536,7 @@
    "vote_average": 6.9,
    "vote_count": 471
   },
-  "4283": {
+  "movie:4283": {
    "backdrop_path": "/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
    "budget": 0,
    "cast": [
@@ -694,7 +694,7 @@
    "vote_average": 6.2,
    "vote_count": 495
   },
-  "57283": {
+  "movie:57283": {
    "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
    "budget": 220000,
    "cast": [
@@ -841,7 +841,7 @@
    "vote_average": 7.616,
    "vote_count": 469
   },
-  "646683": {
+  "movie:646683": {
    "backdrop_path": "/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
    "budget": 22000000,
    "cast": [
@@ -1002,7 +1002,7 @@
    "vote_average": 5.0,
    "vote_count": 474
   },
-  "877183": {
+  "movie:877183": {
    "backdrop_path": "/djnEP20aAs5mVXNANJsjmVhkzrk.jpg",
    "budget": 0,
    "cast": [
@@ -1083,6 +1083,700 @@
    "type": "movie",
    "vote_average": 6.417,
    "vote_count": 445
+  },
+  "tv:10283": {
+   "backdrop_path": "/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sterling Archer (voice)",
+     "n": "H. Jon Benjamin"
+    },
+    {
+     "c": "Cheryl 'Cherlene' Tunt (voice)",
+     "n": "Judy Greer"
+    },
+    {
+     "c": "Pam Poovey (voice)",
+     "n": "Amber Nash"
+    },
+    {
+     "c": "Cyril Figgis (voice)",
+     "n": "Chris Parnell"
+    },
+    {
+     "c": "Lana Kane (voice)",
+     "n": "Aisha Tyler"
+    },
+    {
+     "c": "Dr. Krieger (voice)",
+     "n": "Lucky Yates"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Adam Reed"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2009-09-17",
+   "genres": [
+    "Comedy",
+    "Action & Adventure",
+    "Animation"
+   ],
+   "id": 10283,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "FXX"
+   ],
+   "number_of_episodes": 140,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents turn dangerous missions into messy misadventures around the globe.",
+   "popularity": 54.5415,
+   "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 33,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-01-27",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-01-19",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-01-17",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-01-13",
+     "episode_count": 13,
+     "name": "Vice",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-01-08",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-03-31",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-04-05",
+     "episode_count": 8,
+     "name": "Dreamland",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-04-25",
+     "episode_count": 8,
+     "name": "Danger Island",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-05-29",
+     "episode_count": 9,
+     "name": "1999",
+     "season_number": 10
+    },
+    {
+     "air_date": "2020-09-16",
+     "episode_count": 8,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2021-08-25",
+     "episode_count": 8,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2022-08-24",
+     "episode_count": 8,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2023-08-30",
+     "episode_count": 9,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "Spy life is the high life.",
+   "title": "Archer",
+   "trailer": {
+    "key": "WIfnM9ntFc8",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.925,
+   "vote_count": 1520
+  },
+  "tv:30983": {
+   "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Conan Edogawa (voice)",
+     "n": "Minami Takayama"
+    },
+    {
+     "c": "Shinichi Kudo (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Ran Mouri (voice)",
+     "n": "Wakana Yamazaki"
+    },
+    {
+     "c": "Ran Mouri (voice)",
+     "n": "Akemi Okamura"
+    },
+    {
+     "c": "Kogoro Mouri (voice)",
+     "n": "Akira Kamiya"
+    },
+    {
+     "c": "Kogoro Mouri (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Ai Haibara (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Hiroshi Agasa (voice)",
+     "n": "Kenichi Ogata"
+    },
+    {
+     "c": "Ayumi Yoshida (voice)",
+     "n": "Yukiko Iwai"
+    },
+    {
+     "c": "Genta Kojima (voice)",
+     "n": "Wataru Takagi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "YTV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1996-01-08",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 30983,
+   "industry": "world",
+   "networks": [
+    "YTV"
+   ],
+   "number_of_episodes": 1219,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+   "popularity": 151.824,
+   "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-01-01",
+     "episode_count": 35,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-01-07",
+     "episode_count": 1221,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "One truth prevails.",
+   "title": "Detective Conan",
+   "trailer": {
+    "key": "1xl1fQJbl1Y",
+    "name": "English Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 801
+  },
+  "tv:39483": {
+   "backdrop_path": "/8AkvTlCLmGipNEGL9wYVfWMiPLd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain Sharon Raydor",
+     "n": "Mary McDonnell"
+    },
+    {
+     "c": "Lt. Louie Provenza",
+     "n": "G.W. Bailey"
+    },
+    {
+     "c": "Lt. Andy Flynn",
+     "n": "Tony Denison"
+    },
+    {
+     "c": "Lt. Mike Tao",
+     "n": "Michael Paul Chan"
+    },
+    {
+     "c": "Detective Julio Sanchez",
+     "n": "Raymond Cruz"
+    },
+    {
+     "c": "Buzz Watson",
+     "n": "Phillip P. Keene"
+    },
+    {
+     "c": "Amy Sykes",
+     "n": "Kearran Giovanni"
+    },
+    {
+     "c": "Rusty Beck",
+     "n": "Graham Patrick Martin"
+    },
+    {
+     "c": "D.D.A. Emma Rios",
+     "n": "Nadine Velazquez"
+    },
+    {
+     "c": "Mr. Emilio Diaz",
+     "n": "Carlos Ponce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TNT",
+   "created_by": [
+    "James Duff"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2012-08-13",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 39483,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 105,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Major Crimes explores how the American justice system approaches the art of the deals as law enforcement officers and prosecutors work together to score a conviction. Los Angeles Police Captain Sharon Raydor heads up a special squad within the LAPD that deals with high-profile or particularly sensitive crimes.",
+   "popularity": 33.8956,
+   "poster_path": "/fZ502JXujnxVtprmigTO2jA205P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-08-13",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-06-10",
+     "episode_count": 19,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-06-09",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-06-08",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-06-13",
+     "episode_count": 21,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-10-31",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Major Crimes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 216
+  },
+  "tv:45783": {
+   "backdrop_path": "/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tetsuya Kuroko (voice)",
+     "n": "Kensho Ono"
+    },
+    {
+     "c": "Taiga Kagami (voice)",
+     "n": "Yuki Ono"
+    },
+    {
+     "c": "Daiki Aomine (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Shintaro Midorima (voice)",
+     "n": "Daisuke Ono"
+    },
+    {
+     "c": "Ryota Kise (voice)",
+     "n": "Ryohei Kimura"
+    },
+    {
+     "c": "Seijuro Akashi (voice)",
+     "n": "Hiroshi Kamiya"
+    },
+    {
+     "c": "Atsushi Murasakibara (voice)",
+     "n": "Kenichi Suzumura"
+    },
+    {
+     "c": "Riko Aida (voice)",
+     "n": "Chiwa Saito"
+    },
+    {
+     "c": "Junpei Hyuga (voice)",
+     "n": "Yoshimasa Hosoya"
+    },
+    {
+     "c": "Shun Izuki (voice)",
+     "n": "Hirofumi Nojima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2012-04-08",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 45783,
+   "industry": "world",
+   "networks": [
+    "MBS"
+   ],
+   "number_of_episodes": 75,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
+   "popularity": 33.9923,
+   "poster_path": "/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-07-27",
+     "episode_count": 36,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-04-08",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-10-06",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-01-10",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kuroko's Basketball",
+   "trailer": {
+    "key": "1KLvA6FMNiE",
+    "name": "Kuroko's Basketball Season 1 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.394,
+   "vote_count": 642
   }
  }
 }

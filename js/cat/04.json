@@ -1,8 +1,8 @@
 {
  "bucket": "04",
- "count": 5,
+ "count": 17,
  "titles": {
-  "13704": {
+  "movie:13704": {
    "backdrop_path": "/x7hYxRqj9s3NjpPGzdzMlsUJcvd.jpg",
    "budget": 8000000,
    "cast": [
@@ -153,7 +153,7 @@
    "vote_average": 6.6,
    "vote_count": 436
   },
-  "43904": {
+  "movie:43904": {
    "backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
    "budget": 0,
    "cast": [
@@ -297,7 +297,7 @@
    "vote_average": 7.484,
    "vote_count": 489
   },
-  "496704": {
+  "movie:496704": {
    "backdrop_path": "/s24IEZ2wWCEHImaAwBZxXLEKUUT.jpg",
    "budget": 0,
    "cast": [
@@ -406,7 +406,7 @@
    "vote_average": 5.8,
    "vote_count": 486
   },
-  "576004": {
+  "movie:576004": {
    "backdrop_path": "/3ZCwBCB9vTykcxUvBQFRnzPbyEc.jpg",
    "budget": 0,
    "cast": [
@@ -546,7 +546,7 @@
    "vote_average": 6.0,
    "vote_count": 437
   },
-  "749004": {
+  "movie:749004": {
    "backdrop_path": "/yuXZXuS4RCTnCYScrRWBCNz2ywB.jpg",
    "budget": 3100000,
    "cast": [
@@ -661,6 +661,2093 @@
    "type": "movie",
    "vote_average": 7.115,
    "vote_count": 492
+  },
+  "tv:1104": {
+   "backdrop_path": "/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Draper",
+     "n": "Jon Hamm"
+    },
+    {
+     "c": "Peggy Olson",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "Pete Campbell",
+     "n": "Vincent Kartheiser"
+    },
+    {
+     "c": "Betty Draper",
+     "n": "January Jones"
+    },
+    {
+     "c": "Joan Holloway",
+     "n": "Christina Hendricks"
+    },
+    {
+     "c": "Ken Cosgrove",
+     "n": "Aaron Staton"
+    },
+    {
+     "c": "Harry Crane",
+     "n": "Rich Sommer"
+    },
+    {
+     "c": "Sally Draper",
+     "n": "Kiernan Shipka"
+    },
+    {
+     "c": "Ted Chaough",
+     "n": "Kevin Rahm"
+    },
+    {
+     "c": "Henry Francis",
+     "n": "Christopher Stanley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "AMC",
+   "created_by": [
+    "Matthew Weiner"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2007-07-19",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1104,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
+   "popularity": 55.6115,
+   "poster_path": "/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-07-19",
+     "episode_count": 50,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-07-19",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-07-27",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-08-16",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-07-25",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-03-25",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-04-07",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-04-13",
+     "episode_count": 14,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Where the truth lies.",
+   "title": "Mad Men",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 1644
+  },
+  "tv:1404": {
+   "backdrop_path": "/zP5SftyPx2VCdly369kTVVNIcT3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chuck Bartowski",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Sarah Walker",
+     "n": "Yvonne Strahovski"
+    },
+    {
+     "c": "John Casey",
+     "n": "Adam Baldwin"
+    },
+    {
+     "c": "Morgan Grimes",
+     "n": "Joshua Gomez"
+    },
+    {
+     "c": "Ellie Woodcomb",
+     "n": "Sarah Lancaster"
+    },
+    {
+     "c": "Lester Patel",
+     "n": "Vik Sahay"
+    },
+    {
+     "c": "Jeff Barnes",
+     "n": "Scott Krinsky"
+    },
+    {
+     "c": "Big Mike",
+     "n": "Mark Christopher Lawrence"
+    },
+    {
+     "c": "Devon Woodcomb",
+     "n": "Ryan McPartlin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Josh Schwartz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2007-09-24",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1404,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 91,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Buy More computer geek Chuck Bartowski unwittingly downloads a database of government information and deadly fighting skills into his head, he becomes the CIA's most vital secret. This sets Chuck on a path to become a full-fledged spy.",
+   "popularity": 35.597,
+   "poster_path": "/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-02-03",
+     "episode_count": 19,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-09-29",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-01-10",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-10-28",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Saving the world... At $11 an hour.",
+   "title": "Chuck",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 1270
+  },
+  "tv:15804": {
+   "backdrop_path": "/gPJZKiqBU5OVPhalvNDkU6NF8jQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Batman (voice)",
+     "n": "Diedrich Bader"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "James Tucker",
+    "Michael Jelenic"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22,
+    25,
+    30
+   ],
+   "first_air_date": "2008-11-14",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 15804,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 64,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Caped Crusader is teamed up with Blue Beetle, Green Arrow, Aquaman and countless others in his quest to uphold justice.",
+   "popularity": 25.9503,
+   "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-05",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-11-14",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-11-20",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-03-25",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Batman: The Brave and the Bold",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 296
+  },
+  "tv:2004": {
+   "backdrop_path": "/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Malcolm",
+     "n": "Frankie Muniz"
+    },
+    {
+     "c": "Lois",
+     "n": "Jane Kaczmarek"
+    },
+    {
+     "c": "Hal",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Reese",
+     "n": "Justin Berfield"
+    },
+    {
+     "c": "Dewey",
+     "n": "Erik Per Sullivan"
+    },
+    {
+     "c": "Francis",
+     "n": "Christopher Masterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Linwood Boomer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-01-09",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2004,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 151,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+   "popularity": 56.405,
+   "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-10-14",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-01-09",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-11-05",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-11-11",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-11-03",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-11-02",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-11-07",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-09-30",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Family. The weirdest people you'll ever meet.",
+   "title": "Malcolm in the Middle",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 5041
+  },
+  "tv:2304": {
+   "backdrop_path": "/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emily (voice)",
+     "n": "Teresa Gallagher"
+    },
+    {
+     "c": "Thomas (voice)",
+     "n": "John Hasler"
+    },
+    {
+     "c": "Percy (voice)",
+     "n": "Nigel Pilkington"
+    },
+    {
+     "c": "Nia (voice)",
+     "n": "Yvonne Grundy"
+    },
+    {
+     "c": "Rebecca (voice)",
+     "n": "Rachael Louise Miller"
+    },
+    {
+     "c": "James (voice)",
+     "n": "Rob Rackstraw"
+    },
+    {
+     "c": "Thomas (voice)",
+     "n": "Joseph May"
+    },
+    {
+     "c": "Percy (voice)",
+     "n": "Christopher Ragland"
+    },
+    {
+     "c": "Gordon / Sir Topham Hatt (voice)",
+     "n": "Keith Wickham"
+    },
+    {
+     "c": "Gordon / Diesel (voice)",
+     "n": "Kerry Shale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ITV1",
+   "created_by": [
+    "Britt Allcroft",
+    "Rev. W. Awdry",
+    "Christopher Awdry"
+   ],
+   "director": [],
+   "episode_run_time": [
+    5,
+    10,
+    11
+   ],
+   "first_air_date": "1984-10-09",
+   "genres": [
+    "Animation",
+    "Kids"
+   ],
+   "id": 2304,
+   "industry": "world",
+   "networks": [
+    "ITV1",
+    "5",
+    "CITV",
+    "Cartoon Network",
+    "Cartoonito",
+    "Nick Jr."
+   ],
+   "number_of_episodes": 584,
+   "number_of_seasons": 24,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+   "popularity": 63.0239,
+   "poster_path": "/wrFb5dE2yxUjz3a5V7PEXPPzsFU.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Kidstream Amazon Channel"
+    },
+    {
+     "name": "Sensical Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7qXZrDOnkpdvfmZemRSp6DQ14f.png",
+     "name": "Kidstream Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9x1bvQWvkvdnubydGqdXcz14Fkg.png",
+     "name": "Sensical Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-09-01",
+     "episode_count": 153,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-10-09",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1986-09-24",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1992-02-25",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-03-04",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-09-14",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2002-09-16",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2003-11-03",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2004-10-04",
+     "episode_count": 26,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2005-10-31",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-10-02",
+     "episode_count": 28,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2007-09-03",
+     "episode_count": 26,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2008-09-01",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2010-01-25",
+     "episode_count": 20,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2010-10-11",
+     "episode_count": 20,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2011-03-01",
+     "episode_count": 20,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2012-02-20",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2013-06-03",
+     "episode_count": 26,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2014-08-25",
+     "episode_count": 26,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 26,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2016-09-05",
+     "episode_count": 28,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2017-09-18",
+     "episode_count": 18,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2018-09-03",
+     "episode_count": 26,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2019-09-02",
+     "episode_count": 23,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2020-05-01",
+     "episode_count": 23,
+     "name": "Season 24",
+     "season_number": 24
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Making Tracks to Great Destinations",
+   "title": "Thomas & Friends",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.809,
+   "vote_count": 162
+  },
+  "tv:2604": {
+   "backdrop_path": "/plF7qKlXww8zwoNnXsSP6ifQpUt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Huey Freeman / Riley Freeman (voice)",
+     "n": "Regina King"
+    },
+    {
+     "c": "Robert Freeman (voice)",
+     "n": "John Witherspoon"
+    },
+    {
+     "c": "Tom Dubois (voice)",
+     "n": "Cedric Yarbrough"
+    },
+    {
+     "c": "Sarah Dubois (voice)",
+     "n": "Jill Talley"
+    },
+    {
+     "c": "Uncle Ruckus (voice)",
+     "n": "Gary Anthony Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Aaron McGruder"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2005-11-06",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Animation"
+   ],
+   "id": 2604,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 55,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Robert “Granddad” Freeman becomes legal guardian to his two grandsons, he moves from the tough south side of Chicago to the upscale neighborhood of Woodcrest (a.k.a. \"The Boondocks\") so he can enjoy his golden years in safety and comfort. But with Huey, a 10-year-old leftist revolutionary, and his eight-year-old misfit brother, Riley, suburbia is about to be shaken up.",
+   "popularity": 25.3894,
+   "poster_path": "/vAvT2RXjOpgH0COriRm9riPqA0m.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-02-17",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-11-06",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-10-08",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-05-02",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-04-21",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Satire, chaos, and black humor.",
+   "title": "The Boondocks",
+   "trailer": {
+    "key": "r6GRGEw7P9I",
+    "name": "Boondocks Season 4 Official Trailer | Adult Swim",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.349,
+   "vote_count": 528
+  },
+  "tv:46004": {
+   "backdrop_path": "/lyam6zw2aNwSM6h6sn0wTLgygj6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shido Itsuka (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Tohka Yatogami (voice)",
+     "n": "Marina Inoue"
+    },
+    {
+     "c": "Origami Tobiichi (voice)",
+     "n": "Misuzu Togashi"
+    },
+    {
+     "c": "Kotori Itsuka (voice)",
+     "n": "Ayana Taketatsu"
+    },
+    {
+     "c": "Yoshino (voice)",
+     "n": "Iori Nomizu"
+    },
+    {
+     "c": "Kurumi Tokisaki (voice)",
+     "n": "Asami Sanada"
+    },
+    {
+     "c": "Kaguya Yamai (voice)",
+     "n": "Maaya Uchida"
+    },
+    {
+     "c": "Kuzuru Yamai (voice)",
+     "n": "Sarah Emi Bridcutt"
+    },
+    {
+     "c": "Miku Iyazoi (voice)",
+     "n": "Minori Chihara"
+    },
+    {
+     "c": "Reine  Murasame (voice)",
+     "n": "Aya Endo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2013-04-06",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 46004,
+   "industry": "world",
+   "networks": [
+    "AT-X",
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 58,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Thirty years ago a strange phenomenon called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on an irregular basis. Shido Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He is recruited to make use of his mysterious ability to seal the Spirits' powers thus stopping them from being a threat to mankind. However, there is a catch: to seal a Spirit's power, he must make her fall in love with him and kiss him.",
+   "popularity": 31.905,
+   "poster_path": "/xEwKIg7m8TzjFTY5T4Yj3beR7rH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-12-06",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-04-06",
+     "episode_count": 12,
+     "name": "Date A Live",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-04-12",
+     "episode_count": 10,
+     "name": "Date A Live II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-01-11",
+     "episode_count": 12,
+     "name": "Date A Live III",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-04-08",
+     "episode_count": 12,
+     "name": "Date A Live IV",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-04-10",
+     "episode_count": 12,
+     "name": "Date A Live V",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Kiss the girls. Save the world.",
+   "title": "Date A Live",
+   "trailer": {
+    "key": "iz_sAWpBNrI",
+    "name": "Date A Live III Preview",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.262,
+   "vote_count": 515
+  },
+  "tv:4604": {
+   "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clark Kent",
+     "n": "Tom Welling"
+    },
+    {
+     "c": "Lois Lane",
+     "n": "Erica Durance"
+    },
+    {
+     "c": "Tess Mercer",
+     "n": "Cassidy Freeman"
+    },
+    {
+     "c": "Oliver Queen",
+     "n": "Justin Hartley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The WB",
+   "created_by": [
+    "Alfred Gough",
+    "Miles Millar"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2001-10-16",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 4604,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "The CW"
+   ],
+   "number_of_episodes": 216,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+   "popularity": 137.2549,
+   "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 38,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-10-16",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-09-24",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-10-01",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-09-22",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-29",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-09-28",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2008-09-18",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2009-09-25",
+     "episode_count": 21,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2010-09-24",
+     "episode_count": 21,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Destiny is now.",
+   "title": "Smallville",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.189,
+   "vote_count": 4667
+  },
+  "tv:604": {
+   "backdrop_path": "/ilKbbbCYjerHXQr6NRuKPu9DBsJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beast Boy (voice)",
+     "n": "Greg Cipes"
+    },
+    {
+     "c": "Robin (voice)",
+     "n": "Scott Menville"
+    },
+    {
+     "c": "Cyborg (voice)",
+     "n": "Khary Payton"
+    },
+    {
+     "c": "Raven (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Starfire (voice)",
+     "n": "Hynden Walch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-07-19",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 604,
+   "industry": "world",
+   "networks": [
+    "The WB",
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fighting for truth, justice and the last slice of pizza, these five superheroes are living proof you're never too young to save the planet. Protecting Earth and beyond, the Teen Titans use martial arts and gadgetry to battle villains.",
+   "popularity": 26.2897,
+   "poster_path": "/txuXDV4tb4xEkE4C6xeYMU4McT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-01-10",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-07-19",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-01-10",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-08-28",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-01-17",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-24",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "When there's trouble, you know who to call.",
+   "title": "Teen Titans",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 1377
+  },
+  "tv:63404": {
+   "backdrop_path": "/4HK7iRrroCh71cbNFBF4HEJakGG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Taskmaster",
+     "n": "Greg Davies"
+    },
+    {
+     "c": "Self - Taskmaster's Assistant",
+     "n": "Alex Horne"
+    },
+    {
+     "c": "Self",
+     "n": "Chloe Petts"
+    },
+    {
+     "c": "Self",
+     "n": "Isy Suttie"
+    },
+    {
+     "c": "Self",
+     "n": "Matt Lucas"
+    },
+    {
+     "c": "Self",
+     "n": "Nina Conti"
+    },
+    {
+     "c": "Self",
+     "n": "Richard Ayoade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Channel 4",
+   "created_by": [
+    "Alex Horne"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-07-28",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 63404,
+   "industry": "world",
+   "networks": [
+    "Channel 4",
+    "U&Dave"
+   ],
+   "number_of_episodes": 212,
+   "number_of_seasons": 23,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Greg Davies is the Taskmaster, and with the help of his ever-loyal assistant Alex Horne, they will set out to test the wiles, wit, wisdom and skills of five hyper-competitive comedians. Who will be crowned the Taskmaster champion?",
+   "popularity": 35.3573,
+   "poster_path": "/3dD3EdDy3Br06YU6j40ddVH7EVW.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "PT"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-01",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-07-27",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-06-20",
+     "episode_count": 5,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-04",
+     "episode_count": 5,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-04-25",
+     "episode_count": 8,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-09-12",
+     "episode_count": 8,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-05-02",
+     "episode_count": 10,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-09-04",
+     "episode_count": 10,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-05-07",
+     "episode_count": 10,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2019-09-03",
+     "episode_count": 10,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2020-10-14",
+     "episode_count": 10,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-03-18",
+     "episode_count": 10,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 10,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2022-04-13",
+     "episode_count": 10,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2022-09-28",
+     "episode_count": 10,
+     "name": "Series 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2023-03-30",
+     "episode_count": 10,
+     "name": "Series 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2023-09-21",
+     "episode_count": 10,
+     "name": "Series 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2024-03-28",
+     "episode_count": 10,
+     "name": "Series 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2024-09-12",
+     "episode_count": 10,
+     "name": "Series 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2025-05-01",
+     "episode_count": 10,
+     "name": "Series 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2025-09-11",
+     "episode_count": 10,
+     "name": "Series 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 10,
+     "name": "Series 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2026-09-03",
+     "episode_count": 10,
+     "name": "Series 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "",
+     "episode_count": 10,
+     "name": "Series 23",
+     "season_number": 23
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Taskmaster",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 247
+  },
+  "tv:74204": {
+   "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nick Birch / Maury the Hormone Monster / Coach Steve / Lola Skumpy / Rick the Hormone Monster (voice)",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Andrew Glouberman (voice)",
+     "n": "John Mulaney"
+    },
+    {
+     "c": "Jessi Glaser (voice)",
+     "n": "Jessi Klein"
+    },
+    {
+     "c": "Jay Bilzerian (voice)",
+     "n": "Jason Mantzoukas"
+    },
+    {
+     "c": "Diane Birch / Connie the Hormone Monstress (voice)",
+     "n": "Maya Rudolph"
+    },
+    {
+     "c": "Elliot Birch (voice)",
+     "n": "Fred Armisen"
+    },
+    {
+     "c": "Ghost of Duke Ellington (voice)",
+     "n": "Jordan Peele"
+    },
+    {
+     "c": "Matthew (voice)",
+     "n": "Andrew Rannells"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Nick Kroll",
+    "Mark Levin",
+    "Jennifer Flackett",
+    "Andrew Goldberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-09-29",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 74204,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 81,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
+   "popularity": 29.5995,
+   "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-09-29",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-10-05",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-02-08",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-12-04",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-11-05",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-10-28",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-10-20",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2025-05-23",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Coming again. For the last time.",
+   "title": "Big Mouth",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.587,
+   "vote_count": 1277
+  },
+  "tv:82104": {
+   "backdrop_path": "/AtcZyZizpGhofYumo1JrjuIFkXv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Morton",
+     "n": "Jake Manley"
+    },
+    {
+     "c": "Alyssa Drake",
+     "n": "Sarah Grey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Shelley Eriksen",
+    "Dennis Heaton"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2019-03-07",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 82104,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic.",
+   "popularity": 27.1947,
+   "poster_path": "/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-03-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-06-18",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Order",
+   "trailer": {
+    "key": "iD-cFgDDuqM",
+    "name": "The Order: Season 1 | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.596,
+   "vote_count": 949
   }
  }
 }

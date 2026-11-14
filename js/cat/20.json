@@ -1,8 +1,8 @@
 {
  "bucket": "20",
- "count": 8,
+ "count": 17,
  "titles": {
-  "11620": {
+  "movie:11620": {
    "backdrop_path": "/cEdyAF813pgjsYzGqpDFjJgTzbs.jpg",
    "budget": 7623000,
    "cast": [
@@ -177,7 +177,7 @@
    "vote_average": 7.122,
    "vote_count": 479
   },
-  "12920": {
+  "movie:12920": {
    "backdrop_path": "/5ldZJsJ4xMj4PqiYH817tW5Ccpa.jpg",
    "budget": 0,
    "cast": [
@@ -329,7 +329,7 @@
    "vote_average": 7.065,
    "vote_count": 457
   },
-  "1420": {
+  "movie:1420": {
    "backdrop_path": "/lbkDfC6Xw4ZPaAKvXYnUMABOjmp.jpg",
    "budget": 0,
    "cast": [
@@ -491,7 +491,7 @@
    "vote_average": 7.195,
    "vote_count": 457
   },
-  "20620": {
+  "movie:20620": {
    "backdrop_path": "/xecEY67Z0WycRwImb8jTebOoYQ5.jpg",
    "budget": 2500000,
    "cast": [
@@ -588,7 +588,7 @@
    "vote_average": 7.362,
    "vote_count": 469
   },
-  "246320": {
+  "movie:246320": {
    "backdrop_path": "/7SrLzxOBJyI62JCD94HDIHKvQ1n.jpg",
    "budget": 13640000,
    "cast": [
@@ -678,7 +678,7 @@
    "vote_average": 5.038,
    "vote_count": 485
   },
-  "24920": {
+  "movie:24920": {
    "backdrop_path": "/whhv9CuZAQ9NfiNVpl1u7yXAf4N.jpg",
    "budget": 400000,
    "cast": [
@@ -850,7 +850,7 @@
    "vote_average": 6.468,
    "vote_count": 475
   },
-  "26320": {
+  "movie:26320": {
    "backdrop_path": "/uhPAPblYLrp6UJXi0LdUHPTovkY.jpg",
    "budget": 30000000,
    "cast": [
@@ -964,7 +964,7 @@
    "vote_average": 6.2,
    "vote_count": 494
   },
-  "622420": {
+  "movie:622420": {
    "backdrop_path": "/jbLhPErePs1MRwht2FvQTA9Lcc0.jpg",
    "budget": 0,
    "cast": [
@@ -1140,6 +1140,1663 @@
    "type": "movie",
    "vote_average": 5.707,
    "vote_count": 494
+  },
+  "tv:1220": {
+   "backdrop_path": "/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Graham Norton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "BBC One",
+   "created_by": [],
+   "director": [
+    "Toby Baker"
+   ],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "2007-02-22",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 1220,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Two"
+   ],
+   "number_of_episodes": 553,
+   "number_of_seasons": 34,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+   "popularity": 105.7415,
+   "poster_path": "/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "BBC America"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/kB58rlVFpLTxMl1L9F0OKc82ulG.png",
+     "name": "BBC America",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-12-31",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-02-22",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-10-11",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-04-17",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-10-02",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-03-05",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-10-05",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-04-12",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-10-22",
+     "episode_count": 19,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-04-15",
+     "episode_count": 13,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-10-21",
+     "episode_count": 19,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2012-04-13",
+     "episode_count": 13,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2012-10-19",
+     "episode_count": 19,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2013-04-05",
+     "episode_count": 13,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2013-10-11",
+     "episode_count": 18,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2014-04-04",
+     "episode_count": 13,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2014-09-26",
+     "episode_count": 22,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2015-04-10",
+     "episode_count": 13,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2015-09-25",
+     "episode_count": 19,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2016-03-25",
+     "episode_count": 15,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2016-09-30",
+     "episode_count": 20,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2017-04-07",
+     "episode_count": 13,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2017-09-28",
+     "episode_count": 19,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2018-04-06",
+     "episode_count": 13,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2018-09-28",
+     "episode_count": 19,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2019-04-05",
+     "episode_count": 13,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2019-09-27",
+     "episode_count": 19,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2020-04-10",
+     "episode_count": 9,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2020-10-02",
+     "episode_count": 26,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2021-09-24",
+     "episode_count": 22,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2022-09-30",
+     "episode_count": 21,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2023-09-29",
+     "episode_count": 19,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2024-09-27",
+     "episode_count": 21,
+     "name": "Series 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2025-09-26",
+     "episode_count": 21,
+     "name": "Series 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2026-09-25",
+     "episode_count": 11,
+     "name": "Series 34",
+     "season_number": 34
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Graham Norton Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.231,
+   "vote_count": 295
+  },
+  "tv:1420": {
+   "backdrop_path": "/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jessica 'Jess' Day",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "Nick Miller",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Schmidt",
+     "n": "Max Greenfield"
+    },
+    {
+     "c": "Winston Bishop",
+     "n": "Lamorne Morris"
+    },
+    {
+     "c": "Cecilia 'Cece' Parikh",
+     "n": "Hannah Simone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Elizabeth Meriwether"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2011-09-20",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1420,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 146,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jessica Day is an offbeat and adorable girl in her late 20s who, after a bad breakup, moves in with three single guys. Goofy, positive, vulnerable and honest to a fault, Jess has faith in people, even when she shouldn't. Although she's dorky and awkward, she's comfortable in her own skin. More prone to friendships with women, she's not used to hanging with the boys—especially at home.",
+   "popularity": 49.1983,
+   "poster_path": "/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-20",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-25",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-17",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-09-16",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-01-05",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-04-10",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Boys will be boys. Jess will be Jess.",
+   "title": "New Girl",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.36,
+   "vote_count": 1769
+  },
+  "tv:1620": {
+   "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Horatio Caine",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Calleigh Duquesne",
+     "n": "Emily Procter"
+    },
+    {
+     "c": "Walter Simmons",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Ryan Wolfe",
+     "n": "Jonathan Togo"
+    },
+    {
+     "c": "Eric Delko",
+     "n": "Adam Rodriguez"
+    },
+    {
+     "c": "Frank Tripp",
+     "n": "Rex Linn"
+    },
+    {
+     "c": "Natalia Boa Vista",
+     "n": "Eva LaRue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Ann Donahue",
+    "Anthony E. Zuiker",
+    "Carol Mendelsohn"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2002-09-23",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 1620,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 232,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The show follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+   "popularity": 104.2561,
+   "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-06-29",
+     "episode_count": 44,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-09-23",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-09-22",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-09-20",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-09-18",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-09-24",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-09-21",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-10-03",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 19,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "CSI: Miami",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.671,
+   "vote_count": 1765
+  },
+  "tv:1920": {
+   "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dale Cooper / Dougie Jones",
+     "n": "Kyle MacLachlan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "ABC",
+   "created_by": [
+    "Mark Frost",
+    "David Lynch"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1990-04-08",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1920,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "Showtime"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+   "popularity": 58.0234,
+   "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1989-12-08",
+     "episode_count": 130,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1990-04-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-09-30",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-05-21",
+     "episode_count": 18,
+     "name": "The Return",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It is happening again.",
+   "title": "Twin Peaks",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 2763
+  },
+  "tv:4620": {
+   "backdrop_path": "/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Carter",
+     "n": "Colin Ferguson"
+    },
+    {
+     "c": "Allison Blake",
+     "n": "Salli Richardson-Whitfield"
+    },
+    {
+     "c": "Henry Deacon",
+     "n": "Joe Morton"
+    },
+    {
+     "c": "Jo Lupo",
+     "n": "Erica Cerra"
+    },
+    {
+     "c": "Douglas Fargo",
+     "n": "Neil Grayston"
+    },
+    {
+     "c": "Zane Donovan",
+     "n": "Niall Matter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Syfy",
+   "created_by": [
+    "Jaime Paglia",
+    "Andrew Cosby"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2006-07-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 4620,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 77,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
+   "popularity": 248.3859,
+   "poster_path": "/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-25",
+     "episode_count": 61,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-07-18",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-07-10",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-07-29",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-07-09",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-04-16",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Small town. Big Secret",
+   "title": "Eureka",
+   "trailer": {
+    "key": "dl7Yw4xPlbo",
+    "name": "Eureka Series Trailer - Season 5 on DVD",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 749
+  },
+  "tv:4920": {
+   "backdrop_path": "/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Patty Hewes",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Ellen Parsons",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Channing McClaren",
+     "n": "Ryan Phillippe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Allen Coulter",
+    "Todd A. Kessler",
+    "Glenn Kessler"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2007-07-24",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+   ],
+   "id": 4920,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "Audience"
+   ],
+   "number_of_episodes": 59,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Damages is an American legal thriller television series created by the writing and production trio of Daniel Zelman and brothers Glenn and Todd A. Kessler. The plot revolves around the brilliant, ruthless lawyer Patty Hewes and her protégée, recent law school graduate Ellen Parsons. Each season features a major case that Hewes and her firm take on, while also examining a chapter of the complicated relationship between Ellen and Patty. The first two seasons center around the law firm Hewes & Associates. Later seasons center more on Patty and Ellen's relationship as Ellen begins to distance herself from Hewes & Associates and begins an independent career.",
+   "popularity": 32.733,
+   "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-01-29",
+     "episode_count": 85,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-07-24",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-01-07",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-01-25",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-07-13",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-07-11",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Damages",
+   "trailer": {
+    "key": "a_oo8PDJzyE",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.506,
+   "vote_count": 255
+  },
+  "tv:5920": {
+   "backdrop_path": "/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Patrick Jane",
+     "n": "Simon Baker"
+    },
+    {
+     "c": "Teresa Lisbon",
+     "n": "Robin Tunney"
+    },
+    {
+     "c": "Kimball Cho",
+     "n": "Tim Kang"
+    },
+    {
+     "c": "Dennis Abbott",
+     "n": "Rockmond Dunbar"
+    },
+    {
+     "c": "Jason Wylie",
+     "n": "Joe Adler"
+    },
+    {
+     "c": "Michelle Vega",
+     "n": "Josie Loren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Bruno Heller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-09-23",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 5920,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 151,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+   "popularity": 1194.8125,
+   "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-08-20",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-23",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-24",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-11-30",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Let the mind games begin.",
+   "title": "The Mentalist",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 4997
+  },
+  "tv:62320": {
+   "backdrop_path": "/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grace Hanson",
+     "n": "Jane Fonda"
+    },
+    {
+     "c": "Frankie Bergstein",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Robert Hanson",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Sol Bergstein",
+     "n": "Sam Waterston"
+    },
+    {
+     "c": "Brianna Hanson",
+     "n": "June Diane Raphael"
+    },
+    {
+     "c": "Coyote Bergstein",
+     "n": "Ethan Embry"
+    },
+    {
+     "c": "Mallory Hanson",
+     "n": "Brooklyn Decker"
+    },
+    {
+     "c": "Nwabudike 'Bud' Bergstein",
+     "n": "Baron Vaughn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Howard J. Morris",
+    "Marta Kauffman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    32
+   ],
+   "first_air_date": "2015-05-08",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 62320,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Elegant, proper Grace and freewheeling, eccentric Frankie are a pair of frenemies whose lives are turned upside down - and permanently intertwined - when their husbands leave them for each other. Together, they must face starting over in their 70s in a 21st century world.",
+   "popularity": 27.7212,
+   "poster_path": "/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-05-08",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-05-06",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-03-24",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-01-19",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-01-18",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-01-15",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-08-13",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One more happy ending.",
+   "title": "Grace and Frankie",
+   "trailer": {
+    "key": "CDv6PRi1SgQ",
+    "name": "Grace and Frankie | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.729,
+   "vote_count": 398
+  },
+  "tv:720": {
+   "backdrop_path": "/xITlloKrbhwDsY1L8eaMMHHXCf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scrooge McDuck (voice)",
+     "n": "Alan Young"
+    },
+    {
+     "c": "Huey Duck / Dewey Duck / Louie Duck (voice)",
+     "n": "Russi Taylor"
+    },
+    {
+     "c": "Launchpad McQuack (voice)",
+     "n": "Terence McGovern"
+    },
+    {
+     "c": "Duckworth / Burger Beagle / Bouncer Beagle (voice)",
+     "n": "Chuck McCann"
+    },
+    {
+     "c": "Bigtime Beagle / Baggy Beagle / Bubba the Caveduck (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Gyro Gearloose / Flintheart Glomgold (voice)",
+     "n": "Hal Smith"
+    },
+    {
+     "c": "Mrs. Bentina Beakley (voice)",
+     "n": "Joan Gerber"
+    },
+    {
+     "c": "Doofus Drake (voice)",
+     "n": "Brian Cummings"
+    },
+    {
+     "c": "Fenton Crackshell (voice)",
+     "n": "Hamilton Camp"
+    },
+    {
+     "c": "Ma Beagle / Magica De Spell / Mrs. Featherby (voice)",
+     "n": "June Foray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Syndication",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1987-09-18",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 720,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Scrooge McDuck finds his hands full at home when nephews Huey, Dewey and Louie move to Duckburg. Joined by their loyal pals Launchpad McQuack, Gyro Gearloose and Mrs. Beakley, the DuckTales gang never fails to deliver a wealth of adventure. Get ready for a fortune of fun with DuckTales!",
+   "popularity": 33.8378,
+   "poster_path": "/l39HDf6WYzV8VLY5EnCRC81DWOy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1987-09-18",
+     "episode_count": 66,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-11-24",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-09-18",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-09-10",
+     "episode_count": 7,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "DuckTales",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.687,
+   "vote_count": 774
   }
  }
 }

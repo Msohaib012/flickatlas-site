@@ -1,8 +1,8 @@
 {
  "bucket": "70",
- "count": 8,
+ "count": 14,
  "titles": {
-  "1196470": {
+  "movie:1196470": {
    "backdrop_path": "/2xnLwNvea2TSH0M0oc9iEq2KEVp.jpg",
    "budget": 5270000,
    "cast": [
@@ -126,7 +126,7 @@
    "vote_average": 5.853,
    "vote_count": 439
   },
-  "1198870": {
+  "movie:1198870": {
    "backdrop_path": null,
    "budget": 0,
    "cast": [
@@ -174,7 +174,7 @@
    "vote_average": 6.6,
    "vote_count": 443
   },
-  "14070": {
+  "movie:14070": {
    "backdrop_path": "/rwywuA4irKO1zoMLBhJJaiUHv3U.jpg",
    "budget": 9100000,
    "cast": [
@@ -317,7 +317,7 @@
    "vote_average": 7.0,
    "vote_count": 484
   },
-  "140870": {
+  "movie:140870": {
    "backdrop_path": "/8MLUpbQFbApiH47LZGkVIYeCmVD.jpg",
    "budget": 19700000,
    "cast": [
@@ -402,7 +402,7 @@
    "vote_average": 6.978,
    "vote_count": 496
   },
-  "2370": {
+  "movie:2370": {
    "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",
    "budget": 4000000,
    "cast": [
@@ -505,7 +505,7 @@
    "vote_average": 6.01,
    "vote_count": 441
   },
-  "25670": {
+  "movie:25670": {
    "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
    "budget": 0,
    "cast": [
@@ -682,7 +682,7 @@
    "vote_average": 6.971,
    "vote_count": 475
   },
-  "366170": {
+  "movie:366170": {
    "backdrop_path": "/s9q3uNEjqHnLDgPX78Yfaoy8p1I.jpg",
    "budget": 0,
    "cast": [
@@ -797,7 +797,7 @@
    "vote_average": 7.6,
    "vote_count": 473
   },
-  "929170": {
+  "movie:929170": {
    "backdrop_path": "/7RE3dqDcafLRPj3W2q7EJ3ybIm7.jpg",
    "budget": 20000000,
    "cast": [
@@ -982,6 +982,1226 @@
    "type": "movie",
    "vote_average": 7.362,
    "vote_count": 466
+  },
+  "tv:195670": {
+   "backdrop_path": "/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katherine 'Kitty' Song Covey",
+     "n": "Anna Cathcart"
+    },
+    {
+     "c": "Dae-heon 'Dae' Kim",
+     "n": "Choi Min-yeong"
+    },
+    {
+     "c": "Yuri Han",
+     "n": "Gia Kim"
+    },
+    {
+     "c": "Min-ho Moon",
+     "n": "Daniel Lee"
+    },
+    {
+     "c": "Quincy 'Q' Shabazian",
+     "n": "Anthony Keyvan"
+    },
+    {
+     "c": "Juliana Porter",
+     "n": "Regan Aliyah"
+    },
+    {
+     "c": "Alex Finnerty Lee",
+     "n": "Peter Thurnwald"
+    },
+    {
+     "c": "Mr. Moon",
+     "n": "Philippe Lee"
+    },
+    {
+     "c": "Marius",
+     "n": "Sule Thelwell"
+    },
+    {
+     "c": "Jiwon Ahn",
+     "n": "Shin Hojo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Jenny Han"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-05-18",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 195670,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realise that relationships are a lot more complicated when it's your heart on the line.",
+   "popularity": 27.5792,
+   "poster_path": "/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-05-18",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-01-16",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Returning Series",
+   "tagline": "Time for some more Seoul searching.",
+   "title": "XO, Kitty",
+   "trailer": {
+    "key": "vP9C33H6G3E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 706
+  },
+  "tv:2370": {
+   "backdrop_path": "/kitfuCa2TqX6oY5HvdFRjMMaLwc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Chef",
+     "n": "Gordon Ramsay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2005-05-30",
+   "genres": [
+    "Reality"
+   ],
+   "id": 2370,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 388,
+   "number_of_seasons": 25,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aspiring restaurateurs brave Ramsay and his fiery command of the kitchen as he puts the competitors through an intense culinary academy to prove they possess the right combination of ingredients to win a life-changing grand prize.",
+   "popularity": 50.4731,
+   "poster_path": "/shOVFku8daIGRpgjTdMZBxUAvsV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+     "name": "Discovery+",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-05-30",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-06-12",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-06-04",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-04-01",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-01-29",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-07-21",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-06-01",
+     "episode_count": 15,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 15,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-07-18",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-06-04",
+     "episode_count": 20,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-03-12",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-03-13",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2014-09-10",
+     "episode_count": 16,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2015-03-03",
+     "episode_count": 16,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2016-01-15",
+     "episode_count": 16,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 16,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2017-09-29",
+     "episode_count": 16,
+     "name": "All Stars",
+     "season_number": 17
+    },
+    {
+     "air_date": "2018-09-28",
+     "episode_count": 16,
+     "name": "Rookies vs Veterans",
+     "season_number": 18
+    },
+    {
+     "air_date": "2021-01-07",
+     "episode_count": 16,
+     "name": "Las Vegas",
+     "season_number": 19
+    },
+    {
+     "air_date": "2021-05-31",
+     "episode_count": 16,
+     "name": "Young Guns",
+     "season_number": 20
+    },
+    {
+     "air_date": "2022-09-29",
+     "episode_count": 16,
+     "name": "Battle of the Ages",
+     "season_number": 21
+    },
+    {
+     "air_date": "2023-09-28",
+     "episode_count": 16,
+     "name": "The American Dream",
+     "season_number": 22
+    },
+    {
+     "air_date": "2024-09-26",
+     "episode_count": 16,
+     "name": "Head Chefs Only",
+     "season_number": 23
+    },
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 16,
+     "name": "Battle of the States",
+     "season_number": 24
+    },
+    {
+     "air_date": "2026-09-24",
+     "episode_count": 10,
+     "name": "Season 25",
+     "season_number": 25
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "He's no angel.",
+   "title": "Hell's Kitchen",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.843,
+   "vote_count": 350
+  },
+  "tv:3570": {
+   "backdrop_path": "/sNCpbcCcRadDBMTh6An1dBMakqr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Usagi Tsukino / Sailor Moon (voice)",
+     "n": "Kotono Mitsuishi"
+    },
+    {
+     "c": "Ami Mizuno / Sailor Mercury (voice)",
+     "n": "Aya Hisakawa"
+    },
+    {
+     "c": "Rei Hino / Sailor Mars (voice)",
+     "n": "Michie Tomizawa"
+    },
+    {
+     "c": "Makoto Kino / Sailor Jupiter (voice)",
+     "n": "Emi Shinohara"
+    },
+    {
+     "c": "Minako Aino / Sailor Venus (voice)",
+     "n": "Rica Fukami"
+    },
+    {
+     "c": "Mamoru Chiba / Tuxedo Mask (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Luna (voice)",
+     "n": "Keiko Han"
+    },
+    {
+     "c": "Chibiusa/Sailor Chibi Moon (voice)",
+     "n": "Kae Araki"
+    },
+    {
+     "c": "Artemis (voice)",
+     "n": "Yasuhiro Takato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "tv asahi",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1992-03-07",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 3570,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 200,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "One day, Usagi Tsukino, clumsy 2nd-year middle school student, stumbles upon a talking cat named Luna. Luna tells her that she is destined to be Sailor Moon, \"champion of love and justice\", and she must search for the fabled Moon Princess. Usagi finds friends that turn out to be destined senshi as well, and together they fight to save the world from the certain doom brought upon by the Dark Kingdom.",
+   "popularity": 49.7593,
+   "poster_path": "/m0e8QxAM0n3XK9GPvkxzRB0YL4k.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1995-04-08",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-03-07",
+     "episode_count": 46,
+     "name": "Sailor Moon",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-03-05",
+     "episode_count": 43,
+     "name": "R",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-03-19",
+     "episode_count": 38,
+     "name": "S",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-03-04",
+     "episode_count": 39,
+     "name": "SuperS",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-03-09",
+     "episode_count": 34,
+     "name": "Sailor Stars",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "In the name of the Moon, I'll punish you!",
+   "title": "Sailor Moon",
+   "trailer": {
+    "key": "UL_F6L1tSAM",
+    "name": "Official Trailer | Sailor Moon: The Complete First Season | VIZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.356,
+   "vote_count": 1059
+  },
+  "tv:3670": {
+   "backdrop_path": "/7xQR6ixywZofrEHKfI1z6CWKFsC.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "John Langley",
+    "Malcolm Barbour"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30,
+    22
+   ],
+   "first_air_date": "1989-03-11",
+   "genres": [
+    "Reality"
+   ],
+   "id": 3670,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "Spike",
+    "Paramount Network",
+    "Fox Nation"
+   ],
+   "number_of_episodes": 1300,
+   "number_of_seasons": 38,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow real-life law enforcement officers from various regions and departments of the United States armed with nothing but with cameras to capture their actions, performing their daily duty to serve and protect the public.",
+   "popularity": 52.3105,
+   "poster_path": "/xtEQVy408xsVw5ZX6Yu35pwJ1Ja.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1989-11-04",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-03-11",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1989-09-23",
+     "episode_count": 32,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1990-09-15",
+     "episode_count": 42,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1991-08-10",
+     "episode_count": 47,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1992-08-15",
+     "episode_count": 46,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1993-08-07",
+     "episode_count": 53,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1995-01-07",
+     "episode_count": 44,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1995-07-29",
+     "episode_count": 43,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1996-08-31",
+     "episode_count": 37,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1997-10-25",
+     "episode_count": 36,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1998-12-19",
+     "episode_count": 36,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1999-10-09",
+     "episode_count": 36,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2000-12-02",
+     "episode_count": 40,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2002-04-06",
+     "episode_count": 38,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2002-05-04",
+     "episode_count": 38,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2003-04-26",
+     "episode_count": 41,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2004-05-15",
+     "episode_count": 37,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2005-09-10",
+     "episode_count": 36,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2006-09-09",
+     "episode_count": 36,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2007-09-08",
+     "episode_count": 38,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2008-09-06",
+     "episode_count": 36,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2009-09-12",
+     "episode_count": 36,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2010-09-11",
+     "episode_count": 22,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2011-09-10",
+     "episode_count": 22,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2012-12-15",
+     "episode_count": 16,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2013-09-14",
+     "episode_count": 22,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2014-07-12",
+     "episode_count": 34,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2015-06-20",
+     "episode_count": 33,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2016-06-04",
+     "episode_count": 33,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2017-06-17",
+     "episode_count": 33,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2018-06-05",
+     "episode_count": 33,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2019-06-05",
+     "episode_count": 33,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2021-10-01",
+     "episode_count": 33,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2022-09-30",
+     "episode_count": 17,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2023-04-07",
+     "episode_count": 33,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2024-04-05",
+     "episode_count": 21,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2025-03-07",
+     "episode_count": 54,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2026-06-19",
+     "episode_count": 20,
+     "name": "Season 38",
+     "season_number": 38
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Cops",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.604,
+   "vote_count": 193
+  },
+  "tv:56570": {
+   "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claire Randall Fraser",
+     "n": "Caitríona Balfe"
+    },
+    {
+     "c": "Jamie Fraser",
+     "n": "Sam Heughan"
+    },
+    {
+     "c": "Brianna MacKenzie",
+     "n": "Sophie Skelton"
+    },
+    {
+     "c": "Roger MacKenzie",
+     "n": "Richard Rankin"
+    },
+    {
+     "c": "Ian Fraser Murray",
+     "n": "John Bell"
+    },
+    {
+     "c": "Lord John Grey",
+     "n": "David Berry"
+    },
+    {
+     "c": "William Ransom",
+     "n": "Charles Vandervaart"
+    },
+    {
+     "c": "Rachel Murray",
+     "n": "Izzy Meikle-Small"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Ronald D. Moore"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-08-09",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 56570,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
+   "popularity": 85.3234,
+   "poster_path": "/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-08-09",
+     "episode_count": 86,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-08-09",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-04-09",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-09-10",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-11-04",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-02-16",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-03-06",
+     "episode_count": 8,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-06-16",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-03-06",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "gd",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What if your future was the past?",
+   "title": "Outlander",
+   "trailer": {
+    "key": "KAS01FFj1fQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.197,
+   "vote_count": 3023
+  },
+  "tv:63770": {
+   "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Stephen Colbert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-09-08",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 63770,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 1816,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+   "popularity": 232.9899,
+   "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-09-08",
+     "episode_count": 202,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-09-06",
+     "episode_count": 206,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-09-05",
+     "episode_count": 194,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-09-04",
+     "episode_count": 195,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-09-03",
+     "episode_count": 173,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-09-14",
+     "episode_count": 168,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-09-07",
+     "episode_count": 170,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2022-09-06",
+     "episode_count": 107,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2023-10-02",
+     "episode_count": 129,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2024-09-03",
+     "episode_count": 153,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2025-09-02",
+     "episode_count": 118,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Late Show with Stephen Colbert",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.103,
+   "vote_count": 370
   }
  }
 }

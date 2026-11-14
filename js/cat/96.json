@@ -1,8 +1,8 @@
 {
  "bucket": "96",
- "count": 9,
+ "count": 20,
  "titles": {
-  "12596": {
+  "movie:12596": {
    "backdrop_path": "/9nFpMbSWebfdGlAxFyPHn9eyIvY.jpg",
    "budget": 33000000,
    "cast": [
@@ -153,7 +153,7 @@
    "vote_average": 5.889,
    "vote_count": 459
   },
-  "180296": {
+  "movie:180296": {
    "backdrop_path": "/be8mNf9tHTjrJWQ1O9srDYEAfTj.jpg",
    "budget": 0,
    "cast": [
@@ -270,7 +270,7 @@
    "vote_average": 5.536,
    "vote_count": 467
   },
-  "18896": {
+  "movie:18896": {
    "backdrop_path": "/8RPYpsJXwjJXmPywV5euNDubezk.jpg",
    "budget": 3500000,
    "cast": [
@@ -425,7 +425,7 @@
    "vote_average": 5.809,
    "vote_count": 491
   },
-  "26596": {
+  "movie:26596": {
    "backdrop_path": "/yiglnLtYEH6UGY1qFy4zacixCXf.jpg",
    "budget": 0,
    "cast": [
@@ -520,7 +520,7 @@
    "vote_average": 7.4,
    "vote_count": 499
   },
-  "438396": {
+  "movie:438396": {
    "backdrop_path": "/qGZe9qTuydxyJYQ60XDtEckzLR8.jpg",
    "budget": 3268650,
    "cast": [
@@ -624,7 +624,7 @@
    "vote_average": 6.226,
    "vote_count": 464
   },
-  "47796": {
+  "movie:47796": {
    "backdrop_path": "/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
    "budget": 0,
    "cast": [
@@ -723,7 +723,7 @@
    "vote_average": 7.882,
    "vote_count": 449
   },
-  "6396": {
+  "movie:6396": {
    "backdrop_path": "/iYFh15WLRXHPfAkcaqgIfVLoopC.jpg",
    "budget": 600000,
    "cast": [
@@ -874,7 +874,7 @@
    "vote_average": 7.155,
    "vote_count": 471
   },
-  "9096": {
+  "movie:9096": {
    "backdrop_path": "/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",
    "budget": 40000000,
    "cast": [
@@ -976,7 +976,7 @@
    "vote_average": 5.968,
    "vote_count": 436
   },
-  "978796": {
+  "movie:978796": {
    "backdrop_path": "/gmYpUbSGOwmZnevCr0iwLEYdpVB.jpg",
    "budget": 14500000,
    "cast": [
@@ -1103,6 +1103,1801 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 491
+  },
+  "tv:1396": {
+   "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter White",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Jesse Pinkman",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Skyler White",
+     "n": "Anna Gunn"
+    },
+    {
+     "c": "Walter White Jr.",
+     "n": "RJ Mitte"
+    },
+    {
+     "c": "Hank Schrader",
+     "n": "Dean Norris"
+    },
+    {
+     "c": "Marie Schrader",
+     "n": "Betsy Brandt"
+    },
+    {
+     "c": "Saul Goodman",
+     "n": "Bob Odenkirk"
+    },
+    {
+     "c": "Mike Ehrmantraut",
+     "n": "Jonathan Banks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "AMC",
+   "created_by": [
+    "Vince Gilligan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-01-20",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 1396,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+   "popularity": 161.6995,
+   "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-02-17",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-01-20",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-03-08",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-03-21",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-07-17",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-07-15",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "Change the equation.",
+   "title": "Breaking Bad",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.959,
+   "vote_count": 19107
+  },
+  "tv:1996": {
+   "backdrop_path": "/wtIJW0ee02l9FDnklPIMAuYdhqS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred Flintstone (voice)",
+     "n": "Alan Reed"
+    },
+    {
+     "c": "Barney Rubble (voice)",
+     "n": "Mel Blanc"
+    },
+    {
+     "c": "Wilma Flintstone (voice)",
+     "n": "Jean Vander Pyl"
+    },
+    {
+     "c": "Betty Rubble (voice)",
+     "n": "Gerry Johnson"
+    },
+    {
+     "c": "Bamm-Bamm Rubble (voice)",
+     "n": "Don Messick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y",
+   "channel": "ABC",
+   "created_by": [
+    "William Hanna",
+    "Joseph Barbera"
+   ],
+   "director": [
+    "Joseph Barbera"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1960-09-30",
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 1996,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 166,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles.",
+   "popularity": 42.6989,
+   "poster_path": "/30P6ifagQ3fguTsI33KMmDLTAx6.jpg",
+   "production_countries": [
+    "US",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1959-11-01",
+     "episode_count": 43,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1960-09-30",
+     "episode_count": 28,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1961-09-15",
+     "episode_count": 32,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1962-09-14",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1963-09-19",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1964-09-17",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1965-09-17",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Yabba Dabba Doo!",
+   "title": "The Flintstones",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.446,
+   "vote_count": 1035
+  },
+  "tv:4396": {
+   "backdrop_path": "/fi2vspZ6xuHZF1kU8wVXmYzYCMi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joel Fleischman",
+     "n": "Rob Morrow"
+    },
+    {
+     "c": "Maggie O'Connell",
+     "n": "Janine Turner"
+    },
+    {
+     "c": "Maurice Minnifield",
+     "n": "Barry Corbin"
+    },
+    {
+     "c": "Holling Vincoeur",
+     "n": "John Cullum"
+    },
+    {
+     "c": "Ed Chigliak",
+     "n": "Darren E. Burrows"
+    },
+    {
+     "c": "Chris Stevens",
+     "n": "John Corbett"
+    },
+    {
+     "c": "Shelly Tambo",
+     "n": "Cynthia Geary"
+    },
+    {
+     "c": "Marilyn Whirlwind",
+     "n": "Elaine Miles"
+    },
+    {
+     "c": "Ruth-Anne Miller",
+     "n": "Peg Phillips"
+    },
+    {
+     "c": "Michelle Schowdowski Capra",
+     "n": "Teri Polo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Joshua Brand",
+    "John Falsey"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1990-07-12",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4396,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After receiving a scholarship from the state, a recent Columbia University medical school graduate is required to set up his practice in an eccentric Alaskan town.",
+   "popularity": 28.505,
+   "poster_path": "/BUSw61C2kNoMuKFQTamIgqMC5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1990-07-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1991-04-08",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1991-09-23",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-09-28",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-09-20",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-09-19",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Welcome to Cicely, Alaska",
+   "title": "Northern Exposure",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 211
+  },
+  "tv:46296": {
+   "backdrop_path": "/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Spartacus",
+     "n": "Liam McIntyre"
+    },
+    {
+     "c": "Crixus",
+     "n": "Manu Bennett"
+    },
+    {
+     "c": "Gannicus",
+     "n": "Dustin Clare"
+    },
+    {
+     "c": "Naevia",
+     "n": "Cynthia Addai-Robinson"
+    },
+    {
+     "c": "Gaia",
+     "n": "Jaime Murray"
+    },
+    {
+     "c": "Saxa",
+     "n": "Ellen Hollman"
+    },
+    {
+     "c": "Belesa",
+     "n": "Luna Rioumina"
+    },
+    {
+     "c": "Melitta",
+     "n": "Marisa Ramirez"
+    },
+    {
+     "c": "Nemetes",
+     "n": "Ditch Davey"
+    },
+    {
+     "c": "Lugo",
+     "n": "Barry Duffield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "STARZ",
+   "created_by": [
+    "Steven S. DeKnight"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53
+   ],
+   "first_air_date": "2010-01-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 46296,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 33,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+   "popularity": 64.9756,
+   "poster_path": "/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-01-21",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-01-22",
+     "episode_count": 13,
+     "name": "Blood and Sand",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-01-27",
+     "episode_count": 10,
+     "name": "Vengeance",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-01-25",
+     "episode_count": 10,
+     "name": "War of the Damned",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Spartacus",
+   "trailer": {
+    "key": "yHxn8mTpAJU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.03,
+   "vote_count": 3117
+  },
+  "tv:46896": {
+   "backdrop_path": "/2OAoGOvysScieVhIazrWTXj2ESp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Klaus Mikaelson",
+     "n": "Joseph Morgan"
+    },
+    {
+     "c": "Elijah Mikaelson",
+     "n": "Daniel Gillies"
+    },
+    {
+     "c": "Marcel Gerard",
+     "n": "Charles Michael Davis"
+    },
+    {
+     "c": "Freya Mikaelson",
+     "n": "Riley Voelkel"
+    },
+    {
+     "c": "Vincent Griffith",
+     "n": "Yusuf Gatewood"
+    },
+    {
+     "c": "Hope Mikaelson",
+     "n": "Danielle Rose Russell"
+    },
+    {
+     "c": "Josh Rosza",
+     "n": "Steven Krueger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Julie Plec"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45,
+    42
+   ],
+   "first_air_date": "2013-10-03",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 46896,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Vampire Diaries spin-off that follows the Mikaelsons, a family of millennia-old, power-hungry vampires who want to reclaim the city they built, New Orleans, and dominate all those who have wronged them.",
+   "popularity": 42.6892,
+   "poster_path": "/keJOhJXGiLL54EW6QocbyvQGquA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-10-03",
+     "episode_count": 28,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-10-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-10-06",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-10-08",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-03-17",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-04-18",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Always and forever.",
+   "title": "The Originals",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 3697
+  },
+  "tv:496": {
+   "backdrop_path": "/m4G421LlrPxqdtq980PLM91u38Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elyse Keaton",
+     "n": "Meredith Baxter"
+    },
+    {
+     "c": "Steven Keaton",
+     "n": "Michael Gross"
+    },
+    {
+     "c": "Alex P. Keaton",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Mallory Keaton",
+     "n": "Justine Bateman"
+    },
+    {
+     "c": "Jennifer Keaton",
+     "n": "Tina Yothers"
+    },
+    {
+     "c": "Andy Keaton",
+     "n": "Brian Bonsall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Gary David Goldberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1982-09-22",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 496,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 168,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Former 1960s flower children Steven and Elyse Keaton raise their conservative son Alex, daughters Mallory and Jennifer, and later, youngest child Andrew.",
+   "popularity": 34.7048,
+   "poster_path": "/vxERANdozlMKgl7VqGxbAvZ6u1O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1985-09-23",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1982-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1983-09-28",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1984-09-20",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1985-09-26",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1986-09-25",
+     "episode_count": 28,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1987-09-13",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1988-10-30",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Laughter. Tears. Politics... MEET THE KEATONS.",
+   "title": "Family Ties",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.231,
+   "vote_count": 283
+  },
+  "tv:56296": {
+   "backdrop_path": "/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sarah / Cosima / Alison / Helena / Rachel",
+     "n": "Tatiana Maslany"
+    },
+    {
+     "c": "Felix 'Fee' Dawkins",
+     "n": "Jordan Gavaris"
+    },
+    {
+     "c": "Scott Smith",
+     "n": "Josh Vokey"
+    },
+    {
+     "c": "Siobhan 'Mrs. S' Sadler",
+     "n": "Maria Doyle Kennedy"
+    },
+    {
+     "c": "Mark / Rudy / Miller / Ira",
+     "n": "Ari Millen"
+    },
+    {
+     "c": "Detective Arthur 'Art' Bell",
+     "n": "Kevin Hanchard"
+    },
+    {
+     "c": "Donald 'Donnie' Hendrix",
+     "n": "Kristian Bruun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Space",
+   "created_by": [
+    "Graeme Manson",
+    "John Fawcett"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-03-30",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 56296,
+   "industry": "world",
+   "networks": [
+    "Space",
+    "BBC America"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+   "popularity": 24.4999,
+   "poster_path": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-04-12",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-03-30",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-04-19",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-04-18",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-04-14",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-06-10",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "She's been duped.",
+   "title": "Orphan Black",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1517
+  },
+  "tv:64196": {
+   "backdrop_path": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Momonga / Ains Ooal Gown (voice)",
+     "n": "Satoshi Hino"
+    },
+    {
+     "c": "Albedo (voice)",
+     "n": "Yumi Hara"
+    },
+    {
+     "c": "Shalltear Bloodfallen (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Narberal Gamma (voice)",
+     "n": "Manami Numakura"
+    },
+    {
+     "c": "Virtuous King of the Forest (voice)",
+     "n": "Akeno Watanabe"
+    },
+    {
+     "c": "Clementine (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Nfirea Bareare (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Aura Bella Fiora (voice)",
+     "n": "Emiri Kato"
+    },
+    {
+     "c": "Mare Bello Fiore (voice)",
+     "n": "Yumi Uchiyama"
+    },
+    {
+     "c": "Demiurge (voice)",
+     "n": "Masayuki Katou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2015-07-07",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 64196,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, friends, or place in society, this ordinary young man Momonga then strives to take over the new world the game has become.",
+   "popularity": 34.9704,
+   "poster_path": "/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-08-04",
+     "episode_count": 57,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-07-07",
+     "episode_count": 13,
+     "name": "Overlord",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-01-09",
+     "episode_count": 13,
+     "name": "Overlord II",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-07-10",
+     "episode_count": 13,
+     "name": "Overlord III",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-07-05",
+     "episode_count": 13,
+     "name": "Overlord IV",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Overlord",
+   "trailer": {
+    "key": "uhlBqFj9kDw",
+    "name": "Overlord - Trailer (English Dubbed)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.424,
+   "vote_count": 1146
+  },
+  "tv:79696": {
+   "backdrop_path": "/iZu83GB1IM7VXL2X90m7iLHYUHU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michaela Stone",
+     "n": "Melissa Roxburgh"
+    },
+    {
+     "c": "Ben Stone",
+     "n": "Josh Dallas"
+    },
+    {
+     "c": "Jared Vasquez",
+     "n": "J.R. Ramirez"
+    },
+    {
+     "c": "Olive Stone",
+     "n": "Luna Blaise"
+    },
+    {
+     "c": "Saanvi Bahl",
+     "n": "Parveen Kaur"
+    },
+    {
+     "c": "Zeke Landon",
+     "n": "Matt Long"
+    },
+    {
+     "c": "Angelina Meyer",
+     "n": "Holly Taylor"
+    },
+    {
+     "c": "Robert Vance",
+     "n": "Daryl Edwards"
+    },
+    {
+     "c": "Cal Stone",
+     "n": "Ty Doran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Jeff Rake"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2018-09-24",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 79696,
+   "industry": "world",
+   "networks": [
+    "NBC",
+    "Netflix"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+   "popularity": 33.6351,
+   "poster_path": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-01-06",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-04-01",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-11-04",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Make the final connection.",
+   "title": "Manifest",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.589,
+   "vote_count": 1884
+  },
+  "tv:82596": {
+   "backdrop_path": "/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emily Cooper",
+     "n": "Lily Collins"
+    },
+    {
+     "c": "Sylvie Grateau",
+     "n": "Philippine Leroy-Beaulieu"
+    },
+    {
+     "c": "Mindy Chen",
+     "n": "Ashley Park"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Lucas Bravo"
+    },
+    {
+     "c": "Julien",
+     "n": "Samuel Arnold"
+    },
+    {
+     "c": "Luc",
+     "n": "Bruno Gouery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Darren Star"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-10-02",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 82596,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "New passions. New fashions. New Emily? A plucky American marketing whiz spreads her wings in life and love after landing her dream job in Paris.",
+   "popularity": 26.1331,
+   "poster_path": "/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-10-02",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-12-22",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-12-21",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-08-15",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-12-18",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-12-24",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "The best journeys take unexpected turns.",
+   "title": "Emily in Paris",
+   "trailer": {
+    "key": "lptctjAT-Mk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 1609
+  },
+  "tv:95396": {
+   "backdrop_path": "/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark Scout",
+     "n": "Adam Scott"
+    },
+    {
+     "c": "Helly Riggs",
+     "n": "Britt Lower"
+    },
+    {
+     "c": "Seth Milchick",
+     "n": "Tramell Tillman"
+    },
+    {
+     "c": "Dylan George",
+     "n": "Zach Cherry"
+    },
+    {
+     "c": "Harmony Cobel",
+     "n": "Patricia Arquette"
+    },
+    {
+     "c": "Devon Scout-Hale",
+     "n": "Jen Tullock"
+    },
+    {
+     "c": "Ms. Casey",
+     "n": "Dichen Lachman"
+    },
+    {
+     "c": "Eustice Huang",
+     "n": "Sarah Bock"
+    },
+    {
+     "c": "Irving Bailiff",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Burt Goodman",
+     "n": "Christopher Walken"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Dan Erickson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-02-17",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 95396,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+   "popularity": 40.7778,
+   "poster_path": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-12-15",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-02-17",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-01-16",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "There's more to work than life.",
+   "title": "Severance",
+   "trailer": {
+    "key": "xEQP4VVuyrY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.388,
+   "vote_count": 3125
   }
  }
 }

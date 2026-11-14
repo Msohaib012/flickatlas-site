@@ -1,8 +1,8 @@
 {
  "bucket": "07",
- "count": 10,
+ "count": 17,
  "titles": {
-  "10407": {
+  "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
    "budget": 26000000,
    "cast": [
@@ -108,7 +108,7 @@
    "vote_average": 6.223,
    "vote_count": 499
   },
-  "12707": {
+  "movie:12707": {
    "backdrop_path": "/3OTxHBZIQdjjsHU572SJxvtXTpk.jpg",
    "budget": 17500000,
    "cast": [
@@ -212,7 +212,7 @@
    "vote_average": 6.165,
    "vote_count": 494
   },
-  "14807": {
+  "movie:14807": {
    "backdrop_path": "/vXjf4iCdZB1OvNQuJZyKeSkVWlH.jpg",
    "budget": 1000000,
    "cast": [
@@ -326,7 +326,7 @@
    "vote_average": 7.186,
    "vote_count": 466
   },
-  "22307": {
+  "movie:22307": {
    "backdrop_path": "/V4iqE9Ptgx7FJ8pLK0IWI9Zg46.jpg",
    "budget": 500000,
    "cast": [
@@ -488,7 +488,7 @@
    "vote_average": 6.697,
    "vote_count": 470
   },
-  "31007": {
+  "movie:31007": {
    "backdrop_path": "/aKess0g91BMSYpq1VLqwaqz83JF.jpg",
    "budget": 0,
    "cast": [
@@ -645,7 +645,7 @@
    "vote_average": 6.574,
    "vote_count": 444
   },
-  "419507": {
+  "movie:419507": {
    "backdrop_path": "/nWWfohnSpIGw8worhKiFRmk2SZX.jpg",
    "budget": 0,
    "cast": [
@@ -736,7 +736,7 @@
    "vote_average": 3.985,
    "vote_count": 476
   },
-  "563907": {
+  "movie:563907": {
    "backdrop_path": "/6ZIx11OQh6nrMRBNeVZuqLRNhqq.jpg",
    "budget": 0,
    "cast": [
@@ -844,7 +844,7 @@
    "vote_average": 5.9,
    "vote_count": 482
   },
-  "621707": {
+  "movie:621707": {
    "backdrop_path": "/2v6tOt3yedtb9urqXr7qCBS2gyl.jpg",
    "budget": 0,
    "cast": [
@@ -1000,7 +1000,7 @@
    "vote_average": 5.804,
    "vote_count": 454
   },
-  "674607": {
+  "movie:674607": {
    "backdrop_path": "/9gXOA57zkxDko4yEE6vjFF538Xn.jpg",
    "budget": 0,
    "cast": [
@@ -1099,7 +1099,7 @@
    "vote_average": 6.122,
    "vote_count": 459
   },
-  "809107": {
+  "movie:809107": {
    "backdrop_path": "/xBHq2c25I776tO1VYrDNQaT5xzZ.jpg",
    "budget": 36000000,
    "cast": [
@@ -1209,6 +1209,1230 @@
    "type": "movie",
    "vote_average": 7.292,
    "vote_count": 453
+  },
+  "tv:1407": {
+   "backdrop_path": "/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carrie Mathison",
+     "n": "Claire Danes"
+    },
+    {
+     "c": "Saul Berenson",
+     "n": "Mandy Patinkin"
+    },
+    {
+     "c": "Max Piotrowski",
+     "n": "Maury Sterling"
+    },
+    {
+     "c": "Haissam Haqqani",
+     "n": "Numan Acar"
+    },
+    {
+     "c": "Tasneem Qureshi",
+     "n": "Nimrat Kaur"
+    },
+    {
+     "c": "David Wellington",
+     "n": "Linus Roache"
+    },
+    {
+     "c": "Yevgeny Gromo",
+     "n": "Costa Ronin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Showtime",
+   "created_by": [
+    "Alex Gansa",
+    "Howard Gordon"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-10-02",
+   "genres": [
+    "Drama",
+    "War & Politics",
+    "Crime"
+   ],
+   "id": 1407,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
+   "popularity": 82.5731,
+   "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+   "production_countries": [
+    "US",
+    "IL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-08-31",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-10-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-10-05",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-10-04",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2017-01-15",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2018-02-11",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-02-09",
+     "episode_count": 12,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The nation sees a hero. She sees a threat.",
+   "title": "Homeland",
+   "trailer": {
+    "key": "KyFmS3wRPCQ",
+    "name": "Season 1 Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.593,
+   "vote_count": 2778
+  },
+  "tv:250307": {
+   "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Michael 'Robby' Robinavitch",
+     "n": "Noah Wyle"
+    },
+    {
+     "c": "Dr. Frank Langdon",
+     "n": "Patrick Ball"
+    },
+    {
+     "c": "Charge Nurse Dana Evans",
+     "n": "Katherine LaNasa"
+    },
+    {
+     "c": "Dr. Samira Mohan",
+     "n": "Supriya Ganesh"
+    },
+    {
+     "c": "Dr. Cassie McKay",
+     "n": "Fiona Dourif"
+    },
+    {
+     "c": "Dr. Melissa King",
+     "n": "Taylor Dearden"
+    },
+    {
+     "c": "Dr. Trinity Santos",
+     "n": "Isa Briones"
+    },
+    {
+     "c": "Student Doctor Dennis Whitaker",
+     "n": "Gerran Howell"
+    },
+    {
+     "c": "Student Doctor Victoria Javadi",
+     "n": "Shabana Azeez"
+    },
+    {
+     "c": "Dr. Baran Al-Hashimi",
+     "n": "Sepideh Moafi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Max",
+   "created_by": [
+    "R. Scott Gemmill"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-01-09",
+   "genres": [
+    "Drama"
+   ],
+   "id": 250307,
+   "industry": "world",
+   "networks": [
+    "Max",
+    "HBO Max"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+   "popularity": 89.9848,
+   "poster_path": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-01-09",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-01-08",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The work never stops.",
+   "title": "The Pitt",
+   "trailer": {
+    "key": "ufR_08V38sQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.722,
+   "vote_count": 1055
+  },
+  "tv:273207": {
+   "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frances Neagley",
+     "n": "Maria Sten"
+    },
+    {
+     "c": "Detective Hudson Riley",
+     "n": "Greyston Holt"
+    },
+    {
+     "c": "Renee",
+     "n": "Adeline Rudolph"
+    },
+    {
+     "c": "Keno",
+     "n": "Jasper Jones"
+    },
+    {
+     "c": "Pierce Woodrow",
+     "n": "Matthew Del Negro"
+    },
+    {
+     "c": "Lawrence Cole",
+     "n": "Damon Herriman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Nick Santora",
+    "Nicholas Wootton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-16",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 273207,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+   "popularity": 25.5822,
+   "poster_path": "/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Neagley",
+   "trailer": {
+    "key": "BOzNaa_o9_g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.986,
+   "vote_count": 243
+  },
+  "tv:33907": {
+   "backdrop_path": "/1wgqpYNtQDn7TDkyQ2jsIAqxorW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Violet Crawley",
+     "n": "Maggie Smith"
+    },
+    {
+     "c": "Mary Crawley",
+     "n": "Michelle Dockery"
+    },
+    {
+     "c": "Edith Crawley",
+     "n": "Laura Carmichael"
+    },
+    {
+     "c": "Anna Smith",
+     "n": "Joanne Froggatt"
+    },
+    {
+     "c": "Robert Crawley",
+     "n": "Hugh Bonneville"
+    },
+    {
+     "c": "Mrs. Hughes",
+     "n": "Phyllis Logan"
+    },
+    {
+     "c": "Cora Crawley",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Charles Carson",
+     "n": "Jim Carter"
+    },
+    {
+     "c": "John Bates",
+     "n": "Brendan Coyle"
+    },
+    {
+     "c": "Isobel Merton",
+     "n": "Penelope Wilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ITV1",
+   "created_by": [
+    "Julian Fellowes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    66,
+    40,
+    47
+   ],
+   "first_air_date": "2010-09-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 33907,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 47,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n",
+   "popularity": 41.0383,
+   "poster_path": "/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "PBS"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-21",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 7,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-18",
+     "episode_count": 8,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-16",
+     "episode_count": 8,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-22",
+     "episode_count": 8,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-09-21",
+     "episode_count": 8,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-09-20",
+     "episode_count": 8,
+     "name": "Series 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Downton Abbey",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.114,
+   "vote_count": 1290
+  },
+  "tv:34307": {
+   "backdrop_path": "/3w1iNNuMiFVDDUyycJoSAFksjc7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Gallagher",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Lip Gallagher",
+     "n": "Jeremy Allen White"
+    },
+    {
+     "c": "Carl Gallagher",
+     "n": "Ethan Cutkosky"
+    },
+    {
+     "c": "Veronica Fisher",
+     "n": "Shanola Hampton"
+    },
+    {
+     "c": "Kevin Ball",
+     "n": "Steve Howey"
+    },
+    {
+     "c": "Debbie Gallagher",
+     "n": "Emma Kenney"
+    },
+    {
+     "c": "Liam Gallagher",
+     "n": "Christian Isaiah"
+    },
+    {
+     "c": "Ian Gallagher",
+     "n": "Cameron Monaghan"
+    },
+    {
+     "c": "Mickey Milkovich",
+     "n": "Noel Fisher"
+    },
+    {
+     "c": "Tami Tamietti",
+     "n": "Kate Miner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Showtime",
+   "created_by": [
+    "Paul Abbott",
+    "John Wells"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-01-09",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 34307,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 134,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+   "popularity": 168.0646,
+   "poster_path": "/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-12-12",
+     "episode_count": 39,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-01-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-01-08",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-01-13",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-01-12",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-01-11",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-01-10",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-10-02",
+     "episode_count": 12,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-11-05",
+     "episode_count": 12,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-09-09",
+     "episode_count": 14,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-11-10",
+     "episode_count": 12,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2020-12-06",
+     "episode_count": 12,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Living crappily ever after.",
+   "title": "Shameless",
+   "trailer": {
+    "key": "9tvkYS5cA58",
+    "name": "Season 1 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.168,
+   "vote_count": 3586
+  },
+  "tv:4607": {
+   "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Shephard",
+     "n": "Matthew Fox"
+    },
+    {
+     "c": "Kate Austen",
+     "n": "Evangeline Lilly"
+    },
+    {
+     "c": "John Locke",
+     "n": "Terry O'Quinn"
+    },
+    {
+     "c": "James Sawyer",
+     "n": "Josh Holloway"
+    },
+    {
+     "c": "Benjamin Linus",
+     "n": "Michael Emerson"
+    },
+    {
+     "c": "Hurley Reyes",
+     "n": "Jorge Garcia"
+    },
+    {
+     "c": "Sayid Jarrah",
+     "n": "Naveen Andrews"
+    },
+    {
+     "c": "Frank Lapidus",
+     "n": "Jeff Fahey"
+    },
+    {
+     "c": "Desmond Hume",
+     "n": "Henry Ian Cusick"
+    },
+    {
+     "c": "Richard Alpert",
+     "n": "Nestor Carbonell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "J.J. Abrams",
+    "Damon Lindelof",
+    "Jeffrey Lieber"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2004-09-22",
+   "genres": [
+    "Mystery",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 4607,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 118,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stripped of everything, the survivors of a horrific plane crash must work together to stay alive. But the island holds many secrets.",
+   "popularity": 100.7759,
+   "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-04-27",
+     "episode_count": 162,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-09-22",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-21",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-10-04",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-01-31",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-01-21",
+     "episode_count": 17,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-02-02",
+     "episode_count": 17,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Everything happens for a reason.",
+   "title": "Lost",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.96,
+   "vote_count": 5466
+  },
+  "tv:607": {
+   "backdrop_path": "/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Blossom (voice)",
+     "n": "Cathy Cavadini"
+    },
+    {
+     "c": "Bubbles (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Buttercup (voice)",
+     "n": "E. G. Daily"
+    },
+    {
+     "c": "Mayor / Snake / Lil' Arturo / Narrator (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Professor Utonium / Him / Talking Dog (voice)",
+     "n": "Tom Kane"
+    },
+    {
+     "c": "Mojo Jojo (voice)",
+     "n": "Roger L. Jackson"
+    },
+    {
+     "c": "Ms. Sara Bellum (voice)",
+     "n": "Jennifer Martin"
+    },
+    {
+     "c": "Ms. Keane / Princess Morbucks / Sedusa (voice)",
+     "n": "Jennifer Hale"
+    },
+    {
+     "c": "Fuzzy Lumpkins (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Ace / Grubber / Big Billy (voice)",
+     "n": "Jeff Bennett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Craig McCracken"
+   ],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "1998-11-18",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids",
+    "Family"
+   ],
+   "id": 607,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 135,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+   "popularity": 53.5136,
+   "poster_path": "/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-01-01",
+     "episode_count": 31,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-11-18",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-06-25",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-07-28",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2001-04-14",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-12-06",
+     "episode_count": 33,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-06-25",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Saving the world before bedtime.",
+   "title": "The Powerpuff Girls",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 1043
   }
  }
 }

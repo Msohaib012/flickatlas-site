@@ -1,8 +1,8 @@
 {
  "bucket": "09",
- "count": 12,
+ "count": 22,
  "titles": {
-  "12609": {
+  "movie:12609": {
    "backdrop_path": "/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
    "budget": 18000000,
    "cast": [
@@ -115,7 +115,7 @@
    "vote_average": 6.7,
    "vote_count": 466
   },
-  "13009": {
+  "movie:13009": {
    "backdrop_path": "/r1GnyDcTV0WkwqLsI52QPM04aTh.jpg",
    "budget": 0,
    "cast": [
@@ -217,7 +217,7 @@
    "vote_average": 4.8,
    "vote_count": 461
   },
-  "14709": {
+  "movie:14709": {
    "backdrop_path": "/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
    "budget": 0,
    "cast": [
@@ -346,7 +346,7 @@
    "vote_average": 6.17,
    "vote_count": 498
   },
-  "32909": {
+  "movie:32909": {
    "backdrop_path": "/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg",
    "budget": 12000000,
    "cast": [
@@ -462,7 +462,7 @@
    "vote_average": 7.48,
    "vote_count": 466
   },
-  "3309": {
+  "movie:3309": {
    "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
    "budget": 1453000,
    "cast": [
@@ -622,7 +622,7 @@
    "vote_average": 7.624,
    "vote_count": 472
   },
-  "383709": {
+  "movie:383709": {
    "backdrop_path": "/bI9VoPV1gYpBw4yjbYzWwhTh92g.jpg",
    "budget": 7000000,
    "cast": [
@@ -735,7 +735,7 @@
    "vote_average": 6.066,
    "vote_count": 441
   },
-  "44009": {
+  "movie:44009": {
    "backdrop_path": "/8VPwE9Owon0lOUi1FdTfakEPVZM.jpg",
    "budget": 8000000,
    "cast": [
@@ -903,7 +903,7 @@
    "vote_average": 6.985,
    "vote_count": 457
   },
-  "458109": {
+  "movie:458109": {
    "backdrop_path": "/lvC9CrcsSFazXuzXZwmHBrXioZC.jpg",
    "budget": 8500000,
    "cast": [
@@ -1013,7 +1013,7 @@
    "vote_average": 5.58,
    "vote_count": 493
   },
-  "513409": {
+  "movie:513409": {
    "backdrop_path": "/rhklsYtIITDOdFSmhx2fIH9m9Vn.jpg",
    "budget": 0,
    "cast": [
@@ -1125,7 +1125,7 @@
    "vote_average": 5.904,
    "vote_count": 491
   },
-  "531509": {
+  "movie:531509": {
    "backdrop_path": "/xyg6C7OiaEiQlYGtE22Iepf8Fko.jpg",
    "budget": 0,
    "cast": [
@@ -1247,7 +1247,7 @@
    "vote_average": 6.138,
    "vote_count": 482
   },
-  "673309": {
+  "movie:673309": {
    "backdrop_path": "/jUJP67Lqmwc0hyaDeLKBS2WuS5Y.jpg",
    "budget": 25000000,
    "cast": [
@@ -1406,7 +1406,7 @@
    "vote_average": 7.095,
    "vote_count": 455
   },
-  "909": {
+  "movie:909": {
    "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
    "budget": 1707561,
    "cast": [
@@ -1514,6 +1514,1700 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 446
+  },
+  "tv:105009": {
+   "backdrop_path": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takemichi Hanagaki (voice)",
+     "n": "Yuuki Shin"
+    },
+    {
+     "c": "Hinata Tachibana (voice)",
+     "n": "Azumi Waki"
+    },
+    {
+     "c": "Naoto Tachibana (voice)",
+     "n": "Ryota Osaka"
+    },
+    {
+     "c": "Manjiro 'Mikey' Sano (voice)",
+     "n": "Yuu Hayashi"
+    },
+    {
+     "c": "Ken 'Doraken' Ryuguji (voice)",
+     "n": "Tatsuhisa Suzuki"
+    },
+    {
+     "c": "Atsushi Sendo (voice)",
+     "n": "Takuma Terashima"
+    },
+    {
+     "c": "Takuya Yamamoto (voice)",
+     "n": "Yuya Hirose"
+    },
+    {
+     "c": "Makoto Suzuki (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Kazushi Yamagishi (voice)",
+     "n": "Shota Hayama"
+    },
+    {
+     "c": "Masataka Koyomizu (voice)",
+     "n": "Satoshi Hino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2021-04-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 105009,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+   "popularity": 54.7164,
+   "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-03-30",
+     "episode_count": 44,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-04-11",
+     "episode_count": 63,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "I'm not gonna let you die.",
+   "title": "Tokyo Revengers",
+   "trailer": {
+    "key": "idlLFNNpZiI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.406,
+   "vote_count": 1382
+  },
+  "tv:1409": {
+   "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jax Teller",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Gemma Teller Morrow",
+     "n": "Katey Sagal"
+    },
+    {
+     "c": "Filip 'Chibs' Telford",
+     "n": "Tommy Flanagan"
+    },
+    {
+     "c": "Bobby Munson",
+     "n": "Mark Boone Junior"
+    },
+    {
+     "c": "Alex 'Tig' Trager",
+     "n": "Kim Coates"
+    },
+    {
+     "c": "Juan Carlos 'Juice' Ortiz",
+     "n": "Theo Rossi"
+    },
+    {
+     "c": "Wayne Unser",
+     "n": "Dayton Callie"
+    },
+    {
+     "c": "Happy Lowman",
+     "n": "David Labrava"
+    },
+    {
+     "c": "Wendy Case",
+     "n": "Drea de Matteo"
+    },
+    {
+     "c": "Nero Padilla",
+     "n": "Jimmy Smits"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Kurt Sutter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2008-09-03",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1409,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Sons of Anarchy (SOA) are an outlaw motorcycle club with many charters in the United States and overseas. The show focused on the original and founding charter, Sons of Anarchy Motorcycle Club, Redwood Original, often referred to by the acronym SAMCRO, Sam Crow, or simply Redwood Charter. The charter operates both legal and illegal businesses in the small town of Charming, California. They combine gun-running and a garage, and involvement in porn film industry. Clay, the charter president, likes it old school and violent; while Jax, his stepson and the club's VP, has thoughts about changing the way things are done. Their conflict has effects on both the club and their personal relationship, especially when Jax goes on a personal quest to cleanse the SAMCRO name and image.",
+   "popularity": 77.8379,
+   "poster_path": "/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-09-01",
+     "episode_count": 97,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-03",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-08",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-07",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-09-06",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-09-11",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2013-09-10",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-09-09",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Let freedom ride.",
+   "title": "Sons of Anarchy",
+   "trailer": {
+    "key": "paBZJJXUEtg",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.403,
+   "vote_count": 3460
+  },
+  "tv:200709": {
+   "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yeon Si-eun",
+     "n": "Park Ji-hoon"
+    },
+    {
+     "c": "Ahn Su-ho",
+     "n": "Choi Hyun-wook"
+    },
+    {
+     "c": "Oh Beom-seok",
+     "n": "Hong Kyung"
+    },
+    {
+     "c": "Park Hu-min",
+     "n": "Ryeoun"
+    },
+    {
+     "c": "Seo Jun-tae",
+     "n": "Choi Min-yeong"
+    },
+    {
+     "c": "Choi Hyo-man",
+     "n": "Yoo Su-bin"
+    },
+    {
+     "c": "Kang Woo-young",
+     "n": "Cha Woo-min"
+    },
+    {
+     "c": "Na Baek-jin",
+     "n": "Bae Na-ra"
+    },
+    {
+     "c": "Go Hyun-tak",
+     "n": "Lee Min-jae"
+    },
+    {
+     "c": "Geum Seong-je",
+     "n": "Lee Jun-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Yoo Soo-min",
+    "Han Jun-hee"
+   ],
+   "director": [
+    "Park Dan-hee",
+    "Yoo Soo-min"
+   ],
+   "episode_run_time": [
+    84
+   ],
+   "first_air_date": "2022-11-18",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 200709,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "wavve"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+   "popularity": 27.8451,
+   "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "OnDemandKorea"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Kocowa Amazon Channel"
+    },
+    {
+     "name": "Kocowa"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-11-18",
+     "episode_count": 8,
+     "name": "Class 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-04-25",
+     "episode_count": 8,
+     "name": "Class 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Stand to protect it.",
+   "title": "Weak Hero",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.676,
+   "vote_count": 564
+  },
+  "tv:259909": {
+   "backdrop_path": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dexter Morgan",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Charley Brown",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Harrison Morgan",
+     "n": "Jack Alcott"
+    },
+    {
+     "c": "The Five Borough Killer",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Captain Mixon",
+     "n": "Bokeem Woodbine"
+    },
+    {
+     "c": "Blessing Kamara",
+     "n": "Ntare Guma Mbaho Mwine"
+    },
+    {
+     "c": "Claudette Wallace",
+     "n": "Kadia Saraf"
+    },
+    {
+     "c": "Melvin Oliva",
+     "n": "Dominic Fumusa"
+    },
+    {
+     "c": "Joseph Quinn",
+     "n": "Desmond Harrington"
+    },
+    {
+     "c": "Fiona Mixon",
+     "n": "Nona Parker Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+ with Showtime",
+   "created_by": [
+    "Clyde Phillips"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-13",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 259909,
+   "industry": "world",
+   "networks": [
+    "Paramount+ with Showtime"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+   "popularity": 85.7771,
+   "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-17",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-13",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-11-01",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Back and sharper than ever.",
+   "title": "Dexter: Resurrection",
+   "trailer": {
+    "key": "84o1Q6fB20k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.552,
+   "vote_count": 753
+  },
+  "tv:32209": {
+   "backdrop_path": "/9kGfwwA0N0KOen7oTBGSVoQsXLz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Francesca Maldini",
+     "n": "Yvonne Frayssinet"
+    },
+    {
+     "c": "Rosario Flores",
+     "n": "Mónica Sánchez"
+    },
+    {
+     "c": "Don Gilberto",
+     "n": "Gustavo Bueno"
+    },
+    {
+     "c": "Rodolfo Rojas",
+     "n": "Adolfo Chuiman"
+    },
+    {
+     "c": "Teresa Collazos",
+     "n": "Magdyel Ugaz"
+    },
+    {
+     "c": "Joel Gonzales",
+     "n": "Erick Elera"
+    },
+    {
+     "c": "Alberto \"Tito\" Lara",
+     "n": "László Kovács"
+    },
+    {
+     "c": "Pepe Gonzáles",
+     "n": "David Almandoz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "América Televisión",
+   "created_by": [
+    "Efrain Aguilar",
+    "Gigio Aranda"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2009-03-30",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 32209,
+   "industry": "world",
+   "networks": [
+    "América Televisión",
+    "América Televisión (PE)"
+   ],
+   "number_of_episodes": 2495,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "PE"
+   ],
+   "original_language": "es",
+   "overview": "One of Lima’s most exclusive residential neighborhoods is turned upside down by the arrival of the Gonzales family, who have come from the countryside to settle into a half-finished house they inherited. Their down-to-earth ways will rub the neighbors the wrong way, especially the Maldinis, who will do everything in their power to get rid of them.\n\nAs the years go by and new seasons unfold, the story deepens with the arrival of the Montalván family, who will bring even more conflicts and unexpected situations to this unique neighborhood.",
+   "popularity": 58.9013,
+   "poster_path": "/4BkYVoybIvM2U7zeg2JTT5M5dwF.jpg",
+   "production_countries": [
+    "PE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-07-30",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-03-30",
+     "episode_count": 189,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-03-01",
+     "episode_count": 202,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-02-28",
+     "episode_count": 196,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-02-27",
+     "episode_count": 208,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "",
+     "episode_count": 198,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "",
+     "episode_count": 204,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "",
+     "episode_count": 192,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "",
+     "episode_count": 193,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2022-06-22",
+     "episode_count": 136,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2023-01-09",
+     "episode_count": 244,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2024-04-08",
+     "episode_count": 185,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2025-02-17",
+     "episode_count": 180,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2026-03-16",
+     "episode_count": 168,
+     "name": "Season 13",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Al Fondo Hay Sitio",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 238
+  },
+  "tv:32709": {
+   "backdrop_path": "/kdFJW01rAJV4qN7ArkJ4l3Ll9T3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike Biggs",
+     "n": "Billy Gardell"
+    },
+    {
+     "c": "Molly Flynn",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Carl McMillan",
+     "n": "Reno Wilson"
+    },
+    {
+     "c": "Joyce Flynn",
+     "n": "Swoosie Kurtz"
+    },
+    {
+     "c": "Victoria Flynn",
+     "n": "Katy Mixon"
+    },
+    {
+     "c": "Vincent Moranto",
+     "n": "Louis Mustillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Mark Roberts"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2010-09-20",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 32709,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 127,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A comedy about a working class Chicago couple who find love at an Overeaters Anonymous meeting.",
+   "popularity": 25.8055,
+   "poster_path": "/5TeRoql7yzyeFWMEA0aiEmd21HJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-26",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-24",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-11-04",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-12-08",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-01-06",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Mike & Molly",
+   "trailer": {
+    "key": "Vi0VCpbkZQk",
+    "name": "Mike & Molly - Exclusive Preview",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.686,
+   "vote_count": 271
+  },
+  "tv:34109": {
+   "backdrop_path": "/fI3m5UjTMyigglkFeQWkPJgFLSC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danma 'Dan' Kuso (voice)",
+     "n": "Yu Kobayashi"
+    },
+    {
+     "c": "Dorago (voice)",
+     "n": "Keiji Fujiwara"
+    },
+    {
+     "c": "Choji 'Marucho' Marukura (voice)",
+     "n": "Ryo Hirohashi"
+    },
+    {
+     "c": "Shun Kazami (voice)",
+     "n": "Chihiro Suzuki"
+    },
+    {
+     "c": "Skyress (voice)",
+     "n": "Chiharu Suzuka"
+    },
+    {
+     "c": "Tigres (voice)",
+     "n": "Atsushi Ono"
+    },
+    {
+     "c": "Preyas (voice)",
+     "n": "Eiji Miyashita"
+    },
+    {
+     "c": "Golem (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Harpy (voice)",
+     "n": "Ayumi Tsunematsu"
+    },
+    {
+     "c": "Miyako Kūsō (voice)",
+     "n": "Ayumi Tsunematsu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Teletoon",
+   "created_by": [
+    "Atsushi Maekawa"
+   ],
+   "director": [
+    "Mitsuo Hashimoto"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2007-04-05",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Kids",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 34109,
+   "industry": "world",
+   "networks": [
+    "Teletoon",
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 189,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "CA",
+    "JM",
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Centers on the lives of creatures called Bakugan and the battle brawlers who possess them.",
+   "popularity": 50.0012,
+   "poster_path": "/tYSZCSW6wbHoS9aEijTv4xHgGbZ.jpg",
+   "production_countries": [
+    "CA",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Amebatv Amazon Channel"
+    },
+    {
+     "name": "Kartoon Channel Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/aJXVegIjKagfzioJ90nwDn3beb4.png",
+     "name": "Amebatv Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/l9ceMtT6Lb4zCDDzavGkVeFmPNV.png",
+     "name": "Kartoon Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-04-05",
+     "episode_count": 52,
+     "name": "Bakugan Battle Brawlers",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-04-12",
+     "episode_count": 52,
+     "name": "New Vestroia",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-05-23",
+     "episode_count": 39,
+     "name": "Gundalian Invaders",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-02-13",
+     "episode_count": 46,
+     "name": "Mechtanium Surge",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Bakugan Battle Brawlers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.329,
+   "vote_count": 395
+  },
+  "tv:42009": {
+   "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Channel 4",
+   "created_by": [
+    "Charlie Brooker"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-12-04",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 42009,
+   "industry": "world",
+   "networks": [
+    "Channel 4",
+    "Netflix"
+   ],
+   "number_of_episodes": 33,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+   "popularity": 59.3249,
+   "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-04",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-02-11",
+     "episode_count": 4,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-10-21",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-12-29",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-06-05",
+     "episode_count": 3,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-06-15",
+     "episode_count": 5,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 6,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The future is bright.",
+   "title": "Black Mirror",
+   "trailer": {
+    "key": "1iqra1ojEvM",
+    "name": "Season 7 Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.293,
+   "vote_count": 6686
+  },
+  "tv:49009": {
+   "backdrop_path": "/vr2pasVUtMvpsWW8BhFBPbYiOl3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beverly Goldberg",
+     "n": "Wendi McLendon-Covey"
+    },
+    {
+     "c": "Adam Goldberg",
+     "n": "Sean Giambrone"
+    },
+    {
+     "c": "Barry Goldberg",
+     "n": "Troy Gentile"
+    },
+    {
+     "c": "Erica Goldberg",
+     "n": "Hayley Orrantia"
+    },
+    {
+     "c": "Adam Goldberg (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Geoff Schwartz",
+     "n": "Sam Lerner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Adam F. Goldberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-09-24",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 49009,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 229,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '80s. For geeky 11-year old Adam these were his wonder years and he faced them armed with a video camera to capture all the crazy. The Goldbergs are a loving family like any other, just with a lot more yelling.",
+   "popularity": 54.6589,
+   "poster_path": "/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-04-27",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-09-24",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-10-21",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Picture perfect.",
+   "title": "The Goldbergs",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.416,
+   "vote_count": 383
+  },
+  "tv:709": {
+   "backdrop_path": "/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Various (voice)",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Various (voice)",
+     "n": "Matthew Senreich"
+    },
+    {
+     "c": "Various (voice)",
+     "n": "Breckin Meyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Seth Green",
+    "Matthew Senreich"
+   ],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "2005-02-20",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 709,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 218,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A series of pop-culture parodies using stop-motion animation of toys, action figures and dolls. The title character was an ordinary chicken until he was run down by a car and subsequently brought back to life in cyborg form by mad scientist Fritz Huhnmorder, who tortures Robot Chicken by forcing him to watch a random selection of TV shows, the sketches that make up the body of each episode.",
+   "popularity": 57.4566,
+   "poster_path": "/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-01-01",
+     "episode_count": 29,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-02-19",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-04-01",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-08-11",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-12-07",
+     "episode_count": 19,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2010-12-12",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-09-16",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2014-04-13",
+     "episode_count": 18,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2015-10-26",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-12-10",
+     "episode_count": 20,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 20,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-05-23",
+     "episode_count": 21,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's alive!!",
+   "title": "Robot Chicken",
+   "trailer": {
+    "key": "yD0li2eQbJQ",
+    "name": "Don't Sit So Close | Robot Chicken | Adult Swim",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.604,
+   "vote_count": 602
   }
  }
 }

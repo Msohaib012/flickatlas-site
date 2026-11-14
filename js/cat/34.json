@@ -1,8 +1,8 @@
 {
  "bucket": "34",
- "count": 5,
+ "count": 13,
  "titles": {
-  "12834": {
+  "movie:12834": {
    "backdrop_path": "/uhQS0C251mo32ZJkcjfFtJ0RN9P.jpg",
    "budget": 9000000,
    "cast": [
@@ -181,7 +181,7 @@
    "vote_average": 6.0,
    "vote_count": 489
   },
-  "13934": {
+  "movie:13934": {
    "backdrop_path": "/cKO6MZ9uf6wRcMA0TldRCYxKYzx.jpg",
    "budget": 0,
    "cast": [
@@ -303,7 +303,7 @@
    "vote_average": 6.3,
    "vote_count": 497
   },
-  "14134": {
+  "movie:14134": {
    "backdrop_path": "/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
    "budget": 0,
    "cast": [
@@ -434,7 +434,7 @@
    "vote_average": 6.6,
    "vote_count": 454
   },
-  "788734": {
+  "movie:788734": {
    "backdrop_path": "/lJXHuyY622HcA0RHJvkeJcvzamK.jpg",
    "budget": 0,
    "cast": [
@@ -604,7 +604,7 @@
    "vote_average": 7.14,
    "vote_count": 461
   },
-  "842934": {
+  "movie:842934": {
    "backdrop_path": "/4vkJmo7wqtEzJ2aCsHVJH16jOss.jpg",
    "budget": 0,
    "cast": [
@@ -752,6 +752,1583 @@
    "type": "movie",
    "vote_average": 5.558,
    "vote_count": 462
+  },
+  "tv:135934": {
+   "backdrop_path": "/cmmIzxA0I8inxWbNEwCsI9JxQai.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vex'ahlia (voice)",
+     "n": "Laura Bailey"
+    },
+    {
+     "c": "Percy (voice)",
+     "n": "Taliesin Jaffe"
+    },
+    {
+     "c": "Pike (voice)",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Vax'ildan (voice)",
+     "n": "Liam O'Brien"
+    },
+    {
+     "c": "Keyleth (voice)",
+     "n": "Marisha Ray"
+    },
+    {
+     "c": "Grog (voice)",
+     "n": "Travis Willingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Chris Prynoski"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-01-27",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 135934,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+   "popularity": 33.3511,
+   "poster_path": "/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-03-26",
+     "episode_count": 30,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-01-27",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-01-19",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-10-03",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-06-03",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Legend of Vox Machina",
+   "trailer": {
+    "key": "JvwxQSc-3os",
+    "name": "Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.197,
+   "vote_count": 737
+  },
+  "tv:1434": {
+   "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "Lois Griffin / Tricia Takanawa / Loretta Brown / Barbara Pewterschmidt (voice)",
+     "n": "Alex Borstein"
+    },
+    {
+     "c": "Meg Griffin (voice)",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Chris Griffin (voice)",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Joe Swanson (voice)",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Cleveland Brown (voice)",
+     "n": "Arif Zahir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "FOX",
+   "created_by": [
+    "Seth MacFarlane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-01-31",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 1434,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 456,
+   "number_of_seasons": 24,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+   "popularity": 314.2598,
+   "poster_path": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "FOX One"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1995-01-01",
+     "episode_count": 27,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-01-31",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-09-23",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-07-11",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-05-01",
+     "episode_count": 30,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-09-10",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-09-23",
+     "episode_count": 12,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-09-26",
+     "episode_count": 18,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 23,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 21,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2014-09-28",
+     "episode_count": 18,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2015-09-27",
+     "episode_count": 20,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2016-09-25",
+     "episode_count": 20,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2018-09-30",
+     "episode_count": 20,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 20,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2020-09-27",
+     "episode_count": 20,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2021-09-26",
+     "episode_count": 20,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2022-09-25",
+     "episode_count": 20,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2023-10-01",
+     "episode_count": 15,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2025-02-16",
+     "episode_count": 18,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2026-02-15",
+     "episode_count": 15,
+     "name": "Season 24",
+     "season_number": 24
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Don't die laughing. We could get sued.",
+   "title": "Family Guy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.415,
+   "vote_count": 5203
+  },
+  "tv:2734": {
+   "backdrop_path": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olivia Benson",
+     "n": "Mariska Hargitay"
+    },
+    {
+     "c": "Odafin 'Fin' Tutuola",
+     "n": "Ice-T"
+    },
+    {
+     "c": "Amanda Rollins",
+     "n": "Kelli Giddish"
+    },
+    {
+     "c": "Dominick 'Sonny' Carisi Jr.",
+     "n": "Peter Scanavino"
+    },
+    {
+     "c": "Renee Curry",
+     "n": "Aimé Donna Kelly"
+    },
+    {
+     "c": "Terry Bruno",
+     "n": "Kevin Kane"
+    },
+    {
+     "c": "Jake Griffin",
+     "n": "Corey Cott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Wolf"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-09-20",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 2734,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 602,
+   "number_of_seasons": 28,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+   "popularity": 3013.0837,
+   "poster_path": "/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-09-20",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-10-20",
+     "episode_count": 21,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-09-28",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-09-27",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2003-09-23",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2004-09-21",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2006-09-19",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2007-09-25",
+     "episode_count": 19,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2009-09-23",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2011-09-21",
+     "episode_count": 23,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2012-09-26",
+     "episode_count": 24,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2013-09-25",
+     "episode_count": 24,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 23,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 23,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 21,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 24,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2018-09-27",
+     "episode_count": 24,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 20,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2020-11-12",
+     "episode_count": 16,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2021-09-23",
+     "episode_count": 22,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2022-09-22",
+     "episode_count": 22,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2024-01-18",
+     "episode_count": 13,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2024-10-03",
+     "episode_count": 22,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 21,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 8,
+     "name": "Season 28",
+     "season_number": 28
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Hope in the darkness.",
+   "title": "Law & Order: Special Victims Unit",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.962,
+   "vote_count": 4416
+  },
+  "tv:34634": {
+   "backdrop_path": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Parker Schnabel"
+    },
+    {
+     "c": "Self",
+     "n": "Chris Doumitt"
+    },
+    {
+     "c": "Narrator",
+     "n": "Paul Christie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Discovery",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    41
+   ],
+   "first_air_date": "2010-12-03",
+   "genres": [
+    "Reality"
+   ],
+   "id": 34634,
+   "industry": "world",
+   "networks": [
+    "Discovery"
+   ],
+   "number_of_episodes": 340,
+   "number_of_seasons": 17,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the lives of ambitious miners as they head north in pursuit of gold. With new miners, new claims, new machines and new ways to pull gold out of the ground, the stakes are higher than ever. But will big risks lead to an even bigger pay out?",
+   "popularity": 39.2178,
+   "poster_path": "/zRlu3idMmqfrtnw7h2qHaAGzxnw.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery +"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-02-25",
+     "episode_count": 105,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-12-03",
+     "episode_count": 10,
+     "name": "Alaska, Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-02-17",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-10-19",
+     "episode_count": 17,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-10-25",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-10-17",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-10-16",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-10-14",
+     "episode_count": 21,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-10-13",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-10-12",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-10-11",
+     "episode_count": 21,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2020-10-24",
+     "episode_count": 21,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2021-09-24",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2022-09-30",
+     "episode_count": 26,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2023-09-29",
+     "episode_count": 23,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2024-11-08",
+     "episode_count": 23,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2025-11-07",
+     "episode_count": 23,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 8,
+     "name": "Season 17",
+     "season_number": 17
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Gold Rush",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.167,
+   "vote_count": 198
+  },
+  "tv:3934": {
+   "backdrop_path": "/89BPrKS6BoktBPTfWcHMQrFNo8s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mickey Mouse (voice)",
+     "n": "Bret Iwan"
+    },
+    {
+     "c": "Donald Duck (voice)",
+     "n": "Tony Anselmo"
+    },
+    {
+     "c": "Daisy Duck (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Minnie Mouse (voice)",
+     "n": "Russi Taylor"
+    },
+    {
+     "c": "Goofy / Pluto (voice)",
+     "n": "Bill Farmer"
+    },
+    {
+     "c": "Toodles (voice)",
+     "n": "Rob Paulsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney Channel",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2006-05-05",
+   "genres": [
+    "Kids",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 3934,
+   "industry": "world",
+   "networks": [
+    "Disney Channel",
+    "Disney Junior"
+   ],
+   "number_of_episodes": 123,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+   "popularity": 46.1243,
+   "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-03-20",
+     "episode_count": 47,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-05-05",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-01-26",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-02-27",
+     "episode_count": 32,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-11-05",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Mickey leads kids on an interactive adventure of learning.",
+   "title": "Mickey Mouse Clubhouse",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.753,
+   "vote_count": 399
+  },
+  "tv:634": {
+   "backdrop_path": "/bnyOvBONhZnY20Ogq5nNQCKoKYb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tony Micelli",
+     "n": "Tony Danza"
+    },
+    {
+     "c": "Angela Bower",
+     "n": "Judith Light"
+    },
+    {
+     "c": "Samantha Micelli",
+     "n": "Alyssa Milano"
+    },
+    {
+     "c": "Jonathan Bower",
+     "n": "Danny Pintauro"
+    },
+    {
+     "c": "Mona Robinson",
+     "n": "Katherine Helmond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ABC",
+   "created_by": [
+    "Blake Hunter"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "1984-09-20",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 634,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 196,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former professional baseball player, along with his preteen daughter, moves into New York advertising executive Angela Bower's house to be both a housekeeper and a father figure to her young son. Tony 's laid-back personality contrasts with Angela's type-A behavior.",
+   "popularity": 34.6301,
+   "poster_path": "/g2DGlUraEwKxrsKtbtCYqUSz7zy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-09-20",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-09-24",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-09-23",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-09-22",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1988-10-18",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1989-09-19",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1990-09-18",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1991-09-28",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Father doesn't always know best!",
+   "title": "Who's the Boss?",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 315
+  },
+  "tv:65334": {
+   "backdrop_path": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marinette Dupain-Cheng / Ladybug (voice)",
+     "n": "Anouck Hautbois"
+    },
+    {
+     "c": "Adrien Agreste / Chat Noir (voice)",
+     "n": "Benjamin Bollen"
+    },
+    {
+     "c": "Tikki (voice)",
+     "n": "Marie Nonnenmacher"
+    },
+    {
+     "c": "Plagg (voice)",
+     "n": "Thierry Kazazian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TF1",
+   "created_by": [
+    "Thomas Astruc",
+    "Jeremy Zag",
+    "Nathanaël Bronn"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-10-19",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Kids"
+   ],
+   "id": 65334,
+   "industry": "world",
+   "networks": [
+    "TF1"
+   ],
+   "number_of_episodes": 181,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+   "popularity": 140.8599,
+   "poster_path": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+   "production_countries": [
+    "FR",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-12-11",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-10-19",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-10-26",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-04-14",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-04-11",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-10-24",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-03-23",
+     "episode_count": 26,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2026-11-01",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Miraculous: Tales of Ladybug & Cat Noir",
+   "trailer": {
+    "key": "Eo73DkyXywE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 4704
+  },
+  "tv:734": {
+   "backdrop_path": "/nOIMQQi5nwoIJzBegRBlmDkSZS1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas Magnum",
+     "n": "Tom Selleck"
+    },
+    {
+     "c": "Jonathan Higgins",
+     "n": "John Hillerman"
+    },
+    {
+     "c": "Terry 'TC' Calvin",
+     "n": "Roger E. Mosley"
+    },
+    {
+     "c": "Rick Wright",
+     "n": "Larry Manetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Donald P. Bellisario",
+    "Glen A. Larson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1980-12-11",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 734,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 162,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A private investigator who works when he wants, lives in a beachfront estate in Hawaii, drives a posh Ferrari, runs up an unlimited tab at a swank bar, and charms attractive women in peril - that's the lifestyle of Thomas Magnum, aka Magnum, P.I.",
+   "popularity": 46.2586,
+   "poster_path": "/uaiztRrI2gwBNVtFh6iGvkXqgfz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1980-12-11",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1981-10-08",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1982-09-30",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1983-09-29",
+     "episode_count": 21,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1984-09-27",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1985-09-26",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1986-10-01",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1987-10-07",
+     "episode_count": 13,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "He's a Hellraiser in Paradise.",
+   "title": "Magnum, P.I.",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.295,
+   "vote_count": 473
   }
  }
 }

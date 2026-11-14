@@ -1,8 +1,8 @@
 {
  "bucket": "90",
- "count": 9,
+ "count": 19,
  "titles": {
-  "10390": {
+  "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
    "budget": 50000000,
    "cast": [
@@ -105,7 +105,7 @@
    "vote_average": 6.394,
    "vote_count": 494
   },
-  "10490": {
+  "movie:10490": {
    "backdrop_path": "/xXSDhhyC853VgF7OCDKpXKeA5Md.jpg",
    "budget": 10000000,
    "cast": [
@@ -262,7 +262,7 @@
    "vote_average": 6.476,
    "vote_count": 475
   },
-  "11590": {
+  "movie:11590": {
    "backdrop_path": "/kAMgr9znXqu07SQjdbT1vwUeqYD.jpg",
    "budget": 6000000,
    "cast": [
@@ -358,7 +358,7 @@
    "vote_average": 6.758,
    "vote_count": 473
   },
-  "125490": {
+  "movie:125490": {
    "backdrop_path": "/pO2j1lxSXmrvCgzuw65pDOFBXXC.jpg",
    "budget": 3500000,
    "cast": [
@@ -554,7 +554,7 @@
    "vote_average": 5.912,
    "vote_count": 472
   },
-  "13190": {
+  "movie:13190": {
    "backdrop_path": "/aFnF8gvNedNWHoCNTjZWphebecd.jpg",
    "budget": 0,
    "cast": [
@@ -674,7 +674,7 @@
    "vote_average": 6.698,
    "vote_count": 474
   },
-  "18890": {
+  "movie:18890": {
    "backdrop_path": "/6pbIOpnWFAO42JgZhuNUdMEUxi8.jpg",
    "budget": 0,
    "cast": [
@@ -775,7 +775,7 @@
    "vote_average": 6.1,
    "vote_count": 464
   },
-  "2690": {
+  "movie:2690": {
    "backdrop_path": "/6j1yeUhtFUVACFjLJXCFLswlcFE.jpg",
    "budget": 5000000,
    "cast": [
@@ -960,7 +960,7 @@
    "vote_average": 7.38,
    "vote_count": 498
   },
-  "2990": {
+  "movie:2990": {
    "backdrop_path": "/oifQqVSpK5fOqgCrYIEbLGkcIiS.jpg",
    "budget": 18000000,
    "cast": [
@@ -1146,7 +1146,7 @@
    "vote_average": 6.3,
    "vote_count": 450
   },
-  "739990": {
+  "movie:739990": {
    "backdrop_path": "/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg",
    "budget": 0,
    "cast": [
@@ -1255,6 +1255,2087 @@
    "type": "movie",
    "vote_average": 6.106,
    "vote_count": 458
+  },
+  "tv:2190": {
+   "backdrop_path": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eric Cartman / Stan Marsh /  Randy Marsh / Mr. Garrison (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Kyle Broflovski / Kenny McCormick / Butters Stotch (voice)",
+     "n": "Matt Stone"
+    },
+    {
+     "c": "Sheila Broflovski (voice)",
+     "n": "Mona Marshall"
+    },
+    {
+     "c": "Bebe Stevens (voice)",
+     "n": "Jennifer Howell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Comedy Central",
+   "created_by": [
+    "Trey Parker",
+    "Matt Stone"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1997-08-13",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 2190,
+   "industry": "world",
+   "networks": [
+    "Comedy Central"
+   ],
+   "number_of_episodes": 337,
+   "number_of_seasons": 29,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+   "popularity": 147.5396,
+   "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1992-12-08",
+     "episode_count": 33,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-08-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1998-04-01",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-04-07",
+     "episode_count": 17,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2000-04-05",
+     "episode_count": 17,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2001-06-20",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2002-03-06",
+     "episode_count": 17,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2003-03-19",
+     "episode_count": 15,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2004-03-17",
+     "episode_count": 14,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2005-03-09",
+     "episode_count": 14,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-03-22",
+     "episode_count": 14,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2007-03-07",
+     "episode_count": 14,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2008-03-12",
+     "episode_count": 14,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2009-03-11",
+     "episode_count": 14,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2010-03-17",
+     "episode_count": 14,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2011-04-27",
+     "episode_count": 14,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2012-03-14",
+     "episode_count": 14,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2013-09-25",
+     "episode_count": 10,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 10,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2015-09-16",
+     "episode_count": 10,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2016-09-14",
+     "episode_count": 10,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2017-09-13",
+     "episode_count": 10,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 10,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 10,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2020-09-30",
+     "episode_count": 2,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2022-02-02",
+     "episode_count": 6,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2023-02-08",
+     "episode_count": 6,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2025-07-23",
+     "episode_count": 5,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2025-10-15",
+     "episode_count": 5,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 6,
+     "name": "Season 29",
+     "season_number": 29
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Four boys. One f**ked-up town.",
+   "title": "South Park",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.335,
+   "vote_count": 5268
+  },
+  "tv:2290": {
+   "backdrop_path": "/SLAPI1h9SWBMLTCO8ULvTGiP9G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Sheppard",
+     "n": "Joe Flanigan"
+    },
+    {
+     "c": "Rodney McKay",
+     "n": "David Hewlett"
+    },
+    {
+     "c": "Teyla Emmagan",
+     "n": "Rachel Luttrell"
+    },
+    {
+     "c": "Jennifer Keller",
+     "n": "Jewel Staite"
+    },
+    {
+     "c": "Richard Woolsey",
+     "n": "Robert Picardo"
+    },
+    {
+     "c": "Ronon Dex",
+     "n": "Jason Momoa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Syfy",
+   "created_by": [
+    "Robert C. Cooper",
+    "Brad Wright"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45,
+    60
+   ],
+   "first_air_date": "2004-07-15",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 2290,
+   "industry": "world",
+   "networks": [
+    "Syfy"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the Ancients' city of Atlantis discovered in the Pegasus Galaxy by Stargate Command, Dr. Elizabeth Weir and Major Sheppard lead a scientific expedition to the ancient abandoned city. Once there, the team not only find themselves unable to contact Earth, but their explorations unexpectedly reawaken the Ancients' deadly enemies, The Wraith, who hunger for this new prey. Now with the help of newfound local allies like Teyla Emmagan, the Atlantis Team sets about to uncover their new home's secrets even as their war of survival against the Wraith begins.",
+   "popularity": 46.7632,
+   "poster_path": "/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-07-03",
+     "episode_count": 55,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-07-15",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-07-15",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-07-13",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-07-10",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A new gate will open. A lost city will rise again.",
+   "title": "Stargate Atlantis",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.019,
+   "vote_count": 1267
+  },
+  "tv:2490": {
+   "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roy Trenneman",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Maurice Moss",
+     "n": "Richard Ayoade"
+    },
+    {
+     "c": "Jen Barber",
+     "n": "Katherine Parkinson"
+    },
+    {
+     "c": "Douglas Reynholm",
+     "n": "Matt Berry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Channel 4",
+   "created_by": [
+    "Graham Linehan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2006-02-03",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2490,
+   "industry": "world",
+   "networks": [
+    "Channel 4"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The comedic misadventures of Roy, Moss, and their grifting supervisor Jen, a 'motley crew' of IT support workers at a large corporation headed by a hotheaded yuppie.",
+   "popularity": 76.3475,
+   "poster_path": "/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-09-27",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-02-03",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-08-24",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-11-21",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-06-25",
+     "episode_count": 6,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Have you tried turning it off and on again?",
+   "title": "The IT Crowd",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1736
+  },
+  "tv:35790": {
+   "backdrop_path": "/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sakura Kinomoto (voice)",
+     "n": "Sakura Tange"
+    },
+    {
+     "c": "Tomoyo Daidouji (voice)",
+     "n": "Junko Iwao"
+    },
+    {
+     "c": "Syaoran Li (voice)",
+     "n": "Motoko Kumai"
+    },
+    {
+     "c": "Kerberos (voice)",
+     "n": "Aya Hisakawa"
+    },
+    {
+     "c": "Naoko Yanagisawa (voice)",
+     "n": "Emi Shinohara"
+    },
+    {
+     "c": "Fujitaka Kinomoto (voice)",
+     "n": "Hideyuki Tanaka"
+    },
+    {
+     "c": "Kerberos(big) (voice)",
+     "n": "Masaya Onosaka"
+    },
+    {
+     "c": "Yukito Tsukishiro (voice)",
+     "n": "Megumi Ogata"
+    },
+    {
+     "c": "Touya Kinomoto (voice)",
+     "n": "Tomokazu Seki"
+    },
+    {
+     "c": "Meiling Li (voice)",
+     "n": "Yukana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NHK BS2",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1998-04-07",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 35790,
+   "industry": "world",
+   "networks": [
+    "NHK BS2",
+    "NHK BS Premium"
+   ],
+   "number_of_episodes": 92,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Sakura Kinomoto, an elementary school student who discovers that she possesses magical powers after accidentally freeing a set of magical cards from the book they had been sealed in for years. She is then tasked with retrieving those cards in order to avoid an unknown catastrophe from befalling the world.",
+   "popularity": 30.5451,
+   "poster_path": "/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1998-09-25",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-04-07",
+     "episode_count": 35,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-04-04",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-09-07",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-01-07",
+     "episode_count": 22,
+     "name": "Clear Card",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Cardcaptor Sakura",
+   "trailer": {
+    "key": "luM4oGFSpT8",
+    "name": "CARDCAPTOR SAKURA - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.609,
+   "vote_count": 822
+  },
+  "tv:40290": {
+   "backdrop_path": "/kxb02OCWt9VYMvVeoY7dNhSNFT2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Judge",
+     "n": "Gordon Ramsay"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Joe Bastianich"
+    },
+    {
+     "c": "Self - Judge",
+     "n": "Tiffany Derry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Franc Roddam"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-07-27",
+   "genres": [
+    "Reality"
+   ],
+   "id": 40290,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 313,
+   "number_of_seasons": 16,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
+   "popularity": 30.6332,
+   "poster_path": "/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-01-18",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-07-27",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-06-06",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-06-04",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-05-22",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-05-26",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-05-20",
+     "episode_count": 20,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-06-01",
+     "episode_count": 19,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-05-30",
+     "episode_count": 21,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-05-30",
+     "episode_count": 23,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-05-29",
+     "episode_count": 25,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-06-02",
+     "episode_count": 18,
+     "name": "Legends",
+     "season_number": 11
+    },
+    {
+     "air_date": "2022-05-25",
+     "episode_count": 20,
+     "name": "Back to Win",
+     "season_number": 12
+    },
+    {
+     "air_date": "2023-05-24",
+     "episode_count": 20,
+     "name": "United Tastes of America",
+     "season_number": 13
+    },
+    {
+     "air_date": "2024-05-29",
+     "episode_count": 19,
+     "name": "Generations",
+     "season_number": 14
+    },
+    {
+     "air_date": "2025-05-21",
+     "episode_count": 18,
+     "name": "Dynamic Duos",
+     "season_number": 15
+    },
+    {
+     "air_date": "2026-04-15",
+     "episode_count": 18,
+     "name": "Global Gauntlet",
+     "season_number": 16
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "MasterChef",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.108,
+   "vote_count": 300
+  },
+  "tv:45790": {
+   "backdrop_path": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Joestar (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Gyro Zeppeli (voice)",
+     "n": "Yohei Azakami"
+    },
+    {
+     "c": "Diego Brando (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Steven Steel (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Funny Valentine (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Lucy Steel (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Mountain Tim (voice)",
+     "n": "Tomoaki Maeno"
+    },
+    {
+     "c": "Sand Man (voice)",
+     "n": "Masaaki Mizunaka"
+    },
+    {
+     "c": "Pocoloco (voice)",
+     "n": "Kenichirou Matsuda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2012-10-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 45790,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 202,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+   "popularity": 85.1428,
+   "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-09-20",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-10-06",
+     "episode_count": 26,
+     "name": "Phantom Blood & Battle Tendency",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-04-05",
+     "episode_count": 48,
+     "name": "Stardust Crusaders",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-04-02",
+     "episode_count": 39,
+     "name": "Diamond Is Unbreakable",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-10-06",
+     "episode_count": 39,
+     "name": "Golden Wind",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-01-08",
+     "episode_count": 38,
+     "name": "STONE OCEAN",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-03-19",
+     "episode_count": 12,
+     "name": "STEEL BALL RUN",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "JoJo's Bizarre Adventure",
+   "trailer": {
+    "key": "fOvrr5izejw",
+    "name": "Official English Short Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.557,
+   "vote_count": 1710
+  },
+  "tv:71790": {
+   "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel 'Hondo' Harrelson",
+     "n": "Shemar Moore"
+    },
+    {
+     "c": "David 'Deacon' Kay",
+     "n": "Jay Harrington"
+    },
+    {
+     "c": "Victor Tan",
+     "n": "David Lim"
+    },
+    {
+     "c": "Robert 'Bob' Hicks",
+     "n": "Patrick St. Esprit"
+    },
+    {
+     "c": "Zoe Powell",
+     "n": "Anna Enger Ritch"
+    },
+    {
+     "c": "Miguel Alfaro",
+     "n": "Niko Pepaj"
+    },
+    {
+     "c": "Devin Gamble",
+     "n": "Annie Ilonzeh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Aaron Rahsaan Thomas",
+    "Shawn Ryan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-11-02",
+   "genres": [
+    "Crime",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 71790,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 163,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.",
+   "popularity": 97.604,
+   "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-11-02",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-09-27",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-10-02",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-11-11",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-10-01",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-10-07",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-02-16",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2024-10-18",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Serve • Protect • Unite",
+   "title": "S.W.A.T.",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.024,
+   "vote_count": 1619
+  },
+  "tv:790": {
+   "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hercule Poirot",
+     "n": "David Suchet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ITV1",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "1989-01-08",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 790,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 70,
+   "number_of_seasons": 13,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+   "popularity": 64.2819,
+   "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "PBS"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1989-01-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1990-01-07",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1990-09-16",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1992-01-05",
+     "episode_count": 3,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1993-01-17",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1994-12-25",
+     "episode_count": 4,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-01-02",
+     "episode_count": 2,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2001-04-20",
+     "episode_count": 2,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2003-12-14",
+     "episode_count": 4,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-01-01",
+     "episode_count": 4,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2008-09-14",
+     "episode_count": 4,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2010-01-03",
+     "episode_count": 4,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2013-06-09",
+     "episode_count": 5,
+     "name": "Season 13",
+     "season_number": 13
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Agatha Christie's Poirot",
+   "trailer": {
+    "key": "_4ypEmJlfn8",
+    "name": "Agatha Christie's Poirot HD trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.195,
+   "vote_count": 601
+  },
+  "tv:890": {
+   "backdrop_path": "/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shinji Ikari (voice)",
+     "n": "Megumi Ogata"
+    },
+    {
+     "c": "Misato Katsuragi (voice)",
+     "n": "Kotono Mitsuishi"
+    },
+    {
+     "c": "Rei Ayanami (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Asuka Langley Soryu (voice)",
+     "n": "Yuko Miyamura"
+    },
+    {
+     "c": "Dr. Ritsuko Akagi (voice)",
+     "n": "Yuriko Yamaguchi"
+    },
+    {
+     "c": "Gendo Ikari (voice)",
+     "n": "Fumihiko Tachiki"
+    },
+    {
+     "c": "Kozo Fuyutsuki (voice)",
+     "n": "Motomu Kiyokawa"
+    },
+    {
+     "c": "Maya Ibuki (voice)",
+     "n": "Miki Nagasawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1995-10-04",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Drama"
+   ],
+   "id": 890,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "At the turn of the century, the Angels returned to Earth, seeking to wipe out humanity in an apocalyptic fury. Devastated, mankind's last remnants moved underground to wait for the day when the Angels would come back to finish the job. Fifteen years later, that day has come... but this time, humanity is ready to fight back with terrifying bio-mechanical weapons known as the Evangelions. Watch as Shinji, Rei, Asuka and the rest of the mysterious shadow agency Nerv battle to save earth from total annihilation.",
+   "popularity": 29.8447,
+   "poster_path": "/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1995-10-04",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Mankind's greatest fear is mankind itself.",
+   "title": "Neon Genesis Evangelion",
+   "trailer": {
+    "key": "Ni8kEQi1BwA",
+    "name": "Blu-ray Pre-order Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.561,
+   "vote_count": 2209
+  },
+  "tv:90": {
+   "backdrop_path": "/vqm22ecqtzy5Olr74mkUV5lWa9g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Stephen Bogaert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Discovery",
+   "created_by": [
+    "Bernard Vaillot",
+    "André Barro"
+   ],
+   "director": [],
+   "episode_run_time": [
+    46
+   ],
+   "first_air_date": "2003-09-03",
+   "genres": [
+    "Documentary",
+    "Drama",
+    "Crime"
+   ],
+   "id": 90,
+   "industry": "world",
+   "networks": [
+    "Discovery"
+   ],
+   "number_of_episodes": 240,
+   "number_of_seasons": 26,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+   "popularity": 82.4725,
+   "poster_path": "/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-06-26",
+     "episode_count": 59,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-09-03",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-01-23",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-14",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-04-15",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-04-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-12-16",
+     "episode_count": 3,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-11-04",
+     "episode_count": 8,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-06-10",
+     "episode_count": 2,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-09-08",
+     "episode_count": 8,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-02-28",
+     "episode_count": 6,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2011-08-12",
+     "episode_count": 13,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2012-08-03",
+     "episode_count": 13,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2013-12-16",
+     "episode_count": 10,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2015-01-05",
+     "episode_count": 11,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2016-01-02",
+     "episode_count": 10,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2016-06-07",
+     "episode_count": 10,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2017-02-20",
+     "episode_count": 10,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2018-02-13",
+     "episode_count": 10,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2019-01-02",
+     "episode_count": 10,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2020-01-09",
+     "episode_count": 10,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2021-04-04",
+     "episode_count": 10,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2022-01-10",
+     "episode_count": 10,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2023-02-13",
+     "episode_count": 10,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2024-02-18",
+     "episode_count": 10,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2025-02-03",
+     "episode_count": 11,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2026-02-02",
+     "episode_count": 10,
+     "name": "Season 26",
+     "season_number": 26
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ja",
+    "de",
+    "ru",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Mayday",
+   "trailer": {
+    "key": "D1PRxyN3qf0",
+    "name": "Air Crash Investigation | Official Trailer | National Geographic UK",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 296
   }
  }
 }

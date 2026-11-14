@@ -1,8 +1,8 @@
 {
  "bucket": "98",
- "count": 6,
+ "count": 15,
  "titles": {
-  "110398": {
+  "movie:110398": {
    "backdrop_path": "/92MsvjpGoaiujgg6prkwmFvggoP.jpg",
    "budget": 0,
    "cast": [
@@ -104,7 +104,7 @@
    "vote_average": 7.19,
    "vote_count": 497
   },
-  "11198": {
+  "movie:11198": {
    "backdrop_path": "/6IvACiFRqZ7hNbmwYUWNzqCouAp.jpg",
    "budget": 0,
    "cast": [
@@ -222,7 +222,7 @@
    "vote_average": 6.6,
    "vote_count": 486
   },
-  "11498": {
+  "movie:11498": {
    "backdrop_path": "/guKFCL7DcAKP8IKWcZfm00CNBBB.jpg",
    "budget": 15000000,
    "cast": [
@@ -341,7 +341,7 @@
    "vote_average": 6.445,
    "vote_count": 455
   },
-  "2998": {
+  "movie:2998": {
    "backdrop_path": "/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
    "budget": 7000000,
    "cast": [
@@ -473,7 +473,7 @@
    "vote_average": 6.985,
    "vote_count": 461
   },
-  "509598": {
+  "movie:509598": {
    "backdrop_path": "/66ToN6sQ9Q2GHVYevbzUz3cM9jq.jpg",
    "budget": 0,
    "cast": [
@@ -615,7 +615,7 @@
    "vote_average": 6.698,
    "vote_count": 496
   },
-  "785398": {
+  "movie:785398": {
    "backdrop_path": "/bdncpEiiH3C7OjzvIu07zl2zcTd.jpg",
    "budget": 0,
    "cast": [
@@ -748,6 +748,1440 @@
    "type": "movie",
    "vote_average": 6.485,
    "vote_count": 448
+  },
+  "tv:1398": {
+   "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tony Soprano",
+     "n": "James Gandolfini"
+    },
+    {
+     "c": "Carmela Soprano",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Meadow Soprano",
+     "n": "Jamie-Lynn Sigler"
+    },
+    {
+     "c": "A.J. Soprano",
+     "n": "Robert Iler"
+    },
+    {
+     "c": "Jennifer Melfi",
+     "n": "Lorraine Bracco"
+    },
+    {
+     "c": "Christopher Moltisanti",
+     "n": "Michael Imperioli"
+    },
+    {
+     "c": "Silvio Dante",
+     "n": "Steven Van Zandt"
+    },
+    {
+     "c": "Paulie Gualtieri",
+     "n": "Tony Sirico"
+    },
+    {
+     "c": "Corrado 'Junior' Soprano",
+     "n": "Dominic Chianese"
+    },
+    {
+     "c": "Janice Soprano",
+     "n": "Aida Turturro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "David Chase"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1999-01-10",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1398,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 86,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+   "popularity": 100.7394,
+   "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-08-03",
+     "episode_count": 14,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1999-01-10",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2000-01-16",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2001-03-04",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2002-09-15",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-03-07",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2006-03-12",
+     "episode_count": 21,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Family. Redefined.",
+   "title": "The Sopranos",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.68,
+   "vote_count": 3796
+  },
+  "tv:2098": {
+   "backdrop_path": "/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Batman (voice)",
+     "n": "Kevin Conroy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Fox Kids",
+   "created_by": [
+    "Bruce Timm",
+    "Eric Radomski"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1992-09-05",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 2098,
+   "industry": "world",
+   "networks": [
+    "Fox Kids"
+   ],
+   "number_of_episodes": 85,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+   "popularity": 40.4534,
+   "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1991-03-05",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1992-09-05",
+     "episode_count": 60,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1993-09-13",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-09-10",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-09-11",
+     "episode_count": 5,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Batman: The Animated Series",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 1939
+  },
+  "tv:32798": {
+   "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve McGarrett",
+     "n": "Alex O'Loughlin"
+    },
+    {
+     "c": "Danny 'Danno' Williams",
+     "n": "Scott Caan"
+    },
+    {
+     "c": "Adam Noshimuri",
+     "n": "Ian Anthony Dale"
+    },
+    {
+     "c": "Tani Rey",
+     "n": "Meaghan Rath"
+    },
+    {
+     "c": "Junior Reigns",
+     "n": "Beulah Koale"
+    },
+    {
+     "c": "Duke Lukela",
+     "n": "Dennis Chun"
+    },
+    {
+     "c": "Noelani Cunha",
+     "n": "Kimee Balmilero"
+    },
+    {
+     "c": "Lou Grover",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Kamekona Tupuola",
+     "n": "Taylor Wily"
+    },
+    {
+     "c": "Quinn Liu",
+     "n": "Katrina Law"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Roberto Orci",
+    "Alex Kurtzman",
+    "Peter M. Lenkov"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2010-09-20",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 32798,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 240,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+   "popularity": 100.2923,
+   "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+   "production_countries": [
+    "US",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 41,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-24",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-27",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-09-26",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-09-25",
+     "episode_count": 25,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-09-29",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-09-28",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-09-27",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hawaii Five-0",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.729,
+   "vote_count": 1925
+  },
+  "tv:3498": {
+   "backdrop_path": "/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Russo​",
+     "n": "Selena Gomez"
+    },
+    {
+     "c": "Justin Russo",
+     "n": "David Henrie"
+    },
+    {
+     "c": "Max Russo",
+     "n": "Jake T. Austin"
+    },
+    {
+     "c": "Harper Finkle",
+     "n": "Jennifer Stone"
+    },
+    {
+     "c": "Jerry Russo",
+     "n": "David DeLuise"
+    },
+    {
+     "c": "Theresa Russo",
+     "n": "Maria Canals-Barrera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Todd J. Greenwald"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2007-10-12",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 3498,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 106,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alex, Justin and Max Russo are not your ordinary kids - they're wizards in training! While their parents run the Waverly Sub Station, the siblings struggle to balance their ordinary lives while learning to master their extraordinary powers.",
+   "popularity": 27.7267,
+   "poster_path": "/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-10-12",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-09-12",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-10-09",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-11-12",
+     "episode_count": 27,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Wizards of Waverly Place",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.62,
+   "vote_count": 1220
+  },
+  "tv:39898": {
+   "backdrop_path": "/abmwQvkZh6yufaodYwnOV15EST0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Po (voice)",
+     "n": "Mick Wingert"
+    },
+    {
+     "c": "Tigress (voice)",
+     "n": "Kari Wahlgren"
+    },
+    {
+     "c": "Monkey (voice)",
+     "n": "James Sie"
+    },
+    {
+     "c": "Crane (voice)",
+     "n": "Amir Talai"
+    },
+    {
+     "c": "Shifu (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Mr. Ping (voice)",
+     "n": "James Hong"
+    },
+    {
+     "c": "Chen (voice)",
+     "n": "Maria Bamford"
+    },
+    {
+     "c": "Fung (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "Viper (voice)",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Mantis (voice)",
+     "n": "Max Koch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [],
+   "director": [
+    "Peter Hastings"
+   ],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2011-09-19",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 39898,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 80,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Now living in his permanent home at the Jade Palace with the rest of the Furious Five, Po the Panda trains, battles, learns, teaches, stumbles, gabs and \"geeks out\" as the newest hero in the Valley of Peace.",
+   "popularity": 25.5458,
+   "poster_path": "/rkq5Jt7boR5v65bDbELHz3DW7sv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-11-24",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-09-19",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-04-06",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-06-24",
+     "episode_count": 28,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kung Fu Panda: Legends of Awesomeness",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 224
+  },
+  "tv:4598": {
+   "backdrop_path": "/ojEmDThITGk9IsE32uxCWCA0kH5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alan Shore",
+     "n": "James Spader"
+    },
+    {
+     "c": "Denny Crane",
+     "n": "William Shatner"
+    },
+    {
+     "c": "Shirley Schmidt",
+     "n": "Candice Bergen"
+    },
+    {
+     "c": "Carl Sack",
+     "n": "John Larroquette"
+    },
+    {
+     "c": "Katie Lloyd",
+     "n": "Tara Summers"
+    },
+    {
+     "c": "Jerry Espenson",
+     "n": "Christian Clemenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "David E. Kelley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2004-10-03",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 4598,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 101,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alan Shore and Denny Crane lead a brigade of high-priced civil litigators in an upscale Boston law firm in a series focusing on the professional and personal lives of brilliant but often emotionally challenged attorneys. A spin-off of long-running series The Practice.",
+   "popularity": 51.7445,
+   "poster_path": "/b0bXUCfpcsgQ6EVVmucU2G76ixT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-10-03",
+     "episode_count": 17,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-27",
+     "episode_count": 27,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-19",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-25",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-22",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Just when you thought it was safe to go back into the courtroom.",
+   "title": "Boston Legal",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.948,
+   "vote_count": 410
+  },
+  "tv:46298": {
+   "backdrop_path": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gon (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Killua (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Issei Futamata"
+    },
+    {
+     "c": "Leorio (voice)",
+     "n": "Keiji Fujiwara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2011-10-02",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 46298,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 148,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+   "popularity": 71.3547,
+   "poster_path": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-10-02",
+     "episode_count": 62,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-12-15",
+     "episode_count": 74,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-07-07",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Hunting for your dreams!",
+   "title": "Hunter x Hunter",
+   "trailer": {
+    "key": "D-51-3Dpio0",
+    "name": "Hunter X Hunter Official Trailer- Coming soon to Blu-ray and DVD!",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.667,
+   "vote_count": 2270
+  },
+  "tv:498": {
+   "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "David Letterman"
+    },
+    {
+     "c": "Self - Musical Director",
+     "n": "Paul Shaffer"
+    },
+    {
+     "c": "Self - Announcer",
+     "n": "Alan Kalter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1993-08-30",
+   "genres": [
+    "Talk",
+    "Comedy"
+   ],
+   "id": 498,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 4252,
+   "number_of_seasons": 22,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "David Letterman uses mature humor to appeal to his audience in this weeknight series, which gets its music from a house band led by Paul Shaffer. Among the show's most-famous segments are the Top Ten List and Stupid Pet Tricks, the latter of which subsequently led to an additional recurring segment called Stupid Human Tricks.",
+   "popularity": 255.1257,
+   "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-08-30",
+     "episode_count": 219,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-08-29",
+     "episode_count": 220,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-04",
+     "episode_count": 210,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-09-02",
+     "episode_count": 213,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-09-01",
+     "episode_count": 203,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-08-31",
+     "episode_count": 213,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-09-07",
+     "episode_count": 196,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2000-08-21",
+     "episode_count": 197,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-08-20",
+     "episode_count": 208,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2002-09-03",
+     "episode_count": 187,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2003-09-01",
+     "episode_count": 189,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2004-08-23",
+     "episode_count": 193,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2005-08-29",
+     "episode_count": 197,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2006-08-28",
+     "episode_count": 199,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2007-09-04",
+     "episode_count": 168,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2008-09-02",
+     "episode_count": 200,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2009-08-31",
+     "episode_count": 245,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2011-01-03",
+     "episode_count": 181,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2012-01-03",
+     "episode_count": 178,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2013-01-02",
+     "episode_count": 179,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2014-01-06",
+     "episode_count": 118,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2014-09-02",
+     "episode_count": 139,
+     "name": "Season 22",
+     "season_number": 22
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Late Show with David Letterman",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.457,
+   "vote_count": 176
+  },
+  "tv:67198": {
+   "backdrop_path": "/ePr0k72sypMpZYubz6w34dcW68Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Burnham",
+     "n": "Sonequa Martin-Green"
+    },
+    {
+     "c": "Saru",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Sylvia Tilly",
+     "n": "Mary Wiseman"
+    },
+    {
+     "c": "Paul Stamets",
+     "n": "Anthony Rapp"
+    },
+    {
+     "c": "Hugh Culber",
+     "n": "Wilson Cruz"
+    },
+    {
+     "c": "Adira Tal",
+     "n": "Blu del Barrio"
+    },
+    {
+     "c": "Cleveland 'Book' Booker",
+     "n": "David Ajala"
+    },
+    {
+     "c": "Rayner",
+     "n": "Callum Keith Rennie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS All Access",
+   "created_by": [
+    "Bryan Fuller",
+    "Alex Kurtzman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-09-24",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 67198,
+   "industry": "world",
+   "networks": [
+    "CBS All Access",
+    "Paramount+"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+   "popularity": 48.3306,
+   "poster_path": "/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-03-23",
+     "episode_count": 71,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-09-24",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-01-17",
+     "episode_count": 14,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-10-15",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-11-18",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-04-04",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "At the edge of the universe, discovery begins.",
+   "title": "Star Trek: Discovery",
+   "trailer": {
+    "key": "O2cSP25ye6g",
+    "name": "International Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 2140
   }
  }
 }

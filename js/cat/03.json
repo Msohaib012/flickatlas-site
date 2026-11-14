@@ -1,8 +1,8 @@
 {
  "bucket": "03",
- "count": 7,
+ "count": 14,
  "titles": {
-  "13403": {
+  "movie:13403": {
    "backdrop_path": "/uY5EB9VIX8lT03MdYcR9DzlhEGM.jpg",
    "budget": 6000000,
    "cast": [
@@ -160,7 +160,7 @@
    "vote_average": 7.5,
    "vote_count": 451
   },
-  "3": {
+  "movie:3": {
    "backdrop_path": "/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
    "budget": 0,
    "cast": [
@@ -262,7 +262,7 @@
    "vote_average": 7.272,
    "vote_count": 457
   },
-  "48303": {
+  "movie:48303": {
    "backdrop_path": "/slNzn4E0XA1WE0yh9I53oIzXQ4e.jpg",
    "budget": 7000000,
    "cast": [
@@ -373,7 +373,7 @@
    "vote_average": 7.017,
    "vote_count": 471
   },
-  "504603": {
+  "movie:504603": {
    "backdrop_path": "/mr5rhvpOnursGgUjBQ3MiRHOUvp.jpg",
    "budget": 0,
    "cast": [
@@ -500,7 +500,7 @@
    "vote_average": 6.691,
    "vote_count": 452
   },
-  "616803": {
+  "movie:616803": {
    "backdrop_path": "/mBijGSEEkIVt24ruvTxFuQWRKJm.jpg",
    "budget": 0,
    "cast": [
@@ -631,7 +631,7 @@
    "vote_average": 6.7,
    "vote_count": 461
   },
-  "619803": {
+  "movie:619803": {
    "backdrop_path": "/p5L7UYtRtL6tMltPzb8DX0rynNv.jpg",
    "budget": 7600000,
    "cast": [
@@ -755,7 +755,7 @@
    "vote_average": 7.314,
    "vote_count": 480
   },
-  "670203": {
+  "movie:670203": {
    "backdrop_path": "/w3eAsDs1HXWsz4GgcICR8rR4Mdm.jpg",
    "budget": 0,
    "cast": [
@@ -843,6 +843,1219 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 445
+  },
+  "tv:111803": {
+   "backdrop_path": "/qVBIAcZkK5j6WRq7JehJcOMbdgb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate Bohr",
+     "n": "Leslie Bibb"
+    },
+    {
+     "c": "Laurie Duffy",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Rick Hatchett",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Piper Ratliff",
+     "n": "Sarah Catherine Hook"
+    },
+    {
+     "c": "Timothy Ratliff",
+     "n": "Jason Isaacs"
+    },
+    {
+     "c": "Victoria Ratliff",
+     "n": "Parker Posey"
+    },
+    {
+     "c": "Saxon Ratliff",
+     "n": "Patrick Schwarzenegger"
+    },
+    {
+     "c": "Gaitok",
+     "n": "Tayme Thapthimthong"
+    },
+    {
+     "c": "Chelsea",
+     "n": "Aimee Lou Wood"
+    },
+    {
+     "c": "Mook",
+     "n": "LISA"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Mike White"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-07-11",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 111803,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 21,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+   "popularity": 45.0713,
+   "poster_path": "/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-07-11",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-10-30",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-02-16",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Same luxury. New reservations.",
+   "title": "The White Lotus",
+   "trailer": {
+    "key": "TGLq7_MonZ4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.597,
+   "vote_count": 1613
+  },
+  "tv:1403": {
+   "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phil Coulson",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Daisy 'Skye' Johnson / Quake",
+     "n": "Chloe Bennet"
+    },
+    {
+     "c": "Jemma Simmons",
+     "n": "Elizabeth Henstridge"
+    },
+    {
+     "c": "Melinda May",
+     "n": "Ming-Na Wen"
+    },
+    {
+     "c": "Alphonso 'Mack' Mackenzie",
+     "n": "Henry Simmons"
+    },
+    {
+     "c": "Elena 'Yo-Yo' Rodriguez / Slingshot",
+     "n": "Natalia Cordova-Buckley"
+    },
+    {
+     "c": "Deke Shaw",
+     "n": "Jeff Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Joss Whedon",
+    "Jed Whedon",
+    "Maurissa Tancharoen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-09-24",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 1403,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 136,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
+   "popularity": 67.2746,
+   "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-08-25",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-09-24",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-23",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-09-29",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-09-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-12-01",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-05-10",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2020-05-27",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Not all heroes are super.",
+   "title": "Marvel's Agents of S.H.I.E.L.D.",
+   "trailer": {
+    "key": "T3T-evQZiQo",
+    "name": "Marvel's Agents of S.H.I.E.L.D. - Trailer 1 (Official)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.485,
+   "vote_count": 3948
+  },
+  "tv:2303": {
+   "backdrop_path": "/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Steve McGarrett",
+     "n": "Jack Lord"
+    },
+    {
+     "c": "Duke",
+     "n": "Herman Wedemeyer"
+    },
+    {
+     "c": "Det. James 'Kimo' Carew",
+     "n": "William Smith"
+    },
+    {
+     "c": "Governor",
+     "n": "Richard Denning"
+    },
+    {
+     "c": "Lori Wilson",
+     "n": "Sharon Farrell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Leonard Freeman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "1969-06-04",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 2303,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 284,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to \"Book 'em, Danno!\", sometimes specifying a charge such as \"murder one\".",
+   "popularity": 64.6739,
+   "poster_path": "/8iFAlqhfY1D0ithTrfKTxObPlUH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1969-06-04",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1969-09-24",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1970-09-16",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1971-09-14",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1972-09-12",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1973-09-11",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1974-09-09",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1975-09-11",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1976-09-29",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1977-09-14",
+     "episode_count": 24,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1978-09-27",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1979-10-03",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Book 'Em, Danno!",
+   "title": "Hawaii Five-O",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.207,
+   "vote_count": 169
+  },
+  "tv:4303": {
+   "backdrop_path": "/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Superman / Clark Kent (voice)",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Lois Lane (voice)",
+     "n": "Dana Delany"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The WB",
+   "created_by": [
+    "Bruce Timm",
+    "Alan Burnett"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "1996-09-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 4303,
+   "industry": "world",
+   "networks": [
+    "The WB"
+   ],
+   "number_of_episodes": 54,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+   "popularity": 26.4707,
+   "poster_path": "/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "CN Rewind Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/o135HOHanrch7AU71XJuO82RiCE.png",
+     "name": "CN Rewind Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-01-24",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-09-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-08",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-09-19",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Superman: The Animated Series",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 395
+  },
+  "tv:60603": {
+   "backdrop_path": "/3dGIUAlrWUvPDMP7mk6GFvkQcSb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Rick Lagina"
+    },
+    {
+     "c": "Self",
+     "n": "Marty Lagina"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Robert Clotworthy"
+    },
+    {
+     "c": "Self- Metal Detection Expert",
+     "n": "Gary Drayton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "History",
+   "created_by": [
+    "Kevin Burns"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2014-01-05",
+   "genres": [
+    "Mystery",
+    "Action & Adventure",
+    "Reality",
+    "Documentary"
+   ],
+   "id": 60603,
+   "industry": "world",
+   "networks": [
+    "History"
+   ],
+   "number_of_episodes": 264,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
+   "popularity": 32.3955,
+   "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "HISTORY Vault Apple TV channel"
+    },
+    {
+     "name": "HISTORY Vault Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "History"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "HistoryPlay Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5BTLYTpmxk4esX7qkNstcjpczJO.png",
+     "name": "HISTORY Vault Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3JjNZuoqjepX0LrRAIHXpuKTblR.png",
+     "name": "HISTORY Vault Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4cHhgsNAxu15DEut0ZBmc8lK0Zt.png",
+     "name": "History",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-11-10",
+     "episode_count": 47,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-01-05",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-11-04",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-11-10",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-11-15",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-11-07",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-11-13",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2019-11-05",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2020-11-10",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2021-11-02",
+     "episode_count": 25,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2022-11-15",
+     "episode_count": 25,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2023-11-07",
+     "episode_count": 25,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2024-11-12",
+     "episode_count": 25,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2025-11-04",
+     "episode_count": 25,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2026-11-10",
+     "episode_count": 7,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Connecting the dots one dig at a time.",
+   "title": "The Curse of Oak Island",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 155
+  },
+  "tv:66203": {
+   "backdrop_path": "/mXVr88l7877i0P4cLQl1mUvaXGJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luna Valente / Sol Benson",
+     "n": "Karol Sevilla"
+    },
+    {
+     "c": "Matteo Balsano",
+     "n": "Ruggero Pasquarelli"
+    },
+    {
+     "c": "Ámbar Smith",
+     "n": "Valentina Zenere"
+    },
+    {
+     "c": "Simón Álvarez",
+     "n": "Michael Ronda"
+    },
+    {
+     "c": "Nina Simonetti",
+     "n": "Carolina Kopelioff"
+    },
+    {
+     "c": "Delfina 'Delfi' Alzamendi",
+     "n": "Malena Ratner"
+    },
+    {
+     "c": "Jazmín Carbajal",
+     "n": "Katja Martínez"
+    },
+    {
+     "c": "Jimena 'Jim' Medina",
+     "n": "Ana Jara Martínez"
+    },
+    {
+     "c": "Yamila 'Yam' Sánchez",
+     "n": "Chiara Parravicini"
+    },
+    {
+     "c": "Gastón Perida",
+     "n": "Agustín Bernasconi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Jorge Edelstein"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2016-03-14",
+   "genres": [
+    "Soap",
+    "Family",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 66203,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 220,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Luna Valente lives with her family in Cancún, Mexico. She goes to school, has her own group of friends, has a job, and loves to skate. However, her life changes when her parents are given a job offer that moves them to Buenos Aires, Argentina. There she finds a new skating rink (named Jam & Roller), learns freestyling, makes new friends, and even falls in love.",
+   "popularity": 30.3994,
+   "poster_path": "/4JDmIzhNF7aMsDGlxVwkQ9kv9E6.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-03-03",
+     "episode_count": 20,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-03-14",
+     "episode_count": 80,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-04-17",
+     "episode_count": 80,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-04-16",
+     "episode_count": 60,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Soy Luna",
+   "trailer": {
+    "key": "naiCwvOhjc0",
+    "name": "Soy Luna: Trailer 3 | Disney Channel Oficial",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.006,
+   "vote_count": 1141
+  },
+  "tv:95603": {
+   "backdrop_path": "/puLaqdcTRwFxwv9S3PO6jA3ep7J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Osman Bey",
+     "n": "Burak Özçivit"
+    },
+    {
+     "c": "Bala Hatun",
+     "n": "Özge Törer"
+    },
+    {
+     "c": "Orhan Bey",
+     "n": "Emre Bey"
+    },
+    {
+     "c": "Holofira",
+     "n": "Ecem Sena Bayır"
+    },
+    {
+     "c": "Alaeddin Bey",
+     "n": "Ömer Faruk Aran"
+    },
+    {
+     "c": "Gonca Hatun",
+     "n": "Belgin Şimşek"
+    },
+    {
+     "c": "Fatma Melek Hatun",
+     "n": "Leya Kırşan"
+    },
+    {
+     "c": "Boran Alp",
+     "n": "Yiğit Uçan"
+    },
+    {
+     "c": "Cerkutay",
+     "n": "Çağrı Şensoy"
+    },
+    {
+     "c": "Ulgen Hatun",
+     "n": "Begüm Çağla Taşkın"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "atv",
+   "created_by": [
+    "Mehmet Bozdağ"
+   ],
+   "director": [],
+   "episode_run_time": [
+    120
+   ],
+   "first_air_date": "2019-11-20",
+   "genres": [
+    "War & Politics",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 95603,
+   "industry": "world",
+   "networks": [
+    "atv"
+   ],
+   "number_of_episodes": 194,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "The epic continuation of Diriliş Ertuğrul, Kuruluş Osman follows Osman Bey — son of Ertuğrul and destined founder of the Ottoman Empire — as he transforms a small Turkic tribe into a sovereign state. Battling the Byzantine Empire, Mongol forces and treachery from within, Osman must prove himself as both a warrior and a leader. A sweeping historical action drama built on faith, honour and the birth of one of history's greatest empires.",
+   "popularity": 73.6345,
+   "poster_path": "/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-11-20",
+     "episode_count": 27,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-09-30",
+     "episode_count": 37,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-10-06",
+     "episode_count": 34,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-10-05",
+     "episode_count": 32,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2023-10-04",
+     "episode_count": 34,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-10-02",
+     "episode_count": 30,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kuruluş Osman",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 316
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "62",
- "count": 10,
+ "count": 16,
  "titles": {
-  "12662": {
+  "movie:12662": {
    "backdrop_path": "/ysMyMqg1HCMjltGbEoptzrheZy4.jpg",
    "budget": 8400000,
    "cast": [
@@ -121,7 +121,7 @@
    "vote_average": 5.644,
    "vote_count": 459
   },
-  "16562": {
+  "movie:16562": {
    "backdrop_path": "/pNGrPhlOt76pkC5VAPR76mQrgin.jpg",
    "budget": 0,
    "cast": [
@@ -228,7 +228,7 @@
    "vote_average": 7.3,
    "vote_count": 446
   },
-  "1662": {
+  "movie:1662": {
    "backdrop_path": "/rQfoRwxlkU8hdUnruoicnCuc4XO.jpg",
    "budget": 7000000,
    "cast": [
@@ -348,7 +348,7 @@
    "vote_average": 6.945,
    "vote_count": 453
   },
-  "16962": {
+  "movie:16962": {
    "backdrop_path": "/hMnZmxA7P6BXyqS6wEQJyOgGGaA.jpg",
    "budget": 0,
    "cast": [
@@ -471,7 +471,7 @@
    "vote_average": 6.888,
    "vote_count": 480
   },
-  "18462": {
+  "movie:18462": {
    "backdrop_path": "/wE1x0OinNZ7RxFOLfXRSHZ91gx8.jpg",
    "budget": 3000000,
    "cast": [
@@ -612,7 +612,7 @@
    "vote_average": 6.188,
    "vote_count": 473
   },
-  "28162": {
+  "movie:28162": {
    "backdrop_path": "/bY7DvsYsAODykqUJfkPZA3BHKOd.jpg",
    "budget": 450000,
    "cast": [
@@ -720,7 +720,7 @@
    "vote_average": 7.752,
    "vote_count": 497
   },
-  "457262": {
+  "movie:457262": {
    "backdrop_path": "/bZ9QHHt7Hs9OznHNaF586HCrrKu.jpg",
    "budget": 3400000,
    "cast": [
@@ -881,7 +881,7 @@
    "vote_average": 6.055,
    "vote_count": 464
   },
-  "457962": {
+  "movie:457962": {
    "backdrop_path": "/sj78u6ym80gdHf230MXY5BjhH1V.jpg",
    "budget": 0,
    "cast": [
@@ -992,7 +992,7 @@
    "vote_average": 6.0,
    "vote_count": 492
   },
-  "560362": {
+  "movie:560362": {
    "backdrop_path": "/meEuc9El2efDGZMARPjd4u4qHhd.jpg",
    "budget": 0,
    "cast": [
@@ -1101,7 +1101,7 @@
    "vote_average": 5.25,
    "vote_count": 474
   },
-  "790462": {
+  "movie:790462": {
    "backdrop_path": "/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
    "budget": 13800000,
    "cast": [
@@ -1282,6 +1282,1053 @@
    "type": "movie",
    "vote_average": 5.695,
    "vote_count": 443
+  },
+  "tv:113962": {
+   "backdrop_path": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe McNamara",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Cruz Manuelos",
+     "n": "Laysla De Oliveira"
+    },
+    {
+     "c": "Neal McNamara",
+     "n": "Dave Annable"
+    },
+    {
+     "c": "Bobby",
+     "n": "Jill Wagner"
+    },
+    {
+     "c": "Tucker",
+     "n": "LaMonica Garrett"
+    },
+    {
+     "c": "Two Cups",
+     "n": "James Jordan"
+    },
+    {
+     "c": "Captain Josephina 'Josie' Carrillo",
+     "n": "Genesis Rodriguez"
+    },
+    {
+     "c": "Byron Westfield",
+     "n": "Michael Kelly"
+    },
+    {
+     "c": "Randy",
+     "n": "Austin Hébert"
+    },
+    {
+     "c": "Tex",
+     "n": "Jonah Wharton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+",
+   "created_by": [
+    "Taylor Sheridan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-07-23",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 113962,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+   "popularity": 91.8027,
+   "poster_path": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-07-23",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2024-10-27",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-08-02",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "This wasn't the mission.",
+   "title": "Lioness",
+   "trailer": {
+    "key": "uEjcXhW7CXo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.276,
+   "vote_count": 1747
+  },
+  "tv:162": {
+   "backdrop_path": "/bNYJxbtslqHdbNfIT9XXjbwEZuX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry T. Stone",
+     "n": "Harry Anderson"
+    },
+    {
+     "c": "Christine Sullivan",
+     "n": "Markie Post"
+    },
+    {
+     "c": "Dan Fielding",
+     "n": "John Larroquette"
+    },
+    {
+     "c": "Mac Robinson",
+     "n": "Charles Robinson"
+    },
+    {
+     "c": "Nostradamus 'Bull' Shannon",
+     "n": "Richard Moll"
+    },
+    {
+     "c": "Rosalind 'Roz' Russell",
+     "n": "Marsha Warfield"
+    },
+    {
+     "c": "Lisette Hocheiser",
+     "n": "Joleen Lutz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Reinhold Weege"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1984-01-04",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 162,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 193,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An eccentric fun-loving judge presides over an urban night court and all the silliness going on there.",
+   "popularity": 37.0249,
+   "poster_path": "/bpEVtr4NCkbmTdponemKSjt9POc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1984-01-04",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1984-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1985-09-26",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1986-10-02",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1987-09-17",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1988-10-26",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1989-09-27",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1990-09-28",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1991-09-18",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Chaos in the Courtroom!",
+   "title": "Night Court",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 151
+  },
+  "tv:213562": {
+   "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pamela Voorhees",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Levon Brooks",
+     "n": "William Catlett"
+    },
+    {
+     "c": "Grace Snell",
+     "n": "Gwendolyn Sundstrom"
+    },
+    {
+     "c": "Dorf",
+     "n": "Cameron Scoggins"
+    },
+    {
+     "c": "Briana Brooks",
+     "n": "Devin Kessler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Peacock",
+   "created_by": [
+    "Brad Caleb Kane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-15",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 213562,
+   "industry": "world",
+   "networks": [
+    "Peacock"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+   "popularity": 47.3672,
+   "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-15",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Rage is a mother.",
+   "title": "Crystal Lake",
+   "trailer": {
+    "key": "Rs49eRHFD9c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.581,
+   "vote_count": 356
+  },
+  "tv:21762": {
+   "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adam Braverman",
+     "n": "Peter Krause"
+    },
+    {
+     "c": "Sarah Braverman",
+     "n": "Lauren Graham"
+    },
+    {
+     "c": "Crosby Braverman",
+     "n": "Dax Shepard"
+    },
+    {
+     "c": "Julia Braverman-Graham",
+     "n": "Erika Christensen"
+    },
+    {
+     "c": "Kristina Braverman",
+     "n": "Monica Potter"
+    },
+    {
+     "c": "Joel Graham",
+     "n": "Sam Jaeger"
+    },
+    {
+     "c": "Jasmine Trussell",
+     "n": "Joy Bryant"
+    },
+    {
+     "c": "Amber Holt",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Drew Holt",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Max Braverman",
+     "n": "Max Burkholder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Jason Katims"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-03-02",
+   "genres": [
+    "Drama"
+   ],
+   "id": 21762,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 103,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+   "popularity": 35.6052,
+   "poster_path": "/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-03-02",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-14",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-13",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-11",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-26",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-09-25",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Life divides. Family unites.",
+   "title": "Parenthood",
+   "trailer": {
+    "key": "o_cblVvo5bg",
+    "name": "Parenthood Series Trailer - Season 1 on DVD",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.49,
+   "vote_count": 196
+  },
+  "tv:562": {
+   "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Ellen DeGeneres"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Syndication",
+   "created_by": [
+    "Ellen DeGeneres"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2003-09-08",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ],
+   "id": 562,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 2087,
+   "number_of_seasons": 19,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Ellen DeGeneres Show, often shortened to just Ellen, is an American television talk show hosted by comedian/actress Ellen DeGeneres.",
+   "popularity": 59.6503,
+   "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2003-09-08",
+     "episode_count": 77,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-09-06",
+     "episode_count": 180,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-05",
+     "episode_count": 170,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-04",
+     "episode_count": 124,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-09-04",
+     "episode_count": 83,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-09-08",
+     "episode_count": 86,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-06",
+     "episode_count": 139,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-09-13",
+     "episode_count": 171,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-09-12",
+     "episode_count": 171,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-09-10",
+     "episode_count": 189,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-09-09",
+     "episode_count": 175,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-09-08",
+     "episode_count": 6,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2015-09-08",
+     "episode_count": 101,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-09-01",
+     "episode_count": 43,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-09-05",
+     "episode_count": 23,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-09-04",
+     "episode_count": 10,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2019-09-09",
+     "episode_count": 36,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2020-09-21",
+     "episode_count": 174,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2021-09-13",
+     "episode_count": 129,
+     "name": "Season 19",
+     "season_number": 19
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Ellen DeGeneres Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.53,
+   "vote_count": 182
+  },
+  "tv:61662": {
+   "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Rose",
+     "n": "Eugene Levy"
+    },
+    {
+     "c": "Moira Rose",
+     "n": "Catherine O'Hara"
+    },
+    {
+     "c": "David Rose",
+     "n": "Dan Levy"
+    },
+    {
+     "c": "Alexis Rose",
+     "n": "Annie Murphy"
+    },
+    {
+     "c": "Stevie Budd",
+     "n": "Emily Hampshire"
+    },
+    {
+     "c": "Roland Schitt",
+     "n": "Chris Elliott"
+    },
+    {
+     "c": "Jocelyn Schitt",
+     "n": "Jennifer Robertson"
+    },
+    {
+     "c": "Patrick Brewer",
+     "n": "Noah Reid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBC Television",
+   "created_by": [
+    "Eugene Levy",
+    "Dan Levy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2015-01-13",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 61662,
+   "industry": "world",
+   "networks": [
+    "CBC Television"
+   ],
+   "number_of_episodes": 79,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+   "popularity": 49.2768,
+   "poster_path": "/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-02-24",
+     "episode_count": 163,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-01-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-01-12",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-01-10",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-01-09",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-01-08",
+     "episode_count": 14,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-01-07",
+     "episode_count": 14,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Where everyone fits in.",
+   "title": "Schitt's Creek",
+   "trailer": {
+    "key": "W0uWS6CnC2o",
+    "name": "Schitt's Creek Season 1 | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.806,
+   "vote_count": 775
   }
  }
 }

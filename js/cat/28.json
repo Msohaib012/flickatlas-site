@@ -1,8 +1,8 @@
 {
  "bucket": "28",
- "count": 5,
+ "count": 12,
  "titles": {
-  "16328": {
+  "movie:16328": {
    "backdrop_path": "/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
    "budget": 1000000,
    "cast": [
@@ -139,7 +139,7 @@
    "vote_average": 7.5,
    "vote_count": 435
   },
-  "461928": {
+  "movie:461928": {
    "backdrop_path": "/7GR03LqwB7ePPPhaK5BAYNzt3Vm.jpg",
    "budget": 0,
    "cast": [
@@ -349,7 +349,7 @@
    "vote_average": 6.0,
    "vote_count": 462
   },
-  "670428": {
+  "movie:670428": {
    "backdrop_path": "/aLDQl8iUzrapHOob3VHgmyX1ijj.jpg",
    "budget": 1700000,
    "cast": [
@@ -569,7 +569,7 @@
    "vote_average": 6.011,
    "vote_count": 473
   },
-  "9028": {
+  "movie:9028": {
    "backdrop_path": "/85B6S6eV5uF0AyaEQ79BcyLirty.jpg",
    "budget": 0,
    "cast": [
@@ -761,7 +761,7 @@
    "vote_average": 7.5,
    "vote_count": 493
   },
-  "9828": {
+  "movie:9828": {
    "backdrop_path": "/2AnWtbrtWgZBiul29Fe3ArddSsv.jpg",
    "budget": 3700000,
    "cast": [
@@ -875,6 +875,1418 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 494
+  },
+  "tv:1428": {
+   "backdrop_path": "/edhROlXRob3TopjWJ5898GSvQpI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Brian Louden"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Jonathan Lung"
+    },
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Robert Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Discovery",
+   "created_by": [
+    "Peter Rees"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43,
+    60
+   ],
+   "first_air_date": "2003-01-23",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1428,
+   "industry": "world",
+   "networks": [
+    "Discovery",
+    "SBS"
+   ],
+   "number_of_episodes": 272,
+   "number_of_seasons": 16,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Productions for the Discovery Channel. The show's hosts, special effects experts Adam Savage and Jamie Hyneman, use elements of the scientific method to test the validity of rumors, myths, movie scenes, adages, Internet videos, and news stories.",
+   "popularity": 40.4146,
+   "poster_path": "/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+   "production_countries": [
+    "AU",
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Discovery"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery +"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ais9zJI5vS3yhVQn0BvxqccFHC1.png",
+     "name": "Discovery",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+     "name": "Discovery +",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-03-21",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-01-23",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-01-11",
+     "episode_count": 17,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-02-16",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-01-11",
+     "episode_count": 28,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-01-10",
+     "episode_count": 25,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2008-01-16",
+     "episode_count": 19,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-04-08",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-01-04",
+     "episode_count": 23,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2011-04-06",
+     "episode_count": 21,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2012-03-25",
+     "episode_count": 20,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2013-05-01",
+     "episode_count": 11,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-01-04",
+     "episode_count": 15,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2015-01-10",
+     "episode_count": 14,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-01-02",
+     "episode_count": 11,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-11-15",
+     "episode_count": 6,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-01-03",
+     "episode_count": 8,
+     "name": "Season 16",
+     "season_number": 16
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Failure is always an option.",
+   "title": "MythBusters",
+   "trailer": {
+    "key": "Hy265SKypYk",
+    "name": "MythBusters Reunion Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.824,
+   "vote_count": 671
+  },
+  "tv:2328": {
+   "backdrop_path": "/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billy Cranston",
+     "n": "David Yost"
+    },
+    {
+     "c": "Ollie Kana",
+     "n": "Kai Moya"
+    },
+    {
+     "c": "Amelia Jones",
+     "n": "Hunter Deno"
+    },
+    {
+     "c": "Izzy Garcia",
+     "n": "Tessa Rao"
+    },
+    {
+     "c": "Fern",
+     "n": "Jacqueline Joe"
+    },
+    {
+     "c": "Javi Garcia",
+     "n": "Chance Perez"
+    },
+    {
+     "c": "Zayto",
+     "n": "Russell Curry"
+    },
+    {
+     "c": "Aiyon",
+     "n": "Jordan Fite"
+    },
+    {
+     "c": "Solon (voice)",
+     "n": "Josephine Davison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "ABC",
+   "created_by": [
+    "Haim Saban"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "1993-08-28",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 2328,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "Nickelodeon",
+    "ABC Family",
+    "Toon Disney",
+    "Netflix",
+    "Fox Kids"
+   ],
+   "number_of_episodes": 973,
+   "number_of_seasons": 30,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",
+   "popularity": 31.8677,
+   "poster_path": "/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+   "production_countries": [
+    "JP",
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Tubi TV"
+    },
+    {
+     "name": "Hasbrotv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-01-01",
+     "episode_count": 46,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-08-28",
+     "episode_count": 60,
+     "name": "Mighty Morphin (1)",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-07-21",
+     "episode_count": 52,
+     "name": "Mighty Morphin (2)",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-09-02",
+     "episode_count": 43,
+     "name": "Mighty Morphin (3)",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-04-20",
+     "episode_count": 50,
+     "name": "Zeo",
+     "season_number": 4
+    },
+    {
+     "air_date": "1997-04-19",
+     "episode_count": 45,
+     "name": "Turbo",
+     "season_number": 5
+    },
+    {
+     "air_date": "1998-02-06",
+     "episode_count": 43,
+     "name": "In Space",
+     "season_number": 6
+    },
+    {
+     "air_date": "1999-02-06",
+     "episode_count": 45,
+     "name": "Lost Galaxy",
+     "season_number": 7
+    },
+    {
+     "air_date": "2000-02-12",
+     "episode_count": 40,
+     "name": "Lightspeed Rescue",
+     "season_number": 8
+    },
+    {
+     "air_date": "2001-02-03",
+     "episode_count": 40,
+     "name": "Time Force",
+     "season_number": 9
+    },
+    {
+     "air_date": "2002-02-09",
+     "episode_count": 40,
+     "name": "Wild Force",
+     "season_number": 10
+    },
+    {
+     "air_date": "2003-02-15",
+     "episode_count": 38,
+     "name": "Ninja Storm",
+     "season_number": 11
+    },
+    {
+     "air_date": "2004-02-14",
+     "episode_count": 38,
+     "name": "Dino Thunder",
+     "season_number": 12
+    },
+    {
+     "air_date": "2005-02-05",
+     "episode_count": 38,
+     "name": "S.P.D.",
+     "season_number": 13
+    },
+    {
+     "air_date": "2006-02-20",
+     "episode_count": 32,
+     "name": "Mystic Force",
+     "season_number": 14
+    },
+    {
+     "air_date": "2007-02-26",
+     "episode_count": 32,
+     "name": "Operation Overdrive",
+     "season_number": 15
+    },
+    {
+     "air_date": "2008-02-18",
+     "episode_count": 32,
+     "name": "Jungle Fury",
+     "season_number": 16
+    },
+    {
+     "air_date": "2009-03-07",
+     "episode_count": 32,
+     "name": "RPM",
+     "season_number": 17
+    },
+    {
+     "air_date": "2011-02-07",
+     "episode_count": 23,
+     "name": "Samurai",
+     "season_number": 18
+    },
+    {
+     "air_date": "2012-02-18",
+     "episode_count": 22,
+     "name": "Super Samurai",
+     "season_number": 19
+    },
+    {
+     "air_date": "2013-02-02",
+     "episode_count": 22,
+     "name": "Megaforce",
+     "season_number": 20
+    },
+    {
+     "air_date": "2014-02-14",
+     "episode_count": 20,
+     "name": "Super Megaforce",
+     "season_number": 21
+    },
+    {
+     "air_date": "2015-02-06",
+     "episode_count": 22,
+     "name": "Dino Charge",
+     "season_number": 22
+    },
+    {
+     "air_date": "2016-01-29",
+     "episode_count": 22,
+     "name": "Dino Super Charge",
+     "season_number": 23
+    },
+    {
+     "air_date": "2017-01-20",
+     "episode_count": 22,
+     "name": "Ninja Steel",
+     "season_number": 24
+    },
+    {
+     "air_date": "2018-01-26",
+     "episode_count": 22,
+     "name": "Super Ninja Steel",
+     "season_number": 25
+    },
+    {
+     "air_date": "2019-03-02",
+     "episode_count": 22,
+     "name": "Beast Morphers (1)",
+     "season_number": 26
+    },
+    {
+     "air_date": "2020-02-21",
+     "episode_count": 22,
+     "name": "Beast Morphers (2)",
+     "season_number": 27
+    },
+    {
+     "air_date": "2021-02-19",
+     "episode_count": 22,
+     "name": "Dino Fury (1)",
+     "season_number": 28
+    },
+    {
+     "air_date": "2022-03-02",
+     "episode_count": 22,
+     "name": "Dino Fury (2)",
+     "season_number": 29
+    },
+    {
+     "air_date": "2023-09-28",
+     "episode_count": 10,
+     "name": "Cosmic Fury",
+     "season_number": 30
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Power Rangers",
+   "trailer": {
+    "key": "igDQns34c3s",
+    "name": "Mighty Morphin Power Rangers: The Complete Series (1993) Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 874
+  },
+  "tv:46928": {
+   "backdrop_path": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Princess Sofia (voice)",
+     "n": "Ariel Winter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney Junior",
+   "created_by": [
+    "Craig Gerber"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2013-01-11",
+   "genres": [
+    "Family",
+    "Animation",
+    "Kids"
+   ],
+   "id": 46928,
+   "industry": "world",
+   "networks": [
+    "Disney Junior"
+   ],
+   "number_of_episodes": 108,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+   "popularity": 30.7218,
+   "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2012-11-18",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-01-11",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-03-07",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-08-05",
+     "episode_count": 29,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-04-28",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Sofia the First",
+   "trailer": {
+    "key": "5XDG75LPXqE",
+    "name": "Theme Song | Sofia the First | Disney Junior",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.218,
+   "vote_count": 559
+  },
+  "tv:54728": {
+   "backdrop_path": "/9feA6Kd1G456nq2XrDqpDQpFlcG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tyson Granger (voice)",
+     "n": "Motoko Kumai"
+    },
+    {
+     "c": "Yuri Ivanov (voice)",
+     "n": "Kiyu Morita"
+    },
+    {
+     "c": "Hiro Granger (voice)",
+     "n": "Daisuke Namikawa"
+    },
+    {
+     "c": "Kai Hiwatari (voice)",
+     "n": "Urara Takano"
+    },
+    {
+     "c": "Ryuunosuke Kinomiya (voice)",
+     "n": "Chikao Ohtsuka"
+    },
+    {
+     "c": "Sanguinex (voice)",
+     "n": "Hiroshi Kamiya"
+    },
+    {
+     "c": "Gao (voice)",
+     "n": "Kazuyuki Ishikawa"
+    },
+    {
+     "c": "Santiago (voice)",
+     "n": "Kaori Saiki"
+    },
+    {
+     "c": "Johnny McGregor (voice)",
+     "n": "Chiharu Tezuka"
+    },
+    {
+     "c": "Max Tate (voice)",
+     "n": "Ai Orikasa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2001-01-08",
+   "genres": [
+    "Kids",
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 54728,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 154,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Thirteen-year-old Takao Kinomiya (Tyson Granger), along with his fellow teammates, Kai Hiwatari, Max Mizuhura (Max Tate), and Rei Kon (Ray Kon), strive to become the greatest Beybladers in the world. With the technical help of the team's resident genius, Kyoujyu (Kenny), and with the powerful strength of their BitBeasts, the Bladebreakers armed with their Beys attempt to reach their goal.",
+   "popularity": 30.2044,
+   "poster_path": "/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-01-08",
+     "episode_count": 51,
+     "name": "Beyblade",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-01-07",
+     "episode_count": 51,
+     "name": "Beyblade V Force",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-01-06",
+     "episode_count": 52,
+     "name": "Beyblade G Revolution",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Beyblade",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.683,
+   "vote_count": 246
+  },
+  "tv:71728": {
+   "backdrop_path": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sheldon Cooper",
+     "n": "Iain Armitage"
+    },
+    {
+     "c": "Mary Cooper",
+     "n": "Zoe Perry"
+    },
+    {
+     "c": "George Cooper",
+     "n": "Lance Barber"
+    },
+    {
+     "c": "Georgie Cooper",
+     "n": "Montana Jordan"
+    },
+    {
+     "c": "Missy Cooper",
+     "n": "Raegan Revord"
+    },
+    {
+     "c": "Connie Tucker",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Mandy McAllister",
+     "n": "Emily Osment"
+    },
+    {
+     "c": "Sheldon Cooper (voice)",
+     "n": "Jim Parsons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Steven Molaro",
+    "Chuck Lorre"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-09-25",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 71728,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 141,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+   "popularity": 93.0024,
+   "poster_path": "/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-05-28",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-09-25",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 21,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-11-05",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-10-07",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-09-29",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2024-02-15",
+     "episode_count": 14,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It all started with a big bang—or rather, in East Texas.",
+   "title": "Young Sheldon",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 3156
+  },
+  "tv:82428": {
+   "backdrop_path": "/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jordan Baker",
+     "n": "Michael Evans Behling"
+    },
+    {
+     "c": "Layla Keating",
+     "n": "Greta Onieogou"
+    },
+    {
+     "c": "Tamia 'Coop' Cooper",
+     "n": "Bre-Z"
+    },
+    {
+     "c": "Cassius Jeremy",
+     "n": "Osy Ikhile"
+    },
+    {
+     "c": "Amina",
+     "n": "Alexis Chikaeze"
+    },
+    {
+     "c": "Kingston Jeremy",
+     "n": "Nathaniel Logan McIntyre"
+    },
+    {
+     "c": "Khalil",
+     "n": "Antonio J Bell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The CW",
+   "created_by": [
+    "April Blair"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2018-10-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 82428,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 132,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds - Compton and Beverly Hills - begin to collide. Inspired by the life of pro football player Spencer Paysinger.",
+   "popularity": 41.0105,
+   "poster_path": "/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-01-11",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-10-10",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-10-07",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-01-18",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-10-25",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-10-10",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-04-01",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-02-03",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-07-13",
+     "episode_count": 13,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Their future is on the line.",
+   "title": "All American",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 506
+  },
+  "tv:82728": {
+   "backdrop_path": "/tWdNZ3xuFBhJ2ZoQ9vShNGHTb85.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bandit Heeler (voice)",
+     "n": "Dave McCormack"
+    },
+    {
+     "c": "Chilli Heeler (voice)",
+     "n": "Melanie Zanetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC Kids",
+   "created_by": [
+    "Joe Brumm"
+   ],
+   "director": [],
+   "episode_run_time": [
+    7
+   ],
+   "first_air_date": "2018-10-01",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Kids"
+   ],
+   "id": 82728,
+   "industry": "world",
+   "networks": [
+    "ABC Kids"
+   ],
+   "number_of_episodes": 154,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+   "popularity": 50.0981,
+   "poster_path": "/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+   "production_countries": [
+    "AU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-12-14",
+     "episode_count": 31,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-10-01",
+     "episode_count": 52,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-03-17",
+     "episode_count": 52,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-05",
+     "episode_count": 49,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "For real life?!",
+   "title": "Bluey",
+   "trailer": {
+    "key": "2ZtG5Ba6iT0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.579,
+   "vote_count": 759
   }
  }
 }

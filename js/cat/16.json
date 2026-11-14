@@ -1,8 +1,8 @@
 {
  "bucket": "16",
- "count": 7,
+ "count": 18,
  "titles": {
-  "216": {
+  "movie:216": {
    "backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
    "budget": 130000,
    "cast": [
@@ -164,7 +164,7 @@
    "vote_average": 7.7,
    "vote_count": 475
   },
-  "320316": {
+  "movie:320316": {
    "backdrop_path": "/gIqzuwHmt9OzBrNbNL0LkuEpGiq.jpg",
    "budget": 1816720,
    "cast": [
@@ -252,7 +252,7 @@
    "vote_average": 5.79,
    "vote_count": 495
   },
-  "44716": {
+  "movie:44716": {
    "backdrop_path": "/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
    "budget": 15000000,
    "cast": [
@@ -410,7 +410,7 @@
    "vote_average": 7.146,
    "vote_count": 482
   },
-  "500916": {
+  "movie:500916": {
    "backdrop_path": "/lY3CHPKZV41z5rW2npA0UGeMAHI.jpg",
    "budget": 9000000,
    "cast": [
@@ -557,7 +557,7 @@
    "vote_average": 5.602,
    "vote_count": 449
   },
-  "785516": {
+  "movie:785516": {
    "backdrop_path": "/zpqAzcQSbFaCscSjSpz2Fv8qSXC.jpg",
    "budget": 0,
    "cast": [
@@ -664,7 +664,7 @@
    "vote_average": 5.9,
    "vote_count": 445
   },
-  "8016": {
+  "movie:8016": {
    "backdrop_path": "/vblx2TkQFrBrEORsEssizgEqakT.jpg",
    "budget": 115000,
    "cast": [
@@ -798,7 +798,7 @@
    "vote_average": 7.622,
    "vote_count": 440
   },
-  "9416": {
+  "movie:9416": {
    "backdrop_path": "/mPId0j7owQmeOQHyOl2kEbzQpXd.jpg",
    "budget": 25000000,
    "cast": [
@@ -960,6 +960,1774 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 451
+  },
+  "tv:103516": {
+   "backdrop_path": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain Christopher Pike",
+     "n": "Anson Mount"
+    },
+    {
+     "c": "Spock",
+     "n": "Ethan Peck"
+    },
+    {
+     "c": "Christine Chapel",
+     "n": "Jess Bush"
+    },
+    {
+     "c": "La'An Noonien-Singh",
+     "n": "Christina Chong"
+    },
+    {
+     "c": "Nyota Uhura",
+     "n": "Celia Rose Gooding"
+    },
+    {
+     "c": "Erica Ortegas",
+     "n": "Melissa Navia"
+    },
+    {
+     "c": "Dr. Joseph M'Benga",
+     "n": "Babs Olusanmokun"
+    },
+    {
+     "c": "Lieutenant Montgomery Scott",
+     "n": "Martin Quinn"
+    },
+    {
+     "c": "Una Chin-Riley",
+     "n": "Rebecca Romijn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "Jenny Lumet",
+    "Alex Kurtzman",
+    "Akiva Goldsman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-05-05",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 103516,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+   "popularity": 35.4898,
+   "poster_path": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-09-08",
+     "episode_count": 31,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-05-05",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-06-15",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-07-17",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-07-23",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Boldly go one step closer to where it all began.",
+   "title": "Star Trek: Strange New Worlds",
+   "trailer": {
+    "key": "2KJz0JRcNE8",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.862,
+   "vote_count": 883
+  },
+  "tv:110316": {
+   "backdrop_path": "/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arisu Ryohei",
+     "n": "Kento Yamazaki"
+    },
+    {
+     "c": "Usagi Yuzuha",
+     "n": "Tao Tsuchiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-12-10",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 110316,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+   "popularity": 30.9441,
+   "poster_path": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-12-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-12-22",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Life is a game, you should enjoy it more.",
+   "title": "Alice in Borderland",
+   "trailer": {
+    "key": "EEJ7nUvXUYA",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 2891
+  },
+  "tv:13916": {
+   "backdrop_path": "/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Light Yagami (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "L (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Ryuk (voice)",
+     "n": "Shidou Nakamura"
+    },
+    {
+     "c": "Misa Amane (voice)",
+     "n": "Aya Hirano"
+    },
+    {
+     "c": "Near (voice)",
+     "n": "Noriko Hidaka"
+    },
+    {
+     "c": "Mello (voice)",
+     "n": "Nozomu Sasaki"
+    },
+    {
+     "c": "Rem (voice)",
+     "n": "Kimiko Saito"
+    },
+    {
+     "c": "Soichiro Yagami (voice)",
+     "n": "Naoya Uchida"
+    },
+    {
+     "c": "Touta Matsuda (voice)",
+     "n": "Ryou Naitou"
+    },
+    {
+     "c": "Shuichi Aizawa (voice)",
+     "n": "Keiji Fujiwara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2006-10-04",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 13916,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 37,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+   "popularity": 32.6535,
+   "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-10-04",
+     "episode_count": 37,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The human whose name is written in this note shall die.",
+   "title": "Death Note",
+   "trailer": {
+    "key": "NlJZ-YgAt-c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.615,
+   "vote_count": 5263
+  },
+  "tv:1416": {
+   "backdrop_path": "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Meredith Grey",
+     "n": "Ellen Pompeo"
+    },
+    {
+     "c": "Miranda Bailey",
+     "n": "Chandra Wilson"
+    },
+    {
+     "c": "Richard Webber",
+     "n": "James Pickens Jr."
+    },
+    {
+     "c": "Amelia Shepherd",
+     "n": "Caterina Scorsone"
+    },
+    {
+     "c": "Jo Wilson",
+     "n": "Camilla Luddington"
+    },
+    {
+     "c": "Ben Warren",
+     "n": "Jason George"
+    },
+    {
+     "c": "Atticus Lincoln",
+     "n": "Chris Carmack"
+    },
+    {
+     "c": "Winston Ndugu",
+     "n": "Anthony Hill"
+    },
+    {
+     "c": "Jules Millin",
+     "n": "Adelaide Kane"
+    },
+    {
+     "c": "Simone Griffith",
+     "n": "Alexis Floyd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Shonda Rhimes"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-03-27",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1416,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 467,
+   "number_of_seasons": 23,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+   "popularity": 271.6867,
+   "poster_path": "/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-02-14",
+     "episode_count": 68,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-03-27",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 27,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-21",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-24",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 23,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-09-27",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2013-09-26",
+     "episode_count": 24,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2014-09-25",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2015-09-24",
+     "episode_count": 24,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2016-09-22",
+     "episode_count": 24,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2017-09-28",
+     "episode_count": 24,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2018-09-27",
+     "episode_count": 25,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2019-09-26",
+     "episode_count": 21,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2020-11-12",
+     "episode_count": 17,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2021-09-30",
+     "episode_count": 20,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2022-10-06",
+     "episode_count": 20,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2024-03-14",
+     "episode_count": 10,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2024-09-26",
+     "episode_count": 18,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 18,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2026-10-15",
+     "episode_count": 7,
+     "name": "Season 23",
+     "season_number": 23
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Begin again.",
+   "title": "Grey's Anatomy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 11134
+  },
+  "tv:1516": {
+   "backdrop_path": "/t0RbyVHtPMkDGkQ7EAQpAf9syMp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John 'Hannibal' Smith",
+     "n": "George Peppard"
+    },
+    {
+     "c": "Templeton 'Faceman' Peck",
+     "n": "Dirk Benedict"
+    },
+    {
+     "c": "B.A. Baracus",
+     "n": "Mr. T"
+    },
+    {
+     "c": "'Howling Mad' Murdock",
+     "n": "Dwight Schultz"
+    },
+    {
+     "c": "Frankie Santana",
+     "n": "Eddie Velez"
+    },
+    {
+     "c": "General Hunt Stockwell",
+     "n": "Robert Vaughn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "NBC",
+   "created_by": [
+    "Frank Lupo",
+    "Stephen J. Cannell"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1983-01-23",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1516,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A fictional group of ex-United States Army Special Forces personnel work as soldiers of fortune while on the run from the Army after being branded as war criminals for a \"crime they didn't commit.\"",
+   "popularity": 43.3733,
+   "poster_path": "/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-01-01",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1983-01-23",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1983-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1984-09-18",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1985-09-24",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1986-09-26",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Heroes for hire.",
+   "title": "The A-Team",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.499,
+   "vote_count": 1138
+  },
+  "tv:1716": {
+   "backdrop_path": "/fiVX2cJvqJiFFHwj1JfvJl2vAp8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gary Hobson",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Marissa Clark",
+     "n": "Shanésia Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Ian Abrams",
+    "Patrick Q. Page",
+    "Vik Rubenfeld"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1996-09-28",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1716,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 90,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gary Hobson thinks he may even be losing his mind when tomorrow's newspaper mysteriously arrives today giving him a disconcerting look into the future. What will he do with tomorrow's news?",
+   "popularity": 29.5046,
+   "poster_path": "/uycL5H5ir0ckyyt17FXZAuSQU4p.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-09-28",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-27",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-09-26",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-25",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "What if you had tomorrow's news... TODAY?",
+   "title": "Early Edition",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.407,
+   "vote_count": 182
+  },
+  "tv:2316": {
+   "backdrop_path": "/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dwight Schrute",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "Jim Halpert",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "Pam Beesly",
+     "n": "Jenna Fischer"
+    },
+    {
+     "c": "Andy Bernard",
+     "n": "Ed Helms"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "NBC",
+   "created_by": [
+    "Greg Daniels"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-03-24",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2316,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 186,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+   "popularity": 1944.6525,
+   "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-13",
+     "episode_count": 106,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-03-24",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-21",
+     "episode_count": 23,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-27",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-25",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-09-23",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-09-22",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-09-20",
+     "episode_count": 23,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A comedy for anyone whose boss is an idiot.",
+   "title": "The Office",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.584,
+   "vote_count": 5703
+  },
+  "tv:4616": {
+   "backdrop_path": "/1V7WuDv5kmzwCCNd9CNQvOmqHdm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xena",
+     "n": "Lucy Lawless"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Renée O'Connor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Syndication",
+   "created_by": [
+    "John Schulian",
+    "Robert Tapert"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "1995-09-04",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4616,
+   "industry": "world",
+   "networks": [
+    "Syndication"
+   ],
+   "number_of_episodes": 134,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Xena is an infamous warrior on a quest to seek redemption for her past sins against the innocent. Accompanied by her comrade-in-arms Gabrielle, the campy couple use their formidable fighting skills to help those who are unable to defend themselves.",
+   "popularity": 38.6293,
+   "poster_path": "/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 54,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1995-09-04",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1996-09-30",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1997-09-29",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1998-09-28",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1999-09-27",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2000-10-02",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Her courage will change the world!",
+   "title": "Xena: Warrior Princess",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.528,
+   "vote_count": 1474
+  },
+  "tv:67116": {
+   "backdrop_path": "/yqZ5ACKeNJ30mylUEzvtWZu4pGU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roger Murtaugh",
+     "n": "Damon Wayans"
+    },
+    {
+     "c": "Wesley Cole",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Trish Murtaugh",
+     "n": "Keesha Sharp"
+    },
+    {
+     "c": "Brooks Avery",
+     "n": "Kevin Rahm"
+    },
+    {
+     "c": "Scorsese",
+     "n": "Johnathan Fernandez"
+    },
+    {
+     "c": "Sonya Bailey",
+     "n": "Michelle Mitchenor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Matthew Miller"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2016-09-21",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 67116,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 55,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A slightly unhinged former Navy SEAL lands a job as a police officer in Los Angeles where he's partnered with a veteran detective trying to keep maintain a low stress level in his life.",
+   "popularity": 24.9784,
+   "poster_path": "/grGOtTZ0OfNQoWnNtdJOiY1LB8e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-26",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Good Cop. Crazy Good Cop.",
+   "title": "Lethal Weapon",
+   "trailer": {
+    "key": "axMqvtJ7Rks",
+    "name": "Lethal Weapon | Season One Trailer | Warner Bros. Entertainment",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.299,
+   "vote_count": 818
+  },
+  "tv:74016": {
+   "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Conrad Hawkins",
+     "n": "Matt Czuchry"
+    },
+    {
+     "c": "Devon Pravesh",
+     "n": "Manish Dayal"
+    },
+    {
+     "c": "AJ Austin",
+     "n": "Malcolm-Jamal Warner"
+    },
+    {
+     "c": "Billie Sutton",
+     "n": "Jessica Lucas"
+    },
+    {
+     "c": "Randolph Bell",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Leela Devi",
+     "n": "Anuja Joshi"
+    },
+    {
+     "c": "Kit Voss",
+     "n": "Jane Leeves"
+    },
+    {
+     "c": "Ian Sullivan",
+     "n": "Andrew McCarthy"
+    },
+    {
+     "c": "Kincaid Sullivan",
+     "n": "Kaley Ronayne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Roshan Sethi",
+    "Amy Holden Jones",
+    "Hayley Schore"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2018-01-21",
+   "genres": [
+    "Drama"
+   ],
+   "id": 74016,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 107,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.",
+   "popularity": 49.0829,
+   "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-01-21",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-09-24",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-01-12",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-09-21",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-09-20",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "They don't care for rules. They care for patients.",
+   "title": "The Resident",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.362,
+   "vote_count": 1352
+  },
+  "tv:96316": {
+   "backdrop_path": "/ullfy98STkno11rDGi44SK6llwx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kazuya Kinoshita (voice)",
+     "n": "Shun Horie"
+    },
+    {
+     "c": "Chizuru Mizuhara (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Mami Nanami (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Ruka Sarashina (voice)",
+     "n": "Nao Toyama"
+    },
+    {
+     "c": "Sumi Sakurasawa (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Mini Yaemori (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Nagomi Kinoshita (voice)",
+     "n": "Yukari Nozawa"
+    },
+    {
+     "c": "Sayuri Ichinose (voice)",
+     "n": "Sayuri Sadaoka"
+    },
+    {
+     "c": "Yoshiaki Kibe (voice)",
+     "n": "Masayuki Akasaka"
+    },
+    {
+     "c": "Shun Kuribayashi (voice)",
+     "n": "Gakuto Kajiwara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2020-07-11",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 96316,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and a beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!",
+   "popularity": 33.3842,
+   "poster_path": "/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2020-06-13",
+     "episode_count": 138,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-07-11",
+     "episode_count": 60,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Rent-a-Girlfriend",
+   "trailer": {
+    "key": "jZFEtc3CKHs",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.281,
+   "vote_count": 1006
   }
  }
 }

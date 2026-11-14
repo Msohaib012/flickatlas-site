@@ -1,8 +1,8 @@
 {
  "bucket": "99",
- "count": 6,
+ "count": 10,
  "titles": {
-  "109099": {
+  "movie:109099": {
    "backdrop_path": "/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
    "budget": 20000000,
    "cast": [
@@ -125,7 +125,7 @@
    "vote_average": 5.197,
    "vote_count": 471
   },
-  "11899": {
+  "movie:11899": {
    "backdrop_path": "/t97xZTGkK1bBzIhjxoRdGnF9tcl.jpg",
    "budget": 8000000,
    "cast": [
@@ -242,7 +242,7 @@
    "vote_average": 6.619,
    "vote_count": 440
   },
-  "14299": {
+  "movie:14299": {
    "backdrop_path": "/ubgl0v0crnOGYPGkR2hhIwv7Chm.jpg",
    "budget": 12000000,
    "cast": [
@@ -383,7 +383,7 @@
    "vote_average": 7.086,
    "vote_count": 496
   },
-  "16899": {
+  "movie:16899": {
    "backdrop_path": "/yxpWmblcrFeX0uLvDbLJYBJqYvy.jpg",
    "budget": 0,
    "cast": [
@@ -546,7 +546,7 @@
    "vote_average": 6.499,
    "vote_count": 474
   },
-  "613099": {
+  "movie:613099": {
    "backdrop_path": "/isazfkX14Unin8m6meZMfm7QDfn.jpg",
    "budget": 0,
    "cast": [
@@ -650,7 +650,7 @@
    "vote_average": 6.549,
    "vote_count": 479
   },
-  "823999": {
+  "movie:823999": {
    "backdrop_path": "/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg",
    "budget": 0,
    "cast": [
@@ -814,6 +814,611 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 491
+  },
+  "tv:116799": {
+   "backdrop_path": "/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mickey Haller",
+     "n": "Manuel Garcia-Rulfo"
+    },
+    {
+     "c": "Maggie McPherson",
+     "n": "Neve Campbell"
+    },
+    {
+     "c": "Lorna Crane",
+     "n": "Becki Newton"
+    },
+    {
+     "c": "Dennis 'Cisco' Wojciechowski",
+     "n": "Angus Sampson"
+    },
+    {
+     "c": "Izzy Letts",
+     "n": "Jazz Raycole"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "David E. Kelley"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-05-13",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 116799,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
+   "popularity": 40.8242,
+   "poster_path": "/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-05-13",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-07-06",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-10-17",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-02-05",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Justice hurts.",
+   "title": "The Lincoln Lawyer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.704,
+   "vote_count": 587
+  },
+  "tv:1399": {
+   "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tyrion 'The Halfman' Lannister",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Jon Snow",
+     "n": "Kit Harington"
+    },
+    {
+     "c": "Sir Jaime 'Kingslayer' Lannister",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Cersei Lannister",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Daenerys Targaryen",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "Davos Seaworth",
+     "n": "Liam Cunningham"
+    },
+    {
+     "c": "Arya Stark",
+     "n": "Maisie Williams"
+    },
+    {
+     "c": "Brandon 'Bran' Stark",
+     "n": "Isaac Hempstead Wright"
+    },
+    {
+     "c": "Sansa Stark",
+     "n": "Sophie Turner"
+    },
+    {
+     "c": "Samwell 'Sam' Tarly",
+     "n": "John Bradley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "HBO",
+   "created_by": [
+    "David Benioff",
+    "D. B. Weiss"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2011-04-17",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 1399,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 73,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+   "popularity": 180.2169,
+   "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-12-05",
+     "episode_count": 300,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-04-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-04-01",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-03-31",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-04-06",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-04-12",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2016-04-24",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2017-07-16",
+     "episode_count": 7,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2019-04-14",
+     "episode_count": 6,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Winter is coming.",
+   "title": "Game of Thrones",
+   "trailer": {
+    "key": "KPLWWIOCOOQ",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.475,
+   "vote_count": 28174
+  },
+  "tv:34899": {
+   "backdrop_path": "/gn8k4ztPnrURIIocMOYdWCFknKJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "I. Süleyman",
+     "n": "Halit Ergenç"
+    },
+    {
+     "c": "Mahidevran Sultan",
+     "n": "Nur Fettahoğlu"
+    },
+    {
+     "c": "Hürrem Sultan",
+     "n": "Meryem Uzerli"
+    },
+    {
+     "c": "Şehzade Selim",
+     "n": "Engin Öztürk"
+    },
+    {
+     "c": "Nurbanu Sultan",
+     "n": "Merve Boluğur"
+    },
+    {
+     "c": "Valide Ayşe Hafsa Sultan",
+     "n": "Nebahat Çehre"
+    },
+    {
+     "c": "Pargalı İbrahim Paşa",
+     "n": "Okan Yalabık"
+    },
+    {
+     "c": "Hatice Sultan",
+     "n": "Selma Ergeç"
+    },
+    {
+     "c": "Gülfem Hatun",
+     "n": "Selen Öztürk"
+    },
+    {
+     "c": "Şehzade Mustafa",
+     "n": "Mehmet Günsür"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16+",
+   "channel": "Show TV",
+   "created_by": [
+    "Timur Savcı"
+   ],
+   "director": [],
+   "episode_run_time": [
+    90
+   ],
+   "first_air_date": "2011-01-06",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 34899,
+   "industry": "world",
+   "networks": [
+    "Show TV"
+   ],
+   "number_of_episodes": 139,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "At the age of 26, when his reign began, Sultan Süleyman sought to build an empire more powerful than Alexander the Great and to render the Ottomans invincible. The television series shows Süleyman's consolidation of his power: Pargalı İbrahim being grand minister of state, reinforcing the rule of law throughout the empire, meeting foreign diplomats, and preparing for military campaigns, all set against the backdrop of the tension between Christian Europe and the Ottoman Empire.",
+   "popularity": 29.9416,
+   "poster_path": "/UDvmQWnmIr9U6ZRB1k9ULXBow3.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-01-06",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-15",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-12",
+     "episode_count": 40,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-18",
+     "episode_count": 36,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt",
+    "ru",
+    "es",
+    "tr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Magnificent Century",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.13,
+   "vote_count": 821
+  },
+  "tv:799": {
+   "backdrop_path": "/klhQxNtnmFg1sqD6N83gT52KX7f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Jeremy Brett"
+    },
+    {
+     "c": "Dr. John H. Watson",
+     "n": "Edward Hardwicke"
+    },
+    {
+     "c": "Mrs. Hudson",
+     "n": "Rosalie Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "ITV1",
+   "created_by": [
+    "John Hawkesworth"
+   ],
+   "director": [],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "1984-04-24",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 799,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 41,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Sherlock Holmes, along with his friend Dr. Watson, uses his abilities to take on cases by private clients and those that the Scotland Yard are unable to solve.",
+   "popularity": 25.1721,
+   "poster_path": "/mVmGmdfdWxVZ2vSbC8De0UG5QJW.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Best tv ever Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zMjYQmgu8DPNBtIAWoWwn7RV4VW.png",
+     "name": "Best tv ever Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1984-04-24",
+     "episode_count": 7,
+     "name": "The Adventures of Sherlock Holmes",
+     "season_number": 1
+    },
+    {
+     "air_date": "1985-08-25",
+     "episode_count": 6,
+     "name": "The Adventures of Sherlock Holmes",
+     "season_number": 2
+    },
+    {
+     "air_date": "1986-07-09",
+     "episode_count": 7,
+     "name": "The Return of Sherlock Holmes",
+     "season_number": 3
+    },
+    {
+     "air_date": "1987-12-29",
+     "episode_count": 6,
+     "name": "The Return of Sherlock Holmes",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-02-21",
+     "episode_count": 6,
+     "name": "The Casebook of Sherlock Holmes",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-01-02",
+     "episode_count": 3,
+     "name": "The Casebook of Sherlock Holmes",
+     "season_number": 6
+    },
+    {
+     "air_date": "1994-03-07",
+     "episode_count": 6,
+     "name": "The Memoirs of Sherlock Holmes",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "Jeremy Brett is Sherlock Holmes.",
+   "title": "Sherlock Holmes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.177,
+   "vote_count": 277
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "42",
- "count": 10,
+ "count": 14,
  "titles": {
-  "11342": {
+  "movie:11342": {
    "backdrop_path": "/tVQjkTxxg7t17Fgp4qyii89pCH2.jpg",
    "budget": 7000000,
    "cast": [
@@ -160,7 +160,7 @@
    "vote_average": 6.3,
    "vote_count": 473
   },
-  "11942": {
+  "movie:11942": {
    "backdrop_path": "/3U84leD4UV9HadHEHceZp9y2T6y.jpg",
    "budget": 1500000,
    "cast": [
@@ -257,7 +257,7 @@
    "vote_average": 7.087,
    "vote_count": 450
   },
-  "121642": {
+  "movie:121642": {
    "backdrop_path": "/uzr5OCSv6DnRWRDwq9btxdUNMNY.jpg",
    "budget": 13000000,
    "cast": [
@@ -433,7 +433,7 @@
    "vote_average": 7.231,
    "vote_count": 485
   },
-  "1367642": {
+  "movie:1367642": {
    "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
    "budget": 30000000,
    "cast": [
@@ -570,7 +570,7 @@
    "vote_average": 7.747,
    "vote_count": 464
   },
-  "16342": {
+  "movie:16342": {
    "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
    "budget": 0,
    "cast": [
@@ -709,7 +709,7 @@
    "vote_average": 6.07,
    "vote_count": 443
   },
-  "458342": {
+  "movie:458342": {
    "backdrop_path": "/6p6H2b4jZrm6V4uf39X21xAPgrK.jpg",
    "budget": 0,
    "cast": [
@@ -816,7 +816,7 @@
    "vote_average": 6.89,
    "vote_count": 435
   },
-  "81342": {
+  "movie:81342": {
    "backdrop_path": "/xFADrLaDM7Lc9eJx9wI5pLqQVMB.jpg",
    "budget": 0,
    "cast": [
@@ -982,7 +982,7 @@
    "vote_average": 6.339,
    "vote_count": 492
   },
-  "842942": {
+  "movie:842942": {
    "backdrop_path": "/oeBom7DLr85lixEkWOGmhCPEfuY.jpg",
    "budget": 0,
    "cast": [
@@ -1143,7 +1143,7 @@
    "vote_average": 6.332,
    "vote_count": 467
   },
-  "91342": {
+  "movie:91342": {
    "backdrop_path": "/pXurmwRwzq7UwTf9MdWGLiiDKN6.jpg",
    "budget": 0,
    "cast": [
@@ -1265,7 +1265,7 @@
    "vote_average": 7.052,
    "vote_count": 490
   },
-  "9442": {
+  "movie:9442": {
    "backdrop_path": "/hhxrMW0WY30ulaCGMu5mVezktHQ.jpg",
    "budget": 9000000,
    "cast": [
@@ -1361,6 +1361,622 @@
    "type": "movie",
    "vote_average": 6.618,
    "vote_count": 474
+  },
+  "tv:220542": {
+   "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maomao (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Jinshi (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Gaoshun (voice)",
+     "n": "Katsuyuki Konishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2023-10-22",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 220542,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "RAB",
+    "TVI",
+    "JRT",
+    "YBC"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+   "popularity": 72.7005,
+   "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-10-23",
+     "episode_count": 56,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-10-22",
+     "episode_count": 60,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Apothecary Diaries",
+   "trailer": {
+    "key": "3lfb_KeqdEM",
+    "name": "Official Netflix Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.665,
+   "vote_count": 708
+  },
+  "tv:2942": {
+   "backdrop_path": "/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Henry VIII of England",
+     "n": "Jonathan Rhys Meyers"
+    },
+    {
+     "c": "Charles Brandon",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Mary Tudor",
+     "n": "Sarah Bolger"
+    },
+    {
+     "c": "Edward Seymour",
+     "n": "Max Brown"
+    },
+    {
+     "c": "Henry Howard",
+     "n": "David O'Hara"
+    },
+    {
+     "c": "Ambassador Charles de Marillac",
+     "n": "Lothaire Bluteau"
+    },
+    {
+     "c": "Catherine Howard",
+     "n": "Tamzin Merchant"
+    },
+    {
+     "c": "Thomas Culpepper",
+     "n": "Torrance Coombs"
+    },
+    {
+     "c": "Ambassador Eustace Chapuys",
+     "n": "Anthony Brophy"
+    },
+    {
+     "c": "Princess Elizabeth Tudor",
+     "n": "Laoise Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Michael Hirst"
+   ],
+   "director": [],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2007-04-01",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 2942,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+   "popularity": 49.9337,
+   "poster_path": "/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "IE",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-04-01",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2008-03-30",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-04-05",
+     "episode_count": 8,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-04-11",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt",
+    "la",
+    "fr",
+    "en",
+    "es",
+    "de",
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "It's Good to Be King.",
+   "title": "The Tudors",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.815,
+   "vote_count": 878
+  },
+  "tv:34742": {
+   "backdrop_path": "/61vXR9xfgNqidYkBruRXhRTlVzI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rito Yuki (voice)",
+     "n": "Akeno Watanabe"
+    },
+    {
+     "c": "Lala Satalin Deviluke (voice)",
+     "n": "Haruka Tomatsu"
+    },
+    {
+     "c": "Haruna Sairenji (voice)",
+     "n": "Sayuri Yahagi"
+    },
+    {
+     "c": "Golden Darkness (voice)",
+     "n": "Misato Fukuen"
+    },
+    {
+     "c": "Nana Astar Deviluke (voice)",
+     "n": "Kanae Itou"
+    },
+    {
+     "c": "Momo Belia Deviluke (voice)",
+     "n": "Aki Toyosaki"
+    },
+    {
+     "c": "Yui Kotegawa (voice)",
+     "n": "Kaori Nazuka"
+    },
+    {
+     "c": "Saki Tenjōin (voice)",
+     "n": "Ayako Kawasumi"
+    },
+    {
+     "c": "Celine (voice)",
+     "n": "Ryoka Yuzuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2008-04-04",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 34742,
+   "industry": "world",
+   "networks": [
+    "TBS",
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 64,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Rito Yuuki is unlucky when it comes to love — no matter how hard he tries to confess to his crush, his efforts end in failure. After another day’s confession goes down the drain, Rito spends his night sulking in his bathtub. But when a naked girl with a pointed tail teleports into the tub with him, it seems like Rito’s luck is finally looking up! His fortune doesn’t last long when he finds himself accidentally engaged to the buxom beauty who is none other than the princess of the planet Deviluke!",
+   "popularity": 30.6025,
+   "poster_path": "/vsWNCisRhrBbUaTR56qCk6pLsEn.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-04-03",
+     "episode_count": 17,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-04-04",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-10-06",
+     "episode_count": 12,
+     "name": "Motto",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-10-06",
+     "episode_count": 12,
+     "name": "Darkness",
+     "season_number": 3
+    },
+    {
+     "air_date": "2015-07-07",
+     "episode_count": 14,
+     "name": "Darkness 2",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "To Love Ru",
+   "trailer": {
+    "key": "RuaOq47Q2Bk",
+    "name": "To Love Ru Darkness Trailer [English subtitles]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 420
+  },
+  "tv:65942": {
+   "backdrop_path": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Subaru Natsuki (voice)",
+     "n": "Yusuke Kobayashi"
+    },
+    {
+     "c": "Emilia (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Puck (voice)",
+     "n": "Yumi Uchiyama"
+    },
+    {
+     "c": "Ram (voice)",
+     "n": "Rie Murakawa"
+    },
+    {
+     "c": "Rem (voice)",
+     "n": "Inori Minase"
+    },
+    {
+     "c": "Beatrice (voice)",
+     "n": "Satomi Arai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2016-04-04",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 65942,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "AT-X"
+   ],
+   "number_of_episodes": 85,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+   "popularity": 69.9203,
+   "poster_path": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-04-05",
+     "episode_count": 90,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-04-04",
+     "episode_count": 85,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Racing through the journey of memories——",
+   "title": "Re:ZERO -Starting Life in Another World-",
+   "trailer": {
+    "key": "P4l9d-rlD4o",
+    "name": "Blu-ray Limited Ed. Collection",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 822
   }
  }
 }

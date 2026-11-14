@@ -1,8 +1,8 @@
 {
  "bucket": "46",
- "count": 1,
+ "count": 9,
  "titles": {
-  "475946": {
+  "movie:475946": {
    "backdrop_path": "/7gZR9nztTzZIskcRCuDfhvrd5Ds.jpg",
    "budget": 0,
    "cast": [
@@ -112,6 +112,1274 @@
    "type": "movie",
    "vote_average": 7.097,
    "vote_count": 467
+  },
+  "tv:1446": {
+   "backdrop_path": "/rtJrrlUeiMtzQ6lJLGHHyYHYhnK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Florencia Fazzarino Valente / Santillán Valente",
+     "n": "Florencia Bertotti"
+    },
+    {
+     "c": "Máximo Augusto \"El Conde\" Calderón de la Hoya",
+     "n": "Fabio Di Tomaso"
+    },
+    {
+     "c": "Franco Fritzenwalden / Calderon de Guerrero",
+     "n": "Benjamín Rojas"
+    },
+    {
+     "c": "Delfina Santillán Torres Oviedo",
+     "n": "Isabel Macedo"
+    },
+    {
+     "c": "Tomás Fritzenwalden",
+     "n": "Stéfano de Gregorio"
+    },
+    {
+     "c": "Roberta Espinosa",
+     "n": "Lali Espósito"
+    },
+    {
+     "c": "Greta Van Beethoven",
+     "n": "Henny Trayles"
+    },
+    {
+     "c": "Martín Fritzenwalden",
+     "n": "Agustín Sierra"
+    },
+    {
+     "c": "Nicolás Fritzenwalden / Lautaro Suárez / Fritzenwalden",
+     "n": "Nicolás Maiques"
+    },
+    {
+     "c": "Danilo \"Facha\"",
+     "n": "Diego Child"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "eltrece",
+   "created_by": [
+    "Cris Morena"
+   ],
+   "director": [
+    "Cris Morena",
+    "Martín Mariani",
+    "Mauro Scandolari"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2004-03-15",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Soap"
+   ],
+   "id": 1446,
+   "industry": "world",
+   "networks": [
+    "eltrece"
+   ],
+   "number_of_episodes": 361,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Florencia is a singer and orphan, who falls in love with Federico, a businessman. They will be able to overcome all obstacles, but their love will take an unexpected turn.",
+   "popularity": 25.5716,
+   "poster_path": "/jHpGf342KoTemqxiGCtZw0pejqm.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-03-15",
+     "episode_count": 175,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-03-14",
+     "episode_count": 186,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Flinderella",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.198,
+   "vote_count": 177
+  },
+  "tv:1546": {
+   "backdrop_path": "/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "TJ Detweiler (voice)",
+     "n": "Andrew Lawrence"
+    },
+    {
+     "c": "Vince LaSalle (voice)",
+     "n": "Rickey D'Shon Collins"
+    },
+    {
+     "c": "Ashley Spinelli (voice)",
+     "n": "Pamela Adlon"
+    },
+    {
+     "c": "Gretchen Grundler (voice)",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Mikey Blumberg (voice)",
+     "n": "Jason Davis"
+    },
+    {
+     "c": "Gus Griswald (voice)",
+     "n": "Courtland Mead"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "ABC",
+   "created_by": [
+    "Paul Germain",
+    "Joe Ansolabehere"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1997-09-13",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Comedy"
+   ],
+   "id": 1546,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "UPN"
+   ],
+   "number_of_episodes": 127,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Join a group of six fourth-grade best friends at Third Street Elementary School on their fun-filled adventures in their school playground. Through the ups-and-downs of adolescence, they must wrestle with authority, avoid the school snitch, and try their best to win at kick-ball.",
+   "popularity": 25.3247,
+   "poster_path": "/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-02-16",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-09-13",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1998-09-12",
+     "episode_count": 25,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-09-11",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-09-12",
+     "episode_count": 44,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2000-09-09",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2001-08-21",
+     "episode_count": 5,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Recess",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.757,
+   "vote_count": 547
+  },
+  "tv:219246": {
+   "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oh Ae-sun / Yang Geum-myeong",
+     "n": "IU"
+    },
+    {
+     "c": "Yang Gwan-sik",
+     "n": "Park Bo-gum"
+    },
+    {
+     "c": "Oh Ae-sun (middle-aged)",
+     "n": "Moon So-ri"
+    },
+    {
+     "c": "Yang Gwan-sik (middle-aged)",
+     "n": "Park Hae-joon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Im Sang-choon",
+    "Kim Won-suk"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-03-07",
+   "genres": [
+    "Drama"
+   ],
+   "id": 219246,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+   "popularity": 29.34,
+   "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-03-07",
+     "episode_count": 16,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Dedicated to you. Still blooming, always dreaming.",
+   "title": "When Life Gives You Tangerines",
+   "trailer": {
+    "key": "4ECAaQkNAbc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 628
+  },
+  "tv:246": {
+   "backdrop_path": "/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aang (voice)",
+     "n": "Zach Tyler Eisen"
+    },
+    {
+     "c": "Katara (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Sokka (voice)",
+     "n": "Jack De Sena"
+    },
+    {
+     "c": "Zuko (voice)",
+     "n": "Dante Basco"
+    },
+    {
+     "c": "Toph Beifong (voice)",
+     "n": "Michaela Jill Murphy"
+    },
+    {
+     "c": "Appa / Momo (voice)",
+     "n": "Dee Bradley Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Michael Dante DiMartino",
+    "Bryan Konietzko"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2005-02-21",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 246,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 61,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+   "popularity": 28.8701,
+   "poster_path": "/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+   "production_countries": [
+    "KR",
+    "US",
+    "MY",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-04-30",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-02-21",
+     "episode_count": 20,
+     "name": "Book One: Water",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-03-17",
+     "episode_count": 20,
+     "name": "Book Two: Earth",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-21",
+     "episode_count": 21,
+     "name": "Book Three: Fire",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Water. Earth. Fire. Air.",
+   "title": "Avatar: The Last Airbender",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 5231
+  },
+  "tv:4046": {
+   "backdrop_path": "/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Pearce",
+     "n": "Peter Firth"
+    },
+    {
+     "c": "Ruth Evershed",
+     "n": "Nicola Walker"
+    },
+    {
+     "c": "Dimitri Levendis",
+     "n": "Max Brown"
+    },
+    {
+     "c": "Erin Watts",
+     "n": "Lara Pulver"
+    },
+    {
+     "c": "Jim Coaver",
+     "n": "William Hope"
+    },
+    {
+     "c": "Ben Kaplan",
+     "n": "Alex Lanipekun"
+    },
+    {
+     "c": "Calum Reed",
+     "n": "Geoffrey Streatfeild"
+    },
+    {
+     "c": "Sasha Gavrik",
+     "n": "Tom Weston-Jones"
+    },
+    {
+     "c": "Elena Gavrik",
+     "n": "Alice Krige"
+    },
+    {
+     "c": "Ilya Gavrik",
+     "n": "Jonathan Hyde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "BBC One",
+   "created_by": [
+    "David Wolstencroft"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2002-05-13",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 4046,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 86,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+   "popularity": 32.2992,
+   "poster_path": "/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-05-13",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-06-02",
+     "episode_count": 10,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-10-11",
+     "episode_count": 10,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-09-12",
+     "episode_count": 10,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2006-09-17",
+     "episode_count": 10,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-10-16",
+     "episode_count": 10,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2008-10-27",
+     "episode_count": 8,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2009-11-04",
+     "episode_count": 8,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-09-20",
+     "episode_count": 8,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-09-18",
+     "episode_count": 6,
+     "name": "Series 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "It's a fine line between safety and terror. Meet the rulers.",
+   "title": "Spooks",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.719,
+   "vote_count": 155
+  },
+  "tv:4546": {
+   "backdrop_path": "/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Larry David",
+     "n": "Larry David"
+    },
+    {
+     "c": "Jeff Greene",
+     "n": "Jeff Garlin"
+    },
+    {
+     "c": "Susie Greene",
+     "n": "Susie Essman"
+    },
+    {
+     "c": "Cheryl David",
+     "n": "Cheryl Hines"
+    },
+    {
+     "c": "Leon",
+     "n": "JB Smoove"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Larry David"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-10-15",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4546,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 120,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
+   "popularity": 58.5958,
+   "poster_path": "/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1999-12-01",
+     "episode_count": 47,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-10-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-09-23",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-09-15",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-01-04",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-09-25",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2007-09-09",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2009-09-20",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-07-10",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 10,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2020-01-19",
+     "episode_count": 10,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-10-24",
+     "episode_count": 10,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2024-02-04",
+     "episode_count": 10,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Deep inside you know you're him.",
+   "title": "Curb Your Enthusiasm",
+   "trailer": {
+    "key": "ltY335eAbOA",
+    "name": "Curb Your Enthusiasm | Official Trailer | BINGE",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.052,
+   "vote_count": 1001
+  },
+  "tv:71446": {
+   "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tokio",
+     "n": "Úrsula Corberó"
+    },
+    {
+     "c": "Raquel Murillo",
+     "n": "Itziar Ituño"
+    },
+    {
+     "c": "Profesor",
+     "n": "Álvaro Morte"
+    },
+    {
+     "c": "Berlín",
+     "n": "Pedro Alonso"
+    },
+    {
+     "c": "Río",
+     "n": "Miguel Herrán"
+    },
+    {
+     "c": "Estocolmo",
+     "n": "Esther Acebo"
+    },
+    {
+     "c": "Denver",
+     "n": "Jaime Lorente"
+    },
+    {
+     "c": "Alicia Sierra",
+     "n": "Najwa Nimri"
+    },
+    {
+     "c": "Arturo Román",
+     "n": "Enrique Arce"
+    },
+    {
+     "c": "Palermo",
+     "n": "Rodrigo de la Serna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Álex Pina"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2017-05-02",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 71446,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "Antena 3"
+   ],
+   "number_of_episodes": 41,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+   "popularity": 31.5576,
+   "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-12-20",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-05-02",
+     "episode_count": 15,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-07-19",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-09-03",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "The perfect robbery.",
+   "title": "Money Heist",
+   "trailer": {
+    "key": "_InqQJRqGW4",
+    "name": "Money Heist | Series Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.229,
+   "vote_count": 19800
+  },
+  "tv:97546": {
+   "backdrop_path": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ted Lasso",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Rebecca Welton",
+     "n": "Hannah Waddingham"
+    },
+    {
+     "c": "Leslie Higgins",
+     "n": "Jeremy Swift"
+    },
+    {
+     "c": "Roy Kent",
+     "n": "Brett Goldstein"
+    },
+    {
+     "c": "Coach Beard",
+     "n": "Brendan Hunt"
+    },
+    {
+     "c": "Keeley Jones",
+     "n": "Juno Temple"
+    },
+    {
+     "c": "Alice Chilton",
+     "n": "Tanya Reynolds"
+    },
+    {
+     "c": "Siobhan Harrigan",
+     "n": "Rex Hayes"
+    },
+    {
+     "c": "Katie 'Boots' Quinn",
+     "n": "Jude Mack"
+    },
+    {
+     "c": "Niamh Harrigan",
+     "n": "Aisling Sharkey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Bill Lawrence",
+    "Jason Sudeikis",
+    "Joe Kelly",
+    "Brendan Hunt"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-08-14",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 97546,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 44,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+   "popularity": 105.9654,
+   "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-12-15",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-08-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-07-23",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-03-14",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-08-04",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Ted's back.",
+   "title": "Ted Lasso",
+   "trailer": {
+    "key": "BwPcMIDFVKw",
+    "name": "Ted Lasso: The Richmond Way - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.366,
+   "vote_count": 2849
   }
  }
 }

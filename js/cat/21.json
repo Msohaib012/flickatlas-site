@@ -1,8 +1,8 @@
 {
  "bucket": "21",
- "count": 14,
+ "count": 23,
  "titles": {
-  "1103621": {
+  "movie:1103621": {
    "backdrop_path": "/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
    "budget": 1000000,
    "cast": [
@@ -108,7 +108,7 @@
    "vote_average": 8.117,
    "vote_count": 463
   },
-  "1241921": {
+  "movie:1241921": {
    "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
    "budget": 45000000,
    "cast": [
@@ -248,7 +248,7 @@
    "vote_average": 6.141,
    "vote_count": 454
   },
-  "12521": {
+  "movie:12521": {
    "backdrop_path": "/1F5OOV5gipfGbfSJgQdV29xlNi.jpg",
    "budget": 5000000,
    "cast": [
@@ -403,7 +403,7 @@
    "vote_average": 5.6,
    "vote_count": 485
   },
-  "159121": {
+  "movie:159121": {
    "backdrop_path": "/nS2QTnSyG0TTnyLAIrjud1aSk7N.jpg",
    "budget": 0,
    "cast": [
@@ -555,7 +555,7 @@
    "vote_average": 6.437,
    "vote_count": 435
   },
-  "1721": {
+  "movie:1721": {
    "backdrop_path": "/iHJTF9WcXUfp8iy7EHPxMQ3XQyK.jpg",
    "budget": 0,
    "cast": [
@@ -665,7 +665,7 @@
    "vote_average": 6.813,
    "vote_count": 446
   },
-  "2621": {
+  "movie:2621": {
    "backdrop_path": "/oNOJoW2XoH3shkQxHtOyacJRBCQ.jpg",
    "budget": 24000000,
    "cast": [
@@ -798,7 +798,7 @@
    "vote_average": 6.672,
    "vote_count": 497
   },
-  "3121": {
+  "movie:3121": {
    "backdrop_path": "/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
    "budget": 2200000,
    "cast": [
@@ -895,7 +895,7 @@
    "vote_average": 7.302,
    "vote_count": 494
   },
-  "46221": {
+  "movie:46221": {
    "backdrop_path": "/hpSL417nA1YnkbEbZLD9zRv7ooh.jpg",
    "budget": 135000,
    "cast": [
@@ -1083,7 +1083,7 @@
    "vote_average": 5.791,
    "vote_count": 491
   },
-  "469721": {
+  "movie:469721": {
    "backdrop_path": "/slCqWqN1gtgOHDvQMZwsKJLCLoO.jpg",
    "budget": 0,
    "cast": [
@@ -1312,7 +1312,7 @@
    "vote_average": 5.519,
    "vote_count": 436
   },
-  "492621": {
+  "movie:492621": {
    "backdrop_path": "/1i1XwuVcgjoydpTiDoFhLBiqU0Q.jpg",
    "budget": 0,
    "cast": [
@@ -1478,7 +1478,7 @@
    "vote_average": 5.785,
    "vote_count": 454
   },
-  "5121": {
+  "movie:5121": {
    "backdrop_path": "/cssKLoKClpgqaaGD2z3cjXgzPSM.jpg",
    "budget": 3000000,
    "cast": [
@@ -1578,7 +1578,7 @@
    "vote_average": 6.61,
    "vote_count": 492
   },
-  "588921": {
+  "movie:588921": {
    "backdrop_path": "/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
    "budget": 10000000,
    "cast": [
@@ -1717,7 +1717,7 @@
    "vote_average": 7.0,
    "vote_count": 482
   },
-  "70821": {
+  "movie:70821": {
    "backdrop_path": "/4QFh4odwCHpD3b6zr1Q3XY2GBF7.jpg",
    "budget": 0,
    "cast": [
@@ -1826,7 +1826,7 @@
    "vote_average": 6.0,
    "vote_count": 478
   },
-  "996821": {
+  "movie:996821": {
    "backdrop_path": "/lsOdEAkwQ0TcP71HocJi8WUftmp.jpg",
    "budget": 0,
    "cast": [
@@ -1962,6 +1962,1634 @@
    "type": "movie",
    "vote_average": 5.803,
    "vote_count": 489
+  },
+  "tv:102321": {
+   "backdrop_path": "/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "HBO Max",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2020-05-27",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 102321,
+   "industry": "world",
+   "networks": [
+    "HBO Max",
+    "Max"
+   ],
+   "number_of_episodes": 231,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A series of short form cartoons starring the iconic and beloved Looney Tunes characters. Bugs Bunny, Daffy Duck, Porky Pig and other marquee Looney Tunes characters are featured in their classic pairings in simple, gag-driven and visually vibrant stories.",
+   "popularity": 45.611,
+   "poster_path": "/2pDQfZMJq95hckoaez9ou93Hmqy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-06-12",
+     "episode_count": 13,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2020-05-27",
+     "episode_count": 91,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-07-08",
+     "episode_count": 29,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-11-25",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-01-20",
+     "episode_count": 25,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-02-03",
+     "episode_count": 32,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2023-07-27",
+     "episode_count": 28,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Looney Tunes Cartoons",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.795,
+   "vote_count": 288
+  },
+  "tv:121": {
+   "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Doctor",
+     "n": "Sylvester McCoy"
+    },
+    {
+     "c": "Ace",
+     "n": "Sophie Aldred"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC One",
+   "created_by": [
+    "Sydney Newman",
+    "C. E. Webber",
+    "Donald Wilson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1963-11-23",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 121,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "BBC Television"
+   ],
+   "number_of_episodes": 694,
+   "number_of_seasons": 26,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+   "popularity": 113.3701,
+   "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1991-08-26",
+     "episode_count": 1402,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1963-11-23",
+     "episode_count": 42,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1964-10-31",
+     "episode_count": 39,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1965-09-11",
+     "episode_count": 45,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1966-09-10",
+     "episode_count": 43,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1967-09-02",
+     "episode_count": 40,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1968-08-10",
+     "episode_count": 44,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1970-01-03",
+     "episode_count": 25,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1971-01-02",
+     "episode_count": 25,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1972-01-01",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1972-12-30",
+     "episode_count": 26,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1973-12-15",
+     "episode_count": 26,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1974-12-28",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1975-08-30",
+     "episode_count": 26,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1976-09-04",
+     "episode_count": 26,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1977-09-03",
+     "episode_count": 26,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1978-09-02",
+     "episode_count": 26,
+     "name": "The Key to Time",
+     "season_number": 16
+    },
+    {
+     "air_date": "1979-09-01",
+     "episode_count": 20,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "1980-08-30",
+     "episode_count": 28,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1982-01-04",
+     "episode_count": 26,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "1983-01-03",
+     "episode_count": 22,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1984-01-05",
+     "episode_count": 24,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1985-01-05",
+     "episode_count": 13,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1986-09-06",
+     "episode_count": 14,
+     "name": "The Trial of a Time Lord",
+     "season_number": 23
+    },
+    {
+     "air_date": "1987-09-07",
+     "episode_count": 14,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1988-10-05",
+     "episode_count": 14,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "1989-09-06",
+     "episode_count": 14,
+     "name": "Season 26",
+     "season_number": 26
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Doctor Who",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 731
+  },
+  "tv:1421": {
+   "backdrop_path": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jay Pritchett",
+     "n": "Ed O'Neill"
+    },
+    {
+     "c": "Gloria Delgado-Pritchett",
+     "n": "Sofía Vergara"
+    },
+    {
+     "c": "Claire Dunphy",
+     "n": "Julie Bowen"
+    },
+    {
+     "c": "Phil Dunphy",
+     "n": "Ty Burrell"
+    },
+    {
+     "c": "Mitchell Pritchett",
+     "n": "Jesse Tyler Ferguson"
+    },
+    {
+     "c": "Cameron Tucker",
+     "n": "Eric Stonestreet"
+    },
+    {
+     "c": "Haley Dunphy",
+     "n": "Sarah Hyland"
+    },
+    {
+     "c": "Alex Dunphy",
+     "n": "Ariel Winter"
+    },
+    {
+     "c": "Luke Dunphy",
+     "n": "Nolan Gould"
+    },
+    {
+     "c": "Manny Delgado",
+     "n": "Rico Rodriguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "ABC",
+   "created_by": [
+    "Steven Levitan",
+    "Christopher Lloyd"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-09-23",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1421,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 250,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+   "popularity": 1292.0788,
+   "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 32,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-23",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-21",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-26",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-25",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-09-24",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 22,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 18,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One big (straight, gay, multi-cultural, traditional) happy family.",
+   "title": "Modern Family",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.911,
+   "vote_count": 3622
+  },
+  "tv:154521": {
+   "backdrop_path": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Kris Jenner"
+    },
+    {
+     "c": "Self",
+     "n": "Kourtney Kardashian Barker"
+    },
+    {
+     "c": "Self",
+     "n": "Kim Kardashian"
+    },
+    {
+     "c": "Self",
+     "n": "Khloé Kardashian"
+    },
+    {
+     "c": "Self",
+     "n": "Kendall Jenner"
+    },
+    {
+     "c": "Self",
+     "n": "Kylie Jenner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Hulu",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-04-14",
+   "genres": [
+    "Reality"
+   ],
+   "id": 154521,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 80,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+   "popularity": 26.4052,
+   "poster_path": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-04-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-09-22",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-05-25",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2023-09-28",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2024-05-23",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-02-06",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-10-23",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "With love,",
+   "title": "The Kardashians",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 2141
+  },
+  "tv:15621": {
+   "backdrop_path": "/oNNdRpSQSdRIaWnSFejhw1qk51K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Will McAvoy",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "MacKenzie McHale",
+     "n": "Emily Mortimer"
+    },
+    {
+     "c": "James Harper",
+     "n": "John Gallagher Jr."
+    },
+    {
+     "c": "Margaret Jordan",
+     "n": "Alison Pill"
+    },
+    {
+     "c": "Don Keefer",
+     "n": "Thomas Sadoski"
+    },
+    {
+     "c": "Neelamani Sampat",
+     "n": "Dev Patel"
+    },
+    {
+     "c": "Sloan Sabbith",
+     "n": "Olivia Munn"
+    },
+    {
+     "c": "Charlie Skinner",
+     "n": "Sam Waterston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Aaron Sorkin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2012-06-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 15621,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A behind-the-scenes look at the people who make a nightly cable-news program. Focusing on a network anchor, his new executive producer, the newsroom staff and their boss, the series tracks their quixotic mission to do the news well in the face of corporate and commercial obstacles-not to mention their own personal entanglements.",
+   "popularity": 30.7906,
+   "poster_path": "/pOC3DmU47X98Sv5vaPnmgjG30eY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-03-03",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-06-24",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-07-14",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2014-11-09",
+     "episode_count": 6,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "More as the story develops.",
+   "title": "The Newsroom",
+   "trailer": {
+    "key": "wC8ovJYAU3U",
+    "name": "The Newsroom: Season 1 - Trailer #1 (HBO)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.08,
+   "vote_count": 798
+  },
+  "tv:1621": {
+   "backdrop_path": "/q5S5k0iI2yq6Q2qShFSwwRTFMtH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Enoch 'Nucky' Thompson",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Margaret Thompson",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Nelson Van Alden",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Elias 'Eli' Thompson",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Al Capone",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Charles 'Lucky' Luciano",
+     "n": "Vincent Piazza"
+    },
+    {
+     "c": "Albert 'Chalky' White",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Mieczysław 'Mickey' Doyle",
+     "n": "Paul Sparks"
+    },
+    {
+     "c": "Gillian Darmody",
+     "n": "Gretchen Mol"
+    },
+    {
+     "c": "Valentin Narcisse",
+     "n": "Jeffrey Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [
+    "Terence Winter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-09-19",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1621,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 56,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
+   "popularity": 45.1665,
+   "poster_path": "/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-08-23",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-09-19",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-09-16",
+     "episode_count": 12,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-09-08",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-09-07",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "No one goes quietly.",
+   "title": "Boardwalk Empire",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.029,
+   "vote_count": 1363
+  },
+  "tv:2321": {
+   "backdrop_path": "/5BIY5hMbVDbe5SjkIDD9TI7hPCI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonas Blane",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Molly Blane",
+     "n": "Regina Taylor"
+    },
+    {
+     "c": "Bob Brown",
+     "n": "Scott Foley"
+    },
+    {
+     "c": "Kim Brown",
+     "n": "Audrey Marie Anderson"
+    },
+    {
+     "c": "Mack Gerhardt",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Tiffy Gerhardt",
+     "n": "Abby Brammell"
+    },
+    {
+     "c": "Charles Grey",
+     "n": "Michael Irby"
+    },
+    {
+     "c": "Tom Ryan",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Bridget Sullivan",
+     "n": "Nicole Steinwedell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "David Mamet"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2006-03-07",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 2321,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 69,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A covert team of special forces operatives risk their lives on undercover missions around the globe, while their wives maintain the homefront, protecting their husbands' secrets.",
+   "popularity": 32.5829,
+   "poster_path": "/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-03-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-19",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-25",
+     "episode_count": 11,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Covert warriors. Unsung heroes.",
+   "title": "The Unit",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.358,
+   "vote_count": 233
+  },
+  "tv:83121": {
+   "backdrop_path": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miyuki Shirogane (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Kaguya Shinomiya (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Chika Fujiwara (voice)",
+     "n": "Konomi Kohara"
+    },
+    {
+     "c": "Yuu Ishigami (voice)",
+     "n": "Ryota Suzuki"
+    },
+    {
+     "c": "Miko Iino (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Ai Hayasaka (voice)",
+     "n": "Yumiri Hanamori"
+    },
+    {
+     "c": "Nagisa Kashiwagi (voice)",
+     "n": "Momo Asakura"
+    },
+    {
+     "c": "Kobachi Osaragi (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Tsubasa Tanuma (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Maki Shijou (voice)",
+     "n": "Kana Ichinose"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2019-01-12",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 83121,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 37,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+   "popularity": 34.8773,
+   "poster_path": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-02-01",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-01-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-04-11",
+     "episode_count": 12,
+     "name": "Kaguya-sama: Love Is War?",
+     "season_number": 2
+    },
+    {
+     "air_date": "2022-04-09",
+     "episode_count": 13,
+     "name": "Kaguya-sama: Love Is War -Ultra Romantic-",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kaguya-sama: Love Is War",
+   "trailer": {
+    "key": "IwpJJiQkZzI",
+    "name": "Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.524,
+   "vote_count": 904
+  },
+  "tv:90521": {
+   "backdrop_path": "/m0TiLZ79RR19Zz0AZruQSBeH39x.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Iain Stirling"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Ariana Madix"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Brent Baker",
+    "Mark Busk-Cowley",
+    "Tom Gould",
+    "Jo Scarratt-Jones"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2019-07-09",
+   "genres": [
+    "Reality"
+   ],
+   "id": 90521,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "Peacock"
+   ],
+   "number_of_episodes": 270,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The matchmaking begins as a group of single \"Islanders\" come together in a stunning villa on a beautiful tropical island, ready to embark on a summer of dating, romance, and ultimately, relationships. Every few days the Islanders pair up and those who are not coupled are at risk of being dumped from the island. Islanders are on the lookout for romance, but the road to love doesn't always run smoothly.",
+   "popularity": 24.6647,
+   "poster_path": "/kU2y21cls8WargMaX7KI47URMjD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-07-12",
+     "episode_count": 15,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2019-07-09",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2020-08-24",
+     "episode_count": 34,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-07-07",
+     "episode_count": 29,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-07-19",
+     "episode_count": 38,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2023-07-18",
+     "episode_count": 37,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2024-06-11",
+     "episode_count": 37,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2025-06-03",
+     "episode_count": 37,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2026-06-02",
+     "episode_count": 36,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Sexier. Steamier. Streamier.",
+   "title": "Love Island USA",
+   "trailer": {
+    "key": "fpIehnHmjRY",
+    "name": "U.S. Version Of The International Reality Sensation Love Island",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.075,
+   "vote_count": 186
   }
  }
 }

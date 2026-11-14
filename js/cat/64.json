@@ -1,8 +1,8 @@
 {
  "bucket": "64",
- "count": 8,
+ "count": 14,
  "titles": {
-  "10264": {
+  "movie:10264": {
    "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
    "budget": 13500000,
    "cast": [
@@ -136,7 +136,7 @@
    "vote_average": 6.601,
    "vote_count": 456
   },
-  "10464": {
+  "movie:10464": {
    "backdrop_path": "/rxRf5Te8PX4Ko5iFUN13llcsLI1.jpg",
    "budget": 12500000,
    "cast": [
@@ -236,7 +236,7 @@
    "vote_average": 6.693,
    "vote_count": 475
   },
-  "1076364": {
+  "movie:1076364": {
    "backdrop_path": "/wLttOcR1wJGedXfpe69y215NvjN.jpg",
    "budget": 0,
    "cast": [
@@ -310,7 +310,7 @@
    "vote_average": 7.4,
    "vote_count": 469
   },
-  "1397364": {
+  "movie:1397364": {
    "backdrop_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
    "budget": 24500000,
    "cast": [
@@ -428,7 +428,7 @@
    "vote_average": 7.327,
    "vote_count": 471
   },
-  "18764": {
+  "movie:18764": {
    "backdrop_path": "/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
    "budget": 0,
    "cast": [
@@ -567,7 +567,7 @@
    "vote_average": 6.9,
    "vote_count": 481
   },
-  "351964": {
+  "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
    "budget": 0,
    "cast": [
@@ -726,7 +726,7 @@
    "vote_average": 5.964,
    "vote_count": 470
   },
-  "49964": {
+  "movie:49964": {
    "backdrop_path": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
    "budget": 0,
    "cast": [
@@ -886,7 +886,7 @@
    "vote_average": 7.923,
    "vote_count": 464
   },
-  "830764": {
+  "movie:830764": {
    "backdrop_path": "/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg",
    "budget": 0,
    "cast": [
@@ -1018,6 +1018,1095 @@
    "type": "movie",
    "vote_average": 5.547,
    "vote_count": 468
+  },
+  "tv:124364": {
+   "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Boyd Stevens",
+     "n": "Harold Perrineau"
+    },
+    {
+     "c": "Tabitha Matthews",
+     "n": "Catalina Sandino Moreno"
+    },
+    {
+     "c": "Kenny Liu",
+     "n": "Ricky He"
+    },
+    {
+     "c": "Jade Herrera",
+     "n": "David Alpay"
+    },
+    {
+     "c": "Kristi Miller",
+     "n": "Chloe Van Landschoot"
+    },
+    {
+     "c": "Julie Matthews",
+     "n": "Hannah Cheramy"
+    },
+    {
+     "c": "Fatima",
+     "n": "Pegah Ghafoori"
+    },
+    {
+     "c": "Ethan Matthews",
+     "n": "Simon Webster"
+    },
+    {
+     "c": "Donna",
+     "n": "Elizabeth Saunders"
+    },
+    {
+     "c": "Sara Myers",
+     "n": "Avery Konrad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Epix",
+   "created_by": [
+    "John Griffin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-02-20",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 124364,
+   "industry": "world",
+   "networks": [
+    "Epix",
+    "MGM+"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+   "popularity": 147.4808,
+   "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-02-20",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-04-23",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-09-22",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2026-04-19",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Every road leads here. No road leads out.",
+   "title": "FROM",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.491,
+   "vote_count": 4433
+  },
+  "tv:38464": {
+   "backdrop_path": "/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mephisto Pheles (voice)",
+     "n": "Hiroshi Kamiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2011-04-17",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Action & Adventure"
+   ],
+   "id": 38464,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV",
+    "i-Television",
+    "SBS"
+   ],
+   "number_of_episodes": 73,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Humans live in the world of Assiah, demons in Gehenna. The two dimensions are not meant to interfere with each other, but demons still possess creatures in Assiah in spite of this. The humans who can fight these demons are known as exorcists. Rin Okumura is a boy who bears the curse of being Satan's illegitimate son. His foster father sacrificed himself to save him from demons. To avenge his foster father's death as well as to prove himself, Rin decides to follow the path of an exorcist and defeat his own father, Satan. To hone his raw skills, Rin enters True Cross Academy to train with other exorcist candidates.",
+   "popularity": 31.6493,
+   "poster_path": "/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-06-22",
+     "episode_count": 13,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-04-17",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-01-05",
+     "episode_count": 12,
+     "name": "Kyoto Saga",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-01-07",
+     "episode_count": 12,
+     "name": "-Shimane Illuminati Saga-",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-10-06",
+     "episode_count": 12,
+     "name": "-Beyond the Snow Saga-",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-01-05",
+     "episode_count": 12,
+     "name": "-The Blue Night Saga-",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Blue Exorcist",
+   "trailer": {
+    "key": "ayLq7BKjQZU",
+    "name": "Trailer #3 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 561
+  },
+  "tv:4464": {
+   "backdrop_path": "/sEkUddzvrgRd70o28aRiZdwdq2p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Munch",
+     "n": "Richard Belzer"
+    },
+    {
+     "c": "Stuart Gharty",
+     "n": "Peter Gerety"
+    },
+    {
+     "c": "Michael Giardello",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Meldrick Lewis",
+     "n": "Clark Johnson"
+    },
+    {
+     "c": "Al Giardello",
+     "n": "Yaphet Kotto"
+    },
+    {
+     "c": "Tim Bayliss",
+     "n": "Kyle Secor"
+    },
+    {
+     "c": "Paul Falsone",
+     "n": "Jon Seda"
+    },
+    {
+     "c": "Laura Ballard",
+     "n": "Callie Thorne"
+    },
+    {
+     "c": "Rene Sheppard",
+     "n": "Michael Michele"
+    },
+    {
+     "c": "Terri Stivers",
+     "n": "Toni Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Paul Attanasio"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "1993-01-31",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+   ],
+   "id": 4464,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 122,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American police procedural chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+   "popularity": 40.7437,
+   "poster_path": "/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-01-01",
+     "episode_count": 16,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1993-01-31",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-01-06",
+     "episode_count": 4,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1994-10-14",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1995-10-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1996-09-20",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1997-10-17",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1998-09-25",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Homicide: our day begins when yours ends.",
+   "title": "Homicide: Life on the Street",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 152
+  },
+  "tv:63764": {
+   "backdrop_path": "/aZFIRQR0QxIjRMHy7lxSKiug9Z2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vicenta Rigores / Vicenta Acero",
+     "n": "Carolina Miranda"
+    },
+    {
+     "c": "Erick \"El Gallo\" Quintanilla",
+     "n": "Oscar Priego"
+    },
+    {
+     "c": "Salvador Acero",
+     "n": "Michel Duval"
+    },
+    {
+     "c": "Marcelo Dóriga",
+     "n": "Alberto Agnesi"
+    },
+    {
+     "c": "Sara Aguilar",
+     "n": "Blanca Soto"
+    },
+    {
+     "c": "Pedro Juárez",
+     "n": "Diego Soldano"
+    },
+    {
+     "c": "Mario Casas",
+     "n": "Rodrigo Guirao Díaz"
+    },
+    {
+     "c": "Marta ¨La Tuti¨",
+     "n": "Ana Lucía Domínguez"
+    },
+    {
+     "c": "Miriam Godoy",
+     "n": "Valentina Acosta"
+    },
+    {
+     "c": "El Indio Amaro",
+     "n": "Jorge Zárate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Telemundo",
+   "created_by": [
+    "Roberto Stopello"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2014-09-23",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Soap"
+   ],
+   "id": 63764,
+   "industry": "world",
+   "networks": [
+    "Telemundo"
+   ],
+   "number_of_episodes": 395,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "The adventures of Vicenta Acero, the feared coyote who now leads the dynasty of illicit dealings once under the control of her father.",
+   "popularity": 42.8418,
+   "poster_path": "/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-09-23",
+     "episode_count": 73,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-22",
+     "episode_count": 75,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-01-31",
+     "episode_count": 93,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-02-01",
+     "episode_count": 77,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-10-15",
+     "episode_count": 77,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Senora Acero",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.907,
+   "vote_count": 685
+  },
+  "tv:764": {
+   "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ITV1",
+   "created_by": [
+    "Anthony Horowitz",
+    "Caroline Graham"
+   ],
+   "director": [],
+   "episode_run_time": [
+    90
+   ],
+   "first_air_date": "1997-03-23",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 764,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 144,
+   "number_of_seasons": 26,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+   "popularity": 135.2271,
+   "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-06-15",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-03-23",
+     "episode_count": 5,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-01-20",
+     "episode_count": 4,
+     "name": "Series 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-12-31",
+     "episode_count": 4,
+     "name": "Series 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2000-09-10",
+     "episode_count": 6,
+     "name": "Series 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2002-06-16",
+     "episode_count": 4,
+     "name": "Series 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2003-01-03",
+     "episode_count": 5,
+     "name": "Series 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2003-11-02",
+     "episode_count": 6,
+     "name": "Series 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2004-10-10",
+     "episode_count": 9,
+     "name": "Series 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2005-10-09",
+     "episode_count": 8,
+     "name": "Series 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2006-11-12",
+     "episode_count": 8,
+     "name": "Series 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2008-01-01",
+     "episode_count": 7,
+     "name": "Series 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2009-07-22",
+     "episode_count": 7,
+     "name": "Series 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2010-02-10",
+     "episode_count": 8,
+     "name": "Series 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2011-03-23",
+     "episode_count": 8,
+     "name": "Series 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2012-02-01",
+     "episode_count": 6,
+     "name": "Series 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2013-12-24",
+     "episode_count": 5,
+     "name": "Series 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2015-01-28",
+     "episode_count": 4,
+     "name": "Series 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2016-01-06",
+     "episode_count": 6,
+     "name": "Series 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2016-12-18",
+     "episode_count": 6,
+     "name": "Series 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2019-03-10",
+     "episode_count": 6,
+     "name": "Series 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2020-01-21",
+     "episode_count": 4,
+     "name": "Series 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2021-04-04",
+     "episode_count": 6,
+     "name": "Series 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2024-04-14",
+     "episode_count": 4,
+     "name": "Series 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2025-12-29",
+     "episode_count": 4,
+     "name": "Series 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "",
+     "episode_count": 4,
+     "name": "Series 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2026-11-08",
+     "episode_count": 4,
+     "name": "Season 26",
+     "season_number": 26
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The deadliest county in England.",
+   "title": "Midsomer Murders",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.471,
+   "vote_count": 382
+  },
+  "tv:94664": {
+   "backdrop_path": "/pfgndj46RLPVJRWkUSCJBgLJ93w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rudeus Greyrat (voice)",
+     "n": "Yumi Uchiyama"
+    },
+    {
+     "c": "Rudeus Greyrat's Former Self (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Eris Boreas Greyrat (voice)",
+     "n": "Ai Kakuma"
+    },
+    {
+     "c": "Sylphiette (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Roxy Migurdia (voice)",
+     "n": "Konomi Kohara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2021-01-11",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 94664,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11",
+    "KBS Kyoto"
+   ],
+   "number_of_episodes": 61,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+   "popularity": 65.0182,
+   "poster_path": "/lDS7WuWrq6i1XC1AaKlf9qvJBVi.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-03-16",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-01-11",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-07-10",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-07-03",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Mushoku Tensei: Jobless Reincarnation",
+   "trailer": {
+    "key": "k5VxfJpzy1Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 1814
   }
  }
 }

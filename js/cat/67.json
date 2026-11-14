@@ -1,8 +1,8 @@
 {
  "bucket": "67",
- "count": 10,
+ "count": 18,
  "titles": {
-  "11367": {
+  "movie:11367": {
    "backdrop_path": "/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
    "budget": 0,
    "cast": [
@@ -130,7 +130,7 @@
    "vote_average": 7.0,
    "vote_count": 458
   },
-  "20367": {
+  "movie:20367": {
    "backdrop_path": "/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
    "budget": 30000,
    "cast": [
@@ -260,7 +260,7 @@
    "vote_average": 7.222,
    "vote_count": 436
   },
-  "212167": {
+  "movie:212167": {
    "backdrop_path": "/94x68VYBvHyrt6ewxMKu1UiI05Q.jpg",
    "budget": 0,
    "cast": [
@@ -372,7 +372,7 @@
    "vote_average": 7.361,
    "vote_count": 498
   },
-  "23367": {
+  "movie:23367": {
    "backdrop_path": "/5YSHbGte3wLCZLe3bVu5Pe9LlmZ.jpg",
    "budget": 20000000,
    "cast": [
@@ -507,7 +507,7 @@
    "vote_average": 5.839,
    "vote_count": 493
   },
-  "300667": {
+  "movie:300667": {
    "backdrop_path": "/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
    "budget": 10000000,
    "cast": [
@@ -665,7 +665,7 @@
    "vote_average": 6.356,
    "vote_count": 448
   },
-  "311667": {
+  "movie:311667": {
    "backdrop_path": "/1eM6CsDTwRmxgnigzz8pitLlUKJ.jpg",
    "budget": 0,
    "cast": [
@@ -788,7 +788,7 @@
    "vote_average": 5.9,
    "vote_count": 435
   },
-  "364067": {
+  "movie:364067": {
    "backdrop_path": "/sW5mPgwYEpzauk0QOBWxRUhs2t9.jpg",
    "budget": 0,
    "cast": [
@@ -896,7 +896,7 @@
    "vote_average": 5.225,
    "vote_count": 471
   },
-  "49367": {
+  "movie:49367": {
    "backdrop_path": "/fzGvBBXOKmSCMTvaUdRkrf9A5kk.jpg",
    "budget": 0,
    "cast": [
@@ -986,7 +986,7 @@
    "vote_average": 6.8,
    "vote_count": 441
   },
-  "52067": {
+  "movie:52067": {
    "backdrop_path": "/uWcDpcbIlIwHkdtklsAoyrBkdTZ.jpg",
    "budget": 0,
    "cast": [
@@ -1091,7 +1091,7 @@
    "vote_average": 5.94,
    "vote_count": 476
   },
-  "820067": {
+  "movie:820067": {
    "backdrop_path": "/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",
    "budget": 0,
    "cast": [
@@ -1216,6 +1216,1546 @@
    "type": "movie",
    "vote_average": 8.277,
    "vote_count": 464
+  },
+  "tv:1567": {
+   "backdrop_path": "/ujmeZPV9A5AdwfTEuRWR1eqOMDR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cat (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Dog / Cliff (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Winslow / Lube (voice)",
+     "n": "Carlos Alazraqui"
+    },
+    {
+     "c": "Shriek (voice)",
+     "n": "Maria Bamford"
+    },
+    {
+     "c": "Rancid Rabbit / Mr. Sunshine (voice)",
+     "n": "Billy West"
+    },
+    {
+     "c": "Dunglap / Mervis (voice)",
+     "n": "John Kassir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Peter Hannan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1998-04-04",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 1567,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 132,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The life and times of a cat and a dog with a unique twist: they're connected, literally. They share one body with a Dog's head at one end and Cat's head on the other. Adding to their dilemma is Cat's annoyance with Dog, mainly caused by Dog's stupidity and Cat's up-tight personality. Characters: Cat - Cat is the smarter one of the two brothers, and is always hatching some kind of plot to get his brother to calm down, so that Cat doesn't get beat around and hurt. Even though most of these plots involve messing with Dog's feeble mind, they often backfire on Cat, much to his dismay. It may not show all the time but, he deeply loves, and cares for his brother Dog. Dog - Dog is the more lovable of the two brothers, Dog loves to play and party and play some more, he loves baseball and playing fetch with frisbees, balls, sticks, etc, He is very friendly, and happy, but does have a breaking point. He's very sensitive, and if he fails at something he feels horrible, and worthless",
+   "popularity": 25.0341,
+   "poster_path": "/fkSCg9negcHAVO3gXohqEidqrsX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2000-11-25",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1998-04-04",
+     "episode_count": 41,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1999-02-15",
+     "episode_count": 69,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2000-08-12",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "CatDog",
+   "trailer": {
+    "key": "rYOMqa6jC-M",
+    "name": "",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.073,
+   "vote_count": 465
+  },
+  "tv:1667": {
+   "backdrop_path": "/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Various Characters",
+     "n": "Michael Che"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Mikey Day"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Andrew Dismukes"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Marcello Hernández"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "James Austin Johnson"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Colin Jost"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Ashley Padilla"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Sarah Sherman"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Kenan Thompson"
+    },
+    {
+     "c": "Self - Various Characters",
+     "n": "Jane Wickline"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Ebersol",
+    "Lorne Michaels"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1975-10-11",
+   "genres": [
+    "Comedy",
+    "News"
+   ],
+   "id": 1667,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 1018,
+   "number_of_seasons": 52,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+   "popularity": 141.4328,
+   "poster_path": "/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1977-02-20",
+     "episode_count": 221,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1975-10-11",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1976-09-18",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1977-09-24",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1978-10-07",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1979-10-13",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1980-11-15",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1981-10-03",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1982-09-25",
+     "episode_count": 20,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1983-10-08",
+     "episode_count": 19,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1984-10-06",
+     "episode_count": 17,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1985-11-09",
+     "episode_count": 18,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1986-10-11",
+     "episode_count": 20,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1987-10-17",
+     "episode_count": 13,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1988-10-08",
+     "episode_count": 20,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1989-09-30",
+     "episode_count": 20,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1990-09-29",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "1991-09-28",
+     "episode_count": 20,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "1992-09-28",
+     "episode_count": 20,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1993-09-25",
+     "episode_count": 20,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "1994-09-24",
+     "episode_count": 20,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1995-09-30",
+     "episode_count": 20,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1996-09-28",
+     "episode_count": 20,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1997-09-27",
+     "episode_count": 20,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "1998-09-26",
+     "episode_count": 19,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1999-10-02",
+     "episode_count": 20,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2000-10-07",
+     "episode_count": 20,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2001-09-29",
+     "episode_count": 20,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2002-10-05",
+     "episode_count": 20,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "2003-10-04",
+     "episode_count": 20,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "2004-10-02",
+     "episode_count": 20,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2005-10-01",
+     "episode_count": 19,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2006-09-30",
+     "episode_count": 20,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2007-09-29",
+     "episode_count": 12,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2008-09-13",
+     "episode_count": 22,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2009-09-26",
+     "episode_count": 22,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2010-09-25",
+     "episode_count": 22,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2011-09-24",
+     "episode_count": 22,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2012-09-15",
+     "episode_count": 21,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2013-09-28",
+     "episode_count": 21,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2014-09-27",
+     "episode_count": 21,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2015-10-03",
+     "episode_count": 21,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2016-10-01",
+     "episode_count": 21,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2017-09-30",
+     "episode_count": 21,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2018-09-29",
+     "episode_count": 21,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2019-09-28",
+     "episode_count": 18,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2020-10-03",
+     "episode_count": 20,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2021-10-02",
+     "episode_count": 21,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2022-10-01",
+     "episode_count": 18,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2023-10-14",
+     "episode_count": 20,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2024-09-28",
+     "episode_count": 21,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 20,
+     "name": "Season 51",
+     "season_number": 51
+    },
+    {
+     "air_date": "2026-09-26",
+     "episode_count": 20,
+     "name": "Season 52",
+     "season_number": 52
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Live from New York, it's Saturday Night!",
+   "title": "Saturday Night Live",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.891,
+   "vote_count": 550
+  },
+  "tv:167": {
+   "backdrop_path": "/8OapOjQUbA52qDdog8GGIIy8bdh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nikita",
+     "n": "Peta Wilson"
+    },
+    {
+     "c": "Michael",
+     "n": "Roy Dupuis"
+    },
+    {
+     "c": "Seymour Birkoff",
+     "n": "Matthew Ferguson"
+    },
+    {
+     "c": "Operations",
+     "n": "Eugene Robert Glazer"
+    },
+    {
+     "c": "Walter",
+     "n": "Don Francks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "USA Network",
+   "created_by": [
+    "Joel Surnow",
+    "Robert Cochran"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "1997-01-13",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 167,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 96,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Nikita is a drug-addicted juvenile delinquent who was accused of killing a police officer in cold blood during an attempted robbery of a pharmacy. She is later arrested and sentenced to death by lethal injection, upon which she was secretly drugged by the government, faking her death. Nikita is then \"recruited\" by a secret government organization and transformed into a highly skilled assassin who cannot be traced.",
+   "popularity": 29.7256,
+   "poster_path": "/pFao5i4giBsGl7QQBXi7oMUPzCn.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 29,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1997-01-13",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1998-01-04",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1999-01-03",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2000-01-09",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2001-01-07",
+     "episode_count": 8,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Mistakes are not an option.",
+   "title": "La Femme Nikita",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.43,
+   "vote_count": 280
+  },
+  "tv:209867": {
+   "backdrop_path": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frieren (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Fern (voice)",
+     "n": "Kana Ichinose"
+    },
+    {
+     "c": "Stark (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Himmel (voice)",
+     "n": "Nobuhiko Okamoto"
+    },
+    {
+     "c": "하이터 (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Eisen (voice)",
+     "n": "Yoji Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2023-09-29",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 209867,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "YTV",
+    "FBS",
+    "Chukyo TV",
+    "RNB",
+    "HTV",
+    "FCT",
+    "STV",
+    "KNB",
+    "YBS",
+    "KTK",
+    "NKT",
+    "RAB",
+    "TVI",
+    "MMT",
+    "ABS",
+    "JRT",
+    "YBC",
+    "UMK TV Miyazaki",
+    "TSB",
+    "TeNY",
+    "RNC",
+    "NIB",
+    "KKT",
+    "Daiichi-TV",
+    "FBC",
+    "RKC",
+    "KYT",
+    "KRY"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+   "popularity": 58.1845,
+   "poster_path": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Animax Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-10-11",
+     "episode_count": 26,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-09-29",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "Living means being known and remembered by someone.",
+   "title": "Frieren: Beyond Journey's End",
+   "trailer": {
+    "key": "01WEqntM1NI",
+    "name": "Official Netflix Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 1025
+  },
+  "tv:299167": {
+   "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beth Dutton",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Rip Wheeler",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Carter",
+     "n": "Finn Little"
+    },
+    {
+     "c": "Joaquin",
+     "n": "Juan Pablo Raba"
+    },
+    {
+     "c": "Rob-Will",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Azul",
+     "n": "J.R. Villarreal"
+    },
+    {
+     "c": "Zachariah",
+     "n": "Marc Menchaca"
+    },
+    {
+     "c": "Oreana",
+     "n": "Natalie Alyn Lind"
+    },
+    {
+     "c": "Everett McKinney",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Beulah Jackson",
+     "n": "Annette Bening"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount Network",
+   "created_by": [
+    "Chad Feehan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-15",
+   "genres": [
+    "Western",
+    "Drama"
+   ],
+   "id": 299167,
+   "industry": "world",
+   "networks": [
+    "Paramount Network",
+    "Paramount+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+   "popularity": 29.7792,
+   "poster_path": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-15",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Dutton Ranch",
+   "trailer": {
+    "key": "k6cjKNZBQ1M",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.125,
+   "vote_count": 657
+  },
+  "tv:34967": {
+   "backdrop_path": "/lUincM93AWXWQbq0Y3PIKu10HEL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas 'Tom' Mason",
+     "n": "Noah Wyle"
+    },
+    {
+     "c": "Dr. Anne Glass",
+     "n": "Moon Bloodgood"
+    },
+    {
+     "c": "Captain Daniel 'Dan' Weaver",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Hal Mason",
+     "n": "Drew Roy"
+    },
+    {
+     "c": "Ben Mason",
+     "n": "Connor Jessup"
+    },
+    {
+     "c": "Matthew 'Matt' Mason",
+     "n": "Maxim Knight"
+    },
+    {
+     "c": "John Pope",
+     "n": "Colin Cunningham"
+    },
+    {
+     "c": "Maggie",
+     "n": "Sarah Carter"
+    },
+    {
+     "c": "Anthony",
+     "n": "Mpho Koaho"
+    },
+    {
+     "c": "Cochise",
+     "n": "Doug Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TNT",
+   "created_by": [
+    "Robert Rodat"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60,
+    43
+   ],
+   "first_air_date": "2011-06-19",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 34967,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 52,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Falling Skies opens in the chaotic aftermath of an alien attack that has left most of the world completely incapacitated. In the six months since the initial invasion, the few survivors have banded together outside major cities to begin the difficult task of fighting back. Each day is a test of survival as citizen soldiers work to protect the people in their care while also engaging in an insurgency campaign against the occupying alien force.",
+   "popularity": 25.5345,
+   "poster_path": "/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 55,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2011-06-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2012-06-17",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2013-06-09",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-06-22",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2015-06-28",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We're not just fighting for our lives. We're fighting for our existence.",
+   "title": "Falling Skies",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.115,
+   "vote_count": 1420
+  },
+  "tv:67667": {
+   "backdrop_path": "/w7PYFLVjf19azUbkJmFxid0sIt3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valt Aoi (voice)",
+     "n": "Marina Inoue"
+    },
+    {
+     "c": "Shuu Kurenai (voice)",
+     "n": "Junya Enoki"
+    },
+    {
+     "c": "Free De La Hoya (voice)",
+     "n": "Ryoko Shiraishi"
+    },
+    {
+     "c": "Bell Daikokuten (voice)",
+     "n": "Mutsumi Tamura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2016-04-04",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 67667,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "YouTube",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 335,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+   "popularity": 37.2722,
+   "poster_path": "/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-04-03",
+     "episode_count": 26,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-04-04",
+     "episode_count": 51,
+     "name": "Beyblade Burst",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-04-03",
+     "episode_count": 51,
+     "name": "Evolution",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-04-02",
+     "episode_count": 51,
+     "name": "Turbo",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-04-05",
+     "episode_count": 52,
+     "name": "Rise",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-04-03",
+     "episode_count": 52,
+     "name": "Surge",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-04-02",
+     "episode_count": 52,
+     "name": "QuadDrive",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Beyblade Burst",
+   "trailer": {
+    "key": "uH5uQAcSSz8",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 348
+  },
+  "tv:83867": {
+   "backdrop_path": "/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cassian Andor",
+     "n": "Diego Luna"
+    },
+    {
+     "c": "Major Partagaz",
+     "n": "Anton Lesser"
+    },
+    {
+     "c": "Wilmon",
+     "n": "Muhannad Bhaier"
+    },
+    {
+     "c": "Luthen Rael",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Dedra Meero",
+     "n": "Denise Gough"
+    },
+    {
+     "c": "Syril Karn",
+     "n": "Kyle Soller"
+    },
+    {
+     "c": "Bix Caleen",
+     "n": "Adria Arjona"
+    },
+    {
+     "c": "Mon Mothma",
+     "n": "Genevieve O'Reilly"
+    },
+    {
+     "c": "Vel Sartha",
+     "n": "Faye Marsay"
+    },
+    {
+     "c": "Kleya Marki",
+     "n": "Elizabeth Dulau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [
+    "Tony Gilroy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2022-09-21",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 83867,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+   "popularity": 37.7473,
+   "poster_path": "/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-04-30",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-04-22",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The Rebellion begins.",
+   "title": "Andor",
+   "trailer": {
+    "key": "duN-KQgOjYs",
+    "name": "Season 2 Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.322,
+   "vote_count": 2335
   }
  }
 }

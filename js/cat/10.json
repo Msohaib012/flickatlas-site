@@ -1,8 +1,8 @@
 {
  "bucket": "10",
- "count": 8,
+ "count": 16,
  "titles": {
-  "10210": {
+  "movie:10210": {
    "backdrop_path": "/y8F8UE7U0rELJKmWzeucpevxVBN.jpg",
    "budget": 11000000,
    "cast": [
@@ -178,7 +178,7 @@
    "vote_average": 6.4,
    "vote_count": 442
   },
-  "1098110": {
+  "movie:1098110": {
    "backdrop_path": "/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
    "budget": 0,
    "cast": [
@@ -286,7 +286,7 @@
    "vote_average": 6.6,
    "vote_count": 445
   },
-  "115210": {
+  "movie:115210": {
    "backdrop_path": "/wICx3MiNZ9P8YYeLaG2sOk2zJR0.jpg",
    "budget": 100000,
    "cast": [
@@ -471,7 +471,7 @@
    "vote_average": 6.212,
    "vote_count": 474
   },
-  "16910": {
+  "movie:16910": {
    "backdrop_path": "/ldwWnaWoW8ziEFflimoraZouyvB.jpg",
    "budget": 0,
    "cast": [
@@ -645,7 +645,7 @@
    "vote_average": 6.761,
    "vote_count": 457
   },
-  "2210": {
+  "movie:2210": {
    "backdrop_path": "/6qQZ54iVgQWOFaVWss77yHy8YHu.jpg",
    "budget": 10000000,
    "cast": [
@@ -806,7 +806,7 @@
    "vote_average": 5.661,
    "vote_count": 439
   },
-  "253310": {
+  "movie:253310": {
    "backdrop_path": "/qITMDD5ggmuUsShtJT1MAusnT.jpg",
    "budget": 0,
    "cast": [
@@ -909,7 +909,7 @@
    "vote_average": 5.489,
    "vote_count": 492
   },
-  "265010": {
+  "movie:265010": {
    "backdrop_path": "/8OfuPvpLLd9FhVxV7B6bC51JD84.jpg",
    "budget": 0,
    "cast": [
@@ -1058,7 +1058,7 @@
    "vote_average": 5.766,
    "vote_count": 480
   },
-  "4710": {
+  "movie:4710": {
    "backdrop_path": "/83AMHdZU71x7U4aZ7QFGBRtdyxo.jpg",
    "budget": 0,
    "cast": [
@@ -1175,6 +1175,1492 @@
    "type": "movie",
    "vote_average": 7.202,
    "vote_count": 439
+  },
+  "tv:114410": {
+   "backdrop_path": "/fOUKSCbZzaoQKsO39enivHnWDid.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Denji (voice)",
+     "n": "Kikunosuke Toya"
+    },
+    {
+     "c": "Makima (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Aki Hayakawa (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Power (voice)",
+     "n": "Fairouz Ai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2022-10-12",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 114410,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
+   "popularity": 27.1431,
+   "poster_path": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-10-12",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "He's a devil, who doesn't deserve human rights.",
+   "title": "Chainsaw Man",
+   "trailer": {
+    "key": "j9sSzNmB5po",
+    "name": "Main Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.507,
+   "vote_count": 2372
+  },
+  "tv:17610": {
+   "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "G. Callen",
+     "n": "Chris O'Donnell"
+    },
+    {
+     "c": "Kensi Blye",
+     "n": "Daniela Ruah"
+    },
+    {
+     "c": "Marty Deeks",
+     "n": "Eric Christian Olsen"
+    },
+    {
+     "c": "Eric Beale",
+     "n": "Barrett Foa"
+    },
+    {
+     "c": "Fatima Namazi",
+     "n": "Medalion Rahimi"
+    },
+    {
+     "c": "Devin Rountree",
+     "n": "Caleb Castille"
+    },
+    {
+     "c": "Hollace Kilbride",
+     "n": "Gerald McRaney"
+    },
+    {
+     "c": "Sam Hanna",
+     "n": "LL Cool J"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Shane Brennan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2009-09-22",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 17610,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 323,
+   "number_of_seasons": 14,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+   "popularity": 96.0711,
+   "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-05-21",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-22",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-21",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-09-20",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-09-25",
+     "episode_count": 24,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-09-24",
+     "episode_count": 24,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-09-29",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-09-25",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-10-01",
+     "episode_count": 24,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2018-09-30",
+     "episode_count": 24,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2019-09-29",
+     "episode_count": 22,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2020-11-08",
+     "episode_count": 18,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2021-10-10",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2022-10-09",
+     "episode_count": 21,
+     "name": "Season 14",
+     "season_number": 14
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "New city. New team. Same attitude.",
+   "title": "NCIS: Los Angeles",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.525,
+   "vote_count": 1276
+  },
+  "tv:21510": {
+   "backdrop_path": "/aUyweq31etaay92oF4crwdDcnoT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Neal Caffrey",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Peter Burke",
+     "n": "Tim DeKay"
+    },
+    {
+     "c": "Mozzie",
+     "n": "Willie Garson"
+    },
+    {
+     "c": "Elizabeth Burke",
+     "n": "Tiffani Thiessen"
+    },
+    {
+     "c": "Diana Berrigan",
+     "n": "Marsha Thomason"
+    },
+    {
+     "c": "Clinton Jones",
+     "n": "Sharif Atkins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "USA Network",
+   "created_by": [
+    "Jeff Eastin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2009-10-23",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 21510,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 81,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In exchange for his freedom, charming con artist Neal Caffrey provides his expertise to help straight-man FBI agent Peter Burke catch elusive white-collar criminals.",
+   "popularity": 45.8575,
+   "poster_path": "/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-10-23",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-07-13",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-06-07",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-07-10",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2013-10-17",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-11-06",
+     "episode_count": 6,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "To solve the hardest crimes, hire the smartest criminal.",
+   "title": "White Collar",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.206,
+   "vote_count": 1640
+  },
+  "tv:2710": {
+   "backdrop_path": "/u2K2hyUSds4KzOegsC8Eon9oNf2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Kelly",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Dennis Reynolds",
+     "n": "Glenn Howerton"
+    },
+    {
+     "c": "Ronald 'Mac' McDonald",
+     "n": "Rob Mac"
+    },
+    {
+     "c": "Dee Reynolds",
+     "n": "Kaitlin Olson"
+    },
+    {
+     "c": "Frank Reynolds",
+     "n": "Danny DeVito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Rob Mac"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-08-04",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2710,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "FXX"
+   ],
+   "number_of_episodes": 187,
+   "number_of_seasons": 18,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+   "popularity": 71.4082,
+   "poster_path": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-09-04",
+     "episode_count": 69,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-08-04",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-06-29",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-09-13",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-09-18",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-09-17",
+     "episode_count": 12,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-09-16",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-09-15",
+     "episode_count": 13,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2012-10-11",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2013-09-04",
+     "episode_count": 10,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2015-01-14",
+     "episode_count": 10,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2016-01-06",
+     "episode_count": 10,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2017-01-04",
+     "episode_count": 10,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2018-09-05",
+     "episode_count": 10,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 10,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2021-12-01",
+     "episode_count": 8,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2023-06-07",
+     "episode_count": 8,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2025-07-09",
+     "episode_count": 8,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2026-08-17",
+     "episode_count": 10,
+     "name": "Season 18",
+     "season_number": 18
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "More Gang for your buck.",
+   "title": "It's Always Sunny in Philadelphia",
+   "trailer": {
+    "key": "blLAdGYPhiQ",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 1463
+  },
+  "tv:31910": {
+   "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naruto Uzumaki (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Sasuke Uchiha (voice)",
+     "n": "Noriaki Sugiyama"
+    },
+    {
+     "c": "Sakura Haruno (voice)",
+     "n": "Chie Nakamura"
+    },
+    {
+     "c": "Kakashi Hatake (voice)",
+     "n": "Kazuhiko Inoue"
+    },
+    {
+     "c": "Shikamaru Nara (voice)",
+     "n": "Showtaro Morikubo"
+    },
+    {
+     "c": "Sai (voice)",
+     "n": "Satoshi Hino"
+    },
+    {
+     "c": "Gaara (voice)",
+     "n": "Akira Ishida"
+    },
+    {
+     "c": "Itachi Uchiha (voice)",
+     "n": "Hideo Ishikawa"
+    },
+    {
+     "c": "Neji Hyuga (voice)",
+     "n": "Koichi Tochika"
+    },
+    {
+     "c": "Shizune (voice)",
+     "n": "Keiko Nemoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2007-02-15",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 31910,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 500,
+   "number_of_seasons": 20,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+   "popularity": 82.006,
+   "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-02-06",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-02-15",
+     "episode_count": 32,
+     "name": "S1 • Kazekage Rescue",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-11-06",
+     "episode_count": 21,
+     "name": "S2 • Long-Awaited Reunion",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-04-02",
+     "episode_count": 18,
+     "name": "S3 • Guardian Shinobi Twelve",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-08-20",
+     "episode_count": 17,
+     "name": "S4 • Immortal Devastators: Hidan and Kakuzu",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-12-17",
+     "episode_count": 24,
+     "name": "S5 • Three Tails' Appearance",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-06-10",
+     "episode_count": 31,
+     "name": "S6 • Master's Prophecy and Vengeance",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-01-20",
+     "episode_count": 8,
+     "name": "S7 • Six Tails Unleashed",
+     "season_number": 7
+    },
+    {
+     "air_date": "2010-03-24",
+     "episode_count": 24,
+     "name": "S8 • Two Saviors",
+     "season_number": 8
+    },
+    {
+     "air_date": "2010-09-01",
+     "episode_count": 21,
+     "name": "S9 • Past Arc: The Locus of the Leaf",
+     "season_number": 9
+    },
+    {
+     "air_date": "2011-02-10",
+     "episode_count": 25,
+     "name": "S10 • The Five Kage Assemble",
+     "season_number": 10
+    },
+    {
+     "air_date": "2011-07-28",
+     "episode_count": 21,
+     "name": "S11 • Paradise Life on a Boat",
+     "season_number": 11
+    },
+    {
+     "air_date": "2012-01-04",
+     "episode_count": 33,
+     "name": "S12 • Nine-Tails Taming and Karmic Encounters",
+     "season_number": 12
+    },
+    {
+     "air_date": "2012-08-22",
+     "episode_count": 20,
+     "name": "S13 • The Seven Ninja Swordsman",
+     "season_number": 13
+    },
+    {
+     "air_date": "2013-01-16",
+     "episode_count": 25,
+     "name": "S14 • The Fourth Great Ninja War: Assailants From Afar",
+     "season_number": 14
+    },
+    {
+     "air_date": "2013-07-18",
+     "episode_count": 28,
+     "name": "S15 • The Fourth Great Ninja War: Sasuke and Itachi",
+     "season_number": 15
+    },
+    {
+     "air_date": "2014-02-05",
+     "episode_count": 13,
+     "name": "S16 • Kakashi: Shadow of the ANBU Black Ops",
+     "season_number": 16
+    },
+    {
+     "air_date": "2014-05-14",
+     "episode_count": 11,
+     "name": "S17 • The Fourth Great Ninja War: Team 7 Returns",
+     "season_number": 17
+    },
+    {
+     "air_date": "2014-08-20",
+     "episode_count": 21,
+     "name": "S18 • The Fourth Great Ninja War: Obito Uchiha",
+     "season_number": 18
+    },
+    {
+     "air_date": "",
+     "episode_count": 20,
+     "name": "S19 • In Naruto's Footsteps: The Friends' Path",
+     "season_number": 19
+    },
+    {
+     "air_date": "2015-05-27",
+     "episode_count": 87,
+     "name": "S20 • Infinite Tsukuyomi: The Invocation",
+     "season_number": 20
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Naruto Shippūden",
+   "trailer": {
+    "key": "22R0j8UKRzY",
+    "name": "Official Trailer | Naruto Shippuden, Set 1| VIZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.528,
+   "vote_count": 8853
+  },
+  "tv:35610": {
+   "backdrop_path": "/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "InuYasha (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Kagome Higurashi (voice)",
+     "n": "Satsuki Yukino"
+    },
+    {
+     "c": "Miroku (voice)",
+     "n": "Koji Tsujitani"
+    },
+    {
+     "c": "Sango (voice)",
+     "n": "Houko Kuwashima"
+    },
+    {
+     "c": "Sesshomaru (voice)",
+     "n": "Ken Narita"
+    },
+    {
+     "c": "Rin (voice)",
+     "n": "Mamiko Noto"
+    },
+    {
+     "c": "Kikyo (voice)",
+     "n": "Noriko Hidaka"
+    },
+    {
+     "c": "Naraku (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Kagura (voice)",
+     "n": "Izumi Ōgami"
+    },
+    {
+     "c": "曲灵（配音）",
+     "n": "Takeshi Kusao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "ANIMAX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2000-10-16",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 35610,
+   "industry": "world",
+   "networks": [
+    "ANIMAX",
+    "Nippon TV",
+    "YTV"
+   ],
+   "number_of_episodes": 193,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+   "popularity": 44.949,
+   "poster_path": "/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-07-30",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-10-16",
+     "episode_count": 167,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-10-04",
+     "episode_count": 26,
+     "name": "The Final Act",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "InuYasha",
+   "trailer": {
+    "key": "UCFBsLagBPk",
+    "name": "Official English Trailer Extended | Inuyasha, Set 1 | VIZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.565,
+   "vote_count": 2116
+  },
+  "tv:4610": {
+   "backdrop_path": "/r7tiRgwCz4orOoYZIdbRdIGkfU3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miley Stewart / Hannah Montana",
+     "n": "Miley Cyrus"
+    },
+    {
+     "c": "Lilly Truscott",
+     "n": "Emily Osment"
+    },
+    {
+     "c": "Jackson Stewart",
+     "n": "Jason Earles"
+    },
+    {
+     "c": "Robby Ray Stewart",
+     "n": "Billy Ray Cyrus"
+    },
+    {
+     "c": "Rico Suave",
+     "n": "Moisés Arias"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Barry O'Brien",
+    "Richard Correll",
+    "Michael Poryes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2006-03-24",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 4610,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 98,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At home and school, she's Miley Stewart, a typical teenager, but when the lights go down and the curtain goes up, she emerges as the glamorous and talented Hannah Montana. Having the \"Best of Both Worlds\" is a complicated proposition, and keeping her identity under wraps leads Miley and her friends into some hilarious capers as she tries to balance her normal life with her rock star persona.",
+   "popularity": 27.799,
+   "poster_path": "/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-11-02",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2006-03-24",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2007-04-23",
+     "episode_count": 29,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2008-11-02",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-07-11",
+     "episode_count": 13,
+     "name": "Hannah Montana Forever",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hannah Montana",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.115,
+   "vote_count": 759
+  },
+  "tv:62710": {
+   "backdrop_path": "/1GWiao0QYuKsoTvUmd7ivnE3qDY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jane Doe",
+     "n": "Jaimie Alexander"
+    },
+    {
+     "c": "Kurt Weller",
+     "n": "Sullivan Stapleton"
+    },
+    {
+     "c": "Tasha Zapata",
+     "n": "Audrey Esparza"
+    },
+    {
+     "c": "Patterson",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Rich Dotcom",
+     "n": "Ennis Esmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Martin Gero"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-09-21",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 62710,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be revealed.",
+   "popularity": 40.5611,
+   "poster_path": "/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-09-21",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-09-14",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-10-27",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-10-12",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-05-07",
+     "episode_count": 11,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Piecing together her past. One tattoo at a time.",
+   "title": "Blindspot",
+   "trailer": {
+    "key": "jfcKn6BwIC4",
+    "name": "Blindspot Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.38,
+   "vote_count": 2601
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "33",
- "count": 4,
+ "count": 13,
  "titles": {
-  "248933": {
+  "movie:248933": {
    "backdrop_path": "/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
    "budget": 6875270,
    "cast": [
@@ -169,7 +169,7 @@
    "vote_average": 7.043,
    "vote_count": 444
   },
-  "285733": {
+  "movie:285733": {
    "backdrop_path": "/d8YV61996Zq00UqSVBV9K8KJgN4.jpg",
    "budget": 0,
    "cast": [
@@ -294,7 +294,7 @@
    "vote_average": 7.173,
    "vote_count": 447
   },
-  "718633": {
+  "movie:718633": {
    "backdrop_path": "/iwyKRyOFlOZ1fBdONscHiDEcEgz.jpg",
    "budget": 11000000,
    "cast": [
@@ -403,7 +403,7 @@
    "vote_average": 6.8,
    "vote_count": 493
   },
-  "785533": {
+  "movie:785533": {
    "backdrop_path": "/dvd330SU63LGyLf7WMKTMgJIl53.jpg",
    "budget": 0,
    "cast": [
@@ -509,6 +509,1458 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 483
+  },
+  "tv:117933": {
+   "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shinpei Ajiro (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Ushio Kofune (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Mio Kofune (voice)",
+     "n": "Saho Shirasu"
+    },
+    {
+     "c": "Hizuru Minakata (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Ginjiro Nezu (voice)",
+     "n": "Jin Urayama"
+    },
+    {
+     "c": "Sou Hishigata (voice)",
+     "n": "Kensho Ono"
+    },
+    {
+     "c": "Tokiko Hishigata (voice)",
+     "n": "Maki Kawase"
+    },
+    {
+     "c": "Seido Hishigata (voice)",
+     "n": "Akio Otsuka"
+    },
+    {
+     "c": "Alain Kofune (voice)",
+     "n": "Tessyo Genda"
+    },
+    {
+     "c": "Tetsu Totsumura (voice)",
+     "n": "Yoji Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "BS11",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2022-04-15",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 117933,
+   "industry": "world",
+   "networks": [
+    "BS11"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Shinpei Ajiro travels home to attend the funeral of a childhood friend, and finds the remote island plagued by a sinister, supernatural force.",
+   "popularity": 28.6507,
+   "poster_path": "/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2022-04-15",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Summer Time Rendering",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.152,
+   "vote_count": 211
+  },
+  "tv:1433": {
+   "backdrop_path": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stan Smith / Roger (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "Francine Smith (voice)",
+     "n": "Wendy Schaal"
+    },
+    {
+     "c": "Hayley Smith (voice)",
+     "n": "Rachael MacFarlane"
+    },
+    {
+     "c": "Steve Smith (voice)",
+     "n": "Scott Grimes"
+    },
+    {
+     "c": "Klaus (voice)",
+     "n": "Dee Bradley Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Matt Weitzman",
+    "Seth MacFarlane",
+    "Mike Barker"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2005-02-06",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 1433,
+   "industry": "world",
+   "networks": [
+    "FOX",
+    "TBS"
+   ],
+   "number_of_episodes": 401,
+   "number_of_seasons": 22,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+   "popularity": 170.6055,
+   "poster_path": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png",
+     "name": "TBS",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+     "name": "FOX One Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-02-06",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-09-11",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-09-10",
+     "episode_count": 19,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2007-09-30",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2008-09-28",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-09-27",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-10-03",
+     "episode_count": 19,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2011-09-25",
+     "episode_count": 18,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2012-09-30",
+     "episode_count": 19,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2013-09-29",
+     "episode_count": 20,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2014-09-14",
+     "episode_count": 3,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2014-10-20",
+     "episode_count": 15,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2016-01-25",
+     "episode_count": 22,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2016-11-07",
+     "episode_count": 22,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-12-25",
+     "episode_count": 22,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2019-04-14",
+     "episode_count": 20,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2020-04-12",
+     "episode_count": 24,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2021-04-18",
+     "episode_count": 22,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2022-01-23",
+     "episode_count": 22,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2023-03-26",
+     "episode_count": 22,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2024-10-27",
+     "episode_count": 22,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2026-02-20",
+     "episode_count": 13,
+     "name": "Season 22",
+     "season_number": 22
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "From the creator of \"Family Guy\" comes a man who will stop at nothing to protect his country.",
+   "title": "American Dad!",
+   "trailer": {
+    "key": "apr31MFjg08",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.023,
+   "vote_count": 2492
+  },
+  "tv:284833": {
+   "backdrop_path": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pavi (voice)",
+     "n": "Saheli Khan"
+    },
+    {
+     "c": "Nisha (voice)",
+     "n": "Aishwarya 'Aishu' Devan"
+    },
+    {
+     "c": "Jae (voice)",
+     "n": "Major Curda"
+    },
+    {
+     "c": "Karthik (voice)",
+     "n": "Akshay Khanna"
+    },
+    {
+     "c": "Agam (voice)",
+     "n": "Sakina Jaffrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Paramount+",
+   "created_by": [
+    "Michael Dante DiMartino",
+    "Bryan Konietzko"
+   ],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "2026-10-09",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Family"
+   ],
+   "id": 284833,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+   "popularity": 51.275,
+   "poster_path": "/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 13,
+     "name": "Book One: Survival",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-05-21",
+     "episode_count": 13,
+     "name": "Book Two: Discovery",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "New legends will rise.",
+   "title": "Avatar: Seven Havens",
+   "trailer": {
+    "key": "nhdh962_ee0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.879,
+   "vote_count": 198
+  },
+  "tv:46533": {
+   "backdrop_path": "/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth Jennings",
+     "n": "Keri Russell"
+    },
+    {
+     "c": "Philip Jennings",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Paige Jennings",
+     "n": "Holly Taylor"
+    },
+    {
+     "c": "Henry Jennings",
+     "n": "Keidrich Sellati"
+    },
+    {
+     "c": "Stan Beeman",
+     "n": "Noah Emmerich"
+    },
+    {
+     "c": "Oleg Igorevich Burov",
+     "n": "Costa Ronin"
+    },
+    {
+     "c": "Claudia",
+     "n": "Margo Martindale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FX",
+   "created_by": [
+    "Joe Weisberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-01-30",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 46533,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 75,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set during the Cold War period in the 1980s, The Americans is the story of Elizabeth and Philip Jennings, two Soviet KGB officers posing as an American married couple in the suburbs of Washington D.C. and their neighbor, Stan Beeman, an FBI Counterintelligence agent.",
+   "popularity": 41.1835,
+   "poster_path": "/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-01-30",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-02-26",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-01-28",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-03-16",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-03-07",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-03-28",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "All's fair in love and cold war.",
+   "title": "The Americans",
+   "trailer": {
+    "key": "wt7NPuabEgQ",
+    "name": "Official Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 1143
+  },
+  "tv:61733": {
+   "backdrop_path": "/FNeJtRUd5XID186SHzjNNneP3f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucious Lyon",
+     "n": "Terrence Howard"
+    },
+    {
+     "c": "Cookie Lyon",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Hakeem Lyon",
+     "n": "Bryshere Y. Gray"
+    },
+    {
+     "c": "Andre Lyon",
+     "n": "Trai Byers"
+    },
+    {
+     "c": "Becky",
+     "n": "Gabourey Sidibe"
+    },
+    {
+     "c": "Porsha",
+     "n": "Ta'Rhonda Jones"
+    },
+    {
+     "c": "Tiana Brown",
+     "n": "Serayah"
+    },
+    {
+     "c": "Giselle Sims-Barker",
+     "n": "Nicole Ari Parker"
+    },
+    {
+     "c": "Teri Lyon",
+     "n": "Meta Golding"
+    },
+    {
+     "c": "Jeff Kingsley",
+     "n": "A.Z. Kelsey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Danny Strong",
+    "Lee Daniels"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-01-07",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 61733,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 102,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+   "popularity": 163.9761,
+   "poster_path": "/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-01-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-09-23",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-09-21",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-09-27",
+     "episode_count": 18,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 18,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 18,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Their reign. Their rules.",
+   "title": "Empire",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.144,
+   "vote_count": 774
+  },
+  "tv:63333": {
+   "backdrop_path": "/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Uhtred of Bebbanburg",
+     "n": "Alexander Dreymon"
+    },
+    {
+     "c": "Aelswith",
+     "n": "Eliza Butterworth"
+    },
+    {
+     "c": "Finan",
+     "n": "Mark Rowley"
+    },
+    {
+     "c": "Stiorra",
+     "n": "Ruby Hartley"
+    },
+    {
+     "c": "Aldhelm",
+     "n": "James Northcote"
+    },
+    {
+     "c": "Sihtric",
+     "n": "Arnas Fedaravičius"
+    },
+    {
+     "c": "Aethelstan",
+     "n": "Harry Gilby"
+    },
+    {
+     "c": "King Edward",
+     "n": "Timothy Innes"
+    },
+    {
+     "c": "Eadith",
+     "n": "Stefanie Martini"
+    },
+    {
+     "c": "Aelfwynn",
+     "n": "Phia Saban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Stephen Butchard"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60,
+    50
+   ],
+   "first_air_date": "2015-10-10",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 63333,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "BBC Two"
+   ],
+   "number_of_episodes": 46,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+   "popularity": 703.4088,
+   "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-03-08",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-10-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-03-16",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-11-19",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-04-26",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-03-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "England is born",
+   "title": "The Last Kingdom",
+   "trailer": {
+    "key": "NNBNX34mO34",
+    "name": "The Last Kingdom | Season 5 Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.254,
+   "vote_count": 2092
+  },
+  "tv:65733": {
+   "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nobita Nobi (voice)",
+     "n": "Megumi Oohara"
+    },
+    {
+     "c": "Doraemon (voice)",
+     "n": "Wasabi Mizuta"
+    },
+    {
+     "c": "Shizuka Minamoto (voice)",
+     "n": "Yumi Kakazu"
+    },
+    {
+     "c": "Suneo Honekawa (voice)",
+     "n": "Tomokazu Seki"
+    },
+    {
+     "c": "Takeshi Gouda (voice)",
+     "n": "Subaru Kimura"
+    },
+    {
+     "c": "Dorami (voice)",
+     "n": "Chiaki"
+    },
+    {
+     "c": "Tamako Nobi (voice)",
+     "n": "Kotono Mitsuishi"
+    },
+    {
+     "c": "Nobisuke Nobi (voice)",
+     "n": "Yasunori Matsumoto"
+    },
+    {
+     "c": "Hidetoshi Dekisugi (voice)",
+     "n": "Shihoko Hagino"
+    },
+    {
+     "c": "Sensei (voice)",
+     "n": "Wataru Takagi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "tv asahi",
+   "created_by": [],
+   "director": [
+    "Zenso Ichiro"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2005-04-22",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids",
+    "Family"
+   ],
+   "id": 65733,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 1464,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+   "popularity": 295.1121,
+   "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-04-15",
+     "episode_count": 147,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2005-04-22",
+     "episode_count": 1464,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Doraemon",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.094,
+   "vote_count": 262
+  },
+  "tv:67133": {
+   "backdrop_path": "/v2moumGovVAmDASYkjakIl2WrOM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Angus 'Mac' MacGyver",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Riley Davis",
+     "n": "Tristin Mays"
+    },
+    {
+     "c": "Russ Taylor",
+     "n": "Henry Ian Cusick"
+    },
+    {
+     "c": "Matty Webber",
+     "n": "Meredith Eaton"
+    },
+    {
+     "c": "Wilt Bozer",
+     "n": "Justin Hires"
+    },
+    {
+     "c": "Desiree 'Desi' Nguyen",
+     "n": "Levy Tran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [
+    "Peter M. Lenkov"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2016-09-23",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 67133,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 94,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "20-something Angus MacGyver creates a clandestine organization where he uses his knack for solving problems in unconventional ways to help prevent disasters from happening.",
+   "popularity": 34.0966,
+   "poster_path": "/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 10,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2016-09-23",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-09-29",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-09-28",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2020-02-07",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2020-12-04",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "No man has done more with less.",
+   "title": "MacGyver",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.286,
+   "vote_count": 987
+  },
+  "tv:73833": {
+   "backdrop_path": "/KI2sFvqJHzc95WM7dcX9kM8tY1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chise Hatori (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Elias Ainsworth (voice)",
+     "n": "Ryota Takeuchi"
+    },
+    {
+     "c": "Ruth (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Silky (voice)",
+     "n": "Aya Endo"
+    },
+    {
+     "c": "Lucy Webster (voice)",
+     "n": "Minami Tsuda"
+    },
+    {
+     "c": "Philomela Sergeant (voice)",
+     "n": "Maki Kawase"
+    },
+    {
+     "c": "Rían Scrimgeour (voice)",
+     "n": "Seiichiro Yamashita"
+    },
+    {
+     "c": "Zoe Ivy (voice)",
+     "n": "Daiki Kobayashi"
+    },
+    {
+     "c": "Veronica Rickenbacker (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Isaac Farrar (voice)",
+     "n": "Koutaro Nishiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2017-10-08",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 73833,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Hatori Chise has lived a life full of neglect and abuse, devoid of anything resembling love. Far from the warmth of family, she has had her share of troubles and pitfalls. Just when all hope seems lost, a fateful encounter awaits her. When a man with the head of a beast, wielding strange powers, obtains her through a slave auction, Chise's life will never be the same again. The man is a \"magus,\"a sorcerer of great power, who decides to free Chise from the bonds of captivity. The magus then makes a bold statement: Chise will become his apprentice--and his bride!",
+   "popularity": 31.0032,
+   "poster_path": "/xXGAFMGiG55oS8uzuVz7V5JxFb2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-10-03",
+     "episode_count": 35,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-10-08",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2023-04-06",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Ancient Magus' Bride",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 453
   }
  }
 }

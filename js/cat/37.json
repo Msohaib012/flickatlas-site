@@ -1,8 +1,8 @@
 {
  "bucket": "37",
- "count": 6,
+ "count": 13,
  "titles": {
-  "10337": {
+  "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
    "budget": 30000000,
    "cast": [
@@ -119,7 +119,7 @@
    "vote_average": 6.342,
    "vote_count": 479
   },
-  "11337": {
+  "movie:11337": {
    "backdrop_path": "/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
    "budget": 10000000,
    "cast": [
@@ -228,7 +228,7 @@
    "vote_average": 6.922,
    "vote_count": 483
   },
-  "16237": {
+  "movie:16237": {
    "backdrop_path": "/fey7NzJ61KAAVPfUgcpaahW5gZ5.jpg",
    "budget": 0,
    "cast": [
@@ -389,7 +389,7 @@
    "vote_average": 7.881,
    "vote_count": 485
   },
-  "348537": {
+  "movie:348537": {
    "backdrop_path": "/rvMBDR182O8S3CqXymi7GwX1ekF.jpg",
    "budget": 4500000,
    "cast": [
@@ -544,7 +544,7 @@
    "vote_average": 5.52,
    "vote_count": 442
   },
-  "42437": {
+  "movie:42437": {
    "backdrop_path": "/me8J6liwKAiabtJteO2qmPlKMrs.jpg",
    "budget": 0,
    "cast": [
@@ -632,7 +632,7 @@
    "vote_average": 5.1,
    "vote_count": 474
   },
-  "431937": {
+  "movie:431937": {
    "backdrop_path": "/uyYgW4aUwGRh2pdyMgNfeqBC0Jc.jpg",
    "budget": 5983685,
    "cast": [
@@ -793,6 +793,1197 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 475
+  },
+  "tv:12637": {
+   "backdrop_path": "/coHgKyLRwhbMktEWr6dwSYUg2BH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "León Bustamante",
+     "n": "Enrique Rocha"
+    },
+    {
+     "c": "Franco Colucci",
+     "n": "Juan Ferrara"
+    },
+    {
+     "c": "Alma Rey",
+     "n": "Ninel Conde"
+    },
+    {
+     "c": "Mayra Fernández",
+     "n": "Leticia Perdigón"
+    },
+    {
+     "c": "Mia Colucci Cáceres",
+     "n": "Anahí"
+    },
+    {
+     "c": "Roberta Pardo",
+     "n": "Dulce María"
+    },
+    {
+     "c": "Rocco Bezauri",
+     "n": "Diego Boneta"
+    },
+    {
+     "c": "Miguel Arango",
+     "n": "Alfonso Herrera"
+    },
+    {
+     "c": "Diego Bustamante",
+     "n": "Christopher Von Uckermann"
+    },
+    {
+     "c": "Celina Ferrer",
+     "n": "Estefanía Villarreal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Univision",
+   "created_by": [
+    "Cris Morena",
+    "Pedro Damián"
+   ],
+   "director": [
+    "Juan Carlos Muñoz",
+    "Luis Pardo",
+    "Felipe Nájera"
+   ],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2004-10-04",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 12637,
+   "industry": "world",
+   "networks": [
+    "Univision",
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 440,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A group of young adults will spend their adolescence at the Elite Way School, where they will learn about love, life and live their passion for music.",
+   "popularity": 65.3961,
+   "poster_path": "/kQHXg2BOiODkF4yVI75NcodMmAJ.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-10-04",
+     "episode_count": 215,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2005-08-01",
+     "episode_count": 120,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2006-01-16",
+     "episode_count": 105,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Rebelde",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.413,
+   "vote_count": 5224
+  },
+  "tv:17937": {
+   "backdrop_path": "/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Zak Bagans"
+    },
+    {
+     "c": "Self",
+     "n": "Aaron Goodwin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "Discovery",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2008-10-17",
+   "genres": [
+    "Reality"
+   ],
+   "id": 17937,
+   "industry": "world",
+   "networks": [
+    "Discovery",
+    "Travel Channel",
+    "discovery+"
+   ],
+   "number_of_episodes": 330,
+   "number_of_seasons": 28,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paranormal investigator Zak Bagans and his crew, Nick Groff and Aaron Goodwin, search for haunted locations both domestically and internationally. During their investigations, Zak and crew acquaint themselves with the general area; interview locals about the hauntings; and go face-to-face with the evil spirits who reportedly haunt these locations.",
+   "popularity": 32.752,
+   "poster_path": "/xLJZuDxdeUqRFHFlqs0mIk9faMR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Discovery"
+    },
+    {
+     "name": "Travel Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Discovery +"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Discovery+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2009-10-30",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-10-17",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-06-05",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-11-06",
+     "episode_count": 9,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2010-09-17",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2011-09-23",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2012-03-09",
+     "episode_count": 9,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2012-09-14",
+     "episode_count": 30,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2013-08-16",
+     "episode_count": 11,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2014-02-15",
+     "episode_count": 13,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2014-10-04",
+     "episode_count": 11,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2015-08-22",
+     "episode_count": 12,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2016-01-30",
+     "episode_count": 13,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2016-09-24",
+     "episode_count": 13,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2017-03-24",
+     "episode_count": 11,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2017-09-23",
+     "episode_count": 15,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2018-06-16",
+     "episode_count": 10,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2018-10-31",
+     "episode_count": 10,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2019-02-23",
+     "episode_count": 13,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2019-10-31",
+     "episode_count": 4,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2020-02-27",
+     "episode_count": 12,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2020-11-05",
+     "episode_count": 11,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2021-07-22",
+     "episode_count": 24,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "2023-06-07",
+     "episode_count": 11,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2023-10-11",
+     "episode_count": 5,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2024-05-15",
+     "episode_count": 5,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2025-04-16",
+     "episode_count": 6,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 14,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2026-09-30",
+     "episode_count": 6,
+     "name": "Season 28",
+     "season_number": 28
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ghost Adventures",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 219
+  },
+  "tv:203737": {
+   "backdrop_path": "/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aqua (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Ruby (voice)",
+     "n": "Yurie Igoma"
+    },
+    {
+     "c": "Kana Arima (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Memcho (voice)",
+     "n": "Rumi Okubo"
+    },
+    {
+     "c": "Akane Kurokawa (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Goro (voice)",
+     "n": "Kent Ito"
+    },
+    {
+     "c": "Child Aqua (voice)",
+     "n": "Yumi Uchiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2023-04-12",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 203737,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 35,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
+   "popularity": 24.5127,
+   "poster_path": "/qoW507a8RoGbpILCxt2N87USn8H.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Animax Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xOwnnrPOQc4bcXVM6joev4nXJRY.png",
+     "name": "Animax Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-05-31",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2023-04-12",
+     "episode_count": 35,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "【OSHI NO KO】",
+   "trailer": {
+    "key": "FQLfj75E2JI",
+    "name": "Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 368
+  },
+  "tv:226637": {
+   "backdrop_path": "/yVP12H81dwaay5B7GVqgO893q2c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Morgan Gillory",
+     "n": "Kaitlin Olson"
+    },
+    {
+     "c": "Adam Karadec",
+     "n": "Daniel Sunjata"
+    },
+    {
+     "c": "Selena Soto",
+     "n": "Judy Reyes"
+    },
+    {
+     "c": "Daphne Forrester",
+     "n": "Javicia Leslie"
+    },
+    {
+     "c": "Lev 'Oz' Ozdil",
+     "n": "Deniz Akdeniz"
+    },
+    {
+     "c": "Ava Gillory",
+     "n": "Amirah J"
+    },
+    {
+     "c": "Elliot Radovic",
+     "n": "Matthew Lamb"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Drew Goddard"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-09-17",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 226637,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+   "popularity": 47.0118,
+   "poster_path": "/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-09-17",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-09-16",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2027-01-05",
+     "episode_count": 1,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The new face of investigation.",
+   "title": "High Potential",
+   "trailer": {
+    "key": "B5Hn1higb_8",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.258,
+   "vote_count": 712
+  },
+  "tv:3137": {
+   "backdrop_path": "/ymdCZck7hy7EDxUTR4Uq1MisfyX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Sheridan",
+     "n": "Bruce Boxleitner"
+    },
+    {
+     "c": "Michael Garibaldi",
+     "n": "Jerry Doyle"
+    },
+    {
+     "c": "Delenn",
+     "n": "Mira Furlan"
+    },
+    {
+     "c": "Stephen Franklin",
+     "n": "Richard Biggs"
+    },
+    {
+     "c": "G'Kar",
+     "n": "Andreas Katsulas"
+    },
+    {
+     "c": "Londo Mollari",
+     "n": "Peter Jurasik"
+    },
+    {
+     "c": "Vir Cotto",
+     "n": "Stephen Furst"
+    },
+    {
+     "c": "Lennier",
+     "n": "Bill Mumy"
+    },
+    {
+     "c": "Elizabeth Lochley",
+     "n": "Tracy Scoggins"
+    },
+    {
+     "c": "Lyta Alexander",
+     "n": "Patricia Tallman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TNT",
+   "created_by": [
+    "J. Michael Straczynski"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "1994-01-26",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 3137,
+   "industry": "world",
+   "networks": [
+    "TNT",
+    "Syndication"
+   ],
+   "number_of_episodes": 110,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Babylon 5 is a five-mile long space station located in neutral space. Built by the Earth Alliance in the 2250s, its goal is to maintain peace among the various alien races by providing a sanctuary where grievances and negotiations can be worked out among duly appointed ambassadors. A council made up of representatives from the five major space-faring civilizations - the Earth Alliance, Minbari Federation, Centauri Republic, Narn Regime, and Vorlon Empire - work with the League of Non-Aligned Worlds to keep interstellar relations under control. Aside from its diplomatic function, Babylon 5 also serves as a military post for Earth and a port of call for travelers, traders, businessmen, criminals, and Rangers.",
+   "popularity": 44.1142,
+   "poster_path": "/td8O6KJQpN9ZRiuyFUILziXFMrk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-02-22",
+     "episode_count": 86,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1994-01-26",
+     "episode_count": 22,
+     "name": "Signs and Portents",
+     "season_number": 1
+    },
+    {
+     "air_date": "1994-11-02",
+     "episode_count": 22,
+     "name": "The Coming of Shadows",
+     "season_number": 2
+    },
+    {
+     "air_date": "1995-11-06",
+     "episode_count": 22,
+     "name": "Point of No Return",
+     "season_number": 3
+    },
+    {
+     "air_date": "1996-11-04",
+     "episode_count": 22,
+     "name": "No Surrender, No Retreat",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-01-21",
+     "episode_count": 22,
+     "name": "Wheel of Fire",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The last, best hope for peace.",
+   "title": "Babylon 5",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.028,
+   "vote_count": 636
+  },
+  "tv:537": {
+   "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arnold (voice)",
+     "n": "Spencer Klein"
+    },
+    {
+     "c": "Helga Pataki (voice)",
+     "n": "Francesca Marie Smith"
+    },
+    {
+     "c": "Gerald Johanssen (voice)",
+     "n": "Jamil Walker Smith"
+    },
+    {
+     "c": "Rhonda Wellington Lloyd (voice)",
+     "n": "Olivia Hack"
+    },
+    {
+     "c": "Phoebe Heyerdahl (voice)",
+     "n": "Anndi McAfee"
+    },
+    {
+     "c": "Harold Berman (voice)",
+     "n": "Justin Shenkarow"
+    },
+    {
+     "c": "Eugene Horowitz (voice)",
+     "n": "Blake McIver Ewing"
+    },
+    {
+     "c": "Grandpa Phil (voice)",
+     "n": "Dan Castellaneta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Nickelodeon",
+   "created_by": [
+    "Craig Bartlett"
+   ],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "1996-10-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 537,
+   "industry": "world",
+   "networks": [
+    "Nickelodeon"
+   ],
+   "number_of_episodes": 186,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football.",
+   "popularity": 41.7882,
+   "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1994-06-16",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1996-10-07",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1997-09-22",
+     "episode_count": 37,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1998-08-31",
+     "episode_count": 38,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1999-03-10",
+     "episode_count": 31,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2001-03-04",
+     "episode_count": 42,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Adventure is never more than a bus stop away.",
+   "title": "Hey Arnold!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.021,
+   "vote_count": 1010
+  },
+  "tv:90937": {
+   "backdrop_path": "/oU6akWOEEvdoaaK9Sdpzowmi2gR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Legoshi (voice)",
+     "n": "Chikahiro Kobayashi"
+    },
+    {
+     "c": "Haru (voice)",
+     "n": "Sayaka Senbongi"
+    },
+    {
+     "c": "Louis (voice)",
+     "n": "Yuki Ono"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2019-10-10",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 90937,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Netflix"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a world where beasts of all kinds coexist, a gentle wolf awakens to his own predatory urges as his school deals with a murder within its midst.",
+   "popularity": 35.9929,
+   "poster_path": "/Ac60Pi9UsVirPE8vt2lrVckR2tr.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2019-10-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2021-01-07",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2024-12-05",
+     "episode_count": 24,
+     "name": "Final Season",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "BEASTARS",
+   "trailer": {
+    "key": "TArSVUJ9XsU",
+    "name": "BEASTARS Final Season Part 1 | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.395,
+   "vote_count": 1363
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "13",
- "count": 7,
+ "count": 10,
  "titles": {
-  "13613": {
+  "movie:13613": {
    "backdrop_path": "/gTdus3VTkdyQLjyqKq6AbhIayed.jpg",
    "budget": 18000000,
    "cast": [
@@ -182,7 +182,7 @@
    "vote_average": 5.2,
    "vote_count": 462
   },
-  "1412113": {
+  "movie:1412113": {
    "backdrop_path": "/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
    "budget": 0,
    "cast": [
@@ -268,7 +268,7 @@
    "vote_average": 8.332,
    "vote_count": 462
   },
-  "27813": {
+  "movie:27813": {
    "backdrop_path": "/qGa0xgIKTmSa4Rlw5pEhShDTGwU.jpg",
    "budget": 35000,
    "cast": [
@@ -498,7 +498,7 @@
    "vote_average": 6.2,
    "vote_count": 493
   },
-  "693113": {
+  "movie:693113": {
    "backdrop_path": "/clU0V12kgvK6ubQVxAQ3fLrP6te.jpg",
    "budget": 15000000,
    "cast": [
@@ -665,7 +665,7 @@
    "vote_average": 5.777,
    "vote_count": 494
   },
-  "72213": {
+  "movie:72213": {
    "backdrop_path": "/mTufDWFNNtm4hJzRQi5cxsO5Ar4.jpg",
    "budget": 1000000,
    "cast": [
@@ -795,7 +795,7 @@
    "vote_average": 7.7,
    "vote_count": 436
   },
-  "9413": {
+  "movie:9413": {
    "backdrop_path": "/ecZVDPB3ju7jxJy1kEsn2rnsVx6.jpg",
    "budget": 19000000,
    "cast": [
@@ -950,7 +950,7 @@
    "vote_average": 5.868,
    "vote_count": 467
   },
-  "9713": {
+  "movie:9713": {
    "backdrop_path": "/bab3M73GxIf0UfxPeXG1GsGjnXu.jpg",
    "budget": 60000000,
    "cast": [
@@ -1122,6 +1122,477 @@
    "type": "movie",
    "vote_average": 5.238,
    "vote_count": 484
+  },
+  "tv:107113": {
+   "backdrop_path": "/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charles-Haden Savage",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Oliver Putnam",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Mabel Mora",
+     "n": "Selena Gomez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Hulu",
+   "created_by": [
+    "Steve Martin",
+    "John Hoffman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2021-08-31",
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 107113,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 51,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+   "popularity": 39.6705,
+   "poster_path": "/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-08-31",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-06-28",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2023-08-07",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2024-08-27",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2025-09-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2026-12-08",
+     "episode_count": 1,
+     "name": "Season 6: Only Murders in London",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The building always wins.",
+   "title": "Only Murders in the Building",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.396,
+   "vote_count": 2337
+  },
+  "tv:4313": {
+   "backdrop_path": "/btUwsz9ttVBVyqtEyZvFBQFyJgv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jesse Katsopolis",
+     "n": "John Stamos"
+    },
+    {
+     "c": "Danny Tanner",
+     "n": "Bob Saget"
+    },
+    {
+     "c": "Joey Gladstone",
+     "n": "Dave Coulier"
+    },
+    {
+     "c": "D.J. Tanner",
+     "n": "Candace Cameron Bure"
+    },
+    {
+     "c": "Stephanie Tanner",
+     "n": "Jodie Sweetin"
+    },
+    {
+     "c": "Rebecca Katsopolis",
+     "n": "Lori Loughlin"
+    },
+    {
+     "c": "Nicky Katsopolis",
+     "n": "Blake Tuomy-Wilhoit"
+    },
+    {
+     "c": "Alex Katsopolis",
+     "n": "Dylan Tuomy-Wilhoit"
+    },
+    {
+     "c": "Kimmy Gibbler",
+     "n": "Andrea Barber"
+    },
+    {
+     "c": "Michelle Tanner",
+     "n": "Mary-Kate Olsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "ABC",
+   "created_by": [
+    "Jeff Franklin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1987-09-22",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 4313,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 192,
+   "number_of_seasons": 8,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the death of his wife, Danny enlists his best friend and his brother-in-law to help raise his three daughters, D.J., Stephanie, and Michelle.",
+   "popularity": 51.4794,
+   "poster_path": "/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1987-09-22",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-10-14",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-09-22",
+     "episode_count": 24,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-09-21",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-09-17",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-09-22",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1993-09-14",
+     "episode_count": 24,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1994-09-27",
+     "episode_count": 24,
+     "name": "Season 8",
+     "season_number": 8
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Full House",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.536,
+   "vote_count": 1192
+  },
+  "tv:4613": {
+   "backdrop_path": "/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Denver (Bull) Randleman",
+     "n": "Michael Cudlitz"
+    },
+    {
+     "c": "George Luz",
+     "n": "Rick Gomez"
+    },
+    {
+     "c": "Donald G. Malarkey",
+     "n": "Scott Grimes"
+    },
+    {
+     "c": "Richard D. Winters",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Lewis Nixon",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Frank J. Perconte",
+     "n": "James Madio"
+    },
+    {
+     "c": "Lynn D. (Buck) Compton",
+     "n": "Neal McDonough"
+    },
+    {
+     "c": "C. Carwood Lipton",
+     "n": "Donnie Wahlberg"
+    },
+    {
+     "c": "Joe Toye",
+     "n": "Kirk Acevedo"
+    },
+    {
+     "c": "William (Wild Bill) Guarnere",
+     "n": "Frank John Hughes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "HBO",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2001-09-09",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 4613,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
+   "popularity": 33.0154,
+   "poster_path": "/eLdcio9HBKzsdIJGeD80oObDfkr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-06-05",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2001-09-09",
+     "episode_count": 10,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "lt",
+    "nl",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There was a time when the world asked ordinary men to do extraordinary things.",
+   "title": "Band of Brothers",
+   "trailer": {
+    "key": "KKRBAFlN5ww",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.611,
+   "vote_count": 4477
   }
  }
 }

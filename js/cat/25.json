@@ -1,8 +1,8 @@
 {
  "bucket": "25",
- "count": 9,
+ "count": 17,
  "titles": {
-  "14125": {
+  "movie:14125": {
    "backdrop_path": "/mgiKwR18cagbuasTPnihOmlzXsk.jpg",
    "budget": 17000000,
    "cast": [
@@ -173,7 +173,7 @@
    "vote_average": 4.9,
    "vote_count": 483
   },
-  "17825": {
+  "movie:17825": {
    "backdrop_path": "/25z40geOwWZVVDFyqi4Iq4Fi2xp.jpg",
    "budget": 0,
    "cast": [
@@ -263,7 +263,7 @@
    "vote_average": 5.236,
    "vote_count": 475
   },
-  "218425": {
+  "movie:218425": {
    "backdrop_path": "/71TAboo7x1IQn45CmWWfRn6aDAP.jpg",
    "budget": 0,
    "cast": [
@@ -436,7 +436,7 @@
    "vote_average": 6.6,
    "vote_count": 460
   },
-  "290825": {
+  "movie:290825": {
    "backdrop_path": "/oOVWuXkxQRYwUpd0Jg7QVxlMd2W.jpg",
    "budget": 5000000,
    "cast": [
@@ -551,7 +551,7 @@
    "vote_average": 4.7,
    "vote_count": 492
   },
-  "29425": {
+  "movie:29425": {
    "backdrop_path": "/7jj05YOKmFP7WUwxX3j56cl4I79.jpg",
    "budget": 275000,
    "cast": [
@@ -794,7 +794,7 @@
    "vote_average": 6.059,
    "vote_count": 437
   },
-  "538225": {
+  "movie:538225": {
    "backdrop_path": "/kIXJRoqUdqU9AowvS7PqBqMK8N8.jpg",
    "budget": 0,
    "cast": [
@@ -905,7 +905,7 @@
    "vote_average": 6.722,
    "vote_count": 480
   },
-  "66125": {
+  "movie:66125": {
    "backdrop_path": "/jNGxNW6POZvxecTcfWhSmP1uU2m.jpg",
    "budget": 5,
    "cast": [
@@ -1090,7 +1090,7 @@
    "vote_average": 7.306,
    "vote_count": 449
   },
-  "812225": {
+  "movie:812225": {
    "backdrop_path": "/rogeBJK44LtWynOqzMFmEF30T80.jpg",
    "budget": 0,
    "cast": [
@@ -1199,7 +1199,7 @@
    "vote_average": 8.061,
    "vote_count": 444
   },
-  "9625": {
+  "movie:9625": {
    "backdrop_path": "/oFs99SgcuVOwGhtew77rBKniNmi.jpg",
    "budget": 45000000,
    "cast": [
@@ -1299,6 +1299,1462 @@
    "type": "movie",
    "vote_average": 5.407,
    "vote_count": 456
+  },
+  "tv:12225": {
+   "backdrop_path": "/r9QAxAW2KGQaVnEOxXKJuZ6RSJe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "John Sparkes"
+    },
+    {
+     "c": "Mummy Pig / Madame Gazelle (voice)",
+     "n": "Morwenna Banks"
+    },
+    {
+     "c": "Daddy Pig (voice)",
+     "n": "Richard Ridings"
+    },
+    {
+     "c": "George Pig (voice)",
+     "n": "Alice May"
+    },
+    {
+     "c": "Granny Pig (voice)",
+     "n": "Frances White"
+    },
+    {
+     "c": "Granddad Dog (voice)",
+     "n": "David Rintoul"
+    },
+    {
+     "c": "Grandpa Pig (voice)",
+     "n": "David Graham"
+    },
+    {
+     "c": "Miss Rabbit (voice)",
+     "n": "Sarah Ann Kennedy"
+    },
+    {
+     "c": "Dr. Elephant (voice)",
+     "n": "Andy Hamilton"
+    },
+    {
+     "c": "Grampy Rabbit (voice)",
+     "n": "Brian Blessed"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "5",
+   "created_by": [
+    "Neville Astley",
+    "Mark Baker"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2004-05-31",
+   "genres": [
+    "Animation",
+    "Kids"
+   ],
+   "id": 12225,
+   "industry": "world",
+   "networks": [
+    "5"
+   ],
+   "number_of_episodes": 492,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
+   "popularity": 103.1935,
+   "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    },
+    {
+     "name": "Hopster Amazon Channel"
+    },
+    {
+     "name": "Hasbrotv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2007-12-25",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2004-05-31",
+     "episode_count": 52,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-09-04",
+     "episode_count": 52,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2009-05-04",
+     "episode_count": 52,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-05-23",
+     "episode_count": 52,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-10-24",
+     "episode_count": 52,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-02-03",
+     "episode_count": 52,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-03-08",
+     "episode_count": 65,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2023-09-04",
+     "episode_count": 52,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "",
+     "episode_count": 63,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Peppa Pig",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 771
+  },
+  "tv:1425": {
+   "backdrop_path": "/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claire Underwood",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Doug Stamper",
+     "n": "Michael Kelly"
+    },
+    {
+     "c": "Janine Skorsky",
+     "n": "Constance Zimmer"
+    },
+    {
+     "c": "Jane Davis",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Seth Grayson",
+     "n": "Derek Cecil"
+    },
+    {
+     "c": "Tom Hammerschmidt",
+     "n": "Boris McGiver"
+    },
+    {
+     "c": "Viktor Petrov",
+     "n": "Lars Mikkelsen"
+    },
+    {
+     "c": "Duncan Shepherd",
+     "n": "Cody Fern"
+    },
+    {
+     "c": "Annette Shepherd",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Bill Shepherd",
+     "n": "Greg Kinnear"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Beau Willimon"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-02-01",
+   "genres": [
+    "Drama"
+   ],
+   "id": 1425,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 73,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons.",
+   "popularity": 51.7614,
+   "poster_path": "/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 7,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-02-01",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-02-14",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-02-27",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2016-03-04",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2017-05-30",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2018-11-02",
+     "episode_count": 8,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "There are two kinds of pain.",
+   "title": "House of Cards",
+   "trailer": {
+    "key": "x1E8PSGcyqI",
+    "name": "House of Cards Season 1 - Official Trailer - Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.004,
+   "vote_count": 3382
+  },
+  "tv:2025": {
+   "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly Taylor",
+     "n": "Jennie Garth"
+    },
+    {
+     "c": "Steve Sanders",
+     "n": "Ian Ziering"
+    },
+    {
+     "c": "Dylan McKay",
+     "n": "Luke Perry"
+    },
+    {
+     "c": "David Silver",
+     "n": "Brian Austin Green"
+    },
+    {
+     "c": "Donna Martin",
+     "n": "Tori Spelling"
+    },
+    {
+     "c": "Noah Hunter",
+     "n": "Vincent Young"
+    },
+    {
+     "c": "Janet Sosna",
+     "n": "Lindsay Price"
+    },
+    {
+     "c": "Matt Durning",
+     "n": "Daniel Cosgrove"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Aaron Spelling",
+    "Darren Star"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1990-10-04",
+   "genres": [
+    "Drama"
+   ],
+   "id": 2025,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 285,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
+   "popularity": 683.9604,
+   "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1993-05-26",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1990-10-04",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1991-07-11",
+     "episode_count": 28,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1992-07-15",
+     "episode_count": 29,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1993-09-08",
+     "episode_count": 31,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1994-09-07",
+     "episode_count": 31,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1995-09-13",
+     "episode_count": 31,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1996-08-21",
+     "episode_count": 31,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1997-09-10",
+     "episode_count": 30,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1998-09-16",
+     "episode_count": 26,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1999-09-08",
+     "episode_count": 25,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "New faces and dangerous places!",
+   "title": "Beverly Hills, 90210",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.26,
+   "vote_count": 868
+  },
+  "tv:50825": {
+   "backdrop_path": "/jHkeqXYUU4khZEig88AFLMUOmep.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ichabod Crane",
+     "n": "Tom Mison"
+    },
+    {
+     "c": "Diana Thomas",
+     "n": "Janina Gavankar"
+    },
+    {
+     "c": "Jenny Mills",
+     "n": "Lyndie Greenwood"
+    },
+    {
+     "c": "Jake Wells",
+     "n": "Jerry MacKinnon"
+    },
+    {
+     "c": "Alex Norwood",
+     "n": "Rachel Melvin"
+    },
+    {
+     "c": "Molly Thomas",
+     "n": "Oona Yaffe"
+    },
+    {
+     "c": "Malcolm Dreyfuss",
+     "n": "Jeremy Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "FOX",
+   "created_by": [
+    "Alex Kurtzman",
+    "Roberto Orci",
+    "Phillip Iscove",
+    "Len Wiseman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2013-09-16",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 50825,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.",
+   "popularity": 29.3083,
+   "poster_path": "/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2013-08-11",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-09-16",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2014-09-22",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-10-01",
+     "episode_count": 18,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-01-06",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Carry on.",
+   "title": "Sleepy Hollow",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.427,
+   "vote_count": 1146
+  },
+  "tv:60625": {
+   "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jerry Smith (voice)",
+     "n": "Chris Parnell"
+    },
+    {
+     "c": "Summer Smith (voice)",
+     "n": "Spencer Grammer"
+    },
+    {
+     "c": "Beth Smith (voice)",
+     "n": "Sarah Chalke"
+    },
+    {
+     "c": "Rick Sanchez (voice)",
+     "n": "Ian Cardoni"
+    },
+    {
+     "c": "Morty Smith (voice)",
+     "n": "Harry Belden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Dan Harmon",
+    "Justin Roiland"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2013-12-02",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 60625,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 91,
+   "number_of_seasons": 9,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+   "popularity": 120.2865,
+   "poster_path": "/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-10-22",
+     "episode_count": 37,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2013-12-02",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-07-26",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-04-01",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-11-10",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-06-20",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-09-04",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-10-15",
+     "episode_count": 10,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2025-05-25",
+     "episode_count": 10,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2026-05-24",
+     "episode_count": 10,
+     "name": "Season 9",
+     "season_number": 9
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Science makes sense, family doesn't.",
+   "title": "Rick and Morty",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 11585
+  },
+  "tv:66025": {
+   "backdrop_path": "/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrew \"Pope\" Cody",
+     "n": "Shawn Hatosy"
+    },
+    {
+     "c": "Craig Cody",
+     "n": "Ben Robson"
+    },
+    {
+     "c": "Deran Cody",
+     "n": "Jake Weary"
+    },
+    {
+     "c": "Joshua \"J\" Cody",
+     "n": "Finn Cole"
+    },
+    {
+     "c": "Janine Cody",
+     "n": "Leila George"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TNT",
+   "created_by": [
+    "Jonathan Lisco"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2016-06-14",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 66025,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 75,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "17-year-old Joshua \"J\" Cody moves in with his freewheeling relatives in their Southern California beach town after his mother dies of a heroin overdose. Headed by boot-tough matriarch Janine \"Smurf\" Cody and her right-hand Baz, who runs the business and calls the shots, the clan also consists of Pope, the oldest and most dangerous of the Cody boys; Craig, the tough and fearless middle son; and Deran, the troubled, suspicious \"baby\" of the family.",
+   "popularity": 43.6931,
+   "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Xive TV Documentaries Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-06-14",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-05-30",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-05-29",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-05-28",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-07-11",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2022-06-19",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Family ’til the end.",
+   "title": "Animal Kingdom",
+   "trailer": {
+    "key": "gTZwd0f92YE",
+    "name": "Animal Kingdom: Season 1 Preview | TNT",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 587
+  },
+  "tv:7225": {
+   "backdrop_path": "/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Merlin",
+     "n": "Colin Morgan"
+    },
+    {
+     "c": "Gwen",
+     "n": "Angel Coulby"
+    },
+    {
+     "c": "Arthur Pendragon",
+     "n": "Bradley James"
+    },
+    {
+     "c": "Morgana",
+     "n": "Katie McGrath"
+    },
+    {
+     "c": "Gaius",
+     "n": "Richard Wilson"
+    },
+    {
+     "c": "Kilgharrah (voice)",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Percival",
+     "n": "Tom Hopper"
+    },
+    {
+     "c": "Leon",
+     "n": "Rupert Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "BBC One",
+   "created_by": [
+    "Jake Michie",
+    "Johnny Capps",
+    "Julian Murphy",
+    "Julian Jones"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2008-09-20",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 7225,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 65,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+   "popularity": 34.7346,
+   "poster_path": "/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2008-09-20",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-09-19",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2010-09-11",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2011-10-01",
+     "episode_count": 13,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-10-06",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Magic is his destiny.",
+   "title": "Merlin",
+   "trailer": {
+    "key": "iPxq3myiQF0",
+    "name": "Merlin - The Cinema Trailer - BBC One",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 1214
+  },
+  "tv:97525": {
+   "backdrop_path": "/fBWZQOPl5CuYxdXRb0uNVX8mgcG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fushi (voice)",
+     "n": "Reiji Kawashima"
+    },
+    {
+     "c": "The Beholder (voice)",
+     "n": "Kenjiro Tsuda"
+    },
+    {
+     "c": "Mizuha (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Yuki Aoki (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Satoru (voice)",
+     "n": "Yumiri Hanamori"
+    },
+    {
+     "c": "Hanna (voice)",
+     "n": "Aya Uchida"
+    },
+    {
+     "c": "Kazumu Tamaki (voice)",
+     "n": "Fukushi Ochiai"
+    },
+    {
+     "c": "Suzuhiko Senba (voice)",
+     "n": "Chiharu Sawashiro"
+    },
+    {
+     "c": "Aiko (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Kazumitsu (voice)",
+     "n": "Shouto Kashii"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NHK G",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2021-04-12",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 97525,
+   "industry": "world",
+   "networks": [
+    "NHK G",
+    "NHK Educational TV"
+   ],
+   "number_of_episodes": 62,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "An immortal being takes on the form of a human boy, wandering the earth and experiencing the pains and joys of life throughout his story without end.",
+   "popularity": 32.0706,
+   "poster_path": "/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2021-07-05",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2021-04-12",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2022-10-23",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "To Your Eternity",
+   "trailer": {
+    "key": "WHq46obaDR8",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.16,
+   "vote_count": 356
   }
  }
 }

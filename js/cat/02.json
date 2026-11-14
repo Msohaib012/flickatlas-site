@@ -1,8 +1,8 @@
 {
  "bucket": "02",
- "count": 9,
+ "count": 19,
  "titles": {
-  "11502": {
+  "movie:11502": {
    "backdrop_path": "/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
    "budget": 0,
    "cast": [
@@ -136,7 +136,7 @@
    "vote_average": 7.264,
    "vote_count": 493
   },
-  "12702": {
+  "movie:12702": {
    "backdrop_path": "/mCK4c04c4D4c80qZJXuDaIMiQtl.jpg",
    "budget": 0,
    "cast": [
@@ -306,7 +306,7 @@
    "vote_average": 5.302,
    "vote_count": 492
   },
-  "12902": {
+  "movie:12902": {
    "backdrop_path": "/mQqfADnMPodCsY6pamofoxKtQwm.jpg",
    "budget": 0,
    "cast": [
@@ -407,7 +407,7 @@
    "vote_average": 7.3,
    "vote_count": 480
   },
-  "15602": {
+  "movie:15602": {
    "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
    "budget": 25000000,
    "cast": [
@@ -529,7 +529,7 @@
    "vote_average": 6.465,
    "vote_count": 449
   },
-  "444902": {
+  "movie:444902": {
    "backdrop_path": "/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
    "budget": 6000000,
    "cast": [
@@ -647,7 +647,7 @@
    "vote_average": 5.5,
    "vote_count": 455
   },
-  "458302": {
+  "movie:458302": {
    "backdrop_path": "/ufzWHtqmthDV3Vq7LqqDNebq5Cn.jpg",
    "budget": 0,
    "cast": [
@@ -779,7 +779,7 @@
    "vote_average": 7.865,
    "vote_count": 482
   },
-  "61202": {
+  "movie:61202": {
    "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
    "budget": 7700000,
    "cast": [
@@ -888,7 +888,7 @@
    "vote_average": 7.64,
    "vote_count": 449
   },
-  "931102": {
+  "movie:931102": {
    "backdrop_path": "/7vLjt0NthBRvNDv9PVie8KpBWOJ.jpg",
    "budget": 0,
    "cast": [
@@ -1107,7 +1107,7 @@
    "vote_average": 7.1,
    "vote_count": 437
   },
-  "988402": {
+  "movie:988402": {
    "backdrop_path": "/gbpy4mwYEodTutM9Z1HTEPK6i3S.jpg",
    "budget": 3000000,
    "cast": [
@@ -1307,6 +1307,2090 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 455
+  },
+  "tv:1402": {
+   "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maggie Greene",
+     "n": "Lauren Cohan"
+    },
+    {
+     "c": "Daryl Dixon",
+     "n": "Norman Reedus"
+    },
+    {
+     "c": "Negan Smith",
+     "n": "Jeffrey Dean Morgan"
+    },
+    {
+     "c": "Carol Peletier",
+     "n": "Melissa McBride"
+    },
+    {
+     "c": "Rosita Espinosa",
+     "n": "Christian Serratos"
+    },
+    {
+     "c": "Gabriel Stokes",
+     "n": "Seth Gilliam"
+    },
+    {
+     "c": "Aaron",
+     "n": "Ross Marquand"
+    },
+    {
+     "c": "Eugene Porter",
+     "n": "Josh McDermitt"
+    },
+    {
+     "c": "Ezekiel Sutton",
+     "n": "Khary Payton"
+    },
+    {
+     "c": "Jerry",
+     "n": "Cooper Andrews"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "AMC",
+   "created_by": [
+    "Frank Darabont"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2010-10-31",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 1402,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 177,
+   "number_of_seasons": 11,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+   "popularity": 129.6567,
+   "poster_path": "/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2010-10-11",
+     "episode_count": 87,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-10-31",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2011-10-16",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-10-14",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-10-13",
+     "episode_count": 16,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-10-12",
+     "episode_count": 16,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-10-11",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2016-10-23",
+     "episode_count": 16,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2017-10-22",
+     "episode_count": 16,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2018-10-07",
+     "episode_count": 16,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2019-10-06",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2021-08-22",
+     "episode_count": 24,
+     "name": "Season 11",
+     "season_number": 11
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Fight the dead. Fear the living.",
+   "title": "The Walking Dead",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.077,
+   "vote_count": 18365
+  },
+  "tv:18202": {
+   "backdrop_path": "/2Fc9ap5qsYmOZkSZnwMk9kNoLVQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jules Cobb",
+     "n": "Courteney Cox"
+    },
+    {
+     "c": "Ellie Torres",
+     "n": "Christa Miller"
+    },
+    {
+     "c": "Laurie Keller",
+     "n": "Busy Philipps"
+    },
+    {
+     "c": "Travis Cobb",
+     "n": "Dan Byrd"
+    },
+    {
+     "c": "Grayson Ellis",
+     "n": "Josh Hopkins"
+    },
+    {
+     "c": "Andy Torres",
+     "n": "Ian Gomez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Bill Lawrence",
+    "Kevin Biegel"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30,
+    22
+   ],
+   "first_air_date": "2009-09-23",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 18202,
+   "industry": "world",
+   "networks": [
+    "ABC",
+    "TBS"
+   ],
+   "number_of_episodes": 102,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jules Cobb is a mom in her forties facing the often humorous challenges, pitfalls and rewards of life's next chapter. Along for the journey is her son, her ex-husband, her husband/neighbor and her friends who together make up her dysfunctional, but supportive and caring extended family... even if they have a funny way of showing it sometimes.",
+   "popularity": 27.6817,
+   "poster_path": "/oIRB1s2pXir3bIsJG5hGTTu9C3w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 46,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2009-09-23",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-09-22",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-02-14",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2013-01-08",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2014-01-07",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2015-01-06",
+     "episode_count": 13,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Bad title. Good comedy.",
+   "title": "Cougar Town",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.505,
+   "vote_count": 284
+  },
+  "tv:2902": {
+   "backdrop_path": "/5lckDqUhoKnGkLgyIR5PbVZ8urr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brian Kinney",
+     "n": "Gale Harold"
+    },
+    {
+     "c": "Justin Taylor",
+     "n": "Randy Harrison"
+    },
+    {
+     "c": "Michael Novotny",
+     "n": "Hal Sparks"
+    },
+    {
+     "c": "Emmett Honeycutt",
+     "n": "Peter Paige"
+    },
+    {
+     "c": "Ted Schmidt",
+     "n": "Scott Lowell"
+    },
+    {
+     "c": "Debbie Novotny",
+     "n": "Sharon Gless"
+    },
+    {
+     "c": "Chris Hobbs",
+     "n": "Alec McClure"
+    },
+    {
+     "c": "Lindsay Peterson",
+     "n": "Thea Gill"
+    },
+    {
+     "c": "Melanie Marcus",
+     "n": "Michelle Clunie"
+    },
+    {
+     "c": "Ben Bruckner",
+     "n": "Robert Gant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Showtime",
+   "created_by": [
+    "Daniel Lipman",
+    "Ron Cowen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-12-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 2902,
+   "industry": "world",
+   "networks": [
+    "Showtime"
+   ],
+   "number_of_episodes": 83,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Brash humor and genuine emotion make up this original series revolving around the lives, loves, ambitions, careers and friendships of a group of gay men and women living on Liberty Avenue in contemporary Pittsburgh, PA. The show offers an unapologetic look at modern, urban gay and lesbian lives while addressing the most critical health and political issues affecting the community. Sometimes racy, sometimes sensitive and always straight to the heart.",
+   "popularity": 29.9273,
+   "poster_path": "/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
+   "production_countries": [
+    "US",
+    "CA",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 32,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-12-03",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2002-01-06",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2003-03-02",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2004-04-18",
+     "episode_count": 14,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2005-05-22",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "You know you want it.",
+   "title": "Queer as Folk",
+   "trailer": {
+    "key": "RIavR_pk__E",
+    "name": "Queer As Folk Official Season 1 Trailer (Released in 2000)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 551
+  },
+  "tv:3002": {
+   "backdrop_path": "/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Benny Hill"
+    },
+    {
+     "c": "",
+     "n": "Henry McGee"
+    },
+    {
+     "c": "",
+     "n": "Bob Todd"
+    },
+    {
+     "c": "",
+     "n": "Nicholas Parsons"
+    },
+    {
+     "c": "",
+     "n": "Jackie Wright"
+    },
+    {
+     "c": "",
+     "n": "Helen Horton"
+    },
+    {
+     "c": "",
+     "n": "Bella Emberg"
+    },
+    {
+     "c": "",
+     "n": "Patricia Hayes"
+    },
+    {
+     "c": "",
+     "n": "Anna Dawson"
+    },
+    {
+     "c": "",
+     "n": "Felicity Buirski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ITV1",
+   "created_by": [
+    "Benny Hill"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60,
+    45
+   ],
+   "first_air_date": "1969-11-19",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 3002,
+   "industry": "world",
+   "networks": [
+    "ITV1",
+    "BBC One",
+    "Associated Television"
+   ],
+   "number_of_episodes": 58,
+   "number_of_seasons": 19,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+   "popularity": 325.5053,
+   "poster_path": "/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 36,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1969-11-19",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1970-10-28",
+     "episode_count": 5,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1971-11-24",
+     "episode_count": 4,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1972-10-25",
+     "episode_count": 4,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1973-12-05",
+     "episode_count": 4,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1975-01-08",
+     "episode_count": 3,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1975-12-17",
+     "episode_count": 4,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1977-01-26",
+     "episode_count": 3,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1978-05-30",
+     "episode_count": 1,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1978-12-26",
+     "episode_count": 3,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1980-02-06",
+     "episode_count": 3,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1981-01-07",
+     "episode_count": 3,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1982-01-06",
+     "episode_count": 2,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1983-01-05",
+     "episode_count": 2,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1984-01-16",
+     "episode_count": 2,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1985-01-02",
+     "episode_count": 3,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "1986-03-12",
+     "episode_count": 3,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "1988-01-13",
+     "episode_count": 2,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1989-02-08",
+     "episode_count": 3,
+     "name": "Season 19",
+     "season_number": 19
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Benny Hill Show",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.219,
+   "vote_count": 185
+  },
+  "tv:3902": {
+   "backdrop_path": "/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shaun / Timmy / The Pigs / Mowermouth (voice)",
+     "n": "Justin Fletcher"
+    },
+    {
+     "c": "Bitzer / The Farmer (voice)",
+     "n": "John Sparkes"
+    },
+    {
+     "c": "Timmy's Mother (voice)",
+     "n": "Kate Harbour"
+    },
+    {
+     "c": "Shirley (voice)",
+     "n": "Rich Webber"
+    },
+    {
+     "c": "The Twins (voice)",
+     "n": "Simon Greenall"
+    },
+    {
+     "c": "Hazel (voice)",
+     "n": "Emma Tate"
+    },
+    {
+     "c": "Nuts (voice)",
+     "n": "Andy Nyman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "BBC One",
+   "created_by": [
+    "Richard Starzak"
+   ],
+   "director": [],
+   "episode_run_time": [
+    7,
+    15,
+    5
+   ],
+   "first_air_date": "2007-03-05",
+   "genres": [
+    "Kids",
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 3902,
+   "industry": "world",
+   "networks": [
+    "BBC One",
+    "CBBC"
+   ],
+   "number_of_episodes": 170,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+   "popularity": 26.7096,
+   "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hopster Amazon Channel"
+    },
+    {
+     "name": "Kidstream Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-11-17",
+     "episode_count": 8,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2007-03-05",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2009-10-18",
+     "episode_count": 40,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2012-11-30",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2014-02-03",
+     "episode_count": 30,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2016-09-05",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2025-05-26",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Shaun the Sheep",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 298
+  },
+  "tv:4602": {
+   "backdrop_path": "/xXxTWkQFeUUWr3N8UVl7CpwZI2g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Raven Baxter",
+     "n": "Raven-Symoné"
+    },
+    {
+     "c": "Eddie Thomas",
+     "n": "Orlando Brown"
+    },
+    {
+     "c": "Cory Baxter",
+     "n": "Kyle Massey"
+    },
+    {
+     "c": "Chelsea Daniels",
+     "n": "Anneliese Van Der Pol"
+    },
+    {
+     "c": "Victor Baxter",
+     "n": "Rondell Sheridan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Michael Poryes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2003-01-17",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 4602,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "No ordinary teenager; Raven Baxter can see glimpses of the future! Watch her schemes and misadventures as she enlists the help of friends, including best friends Eddie and Chelsea, to change life's little outcomes. Raven's younger brother, Cory, is obsessed with money and creates get-rich-quick schemes to try to earn cash.",
+   "popularity": 25.7456,
+   "poster_path": "/8pSH9b3XKKLBhdlsK9bz0AWYc7C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-07-28",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-01-17",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-10-03",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-10-01",
+     "episode_count": 35,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-02-20",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "She can see the future. But she can't quite see what's coming next.",
+   "title": "That's So Raven",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.235,
+   "vote_count": 298
+  },
+  "tv:502": {
+   "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maria Figueroa Rodriguez",
+     "n": "Sonia Manzano"
+    },
+    {
+     "c": "Gordon Robinson",
+     "n": "Roscoe Orman"
+    },
+    {
+     "c": "Telly Monster / Aloysius Snuffleupagus / Irvine / Slimey (voice)",
+     "n": "Martin P. Robinson"
+    },
+    {
+     "c": "Nina",
+     "n": "Suki Lopez"
+    },
+    {
+     "c": "Charlie",
+     "n": "Violet Tinnirello"
+    },
+    {
+     "c": "Zoe (voice)",
+     "n": "Jennifer Barnhart"
+    },
+    {
+     "c": "Elmo (voice)",
+     "n": "Ryan Dillon"
+    },
+    {
+     "c": "Alan",
+     "n": "Alan Muraoka"
+    },
+    {
+     "c": "Grandma Nell (voice)",
+     "n": "Jimmica Collins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y",
+   "channel": "PBS",
+   "created_by": [
+    "Lloyd Morrisett",
+    "Joan Ganz Cooney",
+    "Jim Henson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1969-11-10",
+   "genres": [
+    "Kids",
+    "Comedy"
+   ],
+   "id": 502,
+   "industry": "world",
+   "networks": [
+    "PBS",
+    "HBO",
+    "National Educational Television",
+    "PBS Kids",
+    "Netflix",
+    "HBO Max",
+    "Max",
+    "HBO Max"
+   ],
+   "number_of_episodes": 3669,
+   "number_of_seasons": 56,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+   "popularity": 110.414,
+   "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 126,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1969-11-10",
+     "episode_count": 130,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1970-11-09",
+     "episode_count": 145,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1971-11-08",
+     "episode_count": 130,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1972-11-27",
+     "episode_count": 130,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1973-11-19",
+     "episode_count": 130,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1974-11-04",
+     "episode_count": 130,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1975-12-01",
+     "episode_count": 130,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1976-11-29",
+     "episode_count": 130,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1977-11-28",
+     "episode_count": 84,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1978-11-27",
+     "episode_count": 130,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "1979-11-26",
+     "episode_count": 130,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "1980-11-24",
+     "episode_count": 130,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "1981-11-23",
+     "episode_count": 31,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "1982-11-22",
+     "episode_count": 130,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "1983-11-21",
+     "episode_count": 130,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "1984-11-19",
+     "episode_count": 130,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "1985-11-18",
+     "episode_count": 130,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "1986-11-17",
+     "episode_count": 31,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "1987-11-16",
+     "episode_count": 33,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "1988-11-21",
+     "episode_count": 33,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "1989-11-13",
+     "episode_count": 36,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "1990-11-12",
+     "episode_count": 130,
+     "name": "Season 22",
+     "season_number": 22
+    },
+    {
+     "air_date": "1991-11-11",
+     "episode_count": 44,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "1992-11-09",
+     "episode_count": 71,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "1993-11-22",
+     "episode_count": 31,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "1994-11-21",
+     "episode_count": 33,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "1995-11-20",
+     "episode_count": 32,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "1996-11-18",
+     "episode_count": 56,
+     "name": "Season 28",
+     "season_number": 28
+    },
+    {
+     "air_date": "1997-11-17",
+     "episode_count": 130,
+     "name": "Season 29",
+     "season_number": 29
+    },
+    {
+     "air_date": "1998-11-16",
+     "episode_count": 65,
+     "name": "Season 30",
+     "season_number": 30
+    },
+    {
+     "air_date": "2000-01-03",
+     "episode_count": 65,
+     "name": "Season 31",
+     "season_number": 31
+    },
+    {
+     "air_date": "2001-01-01",
+     "episode_count": 65,
+     "name": "Season 32",
+     "season_number": 32
+    },
+    {
+     "air_date": "2002-02-04",
+     "episode_count": 50,
+     "name": "Season 33",
+     "season_number": 33
+    },
+    {
+     "air_date": "2003-04-07",
+     "episode_count": 33,
+     "name": "Season 34",
+     "season_number": 34
+    },
+    {
+     "air_date": "2004-02-15",
+     "episode_count": 26,
+     "name": "Season 35",
+     "season_number": 35
+    },
+    {
+     "air_date": "2005-04-04",
+     "episode_count": 26,
+     "name": "Season 36",
+     "season_number": 36
+    },
+    {
+     "air_date": "2006-08-14",
+     "episode_count": 26,
+     "name": "Season 37",
+     "season_number": 37
+    },
+    {
+     "air_date": "2007-08-13",
+     "episode_count": 26,
+     "name": "Season 38",
+     "season_number": 38
+    },
+    {
+     "air_date": "2008-08-11",
+     "episode_count": 26,
+     "name": "Season 39",
+     "season_number": 39
+    },
+    {
+     "air_date": "2009-11-10",
+     "episode_count": 26,
+     "name": "Season 40",
+     "season_number": 40
+    },
+    {
+     "air_date": "2010-09-27",
+     "episode_count": 26,
+     "name": "Season 41",
+     "season_number": 41
+    },
+    {
+     "air_date": "2011-09-26",
+     "episode_count": 26,
+     "name": "Season 42",
+     "season_number": 42
+    },
+    {
+     "air_date": "2012-09-24",
+     "episode_count": 27,
+     "name": "Season 43",
+     "season_number": 43
+    },
+    {
+     "air_date": "2013-09-16",
+     "episode_count": 26,
+     "name": "Season 44",
+     "season_number": 44
+    },
+    {
+     "air_date": "2014-09-14",
+     "episode_count": 27,
+     "name": "Season 45",
+     "season_number": 45
+    },
+    {
+     "air_date": "2016-01-15",
+     "episode_count": 35,
+     "name": "Season 46",
+     "season_number": 46
+    },
+    {
+     "air_date": "2017-01-06",
+     "episode_count": 35,
+     "name": "Season 47",
+     "season_number": 47
+    },
+    {
+     "air_date": "2017-11-17",
+     "episode_count": 35,
+     "name": "Season 48",
+     "season_number": 48
+    },
+    {
+     "air_date": "2018-11-16",
+     "episode_count": 35,
+     "name": "Season 49",
+     "season_number": 49
+    },
+    {
+     "air_date": "2019-11-15",
+     "episode_count": 35,
+     "name": "Season 50",
+     "season_number": 50
+    },
+    {
+     "air_date": "2020-11-11",
+     "episode_count": 35,
+     "name": "Season 51",
+     "season_number": 51
+    },
+    {
+     "air_date": "2021-11-10",
+     "episode_count": 35,
+     "name": "Season 52",
+     "season_number": 52
+    },
+    {
+     "air_date": "2022-11-01",
+     "episode_count": 35,
+     "name": "Season 53",
+     "season_number": 53
+    },
+    {
+     "air_date": "2023-11-07",
+     "episode_count": 35,
+     "name": "Season 54",
+     "season_number": 54
+    },
+    {
+     "air_date": "2025-01-14",
+     "episode_count": 35,
+     "name": "Season 55",
+     "season_number": 55
+    },
+    {
+     "air_date": "2025-11-10",
+     "episode_count": 13,
+     "name": "Season 56",
+     "season_number": 56
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Kindness is in the air.",
+   "title": "Sesame Street",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 301
+  },
+  "tv:60802": {
+   "backdrop_path": "/yTUwiQLbr8gHDs8LuU28c8fBQFm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "CO CDR Tom Chandler",
+     "n": "Eric Dane"
+    },
+    {
+     "c": "XO Mike Slattery",
+     "n": "Adam Baldwin"
+    },
+    {
+     "c": "CMC Jeter",
+     "n": "Charles Parnell"
+    },
+    {
+     "c": "Lt. Danny Green",
+     "n": "Travis Van Winkle"
+    },
+    {
+     "c": "Lt. Kara Green",
+     "n": "Marissa Neitling"
+    },
+    {
+     "c": "Lt. Alisha Granderson",
+     "n": "Christina Elmore"
+    },
+    {
+     "c": "Lt. Carlton Burk",
+     "n": "Jocko Sims"
+    },
+    {
+     "c": "Miller",
+     "n": "Kevin Michael Martin"
+    },
+    {
+     "c": "Sasha Cooper",
+     "n": "Bridget Regan"
+    },
+    {
+     "c": "SCPO Wolf Taylor",
+     "n": "Bren Foster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "TNT",
+   "created_by": [
+    "Hank Steinberg",
+    "Steven Kane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2014-06-22",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 60802,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 56,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
+   "popularity": 39.2765,
+   "poster_path": "/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-06-02",
+     "episode_count": 9,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2014-06-22",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-06-21",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-05-30",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-08-20",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-09-09",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Whatever you do, don't breathe.",
+   "title": "The Last Ship",
+   "trailer": {
+    "key": "Re5TAK_qC18",
+    "name": "The Last Ship: Meet the Captain [TRAILER] | TNT",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.883,
+   "vote_count": 1098
+  },
+  "tv:72002": {
+   "backdrop_path": "/bq6AcviGsBmynArhhCpLkR8YN6U.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fallon Carrington",
+     "n": "Elizabeth Gillies"
+    },
+    {
+     "c": "Blake Carrington",
+     "n": "Grant Show"
+    },
+    {
+     "c": "Cristal Carrington",
+     "n": "Daniella Alonso"
+    },
+    {
+     "c": "Alexis Carrington Colby",
+     "n": "Elaine Hendrix"
+    },
+    {
+     "c": "Sam 'Sammy Joe' Flores",
+     "n": "Rafael de la Fuente"
+    },
+    {
+     "c": "Adam Carrington",
+     "n": "Sam Underwood"
+    },
+    {
+     "c": "Dominique Deveraux",
+     "n": "Michael Michele"
+    },
+    {
+     "c": "Michael Culhane",
+     "n": "Robert Christopher Riley"
+    },
+    {
+     "c": "Jeff Colby",
+     "n": "Sam Adegoke"
+    },
+    {
+     "c": "Kirby Anders",
+     "n": "Maddison Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The CW",
+   "created_by": [
+    "Stephanie Savage",
+    "Josh Schwartz",
+    "Sallie Patrick"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2017-10-11",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 72002,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 108,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows two of America’s wealthiest families, the Carringtons and the Colbys, as they feud for control over their fortune and their children focusing on Fallon Carrington, the daughter of billionaire Blake Carrington, and her soon-to-be stepmother, Cristal, a Hispanic woman marrying into this WASP family and America’s most powerful class.",
+   "popularity": 27.6215,
+   "poster_path": "/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-10-11",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-10-12",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2019-10-11",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-05-07",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-12-20",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Stay rich or lie trying.",
+   "title": "Dynasty",
+   "trailer": {
+    "key": "PzBX_c-F6sk",
+    "name": "Dynasty | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.046,
+   "vote_count": 914
+  },
+  "tv:902": {
+   "backdrop_path": "/gJYZBM200Flldo6im3EEdXslR1j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seto Kaiba (voice)",
+     "n": "Kenjiro Tsuda"
+    },
+    {
+     "c": "Katsuya Jonouchi / Joey Wheeler (voice)",
+     "n": "Hiroki Takahashi"
+    },
+    {
+     "c": "Yugi Muto / Yami Yugi (voice)",
+     "n": "Shunsuke Kazama"
+    },
+    {
+     "c": "Anzu Mazaki / Téa Gardner (voice)",
+     "n": "Maki Saito"
+    },
+    {
+     "c": "Hiroto Honda / Tristan Taylor (voice)",
+     "n": "Takayuki Kondo"
+    },
+    {
+     "c": "Ryo Bakura / Yami Bakura (voice)",
+     "n": "Rica Matsumoto"
+    },
+    {
+     "c": "Mokuba Kaiba (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Marik Ishtar (voice)",
+     "n": "Tetsuya Iwanaga"
+    },
+    {
+     "c": "Ryuuji Otogi / Duke Devlin (voice)",
+     "n": "Ryou Naitou"
+    },
+    {
+     "c": "Mai Kujaku / Mai Valentine (voice)",
+     "n": "Haruhi Nanao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2000-04-18",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 902,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 224,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Bullies often target someone frail and weak—someone exactly like Yûgi Muto. He treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him, the soul of the \"King of Games.\" The new personality named Yami Yûgi is the exact opposite of Yûgi. Upon any injustice toward him, Yami Yûgi takes over Yûgi's body and forces the opponent into a \"Shadow Game\".",
+   "popularity": 53.9824,
+   "poster_path": "/mM6c5ISlyKWtie2hGiZWo6hmlhU.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Retrocrush"
+    },
+    {
+     "name": "DisneyNOW"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Kartoon Channel Amazon Channel"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-01-01",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-04-18",
+     "episode_count": 224,
+     "name": "Yu-Gi-Oh! Duel Monsters",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "It's time to duel!",
+   "title": "Yu-Gi-Oh! Duel Monsters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.259,
+   "vote_count": 1063
   }
  }
 }

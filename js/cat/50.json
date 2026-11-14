@@ -1,8 +1,8 @@
 {
  "bucket": "50",
- "count": 6,
+ "count": 18,
  "titles": {
-  "114750": {
+  "movie:114750": {
    "backdrop_path": "/aZXtziEpZR1GpPwzIyr2s1dRWsW.jpg",
    "budget": 1300000,
    "cast": [
@@ -180,7 +180,7 @@
    "vote_average": 6.102,
    "vote_count": 494
   },
-  "1450": {
+  "movie:1450": {
    "backdrop_path": "/ryBUkjVLKjSJOTgBfxHrdu7rxG0.jpg",
    "budget": 30000000,
    "cast": [
@@ -290,7 +290,7 @@
    "vote_average": 5.938,
    "vote_count": 447
   },
-  "25050": {
+  "movie:25050": {
    "backdrop_path": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
    "budget": 0,
    "cast": [
@@ -508,7 +508,7 @@
    "vote_average": 7.794,
    "vote_count": 478
   },
-  "269650": {
+  "movie:269650": {
    "backdrop_path": "/myxbgobjPN13kdKBrVneiyc3tmM.jpg",
    "budget": 0,
    "cast": [
@@ -614,7 +614,7 @@
    "vote_average": 6.8,
    "vote_count": 439
   },
-  "302150": {
+  "movie:302150": {
    "backdrop_path": "/fevCa67iK0QuboWsIS3LnCcAlCw.jpg",
    "budget": 17000000,
    "cast": [
@@ -764,7 +764,7 @@
    "vote_average": 5.6,
    "vote_count": 452
   },
-  "36950": {
+  "movie:36950": {
    "backdrop_path": "/9BMEUvc5TxYJF5xmygls2hnhnMP.jpg",
    "budget": 0,
    "cast": [
@@ -877,6 +877,1971 @@
    "type": "movie",
    "vote_average": 7.004,
    "vote_count": 460
+  },
+  "tv:1450": {
+   "backdrop_path": "/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brenda Leigh Johnson",
+     "n": "Kyra Sedgwick"
+    },
+    {
+     "c": "Will Pope",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "David Gabriel",
+     "n": "Corey Reynolds"
+    },
+    {
+     "c": "Russell Taylor",
+     "n": "Robert Gossett"
+    },
+    {
+     "c": "Louie Provenza",
+     "n": "G.W. Bailey"
+    },
+    {
+     "c": "Andy Flynn",
+     "n": "Tony Denison"
+    },
+    {
+     "c": "Mike Tao",
+     "n": "Michael Paul Chan"
+    },
+    {
+     "c": "Officer Buzz Watson",
+     "n": "Phillip P. Keene"
+    },
+    {
+     "c": "Special Agent Fritz Howard",
+     "n": "Jon Tenney"
+    },
+    {
+     "c": "Julio Sanchez",
+     "n": "Raymond Cruz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TNT",
+   "created_by": [
+    "James Duff",
+    "Michael M. Robin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    46
+   ],
+   "first_air_date": "2005-06-13",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1450,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 109,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Deputy Police Chief Brenda Leigh Johnson transfers from Atlanta to LA to head up a special unit of the LAPD that handles sensitive, high-profile murder cases. Johnson's quirky personality and hard-nosed approach often rubs her colleagues the wrong way, but her reputation as one of the world's best interrogator eventually wins over even her toughest critics.",
+   "popularity": 58.1419,
+   "poster_path": "/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2005-06-13",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2006-06-12",
+     "episode_count": 15,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2007-06-18",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2008-07-14",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2009-06-08",
+     "episode_count": 15,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2010-07-12",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2011-07-11",
+     "episode_count": 21,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "They'll bring you in. She'll make you talk.",
+   "title": "The Closer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.804,
+   "vote_count": 360
+  },
+  "tv:1950": {
+   "backdrop_path": "/pXpK8GnLL0wZkfelg5lCVSOnytN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrew Brown",
+     "n": "Treat Williams"
+    },
+    {
+     "c": "Ephram Brown",
+     "n": "Gregory Smith"
+    },
+    {
+     "c": "Amy Abbott",
+     "n": "Emily VanCamp"
+    },
+    {
+     "c": "Edna Harper",
+     "n": "Debra Mooney"
+    },
+    {
+     "c": "Irv Harper",
+     "n": "John Beasley"
+    },
+    {
+     "c": "Delia Brown",
+     "n": "Vivien Cardone"
+    },
+    {
+     "c": "Bright Abbott",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Nina Feeney",
+     "n": "Stephanie Niznik"
+    },
+    {
+     "c": "Rose Abbott",
+     "n": "Merrilyn Gann"
+    },
+    {
+     "c": "Harold Abbott",
+     "n": "Tom Amandes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The WB",
+   "created_by": [
+    "Greg Berlanti"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2002-09-16",
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 1950,
+   "industry": "world",
+   "networks": [
+    "The WB"
+   ],
+   "number_of_episodes": 89,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the small town of Everwood, Colorado. There he becomes a small-town doctor and learns parenting on the fly as he raises his talented but resentful 15-year-old son Ephram and his 9-year-old daughter Delia.",
+   "popularity": 37.0688,
+   "poster_path": "/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-09-07",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-09-16",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2003-09-15",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2004-09-13",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2005-09-29",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Everwood",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 249
+  },
+  "tv:3750": {
+   "backdrop_path": "/fwlZY72knqrEcQbeiXjzP7L0sms.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sean McNamara",
+     "n": "Dylan Walsh"
+    },
+    {
+     "c": "Christian Troy",
+     "n": "Julian McMahon"
+    },
+    {
+     "c": "Julia McNamara",
+     "n": "Joely Richardson"
+    },
+    {
+     "c": "Matt McNamara",
+     "n": "John Hensley"
+    },
+    {
+     "c": "Liz Cruz",
+     "n": "Roma Maffia"
+    },
+    {
+     "c": "Kimber Henry",
+     "n": "Kelly Carlson"
+    },
+    {
+     "c": "Nurse Linda",
+     "n": "Linda Klein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Ryan Murphy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2003-07-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 3750,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hotshot plastic surgeons Dr. Sean McNamara and Dr. Christian Troy experience full-blown midlife crises as they confront career, family and romance problems.",
+   "popularity": 41.648,
+   "poster_path": "/v5uEYpNbjGmJC59xqvmPW58aSTl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2004-06-15",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2003-07-22",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2004-06-22",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2005-09-20",
+     "episode_count": 15,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2006-09-05",
+     "episode_count": 15,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2007-11-01",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2009-10-14",
+     "episode_count": 10,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2010-01-06",
+     "episode_count": 9,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Tell me what you don't like about yourself...?",
+   "title": "Nip/Tuck",
+   "trailer": {
+    "key": "v6JdfGMQK98",
+    "name": "Official Series Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.185,
+   "vote_count": 551
+  },
+  "tv:45950": {
+   "backdrop_path": "/oF8PNdntjZ7DUrAvnhNPPNRi0q6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Issei Hyōdō (voice)",
+     "n": "Yuki Kaji"
+    },
+    {
+     "c": "Rias Gremory (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Asia Argento (voice)",
+     "n": "Azumi Asakura"
+    },
+    {
+     "c": "Akeno Himejima (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Koneko Tōjō (voice)",
+     "n": "Ayana Taketatsu"
+    },
+    {
+     "c": "Sacred Gear/Ddraig",
+     "n": "Fumihiko Tachiki"
+    },
+    {
+     "c": "Grayfia (voice)",
+     "n": "Saori Seto"
+    },
+    {
+     "c": "Xenovia",
+     "n": "Risa Taneda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2012-01-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 45950,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 49,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win?",
+   "popularity": 40.361,
+   "poster_path": "/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2011-12-19",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2012-01-06",
+     "episode_count": 12,
+     "name": "High School DxD",
+     "season_number": 1
+    },
+    {
+     "air_date": "2013-07-07",
+     "episode_count": 12,
+     "name": "High School DxD New",
+     "season_number": 2
+    },
+    {
+     "air_date": "2015-04-04",
+     "episode_count": 12,
+     "name": "High School DxD BorN",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-04-10",
+     "episode_count": 13,
+     "name": "High School DxD Hero",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Fueled by the fires of perversion!",
+   "title": "High School DxD",
+   "trailer": {
+    "key": "tYDDS0OzV_Q",
+    "name": "High School DxD Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.495,
+   "vote_count": 2089
+  },
+  "tv:47450": {
+   "backdrop_path": "/1p9FUL7MKKOW0ZhsXkbpD3DVTy1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Widow",
+     "n": "Emily Beecham"
+    },
+    {
+     "c": "Lydia",
+     "n": "Orla Brady"
+    },
+    {
+     "c": "Sunny",
+     "n": "Daniel Wu"
+    },
+    {
+     "c": "Bajie",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Tilda",
+     "n": "Alexia Ioannides"
+    },
+    {
+     "c": "M.K.",
+     "n": "Aramis Knight"
+    },
+    {
+     "c": "Odessa",
+     "n": "Maddison Jaizani"
+    },
+    {
+     "c": "Gaius Chau",
+     "n": "Lewis Tan"
+    },
+    {
+     "c": "Pilgrim",
+     "n": "Babou Ceesay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AMC",
+   "created_by": [
+    "Alfred Gough",
+    "Miles Millar"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2015-11-15",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 47450,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a land controlled by feudal barons, a great warrior and a young boy embark on a journey across a dangerous land to find enlightenment. \n\nA genre-bending martial arts series very loosely based on the classic Chinese tale Journey to the West.",
+   "popularity": 26.3551,
+   "poster_path": "/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-11-15",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-03-19",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-04-22",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Into the Badlands",
+   "trailer": {
+    "key": "5KyHy4KRvIc",
+    "name": "Official Comic Con Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.624,
+   "vote_count": 853
+  },
+  "tv:54650": {
+   "backdrop_path": "/gG1UDKgnATgTPwoZzqIDlGvnBe1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James 'Ghost' St. Patrick",
+     "n": "Omari Hardwick"
+    },
+    {
+     "c": "Tommy Egan",
+     "n": "Joseph Sikora"
+    },
+    {
+     "c": "Tasha St. Patrick",
+     "n": "Naturi Naughton"
+    },
+    {
+     "c": "Rashad Tate",
+     "n": "Larenz Tate"
+    },
+    {
+     "c": "Cooper Saxe",
+     "n": "Shane Johnson"
+    },
+    {
+     "c": "Dre",
+     "n": "Rotimi"
+    },
+    {
+     "c": "Francis \"2-Bit\" Johnson",
+     "n": "Michael J. Ferguson"
+    },
+    {
+     "c": "Joseph \"Joe\" Proctor",
+     "n": "Jerry Ferrara"
+    },
+    {
+     "c": "Blanca Rodriguez",
+     "n": "Monique Gabriela Curnen"
+    },
+    {
+     "c": "Tariq St. Patrick",
+     "n": "Michael Rainey Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Courtney Kemp Agboh",
+    "Vladimir Cvetko"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2014-06-07",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 54650,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 63,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
+   "popularity": 39.2081,
+   "poster_path": "/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2014-06-07",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2015-06-06",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2016-07-17",
+     "episode_count": 10,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2017-06-25",
+     "episode_count": 10,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2018-07-01",
+     "episode_count": 10,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2019-08-25",
+     "episode_count": 15,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Power",
+   "trailer": {
+    "key": "w7fuOkF74Zw",
+    "name": "Power | New Series | STARZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.697,
+   "vote_count": 1321
+  },
+  "tv:62650": {
+   "backdrop_path": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Dean Archer",
+     "n": "Steven Weber"
+    },
+    {
+     "c": "Dr. Hannah Asher",
+     "n": "Jessy Schram"
+    },
+    {
+     "c": "Dr. Mitchell 'Mitch' Ripley",
+     "n": "Luke Mitchell"
+    },
+    {
+     "c": "Dr. Caitlin Lenox",
+     "n": "Sarah Ramos"
+    },
+    {
+     "c": "Dr. John Frost",
+     "n": "Darren Barnet"
+    },
+    {
+     "c": "Sharon Goodwin",
+     "n": "S. Epatha Merkerson"
+    },
+    {
+     "c": "Dr. Daniel Charles",
+     "n": "Oliver Platt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Dick Wolf",
+    "Matt Olmstead"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-11-17",
+   "genres": [
+    "Drama"
+   ],
+   "id": 62650,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 225,
+   "number_of_seasons": 12,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+   "popularity": 92.9771,
+   "poster_path": "/s55mHZ5q68IUtRsQdy2oC3nPpG7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "NBC"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Hayu"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2015-11-17",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-09-22",
+     "episode_count": 23,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-11-21",
+     "episode_count": 20,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2018-09-26",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2019-09-25",
+     "episode_count": 20,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2020-11-11",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2021-09-22",
+     "episode_count": 22,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2022-09-21",
+     "episode_count": 22,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2024-01-17",
+     "episode_count": 13,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2024-09-25",
+     "episode_count": 22,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2025-09-30",
+     "episode_count": 21,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 9,
+     "name": "Season 12",
+     "season_number": 12
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Welcome home.",
+   "title": "Chicago Med",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.254,
+   "vote_count": 1291
+  },
+  "tv:69050": {
+   "backdrop_path": "/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Archie Andrews",
+     "n": "KJ Apa"
+    },
+    {
+     "c": "Betty Cooper",
+     "n": "Lili Reinhart"
+    },
+    {
+     "c": "Veronica Lodge",
+     "n": "Camila Mendes"
+    },
+    {
+     "c": "Jughead Jones",
+     "n": "Cole Sprouse"
+    },
+    {
+     "c": "Cheryl Blossom",
+     "n": "Madelaine Petsch"
+    },
+    {
+     "c": "Kevin Keller",
+     "n": "Casey Cott"
+    },
+    {
+     "c": "Fangs Fogarty",
+     "n": "Drew Ray Tanner"
+    },
+    {
+     "c": "Toni Topaz",
+     "n": "Vanessa Morgan"
+    },
+    {
+     "c": "Alice Cooper",
+     "n": "Mädchen Amick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Roberto Aguirre-Sacasa"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2017-01-26",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 69050,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 137,
+   "number_of_seasons": 7,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+   "popularity": 52.1874,
+   "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-01-26",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2017-10-11",
+     "episode_count": 22,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2018-10-10",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-10-09",
+     "episode_count": 19,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2021-01-20",
+     "episode_count": 19,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2021-11-16",
+     "episode_count": 22,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2023-03-29",
+     "episode_count": 20,
+     "name": "Season 7",
+     "season_number": 7
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "To save the future, they must survive the past.",
+   "title": "Riverdale",
+   "trailer": {
+    "key": "HxtLlByaYTc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.392,
+   "vote_count": 13826
+  },
+  "tv:72350": {
+   "backdrop_path": "/tco0lyOHy3bjy2hyishbuCk0Yvg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scrooge McDuck (Voice)",
+     "n": "David Tennant"
+    },
+    {
+     "c": "Huey Duck (Voice)",
+     "n": "Danny Pudi"
+    },
+    {
+     "c": "Dewey Duck (Voice)",
+     "n": "Ben Schwartz"
+    },
+    {
+     "c": "Louie Duck (Voice)",
+     "n": "Bobby Moynihan"
+    },
+    {
+     "c": "Webby Vanderquack (Voice)",
+     "n": "Kate Micucci"
+    },
+    {
+     "c": "Launchpad McQuack (Voice)",
+     "n": "Beck Bennett"
+    },
+    {
+     "c": "Mrs. Beakley (Voice)",
+     "n": "Toks Olagundoye"
+    },
+    {
+     "c": "Della Duck (voice)",
+     "n": "Paget Brewster"
+    },
+    {
+     "c": "Donald Duck (Voice)",
+     "n": "Tony Anselmo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Francisco Angones",
+    "Matt Youngberg"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23,
+    44,
+    66
+   ],
+   "first_air_date": "2017-08-12",
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation"
+   ],
+   "id": 72350,
+   "industry": "world",
+   "networks": [
+    "Disney Channel",
+    "Disney XD"
+   ],
+   "number_of_episodes": 69,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of billionaire Scrooge McDuck and his nephews Huey, Dewey and Louie, their famous uncle Donald Duck, pilot extraordinaire Launchpad, Mrs. Beakly, Webby and Roboduck. Adventures and hidden treasures are everywhere, in their hometown Duckburg and all around the world.",
+   "popularity": 39.5949,
+   "poster_path": "/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2017-03-02",
+     "episode_count": 19,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2017-08-12",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2018-10-20",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2020-04-04",
+     "episode_count": 22,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "DuckTales",
+   "trailer": {
+    "key": "JxiAhXJewhw",
+    "name": "Season 3 is Coming! | DuckTales",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.859,
+   "vote_count": 336
+  },
+  "tv:75450": {
+   "backdrop_path": "/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dick Grayson / Robin / Nightwing",
+     "n": "Brenton Thwaites"
+    },
+    {
+     "c": "Koriand'r / Kory Anders / Starfire",
+     "n": "Anna Diop"
+    },
+    {
+     "c": "Rachel Roth / Raven",
+     "n": "Teagan Croft"
+    },
+    {
+     "c": "Garfield 'Gar' Logan / Beast Boy",
+     "n": "Ryan Potter"
+    },
+    {
+     "c": "Subject 13 / Conner Kent / Superboy",
+     "n": "Joshua Orpin"
+    },
+    {
+     "c": "Tim Drake / Robin",
+     "n": "Jay Lycurgo"
+    },
+    {
+     "c": "May Bennett / Mother Mayhem",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Sebastian Sanger / Brother Blood",
+     "n": "Joseph Morgan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "DC Universe",
+   "created_by": [
+    "Geoff Johns",
+    "Greg Berlanti",
+    "Akiva Goldsman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-10-12",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 75450,
+   "industry": "world",
+   "networks": [
+    "DC Universe",
+    "HBO Max"
+   ],
+   "number_of_episodes": 49,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+   "popularity": 30.0568,
+   "poster_path": "/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 24,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2018-10-12",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-06",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-08-12",
+     "episode_count": 13,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2022-11-03",
+     "episode_count": 12,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "Heroes will rise ... or Gotham will fall.",
+   "title": "Titans",
+   "trailer": {
+    "key": "9xIZoih_DaE",
+    "name": "Titans | Official Trailer #2 [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.835,
+   "vote_count": 2930
+  },
+  "tv:80350": {
+   "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max Goodwin",
+     "n": "Ryan Eggold"
+    },
+    {
+     "c": "Lauren Bloom",
+     "n": "Janet Montgomery"
+    },
+    {
+     "c": "Floyd Reynolds",
+     "n": "Jocko Sims"
+    },
+    {
+     "c": "Iggy Frome",
+     "n": "Tyler Labine"
+    },
+    {
+     "c": "Elizabeth Wilder",
+     "n": "Sandra Mae Frank"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "David Schulner"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2018-09-25",
+   "genres": [
+    "Drama"
+   ],
+   "id": 80350,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 89,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The new medical director breaks the rules to heal the system at America's oldest public hospital. Max Goodwin sets out to tear up the bureaucracy and provide exceptional care, but the doctors and staff are not so sure he can succeed. They've heard this before. Not taking \"no\" for an answer, Dr. Goodwin's instinctive response to problems large and small is four simple words: \"How can I help?\" He has to disrupt the status quo and prove he'll stop at nothing to breathe new life into this underfunded and underappreciated hospital, returning it to the glory that put it on the map.",
+   "popularity": 30.6175,
+   "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-09-25",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-09-24",
+     "episode_count": 18,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-03-02",
+     "episode_count": 14,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-09-21",
+     "episode_count": 22,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2022-09-20",
+     "episode_count": 13,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Break the rules. Heal the system.",
+   "title": "New Amsterdam",
+   "trailer": {
+    "key": "McdFK7DIzoo",
+    "name": "New Amsterdam: Season One | Trailer | Own it Now on DVD & Digital",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.304,
+   "vote_count": 1127
+  },
+  "tv:95350": {
+   "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hal Jordan / Halogram",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "John Stewart",
+     "n": "Aaron Pierre"
+    },
+    {
+     "c": "Sheriff Kerry Kane",
+     "n": "Kelly Macdonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HBO",
+   "created_by": [
+    "Damon Lindelof",
+    "Chris Mundy",
+    "Tom King"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-16",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 95350,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+   "popularity": 45.2897,
+   "poster_path": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-16",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Only one can wear the ring.",
+   "title": "Lanterns",
+   "trailer": {
+    "key": "7UIBOsuUwc4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.188,
+   "vote_count": 874
   }
  }
 }

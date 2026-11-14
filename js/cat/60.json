@@ -1,8 +1,8 @@
 {
  "bucket": "60",
- "count": 16,
+ "count": 25,
  "titles": {
-  "1086260": {
+  "movie:1086260": {
    "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
    "budget": 0,
    "cast": [
@@ -122,7 +122,7 @@
    "vote_average": 6.12,
    "vote_count": 475
   },
-  "11060": {
+  "movie:11060": {
    "backdrop_path": "/a7RMVypNmxvEG0SzG9kXBJivfxX.jpg",
    "budget": 15000000,
    "cast": [
@@ -243,7 +243,7 @@
    "vote_average": 6.4,
    "vote_count": 474
   },
-  "1160360": {
+  "movie:1160360": {
    "backdrop_path": "/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
    "budget": 1500000,
    "cast": [
@@ -425,7 +425,7 @@
    "vote_average": 6.322,
    "vote_count": 459
   },
-  "13160": {
+  "movie:13160": {
    "backdrop_path": "/xyE226IdU7ydSb1MxhsVPAqHr61.jpg",
    "budget": 10000000,
    "cast": [
@@ -588,7 +588,7 @@
    "vote_average": 5.493,
    "vote_count": 498
   },
-  "2360": {
+  "movie:2360": {
    "backdrop_path": "/7GQH1qYmqu0llcYque6flDmSR55.jpg",
    "budget": 10000000,
    "cast": [
@@ -697,7 +697,7 @@
    "vote_average": 6.5,
    "vote_count": 462
   },
-  "297160": {
+  "movie:297160": {
    "backdrop_path": "/5eAR0hLTl3xSYPDAiQMz2nTByWt.jpg",
    "budget": 0,
    "cast": [
@@ -913,7 +913,7 @@
    "vote_average": 5.0,
    "vote_count": 481
   },
-  "317560": {
+  "movie:317560": {
    "backdrop_path": "/ewdOfBDitwOBb9byB9oaGp6YP2h.jpg",
    "budget": 0,
    "cast": [
@@ -1082,7 +1082,7 @@
    "vote_average": 6.805,
    "vote_count": 454
   },
-  "335360": {
+  "movie:335360": {
    "backdrop_path": "/t9QTd0V3rbv6W25QbHJuC6zbIo1.jpg",
    "budget": 6000000,
    "cast": [
@@ -1223,7 +1223,7 @@
    "vote_average": 7.286,
    "vote_count": 440
   },
-  "337960": {
+  "movie:337960": {
    "backdrop_path": "/geJLQjNXuLhEz5Nr8bTOBIUAn2G.jpg",
    "budget": 0,
    "cast": [
@@ -1380,7 +1380,7 @@
    "vote_average": 7.665,
    "vote_count": 471
   },
-  "38360": {
+  "movie:38360": {
    "backdrop_path": "/r6bIGLFJ2ml9L970RNpuwDyb4Af.jpg",
    "budget": 0,
    "cast": [
@@ -1493,7 +1493,7 @@
    "vote_average": 7.931,
    "vote_count": 488
   },
-  "416160": {
+  "movie:416160": {
    "backdrop_path": "/zyh9pUlokoBdkE54UsMIxRx54fl.jpg",
    "budget": 5000000,
    "cast": [
@@ -1672,7 +1672,7 @@
    "vote_average": 4.9,
    "vote_count": 435
   },
-  "47760": {
+  "movie:47760": {
    "backdrop_path": "/ryWdhY92EhVyb9wpyPZ7ru3NVO.jpg",
    "budget": 8000000,
    "cast": [
@@ -1772,7 +1772,7 @@
    "vote_average": 6.5,
    "vote_count": 453
   },
-  "478860": {
+  "movie:478860": {
    "backdrop_path": "/9Eqh7GZcrWkaAHV37Pfi4SnN8QF.jpg",
    "budget": 6500000,
    "cast": [
@@ -1933,7 +1933,7 @@
    "vote_average": 6.191,
    "vote_count": 463
   },
-  "500860": {
+  "movie:500860": {
    "backdrop_path": "/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
    "budget": 0,
    "cast": [
@@ -2040,7 +2040,7 @@
    "vote_average": 6.926,
    "vote_count": 448
   },
-  "520360": {
+  "movie:520360": {
    "backdrop_path": "/429x9ZU5IQY6L0HGshBGY1LQpjB.jpg",
    "budget": 0,
    "cast": [
@@ -2191,7 +2191,7 @@
    "vote_average": 5.564,
    "vote_count": 474
   },
-  "9660": {
+  "movie:9660": {
    "backdrop_path": "/omMa8BHw4S5da4D69GjvVZ9oObG.jpg",
    "budget": 0,
    "cast": [
@@ -2291,6 +2291,1606 @@
    "type": "movie",
    "vote_average": 7.218,
    "vote_count": 436
+  },
+  "tv:10160": {
+   "backdrop_path": "/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Julie Chen Moonves"
+    },
+    {
+     "c": "Announcer (voice)",
+     "n": "Clayton Halsey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "John de Mol"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2000-07-05",
+   "genres": [
+    "Reality"
+   ],
+   "id": 10160,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 1014,
+   "number_of_seasons": 28,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
+   "popularity": 73.277,
+   "poster_path": "/kvuNuOJSiPSBY1FDQHFGz1PIWUe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2006-06-21",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2000-07-05",
+     "episode_count": 70,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2001-07-05",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2002-07-10",
+     "episode_count": 32,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2003-07-08",
+     "episode_count": 33,
+     "name": "The X-Factor",
+     "season_number": 4
+    },
+    {
+     "air_date": "2004-07-06",
+     "episode_count": 31,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2005-07-07",
+     "episode_count": 30,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2006-07-05",
+     "episode_count": 28,
+     "name": "All Stars",
+     "season_number": 7
+    },
+    {
+     "air_date": "2007-07-05",
+     "episode_count": 33,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2008-02-12",
+     "episode_count": 33,
+     "name": "'Til Death Do You Part",
+     "season_number": 9
+    },
+    {
+     "air_date": "2008-07-13",
+     "episode_count": 29,
+     "name": "Season 10",
+     "season_number": 10
+    },
+    {
+     "air_date": "2009-07-09",
+     "episode_count": 30,
+     "name": "Season 11",
+     "season_number": 11
+    },
+    {
+     "air_date": "2010-07-07",
+     "episode_count": 30,
+     "name": "Season 12",
+     "season_number": 12
+    },
+    {
+     "air_date": "2011-07-06",
+     "episode_count": 29,
+     "name": "Season 13",
+     "season_number": 13
+    },
+    {
+     "air_date": "2012-07-11",
+     "episode_count": 30,
+     "name": "Season 14",
+     "season_number": 14
+    },
+    {
+     "air_date": "2013-06-25",
+     "episode_count": 36,
+     "name": "Season 15",
+     "season_number": 15
+    },
+    {
+     "air_date": "2014-06-25",
+     "episode_count": 40,
+     "name": "Season 16",
+     "season_number": 16
+    },
+    {
+     "air_date": "2015-06-24",
+     "episode_count": 40,
+     "name": "Season 17",
+     "season_number": 17
+    },
+    {
+     "air_date": "2016-06-22",
+     "episode_count": 42,
+     "name": "Season 18",
+     "season_number": 18
+    },
+    {
+     "air_date": "2017-06-28",
+     "episode_count": 39,
+     "name": "Season 19",
+     "season_number": 19
+    },
+    {
+     "air_date": "2018-06-27",
+     "episode_count": 40,
+     "name": "Season 20",
+     "season_number": 20
+    },
+    {
+     "air_date": "2019-06-25",
+     "episode_count": 40,
+     "name": "Season 21",
+     "season_number": 21
+    },
+    {
+     "air_date": "2020-08-05",
+     "episode_count": 37,
+     "name": "All Stars 2",
+     "season_number": 22
+    },
+    {
+     "air_date": "2021-07-07",
+     "episode_count": 37,
+     "name": "Season 23",
+     "season_number": 23
+    },
+    {
+     "air_date": "2022-07-06",
+     "episode_count": 34,
+     "name": "Season 24",
+     "season_number": 24
+    },
+    {
+     "air_date": "2023-08-02",
+     "episode_count": 42,
+     "name": "Season 25",
+     "season_number": 25
+    },
+    {
+     "air_date": "2024-07-17",
+     "episode_count": 39,
+     "name": "Season 26",
+     "season_number": 26
+    },
+    {
+     "air_date": "2025-07-09",
+     "episode_count": 39,
+     "name": "Season 27",
+     "season_number": 27
+    },
+    {
+     "air_date": "2026-07-08",
+     "episode_count": 41,
+     "name": "Season 28",
+     "season_number": 28
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Expect the unexpected.",
+   "title": "Big Brother",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 4.83,
+   "vote_count": 277
+  },
+  "tv:15260": {
+   "backdrop_path": "/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Finn Mertens / Additional Voices (voice)",
+     "n": "Jeremy Shada"
+    },
+    {
+     "c": "Jake the Dog / Banana Guards / Additional Voices (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "Ice King / Gunter / Starchy / Magic Man / Orgalorg / Additional Voices (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Princess Bubblegum / Additional Voices (voice)",
+     "n": "Hynden Walch"
+    },
+    {
+     "c": "Marceline the Vampire Queen (voice)",
+     "n": "Olivia Olson"
+    },
+    {
+     "c": "BMO / Lady Rainicorn (voice)",
+     "n": "Niki Yang"
+    },
+    {
+     "c": "Lumpy Space Princess (voice)",
+     "n": "Pendleton Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Pendleton Ward"
+   ],
+   "director": [],
+   "episode_run_time": [
+    11
+   ],
+   "first_air_date": "2010-04-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 15260,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 279,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo.",
+   "popularity": 88.8402,
+   "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2008-12-07",
+     "episode_count": 17,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2010-04-05",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2010-10-11",
+     "episode_count": 26,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2011-07-11",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2012-04-02",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "2012-11-12",
+     "episode_count": 52,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "2014-04-21",
+     "episode_count": 43,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2015-11-02",
+     "episode_count": 26,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2016-03-26",
+     "episode_count": 27,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2017-04-21",
+     "episode_count": 14,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2017-09-17",
+     "episode_count": 13,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "They’re not righteous, they’re wrongteous!",
+   "title": "Adventure Time",
+   "trailer": {
+    "key": "dQX4tS9JSj8",
+    "name": "Adventure Time | Elements Arc TRAILER | Cartoon Network",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.509,
+   "vote_count": 3267
+  },
+  "tv:160": {
+   "backdrop_path": "/s1Kr1RntP2b8MdUKTYJxNmcVEBP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonardo (voice)",
+     "n": "Cam Clarke"
+    },
+    {
+     "c": "Donatello (voice)",
+     "n": "Barry Gordon"
+    },
+    {
+     "c": "Michaelangelo (voice)",
+     "n": "Townsend Coleman"
+    },
+    {
+     "c": "Raphael (voice)",
+     "n": "Michael Gough"
+    },
+    {
+     "c": "Splinter (voice)",
+     "n": "Peter Renaday"
+    },
+    {
+     "c": "April O'Neil (voice)",
+     "n": "Renae Jacobs"
+    },
+    {
+     "c": "Dregg (voice)",
+     "n": "Tony Jay"
+    },
+    {
+     "c": "Carter (voice)",
+     "n": "Bumper Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "CBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "1987-12-14",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids"
+   ],
+   "id": 160,
+   "industry": "world",
+   "networks": [
+    "CBS",
+    "USA Network",
+    "Syndication"
+   ],
+   "number_of_episodes": 193,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
+   "popularity": 43.2185,
+   "poster_path": "/AaihPizftZo5YCqzEgHMwkceaEo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1996-05-21",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1987-12-14",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1988-10-01",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1989-09-25",
+     "episode_count": 47,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1990-09-10",
+     "episode_count": 39,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1991-09-23",
+     "episode_count": 22,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1992-09-14",
+     "episode_count": 16,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "1993-09-18",
+     "episode_count": 27,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "1994-09-17",
+     "episode_count": 8,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "1995-09-16",
+     "episode_count": 8,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "1996-09-14",
+     "episode_count": 8,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Teenage Mutant Ninja Turtles",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 875
+  },
+  "tv:1660": {
+   "backdrop_path": "/aD7CkQcOoxQYrF4NKwA094pSCrp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeannie",
+     "n": "Barbara Eden"
+    },
+    {
+     "c": "Tony Nelson",
+     "n": "Larry Hagman"
+    },
+    {
+     "c": "Capt. Roger Healey",
+     "n": "Bill Daily"
+    },
+    {
+     "c": "Dr Alfred Bellows",
+     "n": "Hayden Rorke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "NBC",
+   "created_by": [
+    "Sidney Sheldon"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1965-09-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1660,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 139,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While on a mission, American astronaut Captain Tony Nelson is forced to make an emergency landing that will forever change his life. On a deserted South Pacific island, Captain Nelson happens upon a bottle containing a beautiful two-thousand-year-old female genie named Jeannie. Rescuing her from the bottle nets Tony the requisite three wishes, and then some, when Jeannie pledges total devotion to her new \"master\".",
+   "popularity": 33.5126,
+   "poster_path": "/ljlyB3C3uU8Hd1krfEsYn2BVyaj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1985-10-20",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1965-09-18",
+     "episode_count": 30,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1966-09-12",
+     "episode_count": 31,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1967-09-12",
+     "episode_count": 26,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1968-09-16",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1969-09-16",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "No one keeps this impish, delightful genie bottled up",
+   "title": "I Dream of Jeannie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 854
+  },
+  "tv:243360": {
+   "backdrop_path": "/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John 'Ludwig' Taylor / James Taylor",
+     "n": "David Mitchell"
+    },
+    {
+     "c": "Lucy Betts-Taylor",
+     "n": "Anna Maxwell Martin"
+    },
+    {
+     "c": "DI Russell Carter",
+     "n": "Dipo Ola"
+    },
+    {
+     "c": "DC Ethan Cole",
+     "n": "Ben Ashenden"
+    },
+    {
+     "c": "DC Caitlin Sullivan",
+     "n": "Rumi Sutton"
+    },
+    {
+     "c": "DCS Carol Shaw",
+     "n": "Dorothy Atkinson"
+    },
+    {
+     "c": "Henry Betts-Taylor",
+     "n": "Dylan Hughes"
+    },
+    {
+     "c": "Chief Constable Ziegler",
+     "n": "Ralph Ineson"
+    },
+    {
+     "c": "Gerran Howell",
+     "n": "Mark Bonnar"
+    },
+    {
+     "c": "Joanne Kemper MP",
+     "n": "Sian Clifford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "BBC One",
+   "created_by": [
+    "Mark Brotherhood"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2024-09-25",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 243360,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
+   "popularity": 25.5539,
+   "poster_path": "/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-12-25",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-09-25",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-08-20",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ludwig",
+   "trailer": {
+    "key": "imTyEPCAbc8",
+    "name": "Ludwig | Trailer - BBC",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.806,
+   "vote_count": 160
+  },
+  "tv:46260": {
+   "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naruto Uzumaki (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Sasuke Uchiha (voice)",
+     "n": "Noriaki Sugiyama"
+    },
+    {
+     "c": "Sakura Haruno (voice)",
+     "n": "Chie Nakamura"
+    },
+    {
+     "c": "Kakashi Hatake (voice)",
+     "n": "Kazuhiko Inoue"
+    },
+    {
+     "c": "Hiruzen Sarutobi (3º Hokage) (voice)",
+     "n": "Hidekatsu Shibata"
+    },
+    {
+     "c": "Neji Hyuga (voice)",
+     "n": "Koichi Tochika"
+    },
+    {
+     "c": "Might Guy (voice)",
+     "n": "Masashi Ebara"
+    },
+    {
+     "c": "Rock Lee (voice)",
+     "n": "Yōichi Masukawa"
+    },
+    {
+     "c": "Tenten (voice)",
+     "n": "Yukari Tamura"
+    },
+    {
+     "c": "Ino Yamanaka (voice)",
+     "n": "Ryoka Yuzuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2002-10-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 46260,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 220,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+   "popularity": 78.2077,
+   "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2002-12-21",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2002-10-02",
+     "episode_count": 52,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 52,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 54,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "",
+     "episode_count": 62,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Naruto",
+   "trailer": {
+    "key": "-G9BqkgZXRA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.361,
+   "vote_count": 6194
+  },
+  "tv:62560": {
+   "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elliot Alderson",
+     "n": "Rami Malek"
+    },
+    {
+     "c": "Mr. Robot",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Darlene Alderson",
+     "n": "Carly Chaikin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "USA Network",
+   "created_by": [
+    "Sam Esmail"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2015-06-24",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 62560,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 45,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young programmer, Elliot, suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot finds himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+   "popularity": 36.6982,
+   "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2016-06-20",
+     "episode_count": 49,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2015-06-24",
+     "episode_count": 10,
+     "name": "season_1.0",
+     "season_number": 1
+    },
+    {
+     "air_date": "2016-07-13",
+     "episode_count": 12,
+     "name": "season_2.0",
+     "season_number": 2
+    },
+    {
+     "air_date": "2017-10-11",
+     "episode_count": 10,
+     "name": "season_3.0",
+     "season_number": 3
+    },
+    {
+     "air_date": "2019-10-06",
+     "episode_count": 13,
+     "name": "season_4.0",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Control is an illusion.",
+   "title": "Mr. Robot",
+   "trailer": {
+    "key": "N6HGuJC--rk",
+    "name": "Launch Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.267,
+   "vote_count": 5706
+  },
+  "tv:79460": {
+   "backdrop_path": "/fRYwdeNjMqC30EhofPx5PlDpdun.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hope Mikaelson",
+     "n": "Danielle Rose Russell"
+    },
+    {
+     "c": "Landon Kirby",
+     "n": "Aria Shahghasemi"
+    },
+    {
+     "c": "Alaric Saltzman",
+     "n": "Matthew Davis"
+    },
+    {
+     "c": "Lizzie Saltzman",
+     "n": "Jenny Boyd"
+    },
+    {
+     "c": "Milton \"MG\" Greasley",
+     "n": "Quincy Fouse"
+    },
+    {
+     "c": "Kaleb Hawkins",
+     "n": "Chris Lee"
+    },
+    {
+     "c": "Jed Tien",
+     "n": "Ben Levin"
+    },
+    {
+     "c": "Ethan Machado",
+     "n": "Leo Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "The CW",
+   "created_by": [
+    "Julie Plec"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2018-10-25",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 79460,
+   "industry": "world",
+   "networks": [
+    "The CW"
+   ],
+   "number_of_episodes": 68,
+   "number_of_seasons": 4,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+   "popularity": 26.2458,
+   "poster_path": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2018-10-25",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2019-10-10",
+     "episode_count": 16,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2021-01-21",
+     "episode_count": 16,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "2021-10-14",
+     "episode_count": 20,
+     "name": "Season 4",
+     "season_number": 4
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Heroes. Villains. Whatever.",
+   "title": "Legacies",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.41,
+   "vote_count": 3065
+  },
+  "tv:9160": {
+   "backdrop_path": "/9A5h3Z1nIZCb3zUXQIOlAe9NSjm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Candice White Ardlay (voice)",
+     "n": "Minori Matsushima"
+    },
+    {
+     "c": "William Albert Ardlay (voice)",
+     "n": "Makio Inoue"
+    },
+    {
+     "c": "Terruce G. Granchester (voice)",
+     "n": "Kei Tomiyama"
+    },
+    {
+     "c": "Anthony Brown (voice)",
+     "n": "Kazuhiko Inoue"
+    },
+    {
+     "c": "Alistair Cornwell (voice)",
+     "n": "Kaneta Kimotsuki"
+    },
+    {
+     "c": "Archibald Cornwell (voice)",
+     "n": "Yuji Mitsuya"
+    },
+    {
+     "c": "Annie Brighton (voice)",
+     "n": "Mami Koyama"
+    },
+    {
+     "c": "Patricia O'Brien (voice)",
+     "n": "Chiyoko Kawashima"
+    },
+    {
+     "c": "Eliza Leagan (voice)",
+     "n": "Yumi Nakatani"
+    },
+    {
+     "c": "Neil Leagan (voice)",
+     "n": "Kiyoshi Komiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "channel": "tv asahi",
+   "created_by": [
+    "Kyoko Mizuki"
+   ],
+   "director": [
+    "Tetsuo Imazawa",
+    "Hiroshi Shidara"
+   ],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1976-10-01",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Kids"
+   ],
+   "id": 9160,
+   "industry": "world",
+   "networks": [
+    "tv asahi"
+   ],
+   "number_of_episodes": 115,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "This story is about a girl, Candy, who is a orphan. She is a nice and optimistic girl and she has a warm heart. When she was a child, she lived in an orphanage called Pony's Home. She had a good friend called Ann. And she met the \"handsome boy on the hill\" who is a important person in her life, on the hill behind the orphanage.\n\nShe was adopted by the Loka's family. What's awaiting her are the bad-hearted Leo and his sister, Eliza. One day, in the rose garden, she met a boy, who is identical to the \"handsome boy on the hill\" who she had met in her childhood. The boy is called Antony. Thereafter, a fantastic story that she has never expected begins.",
+   "popularity": 25.0799,
+   "poster_path": "/uO9V1FkqLTJdAodHn9Sdg3Nwy1.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "1978-03-18",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1976-10-01",
+     "episode_count": 115,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Candy Candy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.535,
+   "vote_count": 736
   }
  }
 }

@@ -1,8 +1,8 @@
 {
  "bucket": "68",
- "count": 10,
+ "count": 13,
  "titles": {
-  "11068": {
+  "movie:11068": {
    "backdrop_path": "/n6z8b0qN9Sk3lNElgeJY6qfDU2L.jpg",
    "budget": 0,
    "cast": [
@@ -99,7 +99,7 @@
    "vote_average": 6.414,
    "vote_count": 458
   },
-  "14168": {
+  "movie:14168": {
    "backdrop_path": "/7B26BW9ec2atiGwCkJJZ5POR4wC.jpg",
    "budget": 0,
    "cast": [
@@ -264,7 +264,7 @@
    "vote_average": 7.3,
    "vote_count": 449
   },
-  "25468": {
+  "movie:25468": {
    "backdrop_path": "/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",
    "budget": 475000,
    "cast": [
@@ -401,7 +401,7 @@
    "vote_average": 7.482,
    "vote_count": 497
   },
-  "277368": {
+  "movie:277368": {
    "backdrop_path": "/2e703w8SGp65F9BVRlSK8w5kPeD.jpg",
    "budget": 0,
    "cast": [
@@ -590,7 +590,7 @@
    "vote_average": 5.367,
    "vote_count": 486
   },
-  "28468": {
+  "movie:28468": {
    "backdrop_path": "/bYbnlh6VXFRtcSX82UMDsBDLB5j.jpg",
    "budget": 0,
    "cast": [
@@ -679,7 +679,7 @@
    "vote_average": 6.022,
    "vote_count": 461
   },
-  "37768": {
+  "movie:37768": {
    "backdrop_path": "/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
    "budget": 0,
    "cast": [
@@ -767,7 +767,7 @@
    "vote_average": 6.811,
    "vote_count": 496
   },
-  "38368": {
+  "movie:38368": {
    "backdrop_path": "/sraqqxwStjlhe82vb0mGx3VuHsD.jpg",
    "budget": 0,
    "cast": [
@@ -944,7 +944,7 @@
    "vote_average": 6.6,
    "vote_count": 446
   },
-  "513268": {
+  "movie:513268": {
    "backdrop_path": "/w2yq038gyAHnO9OGW6AiJvhzhg6.jpg",
    "budget": 0,
    "cast": [
@@ -1054,7 +1054,7 @@
    "vote_average": 6.2,
    "vote_count": 457
   },
-  "611468": {
+  "movie:611468": {
    "backdrop_path": "/e0TNO1ZqAhKFFZfwpLeWzIS9597.jpg",
    "budget": 0,
    "cast": [
@@ -1132,7 +1132,7 @@
    "vote_average": 5.3,
    "vote_count": 446
   },
-  "737568": {
+  "movie:737568": {
    "backdrop_path": "/9pHxv7TX0jOKNgnGMDP6RJ2m1GL.jpg",
    "budget": 0,
    "cast": [
@@ -1260,6 +1260,463 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 487
+  },
+  "tv:1668": {
+   "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rachel Green",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Monica Geller",
+     "n": "Courteney Cox"
+    },
+    {
+     "c": "Phoebe Buffay",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Joey Tribbiani",
+     "n": "Matt LeBlanc"
+    },
+    {
+     "c": "Chandler Bing",
+     "n": "Matthew Perry"
+    },
+    {
+     "c": "Ross Geller",
+     "n": "David Schwimmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NBC",
+   "created_by": [
+    "Marta Kauffman",
+    "David Crane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "1994-09-22",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1668,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 228,
+   "number_of_seasons": 10,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+   "popularity": 217.1125,
+   "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2001-02-15",
+     "episode_count": 39,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1994-09-22",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1995-09-21",
+     "episode_count": 24,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1996-09-16",
+     "episode_count": 25,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1997-09-25",
+     "episode_count": 23,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1998-09-24",
+     "episode_count": 23,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1999-09-23",
+     "episode_count": 23,
+     "name": "Season 6",
+     "season_number": 6
+    },
+    {
+     "air_date": "2000-10-12",
+     "episode_count": 23,
+     "name": "Season 7",
+     "season_number": 7
+    },
+    {
+     "air_date": "2001-09-27",
+     "episode_count": 23,
+     "name": "Season 8",
+     "season_number": 8
+    },
+    {
+     "air_date": "2002-09-26",
+     "episode_count": 23,
+     "name": "Season 9",
+     "season_number": 9
+    },
+    {
+     "air_date": "2003-09-25",
+     "episode_count": 17,
+     "name": "Season 10",
+     "season_number": 10
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "I'll be there for you.",
+   "title": "Friends",
+   "trailer": {
+    "key": "H29XSxoKp80",
+    "name": "Friends:    the Complete Series Collection",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.405,
+   "vote_count": 9586
+  },
+  "tv:207468": {
+   "backdrop_path": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kafka Hibino / Kaiju No. 8 (voice)",
+     "n": "Masaya Fukunishi"
+    },
+    {
+     "c": "Mina Ashiro (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Reno Ichikawa (voice)",
+     "n": "Wataru Katoh"
+    },
+    {
+     "c": "Kikoru Shinomiya (voice)",
+     "n": "Fairouz Ai"
+    },
+    {
+     "c": "Soshiro Hoshina (voice)",
+     "n": "Kengo Kawanishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2024-04-13",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 207468,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 23,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
+   "popularity": 28.3614,
+   "poster_path": "/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2024-12-06",
+     "episode_count": 36,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2024-04-13",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Kaiju No. 8",
+   "trailer": {
+    "key": "FsAKMsUjaK0",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.43,
+   "vote_count": 841
+  },
+  "tv:4068": {
+   "backdrop_path": "/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert Hogan",
+     "n": "Bob Crane"
+    },
+    {
+     "c": "Wilhelm Klink",
+     "n": "Werner Klemperer"
+    },
+    {
+     "c": "Hans Schultz",
+     "n": "John Banner"
+    },
+    {
+     "c": "Louis LeBeau",
+     "n": "Robert Clary"
+    },
+    {
+     "c": "Peter Newkirk",
+     "n": "Richard Dawson"
+    },
+    {
+     "c": "Andrew Carter",
+     "n": "Larry Hovis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Bernard Fein",
+    "Albert S. Ruddy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "1965-09-17",
+   "genres": [
+    "War & Politics",
+    "Comedy"
+   ],
+   "id": 4068,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 168,
+   "number_of_seasons": 6,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From a German prisoner of war camp during World War II, Colonel Robert E. Hogan coordinates an international crew of Allied prisoners running a Special Operations group.",
+   "popularity": 41.8156,
+   "poster_path": "/qifpp3AmNx54Ko4obdwxOWNf0lo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 6,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "1965-09-17",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "1966-09-16",
+     "episode_count": 30,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "1967-09-09",
+     "episode_count": 30,
+     "name": "Season 3",
+     "season_number": 3
+    },
+    {
+     "air_date": "1968-09-28",
+     "episode_count": 26,
+     "name": "Season 4",
+     "season_number": 4
+    },
+    {
+     "air_date": "1969-09-26",
+     "episode_count": 26,
+     "name": "Season 5",
+     "season_number": 5
+    },
+    {
+     "air_date": "1970-09-20",
+     "episode_count": 24,
+     "name": "Season 6",
+     "season_number": 6
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "I see nothing; I know nothing",
+   "title": "Hogan's Heroes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 198
   }
  }
 }
