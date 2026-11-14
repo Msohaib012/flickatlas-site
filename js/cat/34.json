@@ -1,7 +1,172 @@
 {
  "bucket": "34",
- "count": 31,
+ "count": 36,
  "titles": {
+  "movie:10534": {
+   "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Christopher 'Skipper' Sheldon",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Alice Sheldon",
+     "n": "Caroline Goodall"
+    },
+    {
+     "c": "McCrea",
+     "n": "John Savage"
+    },
+    {
+     "c": "Chuck Gieg",
+     "n": "Scott Wolf"
+    },
+    {
+     "c": "Frank Beaumont",
+     "n": "Jeremy Sisto"
+    },
+    {
+     "c": "Gil Martin",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Robert Marsh",
+     "n": "David Lascher"
+    },
+    {
+     "c": "Dean Preston",
+     "n": "Eric Michael Cole"
+    },
+    {
+     "c": "Shay Jennings",
+     "n": "Jason Marsden"
+    },
+    {
+     "c": "Francis Beaumont",
+     "n": "David Selby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 10534,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1960, a hardy group of prep school students boards an old-fashioned sailing ship. With Capt. Christopher Sheldon at the helm, the oceangoing voyage is intended to teach the boys fortitude and discipline. But the youthful crew are about to get some unexpected instruction in survival when they get caught in the clutches of a white squall storm.",
+   "popularity": 2.5193,
+   "poster_path": "/5xF4qy44Lvv68glS7eHWH7laTqt.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-02-02",
+   "revenue": 10300000,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The strongest will in nature is the will to survive.",
+   "title": "White Squall",
+   "trailer": {
+    "key": "bQiKlj2qI5c",
+    "name": "Official UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.272,
+   "vote_count": 428
+  },
   "movie:1088434": {
    "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
    "budget": 0,
@@ -181,6 +346,60 @@
    "vote_average": 5.315,
    "vote_count": 27
   },
+  "movie:1091834": {
+   "backdrop_path": "/8qgqVW4vW2fzodscB28cnNhOzwU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jim Markel Sr."
+    },
+    {
+     "c": "Self",
+     "n": "Jim Markel Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "festival",
+   "director": [
+    "Pete Tolton"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1091834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "RETURN tells the story of a retired Green Beret who embarks on a healing journey from Montana to Vietnam. There he retraces his steps, shares his wartime experiences with his son, treats his Post-Traumatic Stress Disorder, and seeks out the mountain tribespeople he once lived with and fought alongside as a Special Forces officer.",
+   "popularity": 0.2246,
+   "poster_path": "/opYp1lkbVHVJil8N0c5HRSB5D96.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2023-02-19",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "A retired Green Beret returns to Vietnam with his son for one last mission.",
+   "title": "Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 408
+  },
   "movie:1110034": {
    "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
    "budget": 1000000,
@@ -350,6 +569,116 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 403
+  },
+  "movie:1151334": {
+   "backdrop_path": "/xk0ck8qmYmevisTmphWIDm1g43p.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Edie",
+     "n": "Samara Weaving"
+    },
+    {
+     "c": "John",
+     "n": "Karl Glusman"
+    },
+    {
+     "c": "Nico",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Dad Meaney",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "The Chaperone",
+     "n": "Jermaine Fowler"
+    },
+    {
+     "c": "Perm Walters",
+     "n": "Marshawn Lynch"
+    },
+    {
+     "c": "Leo",
+     "n": "Randall Park"
+    },
+    {
+     "c": "George",
+     "n": "Mike O'Malley"
+    },
+    {
+     "c": "Young Edie",
+     "n": "Elle Graham"
+    },
+    {
+     "c": "Baby Girl",
+     "n": "Kyanna Simone Simpson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shawn Simmons"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 1151334,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former teenage getaway driver gets dragged back into her unsavory past when a former employer offers her a chance to save the life of her chronically unreliable ex-boyfriend.",
+   "popularity": 3.7093,
+   "poster_path": "/12Va3oO3oYUdOd75zM57Nx1976a.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-08-21",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's her biggest blind spot.",
+   "title": "Eenie Meanie",
+   "trailer": {
+    "key": "qH6SqkWS9WA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.291,
+   "vote_count": 387
   },
   "movie:1174334": {
    "backdrop_path": "/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
@@ -1526,6 +1855,278 @@
    "type": "movie",
    "vote_average": 7.956,
    "vote_count": 34
+  },
+  "movie:37534": {
+   "backdrop_path": "/rKaX8ery6hhQn8LT8FWdFyOBQSy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John James",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Louisa James",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Sam James",
+     "n": "Gattlin Griffith"
+    },
+    {
+     "c": "Cassandra",
+     "n": "Samantha Mathis"
+    },
+    {
+     "c": "Prof. Evan White",
+     "n": "Noah Taylor"
+    },
+    {
+     "c": "Student",
+     "n": "Amanda Garsys"
+    },
+    {
+     "c": "Student",
+     "n": "Mark Charles Davis"
+    },
+    {
+     "c": "BC #2",
+     "n": "Edmund Entin"
+    },
+    {
+     "c": "BC #1",
+     "n": "Gary Entin"
+    },
+    {
+     "c": "Alexis Danella",
+     "n": "Margaret Anne Florence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Luiso Berdejo"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 37534,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John James is a writer; his wife has left him. He moves with his two middle-school children to an isolated house off a dirt road in South Carolina. The property has an Indian burial mound, which fascinates his daughter, Louisa, who's entering puberty.",
+   "popularity": 1.9251,
+   "poster_path": "/dU5uJoWAcwNVH84G736i4f7oVot.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-12-18",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How Far Will A Father Go To Protect The Ones He Loves?",
+   "title": "The New Daughter",
+   "trailer": {
+    "key": "8a2rBUA7hrA",
+    "name": "The New Daughter - Available on DVD May 18th!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.35,
+   "vote_count": 402
+  },
+  "movie:785534": {
+   "backdrop_path": "/ctckqAvz9aTZDtfXLmDUdMflesU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mehmet",
+     "n": "Çağatay Ulusoy"
+    },
+    {
+     "c": "Ali",
+     "n": "Emir Ali Doğrul"
+    },
+    {
+     "c": "Gonzales",
+     "n": "Ersin Arıcı"
+    },
+    {
+     "c": "Tahsin",
+     "n": "Turgay Tanülkü"
+    },
+    {
+     "c": "Mom",
+     "n": "Selen Öztürk"
+    },
+    {
+     "c": "Yaşlı Kadın",
+     "n": "Tomris Çetinel"
+    },
+    {
+     "c": "Enver",
+     "n": "Enver Aktay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Can Ulkay"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 785534,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.",
+   "popularity": 1.5772,
+   "poster_path": "/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-03-12",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "Paper Lives",
+   "trailer": {
+    "key": "lXdSaVK-vzs",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 426
   },
   "movie:788734": {
    "backdrop_path": "/lJXHuyY622HcA0RHJvkeJcvzamK.jpg",

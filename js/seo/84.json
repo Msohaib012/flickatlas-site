@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 40,
+ "count": 47,
  "titles": {
   "movie:10384": {
    "d": "Supernova (2000): Science Fiction/Horror film. Story: Set in the 22nd century, when a battered salvage ship… See cast, budget $90M, and TMDB rating 5.0/10.",
@@ -447,6 +447,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Torrente for President (2026)</h1>\n<p class=\"ssr-lead\">Years have passed since his last adventure, but José Luis Torrente, the most politically incorrect former cop in Spain, still sees himself as a national hero.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 103 minutes</li><li>Director: Santiago Segura</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (162 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Santiago Segura as José Luis Torrente</li><li>Gabino Diego as Cuco</li><li>Carlos Areces as Pelayo</li><li>Ramón Langa as Jacobo Carrascal</li><li>Francisco Nicolás as Franki</li><li>Willy Bárcenas as Santi</li><li>Cañita Brava as Antoñito</li><li>José María Rubio as Manolito</li><li>Xavier Deltell as Torrelavega</li><li>David Guapo as David</li></ul>\n</article>",
    "t": "Torrente for President (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:12584": {
+   "d": "The Shootist (1976): Western film. Story: Afflicted with a terminal illness John Bernard Books… See cast, TMDB rating 7.1/10, and release date 21 July 1976.",
+   "img": "https://image.tmdb.org/t/p/w780/30uoQ0AHiAfDm7GdtUrTUntfS02.jpg",
+   "industry": "world",
+   "k": "The Shootist, The Shootist movie, The Shootist cast, The Shootist story, The Shootist box office collection, The Shootist budget, The Shootist review, The Shootist rating, The Shootist release date, The Shootist trailer, The Shootist Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Wayne"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Bacall"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "James Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Boone"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Shootist (1976): Western film. Story: Afflicted with a terminal illness John Bernard Books… See cast, TMDB rating 7.1/10, and release date 21 July 1976.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Siegel"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/30uoQ0AHiAfDm7GdtUrTUntfS02.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12584",
+    "name": "The Shootist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12584"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Shootist (1976)</h1>\n<p class=\"ssr-lead\">Afflicted with a terminal illness John Bernard Books, the last of the legendary gunfighters, quietly returns to Carson City for medical attention from his old friend Dr. Hostetler. Aware that his days are numbered, the troubled man seeks solace and peace in a boarding house run by a widow and her son. However, it is not Books&#x27; fate to die in peace, as he becomes embroiled in one last valiant battle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 1976</li><li>Runtime: 100 minutes</li><li>Director: Don Siegel</li><li>Genres: Western</li><li>TMDB rating: 7.1/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Wayne as J.B. Books</li><li>Lauren Bacall as Bond Rogers</li><li>Ron Howard as Gillom Rogers</li><li>James Stewart as Dr. Hostetler</li><li>Richard Boone as Mike Sweeney</li><li>Hugh O&#x27;Brian as Jack Pulford</li><li>Bill McKinney as Jay Cobb</li><li>Harry Morgan as Marshall Thibido</li><li>John Carradine as Beckum</li><li>Sheree North as Serepta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li></ul>\n</article>",
+   "t": "The Shootist (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
+  "movie:12684": {
+   "d": "Sabotage (1937): Drama/Thriller film. Story: Karl Anton Verloc and his wife own a small cinema in… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hdl5cBE9zx5vBKuJ3RUQW0o1yEf.jpg",
+   "industry": "world",
+   "k": "Sabotage, Sabotage movie, Sabotage cast, Sabotage story, Sabotage box office collection, Sabotage budget, Sabotage review, Sabotage rating, Sabotage release date, Sabotage Drama, Sabotage Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sylvia Sidney"
+     },
+     {
+      "@type": "Person",
+      "name": "Oskar Homolka"
+     },
+     {
+      "@type": "Person",
+      "name": "Desmond Tester"
+     },
+     {
+      "@type": "Person",
+      "name": "John Loder"
+     },
+     {
+      "@type": "Person",
+      "name": "Joyce Barbour"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Sabotage (1937): Drama/Thriller film. Story: Karl Anton Verloc and his wife own a small cinema in… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alfred Hitchcock"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hdl5cBE9zx5vBKuJ3RUQW0o1yEf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12684",
+    "name": "Sabotage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1937-01-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12684"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sabotage (1937)</h1>\n<p class=\"ssr-lead\">Karl Anton Verloc and his wife own a small cinema in a quiet London suburb where they live seemingly happily. But Mrs. Verloc does not know that her husband has a secret that will affect their relationship and threaten her teenage brother&#x27;s life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 January 1937</li><li>Runtime: 77 minutes</li><li>Director: Alfred Hitchcock</li><li>Genres: Drama, Thriller, Crime</li><li>TMDB rating: 6.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sylvia Sidney as Mrs. Verloc</li><li>Oskar Homolka as Karl Verloc - Her Husband</li><li>Desmond Tester as Stevie - Her Young Brother</li><li>John Loder as Ted</li><li>Joyce Barbour as Renee</li><li>Matthew Boulton as Superintendent Talbot</li><li>S. J. Warmington as Hollingshead</li><li>William Dewhurst as The Professor</li><li>Clare Greet as Mrs. Jones (uncredited)</li><li>Aubrey Mather as Greengrocer (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Artiflix</li></ul>\n</article>",
+   "t": "Sabotage (1937) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1937"
   },
   "movie:13384": {
    "d": "Kes (1970): Drama film. Story: Bullied at school and ignored and abused at home by… See cast, TMDB rating 7.4/10, and release date 3 April 1970.",
@@ -961,6 +1088,70 @@
    "t": "The Ewok Adventure (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:19384": {
+   "d": "Dark Angel (1990): Action/Science Fiction film. Story: Jack Caine is a Houston vice cop who's forgotten the… See cast, budget $7M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nw4EGTqjUmD9tZoaylO9ypNUHrO.jpg",
+   "industry": "world",
+   "k": "Dark Angel, Dark Angel movie, Dark Angel cast, Dark Angel story, Dark Angel box office collection, Dark Angel budget, Dark Angel review, Dark Angel rating, Dark Angel release date, Dark Angel trailer, Dark Angel Action, Dark Angel Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dolph Lundgren"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Benben"
+     },
+     {
+      "@type": "Person",
+      "name": "Betsy Brantley"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthias Hues"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay Bilas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Dark Angel (1990): Action/Science Fiction film. Story: Jack Caine is a Houston vice cop who's forgotten the… See cast, budget $7M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Craig R. Baxley"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nw4EGTqjUmD9tZoaylO9ypNUHrO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19384",
+    "name": "Dark Angel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-01-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19384"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dark Angel (1990)</h1>\n<p class=\"ssr-lead\">Jack Caine is a Houston vice cop who&#x27;s forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. While involved in an undercover operation to entrap Victor Manning, his partner is killed, and a sinister newcomer enters the scene...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 January 1990</li><li>Runtime: 91 minutes</li><li>Director: Craig R. Baxley</li><li>Genres: Action, Science Fiction, Thriller</li><li>Budget: $7M</li><li>TMDB rating: 6.2/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dolph Lundgren as Det. Jack Caine</li><li>Brian Benben as Special Agent Laurence Smith</li><li>Betsy Brantley as Diane Pallone</li><li>Matthias Hues as Bad Alien - Talec</li><li>Jay Bilas as Good Alien - Azeck</li><li>Jim Haynie as Captain Malone</li><li>David Ackroyd as Inspector Switzer</li><li>Suzanne Savoy as Patrolwoman</li><li>Sherman Howard as Victor Manning</li><li>Sam Anderson as Warren</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dark Angel (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:2084": {
    "d": "Birthday Girl (2001): Comedy/Crime film. Story: John is a mild-mannered banker who has never been… See cast, budget $13M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
@@ -1279,6 +1470,70 @@
    "t": "La Cage aux Folles (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
   },
+  "movie:451184": {
+   "d": "Wasp Network (2020): Drama/History film. Story: Havana, Cuba, 1990. René González, an airplane pilot… See cast, budget $10.53M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sOy92H9RdKfsC4OY4umZi2rPrur.jpg",
+   "industry": "world",
+   "k": "Wasp Network, Wasp Network movie, Wasp Network cast, Wasp Network story, Wasp Network box office collection, Wasp Network budget, Wasp Network review, Wasp Network rating, Wasp Network release date, Wasp Network trailer, Wasp Network Drama, Wasp Network History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Penélope Cruz"
+     },
+     {
+      "@type": "Person",
+      "name": "Edgar Ramírez"
+     },
+     {
+      "@type": "Person",
+      "name": "Gael García Bernal"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana de Armas"
+     },
+     {
+      "@type": "Person",
+      "name": "Wagner Moura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 423,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Wasp Network (2020): Drama/History film. Story: Havana, Cuba, 1990. René González, an airplane pilot… See cast, budget $10.53M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Assayas"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sOy92H9RdKfsC4OY4umZi2rPrur.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=451184",
+    "name": "Wasp Network",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=451184"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wasp Network (2020)</h1>\n<p class=\"ssr-lead\">Havana, Cuba, 1990. René González, an airplane pilot, unexpectedly flees the country, leaving behind his wife Olga and his daughter Irma, and begins a new life in Miami, where he becomes a member of an anti-Castro organization.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2020</li><li>Runtime: 128 minutes</li><li>Director: Olivier Assayas</li><li>Genres: Drama, History, Thriller</li><li>Budget: $10.53M</li><li>TMDB rating: 6.0/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Penélope Cruz as Olga</li><li>Edgar Ramírez as René</li><li>Gael García Bernal as Viramontez</li><li>Ana de Armas as Ana Margarita</li><li>Wagner Moura as Roque</li><li>Leonardo Sbaraglia as Basulto</li><li>Nolan Guerra Fernández as Cruz León</li><li>Osdeymi Pastrana Miranda as Irma</li><li>Tony Plana as Luis Posada Carriles</li><li>Julian Flynn as PUND&#x27;s Pilot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Wasp Network (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:45284": {
    "d": "Outrage (2010): Action/Crime film. Story: When a tough yakuza gangster is betrayed by his… See cast, TMDB rating 6.9/10, and release date 12 June 2010.",
    "img": "https://image.tmdb.org/t/p/w780/ugVAfKcbMPrnLy4ebmXTMOelvUN.jpg",
@@ -1469,6 +1724,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Chinese Take-Away (2011)</h1>\n<p class=\"ssr-lead\">A comedy that chronicles a chance encounter between Robert and a Chinese named Jun who wanders lost through the city of Buenos Aires in search of his uncle after being assaulted by a taxi driver and his henchmen.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 March 2011</li><li>Runtime: 93 minutes</li><li>Director: Sebastián Borensztein</li><li>Genres: Comedy</li><li>Budget: $5M</li><li>TMDB rating: 7.3/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricardo Darín as Roberto</li><li>Ignacio Huang as Jun</li><li>Carolina Hsu as Li</li><li>Muriel Santa Ana as Mari</li><li>Iván Romanelli as Leonel</li><li>Pablo Seijo as Client 1</li><li>Derli Prada as Provider 1</li><li>Joaquín Bouzas as Client 2</li><li>Gustavo Comini as Dump Truck Driver</li><li>Yu Sheng Liao as Chinese Official</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Chinese Take-Away (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:68684": {
+   "d": "Detention (2012): Horror/Comedy film. Story: As a killer named Cinderhella stalks the student body… See cast, budget $10M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dIejmkCP46vN5a17u44phOGyAVR.jpg",
+   "industry": "world",
+   "k": "Detention, Detention movie, Detention cast, Detention story, Detention box office collection, Detention budget, Detention review, Detention rating, Detention release date, Detention trailer, Detention Horror, Detention Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shanley Caswell"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Spencer Locke"
+     },
+     {
+      "@type": "Person",
+      "name": "Dane Cook"
+     },
+     {
+      "@type": "Person",
+      "name": "A.D. Johnson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Detention (2012): Horror/Comedy film. Story: As a killer named Cinderhella stalks the student body… See cast, budget $10M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Kahn"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dIejmkCP46vN5a17u44phOGyAVR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=68684",
+    "name": "Detention",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=68684"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Detention (2012)</h1>\n<p class=\"ssr-lead\">As a killer named Cinderhella stalks the student body at the high school in Grizzly Lake, a group of co-eds band together to survive while they&#x27;re all serving detention.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2012</li><li>Runtime: 93 minutes</li><li>Director: Joseph Kahn</li><li>Genres: Horror, Comedy, Science Fiction</li><li>Budget: $10M</li><li>TMDB rating: 5.6/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shanley Caswell as Riley Jones</li><li>Josh Hutcherson as Clapton Davis</li><li>Spencer Locke as Ione Foster</li><li>Dane Cook as Principal Karl Verge</li><li>A.D. Johnson as Sander Sanderson</li><li>Walter Perez as Elliot Fink</li><li>Erica Shaffer as Sloan Foster</li><li>Yves Bright as Mr. Kendall</li><li>Parker Bagley as Billy Nolan</li><li>Tiffany Boone as Mimi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Detention (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:70584": {
+   "d": "Hellraiser: Revelations (2011): Horror/Thriller film. Story: Two friends in Mexico discover the Lament… See cast, budget $350.0k, and TMDB rating 3.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qv5zpQSx8naAm8C59DGVLMdZxbp.jpg",
+   "industry": "world",
+   "k": "Hellraiser: Revelations, Hellraiser: Revelations movie, Hellraiser: Revelations cast, Hellraiser: Revelations story, Hellraiser: Revelations box office collection, Hellraiser: Revelations budget, Hellraiser: Revelations review, Hellraiser: Revelations rating, Hellraiser: Revelations release date, Hellraiser: Revelations trailer, Hellraiser: Revelations Horror, Hellraiser: Revelations Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steven Brand"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Eversman"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracey Fairaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Devon Sorvari"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephan Smith Collins"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 3.5,
+     "worstRating": 0
+    },
+    "description": "Hellraiser: Revelations (2011): Horror/Thriller film. Story: Two friends in Mexico discover the Lament… See cast, budget $350.0k, and TMDB rating 3.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Víctor García"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qv5zpQSx8naAm8C59DGVLMdZxbp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=70584",
+    "name": "Hellraiser: Revelations",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-10-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=70584"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hellraiser: Revelations (2011)</h1>\n<p class=\"ssr-lead\">Two friends in Mexico discover the Lament Configuration and unleash Pinhead, but one decides to try to survive by swapping himself with someone else. Once they go missing, family members go in search of them, but find Pinhead instead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 October 2011</li><li>Runtime: 75 minutes</li><li>Director: Víctor García</li><li>Genres: Horror, Thriller</li><li>Budget: $350.0k</li><li>TMDB rating: 3.5/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Brand as Dr. Ross Craven</li><li>Nick Eversman as Steven Craven</li><li>Tracey Fairaway as Emma Craven</li><li>Devon Sorvari as Sarah Craven</li><li>Stephan Smith Collins as Pinhead</li><li>Fred Tatasciore as Pinhead (voice)</li><li>Jay Gillespie as Nico Bradley / Pseudo Pinhead</li><li>Sebastien Roberts as Peter Bradley</li><li>Sanny van Heteren as Kate Bradley</li><li>Daniel Buran as Vagrant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Hellraiser: Revelations (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:8884": {
+   "d": "Franklyn (2008): Fantasy/Thriller film. Story: Set between the parallel worlds of contemporary… See cast, budget $12M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6hQgTpZVNHrLafE6IeSAoThQwkH.jpg",
+   "industry": "world",
+   "k": "Franklyn, Franklyn movie, Franklyn cast, Franklyn story, Franklyn box office collection, Franklyn budget, Franklyn review, Franklyn rating, Franklyn release date, Franklyn trailer, Franklyn Fantasy, Franklyn Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eva Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Phillippe"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Hill"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Riley"
+     },
+     {
+      "@type": "Person",
+      "name": "Art Malik"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Franklyn (2008): Fantasy/Thriller film. Story: Set between the parallel worlds of contemporary… See cast, budget $12M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gerald McMorrow"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Fantasy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6hQgTpZVNHrLafE6IeSAoThQwkH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8884",
+    "name": "Franklyn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8884"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Franklyn (2008)</h1>\n<p class=\"ssr-lead\">Set between the parallel worlds of contemporary London and the futuristic faith dominated metropolis of Meanwhile City, Franklyn weaves a tale of four souls, whose lives are intertwined by fate, romance and tragedy. As these worlds collide, a single bullet determines the destiny of these four characters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2008</li><li>Runtime: 98 minutes</li><li>Director: Gerald McMorrow</li><li>Genres: Fantasy, Thriller, Drama</li><li>Budget: $12M</li><li>TMDB rating: 6.0/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Green as Emilia</li><li>Ryan Phillippe as Preest</li><li>Bernard Hill as Esser</li><li>Sam Riley as Milo</li><li>Art Malik as Tarrant</li><li>Richard Coyle as Dan</li><li>Susannah York as Margaret</li><li>Kika Markham as Naomi</li><li>Mark Wingett as Frank Grant</li><li>Gary Pillai as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Franklyn (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:9584": {
    "d": "Convoy (1978): Action/Comedy film. Story: Trucker Rubber Duck and his buddies Pig Pen, Widow… See cast, budget $12M, and TMDB rating 6.3/10.",

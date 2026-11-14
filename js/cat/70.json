@@ -1,6 +1,6 @@
 {
  "bucket": "70",
- "count": 24,
+ "count": 30,
  "titles": {
   "movie:1166170": {
    "backdrop_path": "/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
@@ -263,6 +263,119 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 443
+  },
+  "movie:124470": {
+   "backdrop_path": "/m9xwvflfh4hpjmlSapeDx2h9RCP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth",
+     "n": "Denise Williamson"
+    },
+    {
+     "c": "Matt",
+     "n": "Samuel Davis"
+    },
+    {
+     "c": "Todd",
+     "n": "Roger Edwards"
+    },
+    {
+     "c": "Brian",
+     "n": "Chris Osborn"
+    },
+    {
+     "c": "Dora",
+     "n": "Dora Madison"
+    },
+    {
+     "c": "Sasquatch",
+     "n": "Brian Steele"
+    },
+    {
+     "c": "Uncle Bob",
+     "n": "Jeff Schwan"
+    },
+    {
+     "c": "Firework Salesman",
+     "n": "George P. Gakoumis Jr."
+    },
+    {
+     "c": "911 Operator (voice)",
+     "n": "Stefanie Sanchez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eduardo Sánchez"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 124470,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of friends venture into the remote Texas woods for a party weekend and find themselves stalked by Bigfoot.",
+   "popularity": 1.6459,
+   "poster_path": "/m3BteJOJcbEI3pDgrZ1Fguy0ndV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Outside TV Features Amzon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-11-07",
+   "revenue": 413767,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legend is real. So is the terror.",
+   "title": "Exists",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.545,
+   "vote_count": 408
   },
   "movie:1336770": {
    "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
@@ -774,6 +887,95 @@
    "vote_average": 5.969,
    "vote_count": 65
   },
+  "movie:16070": {
+   "backdrop_path": "/sN8K7JQZkcz7Kq4Mp20Vy4mb8q9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Director of 'Boys Don't Cry'",
+     "n": "Kimberly Peirce"
+    },
+    {
+     "c": "Self - Author of 'Hollywood v. Hardcore'",
+     "n": "Jon Lewis"
+    },
+    {
+     "c": "Self - Film Critic at 'Newsweek'",
+     "n": "David Ansen"
+    },
+    {
+     "c": "Self - First Amendment Attorney",
+     "n": "Martin Garbus"
+    },
+    {
+     "c": "Self - Director of 'The Cooler'",
+     "n": "Wayne Kramer"
+    },
+    {
+     "c": "Self - Box Office Analyst",
+     "n": "Paul Dergarabedian"
+    },
+    {
+     "c": "Self - Director of 'Clerks' and 'Jersey Girl'",
+     "n": "Kevin Smith"
+    },
+    {
+     "c": "Self - Director of 'A Dirty Shame'",
+     "n": "John Waters"
+    },
+    {
+     "c": "Self - Producer of 'South Park' and 'Team America'",
+     "n": "Matt Stone"
+    },
+    {
+     "c": "Self - Former Rating Board Chairman",
+     "n": "Richard Heffner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kirby Dick"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 16070,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kirby Dick's provocative documentary investigates the secretive and inconsistent process by which the Motion Picture Association of America (MPAA) rates films, revealing the organization's underhanded efforts to control culture. Dick questions whether certain studios get preferential treatment and exposes the discrepancies in how the MPAA views sex and violence.",
+   "popularity": 1.188,
+   "poster_path": "/nXo26FkBBdiEaEDzOPkrSFZC7zO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-01",
+   "revenue": 302179,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Censorship, uncensored.",
+   "title": "This Film Is Not Yet Rated",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 394
+  },
   "movie:2370": {
    "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",
    "budget": 4000000,
@@ -1054,6 +1256,111 @@
    "vote_average": 6.971,
    "vote_count": 475
   },
+  "movie:26170": {
+   "backdrop_path": "/hMw0qFWdHEFMU4YY0OoLvF4gRVJ.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Coogan",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Lt. McElroy",
+     "n": "Lee J. Cobb"
+    },
+    {
+     "c": "Julie Roth",
+     "n": "Susan Clark"
+    },
+    {
+     "c": "Linny Raven",
+     "n": "Tisha Sterling"
+    },
+    {
+     "c": "James Ringerman",
+     "n": "Don Stroud"
+    },
+    {
+     "c": "Ellen Ringerman",
+     "n": "Betty Field"
+    },
+    {
+     "c": "Sheriff McCrea",
+     "n": "Tom Tully"
+    },
+    {
+     "c": "Millie",
+     "n": "Melodie Johnson"
+    },
+    {
+     "c": "Sgt. Jackson",
+     "n": "James Edwards"
+    },
+    {
+     "c": "Running Bear",
+     "n": "Rudy Diaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Siegel"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 26170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Coogan, an Arizona deputy sheriff goes to New York to pick up a prisoner. While escorting the prisoner to the airport, he escapes and Coogan heads into the city to recapture him.",
+   "popularity": 2.617,
+   "poster_path": "/A0dObkaXai6q46sIMSRI1MCcN7E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1968-10-02",
+   "revenue": 3110000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The man with no fear... takes on a killer with no pity... in a city with no heart.",
+   "title": "Coogan's Bluff",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.313,
+   "vote_count": 394
+  },
   "movie:366170": {
    "backdrop_path": "/s9q3uNEjqHnLDgPX78Yfaoy8p1I.jpg",
    "budget": 0,
@@ -1168,6 +1475,327 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 473
+  },
+  "movie:486070": {
+   "backdrop_path": "/gTav1UE2Z8vgm0rMZ5oqVyWxN3l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guglielmo",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Luna",
+     "n": "Ilenia Pastorelli"
+    },
+    {
+     "c": "Liadia",
+     "n": "Lucrezia Lante della Rovere"
+    },
+    {
+     "c": "Ornella",
+     "n": "Maria Pia Calzone"
+    },
+    {
+     "c": "Raffaella",
+     "n": "Paola Minaccioni"
+    },
+    {
+     "c": "Rita",
+     "n": "Federica Fracassi"
+    },
+    {
+     "c": "padre Martinez",
+     "n": "Paolo Paoloni"
+    },
+    {
+     "c": "Letizia",
+     "n": "Elisa Di Eusanio"
+    },
+    {
+     "c": "Adamo",
+     "n": "Piero Concilietti"
+    },
+    {
+     "c": "Katia",
+     "n": "Anna Ferraioli Ravel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 486070,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A man dedicated to religion and very faithful husband suddenly finds himself single. The new shop assistant in his shop will overwhelm his life.",
+   "popularity": 0.6858,
+   "poster_path": "/4UaxYbbv204sRpCL5Io4oGUDhJ4.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-01-11",
+   "revenue": 4154000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Blessed Madness",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 401
+  },
+  "movie:774370": {
+   "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Dog Man / Officer Knight / Harold's House (voice)",
+     "n": "Peter Hastings"
+    },
+    {
+     "c": "Petey the Cat (voice)",
+     "n": "Pete Davidson"
+    },
+    {
+     "c": "Chief (voice)",
+     "n": "Lil Rel Howery"
+    },
+    {
+     "c": "Sarah Hatoff (voice)",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "Li'l Petey (voice)",
+     "n": "Lucas Hopkins Calderon"
+    },
+    {
+     "c": "Flippy (voice)",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Butler (voice)",
+     "n": "Poppy Liu"
+    },
+    {
+     "c": "Grampa (voice)",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Seamus (voice)",
+     "n": "Billy Boyd"
+    },
+    {
+     "c": "Milly (voice)",
+     "n": "Luenell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Peter Hastings"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation",
+    "Action"
+   ],
+   "id": 774370,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+   "popularity": 6.4395,
+   "poster_path": "/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-04-11",
+   "revenue": 145603415,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Part dog. Part man. All hero.",
+   "title": "Dog Man",
+   "trailer": {
+    "key": "QaJbAennB_Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.346,
+   "vote_count": 406
+  },
+  "movie:870": {
+   "backdrop_path": "/cxULojvpOWYX8AUG5eJpTYS8IbX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sawako",
+     "n": "Miho Kanno"
+    },
+    {
+     "c": "Matsumoto",
+     "n": "Hidetoshi Nishijima"
+    },
+    {
+     "c": "Hiro",
+     "n": "Tatsuya Mihashi"
+    },
+    {
+     "c": "Ryoko",
+     "n": "Chieko Matsubara"
+    },
+    {
+     "c": "Haruna Yamaguchi",
+     "n": "Kyoko Fukada"
+    },
+    {
+     "c": "Nukui",
+     "n": "Tsutomu Takeshige"
+    },
+    {
+     "c": "Haruna's Aunt",
+     "n": "Kayoko Kishimoto"
+    },
+    {
+     "c": "Matsumoto's Colleague",
+     "n": "Nao Omori"
+    },
+    {
+     "c": "Young Hiro",
+     "n": "Kanji Tsuda"
+    },
+    {
+     "c": "Young Ryoko",
+     "n": "Yuko Daike"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Takeshi Kitano"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 870,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Dolls takes puppeteering as its overriding motif, which relates thematically to the action provided by the live characters. Chief among those tales is the story of Matsumoto and Sawako, a young couple whose relationship is about to be broken apart by the former's parents, who have insisted their son take part in an arranged marriage to his boss' daughter.",
+   "popularity": 1.5136,
+   "poster_path": "/vQ9XBpH88jvO3hpHt9Zm5IHe5NP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-10-12",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Three stories of never-ending love.",
+   "title": "Dolls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.532,
+   "vote_count": 387
   },
   "movie:929170": {
    "backdrop_path": "/7RE3dqDcafLRPj3W2q7EJ3ybIm7.jpg",

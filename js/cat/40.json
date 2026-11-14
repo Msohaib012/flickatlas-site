@@ -1,7 +1,67 @@
 {
  "bucket": "40",
- "count": 38,
+ "count": 42,
  "titles": {
+  "movie:116440": {
+   "backdrop_path": "/cxJsU3BfJ7NkKae5gWqJkmu3aCO.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Silverman"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 116440,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Maggie must navigate an eventful first day in daycare. At the Ayn Rand School for Tots, Maggie is diagnosed with average intelligence. Barred from the gifted children, she longs to escape from her glue-guzzling classmates. But when a lonely caterpillar befriends her, she makes it her mission to save it from a ruthless butterfly smashing toddler.",
+   "popularity": 1.8762,
+   "poster_path": "/6db4Dzg3GmlQxbUrJCDhcbMvMxN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-07-03",
+   "revenue": 0,
+   "runtime": 5,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Maggie Simpson in \"The Longest Daycare\"",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.956,
+   "vote_count": 396
+  },
   "movie:1224440": {
    "backdrop_path": "/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
    "budget": 2129970,
@@ -1191,6 +1251,176 @@
    "vote_average": 5.6,
    "vote_count": 461
   },
+  "movie:54540": {
+   "backdrop_path": "/ekNXqMP50X7w7zAPWuikxdjWlwC.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Chloe (voice)",
+     "n": "Odette Annable"
+    },
+    {
+     "c": "Papi (voice)",
+     "n": "George López"
+    },
+    {
+     "c": "Papi Jr. (voice)",
+     "n": "Zachary Gordon"
+    },
+    {
+     "c": "News Reporter",
+     "n": "Christine Lakin"
+    },
+    {
+     "c": "Delgado (voice)",
+     "n": "Miguel Ferrer"
+    },
+    {
+     "c": "Lala (voice)",
+     "n": "Madison Pettis"
+    },
+    {
+     "c": "Appoline (voice)",
+     "n": "Bridgit Mendler"
+    },
+    {
+     "c": "Antonio (voice)",
+     "n": "Jon Donahue"
+    },
+    {
+     "c": "Judge McKible",
+     "n": "Phill Lewis"
+    },
+    {
+     "c": "Ali (voice)",
+     "n": "Delaney Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alex Zamm"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 54540,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Puppy mayhem turns the lives of newlywed Chihuahua parents Papi and Chloe upside down when their rambunctious, mischievous puppies present one challenge after another. But when their human owners end up in trouble, the tiny pups will stop at nothing to save them - because in good times and hard times, the family always sticks together. So Papi, Chloe and the puppies embark on a heroic adventure, proving once again that big heroes come in small packages.",
+   "popularity": 2.7044,
+   "poster_path": "/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-02-01",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The family just got bigger",
+   "title": "Beverly Hills Chihuahua 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 432
+  },
   "movie:6440": {
    "backdrop_path": "/9gzaEGkgadqCRHbBhZie4qtOthQ.jpg",
    "budget": 38000000,
@@ -1424,6 +1654,144 @@
    "vote_average": 6.61,
    "vote_count": 477
   },
+  "movie:718840": {
+   "backdrop_path": "/2HiL1H8VjqYwcTjxC2WIAGJHFx0.jpg",
+   "budget": 6100000,
+   "cast": [
+    {
+     "c": "Lucy Neal",
+     "n": "Lucy Hale"
+    },
+    {
+     "c": "Grant Anderson",
+     "n": "Leonidas Gulaptis"
+    },
+    {
+     "c": "Priscilla Blum",
+     "n": "Mindy Cohn"
+    },
+    {
+     "c": "Paul Goodwin",
+     "n": "Adhir Kalyan"
+    },
+    {
+     "c": "Nessa Jennings",
+     "n": "Jackie Cruz"
+    },
+    {
+     "c": "Jeff Thayer",
+     "n": "Stephen Friedrich"
+    },
+    {
+     "c": "Honey Parker",
+     "n": "Leah McKendrick"
+    },
+    {
+     "c": "DJ",
+     "n": "Constantine Maroulis"
+    },
+    {
+     "c": "Morgana",
+     "n": "Shiva Kalaiselvan"
+    },
+    {
+     "c": "Renee Lowell",
+     "n": "Deborah S. Craig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nick Riedell",
+    "Chris Riedell"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 718840,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.",
+   "popularity": 2.0252,
+   "poster_path": "/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-07-18",
+   "revenue": 769234,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Naughty can be nice.",
+   "title": "A Nice Girl Like You",
+   "trailer": {
+    "key": "-Wjjo30JJck",
+    "name": "A Nice Girl Like You | Official Trailer (HD) | Vertical Entertainment",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.823,
+   "vote_count": 404
+  },
   "movie:814340": {
    "backdrop_path": "/1LMGpNSUekWg3XCPweN33knQPW9.jpg",
    "budget": 0,
@@ -1648,6 +2016,114 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 437
+  },
+  "movie:916740": {
+   "backdrop_path": "/2Jp2RIwJ3Dt7vamkTt7llVJ7uY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grace Miller",
+     "n": "Alyssa Milano"
+    },
+    {
+     "c": "Detective Ed Jennings",
+     "n": "Sam Page"
+    },
+    {
+     "c": "Ben",
+     "n": "Malachi Weir"
+    },
+    {
+     "c": "Kathleen Miller Breezewood / Desiree",
+     "n": "Emilie Ullerup"
+    },
+    {
+     "c": "Jerald Baxter / Hacker",
+     "n": "Matthew Finlan"
+    },
+    {
+     "c": "Captain Rivera",
+     "n": "Alison Araya"
+    },
+    {
+     "c": "Senator Baxter",
+     "n": "Colleen Wheeler"
+    },
+    {
+     "c": "Jonathan Breezewood",
+     "n": "David James Lewis"
+    },
+    {
+     "c": "Rand Morgan",
+     "n": "Daniel Diemer"
+    },
+    {
+     "c": "Paul Morgan",
+     "n": "Barry W. Levy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Monika Mitchell"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 916740,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mystery writer Grace Miller has killer instincts when it comes to motive - and she'll need every bit of expertise to help solve her sister's murder.",
+   "popularity": 2.2,
+   "poster_path": "/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-13",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Brazen",
+   "trailer": {
+    "key": "WJPSSL2lSjU",
+    "name": "Brazen | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 423
   },
   "tv:103540": {
    "backdrop_path": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",

@@ -1,7 +1,127 @@
 {
  "bucket": "04",
- "count": 35,
+ "count": 43,
  "titles": {
+  "movie:10604": {
+   "backdrop_path": "/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
+   "budget": 783000,
+   "cast": [
+    {
+     "c": "Alexis Zorba",
+     "n": "Anthony Quinn"
+    },
+    {
+     "c": "Basil",
+     "n": "Alan Bates"
+    },
+    {
+     "c": "Widow",
+     "n": "Irene Papas"
+    },
+    {
+     "c": "Madame Hortense",
+     "n": "Lila Kedrova"
+    },
+    {
+     "c": "Mimithos",
+     "n": "Sotiris Moustakas"
+    },
+    {
+     "c": "Soul",
+     "n": "Anna Kyriakou"
+    },
+    {
+     "c": "Manolakas",
+     "n": "Takis Emmanuel"
+    },
+    {
+     "c": "Lola",
+     "n": "Eleni Anousaki"
+    },
+    {
+     "c": "Mavrandoni",
+     "n": "George Foundas"
+    },
+    {
+     "c": "Acne Faced Boy",
+     "n": "George P. Cosmatos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mihalis Kakogiannis"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 10604,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "el",
+   "overview": "An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
+   "popularity": 2.3436,
+   "poster_path": "/jAYOY38TRDprIgu7vgES0FFJJSl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1964-12-14",
+   "revenue": 9000000,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "el",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life. Lust. Love. Zorba.",
+   "title": "Zorba the Greek",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.434,
+   "vote_count": 404
+  },
   "movie:1128204": {
    "backdrop_path": "/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
    "budget": 0,
@@ -1195,6 +1315,168 @@
    "vote_average": 7.328,
    "vote_count": 61
   },
+  "movie:15804": {
+   "backdrop_path": "/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xiao Si'r",
+     "n": "Chang Chen"
+    },
+    {
+     "c": "Ming",
+     "n": "Lisa Yang"
+    },
+    {
+     "c": "Father",
+     "n": "Chang Kuo-chu"
+    },
+    {
+     "c": "Mother",
+     "n": "Elaine Jin Yan-Ling"
+    },
+    {
+     "c": "Eldest Sister",
+     "n": "Wang Chuan"
+    },
+    {
+     "c": "Elder Brother",
+     "n": "Chang Han"
+    },
+    {
+     "c": "Middle Sister",
+     "n": "Chiang Hsiu-Chiung"
+    },
+    {
+     "c": "Youngest Sister",
+     "n": "Stephanie Lai"
+    },
+    {
+     "c": "Ma",
+     "n": "Tan Chih-Kang"
+    },
+    {
+     "c": "Cat",
+     "n": "Wang Chi-tsan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Edward Yang"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "id": 15804,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
+   "popularity": 4.2125,
+   "poster_path": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+   "production_countries": [
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-07-27",
+   "revenue": 0,
+   "runtime": 237,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Brighter Summer Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.199,
+   "vote_count": 417
+  },
   "movie:1688804": {
    "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
    "budget": 0,
@@ -1300,6 +1582,622 @@
    "type": "movie",
    "vote_average": 7.067,
    "vote_count": 45
+  },
+  "movie:19004": {
+   "backdrop_path": "/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Littlefoot (voice)",
+     "n": "Scott McAfee"
+    },
+    {
+     "c": "Cera (voice)",
+     "n": "Candace Hutson"
+    },
+    {
+     "c": "Ducky (voice)",
+     "n": "Heather Hogan"
+    },
+    {
+     "c": "Petrie / Mutt / Iguanadon (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Narrator / Cera's Father (voice)",
+     "n": "John Ingle"
+    },
+    {
+     "c": "Grandma / Mother Quetzalcoatlus (voice)",
+     "n": "Linda Gary"
+    },
+    {
+     "c": "Hyp (voice)",
+     "n": "Whit Hertford"
+    },
+    {
+     "c": "Hyp's Father (voice)",
+     "n": "Nicholas Guest"
+    },
+    {
+     "c": "Stegosaurus / Spike & Ducky's Mother (voice)",
+     "n": "Tress MacNeille"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Roy Allen Smith"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "id": 19004,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the water supply to the Great Valley is blocked, Littlefoot and his friends must cooperate with a group of bullies to find the reason the cause.",
+   "popularity": 3.0043,
+   "poster_path": "/abcJUBDHi6hxibSgm2bxYK1wAZK.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-03-16",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Join littlefoot and his friends in all-new, song-filled adventure!",
+   "title": "The Land Before Time III: The Time of the Great Giving",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 425
+  },
+  "movie:22504": {
+   "backdrop_path": "/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "L’oiseau (voice)",
+     "n": "Jean Martin"
+    },
+    {
+     "c": "Le ramoneur (voice)",
+     "n": "Renaud Marx"
+    },
+    {
+     "c": "La bergère (voice)",
+     "n": "Agnès Viala"
+    },
+    {
+     "c": "Le roi (voice)",
+     "n": "Pascal Mazzotti"
+    },
+    {
+     "c": "Le belluaire / Le haut hurleur (voice)",
+     "n": "Albert Médina"
+    },
+    {
+     "c": "Le liftier / Le speaker (voice)",
+     "n": "Philippe Derrez"
+    },
+    {
+     "c": "Le chef de la police (voice)",
+     "n": "Raymond Bussières"
+    },
+    {
+     "c": "L’aveugle (voice)",
+     "n": "Roger Blin"
+    },
+    {
+     "c": "Le maire du palais (voice)",
+     "n": "Claude Piéplu"
+    },
+    {
+     "c": "Le sentencieux (voice)",
+     "n": "Hubert Deschamps"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Paul Grimault"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 22504,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young shepherdess and a chimneysweep plan to get married and escape the clutches of a tyrannical king in love with her, assisted by the guile of a cheeky mockingbird, the king's archenemy.",
+   "popularity": 1.5613,
+   "poster_path": "/yDbfVUrb9b0Dkm1TptWtzkujXBk.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1980-03-19",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The King and the Mockingbird",
+   "trailer": {
+    "key": "KMnV6KCfOqQ",
+    "name": "THE KING AND THE MOCKINGBIRD Rialto Pictures Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 429
+  },
+  "movie:309304": {
+   "backdrop_path": "/kiVn09vghnscMWMqlX8uoQuXtMW.jpg",
+   "budget": 600000,
+   "cast": [
+    {
+     "c": "Elle",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Sage",
+     "n": "Julia Garner"
+    },
+    {
+     "c": "Judy",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Olivia",
+     "n": "Judy Greer"
+    },
+    {
+     "c": "Deathy",
+     "n": "Laverne Cox"
+    },
+    {
+     "c": "Carla",
+     "n": "Elizabeth Peña"
+    },
+    {
+     "c": "Jill",
+     "n": "Sarah Burns"
+    },
+    {
+     "c": "Bonobo Customer",
+     "n": "Colleen Camp"
+    },
+    {
+     "c": "Doctor",
+     "n": "Lauren Tom"
+    },
+    {
+     "c": "Francesca",
+     "n": "Judy Geeson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Weitz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 309304,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Self-described misanthrope Elle Reid has her protective bubble burst when her 18-year-old granddaughter, Sage, shows up needing help. The two of them go on a day-long journey that causes Elle to come to terms with her past and Sage to confront her future.",
+   "popularity": 1.9792,
+   "poster_path": "/4LW20TF4NfQgHj5rZs0d0cgxRjV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-04",
+   "revenue": 7200000,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Grandma",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 399
+  },
+  "movie:329004": {
+   "backdrop_path": "/9uNxv66tEPnzsKCDPzcIK0ZIgVB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Survivalist",
+     "n": "Martin McCann"
+    },
+    {
+     "c": "Milja",
+     "n": "Mia Goth"
+    },
+    {
+     "c": "Kathryn",
+     "n": "Olwen Fouéré"
+    },
+    {
+     "c": "Snatcher",
+     "n": "Douglas Russell"
+    },
+    {
+     "c": "Augustus",
+     "n": "Andrew Simpson"
+    },
+    {
+     "c": "Crossbow Raider",
+     "n": "Ryan McParland"
+    },
+    {
+     "c": "Watchwoman",
+     "n": "Hussina Raja"
+    },
+    {
+     "c": "Watchman",
+     "n": "Ciaran Flynn"
+    },
+    {
+     "c": "Axe Raider",
+     "n": "Seán Doupe"
+    },
+    {
+     "c": "Raider",
+     "n": "Jeremy Martin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Stephen Fingleton"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 329004,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In a time of starvation, a survivalist lives off a small plot of land hidden deep in forest. When two women seeking food and shelter discover his farm, he finds his existence threatened.",
+   "popularity": 1.5691,
+   "poster_path": "/hd491WgKPxeQus2LnvFbYmyUFmt.jpg",
+   "production_countries": [
+    "GB",
+    "DE",
+    "XI"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-15",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every Stranger Is The Enemy",
+   "title": "The Survivalist",
+   "trailer": {
+    "key": "aH66dngiW0Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 411
+  },
+  "movie:332704": {
+   "backdrop_path": "/yr9UxlMes1AzYUxscoPo7dSmiTv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter Bower",
+     "n": "Adrien Brody"
+    },
+    {
+     "c": "Duncan Stewart",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Barry",
+     "n": "Malcolm Kennard"
+    },
+    {
+     "c": "Elizabeth Valentine",
+     "n": "Chloe Bayliss"
+    },
+    {
+     "c": "Felix",
+     "n": "Bruce Spence"
+    },
+    {
+     "c": "Barbara Henning",
+     "n": "Robin McLeavy"
+    },
+    {
+     "c": "Carol Bower",
+     "n": "Jenni Baird"
+    },
+    {
+     "c": "Erica George",
+     "n": "Anna Lise Phillips"
+    },
+    {
+     "c": "Erica George (ghost)",
+     "n": "Olga Miller"
+    },
+    {
+     "c": "Officer Samuels",
+     "n": "Michael Whalley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Petroni"
+   ],
+   "genres": [
+    "Mystery",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 332704,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Troubled psychotherapist Peter Bowers is suffering from nightmares and eerie visions. When he uncovers a horrifying secret that all of his patients share, he is put on a course that takes him back to the small hometown he fled years ago. There he confronts his demons and unravels a mystery 20 years in the making.",
+   "popularity": 1.3772,
+   "poster_path": "/8L4jifugHPASkrssmOUVdQxn3WN.jpg",
+   "production_countries": [
+    "AU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-25",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nothing haunts like the past.",
+   "title": "Backtrack",
+   "trailer": {
+    "key": "dRuQys74HNQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 421
   },
   "movie:43904": {
    "backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
@@ -1553,6 +2451,186 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 486
+  },
+  "movie:500904": {
+   "backdrop_path": "/nBrGtAxH2u93nzufppND6Nn7HU2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sadie",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Sadie's Husband",
+     "n": "Morgan Spector"
+    },
+    {
+     "c": "Counselor Beverly",
+     "n": "Tonye Patano"
+    },
+    {
+     "c": "Straight Up Shelter Woman",
+     "n": "Judy Marte"
+    },
+    {
+     "c": "Andrea Shaund",
+     "n": "Betsy Aidem"
+    },
+    {
+     "c": "Michael Shaund",
+     "n": "C.J. Wilson"
+    },
+    {
+     "c": "Lawyer",
+     "n": "Chuck Cooper"
+    },
+    {
+     "c": "Zach",
+     "n": "Kyle Catlett"
+    },
+    {
+     "c": "Counseling Group Woman #1",
+     "n": "Estefania Tejeda"
+    },
+    {
+     "c": "Charlene Jackson",
+     "n": "Cheryse Dyllan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sarah Daggar-Nickson"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 500904,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A once-abused woman devotes herself to ridding victims of their domestic abusers while hunting down the one she must kill to be truly free.",
+   "popularity": 2.3499,
+   "poster_path": "/avoKZfgBzyBGJsrAr2WQOwZK978.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-02",
+   "revenue": 83012,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Give her a call, and she'll give you justice.",
+   "title": "A Vigilante",
+   "trailer": {
+    "key": "sMKFx69gjcQ",
+    "name": "A VIGILANTE | Official HD International Trailer | Starring Olivia Wilde",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 425
   },
   "movie:576004": {
    "backdrop_path": "/3ZCwBCB9vTykcxUvBQFRnzPbyEc.jpg",

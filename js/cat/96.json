@@ -1,7 +1,301 @@
 {
  "bucket": "96",
- "count": 33,
+ "count": 38,
  "titles": {
+  "movie:1028196": {
+   "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
+   "budget": 23200000,
+   "cast": [
+    {
+     "c": "Elwood",
+     "n": "Ethan Herisse"
+    },
+    {
+     "c": "Turner",
+     "n": "Brandon Wilson"
+    },
+    {
+     "c": "Hattie",
+     "n": "Aunjanue Ellis-Taylor"
+    },
+    {
+     "c": "Spencer",
+     "n": "Hamish Linklater"
+    },
+    {
+     "c": "Blakeley",
+     "n": "Gralen Bryant Banks"
+    },
+    {
+     "c": "Harper",
+     "n": "Fred Hechinger"
+    },
+    {
+     "c": "Mr. Hill",
+     "n": "Jimmie Fails"
+    },
+    {
+     "c": "Griff",
+     "n": "Luke Tennie"
+    },
+    {
+     "c": "Jaime",
+     "n": "Bryan Gael Guzman"
+    },
+    {
+     "c": "Young Elwood",
+     "n": "Ethan Cole Sharp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "RaMell Ross"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1028196,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
+   "popularity": 2.7373,
+   "poster_path": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-03",
+   "revenue": 3016380,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nickel Boys",
+   "trailer": {
+    "key": "8HZKgYknVN0",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 391
+  },
+  "movie:1158996": {
+   "backdrop_path": "/pq6IdEEXEfrcT8O1dzuqkPCUvVM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Souleymane",
+     "n": "Abou Sangare"
+    },
+    {
+     "c": "Agente de l'OFPRA",
+     "n": "Nina Meurisse"
+    },
+    {
+     "c": "Barry",
+     "n": "Alpha Oumar Sow"
+    },
+    {
+     "c": "Emmanuel",
+     "n": "Emmanuel Yovanie"
+    },
+    {
+     "c": "Khalil",
+     "n": "Younoussa Diallo"
+    },
+    {
+     "c": "Ghislain",
+     "n": "Ghislain Mahan"
+    },
+    {
+     "c": "Mamadou",
+     "n": "Mamadou Barry"
+    },
+    {
+     "c": "Yaya",
+     "n": "Yaya Diallo"
+    },
+    {
+     "c": "Kadiatou",
+     "n": "Keita Diallo"
+    },
+    {
+     "c": "",
+     "n": "Karim Bouziane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Boris Lojkine"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1158996,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "As he pedals through the streets of Paris to deliver meals, Souleymane recounts his story. In two days, he has to go through his asylum application interview, the key to obtaining papers, but Souleymane is not ready.",
+   "popularity": 2.0008,
+   "poster_path": "/ns8tSpfBL63Y5Pi84C6Dzr3vlm4.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-09",
+   "revenue": 4399858,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ff",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Souleymane's Story",
+   "trailer": {
+    "key": "Rbs53_uMw9o",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.502,
+   "vote_count": 417
+  },
   "movie:12596": {
    "backdrop_path": "/9nFpMbSWebfdGlAxFyPHn9eyIvY.jpg",
    "budget": 33000000,
@@ -1247,6 +1541,159 @@
    "vote_average": 7.4,
    "vote_count": 499
   },
+  "movie:30596": {
+   "backdrop_path": "/sclEvlduoGf5io1oLj5UsQLOdKQ.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Li Yutang",
+     "n": "Wang Xueqi"
+    },
+    {
+     "c": "Prof. Chen Xiaobai",
+     "n": "Tony Leung Ka-fai"
+    },
+    {
+     "c": "General Yan Xiaoguo",
+     "n": "Hu Jun"
+    },
+    {
+     "c": "Shum Chung Yang",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Deng Sidi",
+     "n": "Nicholas Tse Ting-fung"
+    },
+    {
+     "c": "Li Chongguang",
+     "n": "Edison Wang"
+    },
+    {
+     "c": "Prince Liu Yubai",
+     "n": "Leon Lai Ming"
+    },
+    {
+     "c": "Stinky Tofu",
+     "n": "Mengke Bateer"
+    },
+    {
+     "c": "Fang Hong",
+     "n": "Chris Lee Yuchun"
+    },
+    {
+     "c": "General Fang Tian",
+     "n": "Simon Yam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Teddy Chen"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "History"
+   ],
+   "id": 30596,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In 1905, revolutionist Sun Yat-sen came to Hong Kong to meet revolutionary comrades. The Qing government sent a group of killers to murder him. Ordinary citizens from all walks of life joined together, blocking the streets and fighting off the assassins to keep Sun Yat-sen safe.",
+   "popularity": 2.3127,
+   "poster_path": "/hEqqA5pSm62IcJ4YJAuMByme3zr.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-12-18",
+   "revenue": 6604537,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "cn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To save a nations future, they must protect one man from its past.",
+   "title": "Bodyguards and Assassins",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 401
+  },
   "movie:438396": {
    "backdrop_path": "/qGZe9qTuydxyJYQ60XDtEckzLR8.jpg",
    "budget": 3268650,
@@ -1350,6 +1797,145 @@
    "type": "movie",
    "vote_average": 6.226,
    "vote_count": 464
+  },
+  "movie:440596": {
+   "backdrop_path": "/wkGVEq3flo1Tz86FPnsC9yNHFOX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carley Allison",
+     "n": "Sarah Fisher"
+    },
+    {
+     "c": "John Servinis",
+     "n": "Luke Bilyk"
+    },
+    {
+     "c": "May Allison",
+     "n": "Chantal Kreviazuk"
+    },
+    {
+     "c": "Mark Allison",
+     "n": "Sergio Di Zio"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Zoë Belkin"
+    },
+    {
+     "c": "Riley Allison",
+     "n": "Brittany Bristow"
+    },
+    {
+     "c": "Sophie",
+     "n": "Naomi Snieckus"
+    },
+    {
+     "c": "Shin",
+     "n": "Denis Akiyama"
+    },
+    {
+     "c": "Samantha Allison",
+     "n": "Julia Tomasone"
+    },
+    {
+     "c": "Olivia",
+     "n": "Lauren Esdale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sean Cisterna"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Music"
+   ],
+   "id": 440596,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A romantic drama based on the story of Carley Allison, a promising 18 year old figure skater and singer who made medical history in her fight against a rare 1 in 3.5 billion type of sarcoma.",
+   "popularity": 0.9071,
+   "poster_path": "/uHErYJ2TfP0ihIEMpD2zCvbVIIB.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-10",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kiss and Cry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 420
   },
   "movie:47796": {
    "backdrop_path": "/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
@@ -1600,6 +2186,160 @@
    "type": "movie",
    "vote_average": 7.155,
    "vote_count": 471
+  },
+  "movie:8696": {
+   "backdrop_path": "/mB23ce4CxfUwSb9Y6YY8NPLyy2E.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Chris Harper",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Annie Clarke",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "John Clarke",
+     "n": "John Alderton"
+    },
+    {
+     "c": "Cora",
+     "n": "Linda Bassett"
+    },
+    {
+     "c": "Jessie",
+     "n": "Annette Crosbie"
+    },
+    {
+     "c": "Lawrence Sertain",
+     "n": "Philip Glenister"
+    },
+    {
+     "c": "Rod Harper",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Celia",
+     "n": "Celia Imrie"
+    },
+    {
+     "c": "Marie",
+     "n": "Geraldine James"
+    },
+    {
+     "c": "Ruth",
+     "n": "Penelope Wilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nigel Cole"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 8696,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Members of a Yorkshire branch of the Women's Institute cause controversy when they pose nude for a charity calendar.",
+   "popularity": 2.0666,
+   "poster_path": "/8vLMUEcXdNKALFU6WuBmkjVNYWv.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-02",
+   "revenue": 96542059,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some ladies will do anything for a good cause.",
+   "title": "Calendar Girls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.528,
+   "vote_count": 424
   },
   "movie:9096": {
    "backdrop_path": "/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",

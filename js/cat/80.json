@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 35,
+ "count": 38,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -118,6 +118,235 @@
    "type": "movie",
    "vote_average": 6.068,
    "vote_count": 447
+  },
+  "movie:1056380": {
+   "backdrop_path": "/7mij6m3a2rmaj7SvQf1dPyu7mqZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jesus",
+     "n": "David Pareja"
+    },
+    {
+     "c": "María",
+     "n": "Estefanía de los Santos"
+    },
+    {
+     "c": "Carlos",
+     "n": "Josep Maria Riera"
+    },
+    {
+     "c": "Cristina",
+     "n": "Claudia Riera"
+    },
+    {
+     "c": "Salesman",
+     "n": "Eduardo Antuña"
+    },
+    {
+     "c": "Ruth",
+     "n": "Gala Flores"
+    },
+    {
+     "c": "Ruth's Mother",
+     "n": "Cristina Dilla"
+    },
+    {
+     "c": "Super's Friend",
+     "n": "Itziar Castro"
+    },
+    {
+     "c": "Super's Friend's Daughter",
+     "n": "Aitana Garcia"
+    },
+    {
+     "c": "Police 1",
+     "n": "Paco Benjumea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Caye Casas"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1056380,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Jesus and María are a couple going through a difficult time in their relationship. Nevertheless, they have just become parents. To shape their new life, they decide to buy a new coffee table. A decision that will change their existence.",
+   "popularity": 2.3683,
+   "poster_path": "/r8S7cc676EfgfUDVQKPrqRlbRFz.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/pxmDUtLdaSCek4LUwme4h7wfsC9.png",
+     "name": "MovieMe",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-11",
+   "revenue": 16630,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Coffee Table",
+   "trailer": {
+    "key": "v4jE5k5Wmzc",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.949,
+   "vote_count": 404
   },
   "movie:11680": {
    "backdrop_path": "/zPGBsl1DvMtr0KEgkdvy1zaWYtp.jpg",
@@ -910,6 +1139,109 @@
    "vote_average": 7.698,
    "vote_count": 81
   },
+  "movie:315880": {
+   "backdrop_path": "/aJDWjM71k7pujvzoaN3U7VfhW09.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Ed Phoerum",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Amy",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Jason",
+     "n": "Simon Johns"
+    },
+    {
+     "c": "Victoria",
+     "n": "Shauna Macdonald"
+    },
+    {
+     "c": "Artist",
+     "n": "Simon Meacock"
+    },
+    {
+     "c": "Rick",
+     "n": "James Warren"
+    },
+    {
+     "c": "Nicholas",
+     "n": "Oscar Sanders"
+    },
+    {
+     "c": "Prescatore Ottavio",
+     "n": "Paolo Calabresi"
+    },
+    {
+     "c": "Angela",
+     "n": "Anna Savva"
+    },
+    {
+     "c": "Mamma di Amy",
+     "n": "Irina Kara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Giuseppe Tornatore"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 315880,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The relationship between Ed, a married astronomer and Amy, his lover, who spend their years apart, is based only on phone calls and texts. One day Amy begins noticing something strange in Ed's messages.",
+   "popularity": 1.4505,
+   "poster_path": "/juvp46Hjpz0FksOXvV28pYM11BK.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-14",
+   "revenue": 3800000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Forbidden love. Undying devotion.",
+   "title": "Correspondence",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 418
+  },
   "movie:3780": {
    "backdrop_path": "/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg",
    "budget": 650000,
@@ -1411,6 +1743,163 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 21
+  },
+  "movie:8080": {
+   "backdrop_path": "/xLfBGBUnEkhwzn1lMRwZNxfregM.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "Thomas Mackelway",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Benjamin O'Ryan",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Fran Kulok",
+     "n": "Carrie-Anne Moss"
+    },
+    {
+     "c": "Rich Charleton",
+     "n": "Harry Lennix"
+    },
+    {
+     "c": "Harold Speck",
+     "n": "Kevin Chamberlin"
+    },
+    {
+     "c": "Highway Patrolman",
+     "n": "Julian Reyes"
+    },
+    {
+     "c": "Raymond Starkey",
+     "n": "Keith Campbell"
+    },
+    {
+     "c": "Loretta",
+     "n": "Chloe Alexa Ibanez"
+    },
+    {
+     "c": "Dolly",
+     "n": "Ellen Blake"
+    },
+    {
+     "c": "Mel",
+     "n": "William B. Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "E. Elias Merhige"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 8080,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A killer is on the loose, and an FBI agent sifts through clues and learns that the bloodthirsty felon's victims of choice are other serial killers.",
+   "popularity": 1.8906,
+   "poster_path": "/7r2iBM6U9rorDlLzcDw8ledAmk0.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-08-27",
+   "revenue": 13000000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who's next?",
+   "title": "Suspect Zero",
+   "trailer": {
+    "key": "EAqJb5iKvGI",
+    "name": "Suspect Zero - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.57,
+   "vote_count": 422
   },
   "movie:94380": {
    "backdrop_path": "/yWaUueQsfojYlA7NQowbcKlj2BE.jpg",

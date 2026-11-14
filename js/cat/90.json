@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 28,
+ "count": 35,
  "titles": {
   "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
@@ -1529,6 +1529,220 @@
    "vote_average": 6.1,
    "vote_count": 464
   },
+  "movie:2290": {
+   "backdrop_path": "/pRYrWzkFqtPUwfEXQcnyvSVRK81.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Jakob Heym",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Mischa",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Lina Kronstein",
+     "n": "Hannah Taylor-Gordon"
+    },
+    {
+     "c": "Max Frankfurter",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Avron",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Kowalsky",
+     "n": "Bob Balaban"
+    },
+    {
+     "c": "Prof. Dr. Kirschbaum",
+     "n": "Armin Mueller-Stahl"
+    },
+    {
+     "c": "Lina's Mother",
+     "n": "Éva Igó"
+    },
+    {
+     "c": "Lina's Father",
+     "n": "István Bálint"
+    },
+    {
+     "c": "Fajngold",
+     "n": "Mark Margolis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Kassovitz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "id": 2290,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1944 Poland, a Jewish shop keeper named Jakob is summoned to ghetto headquarters after being caught out after curfew. While waiting for the German Kommondant, Jakob overhears a German radio broadcast about Russian troop movements. Returned to the ghetto, the shopkeeper shares his information with a friend and then rumors fly that there is a secret radio within the ghetto.",
+   "popularity": 1.9252,
+   "poster_path": "/vvwsvPyQFuQbKKfzNgoRhAcL5ml.jpg",
+   "production_countries": [
+    "FR",
+    "HU",
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-09-16",
+   "revenue": 4956701,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When all hope was lost, he invented it.",
+   "title": "Jakob the Liar",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 427
+  },
+  "movie:248390": {
+   "backdrop_path": "/zKmAOcB6Y0FQd6R1Vm873INJ952.jpg",
+   "budget": 10916704,
+   "cast": [
+    {
+     "c": "Didier",
+     "n": "Fabrice Eboué"
+    },
+    {
+     "c": "Bobo",
+     "n": "Thomas Ngijol"
+    },
+    {
+     "c": "Mr. Pierre",
+     "n": "Franck de la Personne"
+    },
+    {
+     "c": "Jacques Taucard",
+     "n": "Etienne Chicot"
+    },
+    {
+     "c": "Lieutenant Yaya",
+     "n": "Ériq Ebouaney"
+    },
+    {
+     "c": "Jacqueline",
+     "n": "Claudia Tagbo"
+    },
+    {
+     "c": "Leslie Konda",
+     "n": "Ibrahim Koma"
+    },
+    {
+     "c": "Léa",
+     "n": "Hélène Kuhn"
+    },
+    {
+     "c": "Ministre des cabinets",
+     "n": "Pascal N'Zonzi"
+    },
+    {
+     "c": "Femme ministre des cabinets",
+     "n": "Marie-Philomène Nga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Fabrice Eboué",
+    "Lionel Steketee"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 248390,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Leslie Konda young talented French footballer spotted in his teens by Didier , a small-scale agent who was able to take under his wing , has signed its first contract striker in a large Spanish club . At the same time, his growing reputation and its origins Botswanga , small, poor state of Central Africa, earned him an invitation by the President of the Republic in person Babimbi Bobo , a football enthusiast, freshly installed in power after a coup military state. Leslie therefore went for the first time in the country of his ancestors accompanied by Didier to be decorated by the President Bobo which quickly turns out, despite his great humanist discourse be a megalomaniac and paranoid dictator under the bad influence of his wife .dropoff window Hardly have they landed Bobo enters into a sordid deal with Didier put pressure on his player so that it plays for the national team : Crocodiles of Botswanga ...",
+   "popularity": 1.0537,
+   "poster_path": "/hur2WyJDF37HqbmA6NCxPqd3BTy.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-19",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Le Crocodile du Botswanga",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.266,
+   "vote_count": 383
+  },
   "movie:2690": {
    "backdrop_path": "/6j1yeUhtFUVACFjLJXCFLswlcFE.jpg",
    "budget": 5000000,
@@ -1899,6 +2113,733 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 450
+  },
+  "movie:359790": {
+   "backdrop_path": "/uxn2Y3zgi0ejkIFQdLWpNRA0h17.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Lester",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Lillian",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Nate",
+     "n": "Alexander Ludwig"
+    },
+    {
+     "c": "Richard Blackway",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Fitzgerald",
+     "n": "Steve Bacic"
+    },
+    {
+     "c": "Murdoch",
+     "n": "Lochlyn Munro"
+    },
+    {
+     "c": "Whizzer",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Skell",
+     "n": "Aleks Paunovic"
+    },
+    {
+     "c": "Meth Head Girl",
+     "n": "Taylor Hickson"
+    },
+    {
+     "c": "Chris",
+     "n": "Chris Gauthier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Alfredson"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 359790,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman newly returned to her hometown becomes the subject of harassment by a man named Blackway, an ex-cop turned violent crime lord who operates with impunity in this small community on the edge of the wilderness. Forsaken by the local townspeople—and advised by the Sheriff to leave town—Lillian decides instead to take a stand against her sociopathic stalker, and enlists the help of ex-logger Lester and his laconic young sidekick.",
+   "popularity": 1.7391,
+   "poster_path": "/e1ThQ0GGQ2IQ3bwSTR7mB406QV5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-10-03",
+   "revenue": 16458,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes revenge is the only answer.",
+   "title": "Blackway",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.322,
+   "vote_count": 419
+  },
+  "movie:444090": {
+   "backdrop_path": "/iFMARpEJnSQBUDKzKvvRw6ATVF3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Espen Ash Lad",
+     "n": "Vebjørn Enger"
+    },
+    {
+     "c": "Per",
+     "n": "Mads Sjøgård Pettersen"
+    },
+    {
+     "c": "Pål",
+     "n": "Elias Holmen Sørensen"
+    },
+    {
+     "c": "Princess Kristin",
+     "n": "Eili Harboe"
+    },
+    {
+     "c": "Prince Fredrik",
+     "n": "Allan Hyde"
+    },
+    {
+     "c": "Father",
+     "n": "Thorbjørn Harr"
+    },
+    {
+     "c": "The King",
+     "n": "Gard B. Eidsvold"
+    },
+    {
+     "c": "The Queen",
+     "n": "Synnøve Macody Lund"
+    },
+    {
+     "c": "Old Log Lady",
+     "n": "Gisken Armand"
+    },
+    {
+     "c": "Forest Nymph",
+     "n": "Ida Ursin-Holm"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Mikkel Brænne Sandemose"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 444090,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "Espen “Ash Lad”, a poor farmer’s son, embarks on a dangerous quest with his brothers to save the princess from a vile troll known as the Mountain King – in order to collect a reward and save his family’s farm from ruin.",
+   "popularity": 2.4988,
+   "poster_path": "/uyJEfpAflLCkqn6PFHu9EHxmbI6.jpg",
+   "production_countries": [
+    "CZ",
+    "IE",
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-09-29",
+   "revenue": 4522950,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "Something big is coming",
+   "title": "The Ash Lad: In the Hall of the Mountain King",
+   "trailer": {
+    "key": "Chnl8RdG09Q",
+    "name": "Teasertrailer Askeladden - I Dovregubbens hall.",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 419
+  },
+  "movie:567690": {
+   "backdrop_path": "/anl65DJYFyp2m0lXaFvlCrSOT8E.jpg",
+   "budget": 27500000,
+   "cast": [
+    {
+     "c": "Evan Hansen",
+     "n": "Ben Platt"
+    },
+    {
+     "c": "Zoe Murphy",
+     "n": "Kaitlyn Dever"
+    },
+    {
+     "c": "Cynthia Murphy",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Alana Beck",
+     "n": "Amandla Stenberg"
+    },
+    {
+     "c": "Jared Kalwani",
+     "n": "Nik Dodani"
+    },
+    {
+     "c": "Heidi Hansen",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Larry Mora",
+     "n": "Danny Pino"
+    },
+    {
+     "c": "Connor Murphy",
+     "n": "Colton Ryan"
+    },
+    {
+     "c": "Oliver",
+     "n": "DeMarius R. Copes"
+    },
+    {
+     "c": "Gemma",
+     "n": "Liz Kate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stephen Chbosky"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 567690,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.",
+   "popularity": 2.0926,
+   "poster_path": "/83pobg0tx4r4JeLenCAemanpnS2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-24",
+   "revenue": 19133454,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An honest and original story for those lost and then found.",
+   "title": "Dear Evan Hansen",
+   "trailer": {
+    "key": "CjA50VxlxAw",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.226,
+   "vote_count": 390
+  },
+  "movie:641790": {
+   "backdrop_path": "/6ruLsuOD4eI9siHjr4SPKHTpoIa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Madison Taylor",
+     "n": "Nicky Whelan"
+    },
+    {
+     "c": "Lt. Det. Wakes",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Dr. Jones",
+     "n": "Steve Guttenberg"
+    },
+    {
+     "c": "Det. Pierce",
+     "n": "Tito Ortiz"
+    },
+    {
+     "c": "Sergeant Tull",
+     "n": "Texas Battle"
+    },
+    {
+     "c": "CSS Roman",
+     "n": "Roman Mitichyan"
+    },
+    {
+     "c": "Det. Tony Martin",
+     "n": "Tyler Jon Olson"
+    },
+    {
+     "c": "Emily Taylor",
+     "n": "Catherine Davis"
+    },
+    {
+     "c": "Marcos",
+     "n": "Sergio Rizzuto"
+    },
+    {
+     "c": "Renee",
+     "n": "Lala Kent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Eskandari"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 641790,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes's worst fears.",
+   "popularity": 1.9621,
+   "poster_path": "/8K73wvCTBA3XKgZTtOZWgENUnis.jpg",
+   "production_countries": [
+    "PR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-06",
+   "revenue": 92968,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The enemy is closer than you think.",
+   "title": "Trauma Center",
+   "trailer": {
+    "key": "wlJMEoh0FB0",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 414
+  },
+  "movie:736790": {
+   "backdrop_path": "/aityu1Gma509jInlspHstEt8Jg0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Evan Whitten"
+    },
+    {
+     "c": "Chava",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Richard Quinn",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Luna",
+     "n": "Ashley Ciarra"
+    },
+    {
+     "c": "Dr. Juan Carlos Ortega",
+     "n": "Julio Cesar Cedillo"
+    },
+    {
+     "c": "Jumpsuit",
+     "n": "Alex Knight"
+    },
+    {
+     "c": "Memo",
+     "n": "Nickolas Verdugo"
+    },
+    {
+     "c": "Julia",
+     "n": "Adriana Paz"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Gerardo Taracena"
+    },
+    {
+     "c": "Taylor",
+     "n": "Michael Kostroff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jonás Cuarón"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 736790,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While visiting family in Mexico, a lonely boy befriends a mythical creature hiding on his grandfather's ranch and embarks on the adventure of a lifetime.",
+   "popularity": 2.0466,
+   "poster_path": "/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-04-07",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Discover the legend.",
+   "title": "Chupa",
+   "trailer": {
+    "key": "ViKnrHjzgn4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.263,
+   "vote_count": 390
   },
   "movie:739990": {
    "backdrop_path": "/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg",

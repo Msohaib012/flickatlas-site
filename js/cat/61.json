@@ -1,7 +1,135 @@
 {
  "bucket": "61",
- "count": 24,
+ "count": 35,
  "titles": {
+  "movie:10361": {
+   "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Brigitte Fitzgerald",
+     "n": "Emily Perkins"
+    },
+    {
+     "c": "Ginger Fitzgerald",
+     "n": "Katharine Isabelle"
+    },
+    {
+     "c": "Ghost",
+     "n": "Tatiana Maslany"
+    },
+    {
+     "c": "Tyler",
+     "n": "Eric Johnson"
+    },
+    {
+     "c": "Alice",
+     "n": "Janet Kidder"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Brendan Fletcher"
+    },
+    {
+     "c": "Luke",
+     "n": "Chris Fassbender"
+    },
+    {
+     "c": "Beth-Ann",
+     "n": "Pascale Hutton"
+    },
+    {
+     "c": "Dr. Brookner",
+     "n": "Patricia Idlette"
+    },
+    {
+     "c": "Winnie",
+     "n": "Michelle Beaudoin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brett Sullivan"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 10361,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Brigitte has escaped the confines of Bailey Downs but she's not alone. Another werewolf is tailing her closely and her sister's specter haunts her. An overdose of Monkshood - the poison that is keeping her transformation at bay - leads to her being incarcerated in a rehabilitation clinic for drug addicts where her only friend is an eccentric young girl by the name of Ghost.",
+   "popularity": 2.0119,
+   "poster_path": "/no1Qw1jMGrH77fIuWxwYZ7BIhHa.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-01-30",
+   "revenue": 80372,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It only dies if you do.",
+   "title": "Ginger Snaps 2: Unleashed",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.463,
+   "vote_count": 390
+  },
   "movie:1212461": {
    "backdrop_path": "/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
    "budget": 5000,
@@ -176,6 +304,121 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 24
+  },
+  "movie:13061": {
+   "backdrop_path": "/2oqiYVnxApzeGNC7hFprr2EHJdi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Remy (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Emile (voice)",
+     "n": "Peter Sohn"
+    },
+    {
+     "c": "Linguini (voice)",
+     "n": "Lou Romano"
+    },
+    {
+     "c": "Director Voice (voice)",
+     "n": "Jim Capobianco"
+    },
+    {
+     "c": "P.T. Flea (voice) (uncredited)",
+     "n": "John Ratzenberger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jim Capobianco"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 13061,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Let's face it, rats are not the most beloved creatures on earth. However, maybe this little tale about the history of human and rat interaction will change the world's tune. At least that is the hope of Remy, the star of Ratatouille, and his reluctant brother Emile as they guide us through world history from a rat's perspective. Why can't we all just get along?",
+   "popularity": 1.6419,
+   "poster_path": "/sgjkYw2LLdsMzCuhKDZBYbhe7QB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-11-06",
+   "revenue": 0,
+   "runtime": 11,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "HISTORY FROM THE P.O.V OF RATS. *disclaimer*",
+   "title": "Your Friend the Rat",
+   "trailer": {
+    "key": "TDywbNncY_8",
+    "name": "Your Friend The Rat - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 411
   },
   "movie:1375161": {
    "backdrop_path": "/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
@@ -396,6 +639,193 @@
    "type": "movie",
    "vote_average": 7.25,
    "vote_count": 26
+  },
+  "movie:14061": {
+   "backdrop_path": "/fiRxDoAHRLko3ycPtw1EeWaKxTQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vera Phillips",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Caitlin MacNamara",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Dylan Thomas",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "William Killick",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Ruth Williams",
+     "n": "Lisa Stansfield"
+    },
+    {
+     "c": "Lt Col David Talbot Rice",
+     "n": "Richard Dillane"
+    },
+    {
+     "c": "Anita Shenkin",
+     "n": "Anne Lambton"
+    },
+    {
+     "c": "Anthony Devas",
+     "n": "Alastair Mackenzie"
+    },
+    {
+     "c": "Nicolette",
+     "n": "Camilla Rutherford"
+    },
+    {
+     "c": "Alistair Graham",
+     "n": "Richard Clifford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "John Maybury"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 14061,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman.",
+   "popularity": 1.8241,
+   "poster_path": "/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-06-20",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cy",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only thing more dangerous than war... is love.",
+   "title": "The Edge of Love",
+   "trailer": {
+    "key": "8fNabjyaKUo",
+    "name": "The Edge Of Love Trailer - Available on DVD now",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.184,
+   "vote_count": 404
   },
   "movie:1436061": {
    "backdrop_path": "/yU85xdxN3rmt4RgGPb2na1SSjdM.jpg",
@@ -765,6 +1195,205 @@
    "vote_average": 7.411,
    "vote_count": 246
   },
+  "movie:16061": {
+   "backdrop_path": "/6NRBZsOi3sRIbjhYIu1I7IKtqub.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ruka",
+     "n": "Eihi Shiina"
+    },
+    {
+     "c": "Key Man",
+     "n": "Itsuji Itao"
+    },
+    {
+     "c": "Tokyo Police Chief Officer",
+     "n": "Yukihide Benny"
+    },
+    {
+     "c": "Barabara-Man",
+     "n": "Jiji Bû"
+    },
+    {
+     "c": "Independent Bar Owner",
+     "n": "Ikuko Sawada"
+    },
+    {
+     "c": "Dog Girl",
+     "n": "Cay Izumi"
+    },
+    {
+     "c": "Ruka's Father",
+     "n": "Keisuke Horibe"
+    },
+    {
+     "c": "Tokyo Police Commissioner",
+     "n": "Shun Sugata"
+    },
+    {
+     "c": "Koji Tanaka",
+     "n": "Tak Sakaguchi"
+    },
+    {
+     "c": "",
+     "n": "Ayano Yamamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Yoshihiro Nishimura"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 16061,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a futuristic Tokyo where police have been privatized and bitter self-mutilation is so casual that advertising is often specially geared to the 'cutter' demographic, Ruka is on a mission to avenge her father's assassination. Ruka is a cop from a squad whose goal is to destroy homicidal mutant humans known as 'engineers', that possess the ability to transform any injury to a weapon in and of itself.",
+   "popularity": 2.9521,
+   "poster_path": "/d1LqkFMhFO5lfV3uwEpwyTLxXgR.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "AsianCrush"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oPEgKhJZjWEjCjySvwozKQyrNKi.png",
+     "name": "AsianCrush",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qtw1f8sXwc57wAY6l0RuYzMOg4t.png",
+     "name": "RetroCrush Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-04",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Tokyo Is Burning.",
+   "title": "Tokyo Gore Police",
+   "trailer": {
+    "key": "1VqtYgQ0ZXo",
+    "name": "Tokyo Gore Police 2008 Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.037,
+   "vote_count": 389
+  },
   "movie:1641961": {
    "backdrop_path": "/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
    "budget": 0,
@@ -1033,6 +1662,164 @@
    "vote_average": 4.407,
    "vote_count": 27
   },
+  "movie:1961": {
+   "backdrop_path": "/snPM5sBGoZSm8g81yyqxsXmyzP6.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Bruce Campbell",
+     "n": "Bruce Campbell"
+    },
+    {
+     "c": "Jeff",
+     "n": "Taylor Sharpe"
+    },
+    {
+     "c": "Kelly",
+     "n": "Grace Thorsen"
+    },
+    {
+     "c": "Mills Toddner / Wing",
+     "n": "Ted Raimi"
+    },
+    {
+     "c": "Cheryl",
+     "n": "Ellen Sandweiss"
+    },
+    {
+     "c": "Mayor",
+     "n": "Ben McCain"
+    },
+    {
+     "c": "Frank",
+     "n": "Timothy Patrick Quill"
+    },
+    {
+     "c": "Clayton",
+     "n": "Logan Martin"
+    },
+    {
+     "c": "Little Debbie",
+     "n": "Ali Akay"
+    },
+    {
+     "c": "Big Debbie",
+     "n": "Ariel Badenhop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bruce Campbell"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 1961,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "B-movie Legend Bruce Campbell is mistaken for his character Ash from the Evil Dead trilogy and forced to fight a real monster in a small town in Oregon.",
+   "popularity": 1.2243,
+   "poster_path": "/et2f1JBW533ZzYiCEA2T7nwzcs1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-08-15",
+   "revenue": 173066,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fearless! Unstoppable! Ready For His Close-Up!",
+   "title": "My Name Is Bruce",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.798,
+   "vote_count": 386
+  },
   "movie:222461": {
    "backdrop_path": "/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
    "budget": 0,
@@ -1187,6 +1974,238 @@
    "type": "movie",
    "vote_average": 6.379,
    "vote_count": 476
+  },
+  "movie:253161": {
+   "backdrop_path": "/eevB0urLnEpuGSu2GDHXcxEmbaA.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Emma Bovary",
+     "n": "Mia Wasikowska"
+    },
+    {
+     "c": "Monsieur Lheureux",
+     "n": "Rhys Ifans"
+    },
+    {
+     "c": "Leon Dupuis",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "The Marquis",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Charles Bovary",
+     "n": "Henry Lloyd-Hughes"
+    },
+    {
+     "c": "Henriette",
+     "n": "Laura Carmichael"
+    },
+    {
+     "c": "Monsieur Rouault",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Monsieur Homais",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Hippolyte",
+     "n": "Luke Tittensor"
+    },
+    {
+     "c": "L'Abbe Bournisien",
+     "n": "Richard Cordery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sophie Barthes"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 253161,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 19th-century France, doctor's wife Emma Bovary seeks to escape her dull provincial life through various extramarital affairs and extravagant spending, leading to tragic consequences.",
+   "popularity": 1.2914,
+   "poster_path": "/jW0CRLVYOQm0HOh6fZXnW2JKxwF.jpg",
+   "production_countries": [
+    "BE",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-04",
+   "revenue": 658532,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Madame Bovary",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 425
+  },
+  "movie:259761": {
+   "backdrop_path": "/cVntX63U4vSeG1LOO5JDkY0i1Rc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Woman",
+     "n": "Lotta Losten"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "David F. Sandberg"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 259761,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "xx",
+   "overview": "A woman prepares for bed, but realizes that something may be lurking in the shadows.",
+   "popularity": 0.5073,
+   "poster_path": "/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2014-05-10",
+   "revenue": 0,
+   "runtime": 3,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "You shouldn't go to sleep tonight.",
+   "title": "Lights Out",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.287,
+   "vote_count": 413
   },
   "movie:352161": {
    "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
@@ -1464,6 +2483,140 @@
    "type": "movie",
    "vote_average": 5.872,
    "vote_count": 497
+  },
+  "movie:42661": {
+   "backdrop_path": "/uRi6TrBzjXG3IsPqnUP8cz61NRD.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Einar",
+     "n": "Kirk Douglas"
+    },
+    {
+     "c": "Eric",
+     "n": "Tony Curtis"
+    },
+    {
+     "c": "Ragnar",
+     "n": "Ernest Borgnine"
+    },
+    {
+     "c": "Morgana",
+     "n": "Janet Leigh"
+    },
+    {
+     "c": "Lord Egbert",
+     "n": "James Donald"
+    },
+    {
+     "c": "Father Godwin",
+     "n": "Alexander Knox"
+    },
+    {
+     "c": "Enid",
+     "n": "Maxine Audley"
+    },
+    {
+     "c": "Aella",
+     "n": "Frank Thring"
+    },
+    {
+     "c": "Kitala",
+     "n": "Eileen Way"
+    },
+    {
+     "c": "Sandpiper",
+     "n": "Edric Connor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Richard Fleischer"
+   ],
+   "genres": [
+    "Adventure",
+    "History",
+    "Action"
+   ],
+   "id": 42661,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Einar, brutal son of the viking Ragnar and future heir to his throne, tangles with clever slave Eric, for the hand of a beautiful English maiden.",
+   "popularity": 3.2484,
+   "poster_path": "/fagWQmo7VZkjtMchqCu9jR7d6fK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1958-06-28",
+   "revenue": 20311,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mightiest Of Men... Mightiest Of Spectacles... Mightiest Of Motion Pictures!",
+   "title": "The Vikings",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 394
   },
   "movie:49361": {
    "backdrop_path": "/93Q0oOm0j3WHbEAB6S6JBjtVScj.jpg",
@@ -1895,6 +3048,105 @@
    "vote_average": 7.384,
    "vote_count": 453
   },
+  "movie:610461": {
+   "backdrop_path": "/ebKa6nCRkKWU3KIuacEkEe6XSQl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Regina",
+     "n": "Paulina Goto"
+    },
+    {
+     "c": "Andrés",
+     "n": "Jesús Zavala"
+    },
+    {
+     "c": "Juanpa",
+     "n": "Vadhir Derbez"
+    },
+    {
+     "c": "Tábata",
+     "n": "Natalia Téllez"
+    },
+    {
+     "c": "Lorenza",
+     "n": "Ela Velden"
+    },
+    {
+     "c": "Emiliana",
+     "n": "Ana Gonzalez Bello"
+    },
+    {
+     "c": "Manuel",
+     "n": "Juan Carlos Barreto"
+    },
+    {
+     "c": "Santi",
+     "n": "Claudio Roca"
+    },
+    {
+     "c": "Self",
+     "n": "Manelyk González"
+    },
+    {
+     "c": "Judith",
+     "n": "Ariana Saavedra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Noé Santillán-López"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 610461,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Regina, our young protagonist, always dreamed of getting married. And she did it - but the dream lasted much less than she thought and now she has to face life in a very funny way as a divorcee.",
+   "popularity": 1.203,
+   "poster_path": "/oSbCdDI0SAAOdywGe0YVO2iDdV9.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-14",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Veinteañera, divorciada y fantástica",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 393
+  },
   "movie:677561": {
    "backdrop_path": "/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
    "budget": 0,
@@ -2199,6 +3451,241 @@
    "type": "movie",
    "vote_average": 5.559,
    "vote_count": 466
+  },
+  "movie:77561": {
+   "backdrop_path": "/dOeQPKVa9verEARmAzzZd9qb5tp.jpg",
+   "budget": 7971518,
+   "cast": [
+    {
+     "c": "Alex Garel",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "Lana Levi",
+     "n": "Marta Etura"
+    },
+    {
+     "c": "David Garel",
+     "n": "Alberto Ammann"
+    },
+    {
+     "c": "Eva",
+     "n": "Claudia Vega"
+    },
+    {
+     "c": "Julia",
+     "n": "Anne Canovas"
+    },
+    {
+     "c": "Max",
+     "n": "Lluís Homar"
+    },
+    {
+     "c": "Prototype 5.1.9",
+     "n": "Sara Rosa Losilla"
+    },
+    {
+     "c": "Professor",
+     "n": "Manel Dueso"
+    },
+    {
+     "c": "Dorotea",
+     "n": "Ona Casamiquela"
+    },
+    {
+     "c": "Eric",
+     "n": "Peter Vives"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kike Maíllo"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 77561,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "In 2041, humans live side-by-side with robots and androids. A well-known cybernetic engineer, Alex Garel, returns to his hometown to create a new model of robot child.",
+   "popularity": 1.8014,
+   "poster_path": "/9GH6VRhwI5SrD178aqPCI1Xpf4P.jpg",
+   "production_countries": [
+    "FR",
+    "ES",
+    "CH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-28",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ca",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You cannot program what you feel",
+   "title": "EVA",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.383,
+   "vote_count": 427
+  },
+  "movie:878361": {
+   "backdrop_path": "/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+   "budget": 32000000,
+   "cast": [
+    {
+     "c": "George Foreman",
+     "n": "Khris Davis"
+    },
+    {
+     "c": "Doc Broadus",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Muhammad Ali",
+     "n": "Sullivan Jones"
+    },
+    {
+     "c": "Roy Foreman",
+     "n": "Deion Smith"
+    },
+    {
+     "c": "Howard Cosell",
+     "n": "Matthew Glave"
+    },
+    {
+     "c": "Desmond",
+     "n": "John Magaro"
+    },
+    {
+     "c": "Nancy Foreman",
+     "n": "Sonja Sohn"
+    },
+    {
+     "c": "Rev. Virdell Stokes",
+     "n": "Sam Trammell"
+    },
+    {
+     "c": "Archie Moore",
+     "n": "Lawrence Gilliard Jr."
+    },
+    {
+     "c": "Mary Joan",
+     "n": "Jasmine Mathews"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "George Tillman Jr."
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 878361,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+   "popularity": 2.906,
+   "poster_path": "/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-04-27",
+   "revenue": 3800000,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When life gives you a second chance, don't do it for yourself. Do it for everyone you love.",
+   "title": "Big George Foreman",
+   "trailer": {
+    "key": "urKDu40iaXk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.638,
+   "vote_count": 392
   },
   "tv:21561": {
    "backdrop_path": "/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",

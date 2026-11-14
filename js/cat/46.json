@@ -1,7 +1,233 @@
 {
  "bucket": "46",
- "count": 20,
+ "count": 26,
  "titles": {
+  "movie:10946": {
+   "backdrop_path": "/4ADZ2iiATjoKxZwjJRiEo1x6Fk0.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Constantino Romero"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Ulrich Tukur"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Anggun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alastair Fothergill",
+    "Mark Linfield"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 10946,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An epic story of adventure, starring some of the most magnificent and courageous creatures alive, awaits you in EARTH. Disneynature brings you a remarkable story of three animal families on a journey across our planet – polar bears, elephants and humpback whales.",
+   "popularity": 1.8006,
+   "poster_path": "/xybnXW6E28W9agiwUeGLbTYS454.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-10",
+   "revenue": 109000000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The remarkable story of three families.",
+   "title": "Earth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 388
+  },
+  "movie:11246": {
+   "backdrop_path": "/2pGRnOQ6gcDm1MW8qjbVjwJFupF.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Trevor Gooden",
+     "n": "Dean Winters"
+    },
+    {
+     "c": "Kirsty Cotton",
+     "n": "Ashley Laurence"
+    },
+    {
+     "c": "Dr. Allison Dormere",
+     "n": "Rachel Hayward"
+    },
+    {
+     "c": "Gwen Stevens",
+     "n": "Sarah-Jane Redmond"
+    },
+    {
+     "c": "Pinhead / Merchant",
+     "n": "Doug Bradley"
+    },
+    {
+     "c": "Det. Mike Lange",
+     "n": "William S. Taylor"
+    },
+    {
+     "c": "Dr. Ambrose",
+     "n": "Ken Camroux-Taylor"
+    },
+    {
+     "c": "Bret",
+     "n": "Trevor White"
+    },
+    {
+     "c": "Detective Givens",
+     "n": "Michael J. Rogers"
+    },
+    {
+     "c": "Tawny",
+     "n": "Jody Thompson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rick Bota"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 11246,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "After a car crash, a shady stockbroker suffers from amnesia. This leaves him in a hazy limbo of sex and murder. But, as in a predestined journey, he takes the bait and follows the marked-out clues all the way to Pinhead.",
+   "popularity": 1.9338,
+   "poster_path": "/ge4qvedBvuOBgNACtDJK6vGBbSv.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-10-15",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil. Deadly. Immortal.",
+   "title": "Hellraiser: Hellseeker",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.9,
+   "vote_count": 430
+  },
   "movie:1196946": {
    "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
    "budget": 0,
@@ -1122,6 +1348,535 @@
    "type": "movie",
    "vote_average": 7.097,
    "vote_count": 467
+  },
+  "movie:557946": {
+   "backdrop_path": "/6uKXrsdguwZrtG5BL1wBHvxWs3Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Waldo",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Alastair Pinch",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Lorena",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Big Jim Cuddy",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Wilson Sikorsky",
+     "n": "Rupert Friend"
+    },
+    {
+     "c": "Jayne White",
+     "n": "Lucy Fry"
+    },
+    {
+     "c": "Warren Gomes",
+     "n": "Dominic Monaghan"
+    },
+    {
+     "c": "Don Q",
+     "n": "Jacob Scipio"
+    },
+    {
+     "c": "Conady",
+     "n": "Paul Ben-Victor"
+    },
+    {
+     "c": "Swag Dogggg",
+     "n": "Method Man"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Kirkby"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 557946,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A disgraced ex-cop seeks solace by moving to the woods, but his quiet life comes to an end when a private eye recruits him to investigate the murder of an eccentric TV star's wife.",
+   "popularity": 2.0566,
+   "poster_path": "/ud0XdA2xAghDR66j3I84DnNlC2g.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-27",
+   "revenue": 365644,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This city is a bad place to be a good guy.",
+   "title": "Last Looks",
+   "trailer": {
+    "key": "hR2LtOlmhyU",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.782,
+   "vote_count": 401
+  },
+  "movie:567646": {
+   "backdrop_path": "/3MUwpoEnsSNinnzVQ6mynvXBw7T.jpg",
+   "budget": 8120000,
+   "cast": [
+    {
+     "c": "Squad Chief Go",
+     "n": "Ryu Seung-ryong"
+    },
+    {
+     "c": "Detective Jang",
+     "n": "Lee Hanee"
+    },
+    {
+     "c": "Detective Ma",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Detective Young-ho",
+     "n": "Lee Dong-hwi"
+    },
+    {
+     "c": "Detective Jae-hoon",
+     "n": "Gong Myoung"
+    },
+    {
+     "c": "Lee Moo-bae",
+     "n": "Shin Ha-kyun"
+    },
+    {
+     "c": "Ted Chang",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "Police Superintendent",
+     "n": "Kim Eui-sung"
+    },
+    {
+     "c": "Detective Squad Chief Choi",
+     "n": "Song Young-gyu"
+    },
+    {
+     "c": "General Manager Jung",
+     "n": "Heo Joon-seok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Lee Byeong-heon"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 567646,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A drug squad attempts to take down a criminal organization and they must go undercover to do so, so they begin working at a chicken restaurant, that becomes famous for its delicious chicken. Due to the unexpected popularity, the detectives find themselves in a situation they never expected.",
+   "popularity": 5.3666,
+   "poster_path": "/52oLgq2gEiZyDjpJ7tgkGruoQI0.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "CJ ENM Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-23",
+   "revenue": 124652206,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "zh",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Part-time frying chicken, full-time undercover.",
+   "title": "Extreme Job",
+   "trailer": {
+    "key": "HB2e_6D7SDI",
+    "name": "EXTREME JOB Official Int'l Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.165,
+   "vote_count": 387
+  },
+  "movie:575446": {
+   "backdrop_path": "/rCQp2lOfGeiUnXxRk3B3FEq59rC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marianne",
+     "n": "Naian González Norvind"
+    },
+    {
+     "c": "Cristián",
+     "n": "Fernando Cuautle"
+    },
+    {
+     "c": "Daniel",
+     "n": "Diego Boneta"
+    },
+    {
+     "c": "Alan",
+     "n": "Dario Yazbek Bernal"
+    },
+    {
+     "c": "Marta",
+     "n": "Mónica del Carmen"
+    },
+    {
+     "c": "Rolando",
+     "n": "Eligio Meléndez"
+    },
+    {
+     "c": "Pilar",
+     "n": "Patricia Bernal"
+    },
+    {
+     "c": "Tamara",
+     "n": "Claudia Lobo"
+    },
+    {
+     "c": "Reynaldo",
+     "n": "Eduardo Victoria"
+    },
+    {
+     "c": "Marcos",
+     "n": "Xavier Cervantes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michel Franco"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 575446,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.",
+   "popularity": 0.9308,
+   "poster_path": "/v6NodCMzqilx0Xw541P65WFnDfE.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-10-22",
+   "revenue": 1825491,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "New Order",
+   "trailer": {
+    "key": "S_TWI2-xUEg",
+    "name": "Official UK Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 393
+  },
+  "movie:9546": {
+   "backdrop_path": "/hctxhcBs97EyE0vEWA6Ti9kvTOG.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Nick Styles",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Earl Talbott Blake",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Odessa",
+     "n": "Ice-T"
+    },
+    {
+     "c": "Det. Larry Doyle",
+     "n": "Kevin Pollak"
+    },
+    {
+     "c": "D.A. Priscilla Brimleigh",
+     "n": "Lindsay Wagner"
+    },
+    {
+     "c": "Gail Wallens",
+     "n": "Mary Ellen Trainor"
+    },
+    {
+     "c": "Kim",
+     "n": "Josh Evans"
+    },
+    {
+     "c": "Alice",
+     "n": "Victoria Dillard"
+    },
+    {
+     "c": "Reverend Styles",
+     "n": "John Amos"
+    },
+    {
+     "c": "Councilman Farris",
+     "n": "John Cothran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Russell Mulcahy"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action",
+    "Drama"
+   ],
+   "id": 9546,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An attorney is terrorized by the criminal he put away years ago when he was a cop.",
+   "popularity": 2.6552,
+   "poster_path": "/5isHYEcUY0nE90uMhkGrs1nnal.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-10-04",
+   "revenue": 21760000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is one case that's going to be settled out of court.",
+   "title": "Ricochet",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.063,
+   "vote_count": 396
   },
   "tv:1446": {
    "backdrop_path": "/rtJrrlUeiMtzQ6lJLGHHyYHYhnK.jpg",

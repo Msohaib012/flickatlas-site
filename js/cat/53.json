@@ -1,7 +1,114 @@
 {
  "bucket": "53",
- "count": 20,
+ "count": 32,
  "titles": {
+  "movie:1008953": {
+   "backdrop_path": "/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Benj Nielsen",
+     "n": "Mason Thames"
+    },
+    {
+     "c": "Eddie",
+     "n": "Ramon Reed"
+    },
+    {
+     "c": "Connor",
+     "n": "Raphael Alejandro"
+    },
+    {
+     "c": "Bailey",
+     "n": "Isabella Ferreira"
+    },
+    {
+     "c": "Danah 'Koosh' Koushani",
+     "n": "Bardia Seiri"
+    },
+    {
+     "c": "Katrina Aurienna",
+     "n": "Loren Gray"
+    },
+    {
+     "c": "Alyssa Nielsen",
+     "n": "Ali Gallo"
+    },
+    {
+     "c": "Dennis",
+     "n": "Scott MacArthur"
+    },
+    {
+     "c": "Ruby",
+     "n": "Thomas Barbusca"
+    },
+    {
+     "c": "Principal Hutchens",
+     "n": "Kim Hawthorne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Dave Chernin",
+    "John Chernin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1008953,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Their first week of high school. The biggest party of the year. Mistakes will be made as four teenage boys navigate a night of mayhem and debauchery.",
+   "popularity": 3.7124,
+   "poster_path": "/k2ySukuAiAarLns0yttKS3jg85Y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-08-22",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who invited the freshmen?",
+   "title": "Incoming",
+   "trailer": {
+    "key": "E_Vc11HVEYo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.359,
+   "vote_count": 412
+  },
   "movie:10253": {
    "backdrop_path": "/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
    "budget": 32000000,
@@ -266,6 +373,133 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 441
+  },
+  "movie:12253": {
+   "backdrop_path": "/pxz6PBvEGiaT2giDIXekjpfrhwl.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Smoke",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Kid",
+     "n": "Derek Luke"
+    },
+    {
+     "c": "Soul Train",
+     "n": "Orlando Jones"
+    },
+    {
+     "c": "Motherland",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Tina",
+     "n": "Meagan Good"
+    },
+    {
+     "c": "Queenie",
+     "n": "Lisa Bonet"
+    },
+    {
+     "c": "Dogg",
+     "n": "Kid Rock"
+    },
+    {
+     "c": "Half & Half",
+     "n": "Salli Richardson-Whitfield"
+    },
+    {
+     "c": "Anita",
+     "n": "Vanessa Bell Calloway"
+    },
+    {
+     "c": "Stuntman",
+     "n": "Brendan Fehr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Reggie Rock Bythewood"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 12253,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A mythic motorcycle tale of father and son, this is the story of Manuel Galloway, also known as \"the King of Cali\", the president of a motorcycle club whose members are all African-American men, mostly white-collar workers who exchange their suits and ties at night and on weekends for leather outfits and motorcycle helmets.",
+   "popularity": 2.3487,
+   "poster_path": "/frb2Tk7DTBshZ61Or0D3M1kslWL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-01-31",
+   "revenue": 23510601,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Survival of the fastest.",
+   "title": "Biker Boyz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 430
   },
   "movie:1236153": {
    "backdrop_path": "/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
@@ -979,6 +1213,797 @@
    "vote_average": 6.345,
    "vote_count": 42
   },
+  "movie:14353": {
+   "backdrop_path": "/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Shilo Wallace",
+     "n": "Alexa PenaVega"
+    },
+    {
+     "c": "Rotti Largo",
+     "n": "Paul Sorvino"
+    },
+    {
+     "c": "Nathan Wallace / Repo Man",
+     "n": "Anthony Stewart Head"
+    },
+    {
+     "c": "Blind Mag",
+     "n": "Sarah Brightman"
+    },
+    {
+     "c": "Amber Sweet",
+     "n": "Paris Hilton"
+    },
+    {
+     "c": "Luigi Largo",
+     "n": "Bill Moseley"
+    },
+    {
+     "c": "Pavi Largo",
+     "n": "Nivek Ogre"
+    },
+    {
+     "c": "GraveRobber",
+     "n": "Terrance Zdunich"
+    },
+    {
+     "c": "Marni Wallace",
+     "n": "Sarah Power"
+    },
+    {
+     "c": "Jessica Adams",
+     "n": "Jessica Horn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Darren Lynn Bousman"
+   ],
+   "genres": [
+    "Music",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 14353,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo.",
+   "popularity": 2.3696,
+   "poster_path": "/2G5LczM1clXu3byEudWk9w0KDYD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-02-05",
+   "revenue": 198883,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Not Your Parents' Opera.",
+   "title": "Repo! The Genetic Opera",
+   "trailer": {
+    "key": "mqrkJ1OH_5k",
+    "name": "Official Trailer (4K)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 405
+  },
+  "movie:204553": {
+   "backdrop_path": "/bE4XWNy9CZD4TbJoFlRejbjI71X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hwang Sang-jun",
+     "n": "Sul Kyung-gu"
+    },
+    {
+     "c": "James",
+     "n": "Jung Woo-sung"
+    },
+    {
+     "c": "Ha Yoon-joo",
+     "n": "Han Hyo-joo"
+    },
+    {
+     "c": "Jeong Tong",
+     "n": "Kim Byeong-ok"
+    },
+    {
+     "c": "Department Head Lee",
+     "n": "Jin Kyung"
+    },
+    {
+     "c": "Squirrel",
+     "n": "JUNHO"
+    },
+    {
+     "c": "Man in Suit",
+     "n": "Simon Yam"
+    },
+    {
+     "c": "Monkey",
+     "n": "Son Min-seok"
+    },
+    {
+     "c": "Snake",
+     "n": "Kim Dae-jin"
+    },
+    {
+     "c": "Sloth",
+     "n": "Lee Tae-hyung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "IIB",
+   "date_kind": "release",
+   "director": [
+    "Kim Byung-seo",
+    "Cho Ui-seok"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Thriller"
+   ],
+   "id": 204553,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Ha Yoon-ju becomes the newest member of a unit within the Korean Police Forces Special Crime Department that specializes in surveillance activities on high-profile criminals. She teams up with Hwang Sang-jun, the veteran leader of the unit, and tries to track down James who is the cold-hearted leader of an armed criminal organization.",
+   "popularity": 2.6365,
+   "poster_path": "/bAFMP3p06OAbEcOdPpmtP143oSO.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Kocowa"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+     "name": "Kocowa",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-07-03",
+   "revenue": 37795598,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Remember everything about the untraceable target.",
+   "title": "Cold Eyes",
+   "trailer": {
+    "key": "SH15-Aj57fc",
+    "name": "COLD EYES Trailer | Festival 2013",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.532,
+   "vote_count": 390
+  },
+  "movie:26953": {
+   "backdrop_path": "/drNqIJYcrjBUiq5NGDtVISSR0Kk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Whitaker",
+     "n": "Paul Le Mat"
+    },
+    {
+     "c": "Andre Toulon",
+     "n": "William Hickey"
+    },
+    {
+     "c": "Dana Hadley",
+     "n": "Irene Miracle"
+    },
+    {
+     "c": "Neil Gallagher",
+     "n": "Jimmie F. Skaggs"
+    },
+    {
+     "c": "Megan Gallagher",
+     "n": "Robin Frates"
+    },
+    {
+     "c": "Frank Forrester",
+     "n": "Matt Roe"
+    },
+    {
+     "c": "Carlissa Stamford",
+     "n": "Kathryn O'Reilly"
+    },
+    {
+     "c": "Theresa",
+     "n": "Mews Small"
+    },
+    {
+     "c": "Woman at Carnival",
+     "n": "Barbara Crampton"
+    },
+    {
+     "c": "Man at Carnival",
+     "n": "David Boyd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Schmoeller"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 26953,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being contacted by their mysterious former colleague, four psychics arrive at a secluded hotel where they are stalked by a group of murderous puppets.",
+   "popularity": 2.5991,
+   "poster_path": "/6bcRspKbsM21HqLcxIBANbts3X7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Full Moon Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9RAN991ZXQLf32nKmpxns1xmaCs.png",
+     "name": "Full Moon Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-10-12",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil comes in all sizes.",
+   "title": "Puppetmaster",
+   "trailer": {
+    "key": "Sf5d44T-RNc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.839,
+   "vote_count": 416
+  },
+  "movie:28053": {
+   "backdrop_path": "/vy0vzHqPF4PsEip4IF4zwhKNy4P.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Vince Rizzo",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Joyce Rizzo",
+     "n": "Julianna Margulies"
+    },
+    {
+     "c": "Tony",
+     "n": "Steven Strait"
+    },
+    {
+     "c": "Molly Charlesworth",
+     "n": "Emily Mortimer"
+    },
+    {
+     "c": "Vince Jr.",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "Vivian Rizzo",
+     "n": "Dominik Garcia"
+    },
+    {
+     "c": "Denise",
+     "n": "Carrie Baker Reynolds"
+    },
+    {
+     "c": "Cheryl",
+     "n": "Hope Glendon-Ross"
+    },
+    {
+     "c": "Michael Malakov",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Bruno",
+     "n": "Louis Mustillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Raymond De Felitta"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 28053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Rizzos, a family who doesn't share their habits, aspirations, and careers with one another, find their delicate web of lies disturbed by the arrival of a young ex-con brought home by Vince, the patriarch of the family, who is a corrections officer in real life, and a hopeful actor in private.",
+   "popularity": 1.5986,
+   "poster_path": "/t7LJY2LCcGRLP9E4QbwBkLpZ2W7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-03-06",
+   "revenue": 7875862,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Truth is stranger than family",
+   "title": "City Island",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.94,
+   "vote_count": 415
+  },
+  "movie:308453": {
+   "backdrop_path": "/57b4FmA9aSNE6wiL439DlKFS5TY.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Hope Annabelle Greggory",
+     "n": "Melissa Rauch"
+    },
+    {
+     "c": "Stan Greggory",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Ben Lawfort",
+     "n": "Thomas Middleditch"
+    },
+    {
+     "c": "Lance Tucker",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Janice Townsend",
+     "n": "Cecily Strong"
+    },
+    {
+     "c": "Maggie Townsend",
+     "n": "Haley Lu Richardson"
+    },
+    {
+     "c": "Doris",
+     "n": "Dale Raoul"
+    },
+    {
+     "c": "Heath Parker",
+     "n": "Craig Kilborn"
+    },
+    {
+     "c": "Dominique Dawes",
+     "n": "Dominique Dawes"
+    },
+    {
+     "c": "Olga Korbut",
+     "n": "Olga Korbut"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bryan Buckley"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 308453,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 2004, Hope Ann Greggory became an American hero after winning the bronze medal for the women's gymnastics team. Today, she's still living in her small hometown, washed-up and embittered. Stuck in the past, Hope must reassess her life when a promising young gymnast threatens her local celebrity status.",
+   "popularity": 1.726,
+   "poster_path": "/Ah2nD3Kml59svErVsz6DUsxlJ8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-22",
+   "revenue": 615816,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's no place like third.",
+   "title": "The Bronze",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.035,
+   "vote_count": 410
+  },
   "movie:39053": {
    "backdrop_path": "/tZP2xJaUgCFByVMDYHyEOJiCSX6.jpg",
    "budget": 7000000,
@@ -1131,6 +2156,254 @@
    "vote_average": 5.9,
    "vote_count": 480
   },
+  "movie:392553": {
+   "backdrop_path": "/zCQC3FgiFxg4amid5rWLVvguZlk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Joshua Fields Millburn"
+    },
+    {
+     "c": "Self",
+     "n": "Ryan Nicodemus"
+    },
+    {
+     "c": "Self",
+     "n": "Dan Harris"
+    },
+    {
+     "c": "Self",
+     "n": "Joshua Becker"
+    },
+    {
+     "c": "Self",
+     "n": "Shannon Whitehead"
+    },
+    {
+     "c": "Self",
+     "n": "Sam Harris"
+    },
+    {
+     "c": "Self",
+     "n": "Rick Hanson"
+    },
+    {
+     "c": "Self",
+     "n": "Jay Austin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Matt D'Avella"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 392553,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "How might your life be better with less? The popular simple-living duo The Minimalists examines the many flavors of minimalism by taking the audience inside the lives of minimalists from various walks of life.",
+   "popularity": 1.1307,
+   "poster_path": "/2QXHf52RxGbw1PYrCtbD99iZdBV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-26",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How might life be better with less?",
+   "title": "Minimalism: A Documentary About the Important Things",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.58,
+   "vote_count": 425
+  },
+  "movie:461053": {
+   "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellen Dwyer",
+     "n": "Adrianne Palicki"
+    },
+    {
+     "c": "Scorpion",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Ward",
+     "n": "Ty Olsson"
+    },
+    {
+     "c": "Carley",
+     "n": "Pascale Hutton"
+    },
+    {
+     "c": "Travis Hall",
+     "n": "Sam Jaeger"
+    },
+    {
+     "c": "Simone",
+     "n": "Monique Ganderton"
+    },
+    {
+     "c": "Sophia Gutierrez",
+     "n": "Kyra Zagorsky"
+    },
+    {
+     "c": "Chu",
+     "n": "Olivia Cheng"
+    },
+    {
+     "c": "Hooks",
+     "n": "Zahf Paroo"
+    },
+    {
+     "c": "York",
+     "n": "Aren Buchholz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tony Giglio"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 461053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.",
+   "popularity": 3.2251,
+   "poster_path": "/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-01",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "S.W.A.T.: Under Siege",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 415
+  },
   "movie:618353": {
    "backdrop_path": "/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg",
    "budget": 0,
@@ -1242,6 +2515,390 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 498
+  },
+  "movie:748853": {
+   "backdrop_path": "/fjRlDPqo2qqMBoUItMtTDZe9kvZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Martin Lowery",
+     "n": "Joel Fry"
+    },
+    {
+     "c": "Alma",
+     "n": "Ellora Torchia"
+    },
+    {
+     "c": "Dr. Olivia Wendle",
+     "n": "Hayley Squires"
+    },
+    {
+     "c": "Zach Whitehead",
+     "n": "Reece Shearsmith"
+    },
+    {
+     "c": "Lord James Karel",
+     "n": "John Hollingworth"
+    },
+    {
+     "c": "Dr. Frank Jarrek",
+     "n": "Mark Monero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Wheatley"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 748853,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to reach test site ATU327A, a research hub deep in the Arboreal Forest. The arduous journey, guided by park scout Alma, is set back by a nighttime attack that leaves the two bruised and shoeless. When they run into Zach, a man living off the grid, they gratefully accept his help. Zach’s intentions aren’t exactly what they seem, however, and a path out of the forest and into safety quickly fades as the line between myth and science blurs.",
+   "popularity": 1.6336,
+   "poster_path": "/a2e9GLb14xX1DFv80nsioci5Zld.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-16",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nature is a force of evil.",
+   "title": "In the Earth",
+   "trailer": {
+    "key": "3Lqkfo7IymU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 413
+  },
+  "movie:828853": {
+   "backdrop_path": "/42975nYxawMHta0yoAtwm6ZPy0L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Johnny Knoxville"
+    },
+    {
+     "c": "Self",
+     "n": "Steve-O"
+    },
+    {
+     "c": "Self",
+     "n": "Chris Pontius"
+    },
+    {
+     "c": "Self",
+     "n": "Dave England"
+    },
+    {
+     "c": "Self",
+     "n": "Ehren McGhehey"
+    },
+    {
+     "c": "Self",
+     "n": "Jason 'Wee Man' Acuña"
+    },
+    {
+     "c": "Self",
+     "n": "Preston Lacy"
+    },
+    {
+     "c": "Self",
+     "n": "Zach Holmes"
+    },
+    {
+     "c": "Self",
+     "n": "Sean McInerney"
+    },
+    {
+     "c": "Self",
+     "n": "Davon 'Jasper' Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R18+",
+   "date_kind": "release",
+   "director": [
+    "Jeff Tremaine"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Documentary"
+   ],
+   "id": 828853,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Through outrageous, never-before-seen footage, witness the making of the Jackass crew's last go at wild stunts.",
+   "popularity": 2.1135,
+   "poster_path": "/bl686OSeMQOvs90IQAgt8QipCsB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-05-20",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jackass 4.5",
+   "trailer": {
+    "key": "p74bzf-beGc",
+    "name": "jackass forever | Final Trailer (2022 Movie)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.432,
+   "vote_count": 434
+  },
+  "movie:8653": {
+   "backdrop_path": "/kUM5b2y1eveCOINZmq6FWFb2Iob.jpg",
+   "budget": 50000,
+   "cast": [
+    {
+     "c": "Hyun-shik",
+     "n": "Kim Yu-seok"
+    },
+    {
+     "c": "Hee-jin",
+     "n": "Suh Jung"
+    },
+    {
+     "c": "Eun-ah",
+     "n": "Seo Won"
+    },
+    {
+     "c": "Dal-soo",
+     "n": "Son Min-seok"
+    },
+    {
+     "c": "Mang-chee",
+     "n": "Cho Jae-hyun"
+    },
+    {
+     "c": "Middle-aged Man",
+     "n": "Jang Hang-seon"
+    },
+    {
+     "c": "Jeong-ah",
+     "n": "Han Ji-sun"
+    },
+    {
+     "c": "Fisherman #1",
+     "n": "Yoon Hee-won"
+    },
+    {
+     "c": "Fisherman #2",
+     "n": "No Jin-won"
+    },
+    {
+     "c": "Detective #1",
+     "n": "Yang Young-jo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Kim Ki-duk"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 8653,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Mute Hee-Jin is working as a clerk in a fishing resort in the Korean wilderness; selling baits, food and occasionally her body to the fishing tourists. One day she falls in love with Hyun-Shik, who is on the run from the police, and rescues him with a fish hook when he tries to commit suicide.",
+   "popularity": 2.372,
+   "poster_path": "/zl8QGUiyjkdS7JNoPeXB7HLzYJR.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-04-22",
+   "revenue": 24963,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "A beautiful yet dangerous place...",
+   "title": "The Isle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.895,
+   "vote_count": 390
   },
   "movie:892153": {
    "backdrop_path": "/q1NXVYTqSStNQsnKrCvtU6NPzEk.jpg",

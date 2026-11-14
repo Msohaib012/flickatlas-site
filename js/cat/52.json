@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 33,
+ "count": 41,
  "titles": {
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -160,6 +160,351 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 447
+  },
+  "movie:11052": {
+   "backdrop_path": "/eZhgY71I2kOkKgYckYHuLncsVlX.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Yugi Mutou / Yami Yugi (voice)",
+     "n": "Dan Green"
+    },
+    {
+     "c": "Seto Kaiba (voice)",
+     "n": "Eric Stuart"
+    },
+    {
+     "c": "Anubis (voice)",
+     "n": "Scott Rayow"
+    },
+    {
+     "c": "Joey Wheeler (voice)",
+     "n": "Wayne Grayson"
+    },
+    {
+     "c": "Tristan Taylor (voice)",
+     "n": "Gregory Abbey"
+    },
+    {
+     "c": "Téa Gardner (voice)",
+     "n": "Amy Birnbaum"
+    },
+    {
+     "c": "Mokuba Kaiba (voice)",
+     "n": "Tara Sands"
+    },
+    {
+     "c": "Solomon Muto (voice)",
+     "n": "Maddie Blaustein"
+    },
+    {
+     "c": "Maximillion Pegasus (voice)",
+     "n": "Darren Dunstan"
+    },
+    {
+     "c": "Additional Voices",
+     "n": "Christopher Collet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hatsuki Tsuji"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 11052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi’s mysterious alter ego – the ancient Pharaoh – has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.",
+   "popularity": 2.344,
+   "poster_path": "/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Retrocrush"
+    },
+    {
+     "name": "Shahid VIP"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqXjcTVXpOVHF3IfWo9siRZkLXo.png",
+     "name": "Retrocrush",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+     "name": "Shahid VIP",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qtw1f8sXwc57wAY6l0RuYzMOg4t.png",
+     "name": "RetroCrush Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-08-13",
+   "revenue": 29266490,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everything else was just practice!",
+   "title": "Yu-Gi-Oh! The Movie",
+   "trailer": {
+    "key": "Y9UP2lz0w0E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 390
+  },
+  "movie:1252": {
+   "backdrop_path": "/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Elmer Robinson",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Det. Charles Hilderbrandt",
+     "n": "James Gandolfini"
+    },
+    {
+     "c": "Ray Fernandez",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Martha Beck",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Det. Reilly",
+     "n": "Scott Caan"
+    },
+    {
+     "c": "Rene Fodie",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "D.A. Hunt",
+     "n": "Michael Gaston"
+    },
+    {
+     "c": "Eddie Robinson",
+     "n": "Dan Byrd"
+    },
+    {
+     "c": "Janet Long",
+     "n": "Alice Krige"
+    },
+    {
+     "c": "Delphine Downing",
+     "n": "Dagmara Dominczyk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Robinson"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Romance"
+   ],
+   "id": 1252,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the late 1940s, a murderous couple known as the 'The Lonely Hearts Killers' kills close to a dozen people. Two detectives try to nab the duo who find their targets via the personals in the paper.",
+   "popularity": 1.7104,
+   "poster_path": "/qnQK4JUwEUFDKt7dSMY2fJmhv2f.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-04-30",
+   "revenue": 2520000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "True love can be murder.",
+   "title": "Lonely Hearts",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.045,
+   "vote_count": 397
   },
   "movie:1421552": {
    "backdrop_path": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
@@ -394,6 +739,95 @@
    "type": "movie",
    "vote_average": 7.328,
    "vote_count": 238
+  },
+  "movie:164052": {
+   "backdrop_path": "/zURTkqYGHfEUUPLsUTHLxktiNom.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sidney",
+     "n": "Billy Mayo"
+    },
+    {
+     "c": "Isaiah",
+     "n": "Brandon Greenhouse"
+    },
+    {
+     "c": "Joan",
+     "n": "Angela Bullock"
+    },
+    {
+     "c": "Young Isaiah",
+     "n": "Carlon Jeffery"
+    },
+    {
+     "c": "Grace",
+     "n": "Connie Jackson"
+    },
+    {
+     "c": "Marianne",
+     "n": "Danièle Watts"
+    },
+    {
+     "c": "Mr. McGill",
+     "n": "John C. Johnson"
+    },
+    {
+     "c": "Mrs. Freeman",
+     "n": "Reatha Grey"
+    },
+    {
+     "c": "Howard",
+     "n": "Stanley Bennett Clay"
+    },
+    {
+     "c": "Howie",
+     "n": "Casey Desmond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "festival",
+   "director": [
+    "Ari Aster"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 164052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A suburban father gets trapped in a one-sided incestuous relationship with his abusive son.",
+   "popularity": 1.6557,
+   "poster_path": "/ac2GXs7rJ7eQBKcvjRA3VDSNxA4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-01-22",
+   "revenue": 0,
+   "runtime": 30,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Help.",
+   "title": "The Strange Thing About the Johnsons",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.811,
+   "vote_count": 407
   },
   "movie:1688652": {
    "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
@@ -837,6 +1271,185 @@
    "type": "movie",
    "vote_average": 4.51,
    "vote_count": 491
+  },
+  "movie:317952": {
+   "backdrop_path": "/lHFsMi0uprGSD25sIR1OVeqFiFR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Himself",
+     "n": "Robert Hetrick"
+    },
+    {
+     "c": "Himself",
+     "n": "José Manuel Mireles Valverde"
+    },
+    {
+     "c": "Self (as Tim 'Nailer' Foley)",
+     "n": "Tim Nailer Foley"
+    },
+    {
+     "c": "Self - Autodefensas Comandante",
+     "n": "Paco Valenciano"
+    },
+    {
+     "c": "Self - drug cartel thug",
+     "n": "Chaneque"
+    },
+    {
+     "c": "Self - drug cartel thug",
+     "n": "Caballo"
+    },
+    {
+     "c": "Self",
+     "n": "Enrique Peña Nieto"
+    },
+    {
+     "c": "Self - Manuel Mireles' wife",
+     "n": "Ana Valencia"
+    },
+    {
+     "c": "Self - spokesman, Autodefensas",
+     "n": "Estanislao Beltránin"
+    },
+    {
+     "c": "Self - Tim Foley's girlfriend",
+     "n": "Janet Fields"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matthew Heineman"
+   ],
+   "genres": [
+    "Drama",
+    "Documentary"
+   ],
+   "id": 317952,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the Mexican state of Michoacán, Dr. Jose Mireles, a small-town physician known as \"El Doctor,\" shepherds a citizen uprising against the Knights Templar, the violent drug cartel that has wreaked havoc on the region for years. Meanwhile, in Arizona's Altar Valley—a narrow, 52-mile-long desert corridor known as Cocaine Alley—Tim \"Nailer\" Foley, an American veteran, heads a small paramilitary group called Arizona Border Recon, whose goal is to halt Mexico’s drug wars from seeping across our border.",
+   "popularity": 1.5599,
+   "poster_path": "/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-03",
+   "revenue": 1145923,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cartel Land",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.174,
+   "vote_count": 384
   },
   "movie:35052": {
    "backdrop_path": "/xJO5o209Ok1p0uJafkk1WHtrUJH.jpg",
@@ -1334,6 +1947,229 @@
    "vote_average": 6.6,
    "vote_count": 452
   },
+  "movie:788752": {
+   "backdrop_path": "/d0YSRmp819pMRnKLfGMgAQchpnR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thale Berg",
+     "n": "Elli Rhiannon Müller Osborne"
+    },
+    {
+     "c": "Liv Berg",
+     "n": "Liv Mjönes"
+    },
+    {
+     "c": "Arthur Berg",
+     "n": "Vidar Magnussen"
+    },
+    {
+     "c": "Jenny Berg",
+     "n": "Mia Fosshaug Laubacher"
+    },
+    {
+     "c": "William Nordvaag",
+     "n": "Arthur Hakalahti"
+    },
+    {
+     "c": "Jonas Larson",
+     "n": "Sjur Vatne Brean"
+    },
+    {
+     "c": "Eilert Sundas",
+     "n": "Øyvind Brandtzæg"
+    },
+    {
+     "c": "Lars Brodin",
+     "n": "Ståle Bjørnhaug"
+    },
+    {
+     "c": "Torgersen",
+     "n": "Sverre Breivik"
+    },
+    {
+     "c": "Tove Gran",
+     "n": "Anna Dworak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stig Svendsen"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 788752,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "After witnessing a grotesque murder at a party in her new town, a teenager starts having strange visions and bizarre desires.",
+   "popularity": 1.7345,
+   "poster_path": "/2sJgljCEHQxuHbCJK6p15zM9vVM.jpg",
+   "production_countries": [
+    "NO",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-11-18",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "All werewolves have a story. This is the Norwegian one.",
+   "title": "Viking Wolf",
+   "trailer": {
+    "key": "6sxnOLRGkhw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.803,
+   "vote_count": 385
+  },
+  "movie:823452": {
+   "backdrop_path": "/gub9e0qRZWmmzTV77A6T95HELIF.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Coach Al Ulbrickson",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Joe Rantz",
+     "n": "Callum Turner"
+    },
+    {
+     "c": "George Pocock",
+     "n": "Peter Guinness"
+    },
+    {
+     "c": "Roger Morris",
+     "n": "Sam Strike"
+    },
+    {
+     "c": "Chuck Day",
+     "n": "Thomas Elms"
+    },
+    {
+     "c": "Don Hume",
+     "n": "Jack Mulhern"
+    },
+    {
+     "c": "Bobby Moch",
+     "n": "Luke Slattery"
+    },
+    {
+     "c": "Shorty Hunt",
+     "n": "Bruce Herbelin-Earle"
+    },
+    {
+     "c": "Jim McMillin",
+     "n": "Wil Coban"
+    },
+    {
+     "c": "Johnny White",
+     "n": "Tom Varey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "George Clooney"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 823452,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The triumphant underdog story of the University of Washington men's rowing team, who stunned the world by competing at the 1936 Berlin Olympics.",
+   "popularity": 2.9057,
+   "poster_path": "/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-12-25",
+   "revenue": 54401583,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Believe in the impossible. Believe in each other.",
+   "title": "The Boys in the Boat",
+   "trailer": {
+    "key": "dfEA-udzjjQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.243,
+   "vote_count": 393
+  },
   "movie:843352": {
    "backdrop_path": "/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
    "budget": 4500000,
@@ -1453,6 +2289,279 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 90
+  },
+  "movie:862552": {
+   "backdrop_path": "/int6tqvL97k6S9JCSPAVnwebg0F.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Dr. Mackles",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Detective Lucas Boyd",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Randoku",
+     "n": "Vernon Davis"
+    },
+    {
+     "c": "Captain Marchand",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Inspector Mario Lavazzi",
+     "n": "Giuseppe Zeno"
+    },
+    {
+     "c": "Detective Kersch",
+     "n": "Murielle Hilaire"
+    },
+    {
+     "c": "Detective Claussen",
+     "n": "Luke Stratte-McClure"
+    },
+    {
+     "c": "Shelby Farner",
+     "n": "Brian Kurlander"
+    },
+    {
+     "c": "Doctor Mannheim",
+     "n": "Julie Lott Gallo"
+    },
+    {
+     "c": "Katie Franklin",
+     "n": "Destiny Loren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Gallo"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Action",
+    "Drama"
+   ],
+   "id": 862552,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unable to process the death of his daughter, Detective Boyd embarks on a hunt for a serial killer who murders according to a brutal tribal ritual: Muti. The only person who can help Boyd is Professor Mackles, an anthropologist who hides an unspeakable secret. The line between sanity and madness thins as Boyd goes deeper into the killer’s world.",
+   "popularity": 3.3329,
+   "poster_path": "/1VtHaELqLMovl8EueBWHDtihhzF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-03-09",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Ritual Killer",
+   "trailer": {
+    "key": "DIa__DpZX9U",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.843,
+   "vote_count": 391
+  },
+  "movie:919952": {
+   "backdrop_path": "/r1V9AU5da9PiKwxxbK5HFuTTuxF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aldo",
+     "n": "Aldo Baglio"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Giovanni Storti"
+    },
+    {
+     "c": "Giacomo",
+     "n": "Giacomo Poretti"
+    },
+    {
+     "c": "Lietta",
+     "n": "Antonella Attili"
+    },
+    {
+     "c": "Valentina",
+     "n": "Elena Lietti"
+    },
+    {
+     "c": "Margherita",
+     "n": "Lucia Mascino"
+    },
+    {
+     "c": "Caterina",
+     "n": "Margherita Mannino"
+    },
+    {
+     "c": "Elio",
+     "n": "Giovanni Anzaldo"
+    },
+    {
+     "c": "Il Maître",
+     "n": "Pietro Ragusa"
+    },
+    {
+     "c": "Don Francesco",
+     "n": "Francesco Brandi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Massimo Venier"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 919952,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In a large villa on Lake Como, everything is ready to celebrate Elio and Caterina's wedding. It will be the most beautiful day of their lives and also of their parents' lives, especially their respective fathers, Giacomo and Giovanni. Too bad that together with Margherita, Giovanni's ex-wife and mother of the bride, Aldo, her new partner, also arrives at the wedding. Friendly, outgoing and above all a total troublemaker. Giacomo and Giovanni try to contain him in every way, but under Aldo's blows, cracks open up from which a hidden malaise emerges, destined to call into question the friendship between Giovanni and Giacomo, their marriages and more. And that will force everyone to deal with their own doubts and with the courage it takes to allow themselves happiness.",
+   "popularity": 0.3413,
+   "poster_path": "/2DyTIexH2TMfmy3jArpifBANRh6.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-12-22",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Great Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.194,
+   "vote_count": 395
   },
   "tv:129552": {
    "backdrop_path": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",

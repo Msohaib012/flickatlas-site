@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 34,
+ "count": 40,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -210,6 +210,131 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 469
+  },
+  "movie:10631": {
+   "backdrop_path": "/eX3kXD0Z2z6inMWl4UfLbjvje7S.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roger Cobb",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Edwina Cutwater",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Terry Hoskins",
+     "n": "Victoria Tennant"
+    },
+    {
+     "c": "Peggy Schuyler",
+     "n": "Madolyn Smith Osborne"
+    },
+    {
+     "c": "Prahka Lasa",
+     "n": "Richard Libertini"
+    },
+    {
+     "c": "Burton Schuyler",
+     "n": "Dana Elcar"
+    },
+    {
+     "c": "Tyrone Wattell",
+     "n": "Jason Bernard"
+    },
+    {
+     "c": "Margo",
+     "n": "Selma Diamond"
+    },
+    {
+     "c": "Fred Hoskins",
+     "n": "Eric Christmas"
+    },
+    {
+     "c": "Fulton Norris",
+     "n": "Gailard Sartain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Carl Reiner"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 10631,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Just before stubborn millionaire Edwina Cutwater dies, she asks her uptight lawyer, Roger Cobb, to amend her will so that her soul will pass to the young, vibrant Terry Hoskins – but the spiritual transference goes awry. Edwina enters Roger's body instead, forcing him to battle Edwina for control of his own being.",
+   "popularity": 2.1779,
+   "poster_path": "/cBD3GQiFoCHqb71vrxrMicuJNWP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-09-21",
+   "revenue": 36403064,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They say that behind every great man there's a woman. But in this case it's ridiculous.",
+   "title": "All of Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.514,
+   "vote_count": 399
   },
   "movie:1159831": {
    "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
@@ -1587,6 +1712,130 @@
    "vote_average": 6.68,
    "vote_count": 472
   },
+  "movie:361931": {
+   "backdrop_path": "/fUO2MHIKGFfMEctfxzpFZBfjsT3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Cristiano Ronaldo"
+    },
+    {
+     "c": "Self",
+     "n": "Dolores Aveiro"
+    },
+    {
+     "c": "Self",
+     "n": "Hugo Aveiro"
+    },
+    {
+     "c": "Self",
+     "n": "Lionel Messi"
+    },
+    {
+     "c": "Self",
+     "n": "Jorge Mendes"
+    },
+    {
+     "c": "Self",
+     "n": "Cristiano Ronaldo Jr."
+    },
+    {
+     "c": "Self",
+     "n": "Ricardo Regufe"
+    },
+    {
+     "c": "Self",
+     "n": "Florentino Pérez"
+    },
+    {
+     "c": "Self",
+     "n": "Miguel Paixão"
+    },
+    {
+     "c": "Self",
+     "n": "José Semedo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Anthony Wonke"
+   ],
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "id": 361931,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Filmed over 14 months with unprecedented access into the inner circle of the man and the sport, this is the first official and fully authorised film of one of the most celebrated figures in football.  For the first time ever, the world gets vividly candid and un-paralleled, behind-closed-doors access to the footballer, father, family-man and friend in this moving & fascinating documentary. Through in-depth conversations, state of the art football footage and never before seen archival footage, the film gives an astonishing insight into the sporting and personal life of triple Ballon D'Or winner Cristiano Ronaldo at the peak of his career.  From the makers of ‘Senna’ and ‘Amy’, Ronaldo takes audiences on an intimate and revealing journey of what it’s like to live as an iconic athlete in the eye of the storm.",
+   "popularity": 2.623,
+   "poster_path": "/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",
+   "production_countries": [
+    "ES",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-11-09",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Astonishing. Intimate. Definitive.",
+   "title": "Ronaldo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.961,
+   "vote_count": 433
+  },
   "movie:399031": {
    "backdrop_path": "/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
    "budget": 13600000,
@@ -2009,6 +2258,224 @@
    "vote_average": 7.065,
    "vote_count": 497
   },
+  "movie:56231": {
+   "backdrop_path": "/o7x1kmzQ0qr2aKDZXyIN8Ur6bco.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lulù Massa",
+     "n": "Gian Maria Volonté"
+    },
+    {
+     "c": "Lidia",
+     "n": "Mariangela Melato"
+    },
+    {
+     "c": "Militina",
+     "n": "Salvo Randone"
+    },
+    {
+     "c": "Sindacalista",
+     "n": "Gino Pernice"
+    },
+    {
+     "c": "Bassi",
+     "n": "Luigi Diberti"
+    },
+    {
+     "c": "Adalgisa",
+     "n": "Mietta Albertini"
+    },
+    {
+     "c": "Marx",
+     "n": "Donato Castellaneta"
+    },
+    {
+     "c": "Tecnico",
+     "n": "Adriano Amidei Migliano"
+    },
+    {
+     "c": "Cronometrista",
+     "n": "Guerrino Crivello"
+    },
+    {
+     "c": "Capo Operai",
+     "n": "Ezio Marano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Elio Petri"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 56231,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "After losing a finger in a work accident, an Italian worker becomes increasingly involved in political and revolutionary groups.",
+   "popularity": 2.0132,
+   "poster_path": "/2RMjWY4CknXmLRI5qJpsTA6sKy3.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1971-09-17",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Working Class Goes to Heaven",
+   "trailer": {
+    "key": "RRUz45GVOAM",
+    "name": "Radiance #1: The Working Class Goes to Heaven Blu-ray Trailer (Elio Petri, 1971)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 404
+  },
+  "movie:57331": {
+   "backdrop_path": "/cb1EgHUV2OW988cEunXm7Px4OhT.jpg",
+   "budget": 21200000,
+   "cast": [
+    {
+     "c": "Largo Winch",
+     "n": "Tomer Sisley"
+    },
+    {
+     "c": "Diane Francken",
+     "n": "Sharon Stone"
+    },
+    {
+     "c": "Dwight Cochrane",
+     "n": "Ulrich Tukur"
+    },
+    {
+     "c": "Simon Ovronnaz",
+     "n": "Olivier Barthélémy"
+    },
+    {
+     "c": "Malunaï",
+     "n": "Napakpapha Nakprasitte"
+    },
+    {
+     "c": "Alexandre Jung",
+     "n": "Laurent Terzieff"
+    },
+    {
+     "c": "Gauthier",
+     "n": "Nicolas Vaude"
+    },
+    {
+     "c": "Clive Hanson",
+     "n": "François Montagut"
+    },
+    {
+     "c": "General Kyaw Min",
+     "n": "Nirut Sirijanya"
+    },
+    {
+     "c": "Beaumont",
+     "n": "Anatole Taubman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jérôme Salle"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 57331,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Propelled to the head of the W Group after the death of his adoptive father, Largo Winch decides, to everyone's surprise, to sell it, and use the proceeds to create an ambitious humanitarian foundation. But on the very same day, he finds himself accused of crimes against humanity by a mysterious witness. To prove his innocence, Largo will have to retrace the steps of his past life, in the heart of the Burmese jungle.",
+   "popularity": 2.3003,
+   "poster_path": "/cS7v9W2OeOQFkTWA9PbeTrXoCEy.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "HK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-12-09",
+   "revenue": 14400000,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sr",
+    "it",
+    "fr",
+    "th",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Burma Conspiracy",
+   "title": "Largo Winch II",
+   "trailer": {
+    "key": "xjJLhYYGhAc",
+    "name": "The Burma Conspiracy - out on DVD Jan 23rd",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.817,
+   "vote_count": 424
+  },
   "movie:63831": {
    "backdrop_path": "/59NaUtfZuK2f0lQedSDQwVF7X9E.jpg",
    "budget": 0,
@@ -2311,6 +2778,142 @@
    "vote_average": 6.9,
    "vote_count": 486
   },
+  "movie:746131": {
+   "backdrop_path": "/ouQPvA86SW1DXFTsc2qaRqz4tAg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Émilie",
+     "n": "Lucie Zhang"
+    },
+    {
+     "c": "Camille",
+     "n": "Makita Samba"
+    },
+    {
+     "c": "Nora",
+     "n": "Noémie Merlant"
+    },
+    {
+     "c": "Amber",
+     "n": "Jehnny Beth"
+    },
+    {
+     "c": "Eponine",
+     "n": "Camille Léon-Fucien"
+    },
+    {
+     "c": "Stéphanie",
+     "n": "Oceane Cairaty"
+    },
+    {
+     "c": "Leïla",
+     "n": "Anaïde Rozam"
+    },
+    {
+     "c": "Camille's Father",
+     "n": "Pol White"
+    },
+    {
+     "c": "Emilie's Mother",
+     "n": "Rong-Ying Yang"
+    },
+    {
+     "c": "Karin",
+     "n": "Geneviève Doang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jacques Audiard"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 746131,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Émilie meets Camille who is attracted to Nora, who crosses paths with Amber. Three girls and a boy – They're friends, sometimes lovers and often both.",
+   "popularity": 1.845,
+   "poster_path": "/kSXPsrausCYVsDnQaJfhzqR9fV7.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-03",
+   "revenue": 2480870,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Paris, 13th District",
+   "trailer": {
+    "key": "o8VaJgYt9GA",
+    "name": "Official Streaming Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.848,
+   "vote_count": 423
+  },
   "movie:774531": {
    "backdrop_path": "/wrifTYmJPTxBf26xJrwyPfGbg3T.jpg",
    "budget": 40000000,
@@ -2521,6 +3124,114 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
+  },
+  "movie:955531": {
+   "backdrop_path": "/ZsiP0qr8TRUJTAd1VE0VNkLzhH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narcisa",
+     "n": "Aria Bedmar"
+    },
+    {
+     "c": "Sister Julia",
+     "n": "Maru Valdivielso"
+    },
+    {
+     "c": "Mother Superior",
+     "n": "Luisa Merelas"
+    },
+    {
+     "c": "Sister Socorro",
+     "n": "Almudena Amor"
+    },
+    {
+     "c": "Sister Sagrario",
+     "n": "Chelo Vivares"
+    },
+    {
+     "c": "Rosa",
+     "n": "Sara Roch"
+    },
+    {
+     "c": "Elvirita",
+     "n": "Olimpia Roch"
+    },
+    {
+     "c": "Ana María",
+     "n": "Adriana Camarena"
+    },
+    {
+     "c": "Marina",
+     "n": "Marina Delgado"
+    },
+    {
+     "c": "Vinyet",
+     "n": "Claudia Fernández Arroyo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paco Plaza"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 955531,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Spain, 1949. Narcisa, a novice, arrives at an old convent, converted into a girls' school, to work as a teacher.",
+   "popularity": 2.6452,
+   "poster_path": "/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-05",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Before Veronica...",
+   "title": "Sister Death",
+   "trailer": {
+    "key": "Ze6plKbzkY0",
+    "name": "Official Trailer (Subtitled)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 397
   },
   "tv:1431": {
    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",

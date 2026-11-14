@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 35,
+ "count": 41,
  "titles": {
   "movie:10426": {
    "d": "Friday After Next (2002): Comedy/Drama film. Story: Craig and his cousin Day-Day have finally moved out… See cast, budget $20M, and TMDB rating 6.4/10.",
@@ -66,6 +66,70 @@
    "t": "Friday After Next (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:11326": {
+   "d": "Tommy (1975): Drama/Music film. Story: After a series of traumatic childhood events, a… See cast, budget $5M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
+   "industry": "world",
+   "k": "Tommy, Tommy movie, Tommy cast, Tommy story, Tommy box office collection, Tommy budget, Tommy review, Tommy rating, Tommy release date, Tommy trailer, Tommy Drama, Tommy Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oliver Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Ann-Margret"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger Daltrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Elton John"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Clapton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Tommy (1975): Drama/Music film. Story: After a series of traumatic childhood events, a… See cast, budget $5M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Russell"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11326",
+    "name": "Tommy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11326"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tommy (1975)</h1>\n<p class=\"ssr-lead\">After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 1975</li><li>Runtime: 111 minutes</li><li>Director: Ken Russell</li><li>Genres: Drama, Music</li><li>Budget: $5M</li><li>TMDB rating: 6.4/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oliver Reed as Frank</li><li>Ann-Margret as Nora</li><li>Roger Daltrey as Tommy</li><li>Elton John as The Pinball Wizard</li><li>Eric Clapton as The Preacher</li><li>Arthur Brown as The Priest</li><li>Pete Townshend as Himself</li><li>John Entwistle as Himself</li><li>Tina Turner as The Acid Queen</li><li>Paul Nicholas as Cousin Kevin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Core Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Tommy (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
+  },
   "movie:1187326": {
    "d": "Tad and The Magic Lamp (2026): Animation/Comedy film. Story: Tadeo, his girlfriend Sara, and his friends Momia… See cast and TMDB rating 8.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
@@ -129,6 +193,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tad and The Magic Lamp (2026)</h1>\n<p class=\"ssr-lead\">Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2026</li><li>Runtime: 94 minutes</li><li>Director: Enrique Gato</li><li>Genres: Animation, Comedy, Family</li><li>TMDB rating: 8.3/10 (99 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Óscar Barberán as Tadeo Jones (voice)</li><li>Michelle Jenner as Sara Lavrof (voice)</li><li>Luis Posada as Momia (voice)</li><li>Joseph Balderrama as Mummy / Tupac (voice)</li><li>Trevor White as Tad (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Tad and The Magic Lamp (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:121826": {
+   "d": "Quartet (2012): Drama/Comedy film. Story: Cissy, Reggie, and Wilf are in a home for retired… See cast, budget $11M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rsGYoSu8MNGabCMAnZIzzEHzIFd.jpg",
+   "industry": "world",
+   "k": "Quartet, Quartet movie, Quartet cast, Quartet story, Quartet box office collection, Quartet budget, Quartet review, Quartet rating, Quartet release date, Quartet Drama, Quartet Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maggie Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Courtenay"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Connolly"
+     },
+     {
+      "@type": "Person",
+      "name": "Pauline Collins"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Gambon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 399,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Quartet (2012): Drama/Comedy film. Story: Cissy, Reggie, and Wilf are in a home for retired… See cast, budget $11M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dustin Hoffman"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rsGYoSu8MNGabCMAnZIzzEHzIFd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=121826",
+    "name": "Quartet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-12-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=121826"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Quartet (2012)</h1>\n<p class=\"ssr-lead\">Cissy, Reggie, and Wilf are in a home for retired musicians. Every year, there is a concert to celebrate Composer Giuseppe Verdi&#x27;s birthday and they take part. Jean, who used to be married to Reggie, arrives at the home and disrupts their equilibrium. She still acts like a diva, but she refuses to sing. Still, the show must go on, and it does.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 December 2012</li><li>Runtime: 98 minutes</li><li>Director: Dustin Hoffman</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $11M</li><li>TMDB rating: 6.5/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maggie Smith as Jean Horton</li><li>Tom Courtenay as Reginald Paget</li><li>Billy Connolly as Wilf Bond</li><li>Pauline Collins as Cissy Robson</li><li>Michael Gambon as Cedric Livingston</li><li>Sheridan Smith as Dr. Lucy Cogan</li><li>Jumayn Hunter as Joey</li><li>Shola Adewusi as Sheryl</li><li>Andrew Sachs as Bobby Swanson</li><li>Trevor Peacock as George</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Starz Apple TV channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Quartet (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:12626": {
    "d": "Broadcast News (1987): Comedy/Romance film. Story: A high-strung news producer finds herself in a love… See cast, budget $20M, and TMDB rating 6.8/10.",
@@ -384,6 +512,69 @@
    "t": "Until the End of the World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14626": {
+   "d": "Beau Travail (2000): Drama film. Story: Foreign Legion officer Galoup recalls his once… See cast, TMDB rating 7.1/10, and release date 3 May 2000.",
+   "img": "https://image.tmdb.org/t/p/w780/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
+   "industry": "world",
+   "k": "Beau Travail, Beau Travail movie, Beau Travail cast, Beau Travail story, Beau Travail box office collection, Beau Travail budget, Beau Travail review, Beau Travail rating, Beau Travail release date, Beau Travail trailer, Beau Travail Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Denis Lavant"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Subor"
+     },
+     {
+      "@type": "Person",
+      "name": "Grégoire Colin"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Courcet"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Duvauchelle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Beau Travail (2000): Drama film. Story: Foreign Legion officer Galoup recalls his once… See cast, TMDB rating 7.1/10, and release date 3 May 2000.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claire Denis"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14626",
+    "name": "Beau Travail",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-05-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14626"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beau Travail (2000)</h1>\n<p class=\"ssr-lead\">Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup&#x27;s mind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 May 2000</li><li>Runtime: 93 minutes</li><li>Director: Claire Denis</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Denis Lavant as Galoup</li><li>Michel Subor as Commander Bruno Forestier</li><li>Grégoire Colin as Gilles Sentain</li><li>Richard Courcet as Legionnaire</li><li>Nicolas Duvauchelle as Legionnaire</li><li>Adiatou Massudi as Legionnaire</li><li>Mickael Ravovski as Legionnaire</li><li>Dan Herzberg as Legionnaire</li><li>Giuseppe Molino as Legionnaire</li><li>Gianfranco Poddighe as Legionnaire</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Beau Travail (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:1514026": {
    "d": "Buddy (2026): Horror/Comedy film. Story: Inside the colorful world of \"It's Buddy!\", a group… See cast, budget $3M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
@@ -576,6 +767,70 @@
    "t": "Little Giants (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:2926": {
+   "d": "The Three Musketeers (1973): Action/Adventure film. Story: In 17th century France, young D'Artagnan wants to… See cast, budget $4.5M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ljZtX8UZhGOOpQrgtcqSwPTTZJv.jpg",
+   "industry": "world",
+   "k": "The Three Musketeers, The Three Musketeers movie, The Three Musketeers cast, The Three Musketeers story, The Three Musketeers box office collection, The Three Musketeers budget, The Three Musketeers review, The Three Musketeers rating, The Three Musketeers release date, The Three Musketeers Action, The Three Musketeers Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael York"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Chamberlain"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Finlay"
+     },
+     {
+      "@type": "Person",
+      "name": "Faye Dunaway"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Three Musketeers (1973): Action/Adventure film. Story: In 17th century France, young D'Artagnan wants to… See cast, budget $4.5M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Lester"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ljZtX8UZhGOOpQrgtcqSwPTTZJv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2926",
+    "name": "The Three Musketeers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2926"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Three Musketeers (1973)</h1>\n<p class=\"ssr-lead\">In 17th century France, young D&#x27;Artagnan wants to join the King&#x27;s Musketeers, but instead befriends three legendary musketeers—Athos, Porthos, and Aramis—and together, they become embroiled in the political intrigue surrounding King Louis XIII and his adversaries, particularly the powerful Cardinal Richelieu.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 1973</li><li>Runtime: 107 minutes</li><li>Director: Richard Lester</li><li>Genres: Action, Adventure, Romance</li><li>Budget: $4.5M</li><li>TMDB rating: 6.7/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael York as D&#x27;Artagnan</li><li>Oliver Reed as Athos</li><li>Richard Chamberlain as Aramis</li><li>Frank Finlay as Porthos / O&#x27;Reilly</li><li>Faye Dunaway as Lady de Winter</li><li>Raquel Welch as Constance de Bonancieux</li><li>Christopher Lee as Rochefort</li><li>Geraldine Chaplin as Anna of Austria</li><li>Jean-Pierre Cassel as Louis XIII</li><li>Spike Milligan as M. Bonancieux</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, BFI Player Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "The Three Musketeers (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
+  },
   "movie:347126": {
    "d": "God's Not Dead 2 (2016): Drama film. Story: When a high school teacher is asked a question in… See cast, budget $5M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/j1X0A0tDagEdtG1vmOjvT5hTf82.jpg",
@@ -638,6 +893,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>God&#x27;s Not Dead 2 (2016)</h1>\n<p class=\"ssr-lead\">When a high school teacher is asked a question in class about Jesus, her reasoned response lands her in deep trouble and could expel God from the public square once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2016</li><li>Runtime: 121 minutes</li><li>Director: Harold Cronk</li><li>Genres: Drama</li><li>Budget: $5M</li><li>TMDB rating: 6.2/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Metcalfe as Tom Endler</li><li>Robin Givens as Principal Kinney</li><li>Melissa Joan Hart as Grace Wesley</li><li>Brad Heller as School Attorney</li><li>Ernie Hudson as Judge Stennis</li><li>Hayley Orrantia as Brooke Thawley</li><li>Pat Boone as Walter Wesley</li><li>Paul Kwo as Martin Yip</li><li>Trisha LaFache as Amy Ryan</li><li>Jon Lindstrom as Superintendent Jim Powell</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "God's Not Dead 2 (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:362826": {
+   "d": "Wildling (2018): Horror/Fantasy film. Story: A young woman held in captivity discovers the… See cast, TMDB rating 5.4/10, and release date 13 April 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/ictYT7jrWrJwTs11agZVxX8W1ZB.jpg",
+   "industry": "world",
+   "k": "Wildling, Wildling movie, Wildling cast, Wildling story, Wildling box office collection, Wildling budget, Wildling review, Wildling rating, Wildling release date, Wildling trailer, Wildling Horror, Wildling Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bel Powley"
+     },
+     {
+      "@type": "Person",
+      "name": "Liv Tyler"
+     },
+     {
+      "@type": "Person",
+      "name": "Collin Kelly-Sordelet"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Dourif"
+     },
+     {
+      "@type": "Person",
+      "name": "James Le Gros"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Wildling (2018): Horror/Fantasy film. Story: A young woman held in captivity discovers the… See cast, TMDB rating 5.4/10, and release date 13 April 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fritz Böhm"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ictYT7jrWrJwTs11agZVxX8W1ZB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=362826",
+    "name": "Wildling",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=362826"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wildling (2018)</h1>\n<p class=\"ssr-lead\">A young woman held in captivity discovers the realities of truth and lies in the outside world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2018</li><li>Runtime: 92 minutes</li><li>Director: Fritz Böhm</li><li>Genres: Horror, Fantasy, Thriller, Drama</li><li>TMDB rating: 5.4/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bel Powley as Anna</li><li>Liv Tyler as Ellen Cooper</li><li>Collin Kelly-Sordelet as Ray Cooper</li><li>Brad Dourif as Daddy</li><li>James Le Gros as Wolf Man</li><li>Troy Ruptash as Roger Fowler</li><li>Charlotte Ubben as Jen</li><li>Aviva Winick as Little Anna</li><li>Arlo Mertz as Very Little Anna</li><li>Mike Faist as Lawrence</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Paramount Plus Premium, AMC Plus Apple TV channel, Paramount+ Amazon Channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wildling (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:373226": {
+   "d": "Belzebuth (2019): Horror/Fantasy film. Story: While leading a police investigation of a massacre in… See cast, budget $3.6M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v5U0s7HZGbZY8q6SXK6aFykSuDr.jpg",
+   "industry": "world",
+   "k": "Belzebuth, Belzebuth movie, Belzebuth cast, Belzebuth story, Belzebuth box office collection, Belzebuth budget, Belzebuth review, Belzebuth rating, Belzebuth release date, Belzebuth trailer, Belzebuth Horror, Belzebuth Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joaquín Cosío"
+     },
+     {
+      "@type": "Person",
+      "name": "Tobin Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tate Ellington"
+     },
+     {
+      "@type": "Person",
+      "name": "José Sefami"
+     },
+     {
+      "@type": "Person",
+      "name": "Yunuen Pardo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Belzebuth (2019): Horror/Fantasy film. Story: While leading a police investigation of a massacre in… See cast, budget $3.6M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emilio Portes"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v5U0s7HZGbZY8q6SXK6aFykSuDr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=373226",
+    "name": "Belzebuth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=373226"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Belzebuth (2019)</h1>\n<p class=\"ssr-lead\">While leading a police investigation of a massacre in a public school at the border of Mexico and U.S.A, special Agent Emanuel Ritter links this strange case to the coming and rising of the ancient demon Belzebuth. But in order to stop the trail of upcoming infanticides, Ritter shall have to confront himself before dealing with the forces of good and evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 January 2019</li><li>Runtime: 114 minutes</li><li>Director: Emilio Portes</li><li>Genres: Horror, Fantasy</li><li>Budget: $3.6M</li><li>TMDB rating: 7.1/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joaquín Cosío as Emmanuel Ritter</li><li>Tobin Bell as Padre Vasilio Canetti</li><li>Tate Ellington as Ivan Franco</li><li>José Sefami as Demetrio Vega</li><li>Yunuen Pardo as Beatriz Rubio</li><li>Liam Villa as Niño Isa Rubio</li><li>Conde Fabregat as Cristo - Belzebuth</li><li>Aurora Gil as Marina Ritter</li><li>Aida López as Elena Fernández</li><li>Mercedes Hernández as Mamá de Saír</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Belzebuth (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:437626": {
    "d": "Stockholm (2019): Crime/Comedy film. Story: Based on the extraordinary true story of the European… See cast, TMDB rating 5.9/10, and release date 12 April 2019.",

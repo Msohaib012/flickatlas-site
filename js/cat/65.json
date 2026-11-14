@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 24,
+ "count": 33,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -975,6 +975,122 @@
    "vote_average": 6.5,
    "vote_count": 490
   },
+  "movie:14365": {
+   "backdrop_path": "/jcFJzhUp3seSyBJbYvwmf8VATBK.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Adam",
+     "n": "Joseph Fiennes"
+    },
+    {
+     "c": "Deborah",
+     "n": "Natascha McElhone"
+    },
+    {
+     "c": "Klaus",
+     "n": "Ulrich Thomsen"
+    },
+    {
+     "c": "Senior Police Officer",
+     "n": "Ian Hart"
+    },
+    {
+     "c": "Michelle Stowe",
+     "n": "Rebecca Palmer"
+    },
+    {
+     "c": "Mrs. Blanchard",
+     "n": "Kika Markham"
+    },
+    {
+     "c": "Jake",
+     "n": "Jason Hughes"
+    },
+    {
+     "c": "Alice's Secretary",
+     "n": "Olivia Poulet"
+    },
+    {
+     "c": "Sylvie",
+     "n": "Amy Robbins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chen Kaige"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 14365,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A woman grows suspicious of her controlling husband after she discovers secrets about the women in his past.",
+   "popularity": 3.0871,
+   "poster_path": "/pgfFJw7mqAmJdZizrJ6oOK0ejOZ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-05-10",
+   "revenue": 7775138,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How do you escape… what you can't resist?",
+   "title": "Killing Me Softly",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.629,
+   "vote_count": 389
+  },
   "movie:15265": {
    "backdrop_path": "/w9QL9kd2SijhGNxB8cYBrGWUQy2.jpg",
    "budget": 0,
@@ -1100,6 +1216,116 @@
    "vote_average": 7.742,
    "vote_count": 463
   },
+  "movie:15765": {
+   "backdrop_path": "/bNZsRKtsfQAc7LZ7k8RnTK6H5n6.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Anna Mae Bullock / Tina Turner",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Ike Turner",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Jackie",
+     "n": "Vanessa Bell Calloway"
+    },
+    {
+     "c": "Zelma Bullock",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Darlene",
+     "n": "Khandi Alexander"
+    },
+    {
+     "c": "Ike Turner Jr.",
+     "n": "Richard T. Jones"
+    },
+    {
+     "c": "Young Anna Mae Bullock",
+     "n": "Rae'Ven Larrymore Kelly"
+    },
+    {
+     "c": "Fross",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Lorraine Taylor",
+     "n": "Penny Johnson Jerald"
+    },
+    {
+     "c": "Alline Bullock",
+     "n": "Phyllis Yvonne Stickney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Gibson"
+   ],
+   "genres": [
+    "Drama",
+    "Music",
+    "History"
+   ],
+   "id": 15765,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Singer Tina Turner rises to stardom while mustering the courage to break free from her abusive husband Ike.",
+   "popularity": 2.2864,
+   "poster_path": "/btC4819GhihmkCELqO3qgepNGos.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-06-09",
+   "revenue": 39100000,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who Needs A Heart When A Heart Can Be Broken?",
+   "title": "What's Love Got to Do with It",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 386
+  },
   "movie:1641965": {
    "backdrop_path": "/gyYTuYSwiqGNaqNomscb6oSZ8Mt.jpg",
    "budget": 0,
@@ -1185,6 +1411,581 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 24
+  },
+  "movie:1665": {
+   "backdrop_path": "/pH6tXFobpuxD7J9kVe0YeKWAnMk.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Blake",
+     "n": "Michael Pitt"
+    },
+    {
+     "c": "Luke",
+     "n": "Lukas Haas"
+    },
+    {
+     "c": "Asia",
+     "n": "Asia Argento"
+    },
+    {
+     "c": "Scott",
+     "n": "Scott Patrick Green"
+    },
+    {
+     "c": "Nicole",
+     "n": "Nicole Vicius"
+    },
+    {
+     "c": "Detective",
+     "n": "Ricky Jay"
+    },
+    {
+     "c": "Donovan",
+     "n": "Ryan Orion"
+    },
+    {
+     "c": "Guy in Club",
+     "n": "Harmony Korine"
+    },
+    {
+     "c": "Record Executive",
+     "n": "Kim Gordon"
+    },
+    {
+     "c": "Elder Friberg #1",
+     "n": "Adam Friberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gus Van Sant"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1665,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The life and struggles of a notorious rock musician seeping into a pit of loneliness whose everyday life involves friends and family seeking financial aid and favors, inspired by rock music legend Kurt Cobain and his final hours.",
+   "popularity": 1.5546,
+   "poster_path": "/btbp47CHXgLhw30kyDoVfNFLB3g.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-05-13",
+   "revenue": 1900000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This one changed me life, man",
+   "title": "Last Days",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.603,
+   "vote_count": 435
+  },
+  "movie:17365": {
+   "backdrop_path": "/xpLfNYeICRtVPHPU2RN0a20c5zy.jpg",
+   "budget": 2900000,
+   "cast": [
+    {
+     "c": "Joseph Frady",
+     "n": "Warren Beatty"
+    },
+    {
+     "c": "Lee Carter",
+     "n": "Paula Prentiss"
+    },
+    {
+     "c": "Austin Tucker",
+     "n": "William Daniels"
+    },
+    {
+     "c": "Jack Younger",
+     "n": "Walter McGinn"
+    },
+    {
+     "c": "Bill Rintels",
+     "n": "Hume Cronyn"
+    },
+    {
+     "c": "Sheriff L.D. Wicker",
+     "n": "Kelly Thordsen"
+    },
+    {
+     "c": "Thomas Richard Linder",
+     "n": "Chuck Waters"
+    },
+    {
+     "c": "Deputy Red",
+     "n": "Earl Hindman"
+    },
+    {
+     "c": "Senator Charles Carroll",
+     "n": "William Joyce"
+    },
+    {
+     "c": "Mrs. Charles Carroll",
+     "n": "Betty Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alan J. Pakula"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 17365,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An ambitious reporter gets in trouble while investigating a senator's assassination which leads to a vast conspiracy involving a multinational corporation behind every event in the world's headlines.",
+   "popularity": 2.5392,
+   "poster_path": "/5ClPRox438lwK2Eze7X5xySDaYC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-06-14",
+   "revenue": 2940000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "As American as apple pie.",
+   "title": "The Parallax View",
+   "trailer": {
+    "key": "Qz0qRlQPdCs",
+    "name": "Imprint Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.809,
+   "vote_count": 403
+  },
+  "movie:28665": {
+   "backdrop_path": "/xNSvcxjfrEMnqaCRmkDydEoHYL8.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Jenny Garrison",
+     "n": "Kay Panabaker"
+    },
+    {
+     "c": "Victor Taveras",
+     "n": "Walter Perez"
+    },
+    {
+     "c": "Denise Dupree",
+     "n": "Naturi Naughton"
+    },
+    {
+     "c": "Marco",
+     "n": "Asher Book"
+    },
+    {
+     "c": "Alice Ellerton",
+     "n": "Kherington Payne"
+    },
+    {
+     "c": "Malik Washburn",
+     "n": "Collins Pennie"
+    },
+    {
+     "c": "Rosie Martinez",
+     "n": "Kristy Flores"
+    },
+    {
+     "c": "Kevin Barrett",
+     "n": "Paul McGill"
+    },
+    {
+     "c": "Ms. Kraft",
+     "n": "Bebe Neuwirth"
+    },
+    {
+     "c": "Neil Baczynsky",
+     "n": "Paul Iacono"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kevin Tancharoen"
+   ],
+   "genres": [
+    "Music",
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 28665,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At New York's High School of Performing Arts, students from all walks of life get the chance to hone their skills as singers, actors, dancers, and more. Over four years, these young men and women will see if they truly have the dedication and talent to achieve success, while still juggling regular schoolwork, feelings of self-doubt, and budding romances.",
+   "popularity": 2.4021,
+   "poster_path": "/8IsNOp075DktqwraN4OHUBhjGrD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-09-23",
+   "revenue": 77211836,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fame",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.708,
+   "vote_count": 391
+  },
+  "movie:360365": {
+   "backdrop_path": "/5yuP7yPuE09J98S50cZPcg23b2r.jpg",
+   "budget": 19201483,
+   "cast": [
+    {
+     "c": "Violetta/Tini",
+     "n": "TINI"
+    },
+    {
+     "c": "León",
+     "n": "Jorge Blanco"
+    },
+    {
+     "c": "Ludmila",
+     "n": "Mercedes Lambre"
+    },
+    {
+     "c": "Caio",
+     "n": "Adrián Salzedo"
+    },
+    {
+     "c": "Melanie",
+     "n": "Sofia Carson"
+    },
+    {
+     "c": "Germán",
+     "n": "Diego Ramos"
+    },
+    {
+     "c": "Angie",
+     "n": "Clara Alonso"
+    },
+    {
+     "c": "Eloisa",
+     "n": "Georgina Amorós"
+    },
+    {
+     "c": "Miranda",
+     "n": "Beatrice Arnera"
+    },
+    {
+     "c": "Saúl",
+     "n": "Leonardo Cecchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "Juan Pablo Buscarini"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 360365,
+   "industry": "world",
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "A teen star ventures out to the Italian countryside for a summer and emerges a new artist.",
+   "popularity": 1.5131,
+   "poster_path": "/iH1d41fxNGPZ53kvQ6GRUFNwp0F.jpg",
+   "production_countries": [
+    "AR",
+    "IT",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-05-04",
+   "revenue": 17000172,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "When everything changes, the passion comes in",
+   "title": "Tini: The New Life of Violetta",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.313,
+   "vote_count": 402
+  },
+  "movie:41665": {
+   "backdrop_path": "/8bOqmWt0OwkSCWbQJTb5YYvyH2C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rag. Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Mariangela Fantozzi / Uga",
+     "n": "Plinio Fernando"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Sacerdote del secondo funerale",
+     "n": "Stefano Antonucci"
+    },
+    {
+     "c": "",
+     "n": "Giuseppe Terranova"
+    },
+    {
+     "c": "Ex collega di Fantozzi",
+     "n": "Emanuele Magnoni"
+    },
+    {
+     "c": "Ex collega di Fantozzi",
+     "n": "Vito Passeri"
+    },
+    {
+     "c": "l'allibratore",
+     "n": "Angelo Bernabucci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 41665,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "One by one, with a sweet but inexorable rate, Ugo's colleagues, go to a better life. When Ugo is attending at one of the innumerable funerals, he and the priest remain involved in an accident. The doctor says that Ugo as only one week left to live",
+   "popularity": 0.4927,
+   "poster_path": "/mcwJGvwToICufgjjXAGcVwmYVtd.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1993-12-21",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi in Heaven",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.793,
+   "vote_count": 394
   },
   "movie:426865": {
    "backdrop_path": "/s5Dz4TsaW5jyLw5GS73jgqgwHsZ.jpg",
@@ -1429,6 +2230,168 @@
    "vote_average": 5.2,
    "vote_count": 495
   },
+  "movie:519465": {
+   "backdrop_path": "/e5lxpaVyazQX723A3svR17WxckP.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Anne",
+     "n": "Trine Dyrholm"
+    },
+    {
+     "c": "Gustav",
+     "n": "Gustav Lindh"
+    },
+    {
+     "c": "Peter",
+     "n": "Magnus Krepper"
+    },
+    {
+     "c": "Frida",
+     "n": "Liv Esmår Dannemann"
+    },
+    {
+     "c": "Fanny",
+     "n": "Silja Esmår Dannemann"
+    },
+    {
+     "c": "Lina",
+     "n": "Stine Gyldenkerne"
+    },
+    {
+     "c": "Erik",
+     "n": "Preben Kristensen"
+    },
+    {
+     "c": "Cecilie",
+     "n": "Frederikke Dahl Hansen"
+    },
+    {
+     "c": "Sara",
+     "n": "Ella Solgaard"
+    },
+    {
+     "c": "Amanda",
+     "n": "Carla Philip Røder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "May el-Toukhy"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 519465,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Anne, a brilliant and dedicated advocacy lawyer specialising in society’s most vulnerable, children and young adults, lives what appears to be the picture-perfect life with her doctor-husband, Peter, and their twin daughters. When her estranged teenage stepson, Gustav, moves in with them, Anne’s escalating desire leads her down a dangerous rabbit hole which, once exposed, unleashes a sequence of events destined to destroy her world.",
+   "popularity": 8.388,
+   "poster_path": "/dfFVDIgovEfQZn53VRKLV2JQnRJ.jpg",
+   "production_countries": [
+    "DK",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-03-27",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Queen of Hearts",
+   "trailer": {
+    "key": "kJmMCVN_6fw",
+    "name": "Queen of Hearts (2019) Official Trailer | Breaking Glass Pictures Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.893,
+   "vote_count": 403
+  },
   "movie:724665": {
    "backdrop_path": "/3xGfsAYAxVmYj1CbE5vAkmMJbHo.jpg",
    "budget": 20000000,
@@ -1564,6 +2527,139 @@
    "type": "movie",
    "vote_average": 6.184,
    "vote_count": 439
+  },
+  "movie:963765": {
+   "backdrop_path": "/8J5GetxLHw6R380GUBEmH95dvrl.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Jake",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Silva",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Young Jake",
+     "n": "Jason Fernández"
+    },
+    {
+     "c": "Young Silva",
+     "n": "José Condessa"
+    },
+    {
+     "c": "Sheriff Deputy",
+     "n": "Daniel Rived"
+    },
+    {
+     "c": "Conchita",
+     "n": "Sara Sálamo"
+    },
+    {
+     "c": "Singer",
+     "n": "Manu Ríos"
+    },
+    {
+     "c": "Carpenter",
+     "n": "Pedro Casablanc"
+    },
+    {
+     "c": "Joe",
+     "n": "George Steane"
+    },
+    {
+     "c": "Clara",
+     "n": "Erenice Lohan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Pedro Almodóvar"
+   ],
+   "genres": [
+    "Drama",
+    "Western",
+    "Romance"
+   ],
+   "id": 963765,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After 25 years, a former hired gun visits his old colleague, now a small-town sheriff. Their past relationship is explored, as is how they reflect on it in the present.",
+   "popularity": 2.4122,
+   "poster_path": "/uKOSFVplHUtvjtDEE5N4x8Hs9vL.jpg",
+   "production_countries": [
+    "ES",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-05-26",
+   "revenue": 1064830,
+   "runtime": 31,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Strange Way of Life",
+   "trailer": {
+    "key": "CrlYh1J0dvU",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.275,
+   "vote_count": 408
   },
   "tv:117465": {
    "backdrop_path": "/zlXW7Y5LvqTQBlhalMKc0gUrYYE.jpg",

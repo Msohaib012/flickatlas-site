@@ -1,7 +1,66 @@
 {
  "bucket": "18",
- "count": 36,
+ "count": 43,
  "titles": {
+  "movie:1010818": {
+   "backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baby Groot (voice)",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Fred Tatasciore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kirsten Lepore"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1010818,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the events of “Guardians of the Galaxy Vol. 1,” Baby Groot is finally ready to try taking his first steps out of his pot—only to learn you have to walk before you can run.",
+   "popularity": 2.2487,
+   "poster_path": "/1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-08-10",
+   "revenue": 0,
+   "runtime": 6,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Groot's First Steps",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.97,
+   "vote_count": 389
+  },
   "movie:10118": {
    "backdrop_path": "/53dMoCCdlUnU1ldPDpLr5fheZbG.jpg",
    "budget": 15000000,
@@ -1948,6 +2007,413 @@
    "vote_average": 7.186,
    "vote_count": 464
   },
+  "movie:318": {
+   "backdrop_path": "/2gUFXKuuJwCYMFAJ1xxy34kI3SM.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Detective Skinner",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Eloise",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Tom Tom",
+     "n": "Jeremy Davies"
+    },
+    {
+     "c": "Dixie",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Vivien",
+     "n": "Amanda Plummer"
+    },
+    {
+     "c": "Shorty",
+     "n": "Bud Cort"
+    },
+    {
+     "c": "Geronimo",
+     "n": "Jimmy Smits"
+    },
+    {
+     "c": "Terence Scopey",
+     "n": "Julian Sands"
+    },
+    {
+     "c": "Stanley Goldkiss",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Stix",
+     "n": "Conrad Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wim Wenders"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 318,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "A federal agent searches for a potential killer among the bizarre residents of a dilapidated Los Angeles hotel.",
+   "popularity": 2.0767,
+   "poster_path": "/iGRyPsZF0lfIL3IadmBdoAsYzyn.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-02-09",
+   "revenue": 105983,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everyone has something to hide.",
+   "title": "The Million Dollar Hotel",
+   "trailer": {
+    "key": "S4Ft6C8LTKU",
+    "name": "Million Dollar Hotel / Official Trailer (1999)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 385
+  },
+  "movie:33518": {
+   "backdrop_path": "/5zd5IfpPcN11HkIJ1BxPYcKsQHr.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "David",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Marisa",
+     "n": "Robin Riker"
+    },
+    {
+     "c": "Chief Clark",
+     "n": "Michael V. Gazzo"
+    },
+    {
+     "c": "Slade",
+     "n": "Dean Jagger"
+    },
+    {
+     "c": "Gutchel",
+     "n": "Sydney Lassick"
+    },
+    {
+     "c": "Mayor",
+     "n": "Jack Carter"
+    },
+    {
+     "c": "Kelly",
+     "n": "Perry Lang"
+    },
+    {
+     "c": "Brock",
+     "n": "Henry Silva"
+    },
+    {
+     "c": "Kemp",
+     "n": "Bart Braverman"
+    },
+    {
+     "c": "Mad Bomber",
+     "n": "John Lisbon Wood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lewis Teague"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 33518,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A baby alligator is flushed down a toilet and survives by eating discarded lab animals that have been injected with growth hormones. The now gigantic animal escapes the city sewers and goes on a rampage, pursued by a cop and a big-game hunter.",
+   "popularity": 3.0514,
+   "poster_path": "/bWANAIIeNPzwEmrYUvZFECTbBX6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-11-14",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It lives 50 feet beneath the city. It's 36 feet long. It weighs 2,000 pounds...And it's about to break out!",
+   "title": "Alligator",
+   "trailer": {
+    "key": "4_f3-h4tGFQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.05,
+   "vote_count": 414
+  },
   "movie:432618": {
    "backdrop_path": "/kJfFqcP6jb1caPg6VMpAfkHUMLd.jpg",
    "budget": 0,
@@ -2039,6 +2505,122 @@
    "type": "movie",
    "vote_average": 5.833,
    "vote_count": 453
+  },
+  "movie:44018": {
+   "backdrop_path": "/tKsFh8qpYyi2AMg5O8QTVdChm4k.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mona Bergeron",
+     "n": "Sandrine Bonnaire"
+    },
+    {
+     "c": "Madame Landier",
+     "n": "Macha Méril"
+    },
+    {
+     "c": "Yolande",
+     "n": "Yolande Moreau"
+    },
+    {
+     "c": "Jean-Pierre",
+     "n": "Stéphane Freiss"
+    },
+    {
+     "c": "The Moroccan Who Discovers Mona",
+     "n": "Setti Ramdane"
+    },
+    {
+     "c": "Assoun",
+     "n": "Yahiaoui Assouna"
+    },
+    {
+     "c": "Old Aunt Lydie",
+     "n": "Marthe Jarnias"
+    },
+    {
+     "c": "Gendarmerie",
+     "n": "Francis Balchère"
+    },
+    {
+     "c": "Gendarmerie",
+     "n": "Jean-Louis Perletti"
+    },
+    {
+     "c": "Farmer Interviewed",
+     "n": "Urbain Causse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Agnès Varda"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 44018,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Mona Bergeron is dead, her frozen body found in a ditch in the French countryside. From this, the film flashes back to the weeks leading up to her death. Through these flashbacks, Mona gradually declines as she travels from place to place, taking odd jobs and staying with whomever will offer her a place to sleep. Mona is fiercely independent, craving freedom over comfort, but it is this desire to be free that will eventually lead to her demise.",
+   "popularity": 1.9044,
+   "poster_path": "/2KFfwiPct1hwqi9dkKqoom0BenC.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-12-04",
+   "revenue": 8100000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Vagabond",
+   "trailer": {
+    "key": "i9pD323U_Hc",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 384
   },
   "movie:44918": {
    "backdrop_path": "/e9XRikkyth0GtG8RkU3XNm0oMsA.jpg",
@@ -2188,6 +2770,110 @@
    "vote_average": 4.791,
    "vote_count": 469
   },
+  "movie:508018": {
+   "backdrop_path": "/nyX2zXQ8eePITQNG7aj8RldHGgT.jpg",
+   "budget": 4642619,
+   "cast": [
+    {
+     "c": "Jon",
+     "n": "Raúl Arévalo"
+    },
+    {
+     "c": "Lucía",
+     "n": "Aura Garrido"
+    },
+    {
+     "c": "Nico",
+     "n": "Hugo Arbues"
+    },
+    {
+     "c": "Andrea",
+     "n": "Belén Cuesta"
+    },
+    {
+     "c": "Héctor",
+     "n": "Antonio Dechent"
+    },
+    {
+     "c": "Pablo",
+     "n": "Aitor Luna"
+    },
+    {
+     "c": "David",
+     "n": "Sergio Mur"
+    },
+    {
+     "c": "Lisandro",
+     "n": "Luis Callejo"
+    },
+    {
+     "c": "Asunción",
+     "n": "Julieta Serrano"
+    },
+    {
+     "c": "Amparo",
+     "n": "Patricia Vico"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Daniel Calparsoro"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 508018,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Ten-year-old Nico receives a threatening letter and now his life is in danger. No one seems to believe him except one person that he doesn't know.",
+   "popularity": 1.289,
+   "poster_path": "/zHyLc0TpcufC3ELL4yFlKHS3fAN.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-10",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Only the past can help you solve the future",
+   "title": "The Warning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 401
+  },
   "movie:54518": {
    "backdrop_path": "/wsuO9N3t89buTgtzJ5vUMBCHBB6.jpg",
    "budget": 13000000,
@@ -2318,6 +3004,236 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 439
+  },
+  "movie:5718": {
+   "backdrop_path": "/n0LDZHQJ67GZ3rX68juko8kGgDN.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Miranda",
+     "n": "Evan Rachel Wood"
+    },
+    {
+     "c": "Pepper",
+     "n": "Willis Burks II"
+    },
+    {
+     "c": "Kelly",
+     "n": "Kathleen Wilhoite"
+    },
+    {
+     "c": "McDonald´s Manager",
+     "n": "Arthur Santiago"
+    },
+    {
+     "c": "Applebee´s Manager",
+     "n": "Anne L. Nathan"
+    },
+    {
+     "c": "McDonald´s Customer",
+     "n": "Ashley Greene"
+    },
+    {
+     "c": "Boy",
+     "n": "Ian Hopps"
+    },
+    {
+     "c": "Doug",
+     "n": "Paul Lieber"
+    },
+    {
+     "c": "Rita",
+     "n": "Laura Kachergus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Cahill"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 5718,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Charlie gets released from an insane asylum and moves in with Miranda, the young daughter he left behind. Charlie believes that there is treasure hidden beneath the local Costco, so he puts together a plan to unearth the loot. By convincing Miranda to quit her job at McDonald's and instead work at the wholesale store, he is able to obtain a key. Although Miranda is skeptical, she helps her father with his irrational quest.",
+   "popularity": 1.1336,
+   "poster_path": "/zLoa3oJ83zo9g3mV9LNCHbqO7jH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-01-24",
+   "revenue": 1045786,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You've got to believe in treasure to find it.",
+   "title": "King of California",
+   "trailer": {
+    "key": "vJmZWm2rpEg",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.446,
+   "vote_count": 404
+  },
+  "movie:736918": {
+   "backdrop_path": "/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jacob Turner",
+     "n": "Justin Hartley"
+    },
+    {
+     "c": "Rachel Campbell",
+     "n": "Barrett Doss"
+    },
+    {
+     "c": "Ellie Foster",
+     "n": "Bonnie Bedelia"
+    },
+    {
+     "c": "Noel Hayden",
+     "n": "Essence Atkins"
+    },
+    {
+     "c": "Scott Turner",
+     "n": "James Remar"
+    },
+    {
+     "c": "Matt Segreto",
+     "n": "Aaron Costa Ganis"
+    },
+    {
+     "c": "Ian Page",
+     "n": "Jeff Corbett"
+    },
+    {
+     "c": "Svetlana",
+     "n": "Andrea Sooch"
+    },
+    {
+     "c": "Book Store Owner",
+     "n": "Lucia Spina"
+    },
+    {
+     "c": "Young Noel",
+     "n": "Shelby Reitman Renee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Charles Shyer"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 736918,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cleaning out his childhood home at Christmas, a novelist meets a woman searching for her birth mother. Will an old diary unlock their pasts — and hearts?",
+   "popularity": 2.3768,
+   "poster_path": "/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-11-24",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Noel Diary",
+   "trailer": {
+    "key": "asH6ny4ILzM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.286,
+   "vote_count": 415
   },
   "movie:813418": {
    "backdrop_path": "/mATo9RWAc7IWGVbetpmmKJqWDiJ.jpg",

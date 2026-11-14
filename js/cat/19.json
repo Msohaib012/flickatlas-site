@@ -1,6 +1,6 @@
 {
  "bucket": "19",
- "count": 33,
+ "count": 40,
  "titles": {
   "movie:1168719": {
    "backdrop_path": "/iOIc1rD53iF5D5y5pVGEs8uUTVc.jpg",
@@ -268,6 +268,172 @@
    "type": "movie",
    "vote_average": 7.678,
    "vote_count": 481
+  },
+  "movie:133919": {
+   "backdrop_path": "/prQE97Ds6ElKtTuemJRCvGJFlZz.jpg",
+   "budget": 150000,
+   "cast": [
+    {
+     "c": "Marianne",
+     "n": "Liv Ullmann"
+    },
+    {
+     "c": "Johan",
+     "n": "Erland Josephson"
+    },
+    {
+     "c": "Katarina",
+     "n": "Bibi Andersson"
+    },
+    {
+     "c": "Peter",
+     "n": "Jan Malmsjö"
+    },
+    {
+     "c": "Eva",
+     "n": "Gunnel Lindblom"
+    },
+    {
+     "c": "Modern",
+     "n": "Wenche Foss"
+    },
+    {
+     "c": "Arne",
+     "n": "Bertil Norström"
+    },
+    {
+     "c": "Mrs. Palm",
+     "n": "Anita Wall"
+    },
+    {
+     "c": "Young Eva",
+     "n": "Rossana Mariano"
+    },
+    {
+     "c": "Karin",
+     "n": "Lena Bergman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ingmar Bergman"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 133919,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "Johan and Marianne are married and seem to have it all. Their happiness, however, is a façade for a troubled relationship, which becomes even rockier when Johan admits that he's having an affair. Before long, the spouses separate and move towards finalizing their divorce, but they make attempts at reconciling. Even as they pursue other relationships, Johan and Marianne realize that they have a significant bond, but also many issues that hinder that connection.",
+   "popularity": 2.3891,
+   "poster_path": "/ArKEdvJesIktFX8OAhcdKAOLl6I.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-09-15",
+   "revenue": 0,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Scenes from a Marriage",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 419
   },
   "movie:1436219": {
    "backdrop_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
@@ -1025,6 +1191,103 @@
    "vote_average": 7.462,
    "vote_count": 487
   },
+  "movie:16219": {
+   "backdrop_path": "/rE3t6AnaTWzX1i02ntO3jwrWIts.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Tommy Riley",
+     "n": "James Marshall"
+    },
+    {
+     "c": "Spits (Leroy)",
+     "n": "T.E. Russell"
+    },
+    {
+     "c": "Abraham Lincoln Haines",
+     "n": "Cuba Gooding Jr."
+    },
+    {
+     "c": "Pappy Jack",
+     "n": "Robert Loggia"
+    },
+    {
+     "c": "Jimmy Horn",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Noah",
+     "n": "Ossie Davis"
+    },
+    {
+     "c": "Dawn",
+     "n": "Cara Buono"
+    },
+    {
+     "c": "Father in Park",
+     "n": "Richard Lexsee"
+    },
+    {
+     "c": "John Riley",
+     "n": "John Heard"
+    },
+    {
+     "c": "Romano",
+     "n": "Jon Seda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rowdy Herrington"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 16219,
+   "industry": "world",
+   "origin_country": [],
+   "original_language": "en",
+   "overview": "Tommy Riley has moved with his dad to Chicago from a 'nice place'. He keeps to himself, goes to school. However, after a street fight, he's noticed and quickly falls into the world of illegal underground boxing — where punches can kill.",
+   "popularity": 4.0822,
+   "poster_path": "/w0YjBWVfu689txEXZG3xa4Aev3i.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-03-06",
+   "revenue": 9223441,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nobody owns Tommy Riley. Nobody.",
+   "title": "Gladiator",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.661,
+   "vote_count": 437
+  },
   "movie:1637319": {
    "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
    "budget": 0,
@@ -1260,6 +1523,373 @@
    "type": "movie",
    "vote_average": 6.806,
    "vote_count": 108
+  },
+  "movie:18519": {
+   "backdrop_path": "/651HXaynmumQkpVfHCAIOdOXa34.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Jesse",
+     "n": "Jason James Richter"
+    },
+    {
+     "c": "Randolph Johnson",
+     "n": "August Schellenberg"
+    },
+    {
+     "c": "Drew Halbert",
+     "n": "Annie Corley"
+    },
+    {
+     "c": "Max Wesley",
+     "n": "Vincent Berry"
+    },
+    {
+     "c": "John Wesley",
+     "n": "Patrick Kilpatrick"
+    },
+    {
+     "c": "Mary Wesley",
+     "n": "Tasha Simms"
+    },
+    {
+     "c": "Sanderson",
+     "n": "Peter LaCroix"
+    },
+    {
+     "c": "Dineen",
+     "n": "Stephen E. Miller"
+    },
+    {
+     "c": "Kron",
+     "n": "Ian Tracey"
+    },
+    {
+     "c": "Captain Drake",
+     "n": "Matthew Walker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sam Pillsbury"
+   ],
+   "genres": [
+    "Family",
+    "Adventure"
+   ],
+   "id": 18519,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Willy the whale is back, this time threatened by illegal whalers making money off sushi. Jesse, now 16, has taken a job on an orca-researching ship, along with old friend Randolph and a sarcastic scientist, Drew. On the whaler's ship is captain John Wesley and his son, Max, who isn't really pleased about his father's job, but doesn't have the gut to say so. Along the way, Willy reunites with Jesse.",
+   "popularity": 2.4916,
+   "poster_path": "/xzca4bxgP2aEMlPTyq5vqhsunFB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-08-06",
+   "revenue": 3446539,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "A new friend. A new threat. A new adventure that will capture your heart.",
+   "title": "Free Willy 3: The Rescue",
+   "trailer": {
+    "key": "cMYTTn4Pzmk",
+    "name": "Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 403
+  },
+  "movie:25319": {
+   "backdrop_path": "/oHVfPPSlii66NTQpOrRurivfrDW.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Prince Prospero",
+     "n": "Vincent Price"
+    },
+    {
+     "c": "Juliana",
+     "n": "Hazel Court"
+    },
+    {
+     "c": "Francesca",
+     "n": "Jane Asher"
+    },
+    {
+     "c": "Gino",
+     "n": "David Weston"
+    },
+    {
+     "c": "Ludovico",
+     "n": "Nigel Green"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Patrick Magee"
+    },
+    {
+     "c": "Scarlatti",
+     "n": "Paul Whitsun-Jones"
+    },
+    {
+     "c": "Guard",
+     "n": "Robert Brown"
+    },
+    {
+     "c": "Señor Veronese",
+     "n": "Julian Burton"
+    },
+    {
+     "c": "Lead Villager",
+     "n": "David Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Roger Corman"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 25319,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+   "popularity": 2.1599,
+   "poster_path": "/sSYceyGZrWskWDsn3MHtipJ1wFM.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qUSKopZ7YFZ6N1dUpTbNhgZd5FH.png",
+     "name": "ScreenPix Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu1q89warmeMRwZRMgWQSl6GIYV.png",
+     "name": "ScreenPix Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1964-10-30",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Horror has a face.",
+   "title": "The Masque of the Red Death",
+   "trailer": {
+    "key": "clT8P-v9uso",
+    "name": "MASQUE OF THE RED DEATH - Newly restored Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 387
   },
   "movie:315319": {
    "backdrop_path": "/x3eG6tbATEyciH3P0mBnLlOUsIg.jpg",
@@ -1540,6 +2170,194 @@
    "type": "movie",
    "vote_average": 7.153,
    "vote_count": 499
+  },
+  "movie:43919": {
+   "backdrop_path": "/sh9aRWXveSCeY2TDgNv3UzXAUb9.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Marybeth Dunstan",
+     "n": "Danielle Harris"
+    },
+    {
+     "c": "Victor Crowley / Thomas Crowley",
+     "n": "Kane Hodder"
+    },
+    {
+     "c": "Reverend Zombie",
+     "n": "Tony Todd"
+    },
+    {
+     "c": "Justin",
+     "n": "Parry Shen"
+    },
+    {
+     "c": "Trent",
+     "n": "R.A. Mihailoff"
+    },
+    {
+     "c": "Layton",
+     "n": "AJ Bowen"
+    },
+    {
+     "c": "Cleatus",
+     "n": "Ed Ackerman"
+    },
+    {
+     "c": "Avery",
+     "n": "Alexis Kendra"
+    },
+    {
+     "c": "Chad",
+     "n": "David Foy"
+    },
+    {
+     "c": "Vernon",
+     "n": "Colton Dunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Green"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 43919,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Picking up right where the original ended, Marybeth escapes the clutches of the swamp-dwelling killer Victor Crowley. After learning the truth about her family’s connection to the hatchet-wielding madman, Marybeth returns to the Louisiana swamps along with an army of hunters to recover the bodies of her family and exact the bloodiest revenge against the bayou butcher.",
+   "popularity": 1.9228,
+   "poster_path": "/k1lzmRZUGDejyV11JnD79yrEHiE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Bloodstream"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-01",
+   "revenue": 156190,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Victor Crowley lives.",
+   "title": "Hatchet II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.526,
+   "vote_count": 426
   },
   "movie:463319": {
    "backdrop_path": "/1A0h3Bek2eyxHNRikyZdXDGXxdS.jpg",
@@ -1875,6 +2693,206 @@
    "type": "movie",
    "vote_average": 7.286,
    "vote_count": 468
+  },
+  "movie:492719": {
+   "backdrop_path": "/yv7jikZJrSa6MbogIns6m1sYwUC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Haruo Sakaki (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Adam Bindewald (voice)",
+     "n": "Yuki Kaji"
+    },
+    {
+     "c": "Martin Lazzari (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Metphies (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Mulu-elu Galu-gu (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Yuko Tani (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Rilu-elu Belu-be (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Unberto Mori (voice)",
+     "n": "Kenyu Horiuchi"
+    },
+    {
+     "c": "Halu-elu Dolu-do (voice)",
+     "n": "Kazuya Nakai"
+    },
+    {
+     "c": "Endurph / Munak (voice)",
+     "n": "Kazuhiro Yamaji"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Hiroyuki Seshita",
+    "Kobun Shizuno"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction"
+   ],
+   "id": 492719,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Humanity's desperate battle to reclaim the Earth from Godzilla continues. The key to defeating the King of the Monsters may be Mechagodzilla, a robotic weapon thought to have been lost nearly 20,000 years ago.",
+   "popularity": 5.5659,
+   "poster_path": "/2ly3TlqtlKzuhCmMuvAlXZA46e9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-18",
+   "revenue": 876000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The last hope of mankind Mechagodzilla, is activated.",
+   "title": "Godzilla: City on the Edge of Battle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.55,
+   "vote_count": 420
+  },
+  "movie:919": {
+   "backdrop_path": "/17s9ojb8j8QnBGCfqDUJraXLlFi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Saya (voice)",
+     "n": "Youki Kudoh"
+    },
+    {
+     "c": "Nurse Makiho Caroline Amano (voice)",
+     "n": "Saemi Nakamura"
+    },
+    {
+     "c": "David (voice)",
+     "n": "Joe Romersa"
+    },
+    {
+     "c": "Sharon (voice)",
+     "n": "Rebecca Forstadt"
+    },
+    {
+     "c": "Teacher (voice)",
+     "n": "Tom Fahn"
+    },
+    {
+     "c": "S.P. #1 (voice)",
+     "n": "Fitz Houston"
+    },
+    {
+     "c": "School Headmaster (voice)",
+     "n": "Paul Carr"
+    },
+    {
+     "c": "S.P. #2 (voice)",
+     "n": "Steve Blum"
+    },
+    {
+     "c": "Policeman (voice)",
+     "n": "Mitsuo Senda"
+    },
+    {
+     "c": "Miss Maniere (voice)",
+     "n": "Fumiko Osaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Hiroyuki Kitakubo"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Horror",
+    "Action"
+   ],
+   "id": 919,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In Japan, the vampire-hunter Saya, who is a powerful original, is sent by her liaison with the government, David, posed as a teenage student to the Yokota High School on the eve of Halloween to hunt down vampires. Saya asks David to give a new katana to her. Soon she saves the school nurse Makiho Amano from two vampires disguised of classmates and Makiho witnesses her fight against the powerful demon.",
+   "popularity": 2.888,
+   "poster_path": "/uRwR5lcl55n5JSaTiYPwp5KjP6A.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2000-11-18",
+   "revenue": 0,
+   "runtime": 48,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Where evil grows, she preys.",
+   "title": "Blood: The Last Vampire",
+   "trailer": {
+    "key": "tYnciEGup9k",
+    "name": "Blood: The Last Vampire - trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.889,
+   "vote_count": 393
   },
   "movie:9519": {
    "backdrop_path": "/t2voKheYY22L3IM18oavWN164Da.jpg",

@@ -1,7 +1,233 @@
 {
  "bucket": "76",
- "count": 24,
+ "count": 34,
  "titles": {
+  "movie:1005776": {
+   "backdrop_path": "/zLUeVsiJ4mKlqSI7cB7lnxCzSbb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kaleb (segment \"Shredding\")",
+     "n": "Jackson Kelly"
+    },
+    {
+     "c": "Rachel (segment \"Shredding\")",
+     "n": "Jesse LaTourette"
+    },
+    {
+     "c": "Ankur (segment \"Shredding\")",
+     "n": "Keanush Tafreshi"
+    },
+    {
+     "c": "Chris Carbonara (segment \"Shredding\")",
+     "n": "Dashiell Derrickson"
+    },
+    {
+     "c": "RC (segment \"Shredding\")",
+     "n": "Tybee Diskin"
+    },
+    {
+     "c": "Deirdre (segment \"Shredding\")",
+     "n": "Verona Blue"
+    },
+    {
+     "c": "Charissa (segment \"Shredding\")",
+     "n": "Aminah Nieves"
+    },
+    {
+     "c": "Jessie (segment \"Shredding\")",
+     "n": "Kelley Missal"
+    },
+    {
+     "c": "Jessie Deux (segment \"Shredding\")",
+     "n": "Melissa Macedo"
+    },
+    {
+     "c": "Lily (segment \"Suicide Bid\")",
+     "n": "Alexia Ioannides"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Winter",
+    "Vanessa Winter",
+    "Tyler MacIntyre",
+    "Johannes Roberts",
+    "Maggie Levin",
+    "Flying Lotus"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1005776,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A thirsty teenager's home video leads to a series of horrifying revelations, harkening back to the final punk rock analog days of VHS, while taking one giant leap forward into the hellish new millennium.",
+   "popularity": 1.9812,
+   "poster_path": "/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-15",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "VHS goes to hell.",
+   "title": "V/H/S/99",
+   "trailer": {
+    "key": "TjOYlq71kvk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 399
+  },
   "movie:10476": {
    "backdrop_path": "/d4ZrRcwEPmLQvOCyrSdWw5NglGB.jpg",
    "budget": 8000000,
@@ -254,6 +480,130 @@
    "type": "movie",
    "vote_average": 7.075,
    "vote_count": 20
+  },
+  "movie:13376": {
+   "backdrop_path": "/t98noANuotqXJgIcgm3MvcvJCNr.jpg",
+   "budget": 34000000,
+   "cast": [
+    {
+     "c": "Davey / Whitey / Eleanore / Deer (voice)",
+     "n": "Adam Sandler"
+    },
+    {
+     "c": "Jennifer (voice)",
+     "n": "Jackie Sandler"
+    },
+    {
+     "c": "Mayor (voice)",
+     "n": "Kevin Nealon"
+    },
+    {
+     "c": "Benjamin (voice)",
+     "n": "Austin Stout"
+    },
+    {
+     "c": "Chinese Waiter / Narrator (voice)",
+     "n": "Rob Schneider"
+    },
+    {
+     "c": "Judge (voice)",
+     "n": "Norm Crosby"
+    },
+    {
+     "c": "Tom Baltezor (voice)",
+     "n": "Jon Lovitz"
+    },
+    {
+     "c": "Victoria's Secret Gown (voice)",
+     "n": "Tyra Banks"
+    },
+    {
+     "c": "Dreidel Kid (voice)",
+     "n": "Jared Sandler"
+    },
+    {
+     "c": "Radio Shack Walkie-Talkie (voice)",
+     "n": "Blake Clark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Seth Kearsley"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 13376,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Davey Stone, a 33-year old party animal, finds himself in trouble with the law after his wild ways go too far.",
+   "popularity": 2.0032,
+   "poster_path": "/p8yiNFvs7q7ymxVAkym3WuYygrn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-27",
+   "revenue": 23833131,
+   "runtime": 76,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The ultimate battle between Naughty and Nice.",
+   "title": "Eight Crazy Nights",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.238,
+   "vote_count": 395
   },
   "movie:1340076": {
    "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
@@ -741,6 +1091,712 @@
    "vote_average": 6.581,
    "vote_count": 482
   },
+  "movie:1776": {
+   "backdrop_path": "/8bPFRgV1kdJuta36UsNAbEbfXng.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Becky Fischer"
+    },
+    {
+     "c": "Self",
+     "n": "Mike Papantonio"
+    },
+    {
+     "c": "Self",
+     "n": "Ted Haggard"
+    },
+    {
+     "c": "Self",
+     "n": "Lou Engle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Heidi Ewing",
+    "Rachel Grady"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1776,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A documentary on kids who attend a summer camp hoping to become the next Billy Graham.",
+   "popularity": 1.2114,
+   "poster_path": "/6ueSRBYaicEYvR2sFHVvptKNaxI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Dox Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-04-18",
+   "revenue": 1013596,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "America is being born again.",
+   "title": "Jesus Camp",
+   "trailer": {
+    "key": "QBxATt-sP7Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.019,
+   "vote_count": 396
+  },
+  "movie:19576": {
+   "backdrop_path": "/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monkey D. Luffy (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Roronoa Zoro (voice)",
+     "n": "Kazuya Nakai"
+    },
+    {
+     "c": "Nami (voice)",
+     "n": "Akemi Okamura"
+    },
+    {
+     "c": "Usopp (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Tobio (voice)",
+     "n": "Yuka Imai"
+    },
+    {
+     "c": "Ganzo (voice)",
+     "n": "Takeshi Aono"
+    },
+    {
+     "c": "Young Ganzo (voice)",
+     "n": "Taiki Matsuno"
+    },
+    {
+     "c": "Woonan (voice)",
+     "n": "Nachi Nozawa"
+    },
+    {
+     "c": "Young Woonan (voice)",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "El Drago (voice)",
+     "n": "Kenji Utsumi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Junji Shimizu"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 19576,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "There once was a pirate known as the Great Gold Pirate Woonan, who obtained almost one-third of the world's gold. Over the course of a few years, the pirate's existence faded, and a legend grew that he disappeared with his gold to a remote island, an island pirates continue to search for. Aboard the Going Merry, Luffy and his crew, starved and reckless, are robbed of their treasure. In an attempt to get it back, they wreck the getaway ship, guided by a young boy named Tobio, who's a captured part of El Drago's pirate crew. El Drago's love for gold has driven him to look for Woonan's island, and thanks to Woonan's treasure map, he finds it. During this time, Luffy's crew have been split up, and despite their own circumstances, they must find a way to stop El Drago from obtaining Woonan's gold.",
+   "popularity": 3.3619,
+   "poster_path": "/6QOrTYafoqzXPWLnR2K8129jTHH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2000-03-04",
+   "revenue": 0,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Set sail for the island of gold!",
+   "title": "One Piece: The Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.046,
+   "vote_count": 414
+  },
+  "movie:242076": {
+   "backdrop_path": "/fQUNZaqJTcG7ARwNfTMlwKS6Jgl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Rivka",
+     "n": "Rebecca Da Costa"
+    },
+    {
+     "c": "Dragna",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Ned",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Larson",
+     "n": "Dominic Purcell"
+    },
+    {
+     "c": "Lizard",
+     "n": "Sticky Fingaz"
+    },
+    {
+     "c": "Guano",
+     "n": "Martin Klebba"
+    },
+    {
+     "c": "Goose",
+     "n": "Theodus Crane"
+    },
+    {
+     "c": "Janet",
+     "n": "Celesta Hodge"
+    },
+    {
+     "c": "Deputy Jones",
+     "n": "Mike Mayhall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Grovic"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 242076,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A criminal waits in a seedy motel for his boss after killing several men to steal a bag.",
+   "popularity": 1.6887,
+   "poster_path": "/iWVuYsgZYhtDVroaxu6zCF5FA63.jpg",
+   "production_countries": [
+    "US",
+    "BS"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-28",
+   "revenue": 56574,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The cat's in the bag.",
+   "title": "The Bag Man",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 389
+  },
+  "movie:24476": {
+   "backdrop_path": "/cI8t4hgzvlodVrPzckGDovNB9HJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Newton",
+     "n": "Judge Reinhold"
+    },
+    {
+     "c": "Beth Newton",
+     "n": "Julia Sweeney"
+    },
+    {
+     "c": "Brennan Newton",
+     "n": "Joe Pichler"
+    },
+    {
+     "c": "Sara Newton",
+     "n": "Michaela Gallo"
+    },
+    {
+     "c": "Tommy",
+     "n": "Mike Ciccolini"
+    },
+    {
+     "c": "Bill",
+     "n": "Jamie Marsh"
+    },
+    {
+     "c": "Penny",
+     "n": "Danielle Keaton"
+    },
+    {
+     "c": "Uncle Morrie",
+     "n": "Frank Gorshin"
+    },
+    {
+     "c": "Kennel Employee",
+     "n": "Holly Mitchell"
+    },
+    {
+     "c": "Officer Ranger Smith",
+     "n": "Mark Carlton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "David Mickey Evans"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 24476,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Everyone's favorite St. Bernard returns in this family film about man's best friend. Richard Newton, his wife Beth and kids Brennan and Sara shove off in their camper for a road trip. Along the way, they gain a new passenger: slobbery Beethoven. The Newtons plan to return Beethoven to his owner -- but not before he turns hero when a pair of thieves enter the picture.",
+   "popularity": 2.1921,
+   "poster_path": "/1se0w1IwJj7APH94qwbnmgnHjI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-07-25",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Buckle up... Beethoven is taking a road trip!",
+   "title": "Beethoven's 3rd",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.149,
+   "vote_count": 390
+  },
+  "movie:2576": {
+   "backdrop_path": "/t5rUpe1MwGP0JwMLbfaMJvAfUsG.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Anne Frank",
+     "n": "Millie Perkins"
+    },
+    {
+     "c": "Otto Frank",
+     "n": "Joseph Schildkraut"
+    },
+    {
+     "c": "Petronella Van Daan",
+     "n": "Shelley Winters"
+    },
+    {
+     "c": "Peter Van Daan",
+     "n": "Richard Beymer"
+    },
+    {
+     "c": "Edith Frank",
+     "n": "Gusti Huber"
+    },
+    {
+     "c": "Hans Van Daan",
+     "n": "Lou Jacobi"
+    },
+    {
+     "c": "Margot Frank",
+     "n": "Diane Baker"
+    },
+    {
+     "c": "Kraler",
+     "n": "Douglas Spencer"
+    },
+    {
+     "c": "Miep Gies",
+     "n": "Dody Heath"
+    },
+    {
+     "c": "Albert Dussell",
+     "n": "Ed Wynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Stevens"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 2576,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true, harrowing story of a young Jewish girl who, with her family and their friends, is forced into hiding in an attic in Nazi-occupied Amsterdam.",
+   "popularity": 2.9493,
+   "poster_path": "/i7kUdUAF9eTxQG7GdR6lKUK96En.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-03-18",
+   "revenue": 0,
+   "runtime": 179,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Hollywood has never made a greater suspense story... a more tender love story... or a finer human drama!",
+   "title": "The Diary of Anne Frank",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 384
+  },
+  "movie:276": {
+   "backdrop_path": "/whgmJ6vRE7o8zszh60kicT1vVSy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jan",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "Jule",
+     "n": "Julia Jentsch"
+    },
+    {
+     "c": "Peter",
+     "n": "Stipe Erceg"
+    },
+    {
+     "c": "Justus Hardenberg",
+     "n": "Burghart Klaußner"
+    },
+    {
+     "c": "Villenbesitzer",
+     "n": "Peer Martiny"
+    },
+    {
+     "c": "Villenbesitzerin",
+     "n": "Petra Zieser"
+    },
+    {
+     "c": "Tochter",
+     "n": "Laura Schmidt"
+    },
+    {
+     "c": "Sohn",
+     "n": "Sebastian Butz"
+    },
+    {
+     "c": "Globalisierungsgegner",
+     "n": "Oliver Bröcker"
+    },
+    {
+     "c": "Vermieter",
+     "n": "Hanns Zischler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Hans Weingartner"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 276,
+   "industry": "world",
+   "origin_country": [
+    "AT",
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Three activists cobble together a kidnapping plot after they encounter a businessman in his home.",
+   "popularity": 1.3041,
+   "poster_path": "/jpiXFtvBYemLbAktLPNx5xDGvJn.jpg",
+   "production_countries": [
+    "AT",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-25",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Every heart is a revolutionary cell.",
+   "title": "The Edukators",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.167,
+   "vote_count": 399
+  },
   "movie:28176": {
    "backdrop_path": "/evVZ3tKKOQ9gxwTGRQRZxh12MGB.jpg",
    "budget": 23000000,
@@ -961,6 +2017,95 @@
    "vote_average": 6.413,
    "vote_count": 436
   },
+  "movie:469876": {
+   "backdrop_path": "/vEoy6veIJ11XXgLslh2HhKWYC4J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ciro",
+     "n": "Ciro Priello"
+    },
+    {
+     "c": "Fabio",
+     "n": "Fabio Balsamo"
+    },
+    {
+     "c": "Tenente Ruzzo",
+     "n": "Simone Russo"
+    },
+    {
+     "c": "Matilda",
+     "n": "Beatrice Arnera"
+    },
+    {
+     "c": "Brandon",
+     "n": "Roberto Zibetti"
+    },
+    {
+     "c": "Felacone Senior",
+     "n": "Fortunato Cerlino"
+    },
+    {
+     "c": "Felacone Junior",
+     "n": "Salvatore Esposito"
+    },
+    {
+     "c": "Se stesso",
+     "n": "Gigi D'Alessio"
+    },
+    {
+     "c": "Madre Ciro",
+     "n": "Rosalia Porcaro"
+    },
+    {
+     "c": "Parcheggiatore",
+     "n": "Marco Mario De Notaris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Francesco Capaldo"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 469876,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Young Ciro Priello, an ultra-skilled Neapolitan graphic, can not find a job that satisfies and appreciates him. After sending the curriculum practically everywhere, he just have to send a copy in space. He will thus be able to work for an alien society based on competence and meritocracy.",
+   "popularity": 0.7839,
+   "poster_path": "/6ACERZQZWcWoKzsEoozXJ8DAXki.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-11-09",
+   "revenue": 822764,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Addio fottuti musi verdi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 399
+  },
   "movie:606876": {
    "backdrop_path": "/fFDapFaawMLjLOoYFNg3aqkIQg6.jpg",
    "budget": 0,
@@ -1137,6 +2282,96 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 486
+  },
+  "movie:6076": {
+   "backdrop_path": "/bYWYTg4Reni6H7AHn4PfIlcty0B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ludo",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "Jürgen Vogel",
+     "n": "Jürgen Vogel"
+    },
+    {
+     "c": "Anna Gotzlowski",
+     "n": "Nora Tschirner"
+    },
+    {
+     "c": "Moritz",
+     "n": "Matthias Schweighöfer"
+    },
+    {
+     "c": "Bello",
+     "n": "Armin Rohde"
+    },
+    {
+     "c": "Typ",
+     "n": "Christian Tramitz"
+    },
+    {
+     "c": "Lilli",
+     "n": "Barbara Rudnik"
+    },
+    {
+     "c": "Anwalt",
+     "n": "Pasquale Aleardi"
+    },
+    {
+     "c": "Richterin",
+     "n": "Sonsee Neu"
+    },
+    {
+     "c": "Celebrity-Braut",
+     "n": "Yvonne Catterfeld"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Til Schweiger"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 6076,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Rainbow press reporter Ludo is sentenced to 8 months, but is released on probation. But he has to work 300 hours for a local daycare center and meets Anna who has unfinished business with him.",
+   "popularity": 1.726,
+   "poster_path": "/4b7dPkUYGoU52xFgVnvUoJhOc8i.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2007-12-01",
+   "revenue": 81303447,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "You always meet twice...",
+   "title": "Rabbit Without Ears",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 430
   },
   "movie:948276": {
    "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",

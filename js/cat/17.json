@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 39,
+ "count": 51,
  "titles": {
   "movie:10217": {
    "backdrop_path": "/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
@@ -163,6 +163,390 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 445
+  },
+  "movie:11217": {
+   "backdrop_path": "/6Mh45I2bE4uEjy19Jk45THEmLd0.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Lars",
+     "n": "Kevin Heffernan"
+    },
+    {
+     "c": "Putman",
+     "n": "Jay Chandrasekhar"
+    },
+    {
+     "c": "Jenny",
+     "n": "Brittany Daniel"
+    },
+    {
+     "c": "Coconut Pete",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Juan",
+     "n": "Steve Lemme"
+    },
+    {
+     "c": "Penelope",
+     "n": "Jordan Ladd"
+    },
+    {
+     "c": "Stacy",
+     "n": "Elena Lyons"
+    },
+    {
+     "c": "Dave",
+     "n": "Paul Soter"
+    },
+    {
+     "c": "Sam",
+     "n": "Erik Stolhanske"
+    },
+    {
+     "c": "Kellie",
+     "n": "Tanja Reichert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jay Chandrasekhar"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 11217,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a serial killer interrupts the fun at the swanky Coconut Pete's Coconut Beach Resort -- a hedonistic island paradise for swingers --- it's up to the club's staff to stop the violence ... or at least hide it!",
+   "popularity": 1.9238,
+   "poster_path": "/9slWyVotwxZNthMcKoeFaK3tgNz.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-02-27",
+   "revenue": 5001655,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A vacation to die for.",
+   "title": "Club Dread",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.167,
+   "vote_count": 416
+  },
+  "movie:1139817": {
+   "backdrop_path": "/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Jung-do",
+     "n": "Kim Woo-bin"
+    },
+    {
+     "c": "Kim Sun-min",
+     "n": "Kim Sung-kyun"
+    },
+    {
+     "c": "Kang Ki-jung",
+     "n": "Lee Hyun-gul"
+    },
+    {
+     "c": "Cho Min-jo",
+     "n": "Park Ji-yeol"
+    },
+    {
+     "c": "Han Byung-soon",
+     "n": "Lee Joong-ok"
+    },
+    {
+     "c": "Moisture",
+     "n": "Kim Yo-han"
+    },
+    {
+     "c": "Writer K",
+     "n": "Kang Hyung-suk"
+    },
+    {
+     "c": "Earthworm",
+     "n": "Cha Wang-hyeon"
+    },
+    {
+     "c": "Lee Sang-woo",
+     "n": "Lee Hae-young"
+    },
+    {
+     "c": "Ha Sun-jung",
+     "n": "Kim Ji-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Jason Kim"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1139817,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+   "popularity": 2.7491,
+   "poster_path": "/pWOiCearczq7zmWo4ASbUIF6HYS.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-12",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Strike crime before it strikes the world.",
+   "title": "Officer Black Belt",
+   "trailer": {
+    "key": "WNkGz6aKFvk",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.679,
+   "vote_count": 390
+  },
+  "movie:11617": {
+   "backdrop_path": "/bcZUdS133kwngC8CXJHD6sRAHDt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Col. Kirby Yorke",
+     "n": "John Wayne"
+    },
+    {
+     "c": "Mrs. Kathleen Yorke",
+     "n": "Maureen O'Hara"
+    },
+    {
+     "c": "Trooper Travis Tyree",
+     "n": "Ben Johnson"
+    },
+    {
+     "c": "Trooper Jefferson 'Jeff' Yorke",
+     "n": "Claude Jarman Jr."
+    },
+    {
+     "c": "Trooper Daniel 'Sandy' Boone",
+     "n": "Harry Carey Jr."
+    },
+    {
+     "c": "Dr. Wilkins",
+     "n": "Chill Wills"
+    },
+    {
+     "c": "Lt. Gen. Philip Sheridan",
+     "n": "J. Carrol Naish"
+    },
+    {
+     "c": "Sgt. Maj. Timothy Quincannon",
+     "n": "Victor McLaglen"
+    },
+    {
+     "c": "U.S. Deputy Marshal",
+     "n": "Grant Withers"
+    },
+    {
+     "c": "Capt. St. Jacques",
+     "n": "Peter Ortiz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "John Ford"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 11617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lt. Col. Kirby Yorke is posted on the Texas frontier to defend settlers against depredations of marauding Apaches. Col. Yorke is under considerable stress by a serious shortage of troops of his command. Tension is added when Yorke's son (whom he hasn't seen in fifteen years), Trooper Jeff Yorke, is one of 18 recruits sent to the regiment.",
+   "popularity": 2.1824,
+   "poster_path": "/zYoK2RkBCmyhIV6UUb6EZLqxmZq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1950-11-15",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "John Ford's Most Powerful Drama. The Breathtaking Saga of the United States Cavalry! The third installment of John Ford's trilogy...",
+   "title": "Rio Grande",
+   "trailer": {
+    "key": "vDLoMsAhY-8",
+    "name": "RIO GRANDE (Masters of Cinema) New & Exclusive Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.754,
+   "vote_count": 412
   },
   "movie:1180417": {
    "backdrop_path": "/bUktSJyiZIs4qPpMopjz2NMY0s9.jpg",
@@ -617,6 +1001,243 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 23
+  },
+  "movie:12517": {
+   "backdrop_path": "/6PKtrsAGNKOFKbdRkdKlKQLQInT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marc Stevens",
+     "n": "Laurent Lucas"
+    },
+    {
+     "c": "M. Bartel",
+     "n": "Jackie Berroyer"
+    },
+    {
+     "c": "Boris",
+     "n": "Jean-Luc Couchard"
+    },
+    {
+     "c": "Robert Orton",
+     "n": "Philippe Nahon"
+    },
+    {
+     "c": "Tomas Orton",
+     "n": "Philippe Grand'Henry"
+    },
+    {
+     "c": "Fermier Mylène",
+     "n": "Jo Prestia"
+    },
+    {
+     "c": "Lucien",
+     "n": "Marc Lefebvre"
+    },
+    {
+     "c": "Roland",
+     "n": "Alfred David"
+    },
+    {
+     "c": "Géant",
+     "n": "Alain Delaunois"
+    },
+    {
+     "c": "Mademoiselle Vicky",
+     "n": "Brigitte Lahaie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Fabrice Du Welz"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 12517,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A few days before Christmas, traveling entertainer Marc Stevens is stuck at nightfall in a remote wood in the swampy Hautes Fagnes region of Liège when his van breaks down. An odd chap who's looking for a lost dog then leads Marc to a shuttered inn.",
+   "popularity": 1.3969,
+   "poster_path": "/vFQOoXIBZP1cokmy8ow7yKKrXVZ.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "LU"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "IndiePix Unlimited Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/om1AJmTFbc4B82HszpqJElsMshe.png",
+     "name": "IndiePix Unlimited Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-03-09",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Some people would kill for company.",
+   "title": "Calvaire",
+   "trailer": {
+    "key": "Tcg8Un3N78E",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.936,
+   "vote_count": 388
   },
   "movie:1318417": {
    "backdrop_path": "/6Ysw2aEUujGSIGve8x9y5uAFwZA.jpg",
@@ -1247,6 +1868,122 @@
    "vote_average": 7.78,
    "vote_count": 25
   },
+  "movie:15917": {
+   "backdrop_path": "/aqIOQ5UrEGgRTq35BNbwgy7MIU2.jpg",
+   "budget": 6663555,
+   "cast": [
+    {
+     "c": "Devdas Mukherjee",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Parvati \"Paro\" Chakraborty",
+     "n": "Aishwarya Rai Bachchan"
+    },
+    {
+     "c": "Chandramukhi",
+     "n": "Madhuri Dixit"
+    },
+    {
+     "c": "Chunnilal",
+     "n": "Jackie Shroff"
+    },
+    {
+     "c": "Kaushalya Mukherjee",
+     "n": "Smita Jaykar"
+    },
+    {
+     "c": "Dwijdas Mukherjee",
+     "n": "Manoj Joshi"
+    },
+    {
+     "c": "Kumud Mukherjee",
+     "n": "Ananya Khare"
+    },
+    {
+     "c": "Kalibabu",
+     "n": "Milind Gunaji"
+    },
+    {
+     "c": "Bhuvan's Mother",
+     "n": "Dina Pathak"
+    },
+    {
+     "c": "Sumitra Chakraborty",
+     "n": "Kirron Kher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Sanjay Leela Bhansali"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 15917,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "In 1900s India, Calcuttan zamindar Devdas Mukherjee — unable to marry his lover — takes up alcohol and the company of a courtesan to alleviate the pain.",
+   "popularity": 2.2556,
+   "poster_path": "/4IJObbE9c3rO0bZxMwMtt5n9g2n.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Eros Now Select Apple TV channel"
+    },
+    {
+     "name": "Eros Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+     "name": "Eros Now Select Apple TV channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-07-12",
+   "revenue": 13311117,
+   "runtime": 185,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A grand saga of timeless love.",
+   "title": "Devdas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 400
+  },
   "movie:1631917": {
    "backdrop_path": "/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
    "budget": 0,
@@ -1768,6 +2505,690 @@
    "vote_average": 7.983,
    "vote_count": 475
   },
+  "movie:382517": {
+   "backdrop_path": "/lvxznRSXxzmGGh4kicfmYvZhedK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elliot / Mr. Weenie (voice)",
+     "n": "William Townsend"
+    },
+    {
+     "c": "Boog (voice)",
+     "n": "Donny Lucas"
+    },
+    {
+     "c": "Giselle (voice)",
+     "n": "Melissa Sturm"
+    },
+    {
+     "c": "Ed (voice)",
+     "n": "Garry Chalk"
+    },
+    {
+     "c": "Edna / Bobbie / Tree-Hugger Lady (voice)",
+     "n": "Kathleen Barr"
+    },
+    {
+     "c": "Shaw / Werewolf / Deputy #1 (voice)",
+     "n": "Trevor Devall"
+    },
+    {
+     "c": "Ian / Reilly / Tree-Hugger Man (voice)",
+     "n": "Brian Drummond"
+    },
+    {
+     "c": "McSquizzy / Buddy / Deputy #2 (voice)",
+     "n": "Lee Tockar"
+    },
+    {
+     "c": "Rosie / Marcia (voice)",
+     "n": "Shannon Chan-Kent"
+    },
+    {
+     "c": "Maria (voice)",
+     "n": "Michelle Murdocca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Feiss"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure",
+    "TV Movie"
+   ],
+   "id": 382517,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The humans and animals believe a werewolf is on the loose, and former hunter Shaw uses the opportunity to re-open the season. Boog, Elliot, and Mr. Weenie have to face their fears and find the werewolf to get the season closed permanently.",
+   "popularity": 4.2324,
+   "poster_path": "/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-18",
+   "revenue": 1774429,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Elliot is on an adventure to take the Boo out of Boog!",
+   "title": "Open Season: Scared Silly",
+   "trailer": {
+    "key": "Z3nGcP8fews",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 401
+  },
+  "movie:40817": {
+   "backdrop_path": "/zq8NTyMCvLmQAHLCgzCX3uGkLMo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Giulia",
+     "n": "Vittoria Puccini"
+    },
+    {
+     "c": "Marco",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Paolo",
+     "n": "Claudio Santamaria"
+    },
+    {
+     "c": "Adriano",
+     "n": "Giorgio Pasotti"
+    },
+    {
+     "c": "Alberto",
+     "n": "Marco Cocci"
+    },
+    {
+     "c": "Livia",
+     "n": "Sabrina Impacciatore"
+    },
+    {
+     "c": "Veronica",
+     "n": "Daniela Piazza"
+    },
+    {
+     "c": "Lorenzo",
+     "n": "Primo Reggiani"
+    },
+    {
+     "c": "Madre di Paolo",
+     "n": "Lina Bernardi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Muccino"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 40817,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A look at the lives of Carlo, Giulia, and their friends some 10 years after the events of L'Ultimo bacio.",
+   "popularity": 0.7639,
+   "poster_path": "/7rU1NwjibQvYl48H3Z1rLHyAckY.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-29",
+   "revenue": 0,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kiss Me Again",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.753,
+   "vote_count": 392
+  },
+  "movie:41517": {
+   "backdrop_path": "/lXI2fhjeoah5d5pxoR9GMogb6Q3.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Shekhar Subramaniam / G.One",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Ra.One",
+     "n": "Arjun Rampal"
+    },
+    {
+     "c": "Sonia S. Subramanium",
+     "n": "Kareena Kapoor Khan"
+    },
+    {
+     "c": "Prateek",
+     "n": "Armaan Verma"
+    },
+    {
+     "c": "Akaashi",
+     "n": "Tom Wu"
+    },
+    {
+     "c": "Jenny Nayar",
+     "n": "Shahana Goswami"
+    },
+    {
+     "c": "Barron",
+     "n": "Dalip Tahil"
+    },
+    {
+     "c": "Iyer",
+     "n": "Satish Shah"
+    },
+    {
+     "c": "Taxi Driver",
+     "n": "Suresh Menon"
+    },
+    {
+     "c": "Airport Security Guard",
+     "n": "Atul Sharma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Anubhav Sinha"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 41517,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+   "popularity": 1.868,
+   "poster_path": "/qwC3rbgCI0frJpRxVm74Ak3ktpU.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Eros Now Select Apple TV channel"
+    },
+    {
+     "name": "Eros Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+     "name": "Eros Now Select Apple TV channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-26",
+   "revenue": 35911689,
+   "runtime": 156,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Yes, angels do exist.",
+   "title": "Ra.One",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.757,
+   "vote_count": 409
+  },
+  "movie:4917": {
+   "backdrop_path": "/sWOQBQYkJvm8W7HGk6J8OAjPl2V.jpg",
+   "budget": 400000,
+   "cast": [
+    {
+     "c": "Vic",
+     "n": "Don Johnson"
+    },
+    {
+     "c": "Quilla June Holmes",
+     "n": "Susanne Benton"
+    },
+    {
+     "c": "Lou Craddock",
+     "n": "Jason Robards"
+    },
+    {
+     "c": "Blood (Voice)",
+     "n": "Tim McIntire"
+    },
+    {
+     "c": "Dr. Moore",
+     "n": "Alvy Moore"
+    },
+    {
+     "c": "Mez Smith",
+     "n": "Helene Winston"
+    },
+    {
+     "c": "Preacher",
+     "n": "Charles McGraw"
+    },
+    {
+     "c": "Michael",
+     "n": "Hal Baylor"
+    },
+    {
+     "c": "Fellini",
+     "n": "Ron Feinberg"
+    },
+    {
+     "c": "Gery",
+     "n": "Michael Rupert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "L.Q. Jones"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Comedy"
+   ],
+   "id": 4917,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the year 2024 in post-apocalyptic America, 18-year old Vic and his telepathic dog, Blood, are scavengers in the desolate wilderness ravaged by World War IV, where survivors must battle for food and shelter in the desert-like wasteland. Vic and Blood eke out a meager existence, foraging for food and fighting gangs of cutthroats.",
+   "popularity": 2.3804,
+   "poster_path": "/dMbkoFzD5sEQvEaqRsIh4pTBJVq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1975-03-23",
+   "revenue": 6900000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A rather kinky tale of survival.",
+   "title": "A Boy and His Dog",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 410
+  },
+  "movie:511817": {
+   "backdrop_path": "/apBUC70udhxoLzXo7DqclQ6gcXo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kat Elliot (voice)",
+     "n": "Lyric Ross"
+    },
+    {
+     "c": "Wendell (voice)",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Wild (voice)",
+     "n": "Jordan Peele"
+    },
+    {
+     "c": "Raúl Cocolotl (voice)",
+     "n": "Sam Zelaya"
+    },
+    {
+     "c": "Father Bests (voice)",
+     "n": "James Hong"
+    },
+    {
+     "c": "Sister Helley (voice)",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Wilma Elliot (voice)",
+     "n": "Gabrielle Dennis"
+    },
+    {
+     "c": "Delroy Elliot (voice)",
+     "n": "Gary Gatewood"
+    },
+    {
+     "c": "Manberg (voice)",
+     "n": "Igal Naor"
+    },
+    {
+     "c": "Siobhan (voice)",
+     "n": "Tamara Smart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Henry Selick"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Horror"
+   ],
+   "id": 511817,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two scheming demons strike a deal with a punk rock-loving teen so they can leave the Underworld and live out their dreams in the Land of the Living.",
+   "popularity": 2.96,
+   "poster_path": "/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-21",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's time to face your demons.",
+   "title": "Wendell & Wild",
+   "trailer": {
+    "key": "tJp5pLsXhgo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.592,
+   "vote_count": 407
+  },
+  "movie:539617": {
+   "backdrop_path": "/p4wHM8TrdGpBGqFMptdc03Gj0zx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monroe",
+     "n": "Griffin Gluck"
+    },
+    {
+     "c": "Zeke",
+     "n": "Pete Davidson"
+    },
+    {
+     "c": "Reuben",
+     "n": "Jon Cryer"
+    },
+    {
+     "c": "Holly",
+     "n": "Sydney Sweeney"
+    },
+    {
+     "c": "Kate",
+     "n": "Emily Arlook"
+    },
+    {
+     "c": "Nick",
+     "n": "mgk"
+    },
+    {
+     "c": "Stacey",
+     "n": "Thomas Barbusca"
+    },
+    {
+     "c": "Sophie",
+     "n": "Oona Laurence"
+    },
+    {
+     "c": "Doug",
+     "n": "Esteban Benito"
+    },
+    {
+     "c": "Sherri",
+     "n": "Julia K. Murney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jason Orley"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 539617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A seemingly bright and mostly innocent 16-year-old named Mo attempts to navigate high school under the guidance of his best friend Zeke, an unmotivated-yet-charismatic college dropout. Although Zeke genuinely cares about Mo, things start to go awry as he teaches Mo nontraditional life lessons in drug dealing, partying, and dating. Meanwhile, Mo’s well-meaning dad tries to step in and take back the reins of his son’s upbringing.",
+   "popularity": 1.401,
+   "poster_path": "/sKbuYWauBbFogZtRBSluYJlrFaA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-13",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Under his influence.",
+   "title": "Big Time Adolescence",
+   "trailer": {
+    "key": "t3PcDo4YcnY",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 400
+  },
   "movie:542417": {
    "backdrop_path": "/etyZEgWCf46AzKKDMQcLoiYKwec.jpg",
    "budget": 0,
@@ -2080,6 +3501,117 @@
    "type": "movie",
    "vote_average": 6.174,
    "vote_count": 458
+  },
+  "movie:629017": {
+   "backdrop_path": "/hUfnYsVMmXcbcwzWHr62jTtpdkE.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Zoe Hull",
+     "n": "Isabel May"
+    },
+    {
+     "c": "Todd Hull",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Jennifer Hull",
+     "n": "Radha Mitchell"
+    },
+    {
+     "c": "Tristan Voy",
+     "n": "Eli Brown"
+    },
+    {
+     "c": "Lewis Washington",
+     "n": "Olly Sholotan"
+    },
+    {
+     "c": "Sheriff Tarsy",
+     "n": "Treat Williams"
+    },
+    {
+     "c": "Mrs. Crawford",
+     "n": "Barbara Crampton"
+    },
+    {
+     "c": "Kip Quade",
+     "n": "Cyrus Arnold"
+    },
+    {
+     "c": "Chris Jelick",
+     "n": "Britton Sear"
+    },
+    {
+     "c": "Anna Jelick",
+     "n": "Catherine Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kyle Rankin"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 629017,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A 17-year-old girl uses her wits, survival skills, and compassion to fight for her life, and those of her fellow classmates, against a group of live-streaming school shooters.",
+   "popularity": 3.2169,
+   "poster_path": "/wlP25H14OvKoFORIwuKomZzioA5.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-06-17",
+   "revenue": 34561,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Run Hide Fight",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 388
   },
   "movie:6917": {
    "backdrop_path": "/vxRUX12ZXoTwffLcqS7RAZqcknj.jpg",

@@ -1,7 +1,135 @@
 {
  "bucket": "42",
- "count": 32,
+ "count": 39,
  "titles": {
+  "movie:11042": {
+   "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Rémy",
+     "n": "Rémy Girard"
+    },
+    {
+     "c": "Sébastien",
+     "n": "Stéphane Rousseau"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Marie-Josée Croze"
+    },
+    {
+     "c": "Louise",
+     "n": "Dorothée Berryman"
+    },
+    {
+     "c": "Diane Leonard",
+     "n": "Louise Portal"
+    },
+    {
+     "c": "Dominique St. Arnaud",
+     "n": "Dominique Michel"
+    },
+    {
+     "c": "Pierre Citrouillard",
+     "n": "Pierre Curzi"
+    },
+    {
+     "c": "Claude",
+     "n": "Yves Jacques"
+    },
+    {
+     "c": "Gaëlle",
+     "n": "Marina Hands"
+    },
+    {
+     "c": "First Lover",
+     "n": "Sophie Lorain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Denys Arcand"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 11042,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "fr",
+   "overview": "In this belated sequel to 'The Decline of the American Empire', middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy's old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.",
+   "popularity": 1.945,
+   "poster_path": "/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-05-01",
+   "revenue": 34883010,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about sex, friendship, and all other things that invade our lives.",
+   "title": "The Barbarian Invasions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.048,
+   "vote_count": 430
+  },
   "movie:1124142": {
    "backdrop_path": "/sUPFV7bilTqMRILfbUgpbV4Aj9n.jpg",
    "budget": 6000000,
@@ -823,6 +951,97 @@
    "vote_average": 7.747,
    "vote_count": 464
   },
+  "movie:13742": {
+   "backdrop_path": "/8RblQZM2gy2K8AQ2RXP7UzEW8jW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joseph",
+     "n": "Vincent Cassel"
+    },
+    {
+     "c": "Bart",
+     "n": "Olivier Barthélémy"
+    },
+    {
+     "c": "Eve",
+     "n": "Roxane Mesquida"
+    },
+    {
+     "c": "Yasmine",
+     "n": "Leïla Bekhti"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Julie-Marie Parmentier"
+    },
+    {
+     "c": "Ladj",
+     "n": "Ladj Ly"
+    },
+    {
+     "c": "Thaï",
+     "n": "Nico Le Phat Tan"
+    },
+    {
+     "c": "Maurice",
+     "n": "Gérald Thomassin"
+    },
+    {
+     "c": "Marie",
+     "n": "Georgette Crochon"
+    },
+    {
+     "c": "Le pompiste / Le chirurgien",
+     "n": "François Levantal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Kim Chapiron"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 13742,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A group of young people leave a disco and bump into a shepherd who is ready to spend his night worshipping Satan.",
+   "popularity": 1.2943,
+   "poster_path": "/f10fK5ELawYMG3VOLwD2I5MdMEF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-02-01",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Satan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.755,
+   "vote_count": 400
+  },
   "movie:1401542": {
    "backdrop_path": "/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
    "budget": 0,
@@ -1444,6 +1663,397 @@
    "vote_average": 6.07,
    "vote_count": 443
   },
+  "movie:25642": {
+   "backdrop_path": "/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Ben Tennyson",
+     "n": "Ryan Kelley"
+    },
+    {
+     "c": "Gwen Tennyson",
+     "n": "Galadriel Stineman"
+    },
+    {
+     "c": "Kevin E. Levin",
+     "n": "Nathan Keyes"
+    },
+    {
+     "c": "Elena Validus",
+     "n": "Alyssa Diaz"
+    },
+    {
+     "c": "Victor Validus",
+     "n": "Herbert Siguenza"
+    },
+    {
+     "c": "Grandpa Max Tennyson",
+     "n": "Barry Corbin"
+    },
+    {
+     "c": "Big Chill / Humongousaur (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Nanomech (voice)",
+     "n": "Alex Winter"
+    },
+    {
+     "c": "Alien Chip Queen (voice)",
+     "n": "Wendy Cutler"
+    },
+    {
+     "c": "Computer (voice)",
+     "n": "Joyce Kurtz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alex Winter"
+   ],
+   "genres": [
+    "Action",
+    "TV Movie",
+    "Science Fiction"
+   ],
+   "id": 25642,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ben and a mysterious girl from his past must prevent an alien threat from destroying the world.",
+   "popularity": 3.383,
+   "poster_path": "/4emrSFOwIlx35OawRcqlwH66TZD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+     "name": "Now TV Cinema",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-11-15",
+   "revenue": 0,
+   "runtime": 69,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Go hero one more time!",
+   "title": "Ben 10: Alien Swarm",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 406
+  },
+  "movie:26842": {
+   "backdrop_path": "/rqODzehgQ8Hl0tcUd7qIcy8Pc9Z.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Hamza",
+     "n": "Anthony Quinn"
+    },
+    {
+     "c": "Hind",
+     "n": "Irene Papas"
+    },
+    {
+     "c": "Abu Sufyan",
+     "n": "Michael Ansara"
+    },
+    {
+     "c": "Bilal",
+     "n": "Johnny Sekka"
+    },
+    {
+     "c": "Khalid",
+     "n": "Michael Forest"
+    },
+    {
+     "c": "Ammar",
+     "n": "Garrick Hagon"
+    },
+    {
+     "c": "Suheil",
+     "n": "Nicholas Amer"
+    },
+    {
+     "c": "Zaid",
+     "n": "Damien Thomas"
+    },
+    {
+     "c": "Abu-Talib",
+     "n": "André Morell"
+    },
+    {
+     "c": "Abu-Jahal",
+     "n": "Martin Benson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Moustapha Akkad"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "History"
+   ],
+   "id": 26842,
+   "industry": "world",
+   "origin_country": [
+    "KW",
+    "LB",
+    "LY",
+    "MA",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In sixth-century Mecca, Prophet Muhammad receives his first revelation from God as a messenger. Three years later, he's not alone in his quest and publicly declares his prophecy. Muhammad is fought by Abu Sufian and his wife Hind, rulers of Mecca. Muhammad's followers are hunted and tortured but he continues his calling.",
+   "popularity": 2.5955,
+   "poster_path": "/qVCBMg4ZuLPnWhIWJHD9IP4nIuY.jpg",
+   "production_countries": [
+    "LY",
+    "GB",
+    "LB",
+    "KW",
+    "MA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-03-09",
+   "revenue": 15000000,
+   "runtime": 178,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For the first time... the vast, spectacular drama that changed the world!",
+   "title": "The Message",
+   "trailer": {
+    "key": "gCyWycOx3nI",
+    "name": "\"The Message\" 2018 Theatrical Re-release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.121,
+   "vote_count": 429
+  },
+  "movie:32042": {
+   "backdrop_path": "/bXZhQAI5Gm06QtN7Kj6JHIuSzc5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Moseby",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Paula",
+     "n": "Jennifer Warren"
+    },
+    {
+     "c": "Tom Iverson",
+     "n": "John Crawford"
+    },
+    {
+     "c": "Ellen Moseby",
+     "n": "Susan Clark"
+    },
+    {
+     "c": "Delilah \"Delly\" Grastner",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Joey Ziegler",
+     "n": "Edward Binns"
+    },
+    {
+     "c": "Marty Heller",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Arlene Iverson",
+     "n": "Janet Ward"
+    },
+    {
+     "c": "Quentin",
+     "n": "James Woods"
+    },
+    {
+     "c": "Nick",
+     "n": "Kenneth Mars"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Arthur Penn"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 32042,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case - a former Hollywood actress wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.",
+   "popularity": 2.0072,
+   "poster_path": "/j3zMCyvhGlpw31BAWLVMEZNPfOX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1975-06-11",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Maybe he would find the girl... maybe he would find himself.",
+   "title": "Night Moves",
+   "trailer": {
+    "key": "6iP6ugUiM4Y",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.717,
+   "vote_count": 390
+  },
   "movie:458342": {
    "backdrop_path": "/6p6H2b4jZrm6V4uf39X21xAPgrK.jpg",
    "budget": 0,
@@ -1550,6 +2160,141 @@
    "type": "movie",
    "vote_average": 6.89,
    "vote_count": 435
+  },
+  "movie:785542": {
+   "backdrop_path": "/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rona",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Daynin",
+     "n": "Paapa Essiedu"
+    },
+    {
+     "c": "Samir",
+     "n": "Nabil Elouahabi"
+    },
+    {
+     "c": "Gloria",
+     "n": "Izuka Hoyle"
+    },
+    {
+     "c": "Julie",
+     "n": "Lauren Lyle"
+    },
+    {
+     "c": "Andrew",
+     "n": "Stephen Dillane"
+    },
+    {
+     "c": "Annie",
+     "n": "Saskia Reeves"
+    },
+    {
+     "c": "Amanda",
+     "n": "Naomi Wirthner"
+    },
+    {
+     "c": "Gary",
+     "n": "Tony Hamilton-Croft"
+    },
+    {
+     "c": "Rita",
+     "n": "Posy Sterling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nora Fingscheidt"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 785542,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.",
+   "popularity": 2.9163,
+   "poster_path": "/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-19",
+   "revenue": 3983828,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't outrun your fate",
+   "title": "The Outrun",
+   "trailer": {
+    "key": "YgzzDQ3OpOk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.742,
+   "vote_count": 391
   },
   "movie:81342": {
    "backdrop_path": "/xFADrLaDM7Lc9eJx9wI5pLqQVMB.jpg",
@@ -2273,6 +3018,128 @@
    "type": "movie",
    "vote_average": 7.8,
    "vote_count": 417
+  },
+  "movie:9842": {
+   "backdrop_path": "/KT4E9HZWkx0rqEnoTWyNhInqPZ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Roger Waddell",
+     "n": "Jon Heder"
+    },
+    {
+     "c": "Dr. P",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Amanda Richards",
+     "n": "Jacinda Barrett"
+    },
+    {
+     "c": "Becky",
+     "n": "Sarah Silverman"
+    },
+    {
+     "c": "Lesher",
+     "n": "Michael Clarke Duncan"
+    },
+    {
+     "c": "Ian",
+     "n": "David Cross"
+    },
+    {
+     "c": "Diego",
+     "n": "Horatio Sanz"
+    },
+    {
+     "c": "Walsh",
+     "n": "Matt Walsh"
+    },
+    {
+     "c": "Eli",
+     "n": "Todd Louiso"
+    },
+    {
+     "c": "Lonnie Ratcliff",
+     "n": "Ben Stiller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Todd Phillips"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 9842,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the hope of winning the woman of his dreams, Amanda, lovelorn meter-reader Roger Wadell enrolls in a secret confidence-building class. The course's title takes on much more meaning when he discovers that his egomaniacal professor Dr. P also wants the same woman. They begin a fierce rivalry that quickly spirals out of control, their pranks and insults get uglier as they try to prove who is the ultimate guy's guy.",
+   "popularity": 1.2333,
+   "poster_path": "/ffudFsgDUBfxbesYELDIrNtKdkz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-29",
+   "revenue": 17800000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life's a game. Learn how to play.",
+   "title": "School for Scoundrels",
+   "trailer": {
+    "key": "H3tN-udFc3c",
+    "name": "Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 396
   },
   "tv:131142": {
    "backdrop_path": "/gPyTsNGmQqZCHJfnI61h5luqXYf.jpg",

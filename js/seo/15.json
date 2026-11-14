@@ -1,7 +1,135 @@
 {
  "bucket": "15",
- "count": 25,
+ "count": 34,
  "titles": {
+  "movie:11215": {
+   "d": "Baby Boom (1987): Drama/Comedy film. Story: J.C. Wiatt is a talented and ambitious New York City… See cast, budget $15M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i3aD438nOLOASyf1KOZrDZxQXfX.jpg",
+   "industry": "world",
+   "k": "Baby Boom, Baby Boom movie, Baby Boom cast, Baby Boom story, Baby Boom box office collection, Baby Boom budget, Baby Boom review, Baby Boom rating, Baby Boom release date, Baby Boom Drama, Baby Boom Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Shepard"
+     },
+     {
+      "@type": "Person",
+      "name": "Harold Ramis"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristina Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Kennedy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Baby Boom (1987): Drama/Comedy film. Story: J.C. Wiatt is a talented and ambitious New York City… See cast, budget $15M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charles Shyer"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i3aD438nOLOASyf1KOZrDZxQXfX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11215",
+    "name": "Baby Boom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11215"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baby Boom (1987)</h1>\n<p class=\"ssr-lead\">J.C. Wiatt is a talented and ambitious New York City career woman who is married to her job and working towards partner at her firm. She has a live-in relationship with Steven, a successful investment broker who, along with J.C., agreed children aren&#x27;t part of the plan. J.C.&#x27;s life takes an unexpected turn when a distant relative dies and the will appoints her the caretaker of their baby girl, Elizabeth. The baby&#x27;s sudden arrival causes Steven to leave, breaking off their relationship. Juggling power lunches and powdered formula, she is soon forced off the fast track by a conniving colleague and a bigoted boss. But she won&#x27;t stay down for long. She&#x27;ll prove to the world that a woman can have it all and on her own terms too!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 1987</li><li>Runtime: 110 minutes</li><li>Director: Charles Shyer</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $15M</li><li>TMDB rating: 6.4/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Diane Keaton as J.C. Wiatt</li><li>Sam Shepard as Dr. Jeff Cooper</li><li>Harold Ramis as Steven Buchner</li><li>Kristina Kennedy as Elizabeth Wiatt</li><li>Michelle Kennedy as Elizabeth Wiatt</li><li>Sam Wanamaker as Fritz Curtis</li><li>James Spader as Ken Arrenberg</li><li>Pat Hingle as Hughes Larrabee</li><li>Britt Leach as Vern Boone</li><li>Mary Gross as Charlotte Elkman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Baby Boom (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:1205515": {
+   "d": "Sorry, Baby (2025): Drama/Comedy film. Story: Agnes feels stuck. Unlike her best friend, Lydie… See cast, budget $1.5M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
+   "industry": "world",
+   "k": "Sorry, Baby, Sorry, Baby movie, Sorry, Baby cast, Sorry, Baby story, Sorry, Baby box office collection, Sorry, Baby budget, Sorry, Baby review, Sorry, Baby rating, Sorry, Baby release date, Sorry, Baby trailer, Sorry, Baby Drama, Sorry, Baby Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eva Victor"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Ackie"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Cancelmi"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly McCormack"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Hedges"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Sorry, Baby (2025): Drama/Comedy film. Story: Agnes feels stuck. Unlike her best friend, Lydie… See cast, budget $1.5M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eva Victor"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1205515",
+    "name": "Sorry, Baby",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1205515"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sorry, Baby (2025)</h1>\n<p class=\"ssr-lead\">Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2025</li><li>Runtime: 103 minutes</li><li>Director: Eva Victor</li><li>Genres: Drama, Comedy</li><li>Budget: $1.5M</li><li>TMDB rating: 6.9/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Victor as Agnes</li><li>Naomi Ackie as Lydie</li><li>Louis Cancelmi as Preston Decker</li><li>Kelly McCormack as Natasha</li><li>Lucas Hedges as Gavin</li><li>John Carroll Lynch as Pete</li><li>Hettienne Park as Eleanor Winston</li><li>E.R. Fightmaster as Fran</li><li>Cody Reiss as Devin</li><li>Jordan Mendoza as Logan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Sorry, Baby (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1280015": {
    "d": "Sunny Dancer (2026): Drama/Comedy film. Story: Reluctantly sent to a summer retreat for young cancer… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
@@ -641,6 +769,397 @@
    "t": "Aloha Scooby-Doo! (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:298115": {
+   "d": "Dragons: Dawn of the Dragon Racers (2014): Animation/Family film. Story: A hunt for a lost sheep turns into a competition… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1tJWJksH1Hxyd2mKQTnR6yATiE2.jpg",
+   "industry": "world",
+   "k": "Dragons: Dawn of the Dragon Racers, Dragons: Dawn of the Dragon Racers movie, Dragons: Dawn of the Dragon Racers cast, Dragons: Dawn of the Dragon Racers story, Dragons: Dawn of the Dragon Racers box office collection, Dragons: Dawn of the Dragon Racers budget, Dragons: Dawn of the Dragon Racers review, Dragons: Dawn of the Dragon Racers rating, Dragons: Dawn of the Dragon Racers release date, Dragons: Dawn of the Dragon Racers Animation, Dragons: Dawn of the Dragon Racers Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jay Baruchel"
+     },
+     {
+      "@type": "Person",
+      "name": "America Ferrera"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Mintz-Plasse"
+     },
+     {
+      "@type": "Person",
+      "name": "T.J. Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Conway"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Dragons: Dawn of the Dragon Racers (2014): Animation/Family film. Story: A hunt for a lost sheep turns into a competition… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Elaine Bogan"
+     },
+     {
+      "@type": "Person",
+      "name": "John Sanford"
+     }
+    ],
+    "duration": "PT26M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1tJWJksH1Hxyd2mKQTnR6yATiE2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=298115",
+    "name": "Dragons: Dawn of the Dragon Racers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=298115"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragons: Dawn of the Dragon Racers (2014)</h1>\n<p class=\"ssr-lead\">A hunt for a lost sheep turns into a competition between Hiccup and friends as they compete to become the first Dragon Racing champion of Berk.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2014</li><li>Runtime: 26 minutes</li><li>Director: Elaine Bogan, John Sanford</li><li>Genres: Animation, Family, Adventure, Comedy, Fantasy</li><li>TMDB rating: 7.2/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jay Baruchel as Hiccup (voice)</li><li>America Ferrera as Astrid (voice)</li><li>Christopher Mintz-Plasse as Fishlegs (voice)</li><li>T.J. Miller as Tuffnut (voice)</li><li>Tim Conway as Mulch (voice)</li><li>Chris Edgerly as Gobber (voice)</li><li>Tom Kenny as Silent Sven (voice)</li><li>Nolan North as Stoick (voice)</li><li>Zack Pearlman as Snotlout (voice)</li><li>Andree Vermeulen as Ruffnut (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dragons: Dawn of the Dragon Racers (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:315": {
+   "d": "Faster, Pussycat! Kill! Kill! (1965): Action/Crime film. Story: A trio of thrill-seeking go-go dancers kidnap a young… See cast and budget $45.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/xsR0iqyWuEwlbl1gkpOyh1dAusy.jpg",
+   "industry": "world",
+   "k": "Faster, Pussycat! Kill! Kill!, Faster, Pussycat! Kill! Kill! movie, Faster, Pussycat! Kill! Kill! cast, Faster, Pussycat! Kill! Kill! story, Faster, Pussycat! Kill! Kill! box office collection, Faster, Pussycat! Kill! Kill! budget, Faster, Pussycat! Kill! Kill! review, Faster, Pussycat! Kill! Kill! rating, Faster, Pussycat! Kill! Kill! release date, Faster, Pussycat! Kill! Kill! Action, Faster, Pussycat! Kill! Kill! Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tura Satana"
+     },
+     {
+      "@type": "Person",
+      "name": "Haji"
+     },
+     {
+      "@type": "Person",
+      "name": "Lori Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Sue Bernard"
+     },
+     {
+      "@type": "Person",
+      "name": "Stuart Lancaster"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Faster, Pussycat! Kill! Kill! (1965): Action/Crime film. Story: A trio of thrill-seeking go-go dancers kidnap a young… See cast and budget $45.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Russ Meyer"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xsR0iqyWuEwlbl1gkpOyh1dAusy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=315",
+    "name": "Faster, Pussycat! Kill! Kill!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1965-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=315"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Faster, Pussycat! Kill! Kill! (1965)</h1>\n<p class=\"ssr-lead\">A trio of thrill-seeking go-go dancers kidnap a young girl and attempt to seduce an old rancher and his two sons out of their small fortune, but their scheme doesn&#x27;t play out as intended.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 1965</li><li>Runtime: 83 minutes</li><li>Director: Russ Meyer</li><li>Genres: Action, Crime, Comedy, Thriller</li><li>Budget: $45.0k</li><li>TMDB rating: 6.4/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tura Satana as Varla</li><li>Haji as Rosie</li><li>Lori Williams as Billie</li><li>Sue Bernard as Linda</li><li>Stuart Lancaster as The Old Man</li><li>Paul Trinka as Kirk</li><li>Dennis Busch as The Vegetable</li><li>Ray Barlow as Tommy</li><li>John Furlong as Narrator (voice)</li><li>Michael Finn as Gas Station Attendant</li></ul>\n</article>",
+   "t": "Faster, Pussycat! Kill! Kill! (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1965"
+  },
+  "movie:536115": {
+   "d": "Godzilla: The Planet Eater (2018): Animation/Science Fiction film. Story: With no means for defeating Godzilla Earth, mankind… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q3j4OQFFDKM6fdQt9gE56kfDBNG.jpg",
+   "industry": "world",
+   "k": "Godzilla: The Planet Eater, Godzilla: The Planet Eater movie, Godzilla: The Planet Eater cast, Godzilla: The Planet Eater story, Godzilla: The Planet Eater box office collection, Godzilla: The Planet Eater budget, Godzilla: The Planet Eater review, Godzilla: The Planet Eater rating, Godzilla: The Planet Eater release date, Godzilla: The Planet Eater Animation, Godzilla: The Planet Eater Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mamoru Miyano"
+     },
+     {
+      "@type": "Person",
+      "name": "Takahiro Sakurai"
+     },
+     {
+      "@type": "Person",
+      "name": "Kana Hanazawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Tomokazu Sugita"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuki Kaji"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Godzilla: The Planet Eater (2018): Animation/Science Fiction film. Story: With no means for defeating Godzilla Earth, mankind… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Seshita"
+     },
+     {
+      "@type": "Person",
+      "name": "Kobun Shizuno"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q3j4OQFFDKM6fdQt9gE56kfDBNG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=536115",
+    "name": "Godzilla: The Planet Eater",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=536115"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla: The Planet Eater (2018)</h1>\n<p class=\"ssr-lead\">With no means for defeating Godzilla Earth, mankind watches as King Ghidorah, clad in a golden light, descends on the planet. The heavens and earth shake once again as the war moves to a higher dimension.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2018</li><li>Runtime: 91 minutes</li><li>Director: Hiroyuki Seshita, Kobun Shizuno</li><li>Genres: Animation, Science Fiction, Action, Adventure</li><li>TMDB rating: 6.5/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mamoru Miyano as Haruo Sakaki (voice)</li><li>Takahiro Sakurai as Metphies (voice)</li><li>Kana Hanazawa as Yuko Tani (voice)</li><li>Tomokazu Sugita as Martin Lazzari (voice)</li><li>Yuki Kaji as Adam Bindewald (voice)</li><li>Reina Ueda as Maina (voice)</li><li>Ari Ozawa as Miana (voice)</li><li>Daisuke Ono as Eliott Leland (voice)</li><li>Kenyu Horiuchi as Unberto Mori (voice)</li><li>Kazuya Nakai as Halu-elu Dolu-do (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Godzilla: The Planet Eater (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:558915": {
+   "d": "The Color Purple (2023): Drama film. Story: A decades-spanning tale of love and resilience and of… See cast, budget $90M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rSle4ix2IZ6UMgCDY8L3ngdOmSZ.jpg",
+   "industry": "world",
+   "k": "The Color Purple, The Color Purple movie, The Color Purple cast, The Color Purple story, The Color Purple box office collection, The Color Purple budget, The Color Purple review, The Color Purple rating, The Color Purple release date, The Color Purple trailer, The Color Purple Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fantasia Barrino"
+     },
+     {
+      "@type": "Person",
+      "name": "Taraji P. Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Brooks"
+     },
+     {
+      "@type": "Person",
+      "name": "Colman Domingo"
+     },
+     {
+      "@type": "Person",
+      "name": "Corey Hawkins"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Color Purple (2023): Drama film. Story: A decades-spanning tale of love and resilience and of… See cast, budget $90M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Blitz Bazawule"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rSle4ix2IZ6UMgCDY8L3ngdOmSZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=558915",
+    "name": "The Color Purple",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=558915"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Color Purple (2023)</h1>\n<p class=\"ssr-lead\">A decades-spanning tale of love and resilience and of one woman&#x27;s journey to independence. Celie faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2023</li><li>Runtime: 141 minutes</li><li>Director: Blitz Bazawule</li><li>Genres: Drama</li><li>Budget: $90M</li><li>TMDB rating: 7.0/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fantasia Barrino as Celie</li><li>Taraji P. Henson as Shug Avery</li><li>Danielle Brooks as Sofia</li><li>Colman Domingo as Mister</li><li>Corey Hawkins as Harpo</li><li>Phylicia Pearl Mpasi as Young Celie</li><li>Halle Bailey as Young Nettie</li><li>Ciara as Nettie</li><li>H.E.R. as Squeak</li><li>David Alan Grier as Reverend Avery</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Color Purple (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:56415": {
+   "d": "A Gang Story (2011): Crime/Drama film. Story: After growing up in a poor gypsy camp, Edmond Vidal… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pzmWjjE7jZVMiTipQSdHykaV2bZ.jpg",
+   "industry": "world",
+   "k": "A Gang Story, A Gang Story movie, A Gang Story cast, A Gang Story story, A Gang Story box office collection, A Gang Story budget, A Gang Story review, A Gang Story rating, A Gang Story release date, A Gang Story trailer, A Gang Story Crime, A Gang Story Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Lanvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Tchéky Karyo"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Duval"
+     },
+     {
+      "@type": "Person",
+      "name": "Dimitri Storoge"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Catalifo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "A Gang Story (2011): Crime/Drama film. Story: After growing up in a poor gypsy camp, Edmond Vidal… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Marchal"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pzmWjjE7jZVMiTipQSdHykaV2bZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=56415",
+    "name": "A Gang Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=56415"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Gang Story (2011)</h1>\n<p class=\"ssr-lead\">After growing up in a poor gypsy camp, Edmond Vidal, aka Momon, has retained a sense of family, unfailing loyalty and pride in his origins. Most of all, he has remained friends with Serge Suttel, with whom he first discovered prison life - for stealing cherries. The two of them inevitably got involved in organized crime. The team they formed, the Ganf Des Lyonnais, made them the most notorious armed robbers of the early 1970s. Their irresistible rise ended in 1974 with a spectacular arrest. Today, as he nears 60, Momon would like to forget that part of his life. He has found peace by retiring from the &quot;business&quot;. He tends to his wife Janou, who suffered so in the past, and to his children and grandchildren, all of whom have great respect for this man of simple and universal values, so clear-headed and full of kindness. But then Serge Suttel, who has disowned nothing of his past, comes back into the picture.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2011</li><li>Runtime: 102 minutes</li><li>Director: Olivier Marchal</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.8/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Lanvin as Edmond &#x27;Momon&#x27; Vidal</li><li>Tchéky Karyo as Serge Suttel</li><li>Daniel Duval as Christo Avetisian</li><li>Dimitri Storoge as Momon Vidal young</li><li>Patrick Catalifo as Commissioner Max Brauner</li><li>François Levantal as Joan Chavez</li><li>Francis Renaud as Brandon</li><li>Lionnel Astier as Dany Devedjian</li><li>Valéria Cavalli as Janou Vidal</li><li>Estelle Skornik as Lilou Suttel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li></ul>\n</article>",
+   "t": "A Gang Story (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:629015": {
+   "d": "Shut In (2022): Thriller/Horror film. Story: A young single mother is held captive along with her… See cast, TMDB rating 6.7/10, and release date 24 March 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/ufagam4FwlIcgPqJlr21EshNkNd.jpg",
+   "industry": "world",
+   "k": "Shut In, Shut In movie, Shut In cast, Shut In story, Shut In box office collection, Shut In budget, Shut In review, Shut In rating, Shut In release date, Shut In trailer, Shut In Thriller, Shut In Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rainey Qualley"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Gallo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Horowitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Luciana VanDette"
+     },
+     {
+      "@type": "Person",
+      "name": "Aidan Steimer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Shut In (2022): Thriller/Horror film. Story: A young single mother is held captive along with her… See cast, TMDB rating 6.7/10, and release date 24 March 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "D.J. Caruso"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ufagam4FwlIcgPqJlr21EshNkNd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=629015",
+    "name": "Shut In",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-03-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=629015"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shut In (2022)</h1>\n<p class=\"ssr-lead\">A young single mother is held captive along with her two children by a violent ex and must plot their escape before it’s too late.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 March 2022</li><li>Runtime: 90 minutes</li><li>Director: D.J. Caruso</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 6.7/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rainey Qualley as Jessica</li><li>Vincent Gallo as Sammy</li><li>Jake Horowitz as Rob</li><li>Luciana VanDette as Lainey</li><li>Aidan Steimer as Mason Nash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Shut In (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:65215": {
    "d": "Stewie Griffin: The Untold Story (2005): Adventure/Animation film. Story: The maniacal baby of the Griffin family, Stewie… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/95mVBnGg2JhoJ93PeA4OwAjBBou.jpg",
@@ -768,6 +1287,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Battlestar Galactica: Razor (2007)</h1>\n<p class=\"ssr-lead\">The history and adventures of the Battlestar Pegasus, from shortly before the Cylon invasion to shortly after Lee Adama is made commander. The story is told through the eyes of and largely focuses on one particular member of Pegasus&#x27;s crew, Kendra Shaw.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2007</li><li>Runtime: 88 minutes</li><li>Director: Félix Alcalá</li><li>Genres: Science Fiction, Action, Drama, Thriller, TV Movie</li><li>TMDB rating: 7.2/10 (480 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Forbes as Helena Cain</li><li>Stephanie Jacobsen as Kendra Shaw</li><li>Graham Beckel as Jack Fisk</li><li>Jamie Bamber as Cpt. Lee &#x27;Apollo&#x27; Adama</li><li>Edward James Olmos as Admiral William Adama</li><li>Mary McDonnell as President Laura Roslin</li><li>Katee Sackhoff as Captain Kara &#x27;Starbuck&#x27; Thrace</li><li>Tricia Helfer as Number Six / Gina Inviere</li><li>Ingrid Tesch as Mother</li><li>Grace Park as Lt. Sharon Valerii</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Battlestar Galactica: Razor (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:772515": {
+   "d": "Huesera: The Bone Woman (2023): Horror/Mystery film. Story: Valeria's joy at becoming a first-time mother is… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
+   "industry": "world",
+   "k": "Huesera: The Bone Woman, Huesera: The Bone Woman movie, Huesera: The Bone Woman cast, Huesera: The Bone Woman story, Huesera: The Bone Woman box office collection, Huesera: The Bone Woman budget, Huesera: The Bone Woman review, Huesera: The Bone Woman rating, Huesera: The Bone Woman release date, Huesera: The Bone Woman trailer, Huesera: The Bone Woman Horror, Huesera: The Bone Woman Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natalia Solián"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfonso Dosal"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayra Batalla"
+     },
+     {
+      "@type": "Person",
+      "name": "Mercedes Hernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonia Couoh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 401,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Huesera: The Bone Woman (2023): Horror/Mystery film. Story: Valeria's joy at becoming a first-time mother is… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michelle Garza Cervera"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=772515",
+    "name": "Huesera: The Bone Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-02-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=772515"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Huesera: The Bone Woman (2023)</h1>\n<p class=\"ssr-lead\">Valeria&#x27;s joy at becoming a first-time mother is quickly taken away when she&#x27;s cursed by a sinister entity. As danger closes in, she&#x27;s forced deeper into a chilling world of dark magic that threatens to consume her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 2023</li><li>Runtime: 97 minutes</li><li>Director: Michelle Garza Cervera</li><li>Genres: Horror, Mystery, Drama</li><li>TMDB rating: 5.8/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natalia Solián as Valeria</li><li>Alfonso Dosal as Raúl</li><li>Mayra Batalla as Octavia</li><li>Mercedes Hernández as Isabel</li><li>Sonia Couoh as Vero</li><li>Aida López as Maricarmen</li><li>Anahí Allue as Norma</li><li>Martha Claudia Moreno as Ursula</li><li>Emilram Cossío as Ginecólogo</li><li>Norma Reyna as Sabine Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Huesera: The Bone Woman (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:892515": {
    "d": "Masquerade (2022): Comedy/Crime film. Story: Adrien, an attractive dancer whose career was… See cast, budget $14M, and TMDB rating 6.8/10.",

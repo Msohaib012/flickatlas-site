@@ -1,7 +1,71 @@
 {
  "bucket": "05",
- "count": 37,
+ "count": 47,
  "titles": {
+  "movie:1043905": {
+   "d": "Dirty Angels (2024): Drama/Thriller film. Story: During the United States' 2021 withdrawal from… See cast, budget $35.95M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
+   "industry": "world",
+   "k": "Dirty Angels, Dirty Angels movie, Dirty Angels cast, Dirty Angels story, Dirty Angels box office collection, Dirty Angels budget, Dirty Angels review, Dirty Angels rating, Dirty Angels release date, Dirty Angels trailer, Dirty Angels Drama, Dirty Angels Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eva Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bakalova"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Rose"
+     },
+     {
+      "@type": "Person",
+      "name": "Reza Brojerdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Jojo T. Gibbs"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Dirty Angels (2024): Drama/Thriller film. Story: During the United States' 2021 withdrawal from… See cast, budget $35.95M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Campbell"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1043905",
+    "name": "Dirty Angels",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1043905"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dirty Angels (2024)</h1>\n<p class=\"ssr-lead\">During the United States&#x27; 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2024</li><li>Runtime: 104 minutes</li><li>Director: Martin Campbell</li><li>Genres: Drama, Thriller, War</li><li>Budget: $35.95M</li><li>TMDB rating: 6.1/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Green as Jake</li><li>Maria Bakalova as The Bomb</li><li>Ruby Rose as Medic</li><li>Reza Brojerdi as Malik</li><li>Jojo T. Gibbs as Geek</li><li>Emily Bruni as Shooter</li><li>Aziz Çapkurt as Abbas</li><li>Rona-Lee Shimon as Rocky</li><li>Christopher Backus as Travis</li><li>George Iskandar as Amir</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dirty Angels (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1069905": {
    "d": "Jay Kelly (2025): Drama/Comedy film. Story: Famous movie actor Jay Kelly embarks on a journey of… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/wR9D9hQvCVBux16NauY4b7letdU.jpg",
@@ -66,6 +130,70 @@
    "t": "Jay Kelly (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:10705": {
+   "d": "Henry V (1989): War/Drama film. Story: In 1415, in the midst of the Hundred Years' War, the… See cast, budget $9M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+   "industry": "world",
+   "k": "Henry V, Henry V movie, Henry V cast, Henry V story, Henry V box office collection, Henry V budget, Henry V review, Henry V rating, Henry V release date, Henry V War, Henry V Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kenneth Branagh"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Jacobi"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Blessed"
+     },
+     {
+      "@type": "Person",
+      "name": "James Larkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Scofield"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Henry V (1989): War/Drama film. Story: In 1415, in the midst of the Hundred Years' War, the… See cast, budget $9M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenneth Branagh"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "War",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10705",
+    "name": "Henry V",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-10-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10705"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Henry V (1989)</h1>\n<p class=\"ssr-lead\">In 1415, in the midst of the Hundred Years&#x27; War, the young King Henry V of England embarks on the conquest of France.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 1989</li><li>Runtime: 137 minutes</li><li>Director: Kenneth Branagh</li><li>Genres: War, Drama, History</li><li>Budget: $9M</li><li>TMDB rating: 7.1/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kenneth Branagh as Henry V</li><li>Derek Jacobi as Chorus</li><li>Brian Blessed as Exeter</li><li>James Larkin as Bedford</li><li>Paul Scofield as French King</li><li>Emma Thompson as Katherine</li><li>Judi Dench as Mistress Quickly</li><li>Simon Shepherd as Duke Humphrey of Gloucester</li><li>James Simmons as Duke Edward of York</li><li>Charles Kay as Archbishop of Canterbury</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, MGM+ Amazon Channel, MGM Plus</li></ul>\n</article>",
+   "t": "Henry V (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:11205": {
    "d": "Wheels on Meals (1990): Romance/Action film. Story: Cousins Thomas and David, owners of a mobile… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/bhJwUazhSk735vkZLkmrBeqDxSH.jpg",
@@ -129,6 +257,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Wheels on Meals (1990)</h1>\n<p class=\"ssr-lead\">Cousins Thomas and David, owners of a mobile restaurant, team up with their friend Moby, a bumbling private detective, to save the beautiful Sylvia, a pickpocket.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 1990</li><li>Runtime: 108 minutes</li><li>Director: Sammo Hung Kam-bo</li><li>Genres: Romance, Action, Comedy, Crime</li><li>TMDB rating: 6.9/10 (471 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Thomas</li><li>Sammo Hung Kam-bo as Moby</li><li>Yuen Biao as David</li><li>Lola Forner as Sylvia</li><li>Benny Urquidez as One of Mondale&#x27;s Men</li><li>Keith Vitali as One of Mondale&#x27;s Men</li><li>Herb Edelman as Matt</li><li>Richard Ng Yiu-hon as Mental Patient (Brilliant)</li><li>John Shum Kin-fun as Mental Patient (Laughing)</li><li>Wu Ma as Mental Patient (Clock)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
    "t": "Wheels on Meals (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
+  },
+  "movie:11905": {
+   "d": "The Company of Wolves (1984): Horror/Fantasy film. Story: Young Rosaleen dreams of a village in the dark woods… See cast, budget $2M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8LMKwSUdHxU8AGPVY7BV4wS5TeQ.jpg",
+   "industry": "world",
+   "k": "The Company of Wolves, The Company of Wolves movie, The Company of Wolves cast, The Company of Wolves story, The Company of Wolves box office collection, The Company of Wolves budget, The Company of Wolves review, The Company of Wolves rating, The Company of Wolves release date, The Company of Wolves trailer, The Company of Wolves Horror, The Company of Wolves Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sarah Patterson"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Lansbury"
+     },
+     {
+      "@type": "Person",
+      "name": "David Warner"
+     },
+     {
+      "@type": "Person",
+      "name": "Graham Crowden"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Glover"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Company of Wolves (1984): Horror/Fantasy film. Story: Young Rosaleen dreams of a village in the dark woods… See cast, budget $2M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neil Jordan"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8LMKwSUdHxU8AGPVY7BV4wS5TeQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11905",
+    "name": "The Company of Wolves",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-09-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11905"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Company of Wolves (1984)</h1>\n<p class=\"ssr-lead\">Young Rosaleen dreams of a village in the dark woods, where Granny tells her cautionary tales in which innocent maidens are tempted by wolves who are hairy on the inside. As Rosaleen grows into womanhood, will the wolves come for her too?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 September 1984</li><li>Runtime: 95 minutes</li><li>Director: Neil Jordan</li><li>Genres: Horror, Fantasy</li><li>Budget: $2M</li><li>TMDB rating: 6.3/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Patterson as Rosaleen</li><li>Angela Lansbury as Granny</li><li>David Warner as Father</li><li>Graham Crowden as Old Priest</li><li>Brian Glover as Amorous Boy&#x27;s Father</li><li>Kathryn Pogson as Young Bride</li><li>Stephen Rea as Young Groom</li><li>Tusse Silberg as Mother</li><li>Micha Bergese as Hunstman</li><li>Georgia Slowe as Alice</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Fandor, Shudder, Night Flight Plus, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Company of Wolves (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
   },
   "movie:1217505": {
    "d": "You're Dating a Narcissist! (2026): Comedy/Romance film. Story: An outspoken psychologist, burnt by love, takes an… See cast and TMDB rating 6.9/10.",
@@ -577,6 +769,138 @@
    "t": "A Letter to My Youth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:19405": {
+   "d": "Recess: School's Out (2001): Animation/Family film. Story: The school year is finally ending, and T.J. Detweiler… See cast, budget $10M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v69OaHOYjdihRz0o0nVUylUyraa.jpg",
+   "industry": "world",
+   "k": "Recess: School's Out, Recess: School's Out movie, Recess: School's Out cast, Recess: School's Out story, Recess: School's Out box office collection, Recess: School's Out budget, Recess: School's Out review, Recess: School's Out rating, Recess: School's Out release date, Recess: School's Out trailer, Recess: School's Out Animation, Recess: School's Out Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Rickey D'Shon Collins"
+     },
+     {
+      "@type": "Person",
+      "name": "Pamela Adlon"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Davis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Recess: School's Out (2001): Animation/Family film. Story: The school year is finally ending, and T.J. Detweiler… See cast, budget $10M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chuck Sheetz"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v69OaHOYjdihRz0o0nVUylUyraa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19405",
+    "name": "Recess: School's Out",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-02-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19405"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Recess: School&#x27;s Out (2001)</h1>\n<p class=\"ssr-lead\">The school year is finally ending, and T.J. Detweiler is looking forward to summer. But boredom quickly sets in when his friends leave for camp — until T.J. uncovers an evil plot to do away with summer vacation! A crazy former principal, Dr. Benedict, is planning to use a laser beam to alter the weather and create permanent winter. Faced with the dire threat of year-round school, T.J. rounds up the RECESS gang and bands together with some unexpected allies — Miss Finster and Principal Prickly — in a nonstop adventure to save everyone&#x27;s summer break.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2001</li><li>Runtime: 82 minutes</li><li>Director: Chuck Sheetz</li><li>Genres: Animation, Family, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.6/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Lawrence as T.J. Detweiler (voice)</li><li>Rickey D&#x27;Shon Collins as Vince La Salle (voice)</li><li>Pamela Adlon as Spinelli (voice)</li><li>Ashley Johnson as Gretchen Grundler (voice)</li><li>Jason Davis as Mikey Blumberg (voice)</li><li>Courtland Mead as Gus Griswald (voice)</li><li>April Winchell as Ms. Finster / Mrs. Detweiller (voice)</li><li>Dabney Coleman as Principal Peter Prickly (voice)</li><li>Ryan O&#x27;Donohue as Digger Dave / Randall (voice)</li><li>Robert Goulet as Mikey&#x27;s Singing Voice (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Recess: School's Out (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
+  "movie:21705": {
+   "d": "The Barbie Diaries (2006): Family/Animation film. Story: Barbie is disheartened when Todd breaks her heart and… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bACImU2OK8iFwDIIRBzLX4KOPL1.jpg",
+   "industry": "world",
+   "k": "The Barbie Diaries, The Barbie Diaries movie, The Barbie Diaries cast, The Barbie Diaries story, The Barbie Diaries box office collection, The Barbie Diaries budget, The Barbie Diaries review, The Barbie Diaries rating, The Barbie Diaries release date, The Barbie Diaries Family, The Barbie Diaries Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Edmondson"
+     },
+     {
+      "@type": "Person",
+      "name": "Venus Terzo"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Hill"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiara Zanni"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Barbie Diaries (2006): Family/Animation film. Story: Barbie is disheartened when Todd breaks her heart and… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kallan Kagan"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Fogel"
+     }
+    ],
+    "duration": "PT70M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bACImU2OK8iFwDIIRBzLX4KOPL1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21705",
+    "name": "The Barbie Diaries",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21705"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Barbie Diaries (2006)</h1>\n<p class=\"ssr-lead\">Barbie is disheartened when Todd breaks her heart and goes back to his former girlfriend. But things change when she comes across a diary, which makes her wishes come true.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 2006</li><li>Runtime: 70 minutes</li><li>Director: Kallan Kagan, Eric Fogel</li><li>Genres: Family, Animation</li><li>TMDB rating: 6.5/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Barbie (voice)</li><li>Sarah Edmondson as Courtney (voice)</li><li>Venus Terzo as Tia / Passing Girl #2 (voice)</li><li>Matt Hill as Kevin (voice)</li><li>Chiara Zanni as Raquelle (voice)</li><li>Maryke Hendrikse as Regen (voice)</li><li>Anna Cummer as Dawn (voice)</li><li>Andrew Francis as Todd (voice)</li><li>Heather Doerksen as Stephanie (voice)</li><li>Joseph May as Mr. Wexler / Popular Boy #2 (voice)</li></ul>\n</article>",
+   "t": "The Barbie Diaries (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:29005": {
    "d": "McCabe & Mrs. Miller (1971): Drama/Western film. Story: A gambler and a prostitute become thriving business… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
@@ -640,6 +964,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>McCabe &amp; Mrs. Miller (1971)</h1>\n<p class=\"ssr-lead\">A gambler and a prostitute become thriving business partners in a remote Old West mining town until a large corporation arrives on the scene.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 1971</li><li>Runtime: 120 minutes</li><li>Director: Robert Altman</li><li>Genres: Drama, Western</li><li>TMDB rating: 7.2/10 (493 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Warren Beatty as John McCabe</li><li>Julie Christie as Constance Miller</li><li>René Auberjonois as Sheehan</li><li>William Devane as Lawyer</li><li>John Schuck as Smalley</li><li>Corey Fischer as Mr. Elliott</li><li>Bert Remsen as Bart Coyle</li><li>Shelley Duvall as Ida Coyle</li><li>Keith Carradine as Cowboy</li><li>Michael Murphy as Eugene Sears</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
    "t": "McCabe & Mrs. Miller (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1971"
+  },
+  "movie:339405": {
+   "d": "Christine (2016): Drama film. Story: In 1974, television reporter Christine Chubbuck… See cast, TMDB rating 6.9/10, and release date 14 October 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/bb5BtQv2hfbgKMOcWtnu5y5RlPE.jpg",
+   "industry": "world",
+   "k": "Christine, Christine movie, Christine cast, Christine story, Christine box office collection, Christine budget, Christine review, Christine rating, Christine release date, Christine trailer, Christine Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rebecca Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael C. Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracy Letts"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Dizzia"
+     },
+     {
+      "@type": "Person",
+      "name": "J. Smith-Cameron"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 422,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Christine (2016): Drama film. Story: In 1974, television reporter Christine Chubbuck… See cast, TMDB rating 6.9/10, and release date 14 October 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Antonio Campos"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bb5BtQv2hfbgKMOcWtnu5y5RlPE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339405",
+    "name": "Christine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339405"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Christine (2016)</h1>\n<p class=\"ssr-lead\">In 1974, television reporter Christine Chubbuck struggles with depression and professional frustrations as she tries to advance her career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2016</li><li>Runtime: 123 minutes</li><li>Director: Antonio Campos</li><li>Genres: Drama</li><li>TMDB rating: 6.9/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rebecca Hall as Christine Chubbuck</li><li>Michael C. Hall as George Peter Ryan</li><li>Tracy Letts as Michael</li><li>Maria Dizzia as Jean Reed</li><li>J. Smith-Cameron as Peg Chubbuck</li><li>Timothy Simons as Steve Turner</li><li>Kim Shaw as Andrea Kirby</li><li>John Cullum as Bob Andersen</li><li>Morgan Spector as Dr. Parsons</li><li>Jayson Warner Smith as Mitch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Christine (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:34205": {
+   "d": "Halloweentown II: Kalabar's Revenge (2001): Family/Fantasy film. Story: The Cromwell clan lives in the real world, except for… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AfMAcS5HmPPRtJ3d9tipXTQV2Xt.jpg",
+   "industry": "world",
+   "k": "Halloweentown II: Kalabar's Revenge, Halloweentown II: Kalabar's Revenge movie, Halloweentown II: Kalabar's Revenge cast, Halloweentown II: Kalabar's Revenge story, Halloweentown II: Kalabar's Revenge box office collection, Halloweentown II: Kalabar's Revenge budget, Halloweentown II: Kalabar's Revenge review, Halloweentown II: Kalabar's Revenge rating, Halloweentown II: Kalabar's Revenge release date, Halloweentown II: Kalabar's Revenge trailer, Halloweentown II: Kalabar's Revenge Family, Halloweentown II: Kalabar's Revenge Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kimberly J. Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Hoag"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Kountz"
+     },
+     {
+      "@type": "Person",
+      "name": "Joey Zimmerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Roeske"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Halloweentown II: Kalabar's Revenge (2001): Family/Fantasy film. Story: The Cromwell clan lives in the real world, except for… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mary Lambert"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AfMAcS5HmPPRtJ3d9tipXTQV2Xt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34205",
+    "name": "Halloweentown II: Kalabar's Revenge",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34205"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Halloweentown II: Kalabar&#x27;s Revenge (2001)</h1>\n<p class=\"ssr-lead\">The Cromwell clan lives in the real world, except for their grandmother who lives in Halloweentown, a place where monsters go to escape reality. But now the son of the Cromwells&#x27; old enemy Kalabar has a plan to use the grandmother&#x27;s book to turn Halloweentown into a grey dreary version of the real world while transforming the denizens of the real world into monsters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2001</li><li>Runtime: 81 minutes</li><li>Director: Mary Lambert</li><li>Genres: Family, Fantasy, Comedy, TV Movie</li><li>TMDB rating: 6.8/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kimberly J. Brown as Marnie Piper</li><li>Judith Hoag as Gwen Piper</li><li>Daniel Kountz as Cal</li><li>Joey Zimmerman as Dylan Piper</li><li>Emily Roeske as Sophie Piper</li><li>Phillip Van Dyke as Luke</li><li>Blu Mankuma as Gort</li><li>Peter Wingfield as Alex</li><li>Debbie Reynolds as Aggie Cromwell</li><li>Richard Side as Benny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Halloweentown II: Kalabar's Revenge (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
   },
   "movie:458005": {
    "d": "Zoe (2018): Science Fiction/Romance film. Story: Two colleagues at a revolutionary research lab design… See cast and TMDB rating 5.9/10.",
@@ -768,6 +1219,197 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>How to Make a Killing (2026)</h1>\n<p class=\"ssr-lead\">Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 105 minutes</li><li>Director: John Patton Ford</li><li>Genres: Comedy, Thriller, Crime</li><li>Budget: $15M</li><li>TMDB rating: 6.9/10 (864 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Glen Powell as Becket Redfellow</li><li>Margaret Qualley as Julia</li><li>Jessica Henwick as Ruth</li><li>Bill Camp as Warren Redfellow</li><li>Zach Woods as Noah Redfellow</li><li>Topher Grace as Steven Redfellow</li><li>Ed Harris as Whitelaw Redfellow</li><li>Raff Law as Taylor Redfellow</li><li>Nell Williams as Mary Redfellow</li><li>Alexander Hanson as McArthur Redfellow</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "How to Make a Killing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:52505": {
+   "d": "The Other Woman (2010): Drama film. Story: Emilia, a law-school graduate, falls in love with her… See cast, budget $30M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nCKebrEB0kTPN10NUxoHumMTsnM.jpg",
+   "industry": "world",
+   "k": "The Other Woman, The Other Woman movie, The Other Woman cast, The Other Woman story, The Other Woman box office collection, The Other Woman budget, The Other Woman review, The Other Woman rating, The Other Woman release date, The Other Woman trailer, The Other Woman Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Tahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Ambrose"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Kudrow"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Other Woman (2010): Drama film. Story: Emilia, a law-school graduate, falls in love with her… See cast, budget $30M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Roos"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nCKebrEB0kTPN10NUxoHumMTsnM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=52505",
+    "name": "The Other Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-10-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=52505"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Other Woman (2010)</h1>\n<p class=\"ssr-lead\">Emilia, a law-school graduate, falls in love with her married boss, Jack. After Emilia marries Jack, her happiness turns unexpectedly to grief following the death of her infant daughter. Devastated, Emilia nonetheless carries on, attempting to forge a connection with her stepson William and to resist the interference of Jack&#x27;s jealous ex-wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2010</li><li>Runtime: 98 minutes</li><li>Director: Don Roos</li><li>Genres: Drama</li><li>Budget: $30M</li><li>TMDB rating: 6.2/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natalie Portman as Emilia Greenleaf</li><li>Scott Cohen as Jack Woolf</li><li>Charlie Tahan as William Woolf</li><li>Lauren Ambrose as Mindy</li><li>Lisa Kudrow as Carolyne Soule</li><li>Michael Cristofer as Sheldon Greenleaf</li><li>Debra Monk as Laura Greenleaf</li><li>Elizabeth Marvel as Pia</li><li>Anthony Rapp as Simon</li><li>Mona Fastvold as Sonia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Other Woman (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:604605": {
+   "d": "Hello World (2019): Animation/Romance film. Story: A shy high schooler in Kyoto meets a man claiming to… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+   "industry": "world",
+   "k": "Hello World, Hello World movie, Hello World cast, Hello World story, Hello World box office collection, Hello World budget, Hello World review, Hello World rating, Hello World release date, Hello World trailer, Hello World Animation, Hello World Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takumi Kitamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Tori Matsuzaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Minami Hamabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Haruka Fukuhara"
+     },
+     {
+      "@type": "Person",
+      "name": "Minako Kotobuki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Hello World (2019): Animation/Romance film. Story: A shy high schooler in Kyoto meets a man claiming to… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tomohiko Ito"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Animation",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=604605",
+    "name": "Hello World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=604605"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hello World (2019)</h1>\n<p class=\"ssr-lead\">A shy high schooler in Kyoto meets a man claiming to be his future self, who tells him he’s hacked into the past to save their first love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2019</li><li>Runtime: 98 minutes</li><li>Director: Tomohiko Ito</li><li>Genres: Animation, Romance, Science Fiction, Drama</li><li>TMDB rating: 7.3/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takumi Kitamura as Naomi Katagaki – now (voice)</li><li>Tori Matsuzaka as Naomi Katagaki – future (voice)</li><li>Minami Hamabe as Ruri Ichigyou (voice)</li><li>Haruka Fukuhara as Misuzu Kadenokouji (voice)</li><li>Minako Kotobuki as Xu Yiyi (voice)</li><li>Rie Kugimiya as Crow (voice)</li><li>Takehito Koyasu as Tsunehisa Senko (voice)</li><li>Moka Hiraguri as Female Student (voice)</li><li>Nanami Matsumoto as (voice)</li><li>Keigo Hoshino as (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Hello World (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:752505": {
+   "d": "The Old Ways (2021): Horror/Fantasy film. Story: Cristina, a journalist of Mexican origin, travels to… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",
+   "industry": "world",
+   "k": "The Old Ways, The Old Ways movie, The Old Ways cast, The Old Ways story, The Old Ways box office collection, The Old Ways budget, The Old Ways review, The Old Ways rating, The Old Ways release date, The Old Ways Horror, The Old Ways Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brigitte Kali Canales"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Cortés"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Lerma"
+     },
+     {
+      "@type": "Person",
+      "name": "Sal Lopez"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Vera"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Old Ways (2021): Horror/Fantasy film. Story: Cristina, a journalist of Mexican origin, travels to… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Alender"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=752505",
+    "name": "The Old Ways",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=752505"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Old Ways (2021)</h1>\n<p class=\"ssr-lead\">Cristina, a journalist of Mexican origin, travels to her ancestral home in Veracruz to investigate a story of sorcery and healing. There, she is kidnapped by a group of locals who claim she&#x27;s the devil incarnated.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 April 2021</li><li>Runtime: 90 minutes</li><li>Director: Christopher Alender</li><li>Genres: Horror, Fantasy</li><li>TMDB rating: 6.7/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brigitte Kali Canales as Cristina Lopez</li><li>Andrea Cortés as Miranda</li><li>Julian Lerma as Demon Boy</li><li>Sal Lopez as Javi</li><li>Julia Vera as Luz</li><li>AJ Bowen as Carson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Old Ways (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:84105": {
    "d": "Frenemies (2012): Drama/Family film. Story: Three pairs of friends relationships go from good to… See cast and TMDB rating 5.7/10.",

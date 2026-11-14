@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 26,
+ "count": 33,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -1318,6 +1318,118 @@
    "vote_average": 7.7,
    "vote_count": 29
   },
+  "movie:15577": {
+   "backdrop_path": "/91KxAtv1KHW7bH0A2asXzXNyeXF.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Max Brogan",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Cole Frankel",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Claire Shepard",
+     "n": "Alice Eve"
+    },
+    {
+     "c": "Denise Frankel",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Gavin Kossef",
+     "n": "Jim Sturgess"
+    },
+    {
+     "c": "Hamid Baraheri",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Mireya Sanchez",
+     "n": "Alice Braga"
+    },
+    {
+     "c": "Taslima Jahangir",
+     "n": "Summer Bishil"
+    },
+    {
+     "c": "Special Agent Phadkar",
+     "n": "Jacqueline Obradors"
+    },
+    {
+     "c": "Yong Kim",
+     "n": "Justin Chon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wayne Kramer"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 15577,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Immigrants from around the world enter Los Angeles every day, with hopeful visions of a better life, but little notion of what that life may cost. Their desperate scenarios test the humanity of immigration enforcement officers. In Crossing Over, writer-director Wayne Kramer explores the allure of the American dream, and the reality that immigrants find – and create -- in 21st century L.A.",
+   "popularity": 2.5893,
+   "poster_path": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-02-10",
+   "revenue": 1037335,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every day thousands of people illegally cross our borders... only one thing stands in their way. America.",
+   "title": "Crossing Over",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 427
+  },
   "movie:20077": {
    "backdrop_path": "/326o6Tw8QHP6TtIXqU56dDYgnzL.jpg",
    "budget": 0,
@@ -1415,6 +1527,208 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 435
+  },
+  "movie:2577": {
+   "backdrop_path": "/8BsZeEl8gArwpYIBXyJ2WdreF8I.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "William Geld",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Maria Gonzales",
+     "n": "Samantha Morton"
+    },
+    {
+     "c": "Vendor",
+     "n": "Nabil Elouahabi"
+    },
+    {
+     "c": "Bahkland",
+     "n": "Om Puri"
+    },
+    {
+     "c": "Mohan",
+     "n": "Emil Marwa"
+    },
+    {
+     "c": "Wole",
+     "n": "Nina Fog"
+    },
+    {
+     "c": "Bikku",
+     "n": "Bruno Lastra"
+    },
+    {
+     "c": "Driver",
+     "n": "Togo Igawa"
+    },
+    {
+     "c": "Sphinx Receptionist",
+     "n": "Natalie Mendoza"
+    },
+    {
+     "c": "Sylvie",
+     "n": "Jeanne Balibar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Winterbottom"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 2577,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In a dystopian future, insurance fraud investigator William Gold arrives in Shanghai to investigate a forgery ring for \"papelles\", futuristic passports that record people's identities and genetics. Gold falls for Maria Gonzalez, the woman in charge of the forgeries. After a passionate affair, Gold returns home, having named a coworker as the culprit. But when one of Gonzalez's customers is found dead, Gold is sent back to Shanghai to complete the investigation.",
+   "popularity": 1.9573,
+   "poster_path": "/ijayvLrCAwOVizi9OY8LZWq5SRW.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qUSKopZ7YFZ6N1dUpTbNhgZd5FH.png",
+     "name": "ScreenPix Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu1q89warmeMRwZRMgWQSl6GIYV.png",
+     "name": "ScreenPix Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-02",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How do you solve a crime when the last thing you want to know is the truth?",
+   "title": "Code 46",
+   "trailer": {
+    "key": "C107PH39Xig",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 422
   },
   "movie:335777": {
    "backdrop_path": "/snobCf0u4ex9OKNNFuNQKmGe3gJ.jpg",
@@ -1561,6 +1875,101 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 489
+  },
+  "movie:3877": {
+   "backdrop_path": "/zBrwzHrXLMKOSt7P5hA9WOWA0sU.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Audrey Burke",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Jerry Sunborne",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Steven Burke",
+     "n": "David Duchovny"
+    },
+    {
+     "c": "Kelly",
+     "n": "Alison Lohman"
+    },
+    {
+     "c": "Neal",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Howard Glassman",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Harper Burke",
+     "n": "Alexis Llewellyn"
+    },
+    {
+     "c": "Dory Burke",
+     "n": "Micah Berry"
+    },
+    {
+     "c": "Spring",
+     "n": "Sarah Dubrovsky"
+    },
+    {
+     "c": "Cousin Dave",
+     "n": "Liam James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Susanne Bier"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 3877,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A recent widow invites her husband's troubled best friend to live with her and her two children. As he gradually turns his life around, he helps the family cope and confront their loss.",
+   "popularity": 1.9979,
+   "poster_path": "/fyMziX8tPzPSguUgOpKWkKK322S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-09-26",
+   "revenue": 2849142,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hope comes with letting go.",
+   "title": "Things We Lost in the Fire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.616,
+   "vote_count": 409
   },
   "movie:451877": {
    "backdrop_path": "/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
@@ -1731,6 +2140,220 @@
    "vote_average": 5.8,
    "vote_count": 472
   },
+  "movie:514277": {
+   "backdrop_path": "/5v60mZhF7nLgmPS3qZ9JUwDr33l.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Kate",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Mara",
+     "n": "Javier Botet"
+    },
+    {
+     "c": "Martin Ellis",
+     "n": "Mitch Eakins"
+    },
+    {
+     "c": "McCarthy",
+     "n": "Lance E. Nichols"
+    },
+    {
+     "c": "Helena",
+     "n": "Rosie Fellner"
+    },
+    {
+     "c": "Sophie",
+     "n": "Mackenzie Imsand"
+    },
+    {
+     "c": "Dr. Botet",
+     "n": "Dandy Barrett"
+    },
+    {
+     "c": "Dougie",
+     "n": "Craig Conway"
+    },
+    {
+     "c": "Carly",
+     "n": "Melissa Bolona"
+    },
+    {
+     "c": "Alicia",
+     "n": "Kathy McGraw"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clive Tonge"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 514277,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Criminal psychologist Kate Fuller is assigned to the murder of a man who has seemingly been strangled in his sleep by his wife and the only witness is their eight-year-old daughter, Sophie. As Kate digs into the mystery of an ancient demon which kills people in their sleep, she experiences the same petrifying symptoms as all previous victims and spirals through a chilling nightmare to save herself and Sophie before she dares fall asleep again.",
+   "popularity": 1.5269,
+   "poster_path": "/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-22",
+   "revenue": 661769,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you see her, you're already dead.",
+   "title": "Mara",
+   "trailer": {
+    "key": "9LuwGUFQf04",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.665,
+   "vote_count": 434
+  },
+  "movie:613377": {
+   "backdrop_path": "/iLkzQbxrkTxuAjZMnOiVeVY4pG8.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Rayane",
+     "n": "Tarek Boudali"
+    },
+    {
+     "c": "Tony",
+     "n": "Philippe Lacheau"
+    },
+    {
+     "c": "Pierre",
+     "n": "Julien Arruti"
+    },
+    {
+     "c": "Stéphanie",
+     "n": "Vanessa Guide"
+    },
+    {
+     "c": "Le Rat",
+     "n": "José Garcia"
+    },
+    {
+     "c": "La mamie de Rayane",
+     "n": "Marie-Anne Chazel"
+    },
+    {
+     "c": "Linda",
+     "n": "Reem Kherici"
+    },
+    {
+     "c": "Le commissaire",
+     "n": "Nicolas Marié"
+    },
+    {
+     "c": "La prostituée",
+     "n": "Chantal Ladesou"
+    },
+    {
+     "c": "Zoubir",
+     "n": "Brahim Bouhlel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tarek Boudali"
+   ],
+   "genres": [
+    "Comedy",
+    "Action"
+   ],
+   "id": 613377,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Rayane is a scared and clumsy young cop who is constantly mocked by other cops. The day his doctor wrongly tells him that he has only thirty days to live, he understands that this is his last chance to become a hero within his police station and impress his colleague Stéphanie. The eternal fearful man then turns into a real hothead who will take all the risks to catch a big drug lord...",
+   "popularity": 1.4475,
+   "poster_path": "/pWacsD87962qkDniAz1odA7mGRI.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-10-14",
+   "revenue": 11020901,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "30 Days Max",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.576,
+   "vote_count": 422
+  },
   "movie:615177": {
    "backdrop_path": "/43DsuheCGvF8ERS2tz0bm3fC25p.jpg",
    "budget": 0,
@@ -1838,6 +2461,114 @@
    "type": "movie",
    "vote_average": 5.412,
    "vote_count": 453
+  },
+  "movie:658777": {
+   "backdrop_path": "/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wendy",
+     "n": "Cornelia Gröschel"
+    },
+    {
+     "c": "Elmar",
+     "n": "Tim Oliver Schultz"
+    },
+    {
+     "c": "Marek",
+     "n": "Wotan Wilke Möhring"
+    },
+    {
+     "c": "Dr. Stern",
+     "n": "Nina Kunzendorf"
+    },
+    {
+     "c": "Lars",
+     "n": "Frederic Linkemann"
+    },
+    {
+     "c": "Karl",
+     "n": "Finnlay Berger"
+    },
+    {
+     "c": "Angela",
+     "n": "Gisa Flake"
+    },
+    {
+     "c": "Gerhart",
+     "n": "Ralph Herforth"
+    },
+    {
+     "c": "Chantal",
+     "n": "Thelma Buabeng"
+    },
+    {
+     "c": "Wendy's Mother",
+     "n": "Gesine Cukrowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Felix Binder"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 658777,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.",
+   "popularity": 1.5857,
+   "poster_path": "/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-02",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Freaks - You're One of Us",
+   "trailer": {
+    "key": "kfZJhAWLMC4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.654,
+   "vote_count": 396
   },
   "movie:71677": {
    "backdrop_path": "/6Yv1L8F373buOO8UGGtwSkpgJdB.jpg",
@@ -1956,6 +2687,130 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 494
+  },
+  "movie:74777": {
+   "backdrop_path": "/hY0BJllNWKQP9BvJu6gCVbUEXVf.jpg",
+   "budget": 70000,
+   "cast": [
+    {
+     "c": "Callie",
+     "n": "Katie Parker"
+    },
+    {
+     "c": "Tricia",
+     "n": "Courtney Bell"
+    },
+    {
+     "c": "Daniel",
+     "n": "Morgan Peter Brown"
+    },
+    {
+     "c": "Det. Mallory",
+     "n": "Dave Levine"
+    },
+    {
+     "c": "Det. Lonergan",
+     "n": "Justin Gordon"
+    },
+    {
+     "c": "Walter Lambert",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Ruth",
+     "n": "Connie Ventress"
+    },
+    {
+     "c": "Mitch",
+     "n": "Ian Gregory"
+    },
+    {
+     "c": "Uniformed Officer",
+     "n": "Erin Cipolletti"
+    },
+    {
+     "c": "Uniformed Officer",
+     "n": "Damon Pfaff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Flanagan"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 74777,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tricia's husband has been missing for seven years. Her younger sister Callie comes to live with her as the pressure mounts to finally declare him 'dead in absentia'. Tricia is reluctant, always holding out hope, but Callie is practical and wants her to move on. As Tricia sifts through the wreckage and tries to move on with her life, Callie finds herself drawn to an ominous tunnel near the house.",
+   "popularity": 1.4195,
+   "poster_path": "/imUIPWoe0Yma5UhZVl6bqX5lF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-03-03",
+   "revenue": 8555,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are fates worse than death.",
+   "title": "Absentia",
+   "trailer": {
+    "key": "aa1UJLqYeBU",
+    "name": "\"Absentia\" Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 414
   },
   "movie:771077": {
    "backdrop_path": "/BevYc51yFcr4zppO8RI3Au8wXA.jpg",

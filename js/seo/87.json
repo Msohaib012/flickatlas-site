@@ -1,6 +1,6 @@
 {
  "bucket": "87",
- "count": 21,
+ "count": 31,
  "titles": {
   "movie:1084187": {
    "d": "Pretty Lethal (2026): Action/Thriller film. Story: A troupe of ballerinas find themselves fighting for… See cast and TMDB rating 6.8/10.",
@@ -452,6 +452,197 @@
    "t": "180 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17187": {
+   "d": "The Emperor's Club (2002): Drama film. Story: William Hundert is a passionate and principled… See cast, TMDB rating 7.1/10, and release date 22 November 2002.",
+   "img": "https://image.tmdb.org/t/p/w780/9gkHxp86xWGsBn6CzdChc4XhT5r.jpg",
+   "industry": "world",
+   "k": "The Emperor's Club, The Emperor's Club movie, The Emperor's Club cast, The Emperor's Club story, The Emperor's Club box office collection, The Emperor's Club budget, The Emperor's Club review, The Emperor's Club rating, The Emperor's Club release date, The Emperor's Club Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Kline"
+     },
+     {
+      "@type": "Person",
+      "name": "Emile Hirsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Eisenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Rishi Mehta"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Dano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 423,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Emperor's Club (2002): Drama film. Story: William Hundert is a passionate and principled… See cast, TMDB rating 7.1/10, and release date 22 November 2002.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Hoffman"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9gkHxp86xWGsBn6CzdChc4XhT5r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17187",
+    "name": "The Emperor's Club",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17187"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Emperor&#x27;s Club (2002)</h1>\n<p class=\"ssr-lead\">William Hundert is a passionate and principled Classics professor who finds his tightly-controlled world shaken and inexorably altered when a new student, Sedgewick Bell, walks into his classroom. What begins as a fierce battle of wills gives way to a close student-teacher relationship, but results in a life lesson for Hundert that will still haunt him a quarter of a century later.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2002</li><li>Runtime: 108 minutes</li><li>Director: Michael Hoffman</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Kline as William Hundert</li><li>Emile Hirsch as Sedgewick Bell</li><li>Jesse Eisenberg as Louis Masoudi</li><li>Rishi Mehta as Deepak Mehta</li><li>Paul Dano as Martin Blythe</li><li>Rob Morrow as James Ellerby</li><li>Embeth Davidtz as Elizabeth</li><li>Edward Herrmann as Headmaster Woodbridge</li><li>Helen Carey as Miss Johnston</li><li>Molly Regan as Miss Peters</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Emperor's Club (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:17687": {
+   "d": "The Public Enemy (1931): Crime/Drama film. Story: Two young Chicago hoodlums, Tom Powers and Matt… See cast, budget $151.0k, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oXLaGV0VOqQhXdUmQpm6KGsSpu1.jpg",
+   "industry": "world",
+   "k": "The Public Enemy, The Public Enemy movie, The Public Enemy cast, The Public Enemy story, The Public Enemy box office collection, The Public Enemy budget, The Public Enemy review, The Public Enemy rating, The Public Enemy release date, The Public Enemy trailer, The Public Enemy Crime, The Public Enemy Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Cagney"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Harlow"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Woods"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Blondell"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Cook"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Public Enemy (1931): Crime/Drama film. Story: Two young Chicago hoodlums, Tom Powers and Matt… See cast, budget $151.0k, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William A. Wellman"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oXLaGV0VOqQhXdUmQpm6KGsSpu1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17687",
+    "name": "The Public Enemy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1931-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17687"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Public Enemy (1931)</h1>\n<p class=\"ssr-lead\">Two young Chicago hoodlums, Tom Powers and Matt Doyle, rise up from their poverty-stricken slum life to become petty thieves, bootleggers and cold-blooded killers. But with street notoriety and newfound wealth, the duo feels the heat from the cops and rival gangsters both. Despite his ruthless criminal reputation, Tom tries to remain connected to his family, however, gang warfare and the need for revenge eventually pull him away.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 1931</li><li>Runtime: 84 minutes</li><li>Director: William A. Wellman</li><li>Genres: Crime, Drama</li><li>Budget: $151.0k</li><li>TMDB rating: 7.2/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Cagney as Tom Powers</li><li>Jean Harlow as Gwen Allen</li><li>Edward Woods as Matt Doyle</li><li>Joan Blondell as Mamie</li><li>Donald Cook as Mike Powers</li><li>Leslie Fenton as Samuel &#x27;Nails&#x27; Nathan</li><li>Beryl Mercer as Ma Powers</li><li>Robert Emmett O&#x27;Connor as Paddy Ryan</li><li>Murray Kinnell as Putty Nose</li><li>Clark Burroughs as Dutch (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV, TCM</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Public Enemy (1931) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1931"
+  },
+  "movie:1987": {
+   "d": "Benny's Video (1992): Crime/Drama film. Story: A 14-year-old video enthusiast obsessed with violent… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+   "industry": "world",
+   "k": "Benny's Video, Benny's Video movie, Benny's Video cast, Benny's Video story, Benny's Video box office collection, Benny's Video budget, Benny's Video review, Benny's Video rating, Benny's Video release date, Benny's Video Crime, Benny's Video Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arno Frisch"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Winkler"
+     },
+     {
+      "@type": "Person",
+      "name": "Ulrich Mühe"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephanie Brehme"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefan Polasek"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Benny's Video (1992): Crime/Drama film. Story: A 14-year-old video enthusiast obsessed with violent… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Haneke"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1987",
+    "name": "Benny's Video",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1987"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Benny&#x27;s Video (1992)</h1>\n<p class=\"ssr-lead\">A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 1992</li><li>Runtime: 110 minutes</li><li>Director: Michael Haneke</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.9/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arno Frisch as Benny</li><li>Angela Winkler as Anna, Benny&#x27;s Mother</li><li>Ulrich Mühe as Georg, Benny&#x27;s Father</li><li>Stephanie Brehme as Evi, Benny&#x27;s Sister</li><li>Stefan Polasek as Ricci</li><li>Ingrid Stassner as Girl</li><li>Martin Schoendelin as Sales manager in videostore (uncredited)</li><li>Christian Pundy</li><li>Max Berner</li><li>Shelley Kästner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Benny's Video (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:20187": {
    "d": "The Eiger Sanction (1975): Action/Adventure film. Story: A classical art professor and collector, who doubles… See cast, budget $9M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/2fao0EDChNM0naadJs75IUeLHkY.jpg",
@@ -515,6 +706,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Eiger Sanction (1975)</h1>\n<p class=\"ssr-lead\">A classical art professor and collector, who doubles as a professional assassin, is coerced out of retirement to avenge the murder of an old friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 1975</li><li>Runtime: 129 minutes</li><li>Director: Clint Eastwood</li><li>Genres: Action, Adventure, Drama</li><li>Budget: $9M</li><li>TMDB rating: 6.1/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clint Eastwood as Jonathan Hemlock</li><li>George Kennedy as Ben Bowman</li><li>Vonetta McGee as Jemima Brown</li><li>Jack Cassidy as Miles Mellough</li><li>Heidi Brühl as Mrs. Montaigne</li><li>Thayer David as Dragon</li><li>Reiner Schöne as Freytag</li><li>Michael Grimm as Meyer</li><li>Jean-Pierre Bernard as Montaigne</li><li>Brenda Venus as George</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Eiger Sanction (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:2087": {
+   "d": "The Getaway (1994): Action/Adventure film. Story: An ex-con and his devoted wife must flee from danger… See cast, budget $37M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zwr45axiNqYhTs6IO4wjNOMp054.jpg",
+   "industry": "world",
+   "k": "The Getaway, The Getaway movie, The Getaway cast, The Getaway story, The Getaway box office collection, The Getaway budget, The Getaway review, The Getaway rating, The Getaway release date, The Getaway Action, The Getaway Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Basinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Madsen"
+     },
+     {
+      "@type": "Person",
+      "name": "James Woods"
+     },
+     {
+      "@type": "Person",
+      "name": "David Morse"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 408,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Getaway (1994): Action/Adventure film. Story: An ex-con and his devoted wife must flee from danger… See cast, budget $37M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Donaldson"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zwr45axiNqYhTs6IO4wjNOMp054.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2087",
+    "name": "The Getaway",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2087"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Getaway (1994)</h1>\n<p class=\"ssr-lead\">An ex-con and his devoted wife must flee from danger when a heist doesn&#x27;t go as planned.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 1994</li><li>Runtime: 116 minutes</li><li>Director: Roger Donaldson</li><li>Genres: Action, Adventure, Crime, Thriller</li><li>Budget: $37M</li><li>TMDB rating: 5.8/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alec Baldwin as Carter Doc McCoy</li><li>Kim Basinger as Carol McCoy</li><li>Michael Madsen as Rudy Travis</li><li>James Woods as Jack Benyon</li><li>David Morse as Jim Deer Jackson</li><li>Jennifer Tilly as Fran Carvey</li><li>James Stephens as Harold Carvey</li><li>Richard Farnsworth as Slim</li><li>Burton Gilliam as Gollie</li><li>Philip Seymour Hoffman as Frank Hansen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Getaway (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
   },
   "movie:2487": {
    "d": "Lady Snowblood (1973): Action/Crime film. Story: A strikingly beautiful young woman is trained from… See cast and TMDB rating 7.5/10.",
@@ -580,6 +835,134 @@
    "t": "Lady Snowblood (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
   },
+  "movie:286987": {
+   "d": "How to Build a Better Boy (2014): Family/Science Fiction film. Story: After inadvertently inputting the qualities of the… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vt5UhqjyWYbmJdZhrQsWpRCqCra.jpg",
+   "industry": "world",
+   "k": "How to Build a Better Boy, How to Build a Better Boy movie, How to Build a Better Boy cast, How to Build a Better Boy story, How to Build a Better Boy box office collection, How to Build a Better Boy budget, How to Build a Better Boy review, How to Build a Better Boy rating, How to Build a Better Boy release date, How to Build a Better Boy trailer, How to Build a Better Boy Family, How to Build a Better Boy Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "China Anne McClain"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelli Berglund"
+     },
+     {
+      "@type": "Person",
+      "name": "Marshall Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Shively"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Argota"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "How to Build a Better Boy (2014): Family/Science Fiction film. Story: After inadvertently inputting the qualities of the… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Hoen"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Family",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vt5UhqjyWYbmJdZhrQsWpRCqCra.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=286987",
+    "name": "How to Build a Better Boy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=286987"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>How to Build a Better Boy (2014)</h1>\n<p class=\"ssr-lead\">After inadvertently inputting the qualities of the ideal boyfriend into a high-tech government computer, two social outcasts named Mae and Gabby must contend with Albert, a cybernetic sweetheart with only one directive: to treat Mae to the perfect highschool romance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2014</li><li>Runtime: 90 minutes</li><li>Director: Paul Hoen</li><li>Genres: Family, Science Fiction, TV Movie</li><li>TMDB rating: 6.3/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>China Anne McClain as Gabby Harrison</li><li>Kelli Berglund as Mae Hartley</li><li>Marshall Williams as Albert Banks</li><li>Matt Shively as Bart Hartley</li><li>Ashley Argota as Nevaeh Barnes</li><li>Noah Centineo as Jaden Stark</li><li>Roger Bart as James Hartley</li><li>Ron Lea as General McFee</li><li>Ieva Lucs as Major Jenks</li><li>Paulino Nunes as Zephyr</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "How to Build a Better Boy (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:29787": {
+   "d": "Monkey Shines (1988): Horror/Science Fiction film. Story: A quadriplegic man is given a trained monkey help him… See cast, budget $7M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6yjyTfX3bupv91OAh9LGXWb718w.jpg",
+   "industry": "world",
+   "k": "Monkey Shines, Monkey Shines movie, Monkey Shines cast, Monkey Shines story, Monkey Shines box office collection, Monkey Shines budget, Monkey Shines review, Monkey Shines rating, Monkey Shines release date, Monkey Shines trailer, Monkey Shines Horror, Monkey Shines Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Beghe"
+     },
+     {
+      "@type": "Person",
+      "name": "John Pankow"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate McNeil"
+     },
+     {
+      "@type": "Person",
+      "name": "Joyce Van Patten"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Forrest"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Monkey Shines (1988): Horror/Science Fiction film. Story: A quadriplegic man is given a trained monkey help him… See cast, budget $7M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George A. Romero"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6yjyTfX3bupv91OAh9LGXWb718w.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=29787",
+    "name": "Monkey Shines",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=29787"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monkey Shines (1988)</h1>\n<p class=\"ssr-lead\">A quadriplegic man is given a trained monkey help him with every day activities, until the little monkey begins to develop feelings, and rage, against its new master and those who get too close to him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 1988</li><li>Runtime: 113 minutes</li><li>Director: George A. Romero</li><li>Genres: Horror, Science Fiction, Drama, Thriller</li><li>Budget: $7M</li><li>TMDB rating: 6.3/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Beghe as Allan Mann</li><li>John Pankow as Geoffrey Fisher</li><li>Kate McNeil as Melanie Parker</li><li>Joyce Van Patten as Dorothy Mann</li><li>Christine Forrest as Maryanne Hodges</li><li>Stephen Root as Dean Burbage</li><li>Stanley Tucci as Dr. John Wiseman</li><li>Tom Quinn as Charlie Cunningham</li><li>Janine Turner as Linda Aikman</li><li>William Newman as Doc Williams</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Monkey Shines (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:339987": {
    "d": "The Exception (2017): War/Drama film. Story: Nothing is as it seems in this riveting World War 2… See cast, TMDB rating 6.9/10, and release date 2 June 2017.",
    "img": "https://image.tmdb.org/t/p/w780/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
@@ -643,6 +1026,196 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Exception (2017)</h1>\n<p class=\"ssr-lead\">Nothing is as it seems in this riveting World War 2 thriller as a wary soldier goes to investigate a mysterious German monarch at his secluded mansion, leading him into a web of deceit and a dangerous love affair with a local Jewish woman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 June 2017</li><li>Runtime: 107 minutes</li><li>Director: David Leveaux</li><li>Genres: War, Drama, Romance</li><li>TMDB rating: 6.9/10 (485 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lily James as Mieke de Jong</li><li>Jai Courtney as Capt Stefan Brandt</li><li>Eddie Marsan as Heinrich Himmler</li><li>Christopher Plummer as Kaiser Wilhelm II</li><li>Janet McTeer as Princess Hermine &#x27;Hermo&#x27; Reuss of Greiz</li><li>Daisy Boulton as Secretary</li><li>Ben Daniels as Col Sigurd von Ilsemann</li><li>Stéphane Auberghen as Frau Linnenkamp</li><li>Aubeline Barbieux as Beatrix</li><li>Loïs van Wijk as Little Girl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Exception (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:340487": {
+   "d": "Certain Women (2016): Drama film. Story: Three strong-willed women strive to forge their own… See cast, budget $2M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+   "industry": "world",
+   "k": "Certain Women, Certain Women movie, Certain Women cast, Certain Women story, Certain Women box office collection, Certain Women budget, Certain Women review, Certain Women rating, Certain Women release date, Certain Women trailer, Certain Women Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laura Dern"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily Gladstone"
+     },
+     {
+      "@type": "Person",
+      "name": "James Le Gros"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Certain Women (2016): Drama film. Story: Three strong-willed women strive to forge their own… See cast, budget $2M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kelly Reichardt"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=340487",
+    "name": "Certain Women",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=340487"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Certain Women (2016)</h1>\n<p class=\"ssr-lead\">Three strong-willed women strive to forge their own paths amidst the wide-open plains of the American Northwest: a lawyer forced to subdue a troubled client; a wife and mother whose plans to construct her dream home reveal fissures in her marriage; and a lonely ranch hand who forms an ambiguous bond with a young law student.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2016</li><li>Runtime: 107 minutes</li><li>Director: Kelly Reichardt</li><li>Genres: Drama</li><li>Budget: $2M</li><li>TMDB rating: 6.0/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laura Dern as Laura</li><li>Kristen Stewart as Elizabeth Travis</li><li>Michelle Williams as Gina</li><li>Lily Gladstone as The Rancher</li><li>James Le Gros as Ryan</li><li>Jared Harris as Fuller</li><li>René Auberjonois as Albert</li><li>John Getz as Sheriff Rowles</li><li>Sara Rodier as Guthrie</li><li>Ashlie Atkinson as Secretary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Certain Women (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:423087": {
+   "d": "6 Below: Miracle on the Mountain (2017): Thriller/Drama film. Story: An adrenaline seeking snowboarder gets lost in a… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/twq14rFTS6a2SoJsk8LSajR7Hym.jpg",
+   "industry": "world",
+   "k": "6 Below: Miracle on the Mountain, 6 Below: Miracle on the Mountain movie, 6 Below: Miracle on the Mountain cast, 6 Below: Miracle on the Mountain story, 6 Below: Miracle on the Mountain box office collection, 6 Below: Miracle on the Mountain budget, 6 Below: Miracle on the Mountain review, 6 Below: Miracle on the Mountain rating, 6 Below: Miracle on the Mountain release date, 6 Below: Miracle on the Mountain trailer, 6 Below: Miracle on the Mountain Thriller, 6 Below: Miracle on the Mountain Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Hartnett"
+     },
+     {
+      "@type": "Person",
+      "name": "Mira Sorvino"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Dumont"
+     },
+     {
+      "@type": "Person",
+      "name": "Kale Culley"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Cottle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "6 Below: Miracle on the Mountain (2017): Thriller/Drama film. Story: An adrenaline seeking snowboarder gets lost in a… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Scott Waugh"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/twq14rFTS6a2SoJsk8LSajR7Hym.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=423087",
+    "name": "6 Below: Miracle on the Mountain",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=423087"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>6 Below: Miracle on the Mountain (2017)</h1>\n<p class=\"ssr-lead\">An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2017</li><li>Runtime: 97 minutes</li><li>Director: Scott Waugh</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 5.8/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Hartnett as Eric LeMarque</li><li>Mira Sorvino as Susan Lemarqe</li><li>Sarah Dumont as Sarah</li><li>Kale Culley as Young Eric LeMarque</li><li>Jason Cottle as David LeMarque</li><li>Austin R. Grant as Corey</li><li>Nathan Stevens as Seth</li><li>Marty McSorley as Boston Bruins Coach</li><li>Sean Pilz as Jake</li><li>Vashi Nedomansky as Spivack</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "6 Below: Miracle on the Mountain (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:42987": {
+   "d": "The Servant (1963): Drama film. Story: An indolent aristocrat gets more than he bargained… See cast, TMDB rating 7.6/10, and release date 14 November 1963.",
+   "img": "https://image.tmdb.org/t/p/w780/a5NNxs0HA6CEEtCNCUDvOZiQqIK.jpg",
+   "industry": "world",
+   "k": "The Servant, The Servant movie, The Servant cast, The Servant story, The Servant box office collection, The Servant budget, The Servant review, The Servant rating, The Servant release date, The Servant trailer, The Servant Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dirk Bogarde"
+     },
+     {
+      "@type": "Person",
+      "name": "James Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Miles"
+     },
+     {
+      "@type": "Person",
+      "name": "Wendy Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Lacey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "The Servant (1963): Drama film. Story: An indolent aristocrat gets more than he bargained… See cast, TMDB rating 7.6/10, and release date 14 November 1963.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Losey"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a5NNxs0HA6CEEtCNCUDvOZiQqIK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=42987",
+    "name": "The Servant",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1963-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=42987"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Servant (1963)</h1>\n<p class=\"ssr-lead\">An indolent aristocrat gets more than he bargained for when he hires a competent but silently devious manservant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 1963</li><li>Runtime: 116 minutes</li><li>Director: Joseph Losey</li><li>Genres: Drama</li><li>TMDB rating: 7.6/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dirk Bogarde as Hugo Barrett</li><li>James Fox as Tony</li><li>Sarah Miles as Vera</li><li>Wendy Craig as Susan Stewart</li><li>Catherine Lacey as Lady Agatha Mounset</li><li>Richard Vernon as Lord Willie Mounset</li><li>Harold Pinter as People in Restaurant: Society Man</li><li>Ann Firbank as People in Restaurant: Society Woman</li><li>Doris Nolan as People in Restaurant: Older Woman</li><li>Patrick Magee as People in Restaurant: Bishop</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Servant (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1963"
   },
   "movie:747687": {
    "d": "The Catholic School (2021): Crime/Thriller film. Story: Three well-off young men—former students at Rome’s… See cast and TMDB rating 6.2/10.",
@@ -834,6 +1407,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Je m&#x27;appelle Agneta (2026)</h1>\n<p class=\"ssr-lead\">Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 2026</li><li>Runtime: 114 minutes</li><li>Director: Johanna Runevad</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.7/10 (93 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Melander as Agneta</li><li>Claes Månsson as Einar</li><li>Jérémie Covillault as Fabien</li><li>Anne-Marie Ponsot as Bonibelle</li><li>Björn Kjellman as Magnus</li><li>Matilda Ekström as Kollega</li><li>Richard Forsgren</li><li>Alain Doutey</li><li>Måns Molin</li><li>Maxwell Cunningham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Je m'appelle Agneta (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:987": {
+   "d": "The Front Page (1974): Comedy film. Story: Ruthless Chicago newspaper editor Walter Burns… See cast, budget $4M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/k0YZgwDZtI9M80GKvAAbGMweAEH.jpg",
+   "industry": "world",
+   "k": "The Front Page, The Front Page movie, The Front Page cast, The Front Page story, The Front Page box office collection, The Front Page budget, The Front Page review, The Front Page rating, The Front Page release date, The Front Page Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Lemmon"
+     },
+     {
+      "@type": "Person",
+      "name": "Walter Matthau"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Sarandon"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Gardenia"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wayne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 403,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Front Page (1974): Comedy film. Story: Ruthless Chicago newspaper editor Walter Burns… See cast, budget $4M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Billy Wilder"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k0YZgwDZtI9M80GKvAAbGMweAEH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=987",
+    "name": "The Front Page",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=987"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Front Page (1974)</h1>\n<p class=\"ssr-lead\">Ruthless Chicago newspaper editor Walter Burns resorts to dubious motives in order to get top reporter Hildy Johnson to cover one more big crime story before retirement.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 1974</li><li>Runtime: 105 minutes</li><li>Director: Billy Wilder</li><li>Genres: Comedy</li><li>Budget: $4M</li><li>TMDB rating: 7.3/10 (403 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lemmon as Hildebrand Johnson</li><li>Walter Matthau as Walter Burns</li><li>Susan Sarandon as Peggy Grant</li><li>Vincent Gardenia as Sheriff</li><li>David Wayne as Roy Bensinger</li><li>Allen Garfield as Kruger</li><li>Austin Pendleton as Earl Williams</li><li>Charles Durning as Murphy</li><li>Herb Edelman as Schwartz</li><li>Martin Gabel as Dr. Max J. Eggelhofer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Front Page (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
   },
   "tv:2187": {
    "d": "Reno 911! (2003) is a Comedy TV series. Explore its story: This partially unscripted comedy brings viewers into…, cast, 6 seasons, and 88 episodes.",

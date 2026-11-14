@@ -1,7 +1,296 @@
 {
  "bucket": "67",
- "count": 36,
+ "count": 43,
  "titles": {
+  "movie:10167": {
+   "backdrop_path": "/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Sasha Petrosevitch",
+     "n": "Steven Seagal"
+    },
+    {
+     "c": "Donald Robert Johnson",
+     "n": "Morris Chestnut"
+    },
+    {
+     "c": "Nicolas 'Nick' Frazier",
+     "n": "Ja Rule"
+    },
+    {
+     "c": "49er Six",
+     "n": "Nia Peeples"
+    },
+    {
+     "c": "Reporter",
+     "n": "Alexandra Kamp"
+    },
+    {
+     "c": "Special Agent Ellen Williams",
+     "n": "Claudia Christian"
+    },
+    {
+     "c": "Warden El Fuego",
+     "n": "Tony Plana"
+    },
+    {
+     "c": "Twitch",
+     "n": "Kurupt"
+    },
+    {
+     "c": "Little Joe",
+     "n": "Michael Taliferro"
+    },
+    {
+     "c": "Lester McKenna",
+     "n": "Bruce Weitz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Don Michael Paul"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Thriller"
+   ],
+   "id": 10167,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man goes undercover in a hi-tech prison to find out information to help prosecute those who killed his wife. While there, he stumbles onto a plot involving a death-row inmate and his $200 million stash of gold.",
+   "popularity": 1.6569,
+   "poster_path": "/fJhudecoqyoZLoCwAZvqNPd7MK5.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-15",
+   "revenue": 19233280,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The good. The bad. And the deadly.",
+   "title": "Half Past Dead",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.13,
+   "vote_count": 415
+  },
+  "movie:11067": {
+   "backdrop_path": "/y4nGjTJ4d0x5tQ7EFLhuDO81QaV.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Rick Vaughn",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Jake Taylor",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Roger Dorn",
+     "n": "Corbin Bernsen"
+    },
+    {
+     "c": "Pedro Cerrano",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Lou Brown",
+     "n": "James Gammon"
+    },
+    {
+     "c": "Willie Mays Hayes",
+     "n": "Omar Epps"
+    },
+    {
+     "c": "Rube Baker",
+     "n": "Eric Bruskotter"
+    },
+    {
+     "c": "Isuro Tanaka",
+     "n": "Takaaki Ishibashi"
+    },
+    {
+     "c": "Flannery",
+     "n": "Alison Doody"
+    },
+    {
+     "c": "Nikki Reese",
+     "n": "Michelle Burke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David S. Ward"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11067,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing in the ALCS the year before, the Cleveland Indians are determined to make it into the World Series this time! However, they first have to contend with Rachel Phelps again when she buys back the team.",
+   "popularity": 2.0784,
+   "poster_path": "/2QAb0gZusyMsZ1W5ce85plVciDp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-03-30",
+   "revenue": 30626182,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The dream team is back!",
+   "title": "Major League II",
+   "trailer": {
+    "key": "QGnW5gh4WZE",
+    "name": "Major League 2 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.707,
+   "vote_count": 386
+  },
   "movie:11367": {
    "backdrop_path": "/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
    "budget": 0,
@@ -820,6 +1109,343 @@
    "vote_average": 5.417,
    "vote_count": 48
   },
+  "movie:15767": {
+   "backdrop_path": "/irLLP6uZRB10P4bCGZMzlGB5p6c.jpg",
+   "budget": 19500000,
+   "cast": [
+    {
+     "c": "Shin'ichi Ôzaki",
+     "n": "Masahiro Matsuoka"
+    },
+    {
+     "c": "Miyuki Otonashi",
+     "n": "Rei Kikukawa"
+    },
+    {
+     "c": "Captain Douglas Gordon",
+     "n": "Don Frye"
+    },
+    {
+     "c": "Anna Otonashi",
+     "n": "Maki Mizuno"
+    },
+    {
+     "c": "The controller of Planet X",
+     "n": "Kazuki Kitamura"
+    },
+    {
+     "c": "Katsunori Kazama",
+     "n": "Kane Kosugi"
+    },
+    {
+     "c": "Commander Akiko Namikawa",
+     "n": "Kumi Mizuno"
+    },
+    {
+     "c": "UN Secretary General Naotarô Daigo",
+     "n": "Akira Takarada"
+    },
+    {
+     "c": "Xilian General",
+     "n": "Masatô Ibu"
+    },
+    {
+     "c": "Major Kita",
+     "n": "Masanobu Takashima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ryuhei Kitamura"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 15767,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Humanity finally rids themselves of Godzilla, imprisoning him in an icy tomb in the South Pole. All is peaceful until various monsters emerge to lay waste to Earth's cities. Overwhelmed, humanity is seemingly saved by a race of benevolent aliens known as Xiliens. But not all is what it seems with these bizarre visitors. If humanity wishes to survive, they must reluctantly resurrect their most hated enemy, Godzilla.",
+   "popularity": 8.1711,
+   "poster_path": "/21lWA4YyYppVnwAPOiBkGrt2FGr.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-12-04",
+   "revenue": 12000000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "Farewell, Godzilla.",
+   "title": "Godzilla: Final Wars",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.114,
+   "vote_count": 394
+  },
+  "movie:15867": {
+   "backdrop_path": "/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
+   "budget": 3100000,
+   "cast": [
+    {
+     "c": "Eve",
+     "n": "Geraldine Page"
+    },
+    {
+     "c": "Flyn",
+     "n": "Kristin Griffith"
+    },
+    {
+     "c": "Joey",
+     "n": "Mary Beth Hurt"
+    },
+    {
+     "c": "Frederick",
+     "n": "Richard Jordan"
+    },
+    {
+     "c": "Renata",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Arthur",
+     "n": "E.G. Marshall"
+    },
+    {
+     "c": "Pearl",
+     "n": "Maureen Stapleton"
+    },
+    {
+     "c": "Mike",
+     "n": "Sam Waterston"
+    },
+    {
+     "c": "Young Joey",
+     "n": "Missy Hope"
+    },
+    {
+     "c": "Young Renata",
+     "n": "Kerry Duffy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 15867,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Eve, an interior designer, is deserted by her husband of many years, Arthur, the emotionally glacial relationships of the three grown-up daughters are laid bare. Twisted by jealousy, insecurity and resentment, Renata, a successful writer; Joey, a woman crippled by indecision; and Flyn, a budding actress; struggle to communicate for the sake of their shattered mother. But when their father unexpectedly falls for another woman, his decision to remarry sets in motion a terrible twist of fate…",
+   "popularity": 1.9525,
+   "poster_path": "/sTPy6Kfa1FRED1eaZdVex8b2MdB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1978-08-02",
+   "revenue": 10432366,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The serious side of Woody Allen...",
+   "title": "Interiors",
+   "trailer": {
+    "key": "sINxS7X8fFQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 407
+  },
   "movie:1643567": {
    "backdrop_path": "/r87Uwf5yvL69fBWsZHGR2OTbD1A.jpg",
    "budget": 0,
@@ -913,6 +1539,165 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 22
+  },
+  "movie:17467": {
+   "backdrop_path": "/ing3zXED5b3XnWOQ88S3S7wvU8I.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ricky",
+     "n": "Louis Fan Siu-wong"
+    },
+    {
+     "c": "Assistant Warden",
+     "n": "Fan Mei-Sheng"
+    },
+    {
+     "c": "Warden Sugiyama",
+     "n": "William Ho"
+    },
+    {
+     "c": "Keiko",
+     "n": "Gloria Yip Wan-yee"
+    },
+    {
+     "c": "Huang Chung / West Block",
+     "n": "Yukari Ôshima"
+    },
+    {
+     "c": "Hai / North Block",
+     "n": "Frankie Chan Chi-leung"
+    },
+    {
+     "c": "Tarzan San Tai / East Block",
+     "n": "Kôichi Sugisaki"
+    },
+    {
+     "c": "Blondie Shiraga / South Block",
+     "n": "Wong Kwai-hung"
+    },
+    {
+     "c": "Master Zhang",
+     "n": "Tetsuro Tamba"
+    },
+    {
+     "c": "Lao Ma",
+     "n": "Chang Gan-Wing"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Lam Ngai-chai"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 17467,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In 2001, where all correctional facilities have been privatized, martial artist Ricky finds himself victim to the corrupt system, found \"guilty\" of the manslaughter of an infamous crime boss.",
+   "popularity": 4.0818,
+   "poster_path": "/dzG0PAbBDLbJSYuv2SM2Mjxw2MH.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-10-05",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Riki-Oh: The Story of Ricky",
+   "trailer": {
+    "key": "yqjMI5dyMyM",
+    "name": "88 Films Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.844,
+   "vote_count": 394
   },
   "movie:20367": {
    "backdrop_path": "/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
@@ -1290,6 +2075,146 @@
    "type": "movie",
    "vote_average": 5.839,
    "vote_count": 493
+  },
+  "movie:2767": {
+   "backdrop_path": "/6vWdQxx4yqV5kEeAqtzBHndo3Eg.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Michèle Stalens",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Alex",
+     "n": "Denis Lavant"
+    },
+    {
+     "c": "Hans",
+     "n": "Klaus-Michael Grüber"
+    },
+    {
+     "c": "Couple in car",
+     "n": "Édith Scob"
+    },
+    {
+     "c": "Couple in car",
+     "n": "Georges Aperghis"
+    },
+    {
+     "c": "Alex's friend",
+     "n": "Daniel Buain"
+    },
+    {
+     "c": "Marion",
+     "n": "Marion Stalens"
+    },
+    {
+     "c": "Julien",
+     "n": "Chrichan Larsson"
+    },
+    {
+     "c": "Sailor / Barge operator",
+     "n": "Paulette Berthonnier"
+    },
+    {
+     "c": "Sailor / Barge operator",
+     "n": "Roger Berthonnier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Leos Carax"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 2767,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
+   "popularity": 3.2743,
+   "poster_path": "/un81oln6mAv66sqnkgPSpWONUqP.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-10-16",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Romance... In a most unlikely place.",
+   "title": "The Lovers on the Bridge",
+   "trailer": {
+    "key": "R_bvzzcpwdA",
+    "name": "4K Restoration Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.411,
+   "vote_count": 403
   },
   "movie:300667": {
    "backdrop_path": "/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
@@ -1679,6 +2604,108 @@
    "type": "movie",
    "vote_average": 5.225,
    "vote_count": 471
+  },
+  "movie:37767": {
+   "backdrop_path": "/eeWeiZ96fOhkP5vnTX7KoaZIhD1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Enzo / Ruggero / Leo / Don Alfio / Professore / Anselmo",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Marisol",
+     "n": "Verónica Miriel"
+    },
+    {
+     "c": "Mario Brega",
+     "n": "Mario Brega"
+    },
+    {
+     "c": "Sergio",
+     "n": "Renato Scarpa"
+    },
+    {
+     "c": "Antioco",
+     "n": "Fausto Di Bella"
+    },
+    {
+     "c": "Fiorenza",
+     "n": "Isabella De Bernardi"
+    },
+    {
+     "c": "Cristiano",
+     "n": "Sandro Ghiani"
+    },
+    {
+     "c": "Automobilista col cane",
+     "n": "Maria Mizar"
+    },
+    {
+     "c": "Barelliere",
+     "n": "Luciano Bonanni"
+    },
+    {
+     "c": "'Dottorino'",
+     "n": "Filippo Ciro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 37767,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Three characters' misadventures in semi-deserted, summertime Rome: a dim-witted mama's boy falls for a tourist; a would-be womanizer struggles to find company for his sex tourism trip to Kraków; a hippie is drawn into his father's schemes to bring him back into polite society.",
+   "popularity": 1.0065,
+   "poster_path": "/bm51SNYlcohegsZOy9thxy1JtOg.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-01-19",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fun Is Beautiful",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.133,
+   "vote_count": 429
   },
   "movie:49367": {
    "backdrop_path": "/fzGvBBXOKmSCMTvaUdRkrf9A5kk.jpg",

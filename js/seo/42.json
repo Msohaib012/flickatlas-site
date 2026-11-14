@@ -1,7 +1,71 @@
 {
  "bucket": "42",
- "count": 32,
+ "count": 39,
  "titles": {
+  "movie:11042": {
+   "d": "The Barbarian Invasions (2003): Comedy/Drama film. Story: In this belated sequel to 'The Decline of the… See cast, budget $8M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+   "industry": "world",
+   "k": "The Barbarian Invasions, The Barbarian Invasions movie, The Barbarian Invasions cast, The Barbarian Invasions story, The Barbarian Invasions box office collection, The Barbarian Invasions budget, The Barbarian Invasions review, The Barbarian Invasions rating, The Barbarian Invasions release date, The Barbarian Invasions Comedy, The Barbarian Invasions Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rémy Girard"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéphane Rousseau"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie-Josée Croze"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorothée Berryman"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Portal"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Barbarian Invasions (2003): Comedy/Drama film. Story: In this belated sequel to 'The Decline of the… See cast, budget $8M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Denys Arcand"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11042",
+    "name": "The Barbarian Invasions",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11042"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Barbarian Invasions (2003)</h1>\n<p class=\"ssr-lead\">In this belated sequel to &#x27;The Decline of the American Empire&#x27;, middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy&#x27;s old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2003</li><li>Runtime: 99 minutes</li><li>Director: Denys Arcand</li><li>Genres: Comedy, Drama</li><li>Budget: $8M</li><li>TMDB rating: 7.0/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rémy Girard as Rémy</li><li>Stéphane Rousseau as Sébastien</li><li>Marie-Josée Croze as Nathalie</li><li>Dorothée Berryman as Louise</li><li>Louise Portal as Diane Leonard</li><li>Dominique Michel as Dominique St. Arnaud</li><li>Pierre Curzi as Pierre Citrouillard</li><li>Yves Jacques as Claude</li><li>Marina Hands as Gaëlle</li><li>Sophie Lorain as First Lover</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Barbarian Invasions (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:1124142": {
    "d": "The Rivals of Amziah King (2026): Crime/Drama film. Story: Deep within the backwoods of rural Oklahoma… See cast, budget $6M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/sUPFV7bilTqMRILfbUgpbV4Aj9n.jpg",
@@ -385,6 +449,70 @@
    "t": "Reminders of Him (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13742": {
+   "d": "Satan (2006): Comedy/Horror film. Story: A group of young people leave a disco and bump into a… See cast, TMDB rating 5.8/10, and release date 1 February 2006.",
+   "img": "https://image.tmdb.org/t/p/w780/8RblQZM2gy2K8AQ2RXP7UzEW8jW.jpg",
+   "industry": "world",
+   "k": "Satan, Satan movie, Satan cast, Satan story, Satan box office collection, Satan budget, Satan review, Satan rating, Satan release date, Satan Comedy, Satan Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent Cassel"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Barthélémy"
+     },
+     {
+      "@type": "Person",
+      "name": "Roxane Mesquida"
+     },
+     {
+      "@type": "Person",
+      "name": "Leïla Bekhti"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie-Marie Parmentier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 400,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Satan (2006): Comedy/Horror film. Story: A group of young people leave a disco and bump into a… See cast, TMDB rating 5.8/10, and release date 1 February 2006.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Chapiron"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8RblQZM2gy2K8AQ2RXP7UzEW8jW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13742",
+    "name": "Satan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-02-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13742"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Satan (2006)</h1>\n<p class=\"ssr-lead\">A group of young people leave a disco and bump into a shepherd who is ready to spend his night worshipping Satan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 February 2006</li><li>Runtime: 94 minutes</li><li>Director: Kim Chapiron</li><li>Genres: Comedy, Horror, Thriller</li><li>TMDB rating: 5.8/10 (400 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Cassel as Joseph</li><li>Olivier Barthélémy as Bart</li><li>Roxane Mesquida as Eve</li><li>Leïla Bekhti as Yasmine</li><li>Julie-Marie Parmentier as Jeanne</li><li>Ladj Ly as Ladj</li><li>Nico Le Phat Tan as Thaï</li><li>Gérald Thomassin as Maurice</li><li>Georgette Crochon as Marie</li><li>François Levantal as Le pompiste / Le chirurgien</li></ul>\n</article>",
+   "t": "Satan (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:1401542": {
    "d": "Project Y (2026): Crime/Drama film. Story: Mi-sun and Do-kyung might be used to struggling in… See cast, TMDB rating 6.0/10, and release date 21 January 2026.",
    "img": "https://image.tmdb.org/t/p/w780/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
@@ -704,6 +832,198 @@
    "t": "The Children (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:25642": {
+   "d": "Ben 10: Alien Swarm (2009): Action/TV Movie film. Story: Ben and a mysterious girl from his past must prevent… See cast, budget $40M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+   "industry": "world",
+   "k": "Ben 10: Alien Swarm, Ben 10: Alien Swarm movie, Ben 10: Alien Swarm cast, Ben 10: Alien Swarm story, Ben 10: Alien Swarm box office collection, Ben 10: Alien Swarm budget, Ben 10: Alien Swarm review, Ben 10: Alien Swarm rating, Ben 10: Alien Swarm release date, Ben 10: Alien Swarm Action, Ben 10: Alien Swarm TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Kelley"
+     },
+     {
+      "@type": "Person",
+      "name": "Galadriel Stineman"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathan Keyes"
+     },
+     {
+      "@type": "Person",
+      "name": "Alyssa Diaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Herbert Siguenza"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Ben 10: Alien Swarm (2009): Action/TV Movie film. Story: Ben and a mysterious girl from his past must prevent… See cast, budget $40M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Winter"
+     }
+    ],
+    "duration": "PT69M",
+    "genre": [
+     "Action",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25642",
+    "name": "Ben 10: Alien Swarm",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25642"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ben 10: Alien Swarm (2009)</h1>\n<p class=\"ssr-lead\">Ben and a mysterious girl from his past must prevent an alien threat from destroying the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2009</li><li>Runtime: 69 minutes</li><li>Director: Alex Winter</li><li>Genres: Action, TV Movie, Science Fiction</li><li>Budget: $40M</li><li>TMDB rating: 6.2/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Kelley as Ben Tennyson</li><li>Galadriel Stineman as Gwen Tennyson</li><li>Nathan Keyes as Kevin E. Levin</li><li>Alyssa Diaz as Elena Validus</li><li>Herbert Siguenza as Victor Validus</li><li>Barry Corbin as Grandpa Max Tennyson</li><li>Dee Bradley Baker as Big Chill / Humongousaur (voice)</li><li>Alex Winter as Nanomech (voice)</li><li>Wendy Cutler as Alien Chip Queen (voice)</li><li>Joyce Kurtz as Computer (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Now TV Cinema, HBO Max</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Ben 10: Alien Swarm (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:26842": {
+   "d": "The Message (1976): Adventure/Drama film. Story: In sixth-century Mecca, Prophet Muhammad receives his… See cast, budget $10M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rqODzehgQ8Hl0tcUd7qIcy8Pc9Z.jpg",
+   "industry": "world",
+   "k": "The Message, The Message movie, The Message cast, The Message story, The Message box office collection, The Message budget, The Message review, The Message rating, The Message release date, The Message trailer, The Message Adventure, The Message Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Irene Papas"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Ansara"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Sekka"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Forest"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Message (1976): Adventure/Drama film. Story: In sixth-century Mecca, Prophet Muhammad receives his… See cast, budget $10M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Moustapha Akkad"
+     }
+    ],
+    "duration": "PT178M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rqODzehgQ8Hl0tcUd7qIcy8Pc9Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26842",
+    "name": "The Message",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-03-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26842"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Message (1976)</h1>\n<p class=\"ssr-lead\">In sixth-century Mecca, Prophet Muhammad receives his first revelation from God as a messenger. Three years later, he&#x27;s not alone in his quest and publicly declares his prophecy. Muhammad is fought by Abu Sufian and his wife Hind, rulers of Mecca. Muhammad&#x27;s followers are hunted and tortured but he continues his calling.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 1976</li><li>Runtime: 178 minutes</li><li>Director: Moustapha Akkad</li><li>Genres: Adventure, Drama, Action, History</li><li>Budget: $10M</li><li>TMDB rating: 7.1/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Quinn as Hamza</li><li>Irene Papas as Hind</li><li>Michael Ansara as Abu Sufyan</li><li>Johnny Sekka as Bilal</li><li>Michael Forest as Khalid</li><li>Garrick Hagon as Ammar</li><li>Nicholas Amer as Suheil</li><li>Damien Thomas as Zaid</li><li>André Morell as Abu-Talib</li><li>Martin Benson as Abu-Jahal</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Message (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
+  "movie:32042": {
+   "d": "Night Moves (1975): Thriller/Crime film. Story: Private detective and former football player Harry… See cast, TMDB rating 6.7/10, and release date 11 June 1975.",
+   "img": "https://image.tmdb.org/t/p/w780/bXZhQAI5Gm06QtN7Kj6JHIuSzc5.jpg",
+   "industry": "world",
+   "k": "Night Moves, Night Moves movie, Night Moves cast, Night Moves story, Night Moves box office collection, Night Moves budget, Night Moves review, Night Moves rating, Night Moves release date, Night Moves trailer, Night Moves Thriller, Night Moves Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gene Hackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Warren"
+     },
+     {
+      "@type": "Person",
+      "name": "John Crawford"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Clark"
+     },
+     {
+      "@type": "Person",
+      "name": "Melanie Griffith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Night Moves (1975): Thriller/Crime film. Story: Private detective and former football player Harry… See cast, TMDB rating 6.7/10, and release date 11 June 1975.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arthur Penn"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bXZhQAI5Gm06QtN7Kj6JHIuSzc5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=32042",
+    "name": "Night Moves",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-06-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=32042"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night Moves (1975)</h1>\n<p class=\"ssr-lead\">Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case - a former Hollywood actress wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 1975</li><li>Runtime: 100 minutes</li><li>Director: Arthur Penn</li><li>Genres: Thriller, Crime, Drama</li><li>TMDB rating: 6.7/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gene Hackman as Harry Moseby</li><li>Jennifer Warren as Paula</li><li>John Crawford as Tom Iverson</li><li>Susan Clark as Ellen Moseby</li><li>Melanie Griffith as Delilah &quot;Delly&quot; Grastner</li><li>Edward Binns as Joey Ziegler</li><li>Harris Yulin as Marty Heller</li><li>Janet Ward as Arlene Iverson</li><li>James Woods as Quentin</li><li>Kenneth Mars as Nick</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Night Moves (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
+  },
   "movie:458342": {
    "d": "Private Life (2018): Drama/Comedy film. Story: Richard and Rachel, a couple in the throes of… See cast, TMDB rating 6.9/10, and release date 5 October 2018.",
    "img": "https://image.tmdb.org/t/p/w780/6p6H2b4jZrm6V4uf39X21xAPgrK.jpg",
@@ -767,6 +1087,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Private Life (2018)</h1>\n<p class=\"ssr-lead\">Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 2018</li><li>Runtime: 124 minutes</li><li>Director: Tamara Jenkins</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.9/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Giamatti as Richard Grimes</li><li>Kathryn Hahn as Rachel Biegler</li><li>Kayli Carter as Sadie Barrett</li><li>Molly Shannon as Cynthia Grimes</li><li>John Carroll Lynch as Charlie Grimes</li><li>Desmin Borges as Sam</li><li>Denis O&#x27;Hare as Dr. Dordick</li><li>Siobhan Fallon Hogan as Beth</li><li>Emily Robinson as Charlotte Grimes</li><li>Tracee Chimo as Caroline</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Private Life (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:785542": {
+   "d": "The Outrun (2024): Drama film. Story: Fresh out of rehab, Rona returns to the Orkney… See cast, TMDB rating 6.7/10, and release date 19 January 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
+   "industry": "world",
+   "k": "The Outrun, The Outrun movie, The Outrun cast, The Outrun story, The Outrun box office collection, The Outrun budget, The Outrun review, The Outrun rating, The Outrun release date, The Outrun trailer, The Outrun Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Paapa Essiedu"
+     },
+     {
+      "@type": "Person",
+      "name": "Nabil Elouahabi"
+     },
+     {
+      "@type": "Person",
+      "name": "Izuka Hoyle"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Lyle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Outrun (2024): Drama film. Story: Fresh out of rehab, Rona returns to the Orkney… See cast, TMDB rating 6.7/10, and release date 19 January 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nora Fingscheidt"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=785542",
+    "name": "The Outrun",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-01-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=785542"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Outrun (2024)</h1>\n<p class=\"ssr-lead\">Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 2024</li><li>Runtime: 118 minutes</li><li>Director: Nora Fingscheidt</li><li>Genres: Drama</li><li>TMDB rating: 6.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Rona</li><li>Paapa Essiedu as Daynin</li><li>Nabil Elouahabi as Samir</li><li>Izuka Hoyle as Gloria</li><li>Lauren Lyle as Julie</li><li>Stephen Dillane as Andrew</li><li>Saskia Reeves as Annie</li><li>Naomi Wirthner as Amanda</li><li>Tony Hamilton-Croft as Gary</li><li>Posy Sterling as Rita</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Outrun (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:81342": {
    "d": "Delicacy (2011): Drama/Comedy film. Story: A French woman mourning over the death of her husband… See cast and TMDB rating 6.3/10.",
@@ -1091,6 +1474,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Uprising (2026)</h1>\n<p class=\"ssr-lead\">As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 2026</li><li>Runtime: 128 minutes</li><li>Director: Paul Greengrass</li><li>Genres: Action, Drama, History</li><li>Budget: $20M</li><li>TMDB rating: 7.8/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Garfield as Ploughman</li><li>Jamie Bell as John Ball</li><li>Stephen Dillane as Archbishop Sudbury</li><li>Tom Hollander as Treasurer Hales</li><li>Cosmo Jarvis as Wat Tyler</li><li>Thomasin McKenzie as Alyce</li><li>Jonny Lee Miller as Mayor Walworth</li><li>Woody Norman as King Richard II</li><li>Stanley Townsend as Chief Justice Belknap</li><li>Katherine Waterston as Countess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Uprising (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:9842": {
+   "d": "School for Scoundrels (2006): Comedy/Romance film. Story: In the hope of winning the woman of his dreams… See cast, budget $20M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/KT4E9HZWkx0rqEnoTWyNhInqPZ.jpg",
+   "industry": "world",
+   "k": "School for Scoundrels, School for Scoundrels movie, School for Scoundrels cast, School for Scoundrels story, School for Scoundrels box office collection, School for Scoundrels budget, School for Scoundrels review, School for Scoundrels rating, School for Scoundrels release date, School for Scoundrels trailer, School for Scoundrels Comedy, School for Scoundrels Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jon Heder"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Bob Thornton"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacinda Barrett"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Silverman"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Clarke Duncan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "School for Scoundrels (2006): Comedy/Romance film. Story: In the hope of winning the woman of his dreams… See cast, budget $20M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Todd Phillips"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/KT4E9HZWkx0rqEnoTWyNhInqPZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9842",
+    "name": "School for Scoundrels",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9842"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>School for Scoundrels (2006)</h1>\n<p class=\"ssr-lead\">In the hope of winning the woman of his dreams, Amanda, lovelorn meter-reader Roger Wadell enrolls in a secret confidence-building class. The course&#x27;s title takes on much more meaning when he discovers that his egomaniacal professor Dr. P also wants the same woman. They begin a fierce rivalry that quickly spirals out of control, their pranks and insults get uglier as they try to prove who is the ultimate guy&#x27;s guy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 2006</li><li>Runtime: 100 minutes</li><li>Director: Todd Phillips</li><li>Genres: Comedy, Romance</li><li>Budget: $20M</li><li>TMDB rating: 5.5/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jon Heder as Roger Waddell</li><li>Billy Bob Thornton as Dr. P</li><li>Jacinda Barrett as Amanda Richards</li><li>Sarah Silverman as Becky</li><li>Michael Clarke Duncan as Lesher</li><li>David Cross as Ian</li><li>Horatio Sanz as Diego</li><li>Matt Walsh as Walsh</li><li>Todd Louiso as Eli</li><li>Ben Stiller as Lonnie Ratcliff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "School for Scoundrels (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "tv:131142": {
    "d": "Love Story (2026) is a Drama TV series. Explore its story: An anthology of sweeping true love stories that…, cast, 1 season, 9 episodes, and TMDB rating 8.2/10.",

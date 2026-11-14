@@ -1,7 +1,71 @@
 {
  "bucket": "75",
- "count": 22,
+ "count": 32,
  "titles": {
+  "movie:10875": {
+   "d": "The Fabulous Baker Boys (1989): Comedy/Drama film. Story: The lives of two struggling musicians, who happen to… See cast, budget $13M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
+   "industry": "world",
+   "k": "The Fabulous Baker Boys, The Fabulous Baker Boys movie, The Fabulous Baker Boys cast, The Fabulous Baker Boys story, The Fabulous Baker Boys box office collection, The Fabulous Baker Boys budget, The Fabulous Baker Boys review, The Fabulous Baker Boys rating, The Fabulous Baker Boys release date, The Fabulous Baker Boys Comedy, The Fabulous Baker Boys Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Pfeiffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bridges"
+     },
+     {
+      "@type": "Person",
+      "name": "Beau Bridges"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie Raab"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Tilly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Fabulous Baker Boys (1989): Comedy/Drama film. Story: The lives of two struggling musicians, who happen to… See cast, budget $13M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steve Kloves"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10875",
+    "name": "The Fabulous Baker Boys",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-10-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10875"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Fabulous Baker Boys (1989)</h1>\n<p class=\"ssr-lead\">The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 1989</li><li>Runtime: 114 minutes</li><li>Director: Steve Kloves</li><li>Genres: Comedy, Drama, Music, Romance</li><li>Budget: $13M</li><li>TMDB rating: 6.6/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Pfeiffer as Susie Diamond</li><li>Jeff Bridges as Jack Baker</li><li>Beau Bridges as Frank Baker</li><li>Ellie Raab as Nina</li><li>Jennifer Tilly as Monica Moran</li><li>Xander Berkeley as Lloyd</li><li>Terri Treas as Girl in Bed</li><li>Dakin Matthews as Charlie</li><li>Ken Lerner as Ray</li><li>Albert Hall as Henry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ITVX Premium</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Fabulous Baker Boys (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:1130875": {
    "d": "Operation Taco Gary's (2026): Comedy/Science Fiction film. Story: Two brothers uncover an alien invasion hidden inside… See cast and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/bjWqyS38dQA1Ra9sNcL62gSEWor.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Operation Taco Gary&#x27;s (2026)</h1>\n<p class=\"ssr-lead\">Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2026</li><li>Runtime: 87 minutes</li><li>Director: Michael Kvamme</li><li>Genres: Comedy, Science Fiction, Action</li><li>TMDB rating: 6.3/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Rex as Danny</li><li>Dustin Milligan as Luke</li><li>Brenda Song as Allison</li><li>Jason Biggs as Self</li><li>Arturo Castro as Tiago</li><li>Tony Cavalero as Klyle</li><li>Doug Jones as Elder</li><li>Stephen Ware as Clinton</li><li>Brian Duckson as Bartender</li><li>Benji Hughes as Camper Gary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Operation Taco Gary's (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:11575": {
+   "d": "The Great Race (1965): Comedy/Adventure film. Story: Professional daredevil and white-suited hero, The… See cast, budget $12M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+   "industry": "world",
+   "k": "The Great Race, The Great Race movie, The Great Race cast, The Great Race story, The Great Race box office collection, The Great Race budget, The Great Race review, The Great Race rating, The Great Race release date, The Great Race trailer, The Great Race Comedy, The Great Race Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Lemmon"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Falk"
+     },
+     {
+      "@type": "Person",
+      "name": "Keenan Wynn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Great Race (1965): Comedy/Adventure film. Story: Professional daredevil and white-suited hero, The… See cast, budget $12M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Blake Edwards"
+     }
+    ],
+    "duration": "PT160M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11575",
+    "name": "The Great Race",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1965-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11575"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Race (1965)</h1>\n<p class=\"ssr-lead\">Professional daredevil and white-suited hero, The Great Leslie, convinces turn-of-the-century auto makers that a race from New York to Paris (westward across America, the Bering Straight and Russia) will help to promote automobile sales. Leslie&#x27;s arch-rival, the mustached and black-attired Professor Fate vows to beat Leslie to the finish line in a car of Fate&#x27;s own invention.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 1965</li><li>Runtime: 160 minutes</li><li>Director: Blake Edwards</li><li>Genres: Comedy, Adventure, Romance</li><li>Budget: $12M</li><li>TMDB rating: 7.1/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lemmon as Professor Fate</li><li>Tony Curtis as The Great Leslie</li><li>Natalie Wood as Maggie Dubois</li><li>Peter Falk as Max</li><li>Keenan Wynn as Hezekiah</li><li>Arthur O&#x27;Connell as Henry Goodbody</li><li>Vivian Vance as Hester Goodbody</li><li>Dorothy Provine as Lily Olay</li><li>Larry Storch as Texas Jack</li><li>Ross Martin as Rolfe Von Stuppe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Great Race (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1965"
   },
   "movie:120475": {
    "d": "Dragon Ball: Episode of Bardock (2011): Action/Animation film. Story: A spin-off scenario taking place after the events of… See cast and TMDB rating 7.2/10.",
@@ -258,6 +386,74 @@
    "t": "Flesh + Blood (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
   },
+  "movie:13675": {
+   "d": "Frosty the Snowman (1969): Family/Animation film. Story: A discarded silk top-hat becomes the focus of a… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg",
+   "industry": "world",
+   "k": "Frosty the Snowman, Frosty the Snowman movie, Frosty the Snowman cast, Frosty the Snowman story, Frosty the Snowman box office collection, Frosty the Snowman budget, Frosty the Snowman review, Frosty the Snowman rating, Frosty the Snowman release date, Frosty the Snowman Family, Frosty the Snowman Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Vernon"
+     },
+     {
+      "@type": "Person",
+      "name": "June Foray"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy De Wolfe"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimmy Durante"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Frees"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Frosty the Snowman (1969): Family/Animation film. Story: A discarded silk top-hat becomes the focus of a… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jules Bass"
+     },
+     {
+      "@type": "Person",
+      "name": "Arthur Rankin Jr."
+     }
+    ],
+    "duration": "PT25M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13675",
+    "name": "Frosty the Snowman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1969-12-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13675"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Frosty the Snowman (1969)</h1>\n<p class=\"ssr-lead\">A discarded silk top-hat becomes the focus of a struggle between a washed-up stage magician and a group of schoolchildren, after it magically brings a snowman to life. Realizing that newly-living Frosty will melt in spring unless he takes refuge in a colder climate, the magic snowman and Karen, a young girl whom he befriends, stow away on a freight train headed for the North Pole. Little do they know that the magician is following them, and he wants his hat back!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 December 1969</li><li>Runtime: 25 minutes</li><li>Director: Jules Bass, Arthur Rankin Jr.</li><li>Genres: Family, Animation, TV Movie</li><li>TMDB rating: 6.9/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Vernon as Frosty the Snowman (voice)</li><li>June Foray as Teacher / Karen / Additional Voices (voice)</li><li>Billy De Wolfe as Professor Hinkle (voice)</li><li>Jimmy Durante as Narrator (voice)</li><li>Paul Frees as Santa Claus / Traffic Cop / Additional Voices (voice)</li><li>Suzanne Davidson as Karen (voice) (uncredited)</li><li>Greg Thomas as Karen&#x27;s friends (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Paramount Plus Premium, Paramount Plus Essential, Paramount+ Amazon Channel</li><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "Frosty the Snowman (1969) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1969"
+  },
   "movie:13975": {
    "d": "In the Electric Mist (2009): Thriller/Drama film. Story: Lt. Dave Robicheaux, a detective in New Iberia… See cast, budget $17M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/bS5JamW3vbZsP2E5H3NiqjyHFZ.jpg",
@@ -384,6 +580,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Look Back (2026)</h1>\n<p class=\"ssr-lead\">Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2026</li><li>Runtime: 100 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Drama</li><li>TMDB rating: 8.0/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natsuki Deguchi as Fujino</li><li>Aju Makita as Kyomoto</li><li>Fuuri Nanase as Young Fujino</li><li>Rokka Okada as Young Kyomoto</li><li>Masaki Suda as Maeda</li><li>Kankuro Kudo as Tamai</li><li>Kayo Noro as Akari</li><li>Ryo Ikeda as Hitoshi</li><li>Miyu Sasaki as Megumi</li><li>Maho Yamada as Manabe</li></ul>\n</article>",
    "t": "Look Back (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:167575": {
+   "d": "Hatchet III (2013): Horror/Thriller film. Story: A search and recovery team heads into Victor… See cast, budget $1.17M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/26hIJYDMVtQsp7NHmXrBoYbre7n.jpg",
+   "industry": "world",
+   "k": "Hatchet III, Hatchet III movie, Hatchet III cast, Hatchet III story, Hatchet III box office collection, Hatchet III budget, Hatchet III review, Hatchet III rating, Hatchet III release date, Hatchet III Horror, Hatchet III Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Danielle Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Kane Hodder"
+     },
+     {
+      "@type": "Person",
+      "name": "Zach Galligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Caroline Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Mears"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 405,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Hatchet III (2013): Horror/Thriller film. Story: A search and recovery team heads into Victor… See cast, budget $1.17M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "BJ McDonnell"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/26hIJYDMVtQsp7NHmXrBoYbre7n.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=167575",
+    "name": "Hatchet III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-06-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=167575"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hatchet III (2013)</h1>\n<p class=\"ssr-lead\">A search and recovery team heads into Victor Crowley’s haunted swamp to pick up the pieces, and Marybeth learns the secret to ending the voodoo curse that has left Victor Crowley terrorizing Honey Island Swamp for decades.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 2013</li><li>Runtime: 81 minutes</li><li>Director: BJ McDonnell</li><li>Genres: Horror, Thriller, Comedy, Action</li><li>Budget: $1.17M</li><li>TMDB rating: 5.7/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danielle Harris as Marybeth Dunstan</li><li>Kane Hodder as Victor Crowley</li><li>Zach Galligan as Sheriff Fowler</li><li>Caroline Williams as Amanda</li><li>Derek Mears as Hawes</li><li>Rileah Vanderbilt as Dougherty</li><li>Sean Whalen as Randy</li><li>Jason Trost as Hamilton</li><li>Diane Ayala Goldner as Elbert</li><li>Parry Shen as Andrew</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Hatchet III (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:1698575": {
    "d": "Snoopy Presents: There's No Place Like Home, Snoopy (2026): Animation/Family film. Story: When Snoopy's beloved doghouse goes missing, he tries… See cast.",
@@ -513,6 +773,74 @@
    "t": "The Militia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:202575": {
+   "d": "The House of Magic (2013): Family/Fantasy film. Story: Thunder, an abandoned young cat seeking shelter from… See cast, budget $34M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg",
+   "industry": "world",
+   "k": "The House of Magic, The House of Magic movie, The House of Magic cast, The House of Magic story, The House of Magic box office collection, The House of Magic budget, The House of Magic review, The House of Magic rating, The House of Magic release date, The House of Magic trailer, The House of Magic Family, The House of Magic Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brianne Siddall"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Atkin Downes"
+     },
+     {
+      "@type": "Person",
+      "name": "Cinda Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Sage Sommer"
+     },
+     {
+      "@type": "Person",
+      "name": "Shanelle Gray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The House of Magic (2013): Family/Fantasy film. Story: Thunder, an abandoned young cat seeking shelter from… See cast, budget $34M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Stassen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jérémie Degruson"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=202575",
+    "name": "The House of Magic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=202575"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The House of Magic (2013)</h1>\n<p class=\"ssr-lead\">Thunder, an abandoned young cat seeking shelter from a storm, stumbles into the strangest house imaginable, owned by an old magician and inhabited by a dazzling array of automatons and gizmos. Not everyone welcomes the new addition to the troupe as Jack Rabbit and Maggie Mouse plot to evict Thunder. The situation gets worse when the magician lands in hospital and his scheming nephew sees his chance to cash in by selling the mansion. Our young hero is determined to earn his place and so he enlists the help of some wacky magician&#x27;s assistants to protect his magical new home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2013</li><li>Runtime: 85 minutes</li><li>Director: Ben Stassen, Jérémie Degruson</li><li>Genres: Family, Fantasy, Animation, Adventure</li><li>Budget: $34M</li><li>TMDB rating: 6.3/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brianne Siddall as Thunder / Dylan (voice)</li><li>Robin Atkin Downes as Carlo / Jack / Zoltar (voice)</li><li>Cinda Adams as Nurse Baxter (voice)</li><li>Sage Sommer as Izzy (voice)</li><li>Shanelle Gray as Maggie (voice)</li><li>Doug Stone as Mr. Lawrence (voice)</li><li>Grant George as Daniel (voice)</li><li>Joey Camen as Chihuahua (voice)</li><li>Elisa Gabrielli as Carla (voice)</li><li>Kyle Hebert as Mark Matthews (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The House of Magic (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:2075": {
    "d": "Prizzi's Honor (1985): Romance/Comedy film. Story: Charley Partanna is a hitman who works for the… See cast, TMDB rating 6.4/10, and release date 14 June 1985.",
    "img": "https://image.tmdb.org/t/p/w780/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
@@ -577,6 +905,262 @@
    "t": "Prizzi's Honor (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
   },
+  "movie:27275": {
+   "d": "G.O.R.A. (2004): Comedy/Adventure film. Story: Carpet dealer and UFO photo forger Arif is abducted… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+   "industry": "world",
+   "k": "G.O.R.A., G.O.R.A. movie, G.O.R.A. cast, G.O.R.A. story, G.O.R.A. box office collection, G.O.R.A. budget, G.O.R.A. review, G.O.R.A. rating, G.O.R.A. release date, G.O.R.A. Comedy, G.O.R.A. Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cem Yılmaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Özge Özberk"
+     },
+     {
+      "@type": "Person",
+      "name": "Ozan Güven"
+     },
+     {
+      "@type": "Person",
+      "name": "Şafak Sezer"
+     },
+     {
+      "@type": "Person",
+      "name": "Rasim Öztekin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "G.O.R.A. (2004): Comedy/Adventure film. Story: Carpet dealer and UFO photo forger Arif is abducted… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ömer Faruk Sorak"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=27275",
+    "name": "G.O.R.A.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=27275"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>G.O.R.A. (2004)</h1>\n<p class=\"ssr-lead\">Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2004</li><li>Runtime: 127 minutes</li><li>Director: Ömer Faruk Sorak</li><li>Genres: Comedy, Adventure, Science Fiction</li><li>TMDB rating: 7.3/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cem Yılmaz as Arif / Komutan Logar / Erşan Kuneri / Komutan Kubar</li><li>Özge Özberk as Ceku</li><li>Ozan Güven as Robot 216</li><li>Şafak Sezer as Kuna</li><li>Rasim Öztekin as Bob Marley Faruk</li><li>Özkan Uğur as Garavel</li><li>İdil Fırat as Mulu</li><li>Erdal Tosun as Rendroy</li><li>Cezmi Baskin as Amir Tocha</li><li>Muhittin Korkmaz as Tihulu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "G.O.R.A. (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:27475": {
+   "d": "The Slumber Party Massacre (1982): Horror/Thriller film. Story: Trish invites her high school basketball teammates… See cast and budget $220.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/3A8hf7Va32HjGAAgatMa0ibPD9E.jpg",
+   "industry": "world",
+   "k": "The Slumber Party Massacre, The Slumber Party Massacre movie, The Slumber Party Massacre cast, The Slumber Party Massacre story, The Slumber Party Massacre box office collection, The Slumber Party Massacre budget, The Slumber Party Massacre review, The Slumber Party Massacre rating, The Slumber Party Massacre release date, The Slumber Party Massacre trailer, The Slumber Party Massacre Horror, The Slumber Party Massacre Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michele Michaels"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Stille"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Villella"
+     },
+     {
+      "@type": "Person",
+      "name": "Debra De Liso"
+     },
+     {
+      "@type": "Person",
+      "name": "Andree Honore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Slumber Party Massacre (1982): Horror/Thriller film. Story: Trish invites her high school basketball teammates… See cast and budget $220.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Amy Holden Jones"
+     }
+    ],
+    "duration": "PT76M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3A8hf7Va32HjGAAgatMa0ibPD9E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=27475",
+    "name": "The Slumber Party Massacre",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=27475"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Slumber Party Massacre (1982)</h1>\n<p class=\"ssr-lead\">Trish invites her high school basketball teammates over for a night they&#x27;ll never forget when an unexpected guest crashes the party: an escaped psychopath with a portable power drill.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 1982</li><li>Runtime: 76 minutes</li><li>Director: Amy Holden Jones</li><li>Genres: Horror, Thriller, Comedy</li><li>Budget: $220.0k</li><li>TMDB rating: 5.6/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michele Michaels as Trish</li><li>Robin Stille as Valerie</li><li>Michael Villella as Russ Thorn</li><li>Debra De Liso as Kim</li><li>Andree Honore as Jackie</li><li>Gina Smika Hunter as Diane</li><li>Jennifer Meyers as Courtney</li><li>Joseph Alan Johnson as Neil</li><li>David Millbern as Jeff</li><li>Jim Boyce as John Minor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Night Flight Plus, Shudder Amazon Channel, FlixFling, Midnight Pulp, Shudder Apple TV channel, Amazon Prime Video with Ads, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "The Slumber Party Massacre (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
+  },
+  "movie:33875": {
+   "d": "Pokémon Heroes (2002): Animation/Adventure film. Story: Ash, Pikachu and the gang try and stop a pair of… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
+   "industry": "world",
+   "k": "Pokémon Heroes, Pokémon Heroes movie, Pokémon Heroes cast, Pokémon Heroes story, Pokémon Heroes box office collection, Pokémon Heroes budget, Pokémon Heroes review, Pokémon Heroes rating, Pokémon Heroes release date, Pokémon Heroes Animation, Pokémon Heroes Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rica Matsumoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Ikue Otani"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayumi Izuka"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuji Ueda"
+     },
+     {
+      "@type": "Person",
+      "name": "Satomi Korogi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Pokémon Heroes (2002): Animation/Adventure film. Story: Ash, Pikachu and the gang try and stop a pair of… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kunihiko Yuyama"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=33875",
+    "name": "Pokémon Heroes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-07-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=33875"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pokémon Heroes (2002)</h1>\n<p class=\"ssr-lead\">Ash, Pikachu and the gang try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew — a priceless treasure with a mysterious power.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 2002</li><li>Runtime: 80 minutes</li><li>Director: Kunihiko Yuyama</li><li>Genres: Animation, Adventure, Action, Fantasy, Science Fiction</li><li>TMDB rating: 6.7/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rica Matsumoto as Satoshi (voice)</li><li>Ikue Otani as Pikachu (voice)</li><li>Mayumi Izuka as Kasumi (voice)</li><li>Yuji Ueda as Takeshi (voice)</li><li>Satomi Korogi as Togepy (voice)</li><li>Megumi Hayashibara as Musashi / Latias (voice)</li><li>Shin-ichiro Miki as Kojiro / Crobat (voice)</li><li>Inuko Inuyama as Nyarth (voice)</li><li>Fumiko Orikasa as Kanon (voice)</li><li>Masashi Ebara as Latios (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Pokémon Heroes (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:500475": {
+   "d": "SuperFly (2018): Action/Crime film. Story: Career criminal Youngblood Priest wants out of the… See cast, budget $16M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fJKJXKiRSzDihp50c7j39zb3ILi.jpg",
+   "industry": "world",
+   "k": "SuperFly, SuperFly movie, SuperFly cast, SuperFly story, SuperFly box office collection, SuperFly budget, SuperFly review, SuperFly rating, SuperFly release date, SuperFly trailer, SuperFly Action, SuperFly Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Trevor Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Mitchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Kenneth Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Lex Scott Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Morrison"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "SuperFly (2018): Action/Crime film. Story: Career criminal Youngblood Priest wants out of the… See cast, budget $16M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Director X."
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fJKJXKiRSzDihp50c7j39zb3ILi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=500475",
+    "name": "SuperFly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=500475"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>SuperFly (2018)</h1>\n<p class=\"ssr-lead\">Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 2018</li><li>Runtime: 107 minutes</li><li>Director: Director X.</li><li>Genres: Action, Crime</li><li>Budget: $16M</li><li>TMDB rating: 6.7/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Trevor Jackson as Youngblood Priest</li><li>Jason Mitchell as Eddie</li><li>Michael Kenneth Williams as Scatter</li><li>Lex Scott Davis as Georgia</li><li>Jennifer Morrison as Detective Mason</li><li>Kaalan Rashad Walker as Juju</li><li>Esai Morales as Adalberto Gonzalez</li><li>Andrea Londo as Cynthia</li><li>Big Bank Black as Q</li><li>Big Boi as Mayor Wendell Atkins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "SuperFly (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:9275": {
    "d": "Death to Smoochy (2002): Comedy/Crime film. Story: Tells the story of Rainbow Randolph, the corrupt… See cast, budget $55M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/xse1f9OR0PVByGnTChplzUgYz7t.jpg",
@@ -640,6 +1224,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Death to Smoochy (2002)</h1>\n<p class=\"ssr-lead\">Tells the story of Rainbow Randolph, the corrupt, costumed star of a popular children&#x27;s TV show, who is fired over a bribery scandal and replaced by squeaky-clean Smoochy, a puffy fuchsia rhinoceros. As Smoochy catapults to fame - scoring hit ratings and the affections of a network executive - Randolph makes the unsuspecting rhino the target of his numerous outrageous attempts to exact revenge and reclaim his status as America&#x27;s sweetheart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 2002</li><li>Runtime: 109 minutes</li><li>Director: Danny DeVito</li><li>Genres: Comedy, Crime, Drama, Thriller</li><li>Budget: $55M</li><li>TMDB rating: 5.9/10 (473 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robin Williams as Rainbow Randolph</li><li>Edward Norton as Sheldon Mopes / Smoochy</li><li>Catherine Keener as Nora Wells</li><li>Danny DeVito as Burke Bennett</li><li>Jon Stewart as Marion Frank Stokes</li><li>Pam Ferris as Tommy Cotter</li><li>Danny Woodburn as Angelo Pike</li><li>Michael Rispoli as Spinner Dunn</li><li>Harvey Fierstein as Merv Green</li><li>Vincent Schiavelli as Buggy Ding Dong</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Death to Smoochy (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:960875": {
+   "d": "The Chalk Line (2022): Horror/Mystery film. Story: After a couple finds a traumatized child of unknown… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tDHRhZGEVVth1EmiRS05STQJp5z.jpg",
+   "industry": "world",
+   "k": "The Chalk Line, The Chalk Line movie, The Chalk Line cast, The Chalk Line story, The Chalk Line box office collection, The Chalk Line budget, The Chalk Line review, The Chalk Line rating, The Chalk Line release date, The Chalk Line Horror, The Chalk Line Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elena Anaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Pablo Molinero"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Tennear"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Llorach"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Santos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Chalk Line (2022): Horror/Mystery film. Story: After a couple finds a traumatized child of unknown… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ignacio Tatay"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tDHRhZGEVVth1EmiRS05STQJp5z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=960875",
+    "name": "The Chalk Line",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=960875"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Chalk Line (2022)</h1>\n<p class=\"ssr-lead\">After a couple finds a traumatized child of unknown origins, wife Paula must decipher the girl&#x27;s strange behaviors to unlock her identity and dark past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2022</li><li>Runtime: 106 minutes</li><li>Director: Ignacio Tatay</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.4/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elena Anaya as Paula</li><li>Pablo Molinero as Simón</li><li>Eva Tennear as Clara</li><li>Eva Llorach as Maite</li><li>Carlos Santos as Eduardo</li><li>Esther Acebo as Claudia</li><li>Eloy Azorín as Beltrán</li><li>Mona Martínez as Sargento Arana</li><li>Sonia Almarcha as Gloria</li><li>Pau Roca as Cabo Bedoya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Chalk Line (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "tv:218275": {
    "d": "Secrets of the Penguins (2025) is a Documentary TV series. Explore its story: Over two extraordinary years, National Geographic…, cast, and 1 season.",

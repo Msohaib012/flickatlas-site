@@ -1,7 +1,384 @@
 {
  "bucket": "72",
- "count": 22,
+ "count": 31,
  "titles": {
+  "movie:10872": {
+   "backdrop_path": "/jRFC2W21pWAwKUqbEmvG5mVbcle.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Gus",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Caroline Chasseur",
+     "n": "Judy Davis"
+    },
+    {
+     "c": "Lloyd Chasseur",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Jesse Chasseur",
+     "n": "Robert J. Steinmiller Jr."
+    },
+    {
+     "c": "Rose Chasseur",
+     "n": "Glynis Johns"
+    },
+    {
+     "c": "Lt. Huff",
+     "n": "Raymond J. Barry"
+    },
+    {
+     "c": "Murray",
+     "n": "Richard Bright"
+    },
+    {
+     "c": "Connie Chasseur",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "George",
+     "n": "Bill Raymond"
+    },
+    {
+     "c": "Mary",
+     "n": "Ellie Raab"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ted Demme"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 10872,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A cat burglar is forced to take a bickering, dysfunctional family hostage on Christmas Eve.",
+   "popularity": 1.7596,
+   "poster_path": "/ym7Kx3iDmalK8kXKvVQwnFYABEV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-03-09",
+   "revenue": 11400000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They might be his hostages but what they're doing to this guy is criminal.",
+   "title": "The Ref",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.551,
+   "vote_count": 392
+  },
+  "movie:11372": {
+   "backdrop_path": "/kk1EDdwnERVB89VRuqlJjPGHexu.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Col. Kurt Steiner",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Liam Devlin",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Col. Max Radl",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Molly Prior",
+     "n": "Jenny Agutter"
+    },
+    {
+     "c": "Himmler",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Admiral Canaris",
+     "n": "Anthony Quayle"
+    },
+    {
+     "c": "Joanna Grey",
+     "n": "Jean Marsh"
+    },
+    {
+     "c": "Captain von Neustadt",
+     "n": "Sven-Bertil Taube"
+    },
+    {
+     "c": "Father Verecker",
+     "n": "John Standing"
+    },
+    {
+     "c": "Pamela",
+     "n": "Judy Geeson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Sturges"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "Thriller",
+    "War"
+   ],
+   "id": 11372,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the Nazi high command learns in late 1943 that Winston Churchill will be spending time at a country estate in Norfolk, it hatches an audacious scheme to kidnap the prime minister and spirit him to Germany for enforced negotiations with Hitler.",
+   "popularity": 3.1183,
+   "poster_path": "/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5VGoQun874KipwsAgtc8eagtIkc.png",
+     "name": "History Vault",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-12-24",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The daring World War II plot that changed the course of history.",
+   "title": "The Eagle Has Landed",
+   "trailer": {
+    "key": "anFz2h-zKwE",
+    "name": "Vintage Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 407
+  },
   "movie:1317672": {
    "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
    "budget": 0,
@@ -117,6 +494,166 @@
    "type": "movie",
    "vote_average": 6.106,
    "vote_count": 343
+  },
+  "movie:13972": {
+   "backdrop_path": "/lrE14a3NfpDhSHHbJaQYScK6aSh.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Mary Haines",
+     "n": "Meg Ryan"
+    },
+    {
+     "c": "Sylvie Fowler",
+     "n": "Annette Bening"
+    },
+    {
+     "c": "Edie Cohen",
+     "n": "Debra Messing"
+    },
+    {
+     "c": "Alex Fisher",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Crystal Allen",
+     "n": "Eva Mendes"
+    },
+    {
+     "c": "Catherine Frazier",
+     "n": "Candice Bergen"
+    },
+    {
+     "c": "Maggie",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Molly Haines",
+     "n": "India Ennenga"
+    },
+    {
+     "c": "Tanya",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Leah Miller",
+     "n": "Bette Midler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Diane English"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 13972,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story centers on a group of gossipy, high-society women who spend their days at the beauty salon and haunting fashion shows. The sweet, happily-wedded Mary Haines finds her marriage in trouble when shop girl Crystal Allen gets her hooks into Mary's man.",
+   "popularity": 1.8902,
+   "poster_path": "/fqQksnbEfmUGL0zj3MIb53euAh6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-09-12",
+   "revenue": 50007546,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Women",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.22,
+   "vote_count": 389
   },
   "movie:219572": {
    "backdrop_path": "/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
@@ -350,6 +887,181 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 467
+  },
+  "movie:315872": {
+   "backdrop_path": "/2bnTiTBvnBVYosk73J29UzeuBRO.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Margherita",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Nanni Moretti"
+    },
+    {
+     "c": "Barry Huggins",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Bruno",
+     "n": "Pietro Ragusa"
+    },
+    {
+     "c": "Ex alunno",
+     "n": "Antonio Zavatteri"
+    },
+    {
+     "c": "Ada",
+     "n": "Giulia Lazzarini"
+    },
+    {
+     "c": "Livia",
+     "n": "Beatrice Mancini"
+    },
+    {
+     "c": "Federico",
+     "n": "Stefano Abbati"
+    },
+    {
+     "c": "Vittorio",
+     "n": "Enrico Ianniello"
+    },
+    {
+     "c": "Attrice",
+     "n": "Anna Bellato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Nanni Moretti"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 315872,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Margherita, a director in the middle of an existential crisis, has to deal with the inevitable and still unacceptable loss of her mother.",
+   "popularity": 0.882,
+   "poster_path": "/fkTsusFtFE5qvYkzFIben1aKsTn.jpg",
+   "production_countries": [
+    "IT",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "OVID"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-16",
+   "revenue": 7723656,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mia Madre",
+   "trailer": {
+    "key": "4U4zq2CAkc8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 387
   },
   "movie:373072": {
    "backdrop_path": "/1ZtTi3s6IYtYMpKJbbrCJKfnNib.jpg",
@@ -657,6 +1369,310 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 470
+  },
+  "movie:473072": {
+   "backdrop_path": "/pMYSFleKKpLGhIbTiqd3o5r96jo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Niander Wallace",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Lawmaker",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Lawmaker No. 4",
+     "n": "Ania Marson"
+    },
+    {
+     "c": "Lawmaker No. 2",
+     "n": "Ned Dennehy"
+    },
+    {
+     "c": "Lawmaker No. 3",
+     "n": "Ade Sapara"
+    },
+    {
+     "c": "Nexus-9 Replicant",
+     "n": "Set Sjöstrand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Luke Scott"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 473072,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Niander Wallace introduces a new line of \"perfected\" replicants called the Nexus 9, seeking to get the prohibition on replicants repealed.",
+   "popularity": 1.7606,
+   "poster_path": "/qPci3811kFmPPEevGrnjeKWokD4.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-30",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "2036: Nexus Dawn",
+   "trailer": {
+    "key": "UgsS3nhRRzQ",
+    "name": "BLADE RUNNER 2049 - \"2036: Nexus Dawn\" Short",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.833,
+   "vote_count": 432
+  },
+  "movie:5172": {
+   "backdrop_path": "/l4hWbdxXompHvLIR0bl3m3WromI.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Charles Farmer",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Mrs. Farmer",
+     "n": "Virginia Madsen"
+    },
+    {
+     "c": "Shepard Farmer",
+     "n": "Max Thieriot"
+    },
+    {
+     "c": "Stanley Farmer",
+     "n": "Jasper Polish"
+    },
+    {
+     "c": "Sunshine Farmer",
+     "n": "Logan Polish"
+    },
+    {
+     "c": "FBI Agent Killbourne",
+     "n": "Jon Gries"
+    },
+    {
+     "c": "FBI Agent Mathis",
+     "n": "Mark Polish"
+    },
+    {
+     "c": "Hal",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "Kevin Munchak",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Pepe Garcia",
+     "n": "Sal Lopez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Polish"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 5172,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Texan Charles Farmer left the Air Force as a young man to save the family ranch when his dad died. Like most American ranchers, he owes his bank. Unlike most, he's an astrophysicist with a rocket in his barn - one he's built and wants to take into space. It's his dream. The FBI puts him under surveillance when he tries to buy rocket fuel, and the FAA stalls him when he files a flight plan – but Charles is undeterred.",
+   "popularity": 1.8593,
+   "poster_path": "/19uGc8wW3Ert1QvMYxvnReQkFMc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-23",
+   "revenue": 11130889,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Astronaut Farmer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 387
+  },
+  "movie:53172": {
+   "backdrop_path": "/eLTdgR6f4MrnqAA42NDVGHp7xXd.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Henry Torne",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Julie Ivanova",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Max Saltzman",
+     "n": "James Caan"
+    },
+    {
+     "c": "Debbie Torne",
+     "n": "Judy Greer"
+    },
+    {
+     "c": "Eddie Vibes",
+     "n": "Fisher Stevens"
+    },
+    {
+     "c": "Joe",
+     "n": "Danny Hoch"
+    },
+    {
+     "c": "Frank",
+     "n": "Bill Duke"
+    },
+    {
+     "c": "Darek Millodragovic",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Simon",
+     "n": "Currie Graham"
+    },
+    {
+     "c": "Arnold",
+     "n": "David Costabile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Malcolm Venville"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
+   "id": 53172,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An aimless man is sent to prison for a crime he did not commit, an ex-con targets the same bank he was sent away for robbing.",
+   "popularity": 1.5231,
+   "poster_path": "/1i1sDWOZecbUZ4Yp9DG5UiTBBRl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-14",
+   "revenue": 2100000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The real crime is not committing to your dreams.",
+   "title": "Henry's Crime",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 404
   },
   "movie:534072": {
    "backdrop_path": "/vvzucWIigLAWS8QawQRvpmUKM6.jpg",
@@ -976,6 +1992,223 @@
    "type": "movie",
    "vote_average": 7.398,
    "vote_count": 460
+  },
+  "movie:772272": {
+   "backdrop_path": "/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg",
+   "budget": 24393503,
+   "cast": [
+    {
+     "c": "Jodi Kreyman",
+     "n": "Ava Michelle"
+    },
+    {
+     "c": "Jack Dunkleman",
+     "n": "Griffin Gluck"
+    },
+    {
+     "c": "Harper Kreyman",
+     "n": "Sabrina Carpenter"
+    },
+    {
+     "c": "Kimmy Sticher",
+     "n": "Clara Wilsey"
+    },
+    {
+     "c": "Helanie Kreyman",
+     "n": "Angela Kinsey"
+    },
+    {
+     "c": "Schnipper",
+     "n": "Rico Paris"
+    },
+    {
+     "c": "Fareeda",
+     "n": "Anjelika Washington"
+    },
+    {
+     "c": "Stig Mohlin",
+     "n": "Luke Eisner"
+    },
+    {
+     "c": "Richie Kreyman",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Tommy Torres",
+     "n": "Jan Luis Castellanos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Emily Ting"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 772272,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to \"stand tall\".",
+   "popularity": 1.4194,
+   "poster_path": "/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-10",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Growing up is a tall order.",
+   "title": "Tall Girl 2",
+   "trailer": {
+    "key": "2-1qlHIhWXE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.727,
+   "vote_count": 429
+  },
+  "movie:774372": {
+   "backdrop_path": "/pgsxHZO2Tf7nHpRnBoQZitAPguA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ariana Grande"
+    },
+    {
+     "c": "Self - Creative Director / Dancer",
+     "n": "Scott Nicholson"
+    },
+    {
+     "c": "Self - Creative Director / Dancer",
+     "n": "Brian Nicholson"
+    },
+    {
+     "c": "Self - Dance Captain",
+     "n": "Joesar Alva"
+    },
+    {
+     "c": "Self - Dance Captain",
+     "n": "Cory Graves"
+    },
+    {
+     "c": "Self - Dancer",
+     "n": "Bong Buño"
+    },
+    {
+     "c": "Self - Dancer",
+     "n": "Igor Faria"
+    },
+    {
+     "c": "Self - Dancer",
+     "n": "Darrion Gallegos"
+    },
+    {
+     "c": "Self - Dancer",
+     "n": "Nekai Johnson"
+    },
+    {
+     "c": "Self - Dancer",
+     "n": "Mao Kawakami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Paul Dugdale"
+   ],
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "id": 774372,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.",
+   "popularity": 1.504,
+   "poster_path": "/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-12-21",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "ariana grande: excuse me, i love you",
+   "trailer": {
+    "key": "zHwcvnyiolA",
+    "name": "ariana grande: excuse me, i love you | official trailer | netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 383
   },
   "movie:8272": {
    "backdrop_path": "/2KoLLmYiVTBlTv0GYIJYOjYZ9s5.jpg",

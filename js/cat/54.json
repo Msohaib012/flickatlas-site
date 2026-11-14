@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 36,
+ "count": 48,
  "titles": {
   "movie:1015154": {
    "backdrop_path": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
@@ -166,6 +166,106 @@
    "type": "movie",
    "vote_average": 8.711,
    "vote_count": 45
+  },
+  "movie:10754": {
+   "backdrop_path": "/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jacek Łazar",
+     "n": "Mirosław Baka"
+    },
+    {
+     "c": "Piotr Balicki",
+     "n": "Krzysztof Globisz"
+    },
+    {
+     "c": "Waldemar Rekowski",
+     "n": "Jan Tesarz"
+    },
+    {
+     "c": "Committee Chairman",
+     "n": "Zbigniew Zapasiewicz"
+    },
+    {
+     "c": "Cashier",
+     "n": "Barbara Dziekan"
+    },
+    {
+     "c": "The Executioner",
+     "n": "Aleksander Bednarz"
+    },
+    {
+     "c": "Police Commander",
+     "n": "Jerzy Zass"
+    },
+    {
+     "c": "Judge",
+     "n": "Zdzisław Tobiasz"
+    },
+    {
+     "c": "Young Man",
+     "n": "Artur Barciś"
+    },
+    {
+     "c": "Dorota",
+     "n": "Krystyna Janda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Krzysztof Kieślowski"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 10754,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.",
+   "popularity": 1.7059,
+   "poster_path": "/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-03-11",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Short Film About Killing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.618,
+   "vote_count": 420
   },
   "movie:11054": {
    "backdrop_path": "/ersVrGMSzq2WU6ynBQrHJhwuQ85.jpg",
@@ -411,6 +511,113 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 457
+  },
+  "movie:12554": {
+   "backdrop_path": "/kCmVAb2J81guVgk14lX7wLfFjMO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Viktor Burakov",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Col. Mikhail Fetisov",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Dr. Alexandr Bukhanovsky",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Andrei Chikatilo",
+     "n": "Jeffrey DeMunn"
+    },
+    {
+     "c": "Bondarchuk",
+     "n": "Joss Ackland"
+    },
+    {
+     "c": "Gorbunov",
+     "n": "John Wood"
+    },
+    {
+     "c": "Federenko",
+     "n": "Radu Amzulescu"
+    },
+    {
+     "c": "Mrs. Burakov",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Ignatiev",
+     "n": "András Bálint"
+    },
+    {
+     "c": "Procurator",
+     "n": "Géza Balkay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris Gerolmo"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "TV Movie"
+   ],
+   "id": 12554,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the true story of a Russian serial killer who, over many years, claimed victim to over 50 people. His victims were mostly under the age of 17. In what was then a communists state, the police investigations were hampered by bureaucracy, incompetence and those in power. The story is told from the viewpoint of the detective in charge of the case.",
+   "popularity": 1.812,
+   "poster_path": "/mr3lIjSRhXGVP2o9HY3P9PX2KsH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-02-25",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You don't want to know what he does... You just want to know when he's caught.",
+   "title": "Citizen X",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.194,
+   "vote_count": 409
   },
   "movie:1356454": {
    "backdrop_path": "/vaYQhikryKYPOs86rULXIACOCYi.jpg",
@@ -1026,6 +1233,112 @@
    "vote_average": 6.8,
    "vote_count": 497
   },
+  "movie:18254": {
+   "backdrop_path": "/cDdB8JBflT4vBYlftoopSdTf4Wz.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "John Reed",
+     "n": "Warren Beatty"
+    },
+    {
+     "c": "Louise Bryant",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Max Eastman",
+     "n": "Edward Herrmann"
+    },
+    {
+     "c": "Grigory Zinoviev",
+     "n": "Jerzy Kosiński"
+    },
+    {
+     "c": "Eugene O'Neill",
+     "n": "Jack Nicholson"
+    },
+    {
+     "c": "Louis Fraina",
+     "n": "Paul Sorvino"
+    },
+    {
+     "c": "Emma Goldman",
+     "n": "Maureen Stapleton"
+    },
+    {
+     "c": "Paul Trullinger",
+     "n": "Nicolas Coster"
+    },
+    {
+     "c": "Speaker at Liberal Club",
+     "n": "M. Emmet Walsh"
+    },
+    {
+     "c": "Mr. Partlow",
+     "n": "Ian Wolfe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Warren Beatty"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 18254,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An account of the revolutionary years of the legendary American journalist John Reed, who shared his adventurous professional life with his radical commitment to the socialist revolution in Russia, his dream of spreading its principles among the members of the American working class, and his troubled romantic relationship with the writer Louise Bryant.",
+   "popularity": 2.4682,
+   "poster_path": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-12-25",
+   "revenue": 40382659,
+   "runtime": 195,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fi",
+    "fr",
+    "de",
+    "it",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Not since Gone with the Wind has there been a great romantic epic like it!",
+   "title": "Reds",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 391
+  },
   "movie:2054": {
    "backdrop_path": "/oUptKQLatCgywVDx0ETVhq7knHt.jpg",
    "budget": 31000000,
@@ -1186,6 +1499,602 @@
    "vote_average": 6.959,
    "vote_count": 478
   },
+  "movie:259954": {
+   "backdrop_path": "/xQmJgCwXVTs5Aw7DSCYFl6wJcqi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brian Bloom",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Arielle Pierpont",
+     "n": "Bérénice Marlohe"
+    },
+    {
+     "c": "Jane",
+     "n": "Olivia Thirlby"
+    },
+    {
+     "c": "Valery Pierpont",
+     "n": "Lambert Wilson"
+    },
+    {
+     "c": "Sam Bloom",
+     "n": "Frank Langella"
+    },
+    {
+     "c": "Arlene Bloom",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Jonathan Galassi",
+     "n": "Eric Stoltz"
+    },
+    {
+     "c": "Kiva Bloom",
+     "n": "Jocelyn DeBoer"
+    },
+    {
+     "c": "Jim Sheehy",
+     "n": "David Shannon"
+    },
+    {
+     "c": "Waiter",
+     "n": "Joseph D'Onofrio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Victor Levin"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 259954,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young writer begins an affair with an older woman from France whose open marriage to a diplomat dictates that they can meet only between the hours of 5 p.m. to 7 p.m.",
+   "popularity": 1.4715,
+   "poster_path": "/sQM9OKpj876pDWFbkfRIrpQG6fZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-04-19",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Loving someone... at the right time.",
+   "title": "5 to 7",
+   "trailer": {
+    "key": "9HimzZ6QG2o",
+    "name": "5 to 7 - Official Trailer I HD I IFC Films",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.092,
+   "vote_count": 428
+  },
+  "movie:27554": {
+   "backdrop_path": "/rHhNgpxeuIglRO7Fskmk7Ru6Nke.jpg",
+   "budget": 1645000,
+   "cast": [
+    {
+     "c": "Bobby",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Helen",
+     "n": "Kitty Winn"
+    },
+    {
+     "c": "Hotch",
+     "n": "Alan Vint"
+    },
+    {
+     "c": "Hank",
+     "n": "Richard Bright"
+    },
+    {
+     "c": "Chico",
+     "n": "Kiel Martin"
+    },
+    {
+     "c": "Sonny",
+     "n": "Michael McClanathan"
+    },
+    {
+     "c": "Sammy",
+     "n": "Warren Finnerty"
+    },
+    {
+     "c": "Marcie",
+     "n": "Marcia Jean Kurtz"
+    },
+    {
+     "c": "Marco",
+     "n": "Raúl Juliá"
+    },
+    {
+     "c": "Irene",
+     "n": "Angie Ortega"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jerry Schatzberg"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+   ],
+   "id": 27554,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A stark portrayal of life among a group of heroin addicts who hang out in Needle Park in New York City. Played against this setting is a low-key love story between Bobby, a young addict and small-time hustler, and Helen, a homeless girl who finds in her relationship with Bobby the stability she craves.",
+   "popularity": 2.8422,
+   "poster_path": "/rhJ8Dnl6Z9KR9R2zskBKIfrFeFs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1971-06-01",
+   "revenue": 2197000,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "God help Bobby and Helen, they're in love in Needle Park",
+   "title": "The Panic in Needle Park",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.808,
+   "vote_count": 386
+  },
+  "movie:337154": {
+   "backdrop_path": "/cybFHenEWTvppsMTiVd5LduxVni.jpg",
+   "budget": 3200000,
+   "cast": [
+    {
+     "c": "Marnie Minervini",
+     "n": "Susan Sarandon"
+    },
+    {
+     "c": "Lori Minervini",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Randall Zipper",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Jillian",
+     "n": "Cecily Strong"
+    },
+    {
+     "c": "Freddy / Fredo",
+     "n": "Jerrod Carmichael"
+    },
+    {
+     "c": "Mark",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Jacob",
+     "n": "Jason Ritter"
+    },
+    {
+     "c": "Ben",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Emily",
+     "n": "Lucy Punch"
+    },
+    {
+     "c": "Elaine",
+     "n": "Sarah Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lorene Scafaria"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 337154,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With a new iPhone, an apartment near the Grove, and a comfortable bank account left to her by her beloved late husband, Marnie Minervini has happily relocated from New Jersey to Los Angeles to be near her daughter Lori, a successful (but still single) screenwriter, and smother her with motherly love. But when the dozens of texts, unexpected visits, and conversations dominated by unsolicited advice force Lori to draw strict personal boundaries, Marnie finds ways to channel her eternal optimism and forceful generosity to change the lives of others - as well as her own - and find a new purpose in life.",
+   "popularity": 2.0426,
+   "poster_path": "/rzj9ZSleGgsKkY3q6sDDoAxjSu0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-05",
+   "revenue": 4267218,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Meddler",
+   "trailer": {
+    "key": "Y2KtQz2bhLg",
+    "name": "The Meddler | Official Trailer HD (2016)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 394
+  },
+  "movie:35854": {
+   "backdrop_path": "/9d4jQys8LF0TkRuHS3D71sSgnUG.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Ma",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Wilson",
+     "n": "Louis Koo"
+    },
+    {
+     "c": "Tony",
+     "n": "Collin Chou"
+    },
+    {
+     "c": "Archer",
+     "n": "Ray Lui"
+    },
+    {
+     "c": "Judy",
+     "n": "Fan Bingbing"
+    },
+    {
+     "c": "Wong",
+     "n": "Kent Cheng Jak-si"
+    },
+    {
+     "c": "Tiger",
+     "n": "Xing Yu"
+    },
+    {
+     "c": "Madam Lau",
+     "n": "Xu Qing"
+    },
+    {
+     "c": "Sam",
+     "n": "Ben Lam Kwok-bun"
+    },
+    {
+     "c": "Madam Ma",
+     "n": "Helena Law Lan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Wilson Yip"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 35854,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Detective Sergeant Ma Jun, known for dispensing his own brand of justice during arrests, teams up with an undercover cop, Wilson, to try and bring down three merciless Vietnamese brothers running a smuggling ring in the months before mainland China's takeover of Hong Kong. Jun pursues the gang tirelessly, sometimes ignoring police protocols. A showdown is inevitable!",
+   "popularity": 2.3432,
+   "poster_path": "/kGhdfgVzFH9kO5UpVM4TzS0IdtB.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-26",
+   "revenue": 6177725,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "cn",
+    "zh",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "They made it personal... He'll make them pay.",
+   "title": "Flash Point",
+   "trailer": {
+    "key": "2BVfX1aC9Nc",
+    "name": "《導火綫》預告 Flash Point Trailer (2007)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 387
+  },
   "movie:372754": {
    "backdrop_path": "/tLmyP7akYmxLwyfTEt2qyj2sOR3.jpg",
    "budget": 0,
@@ -1267,6 +2176,170 @@
    "type": "movie",
    "vote_average": 8.302,
    "vote_count": 470
+  },
+  "movie:377154": {
+   "backdrop_path": "/tbPB4LU2Xp4hSFl1yiYiu2Kpcfy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Marianne Delille",
+     "n": "Sandrine Kiberlain"
+    },
+    {
+     "c": "Damien Delille",
+     "n": "Kacey Mottet Klein"
+    },
+    {
+     "c": "Thomas Chardoul",
+     "n": "Corentin Fila"
+    },
+    {
+     "c": "Nathan Delille",
+     "n": "Alexis Loret"
+    },
+    {
+     "c": "Jacques Chardoul",
+     "n": "Jean Fornerod"
+    },
+    {
+     "c": "Christine Chardoul",
+     "n": "Mama Prassinos"
+    },
+    {
+     "c": "Paulo",
+     "n": "Jean Corso"
+    },
+    {
+     "c": "Le proviseur",
+     "n": "Rémi Garcia"
+    },
+    {
+     "c": "La prof de français",
+     "n": "Maïté Arraiza"
+    },
+    {
+     "c": "La prof de maths",
+     "n": "Françoise Gaillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "André Téchiné"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 377154,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Damien lives with his mother Marianne, a doctor, while his father, a pilot, is on a tour of duty abroad with the French military. At school, Damien is bullied by Thomas, who lives in the farming community up in the mountains. The boys find themselves living together when Marianne invites Thomas to come and stay with them while his mother is ill in hospital. Damien must learn to live with the boy who terrorized him.",
+   "popularity": 1.2265,
+   "poster_path": "/hC5cEEXTFg0pYvuqAfckP8EWR6G.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-03-30",
+   "revenue": 2000000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Adolescence is the only time when you learn something at all",
+   "title": "Being 17",
+   "trailer": {
+    "key": "kK14hdH1_o8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 392
   },
   "movie:4254": {
    "backdrop_path": "/9SBIiF803WgYbLtgstZ64GCW9Hh.jpg",
@@ -1406,6 +2479,136 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 469
+  },
+  "movie:472454": {
+   "backdrop_path": "/6EbxuGgAjizKqd9CmG5HG0m0t23.jpg",
+   "budget": 4200000,
+   "cast": [
+    {
+     "c": "Süleyman Dirliği",
+     "n": "İsmail Hacıoğlu"
+    },
+    {
+     "c": "Ayla",
+     "n": "Kim Seol"
+    },
+    {
+     "c": "Yaşlı Süleyman",
+     "n": "Çetin Tekindor"
+    },
+    {
+     "c": "Ali",
+     "n": "Ali Atay"
+    },
+    {
+     "c": "Üsteğmen Mesut",
+     "n": "Murat Yildirim"
+    },
+    {
+     "c": "Fuat Binbaşı",
+     "n": "Taner Birsel"
+    },
+    {
+     "c": "Hüseyin Dilbirliği",
+     "n": "Altan Erkekli"
+    },
+    {
+     "c": "Yaşlı Nimet",
+     "n": "Meral Çetinkaya"
+    },
+    {
+     "c": "Nuran",
+     "n": "Damla Sönmez"
+    },
+    {
+     "c": "Nimet Dilbirliği",
+     "n": "Büşra Develi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Can Ulkay"
+   ],
+   "genres": [
+    "Drama",
+    "War",
+    "History"
+   ],
+   "id": 472454,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight and he risks his own life to save her, smuggling her into his army base and out of harm’s way.",
+   "popularity": 2.6197,
+   "poster_path": "/8RELLU0RK9hRIteLzHFZ0dK8YSi.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-27",
+   "revenue": 21107423,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ko",
+    "en",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ayla: The Daughter of War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.989,
+   "vote_count": 413
   },
   "movie:47854": {
    "backdrop_path": "/r8VWydH7HYYt8VLiAFq9lQ2FgSp.jpg",
@@ -1718,6 +2921,246 @@
    "type": "movie",
    "vote_average": 5.776,
    "vote_count": 484
+  },
+  "movie:525554": {
+   "backdrop_path": "/mAWMorHkrbBvsfBv8XiE6qbCY9L.jpg",
+   "budget": 3383890,
+   "cast": [
+    {
+     "c": "Lukas",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Hakim Zeroual",
+     "n": "Sami Bouajila"
+    },
+    {
+     "c": "Lisa Zaccherini",
+     "n": "Sveva Alviti"
+    },
+    {
+     "c": "Geert",
+     "n": "Kevin Janssens"
+    },
+    {
+     "c": "Jan Dekkers",
+     "n": "Sam Louwyck"
+    },
+    {
+     "c": "Omar",
+     "n": "Kaaris"
+    },
+    {
+     "c": "Sarah",
+     "n": "Alice Verset"
+    },
+    {
+     "c": "Nightclub Aggressor",
+     "n": "Dimitri 'Vegas' Thivaios"
+    },
+    {
+     "c": "Dutch Chemist",
+     "n": "Damien Buffard"
+    },
+    {
+     "c": "Sarah's Teacher",
+     "n": "Maria Bortot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julien Leclercq"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 525554,
+   "industry": "world",
+   "origin_country": [
+    "JP",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A tough nightclub bouncer struggling to raise his 8-year-old daughter is forced to go undercover after an unfortunate event.",
+   "popularity": 2.319,
+   "poster_path": "/w7rFgyr7rujNYRex9oxzG26Zq6z.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-22",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Bouncer",
+   "trailer": {
+    "key": "nVs00TBIooQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.243,
+   "vote_count": 412
   },
   "movie:566454": {
    "backdrop_path": "/gCjfb9jUiem4zhzJShnilUuFkmG.jpg",
@@ -2229,6 +3672,213 @@
    "type": "movie",
    "vote_average": 7.716,
    "vote_count": 447
+  },
+  "movie:780154": {
+   "backdrop_path": "/cGJUnIquDE7SZpCS7YDG29roLwL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anastazja",
+     "n": "Julia Wieniawa"
+    },
+    {
+     "c": "Filip",
+     "n": "Mateusz Więcławek"
+    },
+    {
+     "c": "Inspector Kwaśniewski",
+     "n": "Adam Woronowicz"
+    },
+    {
+     "c": "Gloria",
+     "n": "Monika Krzywkowska"
+    },
+    {
+     "c": "Jolanta",
+     "n": "Paulina Gałązka"
+    },
+    {
+     "c": "Olivia",
+     "n": "Aleksandra Pisula"
+    },
+    {
+     "c": "Jordan",
+     "n": "Adam Turczyk"
+    },
+    {
+     "c": "Paweł",
+     "n": "Nikodem Rozbicki"
+    },
+    {
+     "c": "Angelika",
+     "n": "Katarzyna Chojnacka"
+    },
+    {
+     "c": "Daniel",
+     "n": "Konrad Żygadło"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jan Belcl"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 780154,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "A group of friends at a New Year’s Eve party go through a whirlwind of events that exposes secrets, breaks hearts — and leads to a shocking outcome.",
+   "popularity": 1.6446,
+   "poster_path": "/4GGF9oW3b8qqjvig3n8Qftl4P1Q.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-12-28",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "All My Friends Are Dead",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.837,
+   "vote_count": 404
+  },
+  "movie:8954": {
+   "backdrop_path": "/jCpkP51DUg09LFxc5mhPbGVJV9f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ethan Learner",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Grace Learner",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Emma Learner",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Josh Learner",
+     "n": "Sean Curley"
+    },
+    {
+     "c": "Dwight Arno",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Ruth Wheldon",
+     "n": "Mira Sorvino"
+    },
+    {
+     "c": "Norris Wheldon",
+     "n": "Gary Kohn"
+    },
+    {
+     "c": "Lucas Arno",
+     "n": "Eddie Alderson"
+    },
+    {
+     "c": "Sergeant Burke",
+     "n": "Antoni Corone"
+    },
+    {
+     "c": "Steve",
+     "n": "John Slattery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Terry George"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 8954,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two fathers' lives intersect when one of them is involved in a terrible and sudden hit-and-run car accident that leaves the other's son dead. In response, the two men react in unexpected ways as a reckoning looms in the near future.",
+   "popularity": 2.1324,
+   "poster_path": "/pZaYofgshgEkeW4Huo3o6tEX89C.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-09-13",
+   "revenue": 1783064,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To find the truth you have to find who's hiding it.",
+   "title": "Reservation Road",
+   "trailer": {
+    "key": "Wul7wZScsjc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.528,
+   "vote_count": 428
   },
   "tv:1054": {
    "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",

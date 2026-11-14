@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 32,
+ "count": 37,
  "titles": {
   "movie:101669": {
    "d": "Mother's Day (2011): Crime/Horror film. Story: Crazed members of a sadistic family return to their… See cast, budget $11M, and TMDB rating 6.5/10.",
@@ -758,6 +758,261 @@
    "t": "The Truth and Tragedy of Moriah Wilson (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17169": {
+   "d": "Any Which Way You Can (1980): Action/Adventure film. Story: Philo takes part in a bare knuckle fight – as he does… See cast and budget $15M.",
+   "img": "https://image.tmdb.org/t/p/w780/xOxXrSBkxYl9Zcch5YBa0vDPer0.jpg",
+   "industry": "world",
+   "k": "Any Which Way You Can, Any Which Way You Can movie, Any Which Way You Can cast, Any Which Way You Can story, Any Which Way You Can box office collection, Any Which Way You Can budget, Any Which Way You Can review, Any Which Way You Can rating, Any Which Way You Can release date, Any Which Way You Can trailer, Any Which Way You Can Action, Any Which Way You Can Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clint Eastwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Sondra Locke"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "William Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Guardino"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Any Which Way You Can (1980): Action/Adventure film. Story: Philo takes part in a bare knuckle fight – as he does… See cast and budget $15M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Buddy Van Horn"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xOxXrSBkxYl9Zcch5YBa0vDPer0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17169",
+    "name": "Any Which Way You Can",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17169"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Any Which Way You Can (1980)</h1>\n<p class=\"ssr-lead\">Philo takes part in a bare knuckle fight – as he does – to make more money than he can earn from his car repair business. He decides to retire, but when the Mafia come along and arrange another fight, he&#x27;s pushed into it. A motorcycle gang and an orangutan called Clyde all add to the &#x27;fun&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 1980</li><li>Runtime: 115 minutes</li><li>Director: Buddy Van Horn</li><li>Genres: Action, Adventure, Comedy</li><li>Budget: $15M</li><li>TMDB rating: 5.8/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clint Eastwood as Philo Beddoe</li><li>Sondra Locke as Lynn Halsey-Taylor</li><li>Geoffrey Lewis as Orville Boggs</li><li>William Smith as Jack Wilson</li><li>Harry Guardino as James Beekman</li><li>Ruth Gordon as Ma Boggs</li><li>Michael Cavanaugh as Patrick Scarfe</li><li>Barry Corbin as Fat Zack</li><li>Roy Jenson as Moody</li><li>Bill McKinney as Dallas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Any Which Way You Can (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
+  "movie:190469": {
+   "d": "Redirected (2014): Action/Comedy film. Story: Four friends become stranded in Eastern Europe and… See cast, budget $2.7M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lsH3w02pstQiF2ayUhm8hJptnON.jpg",
+   "industry": "world",
+   "k": "Redirected, Redirected movie, Redirected cast, Redirected story, Redirected box office collection, Redirected budget, Redirected review, Redirected rating, Redirected release date, Redirected Action, Redirected Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vinnie Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Scot Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Gil Darnell"
+     },
+     {
+      "@type": "Person",
+      "name": "Vytautas Šapranauskas"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurimas Meliešius"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Redirected (2014): Action/Comedy film. Story: Four friends become stranded in Eastern Europe and… See cast, budget $2.7M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emilis Vėlyvis"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lsH3w02pstQiF2ayUhm8hJptnON.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=190469",
+    "name": "Redirected",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-01-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=190469"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Redirected (2014)</h1>\n<p class=\"ssr-lead\">Four friends become stranded in Eastern Europe and have to become hit men, prostitutes, corrupt cops, smugglers and more to make it home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 January 2014</li><li>Runtime: 99 minutes</li><li>Director: Emilis Vėlyvis</li><li>Genres: Action, Comedy, Crime, Thriller</li><li>Budget: $2.7M</li><li>TMDB rating: 5.8/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinnie Jones as Golden Pole</li><li>Scot Williams as Michael</li><li>Gil Darnell as Johnny</li><li>Vytautas Šapranauskas as Algis</li><li>Aurimas Meliešius as Vycka</li><li>Oliver Jackson as Tim</li><li>Anthony Strachan as Ben</li><li>Andrius Žiurauskas as Staska</li><li>Artur Smolyaninov as Doncius</li><li>Andrius Paulavičius as Yelling driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "Redirected (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:273169": {
+   "d": "French Women (2014): Comedy film. Story: A story about 11 girls living in Paris. Each of them… See cast, budget $5M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dEiaE6YREbDShETjbesBHBTbTUL.jpg",
+   "industry": "world",
+   "k": "French Women, French Women movie, French Women cast, French Women story, French Women box office collection, French Women budget, French Women review, French Women rating, French Women release date, French Women Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Isabelle Adjani"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Belaïdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Laetitia Casta"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Dana"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Ferrier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "French Women (2014): Comedy film. Story: A story about 11 girls living in Paris. Each of them… See cast, budget $5M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Audrey Dana"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dEiaE6YREbDShETjbesBHBTbTUL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=273169",
+    "name": "French Women",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=273169"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>French Women (2014)</h1>\n<p class=\"ssr-lead\">A story about 11 girls living in Paris. Each of them has its own problems: career, love life, children. Every girl has their complexes and virtues. They always look elegant, hiding their inner feelings. Will they reach all the goals and overcome all their difficulties?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2014</li><li>Runtime: 116 minutes</li><li>Director: Audrey Dana</li><li>Genres: Comedy</li><li>Budget: $5M</li><li>TMDB rating: 5.7/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isabelle Adjani as Lily</li><li>Alice Belaïdi as Adeline</li><li>Laetitia Casta as Agathe</li><li>Audrey Dana as Jo</li><li>Julie Ferrier as Fanny</li><li>Audrey Fleurot as Sophie</li><li>Géraldine Nakache as Ysis</li><li>Vanessa Paradis as Rose</li><li>Alice Taglioni as Marie</li><li>Sylvie Testud as Sam</li></ul>\n</article>",
+   "t": "French Women (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:312669": {
+   "d": "Maggie's Plan (2016): Drama/Romance film. Story: Maggie's plan to have a baby on her own with a sperm… See cast, budget $2M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nV2nQc3Y5h4zi3w3FMZOJAvpVOq.jpg",
+   "industry": "world",
+   "k": "Maggie's Plan, Maggie's Plan movie, Maggie's Plan cast, Maggie's Plan story, Maggie's Plan box office collection, Maggie's Plan budget, Maggie's Plan review, Maggie's Plan rating, Maggie's Plan release date, Maggie's Plan trailer, Maggie's Plan Drama, Maggie's Plan Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Hader"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Rudolph"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Maggie's Plan (2016): Drama/Romance film. Story: Maggie's plan to have a baby on her own with a sperm… See cast, budget $2M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rebecca Miller"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nV2nQc3Y5h4zi3w3FMZOJAvpVOq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=312669",
+    "name": "Maggie's Plan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-04-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=312669"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maggie&#x27;s Plan (2016)</h1>\n<p class=\"ssr-lead\">Maggie&#x27;s plan to have a baby on her own with a sperm donor is derailed when she falls in love with John, an older married professor, destroying his volatile marriage to the brilliant and impossible Georgette. But three years later, married to John with one daughter, Maggie is out of love and in a quandary: what do you do when you suspect your man and his ex-wife are actually perfect for each other?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 April 2016</li><li>Runtime: 99 minutes</li><li>Director: Rebecca Miller</li><li>Genres: Drama, Romance, Comedy</li><li>Budget: $2M</li><li>TMDB rating: 5.7/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Greta Gerwig as Maggie Hardin</li><li>Ethan Hawke as John Harding</li><li>Julianne Moore as Georgette Nørgaard</li><li>Bill Hader as Tony</li><li>Maya Rudolph as Felicia</li><li>Travis Fimmel as Guy Childers</li><li>Mina Sundwall as Justine Harding</li><li>Jackson Frazer as Paul Harding</li><li>Ida Rohatyn as Lily Harding</li><li>Wallace Shawn as Kliegler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Maggie's Plan (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:338969": {
    "d": "The Toxic Avenger Unrated (2025): Action/Comedy film. Story: When a downtrodden janitor, Winston Gooze, is exposed… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/qo7WRoSXkpgvmc9TgaklzrsukLW.jpg",
@@ -1016,6 +1271,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Gramps Is in the Resistance (1983)</h1>\n<p class=\"ssr-lead\">It is 1943 in Paris. Like so many others, the Bourbelle family&#x27;s home has been taken over by the Germans and they now live in their cellar. Little do they know that the son, Guy-Hubert Bourdelle, is far from being the cowardly hairdresser he pretends. He is in truth the Germans’ most feared opponent: le super-résistant!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 1983</li><li>Runtime: 102 minutes</li><li>Director: Jean-Marie Poiré</li><li>Genres: Comedy, War</li><li>Budget: $3M</li><li>TMDB rating: 6.9/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Michel Taupin</li><li>Michel Galabru as Jean-Robert Bourdelle dit « Papy »</li><li>Roland Giraud as Général Herman Spontz</li><li>Gérard Jugnot as Adolfo Ramirez, dit « Rami »</li><li>Martin Lamotte as Guy-Hubert « Super Résistant » Bourdelle</li><li>Dominique Lavanant as Bernadette Bourdelle, fille Bourdelle, fiancée de Michel</li><li>Jacqueline Maillan as Héléna Bourdelle dit « La Bourdelle »</li><li>Jacques Villeret as Maréchal Ludwig von Apfelstrudel</li><li>Josiane Balasko as La pharmacienne qui couche avec Ralph, un Allemand</li><li>Michel Blanc as Le père Lebœuf, résistant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
    "t": "Gramps Is in the Resistance (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
+  },
+  "movie:590869": {
+   "d": "Hammamet (2020): Drama/History film. Story: The last years of Bettino Craxi, one of the most… See cast, TMDB rating 5.9/10, and release date 9 January 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/dUBfcpXkD75WD8ZFgDfUauqFINh.jpg",
+   "industry": "world",
+   "k": "Hammamet, Hammamet movie, Hammamet cast, Hammamet story, Hammamet box office collection, Hammamet budget, Hammamet review, Hammamet rating, Hammamet release date, Hammamet trailer, Hammamet Drama, Hammamet History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierfrancesco Favino"
+     },
+     {
+      "@type": "Person",
+      "name": "Livia Rossi"
+     },
+     {
+      "@type": "Person",
+      "name": "Luca Filippi"
+     },
+     {
+      "@type": "Person",
+      "name": "Silvia Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Alberto Paradossi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Hammamet (2020): Drama/History film. Story: The last years of Bettino Craxi, one of the most… See cast, TMDB rating 5.9/10, and release date 9 January 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gianni Amelio"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dUBfcpXkD75WD8ZFgDfUauqFINh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=590869",
+    "name": "Hammamet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=590869"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hammamet (2020)</h1>\n<p class=\"ssr-lead\">The last years of Bettino Craxi, one of the most important and controversial italian leader of the 1980&#x27;s.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2020</li><li>Runtime: 127 minutes</li><li>Director: Gianni Amelio</li><li>Genres: Drama, History</li><li>TMDB rating: 5.9/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierfrancesco Favino as Bettino Craxi</li><li>Livia Rossi as La figlia</li><li>Luca Filippi as Fausto</li><li>Silvia Cohen as La moglie</li><li>Alberto Paradossi as Il figlio</li><li>Federico Bergamaschi as Francesco</li><li>Roberto De Francesco as Il medico della clinica psichiatrica</li><li>Adolfo Margiotta as L&#x27;attore</li><li>Massimo Olcese as L&#x27;attore vestito da donna</li><li>Omero Antonutti as Il padre</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Hammamet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:714869": {
    "d": "Serial (Bad) Weddings 3 (2021): Romance/Comedy film. Story: Claude and Marie Verneuil will soon be celebrating… See cast, budget $22M, and TMDB rating 6.3/10.",

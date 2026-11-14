@@ -1,7 +1,135 @@
 {
  "bucket": "50",
- "count": 33,
+ "count": 40,
  "titles": {
+  "movie:1032950": {
+   "d": "Hellhole (2022): Horror/Mystery film. Story: In a monastery cut off from the world, the monks run… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xXSjMjCdZ6v7NIFvsSMNqe4ySkF.jpg",
+   "industry": "world",
+   "k": "Hellhole, Hellhole movie, Hellhole cast, Hellhole story, Hellhole box office collection, Hellhole budget, Hellhole review, Hellhole rating, Hellhole release date, Hellhole Horror, Hellhole Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Piotr Żurawski"
+     },
+     {
+      "@type": "Person",
+      "name": "Olaf Lubaszenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stankiewicz"
+     },
+     {
+      "@type": "Person",
+      "name": "Lech Dyblik"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafał Iwaniuk"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Hellhole (2022): Horror/Mystery film. Story: In a monastery cut off from the world, the monks run… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bartosz M. Kowalski"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xXSjMjCdZ6v7NIFvsSMNqe4ySkF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1032950",
+    "name": "Hellhole",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-10-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1032950"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hellhole (2022)</h1>\n<p class=\"ssr-lead\">In a monastery cut off from the world, the monks run a clinic for the possessed. One day, a young policeman Marek comes to the convent. Posing as a clergyman, he penetrates monastic life and tries to explain the recent, mysterious disappearance of several tormented inmates. It turns out, however, that there is no way out of the monastery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2022</li><li>Runtime: 90 minutes</li><li>Director: Bartosz M. Kowalski</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.1/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Piotr Żurawski as Marek</li><li>Olaf Lubaszenko as prior Andrzej</li><li>Sebastian Stankiewicz as brother Piotr</li><li>Lech Dyblik as brother Antoni</li><li>Rafał Iwaniuk as brother Dawid</li><li>Krzysztof Satała as young monk</li><li>Malwina Dubowska as blonde</li><li>Zbigniew Waleryś as priest</li><li>Antoni Augustyniak as Baby</li><li>Wojciech Niemczyk as Militiaman (I)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Hellhole (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:10550": {
+   "d": "Ballistic: Ecks vs. Sever (2002): Action/Adventure film. Story: Jeremiah Ecks, an FBI agent, realizes that he must… See cast and budget $70M.",
+   "img": "https://image.tmdb.org/t/p/w780/k7CLxxoZXmVf1iKAY9xn5DpsNMQ.jpg",
+   "industry": "world",
+   "k": "Ballistic: Ecks vs. Sever, Ballistic: Ecks vs. Sever movie, Ballistic: Ecks vs. Sever cast, Ballistic: Ecks vs. Sever story, Ballistic: Ecks vs. Sever box office collection, Ballistic: Ecks vs. Sever budget, Ballistic: Ecks vs. Sever review, Ballistic: Ecks vs. Sever rating, Ballistic: Ecks vs. Sever release date, Ballistic: Ecks vs. Sever trailer, Ballistic: Ecks vs. Sever Action, Ballistic: Ecks vs. Sever Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Liu"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregg Henry"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Park"
+     },
+     {
+      "@type": "Person",
+      "name": "Talisa Soto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 4.3,
+     "worstRating": 0
+    },
+    "description": "Ballistic: Ecks vs. Sever (2002): Action/Adventure film. Story: Jeremiah Ecks, an FBI agent, realizes that he must… See cast and budget $70M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wych Kaosayananda"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k7CLxxoZXmVf1iKAY9xn5DpsNMQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10550",
+    "name": "Ballistic: Ecks vs. Sever",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10550"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ballistic: Ecks vs. Sever (2002)</h1>\n<p class=\"ssr-lead\">Jeremiah Ecks, an FBI agent, realizes that he must join with his lifelong enemy, Agent Sever, a rogue DIA agent with whom he is in mortal combat, in order to defeat a common enemy. That enemy has developed a &quot;micro-device&quot; that can be injected into victims in order to kill them at will.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2002</li><li>Runtime: 91 minutes</li><li>Director: Wych Kaosayananda</li><li>Genres: Action, Adventure, Thriller, Science Fiction</li><li>Budget: $70M</li><li>TMDB rating: 4.3/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antonio Banderas as Agent Jeremiah Ecks</li><li>Lucy Liu as Agent Jane Sever</li><li>Gregg Henry as Robert Gant / Agent Clark</li><li>Ray Park as Agent A.J. Ross</li><li>Talisa Soto as Vinn Ecks / Rayne Gant</li><li>Miguel Sandoval as Julio Martin</li><li>Terry Chen as Agent Harry Lee</li><li>Roger Cross as Zane</li><li>Sandrine Holt as Agent Bennett</li><li>Steve Bacic as Agent Fleming</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Ballistic: Ecks vs. Sever (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:1069650": {
    "d": "The Girl in the Snow (2025): Drama film. Story: 1899. On a stormy night, Aimée, a young Republican… See cast and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
@@ -64,6 +192,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Girl in the Snow (2025)</h1>\n<p class=\"ssr-lead\">1899. On a stormy night, Aimée, a young Republican schoolteacher, arrives in a snowy hamlet on the edge of the Alps. Despite the mistrust of the inhabitants, she is determined to shed light on their dark beliefs. As she blends into the life of the community, a sensual vertigo grows within her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2025</li><li>Runtime: 98 minutes</li><li>Director: Louise Hémon</li><li>Genres: Drama</li><li>TMDB rating: 5.7/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Galatea Bellugi as Aimée</li><li>Matthieu Lucci as Enoch</li><li>Samuel Kircher as Pépin</li><li>Oscar Pons as Daniel</li><li>Sharif Andoura as One of the dads</li><li>Léna Camillieri Dorléans as Béloti</li><li>Solal Griveau Martin as Nams</li><li>Lula Guaydan as Marie</li><li>Greta Saggiorato as Marion</li><li>André Borel as Le vieux Jupiter</li></ul>\n</article>",
    "t": "The Girl in the Snow (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:10750": {
+   "d": "Toy Soldiers (1991): Action/Adventure film. Story: After federal agents arrest a drug czar and put him… See cast, budget $10M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iLpBP4GSPzLUJt1wbhVRmY2QWS8.jpg",
+   "industry": "world",
+   "k": "Toy Soldiers, Toy Soldiers movie, Toy Soldiers cast, Toy Soldiers story, Toy Soldiers box office collection, Toy Soldiers budget, Toy Soldiers review, Toy Soldiers rating, Toy Soldiers release date, Toy Soldiers Action, Toy Soldiers Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "Wil Wheaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith Coogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Divoff"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Lee Ermey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Toy Soldiers (1991): Action/Adventure film. Story: After federal agents arrest a drug czar and put him… See cast, budget $10M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Petrie Jr."
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iLpBP4GSPzLUJt1wbhVRmY2QWS8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10750",
+    "name": "Toy Soldiers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10750"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Toy Soldiers (1991)</h1>\n<p class=\"ssr-lead\">After federal agents arrest a drug czar and put him on trial, the cartel leader&#x27;s vicious son storms a prep school and takes its students hostage. They rebel against the armed intruders and try to take back their academy by any means necessary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 1991</li><li>Runtime: 112 minutes</li><li>Director: Daniel Petrie Jr.</li><li>Genres: Action, Adventure, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.5/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Astin as Billy Tepper</li><li>Wil Wheaton as Joey Trotta</li><li>Keith Coogan as Snuffy Bradberry</li><li>Andrew Divoff as Luis Cali</li><li>R. Lee Ermey as General Kramer</li><li>Mason Adams as Deputy Director Brown</li><li>Denholm Elliott as Headmaster</li><li>Louis Gossett Jr. as Dean Parker</li><li>George Perez as Ricardo Montoya</li><li>T.E. Russell as Hank Giles</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Toy Soldiers (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
   },
   "movie:114750": {
    "d": "Dear White People (2014): Comedy/Drama film. Story: A campus culture war between blacks and whites at a… See cast, budget $1.3M, and TMDB rating 6.1/10.",
@@ -558,6 +750,134 @@
    "t": "Capture (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:20850": {
+   "d": "Ilsa: She Wolf of the SS (1975): Thriller/War film. Story: Ilsa, a warden at a Nazi death camp that conducts… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6l3neUmnMyf2Vu8BAAEVI1dTrBd.jpg",
+   "industry": "world",
+   "k": "Ilsa: She Wolf of the SS, Ilsa: She Wolf of the SS movie, Ilsa: She Wolf of the SS cast, Ilsa: She Wolf of the SS story, Ilsa: She Wolf of the SS box office collection, Ilsa: She Wolf of the SS budget, Ilsa: She Wolf of the SS review, Ilsa: She Wolf of the SS rating, Ilsa: She Wolf of the SS release date, Ilsa: She Wolf of the SS Thriller, Ilsa: She Wolf of the SS War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dyanne Thorne"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregory Knoph"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Mumolo"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Marx"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolle Riddell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Ilsa: She Wolf of the SS (1975): Thriller/War film. Story: Ilsa, a warden at a Nazi death camp that conducts… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Edmonds"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Thriller",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6l3neUmnMyf2Vu8BAAEVI1dTrBd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20850",
+    "name": "Ilsa: She Wolf of the SS",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20850"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ilsa: She Wolf of the SS (1975)</h1>\n<p class=\"ssr-lead\">Ilsa, a warden at a Nazi death camp that conducts experiments on prisoners, strives to prove that women can withstand more pain and suffering than men, and therefore should be allowed to fight on the frontlines.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 1975</li><li>Runtime: 97 minutes</li><li>Director: Don Edmonds</li><li>Genres: Thriller, War, Horror, Drama</li><li>TMDB rating: 5.9/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dyanne Thorne as Ilsa</li><li>Gregory Knoph as Wolfe</li><li>Tony Mumolo as Mario</li><li>Maria Marx as Anna</li><li>Nicolle Riddell as Kata</li><li>Jo Jo Deville as Ingrid</li><li>Sandy Richman as Maigret</li><li>George Buck Flower as Binz</li><li>Rodina Keeler as Gretchen</li><li>Richard Kennedy as General</li></ul>\n</article>",
+   "t": "Ilsa: She Wolf of the SS (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
+  },
+  "movie:24750": {
+   "d": "Time After Time (1979): Adventure/Drama film. Story: Writer H. G. Wells pursues Jack the Ripper to modern… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1HDpR7nLqQcGSdbC41pSxCPjjyH.jpg",
+   "industry": "world",
+   "k": "Time After Time, Time After Time movie, Time After Time cast, Time After Time story, Time After Time box office collection, Time After Time budget, Time After Time review, Time After Time rating, Time After Time release date, Time After Time Adventure, Time After Time Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Malcolm McDowell"
+     },
+     {
+      "@type": "Person",
+      "name": "David Warner"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Steenburgen"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Cioffi"
+     },
+     {
+      "@type": "Person",
+      "name": "Kent Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Time After Time (1979): Adventure/Drama film. Story: Writer H. G. Wells pursues Jack the Ripper to modern… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicholas Meyer"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1HDpR7nLqQcGSdbC41pSxCPjjyH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24750",
+    "name": "Time After Time",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-09-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24750"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Time After Time (1979)</h1>\n<p class=\"ssr-lead\">Writer H. G. Wells pursues Jack the Ripper to modern day San Francisco after the infamous serial killer steals his time machine to escape the 19th century.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 1979</li><li>Runtime: 112 minutes</li><li>Director: Nicholas Meyer</li><li>Genres: Adventure, Drama, Comedy, Science Fiction, Thriller</li><li>TMDB rating: 6.8/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malcolm McDowell as H. G. Wells</li><li>David Warner as Jack the Ripper - John Leslie Stevenson</li><li>Mary Steenburgen as Amy Robbins</li><li>Charles Cioffi as Lt. Mitchell</li><li>Kent Williams as Assistant</li><li>Andonia Katsaros as Mrs. Turner</li><li>Patti D&#x27;Arbanville as Shirley</li><li>James Garrett as Edwards</li><li>Keith McConnell as Harding</li><li>Leo Lewis as Richardson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Time After Time (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:25050": {
    "d": "Still Walking (2008): Drama/Family film. Story: A family gathers together for a commemorative ritual… See cast and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
@@ -813,6 +1133,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>You Don&#x27;t Know Jack (2010)</h1>\n<p class=\"ssr-lead\">Controversy and legal problems follow Dr. Jack Kevorkian as he advocates assisted suicide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 June 2010</li><li>Runtime: 134 minutes</li><li>Director: Barry Levinson</li><li>Genres: Drama, TV Movie, History</li><li>TMDB rating: 7.0/10 (460 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Dr. Jack Kevorkian</li><li>Danny Huston as Geoffrey Fieger</li><li>Susan Sarandon as Janet Good</li><li>John Goodman as Neal Nicol</li><li>Brenda Vaccaro as Margo Janus</li><li>Eric Lange as John Skrzynski</li><li>James Urbaniak as Jack Lessenberry</li><li>Rutanya Alda as Vendor</li><li>Delaney Williams as Detective #1</li><li>Danielle McKee as Dorothy Lessenberry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "You Don't Know Jack (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:557950": {
+   "d": "Mainstream (2021): Comedy/Drama film. Story: A young woman thinks she’s found a path to internet… See cast, budget $5M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9eYrq3NZq3WsCuYQS0q9zPr1eMf.jpg",
+   "industry": "world",
+   "k": "Mainstream, Mainstream movie, Mainstream cast, Mainstream story, Mainstream box office collection, Mainstream budget, Mainstream review, Mainstream rating, Mainstream release date, Mainstream trailer, Mainstream Comedy, Mainstream Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Garfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Nat Wolff"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Schwartzman"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Knoxville"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Mainstream (2021): Comedy/Drama film. Story: A young woman thinks she’s found a path to internet… See cast, budget $5M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gia Coppola"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9eYrq3NZq3WsCuYQS0q9zPr1eMf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=557950",
+    "name": "Mainstream",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=557950"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mainstream (2021)</h1>\n<p class=\"ssr-lead\">A young woman thinks she’s found a path to internet stardom when she starts making YouTube videos with a charismatic stranger – until the dark side of viral celebrity threatens to ruin them both.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 2021</li><li>Runtime: 95 minutes</li><li>Director: Gia Coppola</li><li>Genres: Comedy, Drama</li><li>Budget: $5M</li><li>TMDB rating: 6.3/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Garfield as Link</li><li>Maya Hawke as Frankie</li><li>Nat Wolff as Jake</li><li>Jason Schwartzman as Mark Schwartz</li><li>Johnny Knoxville as Ted Wick</li><li>Alexa Demie as Isabelle Roberts</li><li>Casey Frey as Martin from Temecula</li><li>Kalena Yiaueki as Patsy</li><li>Jacqui Getty as Lisa</li><li>Nick Darmstaedter as Kyler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Mainstream (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:732450": {
+   "d": "Batman: Soul of the Dragon (2021): Animation/Action film. Story: Bruce Wayne faces a deadly menace from his past, with… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jvRewPpawHAfBW38EzHoFdTVEez.jpg",
+   "industry": "world",
+   "k": "Batman: Soul of the Dragon, Batman: Soul of the Dragon movie, Batman: Soul of the Dragon cast, Batman: Soul of the Dragon story, Batman: Soul of the Dragon box office collection, Batman: Soul of the Dragon budget, Batman: Soul of the Dragon review, Batman: Soul of the Dragon rating, Batman: Soul of the Dragon release date, Batman: Soul of the Dragon trailer, Batman: Soul of the Dragon Animation, Batman: Soul of the Dragon Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Giuntoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Dacascos"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Hu"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Jai White"
+     },
+     {
+      "@type": "Person",
+      "name": "James Hong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Batman: Soul of the Dragon (2021): Animation/Action film. Story: Bruce Wayne faces a deadly menace from his past, with… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Liu"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jvRewPpawHAfBW38EzHoFdTVEez.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=732450",
+    "name": "Batman: Soul of the Dragon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-01-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=732450"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Batman: Soul of the Dragon (2021)</h1>\n<p class=\"ssr-lead\">Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 January 2021</li><li>Runtime: 83 minutes</li><li>Director: Sam Liu</li><li>Genres: Animation, Action, Adventure, Crime</li><li>TMDB rating: 6.7/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Giuntoli as Bruce Wayne / Batman (voice)</li><li>Mark Dacascos as Richard Dragon (voice)</li><li>Kelly Hu as Lady Shiva (voice)</li><li>Michael Jai White as Ben Turner / Bronze Tiger (voice)</li><li>James Hong as O-Sensei (voice)</li><li>Eric Bauza as Axe Gang Leader (voice)</li><li>Grey DeLisle as Lady Eve (voice)</li><li>Chris Cox as Rip Jagger (voice)</li><li>Erica Luttrell as Silver St. Cloud (voice)</li><li>Robin Atkin Downes as Schlangenfaust (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Batman: Soul of the Dragon (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:910850": {
    "d": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026): Animation/Science Fiction film. Story: Hathaway Noa plans his attack on the Adelaide… See cast.",

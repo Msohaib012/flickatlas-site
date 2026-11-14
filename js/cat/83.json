@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 25,
+ "count": 29,
  "titles": {
   "movie:1101383": {
    "backdrop_path": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
@@ -1855,6 +1855,171 @@
    "vote_average": 6.2,
    "vote_count": 495
   },
+  "movie:529983": {
+   "backdrop_path": "/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carson Philips",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Doc",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Slide",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Jayne Hunt",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Chief Walsh",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Dr. Miles Mitchell",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Rose",
+     "n": "Kat Graham"
+    },
+    {
+     "c": "Violet Gregory",
+     "n": "Alice Pagani"
+    },
+    {
+     "c": "Butler",
+     "n": "Steve Eifert"
+    },
+    {
+     "c": "Rebecca Hunt",
+     "n": "Ella Bleu Travolta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Gallo",
+    "Francesco Cinquemani"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 529983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+   "popularity": 2.2406,
+   "poster_path": "/gSzyUmg719TgAxarFZYWjLLMqvS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-23",
+   "revenue": 323754,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A private eye. A public murder. A perfect crime.",
+   "title": "The Poison Rose",
+   "trailer": {
+    "key": "a-EiwzB_DBg",
+    "name": "THE POISON ROSE - In Select Theaters and On Demand May 24!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.727,
+   "vote_count": 385
+  },
   "movie:57283": {
    "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
    "budget": 220000,
@@ -2163,6 +2328,157 @@
    "vote_average": 5.0,
    "vote_count": 474
   },
+  "movie:650783": {
+   "backdrop_path": "/wRrhiUWQSrmCzuVRTUfrei6p3VY.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Max Barber",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Reggie Fontaine",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Duke Montana",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Walter Creason",
+     "n": "Zach Braff"
+    },
+    {
+     "c": "James Moore",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Megan Albert",
+     "n": "Kate Katzman"
+    },
+    {
+     "c": "Frank Pierce",
+     "n": "Patrick Muldoon"
+    },
+    {
+     "c": "Xavier Clay",
+     "n": "Malcolm Barrett"
+    },
+    {
+     "c": "Devon",
+     "n": "Eddie Griffin"
+    },
+    {
+     "c": "Joey Silva",
+     "n": "Vincent Spano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Gallo"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 650783,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two movie producers who owe money to the mob set up their aging movie star for an insurance scam to try and save themselves. But they wind up getting more than they ever imagined.",
+   "popularity": 2.6023,
+   "poster_path": "/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-12",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hollywood has never pulled a stunt like this!",
+   "title": "The Comeback Trail",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.808,
+   "vote_count": 386
+  },
   "movie:877183": {
    "backdrop_path": "/djnEP20aAs5mVXNANJsjmVhkzrk.jpg",
    "budget": 0,
@@ -2244,6 +2560,351 @@
    "type": "movie",
    "vote_average": 6.417,
    "vote_count": 445
+  },
+  "movie:886083": {
+   "backdrop_path": "/2NrIzba4wHUYXJurKAMFs70Qcok.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shawn",
+     "n": "Joseph Winter"
+    },
+    {
+     "c": "Chrissy / Mildred",
+     "n": "Melanie Stone"
+    },
+    {
+     "c": "Corner Man / Cop Corpse",
+     "n": "Jason K. Wixom"
+    },
+    {
+     "c": "Hettie",
+     "n": "Pat Barnett Carr"
+    },
+    {
+     "c": "Max Loland / Cop",
+     "n": "Marty Collins"
+    },
+    {
+     "c": "Latin Professor",
+     "n": "Perla Lacayo"
+    },
+    {
+     "c": "Latin Professor's Daughter",
+     "n": "Cylia Austin-Lacayo"
+    },
+    {
+     "c": "Hamsa Kid",
+     "n": "Hayden Gariety"
+    },
+    {
+     "c": "Bathtub Corpse",
+     "n": "Ariel Lee"
+    },
+    {
+     "c": "Conjoined Twin",
+     "n": "Jaxon Harker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Winter",
+    "Vanessa Winter"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 886083,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A disgraced internet personality attempts to win back his followers by livestreaming one night alone in a haunted house. But when he accidentally unleashes a vengeful spirit, his big comeback event becomes a real-time fight for his life.",
+   "popularity": 1.6482,
+   "poster_path": "/dC38JMmb17geWFIjIBgNoKRMFnL.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-20",
+   "revenue": 1031519,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's dying for followers",
+   "title": "Deadstream",
+   "trailer": {
+    "key": "6NGnOyNhQ5w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.259,
+   "vote_count": 433
+  },
+  "movie:9283": {
+   "backdrop_path": "/5VfgNZJvJ6FcwF3PPQbpUIzILkQ.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Willie Conway",
+     "n": "Timothy Hutton"
+    },
+    {
+     "c": "Tommy \"Birdman\" Rowland",
+     "n": "Matt Dillon"
+    },
+    {
+     "c": "Michael \"Mo\" Morris",
+     "n": "Noah Emmerich"
+    },
+    {
+     "c": "Tracy Stover",
+     "n": "Annabeth Gish"
+    },
+    {
+     "c": "Darian Smalls",
+     "n": "Lauren Holly"
+    },
+    {
+     "c": "Andera",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Sharon Cassidy",
+     "n": "Mira Sorvino"
+    },
+    {
+     "c": "Paul Kirkwood",
+     "n": "Michael Rapaport"
+    },
+    {
+     "c": "Gina Barrisano",
+     "n": "Rosie O'Donnell"
+    },
+    {
+     "c": "Stanley \"Stinky\" Womack",
+     "n": "Pruitt Taylor Vince"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ted Demme"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 9283,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a snowy winter in the small fictional town of Knight's Ridge, Massachusetts, a group of lifelong buddies hang out, drink and struggle to connect with the women who affect their decisions, dreams and desires.",
+   "popularity": 2.2667,
+   "poster_path": "/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-02-09",
+   "revenue": 27000000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Good times never seemed so good.",
+   "title": "Beautiful Girls",
+   "trailer": {
+    "key": "GKZMinpfljI",
+    "name": "Beautiful Girls | Official Trailer (HD) - Timothy Hutton, Natalie Portman, Uma Thurman | MIRAMAX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.671,
+   "vote_count": 428
   },
   "tv:10283": {
    "backdrop_path": "/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",

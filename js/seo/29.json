@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 25,
+ "count": 29,
  "titles": {
   "movie:10729": {
    "d": "Quick Change (1990): Comedy/Crime film. Story: With the aid of his girlfriend, Phyllis Potter, and… See cast, budget $15M, and TMDB rating 6.7/10.",
@@ -70,6 +70,134 @@
    "t": "Quick Change (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
   },
+  "movie:10929": {
+   "d": "Willard (2003): Horror/Drama film. Story: Desperate for companionship, the repressed Willard… See cast, budget $22M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xH9BdS2DzkX20Ly9FG8Iwczi3M.jpg",
+   "industry": "world",
+   "k": "Willard, Willard movie, Willard cast, Willard story, Willard box office collection, Willard budget, Willard review, Willard rating, Willard release date, Willard trailer, Willard Horror, Willard Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Crispin Glover"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Lee Ermey"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Harring"
+     },
+     {
+      "@type": "Person",
+      "name": "Jackie Burroughs"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashlyn Gere"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Willard (2003): Horror/Drama film. Story: Desperate for companionship, the repressed Willard… See cast, budget $22M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Glen Morgan"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xH9BdS2DzkX20Ly9FG8Iwczi3M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10929",
+    "name": "Willard",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10929"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Willard (2003)</h1>\n<p class=\"ssr-lead\">Desperate for companionship, the repressed Willard befriends a group of rats that inhabit his late father&#x27;s deteriorating mansion. In these furry creatures, Willard finds temporary refuge from daily abuse at the hands of his bedridden mother and his father&#x27;s old partner, Frank. Soon it becomes clear that the brood of rodents is ready and willing to exact a vicious, deadly revenge on anyone who dares to bully their sensitive new master.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2003</li><li>Runtime: 100 minutes</li><li>Director: Glen Morgan</li><li>Genres: Horror, Drama, Thriller</li><li>Budget: $22M</li><li>TMDB rating: 6.1/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Crispin Glover as Willard Stiles</li><li>R. Lee Ermey as Mr. Martin</li><li>Laura Harring as Cathryn</li><li>Jackie Burroughs as Mrs. Stiles</li><li>Ashlyn Gere as Ms. Leach</li><li>Laara Sadiq as Janice Mantis</li><li>William S. Taylor as Mr. Garter</li><li>Ty Olsson as Officer Salmon</li><li>Gus Lynch as George Foxx</li><li>David Parker as Detective Boxer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Willard (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:11129": {
+   "d": "Human Traffic (1999): Comedy/Drama film. Story: For Jip, Lulu, Koop, Nina, and Moff, the dead-end… See cast, budget $600.0k, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kRC0aqvYYDIrgeq83yUdq7qFTn4.jpg",
+   "industry": "world",
+   "k": "Human Traffic, Human Traffic movie, Human Traffic cast, Human Traffic story, Human Traffic box office collection, Human Traffic budget, Human Traffic review, Human Traffic rating, Human Traffic release date, Human Traffic trailer, Human Traffic Comedy, Human Traffic Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Simm"
+     },
+     {
+      "@type": "Person",
+      "name": "Shaun Parkes"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicola Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorraine Pilkington"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Dyer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Human Traffic (1999): Comedy/Drama film. Story: For Jip, Lulu, Koop, Nina, and Moff, the dead-end… See cast, budget $600.0k, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin Kerrigan"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kRC0aqvYYDIrgeq83yUdq7qFTn4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11129",
+    "name": "Human Traffic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11129"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Human Traffic (1999)</h1>\n<p class=\"ssr-lead\">For Jip, Lulu, Koop, Nina, and Moff, the dead-end jobs they endure during the week just kill the time until Friday night. That&#x27;s when they cut very loose and get on the rollercoaster ride that takes them right through to Monday morning.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 1999</li><li>Runtime: 100 minutes</li><li>Director: Justin Kerrigan</li><li>Genres: Comedy, Drama</li><li>Budget: $600.0k</li><li>TMDB rating: 6.8/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Simm as Jip</li><li>Shaun Parkes as Koop</li><li>Nicola Reynolds as Nina</li><li>Lorraine Pilkington as Lulu</li><li>Danny Dyer as Moff</li><li>Dean Davies as Lee</li><li>Andrew Lincoln as Felix</li><li>Terence Beesley as Moff&#x27;s Father</li><li>Jo Brand as Reality (voice)</li><li>Richard Coyle as Andy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: BFI Player Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Human Traffic (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:11229": {
    "d": "Freeway (1996): Comedy/Crime film. Story: Following the arrest of her mother, Ramona, young… See cast, budget $3.1M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/q86f264W90GIUeg1Ovf4T1PIBA.jpg",
@@ -133,6 +261,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Freeway (1996)</h1>\n<p class=\"ssr-lead\">Following the arrest of her mother, Ramona, young Vanessa Lutz decides to go in search of her estranged grandmother. On the way, she is given a ride by school counselor Bob Wolverton. During the journey, Lutz begins to realize that Bob is the notorious I-5 Killer and manages to escape by shooting him several times. Wounded but still very much alive, Bob pursues Lutz across the state in this modern retelling of Little Red Riding Hood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 1996</li><li>Runtime: 104 minutes</li><li>Director: Matthew Bright</li><li>Genres: Comedy, Crime, Thriller, Drama</li><li>Budget: $3.1M</li><li>TMDB rating: 6.4/10 (463 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiefer Sutherland as Bob Wolverton</li><li>Reese Witherspoon as Vanessa Lutz</li><li>Wolfgang Bodison as Detective Breer</li><li>Dan Hedaya as Detective Wallace</li><li>Amanda Plummer as Ramona Lutz</li><li>Brooke Shields as Mrs. Wolverton</li><li>Michael T. Weiss as Larry</li><li>Bokeem Woodbine as Chopper</li><li>Guillermo Díaz as Flacco</li><li>Brittany Murphy as Rhonda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Night Flight Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Freeway (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:11429": {
+   "d": "Beyond Re-Animator (2003): Horror/Comedy film. Story: Once again tampering with mother nature to disastrous… See cast, budget $3M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1eJt8dcoraOUKGH2DOFiBCvEK3f.jpg",
+   "industry": "world",
+   "k": "Beyond Re-Animator, Beyond Re-Animator movie, Beyond Re-Animator cast, Beyond Re-Animator story, Beyond Re-Animator box office collection, Beyond Re-Animator budget, Beyond Re-Animator review, Beyond Re-Animator rating, Beyond Re-Animator release date, Beyond Re-Animator trailer, Beyond Re-Animator Horror, Beyond Re-Animator Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey Combs"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Barry"
+     },
+     {
+      "@type": "Person",
+      "name": "Elsa Pataky"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrique Arce"
+     },
+     {
+      "@type": "Person",
+      "name": "Nico Baixas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Beyond Re-Animator (2003): Horror/Comedy film. Story: Once again tampering with mother nature to disastrous… See cast, budget $3M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Yuzna"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1eJt8dcoraOUKGH2DOFiBCvEK3f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11429",
+    "name": "Beyond Re-Animator",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-04-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11429"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beyond Re-Animator (2003)</h1>\n<p class=\"ssr-lead\">Once again tampering with mother nature to disastrous results, Dr. Herbert West continues his research while serving time in a maximum security prison for his previous exploits. West&#x27;s limited prison-cell experiments are suddenly interrupted by the arrival of a new prison doctor and the brother of the girl who suffered from West&#x27;s experiments 13 years earlier.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 April 2003</li><li>Runtime: 95 minutes</li><li>Director: Brian Yuzna</li><li>Genres: Horror, Comedy, Science Fiction</li><li>Budget: $3M</li><li>TMDB rating: 5.9/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeffrey Combs as Dr. Herbert West</li><li>Jason Barry as Dr. Howard Phillips</li><li>Elsa Pataky as Laura Olney</li><li>Enrique Arce as Cabrera</li><li>Nico Baixas as Moses</li><li>Lolo Herrero as Sergeant Moncho</li><li>Raquel Gribler as Vanessa</li><li>Simón Andreu as Brando</li><li>Santiago Segura as Speedball</li><li>Tommy Dean Musset as Young Howard &#x27;Howie&#x27; Phillips</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Beyond Re-Animator (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "movie:1314829": {
    "d": "Monkey’s Magic Merry Go Round (2026): Horror film. Story: After a mysterious bout of amnesia, a beloved… See cast and TMDB rating 7.6/10.",
@@ -822,6 +1014,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Thank You for Your Service (2017)</h1>\n<p class=\"ssr-lead\">A group of U.S. soldiers returning from Iraq struggle to integrate back into family and civilian life, while living with the memory of a war that threatens to destroy them long after they&#x27;ve left the battlefield.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2017</li><li>Runtime: 109 minutes</li><li>Director: Jason Hall</li><li>Genres: Drama, War</li><li>Budget: $20M</li><li>TMDB rating: 6.6/10 (438 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miles Teller as Adam Schumann</li><li>Haley Bennett as Saskia Schumann</li><li>Joe Cole as Billy Waller</li><li>Amy Schumer as Amanda Doster</li><li>Beulah Koale as Tausolo &quot;Solo&quot; Aieti</li><li>Scott Haze as Michael Adam Emory</li><li>Keisha Castle-Hughes as Alea</li><li>Brad Beyer as Sergeant James D. Doster</li><li>Omar J. Dorsey as Dante</li><li>Kate Lyn Sheil as Bell</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Thank You for Your Service (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:58129": {
+   "d": "The Phantom Carriage (1921): Drama/Fantasy film. Story: An alcoholic, abusive ne'er-do-well is shown the… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zMqJoVJXQPvkjZ1SZ03e4EuKMfm.jpg",
+   "industry": "world",
+   "k": "The Phantom Carriage, The Phantom Carriage movie, The Phantom Carriage cast, The Phantom Carriage story, The Phantom Carriage box office collection, The Phantom Carriage budget, The Phantom Carriage review, The Phantom Carriage rating, The Phantom Carriage release date, The Phantom Carriage Drama, The Phantom Carriage Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Victor Sjöström"
+     },
+     {
+      "@type": "Person",
+      "name": "Hilda Borgström"
+     },
+     {
+      "@type": "Person",
+      "name": "Tore Svennberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Astrid Holm"
+     },
+     {
+      "@type": "Person",
+      "name": "Concordia Selander"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 384,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Phantom Carriage (1921): Drama/Fantasy film. Story: An alcoholic, abusive ne'er-do-well is shown the… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Victor Sjöström"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zMqJoVJXQPvkjZ1SZ03e4EuKMfm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=58129",
+    "name": "The Phantom Carriage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1921-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=58129"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Phantom Carriage (1921)</h1>\n<p class=\"ssr-lead\">An alcoholic, abusive ne&#x27;er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year&#x27;s Eve before the clock strikes twelve to take the reins of Death&#x27;s chariot and work tirelessly collecting fresh souls for the next year.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 1921</li><li>Runtime: 108 minutes</li><li>Director: Victor Sjöström</li><li>Genres: Drama, Fantasy, Horror</li><li>TMDB rating: 7.7/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Victor Sjöström as David Holm</li><li>Hilda Borgström as Mrs. Holm</li><li>Tore Svennberg as Georges</li><li>Astrid Holm as Sister Edit</li><li>Concordia Selander as Edit&#x27;s Mother</li><li>Lisa Lundholm as Sister Maria</li><li>Tor Weijden as Gustafsson</li><li>Einar Axelsson as David&#x27;s Brother</li><li>Olof Ås as Driver</li><li>Nils Aréhn as Prison Chaplain</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel, IndieFlix, IndieFlix Shorts Amazon Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Phantom Carriage (1921) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1921"
   },
   "movie:59429": {
    "d": "Paranormal Activity: Tokyo Night (2010): Horror/Thriller film. Story: Koichi takes care of his sister, who has recently… See cast and budget $1.35M.",

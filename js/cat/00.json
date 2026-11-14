@@ -1,7 +1,175 @@
 {
  "bucket": "00",
- "count": 34,
+ "count": 40,
  "titles": {
+  "movie:11300": {
+   "backdrop_path": "/cAx07D2s8uCwy1YtJTTMJAlaFDo.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Charles Driggs",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Audrey Hankel",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Ray Sinclair",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Counter Man",
+     "n": "George 'Red' Schwartz"
+    },
+    {
+     "c": "Irene",
+     "n": "Margaret Colin"
+    },
+    {
+     "c": "Frenchy",
+     "n": "Leib Lensky"
+    },
+    {
+     "c": "The Country Squire",
+     "n": "Tracey Walter"
+    },
+    {
+     "c": "Country Squire Bulldog",
+     "n": "Maggie T."
+    },
+    {
+     "c": "Charlie's Secretary",
+     "n": "Patricia Falkenhain"
+    },
+    {
+     "c": "Graves' Secretary",
+     "n": "Sandy McLeod"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Demme"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 11300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-con husband shows up.",
+   "popularity": 2.2328,
+   "poster_path": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-11-07",
+   "revenue": 8362969,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Something Different. Something Daring. Something Dangerous.",
+   "title": "Something Wild",
+   "trailer": {
+    "key": "r_B6fLIdhgo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.612,
+   "vote_count": 432
+  },
   "movie:12600": {
    "backdrop_path": "/lnwNzJdU4gMlgoQlaT8HgSI2OpD.jpg",
    "budget": 0,
@@ -1570,6 +1738,135 @@
    "vote_average": 7.512,
    "vote_count": 463
   },
+  "movie:19200": {
+   "backdrop_path": "/mcSeT9VDT4OnSR3E2dxl6knE9YG.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Kleinman",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Irmy",
+     "n": "Mia Farrow"
+    },
+    {
+     "c": "Clown",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Student Jack",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Marie",
+     "n": "Madonna"
+    },
+    {
+     "c": "Prostitute",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Prostitute",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Prostitute",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Prostitute",
+     "n": "Anne Lange"
+    },
+    {
+     "c": "Magician",
+     "n": "Kenneth Mars"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 19200,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With a serial strangler on the loose, a bookkeeper wanders around town searching for the vigilante group intent on catching the killer.",
+   "popularity": 1.7073,
+   "poster_path": "/xjanJLIgrhLZAHP9IddEf8SQCFu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-12-05",
+   "revenue": 2735731,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A delicate comedy-mystery in true Allen fashion.",
+   "title": "Shadows and Fog",
+   "trailer": {
+    "key": "gIOkamBic4A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.724,
+   "vote_count": 418
+  },
   "movie:24100": {
    "backdrop_path": "/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
    "budget": 35000000,
@@ -1976,6 +2273,95 @@
    "vote_average": 6.445,
    "vote_count": 453
   },
+  "movie:43200": {
+   "backdrop_path": "/38W3ELhUprf0aTWyviRggCs1Jmi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rocco Santamaria",
+     "n": "Alessandro Gassmann"
+    },
+    {
+     "c": "Salvatore Chiarelli",
+     "n": "Paolo Briguglia"
+    },
+    {
+     "c": "Franco Cardillo",
+     "n": "Max Gazzè"
+    },
+    {
+     "c": "Nicola Palmieri",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Tropea Limongi",
+     "n": "Giovanna Mezzogiorno"
+    },
+    {
+     "c": "Maria Teresa",
+     "n": "Claudia Potenza"
+    },
+    {
+     "c": "Lucia",
+     "n": "Michela Andreozzi"
+    },
+    {
+     "c": "Press Agent",
+     "n": "Augusto Fornari"
+    },
+    {
+     "c": "Onorevole Limongi",
+     "n": "Gaetano Amato"
+    },
+    {
+     "c": "Carmine Crocco",
+     "n": "Antonio Gerardi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Rocco Papaleo"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 43200,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A musical comedy, a journey filled with unexpected twists and unexpected encounters, leading a group of musicians to set out to the rhythm of their musical verses to participate in the Scanzano Jonico Song-Theatre Festival, walking across Basilicata, from the Tyrrhenian to the Ionian Sea, along the route that gives the project its name. The journey will have a therapeutic effect.",
+   "popularity": 0.9913,
+   "poster_path": "/1jFrV9DPPS38jgYgyUFJXukMsAt.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-04-09",
+   "revenue": 4628041,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Basilicata Coast To Coast",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 399
+  },
   "movie:568300": {
    "backdrop_path": "/8GXkzHTvuj3ftethkrqW330LJKz.jpg",
    "budget": 0,
@@ -2057,6 +2443,104 @@
    "type": "movie",
    "vote_average": 8.202,
    "vote_count": 463
+  },
+  "movie:63700": {
+   "backdrop_path": "/kLoLJvjQp3s7OSvya1lKlWzLyMU.jpg",
+   "budget": 2181579,
+   "cast": [
+    {
+     "c": "Ethan Morgan",
+     "n": "Matthew Knight"
+    },
+    {
+     "c": "Sarah",
+     "n": "Vanessa Morgan"
+    },
+    {
+     "c": "Benny",
+     "n": "Atticus Mitchell"
+    },
+    {
+     "c": "Rory",
+     "n": "Cameron Kennedy"
+    },
+    {
+     "c": "Erica",
+     "n": "Kate Todd"
+    },
+    {
+     "c": "Jesse",
+     "n": "Joe Dinicol"
+    },
+    {
+     "c": "Jane Morgan",
+     "n": "Ella Jonas Farlinger"
+    },
+    {
+     "c": "Mr. Morgan",
+     "n": "Ari Cohen"
+    },
+    {
+     "c": "Mrs. Morgan",
+     "n": "Laura de Carteret"
+    },
+    {
+     "c": "Principal Hicks",
+     "n": "Hrant Alianak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bruce McDonald"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "TV Movie"
+   ],
+   "id": 63700,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Geeky 14-year old Ethan is left to babysit his younger sister, Jane, with his best friend Benny but after Ethan inadvertently puts Jane in harm's way, his parents hire a professional babysitter, the beautiful yet mysterious 17-year-old Sarah who, unbeknownst to them, is actually a fledgling vampire.",
+   "popularity": 2.0063,
+   "poster_path": "/dUWPPf9kCmnO5TxP08zsa6u0YmP.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-09",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No parents. No rules. No pulse.",
+   "title": "My Babysitter's a Vampire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 434
   },
   "movie:689700": {
    "backdrop_path": "/k0bZfbtwZvMtKazaabeLVGQLhGg.jpg",
@@ -2508,6 +2992,270 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 497
+  },
+  "movie:9300": {
+   "backdrop_path": "/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Orlando",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Shelmerdine",
+     "n": "Billy Zane"
+    },
+    {
+     "c": "The Khan",
+     "n": "Lothaire Bluteau"
+    },
+    {
+     "c": "Archduke Harry",
+     "n": "John Wood"
+    },
+    {
+     "c": "Sasha",
+     "n": "Charlotte Valandrey"
+    },
+    {
+     "c": "Nick Greene / Publisher",
+     "n": "Heathcote Williams"
+    },
+    {
+     "c": "Queen Elizabeth I",
+     "n": "Quentin Crisp"
+    },
+    {
+     "c": "Mr. Pope",
+     "n": "Peter Eyre"
+    },
+    {
+     "c": "King William of Orange",
+     "n": "Thom Hoffman"
+    },
+    {
+     "c": "Countess",
+     "n": "Kathryn Hunter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sally Potter"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 9300,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
+   "popularity": 2.2664,
+   "poster_path": "/seRawEs8eQ8rWfkBm6QC39EQEAU.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "NL",
+    "RU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-12-11",
+   "revenue": 5377643,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ru",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Orlando",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.955,
+   "vote_count": 414
+  },
+  "movie:9400": {
+   "backdrop_path": "/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Stony",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Cleo",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Frankie",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Tisean",
+     "n": "Kimberly Elise"
+    },
+    {
+     "c": "Keith",
+     "n": "Blair Underwood"
+    },
+    {
+     "c": "Detective Strode",
+     "n": "John C. McGinley"
+    },
+    {
+     "c": "Ms. Wells",
+     "n": "Anna Maria Horsford"
+    },
+    {
+     "c": "Detective Waller",
+     "n": "Ella Joyce"
+    },
+    {
+     "c": "Nate",
+     "n": "Charles Robinson"
+    },
+    {
+     "c": "Stevie",
+     "n": "Chaz Lamar Shepherd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "F. Gary Gray"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Action",
+    "Romance"
+   ],
+   "id": 9400,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.",
+   "popularity": 2.6457,
+   "poster_path": "/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-11-06",
+   "revenue": 41590886,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's about crime. It's about payback. It's about survival.",
+   "title": "Set It Off",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.244,
+   "vote_count": 418
   },
   "tv:1100": {
    "backdrop_path": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "39",
- "count": 31,
+ "count": 41,
  "titles": {
   "movie:1437939": {
    "d": "Cocorico 2 (2026): Comedy film. Story: DNA tests before Alice and François's wedding reveal… See cast, TMDB rating 5.3/10, and release date 8 April 2026.",
@@ -193,6 +193,197 @@
    "t": "The Brink of War (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:20139": {
+   "d": "The Children's Hour (1961): Drama film. Story: An unruly student at a private all-girls boarding… See cast, budget $3.6M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/RkMXpjQD9ww1b5hUAkzlCaVGUd.jpg",
+   "industry": "world",
+   "k": "The Children's Hour, The Children's Hour movie, The Children's Hour cast, The Children's Hour story, The Children's Hour box office collection, The Children's Hour budget, The Children's Hour review, The Children's Hour rating, The Children's Hour release date, The Children's Hour trailer, The Children's Hour Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Audrey Hepburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Shirley MacLaine"
+     },
+     {
+      "@type": "Person",
+      "name": "James Garner"
+     },
+     {
+      "@type": "Person",
+      "name": "Miriam Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Fay Bainter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 431,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Children's Hour (1961): Drama film. Story: An unruly student at a private all-girls boarding… See cast, budget $3.6M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Wyler"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/RkMXpjQD9ww1b5hUAkzlCaVGUd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20139",
+    "name": "The Children's Hour",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1961-12-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20139"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Children&#x27;s Hour (1961)</h1>\n<p class=\"ssr-lead\">An unruly student at a private all-girls boarding school scandalously accuses the two women who run it of having a romantic relationship.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 1961</li><li>Runtime: 108 minutes</li><li>Director: William Wyler</li><li>Genres: Drama</li><li>Budget: $3.6M</li><li>TMDB rating: 7.7/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Audrey Hepburn as Karen Wright</li><li>Shirley MacLaine as Martha Dobie</li><li>James Garner as Joe Cardin</li><li>Miriam Hopkins as Lily Mortar</li><li>Fay Bainter as Amelia Tilford</li><li>Karen Balkin as Mary Tilford</li><li>Veronica Cartwright as Rosalie Wells</li><li>Mimi Gibson as Evelyn</li><li>Debbie Moldow as Student</li><li>Diane Mountford as Student</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, MGM+ Amazon Channel, Philo, MGM Plus Roku Premium Channel, MGM Plus, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Children's Hour (1961) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1961"
+  },
+  "movie:23439": {
+   "d": "House of Usher (1960): Horror/Drama film. Story: Convinced that his family is tainted by generations… See cast, budget $270.0k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3OVwuyA8bP2GMhuKUDgTX9uwmCG.jpg",
+   "industry": "world",
+   "k": "House of Usher, House of Usher movie, House of Usher cast, House of Usher story, House of Usher box office collection, House of Usher budget, House of Usher review, House of Usher rating, House of Usher release date, House of Usher Horror, House of Usher Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent Price"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Myrna Fahey"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Ellerbe"
+     },
+     {
+      "@type": "Person",
+      "name": "David Andar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "House of Usher (1960): Horror/Drama film. Story: Convinced that his family is tainted by generations… See cast, budget $270.0k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Corman"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3OVwuyA8bP2GMhuKUDgTX9uwmCG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23439",
+    "name": "House of Usher",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1960-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23439"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>House of Usher (1960)</h1>\n<p class=\"ssr-lead\">Convinced that his family is tainted by generations of evil, Roderick Usher is hellbent on stopping his sister Madeline’s wedding to prevent the cursed Usher bloodline from expanding. When her fiancé Philip Winthrop arrives at the crumbling estate to claim his bride, Roderick goes to ruthless—even deadly—lengths to keep them apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 1960</li><li>Runtime: 79 minutes</li><li>Director: Roger Corman</li><li>Genres: Horror, Drama</li><li>Budget: $270.0k</li><li>TMDB rating: 6.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Price as Roderick Usher</li><li>Mark Damon as Philip Winthrop</li><li>Myrna Fahey as Madeline Usher</li><li>Harry Ellerbe as Bristol</li><li>David Andar as Ghost (uncredited)</li><li>Bill Borzage as Ghost (uncredited)</li><li>Mario Bellini as Ghost (uncredited)</li><li>Eleanor LeFaber as Ghost (uncredited)</li><li>Nadajan as Ghost (uncredited)</li><li>Ruth Oklander as Ghost (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Eternal Family, ScreenPix Apple TV channel, Amazon Prime Video with Ads, ScreenPix Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "House of Usher (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1960"
+  },
+  "movie:244539": {
+   "d": "Infinitely Polar Bear (2014): Drama/Comedy film. Story: A manic-depressive mess of a father tries to win back… See cast, budget $6.7M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cgu22PGyj7Bi5sSGA5VuymI2Z7n.jpg",
+   "industry": "world",
+   "k": "Infinitely Polar Bear, Infinitely Polar Bear movie, Infinitely Polar Bear cast, Infinitely Polar Bear story, Infinitely Polar Bear box office collection, Infinitely Polar Bear budget, Infinitely Polar Bear review, Infinitely Polar Bear rating, Infinitely Polar Bear release date, Infinitely Polar Bear Drama, Infinitely Polar Bear Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Imogene Wolodarsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Aufderheide"
+     },
+     {
+      "@type": "Person",
+      "name": "Wallace Wolodarsky"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Infinitely Polar Bear (2014): Drama/Comedy film. Story: A manic-depressive mess of a father tries to win back… See cast, budget $6.7M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maya Forbes"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cgu22PGyj7Bi5sSGA5VuymI2Z7n.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=244539",
+    "name": "Infinitely Polar Bear",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-01-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=244539"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Infinitely Polar Bear (2014)</h1>\n<p class=\"ssr-lead\">A manic-depressive mess of a father tries to win back his wife by attempting to take full responsibility of their two young, spirited daughters, who don&#x27;t make the overwhelming task any easier.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2014</li><li>Runtime: 87 minutes</li><li>Director: Maya Forbes</li><li>Genres: Drama, Comedy</li><li>Budget: $6.7M</li><li>TMDB rating: 6.6/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Ruffalo as Cameron</li><li>Zoe Saldaña as Maggie</li><li>Imogene Wolodarsky as Amelia Stuart</li><li>Ashley Aufderheide as Faith Stuart</li><li>Wallace Wolodarsky as Peter</li><li>Keir Dullea as Murray Stuart</li><li>Beth Dixon as Pauline Stuart</li><li>Georgia Lyman as Becca</li><li>William Xifaras as Bus Driver</li><li>Mary O&#x27;Rourke as Receptionist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Infinitely Polar Bear (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:26039": {
    "d": "Point Blank (1967): Crime/Thriller film. Story: After being double-crossed and left for dead, a… See cast, budget $2.5M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/sousyLLi3l14qho6gATKYX7pEyR.jpg",
@@ -257,6 +448,70 @@
    "t": "Point Blank (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1967"
   },
+  "movie:266639": {
+   "d": "Jem and the Holograms (2015): Drama/Music film. Story: As a small-town girl catapults from underground video… See cast, budget $5M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ac66kDI6hscMGW25Y1f5qSZn9p8.jpg",
+   "industry": "world",
+   "k": "Jem and the Holograms, Jem and the Holograms movie, Jem and the Holograms cast, Jem and the Holograms story, Jem and the Holograms box office collection, Jem and the Holograms budget, Jem and the Holograms review, Jem and the Holograms rating, Jem and the Holograms release date, Jem and the Holograms trailer, Jem and the Holograms Drama, Jem and the Holograms Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aubrey Shea"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefanie Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayley Kiyoko"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurora Perrineau"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Guzman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Jem and the Holograms (2015): Drama/Music film. Story: As a small-town girl catapults from underground video… See cast, budget $5M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon M. Chu"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ac66kDI6hscMGW25Y1f5qSZn9p8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=266639",
+    "name": "Jem and the Holograms",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=266639"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jem and the Holograms (2015)</h1>\n<p class=\"ssr-lead\">As a small-town girl catapults from underground video sensation to global superstar, she and her three sisters begin a one-in-a-million journey of discovering that some talents are too special to keep hidden. Four aspiring musicians will take the world by storm when they see that the key to creating your own destiny lies in finding your own voice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2015</li><li>Runtime: 119 minutes</li><li>Director: Jon M. Chu</li><li>Genres: Drama, Music</li><li>Budget: $5M</li><li>TMDB rating: 5.5/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aubrey Shea as Jerrica Benton / Jem</li><li>Stefanie Scott as Kimber Benton</li><li>Hayley Kiyoko as Aja</li><li>Aurora Perrineau as Shana</li><li>Ryan Guzman as Rio Raymond</li><li>Molly Ringwald as Aunt Bailey</li><li>Juliette Lewis as Erica Raymond</li><li>Isabella Kai as Young Jerrica</li><li>Barnaby Carpenter as Emmett Benton</li><li>Jason Kennedy as Jason Kennedy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Jem and the Holograms (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:28739": {
    "d": "Cabin Fever 2: Spring Fever (2009): Horror film. Story: A high school prom faces a deadly threat: a… See cast, budget $5M, and TMDB rating 4.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/rimhdm7tiOdZqTz0QKckoJ7mGac.jpg",
@@ -319,6 +574,78 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cabin Fever 2: Spring Fever (2009)</h1>\n<p class=\"ssr-lead\">A high school prom faces a deadly threat: a flesh-eating virus that spreads via a popular brand of bottled water.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 August 2009</li><li>Runtime: 87 minutes</li><li>Director: Ti West</li><li>Genres: Horror</li><li>Budget: $5M</li><li>TMDB rating: 4.6/10 (443 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Noah Segan as John</li><li>Alexi Wasser as Cassie</li><li>Lindsey Axelsson as Sandy</li><li>Gabrielle Tuite as June</li><li>Andrea Powell as Lucile</li><li>Stephanie Drapeau as &#x27;Echo&#x27; the Stripper</li><li>Giuseppe Andrews as Deputy Winston</li><li>Rider Strong as Paul</li><li>Rusty Kelley as Alex</li><li>Lila Lucchetti as Karen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Cabin Fever 2: Spring Fever (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:311539": {
+   "d": "A Christmas Horror Story (2015): Horror/Fantasy film. Story: Christmas is supposed to be a time of joy, peace and… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5EUDK7bqRCJ5QA42KxPmo08dohX.jpg",
+   "industry": "world",
+   "k": "A Christmas Horror Story, A Christmas Horror Story movie, A Christmas Horror Story cast, A Christmas Horror Story story, A Christmas Horror Story box office collection, A Christmas Horror Story budget, A Christmas Horror Story review, A Christmas Horror Story rating, A Christmas Horror Story release date, A Christmas Horror Story trailer, A Christmas Horror Story Horror, A Christmas Horror Story Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William Shatner"
+     },
+     {
+      "@type": "Person",
+      "name": "George Buza"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Archer"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoé De Grand Maison"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Ozerov-Meyer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "A Christmas Horror Story (2015): Horror/Fantasy film. Story: Christmas is supposed to be a time of joy, peace and… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Hoban"
+     },
+     {
+      "@type": "Person",
+      "name": "Grant Harvey"
+     },
+     {
+      "@type": "Person",
+      "name": "Brett Sullivan"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5EUDK7bqRCJ5QA42KxPmo08dohX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=311539",
+    "name": "A Christmas Horror Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=311539"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Christmas Horror Story (2015)</h1>\n<p class=\"ssr-lead\">Christmas is supposed to be a time of joy, peace and goodwill. But for some folks in the small town of Bailey Downs, it turns into something much less festive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 2015</li><li>Runtime: 99 minutes</li><li>Director: Steven Hoban, Grant Harvey, Brett Sullivan</li><li>Genres: Horror, Fantasy</li><li>TMDB rating: 5.7/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Shatner as Dangerous Dan</li><li>George Buza as Santa</li><li>Rob Archer as Krampus</li><li>Zoé De Grand Maison as Molly</li><li>Alex Ozerov-Meyer as Ben</li><li>Shannon Kook as Dylan</li><li>Amy Forsyth as Caprice</li><li>Jeff Clarke as Taylor</li><li>Michelle Nolden as Dianne</li><li>Oluniké Adeliyi as Kim</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Christmas Horror Story (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:31439": {
    "d": "To Live (1994): Drama/Romance film. Story: Married couple Fugui and Jiazhen endure tumultuous… See cast, TMDB rating 8.3/10, and release date 18 May 1994.",
@@ -384,6 +711,134 @@
    "t": "To Live (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:408439": {
+   "d": "Hounds of Love (2016): Crime/Drama film. Story: When Vicki Maloney is randomly abducted from a… See cast, TMDB rating 6.1/10, and release date 7 October 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/oyD5D5QBoFXa68M5RsmrjPe83pU.jpg",
+   "industry": "world",
+   "k": "Hounds of Love, Hounds of Love movie, Hounds of Love cast, Hounds of Love story, Hounds of Love box office collection, Hounds of Love budget, Hounds of Love review, Hounds of Love rating, Hounds of Love release date, Hounds of Love trailer, Hounds of Love Crime, Hounds of Love Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ashleigh Cummings"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Booth"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Curry"
+     },
+     {
+      "@type": "Person",
+      "name": "Susie Porter"
+     },
+     {
+      "@type": "Person",
+      "name": "Damian de Montemas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Hounds of Love (2016): Crime/Drama film. Story: When Vicki Maloney is randomly abducted from a… See cast, TMDB rating 6.1/10, and release date 7 October 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Young"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oyD5D5QBoFXa68M5RsmrjPe83pU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=408439",
+    "name": "Hounds of Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=408439"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hounds of Love (2016)</h1>\n<p class=\"ssr-lead\">When Vicki Maloney is randomly abducted from a suburban street by a disturbed couple, she soon observes the dynamic between her captors and quickly realises she must drive a wedge between them if she is to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 October 2016</li><li>Runtime: 108 minutes</li><li>Director: Ben Young</li><li>Genres: Crime, Drama, Horror</li><li>TMDB rating: 6.1/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashleigh Cummings as Vicki Maloney</li><li>Emma Booth as Evelyn White</li><li>Stephen Curry as John White</li><li>Susie Porter as Maggie Maloney</li><li>Damian de Montemas as Trevor Maloney</li><li>Harrison Gilbertson as Jason Farris</li><li>Fletcher Humphrys as Gary</li><li>Steve Turner as Troy</li><li>Michael Muntz as Sergeant Mathews</li><li>Marko Jovanović as Sergeant Henderson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, BFI Player, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "Hounds of Love (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:419639": {
+   "d": "The Thinning (2016): Thriller/Drama film. Story: In a post-apocalyptic future where population control… See cast, budget $100.0k, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iAVTqLitjc4S7FeqoGn9DsYWpCy.jpg",
+   "industry": "world",
+   "k": "The Thinning, The Thinning movie, The Thinning cast, The Thinning story, The Thinning box office collection, The Thinning budget, The Thinning review, The Thinning rating, The Thinning release date, The Thinning Thriller, The Thinning Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Logan Paul"
+     },
+     {
+      "@type": "Person",
+      "name": "Peyton List"
+     },
+     {
+      "@type": "Person",
+      "name": "Lia Marie Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Calum Worthy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Whitney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Thinning (2016): Thriller/Drama film. Story: In a post-apocalyptic future where population control… See cast, budget $100.0k, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael J. Gallagher"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iAVTqLitjc4S7FeqoGn9DsYWpCy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=419639",
+    "name": "The Thinning",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=419639"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Thinning (2016)</h1>\n<p class=\"ssr-lead\">In a post-apocalyptic future where population control is dictated by a high-school aptitude test, two students discover the test is smoke and mirrors hiding a larger conspiracy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2016</li><li>Runtime: 84 minutes</li><li>Director: Michael J. Gallagher</li><li>Genres: Thriller, Drama, Horror</li><li>Budget: $100.0k</li><li>TMDB rating: 6.6/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Logan Paul as Blake Redding</li><li>Peyton List as Laina Michaels</li><li>Lia Marie Johnson as Ellie Harper</li><li>Calum Worthy as Kellan Woods</li><li>Ryan Whitney as Sarah Foster</li><li>Michael Traynor as Mason King</li><li>Stacey Dash as Kendra Birch</li><li>Matthew Glave as Governor Redding</li><li>Robert Gant as Vince Davi</li><li>Kiersten Warren as Barbara Michaels</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Thinning (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:437739": {
    "d": "The Mansion (2017): Horror/Comedy film. Story: A band of students comes to celebrate the New Year in… See cast and TMDB rating 4.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/bd4Y1hoqK36VgXQvisWfg2GQ6Yj.jpg",
@@ -447,6 +902,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Mansion (2017)</h1>\n<p class=\"ssr-lead\">A band of students comes to celebrate the New Year in an old manor house isolated from everything. But soon after their arrival, strange events disrupt the atmosphere, before the party turns squarely to the nightmare ...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 June 2017</li><li>Runtime: 100 minutes</li><li>Director: Tony T. Datis</li><li>Genres: Horror, Comedy</li><li>TMDB rating: 4.8/10 (499 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nathalie Odzierejko as Nadine</li><li>Kemar as Fabrice</li><li>Yvick Letexier as Djamal</li><li>Ludovik as Bruno</li><li>Vanessa Guide as Sam</li><li>Jérôme Niel as Stéphane</li><li>Vincent Tirel as Drazic</li><li>Delphine Baril as Jess</li><li>Lila Lacombe as Charlotte</li><li>Baptiste Lorber as Enzo</li></ul>\n</article>",
    "t": "The Mansion (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:43939": {
+   "d": "I'm Still Here (2010): Music/Comedy film. Story: I'm Still Here is a portrayal of a tumultuous year in… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yZq3kFveiDtfJpwQTgZwXBxs4aE.jpg",
+   "industry": "world",
+   "k": "I'm Still Here, I'm Still Here movie, I'm Still Here cast, I'm Still Here story, I'm Still Here box office collection, I'm Still Here budget, I'm Still Here review, I'm Still Here rating, I'm Still Here release date, I'm Still Here trailer, I'm Still Here Music, I'm Still Here Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joaquin Phoenix"
+     },
+     {
+      "@type": "Person",
+      "name": "Antony Langdon"
+     },
+     {
+      "@type": "Person",
+      "name": "Carey Perloff"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry McHale"
+     },
+     {
+      "@type": "Person",
+      "name": "Casey Affleck"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "I'm Still Here (2010): Music/Comedy film. Story: I'm Still Here is a portrayal of a tumultuous year in… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Casey Affleck"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yZq3kFveiDtfJpwQTgZwXBxs4aE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=43939",
+    "name": "I'm Still Here",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=43939"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;m Still Here (2010)</h1>\n<p class=\"ssr-lead\">I&#x27;m Still Here is a portrayal of a tumultuous year in the life of actor Joaquin Phoenix. With remarkable access, the film follows the Oscar-nominee as he announces his retirement from a successful film career in the fall of 2008 and sets off to reinvent himself as a hip-hop musician. The film is a portrait of an artist at a crossroads and explores notions of courage and creative reinvention, as well as the ramifications of a life spent in the public eye.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2010</li><li>Runtime: 107 minutes</li><li>Director: Casey Affleck</li><li>Genres: Music, Comedy, Drama</li><li>TMDB rating: 5.9/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joaquin Phoenix as Joaquin Phoenix</li><li>Antony Langdon as Anton</li><li>Carey Perloff as Play Director</li><li>Larry McHale as Larry McHale</li><li>Casey Affleck as Casey Affleck</li><li>Jack Nicholson as Jack Nicholson</li><li>Billy Crystal as Billy Crystal</li><li>Danny Glover as Danny Glover</li><li>Bruce Willis as Self - Guest</li><li>Robin Wright as Robin Wright</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Dox Amazon Channel, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "I'm Still Here (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:444539": {
    "d": "The Bookshop (2017): Drama film. Story: Set in a small English town in 1959, a woman decides… See cast, budget $5.4M, and TMDB rating 6.5/10.",
@@ -582,6 +1101,70 @@
    "t": "Hearts of Darkness: A Filmmaker's Apocalypse (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:6639": {
+   "d": "Love in the Time of Cholera (2007): Drama/Romance film. Story: In Colombia just after the Great War, an old man… See cast, budget $45M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg",
+   "industry": "world",
+   "k": "Love in the Time of Cholera, Love in the Time of Cholera movie, Love in the Time of Cholera cast, Love in the Time of Cholera story, Love in the Time of Cholera box office collection, Love in the Time of Cholera budget, Love in the Time of Cholera review, Love in the Time of Cholera rating, Love in the Time of Cholera release date, Love in the Time of Cholera Drama, Love in the Time of Cholera Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Javier Bardem"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanna Mezzogiorno"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Bratt"
+     },
+     {
+      "@type": "Person",
+      "name": "John Leguizamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernanda Montenegro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Love in the Time of Cholera (2007): Drama/Romance film. Story: In Colombia just after the Great War, an old man… See cast, budget $45M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike Newell"
+     }
+    ],
+    "duration": "PT139M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6639",
+    "name": "Love in the Time of Cholera",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-10-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6639"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love in the Time of Cholera (2007)</h1>\n<p class=\"ssr-lead\">In Colombia just after the Great War, an old man falls from a ladder; dying, he professes great love for his wife. After the funeral, a man calls on the widow - she dismisses him angrily. Flash back more than 50 years to the day Florentino Ariza, a telegraph boy, falls in love with Fermina Daza, the daughter of a mule trader.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2007</li><li>Runtime: 139 minutes</li><li>Director: Mike Newell</li><li>Genres: Drama, Romance</li><li>Budget: $45M</li><li>TMDB rating: 6.6/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Javier Bardem as Florentino Ariza</li><li>Giovanna Mezzogiorno as Fermina Daza</li><li>Benjamin Bratt as Juvenal Urbino</li><li>John Leguizamo as Lorenzo Daza</li><li>Fernanda Montenegro as Transito Ariza</li><li>Catalina Sandino Moreno as Hildebranda Sanchez</li><li>Alicia Borrachero as Escolastica</li><li>Liev Schreiber as Lotario Thurgot</li><li>Laura Harring as Sara Noriega</li><li>Héctor Elizondo as Don Leo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Love in the Time of Cholera (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:726139": {
    "d": "Project Silence (2024): Thriller/Action film. Story: Due to sudden deteriorating weather conditions… See cast, budget $14.75M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/cIBp7rip1kZLSD7BQrEE4UXs6aq.jpg",
@@ -709,6 +1292,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Just Another Christmas (2020)</h1>\n<p class=\"ssr-lead\">After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 2020</li><li>Runtime: 101 minutes</li><li>Director: Roberto Santucci</li><li>Genres: Comedy, Drama, Fantasy, Family</li><li>TMDB rating: 7.3/10 (450 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leandro Hassum as Jorge</li><li>Elisa Pinheiro as Laura</li><li>Arianne Botelho as Aninha</li><li>Miguel Rômulo as Leozinho</li><li>Louise Cardoso as Teodora</li><li>Levi Ferreira as Vô Nhanhão</li><li>Danielle Winits as Márcia</li><li>Rodrigo Fagundes as Luiz Cláudio</li><li>José Rubens Chachá as Tio Victor</li><li>Daniel Filho as Seu Pedro</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Just Another Christmas (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:7839": {
+   "d": "Wedding Daze (2006): Comedy/Romance film. Story: After losing the woman of his dreams, Anderson is… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aurQNWiJoRB2pEDc73uCahcN4BF.jpg",
+   "industry": "world",
+   "k": "Wedding Daze, Wedding Daze movie, Wedding Daze cast, Wedding Daze story, Wedding Daze box office collection, Wedding Daze budget, Wedding Daze review, Wedding Daze rating, Wedding Daze release date, Wedding Daze trailer, Wedding Daze Comedy, Wedding Daze Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Biggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Isla Fisher"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Weston"
+     },
+     {
+      "@type": "Person",
+      "name": "Ebon Moss-Bachrach"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Pantoliano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 435,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Wedding Daze (2006): Comedy/Romance film. Story: After losing the woman of his dreams, Anderson is… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Ian Black"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aurQNWiJoRB2pEDc73uCahcN4BF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7839",
+    "name": "Wedding Daze",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7839"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wedding Daze (2006)</h1>\n<p class=\"ssr-lead\">After losing the woman of his dreams, Anderson is convinced he&#x27;ll never fall in love again. But at the urging of his best friend, he spontaneously proposes to a dissatisfied waitress named Katie and an innocent dare evolves into the kind of love that both have been looking for all along.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2006</li><li>Runtime: 90 minutes</li><li>Director: Michael Ian Black</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 5.7/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Biggs as Anderson</li><li>Isla Fisher as Katie</li><li>Michael Weston as Ted</li><li>Ebon Moss-Bachrach as Matador</li><li>Joe Pantoliano as Smitty</li><li>Heather Goldenhersh as Jane</li><li>Joanna Gleason as Lois</li><li>Edward Herrmann as Lyle</li><li>Margo Martindale as Betsy</li><li>Mark Consuelos as Morty</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wedding Daze (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:785539": {
    "d": "Resort to Love (2021): Romance/Comedy film. Story: Aspiring pop star Erica ends up as the entertainment… See cast and TMDB rating 7.1/10.",

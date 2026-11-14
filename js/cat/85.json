@@ -1,6 +1,6 @@
 {
  "bucket": "85",
- "count": 34,
+ "count": 41,
  "titles": {
   "movie:12185": {
    "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
@@ -534,6 +534,224 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 90
+  },
+  "movie:14285": {
+   "backdrop_path": "/9ndhlUu1VQ44pX5dVFo5Y19KqAl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Randall Adams"
+    },
+    {
+     "c": "Self",
+     "n": "David Harris"
+    },
+    {
+     "c": "Self - Homicide Detective in Dallas",
+     "n": "Gus Rose"
+    },
+    {
+     "c": "Self - Homicide Detective in Dallas",
+     "n": "Jackie Johnson"
+    },
+    {
+     "c": "Self - Homicide Detective in Dallas",
+     "n": "Marshall Touchton"
+    },
+    {
+     "c": "Self - Internal Affairs Investigator in Dallas",
+     "n": "Dale Holt"
+    },
+    {
+     "c": "Self - Police Detective in Vidor",
+     "n": "Sam Kittrell"
+    },
+    {
+     "c": "Self - Friend of David Harris in Vidor",
+     "n": "Hootie Nelson"
+    },
+    {
+     "c": "Self - Friend of David Harris in Vidor",
+     "n": "Dennis Johnson"
+    },
+    {
+     "c": "Self - Friend of David Harris in Vidor",
+     "n": "Floyd Jackson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Errol Morris"
+   ],
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "id": 14285,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One night in November 1976, after his car breaks down on a road outside Dallas, Randall Dale Adams accepts a ride from teenager David Harris. Harris is driving a stolen vehicle and, later that night, when Dallas police officer Robert Wood pulls the car over to check its headlights, he is shot and killed. A jury believes Adams is the killer, but stylized reenactments and interviews with key figures, conflicting testimonies and evidence are presented to argue that Adams was framed by a corrupt justice system, ultimately leading to his exoneration.",
+   "popularity": 1.7264,
+   "poster_path": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-08-28",
+   "revenue": 1209846,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Erases the border between art and activism.",
+   "title": "The Thin Blue Line",
+   "trailer": {
+    "key": "MzZROKde8Nc",
+    "name": "Three Reasons: The Thin Blue Line",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.65,
+   "vote_count": 434
   },
   "movie:1437985": {
    "backdrop_path": "/255neTizAGgmgHPXQenAL3bITLT.jpg",
@@ -1091,6 +1309,319 @@
    "vote_average": 6.554,
    "vote_count": 37
   },
+  "movie:18585": {
+   "backdrop_path": "/21mAnWSUYLAIJpmqUd1QgzblpcM.jpg",
+   "budget": 3200000,
+   "cast": [
+    {
+     "c": "Abby",
+     "n": "Brittany Murphy"
+    },
+    {
+     "c": "Gretchen",
+     "n": "Tammy Blanchard"
+    },
+    {
+     "c": "Ethan",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "Maezumi",
+     "n": "Toshiyuki Nishida"
+    },
+    {
+     "c": "Toshi Iwamoto",
+     "n": "Soji Arai"
+    },
+    {
+     "c": "Reiko",
+     "n": "Kimiko Yo"
+    },
+    {
+     "c": "Udagawa",
+     "n": "Renji Ishibashi"
+    },
+    {
+     "c": "Mio",
+     "n": "Akiko Monou"
+    },
+    {
+     "c": "Grand Master",
+     "n": "Tsutomu Yamazaki"
+    },
+    {
+     "c": "Akira",
+     "n": "Takaki Uda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Allan Ackerman"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 18585,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American woman is stranded in Tokyo after breaking up with her boyfriend. Searching for direction in life, she trains to be a ramen chef under a tyrannical Japanese master.",
+   "popularity": 1.9029,
+   "poster_path": "/616tXSqbAVRbeQKV0IeWf0kNnqi.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-02-08",
+   "revenue": 179590,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Her romance is on pins and noodles.",
+   "title": "The Ramen Girl",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 390
+  },
+  "movie:23685": {
+   "backdrop_path": "/ntVB3LgyvKIaw6Dk29ZuDsV3TSR.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Stu Miley",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Dr. Julie McElroy",
+     "n": "Bridget Fonda"
+    },
+    {
+     "c": "Monkeybone (voice)",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Organ Donor Stu",
+     "n": "Chris Kattan"
+    },
+    {
+     "c": "Hypnos",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Miss Kitty",
+     "n": "Rose McGowan"
+    },
+    {
+     "c": "Herb",
+     "n": "Dave Foley"
+    },
+    {
+     "c": "Kimmy Miley",
+     "n": "Megan Mullally"
+    },
+    {
+     "c": "Head Surgeon",
+     "n": "Bob Odenkirk"
+    },
+    {
+     "c": "Death",
+     "n": "Whoopi Goldberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Henry Selick"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 23685,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a car crash sends repressed cartoonist Stu into a coma, he and the mischievous Monkeybone, his hilarious alter-ego, wake up in a wacked-out waystation for lost souls. When Monkeybone takes over Stu's body and escapes to wreak havoc on the real world, Stu has to find a way to stop him before his sister pulls the plug on reality forever!",
+   "popularity": 2.8182,
+   "poster_path": "/lgH7Wej9922C1MQv0wciAfesKH8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-02-23",
+   "revenue": 5409517,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get boned!",
+   "title": "Monkeybone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 391
+  },
   "movie:26285": {
    "backdrop_path": "/7XHRntPB5HeRzkFxHbsZ4khxFQf.jpg",
    "budget": 0,
@@ -1394,6 +1925,95 @@
    "vote_average": 5.6,
    "vote_count": 437
   },
+  "movie:38285": {
+   "backdrop_path": "/nrlkA1yUj1cryt7qEz8qbrMGAOu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Artemio",
+     "n": "Renato Pozzetto"
+    },
+    {
+     "c": "Severino Cicerchia",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Angela Corsi",
+     "n": "Donna Osterbuhr"
+    },
+    {
+     "c": "Giovanna",
+     "n": "Clara Colosimo"
+    },
+    {
+     "c": "Maria Rosa",
+     "n": "Sandra Ambrosini"
+    },
+    {
+     "c": "Fabbro",
+     "n": "Renato D'Amore"
+    },
+    {
+     "c": "Insurrance Manager",
+     "n": "Franco Diogene"
+    },
+    {
+     "c": "Blind Man",
+     "n": "Enzo Cannavale"
+    },
+    {
+     "c": "Patient",
+     "n": "Vincenzo De Toma"
+    },
+    {
+     "c": "Residence Manager",
+     "n": "Enzo Garinei"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Castellano",
+    "Pipolo"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 38285,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A man is forced to completely change his habits when he decides to move from the country to the city.",
+   "popularity": 1.0027,
+   "poster_path": "/A7Krc9fQqTQSKXpgldSOjvNBg89.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1984-12-20",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Country Boy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.812,
+   "vote_count": 423
+  },
   "movie:383785": {
    "backdrop_path": "/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
    "budget": 65000000,
@@ -1514,6 +2134,131 @@
    "type": "movie",
    "vote_average": 5.865,
    "vote_count": 452
+  },
+  "movie:39285": {
+   "backdrop_path": "/m0uy78mSoSqh470bGJuOHGiEZnQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lane Daniels",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Tom Reinhart",
+     "n": "Michael McMillian"
+    },
+    {
+     "c": "Joanne",
+     "n": "Amanda Walsh"
+    },
+    {
+     "c": "Liam",
+     "n": "Chris Carmack"
+    },
+    {
+     "c": "Seth",
+     "n": "Matt Dallas"
+    },
+    {
+     "c": "Kate White",
+     "n": "Jaime Pressly"
+    },
+    {
+     "c": "Alicia",
+     "n": "Jennifer Coolidge"
+    },
+    {
+     "c": "Accountant",
+     "n": "Billy Slaughter"
+    },
+    {
+     "c": "Mr. Belmont",
+     "n": "James McDaniel"
+    },
+    {
+     "c": "John",
+     "n": "Kevin Kirkpatrick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Gil Junger"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 39285,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A freelance writer looking for romance sells a story to Cosmopolitan magazine about finding love in the workplace and goes undercover at a Finance Company.",
+   "popularity": 1.0115,
+   "poster_path": "/zN9FYOXf5tUYjgget7yOzu8TlZU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/n0IYtqCRKBhqnioKooWDLOS3l3r.png",
+     "name": "Freeform",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-07-20",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Falling in love is a fulltime job",
+   "title": "Beauty & the Briefcase",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.901,
+   "vote_count": 424
   },
   "movie:582885": {
    "backdrop_path": "/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
@@ -1788,6 +2533,113 @@
    "vote_average": 5.3,
    "vote_count": 439
   },
+  "movie:844185": {
+   "backdrop_path": "/gkeTxlr34PpxFM1GnuhaLx21gPO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bob Cabana / Teen Ravioli",
+     "n": "Jerry Seinfeld"
+    },
+    {
+     "c": "Donna Stankowski",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Edsel Kellogg III",
+     "n": "Jim Gaffigan"
+    },
+    {
+     "c": "Thurl Ravenscroft",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Marjorie Post",
+     "n": "Amy Schumer"
+    },
+    {
+     "c": "Rick Ludwin",
+     "n": "Max Greenfield"
+    },
+    {
+     "c": "George",
+     "n": "Isaac Bae"
+    },
+    {
+     "c": "Counter Man",
+     "n": "Chris Rickett"
+    },
+    {
+     "c": "Anna Cabana",
+     "n": "Rachael Harris"
+    },
+    {
+     "c": "Bobby Cabana",
+     "n": "Kue Lawrence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Jerry Seinfeld"
+   ],
+   "genres": [
+    "Comedy",
+    "History"
+   ],
+   "id": 844185,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a time when breakfast is ruled by milk and cereal, a fierce corporate battle begins over a revolutionary new pastry.",
+   "popularity": 2.4724,
+   "poster_path": "/zxcpbkiyv81u1frI7b0f6qaYufE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-04-30",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Pop-Tart will rise.",
+   "title": "Unfrosted",
+   "trailer": {
+    "key": "2lqRPUhPfho",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.342,
+   "vote_count": 404
+  },
   "movie:901385": {
    "backdrop_path": "/dR78i8aMsa8wIuBiHGfU8K5gNL7.jpg",
    "budget": 0,
@@ -2027,6 +2879,122 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 2788
+  },
+  "movie:9585": {
+   "backdrop_path": "/cUqqeHxAeJ6heHOJjCKczNc9lhb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Betty Mahmoody",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Moody",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Mahtob",
+     "n": "Sheila Rosenthal"
+    },
+    {
+     "c": "Houssein",
+     "n": "Roshan Seth"
+    },
+    {
+     "c": "Nicole",
+     "n": "Sarah Badel"
+    },
+    {
+     "c": "Ameh Bozorg",
+     "n": "Mony-Rey"
+    },
+    {
+     "c": "Mohsen",
+     "n": "Georges Corraface"
+    },
+    {
+     "c": "Grandma",
+     "n": "Mary Nell Santacroce"
+    },
+    {
+     "c": "Grandpa",
+     "n": "Ed Grady"
+    },
+    {
+     "c": "Doctor",
+     "n": "Marc Gowan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brian Gilbert"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 9585,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American woman, trapped in Islamic Iran by her brutish husband, must find a way to escape with her daughter as well.",
+   "popularity": 3.5877,
+   "poster_path": "/aEMncPIHISpaIJmYaIstS0TVnb7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-01-11",
+   "revenue": 14789113,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fa",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In 1984, Betty Mahmoody's husband took his wife and daughter to meet his family in Iran. He swore they would be safe. They would be happy. They would be free to leave. He lied.",
+   "title": "Not Without My Daughter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.901,
+   "vote_count": 385
   },
   "tv:19885": {
    "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",

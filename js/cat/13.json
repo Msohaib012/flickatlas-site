@@ -1,7 +1,126 @@
 {
  "bucket": "13",
- "count": 26,
+ "count": 34,
  "titles": {
+  "movie:10213": {
+   "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Johnny Madrid",
+     "n": "Marco Leonardi"
+    },
+    {
+     "c": "Ambrose Bierce",
+     "n": "Michael Parks"
+    },
+    {
+     "c": "Mary Newlie",
+     "n": "Rebecca Gayheart"
+    },
+    {
+     "c": "Esmeralda",
+     "n": "Ara Celi"
+    },
+    {
+     "c": "John Newlie",
+     "n": "Lennie Loftin"
+    },
+    {
+     "c": "Ezra Traylor",
+     "n": "Orlando Jones"
+    },
+    {
+     "c": "Razor Charlie",
+     "n": "Danny Trejo"
+    },
+    {
+     "c": "Reece",
+     "n": "Jordana Spiro"
+    },
+    {
+     "c": "Joaquin",
+     "n": "Kevin Smith"
+    },
+    {
+     "c": "The Hangman",
+     "n": "Temuera Morrison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "P.J. Pesce"
+   ],
+   "genres": [
+    "Western",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 10213,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set one hundred years ago, outlaw Johnny Madrid, after narrowly escaping death, goes on the run with the hangman's sensuous daughter Esmeralda by his side.",
+   "popularity": 2.7397,
+   "poster_path": "/io5lQ7VRJGBCg2kTJ6BRWRclqJE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-01-18",
+   "revenue": 9617,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No one can get rid of their past. Blood and sex runs through their veins.",
+   "title": "From Dusk Till Dawn 3: The Hangman's Daughter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.9,
+   "vote_count": 413
+  },
   "movie:1304313": {
    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
    "budget": 22000000,
@@ -1384,6 +1503,103 @@
    "vote_average": 7.2,
    "vote_count": 100
   },
+  "movie:24913": {
+   "backdrop_path": "/lLxz3D3LBhyO3q9F0eBqSjepoD4.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Kit Graham",
+     "n": "Amy Steel"
+    },
+    {
+     "c": "Rob Ferris",
+     "n": "Ken Olandt"
+    },
+    {
+     "c": "Muffy / Buffy St. John",
+     "n": "Deborah Foreman"
+    },
+    {
+     "c": "Nikki Beshears",
+     "n": "Deborah Goodrich"
+    },
+    {
+     "c": "Chaz Vyshinski",
+     "n": "Clayton Rohner"
+    },
+    {
+     "c": "Arch Cummings",
+     "n": "Thomas F. Wilson"
+    },
+    {
+     "c": "Harvey 'Hal' Edison",
+     "n": "Jay Baker"
+    },
+    {
+     "c": "Nan Youngblood",
+     "n": "Leah Pinsent"
+    },
+    {
+     "c": "Skip St. John",
+     "n": "Griffin O'Neal"
+    },
+    {
+     "c": "Constable Potter / Uncle Frank",
+     "n": "Tom Heaton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fred Walton"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 24913,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On April Fool's Day weekend, a group of college friends gather together at a secluded island mansion to celebrate their final year of school, where they soon become prey for an unseen murderer.",
+   "popularity": 2.0909,
+   "poster_path": "/prNp2xFZXIE6IwO2uOnqwtdfRQI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-03-27",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Guess who's going to be the life of the party?",
+   "title": "April Fool's Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 407
+  },
   "movie:27813": {
    "backdrop_path": "/qGa0xgIKTmSa4Rlw5pEhShDTGwU.jpg",
    "budget": 35000,
@@ -1613,6 +1829,499 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 493
+  },
+  "movie:41413": {
+   "backdrop_path": "/51dQaI3KrgtSACthFPF8wjCDTw0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alessandro 'Alex' Belli",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Nicoletta 'Niki' Cavalli",
+     "n": "Michela Quattrociocche"
+    },
+    {
+     "c": "Guido",
+     "n": "Andrea Montovoli"
+    },
+    {
+     "c": "Pietro",
+     "n": "Francesco Apolloni"
+    },
+    {
+     "c": "Enrico",
+     "n": "Luca Angeletti"
+    },
+    {
+     "c": "Flavio",
+     "n": "Ignazio Oliva"
+    },
+    {
+     "c": "Susanna",
+     "n": "Francesca Antonelli"
+    },
+    {
+     "c": "Cristina",
+     "n": "Rossella Infanti"
+    },
+    {
+     "c": "Simona",
+     "n": "Cecilia Dazzi"
+    },
+    {
+     "c": "Roberto",
+     "n": "Pino Quartullo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Federico Moccia"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 41413,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Second part of the film \"Sorry if I love you\". Alex (Raoul Bova) and Niki (Michela Quattrociocche) are more in love than ever. They have just returned from the lighthouse on the island Blu where they have lived unforgettable days. Niki returns to see his friends, but a number of important changes in their lives will test the friendship of the girls. Alex also resume life with his old friends. All of them, Flavio, Enrico and Pietro, are no longer serene and safe husbands due to certain difficulties that have compromised their marriages.",
+   "popularity": 1.3533,
+   "poster_path": "/756xiX5OZRTHSfRzbR9YouKi2C.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-02-12",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sorry if I Want to Marry You",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.274,
+   "vote_count": 394
+  },
+  "movie:488113": {
+   "backdrop_path": "/nKNz75zZrdYorWxrOq5E9O19rvB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelsey",
+     "n": "Jocelyn Hudon"
+    },
+    {
+     "c": "Connor",
+     "n": "Stephen Huszar"
+    },
+    {
+     "c": "Aunt Olivia",
+     "n": "Kelly Rutherford"
+    },
+    {
+     "c": "Emily",
+     "n": "Rebecca Dalton"
+    },
+    {
+     "c": "Todd",
+     "n": "Eric Hicks"
+    },
+    {
+     "c": "George",
+     "n": "Joey Fatone"
+    },
+    {
+     "c": "Jealous Bridesmaid",
+     "n": "Melinda Shankar"
+    },
+    {
+     "c": "Clumsy Bridesmaid",
+     "n": "Gabrielle Graham"
+    },
+    {
+     "c": "Bitter Bridesmaid",
+     "n": "Samantha Helt"
+    },
+    {
+     "c": "Tim",
+     "n": "Ted Atherton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Justin G. Dyck"
+   ],
+   "genres": [
+    "Romance",
+    "Family",
+    "TV Movie"
+   ],
+   "id": 488113,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wedding Planner, Kelsey Wilson, is about to have her big break: planning her beloved cousin's lavish and exclusive wedding. Everything is going smoothly until Connor McClane, a devilishly handsome private investigator, shows up and turns Kelsey's world upside-down. Hired by a secret source, Connor quickly disrupts the upcoming nuptials but wins Kelsey's heart in the process.",
+   "popularity": 1.2845,
+   "poster_path": "/6AvDenAws6MmF4Y6ZahRINYLbud.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "UP Faith & Family Apple TV channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "UP Faith & Family Amazon Channel "
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+     "name": "UP Faith & Family Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
+     "name": "UP Faith & Family Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-12-14",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is the greatest gift of all",
+   "title": "Christmas Wedding Planner",
+   "trailer": {
+    "key": "HS9x40rE5Cs",
+    "name": "Christmas Wedding Planner -Trailer (2018)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.437,
+   "vote_count": 430
+  },
+  "movie:565413": {
+   "backdrop_path": "/2EHwNBnzz48p1v7DXqAc9S2ylLc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "D'Artagnan",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Porthos",
+     "n": "Valerio Mastandrea"
+    },
+    {
+     "c": "Athos",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Aramis",
+     "n": "Sergio Rubini"
+    },
+    {
+     "c": "Regina Anna d'Austria",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Cardinal Mazzarino",
+     "n": "Alessandro Haber"
+    },
+    {
+     "c": "Ancella",
+     "n": "Matilde Gioli"
+    },
+    {
+     "c": "Milady",
+     "n": "Giulia Bevilacqua"
+    },
+    {
+     "c": "Servo Muto",
+     "n": "Raffaele Vannoli"
+    },
+    {
+     "c": "Cicognac",
+     "n": "Valeria Solarino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Giovanni Veronesi"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 565413,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In 17th-century France, the Queen brings the Three Musketeers — Athos, Porthos, Aramis, and an aging d'Artagnan — back from retirement for one last job: saving her son Louis and the whole kingdom.",
+   "popularity": 0.9897,
+   "poster_path": "/dR249tNy0JNAMvG3P3oSSWTPhTq.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-12-27",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The King's Musketeers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 408
+  },
+  "movie:680813": {
+   "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+   "budget": 3400000,
+   "cast": [
+    {
+     "c": "Self (voice)",
+     "n": "Amin Nawabi"
+    },
+    {
+     "c": "Amin (9-11 years old) (voice)",
+     "n": "Daniel Karimyar"
+    },
+    {
+     "c": "Amin (15-18 years old) (voice)",
+     "n": "Fardin Mijdzadeh"
+    },
+    {
+     "c": "Saif (8 years old) (voice)",
+     "n": "Milad Eskandari"
+    },
+    {
+     "c": "Saif (13-19 years old) (voice)",
+     "n": "Belal Faiz"
+    },
+    {
+     "c": "Fahima (13-18 years old) (voice)",
+     "n": "Elaha Faiz"
+    },
+    {
+     "c": "Fahima (28 years old) (voice)",
+     "n": "Zahra Mehrwarz"
+    },
+    {
+     "c": "Sabia (16-26 years old) (voice)",
+     "n": "Sadia Faiz"
+    },
+    {
+     "c": "Human Trafficker (voice)",
+     "n": "Georg Jagunov"
+    },
+    {
+     "c": "Policeman / Trafficker (voice)",
+     "n": "Rashid Aitouganov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jonas Poher Rasmussen"
+   ],
+   "genres": [
+    "Documentary",
+    "Animation"
+   ],
+   "id": 680813,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
+   "popularity": 2.1479,
+   "poster_path": "/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
+   "production_countries": [
+    "DK",
+    "NL",
+    "NO",
+    "SE",
+    "GB",
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-06-17",
+   "revenue": 712229,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "fr",
+    "en",
+    "fa",
+    "ru",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes it takes years to start living your life",
+   "title": "Flee",
+   "trailer": {
+    "key": "IcgMxg22tY0",
+    "name": "Official UK Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 422
   },
   "movie:693113": {
    "backdrop_path": "/clU0V12kgvK6ubQVxAQ3fLrP6te.jpg",
@@ -1910,6 +2619,372 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 436
+  },
+  "movie:79113": {
+   "backdrop_path": "/ocyOdgL8pGS5KRpRfS69SsS2GMa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jules Daly",
+     "n": "Katie McGrath"
+    },
+    {
+     "c": "Ashton Prince of Castlebury",
+     "n": "Sam Heughan"
+    },
+    {
+     "c": "Paisley Winterbottom",
+     "n": "Miles Richardson"
+    },
+    {
+     "c": "Lady Arabella Marchand du Belmont",
+     "n": "Charlotte Salt"
+    },
+    {
+     "c": "Milo Huntington",
+     "n": "Travis Turner"
+    },
+    {
+     "c": "Maddie Huntington",
+     "n": "Leilah de Meza"
+    },
+    {
+     "c": "Edward Duke of Castlebury",
+     "n": "Roger Moore"
+    },
+    {
+     "c": "Abigail",
+     "n": "Mãdãlina Anea"
+    },
+    {
+     "c": "Lord Thomas Belmont",
+     "n": "Răzvan Oprea"
+    },
+    {
+     "c": "Mrs. Birch",
+     "n": "Oxana Moravec"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Damian"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "TV Movie",
+    "Romance",
+    "Drama"
+   ],
+   "id": 79113,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her sister and brother-in-law's tragic deaths, an American woman who is the guardian for her young niece and nephew is invited to a royal European castle for Christmas by her late brother-in-law's father, the Duke of Castlebury. Feeling out of place as a commoner, she is determined to give her family a merry Christmas and surprises herself when she falls for a handsome prince.",
+   "popularity": 2.6275,
+   "poster_path": "/qv7fx4gW2bNU3eUiwtaxh829Imq.jpg",
+   "production_countries": [
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-12-03",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes dreams come true",
+   "title": "A Princess for Christmas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 416
+  },
+  "movie:795813": {
+   "backdrop_path": "/5AlTT97P209obOB9zRoyYDrzLkZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alma Felser",
+     "n": "Maren Eggert"
+    },
+    {
+     "c": "Tom",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Employee",
+     "n": "Sandra Hüller"
+    },
+    {
+     "c": "Julian",
+     "n": "Hans Löw"
+    },
+    {
+     "c": "Alma's Father",
+     "n": "Wolfgang Hübsch"
+    },
+    {
+     "c": "Cora Felser",
+     "n": "Annika Meier"
+    },
+    {
+     "c": "Dean Roger",
+     "n": "Falilou Seck"
+    },
+    {
+     "c": "Dr. Stuber",
+     "n": "Jürgen Tarrach"
+    },
+    {
+     "c": "Steffi",
+     "n": "Henriette Richter-Röhl"
+    },
+    {
+     "c": "Woman in Coffee Shop",
+     "n": "Monika Oschek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Maria Schrader"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 795813,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Alma is a scientist coerced into participating in an extraordinary study in order to obtain research funds for her work. For three weeks, she has to live with a humanoid robot tailored to her character and needs, whose artificial intelligence is designed to be the perfect life partner for her. Enter Tom, a machine in human form in a class of its own, created solely to make her happy.",
+   "popularity": 1.8471,
+   "poster_path": "/v13p6KlgD7Y1Tas6X8GLJzv5zRe.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-01",
+   "revenue": 1090661,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I'm Your Man",
+   "trailer": {
+    "key": "HJy0tsc5UBs",
+    "name": "I'M YOUR MAN - Official HD Trailer - Only In Cinemas",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.713,
+   "vote_count": 387
   },
   "movie:87513": {
    "backdrop_path": "/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",

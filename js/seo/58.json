@@ -1,7 +1,135 @@
 {
  "bucket": "58",
- "count": 34,
+ "count": 42,
  "titles": {
+  "movie:10258": {
+   "d": "The Madagascar Penguins in a Christmas Caper (2005): Animation/Comedy film. Story: During the holiday season, when the animals of the… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
+   "industry": "world",
+   "k": "The Madagascar Penguins in a Christmas Caper, The Madagascar Penguins in a Christmas Caper movie, The Madagascar Penguins in a Christmas Caper cast, The Madagascar Penguins in a Christmas Caper story, The Madagascar Penguins in a Christmas Caper box office collection, The Madagascar Penguins in a Christmas Caper budget, The Madagascar Penguins in a Christmas Caper review, The Madagascar Penguins in a Christmas Caper rating, The Madagascar Penguins in a Christmas Caper release date, The Madagascar Penguins in a Christmas Caper Animation, The Madagascar Penguins in a Christmas Caper Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom McGrath"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Knights"
+     },
+     {
+      "@type": "Person",
+      "name": "John DiMaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Fagerbakke"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Madagascar Penguins in a Christmas Caper (2005): Animation/Comedy film. Story: During the holiday season, when the animals of the… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Trousdale"
+     }
+    ],
+    "duration": "PT11M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10258",
+    "name": "The Madagascar Penguins in a Christmas Caper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10258"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Madagascar Penguins in a Christmas Caper (2005)</h1>\n<p class=\"ssr-lead\">During the holiday season, when the animals of the Central Park Zoo are preparing for Christmas, Private, the youngest of the penguins notices that the Polar Bear is all alone. Assured that nobody should have to spend Christmas alone, Private goes into the city for some last-minute Christmas shopping. Along the way, he gets stuffed into a stocking</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2005</li><li>Runtime: 11 minutes</li><li>Director: Gary Trousdale</li><li>Genres: Animation, Comedy, Family</li><li>TMDB rating: 6.9/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom McGrath as Skipper (voice)</li><li>Chris Miller as Kowalski (voice)</li><li>Christopher Knights as Private (voice)</li><li>John DiMaggio as Rico (voice)</li><li>Bill Fagerbakke as Ted the Polar Bear (voice)</li><li>Rif Hutton as Additional Voices (voice)</li><li>Holly Dorff as Additional Voices (voice)</li><li>Hope Levy as Additional Voices (voice)</li><li>Mitch Carter as Additional Voices (voice)</li><li>Elisa Gabrielli as Old Lady (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Madagascar Penguins in a Christmas Caper (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
+  "movie:10858": {
+   "d": "Nixon (1995): Drama/History film. Story: A look at President Richard M. Nixon—a man carrying… See cast, budget $44M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+   "industry": "world",
+   "k": "Nixon, Nixon movie, Nixon cast, Nixon story, Nixon box office collection, Nixon budget, Nixon review, Nixon rating, Nixon release date, Nixon Drama, Nixon History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Powers Boothe"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Hoskins"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Nixon (1995): Drama/History film. Story: A look at President Richard M. Nixon—a man carrying… See cast, budget $44M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oliver Stone"
+     }
+    ],
+    "duration": "PT192M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10858",
+    "name": "Nixon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-12-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10858"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nixon (1995)</h1>\n<p class=\"ssr-lead\">A look at President Richard M. Nixon—a man carrying the fate of the world on his shoulders while battling the self-destructive demands from within—spanning his troubled boyhood in California to the shocking Watergate scandal that would end his Presidency.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 1995</li><li>Runtime: 192 minutes</li><li>Director: Oliver Stone</li><li>Genres: Drama, History</li><li>Budget: $44M</li><li>TMDB rating: 6.8/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Hopkins as Richard Nixon</li><li>Joan Allen as Pat Nixon</li><li>Powers Boothe as Alexander Haig</li><li>Ed Harris as E. Howard Hunt</li><li>Bob Hoskins as J. Edgar Hoover</li><li>E.G. Marshall as John Mitchell</li><li>David Paymer as Ron Ziegler</li><li>David Hyde Pierce as John Dean</li><li>Paul Sorvino as Henry Kissinger</li><li>Mary Steenburgen as Hannah Nixon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Nixon (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
   "movie:1146058": {
    "d": "The Pout-Pout Fish (2026): Animation/Family film. Story: Living on a rundown shipwreck, Mr. Fish one day… See cast, budget $10M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
@@ -65,6 +193,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Pout-Pout Fish (2026)</h1>\n<p class=\"ssr-lead\">Living on a rundown shipwreck, Mr. Fish one day discovers a hyperactive young sea dragon Pip – who had mistaken his home for a junkyard – pilfering his belongings. The heated argument that ensues leaves both their houses in ruin. But there is hope! Embarking on a seemingly impossible quest in search of the mythical &#x27;Shimmer&#x27; to grant them a wish, there’s only one problem: someone else is on the hunt...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 91 minutes</li><li>Director: Ricard Cussó</li><li>Genres: Animation, Family, Adventure, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.7/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Offerman as Mr. Fish (voice)</li><li>Nina Oyama as Pip (voice)</li><li>Miranda Otto as Marin (voice)</li><li>Amy Sedaris as The Pink Dolphins – Brigitta, Greta and Karina (voice)</li><li>Jordin Sparks as Shimmer (voice)</li><li>Remy Hii as Benji (voice)</li><li>Mark Coles Smith as Hector (voice)</li><li>Nazeem Hussain as Archie (voice)</li><li>Mel Buttle as Shaz (voice)</li><li>Bessie Holland as Baz (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Pout-Pout Fish (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:11558": {
+   "d": "Silver Streak (1976): Comedy/Crime film. Story: A somewhat daffy book editor on a rail trip from Los… See cast, budget $6.5M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yLEvFfGVXsStEkNQwi9OxAcCDaa.jpg",
+   "industry": "world",
+   "k": "Silver Streak, Silver Streak movie, Silver Streak cast, Silver Streak story, Silver Streak box office collection, Silver Streak budget, Silver Streak review, Silver Streak rating, Silver Streak release date, Silver Streak Comedy, Silver Streak Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gene Wilder"
+     },
+     {
+      "@type": "Person",
+      "name": "Jill Clayburgh"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Pryor"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick McGoohan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ned Beatty"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 384,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Silver Streak (1976): Comedy/Crime film. Story: A somewhat daffy book editor on a rail trip from Los… See cast, budget $6.5M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arthur Hiller"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yLEvFfGVXsStEkNQwi9OxAcCDaa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11558",
+    "name": "Silver Streak",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-12-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11558"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Silver Streak (1976)</h1>\n<p class=\"ssr-lead\">A somewhat daffy book editor on a rail trip from Los Angeles to Chicago thinks that he sees a murdered man thrown from the train. When he can find no one who will believe him, he starts doing some investigating of his own. But all that accomplishes is to get the killer after him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 1976</li><li>Runtime: 114 minutes</li><li>Director: Arthur Hiller</li><li>Genres: Comedy, Crime, Romance, Thriller, Action</li><li>Budget: $6.5M</li><li>TMDB rating: 6.7/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gene Wilder as George Caldwell</li><li>Jill Clayburgh as Hildegard &#x27;Hilly&#x27; Burns</li><li>Richard Pryor as Grover Muldoon</li><li>Patrick McGoohan as Roger Devereau</li><li>Ned Beatty as Bob Sweet</li><li>Clifton James as Sheriff Chauncey</li><li>Ray Walston as Mr. Edgar Whiney</li><li>Stefan Gierasch as Professor Schreiner &amp; Johnson</li><li>Len Birman as Chief</li><li>Valerie Curtin as Plain Jane</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Silver Streak (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
+  "movie:12658": {
+   "d": "Someone Like You... (2001): Comedy/Romance film. Story: Jane Goodale has everything going for her. She's a… See cast, budget $23M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fRNNl8iLc4mpWy1C2JDIJdJxHQZ.jpg",
+   "industry": "world",
+   "k": "Someone Like You..., Someone Like You... movie, Someone Like You... cast, Someone Like You... story, Someone Like You... box office collection, Someone Like You... budget, Someone Like You... review, Someone Like You... rating, Someone Like You... release date, Someone Like You... Comedy, Someone Like You... Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ashley Judd"
+     },
+     {
+      "@type": "Person",
+      "name": "Greg Kinnear"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Jackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Marisa Tomei"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellen Barkin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Someone Like You... (2001): Comedy/Romance film. Story: Jane Goodale has everything going for her. She's a… See cast, budget $23M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tony Goldwyn"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fRNNl8iLc4mpWy1C2JDIJdJxHQZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12658",
+    "name": "Someone Like You...",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-03-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12658"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Someone Like You... (2001)</h1>\n<p class=\"ssr-lead\">Jane Goodale has everything going for her. She&#x27;s a producer on a popular daytime talk show, and is in a hot romance with the show&#x27;s dashing executive producer Ray. But when the relationship goes terribly awry, Jane begins an extensive study of the male animal, including her womanizing roommate Eddie. Jane puts her studies and romantic misadventure to use as a pseudonymous sex columnist -- and becomes a sensation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 2001</li><li>Runtime: 97 minutes</li><li>Director: Tony Goldwyn</li><li>Genres: Comedy, Romance</li><li>Budget: $23M</li><li>TMDB rating: 6.0/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashley Judd as Jane Goodale</li><li>Greg Kinnear as Ray Brown</li><li>Hugh Jackman as Eddie Alden</li><li>Marisa Tomei as Liz</li><li>Ellen Barkin as Diane Roberts</li><li>Catherine Dent as Alice, Jane&#x27;s Sister</li><li>Laura Regan as Evelyn</li><li>Peter Friedman as Stephen, Alice&#x27;s Husband</li><li>Mireille Enos as Yoga Instructor #1</li><li>Colleen Camp as Realtor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Someone Like You... (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
   },
   "movie:1469458": {
    "d": "Sambhavam Adhyayam Onnu (2026): Fantasy/Thriller film. Story: Three Kerala Police officers venture into a… See cast and TMDB rating 7.2/10.",
@@ -193,6 +449,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Say Good Luck (2026)</h1>\n<p class=\"ssr-lead\">Sophie Birenbaum is ready for the spotlight as the lead in her high school musical—until she&#x27;s suddenly facing more drama at home than on the stage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2026</li><li>Runtime: 96 minutes</li><li>Director: Julia Hart</li><li>Genres: Comedy, Music, Drama</li><li>TMDB rating: 7.2/10 (159 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sunny Sandler as Sophie Birenbaum</li><li>Melanie Lynskey as Elizabeth Birenbaum</li><li>Max Greenfield as Ted Birenbaum</li><li>Stephanie Beatriz as Ms. Parker</li><li>Bebe Neuwirth as Linda</li><li>Steve Buscemi as Dale</li><li>Jack Champion as Jack Davis</li><li>Matan Friedman as Caleb Birenbaum</li><li>Eitan Friedman as Ethan Birenbaum</li><li>Emma McNulty as Erin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Don't Say Good Luck (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:15158": {
+   "d": "Phantasm II (1988): Action/Horror film. Story: Mike, after his release from a psychiatric hospital… See cast, budget $3M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rC2HpslTzrhzJ605DHBPkeITpt2.jpg",
+   "industry": "world",
+   "k": "Phantasm II, Phantasm II movie, Phantasm II cast, Phantasm II story, Phantasm II box office collection, Phantasm II budget, Phantasm II review, Phantasm II rating, Phantasm II release date, Phantasm II trailer, Phantasm II Action, Phantasm II Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Le Gros"
+     },
+     {
+      "@type": "Person",
+      "name": "Reggie Bannister"
+     },
+     {
+      "@type": "Person",
+      "name": "Angus Scrimm"
+     },
+     {
+      "@type": "Person",
+      "name": "Paula Irvine"
+     },
+     {
+      "@type": "Person",
+      "name": "Samantha Phillips"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Phantasm II (1988): Action/Horror film. Story: Mike, after his release from a psychiatric hospital… See cast, budget $3M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Coscarelli"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Action",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rC2HpslTzrhzJ605DHBPkeITpt2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15158",
+    "name": "Phantasm II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-07-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15158"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Phantasm II (1988)</h1>\n<p class=\"ssr-lead\">Mike, after his release from a psychiatric hospital, teams up with his old pal Reggie to hunt down the Tall Man, who is at it again. A mysterious, beautiful girl has also become part of Mike&#x27;s dreams, and they must find her before the Tall Man does.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 1988</li><li>Runtime: 97 minutes</li><li>Director: Don Coscarelli</li><li>Genres: Action, Horror, Science Fiction, Thriller</li><li>Budget: $3M</li><li>TMDB rating: 6.2/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Le Gros as Mike</li><li>Reggie Bannister as Reggie</li><li>Angus Scrimm as The Tall Man</li><li>Paula Irvine as Liz</li><li>Samantha Phillips as Alchemy</li><li>Kenneth Tigar as Father Meyers</li><li>Ruth C. Engel as Grandma</li><li>Mark Anthony Major as Mortician</li><li>Rubin Kushner as Grandpa</li><li>Stacey Travis as Jeri</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Phantasm II (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
   },
   "movie:1662958": {
    "d": "Louis C.K.: Ridiculous (2026): Comedy film. Story: From a bee getting shot in New York City to paying… See cast and TMDB rating 6.1/10.",
@@ -497,6 +817,70 @@
    "t": "The Internet's Own Boy: The Story of Aaron Swartz (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:413658": {
+   "d": "The Warriors Gate (2016): Action/Adventure film. Story: After a mysterious chest opens a gateway through… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rpsuxOvGgVBKmQELkPPNigjW9qO.jpg",
+   "industry": "world",
+   "k": "The Warriors Gate, The Warriors Gate movie, The Warriors Gate cast, The Warriors Gate story, The Warriors Gate box office collection, The Warriors Gate budget, The Warriors Gate review, The Warriors Gate rating, The Warriors Gate release date, The Warriors Gate trailer, The Warriors Gate Action, The Warriors Gate Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Uriah Shelton"
+     },
+     {
+      "@type": "Person",
+      "name": "Ni Ni"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Chao You-ting"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Ng Chun-yu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 398,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Warriors Gate (2016): Action/Adventure film. Story: After a mysterious chest opens a gateway through… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthias Hoene"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rpsuxOvGgVBKmQELkPPNigjW9qO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=413658",
+    "name": "The Warriors Gate",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=413658"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Warriors Gate (2016)</h1>\n<p class=\"ssr-lead\">After a mysterious chest opens a gateway through time, teen gamer Jack is transported to an ancient empire terrorized by a cruel barbarian king. Jack will need all of his gaming skills as he battles to defeat the barbarian, protect a beautiful princess, and somehow find his way back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2016</li><li>Runtime: 108 minutes</li><li>Director: Matthias Hoene</li><li>Genres: Action, Adventure, Comedy, Family, Fantasy</li><li>TMDB rating: 6.6/10 (398 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Uriah Shelton as Jack</li><li>Ni Ni as Su Lin</li><li>Dave Bautista as Arun</li><li>Mark Chao You-ting as Zhoo</li><li>Francis Ng Chun-yu as Wizard</li><li>Kara Wai Ying-hung as Mountain Spirit</li><li>Sienna Guillory as Annie</li><li>Dakota Daulby as Travis</li><li>Ron Smoorenburg as Black Knight</li><li>Eva Day as Sales Girl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Warriors Gate (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:454458": {
    "d": "UglyDolls (2019): Animation/Music film. Story: In the adorably different town of Uglyville… See cast, budget $45M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/93gOZuHazBWulk7b47MCXWVTiqh.jpg",
@@ -624,6 +1008,70 @@
    "t": "Cruel Intentions 2 (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:6058": {
+   "d": "The Patriot (1998): Action/Thriller film. Story: A deadly virus threatens to wipe out an entire Rocky… See cast, budget $25M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jgnfSyrtonk5U2UMP7MLtgX2eYt.jpg",
+   "industry": "world",
+   "k": "The Patriot, The Patriot movie, The Patriot cast, The Patriot story, The Patriot box office collection, The Patriot budget, The Patriot review, The Patriot rating, The Patriot release date, The Patriot Action, The Patriot Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steven Seagal"
+     },
+     {
+      "@type": "Person",
+      "name": "Gailard Sartain"
+     },
+     {
+      "@type": "Person",
+      "name": "Silas Weir Mitchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Camilla Belle"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Beene"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Patriot (1998): Action/Thriller film. Story: A deadly virus threatens to wipe out an entire Rocky… See cast, budget $25M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dean Semler"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jgnfSyrtonk5U2UMP7MLtgX2eYt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6058",
+    "name": "The Patriot",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6058"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Patriot (1998)</h1>\n<p class=\"ssr-lead\">A deadly virus threatens to wipe out an entire Rocky Mountain town, leaving the town doctor to find some way to escape the soldiers who enforce the town&#x27;s quarantine and devise an antidote. Matters take a more deadly turn after the physician is captured by a dangerously unstable band of militia extremists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 1998</li><li>Runtime: 90 minutes</li><li>Director: Dean Semler</li><li>Genres: Action, Thriller</li><li>Budget: $25M</li><li>TMDB rating: 5.6/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Seagal as Wesley McClaren</li><li>Gailard Sartain as Floyd Chisolm</li><li>Silas Weir Mitchell as Pogue</li><li>Camilla Belle as Holly McClaren</li><li>Dan Beene as Richard Bach</li><li>Damon Collazo as Lt. Johnson</li><li>L.Q. Jones as Frank</li><li>Brad Leland as Big Bob</li><li>Molly McClure as Molly</li><li>Douglas Sebern as Judge Tomkins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Patriot (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:693158": {
    "d": "Proximity (2020): Science Fiction/Drama film. Story: A young NASA JPL scientist is abducted by… See cast, TMDB rating 6.8/10, and release date 15 May 2020.",
    "img": "https://image.tmdb.org/t/p/w780/jm2kJQZRmYRzHJzB07oOOVDiQD1.jpg",
@@ -750,6 +1198,74 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Seaspiracy (2021)</h1>\n<p class=\"ssr-lead\">Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 March 2021</li><li>Runtime: 89 minutes</li><li>Director: Ali Tabrizi</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 7.8/10 (488 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ali Tabrizi as Self</li><li>Sylvia Earle as Self</li><li>Richard O&#x27;Barry as Self</li><li>Paul de Gelder as Self</li><li>Lucy Tabrizi as Self</li><li>Jonathan Balcombe as Self</li><li>George Monbiot as Self</li><li>Michael Klaper as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Seaspiracy (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:813258": {
+   "d": "Monster Pets: A Hotel Transylvania Short (2021): Animation/Comedy film. Story: Drac tries out some new monster pets to help occupy… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/c7dFSqZQYqNNJVpacpIGZe3gkLW.jpg",
+   "industry": "world",
+   "k": "Monster Pets: A Hotel Transylvania Short, Monster Pets: A Hotel Transylvania Short movie, Monster Pets: A Hotel Transylvania Short cast, Monster Pets: A Hotel Transylvania Short story, Monster Pets: A Hotel Transylvania Short box office collection, Monster Pets: A Hotel Transylvania Short budget, Monster Pets: A Hotel Transylvania Short review, Monster Pets: A Hotel Transylvania Short rating, Monster Pets: A Hotel Transylvania Short release date, Monster Pets: A Hotel Transylvania Short Animation, Monster Pets: A Hotel Transylvania Short Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brian Hull"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Kluska"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Drymon"
+     },
+     {
+      "@type": "Person",
+      "name": "Genndy Tartakovsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Olson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Monster Pets: A Hotel Transylvania Short (2021): Animation/Comedy film. Story: Drac tries out some new monster pets to help occupy… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Kluska"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Drymon"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c7dFSqZQYqNNJVpacpIGZe3gkLW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=813258",
+    "name": "Monster Pets: A Hotel Transylvania Short",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=813258"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monster Pets: A Hotel Transylvania Short (2021)</h1>\n<p class=\"ssr-lead\">Drac tries out some new monster pets to help occupy Tinkles for playtime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2021</li><li>Runtime: 6 minutes</li><li>Director: Jennifer Kluska, Derek Drymon</li><li>Genres: Animation, Comedy, Fantasy</li><li>TMDB rating: 7.4/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brian Hull as Dracula (voice)</li><li>Jennifer Kluska as Toots (voice)</li><li>Derek Drymon as Tinkles / Zombie / Gillman (voice)</li><li>Genndy Tartakovsky as Blobby / Puppy Blobby (voice)</li><li>Jon Olson as Additional Monster Pets (voice)</li></ul>\n</article>",
+   "t": "Monster Pets: A Hotel Transylvania Short (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
   "tv:106158": {

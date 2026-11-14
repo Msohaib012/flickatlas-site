@@ -1,7 +1,71 @@
 {
  "bucket": "10",
- "count": 32,
+ "count": 50,
  "titles": {
+  "movie:1020910": {
+   "d": "Influencer (2023): Horror/Thriller film. Story: While struggling on a solo backpacking trip in… See cast, TMDB rating 6.2/10, and release date 18 May 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
+   "industry": "world",
+   "k": "Influencer, Influencer movie, Influencer cast, Influencer story, Influencer box office collection, Influencer budget, Influencer review, Influencer rating, Influencer release date, Influencer trailer, Influencer Horror, Influencer Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cassandra Naud"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Tennant"
+     },
+     {
+      "@type": "Person",
+      "name": "Rory J. Saper"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Canning"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Spurrier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Influencer (2023): Horror/Thriller film. Story: While struggling on a solo backpacking trip in… See cast, TMDB rating 6.2/10, and release date 18 May 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kurtis David Harder"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1020910",
+    "name": "Influencer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1020910"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Influencer (2023)</h1>\n<p class=\"ssr-lead\">While struggling on a solo backpacking trip in Thailand, social media influencer Madison meets CW, who travels with ease and shows her a more uninhibited way of living. But CW&#x27;s interest in her takes a darker turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2023</li><li>Runtime: 92 minutes</li><li>Director: Kurtis David Harder</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.2/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cassandra Naud as CW</li><li>Emily Tennant as Madison</li><li>Rory J. Saper as Ryan</li><li>Sara Canning as Jessica</li><li>Paul Spurrier as Rupert</li><li>Justin Sams as Jay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Influencer (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:10210": {
    "d": "A Midsummer Night's Dream (1999): Fantasy/Comedy film. Story: Mistaken identity, unrequited love, and the… See cast, budget $11M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/y8F8UE7U0rELJKmWzeucpevxVBN.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Midsummer Night&#x27;s Dream (1999)</h1>\n<p class=\"ssr-lead\">Mistaken identity, unrequited love, and the supernatural are combined in Shakespeare&#x27;s classic set in the woods of Greece on a moonlit night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 1999</li><li>Runtime: 116 minutes</li><li>Director: Michael Hoffman</li><li>Genres: Fantasy, Comedy, Romance</li><li>Budget: $11M</li><li>TMDB rating: 6.4/10 (442 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Kline as Nick Bottom</li><li>Michelle Pfeiffer as Titania</li><li>Rupert Everett as Oberon</li><li>Stanley Tucci as Puck</li><li>Calista Flockhart as Helena</li><li>Anna Friel as Hermia</li><li>Christian Bale as Demetrius</li><li>Dominic West as Lysander</li><li>David Strathairn as Theseus</li><li>Sophie Marceau as Hippolyta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Marquee TV Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "A Midsummer Night's Dream (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
+  },
+  "movie:10410": {
+   "d": "Hoffa (1992): Crime/History film. Story: A portrait of union leader James R. Hoffa, as seen… See cast, budget $35M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dineJzDZLuEXNNy261vFcJgqhxr.jpg",
+   "industry": "world",
+   "k": "Hoffa, Hoffa movie, Hoffa cast, Hoffa story, Hoffa box office collection, Hoffa budget, Hoffa review, Hoffa rating, Hoffa release date, Hoffa Crime, Hoffa History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Nicholson"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny DeVito"
+     },
+     {
+      "@type": "Person",
+      "name": "Armand Assante"
+     },
+     {
+      "@type": "Person",
+      "name": "J.T. Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "John C. Reilly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Hoffa (1992): Crime/History film. Story: A portrait of union leader James R. Hoffa, as seen… See cast, budget $35M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Danny DeVito"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Crime",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dineJzDZLuEXNNy261vFcJgqhxr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10410",
+    "name": "Hoffa",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10410"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hoffa (1992)</h1>\n<p class=\"ssr-lead\">A portrait of union leader James R. Hoffa, as seen through the eyes of his friend, Bobby Ciaro. The film follows Hoffa through his countless battles with the RTA and President Roosevelt.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 1992</li><li>Runtime: 140 minutes</li><li>Director: Danny DeVito</li><li>Genres: Crime, History, Drama</li><li>Budget: $35M</li><li>TMDB rating: 6.3/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Nicholson as James R. &#x27;Jimmy&#x27; Hoffa</li><li>Danny DeVito as Bobby Ciaro</li><li>Armand Assante as Carol D&#x27;Allesandro</li><li>J.T. Walsh as Frank Fitzsimmons</li><li>John C. Reilly as Pete Connelly</li><li>Natalija Nogulich as Jo Hoffa</li><li>Kevin Crowley as Reporter</li><li>Robert Prosky as Billy Flynn</li><li>Kevin Anderson as Robert F. Kennedy</li><li>Frank Whaley as Young Trucker in Diner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Hoffa (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
   },
   "movie:1098110": {
    "d": "Blood & Gold (2023): Drama/War film. Story: At the end of World War II, a German soldier is… See cast, TMDB rating 6.6/10, and release date 21 April 2023.",
@@ -130,6 +258,70 @@
    "t": "Blood & Gold (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
   },
+  "movie:11510": {
+   "d": "Repossessed (1990): Comedy/Horror film. Story: It's been some time since Father Jebedaiah Mayii… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uIrRLzxpgHnx5Lfdt2hHmOBktrG.jpg",
+   "industry": "world",
+   "k": "Repossessed, Repossessed movie, Repossessed cast, Repossessed story, Repossessed box office collection, Repossessed budget, Repossessed review, Repossessed rating, Repossessed release date, Repossessed trailer, Repossessed Comedy, Repossessed Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Linda Blair"
+     },
+     {
+      "@type": "Person",
+      "name": "Ned Beatty"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Nielsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Starke"
+     },
+     {
+      "@type": "Person",
+      "name": "Thom Sharp"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 397,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Repossessed (1990): Comedy/Horror film. Story: It's been some time since Father Jebedaiah Mayii… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bob Logan"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uIrRLzxpgHnx5Lfdt2hHmOBktrG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11510",
+    "name": "Repossessed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-09-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11510"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Repossessed (1990)</h1>\n<p class=\"ssr-lead\">It&#x27;s been some time since Father Jebedaiah Mayii exorcised the Devil from little Nancy Aglet, who is now grown up with a husband and two children of her own. But the prince of darkness wants to go a second round and has returned to repossess her! With Father Mayii unwilling to help, Father Luke Brophy tries his best to help Nancy, even when TV&#x27;s Ernest Weller plans to air the exorcism live on TV.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 1990</li><li>Runtime: 84 minutes</li><li>Director: Bob Logan</li><li>Genres: Comedy, Horror</li><li>TMDB rating: 5.3/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Linda Blair as Nancy Aglet</li><li>Ned Beatty as Ernest Weller</li><li>Leslie Nielsen as Father Jebedaiah Mayii</li><li>Anthony Starke as Father Luke Brophy</li><li>Thom Sharp as Braydon Aglet</li><li>Lana Schwab as Fanny Ray Weller</li><li>Benj Thall as Ned Aglet</li><li>Dove Dellos as Freida Aglet</li><li>Jacquelyn Masche as Nancy&#x27;s Mother</li><li>Melissa Moore as Bimbo Student</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Repossessed (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:115210": {
    "d": "Stitches (2012): Horror film. Story: The clumsy and unfunny clown Richard \"Stitches\"… See cast, budget $100.0k, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/wICx3MiNZ9P8YYeLaG2sOk2zJR0.jpg",
@@ -192,6 +384,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Stitches (2012)</h1>\n<p class=\"ssr-lead\">The clumsy and unfunny clown Richard &quot;Stitches&quot; Grindle entertains at the 10th birthday party of little Tom, but the boy and his friends play a prank with Stitches, tying his shoelaces. Stitches slips, falls and dies. Six years later, Tom gives a birthday party for his friends at home, but Stitches revives to haunt the teenagers and revenge his death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 October 2012</li><li>Runtime: 86 minutes</li><li>Director: Conor McMahon</li><li>Genres: Horror</li><li>Budget: $100.0k</li><li>TMDB rating: 6.2/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ross Noble as Stitches</li><li>Tommy Knight as Tom</li><li>Gemma-Leah Devereux as Kate</li><li>John McDonnell as The Motley</li><li>Shane Murray-Corcoran as Vinny</li><li>Thommas Kane Byrne as Bulger</li><li>Eoghan McQuinn as Richie</li><li>Roisin Barron as Sarah</li><li>Hugh Mulhern as Paul</li><li>Tommy Cullen as Dan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Screambox Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Stitches (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:11710": {
+   "d": "The Enigma of Kaspar Hauser (1974): Drama/History film. Story: The film follows Kaspar Hauser, who lived the first… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9zYXDMmhBKTbCbImJclf9hEbqZC.jpg",
+   "industry": "world",
+   "k": "The Enigma of Kaspar Hauser, The Enigma of Kaspar Hauser movie, The Enigma of Kaspar Hauser cast, The Enigma of Kaspar Hauser story, The Enigma of Kaspar Hauser box office collection, The Enigma of Kaspar Hauser budget, The Enigma of Kaspar Hauser review, The Enigma of Kaspar Hauser rating, The Enigma of Kaspar Hauser release date, The Enigma of Kaspar Hauser trailer, The Enigma of Kaspar Hauser Drama, The Enigma of Kaspar Hauser History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruno S."
+     },
+     {
+      "@type": "Person",
+      "name": "Walter Ladengast"
+     },
+     {
+      "@type": "Person",
+      "name": "Brigitte Mira"
+     },
+     {
+      "@type": "Person",
+      "name": "Willy Semmelrogge"
+     },
+     {
+      "@type": "Person",
+      "name": "Kidlat Tahimik"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 395,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Enigma of Kaspar Hauser (1974): Drama/History film. Story: The film follows Kaspar Hauser, who lived the first… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Werner Herzog"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9zYXDMmhBKTbCbImJclf9hEbqZC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11710",
+    "name": "The Enigma of Kaspar Hauser",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11710"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Enigma of Kaspar Hauser (1974)</h1>\n<p class=\"ssr-lead\">The film follows Kaspar Hauser, who lived the first seventeen years of his life chained in a tiny cellar with only a toy horse to occupy his time, devoid of all human contact except for a man who wears a black overcoat and top hat who feeds him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 1974</li><li>Runtime: 109 minutes</li><li>Director: Werner Herzog</li><li>Genres: Drama, History</li><li>TMDB rating: 7.3/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruno S. as Kaspar Hauser</li><li>Walter Ladengast as Professor Daumer</li><li>Brigitte Mira as Haushälterin Käthe</li><li>Willy Semmelrogge as Ringmaster</li><li>Kidlat Tahimik as Hombrecito, the Indian</li><li>Hans Musäus as Unknown Man</li><li>Michael Kroecher as Lord Stanhope</li><li>Henry van Lyck as Calvary Captain</li><li>Enno Patalas as Pastor Fuhrmann</li><li>Volker Elis Pilgrim as Pastor #2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor Amazon Channel, Cohen Media Amazon Channel, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Enigma of Kaspar Hauser (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
   },
   "movie:1339210": {
    "d": "Affection (2026): Horror/Science Fiction film. Story: Afflicted by a mysterious condition that resets her… See cast and TMDB rating 5.5/10.",
@@ -316,6 +572,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Redux Redux (2025)</h1>\n<p class=\"ssr-lead\">In an attempt to avenge her daughter’s death, Irene Kelly travels through parallel universes, killing her daughter’s murderer again and again. As she becomes consumed by vengeance, her humanity begins to slip away—until the cycle is disrupted when she rescues Mia, a sharp-witted teenager already marked by the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 December 2025</li><li>Runtime: 109 minutes</li><li>Director: Kevin McManus, Matthew McManus</li><li>Genres: Science Fiction, Thriller</li><li>TMDB rating: 6.5/10 (261 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michaela McManus as Irene Kelly</li><li>Stella Marcus as Mia</li><li>Jeremy Holm as Neville</li><li>Jim Cummings as Jonathan</li><li>Taylor Misiak as Billie</li><li>Dendrie Taylor as Darla</li><li>Derick Alexander as Cashier</li><li>Raphael Chestang as Officer Connor</li><li>Debra Christofferson as Deb</li><li>Minita Gandhi as Jennifer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Redux Redux (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:14310": {
+   "d": "Infernal Affairs III (2003): Crime/Drama film. Story: Triad gangster turned corrupt cop Lau Kin-ming goes… See cast, budget $250.0k, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fzIZWDF0zdHqSWCiiitQhF5IRdh.jpg",
+   "industry": "world",
+   "k": "Infernal Affairs III, Infernal Affairs III movie, Infernal Affairs III cast, Infernal Affairs III story, Infernal Affairs III box office collection, Infernal Affairs III budget, Infernal Affairs III review, Infernal Affairs III rating, Infernal Affairs III release date, Infernal Affairs III Crime, Infernal Affairs III Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tony Leung Chiu-wai"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Lau Tak-wah"
+     },
+     {
+      "@type": "Person",
+      "name": "Leon Lai Ming"
+     },
+     {
+      "@type": "Person",
+      "name": "Chen Daoming"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Wong Chau-sang"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Infernal Affairs III (2003): Crime/Drama film. Story: Triad gangster turned corrupt cop Lau Kin-ming goes… See cast, budget $250.0k, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Mak Siu-fai"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Lau Wai-keung"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fzIZWDF0zdHqSWCiiitQhF5IRdh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14310",
+    "name": "Infernal Affairs III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14310"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Infernal Affairs III (2003)</h1>\n<p class=\"ssr-lead\">Triad gangster turned corrupt cop Lau Kin-ming goes to dangerous lengths to avoid detection.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2003</li><li>Runtime: 118 minutes</li><li>Director: Alan Mak Siu-fai, Andrew Lau Wai-keung</li><li>Genres: Crime, Drama, Action</li><li>Budget: $250.0k</li><li>TMDB rating: 7.0/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Leung Chiu-wai as Chan Wing-yan</li><li>Andy Lau Tak-wah as Senior Inspector Lau Kin-ming</li><li>Leon Lai Ming as Superintendent Yeung Kam-wing</li><li>Chen Daoming as Shadow Shen Cheng</li><li>Anthony Wong Chau-sang as Superintendent Wong Chi-shing</li><li>Eric Tsang Chi-wai as Hon Sam</li><li>Kelly Chen Hui-lin as Dr. Lee Sum-yee</li><li>Sammi Cheng Sau-Man as Mary</li><li>Carina Lau as Mary Hon</li><li>Edison Chen as Young Lau Kin-ming</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Infernal Affairs III (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "movie:1530510": {
    "d": "Mexico 86 (2026): Comedy/History film. Story: When a last-minute chance to host the 1986 World Cup… See cast, TMDB rating 7.7/10, and release date 21 May 2026.",
@@ -508,6 +832,134 @@
    "t": "Naruto the Movie: Legend of the Stone of Gelel (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:17710": {
+   "d": "Hey Arnold! The Movie (2002): Animation/Comedy film. Story: Arnold and his friends must recover a stolen document… See cast, budget $3M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1pEMcogCLU2z9s3Vl10UUKswLLk.jpg",
+   "industry": "world",
+   "k": "Hey Arnold! The Movie, Hey Arnold! The Movie movie, Hey Arnold! The Movie cast, Hey Arnold! The Movie story, Hey Arnold! The Movie box office collection, Hey Arnold! The Movie budget, Hey Arnold! The Movie review, Hey Arnold! The Movie rating, Hey Arnold! The Movie release date, Hey Arnold! The Movie trailer, Hey Arnold! The Movie Animation, Hey Arnold! The Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Spencer Klein"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesca Marie Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamil Walker Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Castellaneta"
+     },
+     {
+      "@type": "Person",
+      "name": "Tress MacNeille"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Hey Arnold! The Movie (2002): Animation/Comedy film. Story: Arnold and his friends must recover a stolen document… See cast, budget $3M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tuck Tucker"
+     }
+    ],
+    "duration": "PT76M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1pEMcogCLU2z9s3Vl10UUKswLLk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17710",
+    "name": "Hey Arnold! The Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-06-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17710"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hey Arnold! The Movie (2002)</h1>\n<p class=\"ssr-lead\">Arnold and his friends must recover a stolen document in order to prevent the neighborhood from being bulldozed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2002</li><li>Runtime: 76 minutes</li><li>Director: Tuck Tucker</li><li>Genres: Animation, Comedy, Family, Adventure, Drama</li><li>Budget: $3M</li><li>TMDB rating: 6.5/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Spencer Klein as Arnold (voice)</li><li>Francesca Marie Smith as Helga Geraldine Pataki (voice)</li><li>Jamil Walker Smith as Gerald Johanssen / Rasta Guy (voice)</li><li>Dan Castellaneta as Grandpa &#x27;Steely&#x27; Phil / Nick Vermicelli (voice)</li><li>Tress MacNeille as Grandma Gertie &#x27;Pookie&#x27; / Mayor Dixie / Red (voice)</li><li>Paul Sorvino as Scheck (voice)</li><li>Jennifer Jason Leigh as Bridget (voice)</li><li>Christopher Lloyd as Coroner (voice)</li><li>Vincent Schiavelli as Mr. Bailey (voice)</li><li>Maurice LaMarche as Big Bob Pataki / Head of Security (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Hey Arnold! The Movie (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:20410": {
+   "d": "Scooby-Doo and the Alien Invaders (2000): Animation/Family film. Story: A cosmic case of flying saucers, intergalactic… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4COXzXt4axwGNxOK90KJ3YD8lM9.jpg",
+   "industry": "world",
+   "k": "Scooby-Doo and the Alien Invaders, Scooby-Doo and the Alien Invaders movie, Scooby-Doo and the Alien Invaders cast, Scooby-Doo and the Alien Invaders story, Scooby-Doo and the Alien Invaders box office collection, Scooby-Doo and the Alien Invaders budget, Scooby-Doo and the Alien Invaders review, Scooby-Doo and the Alien Invaders rating, Scooby-Doo and the Alien Invaders release date, Scooby-Doo and the Alien Invaders Animation, Scooby-Doo and the Alien Invaders Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Innes"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Kay Bergman"
+     },
+     {
+      "@type": "Person",
+      "name": "B.J. Ward"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Welker"
+     },
+     {
+      "@type": "Person",
+      "name": "Candi Milo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 431,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Scooby-Doo and the Alien Invaders (2000): Animation/Family film. Story: A cosmic case of flying saucers, intergalactic… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Stenstrum"
+     }
+    ],
+    "duration": "PT74M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4COXzXt4axwGNxOK90KJ3YD8lM9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20410",
+    "name": "Scooby-Doo and the Alien Invaders",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-10-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20410"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scooby-Doo and the Alien Invaders (2000)</h1>\n<p class=\"ssr-lead\">A cosmic case of flying saucers, intergalactic intrigue and out-of-this-world romance launches Scooby-Doo! and the Mystery Inc., Gang into their most unearthly adventure ever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 2000</li><li>Runtime: 74 minutes</li><li>Director: Jim Stenstrum</li><li>Genres: Animation, Family, Comedy, Mystery, Science Fiction</li><li>TMDB rating: 7.1/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Innes as Scooby Doo / Shaggy (voice)</li><li>Mary Kay Bergman as Daphne Blake (voice)</li><li>B.J. Ward as Velma Dinkley (voice)</li><li>Frank Welker as Fred Jones (voice)</li><li>Candi Milo as Crystal / Amber (voice)</li><li>Neil Ross as Sergio / Buck (voice)</li><li>Jennifer Hale as Dottie (voice)</li><li>Jeff Bennett as Lester (voice)</li><li>Audrey Wasilewski as Laura (voice)</li><li>Mark Hamill as Steve (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Scooby-Doo and the Alien Invaders (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:2210": {
    "d": "Earth Girls Are Easy (1988): Comedy/Science Fiction film. Story: In this musical comedy, Valerie is dealing with her… See cast and budget $10M.",
    "img": "https://image.tmdb.org/t/p/w780/6qQZ54iVgQWOFaVWss77yHy8YHu.jpg",
@@ -571,6 +1023,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Earth Girls Are Easy (1988)</h1>\n<p class=\"ssr-lead\">In this musical comedy, Valerie is dealing with her philandering fiancé, Ted, when she finds that a trio of aliens have crashed their spaceship into her swimming pool. Once the furry beings are shaved at her girlfriend&#x27;s salon, the women discover three handsome men underneath. After absorbing the native culture via television, the spacemen are ready to hit the dating scene in 1980s Los Angeles.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 1988</li><li>Runtime: 100 minutes</li><li>Director: Julien Temple</li><li>Genres: Comedy, Science Fiction, Romance</li><li>Budget: $10M</li><li>TMDB rating: 5.7/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Geena Davis as Valerie Gail</li><li>Jeff Goldblum as Mac</li><li>Jim Carrey as Wiploc</li><li>Damon Wayans as Zeebo</li><li>Julie Brown as Candy Pink</li><li>Michael McKean as Woody</li><li>Charles Rocket as Dr. Ted Gallagher</li><li>Larry Linville as Dr. Bob</li><li>Rick Overton as Dr. Rick</li><li>Diane Stilwell as Robin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Earth Girls Are Easy (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:23210": {
+   "d": "Six Degrees of Separation (1993): Mystery/Drama film. Story: The story of a young, gay, black, con artist who… See cast, budget $15M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+   "industry": "world",
+   "k": "Six Degrees of Separation, Six Degrees of Separation movie, Six Degrees of Separation cast, Six Degrees of Separation story, Six Degrees of Separation box office collection, Six Degrees of Separation budget, Six Degrees of Separation review, Six Degrees of Separation rating, Six Degrees of Separation release date, Six Degrees of Separation trailer, Six Degrees of Separation Mystery, Six Degrees of Separation Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stockard Channing"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Beth Hurt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Six Degrees of Separation (1993): Mystery/Drama film. Story: The story of a young, gay, black, con artist who… See cast, budget $15M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fred Schepisi"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Mystery",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23210",
+    "name": "Six Degrees of Separation",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23210"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Six Degrees of Separation (1993)</h1>\n<p class=\"ssr-lead\">The story of a young, gay, black, con artist who, posing as the son of Sidney Poitier, cunningly maneuvers his way into the lives of a white, upper-class New York family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 1993</li><li>Runtime: 112 minutes</li><li>Director: Fred Schepisi</li><li>Genres: Mystery, Drama, Comedy</li><li>Budget: $15M</li><li>TMDB rating: 6.4/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stockard Channing as Ouisa</li><li>Will Smith as Paul</li><li>Donald Sutherland as Flan</li><li>Ian McKellen as Geoffrey</li><li>Mary Beth Hurt as Kitty</li><li>Bruce Davison as Larkin</li><li>Richard Masur as Dr. Fine</li><li>Anthony Michael Hall as Trent</li><li>Heather Graham as Elizabeth</li><li>Eric Thal as Rick</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Six Degrees of Separation (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:244610": {
+   "d": "The Den (2013): Horror/Thriller film. Story: A young woman studying the habits of webcam chat… See cast, budget $500.0k, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
+   "industry": "world",
+   "k": "The Den, The Den movie, The Den cast, The Den story, The Den box office collection, The Den budget, The Den review, The Den rating, The Den release date, The Den trailer, The Den Horror, The Den Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melanie Papalia"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Riedy"
+     },
+     {
+      "@type": "Person",
+      "name": "David Schlachtenhaufen"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Shapiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Lasky"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Den (2013): Horror/Thriller film. Story: A young woman studying the habits of webcam chat… See cast, budget $500.0k, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zachary Donohue"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=244610",
+    "name": "The Den",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=244610"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Den (2013)</h1>\n<p class=\"ssr-lead\">A young woman studying the habits of webcam chat users from the apparent safety of her apartment witnesses a brutal murder online and is quickly immersed in a nightmare in which she and her loved ones are targeted for the same grisly fate as the first victim.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2013</li><li>Runtime: 77 minutes</li><li>Director: Zachary Donohue</li><li>Genres: Horror, Thriller, Mystery</li><li>Budget: $500.0k</li><li>TMDB rating: 6.1/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melanie Papalia as Elizabeth Benton</li><li>Matt Riedy as Sgt. Tisbert</li><li>David Schlachtenhaufen as Damien</li><li>Adam Shapiro as Max</li><li>Matt Lasky as Ex Machina</li><li>Victoria Hanlin as Brianne</li><li>Bill Oberst Jr. as Skeeter</li><li>Katija Pevec as Jenni</li><li>Lily Holleman as Evil Girl</li><li>Ron Bottitta as Brianne&#x27;s Dad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Den (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:253310": {
    "d": "Premature (2014): Comedy film. Story: On the most important day of his young life, a high… See cast, TMDB rating 5.5/10, and release date 2 July 2014.",
@@ -699,6 +1279,260 @@
    "t": "The Canal (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:354110": {
+   "d": "Forsaken (2015): Western film. Story: John Henry returns to his hometown in hopes of… See cast, budget $11M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
+   "industry": "world",
+   "k": "Forsaken, Forsaken movie, Forsaken cast, Forsaken story, Forsaken box office collection, Forsaken budget, Forsaken review, Forsaken rating, Forsaken release date, Forsaken Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiefer Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Demi Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Siobhan Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 395,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Forsaken (2015): Western film. Story: John Henry returns to his hometown in hopes of… See cast, budget $11M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Cassar"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=354110",
+    "name": "Forsaken",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=354110"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forsaken (2015)</h1>\n<p class=\"ssr-lead\">John Henry returns to his hometown in hopes of repairing his relationship with his estranged father, but a local gang is terrorizing the town. John Henry is the only one who can stop them, however he has abandoned both his gun and reputation as a fearless quick-draw killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2015</li><li>Runtime: 90 minutes</li><li>Director: Jon Cassar</li><li>Genres: Western</li><li>Budget: $11M</li><li>TMDB rating: 6.2/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiefer Sutherland as John Henry Clayton</li><li>Donald Sutherland as Rev. Clayton</li><li>Demi Moore as Mary-Alice Watson</li><li>Brian Cox as James McCurdy</li><li>Siobhan Williams as Emily Chadwick</li><li>Michael Wincott as Dave Turner</li><li>Landon Liboiron as Will Pickard</li><li>Greg Ellis as Tom Watson</li><li>Wesley Morgan as Sam</li><li>Aaron Poole as Frank Tillman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Forsaken (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:391710": {
+   "d": "A Futile and Stupid Gesture (2018): Comedy/Drama film. Story: In a life full of triumph and failure, \"National… See cast, budget $10M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tWp1P6tGWSMJfmOZxs65SNV0khX.jpg",
+   "industry": "world",
+   "k": "A Futile and Stupid Gesture, A Futile and Stupid Gesture movie, A Futile and Stupid Gesture cast, A Futile and Stupid Gesture story, A Futile and Stupid Gesture box office collection, A Futile and Stupid Gesture budget, A Futile and Stupid Gesture review, A Futile and Stupid Gesture rating, A Futile and Stupid Gesture release date, A Futile and Stupid Gesture trailer, A Futile and Stupid Gesture Comedy, A Futile and Stupid Gesture Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Forte"
+     },
+     {
+      "@type": "Person",
+      "name": "Domhnall Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Mull"
+     },
+     {
+      "@type": "Person",
+      "name": "Neil Casey"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Daly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "A Futile and Stupid Gesture (2018): Comedy/Drama film. Story: In a life full of triumph and failure, \"National… See cast, budget $10M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Wain"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tWp1P6tGWSMJfmOZxs65SNV0khX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=391710",
+    "name": "A Futile and Stupid Gesture",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-01-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=391710"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Futile and Stupid Gesture (2018)</h1>\n<p class=\"ssr-lead\">In a life full of triumph and failure, &quot;National Lampoon&quot; co-founder Doug Kenney built a comedy empire, molding pop culture in the 1970s.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 January 2018</li><li>Runtime: 101 minutes</li><li>Director: David Wain</li><li>Genres: Comedy, Drama</li><li>Budget: $10M</li><li>TMDB rating: 6.4/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Forte as Doug Kenney</li><li>Domhnall Gleeson as Henry Beard</li><li>Martin Mull as Modern Doug</li><li>Neil Casey as Brian McConnachie</li><li>Jon Daly as Bill Murray</li><li>Nelson Franklin as P.J. O&#x27;Rourke</li><li>John Gemberling as John Belushi</li><li>Rick Glassman as Harold Ramis</li><li>Seth Green as Christopher Guest</li><li>Harry Groener as Harry Kenney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Futile and Stupid Gesture (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:41110": {
+   "d": "I Am Love (2010): Drama film. Story: Emma has left Russia to live with her husband in… See cast, budget $3.6M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
+   "industry": "world",
+   "k": "I Am Love, I Am Love movie, I Am Love cast, I Am Love story, I Am Love box office collection, I Am Love budget, I Am Love review, I Am Love rating, I Am Love release date, I Am Love trailer, I Am Love Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tilda Swinton"
+     },
+     {
+      "@type": "Person",
+      "name": "Flavio Parenti"
+     },
+     {
+      "@type": "Person",
+      "name": "Edoardo Gabbriellini"
+     },
+     {
+      "@type": "Person",
+      "name": "Alba Rohrwacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Pippo Delbono"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "I Am Love (2010): Drama film. Story: Emma has left Russia to live with her husband in… See cast, budget $3.6M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luca Guadagnino"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=41110",
+    "name": "I Am Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=41110"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Am Love (2010)</h1>\n<p class=\"ssr-lead\">Emma has left Russia to live with her husband in Italy. Now a member of a powerful industrial family, she is the respected mother of three, but feels unfulfilled. One day, Antonio, a talented chef and her son&#x27;s friend, makes her senses kindle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2010</li><li>Runtime: 120 minutes</li><li>Director: Luca Guadagnino</li><li>Genres: Drama</li><li>Budget: $3.6M</li><li>TMDB rating: 6.7/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tilda Swinton as Emma Recchi</li><li>Flavio Parenti as Edoardo Recchi Junior</li><li>Edoardo Gabbriellini as Antonio Biscaglia</li><li>Alba Rohrwacher as Elisabetta Recchi</li><li>Pippo Delbono as Tancredi Recchi</li><li>Maria Paiato as Ida Marangon</li><li>Diane Fleri as Eva Ugolini</li><li>Waris Ahluwalia as Shai Kubelkian</li><li>Mattia Zaccaro as Gianluca Recchi</li><li>Chiara Tomarelli as Anita Toffoli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "I Am Love (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:429210": {
+   "d": "Bingo: The King of the Mornings (2017): Comedy/Drama film. Story: 1980s. Brazilian television exploding in color and… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/96el06riGUnHRJGXxhP9StZzhFt.jpg",
+   "industry": "world",
+   "k": "Bingo: The King of the Mornings, Bingo: The King of the Mornings movie, Bingo: The King of the Mornings cast, Bingo: The King of the Mornings story, Bingo: The King of the Mornings box office collection, Bingo: The King of the Mornings budget, Bingo: The King of the Mornings review, Bingo: The King of the Mornings rating, Bingo: The King of the Mornings release date, Bingo: The King of the Mornings Comedy, Bingo: The King of the Mornings Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vladimir Brichta"
+     },
+     {
+      "@type": "Person",
+      "name": "Leandra Leal"
+     },
+     {
+      "@type": "Person",
+      "name": "Tainá Müller"
+     },
+     {
+      "@type": "Person",
+      "name": "Augusto Madeira"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Lúcia Torre"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Bingo: The King of the Mornings (2017): Comedy/Drama film. Story: 1980s. Brazilian television exploding in color and… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Rezende"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/96el06riGUnHRJGXxhP9StZzhFt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=429210",
+    "name": "Bingo: The King of the Mornings",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-08-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=429210"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bingo: The King of the Mornings (2017)</h1>\n<p class=\"ssr-lead\">1980s. Brazilian television exploding in color and auditorium programs not so politically correct. In the middle of this fervor, Augusto Mendes, a young rising actor, seeks his place in the sun. From porn studios to soap operas, he finally finds success and fame when he becomes &quot;Bingo&quot;, a TV host clown from one of the audience leader TV shows for children. It turns out that behind the rice powder and red nose, nobody knows who he is.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 August 2017</li><li>Runtime: 113 minutes</li><li>Director: Daniel Rezende</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 8.0/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vladimir Brichta as Augusto Mendes/Bingo</li><li>Leandra Leal as Lúcia</li><li>Tainá Müller as Angélica</li><li>Augusto Madeira as Vasconcelos</li><li>Ana Lúcia Torre as Marta Mendes</li><li>Cauã Martins as Gabriel Mendes</li><li>Pedro Bial as Armando</li><li>Domingos Montagner as Palhaço Aparício</li><li>Fernando Sampaio as Palhaço Nando</li><li>Raul Barreto as Dono do Circo</li></ul>\n</article>",
+   "t": "Bingo: The King of the Mornings (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:4710": {
    "d": "Masculin Féminin (1966): Drama/Romance film. Story: Paul, a young idealist trying to figure out what he… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/83AMHdZU71x7U4aZ7QFGBRtdyxo.jpg",
@@ -762,6 +1596,325 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Masculin Féminin (1966)</h1>\n<p class=\"ssr-lead\">Paul, a young idealist trying to figure out what he wants to do with his life, takes a job interviewing people for a marketing research firm. He moves in with aspiring pop singer Madeleine. Paul, however, is disillusioned by the growing commercialism in society, while Madeleine just wants to be successful. The story is told in a series of 15 unrelated vignettes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 1966</li><li>Runtime: 105 minutes</li><li>Director: Jean-Luc Godard</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.2/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Pierre Léaud as Paul</li><li>Chantal Goya as Madeleine Zimmer</li><li>Marlène Jobert as Élisabeth Choquet</li><li>Michel Debord as Robert Packard</li><li>Catherine-Isabelle Duport as Catherine-Isabelle</li><li>Evabritt Strandberg as She (Woman in the Film)</li><li>Birger Malmsten as He (Man in the Film)</li><li>Yves Afonso as Man Who Kills Himself (uncredited)</li><li>Henri Attal as The Other Porn Book Reader (uncredited)</li><li>Mickey Baker as Record Producer (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
    "t": "Masculin Féminin (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1966"
+  },
+  "movie:567410": {
+   "d": "System Crasher (2019): Drama film. Story: Wherever 9-year-old Benni ends up, she is expelled. See cast, TMDB rating 7.6/10, and release date 19 September 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/fliLEpVMbHPWLuW1J0aiJl3WtpB.jpg",
+   "industry": "world",
+   "k": "System Crasher, System Crasher movie, System Crasher cast, System Crasher story, System Crasher box office collection, System Crasher budget, System Crasher review, System Crasher rating, System Crasher release date, System Crasher Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Helena Zengel"
+     },
+     {
+      "@type": "Person",
+      "name": "Albrecht Schuch"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriela Maria Schmeide"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Hagmeister"
+     },
+     {
+      "@type": "Person",
+      "name": "Maryam Zaree"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 413,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "System Crasher (2019): Drama film. Story: Wherever 9-year-old Benni ends up, she is expelled. See cast, TMDB rating 7.6/10, and release date 19 September 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nora Fingscheidt"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fliLEpVMbHPWLuW1J0aiJl3WtpB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=567410",
+    "name": "System Crasher",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=567410"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>System Crasher (2019)</h1>\n<p class=\"ssr-lead\">Wherever 9-year-old Benni ends up, she is expelled. She has become what child protection services call a “system crasher.” But she is not looking to change her ways, and has one goal: go back home to her mother. When anger management trainer Micha is hired to help, suddenly there is hope.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 September 2019</li><li>Runtime: 118 minutes</li><li>Director: Nora Fingscheidt</li><li>Genres: Drama</li><li>TMDB rating: 7.6/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Helena Zengel as Benni</li><li>Albrecht Schuch as Michael Heller</li><li>Gabriela Maria Schmeide as Frau Bafané</li><li>Lisa Hagmeister as Mutter</li><li>Maryam Zaree as Elli Heller</li><li>Melanie Straub as Dr. Schönemann</li><li>Matthias Brenner as Erzieher Wolfgang</li><li>Teddy Teclebrhan as Erzieher Robert</li><li>Gisa Flake as Lehrerin</li><li>Axel Werner as Bauer Bockelmann</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li></ul>\n</article>",
+   "t": "System Crasher (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:63310": {
+   "d": "Bullhead (2011): Crime/Drama film. Story: A young cattle farmer is approached by an… See cast, budget $2M, TMDB rating 7.1/10, and release date 2 February 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/q0arvx5ai3x3vMJICHiCfAfQJzh.jpg",
+   "industry": "world",
+   "k": "Bullhead, Bullhead movie, Bullhead cast, Bullhead story, Bullhead box office collection, Bullhead budget, Bullhead review, Bullhead rating, Bullhead release date, Bullhead trailer, Bullhead Crime, Bullhead Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthias Schoenaerts"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeroen Perceval"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeanne Dandoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Sarafian"
+     },
+     {
+      "@type": "Person",
+      "name": "Tibo Vandenborre"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 413,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Bullhead (2011): Crime/Drama film. Story: A young cattle farmer is approached by an… See cast, budget $2M, TMDB rating 7.1/10, and release date 2 February 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michaël R. Roskam"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q0arvx5ai3x3vMJICHiCfAfQJzh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=63310",
+    "name": "Bullhead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-02-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=63310"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bullhead (2011)</h1>\n<p class=\"ssr-lead\">A young cattle farmer is approached by an unscrupulous veterinarian to make a shady deal with a notorious beef trader.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 February 2011</li><li>Runtime: 129 minutes</li><li>Director: Michaël R. Roskam</li><li>Genres: Crime, Drama</li><li>Budget: $2M</li><li>TMDB rating: 7.1/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthias Schoenaerts as Jacky Vanmarsenille</li><li>Jeroen Perceval as Diederik Maes</li><li>Jeanne Dandoy as Lucia Schepers</li><li>Barbara Sarafian as Eva Forrestier</li><li>Tibo Vandenborre as Antony De Greef</li><li>Frank Lammers as Sam Raymond</li><li>Sam Louwyck as Marc Dekuyper</li><li>Erico Salamone as Christian Fillippini</li><li>Philip Grand&#x27;Henri as David Fillippini</li><li>Kris Cuppens as Jean Vanmarsenille</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Bullhead (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:63710": {
+   "d": "Honey 2 (2011): Music/Comedy film. Story: After a brush with the law, Maria has returned to her… See cast, TMDB rating 6.3/10, and release date 23 June 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/hZpapggtfwz47XDJqjVek7sAEBh.jpg",
+   "industry": "world",
+   "k": "Honey 2, Honey 2 movie, Honey 2 cast, Honey 2 story, Honey 2 box office collection, Honey 2 budget, Honey 2 review, Honey 2 rating, Honey 2 release date, Honey 2 trailer, Honey 2 Music, Honey 2 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kat Graham"
+     },
+     {
+      "@type": "Person",
+      "name": "Randy Wayne"
+     },
+     {
+      "@type": "Person",
+      "name": "Seychelle Gabriel"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrina Patridge"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Perry-Russell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 421,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Honey 2 (2011): Music/Comedy film. Story: After a brush with the law, Maria has returned to her… See cast, TMDB rating 6.3/10, and release date 23 June 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bille Woodruff"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hZpapggtfwz47XDJqjVek7sAEBh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=63710",
+    "name": "Honey 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=63710"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Honey 2 (2011)</h1>\n<p class=\"ssr-lead\">After a brush with the law, Maria has returned to her gritty Bronx roots to rebuild her life with nothing but a talent for street dance and a burning ambition to prove herself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 2011</li><li>Runtime: 111 minutes</li><li>Director: Bille Woodruff</li><li>Genres: Music, Comedy, Drama</li><li>TMDB rating: 6.3/10 (421 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kat Graham as Maria Ramirez</li><li>Randy Wayne as Brandon</li><li>Seychelle Gabriel as Tina</li><li>Audrina Patridge as Melinda</li><li>Brittany Perry-Russell as Lyric</li><li>Melissa Molinaro as Carla</li><li>Christopher Martinez as Luis</li><li>Casper Smart as Ricky</li><li>Lonette McKee as Connie Daniels</li><li>Mario López as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Honey 2 (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:826510": {
+   "d": "Harold and the Purple Crayon (2024): Family/Comedy film. Story: Inside of his book, adventurous Harold can make… See cast, budget $40M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",
+   "industry": "world",
+   "k": "Harold and the Purple Crayon, Harold and the Purple Crayon movie, Harold and the Purple Crayon cast, Harold and the Purple Crayon story, Harold and the Purple Crayon box office collection, Harold and the Purple Crayon budget, Harold and the Purple Crayon review, Harold and the Purple Crayon rating, Harold and the Purple Crayon release date, Harold and the Purple Crayon trailer, Harold and the Purple Crayon Family, Harold and the Purple Crayon Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zachary Levi"
+     },
+     {
+      "@type": "Person",
+      "name": "Lil Rel Howery"
+     },
+     {
+      "@type": "Person",
+      "name": "Zooey Deschanel"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Bottani"
+     },
+     {
+      "@type": "Person",
+      "name": "Tanya Reynolds"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 398,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Harold and the Purple Crayon (2024): Family/Comedy film. Story: Inside of his book, adventurous Harold can make… See cast, budget $40M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlos Saldanha"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=826510",
+    "name": "Harold and the Purple Crayon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-07-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=826510"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Harold and the Purple Crayon (2024)</h1>\n<p class=\"ssr-lead\">Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book&#x27;s pages and into the physical world, Harold finds he has a lot to learn about real life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 July 2024</li><li>Runtime: 90 minutes</li><li>Director: Carlos Saldanha</li><li>Genres: Family, Comedy, Adventure, Fantasy</li><li>Budget: $40M</li><li>TMDB rating: 6.5/10 (398 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zachary Levi as Harold</li><li>Lil Rel Howery as Moose</li><li>Zooey Deschanel as Terry</li><li>Benjamin Bottani as Mel</li><li>Tanya Reynolds as Porcupine</li><li>Jemaine Clement as Gary</li><li>Alfred Molina as Narrator (voice)</li><li>Pete Gardner as Detective Love</li><li>Camille Guaty as Junior Detective Silva</li><li>Ravi Patel as Prasad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Harold and the Purple Crayon (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
+  "movie:829410": {
+   "d": "Sick (2022): Horror/Mystery film. Story: While quarantining at her family's lake house during… See cast, TMDB rating 6.1/10, and release date 11 September 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+   "industry": "world",
+   "k": "Sick, Sick movie, Sick cast, Sick story, Sick box office collection, Sick budget, Sick review, Sick rating, Sick release date, Sick trailer, Sick Horror, Sick Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gideon Adlon"
+     },
+     {
+      "@type": "Person",
+      "name": "Bethlehem Million"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Sprayberry"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Menchaca"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Adams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Sick (2022): Horror/Mystery film. Story: While quarantining at her family's lake house during… See cast, TMDB rating 6.1/10, and release date 11 September 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Hyams"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=829410",
+    "name": "Sick",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=829410"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sick (2022)</h1>\n<p class=\"ssr-lead\">While quarantining at her family&#x27;s lake house during the pandemic, Parker and her best friend are threatened by an unexpected visitor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2022</li><li>Runtime: 83 minutes</li><li>Director: John Hyams</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.1/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gideon Adlon as Parker</li><li>Bethlehem Million as Miri</li><li>Dylan Sprayberry as DJ</li><li>Marc Menchaca as Jason</li><li>Jane Adams as Pamela</li><li>Joel Courtney as Tyler</li><li>Chris Reid as Jeb</li><li>Duane Stephens as Mr. Lyons</li><li>Logan Murphy as Benji</li><li>Terry D. Gibson as Big Guy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Sick (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "tv:114410": {
    "d": "Chainsaw Man (2022) is an Animation and Action & Adventure TV series. Explore its story: Denji has a simple dream—to live a happy and peaceful… and cast.",

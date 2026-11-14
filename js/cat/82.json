@@ -1,7 +1,129 @@
 {
  "bucket": "82",
- "count": 34,
+ "count": 43,
  "titles": {
+  "movie:11082": {
+   "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abby Quinn",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Russell Quinn",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "David Bannon",
+     "n": "Jürgen Prochnow"
+    },
+    {
+     "c": "Father Lucci",
+     "n": "Peter Friedman"
+    },
+    {
+     "c": "Avi",
+     "n": "Manny Jacobs"
+    },
+    {
+     "c": "Dr. Margaret Inness",
+     "n": "Lee Garlington"
+    },
+    {
+     "c": "Penny Washburn",
+     "n": "Akosua Busia"
+    },
+    {
+     "c": "Janitor",
+     "n": "Arnold Johnson"
+    },
+    {
+     "c": "Novitiate",
+     "n": "John Walcutt"
+    },
+    {
+     "c": "Israeli Colonel",
+     "n": "Michael Laskin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carl Schultz"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 11082,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he's heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+   "popularity": 2.1045,
+   "poster_path": "/vAgVzkPmfe2pcgzkpoz8cZ9i9wm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-04-01",
+   "revenue": 18875011,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It was foretold there will be seven signs. The seventh sign will be a woman. Her hope is all we have left.",
+   "title": "The Seventh Sign",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.01,
+   "vote_count": 403
+  },
   "movie:1174382": {
    "backdrop_path": "/m631G9jNeK9ijOK2sGO76ozWten.jpg",
    "budget": 0,
@@ -315,6 +437,168 @@
    "type": "movie",
    "vote_average": 6.174,
    "vote_count": 43
+  },
+  "movie:1382": {
+   "backdrop_path": "/j3moxxL3MBkJhp0imy4v1QxALwi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christine Jesperson",
+     "n": "Miranda July"
+    },
+    {
+     "c": "Richard Swersey",
+     "n": "John Hawkes"
+    },
+    {
+     "c": "Robby Swersey",
+     "n": "Brandon Ratcliff"
+    },
+    {
+     "c": "Peter Swersey",
+     "n": "Miles Thompson"
+    },
+    {
+     "c": "Sylvie",
+     "n": "Carlie Westerman"
+    },
+    {
+     "c": "Andrew",
+     "n": "Brad William Henke"
+    },
+    {
+     "c": "Heather",
+     "n": "Natasha Slayton"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Najarra Townsend"
+    },
+    {
+     "c": "Ellen",
+     "n": "Ellen Geer"
+    },
+    {
+     "c": "Sylvie's Mom",
+     "n": "Colette Kilroy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Miranda July"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1382,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Single dad Richard meets Christine, a starving artist who moonlights as a cabbie. They awkwardly attempt to start a romance, but Richard’s divorce has left him emotionally damaged. Meanwhile, Richard’s sons—one a teenager, the other 6-years-old—take part in clumsy experiments with the opposite sex.",
+   "popularity": 1.9415,
+   "poster_path": "/hrj9VsInHnqSDBhEc2FvY0qd79F.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-05-12",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "))<>((",
+   "title": "Me and You and Everyone We Know",
+   "trailer": {
+    "key": "t87QILBZd_I",
+    "name": "Me and You and Everyone We Know - 2005 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 393
   },
   "movie:1387382": {
    "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
@@ -851,6 +1135,176 @@
    "type": "movie",
    "vote_average": 6.444,
    "vote_count": 72
+  },
+  "movie:1480382": {
+   "backdrop_path": "/nBraEAWIC4DMf5lybx8fNiidtW3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (Voice - Archive Footage)",
+     "n": "Hind Rajab"
+    },
+    {
+     "c": "Omar A. Alqam",
+     "n": "Motaz Malhees"
+    },
+    {
+     "c": "Rana Hassan Faqih",
+     "n": "Saja Kilani"
+    },
+    {
+     "c": "Mahdi M. Aljamal",
+     "n": "Amer Hlehel"
+    },
+    {
+     "c": "Nisreen Jeries Qawas",
+     "n": "Clara Khoury"
+    },
+    {
+     "c": "Leila",
+     "n": "Nesbat Serhan"
+    },
+    {
+     "c": "Mahdi's Assistant",
+     "n": "Ramy Brahem"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kaouther Ben Hania"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1480382,
+   "industry": "world",
+   "origin_country": [
+    "TN"
+   ],
+   "original_language": "ar",
+   "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
+   "popularity": 4.0123,
+   "poster_path": "/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
+   "production_countries": [
+    "FR",
+    "TN",
+    "US",
+    "GB",
+    "CY",
+    "SA",
+    "IT",
+    "NL",
+    "PS"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 5780333,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "The voices on the phone are real.",
+   "title": "The Voice of Hind Rajab",
+   "trailer": {
+    "key": "JkeKrG0YONQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.084,
+   "vote_count": 397
   },
   "movie:1514682": {
    "backdrop_path": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
@@ -1693,6 +2147,280 @@
    "vote_average": 6.276,
    "vote_count": 492
   },
+  "movie:24182": {
+   "backdrop_path": "/5PDHWBBCwFplGFIb9VS57D5Hfku.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lina",
+     "n": "Marina Confalone"
+    },
+    {
+     "c": "Michele",
+     "n": "Tommaso Bianco"
+    },
+    {
+     "c": "Filippo",
+     "n": "Renato Cecchetto"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Alessandro Haber"
+    },
+    {
+     "c": "Gina",
+     "n": "Cinzia Leone"
+    },
+    {
+     "c": "Alessandro",
+     "n": "Eugenio Masciari"
+    },
+    {
+     "c": "Nonno Saverio",
+     "n": "Paolo Panelli"
+    },
+    {
+     "c": "Milena",
+     "n": "Monica Scattini"
+    },
+    {
+     "c": "Grandmother Trieste",
+     "n": "Pia Velsi"
+    },
+    {
+     "c": "Monica",
+     "n": "Eleonora Alberti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "e 14",
+   "date_kind": "release",
+   "director": [
+    "Mario Monicelli"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 24182,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "During the annual Christmas gathering at the family home, the parents surprise their children by announcing their decision to move in with one of them and pass on the house.",
+   "popularity": 0.7799,
+   "poster_path": "/tDksTwkXNSTx7aO7cqG3oAZSO9X.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-03-26",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dearest Relatives, Poisonous Relations",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.374,
+   "vote_count": 392
+  },
+  "movie:266082": {
+   "backdrop_path": "/yJ9HQ4OrFouSj8kRF9opf8s7yGE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marieme / Vic",
+     "n": "Karidja Touré"
+    },
+    {
+     "c": "Lady",
+     "n": "Assa Sylla"
+    },
+    {
+     "c": "Adiatou",
+     "n": "Lindsay Karamoh"
+    },
+    {
+     "c": "Fily",
+     "n": "Mariétou Touré"
+    },
+    {
+     "c": "Ismaël",
+     "n": "Idrissa Diabaté"
+    },
+    {
+     "c": "Djibril",
+     "n": "Cyril Mendy"
+    },
+    {
+     "c": "Bambi",
+     "n": "Tia Diagne"
+    },
+    {
+     "c": "Kader",
+     "n": "Rabah Nait Oufella"
+    },
+    {
+     "c": "Cédric",
+     "n": "Damien Chapelle"
+    },
+    {
+     "c": "Bébé",
+     "n": "Simina Soumaré"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Céline Sciamma"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 266082,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Oppressed by her family setting, dead-end school prospects and the boys law in the neighborhood, Marieme starts a new life after meeting a group of three free-spirited girls. She changes her name, her dress code, and quits school to be accepted in the gang, hoping that this will be a way to freedom.",
+   "popularity": 1.8332,
+   "poster_path": "/qZ52DlSVguX0WHYoiOD464IIONd.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-22",
+   "revenue": 60765,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "You don't have the full story. Until you know hers.",
+   "title": "Girlhood",
+   "trailer": {
+    "key": "eo1TSLr6NTM",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.456,
+   "vote_count": 413
+  },
   "movie:2882": {
    "backdrop_path": "/2StTZG7zzlXRN7tY1LnoTqkFAJL.jpg",
    "budget": 0,
@@ -1948,6 +2676,124 @@
    "vote_average": 6.343,
    "vote_count": 440
   },
+  "movie:3482": {
+   "backdrop_path": "/tL5uUcgmpcCZOnrnjPcNwz1LGqY.jpg",
+   "budget": 5800000,
+   "cast": [
+    {
+     "c": "Paul Labiche",
+     "n": "Burt Lancaster"
+    },
+    {
+     "c": "von Waldheim",
+     "n": "Paul Scofield"
+    },
+    {
+     "c": "Christine",
+     "n": "Jeanne Moreau"
+    },
+    {
+     "c": "Mademoiselle Villard",
+     "n": "Suzanne Flon"
+    },
+    {
+     "c": "Papa Boul",
+     "n": "Michel Simon"
+    },
+    {
+     "c": "Maj. Herren",
+     "n": "Wolfgang Preiss"
+    },
+    {
+     "c": "Didont",
+     "n": "Albert Rémy"
+    },
+    {
+     "c": "Pesquet",
+     "n": "Charles Millot"
+    },
+    {
+     "c": "General von Lubitz",
+     "n": "Richard Münch"
+    },
+    {
+     "c": "Octave",
+     "n": "Jean-Pierre Zola"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Frankenheimer"
+   ],
+   "genres": [
+    "War",
+    "Thriller"
+   ],
+   "id": 3482,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the Allied forces approach Paris in August 1944, German Colonel Von Waldheim is desperate to take all of France's greatest paintings to Germany. He manages to secure a train to transport the valuable art works even as the chaos of retreat descends upon them. The French resistance however wants to stop them from stealing their national treasures but have received orders from London that they are not to be destroyed. The station master, Labiche, is tasked with scheduling the train and making it all happen smoothly but he is also part of a dwindling group of resistance fighters tasked with preventing the theft. He and others stage an elaborate ruse to keep the train from ever leaving French territory.",
+   "popularity": 2.0045,
+   "poster_path": "/bzgPLB7efMohled42PIn6CcOTnO.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1964-09-24",
+   "revenue": 6800000,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It carried their hopes, their nation's honour!",
+   "title": "The Train",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.581,
+   "vote_count": 406
+  },
   "movie:482": {
    "backdrop_path": "/bKHTti0HkETmAr24eUVkPWdI5kj.jpg",
    "budget": 1125000,
@@ -2049,6 +2895,110 @@
    "type": "movie",
    "vote_average": 6.423,
    "vote_count": 446
+  },
+  "movie:51482": {
+   "backdrop_path": "/lyQCUSslaE8fe4CHHKwXvTeudQf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Light Yagami (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Ryuk (voice)",
+     "n": "Shidou Nakamura"
+    },
+    {
+     "c": "L (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Misa Amane (voice)",
+     "n": "Aya Hirano"
+    },
+    {
+     "c": "Soichiro Yagami (voice)",
+     "n": "Naoya Uchida"
+    },
+    {
+     "c": "Rem (voice)",
+     "n": "Kimiko Saito"
+    },
+    {
+     "c": "Shuichi Aizawa (voice)",
+     "n": "Keiji Fujiwara"
+    },
+    {
+     "c": "Touta Matsuda (voice)",
+     "n": "Ryou Naitou"
+    },
+    {
+     "c": "Naomi Misora (voice)",
+     "n": "Naoko Matsui"
+    },
+    {
+     "c": "Raye Penber (voice)",
+     "n": "Hideo Ishikawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tetsuro Araki"
+   ],
+   "genres": [
+    "TV Movie",
+    "Crime",
+    "Drama",
+    "Fantasy",
+    "Thriller",
+    "Animation"
+   ],
+   "id": 51482,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When rogue shinigami Ryuk leaves his Death Note in the human world, he has no idea how far the one who finds it will take his new-found power. With the Death Note in hand, brilliant high school student Light Yagami vows to rid the world of evil. A recap of Death Note episodes 1–26, with alternate footage.",
+   "popularity": 3.4032,
+   "poster_path": "/hNd4F5MzXcRJ35go07Ozbw3KUw2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-08-31",
+   "revenue": 0,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Death Note Relight 1: Visions of a God",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.874,
+   "vote_count": 414
   },
   "movie:799882": {
    "backdrop_path": "/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",
@@ -2337,6 +3287,272 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 469
+  },
+  "movie:924482": {
+   "backdrop_path": "/bAoxTHZXJNsWxeH6fo6fdM5j7P8.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Kelly",
+     "n": "Brittany Ashworth"
+    },
+    {
+     "c": "Reynolds",
+     "n": "Nathan Welsh"
+    },
+    {
+     "c": "Sophie",
+     "n": "Anaïs Parello"
+    },
+    {
+     "c": "Nathan",
+     "n": "Louis Boyer"
+    },
+    {
+     "c": "Joshua",
+     "n": "Ben Lamb"
+    },
+    {
+     "c": "Taylor",
+     "n": "David Wayman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Howard J. Ford"
+   ],
+   "genres": [
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 924482,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight knit group of friends who will stop at nothing to destroy the evidence and anyone in their way.",
+   "popularity": 2.8365,
+   "poster_path": "/93XUO9rlMw21PeAyDKzzTLTzmjO.jpg",
+   "production_countries": [
+    "RS",
+    "AE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-18",
+   "revenue": 685303,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't lose your grip.",
+   "title": "The Ledge",
+   "trailer": {
+    "key": "JGBa03UPCBU",
+    "name": "Official U.K. Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.563,
+   "vote_count": 431
+  },
+  "movie:9582": {
+   "backdrop_path": "/Txzcr6Iqdam6WufVLlGEVz6N70.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Paul Morse",
+     "n": "Jason Lee"
+    },
+    {
+     "c": "Karen Cooper",
+     "n": "Selma Blair"
+    },
+    {
+     "c": "Becky Jackson",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Jim",
+     "n": "Shawn Hatosy"
+    },
+    {
+     "c": "Ray Donovan",
+     "n": "Lochlyn Munro"
+    },
+    {
+     "c": "Ken Cooper",
+     "n": "James Brolin"
+    },
+    {
+     "c": "Sandra Cooper",
+     "n": "Diana Scarwid"
+    },
+    {
+     "c": "Buck",
+     "n": "David Koechner"
+    },
+    {
+     "c": "Dorothy",
+     "n": "Julie Hagerty"
+    },
+    {
+     "c": "Pete",
+     "n": "Thomas Lennon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chris Koch"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 9582,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paul Morse is a good guy. When his friends throw him a wild bachelor party, he just wants to keep his conscience clean -- which is why he's shocked when he wakes up in bed with a beautiful girl named Becky and can't remember the night before. Desperate to keep his fiancée, Karen, from finding out what may or may not be the truth, he tells her a teensy lie. Soon his lies are spiraling out of control and his life is a series of comical misunderstandings.",
+   "popularity": 12.7825,
+   "poster_path": "/wWiPuP1wMW32pjX8Q9TEj69TxWI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-01-17",
+   "revenue": 17400000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He finally found the perfect girl(s).",
+   "title": "A Guy Thing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.918,
+   "vote_count": 402
   },
   "tv:125282": {
    "backdrop_path": "/eVGaiNUPhwKyiuWH6LfNa60JFyQ.jpg",

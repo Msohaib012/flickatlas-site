@@ -1,7 +1,135 @@
 {
  "bucket": "27",
- "count": 23,
+ "count": 31,
  "titles": {
+  "movie:10427": {
+   "d": "Red Rock West (1993): Crime/Thriller film. Story: When a promised job for Texan Michael fails to… See cast, budget $8M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/awzAeboEEQxTd0FH60Hn9JbVZIA.jpg",
+   "industry": "world",
+   "k": "Red Rock West, Red Rock West movie, Red Rock West cast, Red Rock West story, Red Rock West box office collection, Red Rock West budget, Red Rock West review, Red Rock West rating, Red Rock West release date, Red Rock West trailer, Red Rock West Crime, Red Rock West Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Hopper"
+     },
+     {
+      "@type": "Person",
+      "name": "Lara Flynn Boyle"
+     },
+     {
+      "@type": "Person",
+      "name": "J.T. Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Carhart"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Red Rock West (1993): Crime/Thriller film. Story: When a promised job for Texan Michael fails to… See cast, budget $8M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Dahl"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/awzAeboEEQxTd0FH60Hn9JbVZIA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10427",
+    "name": "Red Rock West",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10427"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Red Rock West (1993)</h1>\n<p class=\"ssr-lead\">When a promised job for Texan Michael fails to materialize in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money, and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 1993</li><li>Runtime: 98 minutes</li><li>Director: John Dahl</li><li>Genres: Crime, Thriller</li><li>Budget: $8M</li><li>TMDB rating: 6.8/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as Michael Williams</li><li>Dennis Hopper as Lyle from Dallas</li><li>Lara Flynn Boyle as Suzanne Brown</li><li>J.T. Walsh as Wayne Brown</li><li>Timothy Carhart as Deputy Matt Greytack</li><li>Dan Shor as Deputy Russ Bowman</li><li>Dwight Yoakam as Truck Driver</li><li>Craig Reay as Jim</li><li>Vance Johnson as Mr. Johnson</li><li>Robert Apel as Howard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Red Rock West (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:1232827": {
+   "d": "The Girl with the Needle (2024): Drama/History film. Story: Struggling to survive in post-WWI Copenhagen, a newly… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uwACVNL5OpiI3oT72DVGxnU4SRV.jpg",
+   "industry": "world",
+   "k": "The Girl with the Needle, The Girl with the Needle movie, The Girl with the Needle cast, The Girl with the Needle story, The Girl with the Needle box office collection, The Girl with the Needle budget, The Girl with the Needle review, The Girl with the Needle rating, The Girl with the Needle release date, The Girl with the Needle trailer, The Girl with the Needle Drama, The Girl with the Needle History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vic Carmen Sonne"
+     },
+     {
+      "@type": "Person",
+      "name": "Trine Dyrholm"
+     },
+     {
+      "@type": "Person",
+      "name": "Besir Zeciri"
+     },
+     {
+      "@type": "Person",
+      "name": "Joachim Fjelstrup"
+     },
+     {
+      "@type": "Person",
+      "name": "Tessa Hoder"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Girl with the Needle (2024): Drama/History film. Story: Struggling to survive in post-WWI Copenhagen, a newly… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Magnus von Horn"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uwACVNL5OpiI3oT72DVGxnU4SRV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1232827",
+    "name": "The Girl with the Needle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-09-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1232827"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Girl with the Needle (2024)</h1>\n<p class=\"ssr-lead\">Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 September 2024</li><li>Runtime: 123 minutes</li><li>Director: Magnus von Horn</li><li>Genres: Drama, History</li><li>TMDB rating: 7.5/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vic Carmen Sonne as Karoline</li><li>Trine Dyrholm as Dagmar</li><li>Besir Zeciri as Peter</li><li>Joachim Fjelstrup as Jørgen</li><li>Tessa Hoder as Frida</li><li>Ava Knox Martin as Erena</li><li>Ari Alexander as Svendsen</li><li>Søren Sætter-Lassen as Ring Master</li><li>Magnus von Horn as Frida&#x27;s Husband</li><li>Anna Terpiłowska as Strict Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Girl with the Needle (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1266127": {
    "d": "Ready or Not: Here I Come (2026): Horror/Comedy film. Story: Moments after surviving an all-out attack from the Le… See cast and budget $14M.",
    "img": "https://image.tmdb.org/t/p/w780/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
@@ -389,6 +517,69 @@
    "t": "Forbidden Fruits (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:157827": {
+   "d": "Louder Than Bombs (2015): Drama film. Story: Three years after his wife, acclaimed photographer… See cast, budget $11M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9tdXnZ2iM2KXrlID0RMSUnrynsA.jpg",
+   "industry": "world",
+   "k": "Louder Than Bombs, Louder Than Bombs movie, Louder Than Bombs cast, Louder Than Bombs story, Louder Than Bombs box office collection, Louder Than Bombs budget, Louder Than Bombs review, Louder Than Bombs rating, Louder Than Bombs release date, Louder Than Bombs trailer, Louder Than Bombs Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gabriel Byrne"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabelle Huppert"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Eisenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Devin Druid"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Ryan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 395,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Louder Than Bombs (2015): Drama film. Story: Three years after his wife, acclaimed photographer… See cast, budget $11M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joachim Trier"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9tdXnZ2iM2KXrlID0RMSUnrynsA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=157827",
+    "name": "Louder Than Bombs",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=157827"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Louder Than Bombs (2015)</h1>\n<p class=\"ssr-lead\">Three years after his wife, acclaimed photographer Isabelle Reed, dies in a car crash, Gene keeps everyday life going with his shy teenage son, Conrad. A planned exhibition of Isabelle’s photographs prompts Gene&#x27;s elder son, Jonah, to return to the house he grew up in — and for the first time in a very long time, the father and the two brothers are living under the same roof.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2015</li><li>Runtime: 109 minutes</li><li>Director: Joachim Trier</li><li>Genres: Drama</li><li>Budget: $11M</li><li>TMDB rating: 6.5/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriel Byrne as Gene Reed</li><li>Isabelle Huppert as Isabelle Reed</li><li>Jesse Eisenberg as Jonah Reed</li><li>Devin Druid as Conrad Reed</li><li>Amy Ryan as Hannah Brennan</li><li>Ruby Jerins as Melanie</li><li>Megan Ketch as Amy Reed</li><li>David Strathairn as Richard Weissman</li><li>Rachel Brosnahan as Erin</li><li>Russell Posner as Kenneth</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Louder Than Bombs (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:1602727": {
    "d": "Night King (2026): Comedy/Drama film. Story: The once-glamourous nightclub EJ Entertainment… See cast, TMDB rating 7.0/10, and release date 16 February 2026.",
    "img": "https://image.tmdb.org/t/p/w780/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
@@ -517,6 +708,70 @@
    "t": "One Last Shot (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:182127": {
+   "d": "Ip Man: The Final Fight (2013): Action/Drama film. Story: Ip Man reluctantly begins a series of challenges from… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rSKdbObq9wFug9zQSQcfTVWH04p.jpg",
+   "industry": "world",
+   "k": "Ip Man: The Final Fight, Ip Man: The Final Fight movie, Ip Man: The Final Fight cast, Ip Man: The Final Fight story, Ip Man: The Final Fight box office collection, Ip Man: The Final Fight budget, Ip Man: The Final Fight review, Ip Man: The Final Fight rating, Ip Man: The Final Fight release date, Ip Man: The Final Fight trailer, Ip Man: The Final Fight Action, Ip Man: The Final Fight Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Wong Chau-sang"
+     },
+     {
+      "@type": "Person",
+      "name": "Anita Yuen Wing-yee"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Chung"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Chan Siu-chun"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Tsang Chi-wai"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Ip Man: The Final Fight (2013): Action/Drama film. Story: Ip Man reluctantly begins a series of challenges from… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Herman Yau"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rSKdbObq9wFug9zQSQcfTVWH04p.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=182127",
+    "name": "Ip Man: The Final Fight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-03-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=182127"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ip Man: The Final Fight (2013)</h1>\n<p class=\"ssr-lead\">Ip Man reluctantly begins a series of challenges from rival kung fu schools and is soon drawn into the dark and dangerous world of the Triads.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 2013</li><li>Runtime: 100 minutes</li><li>Director: Herman Yau</li><li>Genres: Action, Drama</li><li>TMDB rating: 6.1/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Wong Chau-sang as Ip Man</li><li>Anita Yuen Wing-yee as Cheung Wing-Sing</li><li>Gillian Chung as Chan Sei-Mui</li><li>Jordan Chan Siu-chun as Tang Sing</li><li>Eric Tsang Chi-wai as Ng Chung</li><li>Jiang Luxia as Lee King</li><li>Timmy Hung Tin-ming as Leung Sheung</li><li>Zhou Chuchu as Jenny</li><li>Xiong Xinxin as Local Dragon</li><li>Marvel Chow as Wang Dong</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Hi-YAH, Amazon Prime Video with Ads, Hi-YAH Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ip Man: The Final Fight (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:278427": {
    "d": "Family Guy Presents: It's a Trap! (2010): Animation/Comedy film. Story: With the Griffins stuck again at home during a… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/jbYJbHBsCtcewKM68YIyIzjvdhP.jpg",
@@ -644,6 +899,243 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>7 Days in Entebbe (2018)</h1>\n<p class=\"ssr-lead\">In 1976, four hijackers take over an Air France airplane en route from Tel Aviv to Paris and force it to land in Entebbe, Uganda. With 248 passengers on board, one of the most daring rescue missions ever is set in motion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 2018</li><li>Runtime: 107 minutes</li><li>Director: José Padilha</li><li>Genres: Thriller, Drama, Crime</li><li>TMDB rating: 5.8/10 (473 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rosamund Pike as Brigitte Kuhlmann</li><li>Daniel Brühl as Wilfried Böse</li><li>Eddie Marsan as Shimon Peres</li><li>Lior Ashkenazi as Prime Minister Yitzhak Rabin</li><li>Nonso Anozie as Idi Amin</li><li>Ben Schnetzer as Zeev Hirsch</li><li>Andrea Deck as Patricia Martel</li><li>Denis Ménochet as Jacques Le Moine</li><li>Angel Bonanni as Lt. Col. Yoni Netanyahu</li><li>Juan Pablo Raba as Juan Pablo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "7 Days in Entebbe (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:489927": {
+   "d": "The Kindergarten Teacher (2018): Drama film. Story: Lisa Spinelli is a Staten Island teacher who is… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/beUE8tydmUCdwUh5oWy3E0T0XwN.jpg",
+   "industry": "world",
+   "k": "The Kindergarten Teacher, The Kindergarten Teacher movie, The Kindergarten Teacher cast, The Kindergarten Teacher story, The Kindergarten Teacher box office collection, The Kindergarten Teacher budget, The Kindergarten Teacher review, The Kindergarten Teacher rating, The Kindergarten Teacher release date, The Kindergarten Teacher trailer, The Kindergarten Teacher Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maggie Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Parker Sevak"
+     },
+     {
+      "@type": "Person",
+      "name": "Gael García Bernal"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Chernus"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosa Salazar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Kindergarten Teacher (2018): Drama film. Story: Lisa Spinelli is a Staten Island teacher who is… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sara Colangelo"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/beUE8tydmUCdwUh5oWy3E0T0XwN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=489927",
+    "name": "The Kindergarten Teacher",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=489927"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Kindergarten Teacher (2018)</h1>\n<p class=\"ssr-lead\">Lisa Spinelli is a Staten Island teacher who is unusually devoted to her students. When she discovers one of her five-year-olds is a prodigy, she becomes fascinated with the boy, ultimately risking her family and freedom to nurture his talent.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2018</li><li>Runtime: 96 minutes</li><li>Director: Sara Colangelo</li><li>Genres: Drama</li><li>TMDB rating: 6.5/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maggie Gyllenhaal as Lisa Spinelli</li><li>Parker Sevak as Jimmy Roy</li><li>Gael García Bernal as Simon</li><li>Michael Chernus as Grant Spinelli</li><li>Rosa Salazar as Becca</li><li>Ajay Naidu as Nikhil Roy</li><li>Anna Baryshnikov as Meghan</li><li>Daisy Tahan as Lainie Spinelli</li><li>Sam Jules as Josh Spinelli</li><li>Samrat Chakrabarti as Sanjay Roy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li></ul>\n</article>",
+   "t": "The Kindergarten Teacher (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:504827": {
+   "d": "The Bob's Burgers Movie (2022): Animation/Comedy film. Story: When a ruptured water main creates an enormous… See cast, budget $38M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pTfUqVyM3mRuxvUiAvaSmdBrhdl.jpg",
+   "industry": "world",
+   "k": "The Bob's Burgers Movie, The Bob's Burgers Movie movie, The Bob's Burgers Movie cast, The Bob's Burgers Movie story, The Bob's Burgers Movie box office collection, The Bob's Burgers Movie budget, The Bob's Burgers Movie review, The Bob's Burgers Movie rating, The Bob's Burgers Movie release date, The Bob's Burgers Movie trailer, The Bob's Burgers Movie Animation, The Bob's Burgers Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "H. Jon Benjamin"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Schaal"
+     },
+     {
+      "@type": "Person",
+      "name": "John Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Mintz"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugene Mirman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 401,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Bob's Burgers Movie (2022): Animation/Comedy film. Story: When a ruptured water main creates an enormous… See cast, budget $38M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bernard Derriman"
+     },
+     {
+      "@type": "Person",
+      "name": "Loren Bouchard"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pTfUqVyM3mRuxvUiAvaSmdBrhdl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=504827",
+    "name": "The Bob's Burgers Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=504827"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bob&#x27;s Burgers Movie (2022)</h1>\n<p class=\"ssr-lead\">When a ruptured water main creates an enormous sinkhole right in front of Bob&#x27;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#x27;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2022</li><li>Runtime: 102 minutes</li><li>Director: Bernard Derriman, Loren Bouchard</li><li>Genres: Animation, Comedy, Crime, Mystery</li><li>Budget: $38M</li><li>TMDB rating: 6.9/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>H. Jon Benjamin as Bob Belcher / Jimmy Jr. / Ms. Labonz (voice)</li><li>Kristen Schaal as Louise Belcher (voice)</li><li>John Roberts as Linda Belcher / Jocelyn (voice)</li><li>Dan Mintz as Tina Belcher (voice)</li><li>Eugene Mirman as Gene Belcher (voice)</li><li>Larry Murphy as Teddy (voice)</li><li>Kevin Kline as Calvin Fischoeder (voice)</li><li>Zach Galifianakis as Felix Fischoeder (voice)</li><li>David Wain as Grover Fischoeder (voice)</li><li>Gary Cole as Sgt. Bosco (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, fuboTV, YouTube TV, FXNow</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Bob's Burgers Movie (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:831827": {
+   "d": "Far from the Tree (2021): Animation/Family film. Story: On an idyllic beach in the Pacific Northwest… See cast and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",
+   "industry": "world",
+   "k": "Far from the Tree, Far from the Tree movie, Far from the Tree cast, Far from the Tree story, Far from the Tree box office collection, Far from the Tree budget, Far from the Tree review, Far from the Tree rating, Far from the Tree release date, Far from the Tree trailer, Far from the Tree Animation, Far from the Tree Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 395,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Far from the Tree (2021): Animation/Family film. Story: On an idyllic beach in the Pacific Northwest… See cast and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Natalie Nourigat"
+     }
+    ],
+    "duration": "PT7M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=831827",
+    "name": "Far from the Tree",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-11-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=831827"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Far from the Tree (2021)</h1>\n<p class=\"ssr-lead\">On an idyllic beach in the Pacific Northwest, curiosity gets the better of a young raccoon whose frustrated parent attempts to keep them both safe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2021</li><li>Runtime: 7 minutes</li><li>Director: Natalie Nourigat</li><li>Genres: Animation, Family</li><li>TMDB rating: 8.1/10 (395 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Far from the Tree (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:9827": {
+   "d": "Phantoms (1998): Horror/Science Fiction film. Story: In the peaceful Colorado town of Snowfield, something… See cast, budget $14M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",
+   "industry": "world",
+   "k": "Phantoms, Phantoms movie, Phantoms cast, Phantoms story, Phantoms box office collection, Phantoms budget, Phantoms review, Phantoms rating, Phantoms release date, Phantoms trailer, Phantoms Horror, Phantoms Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter O'Toole"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose McGowan"
+     },
+     {
+      "@type": "Person",
+      "name": "Joanna Going"
+     },
+     {
+      "@type": "Person",
+      "name": "Liev Schreiber"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Phantoms (1998): Horror/Science Fiction film. Story: In the peaceful Colorado town of Snowfield, something… See cast, budget $14M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Chappelle"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9827",
+    "name": "Phantoms",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9827"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Phantoms (1998)</h1>\n<p class=\"ssr-lead\">In the peaceful Colorado town of Snowfield, something evil has wiped out the community. And now, it&#x27;s up to a group of people to stop it, or at least get out of Snowfield alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 1998</li><li>Runtime: 96 minutes</li><li>Director: Joe Chappelle</li><li>Genres: Horror, Science Fiction, Thriller</li><li>Budget: $14M</li><li>TMDB rating: 5.6/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Affleck as Sheriff Bryce Hammond</li><li>Peter O&#x27;Toole as Dr. Timothy Flyte</li><li>Rose McGowan as Lisa Pailey</li><li>Joanna Going as Jennifer Pailey, M.D.</li><li>Liev Schreiber as Deputy Stuart &#x27;Stu&#x27; Wargle</li><li>Nicky Katt as Deputy Steve Shanning</li><li>Clifton Powell as Gen. Leland Copperfield</li><li>Rick Otto as Scientist Lockland</li><li>Valerie Chow as Scientist Yamaguchi</li><li>Adam Nelson as Scientist Burke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Phantoms (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "tv:126027": {
    "d": "Ghosts (2021) is a Comedy and Sci-Fi & Fantasy TV series. Explore its story: Samantha and Jay throw caution to the wind when they…, cast, and 6 seasons.",

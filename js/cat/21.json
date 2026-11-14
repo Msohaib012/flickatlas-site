@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 36,
+ "count": 42,
  "titles": {
   "movie:1103621": {
    "backdrop_path": "/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
@@ -107,6 +107,143 @@
    "type": "movie",
    "vote_average": 8.117,
    "vote_count": 463
+  },
+  "movie:11121": {
+   "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Tess Durbeyfield",
+     "n": "Nastassja Kinski"
+    },
+    {
+     "c": "Angel Clare",
+     "n": "Peter Firth"
+    },
+    {
+     "c": "Alec d'Urberville",
+     "n": "Leigh Lawson"
+    },
+    {
+     "c": "John Durbeyfield",
+     "n": "John Collin"
+    },
+    {
+     "c": "Mrs. Durbeyfield",
+     "n": "Rosemary Martin"
+    },
+    {
+     "c": "Marian",
+     "n": "Carolyn Pickles"
+    },
+    {
+     "c": "Vicar of Marlott",
+     "n": "Richard Pearson"
+    },
+    {
+     "c": "Reverend Mr. Clare",
+     "n": "David Markham"
+    },
+    {
+     "c": "Mrs. Clare",
+     "n": "Pascale de Boysson"
+    },
+    {
+     "c": "Izz Huett",
+     "n": "Suzanna Hamilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 11121,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "A strong-willed peasant girl is sent by her father to the estate of some local aristocrats to capitalize on a rumour that their families are from the same line. This fateful visit commences an epic narrative of sex, class, betrayal, and revenge.",
+   "popularity": 2.5401,
+   "poster_path": "/m2qx66UNTMg17CoFSGZWC7csG7M.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-10-06",
+   "revenue": 20101247,
+   "runtime": 172,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She was born into a world where they called it seduction, not rape. What she did would shatter that world forever.",
+   "title": "Tess",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 399
   },
   "movie:1140521": {
    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
@@ -386,6 +523,116 @@
    "type": "movie",
    "vote_average": 5.333,
    "vote_count": 27
+  },
+  "movie:12121": {
+   "backdrop_path": "/lTrHk6DznYoAGr7biPkdIbb4WGo.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Sarah Mathews",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Hal Jackson",
+     "n": "Ted Danson"
+    },
+    {
+     "c": "Zora Mathews",
+     "n": "Nia Long"
+    },
+    {
+     "c": "Tea Cake Walters",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Jose",
+     "n": "Paul Rodríguez"
+    },
+    {
+     "c": "Stacy",
+     "n": "Jennifer Tilly"
+    },
+    {
+     "c": "Alberta",
+     "n": "Peggy Rea"
+    },
+    {
+     "c": "Bob Takashima",
+     "n": "Clyde Kusatsu"
+    },
+    {
+     "c": "Teddy",
+     "n": "David Bowe"
+    },
+    {
+     "c": "James",
+     "n": "Jeffrey Joseph"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Benjamin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 12121,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young black woman discovers that her father was a sperm donor, and if that wasn't bad enough, he's white.",
+   "popularity": 1.8422,
+   "poster_path": "/1NLhOZN4AcTSvEPMI3HCjTVSfvy.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-01-06",
+   "revenue": 104942695,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At the sperm-bank she asked for a tall, intelligent, black man. One out of three ain't bad.",
+   "title": "Made in America",
+   "trailer": {
+    "key": "dPPN93A3RRs",
+    "name": "Made in America Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.54,
+   "vote_count": 404
   },
   "movie:1241921": {
    "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
@@ -681,6 +928,241 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 485
+  },
+  "movie:1263421": {
+   "backdrop_path": "/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baki Hanma (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Tokita Ohma (voice)",
+     "n": "Tatsuhisa Suzuki"
+    },
+    {
+     "c": "Yujiro Hanma (voice)",
+     "n": "Akio Otsuka"
+    },
+    {
+     "c": "Kaoru Hanayama (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Jack Hammer (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Saw Paing Yoroizuka (voice)",
+     "n": "Nobuyuki Hiyama"
+    },
+    {
+     "c": "Kureha Shinogi (voice)",
+     "n": "Ken Narita"
+    },
+    {
+     "c": "Raian Kure (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Toshiki Hirano"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1263421,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "It's the ultimate showdown. The toughest fighters from \"Baki Hanma\" and \"Kengan Ashura\" clash in this unprecedented, hard-hitting martial arts crossover.",
+   "popularity": 3.2644,
+   "poster_path": "/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-06-05",
+   "revenue": 0,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Baki Hanma VS Kengan Ashura",
+   "trailer": {
+    "key": "nWMbcamVl7Y",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 415
+  },
+  "movie:127521": {
+   "backdrop_path": "/zQXo8qMCd0Oial7Ped5746uHR7N.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Samson Gaul",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Andrew Fayden",
+     "n": "Joe Flanigan"
+    },
+    {
+     "c": "Selwyn Gaul",
+     "n": "Kris Van Damme"
+    },
+    {
+     "c": "Amalia",
+     "n": "Bianca Bree"
+    },
+    {
+     "c": "Monica Fayden",
+     "n": "Anna-Louise Plowman"
+    },
+    {
+     "c": "Becky Fayden",
+     "n": "Charlotte Beaumont"
+    },
+    {
+     "c": "Vlad",
+     "n": "Uriel Emil Pollack"
+    },
+    {
+     "c": "Cosmin Stelu",
+     "n": "Louis Dempsey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ernie Barbarash"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
+   "id": 127521,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An ex-mercenary known for finding missing children is hired by a mixed martial arts fighter whose daughter has been kidnapped.",
+   "popularity": 2.5302,
+   "poster_path": "/vH15N6iRLPX9YM2Xalop15hvaLD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-11",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The greater the sinner, the greater the saint.",
+   "title": "6 Bullets",
+   "trailer": {
+    "key": "yHPmgcMpp_k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.282,
+   "vote_count": 426
   },
   "movie:1318621": {
    "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
@@ -995,6 +1477,196 @@
    "type": "movie",
    "vote_average": 8.9,
    "vote_count": 59
+  },
+  "movie:145221": {
+   "backdrop_path": "/97tEx5wgsdukAzC32NkcAFRvTGZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noah Frater",
+     "n": "Johnny Harris"
+    },
+    {
+     "c": "Michael",
+     "n": "Sam Keeley"
+    },
+    {
+     "c": "Frankie",
+     "n": "Joe Dempsie"
+    },
+    {
+     "c": "Inkelaar",
+     "n": "Kyle Soller"
+    },
+    {
+     "c": "Forrest",
+     "n": "Nicholas Pinnock"
+    },
+    {
+     "c": "Shaun Williams",
+     "n": "Parker Sawyers"
+    },
+    {
+     "c": "Ara",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Kelly",
+     "n": "Michaela Coel"
+    },
+    {
+     "c": "Ryan Conway",
+     "n": "Jesse Nagy"
+    },
+    {
+     "c": "Militant Leader",
+     "n": "Uriel Emil Pollack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Green"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 145221,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Seven years on from the events of Monsters, and the ‘Infected Zones’ have spread worldwide. Humans have been knocked off the top of the food chain, with disparate communities struggling for survival. American soldiers are being sent abroad to protect US interests from the Monsters, but the war is far from being won.",
+   "popularity": 2.1197,
+   "poster_path": "/sQ3uSRb0wrgJf9sWc8LxYbnqltC.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-09",
+   "revenue": 306004,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear has evolved",
+   "title": "Monsters: Dark Continent",
+   "trailer": {
+    "key": "BAfYPog0pWc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.715,
+   "vote_count": 414
   },
   "movie:1493021": {
    "backdrop_path": "/hk6tV2KIP8MkkDBNpvWRnvUrKyG.jpg",
@@ -2471,6 +3143,112 @@
    "type": "movie",
    "vote_average": 6.61,
    "vote_count": 492
+  },
+  "movie:566221": {
+   "backdrop_path": "/b8LjR8NjRjrWs6uIfGfrDn0OeI6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Dilma Rousseff"
+    },
+    {
+     "c": "Self",
+     "n": "Luiz Inácio Lula da Silva"
+    },
+    {
+     "c": "Self",
+     "n": "Michel Temer"
+    },
+    {
+     "c": "Self",
+     "n": "Eduardo Cunha"
+    },
+    {
+     "c": "Self",
+     "n": "Jair Bolsonaro"
+    },
+    {
+     "c": "Self",
+     "n": "Sérgio Moro"
+    },
+    {
+     "c": "Self",
+     "n": "Paulo Maluf"
+    },
+    {
+     "c": "Self",
+     "n": "Jean Wyllys"
+    },
+    {
+     "c": "Self",
+     "n": "Aécio Neves"
+    },
+    {
+     "c": "Himself",
+     "n": "Gilberto Carvalho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Petra Costa"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 566221,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "A cautionary tale for these times of democracy in crisis—the personal and political fuse to explore one of the most dramatic periods in Brazilian history. With unprecedented access to Presidents Dilma Rousseff and Lula da Silva, we witness their rise and fall and the tragically polarized nation that remains.",
+   "popularity": 1.0367,
+   "poster_path": "/mIbPkZelgguJMPOx9vvCb5oqMxI.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-24",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Edge of Democracy",
+   "trailer": {
+    "key": "xLe24M_PB5E",
+    "name": "The Edge of Democracy | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 391
   },
   "movie:588921": {
    "backdrop_path": "/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",

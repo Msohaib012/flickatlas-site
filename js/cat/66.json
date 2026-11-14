@@ -1,6 +1,6 @@
 {
  "bucket": "66",
- "count": 23,
+ "count": 27,
  "titles": {
   "movie:1107166": {
    "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
@@ -547,6 +547,429 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 31
+  },
+  "movie:19766": {
+   "backdrop_path": "/jeWcKqVdsQbVsyALogXQh6aH0A5.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "John Brown / Inspector Gadget",
+     "n": "French Stewart"
+    },
+    {
+     "c": "G2",
+     "n": "Elaine Hendrix"
+    },
+    {
+     "c": "Sanford Scolex / Dr. Claw",
+     "n": "Tony Martin"
+    },
+    {
+     "c": "Penny",
+     "n": "Caitlin Wachs"
+    },
+    {
+     "c": "Chief Quimby",
+     "n": "Mark Mitchell"
+    },
+    {
+     "c": "Mayor Wilson",
+     "n": "Sigrid Thornton"
+    },
+    {
+     "c": "Baxter",
+     "n": "Bruce Spence"
+    },
+    {
+     "c": "Mrs. Quimby",
+     "n": "Alethea McGrath"
+    },
+    {
+     "c": "McKibble",
+     "n": "John Batchelor"
+    },
+    {
+     "c": "Brick",
+     "n": "James Wardlaw"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alex Zamm"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 19766,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "After capturing Claw, all the criminals have gone into hiding. Until Claw escapes! Gadget thinks he will get the case, but everyone else has other plans. A new version of the Gadget project is unveiled in the form of G2. Strict orders are given for Gadget to stay away from G2 and every crime scene, but Gadget feels he is needed more than anyone.",
+   "popularity": 1.5527,
+   "poster_path": "/6g5L4lpsQ1jYDJpMn1XGYOGzlar.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-03-11",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Inspect the unexpected.",
+   "title": "Inspector Gadget 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.3,
+   "vote_count": 426
+  },
+  "movie:23966": {
+   "backdrop_path": "/cxBbDUlZ10GibvyQ2iThASBm1Dj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rickie",
+     "n": "Shiloh Fernandez"
+    },
+    {
+     "c": "J.T.",
+     "n": "Noah Segan"
+    },
+    {
+     "c": "Clint",
+     "n": "Michael Bowen"
+    },
+    {
+     "c": "JoAnn",
+     "n": "Candice King"
+    },
+    {
+     "c": "Dwyer",
+     "n": "Nolan Gerard Funk"
+    },
+    {
+     "c": "The Deadgirl",
+     "n": "Jenny Spain"
+    },
+    {
+     "c": "Nikki",
+     "n": "Susan Marie Keller"
+    },
+    {
+     "c": "Rosy",
+     "n": "Christina Masterson"
+    },
+    {
+     "c": "Ms. Flynn",
+     "n": "Kathleen M. Darcy"
+    },
+    {
+     "c": "Johnny",
+     "n": "Andrew DiPalma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marcel Sarmiento",
+    "Gadi Harel"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 23966,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When high school misfits Rickie and JT decide to ditch school and find themselves lost in the crumbling facility of a nearby abandoned hospital, they come face-to-face with a gruesome discovery: a body of a woman stripped naked, chained to a table and covered in plastic and soon realize she is anything but dead. Quickly the boys find themselves embarking on a twisted yet poignant journey testing the limits of their friendship, and forces both to decide just how far they're willing to stretch their understanding of right and wrong.",
+   "popularity": 2.0521,
+   "poster_path": "/ff00BtvdnSHO8qoblBhiXmJKvCm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-09-06",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You’ll never have anything better.",
+   "title": "Deadgirl",
+   "trailer": {
+    "key": "-2SSL6Ipnvw",
+    "name": "Deadgirl (2009) OFFICIAL Trailer - On UK DVD 8th June 2009",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 397
+  },
+  "movie:250066": {
+   "backdrop_path": "/vIrQp74LyBd7ktEIgMdd0Nfyb3U.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "James",
+     "n": "Hayden Christensen"
+    },
+    {
+     "c": "Frankie",
+     "n": "Adrien Brody"
+    },
+    {
+     "c": "Emily",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Sugar",
+     "n": "Akon"
+    },
+    {
+     "c": "Ray",
+     "n": "Tory Kittles"
+    },
+    {
+     "c": "Loan Officer",
+     "n": "Laura Cayouette"
+    },
+    {
+     "c": "Katie",
+     "n": "Elena Sanchez"
+    },
+    {
+     "c": "Spoonie",
+     "n": "Luis Da Silva, Jr."
+    },
+    {
+     "c": "Captain Sullivan",
+     "n": "Joe Chrest"
+    },
+    {
+     "c": "Paramedic",
+     "n": "Judd Lormand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sarik Andreasyan"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 250066,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two brothers, both with troubled paths, find themselves in the middle of one last bank job.",
+   "popularity": 1.8828,
+   "poster_path": "/526uxanwv4mMK0YTxjVrsmMXXo2.jpg",
+   "production_countries": [
+    "CA",
+    "LU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-11",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Brothers in arms for life.",
+   "title": "American Heist",
+   "trailer": {
+    "key": "QY_IOn0fsc0",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.794,
+   "vote_count": 401
   },
   "movie:417466": {
    "backdrop_path": "/iqd7U0nrQw9zKUKyG05dtWpBVJT.jpg",
@@ -1099,6 +1522,142 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 444
+  },
+  "movie:9666": {
+   "backdrop_path": "/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Kyoko Harase",
+     "n": "Noriko Sakai"
+    },
+    {
+     "c": "Keisuke",
+     "n": "Shingo Katsurayama"
+    },
+    {
+     "c": "Chiharu",
+     "n": "Yui Ichikawa"
+    },
+    {
+     "c": "Megumi",
+     "n": "Emi Yamamoto"
+    },
+    {
+     "c": "Tomoka Miura",
+     "n": "Chiharu Niiyama"
+    },
+    {
+     "c": "Noritaka Yamashita",
+     "n": "Kei Horie"
+    },
+    {
+     "c": "Hiromi",
+     "n": "Erika Kuroishi"
+    },
+    {
+     "c": "Aki Harase",
+     "n": "Kaoru Mizuki"
+    },
+    {
+     "c": "Masashi Ishikura",
+     "n": "Ayumu Saito"
+    },
+    {
+     "c": "Kaoru Ishikura",
+     "n": "Shinobu Yuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Takashi Shimizu"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 9666,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When the cast and crew of a paranormal TV reality program decide to shoot in the house of the original Saeki hauntings, a series of strange events unfold at the location.",
+   "popularity": 2.858,
+   "poster_path": "/agI9bflzv44lVsbah2dtdkkUqoW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Arrow Video Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tkFtMq4dS9DubeXUbDqkyXJFWCp.png",
+     "name": "Arrow Video Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-08-15",
+   "revenue": 70700000,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ju-on: The Grudge 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.488,
+   "vote_count": 408
   },
   "tv:11466": {
    "backdrop_path": "/91AH5BKrPHSCkUcvUp9mZRMyTCa.jpg",

@@ -1,7 +1,71 @@
 {
  "bucket": "00",
- "count": 34,
+ "count": 40,
  "titles": {
+  "movie:11300": {
+   "d": "Something Wild (1986): Crime/Comedy film. Story: A free-spirited woman \"kidnaps\" a yuppie for a… See cast, budget $7M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cAx07D2s8uCwy1YtJTTMJAlaFDo.jpg",
+   "industry": "world",
+   "k": "Something Wild, Something Wild movie, Something Wild cast, Something Wild story, Something Wild box office collection, Something Wild budget, Something Wild review, Something Wild rating, Something Wild release date, Something Wild trailer, Something Wild Crime, Something Wild Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Melanie Griffith"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Liotta"
+     },
+     {
+      "@type": "Person",
+      "name": "George 'Red' Schwartz"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaret Colin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 432,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Something Wild (1986): Crime/Comedy film. Story: A free-spirited woman \"kidnaps\" a yuppie for a… See cast, budget $7M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Demme"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Crime",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cAx07D2s8uCwy1YtJTTMJAlaFDo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11300",
+    "name": "Something Wild",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-11-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11300"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Something Wild (1986)</h1>\n<p class=\"ssr-lead\">A free-spirited woman &quot;kidnaps&quot; a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-con husband shows up.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 1986</li><li>Runtime: 114 minutes</li><li>Director: Jonathan Demme</li><li>Genres: Crime, Comedy, Romance</li><li>Budget: $7M</li><li>TMDB rating: 6.6/10 (432 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Daniels as Charles Driggs</li><li>Melanie Griffith as Audrey Hankel</li><li>Ray Liotta as Ray Sinclair</li><li>George &#x27;Red&#x27; Schwartz as Counter Man</li><li>Margaret Colin as Irene</li><li>Leib Lensky as Frenchy</li><li>Tracey Walter as The Country Squire</li><li>Maggie T. as Country Squire Bulldog</li><li>Patricia Falkenhain as Charlie&#x27;s Secretary</li><li>Sandy McLeod as Graves&#x27; Secretary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Something Wild (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:12600": {
    "d": "Pokémon 4Ever (2001): Adventure/Fantasy film. Story: In order to escape a greedy Pokémon hunter, Celebi… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/lnwNzJdU4gMlgoQlaT8HgSI2OpD.jpg",
@@ -823,6 +887,70 @@
    "t": "In Cold Blood (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1967"
   },
+  "movie:19200": {
+   "d": "Shadows and Fog (1991): Comedy/Mystery film. Story: With a serial strangler on the loose, a bookkeeper… See cast, budget $14M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mcSeT9VDT4OnSR3E2dxl6knE9YG.jpg",
+   "industry": "world",
+   "k": "Shadows and Fog, Shadows and Fog movie, Shadows and Fog cast, Shadows and Fog story, Shadows and Fog box office collection, Shadows and Fog budget, Shadows and Fog review, Shadows and Fog rating, Shadows and Fog release date, Shadows and Fog trailer, Shadows and Fog Comedy, Shadows and Fog Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Farrow"
+     },
+     {
+      "@type": "Person",
+      "name": "John Malkovich"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Madonna"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Shadows and Fog (1991): Comedy/Mystery film. Story: With a serial strangler on the loose, a bookkeeper… See cast, budget $14M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Comedy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mcSeT9VDT4OnSR3E2dxl6knE9YG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19200",
+    "name": "Shadows and Fog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19200"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shadows and Fog (1991)</h1>\n<p class=\"ssr-lead\">With a serial strangler on the loose, a bookkeeper wanders around town searching for the vigilante group intent on catching the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 1991</li><li>Runtime: 85 minutes</li><li>Director: Woody Allen</li><li>Genres: Comedy, Mystery, Crime</li><li>Budget: $14M</li><li>TMDB rating: 6.7/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Allen as Kleinman</li><li>Mia Farrow as Irmy</li><li>John Malkovich as Clown</li><li>John Cusack as Student Jack</li><li>Madonna as Marie</li><li>Kathy Bates as Prostitute</li><li>Jodie Foster as Prostitute</li><li>Lily Tomlin as Prostitute</li><li>Anne Lange as Prostitute</li><li>Kenneth Mars as Magician</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Shadows and Fog (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:24100": {
    "d": "The Little Vampire (2000): Family/Adventure film. Story: Based on the popular books, the story tells of Tony… See cast, budget $35M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
@@ -1014,6 +1142,70 @@
    "t": "Things to Do in Denver When You're Dead (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
   },
+  "movie:43200": {
+   "d": "Basilicata Coast To Coast (2010): Comedy/Drama film. Story: A musical comedy, a journey filled with unexpected… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/38W3ELhUprf0aTWyviRggCs1Jmi.jpg",
+   "industry": "world",
+   "k": "Basilicata Coast To Coast, Basilicata Coast To Coast movie, Basilicata Coast To Coast cast, Basilicata Coast To Coast story, Basilicata Coast To Coast box office collection, Basilicata Coast To Coast budget, Basilicata Coast To Coast review, Basilicata Coast To Coast rating, Basilicata Coast To Coast release date, Basilicata Coast To Coast Comedy, Basilicata Coast To Coast Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Gassmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Briguglia"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Gazzè"
+     },
+     {
+      "@type": "Person",
+      "name": "Rocco Papaleo"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanna Mezzogiorno"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 399,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Basilicata Coast To Coast (2010): Comedy/Drama film. Story: A musical comedy, a journey filled with unexpected… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rocco Papaleo"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/38W3ELhUprf0aTWyviRggCs1Jmi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=43200",
+    "name": "Basilicata Coast To Coast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-04-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=43200"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Basilicata Coast To Coast (2010)</h1>\n<p class=\"ssr-lead\">A musical comedy, a journey filled with unexpected twists and unexpected encounters, leading a group of musicians to set out to the rhythm of their musical verses to participate in the Scanzano Jonico Song-Theatre Festival, walking across Basilicata, from the Tyrrhenian to the Ionian Sea, along the route that gives the project its name. The journey will have a therapeutic effect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2010</li><li>Runtime: 105 minutes</li><li>Director: Rocco Papaleo</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alessandro Gassmann as Rocco Santamaria</li><li>Paolo Briguglia as Salvatore Chiarelli</li><li>Max Gazzè as Franco Cardillo</li><li>Rocco Papaleo as Nicola Palmieri</li><li>Giovanna Mezzogiorno as Tropea Limongi</li><li>Claudia Potenza as Maria Teresa</li><li>Michela Andreozzi as Lucia</li><li>Augusto Fornari as Press Agent</li><li>Gaetano Amato as Onorevole Limongi</li><li>Antonio Gerardi as Carmine Crocco</li></ul>\n</article>",
+   "t": "Basilicata Coast To Coast (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:568300": {
    "d": "BTS World Tour: Love Yourself in Seoul (2019): Music/Documentary film. Story: Shot at the Olympic Stadium in Seoul during the BTS… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/8GXkzHTvuj3ftethkrqW330LJKz.jpg",
@@ -1077,6 +1269,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>BTS World Tour: Love Yourself in Seoul (2019)</h1>\n<p class=\"ssr-lead\">Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love Yourself’ to celebrate the seven members of the global boyband and their unprecedented international phenomenon.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 January 2019</li><li>Runtime: 113 minutes</li><li>Director: Son Sung-deuk</li><li>Genres: Music, Documentary</li><li>TMDB rating: 8.2/10 (463 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>RM as Self</li><li>Jin as Self</li><li>SUGA as Self</li><li>j-hope as Self</li><li>Jimin as Self</li><li>V as Self</li><li>Jung Kook as Self</li></ul>\n</article>",
    "t": "BTS World Tour: Love Yourself in Seoul (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:63700": {
+   "d": "My Babysitter's a Vampire (2010): Comedy/Adventure film. Story: Geeky 14-year old Ethan is left to babysit his… See cast, budget $2.18M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kLoLJvjQp3s7OSvya1lKlWzLyMU.jpg",
+   "industry": "world",
+   "k": "My Babysitter's a Vampire, My Babysitter's a Vampire movie, My Babysitter's a Vampire cast, My Babysitter's a Vampire story, My Babysitter's a Vampire box office collection, My Babysitter's a Vampire budget, My Babysitter's a Vampire review, My Babysitter's a Vampire rating, My Babysitter's a Vampire release date, My Babysitter's a Vampire Comedy, My Babysitter's a Vampire Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Knight"
+     },
+     {
+      "@type": "Person",
+      "name": "Vanessa Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Atticus Mitchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Todd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "My Babysitter's a Vampire (2010): Comedy/Adventure film. Story: Geeky 14-year old Ethan is left to babysit his… See cast, budget $2.18M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bruce McDonald"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kLoLJvjQp3s7OSvya1lKlWzLyMU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=63700",
+    "name": "My Babysitter's a Vampire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=63700"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Babysitter&#x27;s a Vampire (2010)</h1>\n<p class=\"ssr-lead\">Geeky 14-year old Ethan is left to babysit his younger sister, Jane, with his best friend Benny but after Ethan inadvertently puts Jane in harm&#x27;s way, his parents hire a professional babysitter, the beautiful yet mysterious 17-year-old Sarah who, unbeknownst to them, is actually a fledgling vampire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2010</li><li>Runtime: 80 minutes</li><li>Director: Bruce McDonald</li><li>Genres: Comedy, Adventure, Fantasy, TV Movie</li><li>Budget: $2.18M</li><li>TMDB rating: 7.1/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Knight as Ethan Morgan</li><li>Vanessa Morgan as Sarah</li><li>Atticus Mitchell as Benny</li><li>Cameron Kennedy as Rory</li><li>Kate Todd as Erica</li><li>Joe Dinicol as Jesse</li><li>Ella Jonas Farlinger as Jane Morgan</li><li>Ari Cohen as Mr. Morgan</li><li>Laura de Carteret as Mrs. Morgan</li><li>Hrant Alianak as Principal Hicks</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "My Babysitter's a Vampire (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:689700": {
    "d": "Clean (2022): Crime/Action film. Story: Tormented by a past life, garbage man Clean attempts… See cast, TMDB rating 6.1/10, and release date 25 August 2022.",
@@ -1269,6 +1525,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>South Park: Post COVID: The Return of COVID (2021)</h1>\n<p class=\"ssr-lead\">If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2021</li><li>Runtime: 62 minutes</li><li>Director: Trey Parker</li><li>Genres: Animation, Comedy, TV Movie</li><li>TMDB rating: 7.4/10 (497 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Trey Parker as Various Characters (voice)</li><li>Matt Stone as Various Characters (voice)</li><li>April Stewart as Wendy Testaburger / Sharon Marsh / Shelley Marsh (voice)</li><li>Kimberly Brooks as Margaret Nelson / Laura Tucker (voice)</li><li>Mona Marshall as Yentl Cartman (voice)</li><li>Delilah Kujala as Amazon Alexa (voice)</li><li>Betty Boogie Parker as Menorah Cartman / Heather Williams (voice)</li><li>Adrien Beard as Token Black (voice)</li><li>Nanami Iwasaki as Geisha Billboard Model</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li><li>Rent: Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "South Park: Post COVID: The Return of COVID (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:9300": {
+   "d": "Orlando (1992): Drama/Fantasy film. Story: England, 1600. Queen Elizabeth I promises Orlando, a… See cast, budget $4M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
+   "industry": "world",
+   "k": "Orlando, Orlando movie, Orlando cast, Orlando story, Orlando box office collection, Orlando budget, Orlando review, Orlando rating, Orlando release date, Orlando Drama, Orlando Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tilda Swinton"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Zane"
+     },
+     {
+      "@type": "Person",
+      "name": "Lothaire Bluteau"
+     },
+     {
+      "@type": "Person",
+      "name": "John Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Valandrey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Orlando (1992): Drama/Fantasy film. Story: England, 1600. Queen Elizabeth I promises Orlando, a… See cast, budget $4M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sally Potter"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Drama",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9300",
+    "name": "Orlando",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9300"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Orlando (1992)</h1>\n<p class=\"ssr-lead\">England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 1992</li><li>Runtime: 94 minutes</li><li>Director: Sally Potter</li><li>Genres: Drama, Fantasy</li><li>Budget: $4M</li><li>TMDB rating: 7.0/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tilda Swinton as Orlando</li><li>Billy Zane as Shelmerdine</li><li>Lothaire Bluteau as The Khan</li><li>John Wood as Archduke Harry</li><li>Charlotte Valandrey as Sasha</li><li>Heathcote Williams as Nick Greene / Publisher</li><li>Quentin Crisp as Queen Elizabeth I</li><li>Peter Eyre as Mr. Pope</li><li>Thom Hoffman as King William of Orange</li><li>Kathryn Hunter as Countess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Orlando (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
+  "movie:9400": {
+   "d": "Set It Off (1996): Crime/Drama film. Story: Four inner-city Black women, determined to end their… See cast, budget $9M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg",
+   "industry": "world",
+   "k": "Set It Off, Set It Off movie, Set It Off cast, Set It Off story, Set It Off box office collection, Set It Off budget, Set It Off review, Set It Off rating, Set It Off release date, Set It Off Crime, Set It Off Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jada Pinkett Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Queen Latifah"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivica A. Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Kimberly Elise"
+     },
+     {
+      "@type": "Person",
+      "name": "Blair Underwood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Set It Off (1996): Crime/Drama film. Story: Four inner-city Black women, determined to end their… See cast, budget $9M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "F. Gary Gray"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9400",
+    "name": "Set It Off",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Set It Off (1996)</h1>\n<p class=\"ssr-lead\">Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 1996</li><li>Runtime: 123 minutes</li><li>Director: F. Gary Gray</li><li>Genres: Crime, Drama, Thriller, Action, Romance</li><li>Budget: $9M</li><li>TMDB rating: 7.2/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jada Pinkett Smith as Stony</li><li>Queen Latifah as Cleo</li><li>Vivica A. Fox as Frankie</li><li>Kimberly Elise as Tisean</li><li>Blair Underwood as Keith</li><li>John C. McGinley as Detective Strode</li><li>Anna Maria Horsford as Ms. Wells</li><li>Ella Joyce as Detective Waller</li><li>Charles Robinson as Nate</li><li>Chaz Lamar Shepherd as Stevie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Set It Off (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
   },
   "tv:1100": {
    "d": "How I Met Your Mother (2005) is a Comedy TV series. Explore its story: A father recounts to his children - through a series…, cast, 9 seasons, and 208 episodes.",

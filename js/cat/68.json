@@ -1,6 +1,6 @@
 {
  "bucket": "68",
- "count": 25,
+ "count": 33,
  "titles": {
   "movie:11068": {
    "backdrop_path": "/n6z8b0qN9Sk3lNElgeJY6qfDU2L.jpg",
@@ -98,6 +98,168 @@
    "type": "movie",
    "vote_average": 6.414,
    "vote_count": 458
+  },
+  "movie:11468": {
+   "backdrop_path": "/mGhz7vE2EvWm6MfFqPJXDidNgAY.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Tom Van Allen | Danny Parker",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Pooh-Bear",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Kujo",
+     "n": "Adam Goldberg"
+    },
+    {
+     "c": "Quincy",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Gus Morgan",
+     "n": "Doug Hutchison"
+    },
+    {
+     "c": "Al Garcetti",
+     "n": "Anthony LaPaglia"
+    },
+    {
+     "c": "Bobby",
+     "n": "Glenn Plummer"
+    },
+    {
+     "c": "Jimmy the Finn",
+     "n": "Peter Sarsgaard"
+    },
+    {
+     "c": "Colette",
+     "n": "Deborah Kara Unger"
+    },
+    {
+     "c": "Liz",
+     "n": "Chandra West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "D.J. Caruso"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 11468,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the murder of his beloved wife, a man in search of redemption is set adrift in a world where nothing is as it seems. On his journey, he befriends slacker Jimmy \"The Finn\", becomes involved in rescuing his neighbor Colette from her own demons, and gets entangled in a web of deceit full of unexpected twists and turns.",
+   "popularity": 1.7418,
+   "poster_path": "/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-04-08",
+   "revenue": 1073198,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you're looking for the truth, you've come to the wrong place.",
+   "title": "The Salton Sea",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.612,
+   "vote_count": 393
   },
   "movie:1306368": {
    "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
@@ -299,6 +461,131 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 21
+  },
+  "movie:13968": {
+   "backdrop_path": "/hWa0pFOHTnNMl5kxHTFtltF8Yhm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Izzy Daniels",
+     "n": "Corbin Bleu"
+    },
+    {
+     "c": "Mary Thomas",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Kenneth Daniels",
+     "n": "David Reivers"
+    },
+    {
+     "c": "Shauna Keaton",
+     "n": "Shanica Knowles"
+    },
+    {
+     "c": "Keisha Ray",
+     "n": "Laivan Greene"
+    },
+    {
+     "c": "Karin Daniels",
+     "n": "Kylee Russell"
+    },
+    {
+     "c": "Rodney Tyler",
+     "n": "Patrick Johnson Jr."
+    },
+    {
+     "c": "L'il Earl Jackson",
+     "n": "Micah Williams"
+    },
+    {
+     "c": "Gina",
+     "n": "Paula Brancati"
+    },
+    {
+     "c": "Yolanda Brooks",
+     "n": "Jajube Mandiela"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Paul Hoen"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 13968,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boxer, Izzy Daniels, trains to follow in his father's footsteps by winning the Golden Glove. But when his friend, Mary asks him to substitute for a team member in a Double Dutch tournament, the young man discovers a hidden passion for jump roping, all while finding love with Mary and navigating conflict with himself and his father about boxing.",
+   "popularity": 1.7525,
+   "poster_path": "/bC15nPOGIOXohhqzC2GTg0DlqIy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-01-12",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jump In!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 427
   },
   "movie:14168": {
    "backdrop_path": "/7B26BW9ec2atiGwCkJJZ5POR4wC.jpg",
@@ -1106,6 +1393,120 @@
    "vote_average": 7.482,
    "vote_count": 497
   },
+  "movie:25768": {
+   "backdrop_path": "/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steamboat Bill Jr.",
+     "n": "Buster Keaton"
+    },
+    {
+     "c": "John King",
+     "n": "Tom McGuire"
+    },
+    {
+     "c": "Steamboat Bill Sr.",
+     "n": "Ernest Torrence"
+    },
+    {
+     "c": "Tom Carter",
+     "n": "Tom Lewis"
+    },
+    {
+     "c": "Kitty King",
+     "n": "Marion Byron"
+    },
+    {
+     "c": "Minister (uncredited)",
+     "n": "James T. Mack"
+    },
+    {
+     "c": "Barber (uncredited)",
+     "n": "Ford West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Charles Reisner",
+    "Buster Keaton"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 25768,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child.",
+   "popularity": 1.4673,
+   "poster_path": "/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1928-05-09",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "The Laugh Special of the Age. See It.",
+   "title": "Steamboat Bill, Jr.",
+   "trailer": {
+    "key": "4a9VXNW0jjE",
+    "name": "BUSTER KEATON: 3 FILMS [Masters of Cinema] Limited Edition Blu-ray Boxed Set Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.614,
+   "vote_count": 417
+  },
   "movie:277368": {
    "backdrop_path": "/2e703w8SGp65F9BVRlSK8w5kPeD.jpg",
    "budget": 0,
@@ -1384,6 +1785,186 @@
    "vote_average": 6.022,
    "vote_count": 461
   },
+  "movie:30368": {
+   "backdrop_path": "/pKeatSUHRrlcTmkAOQ9tvESbCCe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Murakami",
+     "n": "Toshirō Mifune"
+    },
+    {
+     "c": "Det. Sato",
+     "n": "Takashi Shimura"
+    },
+    {
+     "c": "Harumi Namiki",
+     "n": "Keiko Awaji"
+    },
+    {
+     "c": "Harumi's mother",
+     "n": "Eiko Miyoshi"
+    },
+    {
+     "c": "Girl",
+     "n": "Noriko Sengoku"
+    },
+    {
+     "c": "Wooden Tub Shop woman",
+     "n": "Noriko Honma"
+    },
+    {
+     "c": "",
+     "n": "Reikichi Kawamura"
+    },
+    {
+     "c": "Kogetsu Hotel manager",
+     "n": "Chōko Iida"
+    },
+    {
+     "c": "",
+     "n": "Eijirō Tōno"
+    },
+    {
+     "c": "",
+     "n": "Yasushi Nagata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Akira Kurosawa"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 30368,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A bad day gets worse for young detective Murakami when a pickpocket steals his gun on a hot, crowded bus. Desperate to right the wrong, he goes undercover, scavenging Tokyo’s sweltering streets for the stray dog whose desperation has led him to a life of crime. With each step, cop and criminal’s lives become more intertwined and the investigation becomes an examination of Murakami’s own dark side.",
+   "popularity": 2.6233,
+   "poster_path": "/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1949-10-17",
+   "revenue": 47005,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The Suspense Filled Story of 7 Bullets!",
+   "title": "Stray Dog",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.575,
+   "vote_count": 386
+  },
   "movie:37768": {
    "backdrop_path": "/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
    "budget": 0,
@@ -1649,6 +2230,222 @@
    "vote_average": 6.6,
    "vote_count": 446
   },
+  "movie:41668": {
+   "backdrop_path": "/k4WfbmcyIJEW7U5ELt0wgVNr6g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rag. Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Ragionier Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Mariangela Fantozzi / Uga",
+     "n": "Maria Cristina Maccà"
+    },
+    {
+     "c": "Chirurgo plastico",
+     "n": "Maurizio Mattioli"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Controllore del treno",
+     "n": "Antonio Allocca"
+    },
+    {
+     "c": "Magistrato",
+     "n": "Sergio Gibello"
+    },
+    {
+     "c": "Megadirettore Galattico Duca Conte Balabam",
+     "n": "Paolo Paoloni"
+    },
+    {
+     "c": "Pubblico Ministero",
+     "n": "Nello Riviè"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 41668,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Ugo Fantozzi has been ejected from Heaven and is sent back to Earth for a short period of time until the staff in Heaven can get Fantozzi a place there. Fantozzi goes through a variety of unfortunate experiences, such as rescuing his retro punk granddaughter Uga, and having to pay a vast telephone bill due to frequent chat line conversations. He ends up getting arrested instead of his ex-boss, who was originally charged with corruption. Just as he is about to enjoy the World Cup Final with Italy, he is called back into Heaven. Can he find peace once again?",
+   "popularity": 0.6002,
+   "poster_path": "/sL0Ay3GQZRup2xOPkL63qujgzgh.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-12-20",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi The Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.758,
+   "vote_count": 404
+  },
+  "movie:476968": {
+   "backdrop_path": "/uk9YSV4GT4iZ9FS5tOJCOmub8GQ.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Luke",
+     "n": "Jim Caviezel"
+    },
+    {
+     "c": "Paul",
+     "n": "James Faulkner"
+    },
+    {
+     "c": "Mauritius",
+     "n": "Olivier Martinez"
+    },
+    {
+     "c": "Priscilla",
+     "n": "Joanne Whalley"
+    },
+    {
+     "c": "Aquila",
+     "n": "John Lynch"
+    },
+    {
+     "c": "Saul of Tarsus",
+     "n": "Yorgos Karamihos"
+    },
+    {
+     "c": "Irenica",
+     "n": "Antonia Campbell-Hughes"
+    },
+    {
+     "c": "Cassius",
+     "n": "Alessandro Sperduti"
+    },
+    {
+     "c": "Octavia",
+     "n": "Alexandra Vino"
+    },
+    {
+     "c": "Ananias",
+     "n": "Manuel Cauchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrew Hyatt"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 476968,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Luke risks his life to visit Paul in a Roman prison, where the apostle awaits execution under Nero. As Paul reflects on his past and the Christian community faces persecution, Luke resolves to record the story of the early church.",
+   "popularity": 3.5125,
+   "poster_path": "/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-22",
+   "revenue": 26078500,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where sin abounds... grace abounds more",
+   "title": "Paul, Apostle of Christ",
+   "trailer": {
+    "key": "LyOqQZUDdO4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 427
+  },
   "movie:513268": {
    "backdrop_path": "/w2yq038gyAHnO9OGW6AiJvhzhg6.jpg",
    "budget": 0,
@@ -1759,6 +2556,138 @@
    "vote_average": 6.2,
    "vote_count": 457
   },
+  "movie:585268": {
+   "backdrop_path": "/aOSDKvqglKVa3SYy4CPXYUAfDlf.jpg",
+   "budget": 24140000,
+   "cast": [
+    {
+     "c": "Kabir Dhaliwal",
+     "n": "Hrithik Roshan"
+    },
+    {
+     "c": "Khalid Rahmani",
+     "n": "Tiger Shroff"
+    },
+    {
+     "c": "Naina Verma",
+     "n": "Vaani Kapoor"
+    },
+    {
+     "c": "Sunil Luthra",
+     "n": "Ashutosh Rana"
+    },
+    {
+     "c": "Aditi Nahta",
+     "n": "Anupriya Goenka"
+    },
+    {
+     "c": "Nafeesa Rahmani",
+     "n": "Soni Razdan"
+    },
+    {
+     "c": "Saurabh",
+     "n": "Yash Raaj Singh"
+    },
+    {
+     "c": "Ruhi",
+     "n": "Dishita Sehgal"
+    },
+    {
+     "c": "Mallika Singhal",
+     "n": "Dipannita Sharma"
+    },
+    {
+     "c": "Firoze",
+     "n": "Mashhoor Amrohi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Siddharth Anand"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 585268,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+   "popularity": 1.998,
+   "poster_path": "/yUtaHkL2SDIAZhRApZAyQrAXygn.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-02",
+   "revenue": 67179155,
+   "runtime": 152,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 400
+  },
   "movie:611468": {
    "backdrop_path": "/e0TNO1ZqAhKFFZfwpLeWzIS9597.jpg",
    "budget": 0,
@@ -1836,6 +2765,131 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 446
+  },
+  "movie:70868": {
+   "backdrop_path": "/f2WjZXaEAp8eAxCFiRCbfbu84U2.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Kate Reddy",
+     "n": "Sarah Jessica Parker"
+    },
+    {
+     "c": "Jack Abelhammer",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Richard Reddy",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Allison Henderson",
+     "n": "Christina Hendricks"
+    },
+    {
+     "c": "Clark Cooper",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Chris Bunce",
+     "n": "Seth Meyers"
+    },
+    {
+     "c": "Momo Hahn",
+     "n": "Olivia Munn"
+    },
+    {
+     "c": "Marla Reddy",
+     "n": "Jane Curtin"
+    },
+    {
+     "c": "Lew Reddy",
+     "n": "Mark Blum"
+    },
+    {
+     "c": "Wendy Best",
+     "n": "Busy Philipps"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Douglas McGrath"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 70868,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As an employee at a Boston-based financial firm, Kate Reddy struggles daily to balance the demands of her high-powered career with the needs of her husband, Richard, and their two children. When she gets an account that requires frequent trips to New York and her husband gets a new job, Kate finds herself spread even thinner. Complicating Kate's life even more is her new business associate Jack Abelhammer, who throws temptation into the mix.",
+   "popularity": 3.176,
+   "poster_path": "/eUQfE21WB0qKfUx6yUAhmsCWTmX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-16",
+   "revenue": 31410151,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If it were easy, men would do it too.",
+   "title": "I Don't Know How She Does It",
+   "trailer": {
+    "key": "bS7CmZdhwmQ",
+    "name": "The Official HOW DO YOU KNOW Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.19,
+   "vote_count": 421
   },
   "movie:737568": {
    "backdrop_path": "/9pHxv7TX0jOKNgnGMDP6RJ2m1GL.jpg",

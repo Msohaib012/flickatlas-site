@@ -1,7 +1,70 @@
 {
  "bucket": "11",
- "count": 32,
+ "count": 44,
  "titles": {
+  "movie:10511": {
+   "d": "In America (2003): Drama film. Story: A family of Irish immigrants adjusts to life on the… See cast, TMDB rating 7.1/10, and release date 22 September 2003.",
+   "img": "https://image.tmdb.org/t/p/w780/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
+   "industry": "world",
+   "k": "In America, In America movie, In America cast, In America story, In America box office collection, In America budget, In America review, In America rating, In America release date, In America Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samantha Morton"
+     },
+     {
+      "@type": "Person",
+      "name": "Paddy Considine"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Bolger"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Bolger"
+     },
+     {
+      "@type": "Person",
+      "name": "Djimon Hounsou"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "In America (2003): Drama film. Story: A family of Irish immigrants adjusts to life on the… See cast, TMDB rating 7.1/10, and release date 22 September 2003.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Sheridan"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10511",
+    "name": "In America",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-09-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10511"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In America (2003)</h1>\n<p class=\"ssr-lead\">A family of Irish immigrants adjusts to life on the mean streets of Hell&#x27;s Kitchen while also grieving the death of a child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 September 2003</li><li>Runtime: 105 minutes</li><li>Director: Jim Sheridan</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samantha Morton as Sarah</li><li>Paddy Considine as Johnny</li><li>Sarah Bolger as Christy</li><li>Emma Bolger as Ariel</li><li>Djimon Hounsou as Mateo</li><li>David Wike as Barker</li><li>Michael Sean Tighe as Frank</li><li>Juan Carlos Hernández as Papo</li><li>René Millan as Steve</li><li>Nick Dunning as Gynaecologist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "In America (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:10711": {
    "d": "French Connection II (1975): Action/Crime film. Story: \"Popeye\" Doyle travels to Marseilles to find Alain… See cast, budget $4.3M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/ffI5k9rPEkEKRTYm4bS4da3Yh20.jpg",
@@ -130,6 +193,70 @@
    "t": "Echo Valley (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1120911": {
+   "d": "Saturday Night (2024): Comedy/Drama film. Story: At 11:30pm on October 11, 1975, a ferocious troupe of… See cast, budget $25M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
+   "industry": "world",
+   "k": "Saturday Night, Saturday Night movie, Saturday Night cast, Saturday Night story, Saturday Night box office collection, Saturday Night budget, Saturday Night review, Saturday Night rating, Saturday Night release date, Saturday Night trailer, Saturday Night Comedy, Saturday Night Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gabriel LaBelle"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Sennott"
+     },
+     {
+      "@type": "Person",
+      "name": "Cory Michael Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Ella Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan O'Brien"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 421,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Saturday Night (2024): Comedy/Drama film. Story: At 11:30pm on October 11, 1975, a ferocious troupe of… See cast, budget $25M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Reitman"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1120911",
+    "name": "Saturday Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1120911"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Saturday Night (2024)</h1>\n<p class=\"ssr-lead\">At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television forever. This is the story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2024</li><li>Runtime: 109 minutes</li><li>Director: Jason Reitman</li><li>Genres: Comedy, Drama</li><li>Budget: $25M</li><li>TMDB rating: 6.6/10 (421 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriel LaBelle as Lorne Michaels</li><li>Rachel Sennott as Rosie Shuster</li><li>Cory Michael Smith as Chevy Chase</li><li>Ella Hunt as Gilda Radner</li><li>Dylan O&#x27;Brien as Dan Aykroyd</li><li>Emily Fairn as Laraine Newman</li><li>Matt Wood as John Belushi</li><li>Lamorne Morris as Garrett Morris</li><li>Kim Matula as Jane Curtin</li><li>Tommy Dewey as Michael O&#x27;Donoghue</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Saturday Night (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1147411": {
    "d": "Miraculous World: Tokyo, Stellar Force (2025): Animation/Family film. Story: Kagami drags Marinette to Tokyo to help the Stellars… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/3kps0wiGFMRVkSXxbebbAUeWrN3.jpg",
@@ -193,6 +320,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Miraculous World: Tokyo, Stellar Force (2025)</h1>\n<p class=\"ssr-lead\">Kagami drags Marinette to Tokyo to help the Stellars defeat a new supervillain, but Marinette soon realizes her friend has another, untold reason for this trip to Japan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 December 2025</li><li>Runtime: 51 minutes</li><li>Director: Jun Violet</li><li>Genres: Animation, Family, Action, Adventure, Fantasy</li><li>TMDB rating: 8.4/10 (73 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anouck Hautbois as Marinette / Ladybug (voice)</li><li>Clara Soares as Kagami / Ryuko (voice)</li><li>Claire Baradat as Miki (voice)</li><li>Grégory Laisné as Kazuno (voice)</li><li>Benjamin Bollen as Adrien / Félix (voice)</li><li>Marie Nonnenmacher as Tikki (voice)</li><li>Jeanne Chartier as Tomoe Tsurugi (voice)</li><li>Jaynélia Coadou as Mayotte (voice)</li><li>Charlotte Hervieux as Yu-Lu (voice)</li><li>Bruno Magne as Modeleur (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "Miraculous World: Tokyo, Stellar Force (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:116811": {
+   "d": "Berberian Sound Studio (2012): Horror/Drama film. Story: In the 1970s, a British sound technician is brought… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y23fv507CBr4i0ODMlJd5JOU4AU.jpg",
+   "industry": "world",
+   "k": "Berberian Sound Studio, Berberian Sound Studio movie, Berberian Sound Studio cast, Berberian Sound Studio story, Berberian Sound Studio box office collection, Berberian Sound Studio budget, Berberian Sound Studio review, Berberian Sound Studio rating, Berberian Sound Studio release date, Berberian Sound Studio trailer, Berberian Sound Studio Horror, Berberian Sound Studio Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Toby Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Tonia Sotiropoulou"
+     },
+     {
+      "@type": "Person",
+      "name": "Cosimo Fusco"
+     },
+     {
+      "@type": "Person",
+      "name": "Hilda Péter"
+     },
+     {
+      "@type": "Person",
+      "name": "Layla Amir"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Berberian Sound Studio (2012): Horror/Drama film. Story: In the 1970s, a British sound technician is brought… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Strickland"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y23fv507CBr4i0ODMlJd5JOU4AU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=116811",
+    "name": "Berberian Sound Studio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-08-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=116811"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Berberian Sound Studio (2012)</h1>\n<p class=\"ssr-lead\">In the 1970s, a British sound technician is brought to Italy to work on the sound effects for a gruesome horror film. His nightmarish task slowly takes over his psyche, driving him to confront his own past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2012</li><li>Runtime: 92 minutes</li><li>Director: Peter Strickland</li><li>Genres: Horror, Drama, Thriller</li><li>TMDB rating: 6.0/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toby Jones as Gilderoy</li><li>Tonia Sotiropoulou as Elena</li><li>Cosimo Fusco as Francesco</li><li>Hilda Péter as Auditionee</li><li>Layla Amir as Equestrian Girl</li><li>Eugenia Caruso as Claudia</li><li>Antonio Mancino as Santini</li><li>Fatma Mohamed as Silvia</li><li>Chiara D&#x27;Anna as Elisa</li><li>Kata Bartsch as Screamer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel, IFC Films Unlimited Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Berberian Sound Studio (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:12211": {
    "d": "Highlander: Endgame (2000): Action/Adventure film. Story: Immortals Connor and Duncan Macleod join forces… See cast, budget $25M, and TMDB rating 4.8/10.",
@@ -258,6 +449,134 @@
    "t": "Highlander: Endgame (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:12311": {
+   "d": "Mutiny on the Bounty (1935): Adventure/Drama film. Story: Fletcher Christian successfully leads a revolt… See cast, budget $1.95M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/OBvT7h7Vt6qKGXJBNLDFnRhJEW.jpg",
+   "industry": "world",
+   "k": "Mutiny on the Bounty, Mutiny on the Bounty movie, Mutiny on the Bounty cast, Mutiny on the Bounty story, Mutiny on the Bounty box office collection, Mutiny on the Bounty budget, Mutiny on the Bounty review, Mutiny on the Bounty rating, Mutiny on the Bounty release date, Mutiny on the Bounty trailer, Mutiny on the Bounty Adventure, Mutiny on the Bounty Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charles Laughton"
+     },
+     {
+      "@type": "Person",
+      "name": "Clark Gable"
+     },
+     {
+      "@type": "Person",
+      "name": "Franchot Tone"
+     },
+     {
+      "@type": "Person",
+      "name": "Herbert Mundin"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Quillan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Mutiny on the Bounty (1935): Adventure/Drama film. Story: Fletcher Christian successfully leads a revolt… See cast, budget $1.95M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Frank Lloyd"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/OBvT7h7Vt6qKGXJBNLDFnRhJEW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12311",
+    "name": "Mutiny on the Bounty",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1935-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12311"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mutiny on the Bounty (1935)</h1>\n<p class=\"ssr-lead\">Fletcher Christian successfully leads a revolt against the ruthless Captain Bligh on the HMS Bounty. However, Bligh returns one year later, hell bent on revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 1935</li><li>Runtime: 132 minutes</li><li>Director: Frank Lloyd</li><li>Genres: Adventure, Drama, History</li><li>Budget: $1.95M</li><li>TMDB rating: 7.4/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charles Laughton as Captaine Bligh</li><li>Clark Gable as Lieutenant Fletcher Christian</li><li>Franchot Tone as Roger Byam</li><li>Herbert Mundin as Smith</li><li>Eddie Quillan as Tommy Ellison</li><li>Dudley Digges as Bacchus</li><li>Donald Crisp as Thomas Burkitt</li><li>Henry Stephenson as Joseph Banks</li><li>Francis Lister as Captain Nelson</li><li>Spring Byington as Mrs. Byam</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mutiny on the Bounty (1935) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1935"
+  },
+  "movie:12611": {
+   "d": "The Fury (1978): Horror/Science Fiction film. Story: When a devious plot separates CIA agent Peter Sandza… See cast, budget $5.5M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bgTgA6ZckxKMy0oQyEFenxmxdGK.jpg",
+   "industry": "world",
+   "k": "The Fury, The Fury movie, The Fury cast, The Fury story, The Fury box office collection, The Fury budget, The Fury review, The Fury rating, The Fury release date, The Fury Horror, The Fury Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kirk Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cassavetes"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Snodgress"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Durning"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Irving"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 435,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Fury (1978): Horror/Science Fiction film. Story: When a devious plot separates CIA agent Peter Sandza… See cast, budget $5.5M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian De Palma"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bgTgA6ZckxKMy0oQyEFenxmxdGK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12611",
+    "name": "The Fury",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-03-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12611"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Fury (1978)</h1>\n<p class=\"ssr-lead\">When a devious plot separates CIA agent Peter Sandza from his son, Robin, the distraught father manages to see through the ruse. Taken because of his psychic abilities, Robin is being held by Ben Childress, who is studying people with supernatural powers in hopes of developing their talents as weapons. Soon Peter pairs up with Gillian, a teen who has telekinesis, to find and rescue Robin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 March 1978</li><li>Runtime: 118 minutes</li><li>Director: Brian De Palma</li><li>Genres: Horror, Science Fiction, Thriller</li><li>Budget: $5.5M</li><li>TMDB rating: 6.3/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kirk Douglas as Peter Sandza</li><li>John Cassavetes as Ben Childress</li><li>Carrie Snodgress as Hester</li><li>Charles Durning as Dr. Jim McKeever</li><li>Amy Irving as Gillian Bellaver</li><li>Andrew Stevens as Robin Sandza</li><li>Fiona Lewis as Dr. Susan Charles</li><li>Carol Eve Rossen as Dr. Ellen Lindstrom</li><li>William Finley as Raymond Dunwoodie</li><li>Melody Thomas Scott as LaRue</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Fury (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
   "movie:1297311": {
    "d": "Quantum Supremacy (2026): Science Fiction/Animation film. Story: In a future threatened by rogue robots and an… See cast and TMDB rating 4.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/zEsFCfW7c8x2X7q3uLbZYoGka7O.jpg",
@@ -321,6 +640,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Quantum Supremacy (2026)</h1>\n<p class=\"ssr-lead\">In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity&#x27;s downfall in Quantum Supremacy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2026</li><li>Runtime: 77 minutes</li><li>Director: Jesse Baget</li><li>Genres: Science Fiction, Animation, Adventure, Action</li><li>TMDB rating: 4.8/10 (82 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cuba Gooding Jr. as Captain Marcus Monroe</li><li>Mike Ayiotis as Bronze</li><li>Storm Watters as KK/Rominoff</li><li>Andrew Helbig as Admiral Genus</li><li>Richie Ammons as Aggros</li><li>Art Brown as Detour</li><li>Tyler Gotch as Farenheit</li><li>Michael Hajintonis as Human Hostage</li><li>Steven Rathbone as Ice</li><li>Mike Ayiotis as Jumper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Midnight Pulp Amazon Channel, IndiePix Unlimited Amazon Channel, Bloodstream</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Bloodstream</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Quantum Supremacy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:14211": {
+   "d": "Prey (2007): Adventure/Horror film. Story: An American family on holiday in Africa becomes lost… See cast, TMDB rating 5.8/10, and release date 18 May 2007.",
+   "img": "https://image.tmdb.org/t/p/w780/rBOb3v35qgTXkNHkOW2UYiTZjPa.jpg",
+   "industry": "world",
+   "k": "Prey, Prey movie, Prey cast, Prey story, Prey box office collection, Prey budget, Prey review, Prey rating, Prey release date, Prey trailer, Prey Adventure, Prey Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bridget Moynahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Weller"
+     },
+     {
+      "@type": "Person",
+      "name": "Carly Schroeder"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Bartlett"
+     },
+     {
+      "@type": "Person",
+      "name": "Conner Dowds"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Prey (2007): Adventure/Horror film. Story: An American family on holiday in Africa becomes lost… See cast, TMDB rating 5.8/10, and release date 18 May 2007.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Darrell James Roodt"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Adventure",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rBOb3v35qgTXkNHkOW2UYiTZjPa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14211",
+    "name": "Prey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14211"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Prey (2007)</h1>\n<p class=\"ssr-lead\">An American family on holiday in Africa becomes lost in a game reserve and stalked by vicious killer lions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2007</li><li>Runtime: 92 minutes</li><li>Director: Darrell James Roodt</li><li>Genres: Adventure, Horror, Thriller</li><li>TMDB rating: 5.8/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bridget Moynahan as Amy Newman</li><li>Peter Weller as Tom Newman</li><li>Carly Schroeder as Jessica Newman</li><li>Jamie Bartlett as Crawford</li><li>Conner Dowds as David Newman</li><li>Marius Roberts as Brian</li><li>Mary-Ann Barlow as Ranger in Radio Room</li><li>Muso Sefatsa as Nephew</li><li>Jacob Makgoba as Local Hunter</li><li>Ashley Taylor as Rescue Chopper Ranger</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, Amazon Prime Video with Ads, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Prey (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:1422011": {
    "d": "It Ends (2026): Horror/Mystery film. Story: A group of recent grads head out on a late night… See cast, budget $80.0k, and TMDB rating 5.9/10.",
@@ -513,6 +896,134 @@
    "t": "Austenland (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:17711": {
+   "d": "The Adventures of Rocky & Bullwinkle (2000): Adventure/Animation film. Story: Rocky and Bullwinkle have been living off the… See cast and budget $76M.",
+   "img": "https://image.tmdb.org/t/p/w780/9K1y8HCokYpuU92jKauiFwu0y7P.jpg",
+   "industry": "world",
+   "k": "The Adventures of Rocky & Bullwinkle, The Adventures of Rocky & Bullwinkle movie, The Adventures of Rocky & Bullwinkle cast, The Adventures of Rocky & Bullwinkle story, The Adventures of Rocky & Bullwinkle box office collection, The Adventures of Rocky & Bullwinkle budget, The Adventures of Rocky & Bullwinkle review, The Adventures of Rocky & Bullwinkle rating, The Adventures of Rocky & Bullwinkle release date, The Adventures of Rocky & Bullwinkle Adventure, The Adventures of Rocky & Bullwinkle Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "June Foray"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Rene Russo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Piper Perabo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 4.3,
+     "worstRating": 0
+    },
+    "description": "The Adventures of Rocky & Bullwinkle (2000): Adventure/Animation film. Story: Rocky and Bullwinkle have been living off the… See cast and budget $76M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Des McAnuff"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9K1y8HCokYpuU92jKauiFwu0y7P.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17711",
+    "name": "The Adventures of Rocky & Bullwinkle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17711"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Adventures of Rocky &amp; Bullwinkle (2000)</h1>\n<p class=\"ssr-lead\">Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2000</li><li>Runtime: 92 minutes</li><li>Director: Des McAnuff</li><li>Genres: Adventure, Animation, Comedy, Family</li><li>Budget: $76M</li><li>TMDB rating: 4.3/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>June Foray as Rocky / Cartoon Natasha / Narrator&#x27;s Mother (voice)</li><li>Keith Scott as Bullwinkle / Narrator / Cartoon Boris / Cartoon Leader (voice)</li><li>Rene Russo as Natasha</li><li>Jason Alexander as Boris</li><li>Piper Perabo as Karen Sympathy</li><li>Randy Quaid as Cappy von Trapment</li><li>Robert De Niro as Fearless Leader</li><li>Jonathan Winters as Whoppa Chopper Pilot / Ohio Cop with Bullhorn / Jeb</li><li>Janeane Garofalo as Minnie Mogul</li><li>Carl Reiner as P.G. Biggershot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Adventures of Rocky & Bullwinkle (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
+  "movie:295011": {
+   "d": "Patient Zero (2018): Horror/Thriller film. Story: After an unprecedented global pandemic has turned the… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kpjp9Wqj6U4wdv4oSEe9FLkNhaQ.jpg",
+   "industry": "world",
+   "k": "Patient Zero, Patient Zero movie, Patient Zero cast, Patient Zero story, Patient Zero box office collection, Patient Zero budget, Patient Zero review, Patient Zero rating, Patient Zero release date, Patient Zero trailer, Patient Zero Horror, Patient Zero Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Dormer"
+     },
+     {
+      "@type": "Person",
+      "name": "Clive Standen"
+     },
+     {
+      "@type": "Person",
+      "name": "Agyness Deyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Stanley Tucci"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 422,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Patient Zero (2018): Horror/Thriller film. Story: After an unprecedented global pandemic has turned the… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stefan Ruzowitzky"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kpjp9Wqj6U4wdv4oSEe9FLkNhaQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=295011",
+    "name": "Patient Zero",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=295011"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Patient Zero (2018)</h1>\n<p class=\"ssr-lead\">After an unprecedented global pandemic has turned the majority of humankind into violent infected beings, Morgan, a man gifted with the ability to speak the infected&#x27;s new language, leads the last survivors on a hunt for patient zero and a cure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 2018</li><li>Runtime: 87 minutes</li><li>Director: Stefan Ruzowitzky</li><li>Genres: Horror, Thriller, Action, Drama</li><li>TMDB rating: 5.3/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Smith as Morgan</li><li>Natalie Dormer as Gina</li><li>Clive Standen as Colonel Knox</li><li>Agyness Deyn as Janet</li><li>Stanley Tucci as The Professor</li><li>John Bradley as Scooter</li><li>Colin McFarlane as General Pierce</li><li>James Northcote as &#x27;Pete Townshend&#x27;</li><li>Frederick Schmidt as &#x27;Joe Cocker&#x27;</li><li>Pippa Bennett-Warner as Linda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Patient Zero (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:31411": {
    "d": "The Cameraman (1928): Comedy/Romance film. Story: A photographer takes up newsreel shooting to impress… See cast and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/7Za5Riy12u1CUDXeqMUlDBweYAE.jpg",
@@ -703,6 +1214,245 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Anthem of the Heart (2015)</h1>\n<p class=\"ssr-lead\">A young girl had her voice magically taken away so that she would never hurt people with it, but her outlook changes when she encounters music and friendship. Will Naruse be able to convey the anthem of her heart?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 September 2015</li><li>Runtime: 119 minutes</li><li>Director: Tatsuyuki Nagai</li><li>Genres: Animation, Drama, Music, Romance</li><li>TMDB rating: 7.6/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Inori Minase as Jun Naruse (voice)</li><li>Koki Uchiyama as Takumi Sakagami (voice)</li><li>Sora Amamiya as Natsuki Nito (voice)</li><li>Yoshimasa Hosoya as Daiki Tazaki (voice)</li><li>Taishi Murata as Itsuki Mishima (voice)</li><li>Rie Takahashi as Yōko Uno (voice)</li><li>Shizuka Ishigami as Asuka Eda (voice)</li><li>Takanori Ooyama as Motoki Aizawa (voice)</li><li>Makoto Furukawa as Toshinori Iwaki (voice)</li><li>Keiji Fujiwara as Kazuki Joushima (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Anthem of the Heart (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:392011": {
+   "d": "Kedi (2017): Documentary film. Story: A profile of Istanbul and its unique people, seen… See cast, TMDB rating 7.5/10, and release date 10 February 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
+   "industry": "world",
+   "k": "Kedi, Kedi movie, Kedi cast, Kedi story, Kedi box office collection, Kedi budget, Kedi review, Kedi rating, Kedi release date, Kedi trailer, Kedi Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bülent Üstün"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Kedi (2017): Documentary film. Story: A profile of Istanbul and its unique people, seen… See cast, TMDB rating 7.5/10, and release date 10 February 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ceyda Torun"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=392011",
+    "name": "Kedi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=392011"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kedi (2017)</h1>\n<p class=\"ssr-lead\">A profile of Istanbul and its unique people, seen through the eyes of the most mysterious and beloved animal humans have ever known, the Cat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 2017</li><li>Runtime: 79 minutes</li><li>Director: Ceyda Torun</li><li>Genres: Documentary</li><li>TMDB rating: 7.5/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bülent Üstün as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: aha</li></ul>\n</article>",
+   "t": "Kedi (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:400411": {
+   "d": "Satanic (2016): Horror/Mystery film. Story: Four friends on their way to Coachella stop off in… See cast, TMDB rating 4.3/10, and release date 1 July 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/vjRJbdQO5gb7mm6mwk1BQUCGnRH.jpg",
+   "industry": "world",
+   "k": "Satanic, Satanic movie, Satanic cast, Satanic story, Satanic box office collection, Satanic budget, Satanic review, Satanic rating, Satanic release date, Satanic trailer, Satanic Horror, Satanic Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sarah Hyland"
+     },
+     {
+      "@type": "Person",
+      "name": "Clara Mamet"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Krueger"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Chon"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Dalah"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 425,
+     "ratingValue": 4.3,
+     "worstRating": 0
+    },
+    "description": "Satanic (2016): Horror/Mystery film. Story: Four friends on their way to Coachella stop off in… See cast, TMDB rating 4.3/10, and release date 1 July 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey G. Hunt"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vjRJbdQO5gb7mm6mwk1BQUCGnRH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=400411",
+    "name": "Satanic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=400411"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Satanic (2016)</h1>\n<p class=\"ssr-lead\">Four friends on their way to Coachella stop off in Los Angeles to tour true-crime occult sites, only to encounter a mysterious young runaway who puts them on a terrifying path to ultimate horror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2016</li><li>Runtime: 84 minutes</li><li>Director: Jeffrey G. Hunt</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 4.3/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Hyland as Chloe</li><li>Clara Mamet as Elise</li><li>Steven Krueger as David</li><li>Justin Chon as Seth</li><li>Sophie Dalah as Alice</li><li>Anthony Carrigan as Sexy Bald Goth</li><li>Devanny Pinn as Goth</li><li>Marc Barnes as James the Hotel Clerk</li><li>Jeffrey G. Hunt as Yelling guy in Porsche</li><li>Stevin Knight as Satanist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+, Magnolia Selects Amazon Channel, Monsters and Nightmares Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Satanic (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:4911": {
+   "d": "Dark Blue (2002): Crime/Thriller film. Story: Set during the Rodney King riots, a robbery homicide… See cast, budget $15M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dmpYhHScw2B0PD9XM0HG0NF0q7T.jpg",
+   "industry": "world",
+   "k": "Dark Blue, Dark Blue movie, Dark Blue cast, Dark Blue story, Dark Blue box office collection, Dark Blue budget, Dark Blue review, Dark Blue rating, Dark Blue release date, Dark Blue trailer, Dark Blue Crime, Dark Blue Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kurt Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Speedman"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Michele"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ving Rhames"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 408,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Dark Blue (2002): Crime/Thriller film. Story: Set during the Rodney King riots, a robbery homicide… See cast, budget $15M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Shelton"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dmpYhHScw2B0PD9XM0HG0NF0q7T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4911",
+    "name": "Dark Blue",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-12-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4911"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dark Blue (2002)</h1>\n<p class=\"ssr-lead\">Set during the Rodney King riots, a robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2002</li><li>Runtime: 118 minutes</li><li>Director: Ron Shelton</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as Eldon Perry</li><li>Scott Speedman as Bobby Keough</li><li>Michael Michele as Beth Williamson</li><li>Brendan Gleeson as Jack van Meter</li><li>Ving Rhames as Arthur Holland</li><li>Kurupt as Darryl Orchard</li><li>Dash Mihok as Gary Sidwell</li><li>Jonathan Banks as James Barcomb</li><li>Lolita Davidovich as Sally Perry</li><li>Khandi Alexander as Janelle Holland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dark Blue (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:7511": {
+   "d": "The Last Kiss (2006): Comedy/Drama film. Story: Michael has a great job, has his 4 best friends, and… See cast, budget $20M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hLSwAHrNDSVyBY2VrlbAuTG30ep.jpg",
+   "industry": "world",
+   "k": "The Last Kiss, The Last Kiss movie, The Last Kiss cast, The Last Kiss story, The Last Kiss box office collection, The Last Kiss budget, The Last Kiss review, The Last Kiss rating, The Last Kiss release date, The Last Kiss trailer, The Last Kiss Comedy, The Last Kiss Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zach Braff"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacinda Barrett"
+     },
+     {
+      "@type": "Person",
+      "name": "Casey Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Bilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Weston"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 416,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Last Kiss (2006): Comedy/Drama film. Story: Michael has a great job, has his 4 best friends, and… See cast, budget $20M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tony Goldwyn"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hLSwAHrNDSVyBY2VrlbAuTG30ep.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7511",
+    "name": "The Last Kiss",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7511"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Kiss (2006)</h1>\n<p class=\"ssr-lead\">Michael has a great job, has his 4 best friends, and is in love with a beautiful girl at 30. He loves Jenna but his life seems predictable until someone else enters his life. It seems that everybody&#x27;s having relationship problems.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2006</li><li>Runtime: 115 minutes</li><li>Director: Tony Goldwyn</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $20M</li><li>TMDB rating: 6.1/10 (416 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zach Braff as Michael</li><li>Jacinda Barrett as Jenna</li><li>Casey Affleck as Chris</li><li>Rachel Bilson as Kim</li><li>Michael Weston as Izzy</li><li>Eric Christian Olsen as Kenny</li><li>Marley Shelton as Arianna</li><li>Lauren Lee Smith as Lisa</li><li>Harold Ramis as Professor Bowler</li><li>Blythe Danner as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Last Kiss (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "tv:1411": {
    "d": "Person of Interest (2011) is an Action & Adventure and Crime TV series. Explore its story: John Reese, former CIA paramilitary operative, is… and cast.",

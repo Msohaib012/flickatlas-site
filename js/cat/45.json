@@ -1,7 +1,134 @@
 {
  "bucket": "45",
- "count": 35,
+ "count": 48,
  "titles": {
+  "movie:10945": {
+   "backdrop_path": "/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Terry Dolittle",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Marty Phillips",
+     "n": "Stephen Collins"
+    },
+    {
+     "c": "Jeremy Talbott",
+     "n": "John Wood"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Carol Kane"
+    },
+    {
+     "c": "Liz Carlson",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Mr. Page",
+     "n": "Peter Michael Goetz"
+    },
+    {
+     "c": "Archer Lincoln",
+     "n": "Roscoe Lee Browne"
+    },
+    {
+     "c": "Sarah Billings",
+     "n": "Sara Botsford"
+    },
+    {
+     "c": "Mark Van Meter",
+     "n": "Jeroen Krabbé"
+    },
+    {
+     "c": "Carl",
+     "n": "Vyto Ruginis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Penny Marshall"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 10945,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Terry works for a bank, and uses computers to communicate with clients all over the world. One day, she gets a strange coded message from an unknown source. After decoding the message, Terry becomes embroiled in an espionage ring. People are killed, and Terry is chased. Throughout, she remains in contact with this mysterious person, who needs Terry's help save his life.",
+   "popularity": 1.9997,
+   "poster_path": "/znVUM7RUBwQ16Q9lTmuMpaWJ7so.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-10-09",
+   "revenue": 29844101,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A man named Jack has got her jumpin' and the world may never be the same!",
+   "title": "Jumpin' Jack Flash",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.077,
+   "vote_count": 407
+  },
   "movie:1171145": {
    "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
    "budget": 90000000,
@@ -115,6 +242,105 @@
    "type": "movie",
    "vote_average": 7.02,
    "vote_count": 1489
+  },
+  "movie:12145": {
+   "backdrop_path": "/pS0XZuNd7ciH5oDR1xfmAUDnTev.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Rollo Lee",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Willa Weston",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Vince McCain / Rod McCain",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Adrian \"Bugsy\" Malone",
+     "n": "Michael Palin"
+    },
+    {
+     "c": "Reggie",
+     "n": "Ronnie Corbett"
+    },
+    {
+     "c": "Cub",
+     "n": "Carey Lowell"
+    },
+    {
+     "c": "Sydney Lotterby",
+     "n": "Robert Lindsay"
+    },
+    {
+     "c": "Neville Coltrane",
+     "n": "Bille Brown"
+    },
+    {
+     "c": "Gerry",
+     "n": "Derek Griffiths"
+    },
+    {
+     "c": "Pip",
+     "n": "Cynthia Cleese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Young",
+    "Fred Schepisi"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 12145,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ex-policeman Rollo Lee is sent to run Marwood Zoo, the newly acquired business of a New Zealand tycoon. In order to meet high profit targets and keep the zoo open, Rollo enforces a new 'fierce creatures' policy, whereby only the most impressive and dangerous animals are allowed to remain in the zoo. However, the keepers are less enthusiastic about complying with these demands.",
+   "popularity": 1.3636,
+   "poster_path": "/1Wl0zSEngmsTXjQMVE0GD5s85cM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-01-23",
+   "revenue": 9381260,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't pet them.",
+   "title": "Fierce Creatures",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.173,
+   "vote_count": 408
   },
   "movie:1288445": {
    "backdrop_path": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
@@ -941,6 +1167,494 @@
    "vote_average": 6.251,
    "vote_count": 446
   },
+  "movie:21845": {
+   "backdrop_path": "/AsiZIxTfcSSj2Ti9s88F17pzjrF.jpg",
+   "budget": 31000000,
+   "cast": [
+    {
+     "c": "Henry Rowengartner",
+     "n": "Thomas Ian Nicholas"
+    },
+    {
+     "c": "Chet Steadman",
+     "n": "Gary Busey"
+    },
+    {
+     "c": "Sal Martinella",
+     "n": "Albert Hall"
+    },
+    {
+     "c": "Mary Rowengartner",
+     "n": "Amy Morton"
+    },
+    {
+     "c": "Larry 'Fish' Fisher",
+     "n": "Dan Hedaya"
+    },
+    {
+     "c": "Jack Bradfield",
+     "n": "Bruce Altman"
+    },
+    {
+     "c": "Bob Carson",
+     "n": "Eddie Bracken"
+    },
+    {
+     "c": "Clark (as Robert Gorman)",
+     "n": "Robert Hy Gorman"
+    },
+    {
+     "c": "George",
+     "n": "Patrick LaBrecque"
+    },
+    {
+     "c": "Phil Brickma",
+     "n": "Daniel Stern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Daniel Stern"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 21845,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the cast comes off his once broken arm, a 12-year-old boy can throw a 100-mile-an-hour fastball, and the Chicago Cubs want him as their new pitcher.",
+   "popularity": 2.1934,
+   "poster_path": "/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-07-07",
+   "revenue": 56500758,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Chicago Cubs needed a miracle... They got Henry Rowengartner.",
+   "title": "Rookie of the Year",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.191,
+   "vote_count": 413
+  },
+  "movie:22345": {
+   "backdrop_path": "/ywSzDrauG6R52H2zg0HkrPRgvYE.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Elena Kinder",
+     "n": "Kathleen Turner"
+    },
+    {
+     "c": "Heep",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Robin",
+     "n": "Kim Cattrall"
+    },
+    {
+     "c": "Dan",
+     "n": "Peter MacNicol"
+    },
+    {
+     "c": "Lenny",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Margo",
+     "n": "Ruby Dee"
+    },
+    {
+     "c": "Dickie",
+     "n": "Kyle Howard"
+    },
+    {
+     "c": "Mayor",
+     "n": "Kaye Ballard"
+    },
+    {
+     "c": "Sly / Whit",
+     "n": "Leo Fitzgerald"
+    },
+    {
+     "c": "Sly / Whit",
+     "n": "Myles Fitzgerald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bob Clark"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Family"
+   ],
+   "id": 22345,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "BabyCo is the world's leading manufacturer in baby products. However, what the public doesn't know, is that Drs Kinder and Heep, two of its most brilliant scientists, are tirelessly working in complete secrecy to crack the indecipherable code to 'baby talk': a highly sophisticated language, and the key to the secrets of the universe. Before long, problems arise when mischievous Sly, the smartest of the toddlers, escapes confinement, bent on uniting all babies to free those trapped in the laboratory. Now, Kinder and Heep must find Sly before it is too late.",
+   "popularity": 1.9138,
+   "poster_path": "/7zvPhjHkz5YEMUMPyvANCR96RJA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-03-12",
+   "revenue": 36450736,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Think innocent. Think helpless. Think again. Naps are history.",
+   "title": "Baby Geniuses",
+   "trailer": {
+    "key": "-gDV8LSw4NY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.081,
+   "vote_count": 432
+  },
+  "movie:225745": {
+   "backdrop_path": "/nFKxirrjjSTbz2rryfJvvG5MLkV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rintarou Okabe (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Kurisu Makise (voice)",
+     "n": "Asami Imai"
+    },
+    {
+     "c": "Itaru Hashida (voice)",
+     "n": "Tomokazu Seki"
+    },
+    {
+     "c": "Mayuri Shiina (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Suzuha Amane (voice)",
+     "n": "Yukari Tamura"
+    },
+    {
+     "c": "Nyan-Nyan Faris (voice)",
+     "n": "Haruko Momoi"
+    },
+    {
+     "c": "Moeka Kiryuu (voice)",
+     "n": "Saori Goto"
+    },
+    {
+     "c": "Yuugo Tennouji (voice)",
+     "n": "Masaki Terasoma"
+    },
+    {
+     "c": "Ruka Urushibara (voice)",
+     "n": "Yu Kobayashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Takuya Sato",
+    "Hiroshi Hamasaki",
+    "Kanji Wakabayashi"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Animation",
+    "Drama"
+   ],
+   "id": 225745,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "One year after the events of the anime, Rintarou begins to feel the repercussions of extensive time travel, and eventually completely fades from reality. Kurisu, being the only companion to remember him, now must find a way to bring him back.",
+   "popularity": 2.3829,
+   "poster_path": "/bXhogkZCR0aOQ077rfMULYbDmtH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-04-20",
+   "revenue": 4843719,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "No one knows what the future holds. That’s why its potential is infinite.",
+   "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+   "trailer": {
+    "key": "kUkcQb-K3KU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.582,
+   "vote_count": 417
+  },
+  "movie:28145": {
+   "backdrop_path": "/aNGoAAVZWxyOLcGRBJb46nXDdDt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gloria Beatty",
+     "n": "Jane Fonda"
+    },
+    {
+     "c": "Robert Syverton",
+     "n": "Michael Sarrazin"
+    },
+    {
+     "c": "Alice LeBlanc",
+     "n": "Susannah York"
+    },
+    {
+     "c": "Rocky Gravo",
+     "n": "Gig Young"
+    },
+    {
+     "c": "Sailor",
+     "n": "Red Buttons"
+    },
+    {
+     "c": "Ruby Bates",
+     "n": "Bonnie Bedelia"
+    },
+    {
+     "c": "Rollo",
+     "n": "Michael Conrad"
+    },
+    {
+     "c": "James Bates",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "Turkey",
+     "n": "Al Lewis"
+    },
+    {
+     "c": "Joel",
+     "n": "Robert Fields"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sydney Pollack"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 28145,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the midst of the Great Depression, manipulative emcee Rocky enlists contestants for a dance marathon offering a $1,500 cash prize. Among them are a failed actress, a middle-aged sailor, a delusional blonde and a pregnant girl.",
+   "popularity": 2.5791,
+   "poster_path": "/7wVLBgriOQpT5RrufAFCdCSUp7M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1969-12-10",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "People are the ultimate spectacle.",
+   "title": "They Shoot Horses, Don't They?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.577,
+   "vote_count": 392
+  },
   "movie:336845": {
    "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
    "budget": 0,
@@ -1041,6 +1755,196 @@
    "type": "movie",
    "vote_average": 7.275,
    "vote_count": 453
+  },
+  "movie:347945": {
+   "backdrop_path": "/d3dDgrzE5DDR5vDe4qNbXmN57ey.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Beale",
+     "n": "Chad McKnight"
+    },
+    {
+     "c": "Abby",
+     "n": "Brianne Davis"
+    },
+    {
+     "c": "Chuck",
+     "n": "AJ Bowen"
+    },
+    {
+     "c": "Matty",
+     "n": "Scott Poythress"
+    },
+    {
+     "c": "Klaus Meisner",
+     "n": "Michael Ironside"
+    },
+    {
+     "c": "Helen Meisner",
+     "n": "Claire Bronson"
+    },
+    {
+     "c": "Clerk",
+     "n": "Wade Tilton"
+    },
+    {
+     "c": "Helen (voice) (uncredited)",
+     "n": "Sergine Dumais"
+    },
+    {
+     "c": "Resident (uncredited)",
+     "n": "Derek Ryan Duke"
+    },
+    {
+     "c": "Waitress (uncredited)",
+     "n": "Elle Sunkara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jacob Gentry"
+   ],
+   "genres": [
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 347945,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A daring physicist travels into the past to stop a mysterious woman from stealing his invention. But once there, he uncovers a surprising truth about the machine, the woman, and his own fractured reality.",
+   "popularity": 1.1843,
+   "poster_path": "/wGHoYDswvx96PVF43qFErVAnQHS.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-22",
+   "revenue": 4505,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To save his future he must alter his past.",
+   "title": "Synchronicity",
+   "trailer": {
+    "key": "E1el06Ic5Ts",
+    "name": "Synchronicity - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.725,
+   "vote_count": 434
   },
   "movie:351145": {
    "backdrop_path": "/g1AKuu59k5tC9Cukjns0VmH1wiI.jpg",
@@ -1376,6 +2280,213 @@
    "vote_average": 7.27,
    "vote_count": 455
   },
+  "movie:39345": {
+   "backdrop_path": "/uwCB4AzJlhnzy3EAezzcMETWMB0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wendy",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Gabby",
+     "n": "Shelley Duvall"
+    },
+    {
+     "c": "Geri",
+     "n": "Cathy Moriarty"
+    },
+    {
+     "c": "Fanny",
+     "n": "Teri Garr"
+    },
+    {
+     "c": "Desmond Spellman",
+     "n": "George Hamilton"
+    },
+    {
+     "c": "Casper (voice)",
+     "n": "Jeremy Foley"
+    },
+    {
+     "c": "Stretch (voice)",
+     "n": "Jim Ward"
+    },
+    {
+     "c": "Fatso (voice)",
+     "n": "Jess Harnell"
+    },
+    {
+     "c": "Jules",
+     "n": "Richard Moll"
+    },
+    {
+     "c": "Vincent",
+     "n": "Vincent Schiavelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sean McNamara"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 39345,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a warlock threatens Wendy the Good Little Witch, she and her aunts hide out at a resort where Casper the Ghost is vacationing with his uncles. Although Casper and Wendy are told ghosts and witches don't get along, the two are kindred spirits! This spooky family-friendly adventure finds Casper and Wendy bridging the ghost-witch divide to battle the warlock who is intent on destroying Wendy.",
+   "popularity": 2.4043,
+   "poster_path": "/35bR7hYwUNzNF0HNFxM3rv5OxtS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1998-09-10",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Bewitching New Live-Action Movie!",
+   "title": "Casper Meets Wendy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.943,
+   "vote_count": 430
+  },
+  "movie:433945": {
+   "backdrop_path": "/btjMe2wSFZKA01JdQFOusm7K6rT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ken Kaneki",
+     "n": "Masataka Kubota"
+    },
+    {
+     "c": "Toka Kirishima",
+     "n": "Yoshiko Sengen"
+    },
+    {
+     "c": "Kotaro Amon",
+     "n": "Nobuyuki Suzuki"
+    },
+    {
+     "c": "Kureo Mado",
+     "n": "Yo Oizumi"
+    },
+    {
+     "c": "Rize Kamishiro",
+     "n": "Yu Aoi"
+    },
+    {
+     "c": "Hinami Fueguchi",
+     "n": "Hiyori Sakurada"
+    },
+    {
+     "c": "Kuzen Yoshimura",
+     "n": "Kunio Murai"
+    },
+    {
+     "c": "Hideyoshi Nagachika",
+     "n": "Kai Ogasawara"
+    },
+    {
+     "c": "Nishiki Nishio",
+     "n": "Shunya Shiraishi"
+    },
+    {
+     "c": "Royko Fueguchi",
+     "n": "Shoko Aida"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Kentaro Hagiwara"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 433945,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A Tokyo college student is attacked by a ghoul, a super-powered human who feeds on human flesh. He survives, but has become part ghoul and becomes a fugitive on the run.",
+   "popularity": 1.292,
+   "poster_path": "/m6MzYJVfXMjN4E1JB2pc1iud3gI.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-07-16",
+   "revenue": 5379371,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Humans are no longer at the top of the food chain",
+   "title": "Tokyo Ghoul",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 391
+  },
   "movie:43645": {
    "backdrop_path": "/cpoCmsmKGsqxwSRPWFKegZbmoQz.jpg",
    "budget": 0,
@@ -1622,6 +2733,187 @@
    "vote_average": 6.5,
    "vote_count": 444
   },
+  "movie:490445": {
+   "backdrop_path": "/51GkNZXh2Rfoml75XIcfgFjnDP5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Françoise",
+     "n": "Miou-Miou"
+    },
+    {
+     "c": "Rose",
+     "n": "Camille Cottin"
+    },
+    {
+     "c": "Alice",
+     "n": "Camille Chamoux"
+    },
+    {
+     "c": "Thierry",
+     "n": "Johan Heldenbergh"
+    },
+    {
+     "c": "Lily",
+     "n": "Olivia Côte"
+    },
+    {
+     "c": "Charlemagne",
+     "n": "Youssef Hajdi"
+    },
+    {
+     "c": "Félix",
+     "n": "Elliot Daurat"
+    },
+    {
+     "c": "Sébastien",
+     "n": "Thomas Scimeca"
+    },
+    {
+     "c": "Romain",
+     "n": "Gunther Love"
+    },
+    {
+     "c": "Taxi driver",
+     "n": "Vincent Furic"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Eloïse Lang"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 490445,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Françoise has just been dumped by her husband for a much younger woman. In order to cheer her up, and to celebrate her 60th birthday, sisters Rose and Alice decide to take their mother to a resort on the tropical island of Reunion so they can relax, work on their tans, and have too many margaritas. But when Rose pays a one-night stand, Thierry, to show her mother a good time, their holiday plans start to unravel.",
+   "popularity": 0.7812,
+   "poster_path": "/aN5kxWVoYsWemJLm7VroXsOFXQM.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-04-18",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dumped",
+   "trailer": {
+    "key": "vsw7n4u7gIs",
+    "name": "Dumped - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 385
+  },
+  "movie:52345": {
+   "backdrop_path": "/eAOOeqa14oCxgdKxLvpDYxCJhqQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leléu",
+     "n": "Selton Mello"
+    },
+    {
+     "c": "Lisbela",
+     "n": "Débora Falabella"
+    },
+    {
+     "c": "Inaura",
+     "n": "Virginia Cavendish"
+    },
+    {
+     "c": "Douglas",
+     "n": "Bruno Garcia"
+    },
+    {
+     "c": "Cabo Citonho",
+     "n": "Tadeu Mello"
+    },
+    {
+     "c": "Tenente Guedes",
+     "n": "André Mattos"
+    },
+    {
+     "c": "Francisquinha",
+     "n": "Lívia Falcão"
+    },
+    {
+     "c": "Frederico Evandro",
+     "n": "Marco Nanini"
+    },
+    {
+     "c": "Prazeres",
+     "n": "Heloísa Périssé"
+    },
+    {
+     "c": "Homem jurado de morte",
+     "n": "Aramis Trindade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Guel Arraes"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 52345,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Lisbela is a young woman who loves going to the movies. Leléu is a con man, going from town to town selling all sort of things and performing as master of ceremonies for some cheesy numbers, such as the woman who gets transformed into a gorilla. He gets involved with Linaura, a sexy and beautiful woman who happens to be the wife of the most frightening hitman of the place. The hitman finds out his wife's affair and goes after Leléu, who has to leave in a hurry. In another town, he meets and falls instantly in love with Lisbela, who is engaged to Douglas, a hillbilly who tries hard to pass for a cosmopolitan Rio de Janeiro dweller.",
+   "popularity": 0.1879,
+   "poster_path": "/raCdo5Hjpd3uXbpSd1JZ7tEyE31.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2003-08-22",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lisbela and the Prisoner",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 411
+  },
   "movie:539745": {
    "backdrop_path": "/rg1E0Ya6YYiGPcg5p1ZIkDd8u3F.jpg",
    "budget": 35000000,
@@ -1772,6 +3064,135 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 122
+  },
+  "movie:54445": {
+   "backdrop_path": "/qZCBveX62G2yNJ9YHqEI2lKCdZN.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Paul Cutler",
+     "n": "Gabriel Macht"
+    },
+    {
+     "c": "Walter Hatch",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Kim Byers",
+     "n": "Carly Pope"
+    },
+    {
+     "c": "Inspector Hollander",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Rose Walker",
+     "n": "Kristanna Loken"
+    },
+    {
+     "c": "Danny Stockton",
+     "n": "Matt Bushell"
+    },
+    {
+     "c": "Justin Kellogg",
+     "n": "Nicholas Gonzalez"
+    },
+    {
+     "c": "Lori Barton",
+     "n": "Shannon Kane"
+    },
+    {
+     "c": "Wayne Wolport",
+     "n": "Gino Anthony Pesi"
+    },
+    {
+     "c": "Kyle Watters",
+     "n": "Kevin Phillips"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Benny Boom"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 54445,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Los Angeles S.W.A.T. officer, Lt. Paul Cutler, is sent to train the Detroit S.W.A.T. team on new anti-terrorism and homeland security techniques. Cutler has a hard time settling into his assignment as he locks horns with his new captain and encounters resistance from the team he must lead. Cutler begins to adjust to his new assignment, starting a budding romance with police psychologist Kim Byers along the way. Unexpectedly, a routine hostage call turns deadly, and a relentless ex-government agent named Walter Hatch vows revenge on Cutler and the entire S.W.A.T. team for killing the woman he loves. Cutler must use his considerable S.W.A.T. training and knowledge to save his teammates and defeat a trained killer.",
+   "popularity": 2.6705,
+   "poster_path": "/aUr0RzL0jDxdlpJsOiBy4mkLC0i.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-03-01",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "S.W.A.T.: Firefight",
+   "trailer": {
+    "key": "m1OCLApuHjE",
+    "name": "Official Trailer for S.W.A.T.: FIREFIGHT on Blu-ray & DVD!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 422
   },
   "movie:614945": {
    "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
@@ -2097,6 +3518,158 @@
    "type": "movie",
    "vote_average": 5.963,
    "vote_count": 451
+  },
+  "movie:9045": {
+   "backdrop_path": "/dHjb0duA8MwjiMJykF7dLcEoKBm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kurt Gerstein",
+     "n": "Ulrich Tukur"
+    },
+    {
+     "c": "Riccardo Fontana",
+     "n": "Mathieu Kassovitz"
+    },
+    {
+     "c": "The Doctor",
+     "n": "Ulrich Mühe"
+    },
+    {
+     "c": "Thr Cardinal",
+     "n": "Michel Duchaussoy"
+    },
+    {
+     "c": "The Pope",
+     "n": "Marcel Iureș"
+    },
+    {
+     "c": "Count Fontana",
+     "n": "Ion Caramitru"
+    },
+    {
+     "c": "Gerstein's Father",
+     "n": "Friedrich von Thun"
+    },
+    {
+     "c": "Mrs. Gerstein",
+     "n": "Antje Schmidt"
+    },
+    {
+     "c": "Pastor Dibelius",
+     "n": "Günther Maria Halmer"
+    },
+    {
+     "c": "Grawitz",
+     "n": "Hanns Zischler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Costa-Gavras"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 9045,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Kurt Gerstein—a member of the Institute for Hygiene of the Waffen-SS—is appalled to discover that a poison gas he helped discover is being used to kill Jews. Driven by his conscience to alert the rest of the world, Gerstein teams up with a young Jesuit priest, Riccardo Fontana, but their protestations fall on deaf ears in the Vatican.",
+   "popularity": 1.8363,
+   "poster_path": "/duNRweZ6PBpFSVNLJYexZ2XEqr0.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-02-27",
+   "revenue": 0,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Two Men, Two Worlds, One Cause.",
+   "title": "Amen.",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.956,
+   "vote_count": 394
   },
   "movie:972445": {
    "backdrop_path": "/cbmeaWZtTA40He88eI8ua7kttJE.jpg",

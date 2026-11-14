@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 28,
+ "count": 35,
  "titles": {
   "movie:10390": {
    "d": "For Love of the Game (1999): Drama/Romance film. Story: A baseball legend almost finished with his… See cast, budget $50M, and TMDB rating 6.4/10.",
@@ -716,6 +716,137 @@
    "t": "We're Back! A Dinosaur's Story (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
   },
+  "movie:2290": {
+   "d": "Jakob the Liar (1999): Comedy/Drama film. Story: In 1944 Poland, a Jewish shop keeper named Jakob is… See cast, budget $45M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pRYrWzkFqtPUwfEXQcnyvSVRK81.jpg",
+   "industry": "world",
+   "k": "Jakob the Liar, Jakob the Liar movie, Jakob the Liar cast, Jakob the Liar story, Jakob the Liar box office collection, Jakob the Liar budget, Jakob the Liar review, Jakob the Liar rating, Jakob the Liar release date, Jakob the Liar Comedy, Jakob the Liar Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robin Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Liev Schreiber"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Taylor-Gordon"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Arkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Jeter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Jakob the Liar (1999): Comedy/Drama film. Story: In 1944 Poland, a Jewish shop keeper named Jakob is… See cast, budget $45M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Kassovitz"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pRYrWzkFqtPUwfEXQcnyvSVRK81.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2290",
+    "name": "Jakob the Liar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2290"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jakob the Liar (1999)</h1>\n<p class=\"ssr-lead\">In 1944 Poland, a Jewish shop keeper named Jakob is summoned to ghetto headquarters after being caught out after curfew. While waiting for the German Kommondant, Jakob overhears a German radio broadcast about Russian troop movements. Returned to the ghetto, the shopkeeper shares his information with a friend and then rumors fly that there is a secret radio within the ghetto.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 1999</li><li>Runtime: 120 minutes</li><li>Director: Peter Kassovitz</li><li>Genres: Comedy, Drama, History</li><li>Budget: $45M</li><li>TMDB rating: 6.7/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robin Williams as Jakob Heym</li><li>Liev Schreiber as Mischa</li><li>Hannah Taylor-Gordon as Lina Kronstein</li><li>Alan Arkin as Max Frankfurter</li><li>Michael Jeter as Avron</li><li>Bob Balaban as Kowalsky</li><li>Armin Mueller-Stahl as Prof. Dr. Kirschbaum</li><li>Éva Igó as Lina&#x27;s Mother</li><li>István Bálint as Lina&#x27;s Father</li><li>Mark Margolis as Fajngold</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Jakob the Liar (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
+  "movie:248390": {
+   "d": "Le Crocodile du Botswanga (2014): Comedy film. Story: Leslie Konda young talented French footballer spotted… See cast, budget $10.92M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zKmAOcB6Y0FQd6R1Vm873INJ952.jpg",
+   "industry": "world",
+   "k": "Le Crocodile du Botswanga, Le Crocodile du Botswanga movie, Le Crocodile du Botswanga cast, Le Crocodile du Botswanga story, Le Crocodile du Botswanga box office collection, Le Crocodile du Botswanga budget, Le Crocodile du Botswanga review, Le Crocodile du Botswanga rating, Le Crocodile du Botswanga release date, Le Crocodile du Botswanga Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Eboué"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Ngijol"
+     },
+     {
+      "@type": "Person",
+      "name": "Franck de la Personne"
+     },
+     {
+      "@type": "Person",
+      "name": "Etienne Chicot"
+     },
+     {
+      "@type": "Person",
+      "name": "Ériq Ebouaney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Le Crocodile du Botswanga (2014): Comedy film. Story: Leslie Konda young talented French footballer spotted… See cast, budget $10.92M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Eboué"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Steketee"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zKmAOcB6Y0FQd6R1Vm873INJ952.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=248390",
+    "name": "Le Crocodile du Botswanga",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=248390"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Le Crocodile du Botswanga (2014)</h1>\n<p class=\"ssr-lead\">Leslie Konda young talented French footballer spotted in his teens by Didier , a small-scale agent who was able to take under his wing , has signed its first contract striker in a large Spanish club . At the same time, his growing reputation and its origins Botswanga , small, poor state of Central Africa, earned him an invitation by the President of the Republic in person Babimbi Bobo , a football enthusiast, freshly installed in power after a coup military state. Leslie therefore went for the first time in the country of his ancestors accompanied by Didier to be decorated by the President Bobo which quickly turns out, despite his great humanist discourse be a megalomaniac and paranoid dictator under the bad influence of his wife .dropoff window Hardly have they landed Bobo enters into a sordid deal with Didier put pressure on his player so that it plays for the national team : Crocodiles of Botswanga ...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2014</li><li>Runtime: 90 minutes</li><li>Director: Fabrice Eboué, Lionel Steketee</li><li>Genres: Comedy</li><li>Budget: $10.92M</li><li>TMDB rating: 5.3/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Eboué as Didier</li><li>Thomas Ngijol as Bobo</li><li>Franck de la Personne as Mr. Pierre</li><li>Etienne Chicot as Jacques Taucard</li><li>Ériq Ebouaney as Lieutenant Yaya</li><li>Claudia Tagbo as Jacqueline</li><li>Ibrahim Koma as Leslie Konda</li><li>Hélène Kuhn as Léa</li><li>Pascal N&#x27;Zonzi as Ministre des cabinets</li><li>Marie-Philomène Nga as Femme ministre des cabinets</li></ul>\n</article>",
+   "t": "Le Crocodile du Botswanga (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:2690": {
    "d": "Irma la Douce (1963): Romance/Comedy film. Story: When a recently fired policeman falls in love with a… See cast, budget $5M, and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/6j1yeUhtFUVACFjLJXCFLswlcFE.jpg",
@@ -843,6 +974,325 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Pacific Heights (1990)</h1>\n<p class=\"ssr-lead\">A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 1990</li><li>Runtime: 102 minutes</li><li>Director: John Schlesinger</li><li>Genres: Thriller, Drama, Mystery</li><li>Budget: $18M</li><li>TMDB rating: 6.3/10 (450 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melanie Griffith as Patty Palmer</li><li>Matthew Modine as Drake Goodman</li><li>Michael Keaton as Carter Hayes</li><li>Mako as Toshio Watanabe</li><li>Nobu McCarthy as Mira Watanabe</li><li>Laurie Metcalf as Stephanie MacDonald</li><li>Carl Lumbly as Lieutenant Lou Baker</li><li>Dorian Harewood as Dennis</li><li>Luca Bercovici as Greg</li><li>Tippi Hedren as Florence Peters</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, fuboTV, Night Flight Plus, Netflix Standard with Ads, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Pacific Heights (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
+  },
+  "movie:359790": {
+   "d": "Blackway (2015): Thriller/Mystery film. Story: A young woman newly returned to her hometown becomes… See cast, budget $8M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uxn2Y3zgi0ejkIFQdLWpNRA0h17.jpg",
+   "industry": "world",
+   "k": "Blackway, Blackway movie, Blackway cast, Blackway story, Blackway box office collection, Blackway budget, Blackway review, Blackway rating, Blackway release date, Blackway Thriller, Blackway Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Stiles"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Ludwig"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Liotta"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Bacic"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Blackway (2015): Thriller/Mystery film. Story: A young woman newly returned to her hometown becomes… See cast, budget $8M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Alfredson"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uxn2Y3zgi0ejkIFQdLWpNRA0h17.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=359790",
+    "name": "Blackway",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=359790"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blackway (2015)</h1>\n<p class=\"ssr-lead\">A young woman newly returned to her hometown becomes the subject of harassment by a man named Blackway, an ex-cop turned violent crime lord who operates with impunity in this small community on the edge of the wilderness. Forsaken by the local townspeople—and advised by the Sheriff to leave town—Lillian decides instead to take a stand against her sociopathic stalker, and enlists the help of ex-logger Lester and his laconic young sidekick.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 2015</li><li>Runtime: 90 minutes</li><li>Director: Daniel Alfredson</li><li>Genres: Thriller, Mystery</li><li>Budget: $8M</li><li>TMDB rating: 5.3/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Hopkins as Lester</li><li>Julia Stiles as Lillian</li><li>Alexander Ludwig as Nate</li><li>Ray Liotta as Richard Blackway</li><li>Steve Bacic as Fitzgerald</li><li>Lochlyn Munro as Murdoch</li><li>Hal Holbrook as Whizzer</li><li>Aleks Paunovic as Skell</li><li>Taylor Hickson as Meth Head Girl</li><li>Chris Gauthier as Chris</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, ViX Premium Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Blackway (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:444090": {
+   "d": "The Ash Lad: In the Hall of the Mountain King (2017): Adventure/Fantasy film. Story: Espen “Ash Lad”, a poor farmer’s son, embarks on a… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/iFMARpEJnSQBUDKzKvvRw6ATVF3.jpg",
+   "industry": "world",
+   "k": "The Ash Lad: In the Hall of the Mountain King, The Ash Lad: In the Hall of the Mountain King movie, The Ash Lad: In the Hall of the Mountain King cast, The Ash Lad: In the Hall of the Mountain King story, The Ash Lad: In the Hall of the Mountain King box office collection, The Ash Lad: In the Hall of the Mountain King budget, The Ash Lad: In the Hall of the Mountain King review, The Ash Lad: In the Hall of the Mountain King rating, The Ash Lad: In the Hall of the Mountain King release date, The Ash Lad: In the Hall of the Mountain King trailer, The Ash Lad: In the Hall of the Mountain King Adventure, The Ash Lad: In the Hall of the Mountain King Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vebjørn Enger"
+     },
+     {
+      "@type": "Person",
+      "name": "Mads Sjøgård Pettersen"
+     },
+     {
+      "@type": "Person",
+      "name": "Elias Holmen Sørensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Eili Harboe"
+     },
+     {
+      "@type": "Person",
+      "name": "Allan Hyde"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Ash Lad: In the Hall of the Mountain King (2017): Adventure/Fantasy film. Story: Espen “Ash Lad”, a poor farmer’s son, embarks on a… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mikkel Brænne Sandemose"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iFMARpEJnSQBUDKzKvvRw6ATVF3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=444090",
+    "name": "The Ash Lad: In the Hall of the Mountain King",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=444090"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Ash Lad: In the Hall of the Mountain King (2017)</h1>\n<p class=\"ssr-lead\">Espen “Ash Lad”, a poor farmer’s son, embarks on a dangerous quest with his brothers to save the princess from a vile troll known as the Mountain King – in order to collect a reward and save his family’s farm from ruin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 2017</li><li>Runtime: 100 minutes</li><li>Director: Mikkel Brænne Sandemose</li><li>Genres: Adventure, Fantasy</li><li>TMDB rating: 6.8/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vebjørn Enger as Espen Ash Lad</li><li>Mads Sjøgård Pettersen as Per</li><li>Elias Holmen Sørensen as Pål</li><li>Eili Harboe as Princess Kristin</li><li>Allan Hyde as Prince Fredrik</li><li>Thorbjørn Harr as Father</li><li>Gard B. Eidsvold as The King</li><li>Synnøve Macody Lund as The Queen</li><li>Gisken Armand as Old Log Lady</li><li>Ida Ursin-Holm as Forest Nymph</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, Amazon Prime Video with Ads, Peacock Premium Plus</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Ash Lad: In the Hall of the Mountain King (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:567690": {
+   "d": "Dear Evan Hansen (2021): Drama film. Story: Evan Hansen, a high schooler with social anxiety… See cast, budget $27.5M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/anl65DJYFyp2m0lXaFvlCrSOT8E.jpg",
+   "industry": "world",
+   "k": "Dear Evan Hansen, Dear Evan Hansen movie, Dear Evan Hansen cast, Dear Evan Hansen story, Dear Evan Hansen box office collection, Dear Evan Hansen budget, Dear Evan Hansen review, Dear Evan Hansen rating, Dear Evan Hansen release date, Dear Evan Hansen trailer, Dear Evan Hansen Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Platt"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaitlyn Dever"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Amandla Stenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Nik Dodani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Dear Evan Hansen (2021): Drama film. Story: Evan Hansen, a high schooler with social anxiety… See cast, budget $27.5M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Chbosky"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/anl65DJYFyp2m0lXaFvlCrSOT8E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=567690",
+    "name": "Dear Evan Hansen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=567690"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dear Evan Hansen (2021)</h1>\n<p class=\"ssr-lead\">Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2021</li><li>Runtime: 137 minutes</li><li>Director: Stephen Chbosky</li><li>Genres: Drama</li><li>Budget: $27.5M</li><li>TMDB rating: 6.2/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Platt as Evan Hansen</li><li>Kaitlyn Dever as Zoe Murphy</li><li>Amy Adams as Cynthia Murphy</li><li>Amandla Stenberg as Alana Beck</li><li>Nik Dodani as Jared Kalwani</li><li>Julianne Moore as Heidi Hansen</li><li>Danny Pino as Larry Mora</li><li>Colton Ryan as Connor Murphy</li><li>DeMarius R. Copes as Oliver</li><li>Liz Kate as Gemma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: Zee5, Amazon Video</li></ul>\n</article>",
+   "t": "Dear Evan Hansen (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:641790": {
+   "d": "Trauma Center (2019): Action/Thriller film. Story: Lt. Wakes is a vengeful police detective determined… See cast and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6ruLsuOD4eI9siHjr4SPKHTpoIa.jpg",
+   "industry": "world",
+   "k": "Trauma Center, Trauma Center movie, Trauma Center cast, Trauma Center story, Trauma Center box office collection, Trauma Center budget, Trauma Center review, Trauma Center rating, Trauma Center release date, Trauma Center trailer, Trauma Center Action, Trauma Center Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicky Whelan"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Guttenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Tito Ortiz"
+     },
+     {
+      "@type": "Person",
+      "name": "Texas Battle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Trauma Center (2019): Action/Thriller film. Story: Lt. Wakes is a vengeful police detective determined… See cast and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Eskandari"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6ruLsuOD4eI9siHjr4SPKHTpoIa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=641790",
+    "name": "Trauma Center",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=641790"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trauma Center (2019)</h1>\n<p class=\"ssr-lead\">Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#x27;s worst fears.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 2019</li><li>Runtime: 87 minutes</li><li>Director: Matt Eskandari</li><li>Genres: Action, Thriller</li><li>TMDB rating: 5.4/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicky Whelan as Madison Taylor</li><li>Bruce Willis as Lt. Det. Wakes</li><li>Steve Guttenberg as Dr. Jones</li><li>Tito Ortiz as Det. Pierce</li><li>Texas Battle as Sergeant Tull</li><li>Roman Mitichyan as CSS Roman</li><li>Tyler Jon Olson as Det. Tony Martin</li><li>Catherine Davis as Emily Taylor</li><li>Sergio Rizzuto as Marcos</li><li>Lala Kent as Renee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Trauma Center (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:736790": {
+   "d": "Chupa (2023): Adventure/Fantasy film. Story: While visiting family in Mexico, a lonely boy… See cast, TMDB rating 6.3/10, and release date 7 April 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/aityu1Gma509jInlspHstEt8Jg0.jpg",
+   "industry": "world",
+   "k": "Chupa, Chupa movie, Chupa cast, Chupa story, Chupa box office collection, Chupa budget, Chupa review, Chupa rating, Chupa release date, Chupa trailer, Chupa Adventure, Chupa Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Evan Whitten"
+     },
+     {
+      "@type": "Person",
+      "name": "Demián Bichir"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Slater"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Ciarra"
+     },
+     {
+      "@type": "Person",
+      "name": "Julio Cesar Cedillo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Chupa (2023): Adventure/Fantasy film. Story: While visiting family in Mexico, a lonely boy… See cast, TMDB rating 6.3/10, and release date 7 April 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonás Cuarón"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aityu1Gma509jInlspHstEt8Jg0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=736790",
+    "name": "Chupa",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=736790"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chupa (2023)</h1>\n<p class=\"ssr-lead\">While visiting family in Mexico, a lonely boy befriends a mythical creature hiding on his grandfather&#x27;s ranch and embarks on the adventure of a lifetime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 2023</li><li>Runtime: 98 minutes</li><li>Director: Jonás Cuarón</li><li>Genres: Adventure, Fantasy, Family</li><li>TMDB rating: 6.3/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Evan Whitten as Alex</li><li>Demián Bichir as Chava</li><li>Christian Slater as Richard Quinn</li><li>Ashley Ciarra as Luna</li><li>Julio Cesar Cedillo as Dr. Juan Carlos Ortega</li><li>Alex Knight as Jumpsuit</li><li>Nickolas Verdugo as Memo</li><li>Adriana Paz as Julia</li><li>Gerardo Taracena as Police Officer</li><li>Michael Kostroff as Taylor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Chupa (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:739990": {
    "d": "Nightbooks (2021): Fantasy/Horror film. Story: Alex, a boy obsessed with scary stories, is trapped… See cast and TMDB rating 6.1/10.",

@@ -1,7 +1,160 @@
 {
  "bucket": "05",
- "count": 37,
+ "count": 47,
  "titles": {
+  "movie:1043905": {
+   "backdrop_path": "/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
+   "budget": 35954590,
+   "cast": [
+    {
+     "c": "Jake",
+     "n": "Eva Green"
+    },
+    {
+     "c": "The Bomb",
+     "n": "Maria Bakalova"
+    },
+    {
+     "c": "Medic",
+     "n": "Ruby Rose"
+    },
+    {
+     "c": "Malik",
+     "n": "Reza Brojerdi"
+    },
+    {
+     "c": "Geek",
+     "n": "Jojo T. Gibbs"
+    },
+    {
+     "c": "Shooter",
+     "n": "Emily Bruni"
+    },
+    {
+     "c": "Abbas",
+     "n": "Aziz Çapkurt"
+    },
+    {
+     "c": "Rocky",
+     "n": "Rona-Lee Shimon"
+    },
+    {
+     "c": "Travis",
+     "n": "Christopher Backus"
+    },
+    {
+     "c": "Amir",
+     "n": "George Iskandar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Martin Campbell"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+   ],
+   "id": 1043905,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+   "popularity": 3.823,
+   "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-12-11",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ku",
+    "ur"
+   ],
+   "status": "Released",
+   "tagline": "Fight your way out.",
+   "title": "Dirty Angels",
+   "trailer": {
+    "key": "YBwoSa3n8Yc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.111,
+   "vote_count": 424
+  },
   "movie:1069905": {
    "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
    "budget": 0,
@@ -112,6 +265,125 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 488
+  },
+  "movie:10705": {
+   "backdrop_path": "/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Henry V",
+     "n": "Kenneth Branagh"
+    },
+    {
+     "c": "Chorus",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Exeter",
+     "n": "Brian Blessed"
+    },
+    {
+     "c": "Bedford",
+     "n": "James Larkin"
+    },
+    {
+     "c": "French King",
+     "n": "Paul Scofield"
+    },
+    {
+     "c": "Katherine",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Mistress Quickly",
+     "n": "Judi Dench"
+    },
+    {
+     "c": "Duke Humphrey of Gloucester",
+     "n": "Simon Shepherd"
+    },
+    {
+     "c": "Duke Edward of York",
+     "n": "James Simmons"
+    },
+    {
+     "c": "Archbishop of Canterbury",
+     "n": "Charles Kay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kenneth Branagh"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 10705,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1415, in the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France.",
+   "popularity": 2.2716,
+   "poster_path": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-10-05",
+   "revenue": 10161211,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The great adventure of a king who defied the odds to prove himself a man.",
+   "title": "Henry V",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.075,
+   "vote_count": 429
   },
   "movie:11205": {
    "backdrop_path": "/bhJwUazhSk735vkZLkmrBeqDxSH.jpg",
@@ -226,6 +498,215 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 471
+  },
+  "movie:11905": {
+   "backdrop_path": "/8LMKwSUdHxU8AGPVY7BV4wS5TeQ.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Rosaleen",
+     "n": "Sarah Patterson"
+    },
+    {
+     "c": "Granny",
+     "n": "Angela Lansbury"
+    },
+    {
+     "c": "Father",
+     "n": "David Warner"
+    },
+    {
+     "c": "Old Priest",
+     "n": "Graham Crowden"
+    },
+    {
+     "c": "Amorous Boy's Father",
+     "n": "Brian Glover"
+    },
+    {
+     "c": "Young Bride",
+     "n": "Kathryn Pogson"
+    },
+    {
+     "c": "Young Groom",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Mother",
+     "n": "Tusse Silberg"
+    },
+    {
+     "c": "Hunstman",
+     "n": "Micha Bergese"
+    },
+    {
+     "c": "Alice",
+     "n": "Georgia Slowe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Neil Jordan"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 11905,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Young Rosaleen dreams of a village in the dark woods, where Granny tells her cautionary tales in which innocent maidens are tempted by wolves who are hairy on the inside. As Rosaleen grows into womanhood, will the wolves come for her too?",
+   "popularity": 2.3972,
+   "poster_path": "/2g2YPws1MiEWTodUE8u3qOf78XS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-09-21",
+   "revenue": 4389334,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Desire...The Fantasy...The Nightmare.",
+   "title": "The Company of Wolves",
+   "trailer": {
+    "key": "Ir34SoEgik0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.294,
+   "vote_count": 411
   },
   "movie:1217505": {
    "backdrop_path": "/7ww4Zc6XirdNJnj1nMsWq9ycxuz.jpg",
@@ -1181,6 +1662,262 @@
    "vote_average": 7.9,
    "vote_count": 28
   },
+  "movie:19405": {
+   "backdrop_path": "/v69OaHOYjdihRz0o0nVUylUyraa.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "T.J. Detweiler (voice)",
+     "n": "Andrew Lawrence"
+    },
+    {
+     "c": "Vince La Salle (voice)",
+     "n": "Rickey D'Shon Collins"
+    },
+    {
+     "c": "Spinelli (voice)",
+     "n": "Pamela Adlon"
+    },
+    {
+     "c": "Gretchen Grundler (voice)",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Mikey Blumberg (voice)",
+     "n": "Jason Davis"
+    },
+    {
+     "c": "Gus Griswald (voice)",
+     "n": "Courtland Mead"
+    },
+    {
+     "c": "Ms. Finster / Mrs. Detweiller (voice)",
+     "n": "April Winchell"
+    },
+    {
+     "c": "Principal Peter Prickly (voice)",
+     "n": "Dabney Coleman"
+    },
+    {
+     "c": "Digger Dave / Randall (voice)",
+     "n": "Ryan O'Donohue"
+    },
+    {
+     "c": "Mikey's Singing Voice (voice)",
+     "n": "Robert Goulet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Chuck Sheetz"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 19405,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The school year is finally ending, and T.J. Detweiler is looking forward to summer. But boredom quickly sets in when his friends leave for camp — until T.J. uncovers an evil plot to do away with summer vacation! A crazy former principal, Dr. Benedict, is planning to use a laser beam to alter the weather and create permanent winter. Faced with the dire threat of year-round school, T.J. rounds up the RECESS gang and bands together with some unexpected allies — Miss Finster and Principal Prickly — in a nonstop adventure to save everyone's summer break.",
+   "popularity": 2.6217,
+   "poster_path": "/qsUCoeTwCNIrvDrUiWlTCgyRFZy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-02-16",
+   "revenue": 44460850,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Saving the world one playground at a time.",
+   "title": "Recess: School's Out",
+   "trailer": {
+    "key": "9cRn-bV5vdc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 387
+  },
+  "movie:21705": {
+   "backdrop_path": "/bACImU2OK8iFwDIIRBzLX4KOPL1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barbie (voice)",
+     "n": "Kelly Sheridan"
+    },
+    {
+     "c": "Courtney (voice)",
+     "n": "Sarah Edmondson"
+    },
+    {
+     "c": "Tia / Passing Girl #2 (voice)",
+     "n": "Venus Terzo"
+    },
+    {
+     "c": "Kevin (voice)",
+     "n": "Matt Hill"
+    },
+    {
+     "c": "Raquelle (voice)",
+     "n": "Chiara Zanni"
+    },
+    {
+     "c": "Regen (voice)",
+     "n": "Maryke Hendrikse"
+    },
+    {
+     "c": "Dawn (voice)",
+     "n": "Anna Cummer"
+    },
+    {
+     "c": "Todd (voice)",
+     "n": "Andrew Francis"
+    },
+    {
+     "c": "Stephanie (voice)",
+     "n": "Heather Doerksen"
+    },
+    {
+     "c": "Mr. Wexler / Popular Boy #2 (voice)",
+     "n": "Joseph May"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kallan Kagan",
+    "Eric Fogel"
+   ],
+   "genres": [
+    "Family",
+    "Animation"
+   ],
+   "id": 21705,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Barbie is disheartened when Todd breaks her heart and goes back to his former girlfriend. But things change when she comes across a diary, which makes her wishes come true.",
+   "popularity": 1.6798,
+   "poster_path": "/zSCQBfNWsdiKaqDj7LQUgxnSaFi.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-05-17",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Friends, Dreams, and a Rockin' Adventure!",
+   "title": "The Barbie Diaries",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 406
+  },
   "movie:29005": {
    "backdrop_path": "/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
    "budget": 0,
@@ -1293,6 +2030,258 @@
    "type": "movie",
    "vote_average": 7.193,
    "vote_count": 493
+  },
+  "movie:339405": {
+   "backdrop_path": "/bb5BtQv2hfbgKMOcWtnu5y5RlPE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christine Chubbuck",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "George Peter Ryan",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Michael",
+     "n": "Tracy Letts"
+    },
+    {
+     "c": "Jean Reed",
+     "n": "Maria Dizzia"
+    },
+    {
+     "c": "Peg Chubbuck",
+     "n": "J. Smith-Cameron"
+    },
+    {
+     "c": "Steve Turner",
+     "n": "Timothy Simons"
+    },
+    {
+     "c": "Andrea Kirby",
+     "n": "Kim Shaw"
+    },
+    {
+     "c": "Bob Andersen",
+     "n": "John Cullum"
+    },
+    {
+     "c": "Dr. Parsons",
+     "n": "Morgan Spector"
+    },
+    {
+     "c": "Mitch",
+     "n": "Jayson Warner Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Antonio Campos"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 339405,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1974, television reporter Christine Chubbuck struggles with depression and professional frustrations as she tries to advance her career.",
+   "popularity": 1.3188,
+   "poster_path": "/enZy6Yx6sjdOXxcnQVC200RjeKM.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-10-14",
+   "revenue": 313465,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The shocking true story that changed the face of television.",
+   "title": "Christine",
+   "trailer": {
+    "key": "Nwo_V3SiQHY",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.866,
+   "vote_count": 422
+  },
+  "movie:34205": {
+   "backdrop_path": "/AfMAcS5HmPPRtJ3d9tipXTQV2Xt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marnie Piper",
+     "n": "Kimberly J. Brown"
+    },
+    {
+     "c": "Gwen Piper",
+     "n": "Judith Hoag"
+    },
+    {
+     "c": "Cal",
+     "n": "Daniel Kountz"
+    },
+    {
+     "c": "Dylan Piper",
+     "n": "Joey Zimmerman"
+    },
+    {
+     "c": "Sophie Piper",
+     "n": "Emily Roeske"
+    },
+    {
+     "c": "Luke",
+     "n": "Phillip Van Dyke"
+    },
+    {
+     "c": "Gort",
+     "n": "Blu Mankuma"
+    },
+    {
+     "c": "Alex",
+     "n": "Peter Wingfield"
+    },
+    {
+     "c": "Aggie Cromwell",
+     "n": "Debbie Reynolds"
+    },
+    {
+     "c": "Benny",
+     "n": "Richard Side"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Mary Lambert"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 34205,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Cromwell clan lives in the real world, except for their grandmother who lives in Halloweentown, a place where monsters go to escape reality. But now the son of the Cromwells' old enemy Kalabar has a plan to use the grandmother's book to turn Halloweentown into a grey dreary version of the real world while transforming the denizens of the real world into monsters.",
+   "popularity": 2.8416,
+   "poster_path": "/uDnp52aGXxnfU4vqnnc6YpfzjHb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-10-12",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Your Favorite Witches Are Back!",
+   "title": "Halloweentown II: Kalabar's Revenge",
+   "trailer": {
+    "key": "nzSRaAHMPn8",
+    "name": "Halloweentown II: Kalabar's Revenge - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.833,
+   "vote_count": 393
   },
   "movie:458005": {
    "backdrop_path": "/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",
@@ -1618,6 +2607,421 @@
    "type": "movie",
    "vote_average": 6.874,
    "vote_count": 864
+  },
+  "movie:52505": {
+   "backdrop_path": "/nCKebrEB0kTPN10NUxoHumMTsnM.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Emilia Greenleaf",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Jack Woolf",
+     "n": "Scott Cohen"
+    },
+    {
+     "c": "William Woolf",
+     "n": "Charlie Tahan"
+    },
+    {
+     "c": "Mindy",
+     "n": "Lauren Ambrose"
+    },
+    {
+     "c": "Carolyne Soule",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Sheldon Greenleaf",
+     "n": "Michael Cristofer"
+    },
+    {
+     "c": "Laura Greenleaf",
+     "n": "Debra Monk"
+    },
+    {
+     "c": "Pia",
+     "n": "Elizabeth Marvel"
+    },
+    {
+     "c": "Simon",
+     "n": "Anthony Rapp"
+    },
+    {
+     "c": "Sonia",
+     "n": "Mona Fastvold"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Roos"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 52505,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Emilia, a law-school graduate, falls in love with her married boss, Jack. After Emilia marries Jack, her happiness turns unexpectedly to grief following the death of her infant daughter. Devastated, Emilia nonetheless carries on, attempting to forge a connection with her stepson William and to resist the interference of Jack's jealous ex-wife.",
+   "popularity": 1.6132,
+   "poster_path": "/pqbRrPwSpOUgMG8tyjwdT4enfHs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-28",
+   "revenue": 1451343,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love makes everything possible.",
+   "title": "The Other Woman",
+   "trailer": {
+    "key": "VzWY97XJR2M",
+    "name": "THE OTHER WOMAN - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 430
+  },
+  "movie:604605": {
+   "backdrop_path": "/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naomi Katagaki – now (voice)",
+     "n": "Takumi Kitamura"
+    },
+    {
+     "c": "Naomi Katagaki – future (voice)",
+     "n": "Tori Matsuzaka"
+    },
+    {
+     "c": "Ruri Ichigyou (voice)",
+     "n": "Minami Hamabe"
+    },
+    {
+     "c": "Misuzu Kadenokouji (voice)",
+     "n": "Haruka Fukuhara"
+    },
+    {
+     "c": "Xu Yiyi (voice)",
+     "n": "Minako Kotobuki"
+    },
+    {
+     "c": "Crow (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Tsunehisa Senko (voice)",
+     "n": "Takehito Koyasu"
+    },
+    {
+     "c": "Female Student (voice)",
+     "n": "Moka Hiraguri"
+    },
+    {
+     "c": "(voice)",
+     "n": "Nanami Matsumoto"
+    },
+    {
+     "c": "(voice)",
+     "n": "Keigo Hoshino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Tomohiko Ito"
+   ],
+   "genres": [
+    "Animation",
+    "Romance",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 604605,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A shy high schooler in Kyoto meets a man claiming to be his future self, who tells him he’s hacked into the past to save their first love.",
+   "popularity": 2.7177,
+   "poster_path": "/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-20",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "This world is overturned in its last one second.",
+   "title": "Hello World",
+   "trailer": {
+    "key": "FCwSpUGU7ZE",
+    "name": "Hello World: Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.315,
+   "vote_count": 429
+  },
+  "movie:752505": {
+   "backdrop_path": "/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cristina Lopez",
+     "n": "Brigitte Kali Canales"
+    },
+    {
+     "c": "Miranda",
+     "n": "Andrea Cortés"
+    },
+    {
+     "c": "Demon Boy",
+     "n": "Julian Lerma"
+    },
+    {
+     "c": "Javi",
+     "n": "Sal Lopez"
+    },
+    {
+     "c": "Luz",
+     "n": "Julia Vera"
+    },
+    {
+     "c": "Carson",
+     "n": "AJ Bowen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Alender"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 752505,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cristina, a journalist of Mexican origin, travels to her ancestral home in Veracruz to investigate a story of sorcery and healing. There, she is kidnapped by a group of locals who claim she's the devil incarnated.",
+   "popularity": 1.1628,
+   "poster_path": "/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-04",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "It lives inside you.",
+   "title": "The Old Ways",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 388
   },
   "movie:84105": {
    "backdrop_path": "/fsiMxZEe8tabMhM11HgGjQO57KV.jpg",

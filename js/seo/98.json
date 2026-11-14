@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 28,
+ "count": 37,
  "titles": {
   "movie:1061798": {
    "d": "Jim Queen (2026): Animation/Comedy film. Story: When Heterosis, a mysterious virus that turns gay men… See cast and TMDB rating 7.9/10.",
@@ -773,6 +773,70 @@
    "t": "Mexican Psycho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:18898": {
+   "d": "Looking for Eric (2009): Drama/Comedy film. Story: Middle-aged postman and football fan Eric Bishop… See cast, budget $6M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
+   "industry": "world",
+   "k": "Looking for Eric, Looking for Eric movie, Looking for Eric cast, Looking for Eric story, Looking for Eric box office collection, Looking for Eric budget, Looking for Eric review, Looking for Eric rating, Looking for Eric release date, Looking for Eric Drama, Looking for Eric Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Evets"
+     },
+     {
+      "@type": "Person",
+      "name": "Éric Cantona"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephanie Bishop"
+     },
+     {
+      "@type": "Person",
+      "name": "Gerard Kearns"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefan Gumbs"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Looking for Eric (2009): Drama/Comedy film. Story: Middle-aged postman and football fan Eric Bishop… See cast, budget $6M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Loach"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18898",
+    "name": "Looking for Eric",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18898"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Looking for Eric (2009)</h1>\n<p class=\"ssr-lead\">Middle-aged postman and football fan Eric Bishop struggles with his increasingly chaotic existence, but receives some life coaching from the famously philosophical Éric Cantona.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2009</li><li>Runtime: 116 minutes</li><li>Director: Ken Loach</li><li>Genres: Drama, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 6.5/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Evets as Eric Bishop</li><li>Éric Cantona as Éric Cantona</li><li>Stephanie Bishop as Lily</li><li>Gerard Kearns as Ryan</li><li>Stefan Gumbs as Jess</li><li>Lucy-Jo Hudson as Sam</li><li>Cole Williams as Daisy</li><li>Dylan Williams as Daisy</li><li>Matthew McNulty as Young Eric</li><li>Laura Ainsworth as Young Lily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Looking for Eric (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:2998": {
    "d": "Zabriskie Point (1970): Drama film. Story: Anthropology student Daria, who's helping a property… See cast, budget $7M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
@@ -835,6 +899,389 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Zabriskie Point (1970)</h1>\n<p class=\"ssr-lead\">Anthropology student Daria, who&#x27;s helping a property developer build a village in the Los Angeles desert, and dropout Mark, who&#x27;s wanted by the authorities for allegedly killing a policeman during a student riot, accidentally encounter each other in Death Valley and soon begin an unrestrained romance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 1970</li><li>Runtime: 113 minutes</li><li>Director: Michelangelo Antonioni</li><li>Genres: Drama</li><li>Budget: $7M</li><li>TMDB rating: 7.0/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Frechette as Mark</li><li>Daria Halprin as Daria</li><li>Paul Fix as Cafe Owner</li><li>G.D. Spradlin as Lee&#x27;s Associate</li><li>Bill Garaway as Morty</li><li>Kathleen Cleaver as Kathleen</li><li>Rod Taylor as Lee Allen</li><li>Martin Abrahams as Radical Student (uncredited)</li><li>Michael L. Davis as Police Lieutenant on Loudspeaker (uncredited)</li><li>Lee Duncan as Highway Patrolman (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
    "t": "Zabriskie Point (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
+  },
+  "movie:334298": {
+   "d": "Monster Hunt (2015): Comedy/Fantasy film. Story: Young monster kids try to make peace between the… See cast, TMDB rating 6.5/10, and release date 16 July 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/ptgoTztfxbz0qFo129FwyisORRs.jpg",
+   "industry": "world",
+   "k": "Monster Hunt, Monster Hunt movie, Monster Hunt cast, Monster Hunt story, Monster Hunt box office collection, Monster Hunt budget, Monster Hunt review, Monster Hunt rating, Monster Hunt release date, Monster Hunt Comedy, Monster Hunt Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bai Baihe"
+     },
+     {
+      "@type": "Person",
+      "name": "Jing Boran"
+     },
+     {
+      "@type": "Person",
+      "name": "Jiang Wu"
+     },
+     {
+      "@type": "Person",
+      "name": "Elaine Jin Yan-Ling"
+     },
+     {
+      "@type": "Person",
+      "name": "Wallace Chung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Monster Hunt (2015): Comedy/Fantasy film. Story: Young monster kids try to make peace between the… See cast, TMDB rating 6.5/10, and release date 16 July 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Raman Hui Shing-Ngai"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ptgoTztfxbz0qFo129FwyisORRs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=334298",
+    "name": "Monster Hunt",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=334298"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monster Hunt (2015)</h1>\n<p class=\"ssr-lead\">Young monster kids try to make peace between the world of humans and the world of the monsters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2015</li><li>Runtime: 118 minutes</li><li>Director: Raman Hui Shing-Ngai</li><li>Genres: Comedy, Fantasy, Adventure</li><li>TMDB rating: 6.5/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bai Baihe as Huo Xiaolan</li><li>Jing Boran as Song Tianyin</li><li>Jiang Wu as Luo Gang</li><li>Elaine Jin Yan-Ling as Grandma</li><li>Wallace Chung as Ge Qianhu</li><li>Eric Tsang Chi-wai as Zhu Gao</li><li>Sandra Ng Kwan-yu as Pang Ying</li><li>Tang Wei as Pawn Shop Owner</li><li>Yao Chen as Female Head Chef</li><li>Yan Ni as Luo Ying</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Monster Hunt (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:356298": {
+   "d": "Don't Think Twice (2016): Comedy/Drama film. Story: An improv group deals with several crises, including… See cast, budget $2.4M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3uNuI1NQWJNuE5EAtxUOSZhRWSV.jpg",
+   "industry": "world",
+   "k": "Don't Think Twice, Don't Think Twice movie, Don't Think Twice cast, Don't Think Twice story, Don't Think Twice box office collection, Don't Think Twice budget, Don't Think Twice review, Don't Think Twice rating, Don't Think Twice release date, Don't Think Twice trailer, Don't Think Twice Comedy, Don't Think Twice Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keegan-Michael Key"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Jacobs"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Gethard"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Micucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Tami Sagher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Don't Think Twice (2016): Comedy/Drama film. Story: An improv group deals with several crises, including… See cast, budget $2.4M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike Birbiglia"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3uNuI1NQWJNuE5EAtxUOSZhRWSV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=356298",
+    "name": "Don't Think Twice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=356298"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Think Twice (2016)</h1>\n<p class=\"ssr-lead\">An improv group deals with several crises, including the loss of their lease and one member hitting the big time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2016</li><li>Runtime: 92 minutes</li><li>Director: Mike Birbiglia</li><li>Genres: Comedy, Drama</li><li>Budget: $2.4M</li><li>TMDB rating: 6.4/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keegan-Michael Key as Jack</li><li>Gillian Jacobs as Samantha</li><li>Chris Gethard as Bill</li><li>Kate Micucci as Allison</li><li>Tami Sagher as Lindsay</li><li>Mike Birbiglia as Miles</li><li>Richard Masur as Lou</li><li>Sondra James as Bonnie</li><li>Richard Kline as Mr. Coughlin</li><li>Emily Skeggs as Shy Sarah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Don't Think Twice (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:37498": {
+   "d": "Knock Off (1998): Action/Crime film. Story: A fashion designer and his CIA agent business partner… See cast, budget $35M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cQrq7h8Giz6pDg1jH6kCAjLqI7m.jpg",
+   "industry": "world",
+   "k": "Knock Off, Knock Off movie, Knock Off cast, Knock Off story, Knock Off box office collection, Knock Off budget, Knock Off review, Knock Off rating, Knock Off release date, Knock Off Action, Knock Off Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Van Damme"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Lela Rochon"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Sorvino"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Wong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Knock Off (1998): Action/Crime film. Story: A fashion designer and his CIA agent business partner… See cast, budget $35M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tsui Hark"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cQrq7h8Giz6pDg1jH6kCAjLqI7m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37498",
+    "name": "Knock Off",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37498"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Knock Off (1998)</h1>\n<p class=\"ssr-lead\">A fashion designer and his CIA agent business partner must join forces to stop a group of terrorists from smuggling explosives in counterfeit jeans during the handover of Hong Kong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 1998</li><li>Runtime: 91 minutes</li><li>Director: Tsui Hark</li><li>Genres: Action, Crime, Comedy, Adventure</li><li>Budget: $35M</li><li>TMDB rating: 5.4/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Van Damme as Marcus Ray</li><li>Rob Schneider as Tommy Hendricks</li><li>Lela Rochon as Karen Lee</li><li>Paul Sorvino as Harry Johanson</li><li>Michael Wong as Han</li><li>Carman Lee Yeuk-tung as Ling Ho</li><li>Wyman Wong Wai-man as Eddie Wang</li><li>Glen Chin as Skinny</li><li>Moses Chan Ho as Officer Fong</li><li>Lynne Langdon as V-Six Secretary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Knock Off (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
+  "movie:391698": {
+   "d": "The Beatles: Eight Days a Week - The Touring Years (2016): Documentary/Music film. Story: The Beatles stormed through Europe's music scene in… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/2qQ93RRTwNv7aTL9fafT3sPAVAy.jpg",
+   "industry": "world",
+   "k": "The Beatles: Eight Days a Week - The Touring Years, The Beatles: Eight Days a Week - The Touring Years movie, The Beatles: Eight Days a Week - The Touring Years cast, The Beatles: Eight Days a Week - The Touring Years story, The Beatles: Eight Days a Week - The Touring Years box office collection, The Beatles: Eight Days a Week - The Touring Years budget, The Beatles: Eight Days a Week - The Touring Years review, The Beatles: Eight Days a Week - The Touring Years rating, The Beatles: Eight Days a Week - The Touring Years release date, The Beatles: Eight Days a Week - The Touring Years trailer, The Beatles: Eight Days a Week - The Touring Years Documentary, The Beatles: Eight Days a Week - The Touring Years Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul McCartney"
+     },
+     {
+      "@type": "Person",
+      "name": "Ringo Starr"
+     },
+     {
+      "@type": "Person",
+      "name": "John Lennon"
+     },
+     {
+      "@type": "Person",
+      "name": "George Harrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry Kane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 397,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Beatles: Eight Days a Week - The Touring Years (2016): Documentary/Music film. Story: The Beatles stormed through Europe's music scene in… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2qQ93RRTwNv7aTL9fafT3sPAVAy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=391698",
+    "name": "The Beatles: Eight Days a Week - The Touring Years",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=391698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Beatles: Eight Days a Week - The Touring Years (2016)</h1>\n<p class=\"ssr-lead\">The Beatles stormed through Europe&#x27;s music scene in 1963, and, in 1964, they conquered America. Their groundbreaking world tours changed global youth culture forever and, arguably, invented mass entertainment as we know it today. All the while, the group were composing and recording a series of extraordinarily successful singles and albums. However the relentless pressure of such unprecedented fame, that in 1966 became uncontrollable turmoil, led to the decision to stop touring. In the ensuing years The Beatles were then free to focus on a series of albums that changed the face of recorded music.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2016</li><li>Runtime: 106 minutes</li><li>Director: Ron Howard</li><li>Genres: Documentary, Music</li><li>Budget: $5</li><li>TMDB rating: 7.5/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul McCartney as Self</li><li>Ringo Starr as Self</li><li>John Lennon as Self (archive footage)</li><li>George Harrison as Self (archive footage)</li><li>Larry Kane as Self</li><li>Whoopi Goldberg as Self</li><li>Elvis Costello as Self</li><li>Suzy Eddie Izzard as Self</li><li>Sigourney Weaver as Self</li><li>Richard Lester as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Beatles: Eight Days a Week - The Touring Years (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:41498": {
+   "d": "One Piece Film: Strong World (2010): Animation/Fantasy film. Story: 20 years after his escape from Impel Down, the… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+   "industry": "world",
+   "k": "One Piece Film: Strong World, One Piece Film: Strong World movie, One Piece Film: Strong World cast, One Piece Film: Strong World story, One Piece Film: Strong World box office collection, One Piece Film: Strong World budget, One Piece Film: Strong World review, One Piece Film: Strong World rating, One Piece Film: Strong World release date, One Piece Film: Strong World trailer, One Piece Film: Strong World Animation, One Piece Film: Strong World Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mayumi Tanaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Kazuya Nakai"
+     },
+     {
+      "@type": "Person",
+      "name": "Akemi Okamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Kappei Yamaguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroaki Hirata"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "One Piece Film: Strong World (2010): Animation/Fantasy film. Story: 20 years after his escape from Impel Down, the… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Munehisa Sakai"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Animation",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=41498",
+    "name": "One Piece Film: Strong World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=41498"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Piece Film: Strong World (2010)</h1>\n<p class=\"ssr-lead\">20 years after his escape from Impel Down, the legendary pirate Shiki, the Golden Lion, reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to his knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami&#x27;s knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2010</li><li>Runtime: 116 minutes</li><li>Director: Munehisa Sakai</li><li>Genres: Animation, Fantasy, Adventure</li><li>TMDB rating: 7.4/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mayumi Tanaka as Monkey D. Luffy (voice)</li><li>Kazuya Nakai as Roronoa Zoro (voice)</li><li>Akemi Okamura as Nami (voice)</li><li>Kappei Yamaguchi as Usopp (voice)</li><li>Hiroaki Hirata as Sanji (voice)</li><li>Ikue Otani as Tony Tony Chopper (voice)</li><li>Yuriko Yamaguchi as Nico Robin (voice)</li><li>Kazuki Yao as Franky (voice)</li><li>Cho as Brook (voice)</li><li>Naoto Takenaka as Shiki (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "One Piece Film: Strong World (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:439998": {
+   "d": "Omicidio all'italiana (2017): Comedy film. Story: To save his crumbling and rapidly-depopulating rural… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g81Zk4WryPdZ9hhHtK51ifahj4r.jpg",
+   "industry": "world",
+   "k": "Omicidio all'italiana, Omicidio all'italiana movie, Omicidio all'italiana cast, Omicidio all'italiana story, Omicidio all'italiana box office collection, Omicidio all'italiana budget, Omicidio all'italiana review, Omicidio all'italiana rating, Omicidio all'italiana release date, Omicidio all'italiana Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maccio Capatonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Herbert Ballerina"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina Ferilli"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberta Mattei"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigio Morra"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Omicidio all'italiana (2017): Comedy film. Story: To save his crumbling and rapidly-depopulating rural… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maccio Capatonda"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g81Zk4WryPdZ9hhHtK51ifahj4r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=439998",
+    "name": "Omicidio all'italiana",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=439998"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Omicidio all&#x27;italiana (2017)</h1>\n<p class=\"ssr-lead\">To save his crumbling and rapidly-depopulating rural town, its mayor fakes a gruesome murder to attract media attention. His plan initially succeeds, but soon the situation will spiral out of control.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2017</li><li>Runtime: 99 minutes</li><li>Director: Maccio Capatonda</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maccio Capatonda as Piero Peluria / Filippo Bello / Eugenio Normale</li><li>Herbert Ballerina as Marino Peluria</li><li>Sabrina Ferilli as Donatella Spruzzone</li><li>Roberta Mattei as Ispettore Sandra Pertinente</li><li>Gigio Morra as Commissario Fiutozzi</li><li>Enrico Venti as Agente Farina</li><li>Fabrizio Biggio as Antonello</li><li>Lorenza Guerrieri as Contessa Ugalda Martirio In Cazzati</li><li>Antonia Truppo as Fabiola Normale</li><li>Nino Frassica as Aldo</li></ul>\n</article>",
+   "t": "Omicidio all'italiana (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:509598": {
    "d": "Mr. Jones (2019): Thriller/Drama film. Story: In 1933, Welsh journalist Gareth Jones travels to… See cast, TMDB rating 6.7/10, and release date 3 October 2019.",
@@ -899,6 +1346,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mr. Jones (2019)</h1>\n<p class=\"ssr-lead\">In 1933, Welsh journalist Gareth Jones travels to Ukraine, where he experiences the horrors of a famine. Everywhere he goes he meets henchmen of the Soviet secret service who are determined to prevent news about the catastrophe from getting out. Stalin’s forced collectivisation of agriculture has resulted in misery and ruin—the policy is tantamount to mass murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 2019</li><li>Runtime: 119 minutes</li><li>Director: Agnieszka Holland</li><li>Genres: Thriller, Drama, History</li><li>TMDB rating: 6.7/10 (496 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Norton as Gareth Jones</li><li>Vanessa Kirby as Ada Brooks</li><li>Peter Sarsgaard as Walter Duranty</li><li>Joseph Mawle as George Orwell</li><li>Kenneth Cranham as Lloyd George</li><li>Celyn Jones as Matthew</li><li>Krzysztof Pieczyński as Maxim Litvinov</li><li>Beata Poźniak as Rhea Clyman</li><li>Fenella Woolgar as Miss Stevenson</li><li>Michalina Olszańska as Yulia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Mr. Jones (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:522098": {
+   "d": "Babyteeth (2020): Drama/Comedy film. Story: A terminally ill teen upsets her parents when she… See cast, TMDB rating 6.9/10, and release date 15 June 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/n4NKnzaLwGhBMNjYQTLhPVpE8je.jpg",
+   "industry": "world",
+   "k": "Babyteeth, Babyteeth movie, Babyteeth cast, Babyteeth story, Babyteeth box office collection, Babyteeth budget, Babyteeth review, Babyteeth rating, Babyteeth release date, Babyteeth trailer, Babyteeth Drama, Babyteeth Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eliza Scanlen"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Wallace"
+     },
+     {
+      "@type": "Person",
+      "name": "Essie Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Mendelsohn"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugene Gilfedder"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Babyteeth (2020): Drama/Comedy film. Story: A terminally ill teen upsets her parents when she… See cast, TMDB rating 6.9/10, and release date 15 June 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shannon Murphy"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n4NKnzaLwGhBMNjYQTLhPVpE8je.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=522098",
+    "name": "Babyteeth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-06-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=522098"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Babyteeth (2020)</h1>\n<p class=\"ssr-lead\">A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2020</li><li>Runtime: 118 minutes</li><li>Director: Shannon Murphy</li><li>Genres: Drama, Comedy, Romance</li><li>TMDB rating: 6.9/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eliza Scanlen as Milla</li><li>Toby Wallace as Moses</li><li>Essie Davis as Anna</li><li>Ben Mendelsohn as Henry</li><li>Eugene Gilfedder as Gidon</li><li>Emily Barclay as Toby</li><li>Andrea Demetriades as Jenny</li><li>Charles Grounds as Dean</li><li>Priscilla Doueihy as Kathy</li><li>Jack Yabsley as Government Spokesperson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Babyteeth (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:611698": {
+   "d": "A Writer's Odyssey (2021): Fantasy/Action film. Story: Lu Kongwen is the author of a fantasy novel series… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vnH8IHc0202E8h2UtdpEe2ILjF0.jpg",
+   "industry": "world",
+   "k": "A Writer's Odyssey, A Writer's Odyssey movie, A Writer's Odyssey cast, A Writer's Odyssey story, A Writer's Odyssey box office collection, A Writer's Odyssey budget, A Writer's Odyssey review, A Writer's Odyssey rating, A Writer's Odyssey release date, A Writer's Odyssey Fantasy, A Writer's Odyssey Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lei Jiayin"
+     },
+     {
+      "@type": "Person",
+      "name": "Yang Mi"
+     },
+     {
+      "@type": "Person",
+      "name": "Dong Zijian"
+     },
+     {
+      "@type": "Person",
+      "name": "Yu Hewei"
+     },
+     {
+      "@type": "Person",
+      "name": "Guo Jingfei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "A Writer's Odyssey (2021): Fantasy/Action film. Story: Lu Kongwen is the author of a fantasy novel series… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lu Yang"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vnH8IHc0202E8h2UtdpEe2ILjF0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=611698",
+    "name": "A Writer's Odyssey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=611698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Writer&#x27;s Odyssey (2021)</h1>\n<p class=\"ssr-lead\">Lu Kongwen is the author of a fantasy novel series following a heroic teenager, also named Kongwen, on a quest to end the tyrannical rule of Lord Redmane, under the guidance of a Black Armor. But through a strange twist of fate, the fantasy world of the novel begins to impact life in the real world, leading Guan Ning to accept a mission from Tu Ling to kill the author.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2021</li><li>Runtime: 130 minutes</li><li>Director: Lu Yang</li><li>Genres: Fantasy, Action, Adventure, Drama</li><li>TMDB rating: 7.1/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lei Jiayin as Guan Ning (Red Armor Warrior)</li><li>Yang Mi as Tu Ling</li><li>Dong Zijian as Lu Kongwen (Kongwen)</li><li>Yu Hewei as Li Mu</li><li>Guo Jingfei as Old Monk / Black Armor</li><li>Tong Liya as Ban Ruo</li><li>Dong Jie as Xiao Yu</li><li>Wang Shengdi as Xiao Juzi</li><li>Yang Yi as Lord Redmane / Yu Changhai</li><li>Liu Tianzuo as Electric Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: iQIYI, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Writer's Odyssey (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:785398": {
    "d": "EO (2022): Drama/Adventure film. Story: The world is a mysterious place when seen through the… See cast, TMDB rating 6.5/10, and release date 30 September 2022.",

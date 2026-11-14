@@ -1,6 +1,6 @@
 {
  "bucket": "03",
- "count": 32,
+ "count": 41,
  "titles": {
   "movie:1235303": {
    "d": "Baise-en-ville (2026): Comedy film. Story: Sprite, a 20-year-old young adult, returns to Chelles… See cast and TMDB rating 6.5/10.",
@@ -257,6 +257,198 @@
    "t": "Hedwig and the Angry Inch (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:13803": {
+   "d": "Amusement (2008): Horror/Mystery film. Story: While being interrogated by a police psychiatrist… See cast, budget $6M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5YRfEqAcnqyJmpVkWtEQMhKBjE0.jpg",
+   "industry": "world",
+   "k": "Amusement, Amusement movie, Amusement cast, Amusement story, Amusement box office collection, Amusement budget, Amusement review, Amusement rating, Amusement release date, Amusement Horror, Amusement Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keir O'Donnell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tad Hilgenbrink"
+     },
+     {
+      "@type": "Person",
+      "name": "Katheryn Winnick"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Breckenridge"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Lucas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Amusement (2008): Horror/Mystery film. Story: While being interrogated by a police psychiatrist… See cast, budget $6M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Simpson"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5YRfEqAcnqyJmpVkWtEQMhKBjE0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13803",
+    "name": "Amusement",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13803"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Amusement (2008)</h1>\n<p class=\"ssr-lead\">While being interrogated by a police psychiatrist, the near-catatonic Tabitha tries to explain why she and two of her childhood friends are being hunted by a serial killer. The truth that&#x27;s dying to come out weaves together three tragic secrets from their past. Two of the girls&#x27; boyfriends become unwitting targets in their deadly game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2008</li><li>Runtime: 85 minutes</li><li>Director: John Simpson</li><li>Genres: Horror, Mystery</li><li>Budget: $6M</li><li>TMDB rating: 5.6/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keir O&#x27;Donnell as The Laugh</li><li>Tad Hilgenbrink as Rob</li><li>Katheryn Winnick as Tabitha</li><li>Laura Breckenridge as Shelby</li><li>Jessica Lucas as Lisa</li><li>Reid Scott as Dan</li><li>Rena Owen as Psychiatrist</li><li>Kevin Gage as Tryton</li><li>Brennan Bailey as Danny</li><li>Preston Bailey as Max</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Amusement (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
+  "movie:14003": {
+   "d": "Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005): Action/Adventure film. Story: Munich, Germany, 1923. Two years have passed since… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/gFzBLipMi8pBn3KkoL4WSgkIUu9.jpg",
+   "industry": "world",
+   "k": "Fullmetal Alchemist the Movie: Conqueror of Shamballa, Fullmetal Alchemist the Movie: Conqueror of Shamballa movie, Fullmetal Alchemist the Movie: Conqueror of Shamballa cast, Fullmetal Alchemist the Movie: Conqueror of Shamballa story, Fullmetal Alchemist the Movie: Conqueror of Shamballa box office collection, Fullmetal Alchemist the Movie: Conqueror of Shamballa budget, Fullmetal Alchemist the Movie: Conqueror of Shamballa review, Fullmetal Alchemist the Movie: Conqueror of Shamballa rating, Fullmetal Alchemist the Movie: Conqueror of Shamballa release date, Fullmetal Alchemist the Movie: Conqueror of Shamballa Action, Fullmetal Alchemist the Movie: Conqueror of Shamballa Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Romi Park"
+     },
+     {
+      "@type": "Person",
+      "name": "Rie Kugimiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Toru Okawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Megumi Toyoguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Miyuu Sawai"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005): Action/Adventure film. Story: Munich, Germany, 1923. Two years have passed since… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Seiji Mizushima"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gFzBLipMi8pBn3KkoL4WSgkIUu9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14003",
+    "name": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14003"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005)</h1>\n<p class=\"ssr-lead\">Munich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gipsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 2005</li><li>Runtime: 105 minutes</li><li>Director: Seiji Mizushima</li><li>Genres: Action, Adventure, Animation, Drama</li><li>TMDB rating: 7.3/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Romi Park as Edward Elric (voice)</li><li>Rie Kugimiya as Alphonse Elric (voice)</li><li>Toru Okawa as Roy Mustang (voice)</li><li>Megumi Toyoguchi as Winry Rockbell (voice)</li><li>Miyuu Sawai as Noah (voice)</li><li>Michiko Neya as Riza Hawkeye (voice)</li><li>Kazuko Kato as Dietlinde Eckhart (voice)</li><li>Hidekatsu Shibata as Fritz Lang (voice)</li><li>Masane Tsukayama as Karl Haushofer (voice)</li><li>Rikiya Koyama as Rudolf Hess (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
+  "movie:14903": {
+   "d": "Pooh's Grand Adventure: The Search for Christopher Robin (1997): Animation/Family film. Story: Pooh gets confused when Christopher Robin leaves him… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/2Wc2Mo59HCvo7NkIHaax8nekpaQ.jpg",
+   "industry": "world",
+   "k": "Pooh's Grand Adventure: The Search for Christopher Robin, Pooh's Grand Adventure: The Search for Christopher Robin movie, Pooh's Grand Adventure: The Search for Christopher Robin cast, Pooh's Grand Adventure: The Search for Christopher Robin story, Pooh's Grand Adventure: The Search for Christopher Robin box office collection, Pooh's Grand Adventure: The Search for Christopher Robin budget, Pooh's Grand Adventure: The Search for Christopher Robin review, Pooh's Grand Adventure: The Search for Christopher Robin rating, Pooh's Grand Adventure: The Search for Christopher Robin release date, Pooh's Grand Adventure: The Search for Christopher Robin Animation, Pooh's Grand Adventure: The Search for Christopher Robin Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Cummings"
+     },
+     {
+      "@type": "Person",
+      "name": "John Fiedler"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Sansom"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Winchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Cullen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Pooh's Grand Adventure: The Search for Christopher Robin (1997): Animation/Family film. Story: Pooh gets confused when Christopher Robin leaves him… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karl Geurs"
+     }
+    ],
+    "duration": "PT76M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2Wc2Mo59HCvo7NkIHaax8nekpaQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14903",
+    "name": "Pooh's Grand Adventure: The Search for Christopher Robin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-08-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14903"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pooh&#x27;s Grand Adventure: The Search for Christopher Robin (1997)</h1>\n<p class=\"ssr-lead\">Pooh gets confused when Christopher Robin leaves him a note to say that he has gone back to school after the holidays. So Pooh, Piglet, Tigger, Eeyore and Rabbit go in search of Christopher Robin which leads to a big adventure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 1997</li><li>Runtime: 76 minutes</li><li>Director: Karl Geurs</li><li>Genres: Animation, Family, Adventure</li><li>TMDB rating: 7.2/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Cummings as Winnie the Pooh / Skullasaurus growls / Tigger (singing) (voice)</li><li>John Fiedler as Piglet (voice)</li><li>Ken Sansom as Rabbit (voice)</li><li>Paul Winchell as Tigger (voice)</li><li>Peter Cullen as Eeyore (voice)</li><li>Brady Bluhm as Christopher Robin (voice)</li><li>Andre Stojka as Owl (voice)</li><li>David Warner as Narrator (voice)</li><li>Steven Schatzberg as Piglet (singing ) (voice)</li><li>Frankie J. Galasso as Christopher Robin (singing) (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Pooh's Grand Adventure: The Search for Christopher Robin (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:1596303": {
    "d": "The Last First: Winter K2 (2026): Documentary film. Story: A historic race to become the first to summit K2 in… See cast and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
@@ -506,6 +698,198 @@
    "t": "Night of the Living Dead (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:168903": {
+   "d": "Barbie in the Pink Shoes (2013): Animation/Family film. Story: About a young girl who finds a pair of pink ballet… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fpTjdag7KBAj5yubi37AYgtIb9c.jpg",
+   "industry": "world",
+   "k": "Barbie in the Pink Shoes, Barbie in the Pink Shoes movie, Barbie in the Pink Shoes cast, Barbie in the Pink Shoes story, Barbie in the Pink Shoes box office collection, Barbie in the Pink Shoes budget, Barbie in the Pink Shoes review, Barbie in the Pink Shoes rating, Barbie in the Pink Shoes release date, Barbie in the Pink Shoes Animation, Barbie in the Pink Shoes Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Katie Crown"
+     },
+     {
+      "@type": "Person",
+      "name": "Ali Liebert"
+     },
+     {
+      "@type": "Person",
+      "name": "Brett Dier"
+     },
+     {
+      "@type": "Person",
+      "name": "Tabitha St. Germain"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 408,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Barbie in the Pink Shoes (2013): Animation/Family film. Story: About a young girl who finds a pair of pink ballet… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Owen Hurley"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fpTjdag7KBAj5yubi37AYgtIb9c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=168903",
+    "name": "Barbie in the Pink Shoes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=168903"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie in the Pink Shoes (2013)</h1>\n<p class=\"ssr-lead\">About a young girl who finds a pair of pink ballet shoes and is taken to a magical ballet land.There she learns how to help her friends and follow her instincts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 2013</li><li>Runtime: 75 minutes</li><li>Director: Owen Hurley</li><li>Genres: Animation, Family</li><li>TMDB rating: 6.9/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Kristyn (voice)</li><li>Katie Crown as Hailey (voice)</li><li>Ali Liebert as Tara / Hannah (voice)</li><li>Brett Dier as Dillon / Prince Seigfried (voice)</li><li>Tabitha St. Germain as Madame Natasha / Snow Queen / Sugar Plum Fairy / Swan Dancer / Stage Manager (voice)</li><li>Bill Mondy as Rothbart / Thorpe / Peasant (voice)</li><li>Lori Triolo as Madame Katerina (voice)</li><li>Teryl Rothery as Giselle&#x27;s Mom / Queen Vera (voice)</li><li>Trevor Devall as Albrecht / Ballet Scout #1 (voice)</li><li>Kyle Rideout as Hilarion / Ballet Scout #2 (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Barbie in the Pink Shoes (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:19703": {
+   "d": "A Wednesday! (2008): Drama/Thriller film. Story: Prakash Rathod, a retired police commissioner… See cast, budget $1.4M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tmbwscy8OvNMkg4CFOi8eEO523b.jpg",
+   "industry": "bollywood",
+   "k": "A Wednesday!, A Wednesday! movie, A Wednesday! cast, A Wednesday! story, A Wednesday! box office collection, A Wednesday! budget, A Wednesday! review, A Wednesday! rating, A Wednesday! release date, A Wednesday! trailer, A Wednesday! Drama, A Wednesday! Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anupam Kher"
+     },
+     {
+      "@type": "Person",
+      "name": "Naseeruddin Shah"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimmy Shergill"
+     },
+     {
+      "@type": "Person",
+      "name": "Deepal Shaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Aamir Bashir"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "A Wednesday! (2008): Drama/Thriller film. Story: Prakash Rathod, a retired police commissioner… See cast, budget $1.4M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neeraj Pandey"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tmbwscy8OvNMkg4CFOi8eEO523b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19703",
+    "name": "A Wednesday!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Wednesday! (2008)</h1>\n<p class=\"ssr-lead\">Prakash Rathod, a retired police commissioner recounts the most memorable case of his career wherein he was informed about a bomb scare in Mumbai by an ordinary commoner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2008</li><li>Runtime: 103 minutes</li><li>Director: Neeraj Pandey</li><li>Genres: Drama, Thriller</li><li>Budget: $1.4M</li><li>TMDB rating: 7.0/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anupam Kher as Prakash Rathod</li><li>Naseeruddin Shah as The Anonymous Caller</li><li>Jimmy Shergill as Arif Khan</li><li>Deepal Shaw as Naina Roy</li><li>Aamir Bashir as Jai Singh</li><li>Rohitashv Gour as Ikhlaque Ahmed</li><li>Vijay Bhatia as Mohammad Zaheer</li><li>Kali Prasad Mukherjee as Ibrahim Khan</li><li>Gaurav Kapur as Ajay Khanna</li><li>Chetan Pandit as Chief Minister</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "A Wednesday! (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
+  "movie:20803": {
+   "d": "Ivan Vasilyevich Changes His Profession (1973): Comedy/Science Fiction film. Story: A scientist builds a time machine and accidentally… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/z8125Gm4hadwQZOcFiZ7uor77E4.jpg",
+   "industry": "world",
+   "k": "Ivan Vasilyevich Changes His Profession, Ivan Vasilyevich Changes His Profession movie, Ivan Vasilyevich Changes His Profession cast, Ivan Vasilyevich Changes His Profession story, Ivan Vasilyevich Changes His Profession box office collection, Ivan Vasilyevich Changes His Profession budget, Ivan Vasilyevich Changes His Profession review, Ivan Vasilyevich Changes His Profession rating, Ivan Vasilyevich Changes His Profession release date, Ivan Vasilyevich Changes His Profession Comedy, Ivan Vasilyevich Changes His Profession Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aleksandr Demyanenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuriy Yakovlev"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonid Kuravlyov"
+     },
+     {
+      "@type": "Person",
+      "name": "Savely Kramarov"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalya Seleznyova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Ivan Vasilyevich Changes His Profession (1973): Comedy/Science Fiction film. Story: A scientist builds a time machine and accidentally… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leonid Gaidai"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z8125Gm4hadwQZOcFiZ7uor77E4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20803",
+    "name": "Ivan Vasilyevich Changes His Profession",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-09-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20803"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ivan Vasilyevich Changes His Profession (1973)</h1>\n<p class=\"ssr-lead\">A scientist builds a time machine and accidentally sends his apartment complex manager and a petty burglar to 16th century Moscow, while Tsar Ivan the Terrible travels to 1973.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 1973</li><li>Runtime: 88 minutes</li><li>Director: Leonid Gaidai</li><li>Genres: Comedy, Science Fiction</li><li>TMDB rating: 7.9/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aleksandr Demyanenko as Aleksandr &#x27;Shurik&#x27; Timofeyev, inventor</li><li>Yuriy Yakovlev as Ivan the Terrible / Ivan Vasilievich Bunsha</li><li>Leonid Kuravlyov as Zhorzh Miloslavsky / knyaz Miloslavsky</li><li>Savely Kramarov as Feofan the diak</li><li>Natalya Seleznyova as Zinaida, Shurik&#x27;s wife</li><li>Natalya Krachkovskaya as Uliana Andreevna Bunsha, superintendent&#x27;s wife</li><li>Natalya Kustinskaya as Yakin&#x27;s mistress</li><li>Vladimir Etush as Anton Semyonovich Shpak, dentist</li><li>Mikhail Pugovkin as film director Yakin</li><li>Sergei Filippov as swedish ambassador</li></ul>\n</article>",
+   "t": "Ivan Vasilyevich Changes His Profession (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
+  },
   "movie:3": {
    "d": "Shadows in Paradise (1986): Drama/Romance film. Story: Nikander, a rubbish collector and would-be… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
@@ -569,6 +953,73 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Shadows in Paradise (1986)</h1>\n<p class=\"ssr-lead\">Nikander, a rubbish collector and would-be entrepreneur, finds his plans for success dashed when his business associate dies. One evening, he meets Ilona, a down-on-her-luck cashier, in a local supermarket. Falteringly, a bond begins to develop between them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 October 1986</li><li>Runtime: 74 minutes</li><li>Director: Aki Kaurismäki</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.3/10 (457 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matti Pellonpää as Nikander</li><li>Kati Outinen as Ilona</li><li>Sakari Kuosmanen as Melartin</li><li>Esko Nikkari as Nikander&#x27;s Co-Worker</li><li>Kylli Köngäs as Ilona&#x27;s Friend</li><li>Pekka Laiho as Store Manager</li><li>Jukka-Pekka Palo as Third Man</li><li>Svante Korkiakoski as Police Officer</li><li>Mari Rantasila as Nikander&#x27;s Sister</li><li>Safka Pekkonen as Pianist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
    "t": "Shadows in Paradise (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
+  },
+  "movie:43003": {
+   "d": "F for Fake (1973): Documentary film. Story: Documents the lives of infamous fakers Elmyr de Hory… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
+   "industry": "world",
+   "k": "F for Fake, F for Fake movie, F for Fake cast, F for Fake story, F for Fake box office collection, F for Fake budget, F for Fake review, F for Fake rating, F for Fake release date, F for Fake Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Orson Welles"
+     },
+     {
+      "@type": "Person",
+      "name": "Oja Kodar"
+     },
+     {
+      "@type": "Person",
+      "name": "Elmyr de Hory"
+     },
+     {
+      "@type": "Person",
+      "name": "Clifford Irving"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Harvey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "F for Fake (1973): Documentary film. Story: Documents the lives of infamous fakers Elmyr de Hory… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Orson Welles"
+     },
+     {
+      "@type": "Person",
+      "name": "François Reichenbach"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=43003",
+    "name": "F for Fake",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-09-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=43003"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>F for Fake (1973)</h1>\n<p class=\"ssr-lead\">Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 1973</li><li>Runtime: 89 minutes</li><li>Director: Orson Welles, François Reichenbach</li><li>Genres: Documentary</li><li>TMDB rating: 7.4/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Orson Welles as Self</li><li>Oja Kodar as The Girl</li><li>Elmyr de Hory as Self</li><li>Clifford Irving as Self</li><li>Laurence Harvey as Self</li><li>Edith Irving as Self</li><li>David Walsh as Self</li><li>Paul Stewart as Self</li><li>Richard Wilson as Self</li><li>Joseph Cotten as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "F for Fake (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
   },
   "movie:48303": {
    "d": "Certified Copy (2010): Drama/Romance film. Story: In Tuscany to promote his latest book, a middle-aged… See cast, budget $7M, and TMDB rating 7.0/10.",
@@ -889,6 +1340,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Talent of the Hornet (2020)</h1>\n<p class=\"ssr-lead\">Dj Steph is a young radio deejay on the rise, who gained a lot of popularity on social media and every evening hosts a radio show with a large following, during which he receives calls from his fans. One evening, a call chills him to the bone: a cold-blooded stranger announces on live radio that he plans to take his own life, making himself explode in the middle of the city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2020</li><li>Runtime: 93 minutes</li><li>Director: Giacomo Cimini</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.4/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sergio Castellitto as Ascoltatore</li><li>Lorenzo Richelmy as Dj Steph</li><li>Anna Foglietta as Rosa Amadei</li><li>Marina Occhionero as Redattrice</li><li>Cristina Marino as Assistente</li><li>Guglielmo Favilla as Autore radio</li><li>Gabriele Greggio as Marco Costanti</li><li>David Coco as Capitano</li><li>Gianluca Gobbi as Regista radiofonico</li><li>Bianca Friscelli as Hacker</li></ul>\n</article>",
    "t": "The Talent of the Hornet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:8703": {
+   "d": "Three Wishes for Cinderella (1973): Fantasy/Family film. Story: Popelka, a resourceful and independent young girl, is… See cast and budget $580.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
+   "industry": "world",
+   "k": "Three Wishes for Cinderella, Three Wishes for Cinderella movie, Three Wishes for Cinderella cast, Three Wishes for Cinderella story, Three Wishes for Cinderella box office collection, Three Wishes for Cinderella budget, Three Wishes for Cinderella review, Three Wishes for Cinderella rating, Three Wishes for Cinderella release date, Three Wishes for Cinderella Fantasy, Three Wishes for Cinderella Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Libuše Šafránková"
+     },
+     {
+      "@type": "Person",
+      "name": "Pavel Trávníček"
+     },
+     {
+      "@type": "Person",
+      "name": "Carola Braunbock"
+     },
+     {
+      "@type": "Person",
+      "name": "Rolf Hoppe"
+     },
+     {
+      "@type": "Person",
+      "name": "Karin Lesch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Three Wishes for Cinderella (1973): Fantasy/Family film. Story: Popelka, a resourceful and independent young girl, is… See cast and budget $580.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Václav Vorlíček"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Fantasy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8703",
+    "name": "Three Wishes for Cinderella",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-11-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Three Wishes for Cinderella (1973)</h1>\n<p class=\"ssr-lead\">Popelka, a resourceful and independent young girl, is a servant in her stepmother&#x27;s house and confides in her closest friend the owl. When she comes across three magical acorns, she&#x27;s granted a single wish for each one of them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 1973</li><li>Runtime: 82 minutes</li><li>Director: Václav Vorlíček</li><li>Genres: Fantasy, Family, Romance</li><li>Budget: $580.0k</li><li>TMDB rating: 7.5/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Libuše Šafránková as Popelka</li><li>Pavel Trávníček as Prince</li><li>Carola Braunbock as Stepmother</li><li>Rolf Hoppe as King</li><li>Karin Lesch as Queen</li><li>Dana Hlaváčová as Dora</li><li>Jan Libíček as Preceptor</li><li>Vítězslav Jandák as Kamil</li><li>Jaroslav Drbohlav as Vítek</li><li>Vladimír Menšík as Vincek</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Three Wishes for Cinderella (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
+  },
+  "movie:9403": {
+   "d": "Private Parts (1997): Comedy/Drama film. Story: The life and career of shock-jock superstar Howard… See cast, budget $28M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/liPn0q65pOXosCpkr0BTbTHjbRT.jpg",
+   "industry": "world",
+   "k": "Private Parts, Private Parts movie, Private Parts cast, Private Parts story, Private Parts box office collection, Private Parts budget, Private Parts review, Private Parts rating, Private Parts release date, Private Parts trailer, Private Parts Comedy, Private Parts Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Howard Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Quivers"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary McCormack"
+     },
+     {
+      "@type": "Person",
+      "name": "Fred Norris"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Giamatti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Private Parts (1997): Comedy/Drama film. Story: The life and career of shock-jock superstar Howard… See cast, budget $28M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Betty Thomas"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/liPn0q65pOXosCpkr0BTbTHjbRT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9403",
+    "name": "Private Parts",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9403"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Private Parts (1997)</h1>\n<p class=\"ssr-lead\">The life and career of shock-jock superstar Howard Stern is recounted from his humble beginnings to his view from the top. Possessing a desire to be an on-air personality since childhood, Stern meanders through the radio world, always with his supportive wife, Alison, by his side. Landing a gig in Washington, D.C., Stern meets Robin Quivers, who will become his long-time partner in crime. When the two move to New York, they face the wrath of NBC executives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 1997</li><li>Runtime: 109 minutes</li><li>Director: Betty Thomas</li><li>Genres: Comedy, Drama</li><li>Budget: $28M</li><li>TMDB rating: 6.5/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Howard Stern as Howard Stern</li><li>Robin Quivers as Robin Quivers</li><li>Mary McCormack as Alison Stern</li><li>Fred Norris as Fred Norris</li><li>Paul Giamatti as Kenny</li><li>Gary Dell&#x27;Abate as Gary Dell&#x27;Abate</li><li>Jackie Martling as Jackie Martling</li><li>Carol Alt as Gloria</li><li>Richard Portnow as Ben Stern</li><li>Kelly Bishop as Ray Stern</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Private Parts (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
   },
   "tv:111803": {
    "d": "The White Lotus (2021) is a Comedy and Drama TV series. Explore its story: Follow the exploits of various guests and employees…, cast, and 3 seasons.",

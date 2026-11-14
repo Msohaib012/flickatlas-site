@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 32,
+ "count": 41,
  "titles": {
   "movie:10741": {
    "d": "Bobby (2006): Drama film. Story: In 1968 the lives of a retired doorman, hotel… See cast, TMDB rating 6.4/10, and release date 5 September 2006.",
@@ -512,6 +512,70 @@
    "t": "Seven Snipers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13641": {
+   "d": "The Air I Breathe (2007): Drama/Thriller film. Story: A gambler’s bet spiraling into chaos, a gangster's… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/41D8Z0OXw3qCUhFxACBSMilGTIO.jpg",
+   "industry": "world",
+   "k": "The Air I Breathe, The Air I Breathe movie, The Air I Breathe cast, The Air I Breathe story, The Air I Breathe box office collection, The Air I Breathe budget, The Air I Breathe review, The Air I Breathe rating, The Air I Breathe release date, The Air I Breathe Drama, The Air I Breathe Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Bacon"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Michelle Gellar"
+     },
+     {
+      "@type": "Person",
+      "name": "Clark Gregg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Air I Breathe (2007): Drama/Thriller film. Story: A gambler’s bet spiraling into chaos, a gangster's… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jieho Lee"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/41D8Z0OXw3qCUhFxACBSMilGTIO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13641",
+    "name": "The Air I Breathe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13641"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Air I Breathe (2007)</h1>\n<p class=\"ssr-lead\">A gambler’s bet spiraling into chaos, a gangster&#x27;s prophetic visions, a pop star’s dark entanglement, a doctor’s desperate race against time to rescue his beloved... Four interconnected stories reveal life unfolding through four emotional pillars — joy, passion, grief, and love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2007</li><li>Runtime: 95 minutes</li><li>Director: Jieho Lee</li><li>Genres: Drama, Thriller, Crime</li><li>TMDB rating: 6.3/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brendan Fraser as Pleasure</li><li>Andy Garcia as Fingers</li><li>Kevin Bacon as Love</li><li>Sarah Michelle Gellar as Sorrow</li><li>Clark Gregg as Henry</li><li>Emile Hirsch as Tony</li><li>Forest Whitaker as Happiness</li><li>Kelly Hu as Jiyoung</li><li>Evan Parke as Danny</li><li>Taylor Nichols as Sorrow&#x27;s Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Air I Breathe (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:1454741": {
    "d": "The Confession (2026): Horror film. Story: A woman finds her late father’s tape confessing to… See cast, TMDB rating 5.7/10, and release date 8 January 2026.",
    "img": "https://image.tmdb.org/t/p/w780/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
@@ -978,6 +1042,198 @@
    "t": "Hands of Stone (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:24341": {
+   "d": "Dolls (1987): Fantasy/Horror film. Story: A precocious girl, her nasty parents, two punk-rock… See cast, TMDB rating 6.4/10, and release date 12 March 1987.",
+   "img": "https://image.tmdb.org/t/p/w780/aOH67myzG6Gk0MrHIldOR5odTZW.jpg",
+   "industry": "world",
+   "k": "Dolls, Dolls movie, Dolls cast, Dolls story, Dolls box office collection, Dolls budget, Dolls review, Dolls rating, Dolls release date, Dolls trailer, Dolls Fantasy, Dolls Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ian Patrick Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Carolyn Purdy-Gordon"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Lorraine"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Rolfe"
+     },
+     {
+      "@type": "Person",
+      "name": "Hilary Mason"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Dolls (1987): Fantasy/Horror film. Story: A precocious girl, her nasty parents, two punk-rock… See cast, TMDB rating 6.4/10, and release date 12 March 1987.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stuart Gordon"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Fantasy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aOH67myzG6Gk0MrHIldOR5odTZW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24341",
+    "name": "Dolls",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-03-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24341"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dolls (1987)</h1>\n<p class=\"ssr-lead\">A precocious girl, her nasty parents, two punk-rock losers and a weak-kneed salesman inadvertently become the guests of two ghoulish senior citizens in their dark, haunted mansion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 1987</li><li>Runtime: 77 minutes</li><li>Director: Stuart Gordon</li><li>Genres: Fantasy, Horror</li><li>TMDB rating: 6.4/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ian Patrick Williams as David Bower</li><li>Carolyn Purdy-Gordon as Rosemary Bower</li><li>Carrie Lorraine as Judy Bower</li><li>Guy Rolfe as Gabriel Hartwicke</li><li>Hilary Mason as Hilary Hartwicke</li><li>Bunty Bailey as Isabel Prange</li><li>Cassie Stuart as Enid</li><li>Stephen Lee as Ralph Morris</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, MGM+ Amazon Channel, Philo, MGM Plus Roku Premium Channel, MGM Plus, Amazon Prime Video with Ads</li><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "Dolls (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:28941": {
+   "d": "Chopping Mall (1987): Horror/Science Fiction film. Story: High-tech robots equipped with state-of-the-art… See cast, budget $800.0k, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1ctiV8HodFkFOwIjQp3T2znHE19.jpg",
+   "industry": "world",
+   "k": "Chopping Mall, Chopping Mall movie, Chopping Mall cast, Chopping Mall story, Chopping Mall box office collection, Chopping Mall budget, Chopping Mall review, Chopping Mall rating, Chopping Mall release date, Chopping Mall Horror, Chopping Mall Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelli Maroney"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony O'Dell"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Todd"
+     },
+     {
+      "@type": "Person",
+      "name": "Karrie Emerson"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Crampton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Chopping Mall (1987): Horror/Science Fiction film. Story: High-tech robots equipped with state-of-the-art… See cast, budget $800.0k, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Wynorski"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1ctiV8HodFkFOwIjQp3T2znHE19.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=28941",
+    "name": "Chopping Mall",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-03-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=28941"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chopping Mall (1987)</h1>\n<p class=\"ssr-lead\">High-tech robots equipped with state-of-the-art security devices have been recruited as the new mechanical &quot;night watchmen&quot; for the Park Plaza Mall. When a jolting bolt of lightning short-circuits the main computer control, the robots turn into &quot;killbots&quot; on the loose after unsuspecting shoppers!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 March 1987</li><li>Runtime: 77 minutes</li><li>Director: Jim Wynorski</li><li>Genres: Horror, Science Fiction</li><li>Budget: $800.0k</li><li>TMDB rating: 5.8/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelli Maroney as Alison Parks</li><li>Tony O&#x27;Dell as Ferdy Meisel</li><li>Russell Todd as Rick Stanton</li><li>Karrie Emerson as Linda Stanton</li><li>Barbara Crampton as Suzie Lynn</li><li>Nick Segal as Greg Williams</li><li>John Terlesky as Mike Brennan</li><li>Suzee Slater as Leslie Todd</li><li>Paul Bartel as Paul Bland</li><li>Mary Woronov as Mary Bland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Shudder Amazon Channel, Screambox Amazon Channel, Shudder Apple TV channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Chopping Mall (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:457041": {
+   "d": "Elizabeth Harvest (2018): Science Fiction/Thriller film. Story: The newly married Elizabeth arrives with her new… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wJprgIXjjpV3iZcMdF76Hyen75e.jpg",
+   "industry": "world",
+   "k": "Elizabeth Harvest, Elizabeth Harvest movie, Elizabeth Harvest cast, Elizabeth Harvest story, Elizabeth Harvest box office collection, Elizabeth Harvest budget, Elizabeth Harvest review, Elizabeth Harvest rating, Elizabeth Harvest release date, Elizabeth Harvest trailer, Elizabeth Harvest Science Fiction, Elizabeth Harvest Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Abbey Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Hinds"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Gugino"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Beard"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Baker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Elizabeth Harvest (2018): Science Fiction/Thriller film. Story: The newly married Elizabeth arrives with her new… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sebastian Gutierrez"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wJprgIXjjpV3iZcMdF76Hyen75e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=457041",
+    "name": "Elizabeth Harvest",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=457041"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Elizabeth Harvest (2018)</h1>\n<p class=\"ssr-lead\">The newly married Elizabeth arrives with her new husband, the scientist Henry, at a magnificent house. He tells her that she can do there anything she pleases, except to enter a certain closed room.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2018</li><li>Runtime: 105 minutes</li><li>Director: Sebastian Gutierrez</li><li>Genres: Science Fiction, Thriller, Horror, Mystery</li><li>TMDB rating: 6.1/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Abbey Lee as Elizabeth</li><li>Ciarán Hinds as Henry</li><li>Carla Gugino as Claire</li><li>Matthew Beard as Oliver</li><li>Dylan Baker as Logan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Elizabeth Harvest (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:46441": {
    "d": "Mirrors 2 (2010): Horror/Mystery film. Story: When Max, who is recovering from a traumatic… See cast, TMDB rating 5.5/10, and release date 18 October 2010.",
    "img": "https://image.tmdb.org/t/p/w780/tGpJAfSwqpXjARSRrAWUiouUSnr.jpg",
@@ -1105,6 +1361,134 @@
    "t": "Diego Maradona (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:664341": {
+   "d": "Eileen (2023): Thriller/Crime film. Story: During a bitter 1964 Massachusetts winter, young… See cast, budget $16M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+   "industry": "world",
+   "k": "Eileen, Eileen movie, Eileen cast, Eileen story, Eileen box office collection, Eileen budget, Eileen review, Eileen rating, Eileen release date, Eileen trailer, Eileen Thriller, Eileen Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thomasin McKenzie"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Shea Whigham"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Nivola"
+     },
+     {
+      "@type": "Person",
+      "name": "Marin Ireland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Eileen (2023): Thriller/Crime film. Story: During a bitter 1964 Massachusetts winter, young… See cast, budget $16M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Oldroyd"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=664341",
+    "name": "Eileen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=664341"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Eileen (2023)</h1>\n<p class=\"ssr-lead\">During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 2023</li><li>Runtime: 98 minutes</li><li>Director: William Oldroyd</li><li>Genres: Thriller, Crime</li><li>Budget: $16M</li><li>TMDB rating: 5.8/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thomasin McKenzie as Eileen Dunlop</li><li>Anne Hathaway as Rebecca</li><li>Shea Whigham as Jim Dunlop</li><li>Sam Nivola as Lee Polk</li><li>Marin Ireland as Mrs. Polk</li><li>Siobhan Fallon Hogan as Mrs. Murray</li><li>Tonye Patano as Mrs. Stevens</li><li>William Hill as Intake Guard</li><li>Owen Teague as Randy</li><li>Peter McRobbie as Warden</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Eileen (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:68341": {
+   "d": "Cold Fish (2011): Drama/Thriller film. Story: When fish shop owner Shamoto's teenage daughter… See cast, TMDB rating 6.9/10, and release date 29 January 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/lCR2wcqu6BBF7vFF3TqqDartccO.jpg",
+   "industry": "world",
+   "k": "Cold Fish, Cold Fish movie, Cold Fish cast, Cold Fish story, Cold Fish box office collection, Cold Fish budget, Cold Fish review, Cold Fish rating, Cold Fish release date, Cold Fish trailer, Cold Fish Drama, Cold Fish Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mitsuru Fukikoshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Denden"
+     },
+     {
+      "@type": "Person",
+      "name": "Asuka Kurosawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Megumi Kagurazaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Hikari Kajiwara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Cold Fish (2011): Drama/Thriller film. Story: When fish shop owner Shamoto's teenage daughter… See cast, TMDB rating 6.9/10, and release date 29 January 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sion Sono"
+     }
+    ],
+    "duration": "PT146M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lCR2wcqu6BBF7vFF3TqqDartccO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=68341",
+    "name": "Cold Fish",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-01-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=68341"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cold Fish (2011)</h1>\n<p class=\"ssr-lead\">When fish shop owner Shamoto&#x27;s teenage daughter Mitsuko is caught stealing, a generous middle-aged man named Murata helps resolve the situation. The man and his wife offer to have Mitsuko work at their opposing fish store. Shamoto soon discovers that something far more sinister lives behind Murata&#x27;s friendly demeanor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2011</li><li>Runtime: 146 minutes</li><li>Director: Sion Sono</li><li>Genres: Drama, Thriller, Crime, Horror</li><li>TMDB rating: 6.9/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mitsuru Fukikoshi as Nobuyuki Shamoto</li><li>Denden as Yukio Murata</li><li>Asuka Kurosawa as Aiko Murata</li><li>Megumi Kagurazaka as Taeko Shamoto</li><li>Hikari Kajiwara as Mitsuko Shamoto</li><li>Tetsu Watanabe as Takayasu TsuTsui</li><li>Tarō Suwa as Akio Yoshida</li><li>Jyonmyon Pe as Hiroshi Okubo</li><li>Masahiko Sakata as Susumu Kawajiri</li><li>Natsumi Seto as Yuko Sawada</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Cold Fish (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:740441": {
    "d": "Unlocked (2023): Thriller/Crime film. Story: A woman's life is turned upside-down when a dangerous… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/mLnbZF4B2ZUYkrbGZL5RGkfe0n4.jpg",
@@ -1168,6 +1552,197 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Unlocked (2023)</h1>\n<p class=\"ssr-lead\">A woman&#x27;s life is turned upside-down when a dangerous man gets a hold of her lost cell phone and uses it to track her every move.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2023</li><li>Runtime: 117 minutes</li><li>Director: Kim Tae-joon</li><li>Genres: Thriller, Crime, Mystery</li><li>TMDB rating: 7.3/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chun Woo-hee as Lee Na-mi</li><li>Yim Si-wan as Oh Jun-yeong</li><li>Kim Hee-won as Woo Ji-man</li><li>Park Ho-san as Lee Seung-woo</li><li>Kim Ye-won as Jeong Eun-joo</li><li>Jeon Jin-oh as Kim Jeong-ho</li><li>Oh Hyun-kyung as CEO Oh</li><li>Ryu Sung-hyun as Chief of Detective</li><li>Jeon Ik-ryoung as Jeong-mi</li><li>Kim Joo-ryoung as Eun-mi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Unlocked (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:774741": {
+   "d": "Diary of a Wimpy Kid (2021): Animation/Comedy film. Story: Greg Heffley is a scrawny but ambitious kid with an… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x78cvxbmpBNcHON7x3Iv8vih5Sj.jpg",
+   "industry": "world",
+   "k": "Diary of a Wimpy Kid, Diary of a Wimpy Kid movie, Diary of a Wimpy Kid cast, Diary of a Wimpy Kid story, Diary of a Wimpy Kid box office collection, Diary of a Wimpy Kid budget, Diary of a Wimpy Kid review, Diary of a Wimpy Kid rating, Diary of a Wimpy Kid release date, Diary of a Wimpy Kid Animation, Diary of a Wimpy Kid Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brady Noon"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan William Childress"
+     },
+     {
+      "@type": "Person",
+      "name": "Hunter Dillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Erica Cerra"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Diamantopoulos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 422,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Diary of a Wimpy Kid (2021): Animation/Comedy film. Story: Greg Heffley is a scrawny but ambitious kid with an… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Swinton O. Scott III"
+     }
+    ],
+    "duration": "PT58M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x78cvxbmpBNcHON7x3Iv8vih5Sj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=774741",
+    "name": "Diary of a Wimpy Kid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=774741"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Diary of a Wimpy Kid (2021)</h1>\n<p class=\"ssr-lead\">Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 December 2021</li><li>Runtime: 58 minutes</li><li>Director: Swinton O. Scott III</li><li>Genres: Animation, Comedy, Family</li><li>TMDB rating: 6.2/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brady Noon as Greg (voice)</li><li>Ethan William Childress as Rowley (voice)</li><li>Hunter Dillon as Rodrick (voice)</li><li>Erica Cerra as Susan (voice)</li><li>Chris Diamantopoulos as Frank (voice)</li><li>Gracen Newton as Manny (voice)</li><li>Christian Convery as Fregley (voice)</li><li>Jessica Mikayla Adams as Braces Girl (voice)</li><li>Cyrus Arnold as Teen Driver (voice)</li><li>Braxton Baker as Teen with Mullet (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Diary of a Wimpy Kid (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:77941": {
+   "d": "The Usual Idiots: The Movie (2011): Comedy film. Story: A movie based on the italian sitcom \"I Soliti Idioti\". See cast and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4JmwMZB14xcMjWVnjfIQACD5LEK.jpg",
+   "industry": "world",
+   "k": "The Usual Idiots: The Movie, The Usual Idiots: The Movie movie, The Usual Idiots: The Movie cast, The Usual Idiots: The Movie story, The Usual Idiots: The Movie box office collection, The Usual Idiots: The Movie budget, The Usual Idiots: The Movie review, The Usual Idiots: The Movie rating, The Usual Idiots: The Movie release date, The Usual Idiots: The Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrizio Biggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesco Mandelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Mădălina Ghenea"
+     },
+     {
+      "@type": "Person",
+      "name": "Valeria Bilello"
+     },
+     {
+      "@type": "Person",
+      "name": "Giordano De Plano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "The Usual Idiots: The Movie (2011): Comedy film. Story: A movie based on the italian sitcom \"I Soliti Idioti\". See cast and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Enrico Lando"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4JmwMZB14xcMjWVnjfIQACD5LEK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=77941",
+    "name": "The Usual Idiots: The Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=77941"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Usual Idiots: The Movie (2011)</h1>\n<p class=\"ssr-lead\">A movie based on the italian sitcom &quot;I Soliti Idioti&quot;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2011</li><li>Runtime: 86 minutes</li><li>Director: Enrico Lando</li><li>Genres: Comedy</li><li>TMDB rating: 5.1/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrizio Biggio as Gianluca De Ceglie / Gisella Franchi / Fabio Rizzi / Giampietro Bianchi</li><li>Francesco Mandelli as Ruggero De Ceglie / Sebastiano Credici / Fabio Rizzato / Marialuce Bianchi</li><li>Mădălina Ghenea as Messalina, Irina Tjianchikova</li><li>Valeria Bilello as Ragazza del bordello</li><li>Giordano De Plano as Automobilista</li><li>Miriam Leone as Giornalista TV</li><li>Marco Foschi as Remo</li><li>Gianmarco Tognazzi as Avv. De Peverelli</li><li>Valeria Colosio as Ragazza Prostituta</li><li>Elisabetta De Palo as Marika</li></ul>\n</article>",
+   "t": "The Usual Idiots: The Movie (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:890541": {
+   "d": "7 Women and a Murder (2021): Comedy/Mystery film. Story: When the family patriarch is murdered, seven women… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/se9b3c47yN4BJ05HNbNyAXbwjtj.jpg",
+   "industry": "world",
+   "k": "7 Women and a Murder, 7 Women and a Murder movie, 7 Women and a Murder cast, 7 Women and a Murder story, 7 Women and a Murder box office collection, 7 Women and a Murder budget, 7 Women and a Murder review, 7 Women and a Murder rating, 7 Women and a Murder release date, 7 Women and a Murder Comedy, 7 Women and a Murder Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margherita Buy"
+     },
+     {
+      "@type": "Person",
+      "name": "Diana Del Bufalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina Impacciatore"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedetta Porcaroli"
+     },
+     {
+      "@type": "Person",
+      "name": "Micaela Ramazzotti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "7 Women and a Murder (2021): Comedy/Mystery film. Story: When the family patriarch is murdered, seven women… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Genovesi"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Comedy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/se9b3c47yN4BJ05HNbNyAXbwjtj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=890541",
+    "name": "7 Women and a Murder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=890541"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>7 Women and a Murder (2021)</h1>\n<p class=\"ssr-lead\">When the family patriarch is murdered, seven women find themselves trapped together in his mansion to solve the mystery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2021</li><li>Runtime: 84 minutes</li><li>Director: Alessandro Genovesi</li><li>Genres: Comedy, Mystery, Crime</li><li>TMDB rating: 5.5/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margherita Buy as Margherita</li><li>Diana Del Bufalo as Susanna</li><li>Sabrina Impacciatore as Agostina</li><li>Benedetta Porcaroli as Caterina</li><li>Micaela Ramazzotti as Veronica</li><li>Luisa Ranieri as Maria</li><li>Ornella Vanoni as Rachele</li><li>Marco Rossetti as Ispettore di polizia</li><li>Alessandro Genovesi as Autista taxi</li><li>Luca Pastorelli as Marcello</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "7 Women and a Murder (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "tv:131041": {
    "d": "BLUE LOCK (2022) is an Animation and Action & Adventure TV series. Explore its story: High school soccer players from across Japan gather…, cast, and 1 season.",

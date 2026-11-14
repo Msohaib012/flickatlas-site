@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 28,
+ "count": 34,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -350,6 +350,126 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 461
+  },
+  "movie:1210732": {
+   "backdrop_path": "/s7xmwFJQj99lICSGQkr8sQ7G9IA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michel",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "Cathy",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Major Roland Bodin",
+     "n": "Benoît Poelvoorde"
+    },
+    {
+     "c": "Florence",
+     "n": "Joséphine de Meaux"
+    },
+    {
+     "c": "Blanche Bodin",
+     "n": "Kim Higelin"
+    },
+    {
+     "c": "Samy",
+     "n": "Mehdi Meskar"
+    },
+    {
+     "c": "Sabine",
+     "n": "Emmanuelle Devos"
+    },
+    {
+     "c": "La commissaire de police",
+     "n": "Anne Le Ny"
+    },
+    {
+     "c": "L'Iroquois",
+     "n": "Louka Meliava"
+    },
+    {
+     "c": "Dominique, dit Doudou",
+     "n": "Timéo Mahaut"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Franck Dubosc"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1210732,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Michel and Cathy, wed for longer than they can remember, lead a quiet but monotonous life in the mountains. When a bear bursts out in front of Michel’s car, accidentally killing two drug dealers and revealing a €2 million loot in the process, their life takes an unpredictable turn, especially when they decide to cover up the incident and keep the money! But their plan leads them to stumble upon an unexplained trail of dead bodies. More used to being honest than crooked, Michel and Cathy’s clumsy cover-up efforts soon put an interfering inspector hot on their trail.",
+   "popularity": 2.6182,
+   "poster_path": "/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-01",
+   "revenue": 11511605,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Wild is the right word.",
+   "title": "How to Make a Killing",
+   "trailer": {
+    "key": "94v0712fUQQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.416,
+   "vote_count": 428
   },
   "movie:1242332": {
    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
@@ -1159,6 +1279,97 @@
    "vote_average": 8.075,
    "vote_count": 446
   },
+  "movie:23832": {
+   "backdrop_path": "/dELiIRHrpNpncIApojSW67kPNdQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brancaleone da Norcia",
+     "n": "Vittorio Gassman"
+    },
+    {
+     "c": "Matelda",
+     "n": "Catherine Spaak"
+    },
+    {
+     "c": "Pecoro",
+     "n": "Folco Lulli"
+    },
+    {
+     "c": "Teofilatto dei Leonzi",
+     "n": "Gian Maria Volonté"
+    },
+    {
+     "c": "Vedova",
+     "n": "Maria Grazia Buccella"
+    },
+    {
+     "c": "Teodora",
+     "n": "Barbara Steele"
+    },
+    {
+     "c": "Zenone",
+     "n": "Enrico Maria Salerno"
+    },
+    {
+     "c": "Abacuc",
+     "n": "Carlo Pisacane"
+    },
+    {
+     "c": "Mangoldo",
+     "n": "Ugo Fangareggi"
+    },
+    {
+     "c": "Taccone",
+     "n": "Gianluigi Crescenzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Mario Monicelli"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 23832,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A group of rogues steal a scroll granting its bearer the property of the land of Aurocastro in Apulia, a province in the south of Italy. They elect a shaggy knight, Brancaleone from Norcia, as their leader, and decide to get possession of this supposedly wealthy land. Many adventures will occurr during the journey.",
+   "popularity": 1.0706,
+   "poster_path": "/zRdd1qYJpxKKy57ufAK4E7gi13W.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1966-04-07",
+   "revenue": 1314230,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "For Love and Gold",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.73,
+   "vote_count": 418
+  },
   "movie:305932": {
    "backdrop_path": "/6L5vre1eJu0dppvk6kGfVuSGNyC.jpg",
    "budget": 0,
@@ -1285,6 +1496,161 @@
    "vote_average": 5.78,
    "vote_count": 457
   },
+  "movie:46332": {
+   "backdrop_path": "/5dZC7725ogu9drxXLHoNhWIJsgo.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Christian",
+     "n": "Lambert Wilson"
+    },
+    {
+     "c": "Luc",
+     "n": "Michael Lonsdale"
+    },
+    {
+     "c": "Christophe",
+     "n": "Olivier Rabourdin"
+    },
+    {
+     "c": "Célestin",
+     "n": "Philippe Laudenbach"
+    },
+    {
+     "c": "Amédée",
+     "n": "Jacques Herlin"
+    },
+    {
+     "c": "Jean-Pierre",
+     "n": "Loïc Pichon"
+    },
+    {
+     "c": "Michel",
+     "n": "Xavier Maly"
+    },
+    {
+     "c": "Paul",
+     "n": "Jean-Marie Frin"
+    },
+    {
+     "c": "Nouredine",
+     "n": "Abdelhafid Metalsi"
+    },
+    {
+     "c": "Rabbia",
+     "n": "Sabrina Ouazani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Xavier Beauvois"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 46332,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A group of Trappist monks reside in the monastery of Tibhirine in Algeria, where they live in harmony with the largely Muslim population. When a bloody conflict between Algeria's army and Muslim Jihadi insurgents disrupts the peace, they are forced to consider fleeing the monastery and deserting the villagers they have ministered to. In the face of deadly violence, the monks wrestle with their faith and their convictions.",
+   "popularity": 2.6887,
+   "poster_path": "/rYi5SbrfAQkJzxG82QJkoIPv6iU.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-09-08",
+   "revenue": 41424067,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "In the face of terror, their greatest weapon was faith...",
+   "title": "Of Gods and Men",
+   "trailer": {
+    "key": "nhQzn2gVGjQ",
+    "name": "Of Gods and Men | Official Trailer HD (2010)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.659,
+   "vote_count": 430
+  },
   "movie:568332": {
    "backdrop_path": "/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
    "budget": 0,
@@ -1376,6 +1742,292 @@
    "type": "movie",
    "vote_average": 8.19,
    "vote_count": 442
+  },
+  "movie:580532": {
+   "backdrop_path": "/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Tyrone Brower",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Jake Kelly",
+     "n": "Armie Hammer"
+    },
+    {
+     "c": "Claire Reimann",
+     "n": "Evangeline Lilly"
+    },
+    {
+     "c": "Dean Talbot",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Supervisor Garrett",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Dr. Bill Simons",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Emmie Kelly",
+     "n": "Lily-Rose Depp"
+    },
+    {
+     "c": "Mother",
+     "n": "Guy Nadon"
+    },
+    {
+     "c": "Dr. Meg Holmes",
+     "n": "Veronica Ferres"
+    },
+    {
+     "c": "Ben Walker",
+     "n": "Kid Cudi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Jarecki"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 580532,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son's involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new \"non-addictive\" painkiller to market.",
+   "popularity": 2.1075,
+   "poster_path": "/ao4JajLcPITivfstlzENge3MPkq.jpg",
+   "production_countries": [
+    "BE",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-02-26",
+   "revenue": 1099426,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Addiction is an industry.",
+   "title": "Crisis",
+   "trailer": {
+    "key": "36ACqc0OHGQ",
+    "name": "CRISIS | Official U.S Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.251,
+   "vote_count": 414
+  },
+  "movie:624932": {
+   "backdrop_path": "/qs4YtPoCTLiv9V2w8oaAOAliF6W.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Dave Chappelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stan Lathan"
+   ],
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 624932,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of celebrity scandals in this defiant stand-up special.",
+   "popularity": 1.16,
+   "poster_path": "/onTLKNYvTQ7f86LQZEj6EAUmpjt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-26",
+   "revenue": 0,
+   "runtime": 65,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dave Chappelle: Sticks & Stones",
+   "trailer": {
+    "key": "eyOkypzFfHo",
+    "name": "Dave Chappelle Netflix Standup Comedy Special Trailer | Sticks & Stones",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.532,
+   "vote_count": 401
+  },
+  "movie:632632": {
+   "backdrop_path": "/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Akihiko Kaji (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Haruki Nakayama (voice)",
+     "n": "Masatomo Nakazawa"
+    },
+    {
+     "c": "Mafuyu Satou (voice)",
+     "n": "Shogo Yano"
+    },
+    {
+     "c": "Ritsuka Uenoyama (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Ugetsu Murata (voice)",
+     "n": "Shintaro Asanuma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hikaru Yamaguchi"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "id": 632632,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Haruki secretly had feelings for Akihiko for years, but Akihiko was still in a relationship with his roommate, the violinist Ugetsu Murata. Haruki, Akihiko, and Ugetsu's love clashes and starts to move forward.",
+   "popularity": 3.2262,
+   "poster_path": "/pegCub2zdYD5As43AOmGsIctuKc.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-08-22",
+   "revenue": 930363,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A story of a certain summer.",
+   "title": "Given",
+   "trailer": {
+    "key": "XGKGjMGZwtk",
+    "name": "Given The Movie | OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.223,
+   "vote_count": 428
   },
   "movie:72432": {
    "backdrop_path": "/4ANhs0bjHHu7wy2HOEaGrxgGp0Z.jpg",

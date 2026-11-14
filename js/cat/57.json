@@ -1,6 +1,6 @@
 {
  "bucket": "57",
- "count": 37,
+ "count": 41,
  "titles": {
   "movie:11157": {
    "backdrop_path": "/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
@@ -1481,6 +1481,97 @@
    "vote_average": 7.0,
    "vote_count": 475
   },
+  "movie:18457": {
+   "backdrop_path": "/r3jgG9N4sQePB8HYPgJV31IkAgm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Francis Reggio",
+     "n": "Benoît Poelvoorde"
+    },
+    {
+     "c": "Gérard Moltès",
+     "n": "Gérard Lanvin"
+    },
+    {
+     "c": "Mustapha Amel, aka \"The Turk\"",
+     "n": "José Garcia"
+    },
+    {
+     "c": "Detective Youssouf",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Pauline Reggio",
+     "n": "Rossy de Palma"
+    },
+    {
+     "c": "Saddam",
+     "n": "Jean Benguigui"
+    },
+    {
+     "c": "Requin, the Giant",
+     "n": "Gary Tiplady"
+    },
+    {
+     "c": "Kowalski",
+     "n": "Gérard Darmon"
+    },
+    {
+     "c": "Malian guy",
+     "n": "Stomy Bugsy"
+    },
+    {
+     "c": "Malian guy",
+     "n": "Marco Prince"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alain Berbérian",
+    "Frédéric Forestier"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 18457,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "GB"
+   ],
+   "original_language": "fr",
+   "overview": "After winning the lottery, a convict must chase down the warden who has his winning ticket.",
+   "popularity": 1.9826,
+   "poster_path": "/hlbQnAfvGJxKpDqstKsal6tuoDb.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-04-10",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dead Weight",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.821,
+   "vote_count": 421
+  },
   "movie:2457": {
    "backdrop_path": "/ubERa5VEJlBRglxDSBSL0YBG7XB.jpg",
    "budget": 0,
@@ -1620,6 +1711,123 @@
    "type": "movie",
    "vote_average": 8.05,
    "vote_count": 476
+  },
+  "movie:255157": {
+   "backdrop_path": "/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Raymond Cutter",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Joseph Cutter",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Will Cutter",
+     "n": "Tye Sheridan"
+    },
+    {
+     "c": "DEA Agent Catherine Paisley",
+     "n": "Abigail Spencer"
+    },
+    {
+     "c": "Carl",
+     "n": "Marcus Thomas"
+    },
+    {
+     "c": "Detective Devlin",
+     "n": "Travis Aaron Wade"
+    },
+    {
+     "c": "Melanie",
+     "n": "Lyndon Smith"
+    },
+    {
+     "c": "Tommy Keegan",
+     "n": "Anson Mount"
+    },
+    {
+     "c": "Kim",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Raul Carlos",
+     "n": "Julio Oscar Mechoso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Philip Martin"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 255157,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former child art prodigy and second generation petty thief arranges to buy his way out of prison to spend time with his ailing son, only to be forced to alter his plans and commit one more job for the man who financed his release.",
+   "popularity": 2.0284,
+   "poster_path": "/x6wsmaVgIhtOwbMyIzOyfmZZSqf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-10",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never too late for a final blow",
+   "title": "The Forger",
+   "trailer": {
+    "key": "6HIlyaGAkXo",
+    "name": "The Forger - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.819,
+   "vote_count": 414
   },
   "movie:317557": {
    "backdrop_path": "/awZwLXuPAGZEARF3y18S3qWt5LH.jpg",
@@ -2148,6 +2356,236 @@
    "type": "movie",
    "vote_average": 6.722,
    "vote_count": 497
+  },
+  "movie:5857": {
+   "backdrop_path": "/cHX3TG0rsd9jQu1aVDb0ZgDeyCJ.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Aubrey Fleming",
+     "n": "Lindsay Lohan"
+    },
+    {
+     "c": "Susan Fleming",
+     "n": "Julia Ormond"
+    },
+    {
+     "c": "Daniel Fleming",
+     "n": "Neal McDonough"
+    },
+    {
+     "c": "Julie Bascome",
+     "n": "Garcelle Beauvais"
+    },
+    {
+     "c": "Phil Lazarus",
+     "n": "Spencer Garrett"
+    },
+    {
+     "c": "Greg Jameson",
+     "n": "Gregory Itzin"
+    },
+    {
+     "c": "Jerrod Pointer",
+     "n": "Brian Geraghty"
+    },
+    {
+     "c": "Douglas Norquist",
+     "n": "Thomas Tofel"
+    },
+    {
+     "c": "Lanny Rierden",
+     "n": "David Figlioli"
+    },
+    {
+     "c": "Kenny Scaife",
+     "n": "Rodney Rowland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris Sivertson"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 5857,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An idyllic small town is rocked when Aubrey Fleming, a bright and promising young woman, is abducted and tortured by a sadistic serial killer. When she manages to escape, the traumatized girl who regains consciousness in the hospital insists that she is not who they think she is and that the real Aubrey Fleming is still in mortal danger.",
+   "popularity": 2.3401,
+   "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-27",
+   "revenue": 9620399,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "There are two sides to every crime.",
+   "title": "I Know Who Killed Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.45,
+   "vote_count": 412
+  },
+  "movie:59457": {
+   "backdrop_path": "/dFBua0bSUCQgsrUgqRuiJHp3ZjS.jpg",
+   "budget": 3100000,
+   "cast": [
+    {
+     "c": "Rebecca",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Thomas",
+     "n": "Matt Smith"
+    },
+    {
+     "c": "Judith",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Ralph",
+     "n": "Peter Wight"
+    },
+    {
+     "c": "Henry",
+     "n": "István Lénárt"
+    },
+    {
+     "c": "Monica",
+     "n": "Hannah Murray"
+    },
+    {
+     "c": "Rebecca - 9 Years",
+     "n": "Ruby O. Fee"
+    },
+    {
+     "c": "Thomas - 10 Years",
+     "n": "Tristan Christopher"
+    },
+    {
+     "c": "Thomas - 5 Years",
+     "n": "Jesse Hoffmann"
+    },
+    {
+     "c": "Rose",
+     "n": "Natalia Tena"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Benedek Fliegauf"
+   ],
+   "genres": [
+    "Romance",
+    "Science Fiction"
+   ],
+   "id": 59457,
+   "industry": "world",
+   "origin_country": [
+    "HU",
+    "DE",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "A woman's consuming love forces her to bear the clone of her dead beloved. From his infancy to manhood, she faces the unavoidable complexities of her controversial decision.",
+   "popularity": 2.0677,
+   "poster_path": "/raTEzBZBflPyVhOls4PmrryvPos.jpg",
+   "production_countries": [
+    "DE",
+    "FR",
+    "HU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-07-15",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Death was not the end but the beginning",
+   "title": "Womb",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.119,
+   "vote_count": 434
   },
   "movie:645757": {
    "backdrop_path": "/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",

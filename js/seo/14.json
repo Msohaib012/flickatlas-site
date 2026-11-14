@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 32,
+ "count": 39,
  "titles": {
   "movie:12614": {
    "d": "Victor/Victoria (1982): Music/Comedy film. Story: A struggling female soprano finds work playing a male… See cast, budget $15M, and TMDB rating 7.3/10.",
@@ -320,6 +320,70 @@
    "t": "All of a Sudden (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:15014": {
+   "d": "Bianca (1984): Drama/Comedy film. Story: Michele, a young mathematics professor, moves into a… See cast, TMDB rating 7.5/10, and release date 23 February 1984.",
+   "img": "https://image.tmdb.org/t/p/w780/rQY1Rkjxa7EJXYrv2jbUjLcCC4l.jpg",
+   "industry": "world",
+   "k": "Bianca, Bianca movie, Bianca cast, Bianca story, Bianca box office collection, Bianca budget, Bianca review, Bianca rating, Bianca release date, Bianca Drama, Bianca Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nanni Moretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Morante"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberto Vezzosi"
+     },
+     {
+      "@type": "Person",
+      "name": "Remo Remotti"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudio Bigagli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Bianca (1984): Drama/Comedy film. Story: Michele, a young mathematics professor, moves into a… See cast, TMDB rating 7.5/10, and release date 23 February 1984.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nanni Moretti"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rQY1Rkjxa7EJXYrv2jbUjLcCC4l.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15014",
+    "name": "Bianca",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-02-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15014"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bianca (1984)</h1>\n<p class=\"ssr-lead\">Michele, a young mathematics professor, moves into a new flat. Lonely, depressed and neurotic, he spends his time obsessively monitoring the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 February 1984</li><li>Runtime: 96 minutes</li><li>Director: Nanni Moretti</li><li>Genres: Drama, Comedy, Mystery</li><li>TMDB rating: 7.5/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nanni Moretti as Michele Apicella</li><li>Laura Morante as Bianca</li><li>Roberto Vezzosi as Commissario</li><li>Remo Remotti as Siro Siri</li><li>Claudio Bigagli as Ignazio</li><li>Enrica Maria Modugno as Aurora</li><li>Vincenzo Salemme as Massimiliano</li><li>Margherita Sestito as Maria</li><li>Dario Cantarelli as Preside</li><li>Virginie Alexandre as Martina</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Bianca (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
+  },
   "movie:1564614": {
    "d": "Leviticus (2026): Horror/Romance film. Story: Two teenage boys must escape a violent entity that… See cast, budget $3.5M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
@@ -512,6 +576,69 @@
    "t": "3 Ninjas (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:20414": {
+   "d": "Grande, grosso e... Verdone (2008): Comedy film. Story: A comic movie divided in three episodes. See cast, TMDB rating 5.9/10, and release date 7 March 2008.",
+   "img": "https://image.tmdb.org/t/p/w780/bYcsJJVj70YHHMOZGCBaDLxBI2j.jpg",
+   "industry": "world",
+   "k": "Grande, grosso e... Verdone, Grande, grosso e... Verdone movie, Grande, grosso e... Verdone cast, Grande, grosso e... Verdone story, Grande, grosso e... Verdone box office collection, Grande, grosso e... Verdone budget, Grande, grosso e... Verdone review, Grande, grosso e... Verdone rating, Grande, grosso e... Verdone release date, Grande, grosso e... Verdone Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Gerini"
+     },
+     {
+      "@type": "Person",
+      "name": "Geppi Cucciari"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Riccobono"
+     },
+     {
+      "@type": "Person",
+      "name": "Vittorio Emanuele Propizio"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 401,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Grande, grosso e... Verdone (2008): Comedy film. Story: A comic movie divided in three episodes. See cast, TMDB rating 5.9/10, and release date 7 March 2008.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bYcsJJVj70YHHMOZGCBaDLxBI2j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20414",
+    "name": "Grande, grosso e... Verdone",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20414"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Grande, grosso e... Verdone (2008)</h1>\n<p class=\"ssr-lead\">A comic movie divided in three episodes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 2008</li><li>Runtime: 132 minutes</li><li>Director: Carlo Verdone</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlo Verdone as Leo Nuvolone / Callisto Cagnato / Moreno Vecchiarutti / L&#x27;onorevole</li><li>Claudia Gerini as Enza Sessa</li><li>Geppi Cucciari as Tecla Nuvolone</li><li>Eva Riccobono as Blanche</li><li>Vittorio Emanuele Propizio as Steven Vecchiarutti</li><li>Andrea Miglio Risi as Severiano Cagnato</li><li>Martina Pinto as Lucia Diotiallevi</li><li>Clizia Fornasier as Irene</li><li>Alessandro Di Fede as Sisto</li><li>Nicola Di Gioia as Otello</li></ul>\n</article>",
+   "t": "Grande, grosso e... Verdone (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:20714": {
    "d": "12 (2007): Crime/Drama film. Story: A loose remake of “12 Angry Men”, “12” is set in… See cast, budget $4M, TMDB rating 6.6/10, and release date 6 June 2007.",
    "img": "https://image.tmdb.org/t/p/w780/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
@@ -575,6 +702,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>12 (2007)</h1>\n<p class=\"ssr-lead\">A loose remake of “12 Angry Men”, “12” is set in contemporary Moscow where 12 very different men must unanimously decide the fate of a young Chechen accused of murdering his step-father, a Russian army officer. Consigned to a makeshift jury room in a school gymnasium, one by one each man takes center stage to confront, connect, and confess while the accused awaits a verdict and revisits his heartbreaking journey through war in flashbacks.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 June 2007</li><li>Runtime: 159 minutes</li><li>Director: Nikita Mikhalkov</li><li>Genres: Crime, Drama, Mystery</li><li>Budget: $4M</li><li>TMDB rating: 6.6/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sergey Makovetskiy as juror #1</li><li>Nikita Mikhalkov as juror #2</li><li>Sergey Garmash as juror #3</li><li>Valentin Gaft as juror #4</li><li>Olexy Petrenko as Juror #5</li><li>Yury Stoyanov as juror #6</li><li>Sergey Gazarov as juror #7</li><li>Mikhail Efremov as juror #8</li><li>Oleksiy Horbunov as juror #9</li><li>Sergei Artsybashev as juror #10</li></ul>\n</article>",
    "t": "12 (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:253414": {
+   "d": "Rock the Kasbah (2015): Comedy/Music film. Story: A washed-up music producer finds one last shot at… See cast, budget $15M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wldeDiuEBhYi1Q4FjSHzAQ3yS80.jpg",
+   "industry": "world",
+   "k": "Rock the Kasbah, Rock the Kasbah movie, Rock the Kasbah cast, Rock the Kasbah story, Rock the Kasbah box office collection, Rock the Kasbah budget, Rock the Kasbah review, Rock the Kasbah rating, Rock the Kasbah release date, Rock the Kasbah trailer, Rock the Kasbah Comedy, Rock the Kasbah Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Murray"
+     },
+     {
+      "@type": "Person",
+      "name": "Zooey Deschanel"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Hudson"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Kinney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Rock the Kasbah (2015): Comedy/Music film. Story: A washed-up music producer finds one last shot at… See cast, budget $15M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Barry Levinson"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wldeDiuEBhYi1Q4FjSHzAQ3yS80.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=253414",
+    "name": "Rock the Kasbah",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=253414"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rock the Kasbah (2015)</h1>\n<p class=\"ssr-lead\">A washed-up music producer finds one last shot at redemption with a golden-voiced young girl in Afghanistan. However, when jealousy gets the better of a disgruntled ex-boyfriend, he decides to oppose the young star with talent of his own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2015</li><li>Runtime: 100 minutes</li><li>Director: Barry Levinson</li><li>Genres: Comedy, Music, War</li><li>Budget: $15M</li><li>TMDB rating: 5.4/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Murray as Richie Lanz</li><li>Zooey Deschanel as Ronnie</li><li>Bruce Willis as Bombay Brian</li><li>Kate Hudson as Merci</li><li>Taylor Kinney as Private Barnes</li><li>Danny McBride as Nick</li><li>Scott Caan as Jake</li><li>Eugenia Kuzmina as Gulla</li><li>Sarah Baker as Maureen</li><li>Leem Lubany as Salima</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Rock the Kasbah (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:26914": {
    "d": "Troll 2 (1990): Horror/Fantasy film. Story: When young Joshua learns that he will be going on… See cast, budget $65.0k, and TMDB rating 3.9/10.",
@@ -704,6 +895,69 @@
    "t": "Silent Night, Deadly Night (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:298614": {
+   "d": "Do Not Disturb (2014): Comedy film. Story: Michel, who's crazy about jazz, has just found a rare… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/srxYer1Xl8y7qcviSXqYfDjehL9.jpg",
+   "industry": "world",
+   "k": "Do Not Disturb, Do Not Disturb movie, Do Not Disturb cast, Do Not Disturb story, Do Not Disturb box office collection, Do Not Disturb budget, Do Not Disturb review, Do Not Disturb rating, Do Not Disturb release date, Do Not Disturb trailer, Do Not Disturb Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Carole Bouquet"
+     },
+     {
+      "@type": "Person",
+      "name": "Valérie Bonneton"
+     },
+     {
+      "@type": "Person",
+      "name": "Rossy de Palma"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéphane De Groodt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Do Not Disturb (2014): Comedy film. Story: Michel, who's crazy about jazz, has just found a rare… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patrice Leconte"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/srxYer1Xl8y7qcviSXqYfDjehL9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=298614",
+    "name": "Do Not Disturb",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-12-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=298614"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Do Not Disturb (2014)</h1>\n<p class=\"ssr-lead\">Michel, who&#x27;s crazy about jazz, has just found a rare album that he dreams of quietly listening to in his living room. But the world seems to have conspired against him: his wife chooses this moment to divulge an ill-timed revelation, his adult son makes a surprise visit, one of his friends knocks on the door, while his mother keeps calling him on his smartphone. Not to mention that today the residents in his apartment building are holding their annual House Party. Manipulative and a liar, Michel is ready to do anything to have a moment of peace and quiet. Is it still possible, in this day and age, to just have one hour of peace?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 December 2014</li><li>Runtime: 79 minutes</li><li>Director: Patrice Leconte</li><li>Genres: Comedy</li><li>TMDB rating: 5.3/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Michel Leproux</li><li>Carole Bouquet as Nathalie Leproux</li><li>Valérie Bonneton as Elsa</li><li>Rossy de Palma as Maria</li><li>Stéphane De Groodt as Pavel</li><li>Sébastien Castro as Sébastien Leproux</li><li>Arnaud Henriet as Léo</li><li>Christian Charmetant as Pierre</li><li>Jean-Pierre Marielle as Michel&#x27;s Father</li><li>Béatrice Michel as L&#x27;antiquaire</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Do Not Disturb (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:33914": {
    "d": "Frankenweenie (1984): Horror/Family film. Story: When young Victor's pet dog Sparky (who stars in… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/r76QpU49VuKiMhJMx3PYDXmeQ8x.jpg",
@@ -767,6 +1021,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Frankenweenie (1984)</h1>\n<p class=\"ssr-lead\">When young Victor&#x27;s pet dog Sparky (who stars in Victor&#x27;s homemade monster movies) is hit by a car, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked &quot;monster&quot; wreaks havoc and terror in the hearts of Victor&#x27;s neighbors, he has to convince them (and his parents) that despite his appearance, Sparky&#x27;s still the good loyal friend he&#x27;s always been.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 1984</li><li>Runtime: 30 minutes</li><li>Director: Tim Burton</li><li>Genres: Horror, Family, Science Fiction, Comedy</li><li>TMDB rating: 6.9/10 (468 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shelley Duvall as Susan Frankenstein</li><li>Daniel Stern as Ben Frankenstein</li><li>Barret Oliver as Victor Frankenstein</li><li>Joseph Maher as Mr. Chambers</li><li>Roz Braverman as Mrs. Epstein</li><li>Paul Bartel as Mr. Walsh</li><li>Sofia Coppola as Anne Chambers</li><li>Jason Hervey as Frank Dale</li><li>Paul C. Scott as Mike Anderson</li><li>Helen Boll as Mrs. Curtis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Frankenweenie (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:391714": {
+   "d": "On Chesil Beach (2018): Drama/Romance film. Story: In 1962 England, a young couple finds their idyllic… See cast, budget $746.0k, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
+   "industry": "world",
+   "k": "On Chesil Beach, On Chesil Beach movie, On Chesil Beach cast, On Chesil Beach story, On Chesil Beach box office collection, On Chesil Beach budget, On Chesil Beach review, On Chesil Beach rating, On Chesil Beach release date, On Chesil Beach trailer, On Chesil Beach Drama, On Chesil Beach Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Howle"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne-Marie Duff"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrian Scarborough"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Watson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 399,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "On Chesil Beach (2018): Drama/Romance film. Story: In 1962 England, a young couple finds their idyllic… See cast, budget $746.0k, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dominic Cooke"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=391714",
+    "name": "On Chesil Beach",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-01-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=391714"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>On Chesil Beach (2018)</h1>\n<p class=\"ssr-lead\">In 1962 England, a young couple finds their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 2018</li><li>Runtime: 110 minutes</li><li>Director: Dominic Cooke</li><li>Genres: Drama, Romance</li><li>Budget: $746.0k</li><li>TMDB rating: 6.1/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Florence Ponting</li><li>Billy Howle as Edward Mayhew</li><li>Anne-Marie Duff as Marjorie Mayhew</li><li>Adrian Scarborough as Lionel Mayhew</li><li>Emily Watson as Violet Ponting</li><li>Samuel West as Geoffrey Ponting</li><li>Andy Burse as Waiter One</li><li>Rasmus Hardiker as Waiter Two</li><li>Mia Burgess as Harriet Mayhew</li><li>Anna Burgess as Anne Mayhew</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "On Chesil Beach (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:395814": {
    "d": "Rememory (2017): Science Fiction/Drama film. Story: The widow of a wise professor stumbles upon one of… See cast and TMDB rating 6.1/10.",
@@ -895,6 +1213,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Beautiful Wife (2007)</h1>\n<p class=\"ssr-lead\">Mariano has been married for 10 years with Miranda, a woman way out of his league. Their small-town life is disrupted by womanizing photographer Andrea, who — struck by her good looks — offers Miranda a one-time modelling job. Albeit hesitant, the couple eventually accepts his invitation to the Seychelles...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2007</li><li>Runtime: 96 minutes</li><li>Director: Leonardo Pieraccioni</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 5.7/10 (489 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo Pieraccioni as Mariano Stoppani</li><li>Laura Torrisi as Miranda Stoppani</li><li>Gabriel Garko as Andrea</li><li>Massimo Ceccherini as Baccano</li><li>Rocco Papaleo as Pomodoro</li><li>Francesco Guccini as Regista &#x27;Grease&#x27;</li><li>Tony Sperandeo as Don Pierino</li><li>Alessandro Paci as Acciarito</li><li>Chiara Francini as Giustina</li><li>Carlo Pistarino as Venditore</li></ul>\n</article>",
    "t": "A Beautiful Wife (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:549514": {
+   "d": "Fatale (2020): Drama/Thriller film. Story: After a wild one-night stand, successful sports agent… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
+   "industry": "world",
+   "k": "Fatale, Fatale movie, Fatale cast, Fatale story, Fatale box office collection, Fatale budget, Fatale review, Fatale rating, Fatale release date, Fatale trailer, Fatale Drama, Fatale Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hilary Swank"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Ealy"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Colter"
+     },
+     {
+      "@type": "Person",
+      "name": "Damaris Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrin Turner"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Fatale (2020): Drama/Thriller film. Story: After a wild one-night stand, successful sports agent… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Deon Taylor"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=549514",
+    "name": "Fatale",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=549514"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fatale (2020)</h1>\n<p class=\"ssr-lead\">After a wild one-night stand, successful sports agent Derrick Tyler watches his perfect life slowly disappear when he discovers the sexy and mysterious woman he risked everything for is determined police detective Valerie Quinlan who entangles him in her latest investigation. As he desperately tries to put the pieces together, he falls deeper into her trap, risking his family, his career, and even his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2020</li><li>Runtime: 102 minutes</li><li>Director: Deon Taylor</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.0/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Swank as Det. Valerie Quinlan</li><li>Michael Ealy as Derrick Tyler</li><li>Mike Colter as Rafe Grimes</li><li>Damaris Lewis as Tracie Tyler</li><li>Tyrin Turner as Tyrin Abenathy</li><li>Danny Pino as Carter Heywood</li><li>Geoffrey Owens as Bill Cranepool</li><li>David Hoflin as Officer Lowe</li><li>Sam Daly as Officer Stallman</li><li>Lance Stephenson as Sports Star Cameo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Fatale (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:803114": {
+   "d": "The Requin (2022): Horror/Mystery film. Story: A couple on a romantic getaway find themselves… See cast, budget $8.5M, and TMDB rating 4.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eVSa4TpyXbOdk9fXSD6OcORJGtv.jpg",
+   "industry": "world",
+   "k": "The Requin, The Requin movie, The Requin cast, The Requin story, The Requin box office collection, The Requin budget, The Requin review, The Requin rating, The Requin release date, The Requin trailer, The Requin Horror, The Requin Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alicia Silverstone"
+     },
+     {
+      "@type": "Person",
+      "name": "James Tupper"
+     },
+     {
+      "@type": "Person",
+      "name": "Deirdre O'Connell"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Chung"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Mudge"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 4.7,
+     "worstRating": 0
+    },
+    "description": "The Requin (2022): Horror/Mystery film. Story: A couple on a romantic getaway find themselves… See cast, budget $8.5M, and TMDB rating 4.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Le Van Kiet"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eVSa4TpyXbOdk9fXSD6OcORJGtv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=803114",
+    "name": "The Requin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=803114"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Requin (2022)</h1>\n<p class=\"ssr-lead\">A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2022</li><li>Runtime: 89 minutes</li><li>Director: Le Van Kiet</li><li>Genres: Horror, Mystery, Thriller</li><li>Budget: $8.5M</li><li>TMDB rating: 4.7/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alicia Silverstone as Jaelyn</li><li>James Tupper as Kyle</li><li>Deirdre O&#x27;Connell as Anne</li><li>Danny Chung as Fisherman</li><li>Jennifer Mudge as Lizzie</li><li>Kha Mai as Tour Guide</li><li>Kameron Hood as Tourist (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "The Requin (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:96714": {
    "d": "Diaz - Don't Clean Up This Blood (2012): Drama/History film. Story: On July 19–21, 2001, over 200,000 people took to the… See cast and budget $6.45M.",

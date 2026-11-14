@@ -1,7 +1,279 @@
 {
  "bucket": "58",
- "count": 34,
+ "count": 42,
  "titles": {
+  "movie:10258": {
+   "backdrop_path": "/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Skipper (voice)",
+     "n": "Tom McGrath"
+    },
+    {
+     "c": "Kowalski (voice)",
+     "n": "Chris Miller"
+    },
+    {
+     "c": "Private (voice)",
+     "n": "Christopher Knights"
+    },
+    {
+     "c": "Rico (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "Ted the Polar Bear (voice)",
+     "n": "Bill Fagerbakke"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Rif Hutton"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Holly Dorff"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Hope Levy"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Mitch Carter"
+    },
+    {
+     "c": "Old Lady (voice)",
+     "n": "Elisa Gabrielli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Gary Trousdale"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 10258,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the holiday season, when the animals of the Central Park Zoo are preparing for Christmas, Private, the youngest of the penguins notices that the Polar Bear is all alone. Assured that nobody should have to spend Christmas alone, Private goes into the city for some last-minute Christmas shopping. Along the way, he gets stuffed into a stocking",
+   "popularity": 2.6174,
+   "poster_path": "/gOVdfrRfzQjYwezOxIap13j05d8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-09-23",
+   "revenue": 0,
+   "runtime": 11,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Madagascar Penguins in a Christmas Caper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 410
+  },
+  "movie:10858": {
+   "backdrop_path": "/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+   "budget": 44000000,
+   "cast": [
+    {
+     "c": "Richard Nixon",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Pat Nixon",
+     "n": "Joan Allen"
+    },
+    {
+     "c": "Alexander Haig",
+     "n": "Powers Boothe"
+    },
+    {
+     "c": "E. Howard Hunt",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "J. Edgar Hoover",
+     "n": "Bob Hoskins"
+    },
+    {
+     "c": "John Mitchell",
+     "n": "E.G. Marshall"
+    },
+    {
+     "c": "Ron Ziegler",
+     "n": "David Paymer"
+    },
+    {
+     "c": "John Dean",
+     "n": "David Hyde Pierce"
+    },
+    {
+     "c": "Henry Kissinger",
+     "n": "Paul Sorvino"
+    },
+    {
+     "c": "Hannah Nixon",
+     "n": "Mary Steenburgen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oliver Stone"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 10858,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look at President Richard M. Nixon—a man carrying the fate of the world on his shoulders while battling the self-destructive demands from within—spanning his troubled boyhood in California to the shocking Watergate scandal that would end his Presidency.",
+   "popularity": 2.3319,
+   "poster_path": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-12-22",
+   "revenue": 13681765,
+   "runtime": 192,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Triumphant in Victory, Bitter in Defeat. He Changed the World, But Lost a Nation.",
+   "title": "Nixon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.821,
+   "vote_count": 418
+  },
   "movie:1146058": {
    "backdrop_path": "/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
    "budget": 10000000,
@@ -154,6 +426,328 @@
    "type": "movie",
    "vote_average": 6.689,
    "vote_count": 45
+  },
+  "movie:11558": {
+   "backdrop_path": "/yLEvFfGVXsStEkNQwi9OxAcCDaa.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "George Caldwell",
+     "n": "Gene Wilder"
+    },
+    {
+     "c": "Hildegard 'Hilly' Burns",
+     "n": "Jill Clayburgh"
+    },
+    {
+     "c": "Grover Muldoon",
+     "n": "Richard Pryor"
+    },
+    {
+     "c": "Roger Devereau",
+     "n": "Patrick McGoohan"
+    },
+    {
+     "c": "Bob Sweet",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "Sheriff Chauncey",
+     "n": "Clifton James"
+    },
+    {
+     "c": "Mr. Edgar Whiney",
+     "n": "Ray Walston"
+    },
+    {
+     "c": "Professor Schreiner & Johnson",
+     "n": "Stefan Gierasch"
+    },
+    {
+     "c": "Chief",
+     "n": "Len Birman"
+    },
+    {
+     "c": "Plain Jane",
+     "n": "Valerie Curtin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Arthur Hiller"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Romance",
+    "Thriller",
+    "Action"
+   ],
+   "id": 11558,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A somewhat daffy book editor on a rail trip from Los Angeles to Chicago thinks that he sees a murdered man thrown from the train. When he can find no one who will believe him, he starts doing some investigating of his own. But all that accomplishes is to get the killer after him.",
+   "popularity": 2.7443,
+   "poster_path": "/gY1a4k9dalGx83D7TJ2C76xBprS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-12-03",
+   "revenue": 51100000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "By train, by plane, by the edge of your seat - It's the most hilarious suspense ride of your life!",
+   "title": "Silver Streak",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.688,
+   "vote_count": 384
+  },
+  "movie:12658": {
+   "backdrop_path": "/fRNNl8iLc4mpWy1C2JDIJdJxHQZ.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Jane Goodale",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Ray Brown",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Eddie Alden",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Liz",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Diane Roberts",
+     "n": "Ellen Barkin"
+    },
+    {
+     "c": "Alice, Jane's Sister",
+     "n": "Catherine Dent"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Laura Regan"
+    },
+    {
+     "c": "Stephen, Alice's Husband",
+     "n": "Peter Friedman"
+    },
+    {
+     "c": "Yoga Instructor #1",
+     "n": "Mireille Enos"
+    },
+    {
+     "c": "Realtor",
+     "n": "Colleen Camp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tony Goldwyn"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 12658,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jane Goodale has everything going for her. She's a producer on a popular daytime talk show, and is in a hot romance with the show's dashing executive producer Ray. But when the relationship goes terribly awry, Jane begins an extensive study of the male animal, including her womanizing roommate Eddie. Jane puts her studies and romantic misadventure to use as a pseudonymous sex columnist -- and becomes a sensation.",
+   "popularity": 2.2001,
+   "poster_path": "/9cMkJSl2TI4xe8lKNFduinafKpe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-03-30",
+   "revenue": 38689940,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story about the one that got away and the one she never saw coming.",
+   "title": "Someone Like You...",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.964,
+   "vote_count": 427
   },
   "movie:1469458": {
    "backdrop_path": "/rfMWciUEZkqL9AiNcTedhtXQHr0.jpg",
@@ -367,6 +961,162 @@
    "type": "movie",
    "vote_average": 7.192,
    "vote_count": 159
+  },
+  "movie:15158": {
+   "backdrop_path": "/rC2HpslTzrhzJ605DHBPkeITpt2.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Reggie",
+     "n": "Reggie Bannister"
+    },
+    {
+     "c": "The Tall Man",
+     "n": "Angus Scrimm"
+    },
+    {
+     "c": "Liz",
+     "n": "Paula Irvine"
+    },
+    {
+     "c": "Alchemy",
+     "n": "Samantha Phillips"
+    },
+    {
+     "c": "Father Meyers",
+     "n": "Kenneth Tigar"
+    },
+    {
+     "c": "Grandma",
+     "n": "Ruth C. Engel"
+    },
+    {
+     "c": "Mortician",
+     "n": "Mark Anthony Major"
+    },
+    {
+     "c": "Grandpa",
+     "n": "Rubin Kushner"
+    },
+    {
+     "c": "Jeri",
+     "n": "Stacey Travis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Coscarelli"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 15158,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mike, after his release from a psychiatric hospital, teams up with his old pal Reggie to hunt down the Tall Man, who is at it again. A mysterious, beautiful girl has also become part of Mike's dreams, and they must find her before the Tall Man does.",
+   "popularity": 1.774,
+   "poster_path": "/cZ5mPtOXcvmg224oBM2k1db5Fnn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-07-08",
+   "revenue": 7282851,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The ball is back!",
+   "title": "Phantasm II",
+   "trailer": {
+    "key": "e2ImjirHLz4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.21,
+   "vote_count": 419
   },
   "movie:1662958": {
    "backdrop_path": "/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
@@ -1025,6 +1775,147 @@
    "vote_average": 7.9,
    "vote_count": 481
   },
+  "movie:413658": {
+   "backdrop_path": "/rpsuxOvGgVBKmQELkPPNigjW9qO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack",
+     "n": "Uriah Shelton"
+    },
+    {
+     "c": "Su Lin",
+     "n": "Ni Ni"
+    },
+    {
+     "c": "Arun",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Zhoo",
+     "n": "Mark Chao You-ting"
+    },
+    {
+     "c": "Wizard",
+     "n": "Francis Ng Chun-yu"
+    },
+    {
+     "c": "Mountain Spirit",
+     "n": "Kara Wai Ying-hung"
+    },
+    {
+     "c": "Annie",
+     "n": "Sienna Guillory"
+    },
+    {
+     "c": "Travis",
+     "n": "Dakota Daulby"
+    },
+    {
+     "c": "Black Knight",
+     "n": "Ron Smoorenburg"
+    },
+    {
+     "c": "Sales Girl",
+     "n": "Eva Day"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matthias Hoene"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 413658,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "CA",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "After a mysterious chest opens a gateway through time, teen gamer Jack is transported to an ancient empire terrorized by a cruel barbarian king. Jack will need all of his gaming skills as he battles to defeat the barbarian, protect a beautiful princess, and somehow find his way back home.",
+   "popularity": 2.6498,
+   "poster_path": "/8l2DHcrCTgy1XuFHZmL2BbClJVO.jpg",
+   "production_countries": [
+    "CA",
+    "CN",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-18",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "es",
+    "km"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Warriors Gate",
+   "trailer": {
+    "key": "DTixFRwNKq4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.589,
+   "vote_count": 398
+  },
   "movie:454458": {
    "backdrop_path": "/93gOZuHazBWulk7b47MCXWVTiqh.jpg",
    "budget": 45000000,
@@ -1269,6 +2160,154 @@
    "type": "movie",
    "vote_average": 5.11,
    "vote_count": 460
+  },
+  "movie:6058": {
+   "backdrop_path": "/jgnfSyrtonk5U2UMP7MLtgX2eYt.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Wesley McClaren",
+     "n": "Steven Seagal"
+    },
+    {
+     "c": "Floyd Chisolm",
+     "n": "Gailard Sartain"
+    },
+    {
+     "c": "Pogue",
+     "n": "Silas Weir Mitchell"
+    },
+    {
+     "c": "Holly McClaren",
+     "n": "Camilla Belle"
+    },
+    {
+     "c": "Richard Bach",
+     "n": "Dan Beene"
+    },
+    {
+     "c": "Lt. Johnson",
+     "n": "Damon Collazo"
+    },
+    {
+     "c": "Frank",
+     "n": "L.Q. Jones"
+    },
+    {
+     "c": "Big Bob",
+     "n": "Brad Leland"
+    },
+    {
+     "c": "Molly",
+     "n": "Molly McClure"
+    },
+    {
+     "c": "Judge Tomkins",
+     "n": "Douglas Sebern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dean Semler"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 6058,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A deadly virus threatens to wipe out an entire Rocky Mountain town, leaving the town doctor to find some way to escape the soldiers who enforce the town's quarantine and devise an antidote. Matters take a more deadly turn after the physician is captured by a dangerously unstable band of militia extremists.",
+   "popularity": 1.6289,
+   "poster_path": "/5lmW1yBXAHkOc533wRDEqp3jlCV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-07-10",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every second counts.",
+   "title": "The Patriot",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.612,
+   "vote_count": 429
   },
   "movie:693158": {
    "backdrop_path": "/jm2kJQZRmYRzHJzB07oOOVDiQD1.jpg",
@@ -1519,6 +2558,77 @@
    "type": "movie",
    "vote_average": 7.795,
    "vote_count": 488
+  },
+  "movie:813258": {
+   "backdrop_path": "/c7dFSqZQYqNNJVpacpIGZe3gkLW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dracula (voice)",
+     "n": "Brian Hull"
+    },
+    {
+     "c": "Toots (voice)",
+     "n": "Jennifer Kluska"
+    },
+    {
+     "c": "Tinkles / Zombie / Gillman (voice)",
+     "n": "Derek Drymon"
+    },
+    {
+     "c": "Blobby / Puppy Blobby (voice)",
+     "n": "Genndy Tartakovsky"
+    },
+    {
+     "c": "Additional Monster Pets (voice)",
+     "n": "Jon Olson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jennifer Kluska",
+    "Derek Drymon"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 813258,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Drac tries out some new monster pets to help occupy Tinkles for playtime.",
+   "popularity": 2.7415,
+   "poster_path": "/dkokENeY5Ka30BFgWAqk14mbnGs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-09",
+   "revenue": 0,
+   "runtime": 6,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Drac’s in for a real dog day!",
+   "title": "Monster Pets: A Hotel Transylvania Short",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.369,
+   "vote_count": 417
   },
   "tv:106158": {
    "backdrop_path": "/3mDSrhLUX2cAhaPqurNBslPh8rz.jpg",

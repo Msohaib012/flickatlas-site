@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 30,
+ "count": 35,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -1024,6 +1024,179 @@
    "vote_average": 6.497,
    "vote_count": 167
   },
+  "movie:14392": {
+   "backdrop_path": "/cUtujOgc5QxC3jHcM7uU3F1Oji2.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "General Pang Qingyun",
+     "n": "Jet Li"
+    },
+    {
+     "c": "Zhao Er-Hu",
+     "n": "Andy Lau Tak-wah"
+    },
+    {
+     "c": "Jiang Wu-Yang",
+     "n": "Takeshi Kaneshiro"
+    },
+    {
+     "c": "Lian",
+     "n": "Xu Jinglei"
+    },
+    {
+     "c": "Lord Chen",
+     "n": "Wei Zongwan"
+    },
+    {
+     "c": "Lord Jiang",
+     "n": "Ku Pao-ming"
+    },
+    {
+     "c": "Lord Di",
+     "n": "Wang Kuirong"
+    },
+    {
+     "c": "Lu Da Shan",
+     "n": "Zhou Bo"
+    },
+    {
+     "c": "Huang Wen Jin",
+     "n": "Guo Xiaodong"
+    },
+    {
+     "c": "He Kui",
+     "n": "Shi Zhaoqi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Chan"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "id": 14392,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "The civil war in China has ruined many lives including General Pang's. A wounded General Pang is saved by a beautiful young woman along with two other men. Together they vow to eradicate the rebels.",
+   "popularity": 2.4844,
+   "poster_path": "/9sAWyaASakMW9f3LSXK8Br3RCED.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-12-12",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Warlords",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 384
+  },
   "movie:1665092": {
    "backdrop_path": "/tKHaRVudYbGlO78UrjkWUtguB8N.jpg",
    "budget": 0,
@@ -1333,6 +1506,179 @@
    "vote_average": 6.249,
    "vote_count": 485
   },
+  "movie:24192": {
+   "backdrop_path": "/iz7xP1INmMTAfRKaToWVmXrrE1P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cristo",
+     "n": "Enrique Irazoqui"
+    },
+    {
+     "c": "Maria (Giovane)",
+     "n": "Margherita Caruso"
+    },
+    {
+     "c": "Maria (Vecchia)",
+     "n": "Susanna Pasolini"
+    },
+    {
+     "c": "Giuseppe",
+     "n": "Marcello Morante"
+    },
+    {
+     "c": "Giovanni Battista",
+     "n": "Mario Socrate"
+    },
+    {
+     "c": "Pietro",
+     "n": "Settimio Di Porto"
+    },
+    {
+     "c": "Andrea",
+     "n": "Alfonso Gatto"
+    },
+    {
+     "c": "Giacomo",
+     "n": "Luigi Barbini"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Giacomo Morante"
+    },
+    {
+     "c": "Filippo",
+     "n": "Giorgio Agamben"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Pier Paolo Pasolini"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 24192,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Along a rocky, barren coastline, Jesus begins teaching, primarily using parables. He attracts disciples; he's stern, brusque, and demanding. His parables often take on the powers that be, so he and his teachings come to the attention of the Pharisees, the chief priests, and elders. They conspire to have him arrested, beaten, tried, and crucified, just as he prophesied to his followers.",
+   "popularity": 2.7261,
+   "poster_path": "/oifi2CQkKbb6Y2x6J5K6CjaKab9.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-03-03",
+   "revenue": 0,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "A Motion Picture which will be seen by the entire world - up to the end of the world!",
+   "title": "The Gospel According to St. Matthew",
+   "trailer": {
+    "key": "xEs4g9A9HGc",
+    "name": "The Gospel According to Matthew (1964) - trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.424,
+   "vote_count": 430
+  },
   "movie:272692": {
    "backdrop_path": "/hP7snoME9lumckt7NpOMIZJDOmP.jpg",
    "budget": 0,
@@ -1500,6 +1846,298 @@
    "type": "movie",
    "vote_average": 6.15,
    "vote_count": 472
+  },
+  "movie:339792": {
+   "backdrop_path": "/Afs2EfDfnacxLa2qSZ4ji9LEsru.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Brent",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Dom Johnson",
+     "n": "Ben Bailey Smith"
+    },
+    {
+     "c": "Miriam Clarke",
+     "n": "Rebecca Gethings"
+    },
+    {
+     "c": "Pauline Gray",
+     "n": "Jo Hartley"
+    },
+    {
+     "c": "Jerry 'Jezza' Collins",
+     "n": "Andrew Brooke"
+    },
+    {
+     "c": "Nigel Martin",
+     "n": "Tom Bennett"
+    },
+    {
+     "c": "Dan",
+     "n": "Tom Basden"
+    },
+    {
+     "c": "Karen Parashar",
+     "n": "Mandeep Dhillon"
+    },
+    {
+     "c": "Briony Jones",
+     "n": "Diane Morgan"
+    },
+    {
+     "c": "DJ",
+     "n": "Kevin Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ricky Gervais"
+   ],
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "id": 339792,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A camera crew catches up with David Brent, the former star of the fictional British series, \"The Office\" as he now fancies himself a rockstar on the road.",
+   "popularity": 1.3206,
+   "poster_path": "/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-08-19",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The boss is back",
+   "title": "David Brent: Life on the Road",
+   "trailer": {
+    "key": "2THODznVOt8",
+    "name": "DAVID BRENT: LIFE ON THE ROAD - OFFICIAL TRAILER [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.092,
+   "vote_count": 415
+  },
+  "movie:341392": {
+   "backdrop_path": "/dNogXSEFX0udpI6UzLxl5ilMtjq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean-René",
+     "n": "Dany Boon"
+    },
+    {
+     "c": "Violette",
+     "n": "Julie Delpy"
+    },
+    {
+     "c": "Lolo",
+     "n": "Vincent Lacoste"
+    },
+    {
+     "c": "Ariane",
+     "n": "Karin Viard"
+    },
+    {
+     "c": "Présentateur film Crédit Rural",
+     "n": "René-Alban Fleury"
+    },
+    {
+     "c": "Lulu",
+     "n": "Antoine Lounguine"
+    },
+    {
+     "c": "Gérard",
+     "n": "Christophe Vandevelde"
+    },
+    {
+     "c": "Élisabeth",
+     "n": "Elise Larnicol"
+    },
+    {
+     "c": "Patrick",
+     "n": "Christophe Canard"
+    },
+    {
+     "c": "Médecin hôpital",
+     "n": "Nicolas Wanczycki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Julie Delpy"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 341392,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "On holiday in the south of France, chic Parisian sophisticate Violette meets life-loving IT geek Jean-René. Against all odds, there’s a real chemistry between them and at the end of the summer, Jean-René wastes no time in joining his beloved in Paris. But there’s trouble in paradise, and a third party swiftly appears to shatter the couple’s idyll: Lolo, Violette’s ultra-possessive 19-year-old son, who is determined to get rid of his mother’s lover, whatever it takes…",
+   "popularity": 0.8761,
+   "poster_path": "/dEAJTNMEkytGhO35sitUDGMx34s.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-03",
+   "revenue": 24134,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not your average love triangle",
+   "title": "Lolo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.293,
+   "vote_count": 400
   },
   "movie:41592": {
    "backdrop_path": "/9c8uXCaljHjRcHabsUmnXaH6tv7.jpg",
@@ -1960,6 +2598,123 @@
    "type": "movie",
    "vote_average": 6.553,
    "vote_count": 454
+  },
+  "movie:55292": {
+   "backdrop_path": "/lewuyD46yg3pjZpxqMLwfudIwWz.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "Hou Chieh / Chingchueh",
+     "n": "Andy Lau Tak-wah"
+    },
+    {
+     "c": "Tsao Man",
+     "n": "Nicholas Tse Ting-fung"
+    },
+    {
+     "c": "Madam Hou",
+     "n": "Fan Bingbing"
+    },
+    {
+     "c": "Wudao",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Chingneng",
+     "n": "Wu Jing"
+    },
+    {
+     "c": "Chinghai",
+     "n": "Yu Shaoqun"
+    },
+    {
+     "c": "Chingkung",
+     "n": "Xing Yu"
+    },
+    {
+     "c": "Abbot",
+     "n": "Yu Hai"
+    },
+    {
+     "c": "Solungtu",
+     "n": "Xiong Xinxin"
+    },
+    {
+     "c": "Singer",
+     "n": "Michelle Bai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Benny Chan Muk-sing"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 55292,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "China is plunged into strife as feuding warlords try to expand their power by warring over neighboring lands. Fuelled by his success on the battlefield, young and arrogant Hao Jie sneers at Shaolin's masters when he beats one of them in a duel. But the pride comes before a fall. When his own family is wiped out by a rival warlord, Hao is forced to take refuge with the monks. As the civil unrest spreads and the people suffer, Hao and the Shaolin masters are forced to take a fiery stand against the evil warlords. They launch a daring plan or rescue and escape.",
+   "popularity": 2.4755,
+   "poster_path": "/stvd0u2Pmy2VjdZHbFIEvCwDzRV.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-01-20",
+   "revenue": 33662874,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "In a land torn by strife, the righteous monks of Shaolin stand as a beacon of hope for the oppressed masses.",
+   "title": "Shaolin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 429
   },
   "movie:610892": {
    "backdrop_path": "/fgUacNwfO5paHavroHtHeMHZMDB.jpg",

@@ -1,7 +1,71 @@
 {
  "bucket": "08",
- "count": 31,
+ "count": 39,
  "titles": {
+  "movie:10208": {
+   "d": "Muppets from Space (1999): Family/Comedy film. Story: When Gonzo's breakfast cereal tells him that he's the… See cast, budget $24M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
+   "industry": "world",
+   "k": "Muppets from Space, Muppets from Space movie, Muppets from Space cast, Muppets from Space story, Muppets from Space box office collection, Muppets from Space budget, Muppets from Space review, Muppets from Space rating, Muppets from Space release date, Muppets from Space Family, Muppets from Space Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Goelz"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Whitmire"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Barretta"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Henson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Muppets from Space (1999): Family/Comedy film. Story: When Gonzo's breakfast cereal tells him that he's the… See cast, budget $24M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Hill"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10208",
+    "name": "Muppets from Space",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-07-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10208"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Muppets from Space (1999)</h1>\n<p class=\"ssr-lead\">When Gonzo&#x27;s breakfast cereal tells him that he&#x27;s the descendant of aliens from another planet, his attempts at extraterrestrial communication get him kidnapped by a secret government agency, prompting the Muppets to spring into action to rescue their friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 1999</li><li>Runtime: 88 minutes</li><li>Director: Tim Hill</li><li>Genres: Family, Comedy, Science Fiction, Adventure</li><li>Budget: $24M</li><li>TMDB rating: 6.1/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Goelz as Gonzo / Dr. Bunsen Honeydew / Waldorf / The Birdman (voice)</li><li>Steve Whitmire as Kermit the Frog / Rizzo the Rat / Beaker / Cosmic Fish #1 / Rainbow / Miss Piggy (assistant) (voice)</li><li>Bill Barretta as Pepe the Prawn / Bobo as Rentro / Johnny Fiama / Bubba the Rat / Cosmic Fish #2 (voice)</li><li>Jerry Nelson as Robin / Statler / Ubergonzo (voice)</li><li>Brian Henson as Dr. Phil Van Neuter / Sal Minella (voice)</li><li>Kevin Clash as Clifford (voice)</li><li>Frank Oz as Miss Piggy / Fozzie Bear / Animal / Sam the Eagle (voice)</li><li>Jeffrey Tambor as K. Edgar Singer</li><li>F. Murray Abraham as Noah</li><li>Rob Schneider as TV Producer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Muppets from Space (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:1206008": {
    "d": "Ella McCay (2025): Comedy/Drama film. Story: An idealistic young politician juggles familial… See cast, budget $35M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
@@ -441,6 +505,138 @@
    "t": "Inherit the Wind (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1960"
   },
+  "movie:210908": {
+   "d": "All Cheerleaders Die (2013): Horror/Thriller film. Story: When tragedy rocks Blackfoot High, rebellious… See cast and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v48MKcxUoPAE3HfCEEHnYxJIMdI.jpg",
+   "industry": "world",
+   "k": "All Cheerleaders Die, All Cheerleaders Die movie, All Cheerleaders Die cast, All Cheerleaders Die story, All Cheerleaders Die box office collection, All Cheerleaders Die budget, All Cheerleaders Die review, All Cheerleaders Die rating, All Cheerleaders Die release date, All Cheerleaders Die trailer, All Cheerleaders Die Horror, All Cheerleaders Die Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Caitlin Stasey"
+     },
+     {
+      "@type": "Person",
+      "name": "Sianoa Smit-McPhee"
+     },
+     {
+      "@type": "Person",
+      "name": "Brooke Serene Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Grace Benitez"
+     },
+     {
+      "@type": "Person",
+      "name": "Reanin Johannink"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "All Cheerleaders Die (2013): Horror/Thriller film. Story: When tragedy rocks Blackfoot High, rebellious… See cast and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lucky McKee"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Sivertson"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v48MKcxUoPAE3HfCEEHnYxJIMdI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=210908",
+    "name": "All Cheerleaders Die",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=210908"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All Cheerleaders Die (2013)</h1>\n<p class=\"ssr-lead\">When tragedy rocks Blackfoot High, rebellious outsider Mäddy Killian shocks the student body by joining the cheerleading squad. After a confrontation with the football team, Mäddy and her new cheerleader friends are sent on a supernatural roller coaster ride which leaves a path of destruction none of them may be able to escape.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2013</li><li>Runtime: 89 minutes</li><li>Director: Lucky McKee, Chris Sivertson</li><li>Genres: Horror, Thriller, Comedy</li><li>TMDB rating: 5.2/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Caitlin Stasey as Mäddy Killian</li><li>Sianoa Smit-McPhee as Leena Miller</li><li>Brooke Serene Butler as Tracy Bingham</li><li>Amanda Grace Benitez as Hanna Popkin</li><li>Reanin Johannink as Martha Popkin</li><li>Tom Williamson as Terry Stankus</li><li>Nicholas S. Morrison as Ben Fector</li><li>Chris Petrovski as George Shank</li><li>Leigh Parker as Manchester &#x27;Manny&#x27; Mankiewitz</li><li>Jordan Wilson as Vik De Palma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "All Cheerleaders Die (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:228108": {
+   "d": "The Road Within (2015): Comedy/Drama film. Story: A young man with Tourette's Syndrome embarks on a… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3qjYgi0CjhXSrt1Sv1VFk26y5Yo.jpg",
+   "industry": "world",
+   "k": "The Road Within, The Road Within movie, The Road Within cast, The Road Within story, The Road Within box office collection, The Road Within budget, The Road Within review, The Road Within rating, The Road Within release date, The Road Within trailer, The Road Within Comedy, The Road Within Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Sheehan"
+     },
+     {
+      "@type": "Person",
+      "name": "Dev Patel"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoë Kravitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Patrick"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyra Sedgwick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Road Within (2015): Comedy/Drama film. Story: A young man with Tourette's Syndrome embarks on a… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gren Wells"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3qjYgi0CjhXSrt1Sv1VFk26y5Yo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=228108",
+    "name": "The Road Within",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=228108"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Road Within (2015)</h1>\n<p class=\"ssr-lead\">A young man with Tourette&#x27;s Syndrome embarks on a road trip with his recently-deceased mother&#x27;s ashes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2015</li><li>Runtime: 100 minutes</li><li>Director: Gren Wells</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.8/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Sheehan as Vincent</li><li>Dev Patel as Alex</li><li>Zoë Kravitz as Marie</li><li>Robert Patrick as Robert</li><li>Kyra Sedgwick as Dr. Mia Rose</li><li>Ali Hillis as Monica</li><li>Jim Calvert as Priest</li><li>Louisa Kendrick as Nurse</li><li>Ross Gallo as Therapist</li><li>Cooper Roth as Boy 1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, AMC Plus Apple TV channel, AMC+, Netflix Standard with Ads, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Road Within (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:276908": {
    "d": "Comet (2015): Science Fiction/Comedy film. Story: When a chance encounter brings together the cynical… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/znDbUAz0uPgc329iHBiobnnYA2P.jpg",
@@ -504,6 +700,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Comet (2015)</h1>\n<p class=\"ssr-lead\">When a chance encounter brings together the cynical Dell and the quick-witted Kimberly, the stage is set for a tempestuous love affair that unfolds like a puzzle. As the film zigzags back and forth in time — from a meteor shower in LA, to an encounter in a Paris hotel room, to a fateful phone call — an unforgettable portrait of a relationship emerges.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2015</li><li>Runtime: 91 minutes</li><li>Director: Sam Esmail</li><li>Genres: Science Fiction, Comedy, Romance</li><li>TMDB rating: 6.6/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Justin Long as Dell</li><li>Emmy Rossum as Kimberly</li><li>Kayla Servi as Stephanie</li><li>Eric Winter as Josh</li><li>Lou Beatty Jr. as Conductor</li><li>Ben Pace as Bartender</li><li>Nicole Lucas as Waitress</li><li>Connie Jackson as Nurse</li><li>Ben Scott as Stunt Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Paramount Plus Premium, Philo, AMC Plus Apple TV channel, Paramount+ Amazon Channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
    "t": "Comet (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:30508": {
+   "d": "Berlin Calling (2008): Comedy/Drama film. Story: A man tours clubs around the globe with his manager… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rSvKpP3Br1kf8K7IAX32CR0n9sc.jpg",
+   "industry": "world",
+   "k": "Berlin Calling, Berlin Calling movie, Berlin Calling cast, Berlin Calling story, Berlin Calling box office collection, Berlin Calling budget, Berlin Calling review, Berlin Calling rating, Berlin Calling release date, Berlin Calling Comedy, Berlin Calling Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Kalkbrenner"
+     },
+     {
+      "@type": "Person",
+      "name": "Rita Lengyel"
+     },
+     {
+      "@type": "Person",
+      "name": "Corinna Harfouch"
+     },
+     {
+      "@type": "Person",
+      "name": "Araba Walton"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Schneider"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 384,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Berlin Calling (2008): Comedy/Drama film. Story: A man tours clubs around the globe with his manager… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hannes Stöhr"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rSvKpP3Br1kf8K7IAX32CR0n9sc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=30508",
+    "name": "Berlin Calling",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=30508"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Berlin Calling (2008)</h1>\n<p class=\"ssr-lead\">A man tours clubs around the globe with his manager and girlfriend. On the eve of their largest album release he is admitted to a psychiatric clinic after overdosing at a gig.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2008</li><li>Runtime: 105 minutes</li><li>Director: Hannes Stöhr</li><li>Genres: Comedy, Drama, Music</li><li>TMDB rating: 6.8/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Kalkbrenner as Martin Karow (DJ Ickarus)</li><li>Rita Lengyel as Mathilde</li><li>Corinna Harfouch as Prof. Dr. Petra Paul</li><li>Araba Walton as Corinna</li><li>Peter Schneider as Crystal Pete</li><li>Rolf Peter Kahl as &quot;Erbse&quot;</li><li>Henriette Müller as Jenny</li><li>Udo Kroschwald as Karow</li><li>Megan Gay as Alice</li><li>Max Mauff as Zivi Alex</li></ul>\n</article>",
+   "t": "Berlin Calling (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:33908": {
    "d": "Three... Extremes (2004): Horror film. Story: Features an anthology centred on the experiences of a… See cast, budget $77.5k, and TMDB rating 6.8/10.",
@@ -694,6 +954,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fahrenheit 11/9 (2018)</h1>\n<p class=\"ssr-lead\">Michael Moore&#x27;s provocative documentary explores the two most important questions of the Trump Era: How did we get here, and how do we get out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 September 2018</li><li>Runtime: 128 minutes</li><li>Director: Michael Moore</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (496 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Moore as Self</li><li>Alexandria Ocasio-Cortez as Self</li><li>Bernie Sanders as Self</li><li>David Hogg as Self</li><li>Donald Trump as Self (archive footage)</li><li>Steve Bannon as Self</li><li>Roseanne Barr as Self</li><li>Roger Ailes as Self (archive footage)</li><li>Brooke Baldwin as Self</li><li>Ashleigh Banfield as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Fahrenheit 11/9 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:617708": {
+   "d": "La Llorona (2019): Thriller/Horror film. Story: Accused of the genocide of Mayan people, retired… See cast, TMDB rating 6.4/10, and release date 25 July 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/hXjK21t5S6WRR8HnG3apYpZ5lJW.jpg",
+   "industry": "world",
+   "k": "La Llorona, La Llorona movie, La Llorona cast, La Llorona story, La Llorona box office collection, La Llorona budget, La Llorona review, La Llorona rating, La Llorona release date, La Llorona trailer, La Llorona Thriller, La Llorona Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "María Mercedes Coroy"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina De La Hoz"
+     },
+     {
+      "@type": "Person",
+      "name": "Margarita Kénefic"
+     },
+     {
+      "@type": "Person",
+      "name": "Julio Díaz"
+     },
+     {
+      "@type": "Person",
+      "name": "María Telón"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 389,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "La Llorona (2019): Thriller/Horror film. Story: Accused of the genocide of Mayan people, retired… See cast, TMDB rating 6.4/10, and release date 25 July 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jayro Bustamante"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hXjK21t5S6WRR8HnG3apYpZ5lJW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=617708",
+    "name": "La Llorona",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-07-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=617708"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Llorona (2019)</h1>\n<p class=\"ssr-lead\">Accused of the genocide of Mayan people, retired general Enrique is trapped in his mansion by massive protests. Abandoned by his staff, the indignant old man and his family must face the devastating truth of his actions and the growing sense that a wrathful supernatural force is targeting them for his crimes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 2019</li><li>Runtime: 97 minutes</li><li>Director: Jayro Bustamante</li><li>Genres: Thriller, Horror, Drama</li><li>TMDB rating: 6.4/10 (389 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>María Mercedes Coroy as Alma</li><li>Sabrina De La Hoz as Natalia</li><li>Margarita Kénefic as Carmen</li><li>Julio Díaz as Enrique</li><li>María Telón as Valeriana</li><li>Juan Pablo Olyslager as Letona</li><li>Ayla-Elea Hurtado as Sara</li><li>Enrique Argüello as Abogado</li><li>Alejandra Colom as Periodista</li><li>Marvin Coroy as Intérprete</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "La Llorona (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:672208": {
+   "d": "A Hero (2021): Drama film. Story: Rahim is in prison because of a debt he was unable to… See cast, TMDB rating 7.3/10, and release date 15 December 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/rXRf5Okqg0FzDpmZkt4wly2asB2.jpg",
+   "industry": "world",
+   "k": "A Hero, A Hero movie, A Hero cast, A Hero story, A Hero box office collection, A Hero budget, A Hero review, A Hero rating, A Hero release date, A Hero trailer, A Hero Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amir Jadidi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mohsen Tanabandeh"
+     },
+     {
+      "@type": "Person",
+      "name": "Sahar Goldoost"
+     },
+     {
+      "@type": "Person",
+      "name": "Fereshteh Sadr Orafaee"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarina Farhadi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Hero (2021): Drama film. Story: Rahim is in prison because of a debt he was unable to… See cast, TMDB rating 7.3/10, and release date 15 December 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Asghar Farhadi"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rXRf5Okqg0FzDpmZkt4wly2asB2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=672208",
+    "name": "A Hero",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=672208"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Hero (2021)</h1>\n<p class=\"ssr-lead\">Rahim is in prison because of a debt he was unable to repay. During a two-day leave, he tries to convince his creditor to withdraw his complaint against the payment of part of the sum. But things don&#x27;t go as planned. Is he truly a hero?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 December 2021</li><li>Runtime: 127 minutes</li><li>Director: Asghar Farhadi</li><li>Genres: Drama</li><li>TMDB rating: 7.3/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amir Jadidi as Rahim Soltani</li><li>Mohsen Tanabandeh as Bahram</li><li>Sahar Goldoost as Farkhondeh</li><li>Fereshteh Sadr Orafaee as Mrs. Radmehr</li><li>Sarina Farhadi as Nazanin</li><li>Ehsan Goodarzi as Nad-e-Ali</li><li>Maryam Shahdaie as Malileh</li><li>Ali Reza Jahandideh as Hossein</li><li>Farrokh Nourbakht as Salehi</li><li>Mohammad Aghebati as Salehpour</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, MUBI, MUBI Amazon Channel, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "A Hero (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:79108": {
    "d": "Starbuck (2011): Comedy film. Story: David Wozniak is a perpetual adolescent who discovers… See cast, TMDB rating 6.9/10, and release date 27 July 2011.",
@@ -949,6 +1336,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Killer (2022)</h1>\n<p class=\"ssr-lead\">While his girlfriend is away on a trip, retired assassin Bang Ui-kang is tasked with looking after her friend&#x27;s 17-year-old daughter. After a street attack, Bang Ui-kang becomes embroiled in a murder investigation and dangerous trafficking gang.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 2022</li><li>Runtime: 95 minutes</li><li>Director: Choi Jae-hoon</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 7.6/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jang Hyuk as Bang Ui-kang</li><li>Lee Seo-young as Kim Yoon-ji</li><li>Bang Eun-jeong as Sung-yeon</li><li>Bruce Khan as Yuri</li><li>Lee Seung-joon as Detective Lee</li><li>Yoo Seo-jin as Divorced Woman</li><li>Shin Seung-hwan as Park Hyung-joo</li><li>Hong Seo-jun as Kim Jung-hoon</li><li>Lee Chae-young as Hyun-soo</li><li>Choi Ki-seob as &quot;Birthmark&quot;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv</li></ul>\n</article>",
    "t": "The Killer (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:95608": {
+   "d": "The Only Living Boy in New York (2017): Drama film. Story: When a young man learns that his overbearing father… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/orYYkVBbTB7ZAqxmzlQLIHqENqM.jpg",
+   "industry": "world",
+   "k": "The Only Living Boy in New York, The Only Living Boy in New York movie, The Only Living Boy in New York cast, The Only Living Boy in New York story, The Only Living Boy in New York box office collection, The Only Living Boy in New York budget, The Only Living Boy in New York review, The Only Living Boy in New York rating, The Only Living Boy in New York release date, The Only Living Boy in New York trailer, The Only Living Boy in New York Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Callum Turner"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bridges"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Beckinsale"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierce Brosnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Cynthia Nixon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Only Living Boy in New York (2017): Drama film. Story: When a young man learns that his overbearing father… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marc Webb"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/orYYkVBbTB7ZAqxmzlQLIHqENqM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=95608",
+    "name": "The Only Living Boy in New York",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=95608"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Only Living Boy in New York (2017)</h1>\n<p class=\"ssr-lead\">When a young man learns that his overbearing father is having an affair, he tries to stop it, only to be seduced by the older woman as well.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2017</li><li>Runtime: 89 minutes</li><li>Director: Marc Webb</li><li>Genres: Drama</li><li>TMDB rating: 6.3/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Callum Turner as Thomas Webb</li><li>Jeff Bridges as W.F. Gerald</li><li>Kate Beckinsale as Johanna</li><li>Pierce Brosnan as Ethan Webb</li><li>Cynthia Nixon as Judith Webb</li><li>Kiersey Clemons as Mimi Pastori</li><li>Tate Donovan as George</li><li>Wallace Shawn as David</li><li>Anh Duong as Barbara</li><li>Debi Mazar as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Only Living Boy in New York (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:957608": {
+   "d": "Junkyard Dog (2023): Drama/Romance film. Story: Childhood pals Dog and Mirales live in a little… See cast, TMDB rating 6.9/10, and release date 19 April 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/cZo3IX1j2ABMzBUpobjWEtNuyVa.jpg",
+   "industry": "world",
+   "k": "Junkyard Dog, Junkyard Dog movie, Junkyard Dog cast, Junkyard Dog story, Junkyard Dog box office collection, Junkyard Dog budget, Junkyard Dog review, Junkyard Dog rating, Junkyard Dog release date, Junkyard Dog trailer, Junkyard Dog Drama, Junkyard Dog Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Bajon"
+     },
+     {
+      "@type": "Person",
+      "name": "Raphaël Quenard"
+     },
+     {
+      "@type": "Person",
+      "name": "Galatea Bellugi"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominique Reymond"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Blancan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 409,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Junkyard Dog (2023): Drama/Romance film. Story: Childhood pals Dog and Mirales live in a little… See cast, TMDB rating 6.9/10, and release date 19 April 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Baptiste Durand"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cZo3IX1j2ABMzBUpobjWEtNuyVa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=957608",
+    "name": "Junkyard Dog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-04-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=957608"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Junkyard Dog (2023)</h1>\n<p class=\"ssr-lead\">Childhood pals Dog and Mirales live in a little village in the south of France and spend their days just hanging out. To kill time, Mirales has got into the habit of teasing Dog mercilessly. But this summer is different: Dog meets Elsa and romance blossoms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 2023</li><li>Runtime: 93 minutes</li><li>Director: Jean-Baptiste Durand</li><li>Genres: Drama, Romance, Comedy</li><li>TMDB rating: 6.9/10 (409 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Bajon as Dog</li><li>Raphaël Quenard as Mirales</li><li>Galatea Bellugi as Elsa</li><li>Dominique Reymond as Christiane</li><li>Bernard Blancan as Bernard</li><li>Nathan Le Graciet as Paco</li><li>Mélanie Martinez as Charlotte</li><li>Mike Reilles as Dimitri</li><li>Mathieu Amilien as Enzo</li><li>Evelina Pitti as Madame Dufour</li></ul>\n</article>",
+   "t": "Junkyard Dog (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "tv:126308": {
    "d": "Shōgun (2024) is a Drama and War & Politics TV series. Explore its story: In Japan in the year 1600, at the dawn of a…, cast, 1 season, and 10 episodes.",

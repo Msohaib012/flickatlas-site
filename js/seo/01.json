@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 36,
+ "count": 44,
  "titles": {
   "movie:1013601": {
    "d": "The Alto Knights (2025): Crime/Drama film. Story: Two of New York's most notorious organized crime… See cast, budget $45M, and TMDB rating 6.2/10.",
@@ -257,6 +257,70 @@
    "t": "Whistle (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:12501": {
+   "d": "The Big Country (1958): Drama/Western film. Story: Retired wealthy sea captain Jim McKay arrives in the… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mqMCvFJ3fRc7RXa0w6A0VRZ1b7F.jpg",
+   "industry": "world",
+   "k": "The Big Country, The Big Country movie, The Big Country cast, The Big Country story, The Big Country box office collection, The Big Country budget, The Big Country review, The Big Country rating, The Big Country release date, The Big Country trailer, The Big Country Drama, The Big Country Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gregory Peck"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Carroll Baker"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlton Heston"
+     },
+     {
+      "@type": "Person",
+      "name": "Burl Ives"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 436,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "The Big Country (1958): Drama/Western film. Story: Retired wealthy sea captain Jim McKay arrives in the… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Wyler"
+     }
+    ],
+    "duration": "PT167M",
+    "genre": [
+     "Drama",
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mqMCvFJ3fRc7RXa0w6A0VRZ1b7F.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12501",
+    "name": "The Big Country",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1958-08-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Big Country (1958)</h1>\n<p class=\"ssr-lead\">Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 1958</li><li>Runtime: 167 minutes</li><li>Director: William Wyler</li><li>Genres: Drama, Western, Romance</li><li>TMDB rating: 7.6/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gregory Peck as James McKay</li><li>Jean Simmons as Julie Maragon</li><li>Carroll Baker as Patricia Terrill</li><li>Charlton Heston as Steve Leech</li><li>Burl Ives as Rufus Hannassey</li><li>Charles Bickford as Major Henry Terrill</li><li>Alfonso Bedoya as Ramón Guiteras</li><li>Chuck Connors as Buck Hannassey</li><li>Chuck Hayward as Rafe Hannassey</li><li>Buff Brady as Dude Hannassey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Big Country (1958) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1958"
+  },
   "movie:1261501": {
    "d": "Ad Vitam (2025): Action/Crime film. Story: When he and his pregnant wife are attacked in their… See cast, TMDB rating 6.2/10, and release date 9 January 2025.",
    "img": "https://image.tmdb.org/t/p/w780/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
@@ -320,6 +384,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ad Vitam (2025)</h1>\n<p class=\"ssr-lead\">When he and his pregnant wife are attacked in their home, a former elite agent becomes trapped in a deadly manhunt tied to his own painful past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2025</li><li>Runtime: 97 minutes</li><li>Director: Rodolphe Lauga</li><li>Genres: Action, Crime, Drama</li><li>TMDB rating: 6.2/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guillaume Canet as Franck Lazareff</li><li>Alexis Manenti as Nico</li><li>Stéphane Caillard as Leo</li><li>Nassim Lyes as Ben</li><li>Zita Hanrot as Manon</li><li>Johan Heldenbergh as Vanaken</li><li>Etienne Guillou-Kervern as Stanislas Lacaze</li><li>Jamel Blissat as Homme DGSI 2</li><li>Maurice Chan as Le policier scientifique</li><li>Laurent Merillon as Gendarme GIGN</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Ad Vitam (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:127501": {
+   "d": "Barfi! (2012): Drama/Romance film. Story: The heartwarming tale of Barfi, a charming deaf-mute… See cast, budget $4.44M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/581O5n2p5I7Zz0SgKjIucslHPTA.jpg",
+   "industry": "bollywood",
+   "k": "Barfi!, Barfi! movie, Barfi! cast, Barfi! story, Barfi! box office collection, Barfi! budget, Barfi! review, Barfi! rating, Barfi! release date, Barfi! Drama, Barfi! Romance, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ranbir Kapoor"
+     },
+     {
+      "@type": "Person",
+      "name": "Priyanka Chopra Jonas"
+     },
+     {
+      "@type": "Person",
+      "name": "Ileana D'Cruz"
+     },
+     {
+      "@type": "Person",
+      "name": "Saurabh Shukla"
+     },
+     {
+      "@type": "Person",
+      "name": "Jisshu Sengupta"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Barfi! (2012): Drama/Romance film. Story: The heartwarming tale of Barfi, a charming deaf-mute… See cast, budget $4.44M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anurag Basu"
+     }
+    ],
+    "duration": "PT151M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/581O5n2p5I7Zz0SgKjIucslHPTA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=127501",
+    "name": "Barfi!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-09-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=127501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barfi! (2012)</h1>\n<p class=\"ssr-lead\">The heartwarming tale of Barfi, a charming deaf-mute young man from 1970s Darjeeling, and two unalike women who can&#x27;t help but fall for him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 2012</li><li>Runtime: 151 minutes</li><li>Director: Anurag Basu</li><li>Genres: Drama, Romance, Comedy</li><li>Budget: $4.44M</li><li>TMDB rating: 7.6/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranbir Kapoor as Murphy Johnson &quot;Barfi&quot;</li><li>Priyanka Chopra Jonas as Jhilmil Chatterjee</li><li>Ileana D&#x27;Cruz as Shruti Ghosh Sengupta</li><li>Saurabh Shukla as Sub-Inspector Sudhanshu Dutta</li><li>Jisshu Sengupta as Ranjit Sengupta</li><li>Ashish Vidhyarthi as Durjoy Chatterjee</li><li>Akash Khurana as Jung Bahadur Johnson</li><li>Roopa Ganguly as Shruti&#x27;s mother</li><li>Sujata Sehgal as Miss D&#x27;Souza</li><li>Arun Bali as Jhilmil&#x27;s Grandfather</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Barfi! (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:13701": {
+   "d": "Immortal Beloved (1995): Drama/Music film. Story: A chronicle of the life of infamous classical… See cast, budget $120, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4wrdhfmmv9fQkmiPRl3d8NACjh9.jpg",
+   "industry": "world",
+   "k": "Immortal Beloved, Immortal Beloved movie, Immortal Beloved cast, Immortal Beloved story, Immortal Beloved box office collection, Immortal Beloved budget, Immortal Beloved review, Immortal Beloved rating, Immortal Beloved release date, Immortal Beloved Drama, Immortal Beloved Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeroen Krabbé"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Rossellini"
+     },
+     {
+      "@type": "Person",
+      "name": "Johanna ter Steege"
+     },
+     {
+      "@type": "Person",
+      "name": "Marco Hofschneider"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Immortal Beloved (1995): Drama/Music film. Story: A chronicle of the life of infamous classical… See cast, budget $120, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bernard Rose"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4wrdhfmmv9fQkmiPRl3d8NACjh9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13701",
+    "name": "Immortal Beloved",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-01-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13701"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Immortal Beloved (1995)</h1>\n<p class=\"ssr-lead\">A chronicle of the life of infamous classical composer Ludwig van Beethoven and his painful struggle with hearing loss. Following Beethoven&#x27;s death in 1827, his assistant, Schindler, searches for an elusive woman referred to in the composer&#x27;s love letters as &quot;immortal beloved.&quot; As Schindler solves the mystery, a series of flashbacks reveal Beethoven&#x27;s transformation from passionate young man to troubled musical genius.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 January 1995</li><li>Runtime: 121 minutes</li><li>Director: Bernard Rose</li><li>Genres: Drama, Music, Romance</li><li>Budget: $120</li><li>TMDB rating: 7.1/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Oldman as Ludwig van Beethoven</li><li>Jeroen Krabbé as Anton Felix Schindler</li><li>Isabella Rossellini as Anna Marie Erdödy</li><li>Johanna ter Steege as Johanna Reiss</li><li>Marco Hofschneider as Karl van Beethoven</li><li>Miriam Margolyes as Nanette Streicherová</li><li>Barry Humphries as Clemens Metternich</li><li>Valeria Golino as Giulietta Guicciardi</li><li>Gerard Horan as Nikolaus Johann van Beethoven</li><li>Christopher Fulford as Kaspar Anton Carl van Beethoven</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Immortal Beloved (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:1397201": {
    "d": "Golden Kamuy -The Abashiri Prison Raid- (2026): Action/Drama film. Story: As each group pursues their mission, a fierce battle… See cast and TMDB rating 7.5/10.",
@@ -713,6 +905,133 @@
    "t": "Tales from the Darkside: The Movie (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
   },
+  "movie:22201": {
+   "d": "Gunfight at the O.K. Corral (1957): Western film. Story: Lawman Wyatt Earp and outlaw Doc Holliday form an… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
+   "industry": "world",
+   "k": "Gunfight at the O.K. Corral, Gunfight at the O.K. Corral movie, Gunfight at the O.K. Corral cast, Gunfight at the O.K. Corral story, Gunfight at the O.K. Corral box office collection, Gunfight at the O.K. Corral budget, Gunfight at the O.K. Corral review, Gunfight at the O.K. Corral rating, Gunfight at the O.K. Corral release date, Gunfight at the O.K. Corral trailer, Gunfight at the O.K. Corral Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Burt Lancaster"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirk Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Jo Van Fleet"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhonda Fleming"
+     },
+     {
+      "@type": "Person",
+      "name": "John Ireland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Gunfight at the O.K. Corral (1957): Western film. Story: Lawman Wyatt Earp and outlaw Doc Holliday form an… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Sturges"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22201",
+    "name": "Gunfight at the O.K. Corral",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1957-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22201"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gunfight at the O.K. Corral (1957)</h1>\n<p class=\"ssr-lead\">Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary Gunfight at the O.K. Corral.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 1957</li><li>Runtime: 123 minutes</li><li>Director: John Sturges</li><li>Genres: Western</li><li>TMDB rating: 7.0/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Lancaster as Marshal Wyatt Earp</li><li>Kirk Douglas as Dr. John &#x27;Doc&#x27; Holliday</li><li>Jo Van Fleet as Kate Fisher</li><li>Rhonda Fleming as Laura Denbow</li><li>John Ireland as Johnny Ringo</li><li>Lyle Bettger as Ike Clanton</li><li>Frank Faylen as Sheriff Cotton Wilson</li><li>Earl Holliman as Deputy Sheriff Charles &#x27;Charlie&#x27; Bassett</li><li>Ted de Corsia as Shanghai Pierce</li><li>Dennis Hopper as Billy Clanton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Gunfight at the O.K. Corral (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1957"
+  },
+  "movie:28501": {
+   "d": "The Pit and the Pendulum (1961): Horror/Mystery film. Story: In the sixteenth century, Francis Barnard travels to… See cast and budget $200.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
+   "industry": "world",
+   "k": "The Pit and the Pendulum, The Pit and the Pendulum movie, The Pit and the Pendulum cast, The Pit and the Pendulum story, The Pit and the Pendulum box office collection, The Pit and the Pendulum budget, The Pit and the Pendulum review, The Pit and the Pendulum rating, The Pit and the Pendulum release date, The Pit and the Pendulum trailer, The Pit and the Pendulum Horror, The Pit and the Pendulum Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent Price"
+     },
+     {
+      "@type": "Person",
+      "name": "John Kerr"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Steele"
+     },
+     {
+      "@type": "Person",
+      "name": "Luana Anders"
+     },
+     {
+      "@type": "Person",
+      "name": "Antony Carbone"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Pit and the Pendulum (1961): Horror/Mystery film. Story: In the sixteenth century, Francis Barnard travels to… See cast and budget $200.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Corman"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=28501",
+    "name": "The Pit and the Pendulum",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1961-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=28501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Pit and the Pendulum (1961)</h1>\n<p class=\"ssr-lead\">In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister&#x27;s death after she had married the son of a cruel Spanish Inquisitor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 1961</li><li>Runtime: 80 minutes</li><li>Director: Roger Corman</li><li>Genres: Horror, Mystery, Drama</li><li>Budget: $200.0k</li><li>TMDB rating: 6.9/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Price as Nicholas Medina / Sebastian Medina</li><li>John Kerr as Francis Barnard</li><li>Barbara Steele as Elizabeth Barnard Medina</li><li>Luana Anders as Catherine Medina</li><li>Antony Carbone as Doctor Leon</li><li>Patrick Westwood as Maximillian</li><li>Lynette Bernay as Maria</li><li>Mary Menzies as Isabella</li><li>Charles Victor as Bartolome</li><li>Larry Turner as Young Nicholas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Pit and the Pendulum (1961) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1961"
+  },
   "movie:340101": {
    "d": "Their Finest (2017): Romance/War film. Story: During the Blitz of World War II, a female… See cast, budget $11.8M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/vZbAwP1LthxHzRnodvVwXKwUk4n.jpg",
@@ -840,6 +1159,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Yesterday, Today and Tomorrow (1963)</h1>\n<p class=\"ssr-lead\">Three tales of very different women using their sexuality as a means to getting what they want.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 1963</li><li>Runtime: 119 minutes</li><li>Director: Vittorio De Sica</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.4/10 (490 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sophia Loren as Adelina Sbaratti / Anna Molteni / Mara</li><li>Marcello Mastroianni as Carmine Sbaratti / Renzo / Augusto Rusconi</li><li>Aldo Giuffrè as Pasquale Nardella</li><li>Agostino Salvietti as Dr. Verace</li><li>Lino Mattera as Amedeo Scapece</li><li>Tecla Scarano as Verace&#x27;s Sister</li><li>Silvia Monelli as Elivira Nardella</li><li>Carlo Croccolo as Auctioneer</li><li>Pasquale Cennamo as Chief Police</li><li>Tonino Cianci</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel, Kino Film Collection</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Yesterday, Today and Tomorrow (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1963"
+  },
+  "movie:470401": {
+   "d": "Abducted in Plain Sight (2017): Documentary/Crime film. Story: A family falls prey to the manipulative charms of a… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uLEjkm2vcqBcWzH5eX7YvAE8OVJ.jpg",
+   "industry": "world",
+   "k": "Abducted in Plain Sight, Abducted in Plain Sight movie, Abducted in Plain Sight cast, Abducted in Plain Sight story, Abducted in Plain Sight box office collection, Abducted in Plain Sight budget, Abducted in Plain Sight review, Abducted in Plain Sight rating, Abducted in Plain Sight release date, Abducted in Plain Sight Documentary, Abducted in Plain Sight Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jan Broberg Felt"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Ann Broberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Broberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Broberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Pete Welsh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 408,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Abducted in Plain Sight (2017): Documentary/Crime film. Story: A family falls prey to the manipulative charms of a… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Skye Borgman"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uLEjkm2vcqBcWzH5eX7YvAE8OVJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=470401",
+    "name": "Abducted in Plain Sight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=470401"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Abducted in Plain Sight (2017)</h1>\n<p class=\"ssr-lead\">A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2017</li><li>Runtime: 91 minutes</li><li>Director: Skye Borgman</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.6/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jan Broberg Felt as Self</li><li>Mary Ann Broberg as Self</li><li>Bob Broberg as Self</li><li>Susan Broberg as Self</li><li>Pete Welsh as Self</li><li>Karen Campbell as Self</li><li>Joe Berchtold as Self</li><li>Cor Hoffman as Self</li><li>Annette E. Belnap as Self</li><li>Danielle Holjeson as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Abducted in Plain Sight (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:508101": {
    "d": "Plus One (2019): Comedy/Romance film. Story: Longtime single friends, Ben and Alice, agree to be… See cast, TMDB rating 6.8/10, and release date 14 June 2019.",
@@ -972,6 +1355,74 @@
    "t": "Despite Everything (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:7501": {
+   "d": "Knockaround Guys (2001): Crime/Thriller film. Story: Four sons of well-known New York mobsters must… See cast, budget $15M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eZTEtIU8AORfmVa7YcRBlAfbgA1.jpg",
+   "industry": "world",
+   "k": "Knockaround Guys, Knockaround Guys movie, Knockaround Guys cast, Knockaround Guys story, Knockaround Guys box office collection, Knockaround Guys budget, Knockaround Guys review, Knockaround Guys rating, Knockaround Guys release date, Knockaround Guys Crime, Knockaround Guys Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barry Pepper"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Davoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Hopper"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Knockaround Guys (2001): Crime/Thriller film. Story: Four sons of well-known New York mobsters must… See cast, budget $15M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Koppelman"
+     },
+     {
+      "@type": "Person",
+      "name": "David Levien"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eZTEtIU8AORfmVa7YcRBlAfbgA1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7501",
+    "name": "Knockaround Guys",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-11-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Knockaround Guys (2001)</h1>\n<p class=\"ssr-lead\">Four sons of well-known New York mobsters must retrieve a bag of cash from a small Montana town ruled by a corrupt sheriff.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 November 2001</li><li>Runtime: 92 minutes</li><li>Director: Brian Koppelman, David Levien</li><li>Genres: Crime, Thriller</li><li>Budget: $15M</li><li>TMDB rating: 6.1/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barry Pepper as Matty Demaret</li><li>Andy Davoli as Chris Scarpa</li><li>Dennis Hopper as Benny Chains</li><li>Seth Green as Johnny Marbles</li><li>Vin Diesel as Taylor Reese</li><li>John Malkovich as Teddy Deserve</li><li>Tom Noonan as Sheriff Decker</li><li>Arthur J. Nascarella as Billy Clueless</li><li>Kevin Gage as Brucker</li><li>Nicholas Pasco as Freddy the Watch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Knockaround Guys (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:81401": {
    "d": "The Turin Horse (2011): Drama film. Story: A look at the monotonous daily struggle of a father… See cast, budget $1M, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
@@ -1034,6 +1485,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Turin Horse (2011)</h1>\n<p class=\"ssr-lead\">A look at the monotonous daily struggle of a father and daughter in a windswept, desolate landscape. Over six days, their routine of eating boiled potatoes and tending a failing horse crumbles, symbolizing a slow descent into darkness, emptiness, and the end of existence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2011</li><li>Runtime: 155 minutes</li><li>Director: Béla Tarr</li><li>Genres: Drama</li><li>Budget: $1M</li><li>TMDB rating: 7.6/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>János Derzsi as Ohlsdorfer</li><li>Erika Bók as Ohlsdorfer&#x27;s daughter</li><li>Mihály Kormos as Bernhard</li><li>Lajos Kovács as Bernhard (voice)</li><li>Mihály Ráday as Narrator (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Turin Horse (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:9501": {
+   "d": "Crying Freeman (1995): Action/Crime film. Story: A lethal assassin for a secret Chinese organisation… See cast, budget $6.1M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aNPC0up2DinxoW23lF6R6yGLTAQ.jpg",
+   "industry": "world",
+   "k": "Crying Freeman, Crying Freeman movie, Crying Freeman cast, Crying Freeman story, Crying Freeman box office collection, Crying Freeman budget, Crying Freeman review, Crying Freeman rating, Crying Freeman release date, Crying Freeman Action, Crying Freeman Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Dacascos"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Condra"
+     },
+     {
+      "@type": "Person",
+      "name": "Rae Dawn Chong"
+     },
+     {
+      "@type": "Person",
+      "name": "Byron Mann"
+     },
+     {
+      "@type": "Person",
+      "name": "Masaya Katō"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Crying Freeman (1995): Action/Crime film. Story: A lethal assassin for a secret Chinese organisation… See cast, budget $6.1M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christophe Gans"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aNPC0up2DinxoW23lF6R6yGLTAQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9501",
+    "name": "Crying Freeman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-04-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crying Freeman (1995)</h1>\n<p class=\"ssr-lead\">A lethal assassin for a secret Chinese organisation, who sheds tears of regret each time he kills, is seen swiftly and mercilessly executing three Yakuza gangsters by a beautiful artist. She is captivated by the grace of his kill and later falls in love with him. An intense power struggle for the leadership of the Yakuza Clans ensues as they seek vengeance for the death of their leader.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 1995</li><li>Runtime: 102 minutes</li><li>Director: Christophe Gans</li><li>Genres: Action, Crime</li><li>Budget: $6.1M</li><li>TMDB rating: 6.4/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Dacascos as Yo Hinomura / Freeman</li><li>Julie Condra as Emu O&#x27;Hara</li><li>Rae Dawn Chong as Detective Forge</li><li>Byron Mann as Koh</li><li>Masaya Katō as Ryuji Hanada</li><li>Yoko Shimada as Lady Hanada</li><li>Mako as Shudo Shimazaki</li><li>Tchéky Karyo as Detective Netah</li><li>Kevan Ohtsji as Takeshi Shimazaki</li><li>Debbie Podowski as Customs Agent</li></ul>\n</article>",
+   "t": "Crying Freeman (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:952701": {
    "d": "Return to Seoul (2022): Drama film. Story: After an impulsive travel decision to visit friends… See cast, TMDB rating 6.2/10, and release date 18 November 2022.",

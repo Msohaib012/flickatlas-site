@@ -1,7 +1,263 @@
 {
  "bucket": "33",
- "count": 20,
+ "count": 28,
  "titles": {
+  "movie:10433": {
+   "d": "Mad Dog and Glory (1993): Comedy/Crime film. Story: Wayne Dobie is a shy cop whose low-key demeanor has… See cast, budget $19M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xX5St4pQuLWK9JbKHYuDnLOQSon.jpg",
+   "industry": "world",
+   "k": "Mad Dog and Glory, Mad Dog and Glory movie, Mad Dog and Glory cast, Mad Dog and Glory story, Mad Dog and Glory box office collection, Mad Dog and Glory budget, Mad Dog and Glory review, Mad Dog and Glory rating, Mad Dog and Glory release date, Mad Dog and Glory Comedy, Mad Dog and Glory Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Uma Thurman"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Murray"
+     },
+     {
+      "@type": "Person",
+      "name": "David Caruso"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Starr"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Mad Dog and Glory (1993): Comedy/Crime film. Story: Wayne Dobie is a shy cop whose low-key demeanor has… See cast, budget $19M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John McNaughton"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xX5St4pQuLWK9JbKHYuDnLOQSon.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10433",
+    "name": "Mad Dog and Glory",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10433"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mad Dog and Glory (1993)</h1>\n<p class=\"ssr-lead\">Wayne Dobie is a shy cop whose low-key demeanor has earned him the affectionate nickname &quot;Mad Dog.&quot; After Mad Dog saves the life of Frank Milo, a crime boss and aspiring stand-up comedian, he&#x27;s offered the company of an attractive young waitress named Glory for a week. At first both are uneasy about the arrangement, but they eventually fall in love. However, the situation becomes complicated when Milo demands Glory back.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 1993</li><li>Runtime: 96 minutes</li><li>Director: John McNaughton</li><li>Genres: Comedy, Crime, Romance, Drama</li><li>Budget: $19M</li><li>TMDB rating: 6.0/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Wayne &quot;Mad Dog&quot; Dobie</li><li>Uma Thurman as Glory</li><li>Bill Murray as Frank Milo</li><li>David Caruso as Mike</li><li>Mike Starr as Harold</li><li>Tom Towles as Andrew the Beater</li><li>Kathy Baker as Lee</li><li>Derek Anunciation as Shooter</li><li>Doug Hara as Driver</li><li>Evan Lionel as Dealer in Car</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Mad Dog and Glory (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:10733": {
+   "d": "The Alamo (2004): History/War film. Story: Based on the 1836 standoff between a group of Texan… See cast, budget $107M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fy8E5sF1Phf5aihA3nxx4Qqxotl.jpg",
+   "industry": "world",
+   "k": "The Alamo, The Alamo movie, The Alamo cast, The Alamo story, The Alamo box office collection, The Alamo budget, The Alamo review, The Alamo rating, The Alamo release date, The Alamo History, The Alamo War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Bob Thornton"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Patric"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Emilio Echevarría"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Alamo (2004): History/War film. Story: Based on the 1836 standoff between a group of Texan… See cast, budget $107M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Lee Hancock"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "History",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fy8E5sF1Phf5aihA3nxx4Qqxotl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10733",
+    "name": "The Alamo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10733"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Alamo (2004)</h1>\n<p class=\"ssr-lead\">Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna&#x27;s forces at the Alamo in San Antonio, Texas.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 2004</li><li>Runtime: 137 minutes</li><li>Director: John Lee Hancock</li><li>Genres: History, War, Drama</li><li>Budget: $107M</li><li>TMDB rating: 5.8/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Quaid as Sam Houston</li><li>Billy Bob Thornton as Davy Crockett</li><li>Jason Patric as James Bowie</li><li>Patrick Wilson as William Travis</li><li>Emilio Echevarría as Antonio Lopez de Santa Ana</li><li>Edwin Hodge as Joe</li><li>Emily Deschanel as Rosanna Travis</li><li>Jordi Mollà as Juan Seguin</li><li>Leon Rippy as Sgt. William Ward</li><li>Marc Blucas as James Bonham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Alamo (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:11633": {
+   "d": "Appleseed (2004): Animation/Action film. Story: In a utopian society created at the end of World War… See cast, budget $10M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
+   "industry": "world",
+   "k": "Appleseed, Appleseed movie, Appleseed cast, Appleseed story, Appleseed box office collection, Appleseed budget, Appleseed review, Appleseed rating, Appleseed release date, Appleseed Animation, Appleseed Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ai Kobayashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Asumi Miwa"
+     },
+     {
+      "@type": "Person",
+      "name": "Jurota Kosugi"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuki Matsuoka"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuzuru Fujimoto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Appleseed (2004): Animation/Action film. Story: In a utopian society created at the end of World War… See cast, budget $10M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shinji Aramaki"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11633",
+    "name": "Appleseed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11633"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Appleseed (2004)</h1>\n<p class=\"ssr-lead\">In a utopian society created at the end of World War III, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2004</li><li>Runtime: 105 minutes</li><li>Director: Shinji Aramaki</li><li>Genres: Animation, Action, Science Fiction</li><li>Budget: $10M</li><li>TMDB rating: 6.8/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ai Kobayashi as Deyunan (voice)</li><li>Asumi Miwa as Deyunan (motion actor)</li><li>Jurota Kosugi as Buriareosu (voice)</li><li>Yuki Matsuoka as Hitomi (voice)</li><li>Yuzuru Fujimoto as Uranosu (voice)</li><li>Takehito Koyasu as Hadesu (voice)</li><li>Mami Koyama as Atena (voice)</li><li>Miho Yamada as Nike (voice)</li><li>Toshiyuki Morikawa as Yoshitsune (voice)</li><li>Ryuji Nakagi as Shichiken rô Erekutoryuon (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HiDive</li></ul>\n</article>",
+   "t": "Appleseed (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:11933": {
+   "d": "Nothing but Trouble (1991): Comedy/Adventure film. Story: While attempting to seduce gorgeous lawyer Diane… See cast, budget $40M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5Uo0vXeg7KDTDwodKy9FC5f5K8N.jpg",
+   "industry": "world",
+   "k": "Nothing but Trouble, Nothing but Trouble movie, Nothing but Trouble cast, Nothing but Trouble story, Nothing but Trouble box office collection, Nothing but Trouble budget, Nothing but Trouble review, Nothing but Trouble rating, Nothing but Trouble release date, Nothing but Trouble Comedy, Nothing but Trouble Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chevy Chase"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "John Candy"
+     },
+     {
+      "@type": "Person",
+      "name": "Demi Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Baldwin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 422,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Nothing but Trouble (1991): Comedy/Adventure film. Story: While attempting to seduce gorgeous lawyer Diane… See cast, budget $40M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5Uo0vXeg7KDTDwodKy9FC5f5K8N.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11933",
+    "name": "Nothing but Trouble",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-02-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11933"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nothing but Trouble (1991)</h1>\n<p class=\"ssr-lead\">While attempting to seduce gorgeous lawyer Diane Lightson, wealthy gadabout Chris Thorne agrees to drive her to Atlantic City, N.J. But, when some reckless driving draws the attention of a deeply critical cop, they and the flamboyant &quot;Brazillionaires&quot; who tagged along end up in the court of a grotesque and vengeful judge, who has a special vendetta against the wealthy and erudite.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 February 1991</li><li>Runtime: 94 minutes</li><li>Director: Dan Aykroyd</li><li>Genres: Comedy, Adventure</li><li>Budget: $40M</li><li>TMDB rating: 5.3/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chevy Chase as Chris Thorne</li><li>Dan Aykroyd as Judge Alvin &#x27;J.P&#x27; Valkenheiser / Bobo</li><li>John Candy as Dennis / Eldona</li><li>Demi Moore as Diane Lightson</li><li>Daniel Baldwin as Artie</li><li>Taylor Negron as Fausto Squiriniszu</li><li>Raymond J. Barry as Mark</li><li>Tupac Shakur as Digital Underground Member</li><li>Bertila Damas as Renalda Squiriniszu</li><li>Brian Doyle-Murray as Brian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Nothing but Trouble (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:1202033": {
    "d": "Enola Holmes 3 (2026): Adventure/Crime film. Story: Adventure follows detective Enola Holmes to Malta… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
@@ -240,6 +496,70 @@
    "t": "Trevor Noah: Joy in the Trenches (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:174733": {
+   "d": "Metro (2013): Action/Thriller film. Story: Terror strikes the underground train system in Moscow… See cast, budget $13M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q2B3bjLYcxGG11ThDr8gyzCIGAv.jpg",
+   "industry": "world",
+   "k": "Metro, Metro movie, Metro cast, Metro story, Metro box office collection, Metro budget, Metro review, Metro rating, Metro release date, Metro Action, Metro Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sergey Puskepalis"
+     },
+     {
+      "@type": "Person",
+      "name": "Anatoliy Belyy"
+     },
+     {
+      "@type": "Person",
+      "name": "Svetlana Khodchenkova"
+     },
+     {
+      "@type": "Person",
+      "name": "Katerina Shpitsa"
+     },
+     {
+      "@type": "Person",
+      "name": "Stanislav Duzhnikov"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 395,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Metro (2013): Action/Thriller film. Story: Terror strikes the underground train system in Moscow… See cast, budget $13M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anton Megerdichev"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q2B3bjLYcxGG11ThDr8gyzCIGAv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=174733",
+    "name": "Metro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-02-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=174733"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Metro (2013)</h1>\n<p class=\"ssr-lead\">Terror strikes the underground train system in Moscow in the form of a flood from a collapsed tunnel. The film follows a diverse group of Moscow citizens who find themselves trapped in the city’s underground rail network, their train derailed and virtually crushed after an aging tunnel collapses. Amongst this band of survivors is softly spoken surgeon Andrey (Sergei Puskepalis), whose wife is having an affair with the conceited businessman Vlad (Anatoly Beliy). Fate brings these two men together on the same doomed train, but there is little time to resolve their differences, as the tunnel begins to quickly fill with water, forcing them to work together with the others and find a way back to the surface.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 February 2013</li><li>Runtime: 130 minutes</li><li>Director: Anton Megerdichev</li><li>Genres: Action, Thriller</li><li>Budget: $13M</li><li>TMDB rating: 6.7/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sergey Puskepalis as Andrey Garin</li><li>Anatoliy Belyy as Vladislav Konstantinov</li><li>Svetlana Khodchenkova as Irina Garina</li><li>Katerina Shpitsa as Alisa</li><li>Stanislav Duzhnikov as Michael</li><li>Ivan Makarevich as Bob Liutin</li><li>Aleksey Bardukov as Denis Istomin</li><li>Anfisa Vistingauzen as Ksenia Garin</li><li>Anatoliy Kotenyov as Moscow Mayor</li><li>Elena Panova as Galochka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Midnight Pulp, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "Metro (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:248933": {
    "d": "The Dark Valley (2014): Drama/Thriller film. Story: The Alps, late 19th century. Greider, a mysterious… See cast, budget $6.88M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
@@ -367,6 +687,197 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie and the Secret Door (2014)</h1>\n<p class=\"ssr-lead\">A shy princess discovers a secret door in her kingdom and enters a magical world full of magical creatures. She meets a mermaid and a fairy who tell her about a spoiled ruler threatening them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2014</li><li>Runtime: 81 minutes</li><li>Director: Karen J. Lloyd</li><li>Genres: Animation, Family</li><li>TMDB rating: 7.2/10 (447 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Alexa (voice)</li><li>Brittany McDonald as Alexa (singing voice)</li><li>Ashleigh Ball as Nori (voice)</li><li>Chanelle Peloso as Romy (voice)</li><li>Tabitha St. Germain as Malucia (voice)</li><li>Ellie King as Grandmother (voice)</li><li>Christopher Gaze as Brookhurst (voice)</li><li>Jonathan Holmes as Grodlin (voice)</li><li>Britt Irvin as Jenna (voice)</li><li>Michael Daingerfield as King of Zinnia (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Barbie and the Secret Door (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:3033": {
+   "d": "Gods and Monsters (1998): Drama film. Story: It's 1957, and James Whale's heyday as the director… See cast, budget $10M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+   "industry": "world",
+   "k": "Gods and Monsters, Gods and Monsters movie, Gods and Monsters cast, Gods and Monsters story, Gods and Monsters box office collection, Gods and Monsters budget, Gods and Monsters review, Gods and Monsters rating, Gods and Monsters release date, Gods and Monsters Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Lynn Redgrave"
+     },
+     {
+      "@type": "Person",
+      "name": "Lolita Davidovich"
+     },
+     {
+      "@type": "Person",
+      "name": "David Dukes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Gods and Monsters (1998): Drama film. Story: It's 1957, and James Whale's heyday as the director… See cast, budget $10M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bill Condon"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3033",
+    "name": "Gods and Monsters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3033"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gods and Monsters (1998)</h1>\n<p class=\"ssr-lead\">It&#x27;s 1957, and James Whale&#x27;s heyday as the director of &quot;Frankenstein,&quot; &quot;Bride of Frankenstein&quot; and &quot;The Invisible Man&quot; is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 1998</li><li>Runtime: 105 minutes</li><li>Director: Bill Condon</li><li>Genres: Drama</li><li>Budget: $10M</li><li>TMDB rating: 6.9/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ian McKellen as James Whale</li><li>Brendan Fraser as Clayton Boone</li><li>Lynn Redgrave as Hanna</li><li>Lolita Davidovich as Betty</li><li>David Dukes as David Lewis</li><li>Kevin J. O&#x27;Connor as Harry</li><li>Mark Kiely as Dwight</li><li>Jack Plotnick as Edmund Kay</li><li>Rosalind Ayres as Elsa Lanchester</li><li>Jack Betts as Boris Karloff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Here TV, Here TV Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Gods and Monsters (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
+  "movie:501633": {
+   "d": "The Invisibles (2019): Comedy/Drama film. Story: Following a city councils decision, a women's shelter… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",
+   "industry": "world",
+   "k": "The Invisibles, The Invisibles movie, The Invisibles cast, The Invisibles story, The Invisibles box office collection, The Invisibles budget, The Invisibles review, The Invisibles rating, The Invisibles release date, The Invisibles Comedy, The Invisibles Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Audrey Lamy"
+     },
+     {
+      "@type": "Person",
+      "name": "Corinne Masiero"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Lvovsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Déborah Lukumuena"
+     },
+     {
+      "@type": "Person",
+      "name": "Pablo Pauly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Invisibles (2019): Comedy/Drama film. Story: Following a city councils decision, a women's shelter… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis-Julien Petit"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=501633",
+    "name": "The Invisibles",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=501633"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Invisibles (2019)</h1>\n<p class=\"ssr-lead\">Following a city councils decision, a women&#x27;s shelter will soon be closed and social workers have only three months to accommodate the residents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2019</li><li>Runtime: 102 minutes</li><li>Director: Louis-Julien Petit</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.0/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Audrey Lamy as Audrey Scapio, social worker at l&#x27;Envol</li><li>Corinne Masiero as Manu, director of l&#x27;Envol</li><li>Noémie Lvovsky as Hélène, volunteer at l&#x27;Envol</li><li>Déborah Lukumuena as Angélique, volunteer at l&#x27;Envol</li><li>Pablo Pauly as Dimitri, Audrey&#x27;s brother</li><li>Sarah Suco as Julie Charpentier, the punk</li><li>Quentin Faure as Laurent, Audrey&#x27;s friend</li><li>Brigitte Sy as Béatrice, social services manager</li><li>Tassadit Mandi as Ramouna</li><li>Adolpha van Meerhaeghe as Chantal, the appliance repairer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
+   "t": "The Invisibles (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:586333": {
+   "d": "Who Would You Take to a Deserted Island? (2019): Comedy/Drama film. Story: On their last night together, four longtime… See cast and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/abTnQsdz3wRHDTtYauDnTEQkwnb.jpg",
+   "industry": "world",
+   "k": "Who Would You Take to a Deserted Island?, Who Would You Take to a Deserted Island? movie, Who Would You Take to a Deserted Island? cast, Who Would You Take to a Deserted Island? story, Who Would You Take to a Deserted Island? box office collection, Who Would You Take to a Deserted Island? budget, Who Would You Take to a Deserted Island? review, Who Would You Take to a Deserted Island? rating, Who Would You Take to a Deserted Island? release date, Who Would You Take to a Deserted Island? trailer, Who Would You Take to a Deserted Island? Comedy, Who Would You Take to a Deserted Island? Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pol Monen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaime Lorente"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Ros"
+     },
+     {
+      "@type": "Person",
+      "name": "María Pedraza"
+     },
+     {
+      "@type": "Person",
+      "name": "Beatriz Arjona"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Who Would You Take to a Deserted Island? (2019): Comedy/Drama film. Story: On their last night together, four longtime… See cast and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jota Linares"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/abTnQsdz3wRHDTtYauDnTEQkwnb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=586333",
+    "name": "Who Would You Take to a Deserted Island?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-03-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=586333"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Who Would You Take to a Deserted Island? (2019)</h1>\n<p class=\"ssr-lead\">On their last night together, four longtime flatmates&#x27; lives are suddenly upended when a secret is revealed during the course of an evening celebration.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 2019</li><li>Runtime: 90 minutes</li><li>Director: Jota Linares</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.1/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pol Monen as Eze</li><li>Jaime Lorente as Marcos</li><li>Andrea Ros as Celeste</li><li>María Pedraza as Marta</li><li>Beatriz Arjona as Maggie</li><li>Abril Zamora as Abril</li><li>Celia de Molina as Celia</li><li>Ignacio Mateos</li><li>Bea de la Cruz as Nurse</li><li>Nico Romero</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Who Would You Take to a Deserted Island? (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:718633": {
    "d": "Bruised (2021): Drama/Action film. Story: Jackie Justice is a mixed martial arts fighter who… See cast, budget $11M, and TMDB rating 6.8/10.",

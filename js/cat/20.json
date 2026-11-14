@@ -1,7 +1,136 @@
 {
  "bucket": "20",
- "count": 34,
+ "count": 43,
  "titles": {
+  "movie:1047020": {
+   "backdrop_path": "/wy92wLmcjfEy6Gp3v0Q30gxNWrS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Knife Salesman",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Jocelin Donahue"
+    },
+    {
+     "c": "Beau",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Travis",
+     "n": "Nicholas Logan"
+    },
+    {
+     "c": "Charlie",
+     "n": "Michael Abbott Jr."
+    },
+    {
+     "c": "Sybil",
+     "n": "Sierra McCormick"
+    },
+    {
+     "c": "Miles",
+     "n": "Ryan Masson"
+    },
+    {
+     "c": "Gavin",
+     "n": "Connor Paolo"
+    },
+    {
+     "c": "Vernon",
+     "n": "Faizon Love"
+    },
+    {
+     "c": "Robert",
+     "n": "Gene Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Galluppi"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1047020,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While awaiting the next fuel truck at a middle-of-nowhere Arizona rest stop, a traveling young knife salesman is thrust into a high-stakes hostage situation by the arrival of two similarly stranded bank robbers with no qualms about using cruelty—or cold, hard steel—to protect their bloodstained, ill-gotten fortune.",
+   "popularity": 3.4015,
+   "poster_path": "/u6ae2MMh8PpSamO3cIttLM5B18v.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-18",
+   "revenue": 94344,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never bring a knife salesman to a gunfight.",
+   "title": "The Last Stop in Yuma County",
+   "trailer": {
+    "key": "-ZrZWuLBh54",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.891,
+   "vote_count": 426
+  },
   "movie:11620": {
    "backdrop_path": "/cEdyAF813pgjsYzGqpDFjJgTzbs.jpg",
    "budget": 7623000,
@@ -176,6 +305,157 @@
    "type": "movie",
    "vote_average": 7.122,
    "vote_count": 479
+  },
+  "movie:12220": {
+   "backdrop_path": "/mh30m4DuwBtvI9zwfZF6KfkkRbP.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Ben Jordan",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Katie Jordan",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Stan Kogen",
+     "n": "Rob Reiner"
+    },
+    {
+     "c": "Erin Jordan (at Ten)",
+     "n": "Colleen Rennison"
+    },
+    {
+     "c": "Josh Jordan (at Twelve)",
+     "n": "Jake Sandvig"
+    },
+    {
+     "c": "Liza",
+     "n": "Julie Hagerty"
+    },
+    {
+     "c": "Rachel Kogen",
+     "n": "Rita Wilson"
+    },
+    {
+     "c": "Dave",
+     "n": "Paul Reiser"
+    },
+    {
+     "c": "Arnie Jordan",
+     "n": "Red Buttons"
+    },
+    {
+     "c": "Lillian Jordan",
+     "n": "Betty White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Reiner"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 12220,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After 15 years of marriage, Katie and her husband, Ben, have grown apart. While they keep up the facade of having a contented marriage, mostly to not worry their children, they aren't happy together and argue frequently. While the kids are away at camp, Katie and Ben decide to separate and try to reassess their relationship to see if they should stay together or split up for good. ",
+   "popularity": 2.5311,
+   "poster_path": "/8rm0CZpHW1D7pIv8OguJNHF93LV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-10-14",
+   "revenue": 58900031,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Can a marriage survive 15 years of marriage?",
+   "title": "The Story of Us",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 387
   },
   "movie:12920": {
    "backdrop_path": "/5ldZJsJ4xMj4PqiYH817tW5Ccpa.jpg",
@@ -491,6 +771,95 @@
    "vote_average": 7.195,
    "vote_count": 457
   },
+  "movie:142320": {
+   "backdrop_path": "/3YkzGC7u5o9arOk8uetJjvwO3ra.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Riccardo Spagnolo",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Valerio Spagnolo",
+     "n": "Alessandro Gassmann"
+    },
+    {
+     "c": "Michele Spagnolo",
+     "n": "Michele Placido"
+    },
+    {
+     "c": "Susanna Spagnolo",
+     "n": "Ambra Angiolini"
+    },
+    {
+     "c": "Marco",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Antonio",
+     "n": "Maurizio Mattioli"
+    },
+    {
+     "c": "Tony",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "il regista",
+     "n": "Valerio Aprea"
+    },
+    {
+     "c": "Santini",
+     "n": "Stefano Fresi"
+    },
+    {
+     "c": "Giansanti",
+     "n": "Rolando Ravello"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Massimiliano Bruno"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 142320,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The story of a leading political man, suddenly telling “all the truth” after a serious illness and therefore overwhelming lifes of anyone surrounding him…",
+   "popularity": 0.7714,
+   "poster_path": "/xVK4lKK0p5qxhWVsQt8EqL3f6jB.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-10-25",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "cs"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Viva l'Italia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 387
+  },
   "movie:1429520": {
    "backdrop_path": "/tYT4DdVw1utDPE4QIsBHxlKHai8.jpg",
    "budget": 0,
@@ -693,6 +1062,178 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 85
+  },
+  "movie:14320": {
+   "backdrop_path": "/5SdVucbeGF5xAHT496uPRPZVJD6.jpg",
+   "budget": 400000,
+   "cast": [
+    {
+     "c": "Pip",
+     "n": "John Mills"
+    },
+    {
+     "c": "Estella",
+     "n": "Valerie Hobson"
+    },
+    {
+     "c": "Young Pip",
+     "n": "Tony Wager"
+    },
+    {
+     "c": "Young Estella",
+     "n": "Jean Simmons"
+    },
+    {
+     "c": "Joe Gargery",
+     "n": "Bernard Miles"
+    },
+    {
+     "c": "Mr. Jaggers",
+     "n": "Francis L. Sullivan"
+    },
+    {
+     "c": "Abel Magwitch",
+     "n": "Finlay Currie"
+    },
+    {
+     "c": "Miss Havisham",
+     "n": "Martita Hunt"
+    },
+    {
+     "c": "Herbert Pocket",
+     "n": "Alec Guinness"
+    },
+    {
+     "c": "Mr. Wemmick",
+     "n": "Ivor Barnard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "David Lean"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 14320,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In this Dickens adaptation, orphan Pip discovers through lawyer Mr. Jaggers that a mysterious benefactor wishes to ensure that he becomes a gentleman. Reunited with his childhood patron, Miss Havisham, and his first love, the beautiful but emotionally cold Estella, he discovers that the elderly spinster has gone mad from having been left at the altar as a young woman, and has made her charge into a warped, unfeeling heartbreaker.",
+   "popularity": 2.7311,
+   "poster_path": "/ynaFuVvW2jaG06pMV67dOhzMYfJ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1946-12-26",
+   "revenue": 420000,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From the Vivid Pages of Charles Dickens' Masterpiece!",
+   "title": "Great Expectations",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 392
   },
   "movie:1487320": {
    "backdrop_path": "/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
@@ -1091,6 +1632,124 @@
    "vote_average": 5.286,
    "vote_count": 21
   },
+  "movie:16520": {
+   "backdrop_path": "/gjFI54BO9f6eZ2iQyNDhgVVnUCJ.jpg",
+   "budget": 4550000,
+   "cast": [
+    {
+     "c": "Anna Leonowens",
+     "n": "Deborah Kerr"
+    },
+    {
+     "c": "King Mongkut of Siam",
+     "n": "Yul Brynner"
+    },
+    {
+     "c": "Tuptim",
+     "n": "Rita Moreno"
+    },
+    {
+     "c": "Kralahome",
+     "n": "Martin Benson"
+    },
+    {
+     "c": "Lady Thiang",
+     "n": "Terry Saunders"
+    },
+    {
+     "c": "Louis Leonowens",
+     "n": "Rex Thompson"
+    },
+    {
+     "c": "Lun Tha",
+     "n": "Carlos Rivas"
+    },
+    {
+     "c": "Prince Chulalongkorn",
+     "n": "Patrick Adiarte"
+    },
+    {
+     "c": "John Hay",
+     "n": "Alan Mowbray"
+    },
+    {
+     "c": "Edward Ramsay",
+     "n": "Geoffrey Toone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Walter Lang"
+   ],
+   "genres": [
+    "Romance",
+    "History",
+    "Drama"
+   ],
+   "id": 16520,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Widowed Welsh mother Anna Leonowens becomes a governess and English tutor to the wives and many children of the stubborn King Mongkut of Siam. Anna and the King have a clash of personalities as she works to teach the royal family about the English language, customs and etiquette, and rushes to prepare a party for a group of European diplomats who must change their opinions about the King.",
+   "popularity": 2.9139,
+   "poster_path": "/wUfaP0lLaMpZzp5CrHyII5Vd7cp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "BroadwayHD"
+    },
+    {
+     "name": "Broadway HD Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1956-06-29",
+   "revenue": 21300000,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "More than your eyes have ever seen… More than your heart has ever known!",
+   "title": "The King and I",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.083,
+   "vote_count": 422
+  },
   "movie:1656220": {
    "backdrop_path": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
    "budget": 0,
@@ -1196,6 +1855,143 @@
    "type": "movie",
    "vote_average": 6.169,
    "vote_count": 86
+  },
+  "movie:169020": {
+   "backdrop_path": "/a1DCMO6NBgbXzGS2PEmDorPjZAW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Feruz",
+     "n": "Michaël Youn"
+    },
+    {
+     "c": "Muzafar",
+     "n": "José Garcia"
+    },
+    {
+     "c": "Marianne",
+     "n": "Isabelle Funaro"
+    },
+    {
+     "c": "Jafaraz Ouechmagül",
+     "n": "Ary Abittan"
+    },
+    {
+     "c": "Gendarme centre de rétention",
+     "n": "Jérôme Commandeur"
+    },
+    {
+     "c": "Oncle Momo",
+     "n": "Vincent Moscato"
+    },
+    {
+     "c": "Tante Nanette",
+     "n": "Guilaine Londez"
+    },
+    {
+     "c": "Kévin",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Chef nationaliste corse",
+     "n": "Jean-François Perrone"
+    },
+    {
+     "c": "Présidente de la République française",
+     "n": "Blanche Raynal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Michaël Youn"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 169020,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Muzafar and Feruz are two easy going shepherds from Taboulistan, a tiny country in Asia that is unknown to the rest of the world. To alert the world to his country’s existence, the son of Taboulistan’s president decides to instigate a program of publicity terrorism. To that end, he recruits our two naive shepherds, their mission: to destroy the Eiffel Tower! But the France that Muzafar and Feruz discover is far from what they had expected...",
+   "popularity": 1.3141,
+   "poster_path": "/uzOTJOOLrLhr2r8YHCmdahvVkF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-02-20",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Vive la France",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.18,
+   "vote_count": 399
   },
   "movie:20620": {
    "backdrop_path": "/xecEY67Z0WycRwImb8jTebOoYQ5.jpg",
@@ -1669,6 +2465,393 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 494
+  },
+  "movie:328720": {
+   "backdrop_path": "/yRs5x7H5SqsOUljcLltKBKLSP0B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guido",
+     "n": "Claudio Bisio"
+    },
+    {
+     "c": "Paolo",
+     "n": "Frank Matano"
+    },
+    {
+     "c": "Giada",
+     "n": "Valentina Lodovini"
+    },
+    {
+     "c": "Silvia",
+     "n": "Chiara Baschetti"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Renato Pozzetto"
+    },
+    {
+     "c": "Carla",
+     "n": "Ornella Vanoni"
+    },
+    {
+     "c": "Psichiatra",
+     "n": "Galatea Ranzi"
+    },
+    {
+     "c": "Osvaldo",
+     "n": "Franco Pinelli"
+    },
+    {
+     "c": "Anna",
+     "n": "Anna Ammirati"
+    },
+    {
+     "c": "Portiere",
+     "n": "Enzo Casertano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Genovesi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 328720,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "High school professor Guido is a hopeless romantic whose life falls apart after his girlfriend leaves him. Paolo, a former student of his, helps him in getting out of his depression for a better chance to become a PE teacher himself.",
+   "popularity": 0.781,
+   "poster_path": "/8Jlc8ljGnx2cHCrlTI4aNElUsmS.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2015-03-11",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ma che bella sorpresa",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.936,
+   "vote_count": 425
+  },
+  "movie:43920": {
+   "backdrop_path": "/7far1lb1wzsjtE9owzZji4YfqNU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Butch",
+     "n": "Adam Butcher"
+    },
+    {
+     "c": "Davis",
+     "n": "Shane Kippel"
+    },
+    {
+     "c": "Angel",
+     "n": "Mateo Morales"
+    },
+    {
+     "c": "Banks",
+     "n": "Taylor Poulin"
+    },
+    {
+     "c": "Max",
+     "n": "Slim Twig"
+    },
+    {
+     "c": "Frank",
+     "n": "Dewshane Williams"
+    },
+    {
+     "c": "Goodyear",
+     "n": "Lawrence Bayne"
+    },
+    {
+     "c": "Sands",
+     "n": "Trent McMullen"
+    },
+    {
+     "c": "Loony",
+     "n": "Jeff McEnery"
+    },
+    {
+     "c": "Eckersley",
+     "n": "Bryan Murphy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kim Chapiron"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 43920,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
+   "popularity": 1.6284,
+   "poster_path": "/btkq5xE0GrHzdl8I49OGTUmCPYL.jpg",
+   "production_countries": [
+    "CA",
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-04-24",
+   "revenue": 430041,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fighting back is the only way out.",
+   "title": "Dog Pound",
+   "trailer": {
+    "key": "H5p-Q1yuyJE",
+    "name": "Dog Pound UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.226,
+   "vote_count": 423
+  },
+  "movie:475220": {
+   "backdrop_path": "/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sheila",
+     "n": "Marianne Jean-Baptiste"
+    },
+    {
+     "c": "Jill",
+     "n": "Sidse Babett Knudsen"
+    },
+    {
+     "c": "Stash",
+     "n": "Julian Barratt"
+    },
+    {
+     "c": "Mr. Lundy",
+     "n": "Richard Bremmer"
+    },
+    {
+     "c": "Miss Luckmoore",
+     "n": "Fatma Mohamed"
+    },
+    {
+     "c": "Gwen",
+     "n": "Gwendoline Christie"
+    },
+    {
+     "c": "Babs",
+     "n": "Hayley Squires"
+    },
+    {
+     "c": "Pam",
+     "n": "Caroline Catz"
+    },
+    {
+     "c": "Vince",
+     "n": "Jaygann Ayeh"
+    },
+    {
+     "c": "Clive",
+     "n": "Steve Oram"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Strickland"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 475220,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
+   "popularity": 1.4235,
+   "poster_path": "/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-06-28",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A killer dress.",
+   "title": "In Fabric",
+   "trailer": {
+    "key": "biHUTtV4K40",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.624,
+   "vote_count": 391
   },
   "movie:622420": {
    "backdrop_path": "/jbLhPErePs1MRwht2FvQTA9Lcc0.jpg",

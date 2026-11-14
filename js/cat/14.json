@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 32,
+ "count": 39,
  "titles": {
   "movie:12614": {
    "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
@@ -728,6 +728,116 @@
    "vote_average": 7.9,
    "vote_count": 77
   },
+  "movie:15014": {
+   "backdrop_path": "/rQY1Rkjxa7EJXYrv2jbUjLcCC4l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michele Apicella",
+     "n": "Nanni Moretti"
+    },
+    {
+     "c": "Bianca",
+     "n": "Laura Morante"
+    },
+    {
+     "c": "Commissario",
+     "n": "Roberto Vezzosi"
+    },
+    {
+     "c": "Siro Siri",
+     "n": "Remo Remotti"
+    },
+    {
+     "c": "Ignazio",
+     "n": "Claudio Bigagli"
+    },
+    {
+     "c": "Aurora",
+     "n": "Enrica Maria Modugno"
+    },
+    {
+     "c": "Massimiliano",
+     "n": "Vincenzo Salemme"
+    },
+    {
+     "c": "Maria",
+     "n": "Margherita Sestito"
+    },
+    {
+     "c": "Preside",
+     "n": "Dario Cantarelli"
+    },
+    {
+     "c": "Martina",
+     "n": "Virginie Alexandre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nanni Moretti"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 15014,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed and neurotic, he spends his time obsessively monitoring the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
+   "popularity": 0.7113,
+   "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-02-23",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bianca",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.524,
+   "vote_count": 417
+  },
   "movie:1564614": {
    "backdrop_path": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
    "budget": 3500000,
@@ -1183,6 +1293,94 @@
    "vote_average": 5.746,
    "vote_count": 499
   },
+  "movie:20414": {
+   "backdrop_path": "/bYcsJJVj70YHHMOZGCBaDLxBI2j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leo Nuvolone / Callisto Cagnato / Moreno Vecchiarutti / L'onorevole",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Enza Sessa",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Tecla Nuvolone",
+     "n": "Geppi Cucciari"
+    },
+    {
+     "c": "Blanche",
+     "n": "Eva Riccobono"
+    },
+    {
+     "c": "Steven Vecchiarutti",
+     "n": "Vittorio Emanuele Propizio"
+    },
+    {
+     "c": "Severiano Cagnato",
+     "n": "Andrea Miglio Risi"
+    },
+    {
+     "c": "Lucia Diotiallevi",
+     "n": "Martina Pinto"
+    },
+    {
+     "c": "Irene",
+     "n": "Clizia Fornasier"
+    },
+    {
+     "c": "Sisto",
+     "n": "Alessandro Di Fede"
+    },
+    {
+     "c": "Otello",
+     "n": "Nicola Di Gioia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 20414,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A comic movie divided in three episodes.",
+   "popularity": 0.8535,
+   "poster_path": "/q1uFyN8W9xvC2BcGNZRGc545ZeD.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-03-07",
+   "revenue": 0,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Grande, grosso e... Verdone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.878,
+   "vote_count": 401
+  },
   "movie:20714": {
    "backdrop_path": "/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
    "budget": 4000000,
@@ -1273,6 +1471,172 @@
    "type": "movie",
    "vote_average": 6.636,
    "vote_count": 436
+  },
+  "movie:253414": {
+   "backdrop_path": "/wldeDiuEBhYi1Q4FjSHzAQ3yS80.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Richie Lanz",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Ronnie",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "Bombay Brian",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Merci",
+     "n": "Kate Hudson"
+    },
+    {
+     "c": "Private Barnes",
+     "n": "Taylor Kinney"
+    },
+    {
+     "c": "Nick",
+     "n": "Danny McBride"
+    },
+    {
+     "c": "Jake",
+     "n": "Scott Caan"
+    },
+    {
+     "c": "Gulla",
+     "n": "Eugenia Kuzmina"
+    },
+    {
+     "c": "Maureen",
+     "n": "Sarah Baker"
+    },
+    {
+     "c": "Salima",
+     "n": "Leem Lubany"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barry Levinson"
+   ],
+   "genres": [
+    "Comedy",
+    "Music",
+    "War"
+   ],
+   "id": 253414,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A washed-up music producer finds one last shot at redemption with a golden-voiced young girl in Afghanistan. However, when jealousy gets the better of a disgruntled ex-boyfriend, he decides to oppose the young star with talent of his own.",
+   "popularity": 1.3594,
+   "poster_path": "/jGNOsJjpsJ4yWe3InuiXgYk8VuW.jpg",
+   "production_countries": [
+    "MA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-10-22",
+   "revenue": 3020664,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Opportunity rocks where you least expect it.",
+   "title": "Rock the Kasbah",
+   "trailer": {
+    "key": "HOV14l58Ekg",
+    "name": "Rock The Kasbah \"Trailer 2\" #RockTheKasbah In Theaters October 23",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 388
   },
   "movie:26914": {
    "backdrop_path": "/tUpwbw38aR5Ka175adYtJViqcWR.jpg",
@@ -1638,6 +2002,138 @@
    "vote_average": 5.9,
    "vote_count": 467
   },
+  "movie:298614": {
+   "backdrop_path": "/srxYer1Xl8y7qcviSXqYfDjehL9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michel Leproux",
+     "n": "Christian Clavier"
+    },
+    {
+     "c": "Nathalie Leproux",
+     "n": "Carole Bouquet"
+    },
+    {
+     "c": "Elsa",
+     "n": "Valérie Bonneton"
+    },
+    {
+     "c": "Maria",
+     "n": "Rossy de Palma"
+    },
+    {
+     "c": "Pavel",
+     "n": "Stéphane De Groodt"
+    },
+    {
+     "c": "Sébastien Leproux",
+     "n": "Sébastien Castro"
+    },
+    {
+     "c": "Léo",
+     "n": "Arnaud Henriet"
+    },
+    {
+     "c": "Pierre",
+     "n": "Christian Charmetant"
+    },
+    {
+     "c": "Michel's Father",
+     "n": "Jean-Pierre Marielle"
+    },
+    {
+     "c": "L'antiquaire",
+     "n": "Béatrice Michel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "Patrice Leconte"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 298614,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Michel, who's crazy about jazz, has just found a rare album that he dreams of quietly listening to in his living room. But the world seems to have conspired against him: his wife chooses this moment to divulge an ill-timed revelation, his adult son makes a surprise visit, one of his friends knocks on the door, while his mother keeps calling him on his smartphone. Not to mention that today the residents in his apartment building are holding their annual House Party. Manipulative and a liar, Michel is ready to do anything to have a moment of peace and quiet. Is it still possible, in this day and age, to just have one hour of peace?",
+   "popularity": 0.986,
+   "poster_path": "/d5csriJUa3Evyv8r2IJANnuJlE.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-12-31",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "fr",
+    "pl",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Do Not Disturb",
+   "trailer": {
+    "key": "wUdRizsjkgQ",
+    "name": "Do Not Disturb / Une heure de tranquillité (2014) - Trailer English Subs",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 383
+  },
   "movie:33914": {
    "backdrop_path": "/r76QpU49VuKiMhJMx3PYDXmeQ8x.jpg",
    "budget": 0,
@@ -1769,6 +2265,152 @@
    "type": "movie",
    "vote_average": 6.935,
    "vote_count": 468
+  },
+  "movie:391714": {
+   "backdrop_path": "/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
+   "budget": 745971,
+   "cast": [
+    {
+     "c": "Florence Ponting",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Edward Mayhew",
+     "n": "Billy Howle"
+    },
+    {
+     "c": "Marjorie Mayhew",
+     "n": "Anne-Marie Duff"
+    },
+    {
+     "c": "Lionel Mayhew",
+     "n": "Adrian Scarborough"
+    },
+    {
+     "c": "Violet Ponting",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Geoffrey Ponting",
+     "n": "Samuel West"
+    },
+    {
+     "c": "Waiter One",
+     "n": "Andy Burse"
+    },
+    {
+     "c": "Waiter Two",
+     "n": "Rasmus Hardiker"
+    },
+    {
+     "c": "Harriet Mayhew",
+     "n": "Mia Burgess"
+    },
+    {
+     "c": "Anne Mayhew",
+     "n": "Anna Burgess"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dominic Cooke"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 391714,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1962 England, a young couple finds their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night.",
+   "popularity": 1.6905,
+   "poster_path": "/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-01-19",
+   "revenue": 3335913,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A different time. A different love.",
+   "title": "On Chesil Beach",
+   "trailer": {
+    "key": "ZR6DWDfMDlM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.127,
+   "vote_count": 399
   },
   "movie:395814": {
    "backdrop_path": "/3vSrGsnMjzAycIU80udh7NFAJkP.jpg",
@@ -1971,6 +2613,248 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 489
+  },
+  "movie:549514": {
+   "backdrop_path": "/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Valerie Quinlan",
+     "n": "Hilary Swank"
+    },
+    {
+     "c": "Derrick Tyler",
+     "n": "Michael Ealy"
+    },
+    {
+     "c": "Rafe Grimes",
+     "n": "Mike Colter"
+    },
+    {
+     "c": "Tracie Tyler",
+     "n": "Damaris Lewis"
+    },
+    {
+     "c": "Tyrin Abenathy",
+     "n": "Tyrin Turner"
+    },
+    {
+     "c": "Carter Heywood",
+     "n": "Danny Pino"
+    },
+    {
+     "c": "Bill Cranepool",
+     "n": "Geoffrey Owens"
+    },
+    {
+     "c": "Officer Lowe",
+     "n": "David Hoflin"
+    },
+    {
+     "c": "Officer Stallman",
+     "n": "Sam Daly"
+    },
+    {
+     "c": "Sports Star Cameo",
+     "n": "Lance Stephenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Deon Taylor"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 549514,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a wild one-night stand, successful sports agent Derrick Tyler watches his perfect life slowly disappear when he discovers the sexy and mysterious woman he risked everything for is determined police detective Valerie Quinlan who entangles him in her latest investigation. As he desperately tries to put the pieces together, he falls deeper into her trap, risking his family, his career, and even his life.",
+   "popularity": 2.3013,
+   "poster_path": "/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-12-18",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One mistake can change your life.",
+   "title": "Fatale",
+   "trailer": {
+    "key": "tPWURGgKJ7o",
+    "name": "Fatale (2020 Movie) Official Trailer – Hilary Swank, Michael Ealy",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.05,
+   "vote_count": 402
+  },
+  "movie:803114": {
+   "backdrop_path": "/eVSa4TpyXbOdk9fXSD6OcORJGtv.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Jaelyn",
+     "n": "Alicia Silverstone"
+    },
+    {
+     "c": "Kyle",
+     "n": "James Tupper"
+    },
+    {
+     "c": "Anne",
+     "n": "Deirdre O'Connell"
+    },
+    {
+     "c": "Fisherman",
+     "n": "Danny Chung"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Jennifer Mudge"
+    },
+    {
+     "c": "Tour Guide",
+     "n": "Kha Mai"
+    },
+    {
+     "c": "Tourist (uncredited)",
+     "n": "Kameron Hood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Le Van Kiet"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 803114,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.",
+   "popularity": 1.8996,
+   "poster_path": "/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-11-04",
+   "revenue": 130493,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Terror will surface.",
+   "title": "The Requin",
+   "trailer": {
+    "key": "kWXK5fibfko",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 387
   },
   "movie:96714": {
    "backdrop_path": "/6VKQ2ynCyPcrVIkP5S3cP3kcC7M.jpg",

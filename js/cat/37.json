@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 28,
+ "count": 36,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -118,6 +118,109 @@
    "type": "movie",
    "vote_average": 6.342,
    "vote_count": 479
+  },
+  "movie:10937": {
+   "backdrop_path": "/whKhDehBYjOlJboo3by0JTSQsjv.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Henry Chinaski",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Wanda Wilcox",
+     "n": "Faye Dunaway"
+    },
+    {
+     "c": "Tully Sorenson",
+     "n": "Alice Krige"
+    },
+    {
+     "c": "Detective",
+     "n": "Jack Nance"
+    },
+    {
+     "c": "Jim",
+     "n": "J.C. Quinn"
+    },
+    {
+     "c": "Eddie",
+     "n": "Frank Stallone Jr."
+    },
+    {
+     "c": "Janice",
+     "n": "Sandy Martin"
+    },
+    {
+     "c": "Lilly",
+     "n": "Roberta Bassin"
+    },
+    {
+     "c": "Grandma Moses",
+     "n": "Gloria LeRoy"
+    },
+    {
+     "c": "Ben",
+     "n": "Joe Unger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barbet Schroeder"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 10937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Downtrodden writer Henry and distressed goddess Wanda aren't exactly husband and wife: they're wedded to their bar stools. But, they like each other's company—and Barfly captures their giddy, gin-soaked attempts to make a go of life on the skids.",
+   "popularity": 1.7403,
+   "poster_path": "/uAsAVy7yoMZ2r5ZBQQXw4PKX3JY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-09-02",
+   "revenue": 3221568,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some people never go crazy. What truly horrible lives they must lead.",
+   "title": "Barfly",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 412
   },
   "movie:11337": {
    "backdrop_path": "/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
@@ -785,6 +888,121 @@
    "vote_average": 7.0,
    "vote_count": 28
   },
+  "movie:13937": {
+   "backdrop_path": "/49RkUuDWrsv5ba6525fAXG5g0Tg.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Carter Nix / Cain / Dr. Nix / Josh / Margo",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Jenny O'Keefe Nix",
+     "n": "Lolita Davidovich"
+    },
+    {
+     "c": "Jack Dante",
+     "n": "Steven Bauer"
+    },
+    {
+     "c": "Dr. Lynn Waldheim",
+     "n": "Frances Sternhagen"
+    },
+    {
+     "c": "Lt. Terri",
+     "n": "Gregg Henry"
+    },
+    {
+     "c": "Sgt, Cully",
+     "n": "Tom Bower"
+    },
+    {
+     "c": "Sarah",
+     "n": "Mel Harris"
+    },
+    {
+     "c": "Karen Bowman",
+     "n": "Teri Austin"
+    },
+    {
+     "c": "Nan",
+     "n": "Gabrielle Carteris"
+    },
+    {
+     "c": "Mack",
+     "n": "Barton Heyman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian De Palma"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 13937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Child psychologist Carter Nix is a loving and caring family man, but under this appearance lies a dark and troubled past. Grappling with the consequences of this past on his own psyche and the influence of his returning father and violent brother Cain, Carter becomes involved in a series of murders and kidnappings. Meanwhile, his wife Jenny rekindles an old love affair, placing herself in the crosshairs of her increasingly unstable husband.",
+   "popularity": 1.722,
+   "poster_path": "/5vRn138vnZeUNFe32qTuPGKkVLR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-08-07",
+   "revenue": 37170057,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Demented. Deranged. Deceptive. De Palma.",
+   "title": "Raising Cain",
+   "trailer": {
+    "key": "XczemP7GJvc",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.045,
+   "vote_count": 420
+  },
   "movie:1410937": {
    "backdrop_path": "/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
    "budget": 0,
@@ -1218,6 +1436,94 @@
    "vote_average": 7.881,
    "vote_count": 485
   },
+  "movie:23637": {
+   "backdrop_path": "/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marco Sperelli",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Preside",
+     "n": "Isa Danieli"
+    },
+    {
+     "c": "Ludovico Mazzullo",
+     "n": "Paolo Bonacelli"
+    },
+    {
+     "c": "Custode",
+     "n": "Gigio Morra"
+    },
+    {
+     "c": "Cartonaio",
+     "n": "Sergio Solli"
+    },
+    {
+     "c": "Zia Esterina",
+     "n": "Ester Carloni"
+    },
+    {
+     "c": "Sindaco Antonio Ruoppolo",
+     "n": "Mario Porfito"
+    },
+    {
+     "c": "Cecchina",
+     "n": "Filomena Lieto"
+    },
+    {
+     "c": "Angeluccia",
+     "n": "Alessandra Detora"
+    },
+    {
+     "c": "Autista",
+     "n": "Raffaele Gioia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lina Wertmüller"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 23637,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A bureaucratic snafu sends Marco Tullio Sperelli, a portly, middle-aged northern Italian, to teach third grade in a poor town outside Naples",
+   "popularity": 0.9158,
+   "poster_path": "/b4wZkB4FNUi7SK46Tw9kxT5oW8M.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1992-10-09",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ciao, Professore!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 408
+  },
   "movie:348537": {
    "backdrop_path": "/rvMBDR182O8S3CqXymi7GwX1ekF.jpg",
    "budget": 4500000,
@@ -1622,6 +1928,706 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 475
+  },
+  "movie:464737": {
+   "backdrop_path": "/i2697sDjW0k6fA9em7DmWK0nTq4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claudio Verona",
+     "n": "Alessandro Roia"
+    },
+    {
+     "c": "Marcello",
+     "n": "Claudio Camilli"
+    },
+    {
+     "c": "Marta",
+     "n": "Euridice Axén"
+    },
+    {
+     "c": "Sara",
+     "n": "Bianca Friscelli"
+    },
+    {
+     "c": "Silvia",
+     "n": "Benedetta Cimatti"
+    },
+    {
+     "c": "Giornalista",
+     "n": "Giada Caruso"
+    },
+    {
+     "c": "Autista Riccardo",
+     "n": "Roberto Scotto Pagliara"
+    },
+    {
+     "c": "Lorena (voce)",
+     "n": "Carolina Crescentini"
+    },
+    {
+     "c": "Stefano / Voci Infetti (voce)",
+     "n": "Massimo Triggiani"
+    },
+    {
+     "c": "Manutentore Ascensore (voce)",
+     "n": "Marco Manetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Daniele Misischia"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 464737,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A businessman gets stuck in his office elevator, but this nuisance soon turns into a nightmare, for in the outside world a zombie apocalypse has taken place...",
+   "popularity": 0.9598,
+   "poster_path": "/3CkfgStUa71puqG2S5NTRqArbf9.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-14",
+   "revenue": 185469,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The End?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 399
+  },
+  "movie:50037": {
+   "backdrop_path": "/ax9TM12FIYiEPOto4vDw5gLdGCU.jpg",
+   "budget": 1100000,
+   "cast": [
+    {
+     "c": "Barry Nyle",
+     "n": "Michael J. Rogers"
+    },
+    {
+     "c": "Elena",
+     "n": "Eva Bourne"
+    },
+    {
+     "c": "Mercurio Arboria",
+     "n": "Scott Hylands"
+    },
+    {
+     "c": "Rosemary Nyle",
+     "n": "Marilyn Norry"
+    },
+    {
+     "c": "Margo",
+     "n": "Rondel Reynoldson"
+    },
+    {
+     "c": "Sentionaut",
+     "n": "Ryley Zinger"
+    },
+    {
+     "c": "Skinny Hesher",
+     "n": "Gerry South"
+    },
+    {
+     "c": "Fat Hesher",
+     "n": "Chris Gauthier"
+    },
+    {
+     "c": "Mutant",
+     "n": "Geoffrey Conder"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Ronald Reagan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Panos Cosmatos"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 50037,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "In 1983, a young mute woman with psychic abilities is held captive within the Arboria Institute, a secluded futuristic facility overseen by a sinister doctor with an unraveling mind and a growing obsession with her.",
+   "popularity": 1.9168,
+   "poster_path": "/uhomcCTQ3lO8L6mLhkCMypsnroO.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-03",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beyond Science. Beyond Sanity. Beyond Control.",
+   "title": "Beyond the Black Rainbow",
+   "trailer": {
+    "key": "EyA_YuvvcxA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.638,
+   "vote_count": 431
+  },
+  "movie:545237": {
+   "backdrop_path": "/pbvsoMOOgzqJCpUCnHWwbZqw98D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rory O'Hara",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Allison O'Hara",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Ben O'Hara",
+     "n": "Charlie Shotwell"
+    },
+    {
+     "c": "Sam O'Hara",
+     "n": "Oona Roche"
+    },
+    {
+     "c": "Steve",
+     "n": "Adeel Akhtar"
+    },
+    {
+     "c": "Allison's Mum",
+     "n": "Wendy Crewson"
+    },
+    {
+     "c": "Rory's Mum",
+     "n": "Anne Reid"
+    },
+    {
+     "c": "Arthur Davis",
+     "n": "Michael Culkin"
+    },
+    {
+     "c": "Margy",
+     "n": "Tanya Allen"
+    },
+    {
+     "c": "Coach",
+     "n": "Tattiawna Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sean Durkin"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 545237,
+   "industry": "world",
+   "origin_country": [
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "Rory is an ambitious entrepreneur who brings his American wife and kids to his native country, England, to explore new business opportunities. After abandoning the sanctuary of their safe American suburban surroundings, the family is plunged into the despair of an archaic '80s Britain and their unaffordable new life in an English manor house threatens to destroy the family.",
+   "popularity": 2.7181,
+   "poster_path": "/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+   "production_countries": [
+    "CA",
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "MUBI"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-05-08",
+   "revenue": 1200000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Having it all is never enough.",
+   "title": "The Nest",
+   "trailer": {
+    "key": "svq5OzzT7s4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 396
+  },
+  "movie:68637": {
+   "backdrop_path": "/obP94bLjEXGFWQumzkKlBb9Fmzi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gustave Latouche / Ghislaine Latouche",
+     "n": "Élie Semoun"
+    },
+    {
+     "c": "Ghislaine Rateau",
+     "n": "Joséphine de Meaux"
+    },
+    {
+     "c": "Ducobu",
+     "n": "Vincent Claude"
+    },
+    {
+     "c": "Léonie Gratin",
+     "n": "Juliette Chappey"
+    },
+    {
+     "c": "Adeline Gratin",
+     "n": "Héléna Noguerra"
+    },
+    {
+     "c": "Hervé Ducobu",
+     "n": "Bruno Podalydès"
+    },
+    {
+     "c": "Karine",
+     "n": "Daphné Tarka"
+    },
+    {
+     "c": "Elvis",
+     "n": "Vincent N'Diaye"
+    },
+    {
+     "c": "Molas",
+     "n": "Vincent Scognamillo"
+    },
+    {
+     "c": "M. Busque",
+     "n": "Jean-François Gallotte"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Philippe de Chauveron"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 68637,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Ducoboo is a very inventive dunce and joker, he is very resourceful at finding new ways to copy from his neighbor, to cheat or to defy the teacher's authority.",
+   "popularity": 0.7171,
+   "poster_path": "/piVjl9Xhd6xeYxJnm7ifJaURjHd.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-06-22",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ducoboo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 425
+  },
+  "movie:740937": {
+   "backdrop_path": "/p30hhjHTRFA08f3Bo3GENQCu6ST.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Simone Veil (1968 - 2006)",
+     "n": "Elsa Zylberstein"
+    },
+    {
+     "c": "Simone Veil (1941 – 1962)",
+     "n": "Rebecca Marder"
+    },
+    {
+     "c": "Yvonne Jacob",
+     "n": "Élodie Bouchez"
+    },
+    {
+     "c": "Milou Jacob (1941-1952)",
+     "n": "Judith Chemla"
+    },
+    {
+     "c": "Antoine Veil (1974 - 2006)",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Antoine Veil (1946 - 1962)",
+     "n": "Mathieu Spinosi"
+    },
+    {
+     "c": "Marceline Rozenberg (1968 - 1979)",
+     "n": "Sylvie Testud"
+    },
+    {
+     "c": "Marceline Rozenberg (16 ans)",
+     "n": "Esther Valding"
+    },
+    {
+     "c": "André Perdriau",
+     "n": "Philippe Torreton"
+    },
+    {
+     "c": "Jean-Paul Davin",
+     "n": "Antoine Gouy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Olivier Dahan"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 740937,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Simone Veil's life story through the pivotal events of Twentieth Century. Her childhood, her political battles, her tragedies. An intimate and epic portrait of an extraordinary woman who eminently challenged and transformed her era defending a humanist message still keenly relevant today.",
+   "popularity": 1.1533,
+   "poster_path": "/yyN4d1pz2kd5TNSOKjdTU7aSn2e.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-12",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "We are responsible for what will unite us tomorrow",
+   "title": "Simone: Woman of the Century",
+   "trailer": {
+    "key": "cRbr8nDHr00",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 386
   },
   "movie:801937": {
    "backdrop_path": "/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",

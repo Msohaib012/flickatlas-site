@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 28,
+ "count": 32,
  "titles": {
   "movie:1043197": {
    "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
@@ -140,6 +140,219 @@
    "type": "movie",
    "vote_average": 6.679,
    "vote_count": 441
+  },
+  "movie:10697": {
+   "backdrop_path": "/tcsHNAMeZubqcAEbCQHd41WvEOA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Manie",
+     "n": "Agnès Jaoui"
+    },
+    {
+     "c": "Jean-Charles Castella",
+     "n": "Jean-Pierre Bacri"
+    },
+    {
+     "c": "Clara Devaux",
+     "n": "Anne Alvaro"
+    },
+    {
+     "c": "Bruno Deschamps",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Franck Moreno",
+     "n": "Gérard Lanvin"
+    },
+    {
+     "c": "Angélique",
+     "n": "Christiane Millet"
+    },
+    {
+     "c": "Antoine",
+     "n": "Wladimir Yordanoff"
+    },
+    {
+     "c": "Béatrice Castella",
+     "n": "Brigitte Catillon"
+    },
+    {
+     "c": "Benoît",
+     "n": "Raphaël Defour"
+    },
+    {
+     "c": "Valérie",
+     "n": "Anne Le Ny"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Agnès Jaoui"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 10697,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Unpolished and ultra-pragmatic industrialist Jean-Jacques Castella reluctantly attends Racine's tragedy \"Berenice\" in order to see his niece play a bit part. He is taken with the play's strangely familiar-looking leading lady Clara Devaux. During the course of the show, Castella soon remembers that he once hired and then promptly fired the actress as an English language tutor. He immediately goes out and signs up for language lessons. Thinking that he is nothing but an ill-tempered philistine with bad taste, Clara rejects him until Castella charms her off her feet.",
+   "popularity": 1.3918,
+   "poster_path": "/k9R6Omadvp57EoQ4x9nNneig1Nv.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-03-01",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Taste of Others",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 388
+  },
+  "movie:11197": {
+   "backdrop_path": "/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Erik Ponti",
+     "n": "Andreas Wilson"
+    },
+    {
+     "c": "Pierre Tanguy",
+     "n": "Henrik Lundström"
+    },
+    {
+     "c": "Otto Silverhielm",
+     "n": "Gustaf Skarsgård"
+    },
+    {
+     "c": "Marja",
+     "n": "Linda Zilliacus"
+    },
+    {
+     "c": "Dahlén",
+     "n": "Jesper Salén"
+    },
+    {
+     "c": "Melander",
+     "n": "Mats Bergman"
+    },
+    {
+     "c": "Eriks styvfar",
+     "n": "Johan Rabaeus"
+    },
+    {
+     "c": "Fru Ponti, Eriks mor",
+     "n": "Marie Richardson"
+    },
+    {
+     "c": "Rektor Lindblad",
+     "n": "Lennart Hjulström"
+    },
+    {
+     "c": "Rektor",
+     "n": "Björn Granath"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mikael Håfström"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11197,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "Stockholm, in the 1950s.  Erik is expelled from the local school for getting into one brawl too many. To protect Erik from his violent stepfather’s reaction to his expulsion, Erik's mother arranges for Erik to spend a year at Stjärnsberg Boarding School, the only school willing to accept him. This is Erik's last chance to graduate to Upper School and he promises his mother, for his and her sake, to do all he can to stay out of trouble.",
+   "popularity": 2.2514,
+   "poster_path": "/1qqI4qh3VP7jUBRTGsIxh1miNKJ.jpg",
+   "production_countries": [
+    "SE",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-16",
+   "revenue": 12469000,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "It's time to take a stand.",
+   "title": "Evil",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.331,
+   "vote_count": 426
   },
   "movie:13997": {
    "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
@@ -367,6 +580,107 @@
    "type": "movie",
    "vote_average": 3.422,
    "vote_count": 193
+  },
+  "movie:14197": {
+   "backdrop_path": "/evZEvYmaC7dZknqsXPyIjonLvBA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jordan Roark",
+     "n": "Elisha Cuthbert"
+    },
+    {
+     "c": "Charlie Bellow",
+     "n": "Jesse Bradford"
+    },
+    {
+     "c": "Leo",
+     "n": "Austin Basis"
+    },
+    {
+     "c": "Dr. Roark",
+     "n": "Chris Sarandon"
+    },
+    {
+     "c": "Roger Bellow",
+     "n": "Jay Patterson"
+    },
+    {
+     "c": "Old Man",
+     "n": "Tom Aldredge"
+    },
+    {
+     "c": "Doorman",
+     "n": "Louis Mustillo"
+    },
+    {
+     "c": "Soldier",
+     "n": "Stark Sands"
+    },
+    {
+     "c": "Kitty / Aunt Sally",
+     "n": "Joanna Gleason"
+    },
+    {
+     "c": "Mr. Phipps",
+     "n": "Brian Reddy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Yann Samuell"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 14197,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A guy has his life planned out until he is wooed, groomed and then dumped by an elusive woman.",
+   "popularity": 2.0335,
+   "poster_path": "/2cJWaUNdyNpd86CzdU6jUnbfxMq.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-05-26",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's beautiful, smart, funny and totally crazy.",
+   "title": "My Sassy Girl",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.805,
+   "vote_count": 430
   },
   "movie:1550797": {
    "backdrop_path": "/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
@@ -692,6 +1006,101 @@
    "type": "movie",
    "vote_average": 8.6,
    "vote_count": 209
+  },
+  "movie:19597": {
+   "backdrop_path": "/brOMTLeCIz0LBt4jxMp1658aT45.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Renée Michel",
+     "n": "Josiane Balasko"
+    },
+    {
+     "c": "Paloma Josse",
+     "n": "Garance Le Guillermic"
+    },
+    {
+     "c": "Kakuro Ozu",
+     "n": "Togo Igawa"
+    },
+    {
+     "c": "Solange Josse",
+     "n": "Anne Brochet"
+    },
+    {
+     "c": "Manuela Lopez",
+     "n": "Ariane Ascaride"
+    },
+    {
+     "c": "Paul Josse",
+     "n": "Wladimir Yordanoff"
+    },
+    {
+     "c": "Colombe Josse",
+     "n": "Sarah Le Picard"
+    },
+    {
+     "c": "Jean-Pierre, tramp",
+     "n": "Jean-Luc Porraz"
+    },
+    {
+     "c": "Mrs. Meurisse",
+     "n": "Mona Heftre"
+    },
+    {
+     "c": "Mrs. de Broglie",
+     "n": "Gisèle Casadesus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "9",
+   "date_kind": "release",
+   "director": [
+    "Mona Achache"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 19597,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paloma is a serious and highly articulate but deeply bored 11-year-old who has decided to kill herself on her 12th birthday. Fascinated by art and philosophy, she questions and documents her life and immediate circle, drawing trenchant and often hilarious observations on the world around her. But as her appointment with death approaches, Paloma finally meets some kindred spirits in her building's grumpy janitor and an enigmatic, elegant neighbor, both of whom inspire Paloma to question her rather pessimistic outlook on life.",
+   "popularity": 0.9799,
+   "poster_path": "/dGV6PP3m871ur8pUFWR3NUysTi2.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2009-07-01",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Let Life In.",
+   "title": "The Hedgehog",
+   "trailer": {
+    "key": "oQFTEv_41HY",
+    "name": "Le Herisson (the Hedgehog) Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 430
   },
   "movie:19997": {
    "backdrop_path": "/ctUWlPJ0jLYkwyXjvofdQjtRdgu.jpg",

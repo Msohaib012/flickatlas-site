@@ -1,7 +1,71 @@
 {
  "bucket": "94",
- "count": 36,
+ "count": 44,
  "titles": {
+  "movie:10694": {
+   "d": "The Chase (1994): Adventure/Comedy film. Story: Jack Hammond is sentenced to life in prison, but… See cast, budget $26M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
+   "industry": "world",
+   "k": "The Chase, The Chase movie, The Chase cast, The Chase story, The Chase box office collection, The Chase budget, The Chase review, The Chase rating, The Chase release date, The Chase Adventure, The Chase Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlie Sheen"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristy Swanson"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Rollins"
+     },
+     {
+      "@type": "Person",
+      "name": "Rocky Carroll"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Wise"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 409,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Chase (1994): Adventure/Comedy film. Story: Jack Hammond is sentenced to life in prison, but… See cast, budget $26M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam Rifkin"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10694",
+    "name": "The Chase",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-03-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10694"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Chase (1994)</h1>\n<p class=\"ssr-lead\">Jack Hammond is sentenced to life in prison, but manages to escape. To get away from the police he takes a girl as hostage and drives off in her car. The girl happens to be the only daughter of one of the richest men in the state. In a while the car chase is being broadcast live on every TV-channel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 March 1994</li><li>Runtime: 89 minutes</li><li>Director: Adam Rifkin</li><li>Genres: Adventure, Comedy, Action, Crime</li><li>Budget: $26M</li><li>TMDB rating: 5.8/10 (409 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Sheen as Jackson Hammond</li><li>Kristy Swanson as Natalie Voss</li><li>Henry Rollins as Officer Dobbs (lead chase car driver)</li><li>Rocky Carroll as Byron Wilder (Channel 8 traffic reporter)</li><li>Ray Wise as Dalton Voss</li><li>Cary Elwes as Steve Horsegroovy</li><li>Flea as Dale</li><li>Anthony Kiedis as Will</li><li>Marshall Bell as Ari Josephson</li><li>Ron Jeremy as Channel 3 Cameraman</li></ul>\n</article>",
+   "t": "The Chase (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:10994": {
    "d": "White Oleander (2002): Drama film. Story: A teenager journeys through a series of foster homes… See cast, budget $16M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/yB252zjuN70KFyOUY7MFTfqGa1C.jpg",
@@ -64,6 +128,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>White Oleander (2002)</h1>\n<p class=\"ssr-lead\">A teenager journeys through a series of foster homes after her mother goes to prison for committing a crime of passion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2002</li><li>Runtime: 109 minutes</li><li>Director: Peter Kosminsky</li><li>Genres: Drama</li><li>Budget: $16M</li><li>TMDB rating: 7.0/10 (442 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alison Lohman as Astrid Magnussen</li><li>Michelle Pfeiffer as Ingrid Magnussen</li><li>Renée Zellweger as Claire Richards</li><li>Robin Wright as Starr</li><li>Cole Hauser as Ray</li><li>Melissa McCarthy as Paramedic</li><li>Taryn Manning as Niki</li><li>John Billingsley as Paramedic</li><li>Solomon Burke Jr. as Guard</li><li>Melissa Marsala as Julie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "White Oleander (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:1114894": {
+   "d": "Star Trek: Section 31 (2025): Science Fiction/Adventure film. Story: Emperor Philippa Georgiou joins a secret division of… See cast and TMDB rating 4.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+   "industry": "world",
+   "k": "Star Trek: Section 31, Star Trek: Section 31 movie, Star Trek: Section 31 cast, Star Trek: Section 31 story, Star Trek: Section 31 box office collection, Star Trek: Section 31 budget, Star Trek: Section 31 review, Star Trek: Section 31 rating, Star Trek: Section 31 release date, Star Trek: Section 31 trailer, Star Trek: Section 31 Science Fiction, Star Trek: Section 31 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Yeoh"
+     },
+     {
+      "@type": "Person",
+      "name": "Omari Hardwick"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kacey Rohl"
+     },
+     {
+      "@type": "Person",
+      "name": "Sven Ruygrok"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Star Trek: Section 31 (2025): Science Fiction/Adventure film. Story: Emperor Philippa Georgiou joins a secret division of… See cast and TMDB rating 4.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olatunde Osunsanmi"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1114894",
+    "name": "Star Trek: Section 31",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1114894"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star Trek: Section 31 (2025)</h1>\n<p class=\"ssr-lead\">Emperor Philippa Georgiou joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2025</li><li>Runtime: 96 minutes</li><li>Director: Olatunde Osunsanmi</li><li>Genres: Science Fiction, Adventure, Action</li><li>TMDB rating: 4.6/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Yeoh as Philippa Georgiou</li><li>Omari Hardwick as Alok Sahar</li><li>Sam Richardson as Quasi</li><li>Kacey Rohl as Rachel Garrett</li><li>Sven Ruygrok as Fuzz</li><li>Robert Kazinsky as Zeph</li><li>Humberly González as Melle</li><li>James Hiroyuki Liao as San</li><li>Miku Martineau as Young Georgiou</li><li>Augusto Bitter as Virgil</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Star Trek: Section 31 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:11194": {
    "d": "Touching the Void (2003): Documentary/Action film. Story: The true story of Joe Simpson and Simon Yates'… See cast and TMDB rating 7.6/10.",
@@ -575,6 +703,70 @@
    "t": "LEGO Star Wars: The Mandalorian (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17894": {
+   "d": "The Beautician and the Beast (1997): Comedy/Romance film. Story: A New York City beautician is mistakenly hired as the… See cast and budget $16M.",
+   "img": "https://image.tmdb.org/t/p/w780/9OIONHl9OBmQLbUHaPcnNtEDvF0.jpg",
+   "industry": "world",
+   "k": "The Beautician and the Beast, The Beautician and the Beast movie, The Beautician and the Beast cast, The Beautician and the Beast story, The Beautician and the Beast box office collection, The Beautician and the Beast budget, The Beautician and the Beast review, The Beautician and the Beast rating, The Beautician and the Beast release date, The Beautician and the Beast trailer, The Beautician and the Beast Comedy, The Beautician and the Beast Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fran Drescher"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Dalton"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Lerner"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McNeice"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Malahide"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Beautician and the Beast (1997): Comedy/Romance film. Story: A New York City beautician is mistakenly hired as the… See cast and budget $16M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Kwapis"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9OIONHl9OBmQLbUHaPcnNtEDvF0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17894",
+    "name": "The Beautician and the Beast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17894"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Beautician and the Beast (1997)</h1>\n<p class=\"ssr-lead\">A New York City beautician is mistakenly hired as the school teacher for the children of the president of a small Eastern European country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 1997</li><li>Runtime: 105 minutes</li><li>Director: Ken Kwapis</li><li>Genres: Comedy, Romance, Family</li><li>Budget: $16M</li><li>TMDB rating: 6.7/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fran Drescher as Joy Miller</li><li>Timothy Dalton as Boris Pochenko</li><li>Michael Lerner as Jerry Miller</li><li>Ian McNeice as Ira Grushinsky</li><li>Patrick Malahide as Leonid Kleist</li><li>Lisa Jakub as Katrina Pochenko</li><li>Tamara Mello as Consuela</li><li>Phyllis Newman as Judy Miller</li><li>Heather DeLoach as Masha Pochenko</li><li>Adam LaVorgna as Karl Pochenko</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Beautician and the Beast (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:180894": {
    "d": "Ninja: Shadow of a Tear (2013): Action/Crime film. Story: Fight everyone and trust no one: it's the code of… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/7Q67AjYx1EUC5lopy51wxgES6ap.jpg",
@@ -701,6 +893,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Labor Pains (2009)</h1>\n<p class=\"ssr-lead\">A young woman pretends to be pregnant in order to avoid being fired from her job. When that gets her a bunch of special treatment by everyone involved in her life, she tries to keep up the lie for nine months.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2009</li><li>Runtime: 89 minutes</li><li>Director: Lara Shapiro</li><li>Genres: Comedy</li><li>Budget: $10M</li><li>TMDB rating: 5.4/10 (467 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lindsay Lohan as Thea Dixon</li><li>Luke Kirby as Nick Steinwald</li><li>Chris Parnell as Jerry Steinwald</li><li>Aaron Yoo as Miles</li><li>Bridgit Mendler as Emma</li><li>Tracee Ellis Ross as Kristin</li><li>Kevin Covais as Greg</li><li>Bonnie Somerville as Suzie Cavandish</li><li>Cheryl Hines as Lisa DePardo</li><li>Creed Bratton as Abbott</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, History Vault, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Labor Pains (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:26594": {
+   "d": "The Secret (2006): Documentary film. Story: Interviews with leading authors, philosophers and… See cast, budget $3.5M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
+   "industry": "world",
+   "k": "The Secret, The Secret movie, The Secret cast, The Secret story, The Secret box office collection, The Secret budget, The Secret review, The Secret rating, The Secret release date, The Secret Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bob Proctor"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Vitale"
+     },
+     {
+      "@type": "Person",
+      "name": "John Assaraf"
+     },
+     {
+      "@type": "Person",
+      "name": "Loral Langemeier"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie Diamond"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 401,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Secret (2006): Documentary film. Story: Interviews with leading authors, philosophers and… See cast, budget $3.5M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Drew Heriot"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26594",
+    "name": "The Secret",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26594"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Secret (2006)</h1>\n<p class=\"ssr-lead\">Interviews with leading authors, philosophers and scientists, with an in-depth discussion of the Law of Attraction. The audience is shown how they can learn and use &#x27;The Secret&#x27; in their everyday lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2006</li><li>Runtime: 90 minutes</li><li>Director: Drew Heriot</li><li>Genres: Documentary</li><li>Budget: $3.5M</li><li>TMDB rating: 6.6/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bob Proctor as Self - Philosopher</li><li>Joe Vitale as Self - Metaphysician</li><li>John Assaraf as Self - Entrepreneur</li><li>Loral Langemeier as Self - Financial Strategist</li><li>Marie Diamond as Self - Feng Shui Consultant</li><li>Neale Donald Walsch as Self - Author</li><li>Jack Canfield as Self - Author</li><li>James Arthur Ray as Self - Philosopher</li><li>Bob Boyle as Self - Author</li><li>Mike Dooley as Self - Writer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Secret (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:28794": {
    "d": "The House by the Cemetery (1981): Horror film. Story: After a doctor kills his mistress and himself while… See cast, budget $785.0k, and TMDB rating 6.3/10.",
@@ -829,6 +1084,70 @@
    "t": "The Odyssey (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:334394": {
+   "d": "Baskin (2015): Horror/Thriller film. Story: A squad of unsuspecting cops go through a trapdoor to… See cast, budget $350.0k, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uxrsznMDPgsGDqiZ7UkkFgBEglM.jpg",
+   "industry": "world",
+   "k": "Baskin, Baskin movie, Baskin cast, Baskin story, Baskin box office collection, Baskin budget, Baskin review, Baskin rating, Baskin release date, Baskin trailer, Baskin Horror, Baskin Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mehmet Cerrahoglu"
+     },
+     {
+      "@type": "Person",
+      "name": "Görkem Kasal"
+     },
+     {
+      "@type": "Person",
+      "name": "Ergun Kuyucu"
+     },
+     {
+      "@type": "Person",
+      "name": "Muharrem Bayrak"
+     },
+     {
+      "@type": "Person",
+      "name": "Fatih Dokgöz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Baskin (2015): Horror/Thriller film. Story: A squad of unsuspecting cops go through a trapdoor to… See cast, budget $350.0k, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Can Evrenol"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uxrsznMDPgsGDqiZ7UkkFgBEglM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=334394",
+    "name": "Baskin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-12-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=334394"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baskin (2015)</h1>\n<p class=\"ssr-lead\">A squad of unsuspecting cops go through a trapdoor to Hell when they stumble upon a Black Mass in an abandoned building.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 December 2015</li><li>Runtime: 97 minutes</li><li>Director: Can Evrenol</li><li>Genres: Horror, Thriller</li><li>Budget: $350.0k</li><li>TMDB rating: 5.9/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mehmet Cerrahoglu as Baba / The Father</li><li>Görkem Kasal as Arda</li><li>Ergun Kuyucu as Remzi</li><li>Muharrem Bayrak as Yavuz</li><li>Fatih Dokgöz as Apo</li><li>Sabahattin Yakut as Sabo</li><li>Berat Efe Parlar as Young Arda</li><li>Şevket Süha Tezel as Father&#x27;s Servant / Master Creep</li><li>Seyithan Özdemir as Tall Man</li><li>Sevinc Kaya as Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, YouTube TV, Shudder, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Baskin (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:369894": {
    "d": "Wakefield (2017): Drama film. Story: A man's nervous breakdown causes him to leave his… See cast, TMDB rating 6.1/10, and release date 6 July 2017.",
    "img": "https://image.tmdb.org/t/p/w780/a0jV1eyShyfovNmk1FIMBZYx8zV.jpg",
@@ -892,6 +1211,70 @@
    "t": "Wakefield (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:396194": {
+   "d": "Ennio (2022): Documentary/Music film. Story: A portrait of Ennio Morricone, the most popular and… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+   "industry": "world",
+   "k": "Ennio, Ennio movie, Ennio cast, Ennio story, Ennio box office collection, Ennio budget, Ennio review, Ennio rating, Ennio release date, Ennio trailer, Ennio Documentary, Ennio Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ennio Morricone"
+     },
+     {
+      "@type": "Person",
+      "name": "Silvano Agosti"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Alessandroni"
+     },
+     {
+      "@type": "Person",
+      "name": "Fausto Ancillai"
+     },
+     {
+      "@type": "Person",
+      "name": "Dario Argento"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Ennio (2022): Documentary/Music film. Story: A portrait of Ennio Morricone, the most popular and… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Giuseppe Tornatore"
+     }
+    ],
+    "duration": "PT156M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=396194",
+    "name": "Ennio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=396194"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ennio (2022)</h1>\n<p class=\"ssr-lead\">A portrait of Ennio Morricone, the most popular and prolific film composer of the 20th century, the one most loved by the international public, a two-time Oscar winner and the author of over five hundred unforgettable scores.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2022</li><li>Runtime: 156 minutes</li><li>Director: Giuseppe Tornatore</li><li>Genres: Documentary, Music, History</li><li>TMDB rating: 8.3/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ennio Morricone as Self</li><li>Silvano Agosti as Self</li><li>Alessandro Alessandroni as Self</li><li>Fausto Ancillai as Self</li><li>Dario Argento as Self</li><li>Joan Baez as Self</li><li>Sergio Bassetti as Self</li><li>Bruno Battisti D&#x27;Amario as Self</li><li>Marco Bellocchio as Self</li><li>Bernardo Bertolucci as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Brew, MUBI, OVID, MUBI Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ennio (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:485894": {
    "d": "Naples in Veils (2017): Thriller film. Story: In a Naples suspended between magic and superstition… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/mUoRmzM8HOQVPUpHgSG3cO92rJH.jpg",
@@ -954,6 +1337,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Naples in Veils (2017)</h1>\n<p class=\"ssr-lead\">In a Naples suspended between magic and superstition, madness and rationality, a mystery envelops the existence of Adriana, overwhelmed by a sudden love and a violent crime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 December 2017</li><li>Runtime: 113 minutes</li><li>Director: Ferzan Özpetek</li><li>Genres: Thriller</li><li>TMDB rating: 6.2/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Giovanna Mezzogiorno as Adriana / Isabella</li><li>Alessandro Borghi as Andrea Galderisi / Luca</li><li>Anna Bonaiuto as Adele</li><li>Peppe Barra as Pasquale</li><li>Biagio Forestieri as Antonio</li><li>Lina Sastri as Ludovica</li><li>Isabella Ferrari as Valeria</li><li>Luisa Ranieri as Catena</li><li>Maria Pia Calzone as Rosaria</li><li>Carmine Recano as Domenico</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "Naples in Veils (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:649394": {
+   "d": "Worth (2021): History/Drama film. Story: Kenneth Feinberg, a powerful D.C. lawyer appointed… See cast, TMDB rating 6.7/10, and release date 21 July 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/AbDiTqEu8hVA6a9BaD1mciHRkLk.jpg",
+   "industry": "world",
+   "k": "Worth, Worth movie, Worth cast, Worth story, Worth box office collection, Worth budget, Worth review, Worth rating, Worth release date, Worth trailer, Worth History, Worth Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Ryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Stanley Tucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Tate Donovan"
+     },
+     {
+      "@type": "Person",
+      "name": "Shunori Ramanathan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Worth (2021): History/Drama film. Story: Kenneth Feinberg, a powerful D.C. lawyer appointed… See cast, TMDB rating 6.7/10, and release date 21 July 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sara Colangelo"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AbDiTqEu8hVA6a9BaD1mciHRkLk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=649394",
+    "name": "Worth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=649394"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Worth (2021)</h1>\n<p class=\"ssr-lead\">Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 2021</li><li>Runtime: 118 minutes</li><li>Director: Sara Colangelo</li><li>Genres: History, Drama</li><li>TMDB rating: 6.7/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Keaton as Kenneth Feinberg</li><li>Amy Ryan as Camille Biros</li><li>Stanley Tucci as Charles Wolf</li><li>Tate Donovan as Lee Quinn</li><li>Shunori Ramanathan as Priya Khundi</li><li>Talia Balsam as Dede Feinberg</li><li>Laura Benanti as Karen Donato</li><li>Chris Tardio as Frank Donato</li><li>Ato Blankson-Wood as Darryl Barnes</li><li>Carolyn Mignini as Gloria Toms</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Worth (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:7294": {
    "d": "The Man Without a Past (2002): Drama/Romance film. Story: Arriving in Helsinki, a nameless man is beaten within… See cast and TMDB rating 7.4/10.",
@@ -1082,6 +1529,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Apparition (2012)</h1>\n<p class=\"ssr-lead\">Plagued by frightening occurrences in their home, Kelly and Ben learn that a university&#x27;s parapsychology experiment produced an entity that is now haunting them. The malevolent spirit feeds on fear and torments the couple no matter where they run. Desperate, Kelly and Ben turn to a paranormal researcher, but even with his aid, it may already be too late to save themselves from the terrifying presence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 2012</li><li>Runtime: 82 minutes</li><li>Director: Todd Lincoln</li><li>Genres: Horror, Thriller</li><li>Budget: $17M</li><li>TMDB rating: 4.5/10 (484 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashley Greene as Kelly</li><li>Sebastian Stan as Ben Curtis</li><li>Tom Felton as Patrick</li><li>Julianna Guill as Lydia</li><li>Anna Clark as Maggie</li><li>Suzanne Ford as Mrs. Henley</li><li>Rick Gomez as Mike</li><li>Luke Pasqualino as Greg</li><li>Melissa Goldberg as Fast Food Girl</li><li>Tim Williams as Office Executive</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Apparition (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:797394": {
+   "d": "Secret Magic Control Agency (2021): Animation/Comedy film. Story: The Secret Magic Control Agency sends its two best… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+   "industry": "world",
+   "k": "Secret Magic Control Agency, Secret Magic Control Agency movie, Secret Magic Control Agency cast, Secret Magic Control Agency story, Secret Magic Control Agency box office collection, Secret Magic Control Agency budget, Secret Magic Control Agency review, Secret Magic Control Agency rating, Secret Magic Control Agency release date, Secret Magic Control Agency trailer, Secret Magic Control Agency Animation, Secret Magic Control Agency Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Valery Smekalov"
+     },
+     {
+      "@type": "Person",
+      "name": "Irina Obrezkova"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexey Makretsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Regina Shchukina"
+     },
+     {
+      "@type": "Person",
+      "name": "Kseniya Brzhezovskaya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Secret Magic Control Agency (2021): Animation/Comedy film. Story: The Secret Magic Control Agency sends its two best… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aleksey Tsitsilin"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=797394",
+    "name": "Secret Magic Control Agency",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=797394"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Secret Magic Control Agency (2021)</h1>\n<p class=\"ssr-lead\">The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2021</li><li>Runtime: 104 minutes</li><li>Director: Aleksey Tsitsilin</li><li>Genres: Animation, Comedy, Fantasy</li><li>TMDB rating: 7.0/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valery Smekalov as Hansel (voice)</li><li>Irina Obrezkova as Gretel (voice)</li><li>Alexey Makretsky as King (voice)</li><li>Regina Shchukina as Stepmother (voice)</li><li>Kseniya Brzhezovskaya as Ilvira (voice)</li><li>Julia Zorkina as Baba Yaga (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Secret Magic Control Agency (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:8094": {
    "d": "The Magdalene Sisters (2002): Drama/History film. Story: Three young Irish women struggle to maintain their… See cast, budget $5M, and TMDB rating 7.4/10.",

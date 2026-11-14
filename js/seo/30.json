@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 34,
+ "count": 38,
  "titles": {
   "movie:1024530": {
    "d": "Grimcutty (2022): Horror film. Story: A suburban teen girl and her little brother must stop… See cast, TMDB rating 5.0/10, and release date 10 October 2022.",
@@ -312,6 +312,142 @@
    "t": "Chers parents (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13830": {
+   "d": "Shottas (2002): Action/Adventure film. Story: A raw urban drama about two friends raised on the… See cast, budget $200.0k, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yYSaRwOQsX033pxCCjgw04FP1YY.jpg",
+   "industry": "world",
+   "k": "Shottas, Shottas movie, Shottas cast, Shottas story, Shottas box office collection, Shottas budget, Shottas review, Shottas rating, Shottas release date, Shottas trailer, Shottas Action, Shottas Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ky-Mani Marley"
+     },
+     {
+      "@type": "Person",
+      "name": "Spragga Benz"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Louie Rankin"
+     },
+     {
+      "@type": "Person",
+      "name": "Wyclef Jean"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 391,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Shottas (2002): Action/Adventure film. Story: A raw urban drama about two friends raised on the… See cast, budget $200.0k, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cess Silvera"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Doench"
+     },
+     {
+      "@type": "Person",
+      "name": "Lyndale V. Pettus"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yYSaRwOQsX033pxCCjgw04FP1YY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13830",
+    "name": "Shottas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13830"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shottas (2002)</h1>\n<p class=\"ssr-lead\">A raw urban drama about two friends raised on the dangerous streets of Kingston, Jamaica. Biggs and Wayne take on the &quot;Shotta&quot; way of life to survive. As young boys, they begin a life of crime, eventually moving to the US where they begin a ruthless climb from the bottom. They remain bound to each other by their shottas loyalty as they aggressively take control of the Jamaican underworld.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2002</li><li>Runtime: 95 minutes</li><li>Director: Cess Silvera, Adam Doench, Lyndale V. Pettus</li><li>Genres: Action, Adventure, Crime, Drama</li><li>Budget: $200.0k</li><li>TMDB rating: 7.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ky-Mani Marley as Biggs</li><li>Spragga Benz as Wayne</li><li>Paul Campbell as Mad Max</li><li>Louie Rankin as Teddy Bruckshut</li><li>Wyclef Jean as Richie Effs</li><li>Screechie Bop as Gussy</li><li>San San as Raquel</li><li>Jabba as Dangles</li><li>Assassin as Blacka</li><li>Beast as Sealy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Shottas (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:14030": {
+   "d": "Hello, Dolly! (1969): Comedy/Romance film. Story: Dolly Levi is a strong-willed matchmaker who travels… See cast, budget $24M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ybi3LVVyXVRQUDz9xos2YM24Gnj.jpg",
+   "industry": "world",
+   "k": "Hello, Dolly!, Hello, Dolly! movie, Hello, Dolly! cast, Hello, Dolly! story, Hello, Dolly! box office collection, Hello, Dolly! budget, Hello, Dolly! review, Hello, Dolly! rating, Hello, Dolly! release date, Hello, Dolly! Comedy, Hello, Dolly! Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barbra Streisand"
+     },
+     {
+      "@type": "Person",
+      "name": "Walter Matthau"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Crawford"
+     },
+     {
+      "@type": "Person",
+      "name": "Marianne McAndrew"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Lockin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 409,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Hello, Dolly! (1969): Comedy/Romance film. Story: Dolly Levi is a strong-willed matchmaker who travels… See cast, budget $24M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gene Kelly"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ybi3LVVyXVRQUDz9xos2YM24Gnj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14030",
+    "name": "Hello, Dolly!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1969-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14030"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hello, Dolly! (1969)</h1>\n<p class=\"ssr-lead\">Dolly Levi is a strong-willed matchmaker who travels to Yonkers, New York in order to see the miserly &quot;well-known unmarried half-a-millionaire&quot; Horace Vandergelder. In doing so, she convinces his niece, his niece&#x27;s intended, and Horace&#x27;s two clerks to travel to New York City.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 1969</li><li>Runtime: 148 minutes</li><li>Director: Gene Kelly</li><li>Genres: Comedy, Romance</li><li>Budget: $24M</li><li>TMDB rating: 7.0/10 (409 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barbra Streisand as Dolly Levi</li><li>Walter Matthau as Horace Vandergelder</li><li>Michael Crawford as Cornelius Hackl</li><li>Marianne McAndrew as Irene Molloy</li><li>Danny Lockin as Barnaby Tucker</li><li>E.J. Peaker as Minnie Fay</li><li>Joyce Ames as Ermengarde</li><li>Tommy Tune as Ambrose Kemper</li><li>Judy Knaiz as Gussie Granger</li><li>David Hurst as Rudolph Reisenweber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Hello, Dolly! (1969) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1969"
+  },
   "movie:1439930": {
    "d": "The Punisher: One Last Kill (2026): Action/Drama film. Story: As Frank Castle searches for meaning beyond revenge… See cast and TMDB rating 8.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
@@ -567,6 +703,70 @@
    "t": "THE RIBBON HERO (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:18030": {
+   "d": "Kiss Me Deadly (1955): Mystery/Thriller film. Story: One evening, Hammer gives a ride to Christina, an… See cast, budget $410.0k, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/znL0K0hPJndT7IAddNWBfAEYSRC.jpg",
+   "industry": "world",
+   "k": "Kiss Me Deadly, Kiss Me Deadly movie, Kiss Me Deadly cast, Kiss Me Deadly story, Kiss Me Deadly box office collection, Kiss Me Deadly budget, Kiss Me Deadly review, Kiss Me Deadly rating, Kiss Me Deadly release date, Kiss Me Deadly trailer, Kiss Me Deadly Mystery, Kiss Me Deadly Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ralph Meeker"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Dekker"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Juano Hernandez"
+     },
+     {
+      "@type": "Person",
+      "name": "Wesley Addy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Kiss Me Deadly (1955): Mystery/Thriller film. Story: One evening, Hammer gives a ride to Christina, an… See cast, budget $410.0k, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Aldrich"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/znL0K0hPJndT7IAddNWBfAEYSRC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18030",
+    "name": "Kiss Me Deadly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1955-04-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18030"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kiss Me Deadly (1955)</h1>\n<p class=\"ssr-lead\">One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that &quot;something big&quot; is behind it all, decides to pursue the case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 1955</li><li>Runtime: 106 minutes</li><li>Director: Robert Aldrich</li><li>Genres: Mystery, Thriller, Crime</li><li>Budget: $410.0k</li><li>TMDB rating: 7.2/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ralph Meeker as Mike Hammer</li><li>Albert Dekker as Dr. G.E. Soberin</li><li>Paul Stewart as Carl Evello</li><li>Juano Hernandez as Eddie Yeager</li><li>Wesley Addy as Lt. Pat Murphy</li><li>Marian Carr as Friday</li><li>Maxine Cooper as Velda</li><li>Cloris Leachman as Christina Bailey</li><li>Gaby Rodgers as Lily Carver</li><li>Nick Dennis as Nick</li></ul>\n</article>",
+   "t": "Kiss Me Deadly (1955) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1955"
+  },
   "movie:238930": {
    "d": "Brain Drain (2013): Comedy film. Story: Five friends forge their resumes and enroll to Oxford… See cast, TMDB rating 3.9/10, and release date 21 November 2013.",
    "img": "https://image.tmdb.org/t/p/w780/4iiIIBk4Aw2GpSfrkvk8GWiwOxd.jpg",
@@ -692,6 +892,73 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tremors 5: Bloodlines (2015)</h1>\n<p class=\"ssr-lead\">When Gummer is hired to capture a deadly creature terrorizing South Africa, he and his new sidekick, Travis Welker, engage in another battle of survival against the fiercely aggressive Graboids.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 2015</li><li>Runtime: 99 minutes</li><li>Director: Don Michael Paul</li><li>Genres: Comedy, Horror, Science Fiction</li><li>TMDB rating: 5.6/10 (491 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Gross as Burt Gummer</li><li>Jamie Kennedy as Travis Welker</li><li>Pearl Thusi as Dr. Nandi Montabu</li><li>Rea Rangaka as Baruti</li><li>Brandon Auret as Johan Dreyer</li><li>Nolitha Zulu as Amahle Montabu</li><li>Daniel Janks as Erich Van Wyk</li><li>Sello Sebotsane as Thaba</li><li>Ian Roberts as Den Bravers</li><li>Natalie Becker as Lucia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Tremors 5: Bloodlines (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:369230": {
+   "d": "Them Who? (2015): Comedy film. Story: David loses his white collar job, his fiancée and his… See cast, TMDB rating 6.5/10, and release date 19 November 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/qbpfEMjf2q3kdJBhz1fShhASor.jpg",
+   "industry": "world",
+   "k": "Them Who?, Them Who? movie, Them Who? cast, Them Who? story, Them Who? box office collection, Them Who? budget, Them Who? review, Them Who? rating, Them Who? release date, Them Who? Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marco Giallini"
+     },
+     {
+      "@type": "Person",
+      "name": "Edoardo Leo"
+     },
+     {
+      "@type": "Person",
+      "name": "Maurizio Casagrande"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivano Marescotti"
+     },
+     {
+      "@type": "Person",
+      "name": "Catrinel Marlon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Them Who? (2015): Comedy film. Story: David loses his white collar job, his fiancée and his… See cast, TMDB rating 6.5/10, and release date 19 November 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fabio Bonifacci"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesco Miccichè"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qbpfEMjf2q3kdJBhz1fShhASor.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=369230",
+    "name": "Them Who?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=369230"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Them Who? (2015)</h1>\n<p class=\"ssr-lead\">David loses his white collar job, his fiancée and his house after one night with con man Marcello. He tracks him down to exact revenge, but ends up becoming his disciple in order to win back everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2015</li><li>Runtime: 95 minutes</li><li>Director: Fabio Bonifacci, Francesco Miccichè</li><li>Genres: Comedy</li><li>TMDB rating: 6.5/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marco Giallini as Marcello</li><li>Edoardo Leo as David</li><li>Maurizio Casagrande as Il maresciallo Gallinari</li><li>Ivano Marescotti as Il Presidente</li><li>Catrinel Marlon as Ellen</li><li>Lisa Bor as Mitra</li><li>Christian Ginepro as Bagnoli</li><li>Giampiero Judica as Rigozzi</li><li>Mimmo Mancini as Gerardo &#x27;Kurosawa&#x27;</li><li>Pippo Lorusso as Gerardo &#x27;Kurosawa&#x27;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Sky Store</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Them Who? (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
   "movie:430": {

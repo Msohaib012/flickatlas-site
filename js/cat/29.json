@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 25,
+ "count": 29,
  "titles": {
   "movie:10729": {
    "backdrop_path": "/fVKTOZwkLer18dG3piAzSPWFlY5.jpg",
@@ -126,6 +126,327 @@
    "type": "movie",
    "vote_average": 6.695,
    "vote_count": 440
+  },
+  "movie:10929": {
+   "backdrop_path": "/xH9BdS2DzkX20Ly9FG8Iwczi3M.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Willard Stiles",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Mr. Martin",
+     "n": "R. Lee Ermey"
+    },
+    {
+     "c": "Cathryn",
+     "n": "Laura Harring"
+    },
+    {
+     "c": "Mrs. Stiles",
+     "n": "Jackie Burroughs"
+    },
+    {
+     "c": "Ms. Leach",
+     "n": "Ashlyn Gere"
+    },
+    {
+     "c": "Janice Mantis",
+     "n": "Laara Sadiq"
+    },
+    {
+     "c": "Mr. Garter",
+     "n": "William S. Taylor"
+    },
+    {
+     "c": "Officer Salmon",
+     "n": "Ty Olsson"
+    },
+    {
+     "c": "George Foxx",
+     "n": "Gus Lynch"
+    },
+    {
+     "c": "Detective Boxer",
+     "n": "David Parker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Glen Morgan"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 10929,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Desperate for companionship, the repressed Willard befriends a group of rats that inhabit his late father's deteriorating mansion. In these furry creatures, Willard finds temporary refuge from daily abuse at the hands of his bedridden mother and his father's old partner, Frank. Soon it becomes clear that the brood of rodents is ready and willing to exact a vicious, deadly revenge on anyone who dares to bully their sensitive new master.",
+   "popularity": 1.8776,
+   "poster_path": "/hRVP8Ud9ehv7tp5WWQ4CHk2XNus.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-03-14",
+   "revenue": 8564586,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the cat's away, the rats will play.",
+   "title": "Willard",
+   "trailer": {
+    "key": "rV0NN2eFVqE",
+    "name": "Willard (2003) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.091,
+   "vote_count": 390
+  },
+  "movie:11129": {
+   "backdrop_path": "/kRC0aqvYYDIrgeq83yUdq7qFTn4.jpg",
+   "budget": 600000,
+   "cast": [
+    {
+     "c": "Jip",
+     "n": "John Simm"
+    },
+    {
+     "c": "Koop",
+     "n": "Shaun Parkes"
+    },
+    {
+     "c": "Nina",
+     "n": "Nicola Reynolds"
+    },
+    {
+     "c": "Lulu",
+     "n": "Lorraine Pilkington"
+    },
+    {
+     "c": "Moff",
+     "n": "Danny Dyer"
+    },
+    {
+     "c": "Lee",
+     "n": "Dean Davies"
+    },
+    {
+     "c": "Felix",
+     "n": "Andrew Lincoln"
+    },
+    {
+     "c": "Moff's Father",
+     "n": "Terence Beesley"
+    },
+    {
+     "c": "Reality (voice)",
+     "n": "Jo Brand"
+    },
+    {
+     "c": "Andy",
+     "n": "Richard Coyle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin Kerrigan"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 11129,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "For Jip, Lulu, Koop, Nina, and Moff, the dead-end jobs they endure during the week just kill the time until Friday night. That's when they cut very loose and get on the rollercoaster ride that takes them right through to Monday morning.",
+   "popularity": 1.8872,
+   "poster_path": "/cHwnYGZh1fVuVWqT28GpCN0usYF.jpg",
+   "production_countries": [
+    "GB",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-06-04",
+   "revenue": 4000000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The weekend has landed.",
+   "title": "Human Traffic",
+   "trailer": {
+    "key": "GjoWJB9SGf0",
+    "name": "4K Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.811,
+   "vote_count": 420
   },
   "movie:11229": {
    "backdrop_path": "/q86f264W90GIUeg1Ovf4T1PIBA.jpg",
@@ -293,6 +614,187 @@
    "type": "movie",
    "vote_average": 6.444,
    "vote_count": 463
+  },
+  "movie:11429": {
+   "backdrop_path": "/1eJt8dcoraOUKGH2DOFiBCvEK3f.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Dr. Herbert West",
+     "n": "Jeffrey Combs"
+    },
+    {
+     "c": "Dr. Howard Phillips",
+     "n": "Jason Barry"
+    },
+    {
+     "c": "Laura Olney",
+     "n": "Elsa Pataky"
+    },
+    {
+     "c": "Cabrera",
+     "n": "Enrique Arce"
+    },
+    {
+     "c": "Moses",
+     "n": "Nico Baixas"
+    },
+    {
+     "c": "Sergeant Moncho",
+     "n": "Lolo Herrero"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Raquel Gribler"
+    },
+    {
+     "c": "Brando",
+     "n": "Simón Andreu"
+    },
+    {
+     "c": "Speedball",
+     "n": "Santiago Segura"
+    },
+    {
+     "c": "Young Howard 'Howie' Phillips",
+     "n": "Tommy Dean Musset"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Yuzna"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 11429,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "Once again tampering with mother nature to disastrous results, Dr. Herbert West continues his research while serving time in a maximum security prison for his previous exploits. West's limited prison-cell experiments are suddenly interrupted by the arrival of a new prison doctor and the brother of the girl who suffered from West's experiments 13 years earlier.",
+   "popularity": 1.6884,
+   "poster_path": "/iS4oB4nQEdO86Fvszqf6P2ejK44.jpg",
+   "production_countries": [
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-04-04",
+   "revenue": 302586,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They thought prison would be the death of him. But for Dr. West, death is only the beginning.",
+   "title": "Beyond Re-Animator",
+   "trailer": {
+    "key": "fWZT-faP7Oc",
+    "name": "Beyond Re-Animator - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 417
   },
   "movie:1314829": {
    "backdrop_path": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
@@ -1632,6 +2134,137 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 438
+  },
+  "movie:58129": {
+   "backdrop_path": "/zMqJoVJXQPvkjZ1SZ03e4EuKMfm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Holm",
+     "n": "Victor Sjöström"
+    },
+    {
+     "c": "Mrs. Holm",
+     "n": "Hilda Borgström"
+    },
+    {
+     "c": "Georges",
+     "n": "Tore Svennberg"
+    },
+    {
+     "c": "Sister Edit",
+     "n": "Astrid Holm"
+    },
+    {
+     "c": "Edit's Mother",
+     "n": "Concordia Selander"
+    },
+    {
+     "c": "Sister Maria",
+     "n": "Lisa Lundholm"
+    },
+    {
+     "c": "Gustafsson",
+     "n": "Tor Weijden"
+    },
+    {
+     "c": "David's Brother",
+     "n": "Einar Axelsson"
+    },
+    {
+     "c": "Driver",
+     "n": "Olof Ås"
+    },
+    {
+     "c": "Prison Chaplain",
+     "n": "Nils Aréhn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Victor Sjöström"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 58129,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year.",
+   "popularity": 1.5468,
+   "poster_path": "/yGNekNFaI4SeyDO8C0BkRXM6Byu.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1921-01-01",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "Do the Dead Come Back? Can Your Soul Leave Your Body...And Return Again?",
+   "title": "The Phantom Carriage",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.737,
+   "vote_count": 384
   },
   "movie:59429": {
    "backdrop_path": "/1S6HTRZ8HwuIM8KVNOaycN5WxwX.jpg",

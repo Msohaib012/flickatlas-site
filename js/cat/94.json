@@ -1,7 +1,99 @@
 {
  "bucket": "94",
- "count": 36,
+ "count": 44,
  "titles": {
+  "movie:10694": {
+   "backdrop_path": "/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Jackson Hammond",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Natalie Voss",
+     "n": "Kristy Swanson"
+    },
+    {
+     "c": "Officer Dobbs (lead chase car driver)",
+     "n": "Henry Rollins"
+    },
+    {
+     "c": "Byron Wilder (Channel 8 traffic reporter)",
+     "n": "Rocky Carroll"
+    },
+    {
+     "c": "Dalton Voss",
+     "n": "Ray Wise"
+    },
+    {
+     "c": "Steve Horsegroovy",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Dale",
+     "n": "Flea"
+    },
+    {
+     "c": "Will",
+     "n": "Anthony Kiedis"
+    },
+    {
+     "c": "Ari Josephson",
+     "n": "Marshall Bell"
+    },
+    {
+     "c": "Channel 3 Cameraman",
+     "n": "Ron Jeremy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Adam Rifkin"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Action",
+    "Crime"
+   ],
+   "id": 10694,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack Hammond is sentenced to life in prison, but manages to escape. To get away from the police he takes a girl as hostage and drives off in her car. The girl happens to be the only daughter of one of the richest men in the state. In a while the car chase is being broadcast live on every TV-channel.",
+   "popularity": 1.8039,
+   "poster_path": "/lEmGW4Fc9wMRLIKq6NRojZnTbdp.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1994-03-04",
+   "revenue": 8000000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Getting there is twice the fun.",
+   "title": "The Chase",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 409
+  },
   "movie:10994": {
    "backdrop_path": "/yB252zjuN70KFyOUY7MFTfqGa1C.jpg",
    "budget": 16000000,
@@ -165,6 +257,129 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 442
+  },
+  "movie:1114894": {
+   "backdrop_path": "/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Philippa Georgiou",
+     "n": "Michelle Yeoh"
+    },
+    {
+     "c": "Alok Sahar",
+     "n": "Omari Hardwick"
+    },
+    {
+     "c": "Quasi",
+     "n": "Sam Richardson"
+    },
+    {
+     "c": "Rachel Garrett",
+     "n": "Kacey Rohl"
+    },
+    {
+     "c": "Fuzz",
+     "n": "Sven Ruygrok"
+    },
+    {
+     "c": "Zeph",
+     "n": "Robert Kazinsky"
+    },
+    {
+     "c": "Melle",
+     "n": "Humberly González"
+    },
+    {
+     "c": "San",
+     "n": "James Hiroyuki Liao"
+    },
+    {
+     "c": "Young Georgiou",
+     "n": "Miku Martineau"
+    },
+    {
+     "c": "Virgil",
+     "n": "Augusto Bitter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Olatunde Osunsanmi"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+   ],
+   "id": 1114894,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Emperor Philippa Georgiou joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.",
+   "popularity": 3.2108,
+   "poster_path": "/fNu6P4jYU55Cb3CC2SndtAKvois.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-15",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To protect the light, they fight in shadow.",
+   "title": "Star Trek: Section 31",
+   "trailer": {
+    "key": "5yyQsFwjNvc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 406
   },
   "movie:11194": {
    "backdrop_path": "/7c4vVXeI1m1wR4jGZHlR6GawgxH.jpg",
@@ -1087,6 +1302,107 @@
    "vote_average": 6.593,
    "vote_count": 43
   },
+  "movie:17894": {
+   "backdrop_path": "/9OIONHl9OBmQLbUHaPcnNtEDvF0.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Joy Miller",
+     "n": "Fran Drescher"
+    },
+    {
+     "c": "Boris Pochenko",
+     "n": "Timothy Dalton"
+    },
+    {
+     "c": "Jerry Miller",
+     "n": "Michael Lerner"
+    },
+    {
+     "c": "Ira Grushinsky",
+     "n": "Ian McNeice"
+    },
+    {
+     "c": "Leonid Kleist",
+     "n": "Patrick Malahide"
+    },
+    {
+     "c": "Katrina Pochenko",
+     "n": "Lisa Jakub"
+    },
+    {
+     "c": "Consuela",
+     "n": "Tamara Mello"
+    },
+    {
+     "c": "Judy Miller",
+     "n": "Phyllis Newman"
+    },
+    {
+     "c": "Masha Pochenko",
+     "n": "Heather DeLoach"
+    },
+    {
+     "c": "Karl Pochenko",
+     "n": "Adam LaVorgna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ken Kwapis"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Family"
+   ],
+   "id": 17894,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A New York City beautician is mistakenly hired as the school teacher for the children of the president of a small Eastern European country.",
+   "popularity": 2.906,
+   "poster_path": "/s2RaTrqoPvD4eYEaZCyF0zFbbpV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-02-07",
+   "revenue": 11486880,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Once upon a time...",
+   "title": "The Beautician and the Beast",
+   "trailer": {
+    "key": "mI6p6BHQHL4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.723,
+   "vote_count": 386
+  },
   "movie:180894": {
    "backdrop_path": "/7Q67AjYx1EUC5lopy51wxgES6ap.jpg",
    "budget": 0,
@@ -1424,6 +1740,174 @@
    "vote_average": 5.4,
    "vote_count": 467
   },
+  "movie:26594": {
+   "backdrop_path": "/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Self - Philosopher",
+     "n": "Bob Proctor"
+    },
+    {
+     "c": "Self - Metaphysician",
+     "n": "Joe Vitale"
+    },
+    {
+     "c": "Self - Entrepreneur",
+     "n": "John Assaraf"
+    },
+    {
+     "c": "Self - Financial Strategist",
+     "n": "Loral Langemeier"
+    },
+    {
+     "c": "Self - Feng Shui Consultant",
+     "n": "Marie Diamond"
+    },
+    {
+     "c": "Self - Author",
+     "n": "Neale Donald Walsch"
+    },
+    {
+     "c": "Self - Author",
+     "n": "Jack Canfield"
+    },
+    {
+     "c": "Self - Philosopher",
+     "n": "James Arthur Ray"
+    },
+    {
+     "c": "Self - Author",
+     "n": "Bob Boyle"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Mike Dooley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Drew Heriot"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 26594,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Interviews with leading authors, philosophers and scientists, with an in-depth discussion of the Law of Attraction. The audience is shown how they can learn and use 'The Secret' in their everyday lives.",
+   "popularity": 2.3021,
+   "poster_path": "/yDpyYUrVAgyWYADeYbGY4vWKjZV.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-03-26",
+   "revenue": 65600000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The secret has traveled through centuries to reach you",
+   "title": "The Secret",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.586,
+   "vote_count": 401
+  },
   "movie:28794": {
    "backdrop_path": "/vdokrAQX8D2SfNY12GB8f3YdCaT.jpg",
    "budget": 785000,
@@ -1736,6 +2220,234 @@
    "vote_average": 6.6,
    "vote_count": 442
   },
+  "movie:334394": {
+   "backdrop_path": "/uxrsznMDPgsGDqiZ7UkkFgBEglM.jpg",
+   "budget": 350000,
+   "cast": [
+    {
+     "c": "Baba / The Father",
+     "n": "Mehmet Cerrahoglu"
+    },
+    {
+     "c": "Arda",
+     "n": "Görkem Kasal"
+    },
+    {
+     "c": "Remzi",
+     "n": "Ergun Kuyucu"
+    },
+    {
+     "c": "Yavuz",
+     "n": "Muharrem Bayrak"
+    },
+    {
+     "c": "Apo",
+     "n": "Fatih Dokgöz"
+    },
+    {
+     "c": "Sabo",
+     "n": "Sabahattin Yakut"
+    },
+    {
+     "c": "Young Arda",
+     "n": "Berat Efe Parlar"
+    },
+    {
+     "c": "Father's Servant / Master Creep",
+     "n": "Şevket Süha Tezel"
+    },
+    {
+     "c": "Tall Man",
+     "n": "Seyithan Özdemir"
+    },
+    {
+     "c": "Woman",
+     "n": "Sevinc Kaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Can Evrenol"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 334394,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "A squad of unsuspecting cops go through a trapdoor to Hell when they stumble upon a Black Mass in an abandoned building.",
+   "popularity": 1.5783,
+   "poster_path": "/oNiinNDzPUH0I3K4puCwrJa7Hn1.jpg",
+   "production_countries": [
+    "TR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-31",
+   "revenue": 318155,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "Enter a world of suffering and madness.",
+   "title": "Baskin",
+   "trailer": {
+    "key": "y9SfWmXQY3o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.897,
+   "vote_count": 385
+  },
   "movie:369894": {
    "backdrop_path": "/a0jV1eyShyfovNmk1FIMBZYx8zV.jpg",
    "budget": 0,
@@ -1965,6 +2677,230 @@
    "vote_average": 6.13,
    "vote_count": 470
   },
+  "movie:396194": {
+   "backdrop_path": "/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ennio Morricone"
+    },
+    {
+     "c": "Self",
+     "n": "Silvano Agosti"
+    },
+    {
+     "c": "Self",
+     "n": "Alessandro Alessandroni"
+    },
+    {
+     "c": "Self",
+     "n": "Fausto Ancillai"
+    },
+    {
+     "c": "Self",
+     "n": "Dario Argento"
+    },
+    {
+     "c": "Self",
+     "n": "Joan Baez"
+    },
+    {
+     "c": "Self",
+     "n": "Sergio Bassetti"
+    },
+    {
+     "c": "Self",
+     "n": "Bruno Battisti D'Amario"
+    },
+    {
+     "c": "Self",
+     "n": "Marco Bellocchio"
+    },
+    {
+     "c": "Self",
+     "n": "Bernardo Bertolucci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Giuseppe Tornatore"
+   ],
+   "genres": [
+    "Documentary",
+    "Music",
+    "History"
+   ],
+   "id": 396194,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A portrait of Ennio Morricone, the most popular and prolific film composer of the 20th century, the one most loved by the international public, a two-time Oscar winner and the author of over five hundred unforgettable scores.",
+   "popularity": 4.7958,
+   "poster_path": "/lEuLAubp74HYztEyNYpEx3AoqOu.jpg",
+   "production_countries": [
+    "BE",
+    "CN",
+    "DE",
+    "IT",
+    "JP",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-17",
+   "revenue": 4332386,
+   "runtime": 156,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ennio",
+   "trailer": {
+    "key": "q5WBbULw_0U",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.302,
+   "vote_count": 396
+  },
   "movie:485894": {
    "backdrop_path": "/mUoRmzM8HOQVPUpHgSG3cO92rJH.jpg",
    "budget": 0,
@@ -2081,6 +3017,134 @@
    "type": "movie",
    "vote_average": 6.164,
    "vote_count": 479
+  },
+  "movie:649394": {
+   "backdrop_path": "/AbDiTqEu8hVA6a9BaD1mciHRkLk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenneth Feinberg",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Camille Biros",
+     "n": "Amy Ryan"
+    },
+    {
+     "c": "Charles Wolf",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Lee Quinn",
+     "n": "Tate Donovan"
+    },
+    {
+     "c": "Priya Khundi",
+     "n": "Shunori Ramanathan"
+    },
+    {
+     "c": "Dede Feinberg",
+     "n": "Talia Balsam"
+    },
+    {
+     "c": "Karen Donato",
+     "n": "Laura Benanti"
+    },
+    {
+     "c": "Frank Donato",
+     "n": "Chris Tardio"
+    },
+    {
+     "c": "Darryl Barnes",
+     "n": "Ato Blankson-Wood"
+    },
+    {
+     "c": "Gloria Toms",
+     "n": "Carolyn Mignini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sara Colangelo"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 649394,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.",
+   "popularity": 2.2313,
+   "poster_path": "/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-21",
+   "revenue": 106645,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Our national tragedy. Their personal suffering. His impossible task.",
+   "title": "Worth",
+   "trailer": {
+    "key": "OOAemeB9CAw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.706,
+   "vote_count": 406
   },
   "movie:7294": {
    "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
@@ -2327,6 +3391,94 @@
    "type": "movie",
    "vote_average": 4.501,
    "vote_count": 484
+  },
+  "movie:797394": {
+   "backdrop_path": "/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hansel (voice)",
+     "n": "Valery Smekalov"
+    },
+    {
+     "c": "Gretel (voice)",
+     "n": "Irina Obrezkova"
+    },
+    {
+     "c": "King (voice)",
+     "n": "Alexey Makretsky"
+    },
+    {
+     "c": "Stepmother (voice)",
+     "n": "Regina Shchukina"
+    },
+    {
+     "c": "Ilvira (voice)",
+     "n": "Kseniya Brzhezovskaya"
+    },
+    {
+     "c": "Baba Yaga (voice)",
+     "n": "Julia Zorkina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Aleksey Tsitsilin"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 797394,
+   "industry": "world",
+   "origin_country": [],
+   "original_language": "ru",
+   "overview": "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
+   "popularity": 1.6779,
+   "poster_path": "/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-03-18",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "Secret Magic Control Agency",
+   "trailer": {
+    "key": "OESJJ2vZn9M",
+    "name": "Secret Magic Control Agency Trailer | Netflix Futures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 404
   },
   "movie:8094": {
    "backdrop_path": "/teMi2HuGuWOmBL599u7dg1xtD1Q.jpg",

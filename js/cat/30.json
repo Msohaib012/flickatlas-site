@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 34,
+ "count": 38,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -621,6 +621,303 @@
    "vote_average": 6.2,
    "vote_count": 69
   },
+  "movie:13830": {
+   "backdrop_path": "/yYSaRwOQsX033pxCCjgw04FP1YY.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Biggs",
+     "n": "Ky-Mani Marley"
+    },
+    {
+     "c": "Wayne",
+     "n": "Spragga Benz"
+    },
+    {
+     "c": "Mad Max",
+     "n": "Paul Campbell"
+    },
+    {
+     "c": "Teddy Bruckshut",
+     "n": "Louie Rankin"
+    },
+    {
+     "c": "Richie Effs",
+     "n": "Wyclef Jean"
+    },
+    {
+     "c": "Gussy",
+     "n": "Screechie Bop"
+    },
+    {
+     "c": "Raquel",
+     "n": "San San"
+    },
+    {
+     "c": "Dangles",
+     "n": "Jabba"
+    },
+    {
+     "c": "Blacka",
+     "n": "Assassin"
+    },
+    {
+     "c": "Sealy",
+     "n": "Beast"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Cess Silvera",
+    "Adam Doench",
+    "Lyndale V. Pettus"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 13830,
+   "industry": "world",
+   "origin_country": [
+    "JM",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A raw urban drama about two friends raised on the dangerous streets of Kingston, Jamaica. Biggs and Wayne take on the \"Shotta\" way of life to survive. As young boys, they begin a life of crime, eventually moving to the US where they begin a ruthless climb from the bottom. They remain bound to each other by their shottas loyalty as they aggressively take control of the Jamaican underworld.",
+   "popularity": 3.6498,
+   "poster_path": "/chh2xSTVtMCFyFePm1zRbBmtqaX.jpg",
+   "production_countries": [
+    "JM",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-02-27",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Friendship, loyalty & greed.",
+   "title": "Shottas",
+   "trailer": {
+    "key": "vlgBo08SyKE",
+    "name": "SHOTTAS Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.664,
+   "vote_count": 391
+  },
+  "movie:14030": {
+   "backdrop_path": "/ybi3LVVyXVRQUDz9xos2YM24Gnj.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Dolly Levi",
+     "n": "Barbra Streisand"
+    },
+    {
+     "c": "Horace Vandergelder",
+     "n": "Walter Matthau"
+    },
+    {
+     "c": "Cornelius Hackl",
+     "n": "Michael Crawford"
+    },
+    {
+     "c": "Irene Molloy",
+     "n": "Marianne McAndrew"
+    },
+    {
+     "c": "Barnaby Tucker",
+     "n": "Danny Lockin"
+    },
+    {
+     "c": "Minnie Fay",
+     "n": "E.J. Peaker"
+    },
+    {
+     "c": "Ermengarde",
+     "n": "Joyce Ames"
+    },
+    {
+     "c": "Ambrose Kemper",
+     "n": "Tommy Tune"
+    },
+    {
+     "c": "Gussie Granger",
+     "n": "Judy Knaiz"
+    },
+    {
+     "c": "Rudolph Reisenweber",
+     "n": "David Hurst"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Gene Kelly"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 14030,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dolly Levi is a strong-willed matchmaker who travels to Yonkers, New York in order to see the miserly \"well-known unmarried half-a-millionaire\" Horace Vandergelder. In doing so, she convinces his niece, his niece's intended, and Horace's two clerks to travel to New York City.",
+   "popularity": 2.8604,
+   "poster_path": "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "BroadwayHD"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Broadway HD Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-12-12",
+   "revenue": 33208099,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Come anytime for the time of your life!",
+   "title": "Hello, Dolly!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 409
+  },
   "movie:1439930": {
    "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
    "budget": 0,
@@ -1170,6 +1467,100 @@
    "vote_average": 6.4,
    "vote_count": 27
   },
+  "movie:18030": {
+   "backdrop_path": "/znL0K0hPJndT7IAddNWBfAEYSRC.jpg",
+   "budget": 410000,
+   "cast": [
+    {
+     "c": "Mike Hammer",
+     "n": "Ralph Meeker"
+    },
+    {
+     "c": "Dr. G.E. Soberin",
+     "n": "Albert Dekker"
+    },
+    {
+     "c": "Carl Evello",
+     "n": "Paul Stewart"
+    },
+    {
+     "c": "Eddie Yeager",
+     "n": "Juano Hernandez"
+    },
+    {
+     "c": "Lt. Pat Murphy",
+     "n": "Wesley Addy"
+    },
+    {
+     "c": "Friday",
+     "n": "Marian Carr"
+    },
+    {
+     "c": "Velda",
+     "n": "Maxine Cooper"
+    },
+    {
+     "c": "Christina Bailey",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Lily Carver",
+     "n": "Gaby Rodgers"
+    },
+    {
+     "c": "Nick",
+     "n": "Nick Dennis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Robert Aldrich"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 18030,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
+   "popularity": 2.7173,
+   "poster_path": "/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1955-04-28",
+   "revenue": 726000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Blood red kisses! White hot thrills! Mickey Spillane’s latest H-bomb!",
+   "title": "Kiss Me Deadly",
+   "trailer": {
+    "key": "ss4AF91KOFw",
+    "name": "KISS ME DEADLY Trailer (1955) - The Criterion Collection",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.21,
+   "vote_count": 434
+  },
   "movie:238930": {
    "backdrop_path": "/4iiIIBk4Aw2GpSfrkvk8GWiwOxd.jpg",
    "budget": 0,
@@ -1365,6 +1756,126 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 491
+  },
+  "movie:369230": {
+   "backdrop_path": "/qbpfEMjf2q3kdJBhz1fShhASor.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marcello",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "David",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Il maresciallo Gallinari",
+     "n": "Maurizio Casagrande"
+    },
+    {
+     "c": "Il Presidente",
+     "n": "Ivano Marescotti"
+    },
+    {
+     "c": "Ellen",
+     "n": "Catrinel Marlon"
+    },
+    {
+     "c": "Mitra",
+     "n": "Lisa Bor"
+    },
+    {
+     "c": "Bagnoli",
+     "n": "Christian Ginepro"
+    },
+    {
+     "c": "Rigozzi",
+     "n": "Giampiero Judica"
+    },
+    {
+     "c": "Gerardo 'Kurosawa'",
+     "n": "Mimmo Mancini"
+    },
+    {
+     "c": "Gerardo 'Kurosawa'",
+     "n": "Pippo Lorusso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Fabio Bonifacci",
+    "Francesco Miccichè"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 369230,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "David loses his white collar job, his fiancée and his house after one night with con man Marcello. He tracks him down to exact revenge, but ends up becoming his disciple in order to win back everything.",
+   "popularity": 0.4093,
+   "poster_path": "/e9XQYbmL3EEDDcQOx7e3hB2UjnE.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-11-19",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Choose who to believe",
+   "title": "Them Who?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.459,
+   "vote_count": 434
   },
   "movie:430": {
    "backdrop_path": "/4safDVSZx7a4I1TQoSyz6E1agzM.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 32,
+ "count": 41,
  "titles": {
   "movie:10741": {
    "backdrop_path": "/3ivhTBoGtSRcxqsTdXHHkYFLxO2.jpg",
@@ -1157,6 +1157,164 @@
    "type": "movie",
    "vote_average": 6.031,
    "vote_count": 179
+  },
+  "movie:13641": {
+   "backdrop_path": "/41D8Z0OXw3qCUhFxACBSMilGTIO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pleasure",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Fingers",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Love",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Sorrow",
+     "n": "Sarah Michelle Gellar"
+    },
+    {
+     "c": "Henry",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Tony",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Happiness",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Jiyoung",
+     "n": "Kelly Hu"
+    },
+    {
+     "c": "Danny",
+     "n": "Evan Parke"
+    },
+    {
+     "c": "Sorrow's Father",
+     "n": "Taylor Nichols"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jieho Lee"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 13641,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gambler’s bet spiraling into chaos, a gangster's prophetic visions, a pop star’s dark entanglement, a doctor’s desperate race against time to rescue his beloved... Four interconnected stories reveal life unfolding through four emotional pillars — joy, passion, grief, and love.",
+   "popularity": 2.3599,
+   "poster_path": "/hx89b5sinoXmkMNyK1PUgwjWQX4.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-07",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The question is not whether we will die, but how we will live.",
+   "title": "The Air I Breathe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.325,
+   "vote_count": 424
   },
   "movie:1454741": {
    "backdrop_path": "/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
@@ -2401,6 +2559,564 @@
    "vote_average": 6.598,
    "vote_count": 470
   },
+  "movie:24341": {
+   "backdrop_path": "/aOH67myzG6Gk0MrHIldOR5odTZW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Bower",
+     "n": "Ian Patrick Williams"
+    },
+    {
+     "c": "Rosemary Bower",
+     "n": "Carolyn Purdy-Gordon"
+    },
+    {
+     "c": "Judy Bower",
+     "n": "Carrie Lorraine"
+    },
+    {
+     "c": "Gabriel Hartwicke",
+     "n": "Guy Rolfe"
+    },
+    {
+     "c": "Hilary Hartwicke",
+     "n": "Hilary Mason"
+    },
+    {
+     "c": "Isabel Prange",
+     "n": "Bunty Bailey"
+    },
+    {
+     "c": "Enid",
+     "n": "Cassie Stuart"
+    },
+    {
+     "c": "Ralph Morris",
+     "n": "Stephen Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stuart Gordon"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 24341,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "IT"
+   ],
+   "original_language": "en",
+   "overview": "A precocious girl, her nasty parents, two punk-rock losers and a weak-kneed salesman inadvertently become the guests of two ghoulish senior citizens in their dark, haunted mansion.",
+   "popularity": 1.9483,
+   "poster_path": "/oMCysbLhEK3xHTavrTLayWT6bnN.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-03-12",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They walk. They talk. They kill.",
+   "title": "Dolls",
+   "trailer": {
+    "key": "aFaNbnLGRoM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.354,
+   "vote_count": 386
+  },
+  "movie:28941": {
+   "backdrop_path": "/1ctiV8HodFkFOwIjQp3T2znHE19.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Alison Parks",
+     "n": "Kelli Maroney"
+    },
+    {
+     "c": "Ferdy Meisel",
+     "n": "Tony O'Dell"
+    },
+    {
+     "c": "Rick Stanton",
+     "n": "Russell Todd"
+    },
+    {
+     "c": "Linda Stanton",
+     "n": "Karrie Emerson"
+    },
+    {
+     "c": "Suzie Lynn",
+     "n": "Barbara Crampton"
+    },
+    {
+     "c": "Greg Williams",
+     "n": "Nick Segal"
+    },
+    {
+     "c": "Mike Brennan",
+     "n": "John Terlesky"
+    },
+    {
+     "c": "Leslie Todd",
+     "n": "Suzee Slater"
+    },
+    {
+     "c": "Paul Bland",
+     "n": "Paul Bartel"
+    },
+    {
+     "c": "Mary Bland",
+     "n": "Mary Woronov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim Wynorski"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 28941,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "High-tech robots equipped with state-of-the-art security devices have been recruited as the new mechanical \"night watchmen\" for the Park Plaza Mall. When a jolting bolt of lightning short-circuits the main computer control, the robots turn into \"killbots\" on the loose after unsuspecting shoppers!",
+   "popularity": 1.9434,
+   "poster_path": "/ggHbJPYJsjiJnEwHi4xUyJxWpmS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-03-20",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Where shopping costs you an arm and a leg!",
+   "title": "Chopping Mall",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 430
+  },
+  "movie:457041": {
+   "backdrop_path": "/wJprgIXjjpV3iZcMdF76Hyen75e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth",
+     "n": "Abbey Lee"
+    },
+    {
+     "c": "Henry",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Claire",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Oliver",
+     "n": "Matthew Beard"
+    },
+    {
+     "c": "Logan",
+     "n": "Dylan Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sebastian Gutierrez"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 457041,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The newly married Elizabeth arrives with her new husband, the scientist Henry, at a magnificent house. He tells her that she can do there anything she pleases, except to enter a certain closed room.",
+   "popularity": 1.584,
+   "poster_path": "/oiwY0z17ZqCPVSK1plvL11rSKuK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-10",
+   "revenue": 4973,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Elizabeth Harvest",
+   "trailer": {
+    "key": "ZrPaMJWF1tg",
+    "name": "Elizabeth Harvest - Official Trailer I HD I IFC Midnight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.13,
+   "vote_count": 411
+  },
   "movie:46441": {
    "backdrop_path": "/tGpJAfSwqpXjARSRrAWUiouUSnr.jpg",
    "budget": 0,
@@ -2672,6 +3388,247 @@
    "vote_average": 7.403,
    "vote_count": 455
   },
+  "movie:664341": {
+   "backdrop_path": "/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Eileen Dunlop",
+     "n": "Thomasin McKenzie"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Jim Dunlop",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Lee Polk",
+     "n": "Sam Nivola"
+    },
+    {
+     "c": "Mrs. Polk",
+     "n": "Marin Ireland"
+    },
+    {
+     "c": "Mrs. Murray",
+     "n": "Siobhan Fallon Hogan"
+    },
+    {
+     "c": "Mrs. Stevens",
+     "n": "Tonye Patano"
+    },
+    {
+     "c": "Intake Guard",
+     "n": "William Hill"
+    },
+    {
+     "c": "Randy",
+     "n": "Owen Teague"
+    },
+    {
+     "c": "Warden",
+     "n": "Peter McRobbie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Oldroyd"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 664341,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.",
+   "popularity": 2.5124,
+   "poster_path": "/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-12-01",
+   "revenue": 1560142,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Crime has never felt so intoxicating.",
+   "title": "Eileen",
+   "trailer": {
+    "key": "otDHCJcdN34",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.76,
+   "vote_count": 433
+  },
+  "movie:68341": {
+   "backdrop_path": "/lCR2wcqu6BBF7vFF3TqqDartccO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nobuyuki Shamoto",
+     "n": "Mitsuru Fukikoshi"
+    },
+    {
+     "c": "Yukio Murata",
+     "n": "Denden"
+    },
+    {
+     "c": "Aiko Murata",
+     "n": "Asuka Kurosawa"
+    },
+    {
+     "c": "Taeko Shamoto",
+     "n": "Megumi Kagurazaka"
+    },
+    {
+     "c": "Mitsuko Shamoto",
+     "n": "Hikari Kajiwara"
+    },
+    {
+     "c": "Takayasu TsuTsui",
+     "n": "Tetsu Watanabe"
+    },
+    {
+     "c": "Akio Yoshida",
+     "n": "Tarō Suwa"
+    },
+    {
+     "c": "Hiroshi Okubo",
+     "n": "Jyonmyon Pe"
+    },
+    {
+     "c": "Susumu Kawajiri",
+     "n": "Masahiko Sakata"
+    },
+    {
+     "c": "Yuko Sawada",
+     "n": "Natsumi Seto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Sion Sono"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Horror"
+   ],
+   "id": 68341,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When fish shop owner Shamoto's teenage daughter Mitsuko is caught stealing, a generous middle-aged man named Murata helps resolve the situation. The man and his wife offer to have Mitsuko work at their opposing fish store. Shamoto soon discovers that something far more sinister lives behind Murata's friendly demeanor.",
+   "popularity": 2.6638,
+   "poster_path": "/669GmEZsyMlPliURX5myHTStslv.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-01-29",
+   "revenue": 0,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "He'll make you pick up the pieces.",
+   "title": "Cold Fish",
+   "trailer": {
+    "key": "ieTAZUXrBD0",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.936,
+   "vote_count": 430
+  },
   "movie:740441": {
    "backdrop_path": "/mLnbZF4B2ZUYkrbGZL5RGkfe0n4.jpg",
    "budget": 0,
@@ -2779,6 +3736,304 @@
    "type": "movie",
    "vote_average": 7.268,
    "vote_count": 436
+  },
+  "movie:774741": {
+   "backdrop_path": "/x78cvxbmpBNcHON7x3Iv8vih5Sj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Greg (voice)",
+     "n": "Brady Noon"
+    },
+    {
+     "c": "Rowley (voice)",
+     "n": "Ethan William Childress"
+    },
+    {
+     "c": "Rodrick (voice)",
+     "n": "Hunter Dillon"
+    },
+    {
+     "c": "Susan (voice)",
+     "n": "Erica Cerra"
+    },
+    {
+     "c": "Frank (voice)",
+     "n": "Chris Diamantopoulos"
+    },
+    {
+     "c": "Manny (voice)",
+     "n": "Gracen Newton"
+    },
+    {
+     "c": "Fregley (voice)",
+     "n": "Christian Convery"
+    },
+    {
+     "c": "Braces Girl (voice)",
+     "n": "Jessica Mikayla Adams"
+    },
+    {
+     "c": "Teen Driver (voice)",
+     "n": "Cyrus Arnold"
+    },
+    {
+     "c": "Teen with Mullet (voice)",
+     "n": "Braxton Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Swinton O. Scott III"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 774741,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.",
+   "popularity": 3.0755,
+   "poster_path": "/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-02",
+   "revenue": 0,
+   "runtime": 58,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "New school. Old cheese.",
+   "title": "Diary of a Wimpy Kid",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.218,
+   "vote_count": 422
+  },
+  "movie:77941": {
+   "backdrop_path": "/4JmwMZB14xcMjWVnjfIQACD5LEK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gianluca De Ceglie / Gisella Franchi / Fabio Rizzi / Giampietro Bianchi",
+     "n": "Fabrizio Biggio"
+    },
+    {
+     "c": "Ruggero De Ceglie / Sebastiano Credici / Fabio Rizzato / Marialuce Bianchi",
+     "n": "Francesco Mandelli"
+    },
+    {
+     "c": "Messalina, Irina Tjianchikova",
+     "n": "Mădălina Ghenea"
+    },
+    {
+     "c": "Ragazza del bordello",
+     "n": "Valeria Bilello"
+    },
+    {
+     "c": "Automobilista",
+     "n": "Giordano De Plano"
+    },
+    {
+     "c": "Giornalista TV",
+     "n": "Miriam Leone"
+    },
+    {
+     "c": "Remo",
+     "n": "Marco Foschi"
+    },
+    {
+     "c": "Avv. De Peverelli",
+     "n": "Gianmarco Tognazzi"
+    },
+    {
+     "c": "Ragazza Prostituta",
+     "n": "Valeria Colosio"
+    },
+    {
+     "c": "Marika",
+     "n": "Elisabetta De Palo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Enrico Lando"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 77941,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A movie based on the italian sitcom \"I Soliti Idioti\".",
+   "popularity": 0.5917,
+   "poster_path": "/bHlUku0S8WKJdQxDnUj8aAXsMbv.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-11-04",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Usual Idiots: The Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.054,
+   "vote_count": 391
+  },
+  "movie:890541": {
+   "backdrop_path": "/se9b3c47yN4BJ05HNbNyAXbwjtj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Margherita",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Susanna",
+     "n": "Diana Del Bufalo"
+    },
+    {
+     "c": "Agostina",
+     "n": "Sabrina Impacciatore"
+    },
+    {
+     "c": "Caterina",
+     "n": "Benedetta Porcaroli"
+    },
+    {
+     "c": "Veronica",
+     "n": "Micaela Ramazzotti"
+    },
+    {
+     "c": "Maria",
+     "n": "Luisa Ranieri"
+    },
+    {
+     "c": "Rachele",
+     "n": "Ornella Vanoni"
+    },
+    {
+     "c": "Ispettore di polizia",
+     "n": "Marco Rossetti"
+    },
+    {
+     "c": "Autista taxi",
+     "n": "Alessandro Genovesi"
+    },
+    {
+     "c": "Marcello",
+     "n": "Luca Pastorelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Genovesi"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 890541,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "When the family patriarch is murdered, seven women find themselves trapped together in his mansion to solve the mystery.",
+   "popularity": 1.6757,
+   "poster_path": "/fzAammsmgfwseHTC4VosPyKLntj.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-25",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "7 Women and a Murder",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.53,
+   "vote_count": 406
   },
   "tv:131041": {
    "backdrop_path": "/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",

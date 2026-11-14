@@ -1,6 +1,6 @@
 {
  "bucket": "73",
- "count": 32,
+ "count": 43,
  "titles": {
   "movie:1122573": {
    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
@@ -554,6 +554,127 @@
    "type": "movie",
    "vote_average": 7.877,
    "vote_count": 77
+  },
+  "movie:13373": {
+   "backdrop_path": "/le7HI4p1gWRIIZ1FdfUfyy0Cj3S.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Damian",
+     "n": "Alex Etel"
+    },
+    {
+     "c": "Anthony",
+     "n": "Lewis McGibbon"
+    },
+    {
+     "c": "Ronnie",
+     "n": "James Nesbitt"
+    },
+    {
+     "c": "Dorothy",
+     "n": "Daisy Donovan"
+    },
+    {
+     "c": "The Man",
+     "n": "Christopher Fulford"
+    },
+    {
+     "c": "St Francis",
+     "n": "Enzo Cilenti"
+    },
+    {
+     "c": "Saint Peter",
+     "n": "Alun Armstrong"
+    },
+    {
+     "c": "Maureen",
+     "n": "Jane Hogarth"
+    },
+    {
+     "c": "Community Policeman",
+     "n": "Pearce Quigley"
+    },
+    {
+     "c": "Saint Joseph",
+     "n": "Nasser Memarzia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Family"
+   ],
+   "id": 13373,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Two boys, still grieving the death of their mother, find themselves the unwitting benefactors of a bag of bank robbery loot in the week before the United Kingdom switches its official currency to the Euro. What's a kid to do?",
+   "popularity": 1.6908,
+   "poster_path": "/rypaIocIovS3ICLKKakMvHDDQ0T.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-04-08",
+   "revenue": 11782282,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Can anyone be truly good?",
+   "title": "Millions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.399,
+   "vote_count": 430
   },
   "movie:1339173": {
    "backdrop_path": "/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
@@ -1186,6 +1307,395 @@
    "vote_average": 4.7,
    "vote_count": 28
   },
+  "movie:18573": {
+   "backdrop_path": "/dNRjBNbwQAx4v4lgv4GR0PAzqXC.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Henry Jarrod",
+     "n": "Vincent Price"
+    },
+    {
+     "c": "Tom Brennan",
+     "n": "Frank Lovejoy"
+    },
+    {
+     "c": "Sue Allen",
+     "n": "Phyllis Kirk"
+    },
+    {
+     "c": "Cathy Gray",
+     "n": "Carolyn Jones"
+    },
+    {
+     "c": "Scott Andrews",
+     "n": "Paul Picerni"
+    },
+    {
+     "c": "Matthew Burke",
+     "n": "Roy Roberts"
+    },
+    {
+     "c": "Mrs. Andrews",
+     "n": "Angela Clarke"
+    },
+    {
+     "c": "Sidney Wallace",
+     "n": "Paul Cavanagh"
+    },
+    {
+     "c": "Shane",
+     "n": "Dabbs Greer"
+    },
+    {
+     "c": "Igor",
+     "n": "Charles Bronson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "André de Toth"
+   ],
+   "genres": [
+    "Horror",
+    "Crime"
+   ],
+   "id": 18573,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sculptor opens a wax museum to showcase the likenesses of famous historical figures, but quickly runs into trouble when his business partner demands the exhibits become more extreme in order to increase profits.",
+   "popularity": 2.6309,
+   "poster_path": "/5Di30K5NzAtYMjBSAABwgZHV0Ro.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1953-04-16",
+   "revenue": 23750319,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You've never been scared until you've been scared in 3-D.",
+   "title": "House of Wax",
+   "trailer": {
+    "key": "M5RkKx-9tEM",
+    "name": "Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.929,
+   "vote_count": 410
+  },
+  "movie:22373": {
+   "backdrop_path": "/xLjv2ah3MeLrkm6EoViJR9ZGznj.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Davide",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Antonio",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Angelica",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Neval",
+     "n": "Serra Yılmaz"
+    },
+    {
+     "c": "Sergio",
+     "n": "Ennio Fantastichini"
+    },
+    {
+     "c": "Roberta",
+     "n": "Ambra Angiolini"
+    },
+    {
+     "c": "Lorenzo Marchetti",
+     "n": "Luca Argentero"
+    },
+    {
+     "c": "Roberto",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Paolo",
+     "n": "Michelangelo Tommaso"
+    },
+    {
+     "c": "Vittorio Marchetti",
+     "n": "Luigi Diberti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Ferzan Özpetek"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 22373,
+   "industry": "world",
+   "origin_country": [
+    "TR",
+    "IT",
+    "FR"
+   ],
+   "original_language": "it",
+   "overview": "This film focuses on contemporary 30- and 40-somethings trying to make sense of their lives in an age in which the old certainties have disappeared. Lorenzo and Davide make their lives together within a circle that includes Antonio and Angelica, married with children; Nerval and her policeman husband.",
+   "popularity": 0.5277,
+   "poster_path": "/qpzR06PrVDaJGBaSngEMUhVhhw.jpg",
+   "production_countries": [
+    "IT",
+    "FR",
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-23",
+   "revenue": 11203911,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Saturn in Opposition",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 402
+  },
+  "movie:25673": {
+   "backdrop_path": "/49LzDsuSefYnEOaNjsoYLMUDn0r.jpg",
+   "budget": 2300000,
+   "cast": [
+    {
+     "c": "George Eastman",
+     "n": "Montgomery Clift"
+    },
+    {
+     "c": "Angela Vickers",
+     "n": "Elizabeth Taylor"
+    },
+    {
+     "c": "Alice Tripp",
+     "n": "Shelley Winters"
+    },
+    {
+     "c": "Hannah Eastman",
+     "n": "Anne Revere"
+    },
+    {
+     "c": "Earl Eastman",
+     "n": "Keefe Brasselle"
+    },
+    {
+     "c": "Defense Attorney Bellows",
+     "n": "Fred Clark"
+    },
+    {
+     "c": "District Attorney R. Frank Marlowe",
+     "n": "Raymond Burr"
+    },
+    {
+     "c": "Charles Eastman",
+     "n": "Herbert Heyes"
+    },
+    {
+     "c": "Anthony Vickers",
+     "n": "Shepperd Strudwick"
+    },
+    {
+     "c": "Mrs. Ann Vickers",
+     "n": "Frieda Inescort"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Stevens"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+   ],
+   "id": 25673,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young social climber wins the heart of a beautiful heiress but his former girlfriend's pregnancy stands in the way of his ambition.",
+   "popularity": 2.3632,
+   "poster_path": "/tkaFbPy8kEQ06xggPqhdiGJuVA4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1951-06-12",
+   "revenue": 7000000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Young people asking so much of life... taking so much of love!",
+   "title": "A Place in the Sun",
+   "trailer": {
+    "key": "sk7a9EyMGiY",
+    "name": "A Place in the Sun - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 434
+  },
   "movie:26973": {
    "backdrop_path": "/nehq8TDd7WnwBnTLnvv8BQNekzW.jpg",
    "budget": 3500000,
@@ -1284,6 +1794,126 @@
    "type": "movie",
    "vote_average": 6.952,
    "vote_count": 444
+  },
+  "movie:343173": {
+   "backdrop_path": "/iohHu2oU1esBnvPqE038QfhnQut.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Archer",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Melanie Gibbs",
+     "n": "Jessica De Gouw"
+    },
+    {
+     "c": "Lewis Evans",
+     "n": "Martin McCann"
+    },
+    {
+     "c": "Wilton",
+     "n": "Claire Goose"
+    },
+    {
+     "c": "Sadie",
+     "n": "Elen Rhys"
+    },
+    {
+     "c": "Jack",
+     "n": "Jassa Ahluwalia"
+    },
+    {
+     "c": "Alfie",
+     "n": "Lawrence Walker"
+    },
+    {
+     "c": "Nevins",
+     "n": "Kevin Shen"
+    },
+    {
+     "c": "Spencer",
+     "n": "Sean Power"
+    },
+    {
+     "c": "Mike",
+     "n": "Jamie Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steve Barker"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 343173,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The ReZort, a post apocalyptic safari, offers paying guests the opportunity to kill zombies in the wake of an outbreak.",
+   "popularity": 1.4159,
+   "poster_path": "/oXeDhUJaOxUs1n6fHRhWVuuVBju.jpg",
+   "production_countries": [
+    "BE",
+    "GB",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-15",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A vacation to die for",
+   "title": "The Rezort",
+   "trailer": {
+    "key": "Hdos6JaXcBo",
+    "name": "THE REZORT - Official Trailer (In Cinemas 1 Sep 2016)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 419
   },
   "movie:452773": {
    "backdrop_path": "/4Pv4JRqT7LT1F290JbbjQsaB6LD.jpg",
@@ -1488,6 +2118,98 @@
    "vote_average": 5.529,
    "vote_count": 483
   },
+  "movie:495673": {
+   "backdrop_path": "/8iHlvMbtzXzswf0GDglwM7kKyqv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baaba Keita",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Ricardo",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Roland",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "La Consul",
+     "n": "Julie Ferrier"
+    },
+    {
+     "c": "Zohra",
+     "n": "Biyouna"
+    },
+    {
+     "c": "Lin",
+     "n": "Diem Nguyen"
+    },
+    {
+     "c": "Ladji Touré",
+     "n": "Ériq Ebouaney"
+    },
+    {
+     "c": "Abdoulaye",
+     "n": "Issaka Sawadogo"
+    },
+    {
+     "c": "Iman Touré",
+     "n": "Maïmouna Gueye"
+    },
+    {
+     "c": "Max Giraud",
+     "n": "Sebastien Vandenberghe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Rachid Bouchareb"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 495673,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When a childhood friend from Miami gets killed after he comes to warn of encroaching drug gangs, Baaba moves to Miami and teams up with a local officer to bring down the criminals.",
+   "popularity": 1.566,
+   "poster_path": "/6lY1GnJcZeZq3PXsoEwrF3izufJ.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-17",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Belleville Cop",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 400
+  },
   "movie:615173": {
    "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
    "budget": 0,
@@ -1658,6 +2380,314 @@
    "vote_average": 7.452,
    "vote_count": 494
   },
+  "movie:6173": {
+   "backdrop_path": "/9hm3gDSYoFs2ueB7AiVTEFw91X8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Angeli",
+     "n": "Vincent Cassel"
+    },
+    {
+     "c": "Carla Behm",
+     "n": "Emmanuelle Devos"
+    },
+    {
+     "c": "Marchand",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Masson",
+     "n": "Olivier Perrier"
+    },
+    {
+     "c": "Annie, Carla's friend",
+     "n": "Olivia Bonamy"
+    },
+    {
+     "c": "Morel",
+     "n": "Bernard Alane"
+    },
+    {
+     "c": "Josie Marchand",
+     "n": "Céline Samie"
+    },
+    {
+     "c": "Keller",
+     "n": "Pierre Diot"
+    },
+    {
+     "c": "Jean-François",
+     "n": "François Loriquet"
+    },
+    {
+     "c": "Mammouth",
+     "n": "Serge Onteniente"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Jacques Audiard"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 6173,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "She is almost deaf and she lip-reads. He is an ex-convict. She wants to help him. He thinks no one can help except himself.",
+   "popularity": 1.3695,
+   "poster_path": "/1YIkOan9JzbBVAQRvq5fIjHHBAP.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-10-17",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Read My Lips",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.038,
+   "vote_count": 400
+  },
+  "movie:760873": {
+   "backdrop_path": "/etXdtwnruC2ZM1ZdQJ8V3d71Eyd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Blake",
+     "n": "Nora Arnezeder"
+    },
+    {
+     "c": "Gibson",
+     "n": "Iain Glen"
+    },
+    {
+     "c": "Narvik",
+     "n": "Sarah-Sofie Boussnina"
+    },
+    {
+     "c": "Tucker",
+     "n": "Ṣọpẹ́ Dìrísù"
+    },
+    {
+     "c": "Father",
+     "n": "Sebastian Roché"
+    },
+    {
+     "c": "Paling",
+     "n": "Joel Basman"
+    },
+    {
+     "c": "Munay",
+     "n": "Kotti Yun"
+    },
+    {
+     "c": "Maila",
+     "n": "Bella Bading"
+    },
+    {
+     "c": "Young Blake",
+     "n": "Cloé Heinrich"
+    },
+    {
+     "c": "Neil",
+     "n": "Eden Gough"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Fehlbaum"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 760873,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "CH"
+   ],
+   "original_language": "de",
+   "overview": "In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.",
+   "popularity": 3.0941,
+   "poster_path": "/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg",
+   "production_countries": [
+    "DE",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-08-26",
+   "revenue": 328914,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Will Earth wait for us?",
+   "title": "The Colony",
+   "trailer": {
+    "key": "H4yKeBYkHn0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.722,
+   "vote_count": 398
+  },
   "movie:810873": {
    "backdrop_path": "/2r0O6rOOSfsZ3bIpWTOt0Xabxkf.jpg",
    "budget": 0,
@@ -1766,6 +2796,444 @@
    "type": "movie",
    "vote_average": 6.416,
    "vote_count": 446
+  },
+  "movie:85373": {
+   "backdrop_path": "/iV3FuoJa6d6LtYVteQxLgoW19X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ash",
+     "n": "Falk Hentschel"
+    },
+    {
+     "c": "Eva",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Eddie",
+     "n": "George Sampson"
+    },
+    {
+     "c": "",
+     "n": "Stephanie Nguyen"
+    },
+    {
+     "c": "",
+     "n": "Delphine Nguyen"
+    },
+    {
+     "c": "",
+     "n": "Niek Traa"
+    },
+    {
+     "c": "",
+     "n": "Elisabetta Di Carlo"
+    },
+    {
+     "c": "",
+     "n": "Samuel Revell"
+    },
+    {
+     "c": "",
+     "n": "Kaito Masai"
+    },
+    {
+     "c": "",
+     "n": "Ali Ramdani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Max Giwa",
+    "Dania Pasquini"
+   ],
+   "genres": [
+    "Music",
+    "Romance",
+    "Drama"
+   ],
+   "id": 85373,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After suffering humiliation by the crew Invincible, street dancer Ash looks to gather the best dancers from around the world for a rematch.",
+   "popularity": 1.3965,
+   "poster_path": "/bwg8qnQKAbT3EJubK8qyWfi9hTl.jpg",
+   "production_countries": [
+    "DE",
+    "IT",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-30",
+   "revenue": 2653454,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The beat is back",
+   "title": "StreetDance 2",
+   "trailer": {
+    "key": "lZlk3XSDhBE",
+    "name": "STREETDANCE 2 OFFICIAL TEASER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 413
+  },
+  "movie:8973": {
+   "backdrop_path": "/xeoSaPhZ3SCizkCQaofVB9w6iZE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry D'Amour",
+     "n": "Scott Bakula"
+    },
+    {
+     "c": "Philip Swann",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Dorothea Swann",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Valentin",
+     "n": "Joel Swetow"
+    },
+    {
+     "c": "Nix",
+     "n": "Daniel von Bargen"
+    },
+    {
+     "c": "Butterfield",
+     "n": "Barry Del Sherman"
+    },
+    {
+     "c": "Caspar Quaid",
+     "n": "Joseph Latimore"
+    },
+    {
+     "c": "Jennifer Desiderio",
+     "n": "Sheila Tousey"
+    },
+    {
+     "c": "Vinovich",
+     "n": "Vincent Schiavelli"
+    },
+    {
+     "c": "Young Dorothea",
+     "n": "Ashley Tesoro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clive Barker"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 8973,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a routine case in L.A., NY private investigator Harry D'Amour stumbles over members of a fanatic cult who are preparing for the resurrection of their leader Nix, a powerful magician who was killed 13 years earlier.",
+   "popularity": 2.5787,
+   "poster_path": "/8MZu8s01psozeTuD6OzstP4vSvM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qUSKopZ7YFZ6N1dUpTbNhgZd5FH.png",
+     "name": "ScreenPix Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu1q89warmeMRwZRMgWQSl6GIYV.png",
+     "name": "ScreenPix Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-08-25",
+   "revenue": 13294594,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for the coming.",
+   "title": "Lord of Illusions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 401
+  },
+  "movie:919573": {
+   "backdrop_path": "/w2KUMhuk3HZVsdGLCLiuFam7kEz.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Abel Lefranc",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Michel Ferrand",
+     "n": "Roschdy Zem"
+    },
+    {
+     "c": "Clémence Genièvre",
+     "n": "Noémie Merlant"
+    },
+    {
+     "c": "Sylvie Lefranc",
+     "n": "Anouk Grinberg"
+    },
+    {
+     "c": "Jean-Paul",
+     "n": "Jean-Claude Pautot"
+    },
+    {
+     "c": "Caviar truck driver",
+     "n": "Yanisse Kebbab"
+    },
+    {
+     "c": "Sylvie's witness",
+     "n": "Léa Wiazemsky"
+    },
+    {
+     "c": "Woman at the aquarium",
+     "n": "Manda Touré"
+    },
+    {
+     "c": "Maud",
+     "n": "Olga Amelchenko"
+    },
+    {
+     "c": "Chosen one at the first marriage",
+     "n": "Romain Blachier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Louis Garrel"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+   ],
+   "id": 919573,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Sylvie, a nearly sixty-year-old woman, has fallen in love with Michel, a thug she marries in prison. The couple dream of starting again with a clean slate by opening a flower shop. But Sylvie’s son Abel, convinced that Michel will fall into a life of crime, disapproves of this relationship.",
+   "popularity": 0.8711,
+   "poster_path": "/4nQ7hBCfr8mS0NAzDj0dg5Atq1t.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-12",
+   "revenue": 5175806,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Innocent",
+   "trailer": {
+    "key": "P5gQ7pp_kdc",
+    "name": "UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.724,
+   "vote_count": 384
   },
   "tv:1973": {
    "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",

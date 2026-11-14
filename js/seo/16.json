@@ -1,6 +1,6 @@
 {
  "bucket": "16",
- "count": 38,
+ "count": 42,
  "titles": {
   "movie:1034716": {
    "d": "People We Meet on Vacation (2026): Comedy/Romance film. Story: Poppy's a free spirit. Alex loves a plan. After years… See cast and budget $1M.",
@@ -511,6 +511,70 @@
    "t": "Simpsley (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:2016": {
+   "d": "Days of Glory (2006): Drama/History film. Story: 1943. They have never stepped foot on French soil but… See cast, budget $14.5M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eKYnSOV7UBj0zCSCmnD1GFVFMTs.jpg",
+   "industry": "world",
+   "k": "Days of Glory, Days of Glory movie, Days of Glory cast, Days of Glory story, Days of Glory box office collection, Days of Glory budget, Days of Glory review, Days of Glory rating, Days of Glory release date, Days of Glory Drama, Days of Glory History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     },
+     {
+      "@type": "Person",
+      "name": "Samy Naceri"
+     },
+     {
+      "@type": "Person",
+      "name": "Roschdy Zem"
+     },
+     {
+      "@type": "Person",
+      "name": "Sami Bouajila"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Blancan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 422,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Days of Glory (2006): Drama/History film. Story: 1943. They have never stepped foot on French soil but… See cast, budget $14.5M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rachid Bouchareb"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eKYnSOV7UBj0zCSCmnD1GFVFMTs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2016",
+    "name": "Days of Glory",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-09-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2016"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Days of Glory (2006)</h1>\n<p class=\"ssr-lead\">1943. They have never stepped foot on French soil but because France was at war, Said, Abdelkader, Messaoud and Yassir enlist in the French Army, along with 130,000 other “indigenous” soldiers, to liberate the “fatherland” from the Nazi enemy. Heroes that history has forgotten...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2006</li><li>Runtime: 128 minutes</li><li>Director: Rachid Bouchareb</li><li>Genres: Drama, History, War</li><li>Budget: $14.5M</li><li>TMDB rating: 6.7/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamel Debbouze as Saïd</li><li>Samy Naceri as Yassir</li><li>Roschdy Zem as Messaoud</li><li>Sami Bouajila as Abdelkader</li><li>Bernard Blancan as Sergeant Martinez</li><li>Mathieu Simonet as Corporal Leroux</li><li>Benoît Giros as Captain Durieux</li><li>Mélanie Laurent as Margueritte</li><li>Antoine Chappey as Colonel</li><li>Assaad Bouab as Larbi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "Days of Glory (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:216": {
    "d": "Ali: Fear Eats the Soul (1974): Romance/Drama film. Story: Emmi Kurowski, a cleaning lady, is lonely in her old… See cast and budget $130.0k.",
    "img": "https://image.tmdb.org/t/p/w780/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
@@ -638,6 +702,70 @@
    "t": "Italiano medio (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:40016": {
+   "d": "Birdemic: Shock and Terror (2010): Romance/Horror film. Story: A platoon of eagles and vultures attacks the… See cast, budget $10.0k, and TMDB rating 2.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wDrs28ZYYnXVIeb87H0dCYlWiFA.jpg",
+   "industry": "world",
+   "k": "Birdemic: Shock and Terror, Birdemic: Shock and Terror movie, Birdemic: Shock and Terror cast, Birdemic: Shock and Terror story, Birdemic: Shock and Terror box office collection, Birdemic: Shock and Terror budget, Birdemic: Shock and Terror review, Birdemic: Shock and Terror rating, Birdemic: Shock and Terror release date, Birdemic: Shock and Terror Romance, Birdemic: Shock and Terror Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alan Bagh"
+     },
+     {
+      "@type": "Person",
+      "name": "Whitney Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Janae Caster"
+     },
+     {
+      "@type": "Person",
+      "name": "Colton Osborne"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Sessa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 2.2,
+     "worstRating": 0
+    },
+    "description": "Birdemic: Shock and Terror (2010): Romance/Horror film. Story: A platoon of eagles and vultures attacks the… See cast, budget $10.0k, and TMDB rating 2.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Nguyen"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Romance",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wDrs28ZYYnXVIeb87H0dCYlWiFA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=40016",
+    "name": "Birdemic: Shock and Terror",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=40016"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Birdemic: Shock and Terror (2010)</h1>\n<p class=\"ssr-lead\">A platoon of eagles and vultures attacks the residents of a small town. Many people die. It&#x27;s not known what caused the flying menace to attack. Two people manage to fight back, but will they survive Birdemic?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2010</li><li>Runtime: 93 minutes</li><li>Director: James Nguyen</li><li>Genres: Romance, Horror, Thriller</li><li>Budget: $10.0k</li><li>TMDB rating: 2.2/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alan Bagh as Rod</li><li>Whitney Moore as Nathalie</li><li>Janae Caster as Susan</li><li>Colton Osborne as Tony</li><li>Adam Sessa as Ramsey</li><li>Catherine Batcha as Becky</li><li>Patsy van Ettinger as Nat&#x27;s Mom</li><li>Damien Carter as Nightclub Singer</li><li>Rick Camp as Dr. Jones</li><li>Stephen Gustavson as Tree Hugger</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Birdemic: Shock and Terror (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:44716": {
    "d": "In a Better World (2010): Drama film. Story: The lives of two Danish families cross each other… See cast, budget $15M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
@@ -700,6 +828,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In a Better World (2010)</h1>\n<p class=\"ssr-lead\">The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2010</li><li>Runtime: 118 minutes</li><li>Director: Susanne Bier</li><li>Genres: Drama</li><li>Budget: $15M</li><li>TMDB rating: 7.1/10 (482 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mikael Persbrandt as Anton</li><li>Trine Dyrholm as Marianne</li><li>Ulrich Thomsen as Claus</li><li>William Jøhnk Nielsen as Christian</li><li>Markus Rygaard as Elias</li><li>Martin Buch as Niels</li><li>Anette Støvelbæk as Hanne</li><li>Kim Bodnia as Lars</li><li>Tina Gylling Mortensen as Social Worker</li><li>Stig Hoffmeyer as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "In a Better World (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:459616": {
+   "d": "The Brand New Adventures of Aladdin (2018): Comedy/Fantasy film. Story: After freeing Baghdad from its terrible ruler, Aladin… See cast and budget $18.9M.",
+   "img": "https://image.tmdb.org/t/p/w780/uPWJAJJwwFuqzsZBsIiQ4vHJ6Ya.jpg",
+   "industry": "world",
+   "k": "The Brand New Adventures of Aladdin, The Brand New Adventures of Aladdin movie, The Brand New Adventures of Aladdin cast, The Brand New Adventures of Aladdin story, The Brand New Adventures of Aladdin box office collection, The Brand New Adventures of Aladdin budget, The Brand New Adventures of Aladdin review, The Brand New Adventures of Aladdin rating, The Brand New Adventures of Aladdin release date, The Brand New Adventures of Aladdin trailer, The Brand New Adventures of Aladdin Comedy, The Brand New Adventures of Aladdin Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kev Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramzy Bedia"
+     },
+     {
+      "@type": "Person",
+      "name": "Éric Judor"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Lenoir"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 408,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "The Brand New Adventures of Aladdin (2018): Comedy/Fantasy film. Story: After freeing Baghdad from its terrible ruler, Aladin… See cast and budget $18.9M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lionel Steketee"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uPWJAJJwwFuqzsZBsIiQ4vHJ6Ya.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=459616",
+    "name": "The Brand New Adventures of Aladdin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=459616"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Brand New Adventures of Aladdin (2018)</h1>\n<p class=\"ssr-lead\">After freeing Baghdad from its terrible ruler, Aladin delays his marriage to the princess until a new dictator arrives to take over the city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 2018</li><li>Runtime: 98 minutes</li><li>Director: Lionel Steketee</li><li>Genres: Comedy, Fantasy, Adventure</li><li>Budget: $18.9M</li><li>TMDB rating: 4.8/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kev Adams as Aladin / Sam</li><li>Jamel Debbouze as Shah Zaman / Marco</li><li>Ramzy Bedia as Shah Zamam&#x27;s Genie</li><li>Éric Judor as Génie</li><li>Noémie Lenoir as Flight Attendant</li><li>Vanessa Guide as Shallia / Sofia</li><li>Wahid Bouzidi as Wahid</li><li>Booder as Soldier Aladin</li><li>Gérard Depardieu as Christopher Colombus</li><li>Jean-Paul Rouve as Vizier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "The Brand New Adventures of Aladdin (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:500916": {
    "d": "Primal (2019): Action/Adventure film. Story: A big-game hunter for zoos books passage on a Greek… See cast, budget $9M, and TMDB rating 5.6/10.",
@@ -954,6 +1146,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Money Talks (1997)</h1>\n<p class=\"ssr-lead\">Sought by police and criminals, a small-time huckster makes a deal with a TV newsman for protection.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 1997</li><li>Runtime: 97 minutes</li><li>Director: Brett Ratner</li><li>Genres: Action, Comedy, Crime, Thriller</li><li>Budget: $25M</li><li>TMDB rating: 6.0/10 (451 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Tucker as Franklin Hatchett</li><li>Charlie Sheen as James Russell</li><li>Heather Locklear as Grace Cipriani</li><li>Elise Neal as Paula</li><li>Paul Gleason as Lt. Bobby Pickett</li><li>David Warner as Barclay</li><li>Gérard Ismaël as Raymond Villard</li><li>Michael Wright as Aaron</li><li>Paul Sorvino as Guy Cipriani</li><li>Larry Hankin as Roland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Money Talks (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
+  },
+  "movie:9616": {
+   "d": "The Order (2003): Fantasy/Mystery film. Story: For centuries, a secret Order of priests has existed… See cast, budget $35M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7KBJf963tZBijpP6bKOJrxkowGp.jpg",
+   "industry": "world",
+   "k": "The Order, The Order movie, The Order cast, The Order story, The Order box office collection, The Order budget, The Order review, The Order rating, The Order release date, The Order Fantasy, The Order Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Heath Ledger"
+     },
+     {
+      "@type": "Person",
+      "name": "Shannyn Sossamon"
+     },
+     {
+      "@type": "Person",
+      "name": "Benno Fürmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Addy"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Weller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Order (2003): Fantasy/Mystery film. Story: For centuries, a secret Order of priests has existed… See cast, budget $35M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Helgeland"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Fantasy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7KBJf963tZBijpP6bKOJrxkowGp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9616",
+    "name": "The Order",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9616"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Order (2003)</h1>\n<p class=\"ssr-lead\">For centuries, a secret Order of priests has existed within the Church. A renegade priest, Father Alex Bernier, is sent to Rome to investigate the mysterious death of one of the Order&#x27;s most revered members. Following a series of strangely similar killings, Bernier launches an investigation that forces him to confront unimaginable evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2003</li><li>Runtime: 102 minutes</li><li>Director: Brian Helgeland</li><li>Genres: Fantasy, Mystery, Thriller, Romance, Drama, Horror</li><li>Budget: $35M</li><li>TMDB rating: 5.7/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Heath Ledger as Alex Bernier</li><li>Shannyn Sossamon as Mara Sinclair</li><li>Benno Fürmann as William Eden</li><li>Mark Addy as Thomas Garrett</li><li>Peter Weller as Driscoll</li><li>Francesco Carnelutti as Dominic</li><li>Mattia Sbragia as Apathetic Bishop</li><li>Richard Bremmer as Bookstore Owner</li><li>Maria Cristina Maccà as Sister Franca</li><li>Rosalinda Celentano as Faraway Eyes Girl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Order (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "tv:103516": {
    "d": "Star Trek: Strange New Worlds (2022) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: Follow Captain Christopher Pike, Science Officer… and cast.",

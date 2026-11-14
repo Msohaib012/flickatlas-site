@@ -1,7 +1,135 @@
 {
  "bucket": "44",
- "count": 33,
+ "count": 40,
  "titles": {
+  "movie:10544": {
+   "d": "Ned Kelly (2003): Action/Adventure film. Story: After getting threatened by Kelly's friends and… See cast, TMDB rating 6.0/10, and release date 22 March 2003.",
+   "img": "https://image.tmdb.org/t/p/w780/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg",
+   "industry": "world",
+   "k": "Ned Kelly, Ned Kelly movie, Ned Kelly cast, Ned Kelly story, Ned Kelly box office collection, Ned Kelly budget, Ned Kelly review, Ned Kelly rating, Ned Kelly release date, Ned Kelly Action, Ned Kelly Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Heath Ledger"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Bloom"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Rush"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Watts"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Edgerton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Ned Kelly (2003): Action/Adventure film. Story: After getting threatened by Kelly's friends and… See cast, TMDB rating 6.0/10, and release date 22 March 2003.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gregor Jordan"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10544",
+    "name": "Ned Kelly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-03-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ned Kelly (2003)</h1>\n<p class=\"ssr-lead\">After getting threatened by Kelly&#x27;s friends and family, Constable Fitzpatrick places the blame on Ned Kelly and exaggerates what happened. With the biggest ever award available, Kelly and his gang set into the wild, to remain hidden from everyone who seeks them. Even if it means having his family arrested, the members of the Kelly Gang stay hidden and plan a way to get their names cleared.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 2003</li><li>Runtime: 110 minutes</li><li>Director: Gregor Jordan</li><li>Genres: Action, Adventure, Drama, History</li><li>TMDB rating: 6.0/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Heath Ledger as Ned Kelly</li><li>Orlando Bloom as Joseph Byrne</li><li>Geoffrey Rush as Superintendent Francis Hare</li><li>Naomi Watts as Julia Cook</li><li>Joel Edgerton as Aaron Sherritt</li><li>Laurence Kinlan as Dan Kelly</li><li>Philip Barantini as Steve Hart</li><li>Kerry Condon as Kate Kelly</li><li>Kris McQuade as Ellen Kelly</li><li>Emily Browning as Grace Kelly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ned Kelly (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:10744": {
+   "d": "The Cooler (2003): Romance/Drama film. Story: Bernie works at a Las Vegas casino, where he uses his… See cast, budget $4M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7oVJSFrqARW4jRRimEqEpHKAp1Z.jpg",
+   "industry": "world",
+   "k": "The Cooler, The Cooler movie, The Cooler cast, The Cooler story, The Cooler box office collection, The Cooler budget, The Cooler review, The Cooler rating, The Cooler release date, The Cooler Romance, The Cooler Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William H. Macy"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bello"
+     },
+     {
+      "@type": "Person",
+      "name": "Shawn Hatosy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Livingston"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Cooler (2003): Romance/Drama film. Story: Bernie works at a Las Vegas casino, where he uses his… See cast, budget $4M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wayne Kramer"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7oVJSFrqARW4jRRimEqEpHKAp1Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10744",
+    "name": "The Cooler",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-11-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Cooler (2003)</h1>\n<p class=\"ssr-lead\">Bernie works at a Las Vegas casino, where he uses his innate ability to bring about misfortune in those around him to jinx gamblers into losing. His imposing boss, Shelly Kaplow, is happy with the arrangement. But Bernie finds unexpected happiness when he begins dating attractive waitress Natalie Belisario.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2003</li><li>Runtime: 101 minutes</li><li>Director: Wayne Kramer</li><li>Genres: Romance, Drama</li><li>Budget: $4M</li><li>TMDB rating: 6.7/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William H. Macy as Bernie Lootz</li><li>Alec Baldwin as Shelly Kaplow</li><li>Maria Bello as Natalie Belisario</li><li>Shawn Hatosy as Mikey</li><li>Ron Livingston as Larry Sokolov</li><li>Paul Sorvino as Buddy Stafford</li><li>Estella Warren as Charlene</li><li>Arthur J. Nascarella as Nicky Fingers Bonnatto</li><li>Joey Fatone as Johnny Cappella</li><li>M.C. Gainey as Highway Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Cooler (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:10944": {
    "d": "In the Cut (2003): Drama/Mystery film. Story: A New York City writing professor, Frannie Avery, has… See cast, budget $12M, and TMDB rating 5.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/e1hIGr5HTAPPiHNs7fMlW2JMSPl.jpg",
@@ -521,6 +649,70 @@
    "t": "Untold UK: Liverpool's Miracle of Istanbul (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:2144": {
+   "d": "One Night at McCool's (2001): Comedy/Crime film. Story: On an ordinary night, in an ordinary part of town, a… See cast, budget $18M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wLNMNO87pYqUAgbJE5xZGNUK46S.jpg",
+   "industry": "world",
+   "k": "One Night at McCool's, One Night at McCool's movie, One Night at McCool's cast, One Night at McCool's story, One Night at McCool's box office collection, One Night at McCool's budget, One Night at McCool's review, One Night at McCool's rating, One Night at McCool's release date, One Night at McCool's Comedy, One Night at McCool's Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Dillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Liv Tyler"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Reiser"
+     },
+     {
+      "@type": "Person",
+      "name": "Reba McEntire"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 397,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "One Night at McCool's (2001): Comedy/Crime film. Story: On an ordinary night, in an ordinary part of town, a… See cast, budget $18M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Harald Zwart"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wLNMNO87pYqUAgbJE5xZGNUK46S.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2144",
+    "name": "One Night at McCool's",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-04-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2144"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Night at McCool&#x27;s (2001)</h1>\n<p class=\"ssr-lead\">On an ordinary night, in an ordinary part of town, a beautiful young woman walks into a bar. Her name is Jewel, and before long she is chatting to bartender Randy. The pair leave together, but he ends up getting into a tussle with her criminal boyfriend, who she then shoots dead, later persuading Randy to take the rap for her. But this isn&#x27;t the end of it, as both Randy&#x27;s cousin Carl and the detective assigned to the murder case also fall for Jewel&#x27;s charms and find themselves caught up in the ensuing events. It seems that any man who meets Jewel falls instantly in love with her, and she&#x27;s going to use this fully to her own advantage, leaving a trail of havoc in her wake. It also seems that she is going to get away with it - that is, until Randy decides to hire a hitman...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 2001</li><li>Runtime: 93 minutes</li><li>Director: Harald Zwart</li><li>Genres: Comedy, Crime</li><li>Budget: $18M</li><li>TMDB rating: 5.9/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Dillon as Randy</li><li>Liv Tyler as Jewel Valentino</li><li>Michael Douglas as Mr. Burmeister</li><li>Paul Reiser as Carl Harding</li><li>Reba McEntire as Dr. Green</li><li>John Goodman as Detective Dehling</li><li>Richard Jenkins as Father Jimmy</li><li>Andrew Dice Clay as Utah / Elmo</li><li>Mary Jo Smith as Bingo Caller</li><li>Sandy Martin as Bingo Vendor Woman</li></ul>\n</article>",
+   "t": "One Night at McCool's (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:317744": {
    "d": "Careful What You Wish For (2015): Drama/Thriller film. Story: A guy gets more than he bargained for after entering… See cast and budget $8M.",
    "img": "https://image.tmdb.org/t/p/w780/kyx15eUlLQy7HHm8HRuvi9QagO8.jpg",
@@ -585,6 +777,198 @@
    "t": "Careful What You Wish For (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:318044": {
+   "d": "What Happened, Miss Simone? (2015): Music/Documentary film. Story: The film chronicles Nina Simone's journey from child… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xfMbreyyytL6vo0qsjIhUwEcMAO.jpg",
+   "industry": "world",
+   "k": "What Happened, Miss Simone?, What Happened, Miss Simone? movie, What Happened, Miss Simone? cast, What Happened, Miss Simone? story, What Happened, Miss Simone? box office collection, What Happened, Miss Simone? budget, What Happened, Miss Simone? review, What Happened, Miss Simone? rating, What Happened, Miss Simone? release date, What Happened, Miss Simone? Music, What Happened, Miss Simone? Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nina Simone"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Simone"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Gregory"
+     },
+     {
+      "@type": "Person",
+      "name": "Stanley Crouch"
+     },
+     {
+      "@type": "Person",
+      "name": "Elisabeth Henry-Macari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "What Happened, Miss Simone? (2015): Music/Documentary film. Story: The film chronicles Nina Simone's journey from child… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Liz Garbus"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Music",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xfMbreyyytL6vo0qsjIhUwEcMAO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=318044",
+    "name": "What Happened, Miss Simone?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=318044"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>What Happened, Miss Simone? (2015)</h1>\n<p class=\"ssr-lead\">The film chronicles Nina Simone&#x27;s journey from child piano prodigy to iconic musician and passionate activist, told in her own words.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2015</li><li>Runtime: 101 minutes</li><li>Director: Liz Garbus</li><li>Genres: Music, Documentary</li><li>TMDB rating: 7.4/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nina Simone as Herself</li><li>Lisa Simone as Herself</li><li>Dick Gregory as Himself</li><li>Stanley Crouch as Himself</li><li>Elisabeth Henry-Macari as Miss Mazzie</li><li>Ilyasah Shabazz as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "What Happened, Miss Simone? (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:341744": {
+   "d": "Truman (2015): Drama/Comedy film. Story: Tomás, who lives in Canada, travels to Madrid, Spain… See cast, TMDB rating 7.0/10, and release date 24 September 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/iUAFLqAj7p1v8zkOReyd7tjSLDg.jpg",
+   "industry": "world",
+   "k": "Truman, Truman movie, Truman cast, Truman story, Truman box office collection, Truman budget, Truman review, Truman rating, Truman release date, Truman Drama, Truman Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ricardo Darín"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier Cámara"
+     },
+     {
+      "@type": "Person",
+      "name": "Dolores Fonzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduard Fernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Àlex Brendemühl"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Truman (2015): Drama/Comedy film. Story: Tomás, who lives in Canada, travels to Madrid, Spain… See cast, TMDB rating 7.0/10, and release date 24 September 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cesc Gay"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iUAFLqAj7p1v8zkOReyd7tjSLDg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=341744",
+    "name": "Truman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=341744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Truman (2015)</h1>\n<p class=\"ssr-lead\">Tomás, who lives in Canada, travels to Madrid, Spain, to visit his old friend Julián. Both of them, accompanied by Truman, Julián&#x27;s faithful dog, will share many surprising and emotional little moments, triggered by the hard situation Julián is going through, for just a few days.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2015</li><li>Runtime: 105 minutes</li><li>Director: Cesc Gay</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.0/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricardo Darín as Julián</li><li>Javier Cámara as Tomás</li><li>Dolores Fonzi as Paula</li><li>Eduard Fernández as Luis</li><li>Àlex Brendemühl as Veterinarian</li><li>Pedro Casablanc as Doctor</li><li>José Luis Gómez as Producer</li><li>Javier Gutiérrez as Mortician</li><li>Elvira Mínguez as Gloria</li><li>Oriol Pla as Nico</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Truman (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:39144": {
+   "d": "Dragon Ball: Curse of the Blood Rubies (1986): Action/Animation film. Story: The great King Gurumes is searching for the Dragon… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/trUoQPnQy3cAXDx5TknzuBTFiWX.jpg",
+   "industry": "world",
+   "k": "Dragon Ball: Curse of the Blood Rubies, Dragon Ball: Curse of the Blood Rubies movie, Dragon Ball: Curse of the Blood Rubies cast, Dragon Ball: Curse of the Blood Rubies story, Dragon Ball: Curse of the Blood Rubies box office collection, Dragon Ball: Curse of the Blood Rubies budget, Dragon Ball: Curse of the Blood Rubies review, Dragon Ball: Curse of the Blood Rubies rating, Dragon Ball: Curse of the Blood Rubies release date, Dragon Ball: Curse of the Blood Rubies Action, Dragon Ball: Curse of the Blood Rubies Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masako Nozawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiromi Tsuru"
+     },
+     {
+      "@type": "Person",
+      "name": "Naoki Tatsuta"
+     },
+     {
+      "@type": "Person",
+      "name": "Naoko Watanabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Toru Furuya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Dragon Ball: Curse of the Blood Rubies (1986): Action/Animation film. Story: The great King Gurumes is searching for the Dragon… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daisuke Nishio"
+     }
+    ],
+    "duration": "PT50M",
+    "genre": [
+     "Action",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/trUoQPnQy3cAXDx5TknzuBTFiWX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39144",
+    "name": "Dragon Ball: Curse of the Blood Rubies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-12-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39144"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball: Curse of the Blood Rubies (1986)</h1>\n<p class=\"ssr-lead\">The great King Gurumes is searching for the Dragon Balls in order to put a stop to his endless hunger. A young girl named Pansy who lives in the nearby village has had enough of the treachery and decides to seek Muten Rōshi for assistance. Can our heroes save the village and put a stop to the Gurumes Army?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 December 1986</li><li>Runtime: 50 minutes</li><li>Director: Daisuke Nishio</li><li>Genres: Action, Animation, Adventure, Comedy, Fantasy, Science Fiction</li><li>TMDB rating: 6.9/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Son Goku (voice)</li><li>Hiromi Tsuru as Bulma (voice)</li><li>Naoki Tatsuta as Oolong (voice)</li><li>Naoko Watanabe as Pûaru (voice)</li><li>Toru Furuya as Yamcha (voice)</li><li>Kohei Miyauchi as Kame Sen&#x27;nin (voice)</li><li>Mami Koyama as Pasuta (voice)</li><li>Tomiko Suzuki as Panji (voice)</li><li>Kenji Utsumi as Shenlong (voice)</li><li>Shozo Iizuka as Panji no chichi (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Dragon Ball: Curse of the Blood Rubies (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:433244": {
    "d": "Clinical (2017): Thriller/Horror film. Story: A psychiatrist tries to put her life back together… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg",
@@ -648,6 +1032,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Clinical (2017)</h1>\n<p class=\"ssr-lead\">A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2017</li><li>Runtime: 104 minutes</li><li>Director: Alistair Legrand</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.3/10 (453 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinessa Shaw as Dr. Jane Mathis</li><li>Kevin Rahm as Alex</li><li>Aaron Stanford as Miles Richardson</li><li>William Atherton as Terry Drummond</li><li>India Eisley as Nora Green</li><li>Nestor Serrano as Dr. Saul</li><li>Sydney Tamiia Poitier as Clara</li><li>Wilmer Calderon as Greg</li><li>Dionysio Basco as Jeremy Platt</li><li>Adrian Flowers as Charlie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Clinical (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:52744": {
+   "d": "Falling in Love (1984): Drama/Romance film. Story: During shopping for Christmas, Frank and Molly run… See cast, budget $12M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kKoiL1jeLFqqH2StTKvFnT54exu.jpg",
+   "industry": "world",
+   "k": "Falling in Love, Falling in Love movie, Falling in Love cast, Falling in Love story, Falling in Love box office collection, Falling in Love budget, Falling in Love review, Falling in Love rating, Falling in Love release date, Falling in Love trailer, Falling in Love Drama, Falling in Love Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Meryl Streep"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Kaczmarek"
+     },
+     {
+      "@type": "Person",
+      "name": "George Martin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Falling in Love (1984): Drama/Romance film. Story: During shopping for Christmas, Frank and Molly run… See cast, budget $12M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ulu Grosbard"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kKoiL1jeLFqqH2StTKvFnT54exu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=52744",
+    "name": "Falling in Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=52744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Falling in Love (1984)</h1>\n<p class=\"ssr-lead\">During shopping for Christmas, Frank and Molly run into each other. This fleeting short moment will start to change their lives, when they recognize each other months later in the train home and have a good time together. Although both are married and Frank has two little kids, they meet more and more often, their friendship becoming the most precious thing in their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 1984</li><li>Runtime: 106 minutes</li><li>Director: Ulu Grosbard</li><li>Genres: Drama, Romance</li><li>Budget: $12M</li><li>TMDB rating: 6.6/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Frank Raftis</li><li>Meryl Streep as Molly Gilmore</li><li>Harvey Keitel as Ed Lasky</li><li>Jane Kaczmarek as Ann Raftis</li><li>George Martin as John Trainer</li><li>David Clennon as Brian Gilmore</li><li>Dianne Wiest as Isabelle</li><li>Victor Argo as Victor Rawlins</li><li>Wiley Earl as Mike Raftis</li><li>Jesse Bradford as Joe Raftis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Falling in Love (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
   },
   "movie:634544": {
    "d": "Uncle Frank (2020): Drama film. Story: In 1973, when Frank Bledsoe and his 18-year-old niece… See cast, TMDB rating 7.3/10, and release date 25 November 2020.",

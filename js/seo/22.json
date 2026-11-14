@@ -1,7 +1,70 @@
 {
  "bucket": "22",
- "count": 29,
+ "count": 40,
  "titles": {
+  "movie:1063422": {
+   "d": "The Strays (2023): Thriller film. Story: A Black woman's meticulously crafted life of… See cast, TMDB rating 5.5/10, and release date 17 February 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
+   "industry": "world",
+   "k": "The Strays, The Strays movie, The Strays cast, The Strays story, The Strays box office collection, The Strays budget, The Strays review, The Strays rating, The Strays release date, The Strays trailer, The Strays Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ashley Madekwe"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Salinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Jorden Myrie"
+     },
+     {
+      "@type": "Person",
+      "name": "Bukky Bakray"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Paul Small"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 428,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "The Strays (2023): Thriller film. Story: A Black woman's meticulously crafted life of… See cast, TMDB rating 5.5/10, and release date 17 February 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nathaniel Martello-White"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1063422",
+    "name": "The Strays",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1063422"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Strays (2023)</h1>\n<p class=\"ssr-lead\">A Black woman&#x27;s meticulously crafted life of privilege starts to unravel when two strangers show up in her quaint suburban town.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2023</li><li>Runtime: 100 minutes</li><li>Director: Nathaniel Martello-White</li><li>Genres: Thriller</li><li>TMDB rating: 5.5/10 (428 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashley Madekwe as Neve</li><li>Justin Salinger as Ian</li><li>Jorden Myrie as Carl</li><li>Bukky Bakray as Dione</li><li>Samuel Paul Small as Sebastian</li><li>Maria Almeida as Mary</li><li>Caroline Martin as Jessie</li><li>Michael Warburton as Kenneth</li><li>George Greenland as Delivery Guy</li><li>Alfredo Tavares as Smart Customer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Strays (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:11222": {
    "d": "The American Friend (1977): Drama/Thriller film. Story: Tom Ripley, an American who deals in forged art, is… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
@@ -65,6 +128,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The American Friend (1977)</h1>\n<p class=\"ssr-lead\">Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman&#x27;s terminal illness, coerce him into being a hitman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 1977</li><li>Runtime: 125 minutes</li><li>Director: Wim Wenders</li><li>Genres: Drama, Thriller, Crime</li><li>TMDB rating: 7.1/10 (469 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Hopper as Tom Ripley</li><li>Bruno Ganz as Jonathan Zimmermann</li><li>Lisa Kreuzer as Marianne Zimmermann</li><li>Gérard Blain as Raoul Minot</li><li>Nicholas Ray as Andrew Pogash Derwatt</li><li>Samuel Fuller as The American</li><li>Peter Lilienthal as Marcangelo</li><li>Daniel Schmid as Samuel Igraham</li><li>Sandy Whitelaw as Doctor in Paris</li><li>Jean Eustache as Friendly Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The American Friend (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1977"
+  },
+  "movie:12622": {
+   "d": "Violent Cop (1989): Crime/Thriller film. Story: A detective breaks all rules of ethical conduct while… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
+   "industry": "world",
+   "k": "Violent Cop, Violent Cop movie, Violent Cop cast, Violent Cop story, Violent Cop box office collection, Violent Cop budget, Violent Cop review, Violent Cop rating, Violent Cop release date, Violent Cop trailer, Violent Cop Crime, Violent Cop Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takeshi Kitano"
+     },
+     {
+      "@type": "Person",
+      "name": "Maiko Kawakami"
+     },
+     {
+      "@type": "Person",
+      "name": "Makoto Ashikawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiro Sano"
+     },
+     {
+      "@type": "Person",
+      "name": "Sei Hiraizumi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Violent Cop (1989): Crime/Thriller film. Story: A detective breaks all rules of ethical conduct while… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Takeshi Kitano"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12622",
+    "name": "Violent Cop",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12622"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Violent Cop (1989)</h1>\n<p class=\"ssr-lead\">A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and yakuza activities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 1989</li><li>Runtime: 103 minutes</li><li>Director: Takeshi Kitano</li><li>Genres: Crime, Thriller, Action, Drama</li><li>TMDB rating: 7.2/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takeshi Kitano as Azuma Ryosuke</li><li>Maiko Kawakami as Akari Ryosuke</li><li>Makoto Ashikawa as Kikuchi</li><li>Shiro Sano as Yoshinari</li><li>Sei Hiraizumi as Iwaki</li><li>Mikiko Otonashi as Iwaki&#x27;s Wife</li><li>Hakuryu as Kiyohiro</li><li>Ittoku Kishibe as Nito</li><li>Ken Yoshizawa as Shinkai</li><li>Nobuyuki Katsube as Deputy Police Chief Higuchi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Violent Cop (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
   },
   "movie:1295722": {
    "d": "Les K d'Or (2026): Comedy film. Story: Noah, who grew up believing he’s Gaddafi’s secret… See cast, TMDB rating 4.3/10, and release date 11 March 2026.",
@@ -193,6 +320,70 @@
    "t": "The Eyes of Others (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13922": {
+   "d": "The Great Raid (2005): Action/History film. Story: As World War II rages, the elite Sixth Ranger… See cast, budget $80M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg",
+   "industry": "world",
+   "k": "The Great Raid, The Great Raid movie, The Great Raid cast, The Great Raid story, The Great Raid box office collection, The Great Raid budget, The Great Raid review, The Great Raid rating, The Great Raid release date, The Great Raid trailer, The Great Raid Action, The Great Raid History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benjamin Bratt"
+     },
+     {
+      "@type": "Person",
+      "name": "James Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Connie Nielsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan Marshall-Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Fiennes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Great Raid (2005): Action/History film. Story: As World War II rages, the elite Sixth Ranger… See cast, budget $80M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Dahl"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13922",
+    "name": "The Great Raid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13922"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Raid (2005)</h1>\n<p class=\"ssr-lead\">As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2005</li><li>Runtime: 132 minutes</li><li>Director: John Dahl</li><li>Genres: Action, History, War</li><li>Budget: $80M</li><li>TMDB rating: 6.6/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benjamin Bratt as Lt. Colonel Mucci</li><li>James Franco as Captain Prince</li><li>Connie Nielsen as Margaret Utinsky</li><li>Logan Marshall-Green as Lt. Paul Colvin</li><li>Joseph Fiennes as Major Gibson</li><li>Marton Csokas as Captain Redding</li><li>Robert Mammone as Captain Fisher</li><li>Max Martini as 1st Sgt. Sid &quot;Top&quot; Wojo</li><li>Mark Consuelos as Cpl. Guttierez</li><li>Cesar Montano as Guerilla Leader Juan Pajota</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Great Raid (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:1442922": {
    "d": "A Year of School (2026): Drama film. Story: 2007. Fred, a 17-year-old girl who just moved from… See cast, TMDB rating 7.0/10, and release date 9 April 2026.",
    "img": "https://image.tmdb.org/t/p/w780/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
@@ -256,6 +447,134 @@
    "t": "A Year of School (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:187022": {
+   "d": "A Touch of Sin (2013): Crime/Drama film. Story: Four people in different provinces are driven to… See cast, budget $4M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sKrZb0tPP72SOiOJM5iEewflG3H.jpg",
+   "industry": "world",
+   "k": "A Touch of Sin, A Touch of Sin movie, A Touch of Sin cast, A Touch of Sin story, A Touch of Sin box office collection, A Touch of Sin budget, A Touch of Sin review, A Touch of Sin rating, A Touch of Sin release date, A Touch of Sin trailer, A Touch of Sin Crime, A Touch of Sin Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jiang Wu"
+     },
+     {
+      "@type": "Person",
+      "name": "Wang Baoqiang"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhao Tao"
+     },
+     {
+      "@type": "Person",
+      "name": "Li Meng"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Jiayi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 401,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "A Touch of Sin (2013): Crime/Drama film. Story: Four people in different provinces are driven to… See cast, budget $4M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jia Zhangke"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sKrZb0tPP72SOiOJM5iEewflG3H.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=187022",
+    "name": "A Touch of Sin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-10-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=187022"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Touch of Sin (2013)</h1>\n<p class=\"ssr-lead\">Four people in different provinces are driven to violent ends: An angry miner is enraged by corruption in his village. A migrant discovers the possibilities of owning a firearm. A receptionist is pushed beyond her limits by an abusive client. A young factory worker goes from one job to the next.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2013</li><li>Runtime: 131 minutes</li><li>Director: Jia Zhangke</li><li>Genres: Crime, Drama</li><li>Budget: $4M</li><li>TMDB rating: 7.2/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jiang Wu as Dahai</li><li>Wang Baoqiang as Zhou San</li><li>Zhao Tao as Xiao Yu</li><li>Li Meng as Lianrong</li><li>Zhang Jiayi as Zhang Youliang</li><li>Luo Lanshan as Xiao Hui</li><li>Wang Hongwei as Sauna Guest</li><li>Liu Lu</li><li>Wang Qiang</li><li>Han Sanming</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC+ Amazon Channel, Kino Film Collection</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Touch of Sin (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:205022": {
+   "d": "Chennai Express (2013): Romance/Comedy film. Story: Rahul embarks on a journey to a small town in Tamil… See cast, budget $18M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6JpbbREGqdEtePnCwxJRcTNX2jZ.jpg",
+   "industry": "bollywood",
+   "k": "Chennai Express, Chennai Express movie, Chennai Express cast, Chennai Express story, Chennai Express box office collection, Chennai Express budget, Chennai Express review, Chennai Express rating, Chennai Express release date, Chennai Express trailer, Chennai Express Romance, Chennai Express Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shah Rukh Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Deepika Padukone"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikitin Dheer"
+     },
+     {
+      "@type": "Person",
+      "name": "Sathyaraj"
+     },
+     {
+      "@type": "Person",
+      "name": "Mukesh Tiwari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Chennai Express (2013): Romance/Comedy film. Story: Rahul embarks on a journey to a small town in Tamil… See cast, budget $18M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rohit Shetty"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6JpbbREGqdEtePnCwxJRcTNX2jZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=205022",
+    "name": "Chennai Express",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=205022"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chennai Express (2013)</h1>\n<p class=\"ssr-lead\">Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2013</li><li>Runtime: 141 minutes</li><li>Director: Rohit Shetty</li><li>Genres: Romance, Comedy, Action</li><li>Budget: $18M</li><li>TMDB rating: 6.5/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shah Rukh Khan as Rahul Mithaiwala</li><li>Deepika Padukone as Meenamma Lochini Azhagusundaram</li><li>Nikitin Dheer as Tangaballi</li><li>Sathyaraj as Durgeshwara Azhagusundaram</li><li>Mukesh Tiwari as Inspector Shamsher</li><li>Kamini Kaushal as Rahul&#x27;s grandmother</li><li>Lekh Tandon as Rahul&#x27;s grandfather</li><li>Rakesh Kukreti as Rahul&#x27;s friend</li><li>Priyamani as Special Appearance in &quot;1 2 3 4 Get on the Dance Floor&quot; Song</li><li>Delhi Ganesh as Villager</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Chennai Express (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:20722": {
    "d": "La Maison en Petits Cubes (2008): Animation/Drama film. Story: La Maison en Petits Cubes tells the story of a… See cast and TMDB rating 7.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/1EfLDlkrcgSUgxVT56T9PGUGs5N.jpg",
@@ -303,6 +622,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>La Maison en Petits Cubes (2008)</h1>\n<p class=\"ssr-lead\">La Maison en Petits Cubes tells the story of a grandfather&#x27;s memories as he adds more blocks to his house to stem the flooding waters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2008</li><li>Runtime: 12 minutes</li><li>Director: Kunio Kato</li><li>Genres: Animation, Drama</li><li>TMDB rating: 7.9/10 (482 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masami Nagasawa as Narrator (voice)</li></ul>\n</article>",
    "t": "La Maison en Petits Cubes (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:31522": {
+   "d": "A Woman Is a Woman (1961): Comedy/Drama film. Story: Longing for a baby, a stripper pursues another man in… See cast, budget $160.0k, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+   "industry": "world",
+   "k": "A Woman Is a Woman, A Woman Is a Woman movie, A Woman Is a Woman cast, A Woman Is a Woman story, A Woman Is a Woman box office collection, A Woman Is a Woman budget, A Woman Is a Woman review, A Woman Is a Woman rating, A Woman Is a Woman release date, A Woman Is a Woman trailer, A Woman Is a Woman Comedy, A Woman Is a Woman Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Karina"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Brialy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Paul Belmondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Henri Attal"
+     },
+     {
+      "@type": "Person",
+      "name": "Karyn Balm"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 418,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Woman Is a Woman (1961): Comedy/Drama film. Story: Longing for a baby, a stripper pursues another man in… See cast, budget $160.0k, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Luc Godard"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=31522",
+    "name": "A Woman Is a Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1961-09-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=31522"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Woman Is a Woman (1961)</h1>\n<p class=\"ssr-lead\">Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 September 1961</li><li>Runtime: 83 minutes</li><li>Director: Jean-Luc Godard</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $160.0k</li><li>TMDB rating: 7.3/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Karina as Angela</li><li>Jean-Claude Brialy as Émile Récamier</li><li>Jean-Paul Belmondo as Alfred Lubitsch</li><li>Henri Attal as Fake Blind #2 (uncredited)</li><li>Karyn Balm as (uncredited)</li><li>Dorothée Blanck as Prostitute 3 / &#x27;L&#x27;Opera Mouffe&#x27; shown on TV screen (uncredited)</li><li>Catherine Demongeot as Magazine Girl (uncredited)</li><li>Marie Dubois as Angela&#x27;s Friend (uncredited)</li><li>Ernest Menzer as Bar Owner (uncredited)</li><li>Jeanne Moreau as Self (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Studiocanal Presents Amazon Channel</li><li>Rent: Apple TV Store, BFI Player</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "A Woman Is a Woman (1961) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1961"
+  },
+  "movie:334522": {
+   "d": "Alone in Berlin (2016): War/Thriller film. Story: Berlin in June of 1940. While Nazi propaganda… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qx9r2keMWhYZgnncVR9DiNvfFnI.jpg",
+   "industry": "world",
+   "k": "Alone in Berlin, Alone in Berlin movie, Alone in Berlin cast, Alone in Berlin story, Alone in Berlin box office collection, Alone in Berlin budget, Alone in Berlin review, Alone in Berlin rating, Alone in Berlin release date, Alone in Berlin trailer, Alone in Berlin War, Alone in Berlin Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Brühl"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikael Persbrandt"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharina Schüttler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Alone in Berlin (2016): War/Thriller film. Story: Berlin in June of 1940. While Nazi propaganda… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vincent Perez"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "War",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qx9r2keMWhYZgnncVR9DiNvfFnI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=334522",
+    "name": "Alone in Berlin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=334522"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alone in Berlin (2016)</h1>\n<p class=\"ssr-lead\">Berlin in June of 1940. While Nazi propaganda celebrates the regime’s victory over France, a kitchen-cum-living room in Prenzlauer Berg is filled with grief. Anna and Otto Quangel’s son has been killed at the front. This working class couple had long believed in the ‘Führer’ and followed him willingly, but now they realise that his promises are nothing but lies and deceit. They begin writing postcards as a form of resistance and in a bid to raise awareness: Stop the war machine! Kill Hitler! Putting their lives at risk, they distribute these cards in the entrances of tenement buildings and in stairwells. But the SS and the Gestapo are soon onto them, and even their neighbours pose a threat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 February 2016</li><li>Runtime: 103 minutes</li><li>Director: Vincent Perez</li><li>Genres: War, Thriller, Drama</li><li>TMDB rating: 6.7/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Thompson as Anna Quangel</li><li>Brendan Gleeson as Otto Quangel</li><li>Daniel Brühl as Escherich</li><li>Mikael Persbrandt as Prall</li><li>Katharina Schüttler as Claire Gehrich</li><li>Louis Hofmann as Hans Quangel</li><li>Rafael Gareisen as Herbert Wegner</li><li>Hildegard Schroedter as Ida Kuhn</li><li>Ernst Stötzner as Dptm. Head Walter</li><li>Godehard Giese as Colonel Krüger</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Philo, AMC Plus Apple TV channel, Paramount+ Amazon Channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Alone in Berlin (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:419522": {
    "d": "Ignorance Is Bliss (2017): Comedy film. Story: Ernesto and Filippo, two high school teachers… See cast, TMDB rating 5.9/10, and release date 23 February 2017.",
@@ -431,6 +878,70 @@
    "t": "Capone (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:433422": {
+   "d": "Fairy Tail: Dragon Cry (2017): Animation/Action film. Story: Dragon Cry is a magical artifact of deadly power… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7IMcSsxWfHkO0mdYMU2NcwLmgD1.jpg",
+   "industry": "world",
+   "k": "Fairy Tail: Dragon Cry, Fairy Tail: Dragon Cry movie, Fairy Tail: Dragon Cry cast, Fairy Tail: Dragon Cry story, Fairy Tail: Dragon Cry box office collection, Fairy Tail: Dragon Cry budget, Fairy Tail: Dragon Cry review, Fairy Tail: Dragon Cry rating, Fairy Tail: Dragon Cry release date, Fairy Tail: Dragon Cry trailer, Fairy Tail: Dragon Cry Animation, Fairy Tail: Dragon Cry Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tetsuya Kakihara"
+     },
+     {
+      "@type": "Person",
+      "name": "Aya Hirano"
+     },
+     {
+      "@type": "Person",
+      "name": "Rie Kugimiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuichi Nakamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Sayaka Ohara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 431,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Fairy Tail: Dragon Cry (2017): Animation/Action film. Story: Dragon Cry is a magical artifact of deadly power… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tatsuma Minamikawa"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7IMcSsxWfHkO0mdYMU2NcwLmgD1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=433422",
+    "name": "Fairy Tail: Dragon Cry",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=433422"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fairy Tail: Dragon Cry (2017)</h1>\n<p class=\"ssr-lead\">Dragon Cry is a magical artifact of deadly power, formed into a staff by the fury and despair of dragons long gone. Now, this power has been stolen from the hands of the Fiore kingdom by the nefarious traitor Zash Caine, who flees with it to the small island nation of Stella. Frightened that the power has fallen into the wrong hands, the King of Fiore hastily sends Fairy Tail to retrieve the staff. But this task proves frightening as a shadowy secret lies in the heart of the kingdom of Stella. Dragon Cry follows their story as they muster up all their strength to recover the stolen staff and save both kingdoms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 May 2017</li><li>Runtime: 85 minutes</li><li>Director: Tatsuma Minamikawa</li><li>Genres: Animation, Action, Adventure, Comedy, Fantasy</li><li>TMDB rating: 6.6/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tetsuya Kakihara as Natsu Dragneel (voice)</li><li>Aya Hirano as Lucy Heartfilia (voice)</li><li>Rie Kugimiya as Happy (voice)</li><li>Yuichi Nakamura as Gray Fullbuster (voice)</li><li>Sayaka Ohara as Erza Scarlet (voice)</li><li>Satomi Sato as Wendy Marvell (voice)</li><li>Yui Horie as Carla (voice)</li><li>Wataru Hatano as Gajeel Redfox (voice)</li><li>Hiroki Touchi as Panther Lily (voice)</li><li>Mai Nakahara as Juvia Lockser (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Fairy Tail: Dragon Cry (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:502422": {
    "d": "Thunder Road (2018): Comedy/Drama film. Story: A police officer faces a personal meltdown following… See cast, budget $200.0k, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/g9uDiHKpk2LvzG3RlmtYZ3ybYZS.jpg",
@@ -494,6 +1005,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Thunder Road (2018)</h1>\n<p class=\"ssr-lead\">A police officer faces a personal meltdown following a divorce and the death of his mother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2018</li><li>Runtime: 91 minutes</li><li>Director: Jim Cummings</li><li>Genres: Comedy, Drama</li><li>Budget: $200.0k</li><li>TMDB rating: 6.8/10 (476 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Cummings as Officer Jim Arnaud</li><li>Kendal Farr as Crystal Arnaud</li><li>Nican Robinson as Officer Nate Lewis</li><li>Jocelyn DeBoer as Rosalind Arnaud</li><li>Chelsea Edmundson as Morgan Arnaud</li><li>Macon Blair as Dustin Zahn</li><li>Bill Wise as The Captain</li><li>Jordan Ray Fox as Officer Doug</li><li>Ammie Masterson as Celia Lewis</li><li>Frank Mosley as Homeless Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Thunder Road (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:51822": {
+   "d": "Love Hurts (2002): Drama/Romance film. Story: Family and friends try to sabotage the budding… See cast, budget $10M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wsQHVF9qaBiFVkAPwQsQN30wDya.jpg",
+   "industry": "world",
+   "k": "Love Hurts, Love Hurts movie, Love Hurts cast, Love Hurts story, Love Hurts box office collection, Love Hurts budget, Love Hurts review, Love Hurts rating, Love Hurts release date, Love Hurts Drama, Love Hurts Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luis Fernando Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Martha Higareda"
+     },
+     {
+      "@type": "Person",
+      "name": "Ximena Sariñana"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfonso Herrera"
+     },
+     {
+      "@type": "Person",
+      "name": "Armando Hernández"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Love Hurts (2002): Drama/Romance film. Story: Family and friends try to sabotage the budding… See cast, budget $10M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fernando Sariñana"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wsQHVF9qaBiFVkAPwQsQN30wDya.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=51822",
+    "name": "Love Hurts",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=51822"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love Hurts (2002)</h1>\n<p class=\"ssr-lead\">Family and friends try to sabotage the budding romance between a young upper class girl and a humble student.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2002</li><li>Runtime: 104 minutes</li><li>Director: Fernando Sariñana</li><li>Genres: Drama, Romance</li><li>Budget: $10M</li><li>TMDB rating: 8.2/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luis Fernando Peña as Ulises</li><li>Martha Higareda as Renata</li><li>Ximena Sariñana as Mariana</li><li>Alfonso Herrera as Francisco</li><li>Armando Hernández as Genaro</li><li>Andrea Damián as Paulina</li><li>Karla Alvarado as Mariza</li><li>Pedro Damián as Armando</li><li>Zaide Silvia Gutiérrez as Claudia</li><li>Eligio Meléndez as Martin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ViX Premium Amazon Channel</li></ul>\n</article>",
+   "t": "Love Hurts (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:652722": {
+   "d": "In the Arms of an Assassin (2019): Romance/Thriller film. Story: Victor (William Levy) is one of the world’s most… See cast and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6cqogY7SYppI0ZNchaTKszSkxwH.jpg",
+   "industry": "world",
+   "k": "In the Arms of an Assassin, In the Arms of an Assassin movie, In the Arms of an Assassin cast, In the Arms of an Assassin story, In the Arms of an Assassin box office collection, In the Arms of an Assassin budget, In the Arms of an Assassin review, In the Arms of an Assassin rating, In the Arms of an Assassin release date, In the Arms of an Assassin Romance, In the Arms of an Assassin Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William Levy"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Sanz"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberto Sosa"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrián Lastra"
+     },
+     {
+      "@type": "Person",
+      "name": "Thanya López"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "In the Arms of an Assassin (2019): Romance/Thriller film. Story: Victor (William Levy) is one of the world’s most… See cast and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matías Moltrasio"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Romance",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6cqogY7SYppI0ZNchaTKszSkxwH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=652722",
+    "name": "In the Arms of an Assassin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=652722"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Arms of an Assassin (2019)</h1>\n<p class=\"ssr-lead\">Victor (William Levy) is one of the world’s most handsome men, but he has a deep secret – he is a cold blooded assassin. Smooth talking and seductive, Victor was raised to do one thing only, which is to kill for money. When he is sent to the home of a brutal drug lord to collect payment for his most recent hit, he encounters the beautiful Sarai (Alicia Sanz), who has been forced to spend the last 9 years of her life with the drug lord.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 2019</li><li>Runtime: 101 minutes</li><li>Director: Matías Moltrasio</li><li>Genres: Romance, Thriller</li><li>TMDB rating: 7.8/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Levy as Victor Faust</li><li>Alicia Sanz as Sarai</li><li>Roberto Sosa as Javier</li><li>Adrián Lastra as Niklas</li><li>Thanya López as Izel</li><li>Dalisa Alegría as Lydia</li><li>Mónica Ayos as Samantha</li><li>Ettore D&#x27;Alessandro as Hamburg</li><li>Alessia Seravalle as Hostess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "In the Arms of an Assassin (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:75622": {
+   "d": "Rampart (2011): Crime/Drama film. Story: The story follows veteran police officer Dave Brown… See cast, budget $12M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/beEjNV725OEZ7JZQxNN1eZ0Wyt3.jpg",
+   "industry": "world",
+   "k": "Rampart, Rampart movie, Rampart cast, Rampart story, Rampart box office collection, Rampart budget, Rampart review, Rampart rating, Rampart release date, Rampart trailer, Rampart Crime, Rampart Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Ned Beatty"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Foster"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Rampart (2011): Crime/Drama film. Story: The story follows veteran police officer Dave Brown… See cast, budget $12M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oren Moverman"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/beEjNV725OEZ7JZQxNN1eZ0Wyt3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=75622",
+    "name": "Rampart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=75622"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rampart (2011)</h1>\n<p class=\"ssr-lead\">The story follows veteran police officer Dave Brown, the last of the renegade cops, as he struggles to take care of his family, and fights for his own survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2011</li><li>Runtime: 108 minutes</li><li>Director: Oren Moverman</li><li>Genres: Crime, Drama</li><li>Budget: $12M</li><li>TMDB rating: 5.5/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Harrelson as Dave Brown</li><li>Robin Wright as Linda Fentress</li><li>Sigourney Weaver as Joan Confrey</li><li>Ned Beatty as Hartshorn</li><li>Ben Foster as General Terry</li><li>Ice Cube as Kyle Timkins</li><li>Anne Heche as Catherine</li><li>Cynthia Nixon as Barbara</li><li>Brie Larson as Helen</li><li>Steve Buscemi as Bill Blago</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: DocAlliance Films</li><li>Rent: DocAlliance Films</li></ul>\n</article>",
+   "t": "Rampart (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:820722": {
    "d": "The Good Boss (2021): Comedy/Drama film. Story: Julio Blanco is the proprietor of Básculas Blanco, a… See cast and TMDB rating 7.0/10.",

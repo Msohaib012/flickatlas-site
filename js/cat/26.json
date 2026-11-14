@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 35,
+ "count": 41,
  "titles": {
   "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
@@ -98,6 +98,176 @@
    "vote_average": 6.417,
    "vote_count": 487
   },
+  "movie:11326": {
+   "backdrop_path": "/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Frank",
+     "n": "Oliver Reed"
+    },
+    {
+     "c": "Nora",
+     "n": "Ann-Margret"
+    },
+    {
+     "c": "Tommy",
+     "n": "Roger Daltrey"
+    },
+    {
+     "c": "The Pinball Wizard",
+     "n": "Elton John"
+    },
+    {
+     "c": "The Preacher",
+     "n": "Eric Clapton"
+    },
+    {
+     "c": "The Priest",
+     "n": "Arthur Brown"
+    },
+    {
+     "c": "Himself",
+     "n": "Pete Townshend"
+    },
+    {
+     "c": "Himself",
+     "n": "John Entwistle"
+    },
+    {
+     "c": "The Acid Queen",
+     "n": "Tina Turner"
+    },
+    {
+     "c": "Cousin Kevin",
+     "n": "Paul Nicholas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ken Russell"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 11326,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.",
+   "popularity": 2.2566,
+   "poster_path": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1975-03-19",
+   "revenue": 34300000,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Your senses will never be the same.",
+   "title": "Tommy",
+   "trailer": {
+    "key": "QaFIq3dbu4U",
+    "name": "Official IMAX Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.444,
+   "vote_count": 396
+  },
   "movie:1187326": {
    "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
    "budget": 0,
@@ -184,6 +354,190 @@
    "type": "movie",
    "vote_average": 8.263,
    "vote_count": 99
+  },
+  "movie:121826": {
+   "backdrop_path": "/rsGYoSu8MNGabCMAnZIzzEHzIFd.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Jean Horton",
+     "n": "Maggie Smith"
+    },
+    {
+     "c": "Reginald Paget",
+     "n": "Tom Courtenay"
+    },
+    {
+     "c": "Wilf Bond",
+     "n": "Billy Connolly"
+    },
+    {
+     "c": "Cissy Robson",
+     "n": "Pauline Collins"
+    },
+    {
+     "c": "Cedric Livingston",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Dr. Lucy Cogan",
+     "n": "Sheridan Smith"
+    },
+    {
+     "c": "Joey",
+     "n": "Jumayn Hunter"
+    },
+    {
+     "c": "Sheryl",
+     "n": "Shola Adewusi"
+    },
+    {
+     "c": "Bobby Swanson",
+     "n": "Andrew Sachs"
+    },
+    {
+     "c": "George",
+     "n": "Trevor Peacock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dustin Hoffman"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 121826,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Cissy, Reggie, and Wilf are in a home for retired musicians. Every year, there is a concert to celebrate Composer Giuseppe Verdi's birthday and they take part. Jean, who used to be married to Reggie, arrives at the home and disrupts their equilibrium. She still acts like a diva, but she refuses to sing. Still, the show must go on, and it does.",
+   "popularity": 1.2948,
+   "poster_path": "/lDg2DfB5MuEoUeRFQqzBFVoWGep.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-12-26",
+   "revenue": 59520298,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Four Friends Looking For A Little Harmony",
+   "title": "Quartet",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 399
   },
   "movie:12626": {
    "backdrop_path": "/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
@@ -632,6 +986,181 @@
    "vote_average": 8.225,
    "vote_count": 120
   },
+  "movie:14626": {
+   "backdrop_path": "/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Galoup",
+     "n": "Denis Lavant"
+    },
+    {
+     "c": "Commander Bruno Forestier",
+     "n": "Michel Subor"
+    },
+    {
+     "c": "Gilles Sentain",
+     "n": "Grégoire Colin"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Richard Courcet"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Nicolas Duvauchelle"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Adiatou Massudi"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Mickael Ravovski"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Dan Herzberg"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Giuseppe Molino"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Gianfranco Poddighe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Claire Denis"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14626,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup's mind.",
+   "popularity": 2.2115,
+   "poster_path": "/m3FaQ55Ywk0oUBDrBVarHOcXZw6.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-05-03",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it",
+    "ru",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "Maybe freedom begins with remorse.",
+   "title": "Beau Travail",
+   "trailer": {
+    "key": "Hh4HzACZOOQ",
+    "name": "Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 393
+  },
   "movie:1514026": {
    "backdrop_path": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
    "budget": 3000000,
@@ -990,6 +1519,161 @@
    "vote_average": 6.6,
    "vote_count": 499
   },
+  "movie:2926": {
+   "backdrop_path": "/ljZtX8UZhGOOpQrgtcqSwPTTZJv.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "D'Artagnan",
+     "n": "Michael York"
+    },
+    {
+     "c": "Athos",
+     "n": "Oliver Reed"
+    },
+    {
+     "c": "Aramis",
+     "n": "Richard Chamberlain"
+    },
+    {
+     "c": "Porthos / O'Reilly",
+     "n": "Frank Finlay"
+    },
+    {
+     "c": "Lady de Winter",
+     "n": "Faye Dunaway"
+    },
+    {
+     "c": "Constance de Bonancieux",
+     "n": "Raquel Welch"
+    },
+    {
+     "c": "Rochefort",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Anna of Austria",
+     "n": "Geraldine Chaplin"
+    },
+    {
+     "c": "Louis XIII",
+     "n": "Jean-Pierre Cassel"
+    },
+    {
+     "c": "M. Bonancieux",
+     "n": "Spike Milligan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard Lester"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Romance"
+   ],
+   "id": 2926,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 17th century France, young D'Artagnan wants to join the King's Musketeers, but instead befriends three legendary musketeers—Athos, Porthos, and Aramis—and together, they become embroiled in the political intrigue surrounding King Louis XIII and his adversaries, particularly the powerful Cardinal Richelieu.",
+   "popularity": 3.326,
+   "poster_path": "/6qjW1e31k2XhcWpzGz6lgHcRt5W.jpg",
+   "production_countries": [
+    "ES",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-12-11",
+   "revenue": 22018000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "...One for All and All for Fun!",
+   "title": "The Three Musketeers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.728,
+   "vote_count": 386
+  },
   "movie:347126": {
    "backdrop_path": "/j1X0A0tDagEdtG1vmOjvT5hTf82.jpg",
    "budget": 5000000,
@@ -1152,6 +1836,393 @@
    "type": "movie",
    "vote_average": 6.192,
    "vote_count": 435
+  },
+  "movie:362826": {
+   "backdrop_path": "/ictYT7jrWrJwTs11agZVxX8W1ZB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna",
+     "n": "Bel Powley"
+    },
+    {
+     "c": "Ellen Cooper",
+     "n": "Liv Tyler"
+    },
+    {
+     "c": "Ray Cooper",
+     "n": "Collin Kelly-Sordelet"
+    },
+    {
+     "c": "Daddy",
+     "n": "Brad Dourif"
+    },
+    {
+     "c": "Wolf Man",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Roger Fowler",
+     "n": "Troy Ruptash"
+    },
+    {
+     "c": "Jen",
+     "n": "Charlotte Ubben"
+    },
+    {
+     "c": "Little Anna",
+     "n": "Aviva Winick"
+    },
+    {
+     "c": "Very Little Anna",
+     "n": "Arlo Mertz"
+    },
+    {
+     "c": "Lawrence",
+     "n": "Mike Faist"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fritz Böhm"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 362826,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman held in captivity discovers the realities of truth and lies in the outside world.",
+   "popularity": 2.0958,
+   "poster_path": "/wZQR6hKRUBqHRL4lfECFES68zGF.jpg",
+   "production_countries": [
+    "DE",
+    "SE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-04-13",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Discover your true nature",
+   "title": "Wildling",
+   "trailer": {
+    "key": "kGHbjduijiw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 404
+  },
+  "movie:373226": {
+   "backdrop_path": "/v5U0s7HZGbZY8q6SXK6aFykSuDr.jpg",
+   "budget": 3600000,
+   "cast": [
+    {
+     "c": "Emmanuel Ritter",
+     "n": "Joaquín Cosío"
+    },
+    {
+     "c": "Padre Vasilio Canetti",
+     "n": "Tobin Bell"
+    },
+    {
+     "c": "Ivan Franco",
+     "n": "Tate Ellington"
+    },
+    {
+     "c": "Demetrio Vega",
+     "n": "José Sefami"
+    },
+    {
+     "c": "Beatriz Rubio",
+     "n": "Yunuen Pardo"
+    },
+    {
+     "c": "Niño Isa Rubio",
+     "n": "Liam Villa"
+    },
+    {
+     "c": "Cristo - Belzebuth",
+     "n": "Conde Fabregat"
+    },
+    {
+     "c": "Marina Ritter",
+     "n": "Aurora Gil"
+    },
+    {
+     "c": "Elena Fernández",
+     "n": "Aida López"
+    },
+    {
+     "c": "Mamá de Saír",
+     "n": "Mercedes Hernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Emilio Portes"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 373226,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "While leading a police investigation of a massacre in a public school at the border of Mexico and U.S.A, special Agent Emanuel Ritter links this strange case to the coming and rising of the ancient demon Belzebuth. But in order to stop the trail of upcoming infanticides, Ritter shall have to confront himself before dealing with the forces of good and evil.",
+   "popularity": 1.7954,
+   "poster_path": "/em79Vu871uUVZEpBY6qkO5O6psP.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-11",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't stop praying",
+   "title": "Belzebuth",
+   "trailer": {
+    "key": "Tu4-xnBvfi8",
+    "name": "Belzebuth - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 390
   },
   "movie:437626": {
    "backdrop_path": "/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",

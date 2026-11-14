@@ -1,7 +1,114 @@
 {
  "bucket": "22",
- "count": 29,
+ "count": 40,
  "titles": {
+  "movie:1063422": {
+   "backdrop_path": "/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Neve",
+     "n": "Ashley Madekwe"
+    },
+    {
+     "c": "Ian",
+     "n": "Justin Salinger"
+    },
+    {
+     "c": "Carl",
+     "n": "Jorden Myrie"
+    },
+    {
+     "c": "Dione",
+     "n": "Bukky Bakray"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Samuel Paul Small"
+    },
+    {
+     "c": "Mary",
+     "n": "Maria Almeida"
+    },
+    {
+     "c": "Jessie",
+     "n": "Caroline Martin"
+    },
+    {
+     "c": "Kenneth",
+     "n": "Michael Warburton"
+    },
+    {
+     "c": "Delivery Guy",
+     "n": "George Greenland"
+    },
+    {
+     "c": "Smart Customer",
+     "n": "Alfredo Tavares"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nathaniel Martello-White"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1063422,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A Black woman's meticulously crafted life of privilege starts to unravel when two strangers show up in her quaint suburban town.",
+   "popularity": 1.9924,
+   "poster_path": "/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-02-17",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Strays",
+   "trailer": {
+    "key": "o9_UteTT9wA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 428
+  },
   "movie:11222": {
    "backdrop_path": "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
    "budget": 0,
@@ -140,6 +247,138 @@
    "type": "movie",
    "vote_average": 7.087,
    "vote_count": 469
+  },
+  "movie:12622": {
+   "backdrop_path": "/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Azuma Ryosuke",
+     "n": "Takeshi Kitano"
+    },
+    {
+     "c": "Akari Ryosuke",
+     "n": "Maiko Kawakami"
+    },
+    {
+     "c": "Kikuchi",
+     "n": "Makoto Ashikawa"
+    },
+    {
+     "c": "Yoshinari",
+     "n": "Shiro Sano"
+    },
+    {
+     "c": "Iwaki",
+     "n": "Sei Hiraizumi"
+    },
+    {
+     "c": "Iwaki's Wife",
+     "n": "Mikiko Otonashi"
+    },
+    {
+     "c": "Kiyohiro",
+     "n": "Hakuryu"
+    },
+    {
+     "c": "Nito",
+     "n": "Ittoku Kishibe"
+    },
+    {
+     "c": "Shinkai",
+     "n": "Ken Yoshizawa"
+    },
+    {
+     "c": "Deputy Police Chief Higuchi",
+     "n": "Nobuyuki Katsube"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Takeshi Kitano"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action",
+    "Drama"
+   ],
+   "id": 12622,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and yakuza activities.",
+   "popularity": 1.6906,
+   "poster_path": "/5tLNkaPeDgtcet3uzHvJEpWrOcb.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-08-12",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Violent Cop",
+   "trailer": {
+    "key": "kRHYNiWJx9U",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.229,
+   "vote_count": 433
   },
   "movie:1295722": {
    "backdrop_path": "/x39HHPUdRR5RbFdrLoHuyV8GORl.jpg",
@@ -318,6 +557,120 @@
    "vote_average": 5.794,
    "vote_count": 34
   },
+  "movie:13922": {
+   "backdrop_path": "/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Lt. Colonel Mucci",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Captain Prince",
+     "n": "James Franco"
+    },
+    {
+     "c": "Margaret Utinsky",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Lt. Paul Colvin",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Major Gibson",
+     "n": "Joseph Fiennes"
+    },
+    {
+     "c": "Captain Redding",
+     "n": "Marton Csokas"
+    },
+    {
+     "c": "Captain Fisher",
+     "n": "Robert Mammone"
+    },
+    {
+     "c": "1st Sgt. Sid \"Top\" Wojo",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Cpl. Guttierez",
+     "n": "Mark Consuelos"
+    },
+    {
+     "c": "Guerilla Leader Juan Pajota",
+     "n": "Cesar Montano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Dahl"
+   ],
+   "genres": [
+    "Action",
+    "History",
+    "War"
+   ],
+   "id": 13922,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.",
+   "popularity": 2.487,
+   "poster_path": "/k5Q76tzV2T4RtDdYwNj64c1qQ16.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-08-12",
+   "revenue": 10166502,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The most daring rescue mission of our time is a story that has never been told",
+   "title": "The Great Raid",
+   "trailer": {
+    "key": "N51IAYnlNK0",
+    "name": "The Great Raid | Official Trailer (HD) - James Franco, Joseph Fiennes | MIRAMAX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.553,
+   "vote_count": 404
+  },
   "movie:1442922": {
    "backdrop_path": "/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
    "budget": 0,
@@ -410,6 +763,301 @@
    "vote_average": 6.959,
    "vote_count": 37
   },
+  "movie:187022": {
+   "backdrop_path": "/sKrZb0tPP72SOiOJM5iEewflG3H.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Dahai",
+     "n": "Jiang Wu"
+    },
+    {
+     "c": "Zhou San",
+     "n": "Wang Baoqiang"
+    },
+    {
+     "c": "Xiao Yu",
+     "n": "Zhao Tao"
+    },
+    {
+     "c": "Lianrong",
+     "n": "Li Meng"
+    },
+    {
+     "c": "Zhang Youliang",
+     "n": "Zhang Jiayi"
+    },
+    {
+     "c": "Xiao Hui",
+     "n": "Luo Lanshan"
+    },
+    {
+     "c": "Sauna Guest",
+     "n": "Wang Hongwei"
+    },
+    {
+     "c": "",
+     "n": "Liu Lu"
+    },
+    {
+     "c": "",
+     "n": "Wang Qiang"
+    },
+    {
+     "c": "",
+     "n": "Han Sanming"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jia Zhangke"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 187022,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Four people in different provinces are driven to violent ends: An angry miner is enraged by corruption in his village. A migrant discovers the possibilities of owning a firearm. A receptionist is pushed beyond her limits by an abusive client. A young factory worker goes from one job to the next.",
+   "popularity": 2.7333,
+   "poster_path": "/yZKem3DGUiM3664otaSfuGacjiz.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-10-04",
+   "revenue": 154120,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Touch of Sin",
+   "trailer": {
+    "key": "VUJt_kf7uKQ",
+    "name": "A TOUCH OF SIN Trailer | Festival 2013",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.227,
+   "vote_count": 401
+  },
+  "movie:205022": {
+   "backdrop_path": "/6JpbbREGqdEtePnCwxJRcTNX2jZ.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Rahul Mithaiwala",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Meenamma Lochini Azhagusundaram",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Tangaballi",
+     "n": "Nikitin Dheer"
+    },
+    {
+     "c": "Durgeshwara Azhagusundaram",
+     "n": "Sathyaraj"
+    },
+    {
+     "c": "Inspector Shamsher",
+     "n": "Mukesh Tiwari"
+    },
+    {
+     "c": "Rahul's grandmother",
+     "n": "Kamini Kaushal"
+    },
+    {
+     "c": "Rahul's grandfather",
+     "n": "Lekh Tandon"
+    },
+    {
+     "c": "Rahul's friend",
+     "n": "Rakesh Kukreti"
+    },
+    {
+     "c": "Special Appearance in  \"1 2 3 4 Get on the Dance Floor\" Song",
+     "n": "Priyamani"
+    },
+    {
+     "c": "Villager",
+     "n": "Delhi Ganesh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Rohit Shetty"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Action"
+   ],
+   "id": 205022,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+   "popularity": 2.1805,
+   "poster_path": "/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-09",
+   "revenue": 62000000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "Ready... Steady... Po!",
+   "title": "Chennai Express",
+   "trailer": {
+    "key": "rARol7Dk2zo",
+    "name": "\"Chennai Express Trailer\" (Official) | ShahRukh Khan, Deepika Padukone",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.505,
+   "vote_count": 420
+  },
   "movie:20722": {
    "backdrop_path": "/1EfLDlkrcgSUgxVT56T9PGUGs5N.jpg",
    "budget": 0,
@@ -462,6 +1110,356 @@
    "type": "movie",
    "vote_average": 7.898,
    "vote_count": 482
+  },
+  "movie:31522": {
+   "backdrop_path": "/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+   "budget": 160000,
+   "cast": [
+    {
+     "c": "Angela",
+     "n": "Anna Karina"
+    },
+    {
+     "c": "Émile Récamier",
+     "n": "Jean-Claude Brialy"
+    },
+    {
+     "c": "Alfred Lubitsch",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Fake Blind #2 (uncredited)",
+     "n": "Henri Attal"
+    },
+    {
+     "c": "(uncredited)",
+     "n": "Karyn Balm"
+    },
+    {
+     "c": "Prostitute 3 / 'L'Opera Mouffe' shown on TV screen (uncredited)",
+     "n": "Dorothée Blanck"
+    },
+    {
+     "c": "Magazine Girl (uncredited)",
+     "n": "Catherine Demongeot"
+    },
+    {
+     "c": "Angela's Friend (uncredited)",
+     "n": "Marie Dubois"
+    },
+    {
+     "c": "Bar Owner (uncredited)",
+     "n": "Ernest Menzer"
+    },
+    {
+     "c": "Self (uncredited)",
+     "n": "Jeanne Moreau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jean-Luc Godard"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 31522,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous.",
+   "popularity": 1.8173,
+   "poster_path": "/xrZu21hriGJQY3qY8nifh2smVHu.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g7BsbL25SKZVg365NCENaZNVrEF.png",
+     "name": "Studiocanal Presents Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1961-09-06",
+   "revenue": 100655,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Is this a tragedy or a comedy? Either way, it's a masterpiece.",
+   "title": "A Woman Is a Woman",
+   "trailer": {
+    "key": "vmxc2B2o08Y",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 418
+  },
+  "movie:334522": {
+   "backdrop_path": "/qx9r2keMWhYZgnncVR9DiNvfFnI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Quangel",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Otto Quangel",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Escherich",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "Prall",
+     "n": "Mikael Persbrandt"
+    },
+    {
+     "c": "Claire Gehrich",
+     "n": "Katharina Schüttler"
+    },
+    {
+     "c": "Hans Quangel",
+     "n": "Louis Hofmann"
+    },
+    {
+     "c": "Herbert Wegner",
+     "n": "Rafael Gareisen"
+    },
+    {
+     "c": "Ida Kuhn",
+     "n": "Hildegard Schroedter"
+    },
+    {
+     "c": "Dptm. Head Walter",
+     "n": "Ernst Stötzner"
+    },
+    {
+     "c": "Colonel Krüger",
+     "n": "Godehard Giese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Vincent Perez"
+   ],
+   "genres": [
+    "War",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 334522,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "FR",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Berlin in June of 1940. While Nazi propaganda celebrates the regime’s victory over France, a kitchen-cum-living room in Prenzlauer Berg is filled with grief. Anna and Otto Quangel’s son has been killed at the front. This working class couple had long believed in the ‘Führer’ and followed him willingly, but now they realise that his promises are nothing but lies and deceit. They begin writing postcards as a form of resistance and in a bid to raise awareness: Stop the war machine! Kill Hitler! Putting their lives at risk, they distribute these cards in the entrances of tenement buildings and in stairwells. But the SS and the Gestapo are soon onto them, and even their neighbours pose a threat.",
+   "popularity": 1.8007,
+   "poster_path": "/8BuRgEY3dMw8usxelybUS1K3NMd.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-02-15",
+   "revenue": 33125,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The truth was their resistance.",
+   "title": "Alone in Berlin",
+   "trailer": {
+    "key": "lQaGazGtaZw",
+    "name": "Alone in Berlin - Official Trailer I HD I IFC Films",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 412
   },
   "movie:419522": {
    "backdrop_path": "/e0ziCGOEXhSaNuIyfh5svpflXhT.jpg",
@@ -705,6 +1703,158 @@
    "vote_average": 5.058,
    "vote_count": 472
   },
+  "movie:433422": {
+   "backdrop_path": "/7IMcSsxWfHkO0mdYMU2NcwLmgD1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Natsu Dragneel (voice)",
+     "n": "Tetsuya Kakihara"
+    },
+    {
+     "c": "Lucy Heartfilia (voice)",
+     "n": "Aya Hirano"
+    },
+    {
+     "c": "Happy (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Gray Fullbuster (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Erza Scarlet (voice)",
+     "n": "Sayaka Ohara"
+    },
+    {
+     "c": "Wendy Marvell (voice)",
+     "n": "Satomi Sato"
+    },
+    {
+     "c": "Carla (voice)",
+     "n": "Yui Horie"
+    },
+    {
+     "c": "Gajeel Redfox (voice)",
+     "n": "Wataru Hatano"
+    },
+    {
+     "c": "Panther Lily (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Juvia Lockser (voice)",
+     "n": "Mai Nakahara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tatsuma Minamikawa"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 433422,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Dragon Cry is a magical artifact of deadly power, formed into a staff by the fury and despair of dragons long gone. Now, this power has been stolen from the hands of the Fiore kingdom by the nefarious traitor Zash Caine, who flees with it to the small island nation of Stella. Frightened that the power has fallen into the wrong hands, the King of Fiore hastily sends Fairy Tail to retrieve the staff. But this task proves frightening as a shadowy secret lies in the heart of the kingdom of Stella. Dragon Cry follows their story as they muster up all their strength to recover the stolen staff and save both kingdoms.",
+   "popularity": 2.5528,
+   "poster_path": "/9SJFMVWiuJV55yLbPpWhHZ9MgHn.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-05-06",
+   "revenue": 1420035,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fairy Tail: Dragon Cry",
+   "trailer": {
+    "key": "cG2FlKRO7mE",
+    "name": "Fairy Tail: Dragon Cry - Extended Trailer (English dub)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 431
+  },
   "movie:502422": {
    "backdrop_path": "/g9uDiHKpk2LvzG3RlmtYZ3ybYZS.jpg",
    "budget": 200000,
@@ -838,6 +1988,326 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 476
+  },
+  "movie:51822": {
+   "backdrop_path": "/wsQHVF9qaBiFVkAPwQsQN30wDya.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Ulises",
+     "n": "Luis Fernando Peña"
+    },
+    {
+     "c": "Renata",
+     "n": "Martha Higareda"
+    },
+    {
+     "c": "Mariana",
+     "n": "Ximena Sariñana"
+    },
+    {
+     "c": "Francisco",
+     "n": "Alfonso Herrera"
+    },
+    {
+     "c": "Genaro",
+     "n": "Armando Hernández"
+    },
+    {
+     "c": "Paulina",
+     "n": "Andrea Damián"
+    },
+    {
+     "c": "Mariza",
+     "n": "Karla Alvarado"
+    },
+    {
+     "c": "Armando",
+     "n": "Pedro Damián"
+    },
+    {
+     "c": "Claudia",
+     "n": "Zaide Silvia Gutiérrez"
+    },
+    {
+     "c": "Martin",
+     "n": "Eligio Meléndez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Fernando Sariñana"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 51822,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Family and friends try to sabotage the budding romance between a young upper class girl and a humble student.",
+   "popularity": 2.4853,
+   "poster_path": "/kbtgdKUEnX76MOJ7w30js5vSNLT.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-08",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Who says money isn't important?",
+   "title": "Love Hurts",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 393
+  },
+  "movie:652722": {
+   "backdrop_path": "/6cqogY7SYppI0ZNchaTKszSkxwH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Victor Faust",
+     "n": "William Levy"
+    },
+    {
+     "c": "Sarai",
+     "n": "Alicia Sanz"
+    },
+    {
+     "c": "Javier",
+     "n": "Roberto Sosa"
+    },
+    {
+     "c": "Niklas",
+     "n": "Adrián Lastra"
+    },
+    {
+     "c": "Izel",
+     "n": "Thanya López"
+    },
+    {
+     "c": "Lydia",
+     "n": "Dalisa Alegría"
+    },
+    {
+     "c": "Samantha",
+     "n": "Mónica Ayos"
+    },
+    {
+     "c": "Hamburg",
+     "n": "Ettore D'Alessandro"
+    },
+    {
+     "c": "Hostess",
+     "n": "Alessia Seravalle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matías Moltrasio"
+   ],
+   "genres": [
+    "Romance",
+    "Thriller"
+   ],
+   "id": 652722,
+   "industry": "world",
+   "origin_country": [
+    "DM",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "Victor (William Levy) is one of the world’s most handsome  men, but he has a deep secret – he is a cold blooded assassin. Smooth talking and seductive, Victor was raised to do one thing only, which is to kill for money. When he is sent to the home of a brutal drug lord to collect payment for his most recent hit, he encounters the beautiful Sarai (Alicia Sanz), who has been forced to spend the last 9 years of her life with the drug lord.",
+   "popularity": 1.2172,
+   "poster_path": "/vOF2dVniPoc2Y5yVG1F3GvbP4Y9.jpg",
+   "production_countries": [
+    "DO"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-06",
+   "revenue": 425332,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "In the Arms of an Assassin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 434
+  },
+  "movie:75622": {
+   "backdrop_path": "/beEjNV725OEZ7JZQxNN1eZ0Wyt3.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Dave Brown",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Linda Fentress",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Joan Confrey",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Hartshorn",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "General Terry",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "Kyle Timkins",
+     "n": "Ice Cube"
+    },
+    {
+     "c": "Catherine",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Barbara",
+     "n": "Cynthia Nixon"
+    },
+    {
+     "c": "Helen",
+     "n": "Brie Larson"
+    },
+    {
+     "c": "Bill Blago",
+     "n": "Steve Buscemi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oren Moverman"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 75622,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story follows veteran police officer Dave Brown, the last of the renegade cops, as he struggles to take care of his family, and fights for his own survival.",
+   "popularity": 1.7602,
+   "poster_path": "/wUlYwDmkytszsDvyIPn66pdqgZe.jpg",
+   "production_countries": [
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "DocAlliance Films"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png",
+     "name": "DocAlliance Films",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png",
+     "name": "DocAlliance Films",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-11-23",
+   "revenue": 972512,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most corrupt cop you've ever seen on screen",
+   "title": "Rampart",
+   "trailer": {
+    "key": "mO-Tvjk97Ss",
+    "name": "Rampart - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.499,
+   "vote_count": 433
   },
   "movie:820722": {
    "backdrop_path": "/zrwx2GY2mObQl1PvORZttrefwAL.jpg",

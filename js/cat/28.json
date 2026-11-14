@@ -1,7 +1,120 @@
 {
  "bucket": "28",
- "count": 28,
+ "count": 41,
  "titles": {
+  "movie:10728": {
+   "backdrop_path": "/dQbnFqsbtyHS7OD108vuFJiUyzy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Faust",
+     "n": "Gösta Ekman"
+    },
+    {
+     "c": "Mephisto",
+     "n": "Emil Jannings"
+    },
+    {
+     "c": "Gretchen Marguerite",
+     "n": "Camilla Horn"
+    },
+    {
+     "c": "Gretchens's Mother",
+     "n": "Frida Richard"
+    },
+    {
+     "c": "Valentin",
+     "n": "William Dieterle"
+    },
+    {
+     "c": "Erzengel",
+     "n": "Werner Fuetterer"
+    },
+    {
+     "c": "Marthe Schwerdtlein",
+     "n": "Yvette Guilbert"
+    },
+    {
+     "c": "Duke of Parma",
+     "n": "Eric Barclay"
+    },
+    {
+     "c": "Duchess of Parma",
+     "n": "Hanna Ralph"
+    },
+    {
+     "c": "Farmboy (uncredited)",
+     "n": "Hans Brausewetter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "F. W. Murnau"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Horror"
+   ],
+   "id": 10728,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
+   "popularity": 2.4668,
+   "poster_path": "/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1926-10-14",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "The Voice of the Tempter.",
+   "title": "Faust",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.907,
+   "vote_count": 430
+  },
   "movie:1096228": {
    "backdrop_path": "/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
    "budget": 10000000,
@@ -156,6 +269,205 @@
    "type": "movie",
    "vote_average": 6.439,
    "vote_count": 33
+  },
+  "movie:1155828": {
+   "backdrop_path": "/CZyMhVVpraYDptLpYXxXjgAuCH.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "John 'Divine G' Whitfield",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Clarence 'Divine Eye' Maclin",
+     "n": "Clarence Maclin"
+    },
+    {
+     "c": "Mike Mike",
+     "n": "Sean San Jose"
+    },
+    {
+     "c": "Brent Buell",
+     "n": "Paul Raci"
+    },
+    {
+     "c": "David 'Dap' Giraudy",
+     "n": "David \"Dap\" Giraudy"
+    },
+    {
+     "c": "Patrick 'Preme' Griffin",
+     "n": "Patrick \"Preme\" Griffin"
+    },
+    {
+     "c": "Mosi Eagle",
+     "n": "Mosi Eagle"
+    },
+    {
+     "c": "James 'Big E' Williams",
+     "n": "James \"Big E\" Williams"
+    },
+    {
+     "c": "Sean 'Dino' Johnson",
+     "n": "Sean Dino Johnson"
+    },
+    {
+     "c": "",
+     "n": "Brent Buell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greg Kwedar"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1155828,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
+   "popularity": 3.244,
+   "poster_path": "/ig5ju3Tt56UGoBrc6IlkUS6ahfE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5VGoQun874KipwsAgtc8eagtIkc.png",
+     "name": "History Vault",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-07-16",
+   "revenue": 3401789,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Trust the process.",
+   "title": "Sing Sing",
+   "trailer": {
+    "key": "j3dXc6P3zH8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.381,
+   "vote_count": 419
   },
   "movie:1193128": {
    "backdrop_path": "/yTYbKHC3f32iCNvdfvGblnPvJ6U.jpg",
@@ -728,6 +1040,746 @@
    "vote_average": 7.5,
    "vote_count": 435
   },
+  "movie:228": {
+   "backdrop_path": "/mHWtbdNzeuZMNmAC9T3Llo59j7N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Immanuel Rath",
+     "n": "Emil Jannings"
+    },
+    {
+     "c": "Lola Lola",
+     "n": "Marlene Dietrich"
+    },
+    {
+     "c": "Kiepert",
+     "n": "Kurt Gerron"
+    },
+    {
+     "c": "Guste",
+     "n": "Rosa Valetti"
+    },
+    {
+     "c": "Mazeppa",
+     "n": "Hans Albers"
+    },
+    {
+     "c": "The Clown",
+     "n": "Reinhold Bernt"
+    },
+    {
+     "c": "The Blue Angel's Proprietor",
+     "n": "Károly Huszár"
+    },
+    {
+     "c": "School Headmaster",
+     "n": "Eduard von Winterstein"
+    },
+    {
+     "c": "Bedel",
+     "n": "Hans Roth"
+    },
+    {
+     "c": "Pupil",
+     "n": "Rolf Müller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Josef von Sternberg"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 228,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
+   "popularity": 1.6037,
+   "poster_path": "/khz2rKLAPDVu9auJt1sR1HO9SCG.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1930-04-01",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "You Too, Will Be Aroused By Her Intoxicating Beauty! \"This Woman Makes a Man of Dignity a Slave to Love!\"",
+   "title": "The Blue Angel",
+   "trailer": {
+    "key": "Lw6GJiGNO74",
+    "name": "THE BLUE ANGEL (1930) New & Exclusive 2019 Re-release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 388
+  },
+  "movie:24128": {
+   "backdrop_path": "/kPDmoP4BCFaELJVBog4nIV4CPge.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Self - Vocals, Guitar",
+     "n": "David Byrne"
+    },
+    {
+     "c": "Self - Drums, Vocals",
+     "n": "Chris Frantz"
+    },
+    {
+     "c": "Self - Guitar, Keyboards, Vocals",
+     "n": "Jerry Harrison"
+    },
+    {
+     "c": "Self - Bass, Percussion, Vocals",
+     "n": "Tina Weymouth"
+    },
+    {
+     "c": "Self - Backing Vocals",
+     "n": "Ednah Holt"
+    },
+    {
+     "c": "Self - Backing Vocals",
+     "n": "Lynn Mabry"
+    },
+    {
+     "c": "Self - Percussion",
+     "n": "Steven Scales"
+    },
+    {
+     "c": "Self - Guitar, Vocals",
+     "n": "Alex Weir"
+    },
+    {
+     "c": "Self - Keyboards",
+     "n": "Bernie Worrell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Demme"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 24128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+   "popularity": 4.8308,
+   "poster_path": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-10-19",
+   "revenue": 12471520,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Why stop making sense? Why a movie? Why a big suit? Where do the odd movements come from? What will the band do next?",
+   "title": "Stop Making Sense",
+   "trailer": {
+    "key": "-rjMwSTeVeo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.351,
+   "vote_count": 407
+  },
+  "movie:2728": {
+   "backdrop_path": "/hv4vkURVXnYDZ0VJiGN3titWrIw.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Postal Dude",
+     "n": "Zack Ward"
+    },
+    {
+     "c": "Uncle Dave",
+     "n": "Dave Foley"
+    },
+    {
+     "c": "Richard",
+     "n": "Chris Coppola"
+    },
+    {
+     "c": "Faith",
+     "n": "Jackie Tohn"
+    },
+    {
+     "c": "Candidate Welles",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Officier John",
+     "n": "Ralf Moeller"
+    },
+    {
+     "c": "Verne Troyer",
+     "n": "Verne Troyer"
+    },
+    {
+     "c": "Officer Greg",
+     "n": "Chris Spencer"
+    },
+    {
+     "c": "Osama Bin Ladin",
+     "n": "Larry Thomas"
+    },
+    {
+     "c": "Panhandler",
+     "n": "Michael Paré"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Uwe Boll"
+   ],
+   "genres": [
+    "Comedy",
+    "Action"
+   ],
+   "id": 2728,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story begins with a regular Joe who tries desperately to seek employment, but embarks on a violent rampage when he teams up with cult leader Uncle Dave. Their first act is to heist an amusement park, only to learn that the Taliban are planning the same heist as well. Chaos ensues, and now the Postal Dude must not only take on terrorists but also political figures.",
+   "popularity": 1.8408,
+   "poster_path": "/2U91KS7t6HA1dI6YMiA6TpPRVqU.jpg",
+   "production_countries": [
+    "CA",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-18",
+   "revenue": 146741,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Some comedies go too far... others start there.",
+   "title": "Postal",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.67,
+   "vote_count": 415
+  },
+  "movie:301728": {
+   "backdrop_path": "/sOeR0Gh1F40z1Kb1PKdOZqfW8oE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Whit Carmichael",
+     "n": "Daniel MacPherson"
+    },
+    {
+     "c": "Claire Grenich",
+     "n": "Grace Huang"
+    },
+    {
+     "c": "Morgan Jacklar",
+     "n": "Luke Hemsworth"
+    },
+    {
+     "c": "Morgan Jacklar",
+     "n": "Bren Foster"
+    },
+    {
+     "c": "Chester Huntington",
+     "n": "Luke Ford"
+    },
+    {
+     "c": "Rex Mannings",
+     "n": "Dwaine Stevenson"
+    },
+    {
+     "c": "Philipa Boxen",
+     "n": "Louisa Mignone"
+    },
+    {
+     "c": "Lisa Carmichael",
+     "n": "Tess Haubrich"
+    },
+    {
+     "c": "Harris Menzies",
+     "n": "Harry Pavlidis"
+    },
+    {
+     "c": "Seet Johanson",
+     "n": "Kevin Copeland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shane Abbess"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 301728,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A search and rescue team are transported through deep space to a distant mining colony to save the sole survivor of a biological outbreak.  During their mission, they find a lethal weapon which is set to arrive on Earth within the hour.",
+   "popularity": 1.3351,
+   "poster_path": "/3RpZabrzEKiwoG5Y74HkX4rMQHM.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-11",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Search. Rescue. Destroy.",
+   "title": "Infini",
+   "trailer": {
+    "key": "usfgPPHTq3Y",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 412
+  },
+  "movie:38528": {
+   "backdrop_path": "/8cg1VtHc2fdiRJYchbvvo2srswZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruno \"Mandrake\" Fioretti",
+     "n": "Gigi Proietti"
+    },
+    {
+     "c": "Armando \"Er Pomata\" Pellicci",
+     "n": "Enrico Montesano"
+    },
+    {
+     "c": "Gabriella",
+     "n": "Catherine Spaak"
+    },
+    {
+     "c": "De Marchis",
+     "n": "Mario Carotenuto"
+    },
+    {
+     "c": "Felice Roversi",
+     "n": "Francesco De Rosa"
+    },
+    {
+     "c": "Fortune-teller",
+     "n": "Maria Teresa Albani"
+    },
+    {
+     "c": "Count Dallara",
+     "n": "Gigi Ballista"
+    },
+    {
+     "c": "Mafalda",
+     "n": "Nikki Gentile"
+    },
+    {
+     "c": "President of the Court",
+     "n": "Adolfo Celi"
+    },
+    {
+     "c": "Otello \"Manzotin\" Rinaldi",
+     "n": "Ennio Antonelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Steno"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 38528,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Bruno Fioretti, known as \"Mandrake\", is an inveterate gambler who never misses a day at the horse racing track in Rome. He is doubly unlucky: he bets too much on one horse, and his wife is sleeping with his best friend because Mandrake is always at the track. Penniless and cuckolded, Mandrake decides to make one last bet.",
+   "popularity": 0.6536,
+   "poster_path": "/zprLOtwwjjTF84YOGIZxakRu9Mc.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1976-10-29",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Horse Fever",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.322,
+   "vote_count": 393
+  },
+  "movie:430528": {
+   "backdrop_path": "/hF2Hk6BT3QLJZKmx6Hp8wKBqFQt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeanne",
+     "n": "Audrey Dana"
+    },
+    {
+     "c": "Docteur PACE",
+     "n": "Christian Clavier"
+    },
+    {
+     "c": "Merlin",
+     "n": "Éric Elmosnino"
+    },
+    {
+     "c": "Marcelle",
+     "n": "Alice Belaïdi"
+    },
+    {
+     "c": "Joe",
+     "n": "Joséphine Draï"
+    },
+    {
+     "c": "Anton",
+     "n": "Antoine Gouy"
+    },
+    {
+     "c": "Cécile",
+     "n": "Jézabel Marques"
+    },
+    {
+     "c": "La secrétaire du docteur",
+     "n": "Johanne Toledano"
+    },
+    {
+     "c": "Monsieur Kracovik",
+     "n": "Guillaume Delaunay"
+    },
+    {
+     "c": "Le chef des ouvriers",
+     "n": "Jérôme Paquatte"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Audrey Dana"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 430528,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Jeanne wakes up one morning and her life is about to take a funny turn, at first sight nothing has changed in her - to a small detail.",
+   "popularity": 2.2313,
+   "poster_path": "/ncDa148htqFhM5EXm32vszTWi0C.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-22",
+   "revenue": 1162912,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "One morning, she woke up with something extra!",
+   "title": "If I Were a Boy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 401
+  },
   "movie:461928": {
    "backdrop_path": "/7GR03LqwB7ePPPhaK5BAYNzt3Vm.jpg",
    "budget": 0,
@@ -937,6 +1989,545 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 462
+  },
+  "movie:575428": {
+   "backdrop_path": "/h9xzx7FteH3kFcED51qYjeHHUHD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhou Zenong",
+     "n": "Hu Ge"
+    },
+    {
+     "c": "Liu Aiai",
+     "n": "Gwei Lun-Mei"
+    },
+    {
+     "c": "Captain Liu",
+     "n": "Liao Fan"
+    },
+    {
+     "c": "Yang Shujun",
+     "n": "Wan Qian"
+    },
+    {
+     "c": "Hua Hua",
+     "n": "Qi Dao"
+    },
+    {
+     "c": "Yan Ge",
+     "n": "Huang Jue"
+    },
+    {
+     "c": "Ping Ping",
+     "n": "Chloe Maayan"
+    },
+    {
+     "c": "Xiao Dongbei",
+     "n": "Zhang Yicong"
+    },
+    {
+     "c": "Client",
+     "n": "Chen Yongzhong"
+    },
+    {
+     "c": "Chang Zhao",
+     "n": "Li Zhipeng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Diao Yinan"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 575428,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "A gangster ends up making a mistake that causes every gun on both sides of the law to point at him. While on the run, he comes across a mysterious woman who might get him out of trouble or make things worse.",
+   "popularity": 1.4344,
+   "poster_path": "/w49o4vmNFpCt4VFJp7ip6tjHh3x.jpg",
+   "production_countries": [
+    "CN",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-06",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Wild Goose Lake",
+   "trailer": {
+    "key": "L2pcumduhDM",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.632,
+   "vote_count": 389
+  },
+  "movie:579828": {
+   "backdrop_path": "/4ehqtwnjbYby9Brk6B1ECtmSiWu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna",
+     "n": "Milena Radulović"
+    },
+    {
+     "c": "Mikheev",
+     "n": "Sergey Ivanuk"
+    },
+    {
+     "c": "Yury",
+     "n": "Nicholay Kovbas"
+    },
+    {
+     "c": "Nikolay",
+     "n": "Nikita Dyuvbanov"
+    },
+    {
+     "c": "Grigoriev",
+     "n": "Vadim Demchog"
+    },
+    {
+     "c": "Kira",
+     "n": "Albina Chaykina"
+    },
+    {
+     "c": "Peter",
+     "n": "Kirill Kovbas"
+    },
+    {
+     "c": "Big Daddy",
+     "n": "Victor Nizovoy"
+    },
+    {
+     "c": "Egorov",
+     "n": "Artyom Tsukanov"
+    },
+    {
+     "c": "Shahter",
+     "n": "Andrey Trushin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Arseny Syuhin",
+    "Sergey Torchilin"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 579828,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "In 1984, a Russian research team goes below the surface to find out what secret the world's deepest borehole is hiding. On their expedition, something unexpectedly gruesome awaits the researchers.",
+   "popularity": 2.388,
+   "poster_path": "/1HhlR1XbG1cw7dfAq3rme6Qs1lh.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-04",
+   "revenue": 596370,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "No light. No salvation.",
+   "title": "Superdeep",
+   "trailer": {
+    "key": "2vfmCzuTsaY",
+    "name": "Superdeep - Official Trailer [HD] | A Shudder Original",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.91,
+   "vote_count": 404
+  },
+  "movie:594328": {
+   "backdrop_path": "/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Candace Flynn (voice)",
+     "n": "Ashley French"
+    },
+    {
+     "c": "Phineas Flynn (voice)",
+     "n": "Vincent Martella"
+    },
+    {
+     "c": "Ferb Fletcher (voice)",
+     "n": "David Errigo Jr."
+    },
+    {
+     "c": "Dr. Doofenshmirtz (voice)",
+     "n": "Dan Povenmire"
+    },
+    {
+     "c": "Vanessa Doofenshmirtz (voice)",
+     "n": "Olivia Olson"
+    },
+    {
+     "c": "Isabella (voice)",
+     "n": "Alyson Stoner"
+    },
+    {
+     "c": "Buford (voice)",
+     "n": "Bobby Gaylor"
+    },
+    {
+     "c": "Baljeet (voice)",
+     "n": "Maulik Pancholy"
+    },
+    {
+     "c": "Perry the Platypus / Mama / Additional Voices (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Super Super Big Doctor (voice)",
+     "n": "Ali Wong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Dan Povenmire",
+    "Bob Bowen"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Science Fiction",
+    "Comedy"
+   ],
+   "id": 594328,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.",
+   "popularity": 3.0827,
+   "poster_path": "/m5ZGqyTN8BMRO3OApuSWHBfyySg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-06-14",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for a mission that's out of this world!",
+   "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+   "trailer": {
+    "key": "w7FySIfypLc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.233,
+   "vote_count": 424
   },
   "movie:670428": {
    "backdrop_path": "/aLDQl8iUzrapHOob3VHgmyX1ijj.jpg",
@@ -1157,6 +2748,270 @@
    "type": "movie",
    "vote_average": 6.011,
    "vote_count": 473
+  },
+  "movie:698128": {
+   "backdrop_path": "/3QrD6F2MKooZhlnMqrzknzcQp92.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "Sarah",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Trent",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Peter",
+     "n": "Beulah Koale"
+    },
+    {
+     "c": "Robert Michaels",
+     "n": "Theo James"
+    },
+    {
+     "c": "Official with Flags",
+     "n": "Elina Jackson"
+    },
+    {
+     "c": "Sarah's Mother",
+     "n": "Maija Paunio"
+    },
+    {
+     "c": "Emergency Room Receptionist",
+     "n": "Rea Lest-Liik"
+    },
+    {
+     "c": "Gastroenterologist",
+     "n": "Sanna-June Hyde"
+    },
+    {
+     "c": "Tom",
+     "n": "Kris Gummerus"
+    },
+    {
+     "c": "Two Identical Handsome Men",
+     "n": "Nico Siekkinen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Riley Stearns"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 698128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A terminally ill woman opts for a cloning procedure to ease her loss on her friends and family. When she makes a miraculous recovery, her attempts to have her clone decommissioned fail and lead to a court-mandated duel to the death.",
+   "popularity": 2.8235,
+   "poster_path": "/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+   "production_countries": [
+    "CA",
+    "FI",
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-18",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only thing that can stop you is you.",
+   "title": "Dual",
+   "trailer": {
+    "key": "OX7L8pFWO0k",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.98,
+   "vote_count": 415
+  },
+  "movie:8428": {
+   "backdrop_path": "/j1Q9PSiRxpUZPtzislzEsyDgRCy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark Hunter",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Nora Diniro",
+     "n": "Samantha Mathis"
+    },
+    {
+     "c": "Loretta Creswood",
+     "n": "Annie Ross"
+    },
+    {
+     "c": "Brian Hunter",
+     "n": "Scott Paulin"
+    },
+    {
+     "c": "Marla Hunter",
+     "n": "Mimi Kennedy"
+    },
+    {
+     "c": "Murdock",
+     "n": "Andy Romano"
+    },
+    {
+     "c": "Luis Chavez",
+     "n": "Keith Stuart Thayer"
+    },
+    {
+     "c": "Paige Woodward",
+     "n": "Cheryl Pollak"
+    },
+    {
+     "c": "Mr. Woodward",
+     "n": "Jeff Chamberlain"
+    },
+    {
+     "c": "Janie",
+     "n": "Lala Sloatman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Allan Moyle"
+   ],
+   "genres": [
+    "Music",
+    "Drama"
+   ],
+   "id": 8428,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mark Hunter, a lonely high school student, uses his shortwave radio to moonlight as the popular pirate DJ \"Hard Harry.\" When his show gets blamed for a teen committing suicide, the students clash with high school faculty and the authorities.",
+   "popularity": 2.409,
+   "poster_path": "/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-08-22",
+   "revenue": 11500000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "TALK HARD. STEAL THE AIR.",
+   "title": "Pump Up the Volume",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 429
   },
   "movie:875828": {
    "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",

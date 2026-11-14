@@ -1,7 +1,74 @@
 {
  "bucket": "53",
- "count": 20,
+ "count": 32,
  "titles": {
+  "movie:1008953": {
+   "d": "Incoming (2024): Comedy film. Story: Their first week of high school. The biggest party of… See cast, TMDB rating 6.4/10, and release date 22 August 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
+   "industry": "world",
+   "k": "Incoming, Incoming movie, Incoming cast, Incoming story, Incoming box office collection, Incoming budget, Incoming review, Incoming rating, Incoming release date, Incoming trailer, Incoming Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mason Thames"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramon Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Raphael Alejandro"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Ferreira"
+     },
+     {
+      "@type": "Person",
+      "name": "Bardia Seiri"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Incoming (2024): Comedy film. Story: Their first week of high school. The biggest party of… See cast, TMDB rating 6.4/10, and release date 22 August 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dave Chernin"
+     },
+     {
+      "@type": "Person",
+      "name": "John Chernin"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1008953",
+    "name": "Incoming",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1008953"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Incoming (2024)</h1>\n<p class=\"ssr-lead\">Their first week of high school. The biggest party of the year. Mistakes will be made as four teenage boys navigate a night of mayhem and debauchery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2024</li><li>Runtime: 92 minutes</li><li>Director: Dave Chernin, John Chernin</li><li>Genres: Comedy</li><li>TMDB rating: 6.4/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mason Thames as Benj Nielsen</li><li>Ramon Reed as Eddie</li><li>Raphael Alejandro as Connor</li><li>Isabella Ferreira as Bailey</li><li>Bardia Seiri as Danah &#x27;Koosh&#x27; Koushani</li><li>Loren Gray as Katrina Aurienna</li><li>Ali Gallo as Alyssa Nielsen</li><li>Scott MacArthur as Dennis</li><li>Thomas Barbusca as Ruby</li><li>Kim Hawthorne as Principal Hutchens</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Incoming (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:10253": {
    "d": "Dragon Wars: D-War (2007): Fantasy/Drama film. Story: Ethan learns he carries the spirit of a warrior who… See cast, budget $32M, and TMDB rating 4.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
@@ -129,6 +196,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Myth (2005)</h1>\n<p class=\"ssr-lead\">When a fellow scientist asks for Jack&#x27;s help in locating the mausoleum of China&#x27;s first emperor, the past collides violently with the present as Jack discovers his amazing visions are based in fact.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 May 2005</li><li>Runtime: 118 minutes</li><li>Director: Stanley Tong Gwai-lai</li><li>Genres: Action, Adventure, Comedy, Drama, Fantasy</li><li>Budget: $15M</li><li>TMDB rating: 6.4/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as General Meng Yi / Dr. Jack Chan</li><li>Kim Hee-seon as Korea Princess Ok Soo</li><li>Tony Leung Ka-fai as William</li><li>Mallika Sherawat as Samantha</li><li>Sun Zhou as Professor Koo</li><li>Shao Bing as General Nangong Yan</li><li>Yu Rongguang as Rebel General Zhao Kuang</li><li>Ken Wong as Rebel General Meng Jie</li><li>Jin Song as Rebel General Jin Song</li><li>Choi Min-soo as Korea General Choi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Myth (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
+  },
+  "movie:12253": {
+   "d": "Biker Boyz (2003): Action/Drama film. Story: A mythic motorcycle tale of father and son, this is… See cast, budget $24M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pxz6PBvEGiaT2giDIXekjpfrhwl.jpg",
+   "industry": "world",
+   "k": "Biker Boyz, Biker Boyz movie, Biker Boyz cast, Biker Boyz story, Biker Boyz box office collection, Biker Boyz budget, Biker Boyz review, Biker Boyz rating, Biker Boyz release date, Biker Boyz Action, Biker Boyz Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Luke"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Djimon Hounsou"
+     },
+     {
+      "@type": "Person",
+      "name": "Meagan Good"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Biker Boyz (2003): Action/Drama film. Story: A mythic motorcycle tale of father and son, this is… See cast, budget $24M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Reggie Rock Bythewood"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pxz6PBvEGiaT2giDIXekjpfrhwl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12253",
+    "name": "Biker Boyz",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-01-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12253"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Biker Boyz (2003)</h1>\n<p class=\"ssr-lead\">A mythic motorcycle tale of father and son, this is the story of Manuel Galloway, also known as &quot;the King of Cali&quot;, the president of a motorcycle club whose members are all African-American men, mostly white-collar workers who exchange their suits and ties at night and on weekends for leather outfits and motorcycle helmets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 January 2003</li><li>Runtime: 110 minutes</li><li>Director: Reggie Rock Bythewood</li><li>Genres: Action, Drama</li><li>Budget: $24M</li><li>TMDB rating: 6.4/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laurence Fishburne as Smoke</li><li>Derek Luke as Kid</li><li>Orlando Jones as Soul Train</li><li>Djimon Hounsou as Motherland</li><li>Meagan Good as Tina</li><li>Lisa Bonet as Queenie</li><li>Kid Rock as Dogg</li><li>Salli Richardson-Whitfield as Half &amp; Half</li><li>Vanessa Bell Calloway as Anita</li><li>Brendan Fehr as Stuntman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Biker Boyz (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "movie:1236153": {
    "d": "Mercy (2026): Science Fiction/Thriller film. Story: In the near future, a detective stands on trial… See cast, budget $60M, and TMDB rating 7.1/10.",
@@ -449,6 +580,329 @@
    "t": "Neglected (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14353": {
+   "d": "Repo! The Genetic Opera (2009): Music/Science Fiction film. Story: By the year 2056, an epidemic of organ failures has… See cast and budget $8.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
+   "industry": "world",
+   "k": "Repo! The Genetic Opera, Repo! The Genetic Opera movie, Repo! The Genetic Opera cast, Repo! The Genetic Opera story, Repo! The Genetic Opera box office collection, Repo! The Genetic Opera budget, Repo! The Genetic Opera review, Repo! The Genetic Opera rating, Repo! The Genetic Opera release date, Repo! The Genetic Opera trailer, Repo! The Genetic Opera Music, Repo! The Genetic Opera Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexa PenaVega"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Sorvino"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Stewart Head"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Brightman"
+     },
+     {
+      "@type": "Person",
+      "name": "Paris Hilton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 405,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Repo! The Genetic Opera (2009): Music/Science Fiction film. Story: By the year 2056, an epidemic of organ failures has… See cast and budget $8.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Darren Lynn Bousman"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Music",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14353",
+    "name": "Repo! The Genetic Opera",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14353"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Repo! The Genetic Opera (2009)</h1>\n<p class=\"ssr-lead\">By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2009</li><li>Runtime: 98 minutes</li><li>Director: Darren Lynn Bousman</li><li>Genres: Music, Science Fiction, Horror</li><li>Budget: $8.5M</li><li>TMDB rating: 6.3/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexa PenaVega as Shilo Wallace</li><li>Paul Sorvino as Rotti Largo</li><li>Anthony Stewart Head as Nathan Wallace / Repo Man</li><li>Sarah Brightman as Blind Mag</li><li>Paris Hilton as Amber Sweet</li><li>Bill Moseley as Luigi Largo</li><li>Nivek Ogre as Pavi Largo</li><li>Terrance Zdunich as GraveRobber</li><li>Sarah Power as Marni Wallace</li><li>Jessica Horn as Jessica Adams</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, MovieSphere+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Repo! The Genetic Opera (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:204553": {
+   "d": "Cold Eyes (2013): Crime/Action film. Story: Ha Yoon-ju becomes the newest member of a unit within… See cast, TMDB rating 7.5/10, and release date 3 July 2013.",
+   "img": "https://image.tmdb.org/t/p/w780/bE4XWNy9CZD4TbJoFlRejbjI71X.jpg",
+   "industry": "world",
+   "k": "Cold Eyes, Cold Eyes movie, Cold Eyes cast, Cold Eyes story, Cold Eyes box office collection, Cold Eyes budget, Cold Eyes review, Cold Eyes rating, Cold Eyes release date, Cold Eyes trailer, Cold Eyes Crime, Cold Eyes Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sul Kyung-gu"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Woo-sung"
+     },
+     {
+      "@type": "Person",
+      "name": "Han Hyo-joo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Byeong-ok"
+     },
+     {
+      "@type": "Person",
+      "name": "Jin Kyung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Cold Eyes (2013): Crime/Action film. Story: Ha Yoon-ju becomes the newest member of a unit within… See cast, TMDB rating 7.5/10, and release date 3 July 2013.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Byung-seo"
+     },
+     {
+      "@type": "Person",
+      "name": "Cho Ui-seok"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Crime",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bE4XWNy9CZD4TbJoFlRejbjI71X.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=204553",
+    "name": "Cold Eyes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=204553"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cold Eyes (2013)</h1>\n<p class=\"ssr-lead\">Ha Yoon-ju becomes the newest member of a unit within the Korean Police Forces Special Crime Department that specializes in surveillance activities on high-profile criminals. She teams up with Hwang Sang-jun, the veteran leader of the unit, and tries to track down James who is the cold-hearted leader of an armed criminal organization.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2013</li><li>Runtime: 119 minutes</li><li>Director: Kim Byung-seo, Cho Ui-seok</li><li>Genres: Crime, Action, Thriller</li><li>TMDB rating: 7.5/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sul Kyung-gu as Hwang Sang-jun</li><li>Jung Woo-sung as James</li><li>Han Hyo-joo as Ha Yoon-joo</li><li>Kim Byeong-ok as Jeong Tong</li><li>Jin Kyung as Department Head Lee</li><li>JUNHO as Squirrel</li><li>Simon Yam as Man in Suit</li><li>Son Min-seok as Monkey</li><li>Kim Dae-jin as Snake</li><li>Lee Tae-hyung as Sloth</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kocowa</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Cold Eyes (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:26953": {
+   "d": "Puppetmaster (1989): Horror film. Story: After being contacted by their mysterious former… See cast, TMDB rating 5.8/10, and release date 12 October 1989.",
+   "img": "https://image.tmdb.org/t/p/w780/drNqIJYcrjBUiq5NGDtVISSR0Kk.jpg",
+   "industry": "world",
+   "k": "Puppetmaster, Puppetmaster movie, Puppetmaster cast, Puppetmaster story, Puppetmaster box office collection, Puppetmaster budget, Puppetmaster review, Puppetmaster rating, Puppetmaster release date, Puppetmaster trailer, Puppetmaster Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Le Mat"
+     },
+     {
+      "@type": "Person",
+      "name": "William Hickey"
+     },
+     {
+      "@type": "Person",
+      "name": "Irene Miracle"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimmie F. Skaggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Frates"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 416,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Puppetmaster (1989): Horror film. Story: After being contacted by their mysterious former… See cast, TMDB rating 5.8/10, and release date 12 October 1989.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Schmoeller"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/drNqIJYcrjBUiq5NGDtVISSR0Kk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26953",
+    "name": "Puppetmaster",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26953"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Puppetmaster (1989)</h1>\n<p class=\"ssr-lead\">After being contacted by their mysterious former colleague, four psychics arrive at a secluded hotel where they are stalked by a group of murderous puppets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 1989</li><li>Runtime: 88 minutes</li><li>Director: David Schmoeller</li><li>Genres: Horror</li><li>TMDB rating: 5.8/10 (416 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Le Mat as Alex Whitaker</li><li>William Hickey as Andre Toulon</li><li>Irene Miracle as Dana Hadley</li><li>Jimmie F. Skaggs as Neil Gallagher</li><li>Robin Frates as Megan Gallagher</li><li>Matt Roe as Frank Forrester</li><li>Kathryn O&#x27;Reilly as Carlissa Stamford</li><li>Mews Small as Theresa</li><li>Barbara Crampton as Woman at Carnival</li><li>David Boyd as Man at Carnival</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, AMC+ Amazon Channel, Shudder Amazon Channel, Full Moon Amazon Channel, Shudder Apple TV channel, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Puppetmaster (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
+  "movie:28053": {
+   "d": "City Island (2009): Drama/Comedy film. Story: The Rizzos, a family who doesn't share their habits… See cast, budget $6M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vy0vzHqPF4PsEip4IF4zwhKNy4P.jpg",
+   "industry": "world",
+   "k": "City Island, City Island movie, City Island cast, City Island story, City Island box office collection, City Island budget, City Island review, City Island rating, City Island release date, City Island Drama, City Island Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andy Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianna Margulies"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Strait"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Mortimer"
+     },
+     {
+      "@type": "Person",
+      "name": "Ezra Miller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "City Island (2009): Drama/Comedy film. Story: The Rizzos, a family who doesn't share their habits… See cast, budget $6M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Raymond De Felitta"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vy0vzHqPF4PsEip4IF4zwhKNy4P.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=28053",
+    "name": "City Island",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-03-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=28053"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>City Island (2009)</h1>\n<p class=\"ssr-lead\">The Rizzos, a family who doesn&#x27;t share their habits, aspirations, and careers with one another, find their delicate web of lies disturbed by the arrival of a young ex-con brought home by Vince, the patriarch of the family, who is a corrections officer in real life, and a hopeful actor in private.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 March 2009</li><li>Runtime: 104 minutes</li><li>Director: Raymond De Felitta</li><li>Genres: Drama, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 6.9/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andy Garcia as Vince Rizzo</li><li>Julianna Margulies as Joyce Rizzo</li><li>Steven Strait as Tony</li><li>Emily Mortimer as Molly Charlesworth</li><li>Ezra Miller as Vince Jr.</li><li>Dominik Garcia as Vivian Rizzo</li><li>Carrie Baker Reynolds as Denise</li><li>Hope Glendon-Ross as Cheryl</li><li>Alan Arkin as Michael Malakov</li><li>Louis Mustillo as Bruno</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Lionsgate+ Amazon Channel, Starz, Starz Apple TV channel, Starz Roku Premium Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "City Island (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:308453": {
+   "d": "The Bronze (2016): Drama/Comedy film. Story: In 2004, Hope Ann Greggory became an American hero… See cast, budget $3.5M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/57b4FmA9aSNE6wiL439DlKFS5TY.jpg",
+   "industry": "world",
+   "k": "The Bronze, The Bronze movie, The Bronze cast, The Bronze story, The Bronze box office collection, The Bronze budget, The Bronze review, The Bronze rating, The Bronze release date, The Bronze Drama, The Bronze Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melissa Rauch"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Cole"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Middleditch"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Cecily Strong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 410,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Bronze (2016): Drama/Comedy film. Story: In 2004, Hope Ann Greggory became an American hero… See cast, budget $3.5M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bryan Buckley"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/57b4FmA9aSNE6wiL439DlKFS5TY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=308453",
+    "name": "The Bronze",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=308453"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bronze (2016)</h1>\n<p class=\"ssr-lead\">In 2004, Hope Ann Greggory became an American hero after winning the bronze medal for the women&#x27;s gymnastics team. Today, she&#x27;s still living in her small hometown, washed-up and embittered. Stuck in the past, Hope must reassess her life when a promising young gymnast threatens her local celebrity status.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2016</li><li>Runtime: 108 minutes</li><li>Director: Bryan Buckley</li><li>Genres: Drama, Comedy</li><li>Budget: $3.5M</li><li>TMDB rating: 6.0/10 (410 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melissa Rauch as Hope Annabelle Greggory</li><li>Gary Cole as Stan Greggory</li><li>Thomas Middleditch as Ben Lawfort</li><li>Sebastian Stan as Lance Tucker</li><li>Cecily Strong as Janice Townsend</li><li>Haley Lu Richardson as Maggie Townsend</li><li>Dale Raoul as Doris</li><li>Craig Kilborn as Heath Parker</li><li>Dominique Dawes as Dominique Dawes</li><li>Olga Korbut as Olga Korbut</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Bronze (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:39053": {
    "d": "Cyrus (2010): Comedy/Drama film. Story: With John's social life at a standstill and his… See cast, budget $7M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/tZP2xJaUgCFByVMDYHyEOJiCSX6.jpg",
@@ -517,6 +971,133 @@
    "t": "Cyrus (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:392553": {
+   "d": "Minimalism: A Documentary About the Important Things (2015): Documentary film. Story: How might your life be better with less? The popular… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/zCQC3FgiFxg4amid5rWLVvguZlk.jpg",
+   "industry": "world",
+   "k": "Minimalism: A Documentary About the Important Things, Minimalism: A Documentary About the Important Things movie, Minimalism: A Documentary About the Important Things cast, Minimalism: A Documentary About the Important Things story, Minimalism: A Documentary About the Important Things box office collection, Minimalism: A Documentary About the Important Things budget, Minimalism: A Documentary About the Important Things review, Minimalism: A Documentary About the Important Things rating, Minimalism: A Documentary About the Important Things release date, Minimalism: A Documentary About the Important Things Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joshua Fields Millburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Nicodemus"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Becker"
+     },
+     {
+      "@type": "Person",
+      "name": "Shannon Whitehead"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 425,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Minimalism: A Documentary About the Important Things (2015): Documentary film. Story: How might your life be better with less? The popular… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt D'Avella"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zCQC3FgiFxg4amid5rWLVvguZlk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=392553",
+    "name": "Minimalism: A Documentary About the Important Things",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-09-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=392553"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Minimalism: A Documentary About the Important Things (2015)</h1>\n<p class=\"ssr-lead\">How might your life be better with less? The popular simple-living duo The Minimalists examines the many flavors of minimalism by taking the audience inside the lives of minimalists from various walks of life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 2015</li><li>Runtime: 79 minutes</li><li>Director: Matt D&#x27;Avella</li><li>Genres: Documentary</li><li>TMDB rating: 6.6/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joshua Fields Millburn as Self</li><li>Ryan Nicodemus as Self</li><li>Dan Harris as Self</li><li>Joshua Becker as Self</li><li>Shannon Whitehead as Self</li><li>Sam Harris as Self</li><li>Rick Hanson as Self</li><li>Jay Austin as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "Minimalism: A Documentary About the Important Things (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:461053": {
+   "d": "S.W.A.T.: Under Siege (2017): Action/Crime film. Story: When a D.E.A. and S.W.A.T. cartel takedown ends in a… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+   "industry": "world",
+   "k": "S.W.A.T.: Under Siege, S.W.A.T.: Under Siege movie, S.W.A.T.: Under Siege cast, S.W.A.T.: Under Siege story, S.W.A.T.: Under Siege box office collection, S.W.A.T.: Under Siege budget, S.W.A.T.: Under Siege review, S.W.A.T.: Under Siege rating, S.W.A.T.: Under Siege release date, S.W.A.T.: Under Siege Action, S.W.A.T.: Under Siege Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrianne Palicki"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Jai White"
+     },
+     {
+      "@type": "Person",
+      "name": "Ty Olsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Pascale Hutton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Jaeger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "S.W.A.T.: Under Siege (2017): Action/Crime film. Story: When a D.E.A. and S.W.A.T. cartel takedown ends in a… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tony Giglio"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=461053",
+    "name": "S.W.A.T.: Under Siege",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-08-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=461053"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>S.W.A.T.: Under Siege (2017)</h1>\n<p class=\"ssr-lead\">When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 August 2017</li><li>Runtime: 89 minutes</li><li>Director: Tony Giglio</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 5.9/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrianne Palicki as Ellen Dwyer</li><li>Michael Jai White as Scorpion</li><li>Ty Olsson as Ward</li><li>Pascale Hutton as Carley</li><li>Sam Jaeger as Travis Hall</li><li>Monique Ganderton as Simone</li><li>Kyra Zagorsky as Sophia Gutierrez</li><li>Olivia Cheng as Chu</li><li>Zahf Paroo as Hooks</li><li>Aren Buchholz as York</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "S.W.A.T.: Under Siege (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:618353": {
    "d": "DC Showcase - Batman: Death in the Family (2020): Animation/Action film. Story: Tragedy strikes the Batman's life again when Robin… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg",
@@ -580,6 +1161,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>DC Showcase - Batman: Death in the Family (2020)</h1>\n<p class=\"ssr-lead\">Tragedy strikes the Batman&#x27;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 2020</li><li>Runtime: 31 minutes</li><li>Director: Brandon Vietti</li><li>Genres: Animation, Action</li><li>TMDB rating: 7.1/10 (498 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Greenwood as Bruce Wayne / Batman (voice)</li><li>Vincent Martella as Jason Todd / Robin / Red Hood / Red Robin (voice)</li><li>John DiMaggio as Jack Napier / The Joker / Thomas Wayne / Reporter 2 (voice)</li><li>Zehra Fazal as Talia al Ghul / Reporter 3 (voice)</li><li>Gary Cole as Two-Face / Commissioner James Gordon / Reporter 4 (voice)</li><li>Kimberly Brooks as Police Officer 1 / Reporter 1 (voice)</li><li>Nolan North as Clark Kent / Police Officer 2 (voice)</li><li>Nick Carson as Tim Drake / Young Bruce Wayne (voice)</li><li>Keith Ferguson as Gangster 1 (voice)</li><li>Ray Chase as Noris (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "DC Showcase - Batman: Death in the Family (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:748853": {
+   "d": "In the Earth (2021): Horror/Science Fiction film. Story: As a deadly virus ravages the world, Dr. Martin… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fjRlDPqo2qqMBoUItMtTDZe9kvZ.jpg",
+   "industry": "world",
+   "k": "In the Earth, In the Earth movie, In the Earth cast, In the Earth story, In the Earth box office collection, In the Earth budget, In the Earth review, In the Earth rating, In the Earth release date, In the Earth trailer, In the Earth Horror, In the Earth Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Fry"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellora Torchia"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayley Squires"
+     },
+     {
+      "@type": "Person",
+      "name": "Reece Shearsmith"
+     },
+     {
+      "@type": "Person",
+      "name": "John Hollingworth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 413,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "In the Earth (2021): Horror/Science Fiction film. Story: As a deadly virus ravages the world, Dr. Martin… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Wheatley"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fjRlDPqo2qqMBoUItMtTDZe9kvZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=748853",
+    "name": "In the Earth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=748853"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Earth (2021)</h1>\n<p class=\"ssr-lead\">As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to reach test site ATU327A, a research hub deep in the Arboreal Forest. The arduous journey, guided by park scout Alma, is set back by a nighttime attack that leaves the two bruised and shoeless. When they run into Zach, a man living off the grid, they gratefully accept his help. Zach’s intentions aren’t exactly what they seem, however, and a path out of the forest and into safety quickly fades as the line between myth and science blurs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2021</li><li>Runtime: 107 minutes</li><li>Director: Ben Wheatley</li><li>Genres: Horror, Science Fiction</li><li>TMDB rating: 5.6/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Fry as Dr. Martin Lowery</li><li>Ellora Torchia as Alma</li><li>Hayley Squires as Dr. Olivia Wendle</li><li>Reece Shearsmith as Zach Whitehead</li><li>John Hollingworth as Lord James Karel</li><li>Mark Monero as Dr. Frank Jarrek</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "In the Earth (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:828853": {
+   "d": "Jackass 4.5 (2022): Comedy/Action film. Story: Through outrageous, never-before-seen footage… See cast, TMDB rating 6.4/10, and release date 20 May 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/42975nYxawMHta0yoAtwm6ZPy0L.jpg",
+   "industry": "world",
+   "k": "Jackass 4.5, Jackass 4.5 movie, Jackass 4.5 cast, Jackass 4.5 story, Jackass 4.5 box office collection, Jackass 4.5 budget, Jackass 4.5 review, Jackass 4.5 rating, Jackass 4.5 release date, Jackass 4.5 trailer, Jackass 4.5 Comedy, Jackass 4.5 Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Knoxville"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve-O"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Pontius"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave England"
+     },
+     {
+      "@type": "Person",
+      "name": "Ehren McGhehey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Jackass 4.5 (2022): Comedy/Action film. Story: Through outrageous, never-before-seen footage… See cast, TMDB rating 6.4/10, and release date 20 May 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Tremaine"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/42975nYxawMHta0yoAtwm6ZPy0L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=828853",
+    "name": "Jackass 4.5",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=828853"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jackass 4.5 (2022)</h1>\n<p class=\"ssr-lead\">Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#x27;s last go at wild stunts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2022</li><li>Runtime: 90 minutes</li><li>Director: Jeff Tremaine</li><li>Genres: Comedy, Action, Documentary</li><li>TMDB rating: 6.4/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Knoxville as Self</li><li>Steve-O as Self</li><li>Chris Pontius as Self</li><li>Dave England as Self</li><li>Ehren McGhehey as Self</li><li>Jason &#x27;Wee Man&#x27; Acuña as Self</li><li>Preston Lacy as Self</li><li>Zach Holmes as Self</li><li>Sean McInerney as Self</li><li>Davon &#x27;Jasper&#x27; Wilson as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Jackass 4.5 (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:8653": {
+   "d": "The Isle (2000): Drama/Thriller film. Story: Mute Hee-Jin is working as a clerk in a fishing… See cast, budget $50.0k, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kUM5b2y1eveCOINZmq6FWFb2Iob.jpg",
+   "industry": "world",
+   "k": "The Isle, The Isle movie, The Isle cast, The Isle story, The Isle box office collection, The Isle budget, The Isle review, The Isle rating, The Isle release date, The Isle Drama, The Isle Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kim Yu-seok"
+     },
+     {
+      "@type": "Person",
+      "name": "Suh Jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Seo Won"
+     },
+     {
+      "@type": "Person",
+      "name": "Son Min-seok"
+     },
+     {
+      "@type": "Person",
+      "name": "Cho Jae-hyun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Isle (2000): Drama/Thriller film. Story: Mute Hee-Jin is working as a clerk in a fishing… See cast, budget $50.0k, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Ki-duk"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kUM5b2y1eveCOINZmq6FWFb2Iob.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8653",
+    "name": "The Isle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-04-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8653"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Isle (2000)</h1>\n<p class=\"ssr-lead\">Mute Hee-Jin is working as a clerk in a fishing resort in the Korean wilderness; selling baits, food and occasionally her body to the fishing tourists. One day she falls in love with Hyun-Shik, who is on the run from the police, and rescues him with a fish hook when he tries to commit suicide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 April 2000</li><li>Runtime: 90 minutes</li><li>Director: Kim Ki-duk</li><li>Genres: Drama, Thriller</li><li>Budget: $50.0k</li><li>TMDB rating: 6.9/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Yu-seok as Hyun-shik</li><li>Suh Jung as Hee-jin</li><li>Seo Won as Eun-ah</li><li>Son Min-seok as Dal-soo</li><li>Cho Jae-hyun as Mang-chee</li><li>Jang Hang-seon as Middle-aged Man</li><li>Han Ji-sun as Jeong-ah</li><li>Yoon Hee-won as Fisherman #1</li><li>No Jin-won as Fisherman #2</li><li>Yang Young-jo as Detective #1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: FlixFling</li><li>Rent: Amazon Video, FlixFling</li><li>Buy: Amazon Video, FlixFling</li></ul>\n</article>",
+   "t": "The Isle (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:892153": {
    "d": "Tom and Jerry Cowboy Up! (2022): Animation/Comedy film. Story: This time, the rivals team up to help a cowgirl and… See cast and TMDB rating 6.9/10.",

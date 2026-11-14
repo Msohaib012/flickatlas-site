@@ -1,7 +1,110 @@
 {
  "bucket": "78",
- "count": 28,
+ "count": 33,
  "titles": {
+  "movie:10178": {
+   "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Lt. Cmdr. Philip Francis Queeg",
+     "n": "Humphrey Bogart"
+    },
+    {
+     "c": "Ens. Willis Seward 'Willie' Keith",
+     "n": "Robert Francis"
+    },
+    {
+     "c": "Lt. Stephen Maryk",
+     "n": "Van Johnson"
+    },
+    {
+     "c": "Lt. Thomas 'Tom' Keefer",
+     "n": "Fred MacMurray"
+    },
+    {
+     "c": "May Wynn",
+     "n": "May Wynn"
+    },
+    {
+     "c": "Mrs. Keith",
+     "n": "Katherine Warren"
+    },
+    {
+     "c": "Ens. Barney Harding",
+     "n": "Jerry Paris"
+    },
+    {
+     "c": "Lt. Barney Greenwald",
+     "n": "José Ferrer"
+    },
+    {
+     "c": "Lt. Comdr. Challee",
+     "n": "E.G. Marshall"
+    },
+    {
+     "c": "Comdr. DeVriess",
+     "n": "Tom Tully"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Edward Dmytryk"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 10178,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a US Naval captain shows signs of mental instability that jeopardize his ship, the first officer relieves him of command and faces court martial for mutiny.",
+   "popularity": 2.5803,
+   "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1954-06-24",
+   "revenue": 21750000,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "As big as the ocean!",
+   "title": "The Caine Mutiny",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.261,
+   "vote_count": 391
+  },
   "movie:114478": {
    "backdrop_path": "/sFfD1TvTUzmzWFpSm7GnYrKcWJH.jpg",
    "budget": 0,
@@ -1015,6 +1118,590 @@
    "type": "movie",
    "vote_average": 4.918,
    "vote_count": 49
+  },
+  "movie:31578": {
+   "backdrop_path": "/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Coroner",
+     "n": "John Carpenter"
+    },
+    {
+     "c": "Man #1",
+     "n": "Tom Arnold"
+    },
+    {
+     "c": "Man #2",
+     "n": "Tobe Hooper"
+    },
+    {
+     "c": "Bill",
+     "n": "Robert Carradine"
+    },
+    {
+     "c": "Anne",
+     "n": "Alex Datcher"
+    },
+    {
+     "c": "Gent",
+     "n": "Peter Jason"
+    },
+    {
+     "c": "Divorcee",
+     "n": "Molly Cheek"
+    },
+    {
+     "c": "Pasty Faced Man",
+     "n": "Wes Craven"
+    },
+    {
+     "c": "Bill - Dead Attendant",
+     "n": "Sam Raimi"
+    },
+    {
+     "c": "Pete",
+     "n": "David Naughton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Carpenter",
+    "Tobe Hooper",
+    "Larry Sulkis"
+   ],
+   "genres": [
+    "TV Movie",
+    "Horror"
+   ],
+   "id": 31578,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A horror anthology containing three stories: a female college student working a graveyard shift is terrorized by a serial killer; a hair transplant goes horribly wrong; and a baseball player loses an eye and gets a new one from a recently executed murderer.",
+   "popularity": 1.9476,
+   "poster_path": "/xRwna1sWDByZs9hsnlabt16INHl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-08-08",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Zip yourself in tight!",
+   "title": "Body Bags",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.176,
+   "vote_count": 414
+  },
+  "movie:370978": {
+   "backdrop_path": "/erIfV6Xm60tsEySsrDolb8DoqNP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Natalia (as Natalia Molina)",
+     "n": "Natalia de Molina"
+    },
+    {
+     "c": "Alejandro",
+     "n": "Álex García"
+    },
+    {
+     "c": "Atracador Gasolinera",
+     "n": "Jacobo Sánchez"
+    },
+    {
+     "c": "Cajera",
+     "n": "Silvia Rey"
+    },
+    {
+     "c": "Paco",
+     "n": "Paco León"
+    },
+    {
+     "c": "Ana",
+     "n": "Ana Katz"
+    },
+    {
+     "c": "Terapeuta",
+     "n": "Eduardo Recabarren"
+    },
+    {
+     "c": "Belén",
+     "n": "Belén Cuesta"
+    },
+    {
+     "c": "Candela",
+     "n": "Candela Peña"
+    },
+    {
+     "c": "Antonio",
+     "n": "Luis Callejo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Paco León"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 370978,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Through five stories, the movie addresses sex and love: Paco and Ana are a marriage looking for reactivate the passion of their sexual relations, long time unsatisfied; Jose Luis tries to recover the affections of his wife Paloma, sit down on a wheelchair after an accident which has limited her mobility; Mª Candelaria and Antonio are a marriage trying by all way to be parents, but she has the trouble that no get an orgasm when make love with him; Álex try to satisfy Natalia's fantasies, while she starts to doubt if he finally will ask her in marriage; and finally, Sandra is a single woman in a permanent searching for a man to fall in love. All them love, fear, live and explore their diverse sexual paraphilias and the different sides of sexuality, trying to find the road to happiness.",
+   "popularity": 1.6724,
+   "poster_path": "/16LZn5Z6QZ1gWmLQQn4EcdnV9q6.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-01",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kiki: Love to Love",
+   "trailer": {
+    "key": "rT7_bbyI7PA",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.085,
+   "vote_count": 388
+  },
+  "movie:401478": {
+   "backdrop_path": "/fS7da7VlfUcXQsZIB0KL9P5gWmh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Goldberg",
+     "n": "Danny Trejo"
+    },
+    {
+     "c": "Connor Gibson",
+     "n": "Zach McGowan"
+    },
+    {
+     "c": "Baltimore Bob",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Lists",
+     "n": "Frederick Koehler"
+    },
+    {
+     "c": "Jane",
+     "n": "Christine Marzano"
+    },
+    {
+     "c": "Gipsy Rose",
+     "n": "Yennis Cheung Yan"
+    },
+    {
+     "c": "Johnny Law",
+     "n": "Nicholas Aaron"
+    },
+    {
+     "c": "Nazi Bitch",
+     "n": "Lorina Kamburova"
+    },
+    {
+     "c": "The Fireman",
+     "n": "Julian Seager"
+    },
+    {
+     "c": "Lone Tech",
+     "n": "Kellie Blaise"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Michael Paul"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 401478,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Black Ops specialist Connor Gibson infiltrates a maximum security prison to take down legendary driver Frankenstein in a violent and brutal car race.",
+   "popularity": 3.6736,
+   "poster_path": "/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-02",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "hu",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Death Race: Beyond Anarchy",
+   "trailer": {
+    "key": "3aIciyIH9jY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 409
+  },
+  "movie:619278": {
+   "backdrop_path": "/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Remy Darbonne",
+     "n": "Aml Ameen"
+    },
+    {
+     "c": "Dr. Brynn Stewart",
+     "n": "Rhea Seehorn"
+    },
+    {
+     "c": "Ariella Barash",
+     "n": "Roxanne McKee"
+    },
+    {
+     "c": "Erica Channing",
+     "n": "Tanya van Graan"
+    },
+    {
+     "c": "Ava",
+     "n": "Jessica Sutton"
+    },
+    {
+     "c": "Dietrich Case",
+     "n": "Greg Kriek"
+    },
+    {
+     "c": "Bobby Jenkins",
+     "n": "Sven Ruygrok"
+    },
+    {
+     "c": "Ansh Ramachandra",
+     "n": "Akshay Kumar"
+    },
+    {
+     "c": "Sergeant Sam Abrams",
+     "n": "André Jacobs"
+    },
+    {
+     "c": "Myron",
+     "n": "Joe Vaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "MJ Bassett"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 619278,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+   "popularity": 2.7709,
+   "poster_path": "/zcDZisqVQK9akfKgyrB9HYzYuVh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-24",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Inside Man: Most Wanted",
+   "trailer": {
+    "key": "tlg4BQqhn3I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.269,
+   "vote_count": 413
   },
   "movie:72478": {
    "backdrop_path": "/zGNLkZYzFrBvROL2g6UNJsfnA8h.jpg",

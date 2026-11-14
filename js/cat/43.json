@@ -1,7 +1,167 @@
 {
  "bucket": "43",
- "count": 20,
+ "count": 28,
  "titles": {
+  "movie:10243": {
+   "backdrop_path": "/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
+   "budget": 5355000,
+   "cast": [
+    {
+     "c": "Frank Towns",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Lew Moran",
+     "n": "Richard Attenborough"
+    },
+    {
+     "c": "Captain Harris",
+     "n": "Peter Finch"
+    },
+    {
+     "c": "Heinrich Dorfmann",
+     "n": "Hardy Krüger"
+    },
+    {
+     "c": "Trucker Cobb",
+     "n": "Ernest Borgnine"
+    },
+    {
+     "c": "Crow",
+     "n": "Ian Bannen"
+    },
+    {
+     "c": "Sergeant Watson",
+     "n": "Ronald Fraser"
+    },
+    {
+     "c": "Dr. Renaud",
+     "n": "Christian Marquand"
+    },
+    {
+     "c": "Standish",
+     "n": "Dan Duryea"
+    },
+    {
+     "c": "Bellamy",
+     "n": "George Kennedy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Robert Aldrich"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 10243,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A cargo aircraft crashes in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for a replacement aircraft they need to build before their food and water run out.",
+   "popularity": 2.9942,
+   "poster_path": "/zrzLl7NWdjwGhVE7bqpOAxMVtF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-12-15",
+   "revenue": 0,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Theirs was the triumph - yours, the excitement!",
+   "title": "The Flight of the Phoenix",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.236,
+   "vote_count": 398
+  },
   "movie:1213243": {
    "backdrop_path": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
    "budget": 60000000,
@@ -510,6 +670,96 @@
    "vote_average": 6.475,
    "vote_count": 863
   },
+  "movie:14943": {
+   "backdrop_path": "/43FpZytJjlReDAPrByR77i81mnr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Genji Takiya",
+     "n": "Shun Oguri"
+    },
+    {
+     "c": "Ken Katagiri",
+     "n": "Kyosuke Yabe"
+    },
+    {
+     "c": "Ruka Aizawa",
+     "n": "Meisa Kuroki"
+    },
+    {
+     "c": "Tamao Serizawa",
+     "n": "Takayuki Yamada"
+    },
+    {
+     "c": "Joji Yazaki",
+     "n": "Kenichi Endo"
+    },
+    {
+     "c": "Hideo Takitani",
+     "n": "Goro Kishitani"
+    },
+    {
+     "c": "Tokio Tatsukawa",
+     "n": "Kenta Kiritani"
+    },
+    {
+     "c": "Shun Izaki",
+     "n": "Sousuke Takaoka"
+    },
+    {
+     "c": "Shoji Tsutsumoto",
+     "n": "Yusuke Kamiji"
+    },
+    {
+     "c": "Hiromi Kirishima",
+     "n": "Shunsuke Daitoh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Takashi Miike"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 14943,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The students of Suzuran High compete for the King of School title. An ex-graduate yakuza is sent to kill the son of a criminal group, but he can't make himself do it as he reminds him of his youth.",
+   "popularity": 3.3072,
+   "poster_path": "/so1E9wUAXJi9hqGRNPgoVQd7HaX.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-26",
+   "revenue": 22036607,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Destroy everything and start from zero.",
+   "title": "Crows Zero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 411
+  },
   "movie:1601243": {
    "backdrop_path": "/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
    "budget": 0,
@@ -815,6 +1065,149 @@
    "vote_average": 6.495,
    "vote_count": 462
   },
+  "movie:313943": {
+   "backdrop_path": "/i8swiwa9PlRORrvuyJkbtGCZrNI.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Bo",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Nadia",
+     "n": "Bérénice Marlohe"
+    },
+    {
+     "c": "Stander",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Kara",
+     "n": "Sibulele Gcilitshana"
+    },
+    {
+     "c": "Roderick",
+     "n": "Wandile Molebatsi"
+    },
+    {
+     "c": "Juma",
+     "n": "Sekoati Tsubane"
+    },
+    {
+     "c": "Jeandre",
+     "n": "Leroy Gopal"
+    },
+    {
+     "c": "Cedric",
+     "n": "Welile Nzuza"
+    },
+    {
+     "c": "Kenyan Captain",
+     "n": "Patrick Bokaba"
+    },
+    {
+     "c": "Lt. Smalls",
+     "n": "Tom Fairfoot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Miale"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 313943,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of humankind's last stand against a cataclysmic alien invasion. Set in the war-ravaged African countryside, a U.S. soldier and a French foreign aid worker team up to survive the alien onslaught. Their bond will be tested as they search for refuge across a crumbling world.",
+   "popularity": 2.5491,
+   "poster_path": "/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-07-01",
+   "revenue": 24416,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Revolt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 420
+  },
   "movie:3543": {
    "backdrop_path": "/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
    "budget": 0,
@@ -996,6 +1389,194 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 459
+  },
+  "movie:463843": {
+   "backdrop_path": "/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jenn",
+     "n": "Kiersey Clemons"
+    },
+    {
+     "c": "Lucas",
+     "n": "Emory Cohen"
+    },
+    {
+     "c": "Mia",
+     "n": "Hanna Mangan Lawrence"
+    },
+    {
+     "c": "Brad",
+     "n": "Benedict Samuel"
+    },
+    {
+     "c": "Creature",
+     "n": "Andrew Crawford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.D. Dillard"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 463843,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jenn has washed ashore a small tropical island and it doesn’t take her long to realize she’s completely alone. She must spend her days not only surviving the elements, but must also fend off the malevolent force that comes out each night.",
+   "popularity": 2.2068,
+   "poster_path": "/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-28",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sweetheart",
+   "trailer": {
+    "key": "wlJwxYmfSuo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.381,
+   "vote_count": 433
+  },
+  "movie:489243": {
+   "backdrop_path": "/4N6eXAhEm2rdwyMUrY2c4c7lTfO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vincent Zaleski",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Anton Zaleski",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Eva Torres",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Mark Vega",
+     "n": "Michael Mando"
+    },
+    {
+     "c": "Amish Elder",
+     "n": "Johan Heldenbergh"
+    },
+    {
+     "c": "Ophelia Troller",
+     "n": "Ayisha Issa"
+    },
+    {
+     "c": "Barbara Lehman",
+     "n": "Kaniehtiio Horn"
+    },
+    {
+     "c": "Tasso Casilieris",
+     "n": "Mark Slacke"
+    },
+    {
+     "c": "Mascha",
+     "n": "Sarah Goldberg"
+    },
+    {
+     "c": "Bryan Taylor",
+     "n": "Frank Schorpion"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kim Nguyen"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 489243,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.",
+   "popularity": 2.2036,
+   "poster_path": "/cx7CuTtcJvjZAP6ZFWoxylCXKFP.jpg",
+   "production_countries": [
+    "BE",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-03-15",
+   "revenue": 876980,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everything is on the line.",
+   "title": "The Hummingbird Project",
+   "trailer": {
+    "key": "3-IlhKbakFA",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.175,
+   "vote_count": 434
   },
   "movie:496743": {
    "backdrop_path": "/mz8xBEIl1l18e2ToNlV1Tt5HVmJ.jpg",
@@ -1256,6 +1837,415 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 492
+  },
+  "movie:516043": {
+   "backdrop_path": "/ftVld1YSBU92swRb1mRryUs7xR2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prof. Locuratolo",
+     "n": "Claudio Bisio"
+    },
+    {
+     "c": "Prof. Cioncoloni",
+     "n": "Lino Guanciale"
+    },
+    {
+     "c": "Prof. Fanfulla",
+     "n": "Maurizio Nichetti"
+    },
+    {
+     "c": "Prof.ssa Melis",
+     "n": "Maria Di Biase"
+    },
+    {
+     "c": "Preside",
+     "n": "Andrea Pennacchi"
+    },
+    {
+     "c": "Prof. Maurizi",
+     "n": "Pietro Ragusa"
+    },
+    {
+     "c": "Prof. Golia",
+     "n": "Alessio Sakara"
+    },
+    {
+     "c": "Prof.ssa Venturi",
+     "n": "Shalana Santana"
+    },
+    {
+     "c": "Provveditore Aristide Montini",
+     "n": "Francesco Procopio"
+    },
+    {
+     "c": "prof. Fabbri",
+     "n": "Christian Ginepro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Ivan Silvestrini"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 516043,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The Manzoni High School in Milan is the worst in Italy. When the percentage of those promoted falls to 12%, it's time for the last resort: to entrust the classes to the worst of the available teachers.",
+   "popularity": 0.7976,
+   "poster_path": "/mBc8UOa5VxdgLfY5qYWZvuboJKq.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-01",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Here Come the Teachers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.428,
+   "vote_count": 394
+  },
+  "movie:57243": {
+   "backdrop_path": "/4yXwLVlpzVWMkVZuYxhLXC2luo6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean-Louis Joubert",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Suzanne Joubert",
+     "n": "Sandrine Kiberlain"
+    },
+    {
+     "c": "Maria",
+     "n": "Natalia Verbeke"
+    },
+    {
+     "c": "Concepcion",
+     "n": "Carmen Maura"
+    },
+    {
+     "c": "Carmen",
+     "n": "Lola Dueñas"
+    },
+    {
+     "c": "Dolores",
+     "n": "Berta Ojea"
+    },
+    {
+     "c": "Pilar",
+     "n": "Concha Galán"
+    },
+    {
+     "c": "Colette de Bergeret",
+     "n": "Marie-Armelle Deguy"
+    },
+    {
+     "c": "Nicole de Grandcourt",
+     "n": "Muriel Solvay"
+    },
+    {
+     "c": "Bettina de Brossolette",
+     "n": "Audrey Fleurot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "e 12",
+   "date_kind": "release",
+   "director": [
+    "Philippe Le Guay"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 57243,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paris, in the early 1960s. Jean-Louis Joubert is a serious but uptight stockbroker, married to Suzanne, a starchy class-conscious woman and father of two arrogant teenage boys, currently in a boarding school. The affluent man lives a steady yet boring life. At least until, due to fortuitous circumstances, Maria, the charming new maid at the service of Jean-Louis' family, makes him discover the servants' quarter on the sixth floor of the luxury building he owns and lives in. There live a crowd of lively Spanish maids who will help Jean-Louis to open to a new civilization and a new approach of life. In their company - and more precisely in the company of beautiful Maria - Jean-Louis will gradually become another man, a better man.",
+   "popularity": 1.9101,
+   "poster_path": "/88875SqNHpwslXXa5WtDA3VnOvn.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-02-16",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Help is on the way.",
+   "title": "The Women on the 6th Floor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.764,
+   "vote_count": 426
+  },
+  "movie:994143": {
+   "backdrop_path": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
+   "budget": 15000,
+   "cast": [
+    {
+     "c": "Kevin",
+     "n": "Lucas Paul"
+    },
+    {
+     "c": "Kaylee",
+     "n": "Dali Rose Tetreault"
+    },
+    {
+     "c": "Dad",
+     "n": "Ross Paul"
+    },
+    {
+     "c": "Mom",
+     "n": "Jaime Hill"
+    },
+    {
+     "c": "Entity (voice) (uncredited)",
+     "n": "Kyle Edward Ball"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kyle Edward Ball"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 994143,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
+   "popularity": 1.8652,
+   "poster_path": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-01-13",
+   "revenue": 2131183,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In this house...",
+   "title": "Skinamarink",
+   "trailer": {
+    "key": "APQqilSTxz0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.271,
+   "vote_count": 419
   },
   "tv:13943": {
    "backdrop_path": "/88Va90aHKqJo15wWRhmxG4A3F99.jpg",

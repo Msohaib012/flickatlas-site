@@ -1,7 +1,269 @@
 {
  "bucket": "62",
- "count": 33,
+ "count": 43,
  "titles": {
+  "movie:10862": {
+   "backdrop_path": "/hZARFbBT4I3svc6TAnaHrhTyKbc.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Buddy Amaral",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Abby Janello",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Mimi Prager",
+     "n": "Natasha Henstridge"
+    },
+    {
+     "c": "Greg Janello",
+     "n": "Tony Goldwyn"
+    },
+    {
+     "c": "Seth",
+     "n": "Johnny Galecki"
+    },
+    {
+     "c": "Jim Willer",
+     "n": "Joe Morton"
+    },
+    {
+     "c": "Scott Janello",
+     "n": "Alex D. Linz"
+    },
+    {
+     "c": "Joey Janello",
+     "n": "David Dorfman"
+    },
+    {
+     "c": "Janice Guerrero",
+     "n": "Jennifer Grey"
+    },
+    {
+     "c": "Donna",
+     "n": "Caroline Aaron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Don Roos"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 10862,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Buddy Amaral, a successful and self-absorbed Los Angeles advertising executive, switches airline tickets with a stranger just before boarding a long-delayed flight so that he might enjoy an overnight fling with a pretty Dallas businesswoman. When the plane goes down, killing all aboard, Buddy's guilt soon turns into an alcohol problem. As part of his 12-step program, Buddy seeks atonement and decides to seek out the woman he thinks he's left a widow.",
+   "popularity": 2.1174,
+   "poster_path": "/w7X4M14WV7KrkkvXd64lcLh79sR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-11-15",
+   "revenue": 36779296,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two strangers fell in love. One knew it wasn't by chance.",
+   "title": "Bounce",
+   "trailer": {
+    "key": "U_lR9dqgx7s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 428
+  },
+  "movie:11962": {
+   "backdrop_path": "/ieZHOhXPnkHSaN3UNrmqZ6zjNR1.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Joe",
+     "n": "Jerry O'Connell"
+    },
+    {
+     "c": "Lily Dougherty",
+     "n": "Megan Ward"
+    },
+    {
+     "c": "Ralph Roach (voice)",
+     "n": "Billy West"
+    },
+    {
+     "c": "Rodney Roach (voice)",
+     "n": "Reginald Hudlin"
+    },
+    {
+     "c": "Complaint Handler",
+     "n": "Willi One Blood"
+    },
+    {
+     "c": "Complaint Handler",
+     "n": "Tracy Vilar"
+    },
+    {
+     "c": "Blank",
+     "n": "Sandra 'Pepa' Denton"
+    },
+    {
+     "c": "Senator Dougherty",
+     "n": "Robert Vaughn"
+    },
+    {
+     "c": "Vladimir Bianco",
+     "n": "Shiek Mahmud-Bey"
+    },
+    {
+     "c": "Boss Hog Band Member",
+     "n": "Jon Spencer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Payson"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 11962,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A nice guy has just moved to New York and discovers that he must share his run-down apartment with a couple thousand singing, dancing cockroaches.",
+   "popularity": 2.2095,
+   "poster_path": "/a06jrMRurcq7sYdhFK2LNs8bRt8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-07-26",
+   "revenue": 4600000,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sex, Bugs, and Rock 'n Roll.",
+   "title": "Joe's Apartment",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.827,
+   "vote_count": 395
+  },
   "movie:1207162": {
    "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
    "budget": 30000000,
@@ -429,6 +691,328 @@
    "type": "movie",
    "vote_average": 8.591,
    "vote_count": 22
+  },
+  "movie:13562": {
+   "backdrop_path": "/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+   "budget": 575375,
+   "cast": [
+    {
+     "c": "Godfrey",
+     "n": "William Powell"
+    },
+    {
+     "c": "Irene Bullock",
+     "n": "Carole Lombard"
+    },
+    {
+     "c": "Angelica Bullock",
+     "n": "Alice Brady"
+    },
+    {
+     "c": "Cornelia Bullock",
+     "n": "Gail Patrick"
+    },
+    {
+     "c": "Alexander Bullock",
+     "n": "Eugene Pallette"
+    },
+    {
+     "c": "Molly",
+     "n": "Jean Dixon"
+    },
+    {
+     "c": "Tommy Gray",
+     "n": "Alan Mowbray"
+    },
+    {
+     "c": "Carlo",
+     "n": "Mischa Auer"
+    },
+    {
+     "c": "Mike Flaherty",
+     "n": "Pat Flaherty"
+    },
+    {
+     "c": "Faithful George",
+     "n": "Robert Light"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gregory La Cava"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 13562,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fifth Avenue socialite Irene Bullock needs a \"forgotten man\" to win a scavenger hunt, and no one is more forgotten than Godfrey Park, who resides in a dump by the East River. Irene hires Godfrey as a servant for her riotously unhinged family, to the chagrin of her spoiled sister, Cornelia, who tries her best to get Godfrey fired. As Irene falls for her new butler, Godfrey turns the tables and teaches the frivolous Bullocks a lesson or two.",
+   "popularity": 1.5268,
+   "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Dove Amazon Channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "FILMBOX+ Now Amazon Channel"
+    },
+    {
+     "name": "Great American Pure Flix Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1936-09-02",
+   "revenue": 684200,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Butler! FOR THE COCK-EYEDEST FAMILY in the WHOLE WORLD!...and the butler-blonde battle was on!",
+   "title": "My Man Godfrey",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.586,
+   "vote_count": 420
+  },
+  "movie:1362": {
+   "backdrop_path": "/qNVf39jp9fZSLd1bWMYjOrrEkI2.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Bilbo Baggins (voice)",
+     "n": "Orson Bean"
+    },
+    {
+     "c": "Gandalf the Grey (voice)",
+     "n": "John Huston"
+    },
+    {
+     "c": "Thorin (voice)",
+     "n": "Hans Conried"
+    },
+    {
+     "c": "Smaug (voice)",
+     "n": "Richard Boone"
+    },
+    {
+     "c": "Gollum (voice)",
+     "n": "Theodore Gottlieb"
+    },
+    {
+     "c": "Elvenking (voice)",
+     "n": "Otto Preminger"
+    },
+    {
+     "c": "Elrond (voice)",
+     "n": "Cyril Ritchard"
+    },
+    {
+     "c": "Bombur/Troll #1 (voice)",
+     "n": "Paul Frees"
+    },
+    {
+     "c": "Balin/Troll #3/Goblin/Lord of the Eagles (voice)",
+     "n": "Don Messick"
+    },
+    {
+     "c": "Dori/Great Goblin/Bard (voice)",
+     "n": "John Stephenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Arthur Rankin Jr.",
+    "Jules Bass"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Animation",
+    "Adventure",
+    "TV Movie"
+   ],
+   "id": 1362,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story follows the adventures of Bilbo Baggins, a diminutive creative who resides in a place called Middle-Earth before he is compelled to go on a quest to find a treasure buried deep in the heart of the Lonely Mountain.",
+   "popularity": 2.3701,
+   "poster_path": "/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-11-27",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The greatest adventure is what lies ahead...",
+   "title": "The Hobbit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 384
   },
   "movie:1422562": {
    "backdrop_path": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
@@ -1429,6 +2013,364 @@
    "vote_average": 6.188,
    "vote_count": 473
   },
+  "movie:19562": {
+   "backdrop_path": "/9VIir77wPGtyVvB4Oq5t7md9DpX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "François Merlin / Bob Saint-Clar",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Christine / Tatiana",
+     "n": "Jacqueline Bisset"
+    },
+    {
+     "c": "Georges Charron / Colonel Karpov",
+     "n": "Vittorio Caprioli"
+    },
+    {
+     "c": "Colonel Collins",
+     "n": "Hans Meyer"
+    },
+    {
+     "c": "Mme Berger",
+     "n": "Monique Tarbès"
+    },
+    {
+     "c": "Le contractuel myope",
+     "n": "Mario David"
+    },
+    {
+     "c": "Pilu",
+     "n": "Bruno Garcin"
+    },
+    {
+     "c": "Général Pontaubert",
+     "n": "Raymond Gérôme"
+    },
+    {
+     "c": "L'électricien",
+     "n": "Jean Lefebvre"
+    },
+    {
+     "c": "L'étudiant à la pipe",
+     "n": "Fabrizio Moresco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Philippe de Broca"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Action",
+    "Adventure"
+   ],
+   "id": 19562,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A writer of pulpy book series in which he's the hero and his beautiful English roommate is the love interest attempts to finish his new book in time at the publisher's demand.",
+   "popularity": 1.8672,
+   "poster_path": "/uIGYrhZY3DOXNJAoWQHSiqs9W7S.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-11-23",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sq",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "THE WRITER'S DREAM, HIS REALITY, AND THE TYPEWRITER IN-BETWEEN",
+   "title": "The Magnificent One",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.991,
+   "vote_count": 403
+  },
+  "movie:209262": {
+   "backdrop_path": "/c8sODXEgANa49CdcHc9NgNBexdF.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Jim Carrico",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Doris Nelson",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Abraham Zapruder",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Forrest Sorrels",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Marguerite Oswald",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "James Hosty",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Lee Harvey Oswald",
+     "n": "Jeremy Strong"
+    },
+    {
+     "c": "Robert Oswald",
+     "n": "James Badge Dale"
+    },
+    {
+     "c": "Roy Kellerman",
+     "n": "Tom Welling"
+    },
+    {
+     "c": "Dr. Malcom Perry",
+     "n": "Colin Hanks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Landesman"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 209262,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "November 22nd, 1963 was a day that changed the world forever — when young American President John F. Kennedy was assassinated in Dallas, Texas. This film follows, almost in real time, a handful of individuals forced to make split-second decisions after an event that would change their lives and forever alter the world’s landscape.",
+   "popularity": 2.2024,
+   "poster_path": "/XusTbjElwkv0tJiRDXsKi6aYZZ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-10-02",
+   "revenue": 1412181,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "November 22, 1963, 12:38 pm - A trauma patient is rushed to Parkland Memorial Hospital in Dallas. His name is President John F. Kennedy.",
+   "title": "Parkland",
+   "trailer": {
+    "key": "--y0wwiVMEk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.234,
+   "vote_count": 402
+  },
   "movie:28162": {
    "backdrop_path": "/bY7DvsYsAODykqUJfkPZA3BHKOd.jpg",
    "budget": 450000,
@@ -1536,6 +2478,162 @@
    "type": "movie",
    "vote_average": 7.752,
    "vote_count": 497
+  },
+  "movie:426962": {
+   "backdrop_path": "/mWFDBX8IwajnlxiEYVaLGXxfgQ1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yvan",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Delphine",
+     "n": "Louise Bourgoin"
+    },
+    {
+     "c": "Nico",
+     "n": "Manu Payet"
+    },
+    {
+     "c": "Melissa",
+     "n": "Marilou Berry"
+    },
+    {
+     "c": "William",
+     "n": "Julien Boisselier"
+    },
+    {
+     "c": "Mère de Delphine",
+     "n": "Nicole Calfan"
+    },
+    {
+     "c": "Lucas",
+     "n": "Kolia Abiteboul"
+    },
+    {
+     "c": "Violette",
+     "n": "Adèle Castillon"
+    },
+    {
+     "c": "Copain Yvan 2",
+     "n": "Johann Dionnet"
+    },
+    {
+     "c": "Alphonse Oyongo",
+     "n": "Alassane Diong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Dominique Farrugia"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 426962,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Delphine and Yvan divorce. While his financial situation does not allow him to find a home, Yvan remembers that he owns 20% of his ex-wife's house. He then returned to live with Delphine, in his 20%. The two ex will discover the joys of forced housemates.",
+   "popularity": 1.2949,
+   "poster_path": "/o8ZtzvBXiXJpAlHIPYmjzE3TKiO.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-04-19",
+   "revenue": 4855506,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The hardest part of a separation is to live...",
+   "title": "Room(h)ates",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.296,
+   "vote_count": 409
   },
   "movie:457262": {
    "backdrop_path": "/bZ9QHHt7Hs9OznHNaF586HCrrKu.jpg",
@@ -1918,6 +3016,232 @@
    "vote_average": 5.25,
    "vote_count": 474
   },
+  "movie:561362": {
+   "backdrop_path": "/xmLLkEhqIw0Me0wgO9ZhtP0MW7U.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Sawyer",
+     "n": "Hermione Corfield"
+    },
+    {
+     "c": "Lowell",
+     "n": "Jay Paulson"
+    },
+    {
+     "c": "Sheriff O'Doyle",
+     "n": "Sean O'Bryan"
+    },
+    {
+     "c": "Hollister",
+     "n": "Micah A. Hauptman"
+    },
+    {
+     "c": "Buck",
+     "n": "Daniel R. Hill"
+    },
+    {
+     "c": "Katz",
+     "n": "Jeremy Glazer"
+    },
+    {
+     "c": "Slattery",
+     "n": "John Marshall Jones"
+    },
+    {
+     "c": "Josh",
+     "n": "Jake Kidwell"
+    },
+    {
+     "c": "Donna",
+     "n": "Virginia Schneider"
+    },
+    {
+     "c": "Mrs. Gander",
+     "n": "Denise Dal Vera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jen McGowan"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Action",
+    "Crime"
+   ],
+   "id": 561362,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.",
+   "popularity": 1.9387,
+   "poster_path": "/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-04",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Choose your prey carefully",
+   "title": "Rust Creek",
+   "trailer": {
+    "key": "GwNEB-UmpJQ",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.296,
+   "vote_count": 385
+  },
   "movie:790462": {
    "backdrop_path": "/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
    "budget": 13800000,
@@ -2099,6 +3423,202 @@
    "type": "movie",
    "vote_average": 5.695,
    "vote_count": 443
+  },
+  "movie:798362": {
+   "backdrop_path": "/c7MRmF3LMiBWokedmdQl3roTUv2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helena",
+     "n": "Daisy Ridley"
+    },
+    {
+     "c": "Jacob",
+     "n": "Ben Mendelsohn"
+    },
+    {
+     "c": "Stephen",
+     "n": "Garrett Hedlund"
+    },
+    {
+     "c": "Beth",
+     "n": "Caren Pistorius"
+    },
+    {
+     "c": "Young Helena",
+     "n": "Brooklynn Prince"
+    },
+    {
+     "c": "Marigold",
+     "n": "Joey Carson"
+    },
+    {
+     "c": "Agent Lorna Illing",
+     "n": "Yanna McIntosh"
+    },
+    {
+     "c": "Clark Bekkum",
+     "n": "Gil Birmingham"
+    },
+    {
+     "c": "ATV Driver",
+     "n": "Joshua Peace"
+    },
+    {
+     "c": "Mrs. Haver",
+     "n": "Pamela MacDonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Neil Burger"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 798362,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.",
+   "popularity": 2.4001,
+   "poster_path": "/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-28",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear the past or face it.",
+   "title": "The Marsh King's Daughter",
+   "trailer": {
+    "key": "FDnUVhLMqI0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 430
+  },
+  "movie:94562": {
+   "backdrop_path": "/9ob5jg3GzumXqWUFUlPUq2S6Tkm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lena Schneider",
+     "n": "Josefine Preuß"
+    },
+    {
+     "c": "Cem Öztürk",
+     "n": "Elyas M'Barek"
+    },
+    {
+     "c": "Doris Schneider",
+     "n": "Anna Stieblich"
+    },
+    {
+     "c": "Metin Öztürk",
+     "n": "Adnan Maral"
+    },
+    {
+     "c": "Yagmur Öztürk",
+     "n": "Pegah Ferydoni"
+    },
+    {
+     "c": "Costa Papavassilou",
+     "n": "Arnel Taci"
+    },
+    {
+     "c": "Uschi",
+     "n": "Katja Riemann"
+    },
+    {
+     "c": "Tongo",
+     "n": "Günther Kaufmann"
+    },
+    {
+     "c": "Frieder",
+     "n": "Frederick Lau"
+    },
+    {
+     "c": "Cleo",
+     "n": "Sonja Gerhardt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Bora Dağtekin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 94562,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "During an emergency landing on a deserted island suddenly traumatized by antiauthoritarian education Lena Schneider together with the Turkish Super Macho Cem Öztürk must fight for survival. After initially Cem macho repulsive acts on Lena, a jellyfish in the water and sand in a bikini, she recognizes the time the romantic core behind his cool facade. Meanwhile, meet also their parents, who obdurate psychologist Doris and Metin Öztürk to work together to find their missing children. So both generations take an involuntary Turkish Basic Course for beginners.",
+   "popularity": 1.0625,
+   "poster_path": "/47eWshRc7VA3JGnuMwgsb7L290F.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-14",
+   "revenue": 16827724,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Turkish for Beginners",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.114,
+   "vote_count": 399
   },
   "tv:113962": {
    "backdrop_path": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",

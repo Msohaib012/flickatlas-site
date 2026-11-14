@@ -1,7 +1,121 @@
 {
  "bucket": "75",
- "count": 22,
+ "count": 32,
  "titles": {
+  "movie:10875": {
+   "backdrop_path": "/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Susie Diamond",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Jack Baker",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Frank Baker",
+     "n": "Beau Bridges"
+    },
+    {
+     "c": "Nina",
+     "n": "Ellie Raab"
+    },
+    {
+     "c": "Monica Moran",
+     "n": "Jennifer Tilly"
+    },
+    {
+     "c": "Lloyd",
+     "n": "Xander Berkeley"
+    },
+    {
+     "c": "Girl in Bed",
+     "n": "Terri Treas"
+    },
+    {
+     "c": "Charlie",
+     "n": "Dakin Matthews"
+    },
+    {
+     "c": "Ray",
+     "n": "Ken Lerner"
+    },
+    {
+     "c": "Henry",
+     "n": "Albert Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steve Kloves"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "id": 10875,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.",
+   "popularity": 2.1207,
+   "poster_path": "/1nS8AxnoYE2Y1ANMpVKZnm8iLxP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+     "name": "ITVX Premium",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-10-13",
+   "revenue": 18428904,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For 31 years it's been just the Fabulous Baker Boys... but times change.",
+   "title": "The Fabulous Baker Boys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.608,
+   "vote_count": 386
+  },
   "movie:1130875": {
    "backdrop_path": "/bjWqyS38dQA1Ra9sNcL62gSEWor.jpg",
    "budget": 0,
@@ -132,6 +246,168 @@
    "type": "movie",
    "vote_average": 6.341,
    "vote_count": 22
+  },
+  "movie:11575": {
+   "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Professor Fate",
+     "n": "Jack Lemmon"
+    },
+    {
+     "c": "The Great Leslie",
+     "n": "Tony Curtis"
+    },
+    {
+     "c": "Maggie Dubois",
+     "n": "Natalie Wood"
+    },
+    {
+     "c": "Max",
+     "n": "Peter Falk"
+    },
+    {
+     "c": "Hezekiah",
+     "n": "Keenan Wynn"
+    },
+    {
+     "c": "Henry Goodbody",
+     "n": "Arthur O'Connell"
+    },
+    {
+     "c": "Hester Goodbody",
+     "n": "Vivian Vance"
+    },
+    {
+     "c": "Lily Olay",
+     "n": "Dorothy Provine"
+    },
+    {
+     "c": "Texas Jack",
+     "n": "Larry Storch"
+    },
+    {
+     "c": "Rolfe Von Stuppe",
+     "n": "Ross Martin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Blake Edwards"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Romance"
+   ],
+   "id": 11575,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Professional daredevil and white-suited hero, The Great Leslie, convinces turn-of-the-century auto makers that a race from New York to Paris (westward across America, the Bering Straight and Russia) will help to promote automobile sales. Leslie's arch-rival, the mustached and black-attired Professor Fate vows to beat Leslie to the finish line in a car of Fate's own invention.",
+   "popularity": 2.8226,
+   "poster_path": "/9rL8GWuFdO3fLXcNV9rZRHskoOn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-10-01",
+   "revenue": 25300000,
+   "runtime": 160,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The movie with 20,000-miles or one-million-laughs guarantee!",
+   "title": "The Great Race",
+   "trailer": {
+    "key": "9biklE2wA6M",
+    "name": "The Great Race - Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.095,
+   "vote_count": 404
   },
   "movie:120475": {
    "backdrop_path": "/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
@@ -462,6 +738,135 @@
    "vote_average": 6.6,
    "vote_count": 465
   },
+  "movie:13675": {
+   "backdrop_path": "/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frosty the Snowman (voice)",
+     "n": "Jackie Vernon"
+    },
+    {
+     "c": "Teacher / Karen / Additional Voices (voice)",
+     "n": "June Foray"
+    },
+    {
+     "c": "Professor Hinkle (voice)",
+     "n": "Billy De Wolfe"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Jimmy Durante"
+    },
+    {
+     "c": "Santa Claus / Traffic Cop / Additional Voices (voice)",
+     "n": "Paul Frees"
+    },
+    {
+     "c": "Karen (voice) (uncredited)",
+     "n": "Suzanne Davidson"
+    },
+    {
+     "c": "Karen's friends (voice) (uncredited)",
+     "n": "Greg Thomas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jules Bass",
+    "Arthur Rankin Jr."
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "TV Movie"
+   ],
+   "id": 13675,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A discarded silk top-hat becomes the focus of a struggle between a washed-up stage magician and a group of schoolchildren, after it magically brings a snowman to life. Realizing that newly-living Frosty will melt in spring unless he takes refuge in a colder climate, the magic snowman and Karen, a young girl whom he befriends, stow away on a freight train headed for the North Pole. Little do they know that the magician is following them, and he wants his hat back!",
+   "popularity": 2.534,
+   "poster_path": "/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-12-07",
+   "revenue": 0,
+   "runtime": 25,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Special Christmas magic!",
+   "title": "Frosty the Snowman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.921,
+   "vote_count": 414
+  },
   "movie:13975": {
    "backdrop_path": "/bS5JamW3vbZsP2E5H3NiqjyHFZ.jpg",
    "budget": 17000000,
@@ -702,6 +1107,177 @@
    "type": "movie",
    "vote_average": 8.017,
    "vote_count": 29
+  },
+  "movie:167575": {
+   "backdrop_path": "/26hIJYDMVtQsp7NHmXrBoYbre7n.jpg",
+   "budget": 1169935,
+   "cast": [
+    {
+     "c": "Marybeth Dunstan",
+     "n": "Danielle Harris"
+    },
+    {
+     "c": "Victor Crowley",
+     "n": "Kane Hodder"
+    },
+    {
+     "c": "Sheriff Fowler",
+     "n": "Zach Galligan"
+    },
+    {
+     "c": "Amanda",
+     "n": "Caroline Williams"
+    },
+    {
+     "c": "Hawes",
+     "n": "Derek Mears"
+    },
+    {
+     "c": "Dougherty",
+     "n": "Rileah Vanderbilt"
+    },
+    {
+     "c": "Randy",
+     "n": "Sean Whalen"
+    },
+    {
+     "c": "Hamilton",
+     "n": "Jason Trost"
+    },
+    {
+     "c": "Elbert",
+     "n": "Diane Ayala Goldner"
+    },
+    {
+     "c": "Andrew",
+     "n": "Parry Shen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "BJ McDonnell"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy",
+    "Action"
+   ],
+   "id": 167575,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A search and recovery team heads into Victor Crowley’s haunted swamp to pick up the pieces, and Marybeth learns the secret to ending the voodoo curse that has left Victor Crowley terrorizing Honey Island Swamp for decades.",
+   "popularity": 2.3105,
+   "poster_path": "/kbSuJBmPXn72SibvzXk6eGVo1D2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-06-14",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some legends never die.",
+   "title": "Hatchet III",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.656,
+   "vote_count": 405
   },
   "movie:1698575": {
    "backdrop_path": "/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
@@ -950,6 +1526,141 @@
    "vote_average": 7.357,
    "vote_count": 21
   },
+  "movie:202575": {
+   "backdrop_path": "/sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg",
+   "budget": 34000000,
+   "cast": [
+    {
+     "c": "Thunder / Dylan (voice)",
+     "n": "Brianne Siddall"
+    },
+    {
+     "c": "Carlo / Jack / Zoltar (voice)",
+     "n": "Robin Atkin Downes"
+    },
+    {
+     "c": "Nurse Baxter (voice)",
+     "n": "Cinda Adams"
+    },
+    {
+     "c": "Izzy (voice)",
+     "n": "Sage Sommer"
+    },
+    {
+     "c": "Maggie (voice)",
+     "n": "Shanelle Gray"
+    },
+    {
+     "c": "Mr. Lawrence (voice)",
+     "n": "Doug Stone"
+    },
+    {
+     "c": "Daniel (voice)",
+     "n": "Grant George"
+    },
+    {
+     "c": "Chihuahua (voice)",
+     "n": "Joey Camen"
+    },
+    {
+     "c": "Carla (voice)",
+     "n": "Elisa Gabrielli"
+    },
+    {
+     "c": "Mark Matthews (voice)",
+     "n": "Kyle Hebert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ben Stassen",
+    "Jérémie Degruson"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 202575,
+   "industry": "world",
+   "origin_country": [
+    "BE"
+   ],
+   "original_language": "en",
+   "overview": "Thunder, an abandoned young cat seeking shelter from a storm, stumbles into the strangest house imaginable, owned by an old magician and inhabited by a dazzling array of automatons and gizmos. Not everyone welcomes the new addition to the troupe as Jack Rabbit and Maggie Mouse plot to evict Thunder. The situation gets worse when the magician lands in hospital and his scheming nephew sees his chance to cash in by selling the mansion. Our young hero is determined to earn his place and so he enlists the help of some wacky magician's assistants to protect his magical new home.",
+   "popularity": 2.8137,
+   "poster_path": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-12-24",
+   "revenue": 64197205,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One lost little cat. One magical adventure.",
+   "title": "The House of Magic",
+   "trailer": {
+    "key": "Z6VKG3lZEIg",
+    "name": "Thunder and the House of Magic (2013) - OFFICIAL TRAILER (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 392
+  },
   "movie:2075": {
    "backdrop_path": "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
    "budget": 0,
@@ -1053,6 +1764,668 @@
    "vote_average": 6.423,
    "vote_count": 452
   },
+  "movie:27275": {
+   "backdrop_path": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arif / Komutan Logar / Erşan Kuneri / Komutan Kubar",
+     "n": "Cem Yılmaz"
+    },
+    {
+     "c": "Ceku",
+     "n": "Özge Özberk"
+    },
+    {
+     "c": "Robot 216",
+     "n": "Ozan Güven"
+    },
+    {
+     "c": "Kuna",
+     "n": "Şafak Sezer"
+    },
+    {
+     "c": "Bob Marley Faruk",
+     "n": "Rasim Öztekin"
+    },
+    {
+     "c": "Garavel",
+     "n": "Özkan Uğur"
+    },
+    {
+     "c": "Mulu",
+     "n": "İdil Fırat"
+    },
+    {
+     "c": "Rendroy",
+     "n": "Erdal Tosun"
+    },
+    {
+     "c": "Amir Tocha",
+     "n": "Cezmi Baskin"
+    },
+    {
+     "c": "Tihulu",
+     "n": "Muhittin Korkmaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ömer Faruk Sorak"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 27275,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.",
+   "popularity": 1.5415,
+   "poster_path": "/k58f5o49jv3R9JXDTrGby53BLqf.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-11-12",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "G.O.R.A.",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.259,
+   "vote_count": 396
+  },
+  "movie:27475": {
+   "backdrop_path": "/3A8hf7Va32HjGAAgatMa0ibPD9E.jpg",
+   "budget": 220000,
+   "cast": [
+    {
+     "c": "Trish",
+     "n": "Michele Michaels"
+    },
+    {
+     "c": "Valerie",
+     "n": "Robin Stille"
+    },
+    {
+     "c": "Russ Thorn",
+     "n": "Michael Villella"
+    },
+    {
+     "c": "Kim",
+     "n": "Debra De Liso"
+    },
+    {
+     "c": "Jackie",
+     "n": "Andree Honore"
+    },
+    {
+     "c": "Diane",
+     "n": "Gina Smika Hunter"
+    },
+    {
+     "c": "Courtney",
+     "n": "Jennifer Meyers"
+    },
+    {
+     "c": "Neil",
+     "n": "Joseph Alan Johnson"
+    },
+    {
+     "c": "Jeff",
+     "n": "David Millbern"
+    },
+    {
+     "c": "John Minor",
+     "n": "Jim Boyce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Amy Holden Jones"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy"
+   ],
+   "id": 27475,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trish invites her high school basketball teammates over for a night they'll never forget when an unexpected guest crashes the party: an escaped psychopath with a portable power drill.",
+   "popularity": 2.394,
+   "poster_path": "/rh65oDy8CNJoEAOf7oudhIt3DM6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-09-10",
+   "revenue": 3600000,
+   "runtime": 76,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You know the drill.",
+   "title": "The Slumber Party Massacre",
+   "trailer": {
+    "key": "8NzLJ0tDSm8",
+    "name": "Official Trailer (NSFW)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.575,
+   "vote_count": 429
+  },
+  "movie:33875": {
+   "backdrop_path": "/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoshi (voice)",
+     "n": "Rica Matsumoto"
+    },
+    {
+     "c": "Pikachu (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Kasumi (voice)",
+     "n": "Mayumi Izuka"
+    },
+    {
+     "c": "Takeshi (voice)",
+     "n": "Yuji Ueda"
+    },
+    {
+     "c": "Togepy (voice)",
+     "n": "Satomi Korogi"
+    },
+    {
+     "c": "Musashi / Latias (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Kojiro / Crobat (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "Nyarth (voice)",
+     "n": "Inuko Inuyama"
+    },
+    {
+     "c": "Kanon (voice)",
+     "n": "Fumiko Orikasa"
+    },
+    {
+     "c": "Latios (voice)",
+     "n": "Masashi Ebara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kunihiko Yuyama"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 33875,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ash, Pikachu and the gang try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew — a priceless treasure with a mysterious power.",
+   "popularity": 2.7916,
+   "poster_path": "/eySv5rdYLW1k6LxepxCNl8ND26R.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-07-13",
+   "revenue": 27756381,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "On a mission they never expected. To a world they never imagined. An adventure you'll never forget.",
+   "title": "Pokémon Heroes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 411
+  },
+  "movie:500475": {
+   "backdrop_path": "/fJKJXKiRSzDihp50c7j39zb3ILi.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Youngblood Priest",
+     "n": "Trevor Jackson"
+    },
+    {
+     "c": "Eddie",
+     "n": "Jason Mitchell"
+    },
+    {
+     "c": "Scatter",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Georgia",
+     "n": "Lex Scott Davis"
+    },
+    {
+     "c": "Detective Mason",
+     "n": "Jennifer Morrison"
+    },
+    {
+     "c": "Juju",
+     "n": "Kaalan Rashad Walker"
+    },
+    {
+     "c": "Adalberto Gonzalez",
+     "n": "Esai Morales"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Andrea Londo"
+    },
+    {
+     "c": "Q",
+     "n": "Big Bank Black"
+    },
+    {
+     "c": "Mayor Wendell Atkins",
+     "n": "Big Boi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Director X."
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 500475,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.",
+   "popularity": 2.1937,
+   "poster_path": "/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-06-13",
+   "revenue": 20545116,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Redefine the hussle",
+   "title": "SuperFly",
+   "trailer": {
+    "key": "MQIvV800Atk",
+    "name": "SUPERFLY - Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 415
+  },
   "movie:9275": {
    "backdrop_path": "/xse1f9OR0PVByGnTChplzUgYz7t.jpg",
    "budget": 55000000,
@@ -1151,6 +2524,110 @@
    "type": "movie",
    "vote_average": 5.943,
    "vote_count": 473
+  },
+  "movie:960875": {
+   "backdrop_path": "/tDHRhZGEVVth1EmiRS05STQJp5z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paula",
+     "n": "Elena Anaya"
+    },
+    {
+     "c": "Simón",
+     "n": "Pablo Molinero"
+    },
+    {
+     "c": "Clara",
+     "n": "Eva Tennear"
+    },
+    {
+     "c": "Maite",
+     "n": "Eva Llorach"
+    },
+    {
+     "c": "Eduardo",
+     "n": "Carlos Santos"
+    },
+    {
+     "c": "Claudia",
+     "n": "Esther Acebo"
+    },
+    {
+     "c": "Beltrán",
+     "n": "Eloy Azorín"
+    },
+    {
+     "c": "Sargento Arana",
+     "n": "Mona Martínez"
+    },
+    {
+     "c": "Gloria",
+     "n": "Sonia Almarcha"
+    },
+    {
+     "c": "Cabo Bedoya",
+     "n": "Pau Roca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ignacio Tatay"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 960875,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After a couple finds a traumatized child of unknown origins, wife Paula must decipher the girl's strange behaviors to unlock her identity and dark past.",
+   "popularity": 2.2004,
+   "poster_path": "/ifxAT8LVbSCxAi290VplTwbEQNh.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-09",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Chalk Line",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.388,
+   "vote_count": 410
   },
   "tv:218275": {
    "backdrop_path": "/jLeoe0fbELybpOpMETiWNpdccoG.jpg",

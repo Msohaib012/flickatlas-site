@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 33,
+ "count": 37,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -818,6 +818,137 @@
    "vote_average": 5.7,
    "vote_count": 23
   },
+  "movie:14163": {
+   "backdrop_path": "/dRl7PCVhBgosXuivxRg4fCz5G7D.jpg",
+   "budget": 6300000,
+   "cast": [
+    {
+     "c": "Kabir Khan",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Vidya Sharma",
+     "n": "Vidya Malvade"
+    },
+    {
+     "c": "Preeti Sabarwal",
+     "n": "Sagarika Ghatge"
+    },
+    {
+     "c": "Bindia Naik",
+     "n": "Shilpa Shukla"
+    },
+    {
+     "c": "Komal Chautala",
+     "n": "Chitrashi Rawat"
+    },
+    {
+     "c": "Balbir Kaur",
+     "n": "Tanya Abrol"
+    },
+    {
+     "c": "Gul Iqbal",
+     "n": "Arya Menon"
+    },
+    {
+     "c": "Rani Dispotta",
+     "n": "Seema Azmi"
+    },
+    {
+     "c": "Soimoi Kerketa",
+     "n": "Nisha Nair"
+    },
+    {
+     "c": "Nethra Reddy",
+     "n": "Sandia Furtado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Shimit Amin"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14163,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A team of rag-tag girls with their own agenda form Team India competing for international fame in field hockey. Their coach, the ex-men's Indian National team captain, returns from a life of shame after being unjustly accused of match fixing in his last match. Can he give the girls the motivation required to win, while dealing with the shadows of his own past?",
+   "popularity": 1.3904,
+   "poster_path": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-08-10",
+   "revenue": 40000000,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Chak De! India",
+   "trailer": {
+    "key": "6a0-dSMWm5g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.228,
+   "vote_count": 403
+  },
   "movie:1421963": {
    "backdrop_path": "/yCo1Gs7vpROBC1uggQ3r7TrHiU.jpg",
    "budget": 0,
@@ -1047,6 +1178,161 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 116
+  },
+  "movie:14863": {
+   "backdrop_path": "/rmB5vs4KqJdo767gncUrS9vAsRz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hammet",
+     "n": "David Hasselhoff"
+    },
+    {
+     "c": "Dr. Amanda Hayes",
+     "n": "Crystal Allen"
+    },
+    {
+     "c": "Peter \"J.D.\" Murdoch",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Pinkus",
+     "n": "Ryan McCluskey"
+    },
+    {
+     "c": "Nick",
+     "n": "Patrick Regis"
+    },
+    {
+     "c": "Captain Grozny",
+     "n": "Anthony Green"
+    },
+    {
+     "c": "Andrei",
+     "n": "Alan O'Silva"
+    },
+    {
+     "c": "Victor",
+     "n": "Toma Dănilă"
+    },
+    {
+     "c": "Dragosh",
+     "n": "Bogdan Uritescu"
+    },
+    {
+     "c": "Sofia",
+     "n": "Mihaela Elena Oros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don E. FauntLeRoy"
+   ],
+   "genres": [
+    "Horror",
+    "Adventure",
+    "Thriller",
+    "TV Movie"
+   ],
+   "id": 14863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A mercenary-for-hire accepts a mission from a billionaire to capture a dangerous snake that could possibly help cure a terminal illness.",
+   "popularity": 2.9216,
+   "poster_path": "/3PI6dXS0UlNlB6IXnngfEtufFxm.jpg",
+   "production_countries": [
+    "US",
+    "RO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-23",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They can taste your fear.",
+   "title": "Anaconda 3: Offspring",
+   "trailer": {
+    "key": "56v3LxpSZK0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.564,
+   "vote_count": 405
   },
   "movie:1497463": {
    "backdrop_path": "/liVDJBzSplrboMCykKydhaaR215.jpg",
@@ -1521,6 +1807,256 @@
    "type": "movie",
    "vote_average": 4.0,
    "vote_count": 781
+  },
+  "movie:24163": {
+   "backdrop_path": "/tEqeyPPBJfyDJl0lO08YiqefYqd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wah",
+     "n": "Andy Lau Tak-wah"
+    },
+    {
+     "c": "Ngor",
+     "n": "Maggie Cheung Man-yuk"
+    },
+    {
+     "c": "Fly",
+     "n": "Jacky Cheung Hok-yau"
+    },
+    {
+     "c": "Tony",
+     "n": "Alex Man Chi-leung"
+    },
+    {
+     "c": "Mabel",
+     "n": "Wong Aau"
+    },
+    {
+     "c": "Sai",
+     "n": "Ronald Wong"
+    },
+    {
+     "c": "Billiard Parlor Thug",
+     "n": "Chan Chi-Fai"
+    },
+    {
+     "c": "Ngor's Doctor",
+     "n": "William Chang Suk-Ping"
+    },
+    {
+     "c": "Fat Carl",
+     "n": "Benz Kong To-hoi"
+    },
+    {
+     "c": "Tony's Thug",
+     "n": "Wong Kim-Fung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Wong Kar-wai"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Romance"
+   ],
+   "id": 24163,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+   "popularity": 2.7949,
+   "poster_path": "/5xMtbxqRXOMO0ovvhAyU4y4JI1E.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-06-09",
+   "revenue": 1478833,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "As Tears Go By",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.969,
+   "vote_count": 397
+  },
+  "movie:258363": {
+   "backdrop_path": "/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Moises",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Sam",
+     "n": "Jeffrey Dean Morgan"
+    },
+    {
+     "c": "Mechas",
+     "n": "Diego Cataño"
+    },
+    {
+     "c": "Lobo",
+     "n": "Marco Pérez"
+    },
+    {
+     "c": "Adela",
+     "n": "Alondra Hidalgo"
+    },
+    {
+     "c": "Ramiro",
+     "n": "Óscar Flores Guerrero"
+    },
+    {
+     "c": "Ulysse",
+     "n": "David Lorenzo"
+    },
+    {
+     "c": "Border Patrol",
+     "n": "Lew Temple"
+    },
+    {
+     "c": "Un animateur radio",
+     "n": "Butch McCain"
+    },
+    {
+     "c": "Migrant",
+     "n": "Claudia Angélica Amador Castellanos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jonás Cuarón"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 258363,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "en",
+   "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer.",
+   "popularity": 2.1394,
+   "poster_path": "/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
+   "production_countries": [
+    "MX",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-11",
+   "revenue": 4924990,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A chase where only the strongest survive.",
+   "title": "Desierto",
+   "trailer": {
+    "key": "HlvgZfPUlqc",
+    "name": "DESIERTO Trailer [HD] - Mongrel Media",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 406
   },
   "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",

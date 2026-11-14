@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 34,
+ "count": 43,
  "titles": {
   "movie:1010755": {
    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
@@ -150,6 +150,248 @@
    "type": "movie",
    "vote_average": 5.946,
    "vote_count": 355
+  },
+  "movie:10855": {
+   "backdrop_path": "/9SIFiToG6kRkoS5OKUhuPYp2mnI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlene Ching",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Katherine",
+     "n": "Anya"
+    },
+    {
+     "c": "Jack Chen",
+     "n": "Daniel Wu"
+    },
+    {
+     "c": "Jing",
+     "n": "Li Fei"
+    },
+    {
+     "c": "Madam M",
+     "n": "Almen Wong Pui-Ha"
+    },
+    {
+     "c": "Ryuichi",
+     "n": "Andrew Lin"
+    },
+    {
+     "c": "Faye Ching",
+     "n": "Cheng Pei-pei"
+    },
+    {
+     "c": "Student Murdered in Cage",
+     "n": "Monica Lo Suk-Yee"
+    },
+    {
+     "c": "Tattooed Yakuza boss",
+     "n": "Benny Lai Chun"
+    },
+    {
+     "c": "Mr. Chan",
+     "n": "Dennis Chan Kwok-San"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tony Ching Siu-tung"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 10855,
+   "industry": "world",
+   "origin_country": [
+    "HK",
+    "CN"
+   ],
+   "original_language": "cn",
+   "overview": "A mysterious woman, known as Madame M, kidnaps forty pre-teen girls and transports them to a remote island to train them as the most deadly assassins. CIA operative Jack Chen follows the case for 6 years with no leads, but when a series of assassinations begin to occur, Jack suspects that Madame M is back in business.",
+   "popularity": 1.1062,
+   "poster_path": "/bEkFMDlIosqroIO8yBBIKZWoGRh.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-15",
+   "revenue": 78340,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They will seduce you - just before they kill you!",
+   "title": "Naked Weapon",
+   "trailer": {
+    "key": "po5IAj7iGyw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 418
+  },
+  "movie:1128655": {
+   "backdrop_path": "/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Surfer",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Scally",
+     "n": "Julian McMahon"
+    },
+    {
+     "c": "Cop",
+     "n": "Justin Rosniak"
+    },
+    {
+     "c": "Pitbull",
+     "n": "Alexander Bertrand"
+    },
+    {
+     "c": "Conlon",
+     "n": "Rahel Romahn"
+    },
+    {
+     "c": "The Bum",
+     "n": "Nicholas Cassim"
+    },
+    {
+     "c": "The Kid",
+     "n": "Finn Little"
+    },
+    {
+     "c": "Jenny",
+     "n": "Charlotte Maggi"
+    },
+    {
+     "c": "The Dog Walker",
+     "n": "Nina Young"
+    },
+    {
+     "c": "Runt 1",
+     "n": "James Bingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lorcan Finnegan"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1128655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man returns to the idyllic beach of his childhood to surf with his son. When he is humiliated by a group of locals, the man is drawn into a conflict that keeps rising and pushes him to his breaking point.",
+   "popularity": 1.9439,
+   "poster_path": "/gm9Ou0dkxhb1vcrkB6uRhoifcHC.jpg",
+   "production_countries": [
+    "AU",
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-04-11",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't live here, don't surf here.",
+   "title": "The Surfer",
+   "trailer": {
+    "key": "OrFaYoTbdqc",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.695,
+   "vote_count": 395
   },
   "movie:1212855": {
    "backdrop_path": "/jDyNnLyJUOsVgseQgkHPRxpyo4o.jpg",
@@ -1050,6 +1292,119 @@
    "vote_average": 7.133,
    "vote_count": 143
   },
+  "movie:17455": {
+   "backdrop_path": "/cARh4D78SYGvOiLCjTjYA5PkCxe.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Amy Klein",
+     "n": "Kari Wührer"
+    },
+    {
+     "c": "Winter",
+     "n": "Paul Rhys"
+    },
+    {
+     "c": "Charles Richmond",
+     "n": "Simon Kunz"
+    },
+    {
+     "c": "Joey",
+     "n": "Marc Warren"
+    },
+    {
+     "c": "Marla",
+     "n": "Georgina Rylance"
+    },
+    {
+     "c": "Young Amy",
+     "n": "Maria Pintea"
+    },
+    {
+     "c": "Pinhead",
+     "n": "Doug Bradley"
+    },
+    {
+     "c": "Group Leader",
+     "n": "Ionut Chermenski"
+    },
+    {
+     "c": "Anna",
+     "n": "Mădălina Constantin"
+    },
+    {
+     "c": "Katia",
+     "n": "Ioana Abur"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rick Bota"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 17455,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a tough-as-nails reporter is lead to a mysterious cult and the evil Pinhead, any moment could be her last.",
+   "popularity": 2.4973,
+   "poster_path": "/mWOiwo2mA1rDJzR2idMZCFhSizy.jpg",
+   "production_countries": [
+    "RO",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-06-07",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The latest, most terrifying evil.",
+   "title": "Hellraiser: Deader",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 406
+  },
   "movie:1752355": {
    "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
    "budget": 0,
@@ -1157,6 +1512,138 @@
    "type": "movie",
    "vote_average": 7.405,
    "vote_count": 37
+  },
+  "movie:25155": {
+   "backdrop_path": "/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Jerry Blake",
+     "n": "Terry O'Quinn"
+    },
+    {
+     "c": "Stephanie Maine",
+     "n": "Jill Schoelen"
+    },
+    {
+     "c": "Susan",
+     "n": "Shelley Hack"
+    },
+    {
+     "c": "Dr. Bondurant",
+     "n": "Charles Lanyer"
+    },
+    {
+     "c": "Jim Ogilvie",
+     "n": "Stephen Shellen"
+    },
+    {
+     "c": "Al Brennan",
+     "n": "Stephen E. Miller"
+    },
+    {
+     "c": "Karen",
+     "n": "Robyn Stevan"
+    },
+    {
+     "c": "Paul Baker",
+     "n": "Jeff Schultz"
+    },
+    {
+     "c": "Art Teacher",
+     "n": "Lindsay Bourne"
+    },
+    {
+     "c": "Mrs. Leitner",
+     "n": "Anna Hagan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Ruben"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 25155,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Seemingly mild-mannered Henry Morrison has just murdered his entire family. After adopting a new identity and skipping town, he begins building a new relationship with a widow and her teenage daughter. However, he soon begins struggling to hide his true identity and maintain a grip on reality.",
+   "popularity": 2.772,
+   "poster_path": "/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-01-23",
+   "revenue": 2488740,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He wanted a perfect family in a perfect town. But they couldn't measure up...Neither could the others...",
+   "title": "The Stepfather",
+   "trailer": {
+    "key": "Gg2YlWCZtLI",
+    "name": "Stepfather (1987) - DVD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.552,
+   "vote_count": 397
   },
   "movie:255": {
    "backdrop_path": "/42pH01hfjrpuKvplFjkLQYOlbmO.jpg",
@@ -1483,6 +1970,95 @@
    "vote_average": 7.3,
    "vote_count": 499
   },
+  "movie:390555": {
+   "backdrop_path": "/5D4sx3UuCCTDrz6BW20pcEur2pm.jpg",
+   "budget": 93,
+   "cast": [
+    {
+     "c": "Bronc Evans",
+     "n": "Ben Johnson"
+    },
+    {
+     "c": "Benjamin 'Benj' Cartwright",
+     "n": "Michael Landon Jr."
+    },
+    {
+     "c": "Sara Cartwright",
+     "n": "Emily Warfield"
+    },
+    {
+     "c": "Josh Cartwright",
+     "n": "Brian Leckner"
+    },
+    {
+     "c": "Jacob Briscoe",
+     "n": "Richard Roundtree"
+    },
+    {
+     "c": "Buckshot",
+     "n": "Jack Elam"
+    },
+    {
+     "c": "Walter Fenster",
+     "n": "Dirk Blocker"
+    },
+    {
+     "c": "Miller Swanson",
+     "n": "David Sage"
+    },
+    {
+     "c": "Preston McAdam",
+     "n": "Stewart Moss"
+    },
+    {
+     "c": "Augustus Brandenburg",
+     "n": "Dean Stockwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jerry Jameson"
+   ],
+   "genres": [
+    "Western",
+    "TV Movie"
+   ],
+   "id": 390555,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man with a grudge against the late Little Joe seeks revenge on the Cartwrights and attempts to take over the Ponderosa.",
+   "popularity": 0.6561,
+   "poster_path": "/aOGanl6gCD9EFUYVYMcQscUooLT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1993-11-24",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bonanza: The Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 404
+  },
   "movie:460555": {
    "backdrop_path": "/zYWgVYAI7elv6lpnXCyUtIkSOpM.jpg",
    "budget": 70000000,
@@ -1636,6 +2212,95 @@
    "vote_average": 7.358,
    "vote_count": 453
   },
+  "movie:46655": {
+   "backdrop_path": "/fkIymGaZbJTuqTP9cPpRL3ZH7jj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Louis-Philippe Fourchaume",
+     "n": "Louis de Funès"
+    },
+    {
+     "c": "Marie-Béatrice Fourchaume",
+     "n": "Andréa Parisy"
+    },
+    {
+     "c": "Marcello Cacciaperotti",
+     "n": "Franco Fabrizi"
+    },
+    {
+     "c": "Scipio",
+     "n": "Michel Galabru"
+    },
+    {
+     "c": "André Castagnier",
+     "n": "Robert Dhéry"
+    },
+    {
+     "c": "Charlotte Castagnier",
+     "n": "Colette Brosset"
+    },
+    {
+     "c": "Le ministre",
+     "n": "Pierre Dac"
+    },
+    {
+     "c": "Henri Castagnier, le curé",
+     "n": "Jacques Legras"
+    },
+    {
+     "c": "L'épouse du ministre",
+     "n": "Michèle Alexandre"
+    },
+    {
+     "c": "La mère du petit Francis",
+     "n": "Nicole Vervil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Robert Dhéry"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 46655,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Louis-Philippe Fourchaume, another typical lead-role for French comedy superstar Louis de Funès, is the dictatorial CEO of a French company which designs and produces sail yachts, and fires in yet another tantrum his designer André Castagnier, not realizing that man is his only chance to land a vital contract with the Italian magnate Marcello Cacciaperotti. So he has to find him at his extremely rural birthplace in 'la France profonde', which proves a torturous odyssey for the spoiled rich man; when he does get there his torment is far from over: the country bumpkin refuses to resume his slavish position now the shoe is on the other foot, so Fourchaume is dragged along in the boorish family life, and at times unable to control his temper, which may cost him more credit then he painstakingly builds up...",
+   "popularity": 1.814,
+   "poster_path": "/scxiE4uHetFNXLsdSycWG7Elb2Y.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1968-03-22",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Little Bather",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.614,
+   "vote_count": 405
+  },
   "movie:791155": {
    "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
    "budget": 0,
@@ -1781,6 +2446,432 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 441
+  },
+  "movie:86555": {
+   "backdrop_path": "/2RDNAPa6EW0aW725Gj4V7Sj6vBj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Margot",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Lou",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Daniel",
+     "n": "Luke Kirby"
+    },
+    {
+     "c": "Geraldine",
+     "n": "Sarah Silverman"
+    },
+    {
+     "c": "Karen",
+     "n": "Jennifer Podemski"
+    },
+    {
+     "c": "Harriet",
+     "n": "Diane D'Aquila"
+    },
+    {
+     "c": "Tony",
+     "n": "Vanessa Carter"
+    },
+    {
+     "c": "James",
+     "n": "Graham Abbey"
+    },
+    {
+     "c": "Aquafit Instructor",
+     "n": "Damien Atkins"
+    },
+    {
+     "c": "Aaron",
+     "n": "Aaron Abrams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sarah Polley"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 86555,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Twenty-eight-year-old Margot is happily married to Lou, a good-natured cookbook author. But when Margot meets Daniel, a handsome artist who lives across the street, their mutual attraction is undeniable.",
+   "popularity": 1.6968,
+   "poster_path": "/tjE6XUPNNaG6VGPyq1SdCghoMos.jpg",
+   "production_countries": [
+    "CA",
+    "FR",
+    "ES",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-11-25",
+   "revenue": 4965950,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A funny, bittersweet tale of love…",
+   "title": "Take This Waltz",
+   "trailer": {
+    "key": "9dhBppugluM",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 413
+  },
+  "movie:921655": {
+   "backdrop_path": "/zQG1FYDqoWo2hYhE5GVZ1yrWSfh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dan",
+     "n": "Grant Gustin"
+    },
+    {
+     "c": "Matt Zarrella",
+     "n": "Scott Wolf"
+    },
+    {
+     "c": "Melissa",
+     "n": "Kaylah Zander"
+    },
+    {
+     "c": "Pat Inman",
+     "n": "Camille Sullivan"
+    },
+    {
+     "c": "Seamus Brady",
+     "n": "Tom McBeath"
+    },
+    {
+     "c": "Sam",
+     "n": "Sharon Taylor"
+    },
+    {
+     "c": "Sergeant Amanda Grinnell",
+     "n": "Eileen Pedde"
+    },
+    {
+     "c": "Michael",
+     "n": "Jude Culham-Keays"
+    },
+    {
+     "c": "Rick McGuinness",
+     "n": "Giacomo Baessato"
+    },
+    {
+     "c": "Tommy Two Towers",
+     "n": "Brad Mann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Katt Shea"
+   ],
+   "genres": [
+    "Family",
+    "Drama"
+   ],
+   "id": 921655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.",
+   "popularity": 2.3348,
+   "poster_path": "/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-17",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Rescued by Ruby",
+   "trailer": {
+    "key": "-Pwxr307O4w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.496,
+   "vote_count": 384
+  },
+  "movie:9555": {
+   "backdrop_path": "/2g0ilrxS3JpzSeLSyRQywPo0BjU.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Molly Craig",
+     "n": "Everlyn Sampi"
+    },
+    {
+     "c": "Daisy Craig Kadibill",
+     "n": "Tianna Sansbury"
+    },
+    {
+     "c": "Gracie Fields",
+     "n": "Laura Monaghan"
+    },
+    {
+     "c": "Moodoo",
+     "n": "David Gulpilil"
+    },
+    {
+     "c": "Maud - Molly's Mother",
+     "n": "Ningali Lawford"
+    },
+    {
+     "c": "Molly's Grandmother",
+     "n": "Myarn Lawford"
+    },
+    {
+     "c": "Mavis",
+     "n": "Deborah Mailman"
+    },
+    {
+     "c": "Constable Riggs",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "A. O. Neville",
+     "n": "Kenneth Branagh"
+    },
+    {
+     "c": "Nina, Dormitory Boss",
+     "n": "Natasha Wanganeen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Phillip Noyce"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+   ],
+   "id": 9555,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "In 1931, three Aboriginal girls escape after being plucked from their homes to be trained as domestic staff, and set off on a trek across the Outback.",
+   "popularity": 1.4306,
+   "poster_path": "/vs8ATIRGEEYpcByrNtJ1WyI3LeD.jpg",
+   "production_countries": [
+    "AU",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-02-04",
+   "revenue": 16200000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Follow your heart, follow the fence",
+   "title": "Rabbit-Proof Fence",
+   "trailer": {
+    "key": "n58yQzd6QlY",
+    "name": "Rabbit-Proof Fence | 'The Fair Ones' (HD) | MIRAMAX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 411
   },
   "tv:108255": {
    "backdrop_path": "/zWOhdkAgyo0HVDDHE5ZsztaPtCQ.jpg",

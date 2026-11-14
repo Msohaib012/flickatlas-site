@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 23,
+ "count": 34,
  "titles": {
   "movie:1000879": {
    "d": "The Site (2026): Thriller/Fantasy film. Story: Vincent works the night shift on the construction… See cast and TMDB rating 5.3/10.",
@@ -129,6 +129,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Truth or Dare (2012)</h1>\n<p class=\"ssr-lead\">A group of friends are lured to an isolated cabin by a promise of heavy partying, only to find themselves in a nightmarish game of truth or dare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 2012</li><li>Runtime: 95 minutes</li><li>Director: Robert Heath</li><li>Genres: Horror, Thriller, Mystery</li><li>TMDB rating: 5.6/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Boyle as Paul</li><li>Jack Gordon as Chris</li><li>Florence Hall as Gemma</li><li>David Oakes as Justin</li><li>Jennie Jacques as Eleanor</li><li>Tom Kane as Felix</li><li>Jason Maza as Jonesy</li><li>David Sterne as Woodbridge</li><li>Alexander Vlahos as Luke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Truth or Dare (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:10379": {
+   "d": "Drop Dead Fred (1991): Comedy/Fantasy film. Story: An unhappy housewife gets a lift from the return of… See cast, budget $6.79M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h8EZTu4ZqzTsXWo7N14t8qEj3gN.jpg",
+   "industry": "world",
+   "k": "Drop Dead Fred, Drop Dead Fred movie, Drop Dead Fred cast, Drop Dead Fred story, Drop Dead Fred box office collection, Drop Dead Fred budget, Drop Dead Fred review, Drop Dead Fred rating, Drop Dead Fred release date, Drop Dead Fred Comedy, Drop Dead Fred Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Phoebe Cates"
+     },
+     {
+      "@type": "Person",
+      "name": "Rik Mayall"
+     },
+     {
+      "@type": "Person",
+      "name": "Marsha Mason"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Matheson"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Fisher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Drop Dead Fred (1991): Comedy/Fantasy film. Story: An unhappy housewife gets a lift from the return of… See cast, budget $6.79M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ate de Jong"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h8EZTu4ZqzTsXWo7N14t8qEj3gN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10379",
+    "name": "Drop Dead Fred",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-04-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10379"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Drop Dead Fred (1991)</h1>\n<p class=\"ssr-lead\">An unhappy housewife gets a lift from the return of her imaginary childhood friend, Drop Dead Fred.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 1991</li><li>Runtime: 99 minutes</li><li>Director: Ate de Jong</li><li>Genres: Comedy, Fantasy, Family, Drama</li><li>Budget: $6.79M</li><li>TMDB rating: 5.8/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Phoebe Cates as Elizabeth</li><li>Rik Mayall as Drop Dead Fred</li><li>Marsha Mason as Polly</li><li>Tim Matheson as Charles</li><li>Carrie Fisher as Janie</li><li>Keith Charles as Murray</li><li>Ashley Peldon as Young Elizabeth</li><li>Daniel Gerroll as Nigel</li><li>Ron Eldard as Mickey Bunce</li><li>Eleanor Mondale as Attractive Customer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Drop Dead Fred (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
+  "movie:11779": {
+   "d": "Buena Vista Social Club (1999): Documentary/Music film. Story: In this fascinating Oscar-nominated documentary… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+   "industry": "world",
+   "k": "Buena Vista Social Club, Buena Vista Social Club movie, Buena Vista Social Club cast, Buena Vista Social Club story, Buena Vista Social Club box office collection, Buena Vista Social Club budget, Buena Vista Social Club review, Buena Vista Social Club rating, Buena Vista Social Club release date, Buena Vista Social Club Documentary, Buena Vista Social Club Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Compay Segundo"
+     },
+     {
+      "@type": "Person",
+      "name": "Eliades Ochoa"
+     },
+     {
+      "@type": "Person",
+      "name": "Ry Cooder"
+     },
+     {
+      "@type": "Person",
+      "name": "Joachim Cooder"
+     },
+     {
+      "@type": "Person",
+      "name": "Ibrahim Ferrer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Buena Vista Social Club (1999): Documentary/Music film. Story: In this fascinating Oscar-nominated documentary… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wim Wenders"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11779",
+    "name": "Buena Vista Social Club",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11779"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buena Vista Social Club (1999)</h1>\n<p class=\"ssr-lead\">In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group&#x27;s gigs in Amsterdam and New York City&#x27;s famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians&#x27; life stories.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 1999</li><li>Runtime: 105 minutes</li><li>Director: Wim Wenders</li><li>Genres: Documentary, Music</li><li>TMDB rating: 7.5/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Compay Segundo as Self</li><li>Eliades Ochoa as Self</li><li>Ry Cooder as Self</li><li>Joachim Cooder as Self</li><li>Ibrahim Ferrer as Self</li><li>Omara Portuondo as Self</li><li>Rubén González as Self</li><li>Orlando &#x27;Cachaíto&#x27; López as Self</li><li>Amadito Valdés as Self</li><li>Manuel &#x27;Guajiro&#x27; Mirabal as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buena Vista Social Club (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:1321179": {
    "d": "The King's Warden (2026): History/Drama film. Story: In a remote mountain village of 15th-century Joseon… See cast, budget $6.9M, and TMDB rating 6.9/10.",
@@ -375,6 +503,197 @@
    "t": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:232679": {
+   "d": "When the Game Stands Tall (2014): Drama film. Story: A young coach turns a losing high school football… See cast, budget $15M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h2WyyRB2jKpketuZ0znyANyJGjc.jpg",
+   "industry": "world",
+   "k": "When the Game Stands Tall, When the Game Stands Tall movie, When the Game Stands Tall cast, When the Game Stands Tall story, When the Game Stands Tall box office collection, When the Game Stands Tall budget, When the Game Stands Tall review, When the Game Stands Tall rating, When the Game Stands Tall release date, When the Game Stands Tall trailer, When the Game Stands Tall Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Caviezel"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Chiklis"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Dern"
+     },
+     {
+      "@type": "Person",
+      "name": "Clancy Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Ser'Darius Blain"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "When the Game Stands Tall (2014): Drama film. Story: A young coach turns a losing high school football… See cast, budget $15M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Carter"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h2WyyRB2jKpketuZ0znyANyJGjc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=232679",
+    "name": "When the Game Stands Tall",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=232679"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>When the Game Stands Tall (2014)</h1>\n<p class=\"ssr-lead\">A young coach turns a losing high school football program around to go undefeated for 12 consecutive seasons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2014</li><li>Runtime: 115 minutes</li><li>Director: Thomas Carter</li><li>Genres: Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.7/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Caviezel as Bob Ladouceur</li><li>Michael Chiklis as Terry Eidson</li><li>Laura Dern as Bev Ladouceur</li><li>Clancy Brown as Mickey Ryan</li><li>Ser&#x27;Darius Blain as Cam Colvin</li><li>Stephan James as T.K. Kelly</li><li>Jessie T. Usher as Tayshon Lanear</li><li>Matthew Daddario as Danny Ladouceur</li><li>Alexander Ludwig as Chris Ryan</li><li>Joe Massingill as Beaser</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "When the Game Stands Tall (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:354979": {
+   "d": "Dog Eat Dog (2016): Drama/Crime film. Story: Ex-cons Troy, Mad Dog, and Diesel are hired by an… See cast, TMDB rating 5.1/10, and release date 18 November 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
+   "industry": "world",
+   "k": "Dog Eat Dog, Dog Eat Dog movie, Dog Eat Dog cast, Dog Eat Dog story, Dog Eat Dog box office collection, Dog Eat Dog budget, Dog Eat Dog review, Dog Eat Dog rating, Dog Eat Dog release date, Dog Eat Dog trailer, Dog Eat Dog Drama, Dog Eat Dog Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Willem Dafoe"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Matthew Cook"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar J. Dorsey"
+     },
+     {
+      "@type": "Person",
+      "name": "Louisa Krause"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 397,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Dog Eat Dog (2016): Drama/Crime film. Story: Ex-cons Troy, Mad Dog, and Diesel are hired by an… See cast, TMDB rating 5.1/10, and release date 18 November 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Schrader"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=354979",
+    "name": "Dog Eat Dog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=354979"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dog Eat Dog (2016)</h1>\n<p class=\"ssr-lead\">Ex-cons Troy, Mad Dog, and Diesel are hired by an eccentric mob boss to kidnap a baby and hold it for a large ransom. When the abduction goes awry, the men find themselves on the run from the mob and the cops. Vowing to stay out of prison at all costs, getting away with the crime is a matter of life and death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2016</li><li>Runtime: 93 minutes</li><li>Director: Paul Schrader</li><li>Genres: Drama, Crime, Thriller</li><li>TMDB rating: 5.1/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as Troy</li><li>Willem Dafoe as Mad Dog</li><li>Christopher Matthew Cook as Diesel</li><li>Omar J. Dorsey as Moon Man</li><li>Louisa Krause as Zoe</li><li>Melissa Bolona as Lina</li><li>Reynaldo Gallegos as Chepe</li><li>Chelcie Lynn as Sheila</li><li>Bruce Reizen as Maurie</li><li>Nicky Whelan as Daniece</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dog Eat Dog (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:363579": {
+   "d": "The Age of Shadows (2016): Action/Thriller film. Story: Set in the late 1920s, The Age of Shadows follows the… See cast, budget $9.62M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ohiUEBRpfMFKEnU2CCQ7jq5KRT0.jpg",
+   "industry": "world",
+   "k": "The Age of Shadows, The Age of Shadows movie, The Age of Shadows cast, The Age of Shadows story, The Age of Shadows box office collection, The Age of Shadows budget, The Age of Shadows review, The Age of Shadows rating, The Age of Shadows release date, The Age of Shadows trailer, The Age of Shadows Action, The Age of Shadows Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Song Kang-ho"
+     },
+     {
+      "@type": "Person",
+      "name": "Gong Yoo"
+     },
+     {
+      "@type": "Person",
+      "name": "Han Ji-min"
+     },
+     {
+      "@type": "Person",
+      "name": "Shingo Tsurumi"
+     },
+     {
+      "@type": "Person",
+      "name": "Um Tae-goo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 389,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Age of Shadows (2016): Action/Thriller film. Story: Set in the late 1920s, The Age of Shadows follows the… See cast, budget $9.62M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Jee-woon"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ohiUEBRpfMFKEnU2CCQ7jq5KRT0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=363579",
+    "name": "The Age of Shadows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=363579"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Age of Shadows (2016)</h1>\n<p class=\"ssr-lead\">Set in the late 1920s, The Age of Shadows follows the cat-and-mouse game that unfolds between a group of resistance fighters trying to bring in explosives from Shanghai to destroy key Japanese facilities in Seoul, and Japanese agents trying to stop them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2016</li><li>Runtime: 140 minutes</li><li>Director: Kim Jee-woon</li><li>Genres: Action, Thriller</li><li>Budget: $9.62M</li><li>TMDB rating: 7.2/10 (389 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Song Kang-ho as Lee Jung-chool</li><li>Gong Yoo as Kim Woo-jin</li><li>Han Ji-min as Yun Gye-soon</li><li>Shingo Tsurumi as Higashi</li><li>Um Tae-goo as Hashimoto</li><li>Shin Sung-rok as Jo Hwe-ryung</li><li>Lee Byung-hun as Jung Chae-san</li><li>Park Hee-soon as Kim Jang-ok</li><li>Heo Sung-tae as Ha Il-soo</li><li>Kim Dong-young as Heo Chul-joo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, BFI Player</li><li>Buy: Apple TV Store, Amazon Video, Sky Store</li></ul>\n</article>",
+   "t": "The Age of Shadows (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:450179": {
    "d": "Problemos (2017): Comedy/Family film. Story: When a pandemic strikes the world, Victor and his… See cast, budget $7.03M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/kprXFwqItxrDuDZk0nyPNNCxm6z.jpg",
@@ -438,6 +757,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Problemos (2017)</h1>\n<p class=\"ssr-lead\">When a pandemic strikes the world, Victor and his family get stuck within a hippie community.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 May 2017</li><li>Runtime: 85 minutes</li><li>Director: Éric Judor</li><li>Genres: Comedy, Family</li><li>Budget: $7.03M</li><li>TMDB rating: 5.5/10 (452 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Blanche Gardin as Gaya</li><li>Éric Judor as Victor</li><li>Célia Rosich as Jeanne</li><li>Youssef Hajdi as Simon</li><li>Marie Helmer as Margaux</li><li>Claire Chust as Maeva</li><li>Blandine Ruiz as La femme de Patrice</li><li>Arnaud Henriet as François</li><li>Bun-hay Mean as Claude</li><li>Dorothée Pousséo as Philippine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
    "t": "Problemos (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:530079": {
+   "d": "Ride Your Wave (2019): Animation/Romance film. Story: Hinako is a surf-loving college student who has just… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vooRKLGVvFRFmx9swcMh26uYZSf.jpg",
+   "industry": "world",
+   "k": "Ride Your Wave, Ride Your Wave movie, Ride Your Wave cast, Ride Your Wave story, Ride Your Wave box office collection, Ride Your Wave budget, Ride Your Wave review, Ride Your Wave rating, Ride Your Wave release date, Ride Your Wave trailer, Ride Your Wave Animation, Ride Your Wave Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryota Katayose"
+     },
+     {
+      "@type": "Person",
+      "name": "Rina Kawaei"
+     },
+     {
+      "@type": "Person",
+      "name": "Honoka Matsumoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Kentaro Ito"
+     },
+     {
+      "@type": "Person",
+      "name": "Mami Horikoshi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Ride Your Wave (2019): Animation/Romance film. Story: Hinako is a surf-loving college student who has just… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Masaaki Yuasa"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vooRKLGVvFRFmx9swcMh26uYZSf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=530079",
+    "name": "Ride Your Wave",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-06-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=530079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ride Your Wave (2019)</h1>\n<p class=\"ssr-lead\">Hinako is a surf-loving college student who has just moved to a small seaside town. When a sudden fire breaks out at her apartment building, she is rescued by Minato, a handsome firefighter, and the two soon fall in love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 June 2019</li><li>Runtime: 95 minutes</li><li>Director: Masaaki Yuasa</li><li>Genres: Animation, Romance, Comedy, Drama, Fantasy</li><li>TMDB rating: 7.5/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryota Katayose as Minato Hinageshi (voice)</li><li>Rina Kawaei as Hinako Mukaizumi (voice)</li><li>Honoka Matsumoto as Yoko Hinageshi (voice)</li><li>Kentaro Ito as Wasabi Kawamura (voice)</li><li>Mami Horikoshi as Hinako&#x27;s Mother (voice)</li><li>You Taichi as Junko (voice)</li><li>Mai Nishikawa as Ai (voice)</li><li>Daiki Hamano as Chiba Port Tower Public Address Announcer (voice)</li><li>Kenji Sugimura as Leader (voice)</li><li>Kunihiro Kawamoto as Commander (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Ride Your Wave (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:575479": {
+   "d": "An Easy Girl (2019): Comedy/Drama film. Story: Naïma has just turned 16. This summer, she will have… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qDBmY1cd8aAZMLL1gAlm3EtkFsZ.jpg",
+   "industry": "world",
+   "k": "An Easy Girl, An Easy Girl movie, An Easy Girl cast, An Easy Girl story, An Easy Girl box office collection, An Easy Girl budget, An Easy Girl review, An Easy Girl rating, An Easy Girl release date, An Easy Girl trailer, An Easy Girl Comedy, An Easy Girl Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mina Farid"
+     },
+     {
+      "@type": "Person",
+      "name": "Zahia Dehar"
+     },
+     {
+      "@type": "Person",
+      "name": "Benoît Magimel"
+     },
+     {
+      "@type": "Person",
+      "name": "Nuno Lopes"
+     },
+     {
+      "@type": "Person",
+      "name": "Clotilde Courau"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "An Easy Girl (2019): Comedy/Drama film. Story: Naïma has just turned 16. This summer, she will have… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rebecca Zlotowski"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qDBmY1cd8aAZMLL1gAlm3EtkFsZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=575479",
+    "name": "An Easy Girl",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=575479"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>An Easy Girl (2019)</h1>\n<p class=\"ssr-lead\">Naïma has just turned 16. This summer, she will have to decide what she wants from life if she doesn’t want to miss out. Then her cousin Sofia arrives, with an amazing body and a dangerously seductive lifestyle. Naïma desires only to follow her own path, so long as it leads upwards… Despite the warnings of her best friend Dodo, she and Sofia will live through unforgettable encounters during a long summer that will mark them forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2019</li><li>Runtime: 92 minutes</li><li>Director: Rebecca Zlotowski</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.5/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mina Farid as Naïma</li><li>Zahia Dehar as Sofia</li><li>Benoît Magimel as Philippe</li><li>Nuno Lopes as Andres</li><li>Clotilde Courau as Calypso</li><li>Lakdhar Dridi as Dodo</li><li>Loubna Abidar as Dounia</li><li>Henri-Noël Tabary as Stewart</li><li>Cédric Appietto as Chef</li><li>Mickaël Migliorini as Guy at the Beach</li></ul>\n</article>",
+   "t": "An Easy Girl (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:592279": {
+   "d": "Kalashnikov AK-47 (2020): War/History film. Story: A Russian military propaganda film about the tank… See cast, budget $3.5M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg",
+   "industry": "world",
+   "k": "Kalashnikov AK-47, Kalashnikov AK-47 movie, Kalashnikov AK-47 cast, Kalashnikov AK-47 story, Kalashnikov AK-47 box office collection, Kalashnikov AK-47 budget, Kalashnikov AK-47 review, Kalashnikov AK-47 rating, Kalashnikov AK-47 release date, Kalashnikov AK-47 War, Kalashnikov AK-47 History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yura Borisov"
+     },
+     {
+      "@type": "Person",
+      "name": "Olga Lerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Artur Smolyaninov"
+     },
+     {
+      "@type": "Person",
+      "name": "Eldar Kalimulin"
+     },
+     {
+      "@type": "Person",
+      "name": "Vitaly Khaev"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Kalashnikov AK-47 (2020): War/History film. Story: A Russian military propaganda film about the tank… See cast, budget $3.5M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Konstantin Buslov"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "War",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=592279",
+    "name": "Kalashnikov AK-47",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=592279"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kalashnikov AK-47 (2020)</h1>\n<p class=\"ssr-lead\">A Russian military propaganda film about the tank commander Kalashnikov, severely injured in battle in 1941. The accident leaves him incapacitated and unable to return to the front line. While recovering in the hospital, he begins creating the initial sketches of what will become one of the world’s most legendary weapons. A self-taught inventor is only 29 when he develops the now iconic assault riffle — the AK-47. Shot in occupied Crimea.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2020</li><li>Runtime: 105 minutes</li><li>Director: Konstantin Buslov</li><li>Genres: War, History, Drama</li><li>Budget: $3.5M</li><li>TMDB rating: 7.6/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yura Borisov as Kalashnikov</li><li>Olga Lerman as Katya</li><li>Artur Smolyaninov as Engineer captain Lyutyy</li><li>Eldar Kalimulin as Zaytsev</li><li>Vitaly Khaev as Major General Kurbatkin</li><li>Valeriy Barinov as Major General Degtyarev</li><li>Anatoliy Lobotskiy as Colonel Glukhov</li><li>Aleksey Vertkov as State security captain Lobov</li><li>Dmitriy Bogdan as Engineer Major Sudaev</li><li>Maksim Bityukov as Kazakov</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Kalashnikov AK-47 (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:606679": {
    "d": "The High Note (2020): Romance/Comedy film. Story: Set in the dazzling world of the LA music scene comes… See cast and TMDB rating 7.0/10.",
@@ -503,6 +1014,134 @@
    "t": "The High Note (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:624479": {
+   "d": "Superman II: The Richard Donner Cut (2006): Science Fiction/Action film. Story: Superman agrees to sacrifice his powers to start a… See cast and budget $54M.",
+   "img": "https://image.tmdb.org/t/p/w780/rRo1EzVd0E8GAOAeCulPpekKwjP.jpg",
+   "industry": "world",
+   "k": "Superman II: The Richard Donner Cut, Superman II: The Richard Donner Cut movie, Superman II: The Richard Donner Cut cast, Superman II: The Richard Donner Cut story, Superman II: The Richard Donner Cut box office collection, Superman II: The Richard Donner Cut budget, Superman II: The Richard Donner Cut review, Superman II: The Richard Donner Cut rating, Superman II: The Richard Donner Cut release date, Superman II: The Richard Donner Cut trailer, Superman II: The Richard Donner Cut Science Fiction, Superman II: The Richard Donner Cut Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christopher Reeve"
+     },
+     {
+      "@type": "Person",
+      "name": "Margot Kidder"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Hackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Marlon Brando"
+     },
+     {
+      "@type": "Person",
+      "name": "Ned Beatty"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Superman II: The Richard Donner Cut (2006): Science Fiction/Action film. Story: Superman agrees to sacrifice his powers to start a… See cast and budget $54M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Donner"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rRo1EzVd0E8GAOAeCulPpekKwjP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=624479",
+    "name": "Superman II: The Richard Donner Cut",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-11-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=624479"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Superman II: The Richard Donner Cut (2006)</h1>\n<p class=\"ssr-lead\">Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 November 2006</li><li>Runtime: 116 minutes</li><li>Director: Richard Donner</li><li>Genres: Science Fiction, Action</li><li>Budget: $54M</li><li>TMDB rating: 7.3/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Reeve as Clark Kent / Superman</li><li>Margot Kidder as Lois Lane</li><li>Gene Hackman as Lex Luthor</li><li>Marlon Brando as Jor-El</li><li>Ned Beatty as Otis</li><li>Jackie Cooper as Perry White</li><li>Sarah Douglas as Ursa</li><li>Jack O&#x27;Halloran as Non</li><li>Valerie Perrine as Eve Teschmacher</li><li>Clifton James as Sheriff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Superman II: The Richard Donner Cut (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
+  "movie:762079": {
+   "d": "The Advent Calendar (2021): Horror/Thriller film. Story: Eva, an ex-dancer, is now living in a wheelchair… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
+   "industry": "world",
+   "k": "The Advent Calendar, The Advent Calendar movie, The Advent Calendar cast, The Advent Calendar story, The Advent Calendar box office collection, The Advent Calendar budget, The Advent Calendar review, The Advent Calendar rating, The Advent Calendar release date, The Advent Calendar trailer, The Advent Calendar Horror, The Advent Calendar Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eugénie Derouand"
+     },
+     {
+      "@type": "Person",
+      "name": "Honorine Magnier"
+     },
+     {
+      "@type": "Person",
+      "name": "Clément Olivieri"
+     },
+     {
+      "@type": "Person",
+      "name": "Janis Abrikh"
+     },
+     {
+      "@type": "Person",
+      "name": "Cyril Garnier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 421,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Advent Calendar (2021): Horror/Thriller film. Story: Eva, an ex-dancer, is now living in a wheelchair… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patrick Ridremont"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=762079",
+    "name": "The Advent Calendar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=762079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Advent Calendar (2021)</h1>\n<p class=\"ssr-lead\">Eva, an ex-dancer, is now living in a wheelchair, unable to walk. When her friend Sophie gives her an old wooden antique advent calendar before Christmas, she realizes each window contains a surprise that triggers repercussions in real life: some of them good, but most of them bad... Now Eva will have to choose between getting rid of the calendar or walking again… even if it causes death around her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 2021</li><li>Runtime: 104 minutes</li><li>Director: Patrick Ridremont</li><li>Genres: Horror, Thriller, Drama</li><li>TMDB rating: 6.7/10 (421 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eugénie Derouand as Eva</li><li>Honorine Magnier as Sophie</li><li>Clément Olivieri as William</li><li>Janis Abrikh as Antoine</li><li>Cyril Garnier as Boris</li><li>Vladimir Perrin as Thomas</li><li>Jérôme Paquatte as John</li><li>Laura Presgurvic as Myriam</li><li>Isabelle Tanakil as Agnès</li><li>Jean-François Garreaud as Eva&#x27;s Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Advent Calendar (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:799379": {
    "d": "Project Wolf Hunting (2022): Action/Thriller film. Story: While under heavily armed guard, the dangerous… See cast, budget $9M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/mIW7eFxHnNqlwKwKWb6dpVjmHao.jpg",
@@ -566,6 +1205,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Project Wolf Hunting (2022)</h1>\n<p class=\"ssr-lead\">While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 September 2022</li><li>Runtime: 122 minutes</li><li>Director: Kim Hong-sun</li><li>Genres: Action, Thriller, Horror, Crime</li><li>Budget: $9M</li><li>TMDB rating: 6.5/10 (477 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seo In-guk as Park Jong-du</li><li>Jang Dong-yoon as Lee Do-il</li><li>Park Ho-san as Lee Seok-woo</li><li>Jung So-min as Lee Da-yeon</li><li>Ko Chang-seok as Ko Geon-bae</li><li>Jang Young-nam as Choi Myung-ju</li><li>Son Jong-hak as Son Soo-cheol</li><li>Jung Moon-sung as Kim Gyu-tae</li><li>Lee Sung-wook as Lee Kyung-ho</li><li>Hong Ji-yoon as Song Eun-ji</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Project Wolf Hunting (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:8079": {
+   "d": "Om Shanti Om (2007): Comedy/Thriller film. Story: In the early 70s, aspiring actor Om Prakash Makhija… See cast, budget $9.1M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+   "industry": "bollywood",
+   "k": "Om Shanti Om, Om Shanti Om movie, Om Shanti Om cast, Om Shanti Om story, Om Shanti Om box office collection, Om Shanti Om budget, Om Shanti Om review, Om Shanti Om rating, Om Shanti Om release date, Om Shanti Om trailer, Om Shanti Om Comedy, Om Shanti Om Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shah Rukh Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Deepika Padukone"
+     },
+     {
+      "@type": "Person",
+      "name": "Arjun Rampal"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirron Kher"
+     },
+     {
+      "@type": "Person",
+      "name": "Shreyas Talpade"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 435,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Om Shanti Om (2007): Comedy/Thriller film. Story: In the early 70s, aspiring actor Om Prakash Makhija… See cast, budget $9.1M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Farah Khan"
+     }
+    ],
+    "duration": "PT169M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8079",
+    "name": "Om Shanti Om",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Om Shanti Om (2007)</h1>\n<p class=\"ssr-lead\">In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2007</li><li>Runtime: 169 minutes</li><li>Director: Farah Khan</li><li>Genres: Comedy, Thriller, Drama</li><li>Budget: $9.1M</li><li>TMDB rating: 7.1/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shah Rukh Khan as Om Prakash Makhija / Om Kapoor</li><li>Deepika Padukone as Shantipriya / Sandy</li><li>Arjun Rampal as Mukesh “Mike” Mehra</li><li>Kirron Kher as Bela Makhija</li><li>Shreyas Talpade as Pappu Master</li><li>Javed Sheikh as Rajesh Kapoor</li><li>Asawari Joshi as Lovely Kapoor</li><li>Yuvika Chaudhary as Dolly</li><li>Bindu as Dolly&#x27;s Mother</li><li>Nitesh Pandey as Anwar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Om Shanti Om (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:82679": {
    "d": "Fun Size (2012): Comedy film. Story: Wren's Halloween plans go awry when she's made to… See cast, budget $14M, and TMDB rating 5.6/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 28,
+ "count": 42,
  "titles": {
   "movie:11502": {
    "backdrop_path": "/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
@@ -860,6 +860,749 @@
    "vote_average": 5.568,
    "vote_count": 22
   },
+  "movie:1802": {
+   "backdrop_path": "/gOXtwZxGnUxgpwPN9rEKKLYBTaQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sophie Bonhomme",
+     "n": "Sandrine Bonnaire"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Isabelle Huppert"
+    },
+    {
+     "c": "Georges Lelièvre",
+     "n": "Jean-Pierre Cassel"
+    },
+    {
+     "c": "Catherine Lelièvre",
+     "n": "Jacqueline Bisset"
+    },
+    {
+     "c": "Melinda",
+     "n": "Virginie Ledoyen"
+    },
+    {
+     "c": "Gilles",
+     "n": "Valentin Merlet"
+    },
+    {
+     "c": "Jeremie",
+     "n": "Julien Rochefort"
+    },
+    {
+     "c": "Madame Lantier",
+     "n": "Dominique Frot"
+    },
+    {
+     "c": "Priest",
+     "n": "Jean-François Perrier"
+    },
+    {
+     "c": "",
+     "n": "Ludovic Brillant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Claude Chabrol"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1802,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Sophie, a quiet and shy maid working for an upper-class French family, finds a friend in the energetic and uncompromising postmaster Jeanne, who encourages her to stand up against her bourgeois employers.",
+   "popularity": 2.4285,
+   "poster_path": "/vq2x8JfEoVrdQZqo0fppjw7ZI3d.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-08-30",
+   "revenue": 10882920,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "France's Alfred Hitchcock Returns...",
+   "title": "La Cérémonie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.262,
+   "vote_count": 424
+  },
+  "movie:2": {
+   "backdrop_path": "/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Taisto Kasurinen",
+     "n": "Turo Pajala"
+    },
+    {
+     "c": "Irmeli Pihlaja",
+     "n": "Susanna Haavisto"
+    },
+    {
+     "c": "Mikkonen",
+     "n": "Matti Pellonpää"
+    },
+    {
+     "c": "Riku",
+     "n": "Eetu Hilkamo"
+    },
+    {
+     "c": "Miner",
+     "n": "Erkki Pajala"
+    },
+    {
+     "c": "Mugger",
+     "n": "Matti Jaaranen"
+    },
+    {
+     "c": "Accomplice",
+     "n": "Hannu Viholainen"
+    },
+    {
+     "c": "Tallyman",
+     "n": "Jorma Markkula"
+    },
+    {
+     "c": "Woman in Harbour",
+     "n": "Tarja Keinänen"
+    },
+    {
+     "c": "Man on Beach",
+     "n": "Eino Kuusela"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Aki Kaurismäki"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+   ],
+   "id": 2,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "A Finnish man goes to the city to find a job after the mine where he worked is closed and his father commits suicide.",
+   "popularity": 1.8002,
+   "poster_path": "/ojDg0PGvs6R9xYFodRct2kdI6wC.jpg",
+   "production_countries": [
+    "FI"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-10-21",
+   "revenue": 0,
+   "runtime": 73,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ariel",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.122,
+   "vote_count": 393
+  },
+  "movie:25602": {
+   "backdrop_path": "/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Casey",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Masazuka",
+     "n": "Tsuyoshi Ihara"
+    },
+    {
+     "c": "Namiko",
+     "n": "Mika Hijii"
+    },
+    {
+     "c": "Detective Traxler",
+     "n": "Todd Jensen"
+    },
+    {
+     "c": "Professor Garrison",
+     "n": "Garrick Hagon"
+    },
+    {
+     "c": "Sensei",
+     "n": "Togo Igawa"
+    },
+    {
+     "c": "Temple",
+     "n": "Miles Anderson"
+    },
+    {
+     "c": "Klimitov",
+     "n": "Valentin Ganev"
+    },
+    {
+     "c": "Detective Vukovich",
+     "n": "Atanas Srebrev"
+    },
+    {
+     "c": "Shihan Dai",
+     "n": "Fumio Demura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Isaac Florentine"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 25602,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to return to New York to protect the legendary Yoroi Bitsu, an armored chest that contains the weapons of the last Koga Ninja.",
+   "popularity": 2.1882,
+   "poster_path": "/tKjH1IQVeUmHOlxZinQdjFHkFVG.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-10-22",
+   "revenue": 36100000,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A silent warrior. A lethal mission.",
+   "title": "Ninja",
+   "trailer": {
+    "key": "3Io-Hfflq8k",
+    "name": "Ninja - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.17,
+   "vote_count": 429
+  },
+  "movie:261102": {
+   "backdrop_path": "/k03NKr2mgma98hnM4xAcvaUHWlP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valeria",
+     "n": "Charlotte Vega"
+    },
+    {
+     "c": "Raúl",
+     "n": "Àlex Maruny"
+    },
+    {
+     "c": "Bruno",
+     "n": "Jorge Clemente"
+    },
+    {
+     "c": "Elisabeth",
+     "n": "Michelle Calvó"
+    },
+    {
+     "c": "Ester",
+     "n": "Andrea Trepat"
+    },
+    {
+     "c": "Meri",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Rodrigo",
+     "n": "Yon González"
+    },
+    {
+     "c": "César",
+     "n": "Patrick Criado"
+    },
+    {
+     "c": "Martín",
+     "n": "Raúl Arévalo"
+    },
+    {
+     "c": "Madre de Valeria",
+     "n": "Aitana Sánchez-Gijón"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Carlos Sedes"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 261102,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Valeria has just moved to Madrid after her parent's separation. What at first seems a bad start for her new life becomes the beginning of an amazing life experience. New friendships, a city full of possibilities, first love...",
+   "popularity": 0.9971,
+   "poster_path": "/8FHk0h9sgPoZ9VowdD8dSWRqoZ8.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-12-25",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You'll never be alone",
+   "title": "The Misfits Club",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 427
+  },
+  "movie:309302": {
+   "backdrop_path": "/5dDUDrH373QJgblJx8BCNSNPIvz.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Chen Zhen",
+     "n": "William Feng"
+    },
+    {
+     "c": "Yang Ke",
+     "n": "Shawn Dou"
+    },
+    {
+     "c": "Gasma",
+     "n": "Ankhnyam Ragchaa"
+    },
+    {
+     "c": "Bao Shunghi",
+     "n": "Yin Zhusheng"
+    },
+    {
+     "c": "Bilig",
+     "n": "Baasanjav Mijid"
+    },
+    {
+     "c": "Sang Jie",
+     "n": "Tumenbayaer"
+    },
+    {
+     "c": "",
+     "n": "Han Tongsheng"
+    },
+    {
+     "c": "",
+     "n": "Huang Xiaolei"
+    },
+    {
+     "c": "Gertai",
+     "n": "Qi Na Ri Tu"
+    },
+    {
+     "c": "Zhi Qing",
+     "n": "Xia Xing"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jean-Jacques Annaud"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 309302,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "FR"
+   ],
+   "original_language": "zh",
+   "overview": "In 1969, a young Beijing student, Chen Zhen, is sent to live among the nomadic herdsmen of Inner Mongolia. Caught between the advance of civilization from the south and the nomads' traditional enemies - the marauding wolves - to the north; humans and animals, residents and invaders alike, struggle to find their true place in the world.",
+   "popularity": 1.3496,
+   "poster_path": "/WHE5b5pO3lLyStt5cA2vMLYPI4.jpg",
+   "production_countries": [
+    "CN",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-19",
+   "revenue": 123205624,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "mn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Wolf Totem",
+   "trailer": {
+    "key": "LIwWa-WkCak",
+    "name": "Wolf Totem - OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 412
+  },
+  "movie:340402": {
+   "backdrop_path": "/dXbV1QF2nrmrs0TLOQnNPydhwPj.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Cheryl",
+     "n": "Kimberly Elise"
+    },
+    {
+     "c": "Malachi",
+     "n": "Omar Epps"
+    },
+    {
+     "c": "Walter",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Brooks",
+     "n": "John Michael Higgins"
+    },
+    {
+     "c": "Christian",
+     "n": "Romany Malco"
+    },
+    {
+     "c": "Aunt May",
+     "n": "Mo'Nique"
+    },
+    {
+     "c": "Sonya",
+     "n": "Nicole Ari Parker"
+    },
+    {
+     "c": "Uncle Lonnie",
+     "n": "JB Smoove"
+    },
+    {
+     "c": "Rachel",
+     "n": "Gabrielle Union"
+    },
+    {
+     "c": "Evan",
+     "n": "Jessie T. Usher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David E. Talbert"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 340402,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A dysfunctional family gathers together for their first Christmas since the death of their matriarch.",
+   "popularity": 2.5809,
+   "poster_path": "/1ryK5hfzd8j3eaQVBiRBVHvHLyp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-11",
+   "revenue": 42580920,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Five days together? Oh joy.",
+   "title": "Almost Christmas",
+   "trailer": {
+    "key": "-mw-Rhm8OIw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.012,
+   "vote_count": 405
+  },
   "movie:444902": {
    "backdrop_path": "/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
    "budget": 6000000,
@@ -977,6 +1720,143 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 455
+  },
+  "movie:45202": {
+   "backdrop_path": "/3300h1Q2YjIkxsvZ65H9zVo8QNR.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Eun-yi",
+     "n": "Jeon Do-yeon"
+    },
+    {
+     "c": "Hoon",
+     "n": "Lee Jung-jae"
+    },
+    {
+     "c": "Hae-ra",
+     "n": "Seo Woo"
+    },
+    {
+     "c": "Miss Cho",
+     "n": "Youn Yuh-jung"
+    },
+    {
+     "c": "Mi-hee",
+     "n": "Park Ji-young"
+    },
+    {
+     "c": "Nami",
+     "n": "An Seo-hyun"
+    },
+    {
+     "c": "Soon-boon",
+     "n": "Hwang Jeong-min"
+    },
+    {
+     "c": "Obstetrician",
+     "n": "Moon So-ri"
+    },
+    {
+     "c": "Aunt",
+     "n": "Kim Jin-ah"
+    },
+    {
+     "c": "Herbal Medicine Shop Doctor",
+     "n": "Chae Tae-back"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Im Sang-soo"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 45202,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Eun-yi is hired as a maid in a mansion owned by a wealthy businessman. He quickly starts seducing his employee who seemingly has little choice but to comply with his sexual advances. Soon the women of the family plot against Eun-yi who must fight an equally devious battle to protect herself.",
+   "popularity": 3.6839,
+   "poster_path": "/acrlZuaS7ypiEUb3oZRA28Ox7TV.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-05-13",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "When Opportunity Knocks, Answer at Your Own Risk.",
+   "title": "The Housemaid",
+   "trailer": {
+    "key": "r62pj3gRc9k",
+    "name": "HOUSEMAID - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.319,
+   "vote_count": 403
   },
   "movie:458302": {
    "backdrop_path": "/ufzWHtqmthDV3Vq7LqqDNebq5Cn.jpg",
@@ -1110,6 +1990,554 @@
    "vote_average": 7.865,
    "vote_count": 482
   },
+  "movie:463602": {
+   "backdrop_path": "/aGAWFJ9DvlDRzz8SGW1DVplB28a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Arnolds",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Tom Arnolds",
+     "n": "Will Kemp"
+    },
+    {
+     "c": "Amado",
+     "n": "Sylvester McCoy"
+    },
+    {
+     "c": "Charlie Morgan",
+     "n": "Sam Troughton"
+    },
+    {
+     "c": "Sarah Morgan",
+     "n": "Kristen Bush"
+    },
+    {
+     "c": "Nurse",
+     "n": "Adam Lazarus"
+    },
+    {
+     "c": "Medic",
+     "n": "Susan Fordham"
+    },
+    {
+     "c": "American Nurse",
+     "n": "Charlie Bond"
+    },
+    {
+     "c": "The Night Hag",
+     "n": "William Todd-Jones"
+    },
+    {
+     "c": "Liam",
+     "n": "William Rhead"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Hopkins"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 463602,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sleep doctor tries to protect a family from a demon that feeds on people in their nightmares.",
+   "popularity": 1.9541,
+   "poster_path": "/fYbShpy94q0kbr2wqlZ0KmpcQy7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-12-01",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Slumber",
+   "trailer": {
+    "key": "yNkrHiqxJR8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.326,
+   "vote_count": 387
+  },
+  "movie:464502": {
+   "backdrop_path": "/h9USMzm43BZyUXc45OZAPlPBUjZ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Melinda Moore Gayle",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Robert Gayle",
+     "n": "Lyriq Bent"
+    },
+    {
+     "c": "Diana",
+     "n": "Crystle Stewart"
+    },
+    {
+     "c": "Sarah",
+     "n": "Danielle Nicolet"
+    },
+    {
+     "c": "Brenda",
+     "n": "Ptosha Storey"
+    },
+    {
+     "c": "June",
+     "n": "Jazmyn Simon"
+    },
+    {
+     "c": "Kalvin",
+     "n": "Kendrick Cross"
+    },
+    {
+     "c": "Casey",
+     "n": "Nelson Estevez"
+    },
+    {
+     "c": "Devon",
+     "n": "Jay Hunter"
+    },
+    {
+     "c": "Young Melinda",
+     "n": "Ajiona Alexus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tyler Perry"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 464502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Faithful wife Melinda, who is tired of standing by her devious husband Robert, is enraged when it becomes clear she has been betrayed. That's when she lost it, and now she cannot let it go.",
+   "popularity": 1.7357,
+   "poster_path": "/raz4UTUI5FPkem2j57EXOL75o6I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-30",
+   "revenue": 34800000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hell hath no fury.",
+   "title": "Acrimony",
+   "trailer": {
+    "key": "wlpunOUxYSo",
+    "name": "Tyler Perry’s Acrimony (2018 Movie) Official Trailer – Taraji P. Henson",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 426
+  },
+  "movie:487702": {
+   "backdrop_path": "/nm8d1T8HZuDSeX40m8MC4qWushR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maddy",
+     "n": "Danielle Campbell"
+    },
+    {
+     "c": "Cole",
+     "n": "Joel Courtney"
+    },
+    {
+     "c": "City",
+     "n": "Meg DeLacy"
+    },
+    {
+     "c": "Marissa",
+     "n": "Madelaine Petsch"
+    },
+    {
+     "c": "Sweats",
+     "n": "Michael Chey"
+    },
+    {
+     "c": "Kane",
+     "n": "Cameron Palatas"
+    },
+    {
+     "c": "TJ",
+     "n": "Luke Bilyk"
+    },
+    {
+     "c": "Nick",
+     "n": "Aidan Alexander"
+    },
+    {
+     "c": "Ken",
+     "n": "Ian Ziering"
+    },
+    {
+     "c": "Principal Statszill",
+     "n": "Nicholle Tom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Benny Fine"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 487702,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Maddy and Cole were inseparable friends until high school started and Maddy became the most popular girl on campus. When she starts feeling lonely and heartbroken, she reconnects with Cole and the duo conspire to destroy the ultimate teen popularity contest",
+   "popularity": 1.1068,
+   "poster_path": "/9cMl1QLOAAqlcws0er1sgXOGlab.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-12-05",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "F the Prom",
+   "trailer": {
+    "key": "6j-s9E3dRQ0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 420
+  },
+  "movie:498402": {
+   "backdrop_path": "/vlrRGSoCpoSoVzX9Y1JS6rni3Ym.jpg",
+   "budget": 25900000,
+   "cast": [
+    {
+     "c": "Aline Dieu",
+     "n": "Valérie Lemercier"
+    },
+    {
+     "c": "Guy-Claude Camard",
+     "n": "Sylvain Marcel"
+    },
+    {
+     "c": "Anglomard Dieu, 18 Years",
+     "n": "Arnaud Préchac"
+    },
+    {
+     "c": "Jean-Claudin Dieu",
+     "n": "Denis Lefrançois"
+    },
+    {
+     "c": "Sylvette Dieu",
+     "n": "Danielle Fichaud"
+    },
+    {
+     "c": "Anglomard Dieu",
+     "n": "Roc LaFortune"
+    },
+    {
+     "c": "Jean-Bobin Dieu",
+     "n": "Antoine Vézina"
+    },
+    {
+     "c": "Martine Lévêque",
+     "n": "Sonia Vachon"
+    },
+    {
+     "c": "Jeannette Dieu",
+     "n": "Pascale Desrochers"
+    },
+    {
+     "c": "Aline (singing voice)",
+     "n": "Victoria Sio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Valérie Lemercier"
+   ],
+   "genres": [
+    "Music",
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 498402,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A fictionalized biopic of Aline Dieu, a multitalented singer from a musically inclined family.",
+   "popularity": 1.8273,
+   "poster_path": "/9FC1wqVpaWvaIcAbu6bIYgFDu1z.jpg",
+   "production_countries": [
+    "FR",
+    "CA",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-10",
+   "revenue": 11131254,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Aline",
+   "trailer": {
+    "key": "_KqpF-VUyB4",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 406
+  },
   "movie:61202": {
    "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
    "budget": 7700000,
@@ -1218,6 +2646,448 @@
    "type": "movie",
    "vote_average": 7.64,
    "vote_count": 449
+  },
+  "movie:699102": {
+   "backdrop_path": "/2VnghbG2qWChcE6CdZBMDtDQKCF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Avery",
+     "n": "Bailee Madison"
+    },
+    {
+     "c": "Will Hawkins",
+     "n": "Kevin G. Quinn"
+    },
+    {
+     "c": "Kristin",
+     "n": "Sherri Shepherd"
+    },
+    {
+     "c": "David",
+     "n": "David Koechner"
+    },
+    {
+     "c": "George",
+     "n": "Jahbril Cook"
+    },
+    {
+     "c": "Presley",
+     "n": "Kat Conner Sterling"
+    },
+    {
+     "c": "Sean",
+     "n": "Iain Tucker"
+    },
+    {
+     "c": "Mark",
+     "n": "Ed Amatrudo"
+    },
+    {
+     "c": "Timmy",
+     "n": "Hutch Greene"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Josh Rasile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Roman White"
+   ],
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 699102,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.",
+   "popularity": 1.1895,
+   "poster_path": "/htTS07IvYv3rv57ftzNEprefwSq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-03-26",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Week Away",
+   "trailer": {
+    "key": "dpLaoYw8xug",
+    "name": "A Week Away | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 414
+  },
+  "movie:759902": {
+   "backdrop_path": "/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne Mersault",
+     "n": "Camille Sullivan"
+    },
+    {
+     "c": "Renee Mersault",
+     "n": "Summer H. Howell"
+    },
+    {
+     "c": "Joseph Mersault",
+     "n": "Devon Sawa"
+    },
+    {
+     "c": "Lou",
+     "n": "Nick Stahl"
+    },
+    {
+     "c": "Danny Barthes",
+     "n": "Gabriel Daniels"
+    },
+    {
+     "c": "Lucy",
+     "n": "Lauren Cochrane"
+    },
+    {
+     "c": "Tina",
+     "n": "Jade Michael"
+    },
+    {
+     "c": "Greg",
+     "n": "Erik Athavale"
+    },
+    {
+     "c": "Smith",
+     "n": "Karl Thordarson"
+    },
+    {
+     "c": "Cully",
+     "n": "Blake Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Shawn Linden"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 759902,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness, but they soon become increasingly worried when their peaceful existence is disrupted.",
+   "popularity": 2.2948,
+   "poster_path": "/j52lKBGoHGmUJNUMsDV5kHOkMfC.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-07-29",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hunt or be hunted.",
+   "title": "Hunter Hunter",
+   "trailer": {
+    "key": "qNNPwkRE9SM",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 393
+  },
+  "movie:829402": {
+   "backdrop_path": "/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ken Sato / Ultraman (voice)",
+     "n": "Christopher Sean"
+    },
+    {
+     "c": "Professor Sato / Ultradad (voice)",
+     "n": "Gedde Watanabe"
+    },
+    {
+     "c": "Mina / Emiko Sato (voice)",
+     "n": "Tamlyn Tomita"
+    },
+    {
+     "c": "Dr. Onda (voice)",
+     "n": "Keone Young"
+    },
+    {
+     "c": "Ami Wakita (voice)",
+     "n": "Julia Harriman"
+    },
+    {
+     "c": "Kenji (voice)",
+     "n": "Hiro Nakamura"
+    },
+    {
+     "c": "Game Commentator (voice)",
+     "n": "Rob Fukuzaki"
+    },
+    {
+     "c": "Announcer / Additional Voices (voice)",
+     "n": "Frank Buckley"
+    },
+    {
+     "c": "Itow-san / Additional Voices (voice)",
+     "n": "François Chau"
+    },
+    {
+     "c": "Kubo-san (voice)",
+     "n": "Robert Yasumura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Shannon Tindle"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Family",
+    "Action"
+   ],
+   "id": 829402,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "JP"
+   ],
+   "original_language": "en",
+   "overview": "A star athlete reluctantly returns home to take over his father's duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.",
+   "popularity": 2.9756,
+   "poster_path": "/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-06-14",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Big hero. Bigger responsibility.",
+   "title": "Ultraman: Rising",
+   "trailer": {
+    "key": "TwXgOMDONK8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.976,
+   "vote_count": 415
   },
   "movie:931102": {
    "backdrop_path": "/7vLjt0NthBRvNDv9PVie8KpBWOJ.jpg",

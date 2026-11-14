@@ -1,7 +1,122 @@
 {
  "bucket": "71",
- "count": 36,
+ "count": 47,
  "titles": {
+  "movie:100271": {
+   "backdrop_path": "/2vc5hXc4pMXcKOOsOuyI2MQ1AdK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Momo Miyaura (voice)",
+     "n": "Karen Miyama"
+    },
+    {
+     "c": "Ikuko Miyaura (voice)",
+     "n": "Yûka"
+    },
+    {
+     "c": "Iwa (voice)",
+     "n": "Toshiyuki Nishida"
+    },
+    {
+     "c": "Kawa (voice)",
+     "n": "Koichi Yamadera"
+    },
+    {
+     "c": "Mame (voice)",
+     "n": "Cho"
+    },
+    {
+     "c": "Great Grandfather (voice)",
+     "n": "Yoshisada Sakaguchi"
+    },
+    {
+     "c": "Great Grandmother (voice)",
+     "n": "Ikuko Tani"
+    },
+    {
+     "c": "Koichi (voice)",
+     "n": "Takeo Ogawa"
+    },
+    {
+     "c": "Kazuo Miyaura (voice)",
+     "n": "Daizaburō Arakawa"
+    },
+    {
+     "c": "Yota (voice)",
+     "n": "Kota Fuji"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hiroyuki Okiura"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "id": 100271,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A shy 11-year-old's life takes a strange turn when she discovers three hungry goblins living in the attic of her new house. She misses her old life. She misses her father so very much. Until she makes some new ghoulish friends.",
+   "popularity": 2.2964,
+   "poster_path": "/uH4c5t3Wzzv41Wq9ws2Q47N1Dzo.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-04-21",
+   "revenue": 6748888,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A letter that ties the bond between them.",
+   "title": "A Letter to Momo",
+   "trailer": {
+    "key": "p93ArHyvzLw",
+    "name": "A LETTER TO MOMO trailer | Festival 2011",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.34,
+   "vote_count": 419
+  },
   "movie:1049471": {
    "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
    "budget": 80000000,
@@ -115,6 +230,115 @@
    "vote_average": 5.343,
    "vote_count": 277
   },
+  "movie:10571": {
+   "backdrop_path": "/drGRSAuWsB6iOR9USZPTTCAibJQ.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Ryan Walker",
+     "n": "Freddie Prinze Jr."
+    },
+    {
+     "c": "Jennifer Burrows",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Hunter / Steve",
+     "n": "Jason Biggs"
+    },
+    {
+     "c": "Amy",
+     "n": "Amanda Detmer"
+    },
+    {
+     "c": "Betty",
+     "n": "Alyson Hannigan"
+    },
+    {
+     "c": "Young Ryan Walker",
+     "n": "Brendon Ryan Barrett"
+    },
+    {
+     "c": "N.Y. Flight Attendant",
+     "n": "Gay Thomas Wilson"
+    },
+    {
+     "c": "Young Jennifer Burrows",
+     "n": "Raquel Beaudene"
+    },
+    {
+     "c": "Homecoming King",
+     "n": "David Smigelski"
+    },
+    {
+     "c": "Homecoming Knight",
+     "n": "Blake Shields"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Iscove"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 10571,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ryan and Jennifer are opposites who definitely do not attract. At least that's what they always believed. When they met as twelve-year-olds, they disliked one another. When they met again as teenagers, they loathed each other. But when they meet in college, the uptight Ryan and the free-spirited Jennifer find that their differences bind them together and a rare friendship develops.",
+   "popularity": 1.5733,
+   "poster_path": "/gdVnV2wSESbgrXX4uRD3J0D8dBo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-06-16",
+   "revenue": 20627372,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Warning: Sex Changes Everything",
+   "title": "Boys and Girls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 435
+  },
   "movie:10671": {
    "backdrop_path": "/4h4UaUk0ENBR9mdttafE1q4fkeI.jpg",
    "budget": 10000000,
@@ -212,6 +436,136 @@
    "type": "movie",
    "vote_average": 6.463,
    "vote_count": 480
+  },
+  "movie:1072371": {
+   "backdrop_path": "/xCXMHUMQJess3GACbR2PQI7sjeH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Milton Robinson",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Sandy",
+     "n": "Harriet Sansom Harris"
+    },
+    {
+     "c": "Joyce",
+     "n": "Jane Curtin"
+    },
+    {
+     "c": "Jules",
+     "n": "Jade Quon"
+    },
+    {
+     "c": "Mayor Martinez",
+     "n": "Teddy Cañez"
+    },
+    {
+     "c": "Councilwoman Wu",
+     "n": "Narea Kang"
+    },
+    {
+     "c": "Councilman Daniels",
+     "n": "Edward James Hyland"
+    },
+    {
+     "c": "Councilwoman Diane Strauss",
+     "n": "Blair Baker"
+    },
+    {
+     "c": "Steve Gorham",
+     "n": "Joshua Moore"
+    },
+    {
+     "c": "Engineer",
+     "n": "John Skelley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Marc Turtletaub"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 1072371,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A flying saucer lands in the backyard of an elderly suburbanite with memory problems, who forms a bond with the scared alien inside.",
+   "popularity": 1.9172,
+   "poster_path": "/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-08-11",
+   "revenue": 2000000,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You won't believe what just crashed into Milton's azaleas.",
+   "title": "Jules",
+   "trailer": {
+    "key": "ptlS4hmrDyE",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.089,
+   "vote_count": 425
   },
   "movie:11071": {
    "backdrop_path": "/bW83NQMHtgFIkDSoZBer4eEnc9V.jpg",
@@ -1004,6 +1358,198 @@
    "vote_average": 7.0,
    "vote_count": 33
   },
+  "movie:22171": {
+   "backdrop_path": "/vXrZ7pyHHQGBSyfXC791b62Ouxv.jpg",
+   "budget": 62000,
+   "cast": [
+    {
+     "c": "Thana",
+     "n": "Zoë Lund"
+    },
+    {
+     "c": "Albert",
+     "n": "Albert Sinkys"
+    },
+    {
+     "c": "Laurie",
+     "n": "Darlene Stuto"
+    },
+    {
+     "c": "1st Rapist",
+     "n": "Abel Ferrara"
+    },
+    {
+     "c": "Carol",
+     "n": "Helen McGara"
+    },
+    {
+     "c": "Mrs. Nasone",
+     "n": "Editta Sherman"
+    },
+    {
+     "c": "Photographer",
+     "n": "Stephen Singer"
+    },
+    {
+     "c": "Seamstress",
+     "n": "Jayne Kennedy"
+    },
+    {
+     "c": "Man in Bar",
+     "n": "Jack Thibeau"
+    },
+    {
+     "c": "Pamela",
+     "n": "Nike Zachmanoglou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Abel Ferrara"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action"
+   ],
+   "id": 22171,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being attacked and raped twice in one day, a timid, mute seamstress becomes a violent agent of revenge for wronged women.",
+   "popularity": 2.9392,
+   "poster_path": "/9ulPP8hcBjIrWRqeXsZVjL0uX3E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-04-24",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She was abused and violated. It will never happen again!",
+   "title": "Ms .45",
+   "trailer": {
+    "key": "_-Ey6mjaARA",
+    "name": "Official Arrow Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 424
+  },
   "movie:235271": {
    "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
    "budget": 0,
@@ -1119,6 +1665,360 @@
    "type": "movie",
    "vote_average": 5.906,
    "vote_count": 468
+  },
+  "movie:241771": {
+   "backdrop_path": "/2RZIAureYbJCCqyduAgM1RwtRRl.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Noni Jean",
+     "n": "Gugu Mbatha-Raw"
+    },
+    {
+     "c": "Kazaam Nicol",
+     "n": "Nate Parker"
+    },
+    {
+     "c": "Macy Jean",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Kid Culprit",
+     "n": "mgk"
+    },
+    {
+     "c": "Captain Nicol",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Trey",
+     "n": "Aml Ameen"
+    },
+    {
+     "c": "Jesse Soria",
+     "n": "Benito Martinez"
+    },
+    {
+     "c": "J Stanley",
+     "n": "Aisha Hinds"
+    },
+    {
+     "c": "Noni (age 10)",
+     "n": "India Jean-Jacques"
+    },
+    {
+     "c": "Quentin",
+     "n": "Darryl Stephens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gina Prince-Bythewood"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 241771,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Noni Jean is a hot new rising star. But not all is what it seems, and the pressure causes Noni to nearly fall apart - until she meets Kaz Nicol, a promising young cop and aspiring politician who's been assigned to her detail. Can Kaz's love give Noni the courage to find her own voice and break free to become the artist she was meant to be?",
+   "popularity": 1.6299,
+   "poster_path": "/5Di9UXTa2bDec68WOFcZzgB1ot3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-11-14",
+   "revenue": 14600000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Open your heart, find your voice.",
+   "title": "Beyond the Lights",
+   "trailer": {
+    "key": "6FSwSgzsVEk",
+    "name": "Beyond the Lights - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.769,
+   "vote_count": 398
+  },
+  "movie:24271": {
+   "backdrop_path": "/ihURVgowKHaXGBsl8ltglt4numm.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Charles Peterson",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Roger Barlow",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "George McLendon",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Rose Barlow",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Needlebaum",
+     "n": "Philip Dorn Hebert"
+    },
+    {
+     "c": "Curator",
+     "n": "Todd Weeks"
+    },
+    {
+     "c": "Donnie",
+     "n": "Bhavesh Patel"
+    },
+    {
+     "c": "Bob",
+     "n": "Stephen Stapinski"
+    },
+    {
+     "c": "Starving Artist",
+     "n": "Breckin Meyer"
+    },
+    {
+     "c": "Docent",
+     "n": "Wynn Everett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Hewitt"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 24271,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A comedy centered on three museum security guards who devise a plan to steal back the artworks to which they have become attached after they are transferred to another museum.",
+   "popularity": 1.7442,
+   "poster_path": "/vrp0dqlp74A02YaUiwNpLElgTR0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-05-09",
+   "revenue": 96008,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're not bad guys, just bad thieves.",
+   "title": "The Maiden Heist",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 396
+  },
+  "movie:293771": {
+   "backdrop_path": "/hnb70qJz3UpsqqTTtJYPGTmOtCv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chase Carter",
+     "n": "Jesse Metcalfe"
+    },
+    {
+     "c": "Crystal O'Rourke",
+     "n": "Meghan Ory"
+    },
+    {
+     "c": "Maggie",
+     "n": "Virginia Madsen"
+    },
+    {
+     "c": "Jordan Blair",
+     "n": "Keegan Connor Tracy"
+    },
+    {
+     "c": "Logan",
+     "n": "Aleks Paunovic"
+    },
+    {
+     "c": "General Alan Lyons",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Susan Collier",
+     "n": "Carrie Genzel"
+    },
+    {
+     "c": "Frank West",
+     "n": "Rob Riggle"
+    },
+    {
+     "c": "Shearson",
+     "n": "Reese Alexander"
+    },
+    {
+     "c": "BBQ Biker",
+     "n": "Harley Morenstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zach Lipovsky"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 293771,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An ineffective vaccine fails to stop an epidemic which is turning people into zombies. The survivors organize themselves to escape from the living dead.",
+   "popularity": 2.3221,
+   "poster_path": "/AgCWjDAoUDAp6IGDlgBGtc7hfG0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7PA53D4QBgDzEe2JGRiZDFjPNG1.png",
+     "name": "Channel 101 Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-03-27",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Quarantined City. A Deadly Conspiracy.",
+   "title": "Dead Rising: Watchtower",
+   "trailer": {
+    "key": "c8pcAnOTwPI",
+    "name": "Dead Rising: Watchtower - OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.156,
+   "vote_count": 395
   },
   "movie:296271": {
    "backdrop_path": "/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
@@ -1246,6 +2146,242 @@
    "type": "movie",
    "vote_average": 6.406,
    "vote_count": 499
+  },
+  "movie:374671": {
+   "backdrop_path": "/6v9G4Sc5ciRUoJ2wkutX3JBQj9K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ryota Shinoda",
+     "n": "Hiroshi Abe"
+    },
+    {
+     "c": "Yoshiko Shinoda",
+     "n": "Kirin Kiki"
+    },
+    {
+     "c": "Kyoko Shiraishi",
+     "n": "Yoko Maki"
+    },
+    {
+     "c": "Shingo Shiraishi",
+     "n": "Taiyo Yoshizawa"
+    },
+    {
+     "c": "Chinatsu Nakashima",
+     "n": "Satomi Kobayashi"
+    },
+    {
+     "c": "Kento Machida",
+     "n": "Sosuke Ikematsu"
+    },
+    {
+     "c": "Koichiro Yamabe",
+     "n": "Lily Franky"
+    },
+    {
+     "c": "Mitsuru Niida",
+     "n": "Isao Hashizume"
+    },
+    {
+     "c": "Miyoshi",
+     "n": "Kanji Furutachi"
+    },
+    {
+     "c": "Sanada",
+     "n": "Shono Hayama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 374671,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ryota is an unpopular writer although he won a literary award 15 years ago. Now, Ryota works as a private detective. He is divorced from his ex-wife Kyoko and he has an 11-year-old son Shingo. His mother Yoshiko lives alone at her apartment. One day, Ryota, his ex-wife Kyoko, and son Shingo gather at Yoshiko's apartment. A typhoon passes and the family must stay there all night long.",
+   "popularity": 2.3132,
+   "poster_path": "/uwpBfqI1xPkSWD5PYlwypoBIkpz.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-05-21",
+   "revenue": 272132,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "After the Storm",
+   "trailer": {
+    "key": "DwJcIoFuhto",
+    "name": "AFTER THE STORM Trailer with English subtitles",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.203,
+   "vote_count": 414
+  },
+  "movie:39371": {
+   "backdrop_path": "/dKZSzoNufvLVgClNunVqfhgJem7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oronzo Canà",
+     "n": "Lino Banfi"
+    },
+    {
+     "c": "Presidente Borlotti",
+     "n": "Camillo Milli"
+    },
+    {
+     "c": "Andrea Bergonzoni",
+     "n": "Andrea Roncato"
+    },
+    {
+     "c": "Giginho",
+     "n": "Gigi Sammarchi"
+    },
+    {
+     "c": "Mara Canà",
+     "n": "Giuliana Calandra"
+    },
+    {
+     "c": "Michelina Canà",
+     "n": "Stefania Spugnini"
+    },
+    {
+     "c": "Suocera di Canà",
+     "n": "Viviana Larice"
+    },
+    {
+     "c": "Marilde Borlotti",
+     "n": "Licinia Lentini"
+    },
+    {
+     "c": "Ceretti",
+     "n": "Franco Caracciolo"
+    },
+    {
+     "c": "Speroni",
+     "n": "Stefano Davanzati"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Sergio Martino"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 39371,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Oronzo Canà is called to coach Longobarda, the football team of a small town of Northern Italy, newly promoted to the First Division. His only task is not to be relegated, but Longobarda's owner plots against him, finding the team's current ranking far too expensive, and his top Brazilian striker is affected by a deep saudade.",
+   "popularity": 0.7594,
+   "poster_path": "/kgSJzoh9HALYx4nJxnkZGPZeK2y.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1984-10-26",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "L'allenatore nel pallone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 408
   },
   "movie:4271": {
    "backdrop_path": "/veVadjT1OFnU34KOupKy8pUFp7o.jpg",
@@ -1755,6 +2891,339 @@
    "type": "movie",
    "vote_average": 6.963,
    "vote_count": 488
+  },
+  "movie:801071": {
+   "backdrop_path": "/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edgar Marsdale",
+     "n": "Matt McClure"
+    },
+    {
+     "c": "Amy Proctor",
+     "n": "Mollie Hindle-Pérez"
+    },
+    {
+     "c": "Jack",
+     "n": "James Swanton"
+    },
+    {
+     "c": "Olga Marsdale",
+     "n": "Nicola Wright"
+    },
+    {
+     "c": "Doctor Clarke",
+     "n": "Nicholas Anscombe"
+    },
+    {
+     "c": "Janet",
+     "n": "Michaela Longden"
+    },
+    {
+     "c": "Stacey",
+     "n": "Erina Mashate"
+    },
+    {
+     "c": "Frank",
+     "n": "Jason Farries"
+    },
+    {
+     "c": "Issac Huxley",
+     "n": "Victor Mellors"
+    },
+    {
+     "c": "The Chauffeur",
+     "n": "Ben Walters"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Lawrence Fowler"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 801071,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.",
+   "popularity": 1.6818,
+   "poster_path": "/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-24",
+   "revenue": 1147001,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Once you open the box... you can't escape it.",
+   "title": "The Jack in the Box: Awakening",
+   "trailer": {
+    "key": "7InYvYQq8DU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.245,
+   "vote_count": 396
+  },
+  "movie:884971": {
+   "backdrop_path": "/hHwWcz2tcZXbGekTjAEd5xKbHd4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Patrick Fameau",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Mathias Rozen",
+     "n": "Pierre Niney"
+    },
+    {
+     "c": "France",
+     "n": "Emmanuelle Bercot"
+    },
+    {
+     "c": "Paul",
+     "n": "Laurent Stocker"
+    },
+    {
+     "c": "Zef",
+     "n": "Yannick Renier"
+    },
+    {
+     "c": "Lucie Tauran",
+     "n": "Chloé Stefani"
+    },
+    {
+     "c": "Audrey",
+     "n": "Marie Gillain"
+    },
+    {
+     "c": "Richard Vannec",
+     "n": "Jacques Perrin"
+    },
+    {
+     "c": "Nadia",
+     "n": "Heidi-Éva Clavier"
+    },
+    {
+     "c": "Abel",
+     "n": "Malik Amraoui"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Frédéric Tellier"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 884971,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Patrick is a tenacious lawyer specializing in environmental law. France is a schoolteacher who becomes an activist after her husband develops cancer from exposure to a pesticide. Mathias is an ambitious lobbyist working for an international chemical corporation. The paths of these characters collide as the lives of thousands are affected by a tragic act that sparks a powerful movement while the corporation fights to prevent the truth from being revealed.",
+   "popularity": 0.9998,
+   "poster_path": "/qjoOtXctgy2TeonJ66STfukizTN.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-09",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The truth can’t be silenced forever",
+   "title": "Goliath",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.829,
+   "vote_count": 413
   },
   "tv:105971": {
    "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",

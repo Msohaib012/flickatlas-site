@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 29,
+ "count": 36,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -1127,6 +1127,130 @@
    "vote_average": 6.673,
    "vote_count": 75
   },
+  "movie:18095": {
+   "backdrop_path": "/9VkUkhD1P1tZ27bZNoABjvqlmLZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Gokû Jr. / Son Gokû",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Pan (voice)",
+     "n": "Yuko Minaguchi"
+    },
+    {
+     "c": "Gettô (voice)",
+     "n": "Shin Aomori"
+    },
+    {
+     "c": "Rakkaru (voice)",
+     "n": "Kazuyuki Sogabe"
+    },
+    {
+     "c": "Manba (voice)",
+     "n": "Miki Ito"
+    },
+    {
+     "c": "Yô-maô (voice)",
+     "n": "Ryuuzaburou Ootomo"
+    },
+    {
+     "c": "Pakku (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Driver (voice)",
+     "n": "Yasuhiko Kawazu"
+    },
+    {
+     "c": "Henchman A (voice)",
+     "n": "Yoshiyuki Kono"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Osamu Kasai"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Animation",
+    "Science Fiction"
+   ],
+   "id": 18095,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Son Goku Jr. is the great-great-grandson of the legendary martial artist Son Goku. However, unlike his predecessor he's not a brave fighter. He's constantly picked on by school bullies, his grandmother Pan sees this and she's worried, but even though Goku Jr. is not a strong and powerful Saiyan, he has a kind heart, and Pan loves him. When Pan gets sick Goku Jr. realizes he must do something if he doesn't want to lose Pan. Then he will remember about the legends of the Dragon Balls. It was told they granted a wish to the bearer, Goku Jr. needs a magical wish more than ever.",
+   "popularity": 3.4563,
+   "poster_path": "/reNPMjkPg9f6wgf6kHSSkKjBarL.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-03-26",
+   "revenue": 0,
+   "runtime": 45,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Honor. Perseverance. Dedication. The courage to do what is right.",
+   "title": "Dragon Ball GT: A Hero's Legacy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.965,
+   "vote_count": 404
+  },
   "movie:294795": {
    "backdrop_path": "/8KFAnl84oi6QSjFDCIGFgZPiOph.jpg",
    "budget": 0,
@@ -1230,6 +1354,589 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 495
+  },
+  "movie:328595": {
+   "backdrop_path": "/4GbCLy8uia4nwc39CHOT0XHjnpY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ronan Carver",
+     "n": "Mark Hapka"
+    },
+    {
+     "c": "Beatrix Carver",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Harold",
+     "n": "Eric Jungmann"
+    },
+    {
+     "c": "Polly",
+     "n": "Constance Wu"
+    },
+    {
+     "c": "Alex Carver",
+     "n": "Yorgo Constantine"
+    },
+    {
+     "c": "Chief Stone",
+     "n": "Davi Jay"
+    },
+    {
+     "c": "Tinkler",
+     "n": "Michael Monks"
+    },
+    {
+     "c": "Mike",
+     "n": "Ian Casselberry"
+    },
+    {
+     "c": "Dispatch",
+     "n": "B.J. Grogan"
+    },
+    {
+     "c": "Paramedic Sal",
+     "n": "Han Soto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Christopher Leone"
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "id": 328595,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An underground MMA fighter must confront his sister and his past in an adventure through parallel universes",
+   "popularity": 0.6734,
+   "poster_path": "/fqUallsX9KSSey1tw7AbujlOmOa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-03-01",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What is the building?",
+   "title": "Parallels",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.011,
+   "vote_count": 413
+  },
+  "movie:428495": {
+   "backdrop_path": "/tUVpn0woaiBLkeCkBigoRvO1iwh.jpg",
+   "budget": 4250000,
+   "cast": [
+    {
+     "c": "Noredin",
+     "n": "Fares Fares"
+    },
+    {
+     "c": "Salwa",
+     "n": "Mari Malek"
+    },
+    {
+     "c": "Kammal Mustafa",
+     "n": "Yasser Ali Maher"
+    },
+    {
+     "c": "Green Eyed Man",
+     "n": "Slimane Dazi"
+    },
+    {
+     "c": "Gina",
+     "n": "Hania Amar"
+    },
+    {
+     "c": "Nagy",
+     "n": "Hichem Yacoubi"
+    },
+    {
+     "c": "Momo",
+     "n": "Mohamed Yousry"
+    },
+    {
+     "c": "Noredin's Father",
+     "n": "Mohamed Sanaaeldin Shafie"
+    },
+    {
+     "c": "Doorman Saleh",
+     "n": "Ahmed Abdelhamid Hefny"
+    },
+    {
+     "c": "Yosef",
+     "n": "Nael Ali"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Tarik Saleh"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "id": 428495,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "DK",
+    "MA",
+    "FR",
+    "SE"
+   ],
+   "original_language": "en",
+   "overview": "Cairo, 2011. A police officer investigates the murder of a woman in a luxurious hotel in the days leading up to the Egyptian revolution.",
+   "popularity": 1.7902,
+   "poster_path": "/fcQOeSQV6flz28ybZCkcmCsdqkR.jpg",
+   "production_countries": [
+    "DK",
+    "FR",
+    "DE",
+    "MA",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Strand Releasing Amazon Channel"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-06-19",
+   "revenue": 81089,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Nile Hilton Incident",
+   "trailer": {
+    "key": "IL5xTf8tfWQ",
+    "name": "The Nile Hilton Incident - Official Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.618,
+   "vote_count": 416
+  },
+  "movie:4495": {
+   "backdrop_path": "/4vbL72K9uVaMLhnvmdg1So7kqex.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ana",
+     "n": "Ana Torrent"
+    },
+    {
+     "c": "Fernando",
+     "n": "Fernando Fernán Gómez"
+    },
+    {
+     "c": "Teresa",
+     "n": "Teresa Gimpera"
+    },
+    {
+     "c": "Isabel",
+     "n": "Isabel Tellería"
+    },
+    {
+     "c": "Doña Lucía",
+     "n": "Laly Soldevila"
+    },
+    {
+     "c": "Médico",
+     "n": "Miguel Picazo"
+    },
+    {
+     "c": "Frankenstein",
+     "n": "José Villasante"
+    },
+    {
+     "c": "Fugitivo",
+     "n": "Juan Margallo"
+    },
+    {
+     "c": "Guardia civil",
+     "n": "Estanis González"
+    },
+    {
+     "c": "Milagros, la criada",
+     "n": "Ketty de la Cámara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Víctor Erice"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 4495,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "In 1940, in the immediate aftermath of the Spanish Civil War, a young girl living on the Castilian plain is haunted after attending a screening of James Whale's 1931 film Frankenstein and hearing from her sister that the monster is not dead, instead existing as a spirit inhabiting a nearby barn.",
+   "popularity": 2.0427,
+   "poster_path": "/o6pUTkoCh4r6EA2dHNFKA40OmH2.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-10-08",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Spirit of the Beehive",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 424
+  },
+  "movie:451995": {
+   "backdrop_path": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Agnès Varda"
+    },
+    {
+     "c": "Self",
+     "n": "JR"
+    },
+    {
+     "c": "Self",
+     "n": "Patricia Mercier"
+    },
+    {
+     "c": "Self",
+     "n": "Amaury Bossy"
+    },
+    {
+     "c": "Self",
+     "n": "Claude Flaert"
+    },
+    {
+     "c": "Self",
+     "n": "Clemens Van Dungern"
+    },
+    {
+     "c": "Self",
+     "n": "Didier Campy Comte"
+    },
+    {
+     "c": "Self",
+     "n": "Jacky Patin"
+    },
+    {
+     "c": "Self",
+     "n": "Jean-Luc Godard"
+    },
+    {
+     "c": "Self",
+     "n": "Jeannine Carpentier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Agnès Varda",
+    "JR"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 451995,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Director Agnès Varda and photographer/muralist JR journey through rural France and form an unlikely friendship.",
+   "popularity": 2.215,
+   "poster_path": "/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-06-28",
+   "revenue": 1108983,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Faces Places",
+   "trailer": {
+    "key": "P7rFMO7ODBk",
+    "name": "Faces Places | Official US Trailer | Academy Award Nominee",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 432
   },
   "movie:5595": {
    "backdrop_path": "/64I5NOLvPDrO4qVTHk0c09vWYmt.jpg",
@@ -1420,6 +2127,95 @@
    "vote_average": 6.27,
    "vote_count": 437
   },
+  "movie:654895": {
+   "backdrop_path": "/ljYHyD0ZOQqIKDjRyxHYzlmvY2t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gianni",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Chiara",
+     "n": "Miriam Leone"
+    },
+    {
+     "c": "Luciana",
+     "n": "Vanessa Scalera"
+    },
+    {
+     "c": "Padre di Gianni",
+     "n": "Michele Placido"
+    },
+    {
+     "c": "Dante",
+     "n": "Pietro Sermonti"
+    },
+    {
+     "c": "Alessia",
+     "n": "Pilar Fogliati"
+    },
+    {
+     "c": "don Walter",
+     "n": "Andrea Pennacchi"
+    },
+    {
+     "c": "Fabio",
+     "n": "Giulio Base"
+    },
+    {
+     "c": "Nonna",
+     "n": "Piera Degli Esposti"
+    },
+    {
+     "c": "",
+     "n": "Carlo Luca De Ruggieri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Riccardo Milani"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 654895,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Gianni is a serial seducer but his life is destined to change when he meets Chiara, a beautiful woman who has had an accident and is paraplegic.",
+   "popularity": 0.8266,
+   "poster_path": "/vWgcIHKARoGFtbEPP9Ut7y2fmoP.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-17",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Run to You",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.758,
+   "vote_count": 399
+  },
   "movie:66195": {
    "backdrop_path": "/3ubIRrPOmLg74gjgSUwXEXdHhSR.jpg",
    "budget": 500000,
@@ -1608,6 +2404,104 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 492
+  },
+  "movie:668195": {
+   "backdrop_path": "/jbIDQPQ0XEtIV2nGXUQunhxWjst.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandro",
+     "n": "Aniello Arena"
+    },
+    {
+     "c": "Angelo",
+     "n": "Ciro Nacca"
+    },
+    {
+     "c": "Gabbiano",
+     "n": "Daniele Vicorito"
+    },
+    {
+     "c": "Barabba",
+     "n": "Salvatore Pelliccia"
+    },
+    {
+     "c": "Terry",
+     "n": "Antonia Truppo"
+    },
+    {
+     "c": "Ciro",
+     "n": "Angelo Caianiello"
+    },
+    {
+     "c": "Chabbum",
+     "n": "Giuseppe Cirillo"
+    },
+    {
+     "c": "Ultras Diffidato",
+     "n": "Grimaldi Teodoro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Francesco Lettieri"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 668195,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "An aging soccer fanatic faces down the reality of his past while struggling to give himself and a young follower very different futures.",
+   "popularity": 0.8872,
+   "poster_path": "/vHqpFuguBugZZfXIyjsb4tOAXve.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-09",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ultras",
+   "trailer": {
+    "key": "i-99BoYyUoI",
+    "name": "Ultras | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 433
   },
   "tv:119495": {
    "backdrop_path": "/htD5SJpPOvkmAowU80KrWnN59WO.jpg",

@@ -1,7 +1,173 @@
 {
  "bucket": "25",
- "count": 28,
+ "count": 37,
  "titles": {
+  "movie:10425": {
+   "backdrop_path": "/o1QOSrwY9cjkEi1f9RL3tYxUFta.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Tim Kearney",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Tad Gruzsa",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Bobby Z",
+     "n": "Jason Lewis"
+    },
+    {
+     "c": "Duke",
+     "n": "Michael Bowen"
+    },
+    {
+     "c": "Drug dealer",
+     "n": "Richard Bairos"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Jarrod Bunch"
+    },
+    {
+     "c": "Surfer Girl",
+     "n": "Shirly Brener"
+    },
+    {
+     "c": "Johnson",
+     "n": "Keith Carradine"
+    },
+    {
+     "c": "Maddog",
+     "n": "Chuck Liddell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Herzfeld"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 10425,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A DEA agent provides former Marine Tim Kearney with a way out of his prison sentence: impersonate Bobby Z, a recently deceased drug dealer, in a hostage switch with a crime lord. When the negotiations go awry, Kearney flees, with Z's son in tow.",
+   "popularity": 2.5146,
+   "poster_path": "/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-23",
+   "revenue": 413454,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To live a life of his own, he has to die first.",
+   "title": "The Death and Life of Bobby Z",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.166,
+   "vote_count": 419
+  },
   "movie:1261825": {
    "backdrop_path": "/haAekI7zBtffqILr90DkviTe9fk.jpg",
    "budget": 0,
@@ -337,6 +503,181 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 51
+  },
+  "movie:13825": {
+   "backdrop_path": "/g3aLgQI4aw7aCucYSqXM4CzNYMu.jpg",
+   "budget": 9750000,
+   "cast": [
+    {
+     "c": "Ben Garvey",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Lisa Garvey",
+     "n": "Piper Perabo"
+    },
+    {
+     "c": "Avery",
+     "n": "Lambert Wilson"
+    },
+    {
+     "c": "Julie Ingram",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Ricky Garvey",
+     "n": "Shawn Hatosy"
+    },
+    {
+     "c": "Father Ezra",
+     "n": "Bob Gunton"
+    },
+    {
+     "c": "Robbie",
+     "n": "Malcolm Goodwin"
+    },
+    {
+     "c": "Katie Garvey",
+     "n": "Brooklynn Proulx"
+    },
+    {
+     "c": "William Reeds",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Dr. James",
+     "n": "Ross McMillan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Glenn"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 13825,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Ben Garvey foolishly turned back to crime, he thought his life was over when he was sentenced to death by lethal injection. But his death sentence isn't quite what it seems, as Ben regains consciousness near an eerie psychiatric ward, where he's told he's been hired as the groundskeeper. With the state of his soul in question, and the love for his wife and daughter all the more real and powerful, Ben must figure out if he's truly cheated death, or if he's become part of something far more sinister.",
+   "popularity": 2.8473,
+   "poster_path": "/qxf1AkFJskLrBM2WGwf8FpGcbiu.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-24",
+   "revenue": 558000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Cheating death is only the beginning",
+   "title": "The Lazarus Project",
+   "trailer": {
+    "key": "9PnR562GsZw",
+    "name": "The Lazarus Project - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.956,
+   "vote_count": 408
   },
   "movie:1399525": {
    "backdrop_path": "/8nchwqjrC1YGT8aNNsHtGz87VTT.jpg",
@@ -1048,6 +1389,118 @@
    "vote_average": 5.236,
    "vote_count": 475
   },
+  "movie:19625": {
+   "backdrop_path": "/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Murli Prasad Sharma \"Munna Bhai\"",
+     "n": "Sanjay Dutt"
+    },
+    {
+     "c": "Sankeshwar \"Circuit\"",
+     "n": "Arshad Warsi"
+    },
+    {
+     "c": "Dr. J. C. Asthana",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Dr. Suman Asthana \"Chinki\"",
+     "n": "Gracy Singh"
+    },
+    {
+     "c": "Shri Hari Prasad Sharma",
+     "n": "Sunil Dutt"
+    },
+    {
+     "c": "Parvati Sharma",
+     "n": "Rohini Hattangadi"
+    },
+    {
+     "c": "Zaheer",
+     "n": "Jimmy Shergill"
+    },
+    {
+     "c": "Dr. Rustam Pavri",
+     "n": "Kurush Deboo"
+    },
+    {
+     "c": "Anand Banerjee",
+     "n": "Yatin Karyekar"
+    },
+    {
+     "c": "Reena",
+     "n": "Mumaith Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Rajkumar Hirani"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 19625,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+   "popularity": 1.3594,
+   "poster_path": "/OjJ2eZFMr0InHxjYCQXwxDoo4v.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-12-19",
+   "revenue": 0,
+   "runtime": 156,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "He Might Just Cure You",
+   "title": "Munna Bhai M.B.B.S.",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.242,
+   "vote_count": 388
+  },
   "movie:218425": {
    "backdrop_path": "/71TAboo7x1IQn45CmWWfRn6aDAP.jpg",
    "budget": 0,
@@ -1220,6 +1673,194 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 460
+  },
+  "movie:250225": {
+   "backdrop_path": "/kr4V9a8BdXAVAd1WaEdV6nDrTlL.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Cynthia",
+     "n": "Sidse Babett Knudsen"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Chiara D'Anna"
+    },
+    {
+     "c": "Dr. Fraxini",
+     "n": "Eugenia Caruso"
+    },
+    {
+     "c": "Dr. Schuller",
+     "n": "Zita Kraszkó"
+    },
+    {
+     "c": "Lorna",
+     "n": "Monica Swinn"
+    },
+    {
+     "c": "Dr. Viridana",
+     "n": "Eszter Tompa"
+    },
+    {
+     "c": "The Carpenter",
+     "n": "Fatma Mohamed"
+    },
+    {
+     "c": "Dr. Lurida",
+     "n": "Kata Bartsch"
+    },
+    {
+     "c": "Dr. in audience",
+     "n": "Gretchen Meddaugh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Peter Strickland"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 250225,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Day in and day out, lovers Cynthia and Evelyn enact an elaborate sadomasochistic fantasy as mistress and maid. But as their ritual of domination and submission begins to turn stale, Cynthia yearns for something more conventional, while Evelyn tries to push their taboos even further.",
+   "popularity": 3.6202,
+   "poster_path": "/72ctjjts0j8OFQkIFODT6RnYbBK.jpg",
+   "production_countries": [
+    "HU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-20",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Duke of Burgundy",
+   "trailer": {
+    "key": "P-xIMBnclyA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.288,
+   "vote_count": 396
   },
   "movie:290825": {
    "backdrop_path": "/oOVWuXkxQRYwUpd0Jg7QVxlMd2W.jpg",
@@ -1579,6 +2220,124 @@
    "vote_average": 6.059,
    "vote_count": 437
   },
+  "movie:326425": {
+   "backdrop_path": "/pak4TKvX3j7sqXcjwQCh5yzpUbN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonard Turner",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Victoria",
+     "n": "Gina Carano"
+    },
+    {
+     "c": "Harry Turner",
+     "n": "Kellan Lutz"
+    },
+    {
+     "c": "Ken Robertson",
+     "n": "D. B. Sweeney"
+    },
+    {
+     "c": "Higgins",
+     "n": "Dan Bilzerian"
+    },
+    {
+     "c": "Vinn",
+     "n": "Nick Loeb"
+    },
+    {
+     "c": "Dmitri Kovrov",
+     "n": "Roman Mitichyan"
+    },
+    {
+     "c": "Agent Nick Purvis",
+     "n": "Christopher Rob Bowen"
+    },
+    {
+     "c": "Theodore Sitterson",
+     "n": "Steve Coulter"
+    },
+    {
+     "c": "Agent Stevens",
+     "n": "Heather Johansen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven C. Miller"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 326425,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be saved—so he launches his own rescue operation.",
+   "popularity": 2.7685,
+   "poster_path": "/1Cn5pxPi5XedW0oH0Xr6GibmmVZ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-18",
+   "revenue": 16775,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Vengeance runs in the family.",
+   "title": "Extraction",
+   "trailer": {
+    "key": "W6nT9cLtX0c",
+    "name": "EXTRACTION (2015 Movie – Bruce Willis, Kellan Lutz, Gina Carano) – Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.492,
+   "vote_count": 424
+  },
   "movie:538225": {
    "backdrop_path": "/kIXJRoqUdqU9AowvS7PqBqMK8N8.jpg",
    "budget": 0,
@@ -1689,6 +2448,245 @@
    "type": "movie",
    "vote_average": 6.722,
    "vote_count": 480
+  },
+  "movie:56825": {
+   "backdrop_path": "/lgvDsg2dA1G1oshflzD3QVcBg9C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Piero Ruffolo",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Lino Santolamazza",
+     "n": "Alessandro Benvenuti"
+    },
+    {
+     "c": "Walter Finocchiaro",
+     "n": "Angelo Bernabucci"
+    },
+    {
+     "c": "Federica Polidori",
+     "n": "Nancy Brilli"
+    },
+    {
+     "c": "Margherita Serafini",
+     "n": "Giusi Cataldo"
+    },
+    {
+     "c": "Maria Rita Amoroso",
+     "n": "Athina Cenci"
+    },
+    {
+     "c": "Armando Lepore",
+     "n": "Maurizio Ferrini"
+    },
+    {
+     "c": "Jolanda Scarpellini",
+     "n": "Isa Gallinelli"
+    },
+    {
+     "c": "Mauro Valenzani",
+     "n": "Massimo Ghini"
+    },
+    {
+     "c": "Valeria Donati",
+     "n": "Eleonora Giorgi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 56825,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A group of former high school classmates meets for a reunion 15 years after graduation, only to discover that any innocence or friendship is long lost.",
+   "popularity": 0.6564,
+   "poster_path": "/yi8QUpo6U3nmYn6fStNG2nvANEL.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1988-12-21",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Compagni di scuola",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.12,
+   "vote_count": 421
+  },
+  "movie:57825": {
+   "backdrop_path": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Lalita Bakshi",
+     "n": "Aishwarya Rai Bachchan"
+    },
+    {
+     "c": "William Darcy",
+     "n": "Martin Henderson"
+    },
+    {
+     "c": "Balraj",
+     "n": "Naveen Andrews"
+    },
+    {
+     "c": "Johnny Wickham",
+     "n": "Daniel Gillies"
+    },
+    {
+     "c": "Kiran",
+     "n": "Indira Varma"
+    },
+    {
+     "c": "Catherine Darcy",
+     "n": "Marsha Mason"
+    },
+    {
+     "c": "Manorama Bakshi",
+     "n": "Nadira Babbar"
+    },
+    {
+     "c": "Chaman Bakshi",
+     "n": "Anupam Kher"
+    },
+    {
+     "c": "Jaya Bakshi",
+     "n": "Namrata Shirodkar"
+    },
+    {
+     "c": "Chandra Lamba",
+     "n": "Sonali Kulkarni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gurinder Chadha"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 57825,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+   "popularity": 2.6596,
+   "poster_path": "/yqqo00GZqyG0dijKCqBbdQLUvht.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IN",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-08",
+   "revenue": 24700000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi",
+    "pa",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Bollywood meets Hollywood… And it's a perfect match",
+   "title": "Bride & Prejudice",
+   "trailer": {
+    "key": "nFYwqts1_TI",
+    "name": "Bride and Prejudice - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 423
   },
   "movie:66125": {
    "backdrop_path": "/jNGxNW6POZvxecTcfWhSmP1uU2m.jpg",
@@ -1875,6 +2873,108 @@
    "vote_average": 7.306,
    "vote_count": 449
   },
+  "movie:71325": {
+   "backdrop_path": "/q1UjftzFqSOSMxhrqAXtoTLjQpQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mia",
+     "n": "Ruth Vega Fernandez"
+    },
+    {
+     "c": "Frida",
+     "n": "Liv Mjönes"
+    },
+    {
+     "c": "Lasse",
+     "n": "Krister Henriksson"
+    },
+    {
+     "c": "Elisabeth",
+     "n": "Lena Endre"
+    },
+    {
+     "c": "Tim",
+     "n": "Joakim Nätterqvist"
+    },
+    {
+     "c": "Elin",
+     "n": "Josefine Tengblad"
+    },
+    {
+     "c": "Oskar",
+     "n": "Tom Ljungman"
+    },
+    {
+     "c": "Priest",
+     "n": "Björn Kjellman"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Jan Goldring"
+    },
+    {
+     "c": "Teacher in Auditorium",
+     "n": "Anna Nygren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alexandra-Therese Keining"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 71325,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "After they meet at their parent's engagement party, Mia and Frida are intrigued by and attracted to one another, despite Mia's own upcoming engagement to Tim. Mia must decide whether to continue her life with Tim or to follow her heart with Frida.",
+   "popularity": 1.2659,
+   "poster_path": "/3Y3JMMYYvwZmMWHQRehztndToFR.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-07-29",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Kiss Me",
+   "title": "With Every Heartbeat",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.141,
+   "vote_count": 393
+  },
   "movie:812225": {
    "backdrop_path": "/rogeBJK44LtWynOqzMFmEF30T80.jpg",
    "budget": 0,
@@ -1983,6 +3083,94 @@
    "type": "movie",
    "vote_average": 8.061,
    "vote_count": 444
+  },
+  "movie:890825": {
+   "backdrop_path": "/lRCAcwJeh93YHO3ghFBDf0Pj3w3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Nirmal Purja"
+    },
+    {
+     "c": "Self",
+     "n": "Jimmy Chin"
+    },
+    {
+     "c": "Self",
+     "n": "Reinhold Messner"
+    },
+    {
+     "c": "Self",
+     "n": "Klára Kolouchová"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Conrad Anker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Torquil Jones"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 890825,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 2019, Nepalese mountain climber Nirmal “Nims” Purja set out to do the unthinkable by climbing the world’s fourteen highest summits in less than seven months. (The previous record was eight years). He called the effort “Project Possible 14/7” and saw it as a way to inspire others to strive for greater heights in any pursuit. The film follows his team as they seek to defy naysayers and push the limits of human endurance.",
+   "popularity": 2.5584,
+   "poster_path": "/8YS9oRn9rcAyBhYELFbGKk1TpFs.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-12",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ne"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "14 Peaks: Nothing Is Impossible",
+   "trailer": {
+    "key": "8QH5hBOoz08",
+    "name": "14 Peaks: Nothing Is Impossible | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.331,
+   "vote_count": 415
   },
   "movie:9625": {
    "backdrop_path": "/oFs99SgcuVOwGhtew77rBKniNmi.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "88",
- "count": 34,
+ "count": 43,
  "titles": {
   "movie:1088": {
    "d": "Whale Rider (2003): Drama/Family film. Story: A contemporary story of love, rejection, and triumph… See cast, budget $8M, and TMDB rating 7.0/10.",
@@ -198,6 +198,70 @@
    "t": "Marty Supreme (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13188": {
+   "d": "Scrooge (1951): Fantasy/Drama film. Story: Ebenezer Scrooge malcontentedly shuffles through life… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bW9fKeoIbq4bDclZ4h9D5BqSqmX.jpg",
+   "industry": "world",
+   "k": "Scrooge, Scrooge movie, Scrooge cast, Scrooge story, Scrooge box office collection, Scrooge budget, Scrooge review, Scrooge rating, Scrooge release date, Scrooge Fantasy, Scrooge Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alastair Sim"
+     },
+     {
+      "@type": "Person",
+      "name": "Mervyn Johns"
+     },
+     {
+      "@type": "Person",
+      "name": "Glyn Dearman"
+     },
+     {
+      "@type": "Person",
+      "name": "George Cole"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Worth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Scrooge (1951): Fantasy/Drama film. Story: Ebenezer Scrooge malcontentedly shuffles through life… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Desmond Hurst"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bW9fKeoIbq4bDclZ4h9D5BqSqmX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13188",
+    "name": "Scrooge",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1951-11-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13188"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scrooge (1951)</h1>\n<p class=\"ssr-lead\">Ebenezer Scrooge malcontentedly shuffles through life as a cruel, miserly businessman, until he is visited by three spirits on Christmas Eve who show him how his unhappy childhood and adult behavior has left him a selfish, lonely old man.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 November 1951</li><li>Runtime: 86 minutes</li><li>Director: Brian Desmond Hurst</li><li>Genres: Fantasy, Drama</li><li>TMDB rating: 7.4/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alastair Sim as Ebenezer Scrooge</li><li>Mervyn Johns as Bob Cratchit</li><li>Glyn Dearman as Tiny Tim Cratchit</li><li>George Cole as Young Ebenezer Scrooge</li><li>Brian Worth as Fred Scrooge</li><li>Michael Hordern as Jacob Marley</li><li>Kathleen Harrison as Mrs. Dilber</li><li>Rona Anderson as Alice</li><li>Jack Warner as Jorkins</li><li>Michael Dolan as Spirit of Christmas Past</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Dove Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Scrooge (1951) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1951"
+  },
   "movie:1327688": {
    "d": "One Mile: Chapter One (2026): Action/Crime film. Story: After being released from special forces, a father… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
@@ -326,6 +390,70 @@
    "t": "Finding Emily (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:144288": {
+   "d": "Berserk: The Golden Age Arc III - The Advent (2013): Animation/Action film. Story: One year has passed since Guts left the Band of the… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/mrVUkTJHY8MeZRvBDxxmnAhRcxa.jpg",
+   "industry": "world",
+   "k": "Berserk: The Golden Age Arc III - The Advent, Berserk: The Golden Age Arc III - The Advent movie, Berserk: The Golden Age Arc III - The Advent cast, Berserk: The Golden Age Arc III - The Advent story, Berserk: The Golden Age Arc III - The Advent box office collection, Berserk: The Golden Age Arc III - The Advent budget, Berserk: The Golden Age Arc III - The Advent review, Berserk: The Golden Age Arc III - The Advent rating, Berserk: The Golden Age Arc III - The Advent release date, Berserk: The Golden Age Arc III - The Advent trailer, Berserk: The Golden Age Arc III - The Advent Animation, Berserk: The Golden Age Arc III - The Advent Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hiroaki Iwanaga"
+     },
+     {
+      "@type": "Person",
+      "name": "Toa Yukinari"
+     },
+     {
+      "@type": "Person",
+      "name": "Takahiro Sakurai"
+     },
+     {
+      "@type": "Person",
+      "name": "Takahiro Fujiwara"
+     },
+     {
+      "@type": "Person",
+      "name": "Minako Kotobuki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 430,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Berserk: The Golden Age Arc III - The Advent (2013): Animation/Action film. Story: One year has passed since Guts left the Band of the… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Toshiyuki Kubooka"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mrVUkTJHY8MeZRvBDxxmnAhRcxa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=144288",
+    "name": "Berserk: The Golden Age Arc III - The Advent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-02-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=144288"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Berserk: The Golden Age Arc III - The Advent (2013)</h1>\n<p class=\"ssr-lead\">One year has passed since Guts left the Band of the Hawk and Griffith was imprisoned by the Kingdom of Midland for treason. In the dead of night, at a camping site where they hide, the Band of the Hawk is attacked by Bakiraka assassins led by Silat. When all seems lost, Guts returns from his journey. &quot;You destroyed everything.&quot; Crying that Griffith is nothing without Guts, Casca and Guts are joined together body and soul. Griffith is imprisoned in the oldest building in Wyndham Catle, the Tower of Rebirth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 February 2013</li><li>Runtime: 110 minutes</li><li>Director: Toshiyuki Kubooka</li><li>Genres: Animation, Action, Adventure, Drama, Fantasy</li><li>TMDB rating: 7.7/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hiroaki Iwanaga as Guts (voice)</li><li>Toa Yukinari as Casca (voice)</li><li>Takahiro Sakurai as Griffith (voice)</li><li>Takahiro Fujiwara as Pippin (voice)</li><li>Minako Kotobuki as Rickert (voice)</li><li>Rikiya Koyama as Adon Coborlwitz (voice)</li><li>Yoshiro Matsumoto as Corkus (voice)</li><li>Kenta Miyake as Nosferatu Zodd (voice)</li><li>Kazuki Yao as Gaston (voice)</li><li>Yuki Kaji as Judeau (voice)</li></ul>\n</article>",
+   "t": "Berserk: The Golden Age Arc III - The Advent (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:1492288": {
    "d": "La chaleur (2026): Drama/Thriller film. Story: It’s unusually hot on the beaches of the Landes, and… See cast, TMDB rating 6.1/10, and release date 8 July 2026.",
    "img": "https://image.tmdb.org/t/p/w780/yJGT3NHe9kO9peU09iYYBvNZALE.jpg",
@@ -453,6 +581,198 @@
    "t": "The Red Hangar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:18988": {
+   "d": "The Lion in Winter (1968): Drama/History film. Story: Christmas 1183, Angevin Empire: King Henry II plans… See cast, budget $4M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+   "industry": "world",
+   "k": "The Lion in Winter, The Lion in Winter movie, The Lion in Winter cast, The Lion in Winter story, The Lion in Winter box office collection, The Lion in Winter budget, The Lion in Winter review, The Lion in Winter rating, The Lion in Winter release date, The Lion in Winter trailer, The Lion in Winter Drama, The Lion in Winter History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter O'Toole"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharine Hepburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "John Castle"
+     },
+     {
+      "@type": "Person",
+      "name": "Nigel Terry"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Lion in Winter (1968): Drama/History film. Story: Christmas 1183, Angevin Empire: King Henry II plans… See cast, budget $4M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Harvey"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18988",
+    "name": "The Lion in Winter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1968-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18988"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lion in Winter (1968)</h1>\n<p class=\"ssr-lead\">Christmas 1183, Angevin Empire: King Henry II plans to announce his successor to the throne. Jockeying for the crown, though, is complex. Henry has three sons and wants his boy Prince John to take over. Henry&#x27;s wife, Queen Eleanor, believes their son Prince Richard should be king. As family and various schemers gather for the holiday, each tries to make the indecisive king choose their option.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 1968</li><li>Runtime: 134 minutes</li><li>Director: Anthony Harvey</li><li>Genres: Drama, History</li><li>Budget: $4M</li><li>TMDB rating: 7.4/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter O&#x27;Toole as Henry II</li><li>Katharine Hepburn as Eleanor of Aquitaine</li><li>Anthony Hopkins as Richard</li><li>John Castle as Geoffrey</li><li>Nigel Terry as John</li><li>Timothy Dalton as Philip II</li><li>Jane Merrow as Alais</li><li>Nigel Stock as William Marshall</li><li>O.Z. Whitehead as Bishop of Durham</li><li>Kenneth Ives as Queen Eleanor&#x27;s Guard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, BFI Player Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Lion in Winter (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1968"
+  },
+  "movie:21788": {
+   "d": "Trouble at Timpetill (2008): Fantasy/Adventure film. Story: The children of a small European mountain village end… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uHEnql66pAI5KCyOZ7waxFK0fVj.jpg",
+   "industry": "world",
+   "k": "Trouble at Timpetill, Trouble at Timpetill movie, Trouble at Timpetill cast, Trouble at Timpetill story, Trouble at Timpetill box office collection, Trouble at Timpetill budget, Trouble at Timpetill review, Trouble at Timpetill rating, Trouble at Timpetill release date, Trouble at Timpetill Fantasy, Trouble at Timpetill Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Raphaël Katz"
+     },
+     {
+      "@type": "Person",
+      "name": "Adèle Exarchopoulos"
+     },
+     {
+      "@type": "Person",
+      "name": "Léo Legrand"
+     },
+     {
+      "@type": "Person",
+      "name": "Carole Bouquet"
+     },
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 397,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Trouble at Timpetill (2008): Fantasy/Adventure film. Story: The children of a small European mountain village end… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Bary"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uHEnql66pAI5KCyOZ7waxFK0fVj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21788",
+    "name": "Trouble at Timpetill",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21788"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trouble at Timpetill (2008)</h1>\n<p class=\"ssr-lead\">The children of a small European mountain village end up being its only residents, soon after the adults cannot take their behavior any longer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2008</li><li>Runtime: 133 minutes</li><li>Director: Nicolas Bary</li><li>Genres: Fantasy, Adventure, Family</li><li>TMDB rating: 6.1/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Raphaël Katz as Manfred</li><li>Adèle Exarchopoulos as Marianne</li><li>Léo Legrand as Thomas</li><li>Carole Bouquet as Mme Drohne</li><li>Gérard Depardieu as Le général Igor</li><li>Armelle as Corbac</li><li>Baptiste Bétoulaud as Oscar Le Rouge</li><li>Martin Jobert as Willy Hak</li><li>Lola Créton as Mireille Stettner</li><li>Léo Paget as Robert Lapointe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Trouble at Timpetill (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
+  "movie:276488": {
+   "d": "Let Us Prey (2014): Thriller/Horror film. Story: Rachel, a rookie cop, is about to begin her first… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ewy2aJDFtqMzCrDg0wsZ3G2MOpo.jpg",
+   "industry": "world",
+   "k": "Let Us Prey, Let Us Prey movie, Let Us Prey cast, Let Us Prey story, Let Us Prey box office collection, Let Us Prey budget, Let Us Prey review, Let Us Prey rating, Let Us Prey release date, Let Us Prey trailer, Let Us Prey Thriller, Let Us Prey Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liam Cunningham"
+     },
+     {
+      "@type": "Person",
+      "name": "Niall Greig Fulton"
+     },
+     {
+      "@type": "Person",
+      "name": "Pollyanna McIntosh"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryan Larkin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Let Us Prey (2014): Thriller/Horror film. Story: Rachel, a rookie cop, is about to begin her first… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian O'Malley"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ewy2aJDFtqMzCrDg0wsZ3G2MOpo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=276488",
+    "name": "Let Us Prey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=276488"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Let Us Prey (2014)</h1>\n<p class=\"ssr-lead\">Rachel, a rookie cop, is about to begin her first night shift in a neglected police station in a Scottish, backwater town. The kind of place where the tide has gone out and stranded a motley bunch of the aimless, the forgotten, the bitter-and-twisted who all think that, really, they deserve to be somewhere else. They all think they&#x27;re there by accident and that, with a little luck, life is going to get better. Wrong, on both counts. Six is about to arrive - and All Hell Will Break Loose!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2014</li><li>Runtime: 92 minutes</li><li>Director: Brian O&#x27;Malley</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.7/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Cunningham as Six</li><li>Niall Greig Fulton as Dr. Duncan Hume</li><li>Pollyanna McIntosh as PC. Rachel Heggie</li><li>Douglas Russell as Sgt. MacReady</li><li>Bryan Larkin as PC. Jack Warnock</li><li>Hanna Stanbridge as PC. Jennifer Mundie</li><li>Brian Vernel as Caesar Sargison</li><li>James McCreadie as Mulvey</li><li>Jonathan Watson as Ralph Beswick</li><li>Sophie Stephanie Farmer as Young Rachel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Let Us Prey (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:30588": {
    "d": "Monsieur Verdoux (1947): Comedy/Crime film. Story: The film is about an unemployed banker, Henri… See cast, budget $2M, and TMDB rating 7.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
@@ -516,6 +836,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Monsieur Verdoux (1947)</h1>\n<p class=\"ssr-lead\">The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 1947</li><li>Runtime: 124 minutes</li><li>Director: Charlie Chaplin</li><li>Genres: Comedy, Crime, Drama</li><li>Budget: $2M</li><li>TMDB rating: 7.7/10 (497 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Chaplin as Henri Verdoux</li><li>Mady Correll as Mona Verdoux</li><li>Allison Roddan as Peter Verdoux</li><li>Robert Lewis as Maurice Bottello</li><li>Audrey Betz as Martha Bottello</li><li>Martha Raye as Annabella Bonheur</li><li>Ada May as Annette, Annabella&#x27;s maid</li><li>Isobel Elsom as Marie Grosnay</li><li>Marjorie Bennett as Marie&#x27;s Maid</li><li>Helene Heigh as Yvonne La Salle, Marie&#x27;s friend</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
    "t": "Monsieur Verdoux (1947) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1947"
+  },
+  "movie:335788": {
+   "d": "Renegades (2017): Thriller/Action film. Story: In the midst of the Balkan wars, a squad of Navy… See cast, budget $66.19M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dwZICSgqgDuAsRz2x5j3I9ejxvu.jpg",
+   "industry": "world",
+   "k": "Renegades, Renegades movie, Renegades cast, Renegades story, Renegades box office collection, Renegades budget, Renegades review, Renegades rating, Renegades release date, Renegades trailer, Renegades Thriller, Renegades Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Sullivan Stapleton"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Bewley"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvia Hoeks"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Henry"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Renegades (2017): Thriller/Action film. Story: In the midst of the Balkan wars, a squad of Navy… See cast, budget $66.19M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Quale"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dwZICSgqgDuAsRz2x5j3I9ejxvu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=335788",
+    "name": "Renegades",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=335788"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Renegades (2017)</h1>\n<p class=\"ssr-lead\">In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a long-forgotten mystery after discovering an enormous treasure trove hidden at the bottom of a lake in Serbia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2017</li><li>Runtime: 105 minutes</li><li>Director: Steven Quale</li><li>Genres: Thriller, Action, War</li><li>Budget: $66.19M</li><li>TMDB rating: 5.6/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>J.K. Simmons as Levin</li><li>Sullivan Stapleton as Matt Barnes</li><li>Charlie Bewley as Stanton Baker</li><li>Sylvia Hoeks as Lara Simic</li><li>Joshua Henry as Ben Moran</li><li>Diarmaid Murtagh as Kurt Duffy</li><li>Dimitri Leonidas as Jack Porter</li><li>Clemens Schick as Petrovic</li><li>Ewen Bremner as Jim Rainey</li><li>Peter Davor as General Dusan Milic</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Renegades (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:34588": {
+   "d": "If I Were You (2006): Comedy/Fantasy film. Story: The publicist Claudio and the housewife and choral… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6QZzrX0lvtSS5kv2Uc4T1W59M5k.jpg",
+   "industry": "world",
+   "k": "If I Were You, If I Were You movie, If I Were You cast, If I Were You story, If I Were You box office collection, If I Were You budget, If I Were You review, If I Were You rating, If I Were You release date, If I Were You Comedy, If I Were You Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tony Ramos"
+     },
+     {
+      "@type": "Person",
+      "name": "Glória Pires"
+     },
+     {
+      "@type": "Person",
+      "name": "Thiago Lacerda"
+     },
+     {
+      "@type": "Person",
+      "name": "Glória Menezes"
+     },
+     {
+      "@type": "Person",
+      "name": "Lavínia Vlasak"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 399,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "If I Were You (2006): Comedy/Fantasy film. Story: The publicist Claudio and the housewife and choral… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Filho"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6QZzrX0lvtSS5kv2Uc4T1W59M5k.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34588",
+    "name": "If I Were You",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-01-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34588"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>If I Were You (2006)</h1>\n<p class=\"ssr-lead\">The publicist Claudio and the housewife and choral teacher Helena have been married for many years, but they do not understand and respect the feelings and view point of the partner. Claudio sees Helena as a shopper and &quot;little teacher of a choral&quot; and Helena sees Claudio as an insensitive and rough man. On the night before the fiftieth anniversary of Claudio, they changed places with each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 January 2006</li><li>Runtime: 108 minutes</li><li>Director: Daniel Filho</li><li>Genres: Comedy, Fantasy</li><li>TMDB rating: 6.4/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Ramos as Cláudio</li><li>Glória Pires as Helena</li><li>Thiago Lacerda as Marcos</li><li>Glória Menezes as Vivinha</li><li>Lavínia Vlasak as Bárbara</li><li>Danielle Winits as Cibele</li><li>Maria Ceiça as Márcia</li><li>Lara Rodrigues as Bia</li><li>Maria Gladys as Cida</li><li>Dennis Carvalho as Arnaldo</li></ul>\n</article>",
+   "t": "If I Were You (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:475888": {
    "d": "Tell It to the Bees (2019): Romance/Drama film. Story: Dr. Jean Markham returns to the town she left as a… See cast and TMDB rating 7.5/10.",
@@ -645,6 +1093,69 @@
    "t": "Prom (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:575088": {
+   "d": "Baba Yaga: Terror of the Dark Forest (2020): Horror film. Story: A boy and his friends must save his infant sister… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rXQiuJn0DVfEAlYcALUpiYmmQEp.jpg",
+   "industry": "world",
+   "k": "Baba Yaga: Terror of the Dark Forest, Baba Yaga: Terror of the Dark Forest movie, Baba Yaga: Terror of the Dark Forest cast, Baba Yaga: Terror of the Dark Forest story, Baba Yaga: Terror of the Dark Forest box office collection, Baba Yaga: Terror of the Dark Forest budget, Baba Yaga: Terror of the Dark Forest review, Baba Yaga: Terror of the Dark Forest rating, Baba Yaga: Terror of the Dark Forest release date, Baba Yaga: Terror of the Dark Forest Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oleg Chugunov"
+     },
+     {
+      "@type": "Person",
+      "name": "Glafira Golubeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Artem Zhigulin"
+     },
+     {
+      "@type": "Person",
+      "name": "Igor Khripunov"
+     },
+     {
+      "@type": "Person",
+      "name": "Svetlana Ustinova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 390,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Baba Yaga: Terror of the Dark Forest (2020): Horror film. Story: A boy and his friends must save his infant sister… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Svyatoslav Podgaevsky"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rXQiuJn0DVfEAlYcALUpiYmmQEp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=575088",
+    "name": "Baba Yaga: Terror of the Dark Forest",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=575088"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baba Yaga: Terror of the Dark Forest (2020)</h1>\n<p class=\"ssr-lead\">A boy and his friends must save his infant sister from an evil witch who eats babies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2020</li><li>Runtime: 96 minutes</li><li>Director: Svyatoslav Podgaevsky</li><li>Genres: Horror</li><li>TMDB rating: 6.4/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oleg Chugunov as Egor</li><li>Glafira Golubeva as Dasha</li><li>Artem Zhigulin as Anton</li><li>Igor Khripunov as Mrachnyy</li><li>Svetlana Ustinova as Tatyana, nanny</li><li>Aleksey Rozin as Alexey, father</li><li>Maryana Spivak as Yuliya, stepmother</li><li>Marta Kessler as Seta</li><li>Daniil Filippov</li><li>Evgeniya Evstigneeva as Egor&#x27;s mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Baba Yaga: Terror of the Dark Forest (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:747688": {
    "d": "Yara (2021): Drama/Crime film. Story: The murder of 13-year-old Yara Gambirasio shocks the… See cast, TMDB rating 6.3/10, and release date 18 October 2021.",
    "img": "https://image.tmdb.org/t/p/w780/jpadmB7KftfYHJnyY9e8AFH60L8.jpg",
@@ -772,6 +1283,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Midsummer Night&#x27;s Sex Comedy (1982)</h1>\n<p class=\"ssr-lead\">A nutty inventor, his frustrated wife, a philosopher cousin, his much younger fiancée, a randy doctor, and a free-thinking nurse spend a summer weekend in and around a stunning - and possibly magical - country house.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 1982</li><li>Runtime: 88 minutes</li><li>Director: Woody Allen</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.5/10 (495 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Allen as Andrew</li><li>Mia Farrow as Ariel</li><li>José Ferrer as Leopold</li><li>Julie Hagerty as Dulcy</li><li>Tony Roberts as Maxwell</li><li>Mary Steenburgen as Adrian</li><li>Adam Redfield as Student Foxx</li><li>Moishe Rosenfeld as Mr. Hayes</li><li>Timothy Jenkins as Mr. Thomson</li><li>Michael Higgins as Reynolds</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "A Midsummer Night's Sex Comedy (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
+  },
+  "movie:853588": {
+   "d": "Prey (2021): Thriller film. Story: A hiking trip into the wild turns into a desperate… See cast, TMDB rating 4.7/10, and release date 10 September 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/k6YjZblaTamvnvDouOJoAdPHaHj.jpg",
+   "industry": "world",
+   "k": "Prey, Prey movie, Prey cast, Prey story, Prey box office collection, Prey budget, Prey review, Prey rating, Prey release date, Prey Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Kross"
+     },
+     {
+      "@type": "Person",
+      "name": "Hanno Koffler"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Ehrich"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Finster"
+     },
+     {
+      "@type": "Person",
+      "name": "Yung Ngo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 4.7,
+     "worstRating": 0
+    },
+    "description": "Prey (2021): Thriller film. Story: A hiking trip into the wild turns into a desperate… See cast, TMDB rating 4.7/10, and release date 10 September 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Sieben"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k6YjZblaTamvnvDouOJoAdPHaHj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=853588",
+    "name": "Prey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=853588"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Prey (2021)</h1>\n<p class=\"ssr-lead\">A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2021</li><li>Runtime: 87 minutes</li><li>Director: Thomas Sieben</li><li>Genres: Thriller</li><li>TMDB rating: 4.7/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Kross as Roman</li><li>Hanno Koffler as Albert</li><li>Maria Ehrich as Eva</li><li>Robert Finster as Peter</li><li>Yung Ngo as Vincent</li><li>Klaus Steinbacher as Stefan</li><li>Livia Matthes as Lisa</li><li>Nellie Thalbach as Jenny</li><li>Natalie Fischer as Anne</li><li>Tim Haberland as Hunter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Prey (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:9588": {
    "d": "Quigley Down Under (1990): Western/Adventure film. Story: American Matt Quigley answers Australian land baron… See cast and TMDB rating 6.7/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 29,
+ "count": 36,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -289,6 +289,121 @@
    "type": "movie",
    "vote_average": 5.452,
    "vote_count": 444
+  },
+  "movie:14324": {
+   "backdrop_path": "/cRXcuLS1z0820eZ4mOXF08VEdZR.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Lorenzo",
+     "n": "Hayden Christensen"
+    },
+    {
+     "c": "Pampinea",
+     "n": "Mischa Barton"
+    },
+    {
+     "c": "Elissa",
+     "n": "Kate Groombridge"
+    },
+    {
+     "c": "Filomena",
+     "n": "Rosalind Halstead"
+    },
+    {
+     "c": "Gerbino",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Count Dzerzhinsky",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Ghino",
+     "n": "Ryan Cartwright"
+    },
+    {
+     "c": "Dioneo",
+     "n": "Christopher Egan"
+    },
+    {
+     "c": "The Abbess",
+     "n": "Anna Galiena"
+    },
+    {
+     "c": "Sister Lisabetta",
+     "n": "Silvia Colloca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Leland"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 14324,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In Black Death era Tuscany, as in the Decameron, ten young Florentines take refuge from the plague. But instead of telling stories, they have lusty adventures, bawdy exchanges, romance, swordplay, randy nuns, Saracen pirates, and a sexy cow.",
+   "popularity": 7.925,
+   "poster_path": "/zofWP7ZKhoVTh2VUltaDo4LRQXc.jpg",
+   "production_countries": [
+    "LU",
+    "IT",
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-12-17",
+   "revenue": 5410749,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Anything can happen when you're in ... Virgin Territory",
+   "title": "Virgin Territory",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.982,
+   "vote_count": 392
   },
   "movie:1471224": {
    "backdrop_path": "/jJciPkyc8EcjKkZ9lGgp14VHnp.jpg",
@@ -1005,6 +1120,248 @@
    "vote_average": 6.202,
    "vote_count": 481
   },
+  "movie:24924": {
+   "backdrop_path": "/flVqKeNGCPzWKKgORAp23XFJ3NR.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Judy",
+     "n": "Cathy Podewell"
+    },
+    {
+     "c": "Rodger",
+     "n": "Alvin Alexis"
+    },
+    {
+     "c": "Angela",
+     "n": "Amelia Kinkade"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Linnea Quigley"
+    },
+    {
+     "c": "Stooge",
+     "n": "Hal Havins"
+    },
+    {
+     "c": "Sal",
+     "n": "Billy Gallo"
+    },
+    {
+     "c": "Jay",
+     "n": "Lance Fenton"
+    },
+    {
+     "c": "Frannie",
+     "n": "Jill Terashita"
+    },
+    {
+     "c": "Helen",
+     "n": "Allison Barron"
+    },
+    {
+     "c": "Max",
+     "n": "Philip Tanzini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kevin Tenney"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 24924,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When partygoers at a deserted funeral home decide to have a séance on Halloween night, they awaken something evil with a thirst for blood.",
+   "popularity": 2.8838,
+   "poster_path": "/gPLs4LRu85CBir22j57lXoWAawm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-09-09",
+   "revenue": 3109904,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Angela is having a party, Jason and Freddy are too scared to come... But you'll have a hell of a time.",
+   "title": "Night of the Demons",
+   "trailer": {
+    "key": "tQ7gSRfUCH0",
+    "name": "Night of the Demons (1988) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.227,
+   "vote_count": 422
+  },
   "movie:380124": {
    "backdrop_path": "/2fC29LRezRnpQwnbjxXSO7dakb.jpg",
    "budget": 20000000,
@@ -1124,6 +1481,184 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 444
+  },
+  "movie:52124": {
+   "backdrop_path": "/gMaZeKbx3BG7AwnqP6rAAbGwWAl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gualtiero Marchesi",
+     "n": "Leonardo Pieraccioni"
+    },
+    {
+     "c": "Marilyn Monroe",
+     "n": "Suzie Kennedy"
+    },
+    {
+     "c": "Pasquale",
+     "n": "Biagio Izzo"
+    },
+    {
+     "c": "Ramona",
+     "n": "Barbara Tabita"
+    },
+    {
+     "c": "Arnolfo Biagioli",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Martina Marchesi",
+     "n": "Marta Gastini"
+    },
+    {
+     "c": "Maresciallo Stolfi",
+     "n": "Francesco Pannofino"
+    },
+    {
+     "c": "Dr. Verdicchio",
+     "n": "Francesco Guccini"
+    },
+    {
+     "c": "Massimo Marchesi",
+     "n": "Massimo Ceccherini"
+    },
+    {
+     "c": "Petronio",
+     "n": "Luca Laurenti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Leonardo Pieraccioni"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 52124,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "During a séance with some friends, divorced carny Gualtiero successfully conjures the spirit of Marilyn Monroe, who'll help him win his family back.",
+   "popularity": 0.4825,
+   "poster_path": "/q3EjXnlSrL5vu83BC0emUFgtwLl.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2009-12-17",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Me & Marilyn",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.492,
+   "vote_count": 417
+  },
+  "movie:589524": {
+   "backdrop_path": "/fHg3OooyJOlaMzSgUv12RE96j4D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valerio Fioretti",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Christian Ferro",
+     "n": "Andrea Carpenzano"
+    },
+    {
+     "c": "Alessia",
+     "n": "Ludovica Martino"
+    },
+    {
+     "c": "Cecilia",
+     "n": "Anita Caprioli"
+    },
+    {
+     "c": "Nico",
+     "n": "Mario Sgueglia"
+    },
+    {
+     "c": "Tito",
+     "n": "Massimo Popolizio"
+    },
+    {
+     "c": "Sylvie",
+     "n": "Yuliia Sobol"
+    },
+    {
+     "c": "English Football Journalist",
+     "n": "Douglas Dean"
+    },
+    {
+     "c": "",
+     "n": "Luca Elmi"
+    },
+    {
+     "c": "",
+     "n": "Ilir Jacellari"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Leonardo D'Agostini"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 589524,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Christian is an extremely talented as well as unpredictable football player. After his latest screw-up, the president of his team decides to assign him a personal tutor, to help him in controlling his temper. Valerio is a shy and solitary professor, the exact opposite of the champion. Sparks will fly between the two at first, but soon their relationship will change both for the better.",
+   "popularity": 1.0914,
+   "poster_path": "/jUaxotl1o4caOM9aG540ZymAdhs.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-18",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Champion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.636,
+   "vote_count": 403
   },
   "movie:650524": {
    "backdrop_path": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
@@ -1264,6 +1799,439 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 30
+  },
+  "movie:73624": {
+   "backdrop_path": "/hel4RhpqHWamrfCueE7TZMEWJ5c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zero",
+     "n": "Wagner Moura"
+    },
+    {
+     "c": "Helena",
+     "n": "Alinne Moraes"
+    },
+    {
+     "c": "Sandra",
+     "n": "Maria Luísa Mendonça"
+    },
+    {
+     "c": "Otávio",
+     "n": "Fernando Ceylão"
+    },
+    {
+     "c": "Ricardo",
+     "n": "Gabriel Braga Nunes"
+    },
+    {
+     "c": "Sushi",
+     "n": "Daniel Uemura"
+    },
+    {
+     "c": "Sr. Arlindo",
+     "n": "José Steimberg"
+    },
+    {
+     "c": "Aluna 01",
+     "n": "Malu Rodrigues"
+    },
+    {
+     "c": "Motorista de Táxi",
+     "n": "Fernando Gomes"
+    },
+    {
+     "c": "Engravatado 1991",
+     "n": "Gregório Duvivier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Cláudio Torres"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Science Fiction",
+    "Romance"
+   ],
+   "id": 73624,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Zero is a brilliant scientist. However, 20 years ago, he was publicly humiliated when he lost Helena, the love of his life. One day, an accidental experience with one of his inventions causes him to travel back in time to 1991. Having taken the opportunity to change history, Zero returns to own time to find totally changed.",
+   "popularity": 1.2685,
+   "poster_path": "/cWfdBMbe3SodE14h3VptXy6sQZm.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-02",
+   "revenue": 5799606,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Nothing will be like before.",
+   "title": "The Man from the Future",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 394
+  },
+  "movie:8324": {
+   "backdrop_path": "/eV3ad3ALbIVwfKvLgw2f3T79zxh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Anderson",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Mike",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Brian",
+     "n": "Paul Dano"
+    },
+    {
+     "c": "Benny",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Amber",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Rudy Martin",
+     "n": "Kris Kristofferson"
+    },
+    {
+     "c": "Cindy",
+     "n": "Patricia Arquette"
+    },
+    {
+     "c": "Pete",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Alice",
+     "n": "Avril Lavigne"
+    },
+    {
+     "c": "Tony",
+     "n": "Esai Morales"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 8324,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A dramatised examination of the health issues and social consequences of America's love affair with fast food.",
+   "popularity": 1.4188,
+   "poster_path": "/vcRgWIj4p6FtezgZTl4YoxYbSJ7.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-11-22",
+   "revenue": 2209322,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Do you want lies with that?",
+   "title": "Fast Food Nation",
+   "trailer": {
+    "key": "TwhLTpicFqQ",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 418
+  },
+  "movie:9024": {
+   "backdrop_path": "/xEmQpw6wMVqwiuyWHguL8hHGxNK.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Doug Ireland",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Andy Hart",
+     "n": "Gabrielle Anwar"
+    },
+    {
+     "c": "Christian Hanover",
+     "n": "Anthony Higgins"
+    },
+    {
+     "c": "Milton Glickman",
+     "n": "Fyvush Finkel"
+    },
+    {
+     "c": "Marie",
+     "n": "Sandra Reaves-Phillips"
+    },
+    {
+     "c": "Nora",
+     "n": "LaChanze"
+    },
+    {
+     "c": "Charlie the Doorman",
+     "n": "Mike Moyer"
+    },
+    {
+     "c": "Carmen",
+     "n": "Saverio Guerra"
+    },
+    {
+     "c": "Vincent the Bartender",
+     "n": "Daniel Hagen"
+    },
+    {
+     "c": "Mrs. Elinor Vigushin",
+     "n": "Paula Laurence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Barry Sonnenfeld"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 9024,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "New York concierge Doug Ireland wants to go into business for himself and refurbish a hotel on Roosevelt Island, N.Y., but he needs an investor. With a few weeks left before his option on the site runs out, Doug agrees to help wealthy Christian Hanover conceal his affair with salesgirl Andy Hart from his wife. Despite his own attraction to Andy, Doug tries to stay focused on getting Christian to invest $3 million in his project.",
+   "popularity": 2.9806,
+   "poster_path": "/cXkkdmC0EJxZ1JuN1RBHwqktxiT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-10-01",
+   "revenue": 11146270,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He thought there was nothing as seductive as money. He was wrong.",
+   "title": "For Love or Money",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.183,
+   "vote_count": 413
   },
   "movie:9424": {
    "backdrop_path": "/9bMAhzkuvwSXdxUIoFrYuAvkxDU.jpg",

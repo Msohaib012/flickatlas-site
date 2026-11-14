@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 23,
+ "count": 34,
  "titles": {
   "movie:1000879": {
    "backdrop_path": "/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
@@ -235,6 +235,286 @@
    "type": "movie",
    "vote_average": 5.569,
    "vote_count": 436
+  },
+  "movie:10379": {
+   "backdrop_path": "/h8EZTu4ZqzTsXWo7N14t8qEj3gN.jpg",
+   "budget": 6788000,
+   "cast": [
+    {
+     "c": "Elizabeth",
+     "n": "Phoebe Cates"
+    },
+    {
+     "c": "Drop Dead Fred",
+     "n": "Rik Mayall"
+    },
+    {
+     "c": "Polly",
+     "n": "Marsha Mason"
+    },
+    {
+     "c": "Charles",
+     "n": "Tim Matheson"
+    },
+    {
+     "c": "Janie",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Murray",
+     "n": "Keith Charles"
+    },
+    {
+     "c": "Young Elizabeth",
+     "n": "Ashley Peldon"
+    },
+    {
+     "c": "Nigel",
+     "n": "Daniel Gerroll"
+    },
+    {
+     "c": "Mickey Bunce",
+     "n": "Ron Eldard"
+    },
+    {
+     "c": "Attractive Customer",
+     "n": "Eleanor Mondale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ate de Jong"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Family",
+    "Drama"
+   ],
+   "id": 10379,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An unhappy housewife gets a lift from the return of her imaginary childhood friend, Drop Dead Fred.",
+   "popularity": 1.7632,
+   "poster_path": "/v2kadCRcRdq8a0aRbQg4yVk3Xmd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-04-19",
+   "revenue": 13878334,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Dishes. Relationships. Wind. This Guy Breaks Everything.",
+   "title": "Drop Dead Fred",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.813,
+   "vote_count": 427
+  },
+  "movie:11779": {
+   "backdrop_path": "/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Compay Segundo"
+    },
+    {
+     "c": "Self",
+     "n": "Eliades Ochoa"
+    },
+    {
+     "c": "Self",
+     "n": "Ry Cooder"
+    },
+    {
+     "c": "Self",
+     "n": "Joachim Cooder"
+    },
+    {
+     "c": "Self",
+     "n": "Ibrahim Ferrer"
+    },
+    {
+     "c": "Self",
+     "n": "Omara Portuondo"
+    },
+    {
+     "c": "Self",
+     "n": "Rubén González"
+    },
+    {
+     "c": "Self",
+     "n": "Orlando 'Cachaíto' López"
+    },
+    {
+     "c": "Self",
+     "n": "Amadito Valdés"
+    },
+    {
+     "c": "Self",
+     "n": "Manuel 'Guajiro' Mirabal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Wim Wenders"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 11779,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group's gigs in Amsterdam and New York City's famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians' life stories.",
+   "popularity": 1.8769,
+   "poster_path": "/b8psTDXSelHiab1I7L8rFdYs0IC.jpg",
+   "production_countries": [
+    "DE",
+    "US",
+    "GB",
+    "FR",
+    "CU"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-06-04",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In Havana, music isn't a pastime, it's a way of life.",
+   "title": "Buena Vista Social Club",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.476,
+   "vote_count": 394
   },
   "movie:1321179": {
    "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
@@ -783,6 +1063,424 @@
    "vote_average": 9.1,
    "vote_count": 21
   },
+  "movie:232679": {
+   "backdrop_path": "/h2WyyRB2jKpketuZ0znyANyJGjc.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Bob Ladouceur",
+     "n": "Jim Caviezel"
+    },
+    {
+     "c": "Terry Eidson",
+     "n": "Michael Chiklis"
+    },
+    {
+     "c": "Bev Ladouceur",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Mickey Ryan",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Cam Colvin",
+     "n": "Ser'Darius Blain"
+    },
+    {
+     "c": "T.K. Kelly",
+     "n": "Stephan James"
+    },
+    {
+     "c": "Tayshon Lanear",
+     "n": "Jessie T. Usher"
+    },
+    {
+     "c": "Danny Ladouceur",
+     "n": "Matthew Daddario"
+    },
+    {
+     "c": "Chris Ryan",
+     "n": "Alexander Ludwig"
+    },
+    {
+     "c": "Beaser",
+     "n": "Joe Massingill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Thomas Carter"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 232679,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young coach turns a losing high school football program around to go undefeated for 12 consecutive seasons.",
+   "popularity": 2.4512,
+   "poster_path": "/ffVhh4sBLpJCu875v6hwLJN5VNR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-08-22",
+   "revenue": 30127963,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Inspired by the extraordinary true story.",
+   "title": "When the Game Stands Tall",
+   "trailer": {
+    "key": "qT0aE4iAnJo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.682,
+   "vote_count": 396
+  },
+  "movie:354979": {
+   "backdrop_path": "/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Troy",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Mad Dog",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Diesel",
+     "n": "Christopher Matthew Cook"
+    },
+    {
+     "c": "Moon Man",
+     "n": "Omar J. Dorsey"
+    },
+    {
+     "c": "Zoe",
+     "n": "Louisa Krause"
+    },
+    {
+     "c": "Lina",
+     "n": "Melissa Bolona"
+    },
+    {
+     "c": "Chepe",
+     "n": "Reynaldo Gallegos"
+    },
+    {
+     "c": "Sheila",
+     "n": "Chelcie Lynn"
+    },
+    {
+     "c": "Maurie",
+     "n": "Bruce Reizen"
+    },
+    {
+     "c": "Daniece",
+     "n": "Nicky Whelan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Schrader"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 354979,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ex-cons Troy, Mad Dog, and Diesel are hired by an eccentric mob boss to kidnap a baby and hold it for a large ransom. When the abduction goes awry, the men find themselves on the run from the mob and the cops. Vowing to stay out of prison at all costs, getting away with the crime is a matter of life and death.",
+   "popularity": 2.0254,
+   "poster_path": "/ve6qJRjs2OUsXLIHLson3j4eVTB.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-18",
+   "revenue": 184404,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dog Eat Dog",
+   "trailer": {
+    "key": "0EBcYOpS2iU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.136,
+   "vote_count": 397
+  },
+  "movie:363579": {
+   "backdrop_path": "/ohiUEBRpfMFKEnU2CCQ7jq5KRT0.jpg",
+   "budget": 9620000,
+   "cast": [
+    {
+     "c": "Lee Jung-chool",
+     "n": "Song Kang-ho"
+    },
+    {
+     "c": "Kim Woo-jin",
+     "n": "Gong Yoo"
+    },
+    {
+     "c": "Yun Gye-soon",
+     "n": "Han Ji-min"
+    },
+    {
+     "c": "Higashi",
+     "n": "Shingo Tsurumi"
+    },
+    {
+     "c": "Hashimoto",
+     "n": "Um Tae-goo"
+    },
+    {
+     "c": "Jo Hwe-ryung",
+     "n": "Shin Sung-rok"
+    },
+    {
+     "c": "Jung Chae-san",
+     "n": "Lee Byung-hun"
+    },
+    {
+     "c": "Kim Jang-ok",
+     "n": "Park Hee-soon"
+    },
+    {
+     "c": "Ha Il-soo",
+     "n": "Heo Sung-tae"
+    },
+    {
+     "c": "Heo Chul-joo",
+     "n": "Kim Dong-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Kim Jee-woon"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 363579,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Set in the late 1920s, The Age of Shadows follows the cat-and-mouse game that unfolds between a group of resistance fighters trying to bring in explosives from Shanghai to destroy key Japanese facilities in Seoul, and Japanese agents trying to stop them.",
+   "popularity": 2.4722,
+   "poster_path": "/kHiBkgmMY8QJQo2r5yXRhJ7P7k.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-09-07",
+   "revenue": 53165427,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ko",
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Infiltrate and deceive.",
+   "title": "The Age of Shadows",
+   "trailer": {
+    "key": "Pmg168t67Vs",
+    "name": "[THE AGE OF SHADOWS] (밀정) Official Teaser Trailer w/ English Subtitles [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.206,
+   "vote_count": 389
+  },
   "movie:450179": {
    "backdrop_path": "/kprXFwqItxrDuDZk0nyPNNCxm6z.jpg",
    "budget": 7033745,
@@ -921,6 +1619,382 @@
    "vote_average": 5.5,
    "vote_count": 452
   },
+  "movie:530079": {
+   "backdrop_path": "/vooRKLGVvFRFmx9swcMh26uYZSf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Minato Hinageshi (voice)",
+     "n": "Ryota Katayose"
+    },
+    {
+     "c": "Hinako Mukaizumi (voice)",
+     "n": "Rina Kawaei"
+    },
+    {
+     "c": "Yoko Hinageshi (voice)",
+     "n": "Honoka Matsumoto"
+    },
+    {
+     "c": "Wasabi Kawamura (voice)",
+     "n": "Kentaro Ito"
+    },
+    {
+     "c": "Hinako's Mother (voice)",
+     "n": "Mami Horikoshi"
+    },
+    {
+     "c": "Junko (voice)",
+     "n": "You Taichi"
+    },
+    {
+     "c": "Ai (voice)",
+     "n": "Mai Nishikawa"
+    },
+    {
+     "c": "Chiba Port Tower Public Address Announcer (voice)",
+     "n": "Daiki Hamano"
+    },
+    {
+     "c": "Leader (voice)",
+     "n": "Kenji Sugimura"
+    },
+    {
+     "c": "Commander (voice)",
+     "n": "Kunihiro Kawamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Masaaki Yuasa"
+   ],
+   "genres": [
+    "Animation",
+    "Romance",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 530079,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Hinako is a surf-loving college student who has just moved to a small seaside town. When a sudden fire breaks out at her apartment building, she is rescued by Minato, a handsome firefighter, and the two soon fall in love.",
+   "popularity": 2.7139,
+   "poster_path": "/byoY2stdullEcVjlaWs1ENXyrDm.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-06-21",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "True love knows no boundaries.",
+   "title": "Ride Your Wave",
+   "trailer": {
+    "key": "Cl1AI-3zcnk",
+    "name": "Ride Your Wave - UK Premiere at Scotland Loves Anime 2019 film festival",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.531,
+   "vote_count": 393
+  },
+  "movie:575479": {
+   "backdrop_path": "/qDBmY1cd8aAZMLL1gAlm3EtkFsZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naïma",
+     "n": "Mina Farid"
+    },
+    {
+     "c": "Sofia",
+     "n": "Zahia Dehar"
+    },
+    {
+     "c": "Philippe",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Andres",
+     "n": "Nuno Lopes"
+    },
+    {
+     "c": "Calypso",
+     "n": "Clotilde Courau"
+    },
+    {
+     "c": "Dodo",
+     "n": "Lakdhar Dridi"
+    },
+    {
+     "c": "Dounia",
+     "n": "Loubna Abidar"
+    },
+    {
+     "c": "Stewart",
+     "n": "Henri-Noël Tabary"
+    },
+    {
+     "c": "Chef",
+     "n": "Cédric Appietto"
+    },
+    {
+     "c": "Guy at the Beach",
+     "n": "Mickaël Migliorini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rebecca Zlotowski"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 575479,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Naïma has just turned 16. This summer, she will have to decide what she wants from life if she doesn’t want to miss out. Then her cousin Sofia arrives, with an amazing body and a dangerously seductive lifestyle. Naïma desires only to follow her own path, so long as it leads upwards… Despite the warnings of her best friend Dodo, she and Sofia will live through unforgettable encounters during a long summer that will mark them forever.",
+   "popularity": 1.9226,
+   "poster_path": "/9AhB1u1vUXoumoHbcGhw7VnS0L2.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-28",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "An Easy Girl",
+   "trailer": {
+    "key": "yvFGs-Ob8OA",
+    "name": "AN EASY GIRL trailer | BFI London Film Festival 2019",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.519,
+   "vote_count": 387
+  },
+  "movie:592279": {
+   "backdrop_path": "/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Kalashnikov",
+     "n": "Yura Borisov"
+    },
+    {
+     "c": "Katya",
+     "n": "Olga Lerman"
+    },
+    {
+     "c": "Engineer captain Lyutyy",
+     "n": "Artur Smolyaninov"
+    },
+    {
+     "c": "Zaytsev",
+     "n": "Eldar Kalimulin"
+    },
+    {
+     "c": "Major General Kurbatkin",
+     "n": "Vitaly Khaev"
+    },
+    {
+     "c": "Major General Degtyarev",
+     "n": "Valeriy Barinov"
+    },
+    {
+     "c": "Colonel Glukhov",
+     "n": "Anatoliy Lobotskiy"
+    },
+    {
+     "c": "State security captain Lobov",
+     "n": "Aleksey Vertkov"
+    },
+    {
+     "c": "Engineer Major Sudaev",
+     "n": "Dmitriy Bogdan"
+    },
+    {
+     "c": "Kazakov",
+     "n": "Maksim Bityukov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Konstantin Buslov"
+   ],
+   "genres": [
+    "War",
+    "History",
+    "Drama"
+   ],
+   "id": 592279,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "A Russian military propaganda film about the tank commander Kalashnikov, severely injured in battle in 1941. The accident leaves him incapacitated and unable to return to the front line. While recovering in the hospital, he begins creating the initial sketches of what will become one of the world’s most legendary weapons. A self-taught inventor is only 29 when he develops the now iconic assault riffle — the AK-47. Shot in occupied Crimea.",
+   "popularity": 1.9723,
+   "poster_path": "/wck8uKybfkHttcjoNlKoC0f7oBw.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-20",
+   "revenue": 1593464,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The weapon that would change the world",
+   "title": "Kalashnikov AK-47",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.568,
+   "vote_count": 420
+  },
   "movie:606679": {
    "backdrop_path": "/xw2Qyos3clcRz87xS5fkoagL506.jpg",
    "budget": 0,
@@ -1033,6 +2107,242 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 483
+  },
+  "movie:624479": {
+   "backdrop_path": "/rRo1EzVd0E8GAOAeCulPpekKwjP.jpg",
+   "budget": 54000000,
+   "cast": [
+    {
+     "c": "Clark Kent / Superman",
+     "n": "Christopher Reeve"
+    },
+    {
+     "c": "Lois Lane",
+     "n": "Margot Kidder"
+    },
+    {
+     "c": "Lex Luthor",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Jor-El",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Otis",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "Perry White",
+     "n": "Jackie Cooper"
+    },
+    {
+     "c": "Ursa",
+     "n": "Sarah Douglas"
+    },
+    {
+     "c": "Non",
+     "n": "Jack O'Halloran"
+    },
+    {
+     "c": "Eve Teschmacher",
+     "n": "Valerie Perrine"
+    },
+    {
+     "c": "Sheriff",
+     "n": "Clifton James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard Donner"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 624479,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+   "popularity": 2.6542,
+   "poster_path": "/dkLplIwss7Jleh82NawyGyFNMgJ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-11-02",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The version you have never seen.",
+   "title": "Superman II: The Richard Donner Cut",
+   "trailer": {
+    "key": "HGTeCN0iq0Q",
+    "name": "Superman: The Motion Picture Anthology Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.342,
+   "vote_count": 430
+  },
+  "movie:762079": {
+   "backdrop_path": "/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eva",
+     "n": "Eugénie Derouand"
+    },
+    {
+     "c": "Sophie",
+     "n": "Honorine Magnier"
+    },
+    {
+     "c": "William",
+     "n": "Clément Olivieri"
+    },
+    {
+     "c": "Antoine",
+     "n": "Janis Abrikh"
+    },
+    {
+     "c": "Boris",
+     "n": "Cyril Garnier"
+    },
+    {
+     "c": "Thomas",
+     "n": "Vladimir Perrin"
+    },
+    {
+     "c": "John",
+     "n": "Jérôme Paquatte"
+    },
+    {
+     "c": "Myriam",
+     "n": "Laura Presgurvic"
+    },
+    {
+     "c": "Agnès",
+     "n": "Isabelle Tanakil"
+    },
+    {
+     "c": "Eva's Father",
+     "n": "Jean-François Garreaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Patrick Ridremont"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 762079,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Eva, an ex-dancer, is now living in a wheelchair, unable to walk. When her friend Sophie gives her an old wooden antique advent calendar before Christmas, she realizes each window contains a surprise that triggers repercussions in real life: some of them good, but most of them bad... Now Eva will have to choose between getting rid of the calendar or walking again… even if it causes death around her.",
+   "popularity": 1.3845,
+   "poster_path": "/psaYUHDotafhVNAE1pZN2GkRXJY.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-01",
+   "revenue": 456555,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Will you live until Christmas this year?",
+   "title": "The Advent Calendar",
+   "trailer": {
+    "key": "4bIDME7VA54",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.677,
+   "vote_count": 421
   },
   "movie:799379": {
    "backdrop_path": "/mIW7eFxHnNqlwKwKWb6dpVjmHao.jpg",
@@ -1165,6 +2475,139 @@
    "type": "movie",
    "vote_average": 6.454,
    "vote_count": 477
+  },
+  "movie:8079": {
+   "backdrop_path": "/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+   "budget": 9100000,
+   "cast": [
+    {
+     "c": "Om Prakash Makhija / Om Kapoor",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Shantipriya / Sandy",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Mukesh “Mike” Mehra",
+     "n": "Arjun Rampal"
+    },
+    {
+     "c": "Bela Makhija",
+     "n": "Kirron Kher"
+    },
+    {
+     "c": "Pappu Master",
+     "n": "Shreyas Talpade"
+    },
+    {
+     "c": "Rajesh Kapoor",
+     "n": "Javed Sheikh"
+    },
+    {
+     "c": "Lovely Kapoor",
+     "n": "Asawari Joshi"
+    },
+    {
+     "c": "Dolly",
+     "n": "Yuvika Chaudhary"
+    },
+    {
+     "c": "Dolly's Mother",
+     "n": "Bindu"
+    },
+    {
+     "c": "Anwar",
+     "n": "Nitesh Pandey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Farah Khan"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 8079,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.",
+   "popularity": 3.1248,
+   "poster_path": "/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-11-09",
+   "revenue": 37707444,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For some dreams, one lifetime is not enough.",
+   "title": "Om Shanti Om",
+   "trailer": {
+    "key": "9oeGoQGt7Ao",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 435
   },
   "movie:82679": {
    "backdrop_path": "/bK1SE6E0nik4YL7irkRFrXD6dat.jpg",

@@ -1,7 +1,157 @@
 {
  "bucket": "81",
- "count": 28,
+ "count": 34,
  "titles": {
+  "movie:12281": {
+   "backdrop_path": "/lFjONSYWA01SFDxnwRLxjUrh0GR.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Sam Merric",
+     "n": "Rory Culkin"
+    },
+    {
+     "c": "Marty",
+     "n": "Scott Mechlowicz"
+    },
+    {
+     "c": "Rocky Merric",
+     "n": "Trevor Morgan"
+    },
+    {
+     "c": "George Tooney",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Clyde",
+     "n": "Ryan Kelley"
+    },
+    {
+     "c": "Millie",
+     "n": "Carly Schroeder"
+    },
+    {
+     "c": "Kile",
+     "n": "Branden Williams"
+    },
+    {
+     "c": "Jasper",
+     "n": "Heath Lourwood"
+    },
+    {
+     "c": "Tom",
+     "n": "J.W. Crawford"
+    },
+    {
+     "c": "Detective Wright",
+     "n": "Kaz Garas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jacob Aaron Estes"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 12281,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenagers living in small-town Oregon take a boat trip for a birthday celebration. When they get an idea to play a mean trick on the town bully, it suddenly goes too far. Soon they're forced to deal with the unexpected consequences of their actions.",
+   "popularity": 1.2046,
+   "poster_path": "/nlU3SJzt5focTIkhLcO0ggnvbpW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-09-17",
+   "revenue": 603943,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beneath the surface, everyone has a secret.",
+   "title": "Mean Creek",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 432
+  },
   "movie:1258181": {
    "backdrop_path": "/rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
    "budget": 0,
@@ -792,6 +942,103 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 199
+  },
+  "movie:14881": {
+   "backdrop_path": "/xo8Mj2DI9hSivlX4DSNpNubP1Bt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe Kidd",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Frank Harlan",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Luis Chama",
+     "n": "John Saxon"
+    },
+    {
+     "c": "Lamarr Simms",
+     "n": "Don Stroud"
+    },
+    {
+     "c": "Helen Sanchez",
+     "n": "Stella Garcia"
+    },
+    {
+     "c": "Mingo",
+     "n": "James Wainwright"
+    },
+    {
+     "c": "Roy",
+     "n": "Paul Koslo"
+    },
+    {
+     "c": "Mitchell",
+     "n": "Gregory Walcott"
+    },
+    {
+     "c": "Hotel Manager",
+     "n": "Dick Van Patten"
+    },
+    {
+     "c": "Elma",
+     "n": "Lynne Marta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Sturges"
+   ],
+   "genres": [
+    "Western",
+    "Drama"
+   ],
+   "id": 14881,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A band of Mexicans find their U. S. land claims denied and all the records destroyed in a courthouse fire. Their leader, Louis Chama, encourages them to use force to regain their land. A wealthy landowner wanting the same decides to hire a gang of killers with Joe Kidd to track Chama.",
+   "popularity": 2.3457,
+   "poster_path": "/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1972-07-19",
+   "revenue": 6330000,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you're looking for trouble...he's Joe Kidd.",
+   "title": "Joe Kidd",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.398,
+   "vote_count": 431
   },
   "movie:1560681": {
    "backdrop_path": "/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
@@ -1675,6 +1922,488 @@
    "vote_average": 5.2,
    "vote_count": 440
   },
+  "movie:346681": {
+   "backdrop_path": "/cZr5milmwj3hLbcMxZc4yszwn0O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wilson",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Jodie",
+     "n": "Mary Lynn Rajskub"
+    },
+    {
+     "c": "Polly",
+     "n": "Cheryl Hines"
+    },
+    {
+     "c": "Claire",
+     "n": "Isabella Amara"
+    },
+    {
+     "c": "Pippi",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Shelly",
+     "n": "Judy Greer"
+    },
+    {
+     "c": "Robert",
+     "n": "Brett Gelman"
+    },
+    {
+     "c": "Alta",
+     "n": "Margo Martindale"
+    },
+    {
+     "c": "Orson",
+     "n": "David Warshofsky"
+    },
+    {
+     "c": "Dog Lover",
+     "n": "Sandra Lee-Oian Thomas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Craig Johnson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 346681,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Middle-aged and divorced, Wilson finds himself lonely, smug, and obsessed with his past.",
+   "popularity": 1.5892,
+   "poster_path": "/m63h5MxevYrKn3720hVgKZAx86S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-24",
+   "revenue": 653951,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Positively Negative.",
+   "title": "Wilson",
+   "trailer": {
+    "key": "jjPxlzjuLww",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 391
+  },
+  "movie:408381": {
+   "backdrop_path": "/iY5y6Cj5AMUKqeNdroJayIeZSzY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandra",
+     "n": "Katrina Bowden"
+    },
+    {
+     "c": "David",
+     "n": "Nixon Hodges"
+    },
+    {
+     "c": "David",
+     "n": "Crew Hodges"
+    },
+    {
+     "c": "Carl",
+     "n": "Damon Dayoub"
+    },
+    {
+     "c": "Ted",
+     "n": "Brandon W. Jones"
+    },
+    {
+     "c": "Jessa",
+     "n": "Ashley Madekwe"
+    },
+    {
+     "c": "Roy Lacombe",
+     "n": "Jay Hayden"
+    },
+    {
+     "c": "Youth",
+     "n": "Andrea Ellsworth"
+    },
+    {
+     "c": "Carefree",
+     "n": "Lauren McKnight"
+    },
+    {
+     "c": "Happy",
+     "n": "Justine Wachsberger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ivan Silvestrini"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Horror"
+   ],
+   "id": 408381,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A mother and her son plan a surprise visit to Los Angeles to see her husband/his father. Halfway there they get into a terrible accident in the middle of nowhere and now must fight to survive.",
+   "popularity": 1.3853,
+   "poster_path": "/gyI1M8toCUr6xlVnVqXOdATg9gY.jpg",
+   "production_countries": [
+    "IT",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Troma NOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/A8GVl6Pu2O0KVYVtijBHIsZ6LQn.png",
+     "name": "Troma NOW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-05-12",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Technology can be your best friend or your worst enemy.",
+   "title": "Monolith",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.347,
+   "vote_count": 399
+  },
+  "movie:506281": {
+   "backdrop_path": "/qkymqmJW6IdZBIRWD66Ns4HHGJq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abigail",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Dyer",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Tallie",
+     "n": "Vanessa Kirby"
+    },
+    {
+     "c": "Finney",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Widow Weldon's Son",
+     "n": "Kim Ciobanu"
+    },
+    {
+     "c": "Tinker",
+     "n": "Daniel Blumberg"
+    },
+    {
+     "c": "Mother",
+     "n": "Andreea Vasile"
+    },
+    {
+     "c": "Man No. 1",
+     "n": "James Longshore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mona Fastvold"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Western"
+   ],
+   "id": 506281,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+   "popularity": 2.838,
+   "poster_path": "/6GJQXJ96FUbXtB01VXAdp854qOt.jpg",
+   "production_countries": [
+    "FR",
+    "RO",
+    "RU",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-02-12",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The World to Come",
+   "trailer": {
+    "key": "RhQu4tcHLeU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.976,
+   "vote_count": 432
+  },
   "movie:5781": {
    "backdrop_path": "/79ofDLTW1ozMSYDNWhDYe5cQzAa.jpg",
    "budget": 0,
@@ -1963,6 +2692,115 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 473
+  },
+  "movie:928381": {
+   "backdrop_path": "/7CamWBejQ9JQOO5vAghZfrFpMXY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas Blin",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Antoine Marelli",
+     "n": "Simon Abkarian"
+    },
+    {
+     "c": "Marc Andrade",
+     "n": "Michaël Abiteboul"
+    },
+    {
+     "c": "Naomi",
+     "n": "Tracy Gotoas"
+    },
+    {
+     "c": "Commissioner Vaubour",
+     "n": "Serge Hazanavicius"
+    },
+    {
+     "c": "Louise",
+     "n": "Victoire Zenner"
+    },
+    {
+     "c": "Michael Bourgi",
+     "n": "Perez Michael"
+    },
+    {
+     "c": "Barcelo",
+     "n": "Nabil Missoumi"
+    },
+    {
+     "c": "Mortuary room manager",
+     "n": "Fabrice de la Villehervé"
+    },
+    {
+     "c": "Nurse",
+     "n": "Anaïs Ciriello"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Régis Blondeau"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 928381,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+   "popularity": 1.6248,
+   "poster_path": "/aw4GGsRwhQtyLsjzC7dsAahfCDY.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-25",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Restless",
+   "trailer": {
+    "key": "L8tCoWmooRE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 430
   },
   "movie:9781": {
    "backdrop_path": "/NH15yF3nLKyYpog18sy5ynnGBf.jpg",

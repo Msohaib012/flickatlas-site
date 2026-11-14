@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 36,
+ "count": 44,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -519,6 +519,145 @@
    "vote_average": 6.279,
    "vote_count": 749
   },
+  "movie:12501": {
+   "backdrop_path": "/mqMCvFJ3fRc7RXa0w6A0VRZ1b7F.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James McKay",
+     "n": "Gregory Peck"
+    },
+    {
+     "c": "Julie Maragon",
+     "n": "Jean Simmons"
+    },
+    {
+     "c": "Patricia Terrill",
+     "n": "Carroll Baker"
+    },
+    {
+     "c": "Steve Leech",
+     "n": "Charlton Heston"
+    },
+    {
+     "c": "Rufus Hannassey",
+     "n": "Burl Ives"
+    },
+    {
+     "c": "Major Henry Terrill",
+     "n": "Charles Bickford"
+    },
+    {
+     "c": "Ramón Guiteras",
+     "n": "Alfonso Bedoya"
+    },
+    {
+     "c": "Buck Hannassey",
+     "n": "Chuck Connors"
+    },
+    {
+     "c": "Rafe Hannassey",
+     "n": "Chuck Hayward"
+    },
+    {
+     "c": "Dude Hannassey",
+     "n": "Buff Brady"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "William Wyler"
+   ],
+   "genres": [
+    "Drama",
+    "Western",
+    "Romance"
+   ],
+   "id": 12501,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
+   "popularity": 3.0372,
+   "poster_path": "/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1958-08-13",
+   "revenue": 3500000,
+   "runtime": 167,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Big they fought! Big they loved! Big their story!",
+   "title": "The Big Country",
+   "trailer": {
+    "key": "17zDhnPwVik",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.585,
+   "vote_count": 436
+  },
   "movie:1261501": {
    "backdrop_path": "/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
    "budget": 0,
@@ -627,6 +766,279 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 474
+  },
+  "movie:127501": {
+   "backdrop_path": "/581O5n2p5I7Zz0SgKjIucslHPTA.jpg",
+   "budget": 4437508,
+   "cast": [
+    {
+     "c": "Murphy Johnson \"Barfi\"",
+     "n": "Ranbir Kapoor"
+    },
+    {
+     "c": "Jhilmil Chatterjee",
+     "n": "Priyanka Chopra Jonas"
+    },
+    {
+     "c": "Shruti Ghosh Sengupta",
+     "n": "Ileana D'Cruz"
+    },
+    {
+     "c": "Sub-Inspector Sudhanshu Dutta",
+     "n": "Saurabh Shukla"
+    },
+    {
+     "c": "Ranjit Sengupta",
+     "n": "Jisshu Sengupta"
+    },
+    {
+     "c": "Durjoy Chatterjee",
+     "n": "Ashish Vidhyarthi"
+    },
+    {
+     "c": "Jung Bahadur Johnson",
+     "n": "Akash Khurana"
+    },
+    {
+     "c": "Shruti's mother",
+     "n": "Roopa Ganguly"
+    },
+    {
+     "c": "Miss D'Souza",
+     "n": "Sujata Sehgal"
+    },
+    {
+     "c": "Jhilmil's Grandfather",
+     "n": "Arun Bali"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Anurag Basu"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 127501,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "The heartwarming tale of Barfi, a charming deaf-mute young man from 1970s Darjeeling, and two unalike women who can't help but fall for him.",
+   "popularity": 1.3641,
+   "poster_path": "/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-14",
+   "revenue": 2804874,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Barfi!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.631,
+   "vote_count": 402
+  },
+  "movie:13701": {
+   "backdrop_path": "/4wrdhfmmv9fQkmiPRl3d8NACjh9.jpg",
+   "budget": 120,
+   "cast": [
+    {
+     "c": "Ludwig van Beethoven",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Anton Felix Schindler",
+     "n": "Jeroen Krabbé"
+    },
+    {
+     "c": "Anna Marie Erdödy",
+     "n": "Isabella Rossellini"
+    },
+    {
+     "c": "Johanna Reiss",
+     "n": "Johanna ter Steege"
+    },
+    {
+     "c": "Karl van Beethoven",
+     "n": "Marco Hofschneider"
+    },
+    {
+     "c": "Nanette Streicherová",
+     "n": "Miriam Margolyes"
+    },
+    {
+     "c": "Clemens Metternich",
+     "n": "Barry Humphries"
+    },
+    {
+     "c": "Giulietta Guicciardi",
+     "n": "Valeria Golino"
+    },
+    {
+     "c": "Nikolaus Johann van Beethoven",
+     "n": "Gerard Horan"
+    },
+    {
+     "c": "Kaspar Anton Carl van Beethoven",
+     "n": "Christopher Fulford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bernard Rose"
+   ],
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "id": 13701,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A chronicle of the life of infamous classical composer Ludwig van Beethoven and his painful struggle with hearing loss. Following Beethoven's death in 1827, his assistant, Schindler, searches for an elusive woman referred to in the composer's love letters as \"immortal beloved.\" As Schindler solves the mystery, a series of flashbacks reveal Beethoven's transformation from passionate young man to troubled musical genius.",
+   "popularity": 2.1364,
+   "poster_path": "/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-01-27",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Immortal Beloved",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 387
   },
   "movie:1397201": {
    "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
@@ -1276,6 +1688,238 @@
    "vote_average": 6.2,
    "vote_count": 449
   },
+  "movie:22201": {
+   "backdrop_path": "/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marshal Wyatt Earp",
+     "n": "Burt Lancaster"
+    },
+    {
+     "c": "Dr. John 'Doc' Holliday",
+     "n": "Kirk Douglas"
+    },
+    {
+     "c": "Kate Fisher",
+     "n": "Jo Van Fleet"
+    },
+    {
+     "c": "Laura Denbow",
+     "n": "Rhonda Fleming"
+    },
+    {
+     "c": "Johnny Ringo",
+     "n": "John Ireland"
+    },
+    {
+     "c": "Ike Clanton",
+     "n": "Lyle Bettger"
+    },
+    {
+     "c": "Sheriff Cotton Wilson",
+     "n": "Frank Faylen"
+    },
+    {
+     "c": "Deputy Sheriff Charles 'Charlie' Bassett",
+     "n": "Earl Holliman"
+    },
+    {
+     "c": "Shanghai Pierce",
+     "n": "Ted de Corsia"
+    },
+    {
+     "c": "Billy Clanton",
+     "n": "Dennis Hopper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Sturges"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 22201,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary Gunfight at the O.K. Corral.",
+   "popularity": 2.7982,
+   "poster_path": "/71AQUFbw49ALCNtKZ69flFmbRhF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "TCM"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1957-05-30",
+   "revenue": 11750000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Wildest Gunfight in the History of the West!",
+   "title": "Gunfight at the O.K. Corral",
+   "trailer": {
+    "key": "xhvD9zcPXU4",
+    "name": "Gunfight at the O.K. Corral - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 407
+  },
+  "movie:28501": {
+   "backdrop_path": "/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Nicholas Medina / Sebastian Medina",
+     "n": "Vincent Price"
+    },
+    {
+     "c": "Francis Barnard",
+     "n": "John Kerr"
+    },
+    {
+     "c": "Elizabeth Barnard Medina",
+     "n": "Barbara Steele"
+    },
+    {
+     "c": "Catherine Medina",
+     "n": "Luana Anders"
+    },
+    {
+     "c": "Doctor Leon",
+     "n": "Antony Carbone"
+    },
+    {
+     "c": "Maximillian",
+     "n": "Patrick Westwood"
+    },
+    {
+     "c": "Maria",
+     "n": "Lynette Bernay"
+    },
+    {
+     "c": "Isabella",
+     "n": "Mary Menzies"
+    },
+    {
+     "c": "Bartolome",
+     "n": "Charles Victor"
+    },
+    {
+     "c": "Young Nicholas",
+     "n": "Larry Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Roger Corman"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 28501,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister's death after she had married the son of a cruel Spanish Inquisitor.",
+   "popularity": 2.2755,
+   "poster_path": "/6hOTmFaePluI5eicY4XTv6hg0T0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1961-08-12",
+   "revenue": 2000000,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Betrayal cuts both ways!",
+   "title": "The Pit and the Pendulum",
+   "trailer": {
+    "key": "QChBy15UiTs",
+    "name": "Theatrical Trailer - The Pit and the Pendulum (Vincent Price)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.854,
+   "vote_count": 411
+  },
   "movie:340101": {
    "backdrop_path": "/vZbAwP1LthxHzRnodvVwXKwUk4n.jpg",
    "budget": 11795877,
@@ -1609,6 +2253,156 @@
    "vote_average": 7.415,
    "vote_count": 490
   },
+  "movie:470401": {
+   "backdrop_path": "/uLEjkm2vcqBcWzH5eX7YvAE8OVJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jan Broberg Felt"
+    },
+    {
+     "c": "Self",
+     "n": "Mary Ann Broberg"
+    },
+    {
+     "c": "Self",
+     "n": "Bob Broberg"
+    },
+    {
+     "c": "Self",
+     "n": "Susan Broberg"
+    },
+    {
+     "c": "Self",
+     "n": "Pete Welsh"
+    },
+    {
+     "c": "Self",
+     "n": "Karen Campbell"
+    },
+    {
+     "c": "Self",
+     "n": "Joe Berchtold"
+    },
+    {
+     "c": "Self",
+     "n": "Cor Hoffman"
+    },
+    {
+     "c": "Self",
+     "n": "Annette E. Belnap"
+    },
+    {
+     "c": "Self",
+     "n": "Danielle Holjeson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Skye Borgman"
+   ],
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 470401,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.",
+   "popularity": 1.5602,
+   "poster_path": "/r6nEKjNjLEdZC3QPnSk84oFHkWn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-05-26",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every parent's worst nightmare.",
+   "title": "Abducted in Plain Sight",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.57,
+   "vote_count": 408
+  },
   "movie:508101": {
    "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
    "budget": 0,
@@ -1845,6 +2639,107 @@
    "vote_average": 6.0,
    "vote_count": 438
   },
+  "movie:7501": {
+   "backdrop_path": "/eZTEtIU8AORfmVa7YcRBlAfbgA1.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Matty Demaret",
+     "n": "Barry Pepper"
+    },
+    {
+     "c": "Chris Scarpa",
+     "n": "Andy Davoli"
+    },
+    {
+     "c": "Benny Chains",
+     "n": "Dennis Hopper"
+    },
+    {
+     "c": "Johnny Marbles",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Taylor Reese",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Teddy Deserve",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Sheriff Decker",
+     "n": "Tom Noonan"
+    },
+    {
+     "c": "Billy Clueless",
+     "n": "Arthur J. Nascarella"
+    },
+    {
+     "c": "Brucker",
+     "n": "Kevin Gage"
+    },
+    {
+     "c": "Freddy the Watch",
+     "n": "Nicholas Pasco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Koppelman",
+    "David Levien"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 7501,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four sons of well-known New York mobsters must retrieve a bag of cash from a small Montana town ruled by a corrupt sheriff.",
+   "popularity": 1.9167,
+   "poster_path": "/oYqsIxxIfJMRHiNEMLzgG81brkY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-11-30",
+   "revenue": 12806614,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If they don't finish the job, their fathers will finish them.",
+   "title": "Knockaround Guys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.088,
+   "vote_count": 414
+  },
   "movie:81401": {
    "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
    "budget": 1000000,
@@ -1937,6 +2832,102 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 441
+  },
+  "movie:9501": {
+   "backdrop_path": "/aNPC0up2DinxoW23lF6R6yGLTAQ.jpg",
+   "budget": 6100000,
+   "cast": [
+    {
+     "c": "Yo Hinomura / Freeman",
+     "n": "Mark Dacascos"
+    },
+    {
+     "c": "Emu O'Hara",
+     "n": "Julie Condra"
+    },
+    {
+     "c": "Detective Forge",
+     "n": "Rae Dawn Chong"
+    },
+    {
+     "c": "Koh",
+     "n": "Byron Mann"
+    },
+    {
+     "c": "Ryuji Hanada",
+     "n": "Masaya Katō"
+    },
+    {
+     "c": "Lady Hanada",
+     "n": "Yoko Shimada"
+    },
+    {
+     "c": "Shudo Shimazaki",
+     "n": "Mako"
+    },
+    {
+     "c": "Detective Netah",
+     "n": "Tchéky Karyo"
+    },
+    {
+     "c": "Takeshi Shimazaki",
+     "n": "Kevan Ohtsji"
+    },
+    {
+     "c": "Customs Agent",
+     "n": "Debbie Podowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Christophe Gans"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 9501,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US",
+    "FR",
+    "JP"
+   ],
+   "original_language": "en",
+   "overview": "A lethal assassin for a secret Chinese organisation, who sheds tears of regret each time he kills, is seen swiftly and mercilessly executing three Yakuza gangsters by a beautiful artist. She is captivated by the grace of his kill and later falls in love with him. An intense power struggle for the leadership of the Yakuza Clans ensues as they seek vengeance for the death of their leader.",
+   "popularity": 2.5592,
+   "poster_path": "/8vkvIlExu2a8ZJRdbw5rywmeaQX.jpg",
+   "production_countries": [
+    "CA",
+    "FR",
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1995-04-23",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Once in a lifetime comes the perfect killer",
+   "title": "Crying Freeman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.391,
+   "vote_count": 387
   },
   "movie:952701": {
    "backdrop_path": "/ngsAuG8JYOiuwgGejN7xljgETNt.jpg",

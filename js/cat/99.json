@@ -1,6 +1,6 @@
 {
  "bucket": "99",
- "count": 17,
+ "count": 29,
  "titles": {
   "movie:109099": {
    "backdrop_path": "/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
@@ -498,6 +498,220 @@
    "type": "movie",
    "vote_average": 5.929,
    "vote_count": 35
+  },
+  "movie:12699": {
+   "backdrop_path": "/2p97B1Bv0s7cK6P4dK0nYlVJjRD.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Chelsea",
+     "n": "Katheryn Winnick"
+    },
+    {
+     "c": "Jake",
+     "n": "Christopher Jacot"
+    },
+    {
+     "c": "Mike",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Derrick",
+     "n": "Khary Payton"
+    },
+    {
+     "c": "Allison",
+     "n": "Anna Tolputt"
+    },
+    {
+     "c": "The Host",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Pinhead",
+     "n": "Doug Bradley"
+    },
+    {
+     "c": "Adam",
+     "n": "Stelian Urian"
+    },
+    {
+     "c": "Sister Ursala",
+     "n": "Catalina Alexandru"
+    },
+    {
+     "c": "Police Officer #1",
+     "n": "Victor McGuire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rick Bota"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 12699,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When five hardcore Internet gamers are invited to a special party thrown by the website Hellworld, they endure a night of unspeakable terror.",
+   "popularity": 2.3093,
+   "poster_path": "/jyeet52vADTNTw9X29e2AnSv49r.jpg",
+   "production_countries": [
+    "RO",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-09-06",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil goes online.",
+   "title": "Hellraiser: Hellworld",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 415
+  },
+  "movie:13199": {
+   "backdrop_path": "/l7JoZghpEh7rfzc5eRKKUzlv3BY.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Montoya Santana",
+     "n": "Edward James Olmos"
+    },
+    {
+     "c": "J.D.",
+     "n": "William Forsythe"
+    },
+    {
+     "c": "Mundo",
+     "n": "Pepe Serna"
+    },
+    {
+     "c": "Young Montoya Santana",
+     "n": "Panchito Gómez"
+    },
+    {
+     "c": "Young J.D.",
+     "n": "Steve Wilcox"
+    },
+    {
+     "c": "Puppet",
+     "n": "Danny De La Paz"
+    },
+    {
+     "c": "Pedro Santana",
+     "n": "Sal Lopez"
+    },
+    {
+     "c": "Yolanda",
+     "n": "Dyana Ortelli"
+    },
+    {
+     "c": "Deacon",
+     "n": "William Smith"
+    },
+    {
+     "c": "Julie",
+     "n": "Evelina Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edward James Olmos"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 13199,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During his 18 years in Folsom Prison, street-gang leader Santana rules over all the drug-and-murder activities behind bars. Upon his release, Santana goes back to his old neighborhood, intending to lead a peaceful, crime-free life. But his old gang buddies force him back into his old habits.",
+   "popularity": 2.1849,
+   "poster_path": "/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-03-13",
+   "revenue": 13100000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In prison they are the law. On the streets they are the power.",
+   "title": "American Me",
+   "trailer": {
+    "key": "uS-kGp0Fjho",
+    "name": "American Me - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 426
   },
   "movie:14299": {
    "backdrop_path": "/ubgl0v0crnOGYPGkR2hhIwv7Chm.jpg",
@@ -1040,6 +1254,943 @@
    "vote_average": 6.499,
    "vote_count": 474
   },
+  "movie:1999": {
+   "backdrop_path": "/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
+   "budget": 1700000,
+   "cast": [
+    {
+     "c": "Matt Fowler",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "Ruth Fowler",
+     "n": "Sissy Spacek"
+    },
+    {
+     "c": "Frank Fowler",
+     "n": "Nick Stahl"
+    },
+    {
+     "c": "Natalie Strout",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Richard Strout",
+     "n": "William Mapother"
+    },
+    {
+     "c": "Willis Grinnel",
+     "n": "William Wise"
+    },
+    {
+     "c": "Katie Grinnel",
+     "n": "Celia Weston"
+    },
+    {
+     "c": "Marla Keyes",
+     "n": "Karen Allen"
+    },
+    {
+     "c": "Henry",
+     "n": "Frank T. Wells"
+    },
+    {
+     "c": "Carl",
+     "n": "W. Clapham Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Field"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1999,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy.",
+   "popularity": 2.9456,
+   "poster_path": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-04-25",
+   "revenue": 44800000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A young man. An older woman. Her ex-husband. Things are about to explode...",
+   "title": "In the Bedroom",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.928,
+   "vote_count": 425
+  },
+  "movie:236399": {
+   "backdrop_path": "/mQUNXRA6uaf4kS1mUUoDKk4qaDB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Corrine",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Cathy",
+     "n": "Kiernan Shipka"
+    },
+    {
+     "c": "Christopher",
+     "n": "Mason Dye"
+    },
+    {
+     "c": "Carrie",
+     "n": "Ava Telek"
+    },
+    {
+     "c": "Cory",
+     "n": "Maxwell Kovach"
+    },
+    {
+     "c": "Bart",
+     "n": "Dylan Bruce"
+    },
+    {
+     "c": "Dad",
+     "n": "Chad Willett"
+    },
+    {
+     "c": "Grandmother",
+     "n": "Ellen Burstyn"
+    },
+    {
+     "c": "Mr. Foxworth",
+     "n": "Beau Daniels"
+    },
+    {
+     "c": "Female Guest",
+     "n": "Laura Jaye"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Deborah Chow"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "TV Movie"
+   ],
+   "id": 236399,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "After the sudden death of their father, four children face cruel treatment from their ruthless grandmother.",
+   "popularity": 3.3275,
+   "poster_path": "/owzDkkxL2DogC2mq1fgIvrlDcux.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Lifetime Movie Club"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uIEpwbQFkFlcadP7p6DUOKRpmHp.png",
+     "name": "Lifetime Movie Club",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-01-18",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Flowers in the Attic",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 425
+  },
+  "movie:258099": {
+   "backdrop_path": "/x6i6ktXpzsrFKyg5MOxTugxLB5v.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ted Morgan",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Greta",
+     "n": "Olivia Thirlby"
+    },
+    {
+     "c": "Kathleen Morgan",
+     "n": "Kate Walsh"
+    },
+    {
+     "c": "Lucky Morgan",
+     "n": "Garret Dillahunt"
+    },
+    {
+     "c": "Rawly Stansfield",
+     "n": "Rob Riggle"
+    },
+    {
+     "c": "Albert Danzig",
+     "n": "David Arquette"
+    },
+    {
+     "c": "Zeke Morgan",
+     "n": "Kyle Gallner"
+    },
+    {
+     "c": "Dylan",
+     "n": "Jack Quaid"
+    },
+    {
+     "c": "Romeo",
+     "n": "Evan Ross"
+    },
+    {
+     "c": "Nancy",
+     "n": "Connie Stevens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Courteney Cox"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 258099,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ted Morgan has been treading water for most of his life. After his wife leaves him, Ted realizes he has nothing left to live for.  Summoning the courage for one last act, Ted decides to go home and face the people he feels are responsible for creating the shell of a person he has become.  But life is tricky.  The more determined Ted is to confront his demons, to get closure, and to withdraw from his family, the more Ted is yanked into the chaos of their lives. So, when Ted Morgan decides to kill himself, he finds a reason to live.",
+   "popularity": 1.8655,
+   "poster_path": "/rEwXZIOh3CLVA5JJmxT5kaYY6ff.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-24",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ending it all was only the beginning.",
+   "title": "Just Before I Go",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 386
+  },
+  "movie:267999": {
+   "backdrop_path": "/kkC0dtdu6LjWSkdDGprjofOm4Dy.jpg",
+   "budget": 2200000,
+   "cast": [
+    {
+     "c": "Lili",
+     "n": "Zsófia Psotta"
+    },
+    {
+     "c": "Hagen",
+     "n": "Luke"
+    },
+    {
+     "c": "Hagen",
+     "n": "Body"
+    },
+    {
+     "c": "Dániel",
+     "n": "Sándor Zsótér"
+    },
+    {
+     "c": "Old man",
+     "n": "Szabolcs Thuróczy"
+    },
+    {
+     "c": "Bev",
+     "n": "Lili Monori"
+    },
+    {
+     "c": "Conductor",
+     "n": "László Gálffi"
+    },
+    {
+     "c": "Anya",
+     "n": "Lili Horvát"
+    },
+    {
+     "c": "Péter",
+     "n": "Károly Ascher"
+    },
+    {
+     "c": "Dog-catcher #1",
+     "n": "Gergely Bánki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kornél Mundruczó"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 267999,
+   "industry": "world",
+   "origin_country": [
+    "HU"
+   ],
+   "original_language": "hu",
+   "overview": "13 year old Lili fights to protect her dog Hagen, and is devastated when her father sets Hagen free on the streets. Still innocently believing love can conquer any difficulty, Lili sets out to save her dog. Failing in his desperate efforts to find his beloved owner, Hagen joins a canine revolt leading a revolution against their human abusers.",
+   "popularity": 1.8108,
+   "poster_path": "/jT9IjPwA5aIYlgvC55VxJOLc0sI.jpg",
+   "production_countries": [
+    "HU",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-06-12",
+   "revenue": 616277,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "The unwanted will have their day.",
+   "title": "White God",
+   "trailer": {
+    "key": "kIGz2kyo26U",
+    "name": "White God - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.588,
+   "vote_count": 396
+  },
+  "movie:299": {
+   "backdrop_path": "/vJLSt7NvYP85nR4XJ8CxnMadf6G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danny Ocean",
+     "n": "Frank Sinatra"
+    },
+    {
+     "c": "Sam Harmon",
+     "n": "Dean Martin"
+    },
+    {
+     "c": "Josh Howard",
+     "n": "Sammy Davis Jr."
+    },
+    {
+     "c": "Jimmy Foster",
+     "n": "Peter Lawford"
+    },
+    {
+     "c": "Beatrice Ocean",
+     "n": "Angie Dickinson"
+    },
+    {
+     "c": "Anthony Bergdorf",
+     "n": "Richard Conte"
+    },
+    {
+     "c": "Duke Santos",
+     "n": "Cesar Romero"
+    },
+    {
+     "c": "Adele Ekstrom",
+     "n": "Patrice Wymore"
+    },
+    {
+     "c": "\"Mushy\" O'Connors",
+     "n": "Joey Bishop"
+    },
+    {
+     "c": "Spyros Acebos",
+     "n": "Akim Tamiroff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lewis Milestone"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 299,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
+   "popularity": 3.5298,
+   "poster_path": "/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1960-08-10",
+   "revenue": 2800000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just Danny Ocean and his 11 pals.",
+   "title": "Ocean's Eleven",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.371,
+   "vote_count": 431
+  },
+  "movie:454699": {
+   "backdrop_path": "/jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emma Wishbone (voice)",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Frank Wishbone (voice)",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Fay Wishbone (voice)",
+     "n": "Jessica Brown Findlay"
+    },
+    {
+     "c": "Max Wishbone (voice)",
+     "n": "Ethan Rouse"
+    },
+    {
+     "c": "Dracula (voice)",
+     "n": "Jason Isaacs"
+    },
+    {
+     "c": "Baba Yaga (voice)",
+     "n": "Catherine Tate"
+    },
+    {
+     "c": "Renfield (voice)",
+     "n": "Ewan Bailey"
+    },
+    {
+     "c": "Cheyenne (voice)",
+     "n": "Celia Imrie"
+    },
+    {
+     "c": "Sheila (voice)",
+     "n": "Jessica McDonald"
+    },
+    {
+     "c": "Jaydon (voice)",
+     "n": "Isaac Rouse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Holger Tappe"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 454699,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "The Wishbone family are far from happy. In an attempt to reconnect as a family, they plan a fun night out. However, the plan backfires when they are cursed and all turned into Monsters.",
+   "popularity": 2.0704,
+   "poster_path": "/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg",
+   "production_countries": [
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-24",
+   "revenue": 29230695,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Monster Family",
+   "trailer": {
+    "key": "UAeGpp5_lOI",
+    "name": "MONSTER FAMILY | Official UK & Irish Trailer | Altitude Films",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.017,
+   "vote_count": 385
+  },
+  "movie:53399": {
+   "backdrop_path": "/4WRlyxjZnShSxoPgIxVa4fWx98f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Della Rocca",
+     "n": "Alba Rohrwacher"
+    },
+    {
+     "c": "Mattia Balossino",
+     "n": "Luca Marinelli"
+    },
+    {
+     "c": "Viola",
+     "n": "Aurora Ruffino"
+    },
+    {
+     "c": "Alice Della Rocca (young)",
+     "n": "Arianna Nastro"
+    },
+    {
+     "c": "Mattia Balossino (child)",
+     "n": "Tommaso Maria Neri"
+    },
+    {
+     "c": "Adele",
+     "n": "Isabella Rossellini"
+    },
+    {
+     "c": "Umberto",
+     "n": "Maurizio Donadoni"
+    },
+    {
+     "c": "Pietro Balossino",
+     "n": "Roberto Sbaratto"
+    },
+    {
+     "c": "Elena",
+     "n": "Giorgia Senesi"
+    },
+    {
+     "c": "Clown",
+     "n": "Filippo Timi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Saverio Costanzo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 53399,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Prime numbers are divisible only by one and themselves. These numbers are solitary and incomprehensible to others. Alice and Mattia are both \"prime\", both haunted by the tragedies that have marked them in childhood: a skiing accident for Alice which has caused a defect in her leg, and the loss of his twin sister for Matthew.",
+   "popularity": 0.8043,
+   "poster_path": "/m0gus7fk5eAZHS0OOAHa70Rqu9F.jpg",
+   "production_countries": [
+    "IT",
+    "DE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-09-10",
+   "revenue": 5505962,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Solitude of Prime Numbers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 398
+  },
   "movie:613099": {
    "backdrop_path": "/isazfkX14Unin8m6meZMfm7QDfn.jpg",
    "budget": 0,
@@ -1143,6 +2294,112 @@
    "type": "movie",
    "vote_average": 6.549,
    "vote_count": 479
+  },
+  "movie:654299": {
+   "backdrop_path": "/o33acwn7KliNpJRbjy4FrMSpiQ9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Omar Chaparro"
+    },
+    {
+     "c": "",
+     "n": "Ana Claudia Talancón"
+    },
+    {
+     "c": "Samantha",
+     "n": "Stephanie Cayo"
+    },
+    {
+     "c": "",
+     "n": "Lupita Sandoval"
+    },
+    {
+     "c": "Jenny Infante",
+     "n": "Yare Santana"
+    },
+    {
+     "c": "",
+     "n": "Angélica María"
+    },
+    {
+     "c": "",
+     "n": "Manuel 'Flaco' Ibáñez"
+    },
+    {
+     "c": "",
+     "n": "Alejandro Gasque"
+    },
+    {
+     "c": "",
+     "n": "Juan Alberto Villareal"
+    },
+    {
+     "c": "",
+     "n": "Rocío Verdejo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Pepe Bojórquez",
+    "José Pepe Bojórquez"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 654299,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.",
+   "popularity": 3.2345,
+   "poster_path": "/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-24",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Out of the Clear Blue Sky",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.264,
+   "vote_count": 397
   },
   "movie:823999": {
    "backdrop_path": "/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg",
@@ -1308,6 +2565,285 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 491
+  },
+  "movie:874299": {
+   "backdrop_path": "/k0n1NQZsEP9vX3Jv6LqSrTz0SS5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Various Characters (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Various Characters (voice)",
+     "n": "Matt Stone"
+    },
+    {
+     "c": "Wendy Testaburger / Sharon Marsh / Shelley Marsh (voice)",
+     "n": "April Stewart"
+    },
+    {
+     "c": "Yentl Cartman (voice)",
+     "n": "Mona Marshall"
+    },
+    {
+     "c": "Interviewer (voice)",
+     "n": "Kimberly Brooks"
+    },
+    {
+     "c": "Token Black (voice)",
+     "n": "Adrien Beard"
+    },
+    {
+     "c": "Amazon Alexa (voice)",
+     "n": "Delilah Kujala"
+    },
+    {
+     "c": "Menorah Cartman (voice)",
+     "n": "Betty Boogie Parker"
+    },
+    {
+     "c": "Geisha Billboard Model",
+     "n": "Nanami Iwasaki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Trey Parker"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 874299,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.",
+   "popularity": 2.1936,
+   "poster_path": "/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-25",
+   "revenue": 0,
+   "runtime": 59,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's not a movie... it's a made-for-TV movie!",
+   "title": "South Park: Post COVID",
+   "trailer": {
+    "key": "DhVsTHZvOPw",
+    "name": "Promo",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 424
+  },
+  "movie:9099": {
+   "backdrop_path": "/kv6tpMykekRKAiktXJKffAIpdH8.jpg",
+   "budget": 39000000,
+   "cast": [
+    {
+     "c": "Ernest Bilko",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Colonel Hall",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Major Thorn",
+     "n": "Phil Hartman"
+    },
+    {
+     "c": "Rita Robbins",
+     "n": "Glenne Headly"
+    },
+    {
+     "c": "Wally Holbrook",
+     "n": "Daryl Mitchell"
+    },
+    {
+     "c": "Dino Paparelli",
+     "n": "Max Casella"
+    },
+    {
+     "c": "Duane Doberman",
+     "n": "Eric Edwards"
+    },
+    {
+     "c": "Tony Morales",
+     "n": "Dan Ferro"
+    },
+    {
+     "c": "Sergeant Henshaw",
+     "n": "John Marshall Jones"
+    },
+    {
+     "c": "Sam Fender",
+     "n": "Brian Leckner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Lynn"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 9099,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The US army is known for churning out lean mean fighting machines intent on protecting our great nation. Sergeant Ernie Bilko is the leader of a ragtag group of the sorriest soldiers ever to enlist in the armed forces.",
+   "popularity": 1.6768,
+   "poster_path": "/q4zmVdQq35ZBj8uyxsU2RCPOQxo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-03-29",
+   "revenue": 37956793,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All he ever wanted was an honest week's pay for an honest day's work.",
+   "title": "Sgt. Bilko",
+   "trailer": {
+    "key": "3mHbLYzdqVE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.875,
+   "vote_count": 413
   },
   "tv:116799": {
    "backdrop_path": "/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",

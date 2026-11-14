@@ -1,7 +1,282 @@
 {
  "bucket": "27",
- "count": 23,
+ "count": 31,
  "titles": {
+  "movie:10427": {
+   "backdrop_path": "/awzAeboEEQxTd0FH60Hn9JbVZIA.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Michael Williams",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Lyle from Dallas",
+     "n": "Dennis Hopper"
+    },
+    {
+     "c": "Suzanne Brown",
+     "n": "Lara Flynn Boyle"
+    },
+    {
+     "c": "Wayne Brown",
+     "n": "J.T. Walsh"
+    },
+    {
+     "c": "Deputy Matt Greytack",
+     "n": "Timothy Carhart"
+    },
+    {
+     "c": "Deputy Russ Bowman",
+     "n": "Dan Shor"
+    },
+    {
+     "c": "Truck Driver",
+     "n": "Dwight Yoakam"
+    },
+    {
+     "c": "Jim",
+     "n": "Craig Reay"
+    },
+    {
+     "c": "Mr. Johnson",
+     "n": "Vance Johnson"
+    },
+    {
+     "c": "Howard",
+     "n": "Robert Apel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Dahl"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 10427,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a promised job for Texan Michael fails to materialize in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money, and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.",
+   "popularity": 1.7506,
+   "poster_path": "/ewofUEqU3Gpr7WSgSz3TEVPIfBg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-05-14",
+   "revenue": 2500000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where nothing is as it seems.",
+   "title": "Red Rock West",
+   "trailer": {
+    "key": "1kP0yuB0W-o",
+    "name": "Cinématographe Blu-ray Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.782,
+   "vote_count": 424
+  },
+  "movie:1232827": {
+   "backdrop_path": "/uwACVNL5OpiI3oT72DVGxnU4SRV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Karoline",
+     "n": "Vic Carmen Sonne"
+    },
+    {
+     "c": "Dagmar",
+     "n": "Trine Dyrholm"
+    },
+    {
+     "c": "Peter",
+     "n": "Besir Zeciri"
+    },
+    {
+     "c": "Jørgen",
+     "n": "Joachim Fjelstrup"
+    },
+    {
+     "c": "Frida",
+     "n": "Tessa Hoder"
+    },
+    {
+     "c": "Erena",
+     "n": "Ava Knox Martin"
+    },
+    {
+     "c": "Svendsen",
+     "n": "Ari Alexander"
+    },
+    {
+     "c": "Ring Master",
+     "n": "Søren Sætter-Lassen"
+    },
+    {
+     "c": "Frida's Husband",
+     "n": "Magnus von Horn"
+    },
+    {
+     "c": "Strict Woman",
+     "n": "Anna Terpiłowska"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Magnus von Horn"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1232827,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
+   "popularity": 2.8332,
+   "poster_path": "/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg",
+   "production_countries": [
+    "DK",
+    "PL",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-06",
+   "revenue": 470300,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Girl with the Needle",
+   "trailer": {
+    "key": "NdjhUNH5v3Q",
+    "name": "Official Trailer #2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.547,
+   "vote_count": 426
+  },
   "movie:1266127": {
    "backdrop_path": "/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
    "budget": 14000000,
@@ -714,6 +989,182 @@
    "vote_average": 5.722,
    "vote_count": 117
   },
+  "movie:157827": {
+   "backdrop_path": "/9tdXnZ2iM2KXrlID0RMSUnrynsA.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Gene Reed",
+     "n": "Gabriel Byrne"
+    },
+    {
+     "c": "Isabelle Reed",
+     "n": "Isabelle Huppert"
+    },
+    {
+     "c": "Jonah Reed",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Conrad Reed",
+     "n": "Devin Druid"
+    },
+    {
+     "c": "Hannah Brennan",
+     "n": "Amy Ryan"
+    },
+    {
+     "c": "Melanie",
+     "n": "Ruby Jerins"
+    },
+    {
+     "c": "Amy Reed",
+     "n": "Megan Ketch"
+    },
+    {
+     "c": "Richard Weissman",
+     "n": "David Strathairn"
+    },
+    {
+     "c": "Erin",
+     "n": "Rachel Brosnahan"
+    },
+    {
+     "c": "Kenneth",
+     "n": "Russell Posner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joachim Trier"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 157827,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "en",
+   "overview": "Three years after his wife, acclaimed photographer Isabelle Reed, dies in a car crash, Gene keeps everyday life going with his shy teenage son, Conrad. A planned exhibition of Isabelle’s photographs prompts Gene's elder son, Jonah, to return to the house he grew up in — and for the first time in a very long time, the father and the two brothers are living under the same roof.",
+   "popularity": 1.5845,
+   "poster_path": "/26hoecTKEAXswDwk4nUE4SEcPg2.jpg",
+   "production_countries": [
+    "NO",
+    "US",
+    "FR",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-10-01",
+   "revenue": 1400000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Break the silence.",
+   "title": "Louder Than Bombs",
+   "trailer": {
+    "key": "ftVIQhWkXdQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.47,
+   "vote_count": 395
+  },
   "movie:1602727": {
    "backdrop_path": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
    "budget": 0,
@@ -931,6 +1382,206 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 167
+  },
+  "movie:182127": {
+   "backdrop_path": "/rSKdbObq9wFug9zQSQcfTVWH04p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ip Man",
+     "n": "Anthony Wong Chau-sang"
+    },
+    {
+     "c": "Cheung Wing-Sing",
+     "n": "Anita Yuen Wing-yee"
+    },
+    {
+     "c": "Chan Sei-Mui",
+     "n": "Gillian Chung"
+    },
+    {
+     "c": "Tang Sing",
+     "n": "Jordan Chan Siu-chun"
+    },
+    {
+     "c": "Ng Chung",
+     "n": "Eric Tsang Chi-wai"
+    },
+    {
+     "c": "Lee King",
+     "n": "Jiang Luxia"
+    },
+    {
+     "c": "Leung Sheung",
+     "n": "Timmy Hung Tin-ming"
+    },
+    {
+     "c": "Jenny",
+     "n": "Zhou Chuchu"
+    },
+    {
+     "c": "Local Dragon",
+     "n": "Xiong Xinxin"
+    },
+    {
+     "c": "Wang Dong",
+     "n": "Marvel Chow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Herman Yau"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 182127,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Ip Man reluctantly begins a series of challenges from rival kung fu schools and is soon drawn into the dark and dangerous world of the Triads.",
+   "popularity": 0.3917,
+   "poster_path": "/8iBLQor9xFiT9d9b4f8v2W3X5jj.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-03-22",
+   "revenue": 3967001,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ip Man: The Final Fight",
+   "trailer": {
+    "key": "SKRQpmPpPug",
+    "name": "IP MAN: THE FINAL FIGHT (2013) - US Teaser",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.092,
+   "vote_count": 430
   },
   "movie:278427": {
    "backdrop_path": "/jbYJbHBsCtcewKM68YIyIzjvdhP.jpg",
@@ -1195,6 +1846,499 @@
    "type": "movie",
    "vote_average": 5.829,
    "vote_count": 473
+  },
+  "movie:489927": {
+   "backdrop_path": "/beUE8tydmUCdwUh5oWy3E0T0XwN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lisa Spinelli",
+     "n": "Maggie Gyllenhaal"
+    },
+    {
+     "c": "Jimmy Roy",
+     "n": "Parker Sevak"
+    },
+    {
+     "c": "Simon",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Grant Spinelli",
+     "n": "Michael Chernus"
+    },
+    {
+     "c": "Becca",
+     "n": "Rosa Salazar"
+    },
+    {
+     "c": "Nikhil Roy",
+     "n": "Ajay Naidu"
+    },
+    {
+     "c": "Meghan",
+     "n": "Anna Baryshnikov"
+    },
+    {
+     "c": "Lainie Spinelli",
+     "n": "Daisy Tahan"
+    },
+    {
+     "c": "Josh Spinelli",
+     "n": "Sam Jules"
+    },
+    {
+     "c": "Sanjay Roy",
+     "n": "Samrat Chakrabarti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sara Colangelo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 489927,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lisa Spinelli is a Staten Island teacher who is unusually devoted to her students. When she discovers one of her five-year-olds is a prodigy, she becomes fascinated with the boy, ultimately risking her family and freedom to nurture his talent.",
+   "popularity": 1.5711,
+   "poster_path": "/pwavkdZb2xNRh5Y9MHhkZJ2UaHT.jpg",
+   "production_countries": [
+    "CA",
+    "IL",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-23",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Kindergarten Teacher",
+   "trailer": {
+    "key": "AR8Kcp05ZCM",
+    "name": "Official UK trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.534,
+   "vote_count": 407
+  },
+  "movie:504827": {
+   "backdrop_path": "/pTfUqVyM3mRuxvUiAvaSmdBrhdl.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Bob Belcher / Jimmy Jr. / Ms. Labonz (voice)",
+     "n": "H. Jon Benjamin"
+    },
+    {
+     "c": "Louise Belcher (voice)",
+     "n": "Kristen Schaal"
+    },
+    {
+     "c": "Linda Belcher / Jocelyn (voice)",
+     "n": "John Roberts"
+    },
+    {
+     "c": "Tina Belcher (voice)",
+     "n": "Dan Mintz"
+    },
+    {
+     "c": "Gene Belcher (voice)",
+     "n": "Eugene Mirman"
+    },
+    {
+     "c": "Teddy (voice)",
+     "n": "Larry Murphy"
+    },
+    {
+     "c": "Calvin Fischoeder (voice)",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Felix Fischoeder (voice)",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Grover Fischoeder (voice)",
+     "n": "David Wain"
+    },
+    {
+     "c": "Sgt. Bosco (voice)",
+     "n": "Gary Cole"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bernard Derriman",
+    "Loren Bouchard"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 504827,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a ruptured water main creates an enormous sinkhole right in front of Bob's Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family's restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.",
+   "popularity": 3.4497,
+   "poster_path": "/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-05-26",
+   "revenue": 34148750,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let's get this patty started.",
+   "title": "The Bob's Burgers Movie",
+   "trailer": {
+    "key": "hbGXqUumtqg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.945,
+   "vote_count": 401
+  },
+  "movie:831827": {
+   "backdrop_path": "/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Natalie Nourigat"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 831827,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On an idyllic beach in the Pacific Northwest, curiosity gets the better of a young raccoon whose frustrated parent attempts to keep them both safe.",
+   "popularity": 1.5295,
+   "poster_path": "/39oaQUS0KxyXL6KYJ2o2u03PpHz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-24",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Far from the Tree",
+   "trailer": {
+    "key": "dPKg1du3xmI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.073,
+   "vote_count": 395
+  },
+  "movie:9827": {
+   "backdrop_path": "/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Sheriff Bryce Hammond",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Dr. Timothy Flyte",
+     "n": "Peter O'Toole"
+    },
+    {
+     "c": "Lisa Pailey",
+     "n": "Rose McGowan"
+    },
+    {
+     "c": "Jennifer Pailey, M.D.",
+     "n": "Joanna Going"
+    },
+    {
+     "c": "Deputy Stuart 'Stu' Wargle",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Deputy Steve Shanning",
+     "n": "Nicky Katt"
+    },
+    {
+     "c": "Gen. Leland Copperfield",
+     "n": "Clifton Powell"
+    },
+    {
+     "c": "Scientist Lockland",
+     "n": "Rick Otto"
+    },
+    {
+     "c": "Scientist Yamaguchi",
+     "n": "Valerie Chow"
+    },
+    {
+     "c": "Scientist Burke",
+     "n": "Adam Nelson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Chappelle"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 9827,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the peaceful Colorado town of Snowfield, something evil has wiped out the community. And now, it's up to a group of people to stop it, or at least get out of Snowfield alive.",
+   "popularity": 1.9183,
+   "poster_path": "/FM8MOTW8BbyoTLa2V8PnI6UPib.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-01-23",
+   "revenue": 5624282,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For centuries they told us the terror would come from above. We've been looking the wrong way.",
+   "title": "Phantoms",
+   "trailer": {
+    "key": "HynK3ZkjtcE",
+    "name": "Phantoms - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.569,
+   "vote_count": 429
   },
   "tv:126027": {
    "backdrop_path": "/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",

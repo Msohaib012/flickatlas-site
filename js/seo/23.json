@@ -1,7 +1,70 @@
 {
  "bucket": "23",
- "count": 40,
+ "count": 47,
  "titles": {
+  "movie:11123": {
+   "d": "Earthquake (1974): Drama film. Story: Various interconnected people struggle to survive… See cast, budget $7M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+   "industry": "world",
+   "k": "Earthquake, Earthquake movie, Earthquake cast, Earthquake story, Earthquake box office collection, Earthquake budget, Earthquake review, Earthquake rating, Earthquake release date, Earthquake Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlton Heston"
+     },
+     {
+      "@type": "Person",
+      "name": "Ava Gardner"
+     },
+     {
+      "@type": "Person",
+      "name": "George Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorne Greene"
+     },
+     {
+      "@type": "Person",
+      "name": "Geneviève Bujold"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 392,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Earthquake (1974): Drama film. Story: Various interconnected people struggle to survive… See cast, budget $7M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Robson"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11123",
+    "name": "Earthquake",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11123"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Earthquake (1974)</h1>\n<p class=\"ssr-lead\">Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 1974</li><li>Runtime: 123 minutes</li><li>Director: Mark Robson</li><li>Genres: Drama</li><li>Budget: $7M</li><li>TMDB rating: 6.1/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlton Heston as Stewart Graff</li><li>Ava Gardner as Remy Royce-Graff</li><li>George Kennedy as Sgt. Lew Slade</li><li>Lorne Greene as Sam Royce</li><li>Geneviève Bujold as Denise Marshall</li><li>Richard Roundtree as Miles Quade</li><li>Marjoe Gortner as Jody</li><li>Barry Sullivan as Dr. Willis Stockle</li><li>Lloyd Nolan as Dr. James Vance</li><li>Victoria Principal as Rosa Amici</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Earthquake (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
+  },
   "movie:11223": {
    "d": "Coma (1978): Thriller/Mystery film. Story: When relatively healthy patients begin having… See cast, budget $4.5M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
@@ -65,6 +128,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Coma (1978)</h1>\n<p class=\"ssr-lead\">When relatively healthy patients begin having &#x27;complications&#x27; during simple operations and ending up in comas, a concerned doctor defies her male superiors when she suspects a secret plot.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 January 1978</li><li>Runtime: 113 minutes</li><li>Director: Michael Crichton</li><li>Genres: Thriller, Mystery</li><li>Budget: $4.5M</li><li>TMDB rating: 6.8/10 (485 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Geneviève Bujold as Dr. Susan Wheeler</li><li>Michael Douglas as Dr. Mark Bellows</li><li>Elizabeth Ashley as Mrs. Emerson</li><li>Rip Torn as Dr. George</li><li>Richard Widmark as Dr. Harris</li><li>Lois Chiles as Nancy Greenly</li><li>Lance LeGault as Vince</li><li>Hari Rhodes as Dr. Morelind</li><li>Gary Barton as Computer Technician</li><li>Frank Downing as Kelly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Coma (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
+  },
+  "movie:12223": {
+   "d": "The Stepford Wives (1975): Science Fiction/Horror film. Story: Joanna Eberhart comes to the town of Stepford… See cast, budget $500.0k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pgVTwsJXv1i2GGZ2yB7KfiYqGAc.jpg",
+   "industry": "world",
+   "k": "The Stepford Wives, The Stepford Wives movie, The Stepford Wives cast, The Stepford Wives story, The Stepford Wives box office collection, The Stepford Wives budget, The Stepford Wives review, The Stepford Wives rating, The Stepford Wives release date, The Stepford Wives Science Fiction, The Stepford Wives Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Katharine Ross"
+     },
+     {
+      "@type": "Person",
+      "name": "Paula Prentiss"
+     },
+     {
+      "@type": "Person",
+      "name": "Nanette Newman"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Masterson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Stepford Wives (1975): Science Fiction/Horror film. Story: Joanna Eberhart comes to the town of Stepford… See cast, budget $500.0k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bryan Forbes"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Science Fiction",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pgVTwsJXv1i2GGZ2yB7KfiYqGAc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12223",
+    "name": "The Stepford Wives",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12223"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Stepford Wives (1975)</h1>\n<p class=\"ssr-lead\">Joanna Eberhart comes to the town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 1975</li><li>Runtime: 117 minutes</li><li>Director: Bryan Forbes</li><li>Genres: Science Fiction, Horror, Thriller</li><li>Budget: $500.0k</li><li>TMDB rating: 6.7/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katharine Ross as Joanna Eberhart</li><li>Paula Prentiss as Bobbie Markowe</li><li>Nanette Newman as Carol Van Sant</li><li>Judith Baldwin as Patricia Cornell</li><li>Peter Masterson as Walter Eberhart</li><li>Tina Louise as Charmaine Wimpiris</li><li>Carol Eve Rossen as Dr. Fancher</li><li>William Prince as Ike Mazzard</li><li>Mary Stuart Masterson as Kim Eberhart</li><li>Patrick O&#x27;Neal as Dale Coba</li></ul>\n</article>",
+   "t": "The Stepford Wives (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
   },
   "movie:1248723": {
    "d": "The Golden Key: A New Pinocchio Story (2026): Family/Drama film. Story: A screen adaptation of the beloved international… See cast and TMDB rating 7.0/10.",
@@ -580,6 +707,134 @@
    "t": "Yellow Mirror (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:174323": {
+   "d": "G.B.F. (2014): Comedy/Drama film. Story: The bitter fight for supremacy between the three most… See cast, budget $3.2M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zPabya2Q4WKuhRalkgwacFWuWxD.jpg",
+   "industry": "world",
+   "k": "G.B.F., G.B.F. movie, G.B.F. cast, G.B.F. story, G.B.F. box office collection, G.B.F. budget, G.B.F. review, G.B.F. rating, G.B.F. release date, G.B.F. trailer, G.B.F. Comedy, G.B.F. Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael J. Willett"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Iacono"
+     },
+     {
+      "@type": "Person",
+      "name": "Sasha Pieterse"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Bowen"
+     },
+     {
+      "@type": "Person",
+      "name": "Xosha Roquemore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 416,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "G.B.F. (2014): Comedy/Drama film. Story: The bitter fight for supremacy between the three most… See cast, budget $3.2M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Darren Stein"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zPabya2Q4WKuhRalkgwacFWuWxD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=174323",
+    "name": "G.B.F.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-01-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=174323"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>G.B.F. (2014)</h1>\n<p class=\"ssr-lead\">The bitter fight for supremacy between the three most popular girls at North Gateway High takes an unexpected turn when their classmate, Tanner, is outed and becomes the school’s first openly gay student. The trio races to bag the big trend in fashion accessories, the Gay Best Friend, while Tanner must decide whether his skyrocketing popularity is more important than the friendships he is leaving behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 2014</li><li>Runtime: 93 minutes</li><li>Director: Darren Stein</li><li>Genres: Comedy, Drama</li><li>Budget: $3.2M</li><li>TMDB rating: 6.0/10 (416 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael J. Willett as Tanner Daniels</li><li>Paul Iacono as Brent Van Camp</li><li>Sasha Pieterse as Fawcett Brooks</li><li>Andrea Bowen as &#x27;Shley Osgoode</li><li>Xosha Roquemore as Caprice Winters</li><li>Molly Tarlov as Sophie Aster</li><li>Evanna Lynch as McKenzie Pryce</li><li>JoJo as Soledad Braunstein</li><li>Derek Mio as Glenn Cho</li><li>Mia Rose Frampton as Mindie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, FlixFling, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "G.B.F. (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:19223": {
+   "d": "A Pure Formality (1994): Mystery/Thriller film. Story: Famous writer Onoff is now a recluse. The Inspector… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/88FnsK3iF9rWdR36N3anp1oYVYJ.jpg",
+   "industry": "world",
+   "k": "A Pure Formality, A Pure Formality movie, A Pure Formality cast, A Pure Formality story, A Pure Formality box office collection, A Pure Formality budget, A Pure Formality review, A Pure Formality rating, A Pure Formality release date, A Pure Formality Mystery, A Pure Formality Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Roman Polanski"
+     },
+     {
+      "@type": "Person",
+      "name": "Sergio Rubini"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicola Di Pinto"
+     },
+     {
+      "@type": "Person",
+      "name": "Tano Cimarosa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "A Pure Formality (1994): Mystery/Thriller film. Story: Famous writer Onoff is now a recluse. The Inspector… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Giuseppe Tornatore"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/88FnsK3iF9rWdR36N3anp1oYVYJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19223",
+    "name": "A Pure Formality",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19223"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Pure Formality (1994)</h1>\n<p class=\"ssr-lead\">Famous writer Onoff is now a recluse. The Inspector is suspicious when Onoff is brought into the station one night, disoriented and suffering a kind of amnesia. In an isolated, rural police station, the Inspector tries to establish the events surrounding a killing, to reach a startling resolution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 1994</li><li>Runtime: 111 minutes</li><li>Director: Giuseppe Tornatore</li><li>Genres: Mystery, Thriller, Crime, Drama</li><li>TMDB rating: 7.4/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Onoff</li><li>Roman Polanski as Inspector</li><li>Sergio Rubini as Andre</li><li>Nicola Di Pinto as Captain</li><li>Tano Cimarosa as Servant</li><li>Paolo Lombardi as Marshall</li><li>Maria Rosa Spagnolo as Paula</li><li>Alberto Sironi</li><li>Giovanni Morricone</li><li>Mahdi Kraiem</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Shout! Factory Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "A Pure Formality (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:20123": {
    "d": "Time of the Gypsies (1988): Drama/Crime film. Story: Perhan is a gypsy teenager with telekinetic powers. A… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/kWNvrV0lZY1kYGo50hIUq4n76vC.jpg",
@@ -644,6 +899,70 @@
    "t": "Time of the Gypsies (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:30923": {
+   "d": "Alice in Wonderland (1999): Fantasy/Family film. Story: Alice follows a white rabbit down a rabbit-hole into… See cast, budget $21M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mbFHUlhWU53VG8VLE5jAcQQVIUR.jpg",
+   "industry": "world",
+   "k": "Alice in Wonderland, Alice in Wonderland movie, Alice in Wonderland cast, Alice in Wonderland story, Alice in Wonderland box office collection, Alice in Wonderland budget, Alice in Wonderland review, Alice in Wonderland rating, Alice in Wonderland release date, Alice in Wonderland Fantasy, Alice in Wonderland Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tina Majorino"
+     },
+     {
+      "@type": "Person",
+      "name": "Robbie Coltrane"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Short"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 405,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Alice in Wonderland (1999): Fantasy/Family film. Story: Alice follows a white rabbit down a rabbit-hole into… See cast, budget $21M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nick Willing"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Fantasy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mbFHUlhWU53VG8VLE5jAcQQVIUR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=30923",
+    "name": "Alice in Wonderland",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-02-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=30923"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice in Wonderland (1999)</h1>\n<p class=\"ssr-lead\">Alice follows a white rabbit down a rabbit-hole into a whimsical Wonderland, where she meets characters like the delightful Cheshire Cat, the clumsy White Knight, a rude caterpillar, and the hot-tempered Queen of Hearts and can grow ten feet tall or shrink to three inches. But will she ever be able to return home?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 February 1999</li><li>Runtime: 133 minutes</li><li>Director: Nick Willing</li><li>Genres: Fantasy, Family</li><li>Budget: $21M</li><li>TMDB rating: 6.2/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tina Majorino as Alice</li><li>Robbie Coltrane as Tweedledum</li><li>Ben Kingsley as Major Caterpillar</li><li>Miranda Richardson as Queen of Hearts</li><li>Martin Short as Mad Hatter</li><li>Christopher Lloyd as White Knight</li><li>Gene Wilder as Mock Turtle</li><li>Whoopi Goldberg as Cheshire Cat</li><li>Peter Ustinov as Walrus</li><li>George Wendt as Fred Tweedledee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, UP Faith &amp; Family Apple TV channel, Amazon Prime Video with Ads, UP Faith &amp; Family Amazon Channel</li><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Alice in Wonderland (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:369523": {
    "d": "The Tale (2018): Drama/Mystery film. Story: An investigation into one woman’s memory as she‘s… See cast, TMDB rating 7.1/10, and release date 20 January 2018.",
    "img": "https://image.tmdb.org/t/p/w780/bMJ0h7EiLxtUq8Bd6KeZeQkV9Dn.jpg",
@@ -707,6 +1026,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Tale (2018)</h1>\n<p class=\"ssr-lead\">An investigation into one woman’s memory as she‘s forced to re-examine her first sexual relationship and the stories we tell ourselves in order to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2018</li><li>Runtime: 115 minutes</li><li>Director: Jennifer Fox</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 7.1/10 (493 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laura Dern as Jennifer</li><li>Isabelle Nélisse as Jenny (13 Years)</li><li>Elizabeth Debicki as Mrs. G</li><li>Jason Ritter as Bill</li><li>Frances Conroy as Jane Graham</li><li>John Heard as William P. Allens</li><li>Ellen Burstyn as Nettie</li><li>Laura Allen as Young Nettie</li><li>Matthew Rauch as Aaron</li><li>Jessica Sarah Flaum as Jenny (15 Years)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "The Tale (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:40823": {
+   "d": "The Man Who Copied (2003): Comedy/Drama film. Story: A young photocopier operator becomes infatuated with… See cast, budget $514.1k, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fN4OThflKQ8ZT1w2qRRIJmLejKk.jpg",
+   "industry": "world",
+   "k": "The Man Who Copied, The Man Who Copied movie, The Man Who Copied cast, The Man Who Copied story, The Man Who Copied box office collection, The Man Who Copied budget, The Man Who Copied review, The Man Who Copied rating, The Man Who Copied release date, The Man Who Copied Comedy, The Man Who Copied Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lázaro Ramos"
+     },
+     {
+      "@type": "Person",
+      "name": "Leandra Leal"
+     },
+     {
+      "@type": "Person",
+      "name": "Luana Piovani"
+     },
+     {
+      "@type": "Person",
+      "name": "Pedro Cardoso"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Cunha Filho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 388,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Man Who Copied (2003): Comedy/Drama film. Story: A young photocopier operator becomes infatuated with… See cast, budget $514.1k, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jorge Furtado"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fN4OThflKQ8ZT1w2qRRIJmLejKk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=40823",
+    "name": "The Man Who Copied",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=40823"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Man Who Copied (2003)</h1>\n<p class=\"ssr-lead\">A young photocopier operator becomes infatuated with his neighbor and, unable to afford anything from her shop, turns to shady schemes to make money.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 2003</li><li>Runtime: 123 minutes</li><li>Director: Jorge Furtado</li><li>Genres: Comedy, Drama, Romance, Crime</li><li>Budget: $514.1k</li><li>TMDB rating: 7.5/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lázaro Ramos as André</li><li>Leandra Leal as Sílvia</li><li>Luana Piovani as Marinês</li><li>Pedro Cardoso as Cardoso</li><li>Carlos Cunha Filho as Antunes</li><li>Júlio Andrade as Feitosa</li><li>Gregory Garcia as Guigo Bolhinha</li><li>Sheron Menezzes as Guria esperta</li><li>Heitor Schmidt as Seu Gomide Bolha</li><li>Paulo José as Paulo</li></ul>\n</article>",
+   "t": "The Man Who Copied (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:640923": {
+   "d": "Kidz (2020): Comedy film. Story: Sara and Nicola are married and in love. Their lives… See cast, TMDB rating 6.0/10, and release date 23 January 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/kAvmmy5wbrsNTZvXUULAHhjWLFS.jpg",
+   "industry": "world",
+   "k": "Kidz, Kidz movie, Kidz cast, Kidz story, Kidz box office collection, Kidz budget, Kidz review, Kidz rating, Kidz release date, Kidz Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Valerio Mastandrea"
+     },
+     {
+      "@type": "Person",
+      "name": "Paola Cortellesi"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefano Fresi"
+     },
+     {
+      "@type": "Person",
+      "name": "Valerio Aprea"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Calabresi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 396,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Kidz (2020): Comedy film. Story: Sara and Nicola are married and in love. Their lives… See cast, TMDB rating 6.0/10, and release date 23 January 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Giuseppe Bonito"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kAvmmy5wbrsNTZvXUULAHhjWLFS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=640923",
+    "name": "Kidz",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=640923"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kidz (2020)</h1>\n<p class=\"ssr-lead\">Sara and Nicola are married and in love. Their lives seem to be perfect: they have an angelic six-year-old daughter, thriving careers and a stable marriage. The birth of their second child, which disrupts the family balance, leads to tragicomic scenarios.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2020</li><li>Runtime: 98 minutes</li><li>Director: Giuseppe Bonito</li><li>Genres: Comedy</li><li>TMDB rating: 6.0/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valerio Mastandrea as Nicola</li><li>Paola Cortellesi as Sara</li><li>Stefano Fresi as L&#x27;amico giornalista</li><li>Valerio Aprea as Il padre separato</li><li>Paolo Calabresi as Il padre con molti figli</li><li>Andrea Sartoretti as Il padre milionario</li><li>Massimo De Lorenzo as Il cliente</li><li>Gianfelice Imparato as Il prete</li><li>Carlo Luca De Ruggieri as Luca</li><li>Luca Amorosino as Andrea</li></ul>\n</article>",
+   "t": "Kidz (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:808023": {
    "d": "The Virtuoso (2021): Thriller/Crime film. Story: Danger, deception and murder descend upon a sleepy… See cast and TMDB rating 5.9/10.",

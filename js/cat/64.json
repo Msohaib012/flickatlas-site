@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 26,
+ "count": 38,
  "titles": {
   "movie:10264": {
    "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
@@ -309,6 +309,141 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 469
+  },
+  "movie:11564": {
+   "backdrop_path": "/ke6cDBFg4IPb8MWjPOBlIhtosQ0.jpg",
+   "budget": 4300000,
+   "cast": [
+    {
+     "c": "Andrew Norris",
+     "n": "Perry King"
+    },
+    {
+     "c": "Peter Stegman",
+     "n": "Tim Van Patten"
+    },
+    {
+     "c": "Terry Corrigan",
+     "n": "Roddy McDowall"
+    },
+    {
+     "c": "Arthur",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Diane Norris",
+     "n": "Merrie Lynn Ross"
+    },
+    {
+     "c": "Drugstore",
+     "n": "Stefan Arngrim"
+    },
+    {
+     "c": "Barnyard",
+     "n": "Keith Knight"
+    },
+    {
+     "c": "Patsy",
+     "n": "Lisa Langlois"
+    },
+    {
+     "c": "Fallon",
+     "n": "Neil Clifford"
+    },
+    {
+     "c": "Detective Stewiski",
+     "n": "Al Waxman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mark L. Lester"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 11564,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Andy is a new teacher at an inner city high school that is unlike any he has seen before. There are metal detectors at the front door and the place is basically run by a tough kid named Peter Stegman. Soon, Andy and Stegman become enemies and Stegman will stop at nothing to protect his turf and drug dealing business.",
+   "popularity": 2.2177,
+   "poster_path": "/qIu9UGDLeACl7YGuAAgTFfQ0j8I.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Cinefest Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-08-20",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"We are the future! ...and nothing can stop us.\"",
+   "title": "Class of 1984",
+   "trailer": {
+    "key": "9T81o2K29-c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 429
   },
   "movie:1318864": {
    "backdrop_path": "/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg",
@@ -1339,6 +1474,266 @@
    "vote_average": 6.9,
    "vote_count": 481
   },
+  "movie:19064": {
+   "backdrop_path": "/tOo41T9upKd5IaSbpl1yMeJ8Rqa.jpg",
+   "budget": 3200000,
+   "cast": [
+    {
+     "c": "Mark Kendall",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Countess",
+     "n": "Lauren Hutton"
+    },
+    {
+     "c": "Robin Pierce",
+     "n": "Karen Kopins"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Cleavon Little"
+    },
+    {
+     "c": "Jamie",
+     "n": "Thomas Ballatore"
+    },
+    {
+     "c": "Cabin Boy Vampire",
+     "n": "Stuart Charno"
+    },
+    {
+     "c": "Russ",
+     "n": "Skip Lackey"
+    },
+    {
+     "c": "World War I Ace Vampire",
+     "n": "Jeb Stuart Adams"
+    },
+    {
+     "c": "Confederate Vampire",
+     "n": "Joseph Brutsman"
+    },
+    {
+     "c": "Young Man Buying Ice Cream",
+     "n": "Dominick Brascia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Howard Storm"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 19064,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mark wants to lose his virginity, but his girlfriend wants to wait. Unfortunately for both of them, a 400-year-old vampire Countess needs to turn a virgin into a vampire before Halloween in order to preserve her own youthful appearance, and when she finds Mark, she turns his life upside-down.",
+   "popularity": 1.7434,
+   "poster_path": "/eK3dxRrMQGpZ1kLD9wdyOI8urFZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Troma NOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-11-15",
+   "revenue": 10000000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mark Kendall just found out his one-night stand has been around for centuries.",
+   "title": "Once Bitten",
+   "trailer": {
+    "key": "Qmgspdr_fwY",
+    "name": "Official Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.82,
+   "vote_count": 389
+  },
+  "movie:27064": {
+   "backdrop_path": "/PnwQJeWhmx9wh9wWM0a0YhLmE.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Yukio Mishima",
+     "n": "Ken Ogata"
+    },
+    {
+     "c": "Morita",
+     "n": "Masayuki Shionoya"
+    },
+    {
+     "c": "Cadet #1",
+     "n": "Hiroshi Mikami"
+    },
+    {
+     "c": "Cadet #2",
+     "n": "Junya Fukuda"
+    },
+    {
+     "c": "Cadet #3",
+     "n": "Yuu Tokui"
+    },
+    {
+     "c": "General Mashita",
+     "n": "Junkichi Orimoto"
+    },
+    {
+     "c": "Mother",
+     "n": "Naoko Ohtani"
+    },
+    {
+     "c": "Mishima, Age 18-19",
+     "n": "Go Riju"
+    },
+    {
+     "c": "Mishima, Age 9-14",
+     "n": "Masato Aizawa"
+    },
+    {
+     "c": "Mishima, Age 5",
+     "n": "Yuki Nagahara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Schrader"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 27064,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "ja",
+   "overview": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
+   "popularity": 3.2972,
+   "poster_path": "/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-09-20",
+   "revenue": 502758,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "On November 25, 1970, Japan's most celebrated writer, Yukio Mishima, shocked the world.",
+   "title": "Mishima: A Life in Four Chapters",
+   "trailer": {
+    "key": "5nVKJDSrxNg",
+    "name": "AFS Presents: Mishima A Life in Four Chapters",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 383
+  },
   "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
    "budget": 0,
@@ -1497,6 +1892,392 @@
    "type": "movie",
    "vote_average": 5.964,
    "vote_count": 470
+  },
+  "movie:370964": {
+   "backdrop_path": "/68chxvkKe8Zty1MNY1cCoBAKWs1.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Miroslava",
+     "n": "Mariya Poezzhaeva"
+    },
+    {
+     "c": "Arman",
+     "n": "Matvey Lykov"
+    },
+    {
+     "c": "Knyaz",
+     "n": "Stanislav Lyubshin"
+    },
+    {
+     "c": "Igor",
+     "n": "Pyotr Romanov"
+    },
+    {
+     "c": "Kormchiy Igorya",
+     "n": "Andrey Lebedinsky"
+    },
+    {
+     "c": "Ded Igorya",
+     "n": "Aleksandr Luchinin"
+    },
+    {
+     "c": "Nevesta",
+     "n": "Viktoriya Runtsova"
+    },
+    {
+     "c": "",
+     "n": "Marta Kessler"
+    },
+    {
+     "c": "",
+     "n": "Vladimir Kropotov"
+    },
+    {
+     "c": "Starukha-zhritsa",
+     "n": "Yola Sanko"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Indar Dzhendubaev"
+   ],
+   "genres": [
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 370964,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "In the midst of the wedding princess Miroslava is kidnapped by a dragon and carried away into his castle on the remote island. Mira left everything behind in the past - family, friends and groom. Now the only things she had were a stone cage and a mysterious young man named Arman ... but who is he and what is he doing on that island? Miroslava will know the truth too late: loving a dragon will reveal the bitter truth - love is scary.",
+   "popularity": 2.1035,
+   "poster_path": "/9R9mwkXs0W78WMzh4M1yFP7v7RP.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-03",
+   "revenue": 10495305,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Am Dragon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.208,
+   "vote_count": 431
+  },
+  "movie:41664": {
+   "backdrop_path": "/rxPaVWl6Ravm0nhQ2EBopYBF4lm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rag. Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Rag. Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Mariangela Fantozzi / Uga",
+     "n": "Plinio Fernando"
+    },
+    {
+     "c": "Francesco Maria Barambani",
+     "n": "Paul Müller"
+    },
+    {
+     "c": "Esaminatore del concorso",
+     "n": "Antonio Allocca"
+    },
+    {
+     "c": "Ragionier Fonelli",
+     "n": "Pino Ferrara"
+    },
+    {
+     "c": "Maschera del cinema porno",
+     "n": "Ennio Antonelli"
+    },
+    {
+     "c": "Pensionata della megaditta",
+     "n": "Teresa Piergentili"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 41664,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "After thirty years in the big corporation, Ugo Fantozzi retires. Suddenly, he needs things to do in everyday life and he tries a number of activities: helping Pina shopping; babysitting grand-daughter Uga; a trip to Venice; learning golf. He then fakes documents to get a new job, but in the end he becomes a hypochondriac and doesn't even take a long-awaited chance with Miss Silvani.",
+   "popularity": 0.7831,
+   "poster_path": "/1nuWobezouM9ZneUtmB08ZeIAsc.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1988-12-22",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi Retires",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.113,
+   "vote_count": 407
+  },
+  "movie:476764": {
+   "backdrop_path": "/kQVo5ECXrTcoMtj8hWbdiqpfPms.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Gary Hart",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Lee Hart",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Bill Dixon",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Billy Shore",
+     "n": "Mark O'Brien"
+    },
+    {
+     "c": "Irene Kelly",
+     "n": "Molly Ephraim"
+    },
+    {
+     "c": "Kevin Sweeney",
+     "n": "Chris Coy"
+    },
+    {
+     "c": "Mike Stratton",
+     "n": "Alex Karpovsky"
+    },
+    {
+     "c": "Doug Wilson",
+     "n": "Josh Brener"
+    },
+    {
+     "c": "John B. Emerson",
+     "n": "Tommy Dewey"
+    },
+    {
+     "c": "Andrea Hart",
+     "n": "Kaitlyn Dever"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jason Reitman"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 476764,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gary Hart, former Senator of Colorado, becomes the front-runner for the Democratic presidential nomination in 1987. Hart's intelligence, charisma and idealism makes him popular with young voters, leaving him with a seemingly clear path to the White House. All that comes crashing down when allegations of an extramarital affair surface in the media, forcing the candidate to address a scandal that threatens to derail his campaign and personal life.",
+   "popularity": 2.0383,
+   "poster_path": "/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-11-21",
+   "revenue": 3300000,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Gary Hart was going to be President. Instead he changed American politics forever.",
+   "title": "The Front Runner",
+   "trailer": {
+    "key": "MDQd_gaMGoI",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.91,
+   "vote_count": 393
   },
   "movie:49964": {
    "backdrop_path": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
@@ -1657,6 +2438,502 @@
    "type": "movie",
    "vote_average": 7.923,
    "vote_count": 464
+  },
+  "movie:517764": {
+   "backdrop_path": "/7Bl98JC4kGe62ORuFIsFtWtcIA2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nora",
+     "n": "Nora Yessayan"
+    },
+    {
+     "c": "Alec",
+     "n": "Alec Gaylord"
+    },
+    {
+     "c": "Landlord",
+     "n": "Ken Volok"
+    },
+    {
+     "c": "Andrew",
+     "n": "Rob Tisdale"
+    },
+    {
+     "c": "Ashley",
+     "n": "Kelly Mis"
+    },
+    {
+     "c": "Women in Cages",
+     "n": "Jola Cora"
+    },
+    {
+     "c": "Guy at Diner",
+     "n": "David Air"
+    },
+    {
+     "c": "Waitress",
+     "n": "Sandra Cruze"
+    },
+    {
+     "c": "Animal Masks",
+     "n": "Gael Carrion"
+    },
+    {
+     "c": "Women in Cages",
+     "n": "Julie Meghan Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Hans Stjernswärd"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 517764,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The young couple Nora and Alec are on their way back from a long road trip. In a  desert town they want to take a break, but when they wake up the next morning, they are no longer in the motel where they had actually checked in. Overnight, the by a group of crazed killers wearing animal masks, have been abducted.  What would happen if people were treated like cattle for slaughter? On the farm, this horrific idea comes true. As Nora and Alec soon find out, they are not the only ones locked in cages, fattened up and fed only to be slaughtered, disemboweled and eaten as a delicacy by their torturers. For the young couple begins a fight for bare survival.",
+   "popularity": 1.6582,
+   "poster_path": "/7nPMR3QU5vl7cEmB1LE6O6yliCg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-19",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're Dying To Meat You",
+   "title": "The Farm",
+   "trailer": {
+    "key": "XFUR9J3Blw4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.352,
+   "vote_count": 401
+  },
+  "movie:573164": {
+   "backdrop_path": "/sIMyHMcbFR1jeQ8OC1Y2b93EhXN.jpg",
+   "budget": 6400000,
+   "cast": [
+    {
+     "c": "Toto (voice)",
+     "n": "Bruno Bichir"
+    },
+    {
+     "c": "Di (voice)",
+     "n": "Maite Perroni"
+    },
+    {
+     "c": "Willy (voice)",
+     "n": "Carlos Espejel"
+    },
+    {
+     "c": "Bibi (voice)",
+     "n": "Angélica Vale"
+    },
+    {
+     "c": "Uly (voice)",
+     "n": "Dione Riva Palacio Santacruz"
+    },
+    {
+     "c": "Max (voice)",
+     "n": "Oliver Díaz Barba"
+    },
+    {
+     "c": "Duquesa (voice)",
+     "n": "Mayra Rojas"
+    },
+    {
+     "c": "Chef (voice)",
+     "n": "Ariel Miramontes"
+    },
+    {
+     "c": "Carlos León (voice)",
+     "n": "Jesús Ochoa"
+    },
+    {
+     "c": "Chango Petacón (voice)",
+     "n": "Freddy Ortega"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gabriel Riva Palacio Alatriste",
+    "Rodolfo Riva Palacio Alatriste"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Family"
+   ],
+   "id": 573164,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Toto and his friends must rescue his egg children after they're taken away for a gourmet food event in Africa.",
+   "popularity": 2.0527,
+   "poster_path": "/Lgdvab8MvgdXyXnafbwoYTNvRT.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-08-12",
+   "revenue": 4093345,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "An Egg Rescue",
+   "trailer": {
+    "key": "xx14S5gB5BA",
+    "name": "Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 423
+  },
+  "movie:669664": {
+   "backdrop_path": "/ve8eFz0fKHxap9hwm18dUFtxfId.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antoinette Lapouge",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Vladimir Loubier",
+     "n": "Benjamin Lavernhe"
+    },
+    {
+     "c": "Eléonore Loubier",
+     "n": "Olivia Côte"
+    },
+    {
+     "c": "Michel",
+     "n": "Marc Fraize"
+    },
+    {
+     "c": "Shériff",
+     "n": "Jean-Pierre Martins"
+    },
+    {
+     "c": "Alice Loubier",
+     "n": "Louise Vidal"
+    },
+    {
+     "c": "Annie",
+     "n": "Lucía Sánchez"
+    },
+    {
+     "c": "Jacques",
+     "n": "Maxence Tual"
+    },
+    {
+     "c": "Claire",
+     "n": "Marie Rivière"
+    },
+    {
+     "c": "Bernard",
+     "n": "François Caron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Caroline Vignal"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Romance"
+   ],
+   "id": 669664,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Antoinette, a school teacher, is looking forward to her long planned summer holidays with her secret lover Vladimir, the father of one of her pupils. When learning that Vladimir cannot come because his wife organized a surprise trekking holiday in the Cévennes National Park with their daughter and a donkey to carry their load, Antoinette decides to follow their track, by herself, with Patrick, a protective donkey.",
+   "popularity": 1.5134,
+   "poster_path": "/rSb2pe2GwI42K56UfsCRC7zbZof.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-16",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Donkey, My Lover & I",
+   "trailer": {
+    "key": "MZmgl4TkFBc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.384,
+   "vote_count": 401
   },
   "movie:830764": {
    "backdrop_path": "/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg",
@@ -1936,6 +3213,342 @@
    "type": "movie",
    "vote_average": 6.369,
    "vote_count": 1659
+  },
+  "movie:9264": {
+   "backdrop_path": "/1EhnpDKRkxNKDpMBm8FFsYJl12j.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Ivy",
+     "n": "Drew Barrymore"
+    },
+    {
+     "c": "Darryl Cooper",
+     "n": "Tom Skerritt"
+    },
+    {
+     "c": "Sylvie Cooper",
+     "n": "Sara Gilbert"
+    },
+    {
+     "c": "Georgie Cooper",
+     "n": "Cheryl Ladd"
+    },
+    {
+     "c": "Bob",
+     "n": "Alan Stock"
+    },
+    {
+     "c": "Isabelle",
+     "n": "Jeanne Sakata"
+    },
+    {
+     "c": "Kid",
+     "n": "E.J. Moore"
+    },
+    {
+     "c": "Another Kid",
+     "n": "J.B. Quon"
+    },
+    {
+     "c": "Guy",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Man in Car",
+     "n": "Michael Goldner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Katt Shea"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 9264,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A seductive teen befriends an introverted high school student and schemes her way into the lives of her wealthy family.",
+   "popularity": 2.3787,
+   "poster_path": "/aBreWBGcu4ejlDo2U7ZPqilRGoQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-05-08",
+   "revenue": 1829804,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ivy thought her best friend had the perfect house, the perfect family, the perfect life. So she took them.",
+   "title": "Poison Ivy",
+   "trailer": {
+    "key": "-O3cU3dODjo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.398,
+   "vote_count": 426
+  },
+  "movie:964": {
+   "backdrop_path": "/6FSs7jMimg1PBYdhZtPNQhtKtEc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Erik, The Phantom",
+     "n": "Lon Chaney"
+    },
+    {
+     "c": "Vicomte Raoul de Chagny",
+     "n": "Norman Kerry"
+    },
+    {
+     "c": "Christine Daaé",
+     "n": "Mary Philbin"
+    },
+    {
+     "c": "Ledoux",
+     "n": "Arthur Edmund Carewe"
+    },
+    {
+     "c": "Simon Buquet",
+     "n": "Gibson Gowland"
+    },
+    {
+     "c": "Florine Papillon",
+     "n": "Snitz Edwards"
+    },
+    {
+     "c": "Comte Philip de Chagny",
+     "n": "John St. Polis"
+    },
+    {
+     "c": "Carlotta",
+     "n": "Virginia Pearson"
+    },
+    {
+     "c": "La Sorelli (uncredited)",
+     "n": "Olive Ann Alcorn"
+    },
+    {
+     "c": "Ballerina (uncredited)",
+     "n": "Betty Van Allen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Rupert Julian"
+   ],
+   "genres": [
+    "Horror",
+    "Music"
+   ],
+   "id": 964,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The deformed Phantom who haunts the Paris Opera House causes murder and mayhem in an attempt to make the woman he loves a star.",
+   "popularity": 2.6623,
+   "poster_path": "/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1925-06-29",
+   "revenue": 2000000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "The greatest horror film of modern cinema!",
+   "title": "The Phantom of the Opera",
+   "trailer": {
+    "key": "HYvbaILyc2s",
+    "name": "The Phantom of the Opera (1925) - Original trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.135,
+   "vote_count": 426
+  },
+  "movie:973164": {
+   "backdrop_path": "/nkq7W9EHb4Moj7lSzDiW6uBMedq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ricky Gervais"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John L. Spencer"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 973164,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "With his signature pitch-black sense of humor, Ricky Gervais takes the stage at the London Palladium in this provocative stand-up comedy special.",
+   "popularity": 1.0386,
+   "poster_path": "/ry2HDP5KyEV3R7htXlFAeQbbXgf.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-05-24",
+   "revenue": 0,
+   "runtime": 64,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ricky Gervais: SuperNature",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.373,
+   "vote_count": 385
   },
   "tv:124364": {
    "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",

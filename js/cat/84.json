@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 40,
+ "count": 47,
  "titles": {
   "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
@@ -1005,6 +1005,231 @@
    "vote_average": 6.111,
    "vote_count": 162
   },
+  "movie:12584": {
+   "backdrop_path": "/30uoQ0AHiAfDm7GdtUrTUntfS02.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "J.B. Books",
+     "n": "John Wayne"
+    },
+    {
+     "c": "Bond Rogers",
+     "n": "Lauren Bacall"
+    },
+    {
+     "c": "Gillom Rogers",
+     "n": "Ron Howard"
+    },
+    {
+     "c": "Dr. Hostetler",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Mike Sweeney",
+     "n": "Richard Boone"
+    },
+    {
+     "c": "Jack Pulford",
+     "n": "Hugh O'Brian"
+    },
+    {
+     "c": "Jay Cobb",
+     "n": "Bill McKinney"
+    },
+    {
+     "c": "Marshall Thibido",
+     "n": "Harry Morgan"
+    },
+    {
+     "c": "Beckum",
+     "n": "John Carradine"
+    },
+    {
+     "c": "Serepta",
+     "n": "Sheree North"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Don Siegel"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 12584,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Afflicted with a terminal illness John Bernard Books, the last of the legendary gunfighters, quietly returns to Carson City for medical attention from his old friend Dr. Hostetler. Aware that his days are numbered, the troubled man seeks solace and peace in a boarding house run by a widow and her son. However, it is not Books' fate to die in peace, as he becomes embroiled in one last valiant battle.",
+   "popularity": 2.0092,
+   "poster_path": "/ygz2Pux61NY3yP4yCxRhgmFQp5z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-07-21",
+   "revenue": 13400000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's got to face a gunfight once more to live up to his legend once more. To win just one more time.",
+   "title": "The Shootist",
+   "trailer": {
+    "key": "kIRKnR5xvHo",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.087,
+   "vote_count": 402
+  },
+  "movie:12684": {
+   "backdrop_path": "/hdl5cBE9zx5vBKuJ3RUQW0o1yEf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mrs. Verloc",
+     "n": "Sylvia Sidney"
+    },
+    {
+     "c": "Karl Verloc - Her Husband",
+     "n": "Oskar Homolka"
+    },
+    {
+     "c": "Stevie - Her Young Brother",
+     "n": "Desmond Tester"
+    },
+    {
+     "c": "Ted",
+     "n": "John Loder"
+    },
+    {
+     "c": "Renee",
+     "n": "Joyce Barbour"
+    },
+    {
+     "c": "Superintendent Talbot",
+     "n": "Matthew Boulton"
+    },
+    {
+     "c": "Hollingshead",
+     "n": "S. J. Warmington"
+    },
+    {
+     "c": "The Professor",
+     "n": "William Dewhurst"
+    },
+    {
+     "c": "Mrs. Jones (uncredited)",
+     "n": "Clare Greet"
+    },
+    {
+     "c": "Greengrocer (uncredited)",
+     "n": "Aubrey Mather"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 12684,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Karl Anton Verloc and his wife own a small cinema in a quiet London suburb where they live seemingly happily. But Mrs. Verloc does not know that her husband has a secret that will affect their relationship and threaten her teenage brother's life.",
+   "popularity": 1.795,
+   "poster_path": "/A6cyOt9mhmvWA2uHcVsGkcCaHCz.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1937-01-08",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A bomb plot... A Killing... Justice.",
+   "title": "Sabotage",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 391
+  },
   "movie:13384": {
    "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
    "budget": 0,
@@ -1878,6 +2103,117 @@
    "vote_average": 5.8,
    "vote_count": 442
   },
+  "movie:19384": {
+   "backdrop_path": "/nw4EGTqjUmD9tZoaylO9ypNUHrO.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Det. Jack Caine",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "Special Agent Laurence Smith",
+     "n": "Brian Benben"
+    },
+    {
+     "c": "Diane Pallone",
+     "n": "Betsy Brantley"
+    },
+    {
+     "c": "Bad Alien - Talec",
+     "n": "Matthias Hues"
+    },
+    {
+     "c": "Good Alien - Azeck",
+     "n": "Jay Bilas"
+    },
+    {
+     "c": "Captain Malone",
+     "n": "Jim Haynie"
+    },
+    {
+     "c": "Inspector Switzer",
+     "n": "David Ackroyd"
+    },
+    {
+     "c": "Patrolwoman",
+     "n": "Suzanne Savoy"
+    },
+    {
+     "c": "Victor Manning",
+     "n": "Sherman Howard"
+    },
+    {
+     "c": "Warren",
+     "n": "Sam Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Craig R. Baxley"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 19384,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack Caine is a Houston vice cop who's forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. While involved in an undercover operation to entrap Victor Manning, his partner is killed, and a sinister newcomer enters the scene...",
+   "popularity": 3.109,
+   "poster_path": "/zwsesgAluQKDmdAA2nhlEc4FhFd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-01-26",
+   "revenue": 9200000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Jack Caine. Houston cop. Human. What he's up against, isn't.",
+   "title": "Dark Angel",
+   "trailer": {
+    "key": "pqYFgmZkUtQ",
+    "name": "Classic Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.153,
+   "vote_count": 417
+  },
   "movie:2084": {
    "backdrop_path": "/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
    "budget": 13000000,
@@ -2609,6 +2945,120 @@
    "vote_average": 6.8,
    "vote_count": 461
   },
+  "movie:451184": {
+   "backdrop_path": "/sOy92H9RdKfsC4OY4umZi2rPrur.jpg",
+   "budget": 10530000,
+   "cast": [
+    {
+     "c": "Olga",
+     "n": "Penélope Cruz"
+    },
+    {
+     "c": "René",
+     "n": "Edgar Ramírez"
+    },
+    {
+     "c": "Viramontez",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Ana Margarita",
+     "n": "Ana de Armas"
+    },
+    {
+     "c": "Roque",
+     "n": "Wagner Moura"
+    },
+    {
+     "c": "Basulto",
+     "n": "Leonardo Sbaraglia"
+    },
+    {
+     "c": "Cruz León",
+     "n": "Nolan Guerra Fernández"
+    },
+    {
+     "c": "Irma",
+     "n": "Osdeymi Pastrana Miranda"
+    },
+    {
+     "c": "Luis Posada Carriles",
+     "n": "Tony Plana"
+    },
+    {
+     "c": "PUND's Pilot",
+     "n": "Julian Flynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Olivier Assayas"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "id": 451184,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Havana, Cuba, 1990. René González, an airplane pilot, unexpectedly flees the country, leaving behind his wife Olga and his daughter Irma, and begins a new life in Miami, where he becomes a member of an anti-Castro organization.",
+   "popularity": 1.9178,
+   "poster_path": "/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg",
+   "production_countries": [
+    "BE",
+    "BR",
+    "FR",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-01-29",
+   "revenue": 1400000,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Traitors or heroes?",
+   "title": "Wasp Network",
+   "trailer": {
+    "key": "taMNuQDTUr4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.045,
+   "vote_count": 423
+  },
   "movie:45284": {
    "backdrop_path": "/ugVAfKcbMPrnLy4ebmXTMOelvUN.jpg",
    "budget": 0,
@@ -3112,6 +3562,341 @@
    "type": "movie",
    "vote_average": 7.267,
    "vote_count": 461
+  },
+  "movie:68684": {
+   "backdrop_path": "/dIejmkCP46vN5a17u44phOGyAVR.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Riley Jones",
+     "n": "Shanley Caswell"
+    },
+    {
+     "c": "Clapton Davis",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Ione Foster",
+     "n": "Spencer Locke"
+    },
+    {
+     "c": "Principal Karl Verge",
+     "n": "Dane Cook"
+    },
+    {
+     "c": "Sander Sanderson",
+     "n": "A.D. Johnson"
+    },
+    {
+     "c": "Elliot Fink",
+     "n": "Walter Perez"
+    },
+    {
+     "c": "Sloan Foster",
+     "n": "Erica Shaffer"
+    },
+    {
+     "c": "Mr. Kendall",
+     "n": "Yves Bright"
+    },
+    {
+     "c": "Billy Nolan",
+     "n": "Parker Bagley"
+    },
+    {
+     "c": "Mimi",
+     "n": "Tiffany Boone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Kahn"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 68684,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As a killer named Cinderhella stalks the student body at the high school in Grizzly Lake, a group of co-eds band together to survive while they're all serving detention.",
+   "popularity": 1.6428,
+   "poster_path": "/wLuMoe16Z27DH96B2vg4FQNiAjj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-04-13",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Cancel Your Future",
+   "title": "Detention",
+   "trailer": {
+    "key": "CXAGH-Q3e_o",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.595,
+   "vote_count": 433
+  },
+  "movie:70584": {
+   "backdrop_path": "/qv5zpQSx8naAm8C59DGVLMdZxbp.jpg",
+   "budget": 350000,
+   "cast": [
+    {
+     "c": "Dr. Ross Craven",
+     "n": "Steven Brand"
+    },
+    {
+     "c": "Steven Craven",
+     "n": "Nick Eversman"
+    },
+    {
+     "c": "Emma Craven",
+     "n": "Tracey Fairaway"
+    },
+    {
+     "c": "Sarah Craven",
+     "n": "Devon Sorvari"
+    },
+    {
+     "c": "Pinhead",
+     "n": "Stephan Smith Collins"
+    },
+    {
+     "c": "Pinhead (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Nico Bradley / Pseudo Pinhead",
+     "n": "Jay Gillespie"
+    },
+    {
+     "c": "Peter Bradley",
+     "n": "Sebastien Roberts"
+    },
+    {
+     "c": "Kate Bradley",
+     "n": "Sanny van Heteren"
+    },
+    {
+     "c": "Vagrant",
+     "n": "Daniel Buran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Víctor García"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 70584,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two friends in Mexico discover the Lament Configuration and unleash Pinhead, but one decides to try to survive by swapping himself with someone else. Once they go missing, family members go in search of them, but find Pinhead instead.",
+   "popularity": 2.2486,
+   "poster_path": "/lnCmYyYqpwXQAll5AUfNxlnvQk0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-18",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The return of Pinhead.",
+   "title": "Hellraiser: Revelations",
+   "trailer": {
+    "key": "orWK-QlPSfg",
+    "name": "Hellraiser Revelations [Official Trailer]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 3.5,
+   "vote_count": 390
+  },
+  "movie:8884": {
+   "backdrop_path": "/6hQgTpZVNHrLafE6IeSAoThQwkH.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Emilia",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Preest",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Esser",
+     "n": "Bernard Hill"
+    },
+    {
+     "c": "Milo",
+     "n": "Sam Riley"
+    },
+    {
+     "c": "Tarrant",
+     "n": "Art Malik"
+    },
+    {
+     "c": "Dan",
+     "n": "Richard Coyle"
+    },
+    {
+     "c": "Margaret",
+     "n": "Susannah York"
+    },
+    {
+     "c": "Naomi",
+     "n": "Kika Markham"
+    },
+    {
+     "c": "Frank Grant",
+     "n": "Mark Wingett"
+    },
+    {
+     "c": "Doctor",
+     "n": "Gary Pillai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gerald McMorrow"
+   ],
+   "genres": [
+    "Fantasy",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 8884,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set between the parallel worlds of contemporary London and the futuristic faith dominated metropolis of Meanwhile City, Franklyn weaves a tale of four souls, whose lives are intertwined by fate, romance and tragedy. As these worlds collide, a single bullet determines the destiny of these four characters.",
+   "popularity": 1.6212,
+   "poster_path": "/5yns10om8I19j4OHy1zoVRilAnw.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-16",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Reality is a state of mind.",
+   "title": "Franklyn",
+   "trailer": {
+    "key": "M_o5gH-Wsig",
+    "name": "Franklyn [2008] Official  Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.999,
+   "vote_count": 410
   },
   "movie:9584": {
    "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",

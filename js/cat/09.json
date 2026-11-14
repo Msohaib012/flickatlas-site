@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 34,
+ "count": 42,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -87,6 +87,418 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 70
+  },
+  "movie:10409": {
+   "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Scott Hastings",
+     "n": "Paul Mercurio"
+    },
+    {
+     "c": "Fran",
+     "n": "Tara Morice"
+    },
+    {
+     "c": "Barry Fife",
+     "n": "Bill Hunter"
+    },
+    {
+     "c": "Shirley Hastings",
+     "n": "Pat Thomson"
+    },
+    {
+     "c": "Liz Holt",
+     "n": "Gia Carides"
+    },
+    {
+     "c": "Les Kendall",
+     "n": "Peter Whitford"
+    },
+    {
+     "c": "Doug Hastings",
+     "n": "Barry Otto"
+    },
+    {
+     "c": "Ken Railings",
+     "n": "John Hannan"
+    },
+    {
+     "c": "Tina Sparkle",
+     "n": "Sonia Kruger"
+    },
+    {
+     "c": "Charm Leachman",
+     "n": "Kris McQuade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Baz Luhrmann"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 10409,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
+   "popularity": 1.8314,
+   "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-08-20",
+   "revenue": 33946224,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A life lived in fear... is a life half lived.",
+   "title": "Strictly Ballroom",
+   "trailer": {
+    "key": "PLwfNOrIqSs",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 401
+  },
+  "movie:11109": {
+   "backdrop_path": "/ziJgbmfktniqisfCqJSqQ8VreZe.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Vera Drake",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Stan",
+     "n": "Phil Davis"
+    },
+    {
+     "c": "Susan Wells",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Sid",
+     "n": "Daniel Mays"
+    },
+    {
+     "c": "Reg",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Ethel",
+     "n": "Alex Kelly"
+    },
+    {
+     "c": "Lily",
+     "n": "Ruth Sheen"
+    },
+    {
+     "c": "Frank",
+     "n": "Adrian Scarborough"
+    },
+    {
+     "c": "Joyce",
+     "n": "Heather Craney"
+    },
+    {
+     "c": "Mrs. Wells",
+     "n": "Lesley Manville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Leigh"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11109,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Abortionist Vera Drake finds her beliefs and practices clash with the mores of 1950s Britain – a conflict that leads to tragedy for her family.",
+   "popularity": 1.7008,
+   "poster_path": "/556fElboCLlEmP8UULaYosU45Bc.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-22",
+   "revenue": 13300000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Wife. Mother. Criminal.",
+   "title": "Vera Drake",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 430
+  },
+  "movie:11209": {
+   "backdrop_path": "/j8uKvgcqCCoFx6BbJlWtmv78aBg.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Col. Davy Crockett",
+     "n": "John Wayne"
+    },
+    {
+     "c": "Jim Bowie",
+     "n": "Richard Widmark"
+    },
+    {
+     "c": "Col. William Travis",
+     "n": "Laurence Harvey"
+    },
+    {
+     "c": "Smitty",
+     "n": "Frankie Avalon"
+    },
+    {
+     "c": "Capt. James Butler Bonham",
+     "n": "Patrick Wayne"
+    },
+    {
+     "c": "Flaca",
+     "n": "Linda Cristal"
+    },
+    {
+     "c": "Mrs. Sue Dickinson",
+     "n": "Joan O'Brien"
+    },
+    {
+     "c": "Beekeeper",
+     "n": "Chill Wills"
+    },
+    {
+     "c": "Juan Seguin",
+     "n": "Joseph Calleia"
+    },
+    {
+     "c": "Capt. Almeron Dickinson",
+     "n": "Ken Curtis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Wayne"
+   ],
+   "genres": [
+    "War",
+    "Adventure",
+    "History",
+    "Western"
+   ],
+   "id": 11209,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The legendary true story of a small band of soldiers who sacrificed their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+   "popularity": 2.7169,
+   "poster_path": "/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1960-10-23",
+   "revenue": 7900000,
+   "runtime": 202,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The Mission That Became a Fortress! The Fortress That Became a Shrine!",
+   "title": "The Alamo",
+   "trailer": {
+    "key": "_y36swJUDD4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.083,
+   "vote_count": 422
   },
   "movie:12609": {
    "backdrop_path": "/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
@@ -410,6 +822,176 @@
    "vote_average": 4.8,
    "vote_count": 461
   },
+  "movie:13909": {
+   "backdrop_path": "/45tJCXfr3S08qb5fVP86duFUUzx.jpg",
+   "budget": 1600000,
+   "cast": [
+    {
+     "c": "Capt. Nathan Cutting Brittles",
+     "n": "John Wayne"
+    },
+    {
+     "c": "Olivia Dandridge",
+     "n": "Joanne Dru"
+    },
+    {
+     "c": "Lt. Flint Cohill",
+     "n": "John Agar"
+    },
+    {
+     "c": "Sgt. Tyree",
+     "n": "Ben Johnson"
+    },
+    {
+     "c": "2nd Lt. Ross Pennell",
+     "n": "Harry Carey Jr."
+    },
+    {
+     "c": "First Sergeant Quincannon",
+     "n": "Victor McLaglen"
+    },
+    {
+     "c": "Abby Allshard",
+     "n": "Mildred Natwick"
+    },
+    {
+     "c": "Maj. Mac Allshard",
+     "n": "George O'Brien"
+    },
+    {
+     "c": "Dr. O'Laughlin",
+     "n": "Arthur Shields"
+    },
+    {
+     "c": "Sgt. Hochbauer",
+     "n": "Michael Dugan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "John Ford"
+   ],
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "id": 13909,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the eve of retirement, Captain Nathan Brittles takes out a last patrol to stop an impending massive Indian attack. Encumbered by women who must be evacuated, Brittles finds his mission imperiled.",
+   "popularity": 2.5709,
+   "poster_path": "/2IXtuwkTVcDsaa09AiQnlkfxe7I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1949-10-22",
+   "revenue": 5400000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "John Ford's new and finest picture of the fighting cavalry!",
+   "title": "She Wore a Yellow Ribbon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 423
+  },
   "movie:1418709": {
    "backdrop_path": "/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
    "budget": 0,
@@ -588,6 +1170,107 @@
    "type": "movie",
    "vote_average": 5.226,
    "vote_count": 117
+  },
+  "movie:14609": {
+   "backdrop_path": "/lJRGgbi4Slsz171vcJ0Ctgiea6v.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Rogers / Captain America (voice)",
+     "n": "Justin Gross"
+    },
+    {
+     "c": "Janet Pym / The Wasp (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Hank Pym / Giant Man (voice)",
+     "n": "Nolan North"
+    },
+    {
+     "c": "Natalia Romanoff / Black Widow (voice)",
+     "n": "Olivia D'Abo"
+    },
+    {
+     "c": "Tony Stark / Iron Man (voice)",
+     "n": "Marc Worden"
+    },
+    {
+     "c": "Bruce Banner (voice)",
+     "n": "Michael Massee"
+    },
+    {
+     "c": "Thor (voice)",
+     "n": "David Boat"
+    },
+    {
+     "c": "Nick Fury (voice)",
+     "n": "Andre Ware"
+    },
+    {
+     "c": "The Hulk / Additional Voices (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Betty Ross (voice)",
+     "n": "Nan McNamara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Curt Geda",
+    "Steven E. Gordon",
+    "Bob Richardson"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Family",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 14609,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a nuclear missile was fired at Washington in 1945, Captain America managed to detonate it in the upper atmosphere. But then he fell miles into the icy depths of the North Atlantic, where he remained lost for over sixty years. But now, with the world facing the very same evil, Captain America must rise again as our last hope for survival.",
+   "popularity": 3.0075,
+   "poster_path": "/iMCkGHVrYRdqKROPRPmVaJVSlg3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-02-21",
+   "revenue": 6700000,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Saving the world, one enemy at a time.",
+   "title": "Ultimate Avengers: The Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.873,
+   "vote_count": 417
   },
   "movie:14709": {
    "backdrop_path": "/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
@@ -1101,6 +1784,265 @@
    "type": "movie",
    "vote_average": 7.624,
    "vote_count": 472
+  },
+  "movie:351809": {
+   "backdrop_path": "/61x4IXb92ZPhqBJvzVW6Et9pvmY.jpg",
+   "budget": 6700000,
+   "cast": [
+    {
+     "c": "'Gallego'",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "'Uruguayo'",
+     "n": "Rodrigo de la Serna"
+    },
+    {
+     "c": "Ferrán",
+     "n": "Raúl Arévalo"
+    },
+    {
+     "c": "Mellizo",
+     "n": "Jose Coronado"
+    },
+    {
+     "c": "Sandra",
+     "n": "Patricia Vico"
+    },
+    {
+     "c": "'Loco'",
+     "n": "Joaquín Furriel"
+    },
+    {
+     "c": "Varela",
+     "n": "Luciano Cáceres"
+    },
+    {
+     "c": "Cristina",
+     "n": "Marian Álvarez"
+    },
+    {
+     "c": "Domingo",
+     "n": "Luis Callejo"
+    },
+    {
+     "c": "Julio",
+     "n": "Miquel Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "13",
+   "date_kind": "release",
+   "director": [
+    "Daniel Calparsoro"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 351809,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Valencia, Spain. On a rainy morning, six armed men in disguise assault a bank. But what seemed like an easy heist, quickly goes wrong with nothing unfolding as planned, and mistrust quickly builds between the two leaders of the gang.",
+   "popularity": 2.2481,
+   "poster_path": "/elEaCDGOymaTePaM7oL41WaT0aC.jpg",
+   "production_countries": [
+    "AR",
+    "FR",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-03-03",
+   "revenue": 9074836,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Who can you trust?",
+   "title": "To Steal from a Thief",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 400
+  },
+  "movie:37609": {
+   "backdrop_path": "/98MW3zxRdBzlnyLpAQvMdY0pe6G.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Galleria Garibaldi",
+     "n": "Raven-Symoné"
+    },
+    {
+     "c": "Chanel Simmons",
+     "n": "Adrienne Bailon-Houghton"
+    },
+    {
+     "c": "Dorinda Thomas",
+     "n": "Sabrina Bryan"
+    },
+    {
+     "c": "Aqua Walker",
+     "n": "Kiely Williams"
+    },
+    {
+     "c": "Ángel",
+     "n": "Peter Vives"
+    },
+    {
+     "c": "Marisol Durán",
+     "n": "Belinda"
+    },
+    {
+     "c": "Joaquín",
+     "n": "Golan Yosef"
+    },
+    {
+     "c": "Juanita Simmons",
+     "n": "Lori Alter"
+    },
+    {
+     "c": "Luc",
+     "n": "Abel Folk"
+    },
+    {
+     "c": "Dorothea Garibaldi",
+     "n": "Lynn Whitfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kenny Ortega"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama",
+    "Music",
+    "TV Movie"
+   ],
+   "id": 37609,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Best friends Galleria, Chanel, Dorinda, and Aqua, A.K.A. the girl band \"The Cheetahs,\" get the opportunity of a lifetime when they strut their way to Barcelona, Spain, to perform in an international music festival. Along the way, the \"amigas Cheetahs\" learn that, although their paths are not the same, they are lucky to have one another for the journey.",
+   "popularity": 1.5921,
+   "poster_path": "/cKLATvYcVUn6FfmgOU811TJgHWl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-07-31",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Cheetah Girls 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 426
   },
   "movie:383709": {
    "backdrop_path": "/bI9VoPV1gYpBw4yjbYzWwhTh92g.jpg",
@@ -1885,6 +2827,167 @@
    "type": "movie",
    "vote_average": 7.095,
    "vote_count": 455
+  },
+  "movie:872709": {
+   "backdrop_path": "/89Kubf8TqJqdJBeePY0vmHzXJFB.jpg",
+   "budget": 6009575,
+   "cast": [
+    {
+     "c": "Benzène",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Méthanol",
+     "n": "Vincent Lacoste"
+    },
+    {
+     "c": "Nicotine",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Mercure",
+     "n": "Jean-Pascal Zadi"
+    },
+    {
+     "c": "Ammoniaque",
+     "n": "Oulaya Amamra"
+    },
+    {
+     "c": "Chef Didier (voice)",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Jacques",
+     "n": "David Marsais"
+    },
+    {
+     "c": "Denise",
+     "n": "Julia Faure"
+    },
+    {
+     "c": "Céline",
+     "n": "Adèle Exarchopoulos"
+    },
+    {
+     "c": "Christophe",
+     "n": "Grégoire Ludig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Quentin Dupieux"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 872709,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After a devastating battle against a diabolical turtle, a team of five avengers — known as the \"Tobacco Force\" — is sent on a mandatory retreat to strengthen their decaying group cohesion, where they share scary stories the film depicts. Their storytelling sojourn goes wonderfully well until Lézardin, Emperor of Evil, decides to annihilate planet Earth.",
+   "popularity": 0.9965,
+   "poster_path": "/7aYwL5VEzGkBvww9YFYKBPGBbRt.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-11-30",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Smoking Causes Coughing",
+   "trailer": {
+    "key": "Q0X8LXlE9pA",
+    "name": "UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 434
   },
   "movie:909": {
    "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",

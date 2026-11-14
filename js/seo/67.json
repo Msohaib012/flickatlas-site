@@ -1,7 +1,134 @@
 {
  "bucket": "67",
- "count": 36,
+ "count": 43,
  "titles": {
+  "movie:10167": {
+   "d": "Half Past Dead (2002): Crime/Action film. Story: A man goes undercover in a hi-tech prison to find out… See cast, budget $25M, and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
+   "industry": "world",
+   "k": "Half Past Dead, Half Past Dead movie, Half Past Dead cast, Half Past Dead story, Half Past Dead box office collection, Half Past Dead budget, Half Past Dead review, Half Past Dead rating, Half Past Dead release date, Half Past Dead Crime, Half Past Dead Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steven Seagal"
+     },
+     {
+      "@type": "Person",
+      "name": "Morris Chestnut"
+     },
+     {
+      "@type": "Person",
+      "name": "Ja Rule"
+     },
+     {
+      "@type": "Person",
+      "name": "Nia Peeples"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Kamp"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Half Past Dead (2002): Crime/Action film. Story: A man goes undercover in a hi-tech prison to find out… See cast, budget $25M, and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Michael Paul"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Crime",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10167",
+    "name": "Half Past Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10167"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Half Past Dead (2002)</h1>\n<p class=\"ssr-lead\">A man goes undercover in a hi-tech prison to find out information to help prosecute those who killed his wife. While there, he stumbles onto a plot involving a death-row inmate and his $200 million stash of gold.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2002</li><li>Runtime: 98 minutes</li><li>Director: Don Michael Paul</li><li>Genres: Crime, Action, Thriller</li><li>Budget: $25M</li><li>TMDB rating: 5.1/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Seagal as Sasha Petrosevitch</li><li>Morris Chestnut as Donald Robert Johnson</li><li>Ja Rule as Nicolas &#x27;Nick&#x27; Frazier</li><li>Nia Peeples as 49er Six</li><li>Alexandra Kamp as Reporter</li><li>Claudia Christian as Special Agent Ellen Williams</li><li>Tony Plana as Warden El Fuego</li><li>Kurupt as Twitch</li><li>Michael Taliferro as Little Joe</li><li>Bruce Weitz as Lester McKenna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Half Past Dead (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:11067": {
+   "d": "Major League II (1994): Comedy film. Story: After losing in the ALCS the year before, the… See cast, budget $25M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y4nGjTJ4d0x5tQ7EFLhuDO81QaV.jpg",
+   "industry": "world",
+   "k": "Major League II, Major League II movie, Major League II cast, Major League II story, Major League II box office collection, Major League II budget, Major League II review, Major League II rating, Major League II release date, Major League II trailer, Major League II Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlie Sheen"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Berenger"
+     },
+     {
+      "@type": "Person",
+      "name": "Corbin Bernsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Haysbert"
+     },
+     {
+      "@type": "Person",
+      "name": "James Gammon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 386,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Major League II (1994): Comedy film. Story: After losing in the ALCS the year before, the… See cast, budget $25M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David S. Ward"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y4nGjTJ4d0x5tQ7EFLhuDO81QaV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11067",
+    "name": "Major League II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-03-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11067"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Major League II (1994)</h1>\n<p class=\"ssr-lead\">After losing in the ALCS the year before, the Cleveland Indians are determined to make it into the World Series this time! However, they first have to contend with Rachel Phelps again when she buys back the team.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 1994</li><li>Runtime: 105 minutes</li><li>Director: David S. Ward</li><li>Genres: Comedy</li><li>Budget: $25M</li><li>TMDB rating: 5.7/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Sheen as Rick Vaughn</li><li>Tom Berenger as Jake Taylor</li><li>Corbin Bernsen as Roger Dorn</li><li>Dennis Haysbert as Pedro Cerrano</li><li>James Gammon as Lou Brown</li><li>Omar Epps as Willie Mays Hayes</li><li>Eric Bruskotter as Rube Baker</li><li>Takaaki Ishibashi as Isuro Tanaka</li><li>Alison Doody as Flannery</li><li>Michelle Burke as Nikki Reese</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV, Sony Pictures Core Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Major League II (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:11367": {
    "d": "Odds and Evens (1978): Comedy/Crime film. Story: A bumbling government agent recruits a trucker whose… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
@@ -448,6 +575,133 @@
    "t": "Scuola di seduzione (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:15767": {
+   "d": "Godzilla: Final Wars (2004): Action/Adventure film. Story: Humanity finally rids themselves of Godzilla… See cast, budget $19.5M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/irLLP6uZRB10P4bCGZMzlGB5p6c.jpg",
+   "industry": "world",
+   "k": "Godzilla: Final Wars, Godzilla: Final Wars movie, Godzilla: Final Wars cast, Godzilla: Final Wars story, Godzilla: Final Wars box office collection, Godzilla: Final Wars budget, Godzilla: Final Wars review, Godzilla: Final Wars rating, Godzilla: Final Wars release date, Godzilla: Final Wars Action, Godzilla: Final Wars Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masahiro Matsuoka"
+     },
+     {
+      "@type": "Person",
+      "name": "Rei Kikukawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Frye"
+     },
+     {
+      "@type": "Person",
+      "name": "Maki Mizuno"
+     },
+     {
+      "@type": "Person",
+      "name": "Kazuki Kitamura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Godzilla: Final Wars (2004): Action/Adventure film. Story: Humanity finally rids themselves of Godzilla… See cast, budget $19.5M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryuhei Kitamura"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/irLLP6uZRB10P4bCGZMzlGB5p6c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15767",
+    "name": "Godzilla: Final Wars",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15767"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla: Final Wars (2004)</h1>\n<p class=\"ssr-lead\">Humanity finally rids themselves of Godzilla, imprisoning him in an icy tomb in the South Pole. All is peaceful until various monsters emerge to lay waste to Earth&#x27;s cities. Overwhelmed, humanity is seemingly saved by a race of benevolent aliens known as Xiliens. But not all is what it seems with these bizarre visitors. If humanity wishes to survive, they must reluctantly resurrect their most hated enemy, Godzilla.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2004</li><li>Runtime: 125 minutes</li><li>Director: Ryuhei Kitamura</li><li>Genres: Action, Adventure, Science Fiction, Fantasy, Thriller</li><li>Budget: $19.5M</li><li>TMDB rating: 7.1/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masahiro Matsuoka as Shin&#x27;ichi Ôzaki</li><li>Rei Kikukawa as Miyuki Otonashi</li><li>Don Frye as Captain Douglas Gordon</li><li>Maki Mizuno as Anna Otonashi</li><li>Kazuki Kitamura as The controller of Planet X</li><li>Kane Kosugi as Katsunori Kazama</li><li>Kumi Mizuno as Commander Akiko Namikawa</li><li>Akira Takarada as UN Secretary General Naotarô Daigo</li><li>Masatô Ibu as Xilian General</li><li>Masanobu Takashima as Major Kita</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Core Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Godzilla: Final Wars (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:15867": {
+   "d": "Interiors (1978): Drama film. Story: When Eve, an interior designer, is deserted by her… See cast, budget $3.1M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
+   "industry": "world",
+   "k": "Interiors, Interiors movie, Interiors cast, Interiors story, Interiors box office collection, Interiors budget, Interiors review, Interiors rating, Interiors release date, Interiors trailer, Interiors Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Geraldine Page"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristin Griffith"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Beth Hurt"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Jordan"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 407,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Interiors (1978): Drama film. Story: When Eve, an interior designer, is deserted by her… See cast, budget $3.1M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15867",
+    "name": "Interiors",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-08-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15867"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Interiors (1978)</h1>\n<p class=\"ssr-lead\">When Eve, an interior designer, is deserted by her husband of many years, Arthur, the emotionally glacial relationships of the three grown-up daughters are laid bare. Twisted by jealousy, insecurity and resentment, Renata, a successful writer; Joey, a woman crippled by indecision; and Flyn, a budding actress; struggle to communicate for the sake of their shattered mother. But when their father unexpectedly falls for another woman, his decision to remarry sets in motion a terrible twist of fate…</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 August 1978</li><li>Runtime: 93 minutes</li><li>Director: Woody Allen</li><li>Genres: Drama</li><li>Budget: $3.1M</li><li>TMDB rating: 6.8/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Geraldine Page as Eve</li><li>Kristin Griffith as Flyn</li><li>Mary Beth Hurt as Joey</li><li>Richard Jordan as Frederick</li><li>Diane Keaton as Renata</li><li>E.G. Marshall as Arthur</li><li>Maureen Stapleton as Pearl</li><li>Sam Waterston as Mike</li><li>Missy Hope as Young Joey</li><li>Kerry Duffy as Young Renata</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Interiors (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
   "movie:1643567": {
    "d": "Ghosts: The Possession of Button House (2026): Fantasy/Comedy film. Story: It's a matter of life and death for Alison, Mike, Mia… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/r87Uwf5yvL69fBWsZHGR2OTbD1A.jpg",
@@ -511,6 +765,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ghosts: The Possession of Button House (2026)</h1>\n<p class=\"ssr-lead\">It&#x27;s a matter of life and death for Alison, Mike, Mia and the Ghosts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 97 minutes</li><li>Director: Simon Hynd</li><li>Genres: Fantasy, Comedy</li><li>TMDB rating: 7.2/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Farnaby as Julian Fawcett</li><li>Jim Howick as Pat Butcher</li><li>Ben Willbond as The Captain</li><li>Laurence Rickard as Humphrey (Head) / Robin</li><li>Martha Howe-Douglas as Fanny Button</li><li>Lolly Adefope as Katherine &quot;Kitty&quot; Higham</li><li>Mathew Baynton as Thomas Thorne</li><li>Charlotte Ritchie as Alison Cooper</li><li>Kiell Smith-Bynoe as Mike Cooper</li><li>Scott Ellis Watson as Jack</li></ul>\n</article>",
    "t": "Ghosts: The Possession of Button House (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:17467": {
+   "d": "Riki-Oh: The Story of Ricky (1991): Action/Science Fiction film. Story: In 2001, where all correctional facilities have been… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ing3zXED5b3XnWOQ88S3S7wvU8I.jpg",
+   "industry": "world",
+   "k": "Riki-Oh: The Story of Ricky, Riki-Oh: The Story of Ricky movie, Riki-Oh: The Story of Ricky cast, Riki-Oh: The Story of Ricky story, Riki-Oh: The Story of Ricky box office collection, Riki-Oh: The Story of Ricky budget, Riki-Oh: The Story of Ricky review, Riki-Oh: The Story of Ricky rating, Riki-Oh: The Story of Ricky release date, Riki-Oh: The Story of Ricky trailer, Riki-Oh: The Story of Ricky Action, Riki-Oh: The Story of Ricky Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis Fan Siu-wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Fan Mei-Sheng"
+     },
+     {
+      "@type": "Person",
+      "name": "William Ho"
+     },
+     {
+      "@type": "Person",
+      "name": "Gloria Yip Wan-yee"
+     },
+     {
+      "@type": "Person",
+      "name": "Yukari Ôshima"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Riki-Oh: The Story of Ricky (1991): Action/Science Fiction film. Story: In 2001, where all correctional facilities have been… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lam Ngai-chai"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ing3zXED5b3XnWOQ88S3S7wvU8I.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17467",
+    "name": "Riki-Oh: The Story of Ricky",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-10-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17467"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Riki-Oh: The Story of Ricky (1991)</h1>\n<p class=\"ssr-lead\">In 2001, where all correctional facilities have been privatized, martial artist Ricky finds himself victim to the corrupt system, found &quot;guilty&quot; of the manslaughter of an infamous crime boss.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 1991</li><li>Runtime: 93 minutes</li><li>Director: Lam Ngai-chai</li><li>Genres: Action, Science Fiction, Horror</li><li>TMDB rating: 6.8/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Fan Siu-wong as Ricky</li><li>Fan Mei-Sheng as Assistant Warden</li><li>William Ho as Warden Sugiyama</li><li>Gloria Yip Wan-yee as Keiko</li><li>Yukari Ôshima as Huang Chung / West Block</li><li>Frankie Chan Chi-leung as Hai / North Block</li><li>Kôichi Sugisaki as Tarzan San Tai / East Block</li><li>Wong Kwai-hung as Blondie Shiraga / South Block</li><li>Tetsuro Tamba as Master Zhang</li><li>Chang Gan-Wing as Lao Ma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JustWatch TV Plus, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Riki-Oh: The Story of Ricky (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
   },
   "movie:20367": {
    "d": "Detour (1945): Drama/Thriller film. Story: The life of Al Roberts, a pianist in a New York… See cast, budget $30.0k, and TMDB rating 7.2/10.",
@@ -704,6 +1022,70 @@
    "t": "Bandslam (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:2767": {
+   "d": "The Lovers on the Bridge (1991): Drama/Romance film. Story: Set against Paris' oldest bridge, the Pont Neuf… See cast, budget $28M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6vWdQxx4yqV5kEeAqtzBHndo3Eg.jpg",
+   "industry": "world",
+   "k": "The Lovers on the Bridge, The Lovers on the Bridge movie, The Lovers on the Bridge cast, The Lovers on the Bridge story, The Lovers on the Bridge box office collection, The Lovers on the Bridge budget, The Lovers on the Bridge review, The Lovers on the Bridge rating, The Lovers on the Bridge release date, The Lovers on the Bridge trailer, The Lovers on the Bridge Drama, The Lovers on the Bridge Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juliette Binoche"
+     },
+     {
+      "@type": "Person",
+      "name": "Denis Lavant"
+     },
+     {
+      "@type": "Person",
+      "name": "Klaus-Michael Grüber"
+     },
+     {
+      "@type": "Person",
+      "name": "Édith Scob"
+     },
+     {
+      "@type": "Person",
+      "name": "Georges Aperghis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 403,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Lovers on the Bridge (1991): Drama/Romance film. Story: Set against Paris' oldest bridge, the Pont Neuf… See cast, budget $28M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leos Carax"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6vWdQxx4yqV5kEeAqtzBHndo3Eg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2767",
+    "name": "The Lovers on the Bridge",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2767"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lovers on the Bridge (1991)</h1>\n<p class=\"ssr-lead\">Set against Paris&#x27; oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 1991</li><li>Runtime: 126 minutes</li><li>Director: Leos Carax</li><li>Genres: Drama, Romance</li><li>Budget: $28M</li><li>TMDB rating: 7.4/10 (403 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juliette Binoche as Michèle Stalens</li><li>Denis Lavant as Alex</li><li>Klaus-Michael Grüber as Hans</li><li>Édith Scob as Couple in car</li><li>Georges Aperghis as Couple in car</li><li>Daniel Buain as Alex&#x27;s friend</li><li>Marion Stalens as Marion</li><li>Chrichan Larsson as Julien</li><li>Paulette Berthonnier as Sailor / Barge operator</li><li>Roger Berthonnier as Sailor / Barge operator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Lovers on the Bridge (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:300667": {
    "d": "3 Generations (2016): Comedy/Drama film. Story: A teenager transitions from female to male, and his… See cast, budget $10M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
@@ -895,6 +1277,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Very Murray Christmas (2015)</h1>\n<p class=\"ssr-lead\">Bill Murray worries no one will show up to his TV show due to a massive snowstorm in New York City. Through luck and perseverance, guests arrive at Gotham’s Carlyle Hotel to help him — dancing and singing in holiday spirit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2015</li><li>Runtime: 56 minutes</li><li>Director: Sofia Coppola</li><li>Genres: Comedy, Music, TV Movie</li><li>TMDB rating: 5.2/10 (471 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Murray as Bill Murray</li><li>Paul Shaffer as Paul Schaffer</li><li>Michael Cera as Jackie the Talent Agent</li><li>George Clooney as George Clooney</li><li>Miley Cyrus as Miley Cyrus</li><li>Dimitri Dimitrov as Dimitri Dimitrov</li><li>David Johansen as The Bartender</li><li>Rashida Jones as The Bride</li><li>Jenny Lewis as The Waitress</li><li>Amy Poehler as Liz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "A Very Murray Christmas (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:37767": {
+   "d": "Fun Is Beautiful (1980): Comedy film. Story: Three characters' misadventures in semi-deserted… See cast, TMDB rating 7.1/10, and release date 19 January 1980.",
+   "img": "https://image.tmdb.org/t/p/w780/eeWeiZ96fOhkP5vnTX7KoaZIhD1.jpg",
+   "industry": "world",
+   "k": "Fun Is Beautiful, Fun Is Beautiful movie, Fun Is Beautiful cast, Fun Is Beautiful story, Fun Is Beautiful box office collection, Fun Is Beautiful budget, Fun Is Beautiful review, Fun Is Beautiful rating, Fun Is Beautiful release date, Fun Is Beautiful Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     },
+     {
+      "@type": "Person",
+      "name": "Verónica Miriel"
+     },
+     {
+      "@type": "Person",
+      "name": "Mario Brega"
+     },
+     {
+      "@type": "Person",
+      "name": "Renato Scarpa"
+     },
+     {
+      "@type": "Person",
+      "name": "Fausto Di Bella"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Fun Is Beautiful (1980): Comedy film. Story: Three characters' misadventures in semi-deserted… See cast, TMDB rating 7.1/10, and release date 19 January 1980.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eeWeiZ96fOhkP5vnTX7KoaZIhD1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37767",
+    "name": "Fun Is Beautiful",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-01-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37767"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fun Is Beautiful (1980)</h1>\n<p class=\"ssr-lead\">Three characters&#x27; misadventures in semi-deserted, summertime Rome: a dim-witted mama&#x27;s boy falls for a tourist; a would-be womanizer struggles to find company for his sex tourism trip to Kraków; a hippie is drawn into his father&#x27;s schemes to bring him back into polite society.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 1980</li><li>Runtime: 97 minutes</li><li>Director: Carlo Verdone</li><li>Genres: Comedy</li><li>TMDB rating: 7.1/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlo Verdone as Enzo / Ruggero / Leo / Don Alfio / Professore / Anselmo</li><li>Verónica Miriel as Marisol</li><li>Mario Brega as Mario Brega</li><li>Renato Scarpa as Sergio</li><li>Fausto Di Bella as Antioco</li><li>Isabella De Bernardi as Fiorenza</li><li>Sandro Ghiani as Cristiano</li><li>Maria Mizar as Automobilista col cane</li><li>Luciano Bonanni as Barelliere</li><li>Filippo Ciro as &#x27;Dottorino&#x27;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Fun Is Beautiful (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
   },
   "movie:49367": {
    "d": "Two Sons of Francisco (2005): Drama/History film. Story: The story of Francisco, a very simple and poor man… See cast and TMDB rating 6.8/10.",

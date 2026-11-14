@@ -1,6 +1,6 @@
 {
  "bucket": "89",
- "count": 29,
+ "count": 38,
  "titles": {
   "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
@@ -401,6 +401,219 @@
    "vote_average": 6.1,
    "vote_count": 394
   },
+  "movie:1249289": {
+   "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Joe Travers",
+     "n": "Scott Eastwood"
+    },
+    {
+     "c": "Chester",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Lara Travers",
+     "n": "Willa Fitzgerald"
+    },
+    {
+     "c": "Orlin",
+     "n": "Mike Colter"
+    },
+    {
+     "c": "Ronald Burbridge",
+     "n": "D.W. Moffett"
+    },
+    {
+     "c": "Bridgette Rousseau",
+     "n": "Isis Valverde"
+    },
+    {
+     "c": "Roland Rousseau",
+     "n": "Joel Cohen"
+    },
+    {
+     "c": "CIA Agent Kirby",
+     "n": "Mark Polish"
+    },
+    {
+     "c": "Krol",
+     "n": "Anton Narinskiy"
+    },
+    {
+     "c": "Dimitri",
+     "n": "Patrick Millin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Polish"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1249289,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+   "popularity": 3.7845,
+   "poster_path": "/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-16",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One hell of a vacation.",
+   "title": "Alarum",
+   "trailer": {
+    "key": "D0EnSmg7seM",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 423
+  },
   "movie:13189": {
    "backdrop_path": "/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
    "budget": 0,
@@ -513,6 +726,110 @@
    "type": "movie",
    "vote_average": 7.474,
    "vote_count": 445
+  },
+  "movie:14289": {
+   "backdrop_path": "/iWoQUcMpEZlq5yAALb08LtACr9.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jack Taggart",
+     "n": "Steven Seagal"
+    },
+    {
+     "c": "Sarah Kellogg",
+     "n": "Marg Helgenberger"
+    },
+    {
+     "c": "Earl Kellogg",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Orin Hanner Jr",
+     "n": "Brad Hunt"
+    },
+    {
+     "c": "Orin Hanner Sr.",
+     "n": "Kris Kristofferson"
+    },
+    {
+     "c": "Reverend Bob Goodall",
+     "n": "Levon Helm"
+    },
+    {
+     "c": "Cotton Harry",
+     "n": "Harry Dean Stanton"
+    },
+    {
+     "c": "Hatch",
+     "n": "Mark Collie"
+    },
+    {
+     "c": "Phil Pratt",
+     "n": "Richard Masur"
+    },
+    {
+     "c": "Sims",
+     "n": "Alex Harvey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Félix Alcalá"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 14289,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an EPA representative is murdered in a small Appalachian community, EPA undercover agent Jack Taggart is sent in—posing as a handyman working with a Christian relief agency—to determine what happened.",
+   "popularity": 2.6975,
+   "poster_path": "/pt0aBevxZvM89Pioly6WDyW4fzr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-09-05",
+   "revenue": 16228448,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beneath a land of wealth and beauty hides a secret that could kill millions. Undercover has never run so deep.",
+   "title": "Fire Down Below",
+   "trailer": {
+    "key": "67aF_v-At-k",
+    "name": "Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 413
   },
   "movie:1522689": {
    "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
@@ -1246,6 +1563,300 @@
    "vote_average": 6.986,
    "vote_count": 467
   },
+  "movie:25189": {
+   "backdrop_path": "/29f4MK68pkBwDzWWTmarrmzdrcn.jpg",
+   "budget": 42000000,
+   "cast": [
+    {
+     "c": "Rose Morgan",
+     "n": "Barbra Streisand"
+    },
+    {
+     "c": "Gregory Larkin",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Alex",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Hannah Morgan",
+     "n": "Lauren Bacall"
+    },
+    {
+     "c": "Claire",
+     "n": "Mimi Rogers"
+    },
+    {
+     "c": "Henry Fine",
+     "n": "George Segal"
+    },
+    {
+     "c": "Doris",
+     "n": "Brenda Vaccaro"
+    },
+    {
+     "c": "Barry",
+     "n": "Austin Pendleton"
+    },
+    {
+     "c": "Candy",
+     "n": "Elle Macpherson"
+    },
+    {
+     "c": "First Girl Student",
+     "n": "Ali Marsh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Barbra Streisand"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 25189,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rose Morgan, who still lives with her mother, is a professor of Romantic Literature who desperately longs for passion in her life. Gregory Larkin, a mathematics professor, has been burned by passionate relationships and longs for a sexless union based on friendship and respect.",
+   "popularity": 2.0985,
+   "poster_path": "/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-11-15",
+   "revenue": 41083864,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story about just how wrong two people can be before they can be right.",
+   "title": "The Mirror Has Two Faces",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 401
+  },
+  "movie:284289": {
+   "backdrop_path": "/a0wiBOMVRkGaj5gjWFVJ2TTBLHB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Madec",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Ben",
+     "n": "Jeremy Irvine"
+    },
+    {
+     "c": "Laina",
+     "n": "Hanna Mangan Lawrence"
+    },
+    {
+     "c": "Sheriff Robb",
+     "n": "Ronny Cox"
+    },
+    {
+     "c": "Charlie (uncredited)",
+     "n": "Martin Palmer"
+    },
+    {
+     "c": "Secretary",
+     "n": "Patricia Bethune"
+    },
+    {
+     "c": "Ben's Father (uncredited)",
+     "n": "David Garver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jean-Baptiste Léonetti"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 284289,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A high-rolling corporate shark and his impoverished young guide play the most dangerous game during a hunting trip in the Mojave Desert.",
+   "popularity": 2.6295,
+   "poster_path": "/t6m6ICEG7KrnyYQpROISURkuCD5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Outside TV Features Amzon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/y3b3UctYaH11sKkxPN4juIQhaHp.png",
+     "name": "Outside TV Features Amzon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-06",
+   "revenue": 45895,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Beyond the Reach",
+   "trailer": {
+    "key": "xgE2ISSshIU",
+    "name": "Beyond the Reach - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.928,
+   "vote_count": 423
+  },
   "movie:287689": {
    "backdrop_path": "/iCP1SCtQfb8p071TZmsLQYbHO78.jpg",
    "budget": 0,
@@ -1650,6 +2261,173 @@
    "vote_average": 6.0,
    "vote_count": 443
   },
+  "movie:390989": {
+   "backdrop_path": "/5DCdmzO434x7KRy6maH2rdj6GTj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fin Shepard",
+     "n": "Ian Ziering"
+    },
+    {
+     "c": "Claudia Shepard",
+     "n": "Ryan Whitney"
+    },
+    {
+     "c": "April Wexler",
+     "n": "Tara Reid"
+    },
+    {
+     "c": "Colonel Gilbert Shepard",
+     "n": "David Hasselhoff"
+    },
+    {
+     "c": "Wilford Wexler",
+     "n": "Gary Busey"
+    },
+    {
+     "c": "Aston Reynolds",
+     "n": "Tommy Davidson"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Imani Hakim"
+    },
+    {
+     "c": "Matt Shepard",
+     "n": "Cody Linley"
+    },
+    {
+     "c": "Gemini",
+     "n": "Masiela Lusha"
+    },
+    {
+     "c": "Raye Shepard",
+     "n": "Cheryl Tiegs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Anthony C. Ferrante"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 390989,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The new installment of the Sharknado franchise takes place 5 years after Sharknado 3: Oh Hell No! There have been no Sharknados in the intervening years, but now they’re appearing again in unexpected ways.",
+   "popularity": 2.3306,
+   "poster_path": "/xUbN2ww2T3y3kaW6lf3c5DabE5O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-07-31",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What happens in Vegas, stays in Vegas. Unless what happens is this.",
+   "title": "Sharknado 4: The 4th Awakens",
+   "trailer": {
+    "key": "hYypNJN17YI",
+    "name": "Sharknado: The 4th Awakens - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 425
+  },
   "movie:427989": {
    "backdrop_path": "/xdDnTXhPd7q0gKu6KpDoZ9F3xeC.jpg",
    "budget": 0,
@@ -1737,6 +2515,274 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 442
+  },
+  "movie:464889": {
+   "backdrop_path": "/yD4FojKumGSeA0Z8m49VZ8GKUuJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brandon Beckett",
+     "n": "Chad Michael Collins"
+    },
+    {
+     "c": "Kate Estrada",
+     "n": "Danay García"
+    },
+    {
+     "c": "John Samson",
+     "n": "Joe Lando"
+    },
+    {
+     "c": "Richard Miller",
+     "n": "Billy Zane"
+    },
+    {
+     "c": "Thomas Beckett",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Santiago Calderón",
+     "n": "Pedro José Pallares"
+    },
+    {
+     "c": "Father Carlos",
+     "n": "Jaime Correa"
+    },
+    {
+     "c": "Captain Garza",
+     "n": "Lucho Velasco"
+    },
+    {
+     "c": "El Diablo / Enrique",
+     "n": "Andrés Felipe Calero"
+    },
+    {
+     "c": "Patrick Walsh",
+     "n": "Juan Pablo Gamboa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Claudio Fäh"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 464889,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For the first time, Brandon Beckett, Richard Miller and Sgt. Thomas Beckett join forces in Colombia to take down a brutal drug cartel. When a deadly sniper with advanced, never-before-seen weaponry targets local Special Agent Kate Estrada, our elite team is in for the ultimate battle in this explosive, game-changing action thriller.",
+   "popularity": 3.5223,
+   "poster_path": "/kdahBLqWeEuDsM4fCBrXw8oCNRm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-03",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time, weapons change the game.",
+   "title": "Sniper: Ultimate Kill",
+   "trailer": {
+    "key": "ZKBlKsx4N38",
+    "name": "Sniper: Ultimate Kill Trailer - Available on Blu-ray & Digital 10/3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.429,
+   "vote_count": 389
+  },
+  "movie:645689": {
+   "backdrop_path": "/wddNG1To5jUwmX8gwcGjZSpckwg.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Kempton Bunton",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Dorothy Bunton",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Jackie Bunton",
+     "n": "Fionn Whitehead"
+    },
+    {
+     "c": "Mrs. Gowling",
+     "n": "Anna Maxwell Martin"
+    },
+    {
+     "c": "Jeremy Hutchinson",
+     "n": "Matthew Goode"
+    },
+    {
+     "c": "Kenny Bunton",
+     "n": "Jack Bandeira"
+    },
+    {
+     "c": "Irene Boslover",
+     "n": "Aimee Kelly"
+    },
+    {
+     "c": "Pammy",
+     "n": "Charlotte Spencer"
+    },
+    {
+     "c": "Debbie",
+     "n": "Heather Craney"
+    },
+    {
+     "c": "Foreman",
+     "n": "Stephen Rashbrook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roger Michell"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "id": 645689,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1961, a 60-year-old taxi driver steals Goya’s portrait of the Duke of Wellington from the National Gallery in London. It was the first (and remains the only) theft in the Gallery’s history. What happens next becomes the stuff of legend.",
+   "popularity": 2.1862,
+   "poster_path": "/zXlj7NgSWg0NbK2zfUh0nbGZVuz.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-23",
+   "revenue": 14233027,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A priceless true story.",
+   "title": "The Duke",
+   "trailer": {
+    "key": "2B2bxcnt4S4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.928,
+   "vote_count": 387
   },
   "movie:679989": {
    "backdrop_path": "/vdoJZC5TBeUm5ohlxGcAhCo962a.jpg",
@@ -1826,6 +2872,212 @@
    "type": "movie",
    "vote_average": 5.902,
    "vote_count": 468
+  },
+  "movie:93289": {
+   "backdrop_path": "/sf3LLFDjkZIABUnHi2tIY02az5r.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sergent-chef Chaudard",
+     "n": "Pierre Mondy"
+    },
+    {
+     "c": "Soldat Pithivier",
+     "n": "Jean Lefebvre"
+    },
+    {
+     "c": "Soldat Tassin",
+     "n": "Aldo Maccione"
+    },
+    {
+     "c": "Lieutenant Duvauchel, pilote de l’armée de l’Air",
+     "n": "Érik Colin"
+    },
+    {
+     "c": "Carlier dit : Le P'tit",
+     "n": "Alain Doutey"
+    },
+    {
+     "c": "Colonel Blanchet",
+     "n": "Robert Lamoureux"
+    },
+    {
+     "c": "Capitaine Dumont, commandant de la 7ème compagnie",
+     "n": "Pierre Tornade"
+    },
+    {
+     "c": "L'épicier, collaborateur avant l'heure",
+     "n": "Jacques Marin"
+    },
+    {
+     "c": "Père de la filette, en exode sur la route",
+     "n": "Paul Bisciglia"
+    },
+    {
+     "c": "Fermier, ancien combattant de 14-18",
+     "n": "Robert Dalban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Robert Lamoureux"
+   ],
+   "genres": [
+    "Comedy",
+    "War"
+   ],
+   "id": 93289,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "1940: During the chaotic running fights of the French army the 7th company disappears - nobody knows they've been taken captive. Only their scouting patrol, three witty but lazy guys, can escape and now wanders around behind the German lines. They'd like to just stay out the fights, but a Lieutenant urges them to use a captured truck to break through to their troops.",
+   "popularity": 2.1452,
+   "poster_path": "/clSsWDMsUJ49ptNkhJ0yLWyPXlU.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1973-05-24",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Now Where Did the Seventh Company Get to?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.293,
+   "vote_count": 401
+  },
+  "movie:9789": {
+   "backdrop_path": "/wYA0JQkcveqKpc3dC0TOTpKdanG.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Accio Benassi",
+     "n": "Elio Germano"
+    },
+    {
+     "c": "Manrico Benassi",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Amelia Benassi",
+     "n": "Angela Finocchiaro"
+    },
+    {
+     "c": "Ettore Benassi",
+     "n": "Massimo Popolizio"
+    },
+    {
+     "c": "Father Cavalli",
+     "n": "Ascanio Celestini"
+    },
+    {
+     "c": "Francesca",
+     "n": "Diane Fleri"
+    },
+    {
+     "c": "Violetta Benassi",
+     "n": "Alba Rohrwacher"
+    },
+    {
+     "c": "Teen Accio",
+     "n": "Vittorio Emanuele Propizio"
+    },
+    {
+     "c": "Professor Montagna",
+     "n": "Claudio Botosso"
+    },
+    {
+     "c": "Secretary Bombacci",
+     "n": "Antonino Bruschetta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniele Luchetti"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "id": 9789,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Accio and Manrico are siblings from a working-class family in 1960s Italy: older Manrico is handsome, charismatic, and loved by all, while younger Accio is sulky, hot-headed, and treats life as a battleground — much to his parents' chagrin. After the former is drawn into left-wing politics, Accio joins the fascists out of spite, but his flimsy beliefs are put to test when he falls for Manrico's like-minded girlfriend.",
+   "popularity": 1.5726,
+   "poster_path": "/rSOjjhIY9OidNPqgJcguGfHeTg.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-03-28",
+   "revenue": 6463286,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the things we fight about are what brings us closest together.",
+   "title": "My Brother Is an Only Child",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.723,
+   "vote_count": 421
   },
   "tv:120089": {
    "backdrop_path": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "91",
- "count": 34,
+ "count": 38,
  "titles": {
   "movie:1051891": {
    "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
@@ -116,6 +116,157 @@
    "type": "movie",
    "vote_average": 6.835,
    "vote_count": 486
+  },
+  "movie:10691": {
+   "backdrop_path": "/zbFG63ineDZdEHHyv7WwASRpOAM.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Nicole Oakley",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Carlos Nuñez",
+     "n": "Jay Hernandez"
+    },
+    {
+     "c": "Tom Oakley",
+     "n": "Bruce Davison"
+    },
+    {
+     "c": "Luis",
+     "n": "Herman Osorio"
+    },
+    {
+     "c": "Eddie",
+     "n": "Miguel Castro"
+    },
+    {
+     "c": "Victor",
+     "n": "Tommy De La Cruz"
+    },
+    {
+     "c": "Hector",
+     "n": "Rolando Molina"
+    },
+    {
+     "c": "Mrs. Nuñez",
+     "n": "Soledad St. Hilaire"
+    },
+    {
+     "c": "Courtney Oakley",
+     "n": "Lucinda Jenney"
+    },
+    {
+     "c": "Maddy",
+     "n": "Taryn Manning"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Stockwell"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 10691,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At Pacific Palisades High, a poor Latino falls hard for a troubled girl from the affluent neighborhood.",
+   "popularity": 1.924,
+   "poster_path": "/1kxn6w6lvKkrhmVxfVqI0cfBmLa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-06-29",
+   "revenue": 16929123,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When it's real. When it's right. Don't let anything stand in your way.",
+   "title": "Crazy/Beautiful",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 414
   },
   "movie:11091": {
    "backdrop_path": "/wXax3nRWlZDfRqgrmBIKfE2OnaJ.jpg",
@@ -357,6 +508,132 @@
    "vote_average": 7.126,
    "vote_count": 471
   },
+  "movie:11791": {
+   "backdrop_path": "/k735AJpiP0H690rCGCWDVDytN9z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Doctor Watson",
+     "n": "André Morell"
+    },
+    {
+     "c": "Sir Henry Baskerville",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Cecile Stapleton",
+     "n": "Marla Landi"
+    },
+    {
+     "c": "Sir Hugo Baskerville",
+     "n": "David Oxley"
+    },
+    {
+     "c": "Dr. Richard Mortimer",
+     "n": "Francis de Wolff"
+    },
+    {
+     "c": "Bishop Frankland",
+     "n": "Miles Malleson"
+    },
+    {
+     "c": "Stapleton",
+     "n": "Ewen Solon"
+    },
+    {
+     "c": "Barrymore",
+     "n": "John Le Mesurier"
+    },
+    {
+     "c": "Mrs. Barrymore",
+     "n": "Helen Goss"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Terence Fisher"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 11791,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a nobleman is threatened by a family curse on his newly inherited estate, detective Sherlock Holmes is hired to investigate.",
+   "popularity": 2.9912,
+   "poster_path": "/gJNscfPsBnQRdIjjdrTIHVCRwvY.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-05-04",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Most Horror-Dripping TALE EVER WRITTEN!",
+   "title": "The Hound of the Baskervilles",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.789,
+   "vote_count": 401
+  },
   "movie:1266791": {
    "backdrop_path": "/bzGhdOMMeyBn9CFYMhtqUkevG0j.jpg",
    "budget": 0,
@@ -449,6 +726,102 @@
    "type": "movie",
    "vote_average": 6.328,
    "vote_count": 119
+  },
+  "movie:13691": {
+   "backdrop_path": "/yrIL6TukQ3m2KLf9oFoLMF7kDnz.jpg",
+   "budget": 46000000,
+   "cast": [
+    {
+     "c": "Piglet (voice)",
+     "n": "John Fiedler"
+    },
+    {
+     "c": "Winnie the Pooh / Tigger (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Roo (voice)",
+     "n": "Nikita Hopkins"
+    },
+    {
+     "c": "Rabbit (voice)",
+     "n": "Ken Sansom"
+    },
+    {
+     "c": "Eeyore (voice)",
+     "n": "Peter Cullen"
+    },
+    {
+     "c": "Kanga / Christopher Robin (singing) (voice)",
+     "n": "Kath Soucie"
+    },
+    {
+     "c": "Owl (voice)",
+     "n": "Andre Stojka"
+    },
+    {
+     "c": "Christopher Robin (voice)",
+     "n": "Tom Wheatley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Francis Glebas"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 13691,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the gang from the Hundred Acre Wood begin a honey harvest, young Piglet is excluded and told that he is too small to help. Feeling inferior, Piglet disappears and his pals Eeyore, Rabbit, Tigger, Roo and Winnie the Pooh must use Piglet's scrapbook as a map to find him. In the process they discover that this very small animal has been a big hero in a lot of ways.",
+   "popularity": 2.9479,
+   "poster_path": "/cytspPjtacOInHroA6h2dIekDrp.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-03-16",
+   "revenue": 62870546,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A tale you'll never forget.",
+   "title": "Piglet's Big Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.674,
+   "vote_count": 426
   },
   "movie:1380291": {
    "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
@@ -2052,6 +2425,152 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 482
+  },
+  "movie:955991": {
+   "backdrop_path": "/jDkmlTz9xBmhsIIyORb68VqRlL2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Art",
+     "n": "Nick Blood"
+    },
+    {
+     "c": "Claire",
+     "n": "Emm Wiseman"
+    },
+    {
+     "c": "Heimish",
+     "n": "Paul Kaye"
+    },
+    {
+     "c": "Saul",
+     "n": "Allan Corduner"
+    },
+    {
+     "c": "Chayim",
+     "n": "Daniel Ben Zenou"
+    },
+    {
+     "c": "Sarah Scheindal",
+     "n": "Sofia Weldon"
+    },
+    {
+     "c": "Yosille",
+     "n": "Anton Trendafilov"
+    },
+    {
+     "c": "Aida",
+     "n": "Meglena Karalambova"
+    },
+    {
+     "c": "Levi Siegelman",
+     "n": "Jonathan Yunger"
+    },
+    {
+     "c": "Moishe",
+     "n": "Velizar Binev"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oliver Park"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 955991,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the wake of a young Jewish girl’s disappearance, the son of a Hasidic funeral director returns home with his pregnant wife in hopes of reconciling with his father. Little do they know that directly beneath them in the family morgue, an ancient evil with sinister plans for the unborn child lurks inside a mysterious corpse.",
+   "popularity": 1.4785,
+   "poster_path": "/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-12-08",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "he",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No soul is safe.",
+   "title": "The Offering",
+   "trailer": {
+    "key": "oMc-iybcRdc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 412
   },
   "tv:225891": {
    "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",

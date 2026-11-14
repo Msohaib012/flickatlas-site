@@ -1,7 +1,102 @@
 {
  "bucket": "23",
- "count": 40,
+ "count": 47,
  "titles": {
+  "movie:11123": {
+   "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Stewart Graff",
+     "n": "Charlton Heston"
+    },
+    {
+     "c": "Remy Royce-Graff",
+     "n": "Ava Gardner"
+    },
+    {
+     "c": "Sgt. Lew Slade",
+     "n": "George Kennedy"
+    },
+    {
+     "c": "Sam Royce",
+     "n": "Lorne Greene"
+    },
+    {
+     "c": "Denise Marshall",
+     "n": "Geneviève Bujold"
+    },
+    {
+     "c": "Miles Quade",
+     "n": "Richard Roundtree"
+    },
+    {
+     "c": "Jody",
+     "n": "Marjoe Gortner"
+    },
+    {
+     "c": "Dr. Willis Stockle",
+     "n": "Barry Sullivan"
+    },
+    {
+     "c": "Dr. James Vance",
+     "n": "Lloyd Nolan"
+    },
+    {
+     "c": "Rosa Amici",
+     "n": "Victoria Principal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mark Robson"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11123,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.",
+   "popularity": 3.9031,
+   "poster_path": "/6hJorsInxNpj1dIekh6dK6Kh9S6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-11-15",
+   "revenue": 79666653,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the big one finally hits L.A.",
+   "title": "Earthquake",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.138,
+   "vote_count": 392
+  },
   "movie:11223": {
    "backdrop_path": "/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
    "budget": 4500000,
@@ -107,6 +202,96 @@
    "type": "movie",
    "vote_average": 6.756,
    "vote_count": 485
+  },
+  "movie:12223": {
+   "backdrop_path": "/pgVTwsJXv1i2GGZ2yB7KfiYqGAc.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Joanna Eberhart",
+     "n": "Katharine Ross"
+    },
+    {
+     "c": "Bobbie Markowe",
+     "n": "Paula Prentiss"
+    },
+    {
+     "c": "Carol Van Sant",
+     "n": "Nanette Newman"
+    },
+    {
+     "c": "Patricia Cornell",
+     "n": "Judith Baldwin"
+    },
+    {
+     "c": "Walter Eberhart",
+     "n": "Peter Masterson"
+    },
+    {
+     "c": "Charmaine Wimpiris",
+     "n": "Tina Louise"
+    },
+    {
+     "c": "Dr. Fancher",
+     "n": "Carol Eve Rossen"
+    },
+    {
+     "c": "Ike Mazzard",
+     "n": "William Prince"
+    },
+    {
+     "c": "Kim Eberhart",
+     "n": "Mary Stuart Masterson"
+    },
+    {
+     "c": "Dale Coba",
+     "n": "Patrick O'Neal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bryan Forbes"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 12223,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joanna Eberhart comes to the town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.",
+   "popularity": 2.6489,
+   "poster_path": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1975-02-12",
+   "revenue": 8700000,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Something is wrong with the women of Stepford.",
+   "title": "The Stepford Wives",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.684,
+   "vote_count": 394
   },
   "movie:1248723": {
    "backdrop_path": "/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
@@ -958,6 +1143,309 @@
    "vote_average": 8.103,
    "vote_count": 73
   },
+  "movie:174323": {
+   "backdrop_path": "/zPabya2Q4WKuhRalkgwacFWuWxD.jpg",
+   "budget": 3200000,
+   "cast": [
+    {
+     "c": "Tanner Daniels",
+     "n": "Michael J. Willett"
+    },
+    {
+     "c": "Brent Van Camp",
+     "n": "Paul Iacono"
+    },
+    {
+     "c": "Fawcett Brooks",
+     "n": "Sasha Pieterse"
+    },
+    {
+     "c": "'Shley Osgoode",
+     "n": "Andrea Bowen"
+    },
+    {
+     "c": "Caprice Winters",
+     "n": "Xosha Roquemore"
+    },
+    {
+     "c": "Sophie Aster",
+     "n": "Molly Tarlov"
+    },
+    {
+     "c": "McKenzie Pryce",
+     "n": "Evanna Lynch"
+    },
+    {
+     "c": "Soledad Braunstein",
+     "n": "JoJo"
+    },
+    {
+     "c": "Glenn Cho",
+     "n": "Derek Mio"
+    },
+    {
+     "c": "Mindie",
+     "n": "Mia Rose Frampton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Darren Stein"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 174323,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The bitter fight for supremacy between the three most popular girls at North Gateway High takes an unexpected turn when their classmate, Tanner, is outed and becomes the school’s first openly gay student. The trio races to bag the big trend in fashion accessories, the Gay Best Friend, while Tanner must decide whether his skyrocketing popularity is more important than the friendships he is leaving behind.",
+   "popularity": 0.1063,
+   "poster_path": "/f4fR1WMgSv7K93ZPoJlPyvaApdE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-01-17",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Being out has never been so in.",
+   "title": "G.B.F.",
+   "trailer": {
+    "key": "l7hSNYcA7pE",
+    "name": "GBF Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 416
+  },
+  "movie:19223": {
+   "backdrop_path": "/88FnsK3iF9rWdR36N3anp1oYVYJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Onoff",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Inspector",
+     "n": "Roman Polanski"
+    },
+    {
+     "c": "Andre",
+     "n": "Sergio Rubini"
+    },
+    {
+     "c": "Captain",
+     "n": "Nicola Di Pinto"
+    },
+    {
+     "c": "Servant",
+     "n": "Tano Cimarosa"
+    },
+    {
+     "c": "Marshall",
+     "n": "Paolo Lombardi"
+    },
+    {
+     "c": "Paula",
+     "n": "Maria Rosa Spagnolo"
+    },
+    {
+     "c": "",
+     "n": "Alberto Sironi"
+    },
+    {
+     "c": "",
+     "n": "Giovanni Morricone"
+    },
+    {
+     "c": "",
+     "n": "Mahdi Kraiem"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Giuseppe Tornatore"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 19223,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Famous writer Onoff is now a recluse. The Inspector is suspicious when Onoff is brought into the station one night, disoriented and suffering a kind of amnesia. In an isolated, rural police station, the Inspector tries to establish the events surrounding a killing, to reach a startling resolution.",
+   "popularity": 1.1303,
+   "poster_path": "/bAd56dYln4cgoJBa1r60cb9S5xR.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-05-15",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Pure Formality",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.416,
+   "vote_count": 412
+  },
   "movie:20123": {
    "backdrop_path": "/kWNvrV0lZY1kYGo50hIUq4n76vC.jpg",
    "budget": 0,
@@ -1060,6 +1548,160 @@
    "type": "movie",
    "vote_average": 7.616,
    "vote_count": 463
+  },
+  "movie:30923": {
+   "backdrop_path": "/mbFHUlhWU53VG8VLE5jAcQQVIUR.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Tina Majorino"
+    },
+    {
+     "c": "Tweedledum",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Major Caterpillar",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Queen of Hearts",
+     "n": "Miranda Richardson"
+    },
+    {
+     "c": "Mad Hatter",
+     "n": "Martin Short"
+    },
+    {
+     "c": "White Knight",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Mock Turtle",
+     "n": "Gene Wilder"
+    },
+    {
+     "c": "Cheshire Cat",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Walrus",
+     "n": "Peter Ustinov"
+    },
+    {
+     "c": "Fred Tweedledee",
+     "n": "George Wendt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Nick Willing"
+   ],
+   "genres": [
+    "Fantasy",
+    "Family"
+   ],
+   "id": 30923,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Alice follows a white rabbit down a rabbit-hole into a whimsical Wonderland, where she meets characters like the delightful Cheshire Cat, the clumsy White Knight, a rude caterpillar, and the hot-tempered Queen of Hearts and can grow ten feet tall or shrink to three inches. But will she ever be able to return home?",
+   "popularity": 3.0889,
+   "poster_path": "/kpXmXjqeyuSYCtNuGMytWQLdKX.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "UP Faith & Family Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "UP Faith & Family Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+     "name": "UP Faith & Family Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
+     "name": "UP Faith & Family Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-02-28",
+   "revenue": 0,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Masterpiece of Imagination...",
+   "title": "Alice in Wonderland",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 405
   },
   "movie:369523": {
    "backdrop_path": "/bMJ0h7EiLxtUq8Bd6KeZeQkV9Dn.jpg",
@@ -1171,6 +1813,185 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 493
+  },
+  "movie:40823": {
+   "backdrop_path": "/fN4OThflKQ8ZT1w2qRRIJmLejKk.jpg",
+   "budget": 514059,
+   "cast": [
+    {
+     "c": "André",
+     "n": "Lázaro Ramos"
+    },
+    {
+     "c": "Sílvia",
+     "n": "Leandra Leal"
+    },
+    {
+     "c": "Marinês",
+     "n": "Luana Piovani"
+    },
+    {
+     "c": "Cardoso",
+     "n": "Pedro Cardoso"
+    },
+    {
+     "c": "Antunes",
+     "n": "Carlos Cunha Filho"
+    },
+    {
+     "c": "Feitosa",
+     "n": "Júlio Andrade"
+    },
+    {
+     "c": "Guigo Bolhinha",
+     "n": "Gregory Garcia"
+    },
+    {
+     "c": "Guria esperta",
+     "n": "Sheron Menezzes"
+    },
+    {
+     "c": "Seu Gomide Bolha",
+     "n": "Heitor Schmidt"
+    },
+    {
+     "c": "Paulo",
+     "n": "Paulo José"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Jorge Furtado"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Crime"
+   ],
+   "id": 40823,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "A young photocopier operator becomes infatuated with his neighbor and, unable to afford anything from her shop, turns to shady schemes to make money.",
+   "popularity": 1.4277,
+   "poster_path": "/3RsEkEdLEFd0Q5HThqMd4X8tYZk.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2003-06-13",
+   "revenue": 24391,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Life is original. Everything else is copy.",
+   "title": "The Man Who Copied",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.534,
+   "vote_count": 388
+  },
+  "movie:640923": {
+   "backdrop_path": "/kAvmmy5wbrsNTZvXUULAHhjWLFS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicola",
+     "n": "Valerio Mastandrea"
+    },
+    {
+     "c": "Sara",
+     "n": "Paola Cortellesi"
+    },
+    {
+     "c": "L'amico giornalista",
+     "n": "Stefano Fresi"
+    },
+    {
+     "c": "Il padre separato",
+     "n": "Valerio Aprea"
+    },
+    {
+     "c": "Il padre con molti figli",
+     "n": "Paolo Calabresi"
+    },
+    {
+     "c": "Il padre milionario",
+     "n": "Andrea Sartoretti"
+    },
+    {
+     "c": "Il cliente",
+     "n": "Massimo De Lorenzo"
+    },
+    {
+     "c": "Il prete",
+     "n": "Gianfelice Imparato"
+    },
+    {
+     "c": "Luca",
+     "n": "Carlo Luca De Ruggieri"
+    },
+    {
+     "c": "Andrea",
+     "n": "Luca Amorosino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Giuseppe Bonito"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 640923,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Sara and Nicola are married and in love. Their lives seem to be perfect: they have an angelic six-year-old daughter, thriving careers and a stable marriage. The birth of their second child, which disrupts the family balance, leads to tragicomic scenarios.",
+   "popularity": 1.0914,
+   "poster_path": "/6wHRqWQsOdvfrPab02p3IGDM96J.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2020-01-23",
+   "revenue": 3700000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kidz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 396
   },
   "movie:808023": {
    "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",

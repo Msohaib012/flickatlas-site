@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 38,
+ "count": 43,
  "titles": {
   "movie:11986": {
    "d": "Betty Blue (1986): Drama/Romance film. Story: A lackadaisical handyman and aspiring novelist tries… See cast, TMDB rating 7.2/10, and release date 9 April 1986.",
@@ -646,6 +646,134 @@
    "t": "Cold Prey (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:3086": {
+   "d": "The Lady Eve (1941): Comedy/Romance film. Story: It's no accident when wealthy Charles falls for Jean. See cast, budget $660.0k, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
+   "industry": "world",
+   "k": "The Lady Eve, The Lady Eve movie, The Lady Eve cast, The Lady Eve story, The Lady Eve box office collection, The Lady Eve budget, The Lady Eve review, The Lady Eve rating, The Lady Eve release date, The Lady Eve trailer, The Lady Eve Comedy, The Lady Eve Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barbara Stanwyck"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Fonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Coburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugene Pallette"
+     },
+     {
+      "@type": "Person",
+      "name": "William Demarest"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Lady Eve (1941): Comedy/Romance film. Story: It's no accident when wealthy Charles falls for Jean. See cast, budget $660.0k, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Preston Sturges"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3086",
+    "name": "The Lady Eve",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1941-03-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3086"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lady Eve (1941)</h1>\n<p class=\"ssr-lead\">It&#x27;s no accident when wealthy Charles falls for Jean. Jean is a con artist with her sights set on Charles&#x27; fortune. Matters complicate when Jean starts falling for her mark. When Charles suspects Jean is a gold digger, he dumps her. Jean, fixated on revenge and still pining for the millionaire, devises a plan to get back in Charles&#x27; life. With love and payback on her mind, she re-introduces herself to Charles, this time as an aristocrat named Lady Eve Sidwich.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 March 1941</li><li>Runtime: 97 minutes</li><li>Director: Preston Sturges</li><li>Genres: Comedy, Romance</li><li>Budget: $660.0k</li><li>TMDB rating: 7.3/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barbara Stanwyck as Jean Harrington</li><li>Henry Fonda as Charles Pike</li><li>Charles Coburn as &#x27;Colonel&#x27; Harrington</li><li>Eugene Pallette as Horace Pike</li><li>William Demarest as Muggsy</li><li>Eric Blore as Sir Alfred McGlennan Keith</li><li>Melville Cooper as Gerald</li><li>Martha O&#x27;Driscoll as Martha</li><li>Janet Beecher as Janet Pike</li><li>Robert Greig as Burrows</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Lady Eve (1941) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1941"
+  },
+  "movie:333386": {
+   "d": "The Duel (2020): Western/Drama film. Story: A Texas Ranger investigates a series of unexplained… See cast, budget $10M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nVR9pzRNznccuOzX6KAyoMTbpLO.jpg",
+   "industry": "world",
+   "k": "The Duel, The Duel movie, The Duel cast, The Duel story, The Duel box office collection, The Duel budget, The Duel review, The Duel rating, The Duel release date, The Duel trailer, The Duel Western, The Duel Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Braga"
+     },
+     {
+      "@type": "Person",
+      "name": "Emory Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Felicity Price"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "The Duel (2020): Western/Drama film. Story: A Texas Ranger investigates a series of unexplained… See cast, budget $10M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kieran Darcy-Smith"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Western",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nVR9pzRNznccuOzX6KAyoMTbpLO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=333386",
+    "name": "The Duel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=333386"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Duel (2020)</h1>\n<p class=\"ssr-lead\">A Texas Ranger investigates a series of unexplained deaths in a town called Helena.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2020</li><li>Runtime: 110 minutes</li><li>Director: Kieran Darcy-Smith</li><li>Genres: Western, Drama</li><li>Budget: $10M</li><li>TMDB rating: 5.4/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Harrelson as Abraham Brant</li><li>Liam Hemsworth as David Kingston</li><li>Alice Braga as Marisol</li><li>Emory Cohen as Isaac</li><li>Felicity Price as Naomi</li><li>José Zúñiga as General Calderon</li><li>William Sadler as Governor Ross</li><li>Raphael Sbarge as Dr. Morris</li><li>Giles Matthey as John</li><li>Christopher James Baker as Monte</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Duel (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:353686": {
    "d": "Visions (2015): Horror/Mystery film. Story: After moving to a vineyard with her family, a… See cast, TMDB rating 5.3/10, and release date 28 August 2015.",
    "img": "https://image.tmdb.org/t/p/w780/cY2NRhbnAH4AqeVGZ80EeCzbhoz.jpg",
@@ -709,6 +837,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Visions (2015)</h1>\n<p class=\"ssr-lead\">After moving to a vineyard with her family, a pregnant woman experiences horrifying visions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2015</li><li>Runtime: 82 minutes</li><li>Director: Kevin Greutert</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 5.3/10 (467 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isla Fisher as Eveleigh Maddox</li><li>Anson Mount as David Maddox</li><li>Gillian Jacobs as Sadie</li><li>Jim Parsons as Dr. Mathison</li><li>Joanna Cassidy as Helena Knoll</li><li>Eva Longoria as Eileen</li><li>Bryce Johnson as Ben</li><li>John de Lancie as Victor Napoli</li><li>Michael Villar as Leo</li><li>Annie Tedesco as Victoria Lambert</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Visions (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:39386": {
+   "d": "The Corsican File (2004): Comedy film. Story: Jack Palmer is a Paris-based detective with a huge… See cast, TMDB rating 5.9/10, and release date 6 October 2004.",
+   "img": "https://image.tmdb.org/t/p/w780/wIK3PmfQFLISrFl455tq99kkVBW.jpg",
+   "industry": "world",
+   "k": "The Corsican File, The Corsican File movie, The Corsican File cast, The Corsican File story, The Corsican File box office collection, The Corsican File budget, The Corsican File review, The Corsican File rating, The Corsican File release date, The Corsican File Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Caterina Murino"
+     },
+     {
+      "@type": "Person",
+      "name": "Didier Flamand"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Salasca"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Corsican File (2004): Comedy film. Story: Jack Palmer is a Paris-based detective with a huge… See cast, TMDB rating 5.9/10, and release date 6 October 2004.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alain Berbérian"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wIK3PmfQFLISrFl455tq99kkVBW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39386",
+    "name": "The Corsican File",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-10-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39386"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Corsican File (2004)</h1>\n<p class=\"ssr-lead\">Jack Palmer is a Paris-based detective with a huge ego. Ange Leoni is a rebel native of Corsica whose location can&#x27;t be pinned down by even the most dogged of detectives. Approached by an obscure, small-time attorney and charged with the seemingly simple task of locating the missing Leoni, gifted gumshoe Palmer accepts the job under the assumption that it will be the easiest money of his professional career. But this superstar sleuth is about to find out just how mistaken he was...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 2004</li><li>Runtime: 92 minutes</li><li>Director: Alain Berbérian</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Rémi François, aka Jack Palmer</li><li>Jean Reno as Ange Léoni</li><li>Caterina Murino as Léa Léoni</li><li>Didier Flamand as Maître Dargent</li><li>Pierre Salasca as Matéo</li><li>Éric Fraticelli as Figoli, aka &quot;le piaf&quot;</li><li>Alain Maratrat as De Vlaminck</li><li>François Orsoni as Balducci</li><li>Nathanaël Maïni as Grappa</li><li>Albert Dray as Captain of the gendarmerie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Corsican File (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:4886": {
    "d": "And Then There Were None (1945): Crime/Drama film. Story: Ten strangers are summoned to a remote island and… See cast and TMDB rating 7.0/10.",
@@ -1029,6 +1220,142 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Setup (2011)</h1>\n<p class=\"ssr-lead\">A group of friends plan out a detailed heist that turns deadly when one betrays the other by taking off with the goods. Taking matters into his own hands, Sonny seeks out his revenge teaming up with the most dangerous mob boss in town to get back what is rightfully his. When he finally comes face to face with his longtime friend he will be forced to make a life changing choice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 October 2011</li><li>Runtime: 85 minutes</li><li>Director: Mike Gunther</li><li>Genres: Action, Crime, Drama, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 4.9/10 (456 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>50 Cent as Sonny</li><li>Ryan Phillippe as Vincent</li><li>Bruce Willis as Biggs</li><li>James Remar as William</li><li>Randy Couture as Petey</li><li>Will Yun Lee as Joey</li><li>Shaun Toub as Roth</li><li>Susie Abromeit as Valerie</li><li>Jay Karnes as Russel</li><li>Jordan Trovillion as Kelli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, ScreenPix Apple TV channel, Amazon Prime Video with Ads, Peacock Premium Plus, MovieSphere+ Amazon Channel, ScreenPix Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Setup (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:83186": {
+   "d": "Wrong (2012): Comedy/Mystery film. Story: Dolph Springer wakes up one morning to realize he has… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8hxsb8Aicvisg5DmnGYyIBvTh8r.jpg",
+   "industry": "world",
+   "k": "Wrong, Wrong movie, Wrong cast, Wrong story, Wrong box office collection, Wrong budget, Wrong review, Wrong rating, Wrong release date, Wrong trailer, Wrong Comedy, Wrong Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Plotnick"
+     },
+     {
+      "@type": "Person",
+      "name": "Éric Judor"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Dziena"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Little"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Jennings"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 402,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Wrong (2012): Comedy/Mystery film. Story: Dolph Springer wakes up one morning to realize he has… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Quentin Dupieux"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8hxsb8Aicvisg5DmnGYyIBvTh8r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=83186",
+    "name": "Wrong",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=83186"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wrong (2012)</h1>\n<p class=\"ssr-lead\">Dolph Springer wakes up one morning to realize he has lost the love of his life, his dog, Paul. During his quest to get Paul (and his life) back, Dolph radically changes the lives of others -- risking his sanity all the while.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2012</li><li>Runtime: 93 minutes</li><li>Director: Quentin Dupieux</li><li>Genres: Comedy, Mystery</li><li>TMDB rating: 6.2/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Plotnick as Dolph Springer</li><li>Éric Judor as Victor</li><li>Alexis Dziena as Emma</li><li>Steve Little as Detective Ronnie</li><li>Bob Jennings as Rear Ender Driver</li><li>William Fichtner as Master Chang</li><li>Arden Myrin as Boss Gabrielle</li><li>Todd Giebenhain as Pizza Delivery Man</li><li>Regan Burns as Mike</li><li>Mark Burnham as Cop</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Cinefest Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wrong (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:9686": {
+   "d": "New York Stories (1989): Comedy/Drama film. Story: Three tales of love, ambition, and neurosis unfold in… See cast, budget $15M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/41EKMZkoZY2GSGwGLVsZIRVFViM.jpg",
+   "industry": "world",
+   "k": "New York Stories, New York Stories movie, New York Stories cast, New York Stories story, New York Stories box office collection, New York Stories budget, New York Stories review, New York Stories rating, New York Stories release date, New York Stories trailer, New York Stories Comedy, New York Stories Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nick Nolte"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosanna Arquette"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick O'Neal"
+     },
+     {
+      "@type": "Person",
+      "name": "Mae Questel"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "New York Stories (1989): Comedy/Drama film. Story: Three tales of love, ambition, and neurosis unfold in… See cast, budget $15M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/41EKMZkoZY2GSGwGLVsZIRVFViM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9686",
+    "name": "New York Stories",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-03-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9686"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>New York Stories (1989)</h1>\n<p class=\"ssr-lead\">Three tales of love, ambition, and neurosis unfold in the city that never sleeps. In &quot;Life Lessons&quot; (Martin Scorsese), a tormented painter channels heartbreak into his art. In &quot;Life Without Zoë&quot; (Francis Ford Coppola), a precocious 12-year-old navigates privilege and loneliness in a Manhattan hotel. And in &quot;Oedipus Wrecks&quot; (Woody Allen), a man’s domineering mother literally becomes a looming presence over New York.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 March 1989</li><li>Runtime: 124 minutes</li><li>Director: Martin Scorsese, Francis Ford Coppola, Woody Allen</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Nolte as Lionel Dobie</li><li>Rosanna Arquette as Paulette</li><li>Patrick O&#x27;Neal as Phillip Fowler</li><li>Mae Questel as Mother</li><li>Steve Buscemi as Gregory Stark</li><li>Talia Shire as Charlotte</li><li>Giancarlo Giannini as Claudio</li><li>Heather McComb as Zoe</li><li>Don Novello as Hector</li><li>Jenny Nichols as Lundy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "New York Stories (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
   },
   "tv:12786": {
    "d": "Murdoch Mysteries (2008) is a Mystery and Drama TV series. Explore its story: A Victorian-era Toronto detective uses then-cutting…, cast, and 20 seasons.",

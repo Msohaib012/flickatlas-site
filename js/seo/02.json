@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 28,
+ "count": 42,
  "titles": {
   "movie:11502": {
    "d": "Knife in the Water (1962): Drama/Thriller film. Story: On their way to an afternoon on the lake, husband and… See cast and TMDB rating 7.3/10.",
@@ -434,6 +434,390 @@
    "t": "Untold Raygun: Breaking Badly (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1802": {
+   "d": "La Cérémonie (1995): Drama/Thriller film. Story: Sophie, a quiet and shy maid working for an… See cast, TMDB rating 7.3/10, and release date 30 August 1995.",
+   "img": "https://image.tmdb.org/t/p/w780/gOXtwZxGnUxgpwPN9rEKKLYBTaQ.jpg",
+   "industry": "world",
+   "k": "La Cérémonie, La Cérémonie movie, La Cérémonie cast, La Cérémonie story, La Cérémonie box office collection, La Cérémonie budget, La Cérémonie review, La Cérémonie rating, La Cérémonie release date, La Cérémonie Drama, La Cérémonie Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandrine Bonnaire"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabelle Huppert"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Pierre Cassel"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacqueline Bisset"
+     },
+     {
+      "@type": "Person",
+      "name": "Virginie Ledoyen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 424,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "La Cérémonie (1995): Drama/Thriller film. Story: Sophie, a quiet and shy maid working for an… See cast, TMDB rating 7.3/10, and release date 30 August 1995.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claude Chabrol"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gOXtwZxGnUxgpwPN9rEKKLYBTaQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1802",
+    "name": "La Cérémonie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-08-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1802"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Cérémonie (1995)</h1>\n<p class=\"ssr-lead\">Sophie, a quiet and shy maid working for an upper-class French family, finds a friend in the energetic and uncompromising postmaster Jeanne, who encourages her to stand up against her bourgeois employers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 1995</li><li>Runtime: 112 minutes</li><li>Director: Claude Chabrol</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.3/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandrine Bonnaire as Sophie Bonhomme</li><li>Isabelle Huppert as Jeanne</li><li>Jean-Pierre Cassel as Georges Lelièvre</li><li>Jacqueline Bisset as Catherine Lelièvre</li><li>Virginie Ledoyen as Melinda</li><li>Valentin Merlet as Gilles</li><li>Julien Rochefort as Jeremie</li><li>Dominique Frot as Madame Lantier</li><li>Jean-François Perrier as Priest</li><li>Ludovic Brillant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
+   "t": "La Cérémonie (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
+  "movie:2": {
+   "d": "Ariel (1988): Drama/Romance film. Story: A Finnish man goes to the city to find a job after… See cast, TMDB rating 7.1/10, and release date 21 October 1988.",
+   "img": "https://image.tmdb.org/t/p/w780/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
+   "industry": "world",
+   "k": "Ariel, Ariel movie, Ariel cast, Ariel story, Ariel box office collection, Ariel budget, Ariel review, Ariel rating, Ariel release date, Ariel Drama, Ariel Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Turo Pajala"
+     },
+     {
+      "@type": "Person",
+      "name": "Susanna Haavisto"
+     },
+     {
+      "@type": "Person",
+      "name": "Matti Pellonpää"
+     },
+     {
+      "@type": "Person",
+      "name": "Eetu Hilkamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Erkki Pajala"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Ariel (1988): Drama/Romance film. Story: A Finnish man goes to the city to find a job after… See cast, TMDB rating 7.1/10, and release date 21 October 1988.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aki Kaurismäki"
+     }
+    ],
+    "duration": "PT73M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2",
+    "name": "Ariel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ariel (1988)</h1>\n<p class=\"ssr-lead\">A Finnish man goes to the city to find a job after the mine where he worked is closed and his father commits suicide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 1988</li><li>Runtime: 73 minutes</li><li>Director: Aki Kaurismäki</li><li>Genres: Drama, Romance, Crime</li><li>TMDB rating: 7.1/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Turo Pajala as Taisto Kasurinen</li><li>Susanna Haavisto as Irmeli Pihlaja</li><li>Matti Pellonpää as Mikkonen</li><li>Eetu Hilkamo as Riku</li><li>Erkki Pajala as Miner</li><li>Matti Jaaranen as Mugger</li><li>Hannu Viholainen as Accomplice</li><li>Jorma Markkula as Tallyman</li><li>Tarja Keinänen as Woman in Harbour</li><li>Eino Kuusela as Man on Beach</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
+   "t": "Ariel (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
+  "movie:25602": {
+   "d": "Ninja (2009): Action/Crime film. Story: A westerner named Casey, studying Ninjutsu in Japan… See cast, budget $10M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
+   "industry": "world",
+   "k": "Ninja, Ninja movie, Ninja cast, Ninja story, Ninja box office collection, Ninja budget, Ninja review, Ninja rating, Ninja release date, Ninja trailer, Ninja Action, Ninja Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Tsuyoshi Ihara"
+     },
+     {
+      "@type": "Person",
+      "name": "Mika Hijii"
+     },
+     {
+      "@type": "Person",
+      "name": "Todd Jensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Garrick Hagon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Ninja (2009): Action/Crime film. Story: A westerner named Casey, studying Ninjutsu in Japan… See cast, budget $10M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Isaac Florentine"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25602",
+    "name": "Ninja",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25602"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ninja (2009)</h1>\n<p class=\"ssr-lead\">A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to return to New York to protect the legendary Yoroi Bitsu, an armored chest that contains the weapons of the last Koga Ninja.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2009</li><li>Runtime: 83 minutes</li><li>Director: Isaac Florentine</li><li>Genres: Action, Crime, Drama, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.2/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adkins as Casey</li><li>Tsuyoshi Ihara as Masazuka</li><li>Mika Hijii as Namiko</li><li>Todd Jensen as Detective Traxler</li><li>Garrick Hagon as Professor Garrison</li><li>Togo Igawa as Sensei</li><li>Miles Anderson as Temple</li><li>Valentin Ganev as Klimitov</li><li>Atanas Srebrev as Detective Vukovich</li><li>Fumio Demura as Shihan Dai</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Ninja (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:261102": {
+   "d": "The Misfits Club (2014): Romance/Drama film. Story: Valeria has just moved to Madrid after her parent's… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/k03NKr2mgma98hnM4xAcvaUHWlP.jpg",
+   "industry": "world",
+   "k": "The Misfits Club, The Misfits Club movie, The Misfits Club cast, The Misfits Club story, The Misfits Club box office collection, The Misfits Club budget, The Misfits Club review, The Misfits Club rating, The Misfits Club release date, The Misfits Club Romance, The Misfits Club Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlotte Vega"
+     },
+     {
+      "@type": "Person",
+      "name": "Àlex Maruny"
+     },
+     {
+      "@type": "Person",
+      "name": "Jorge Clemente"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Calvó"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Trepat"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 427,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Misfits Club (2014): Romance/Drama film. Story: Valeria has just moved to Madrid after her parent's… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlos Sedes"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k03NKr2mgma98hnM4xAcvaUHWlP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=261102",
+    "name": "The Misfits Club",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=261102"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Misfits Club (2014)</h1>\n<p class=\"ssr-lead\">Valeria has just moved to Madrid after her parent&#x27;s separation. What at first seems a bad start for her new life becomes the beginning of an amazing life experience. New friendships, a city full of possibilities, first love...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2014</li><li>Runtime: 105 minutes</li><li>Director: Carlos Sedes</li><li>Genres: Romance, Drama, Fantasy, Comedy</li><li>TMDB rating: 6.8/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlotte Vega as Valeria</li><li>Àlex Maruny as Raúl</li><li>Jorge Clemente as Bruno</li><li>Michelle Calvó as Elisabeth</li><li>Andrea Trepat as Ester</li><li>Ivana Baquero as Meri</li><li>Yon González as Rodrigo</li><li>Patrick Criado as César</li><li>Raúl Arévalo as Martín</li><li>Aitana Sánchez-Gijón as Madre de Valeria</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Misfits Club (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:309302": {
+   "d": "Wolf Totem (2015): Adventure/Drama film. Story: In 1969, a young Beijing student, Chen Zhen, is sent… See cast, budget $38M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5dDUDrH373QJgblJx8BCNSNPIvz.jpg",
+   "industry": "world",
+   "k": "Wolf Totem, Wolf Totem movie, Wolf Totem cast, Wolf Totem story, Wolf Totem box office collection, Wolf Totem budget, Wolf Totem review, Wolf Totem rating, Wolf Totem release date, Wolf Totem trailer, Wolf Totem Adventure, Wolf Totem Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William Feng"
+     },
+     {
+      "@type": "Person",
+      "name": "Shawn Dou"
+     },
+     {
+      "@type": "Person",
+      "name": "Ankhnyam Ragchaa"
+     },
+     {
+      "@type": "Person",
+      "name": "Yin Zhusheng"
+     },
+     {
+      "@type": "Person",
+      "name": "Baasanjav Mijid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 412,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Wolf Totem (2015): Adventure/Drama film. Story: In 1969, a young Beijing student, Chen Zhen, is sent… See cast, budget $38M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Jacques Annaud"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5dDUDrH373QJgblJx8BCNSNPIvz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=309302",
+    "name": "Wolf Totem",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=309302"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wolf Totem (2015)</h1>\n<p class=\"ssr-lead\">In 1969, a young Beijing student, Chen Zhen, is sent to live among the nomadic herdsmen of Inner Mongolia. Caught between the advance of civilization from the south and the nomads&#x27; traditional enemies - the marauding wolves - to the north; humans and animals, residents and invaders alike, struggle to find their true place in the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2015</li><li>Runtime: 116 minutes</li><li>Director: Jean-Jacques Annaud</li><li>Genres: Adventure, Drama</li><li>Budget: $38M</li><li>TMDB rating: 6.5/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Feng as Chen Zhen</li><li>Shawn Dou as Yang Ke</li><li>Ankhnyam Ragchaa as Gasma</li><li>Yin Zhusheng as Bao Shunghi</li><li>Baasanjav Mijid as Bilig</li><li>Tumenbayaer as Sang Jie</li><li>Han Tongsheng</li><li>Huang Xiaolei</li><li>Qi Na Ri Tu as Gertai</li><li>Xia Xing as Zhi Qing</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wolf Totem (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:340402": {
+   "d": "Almost Christmas (2016): Comedy/Drama film. Story: A dysfunctional family gathers together for their… See cast, budget $17M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dXbV1QF2nrmrs0TLOQnNPydhwPj.jpg",
+   "industry": "world",
+   "k": "Almost Christmas, Almost Christmas movie, Almost Christmas cast, Almost Christmas story, Almost Christmas box office collection, Almost Christmas budget, Almost Christmas review, Almost Christmas rating, Almost Christmas release date, Almost Christmas trailer, Almost Christmas Comedy, Almost Christmas Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kimberly Elise"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Epps"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Glover"
+     },
+     {
+      "@type": "Person",
+      "name": "John Michael Higgins"
+     },
+     {
+      "@type": "Person",
+      "name": "Romany Malco"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 405,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Almost Christmas (2016): Comedy/Drama film. Story: A dysfunctional family gathers together for their… See cast, budget $17M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David E. Talbert"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dXbV1QF2nrmrs0TLOQnNPydhwPj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=340402",
+    "name": "Almost Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=340402"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Almost Christmas (2016)</h1>\n<p class=\"ssr-lead\">A dysfunctional family gathers together for their first Christmas since the death of their matriarch.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2016</li><li>Runtime: 111 minutes</li><li>Director: David E. Talbert</li><li>Genres: Comedy, Drama</li><li>Budget: $17M</li><li>TMDB rating: 6.0/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kimberly Elise as Cheryl</li><li>Omar Epps as Malachi</li><li>Danny Glover as Walter</li><li>John Michael Higgins as Brooks</li><li>Romany Malco as Christian</li><li>Mo&#x27;Nique as Aunt May</li><li>Nicole Ari Parker as Sonya</li><li>JB Smoove as Uncle Lonnie</li><li>Gabrielle Union as Rachel</li><li>Jessie T. Usher as Evan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Almost Christmas (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:444902": {
    "d": "Dirty Dancing (2017): Drama/Romance film. Story: Spending the summer at a Catskills resort with her… See cast, budget $6M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
@@ -497,6 +881,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dirty Dancing (2017)</h1>\n<p class=\"ssr-lead\">Spending the summer at a Catskills resort with her family, Frances &quot;Baby&quot; Houseman falls in love with the camp&#x27;s dance instructor, Johnny Castle, and nothing is ever the same for anyone in the Houseman family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 May 2017</li><li>Runtime: 130 minutes</li><li>Director: Wayne Blair</li><li>Genres: Drama, Romance</li><li>Budget: $6M</li><li>TMDB rating: 5.5/10 (455 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Abigail Breslin as Frances &quot;Baby&quot; Houseman</li><li>Colt Prattes as Johnny Castle</li><li>Sarah Hyland as Lisa Houseman</li><li>Nicole Scherzinger as Penny Rivera</li><li>Tony Roberts as Max Kellerman</li><li>J. Quinton Johnson as Marco</li><li>Shane Harper as Robbie Gould</li><li>Trevor Einhorn as Neil Kellerman</li><li>Casper Smart as Billy Kotsecki</li><li>Katey Sagal as Vivian Pressman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dirty Dancing (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:45202": {
+   "d": "The Housemaid (2010): Thriller/Drama film. Story: Eun-yi is hired as a maid in a mansion owned by a… See cast, budget $4M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3300h1Q2YjIkxsvZ65H9zVo8QNR.jpg",
+   "industry": "world",
+   "k": "The Housemaid, The Housemaid movie, The Housemaid cast, The Housemaid story, The Housemaid box office collection, The Housemaid budget, The Housemaid review, The Housemaid rating, The Housemaid release date, The Housemaid trailer, The Housemaid Thriller, The Housemaid Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeon Do-yeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Jung-jae"
+     },
+     {
+      "@type": "Person",
+      "name": "Seo Woo"
+     },
+     {
+      "@type": "Person",
+      "name": "Youn Yuh-jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Ji-young"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 403,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Housemaid (2010): Thriller/Drama film. Story: Eun-yi is hired as a maid in a mansion owned by a… See cast, budget $4M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Im Sang-soo"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3300h1Q2YjIkxsvZ65H9zVo8QNR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=45202",
+    "name": "The Housemaid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-05-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=45202"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Housemaid (2010)</h1>\n<p class=\"ssr-lead\">Eun-yi is hired as a maid in a mansion owned by a wealthy businessman. He quickly starts seducing his employee who seemingly has little choice but to comply with his sexual advances. Soon the women of the family plot against Eun-yi who must fight an equally devious battle to protect herself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 May 2010</li><li>Runtime: 107 minutes</li><li>Director: Im Sang-soo</li><li>Genres: Thriller, Drama</li><li>Budget: $4M</li><li>TMDB rating: 6.3/10 (403 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeon Do-yeon as Eun-yi</li><li>Lee Jung-jae as Hoon</li><li>Seo Woo as Hae-ra</li><li>Youn Yuh-jung as Miss Cho</li><li>Park Ji-young as Mi-hee</li><li>An Seo-hyun as Nami</li><li>Hwang Jeong-min as Soon-boon</li><li>Moon So-ri as Obstetrician</li><li>Kim Jin-ah as Aunt</li><li>Chae Tae-back as Herbal Medicine Shop Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Hungama Play</li></ul>\n</article>",
+   "t": "The Housemaid (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:458302": {
    "d": "Remi, Nobody's Boy (2018): Adventure/Family film. Story: At the age of 10 years, young Rémi is snatched from… See cast and TMDB rating 7.9/10.",
@@ -562,6 +1010,261 @@
    "t": "Remi, Nobody's Boy (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:463602": {
+   "d": "Slumber (2017): Horror film. Story: A sleep doctor tries to protect a family from a demon… See cast, TMDB rating 5.3/10, and release date 1 December 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/aGAWFJ9DvlDRzz8SGW1DVplB28a.jpg",
+   "industry": "world",
+   "k": "Slumber, Slumber movie, Slumber cast, Slumber story, Slumber box office collection, Slumber budget, Slumber review, Slumber rating, Slumber release date, Slumber trailer, Slumber Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maggie Q"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Kemp"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvester McCoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Troughton"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Bush"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 387,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Slumber (2017): Horror film. Story: A sleep doctor tries to protect a family from a demon… See cast, TMDB rating 5.3/10, and release date 1 December 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Hopkins"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aGAWFJ9DvlDRzz8SGW1DVplB28a.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=463602",
+    "name": "Slumber",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=463602"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Slumber (2017)</h1>\n<p class=\"ssr-lead\">A sleep doctor tries to protect a family from a demon that feeds on people in their nightmares.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 2017</li><li>Runtime: 84 minutes</li><li>Director: Jonathan Hopkins</li><li>Genres: Horror</li><li>TMDB rating: 5.3/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maggie Q as Alice Arnolds</li><li>Will Kemp as Tom Arnolds</li><li>Sylvester McCoy as Amado</li><li>Sam Troughton as Charlie Morgan</li><li>Kristen Bush as Sarah Morgan</li><li>Adam Lazarus as Nurse</li><li>Susan Fordham as Medic</li><li>Charlie Bond as American Nurse</li><li>William Todd-Jones as The Night Hag</li><li>William Rhead as Liam</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Slumber (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:464502": {
+   "d": "Acrimony (2018): Drama/Thriller film. Story: Faithful wife Melinda, who is tired of standing by… See cast, budget $20M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h9USMzm43BZyUXc45OZAPlPBUjZ.jpg",
+   "industry": "world",
+   "k": "Acrimony, Acrimony movie, Acrimony cast, Acrimony story, Acrimony box office collection, Acrimony budget, Acrimony review, Acrimony rating, Acrimony release date, Acrimony trailer, Acrimony Drama, Acrimony Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Taraji P. Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Lyriq Bent"
+     },
+     {
+      "@type": "Person",
+      "name": "Crystle Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Nicolet"
+     },
+     {
+      "@type": "Person",
+      "name": "Ptosha Storey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Acrimony (2018): Drama/Thriller film. Story: Faithful wife Melinda, who is tired of standing by… See cast, budget $20M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tyler Perry"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h9USMzm43BZyUXc45OZAPlPBUjZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=464502",
+    "name": "Acrimony",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-03-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=464502"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Acrimony (2018)</h1>\n<p class=\"ssr-lead\">Faithful wife Melinda, who is tired of standing by her devious husband Robert, is enraged when it becomes clear she has been betrayed. That&#x27;s when she lost it, and now she cannot let it go.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 2018</li><li>Runtime: 120 minutes</li><li>Director: Tyler Perry</li><li>Genres: Drama, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 6.8/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taraji P. Henson as Melinda Moore Gayle</li><li>Lyriq Bent as Robert Gayle</li><li>Crystle Stewart as Diana</li><li>Danielle Nicolet as Sarah</li><li>Ptosha Storey as Brenda</li><li>Jazmyn Simon as June</li><li>Kendrick Cross as Kalvin</li><li>Nelson Estevez as Casey</li><li>Jay Hunter as Devon</li><li>Ajiona Alexus as Young Melinda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Acrimony (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:487702": {
+   "d": "F the Prom (2017): Comedy/Drama film. Story: Maddy and Cole were inseparable friends until high… See cast, TMDB rating 5.8/10, and release date 5 December 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/nm8d1T8HZuDSeX40m8MC4qWushR.jpg",
+   "industry": "world",
+   "k": "F the Prom, F the Prom movie, F the Prom cast, F the Prom story, F the Prom box office collection, F the Prom budget, F the Prom review, F the Prom rating, F the Prom release date, F the Prom trailer, F the Prom Comedy, F the Prom Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Danielle Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Courtney"
+     },
+     {
+      "@type": "Person",
+      "name": "Meg DeLacy"
+     },
+     {
+      "@type": "Person",
+      "name": "Madelaine Petsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Chey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "F the Prom (2017): Comedy/Drama film. Story: Maddy and Cole were inseparable friends until high… See cast, TMDB rating 5.8/10, and release date 5 December 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Benny Fine"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nm8d1T8HZuDSeX40m8MC4qWushR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=487702",
+    "name": "F the Prom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=487702"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>F the Prom (2017)</h1>\n<p class=\"ssr-lead\">Maddy and Cole were inseparable friends until high school started and Maddy became the most popular girl on campus. When she starts feeling lonely and heartbroken, she reconnects with Cole and the duo conspire to destroy the ultimate teen popularity contest</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2017</li><li>Runtime: 92 minutes</li><li>Director: Benny Fine</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.8/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danielle Campbell as Maddy</li><li>Joel Courtney as Cole</li><li>Meg DeLacy as City</li><li>Madelaine Petsch as Marissa</li><li>Michael Chey as Sweats</li><li>Cameron Palatas as Kane</li><li>Luke Bilyk as TJ</li><li>Aidan Alexander as Nick</li><li>Ian Ziering as Ken</li><li>Nicholle Tom as Principal Statszill</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "F the Prom (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:498402": {
+   "d": "Aline (2021): Music/Comedy film. Story: A fictionalized biopic of Aline Dieu, a multitalented… See cast, budget $25.9M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vlrRGSoCpoSoVzX9Y1JS6rni3Ym.jpg",
+   "industry": "world",
+   "k": "Aline, Aline movie, Aline cast, Aline story, Aline box office collection, Aline budget, Aline review, Aline rating, Aline release date, Aline trailer, Aline Music, Aline Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Valérie Lemercier"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvain Marcel"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnaud Préchac"
+     },
+     {
+      "@type": "Person",
+      "name": "Denis Lefrançois"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Fichaud"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 406,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Aline (2021): Music/Comedy film. Story: A fictionalized biopic of Aline Dieu, a multitalented… See cast, budget $25.9M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Valérie Lemercier"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vlrRGSoCpoSoVzX9Y1JS6rni3Ym.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=498402",
+    "name": "Aline",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-11-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=498402"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Aline (2021)</h1>\n<p class=\"ssr-lead\">A fictionalized biopic of Aline Dieu, a multitalented singer from a musically inclined family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2021</li><li>Runtime: 125 minutes</li><li>Director: Valérie Lemercier</li><li>Genres: Music, Comedy, Drama, Family</li><li>Budget: $25.9M</li><li>TMDB rating: 6.6/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valérie Lemercier as Aline Dieu</li><li>Sylvain Marcel as Guy-Claude Camard</li><li>Arnaud Préchac as Anglomard Dieu, 18 Years</li><li>Denis Lefrançois as Jean-Claudin Dieu</li><li>Danielle Fichaud as Sylvette Dieu</li><li>Roc LaFortune as Anglomard Dieu</li><li>Antoine Vézina as Jean-Bobin Dieu</li><li>Sonia Vachon as Martine Lévêque</li><li>Pascale Desrochers as Jeannette Dieu</li><li>Victoria Sio as Aline (singing voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hungama Play</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Aline (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:61202": {
    "d": "Zindagi Na Milegi Dobara (2011): Drama/Comedy film. Story: Three friends who were inseparable in childhood… See cast, budget $7.7M, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
@@ -625,6 +1328,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Zindagi Na Milegi Dobara (2011)</h1>\n<p class=\"ssr-lead\">Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 2011</li><li>Runtime: 154 minutes</li><li>Director: Zoya Akhtar</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $7.7M</li><li>TMDB rating: 7.6/10 (449 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hrithik Roshan as Arjun Saluja</li><li>Abhay Deol as Kabir Dewan</li><li>Farhan Akhtar as Imran Qureshi</li><li>Katrina Kaif as Laila</li><li>Kalki Koechlin as Natasha Arora</li><li>Naseeruddin Shah as Salman Habib</li><li>Ariadna Cabrol as Nuria</li><li>Deepti Naval as Rahila Qureshi</li><li>Anisa as Tanya Arora</li><li>Suhel Seth as Natasha&#x27;s Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Zindagi Na Milegi Dobara (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:699102": {
+   "d": "A Week Away (2021): Drama/Music film. Story: Troubled teen Will Hawkins has a run-in with the law… See cast, TMDB rating 6.9/10, and release date 26 March 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/2VnghbG2qWChcE6CdZBMDtDQKCF.jpg",
+   "industry": "world",
+   "k": "A Week Away, A Week Away movie, A Week Away cast, A Week Away story, A Week Away box office collection, A Week Away budget, A Week Away review, A Week Away rating, A Week Away release date, A Week Away trailer, A Week Away Drama, A Week Away Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bailee Madison"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin G. Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Sherri Shepherd"
+     },
+     {
+      "@type": "Person",
+      "name": "David Koechner"
+     },
+     {
+      "@type": "Person",
+      "name": "Jahbril Cook"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 414,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "A Week Away (2021): Drama/Music film. Story: Troubled teen Will Hawkins has a run-in with the law… See cast, TMDB rating 6.9/10, and release date 26 March 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roman White"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2VnghbG2qWChcE6CdZBMDtDQKCF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=699102",
+    "name": "A Week Away",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=699102"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Week Away (2021)</h1>\n<p class=\"ssr-lead\">Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2021</li><li>Runtime: 95 minutes</li><li>Director: Roman White</li><li>Genres: Drama, Music, Romance, Comedy</li><li>TMDB rating: 6.9/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bailee Madison as Avery</li><li>Kevin G. Quinn as Will Hawkins</li><li>Sherri Shepherd as Kristin</li><li>David Koechner as David</li><li>Jahbril Cook as George</li><li>Kat Conner Sterling as Presley</li><li>Iain Tucker as Sean</li><li>Ed Amatrudo as Mark</li><li>Hutch Greene as Timmy</li><li>Josh Rasile as Police Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Week Away (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:759902": {
+   "d": "Hunter Hunter (2022): Horror/Thriller film. Story: A fur trapper leaves his wife and daughter behind to… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
+   "industry": "world",
+   "k": "Hunter Hunter, Hunter Hunter movie, Hunter Hunter cast, Hunter Hunter story, Hunter Hunter box office collection, Hunter Hunter budget, Hunter Hunter review, Hunter Hunter rating, Hunter Hunter release date, Hunter Hunter trailer, Hunter Hunter Horror, Hunter Hunter Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Camille Sullivan"
+     },
+     {
+      "@type": "Person",
+      "name": "Summer H. Howell"
+     },
+     {
+      "@type": "Person",
+      "name": "Devon Sawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Stahl"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Daniels"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 393,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Hunter Hunter (2022): Horror/Thriller film. Story: A fur trapper leaves his wife and daughter behind to… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shawn Linden"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=759902",
+    "name": "Hunter Hunter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=759902"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hunter Hunter (2022)</h1>\n<p class=\"ssr-lead\">A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness, but they soon become increasingly worried when their peaceful existence is disrupted.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2022</li><li>Runtime: 93 minutes</li><li>Director: Shawn Linden</li><li>Genres: Horror, Thriller, Mystery</li><li>TMDB rating: 6.4/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Camille Sullivan as Anne Mersault</li><li>Summer H. Howell as Renee Mersault</li><li>Devon Sawa as Joseph Mersault</li><li>Nick Stahl as Lou</li><li>Gabriel Daniels as Danny Barthes</li><li>Lauren Cochrane as Lucy</li><li>Jade Michael as Tina</li><li>Erik Athavale as Greg</li><li>Karl Thordarson as Smith</li><li>Blake Taylor as Cully</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Hunter Hunter (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:829402": {
+   "d": "Ultraman: Rising (2024): Animation/Science Fiction film. Story: A star athlete reluctantly returns home to take over… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+   "industry": "world",
+   "k": "Ultraman: Rising, Ultraman: Rising movie, Ultraman: Rising cast, Ultraman: Rising story, Ultraman: Rising box office collection, Ultraman: Rising budget, Ultraman: Rising review, Ultraman: Rising rating, Ultraman: Rising release date, Ultraman: Rising trailer, Ultraman: Rising Animation, Ultraman: Rising Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christopher Sean"
+     },
+     {
+      "@type": "Person",
+      "name": "Gedde Watanabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamlyn Tomita"
+     },
+     {
+      "@type": "Person",
+      "name": "Keone Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Harriman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 415,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Ultraman: Rising (2024): Animation/Science Fiction film. Story: A star athlete reluctantly returns home to take over… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shannon Tindle"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=829402",
+    "name": "Ultraman: Rising",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-06-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=829402"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ultraman: Rising (2024)</h1>\n<p class=\"ssr-lead\">A star athlete reluctantly returns home to take over his father&#x27;s duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 2024</li><li>Runtime: 117 minutes</li><li>Director: Shannon Tindle</li><li>Genres: Animation, Science Fiction, Family, Action</li><li>TMDB rating: 8.0/10 (415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Sean as Ken Sato / Ultraman (voice)</li><li>Gedde Watanabe as Professor Sato / Ultradad (voice)</li><li>Tamlyn Tomita as Mina / Emiko Sato (voice)</li><li>Keone Young as Dr. Onda (voice)</li><li>Julia Harriman as Ami Wakita (voice)</li><li>Hiro Nakamura as Kenji (voice)</li><li>Rob Fukuzaki as Game Commentator (voice)</li><li>Frank Buckley as Announcer / Additional Voices (voice)</li><li>François Chau as Itow-san / Additional Voices (voice)</li><li>Robert Yasumura as Kubo-san (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Ultraman: Rising (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:931102": {
    "d": "Ride On (2023): Action/Comedy film. Story: A washed-up stuntman and his stunt horse become an… See cast, TMDB rating 7.1/10, and release date 7 April 2023.",

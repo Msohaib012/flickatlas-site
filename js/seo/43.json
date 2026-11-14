@@ -1,7 +1,71 @@
 {
  "bucket": "43",
- "count": 20,
+ "count": 28,
  "titles": {
+  "movie:10243": {
+   "d": "The Flight of the Phoenix (1965): Adventure/Drama film. Story: A cargo aircraft crashes in a sandstorm in the Sahara… See cast and budget $5.36M.",
+   "img": "https://image.tmdb.org/t/p/w780/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
+   "industry": "world",
+   "k": "The Flight of the Phoenix, The Flight of the Phoenix movie, The Flight of the Phoenix cast, The Flight of the Phoenix story, The Flight of the Phoenix box office collection, The Flight of the Phoenix budget, The Flight of the Phoenix review, The Flight of the Phoenix rating, The Flight of the Phoenix release date, The Flight of the Phoenix Adventure, The Flight of the Phoenix Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Attenborough"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Finch"
+     },
+     {
+      "@type": "Person",
+      "name": "Hardy Krüger"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernest Borgnine"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 398,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Flight of the Phoenix (1965): Adventure/Drama film. Story: A cargo aircraft crashes in a sandstorm in the Sahara… See cast and budget $5.36M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Aldrich"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10243",
+    "name": "The Flight of the Phoenix",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1965-12-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Flight of the Phoenix (1965)</h1>\n<p class=\"ssr-lead\">A cargo aircraft crashes in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for a replacement aircraft they need to build before their food and water run out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 December 1965</li><li>Runtime: 142 minutes</li><li>Director: Robert Aldrich</li><li>Genres: Adventure, Drama</li><li>Budget: $5.36M</li><li>TMDB rating: 7.2/10 (398 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Stewart as Frank Towns</li><li>Richard Attenborough as Lew Moran</li><li>Peter Finch as Captain Harris</li><li>Hardy Krüger as Heinrich Dorfmann</li><li>Ernest Borgnine as Trucker Cobb</li><li>Ian Bannen as Crow</li><li>Ronald Fraser as Sergeant Watson</li><li>Christian Marquand as Dr. Renaud</li><li>Dan Duryea as Standish</li><li>George Kennedy as Bellamy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Flight of the Phoenix (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1965"
+  },
   "movie:1213243": {
    "d": "Toxic (2026): Action/Crime film. Story: A powerful drug cartel pulls the strings behind a… See cast, budget $60M, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
@@ -320,6 +384,70 @@
    "t": "The Devil's Mouth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14943": {
+   "d": "Crows Zero (2007): Action/Comedy film. Story: The students of Suzuran High compete for the King of… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/43FpZytJjlReDAPrByR77i81mnr.jpg",
+   "industry": "world",
+   "k": "Crows Zero, Crows Zero movie, Crows Zero cast, Crows Zero story, Crows Zero box office collection, Crows Zero budget, Crows Zero review, Crows Zero rating, Crows Zero release date, Crows Zero Action, Crows Zero Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shun Oguri"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyosuke Yabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Meisa Kuroki"
+     },
+     {
+      "@type": "Person",
+      "name": "Takayuki Yamada"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenichi Endo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Crows Zero (2007): Action/Comedy film. Story: The students of Suzuran High compete for the King of… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Takashi Miike"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/43FpZytJjlReDAPrByR77i81mnr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14943",
+    "name": "Crows Zero",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-10-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14943"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crows Zero (2007)</h1>\n<p class=\"ssr-lead\">The students of Suzuran High compete for the King of School title. An ex-graduate yakuza is sent to kill the son of a criminal group, but he can&#x27;t make himself do it as he reminds him of his youth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2007</li><li>Runtime: 130 minutes</li><li>Director: Takashi Miike</li><li>Genres: Action, Comedy, Crime</li><li>TMDB rating: 7.1/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shun Oguri as Genji Takiya</li><li>Kyosuke Yabe as Ken Katagiri</li><li>Meisa Kuroki as Ruka Aizawa</li><li>Takayuki Yamada as Tamao Serizawa</li><li>Kenichi Endo as Joji Yazaki</li><li>Goro Kishitani as Hideo Takitani</li><li>Kenta Kiritani as Tokio Tatsukawa</li><li>Sousuke Takaoka as Shun Izaki</li><li>Yusuke Kamiji as Shoji Tsutsumoto</li><li>Shunsuke Daitoh as Hiromi Kirishima</li></ul>\n</article>",
+   "t": "Crows Zero (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:1601243": {
    "d": "Oscar Shaw (2026): Action/Crime film. Story: After retiring from the police force, a relentless… See cast, TMDB rating 6.6/10, and release date 9 January 2026.",
    "img": "https://image.tmdb.org/t/p/w780/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
@@ -452,6 +580,70 @@
    "t": "Love at First Fight (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:313943": {
+   "d": "Revolt (2017): Science Fiction/Action film. Story: The story of humankind's last stand against a… See cast, budget $4M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i8swiwa9PlRORrvuyJkbtGCZrNI.jpg",
+   "industry": "world",
+   "k": "Revolt, Revolt movie, Revolt cast, Revolt story, Revolt box office collection, Revolt budget, Revolt review, Revolt rating, Revolt release date, Revolt Science Fiction, Revolt Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Pace"
+     },
+     {
+      "@type": "Person",
+      "name": "Bérénice Marlohe"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Flemyng"
+     },
+     {
+      "@type": "Person",
+      "name": "Sibulele Gcilitshana"
+     },
+     {
+      "@type": "Person",
+      "name": "Wandile Molebatsi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Revolt (2017): Science Fiction/Action film. Story: The story of humankind's last stand against a… See cast, budget $4M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Miale"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i8swiwa9PlRORrvuyJkbtGCZrNI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=313943",
+    "name": "Revolt",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=313943"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Revolt (2017)</h1>\n<p class=\"ssr-lead\">The story of humankind&#x27;s last stand against a cataclysmic alien invasion. Set in the war-ravaged African countryside, a U.S. soldier and a French foreign aid worker team up to survive the alien onslaught. Their bond will be tested as they search for refuge across a crumbling world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2017</li><li>Runtime: 87 minutes</li><li>Director: Joe Miale</li><li>Genres: Science Fiction, Action</li><li>Budget: $4M</li><li>TMDB rating: 5.5/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Pace as Bo</li><li>Bérénice Marlohe as Nadia</li><li>Jason Flemyng as Stander</li><li>Sibulele Gcilitshana as Kara</li><li>Wandile Molebatsi as Roderick</li><li>Sekoati Tsubane as Juma</li><li>Leroy Gopal as Jeandre</li><li>Welile Nzuza as Cedric</li><li>Patrick Bokaba as Kenyan Captain</li><li>Tom Fairfoot as Lt. Smalls</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Revolt (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:3543": {
    "d": "Bagdad Cafe (1987): Comedy/Drama film. Story: A German woman named Jasmin stumbles upon a… See cast, TMDB rating 7.2/10, and release date 12 November 1987.",
    "img": "https://image.tmdb.org/t/p/w780/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
@@ -515,6 +707,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bagdad Cafe (1987)</h1>\n<p class=\"ssr-lead\">A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 1987</li><li>Runtime: 108 minutes</li><li>Director: Percy Adlon</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.2/10 (459 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marianne Sägebrecht as Jasmin Münchgstettner</li><li>CCH Pounder as Brenda</li><li>Jack Palance as Rudi Cox</li><li>Christine Kaufmann as Debby</li><li>Monica Calhoun as Phyllis</li><li>Darron Flagg as Salomo</li><li>George Aguilar as Cahuenga</li><li>G. Smokey Campbell as Sal</li><li>Hans Stadlbauer as Mr. Münchgstettner</li><li>Alan S. Craig as Eric</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Bagdad Cafe (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:463843": {
+   "d": "Sweetheart (2019): Horror film. Story: Jenn has washed ashore a small tropical island and it… See cast, TMDB rating 6.4/10, and release date 28 January 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
+   "industry": "world",
+   "k": "Sweetheart, Sweetheart movie, Sweetheart cast, Sweetheart story, Sweetheart box office collection, Sweetheart budget, Sweetheart review, Sweetheart rating, Sweetheart release date, Sweetheart trailer, Sweetheart Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiersey Clemons"
+     },
+     {
+      "@type": "Person",
+      "name": "Emory Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Hanna Mangan Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Samuel"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Crawford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 433,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Sweetheart (2019): Horror film. Story: Jenn has washed ashore a small tropical island and it… See cast, TMDB rating 6.4/10, and release date 28 January 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.D. Dillard"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=463843",
+    "name": "Sweetheart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=463843"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sweetheart (2019)</h1>\n<p class=\"ssr-lead\">Jenn has washed ashore a small tropical island and it doesn’t take her long to realize she’s completely alone. She must spend her days not only surviving the elements, but must also fend off the malevolent force that comes out each night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2019</li><li>Runtime: 82 minutes</li><li>Director: J.D. Dillard</li><li>Genres: Horror</li><li>TMDB rating: 6.4/10 (433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiersey Clemons as Jenn</li><li>Emory Cohen as Lucas</li><li>Hanna Mangan Lawrence as Mia</li><li>Benedict Samuel as Brad</li><li>Andrew Crawford as Creature</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Sweetheart (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:489243": {
+   "d": "The Hummingbird Project (2019): Thriller/Drama film. Story: A pair of high-frequency traders go up against their… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4N6eXAhEm2rdwyMUrY2c4c7lTfO.jpg",
+   "industry": "world",
+   "k": "The Hummingbird Project, The Hummingbird Project movie, The Hummingbird Project cast, The Hummingbird Project story, The Hummingbird Project box office collection, The Hummingbird Project budget, The Hummingbird Project review, The Hummingbird Project rating, The Hummingbird Project release date, The Hummingbird Project trailer, The Hummingbird Project Thriller, The Hummingbird Project Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jesse Eisenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Salma Hayek Pinault"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Mando"
+     },
+     {
+      "@type": "Person",
+      "name": "Johan Heldenbergh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Hummingbird Project (2019): Thriller/Drama film. Story: A pair of high-frequency traders go up against their… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Nguyen"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4N6eXAhEm2rdwyMUrY2c4c7lTfO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=489243",
+    "name": "The Hummingbird Project",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-03-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=489243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hummingbird Project (2019)</h1>\n<p class=\"ssr-lead\">A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 March 2019</li><li>Runtime: 111 minutes</li><li>Director: Kim Nguyen</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.2/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Eisenberg as Vincent Zaleski</li><li>Alexander Skarsgård as Anton Zaleski</li><li>Salma Hayek Pinault as Eva Torres</li><li>Michael Mando as Mark Vega</li><li>Johan Heldenbergh as Amish Elder</li><li>Ayisha Issa as Ophelia Troller</li><li>Kaniehtiio Horn as Barbara Lehman</li><li>Mark Slacke as Tasso Casilieris</li><li>Sarah Goldberg as Mascha</li><li>Frank Schorpion as Bryan Taylor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Hummingbird Project (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:496743": {
    "d": "Aniara (2019): Science Fiction/Drama film. Story: A ship carrying settlers to a new home on Mars after… See cast and TMDB rating 6.1/10.",
@@ -647,6 +966,195 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Candy Jar (2018)</h1>\n<p class=\"ssr-lead\">Dueling high school debate champs who are at odds on just about everything forge ahead with ambitious plans to get into the colleges of their dreams.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 April 2018</li><li>Runtime: 92 minutes</li><li>Director: Ben Shelton</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.1/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sami Gayle as Lona Skinner</li><li>Jacob Latimore as Bennett Russell</li><li>Christina Hendricks as Amy Skinner</li><li>Uzo Aduba as Julia Russell</li><li>Helen Hunt as Kathy</li><li>Tom Bergeron as Principal Nelson</li><li>Tracey Bonner as Newnan Principal</li><li>Paul Tigue as Mr. Johnson</li><li>Evan Castelloe as Zack</li><li>Wilbur Fitzgerald as Davidson Principal</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Candy Jar (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:516043": {
+   "d": "Here Come the Teachers (2018): Comedy film. Story: The Manzoni High School in Milan is the worst in… See cast, TMDB rating 5.4/10, and release date 1 May 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/ftVld1YSBU92swRb1mRryUs7xR2.jpg",
+   "industry": "world",
+   "k": "Here Come the Teachers, Here Come the Teachers movie, Here Come the Teachers cast, Here Come the Teachers story, Here Come the Teachers box office collection, Here Come the Teachers budget, Here Come the Teachers review, Here Come the Teachers rating, Here Come the Teachers release date, Here Come the Teachers Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Claudio Bisio"
+     },
+     {
+      "@type": "Person",
+      "name": "Lino Guanciale"
+     },
+     {
+      "@type": "Person",
+      "name": "Maurizio Nichetti"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Di Biase"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Pennacchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Here Come the Teachers (2018): Comedy film. Story: The Manzoni High School in Milan is the worst in… See cast, TMDB rating 5.4/10, and release date 1 May 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ivan Silvestrini"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ftVld1YSBU92swRb1mRryUs7xR2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=516043",
+    "name": "Here Come the Teachers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=516043"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Here Come the Teachers (2018)</h1>\n<p class=\"ssr-lead\">The Manzoni High School in Milan is the worst in Italy. When the percentage of those promoted falls to 12%, it&#x27;s time for the last resort: to entrust the classes to the worst of the available teachers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2018</li><li>Runtime: 97 minutes</li><li>Director: Ivan Silvestrini</li><li>Genres: Comedy</li><li>TMDB rating: 5.4/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Claudio Bisio as Prof. Locuratolo</li><li>Lino Guanciale as Prof. Cioncoloni</li><li>Maurizio Nichetti as Prof. Fanfulla</li><li>Maria Di Biase as Prof.ssa Melis</li><li>Andrea Pennacchi as Preside</li><li>Pietro Ragusa as Prof. Maurizi</li><li>Alessio Sakara as Prof. Golia</li><li>Shalana Santana as Prof.ssa Venturi</li><li>Francesco Procopio as Provveditore Aristide Montini</li><li>Christian Ginepro as prof. Fabbri</li></ul>\n</article>",
+   "t": "Here Come the Teachers (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:57243": {
+   "d": "The Women on the 6th Floor (2011): Comedy film. Story: Paris, in the early 1960s. Jean-Louis Joubert is a… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4yXwLVlpzVWMkVZuYxhLXC2luo6.jpg",
+   "industry": "world",
+   "k": "The Women on the 6th Floor, The Women on the 6th Floor movie, The Women on the 6th Floor cast, The Women on the 6th Floor story, The Women on the 6th Floor box office collection, The Women on the 6th Floor budget, The Women on the 6th Floor review, The Women on the 6th Floor rating, The Women on the 6th Floor release date, The Women on the 6th Floor Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandrine Kiberlain"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Verbeke"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Maura"
+     },
+     {
+      "@type": "Person",
+      "name": "Lola Dueñas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 426,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Women on the 6th Floor (2011): Comedy film. Story: Paris, in the early 1960s. Jean-Louis Joubert is a… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philippe Le Guay"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4yXwLVlpzVWMkVZuYxhLXC2luo6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=57243",
+    "name": "The Women on the 6th Floor",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-02-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=57243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Women on the 6th Floor (2011)</h1>\n<p class=\"ssr-lead\">Paris, in the early 1960s. Jean-Louis Joubert is a serious but uptight stockbroker, married to Suzanne, a starchy class-conscious woman and father of two arrogant teenage boys, currently in a boarding school. The affluent man lives a steady yet boring life. At least until, due to fortuitous circumstances, Maria, the charming new maid at the service of Jean-Louis&#x27; family, makes him discover the servants&#x27; quarter on the sixth floor of the luxury building he owns and lives in. There live a crowd of lively Spanish maids who will help Jean-Louis to open to a new civilization and a new approach of life. In their company - and more precisely in the company of beautiful Maria - Jean-Louis will gradually become another man, a better man.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2011</li><li>Runtime: 106 minutes</li><li>Director: Philippe Le Guay</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Jean-Louis Joubert</li><li>Sandrine Kiberlain as Suzanne Joubert</li><li>Natalia Verbeke as Maria</li><li>Carmen Maura as Concepcion</li><li>Lola Dueñas as Carmen</li><li>Berta Ojea as Dolores</li><li>Concha Galán as Pilar</li><li>Marie-Armelle Deguy as Colette de Bergeret</li><li>Muriel Solvay as Nicole de Grandcourt</li><li>Audrey Fleurot as Bettina de Brossolette</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Strand Releasing Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Women on the 6th Floor (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:994143": {
+   "d": "Skinamarink (2023): Horror film. Story: Two children wake up in the middle of the night to… See cast, budget $15.0k, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
+   "industry": "world",
+   "k": "Skinamarink, Skinamarink movie, Skinamarink cast, Skinamarink story, Skinamarink box office collection, Skinamarink budget, Skinamarink review, Skinamarink rating, Skinamarink release date, Skinamarink trailer, Skinamarink Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lucas Paul"
+     },
+     {
+      "@type": "Person",
+      "name": "Dali Rose Tetreault"
+     },
+     {
+      "@type": "Person",
+      "name": "Ross Paul"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaime Hill"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Edward Ball"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Skinamarink (2023): Horror film. Story: Two children wake up in the middle of the night to… See cast, budget $15.0k, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kyle Edward Ball"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=994143",
+    "name": "Skinamarink",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-01-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=994143"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Skinamarink (2023)</h1>\n<p class=\"ssr-lead\">Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2023</li><li>Runtime: 100 minutes</li><li>Director: Kyle Edward Ball</li><li>Genres: Horror</li><li>Budget: $15.0k</li><li>TMDB rating: 5.3/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lucas Paul as Kevin</li><li>Dali Rose Tetreault as Kaylee</li><li>Ross Paul as Dad</li><li>Jaime Hill as Mom</li><li>Kyle Edward Ball as Entity (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Skinamarink (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "tv:13943": {
    "d": "Beavis and Butt-Head (1993) is an Animation and Comedy TV series. Explore its story: Two dimwitted teenagers discuss TV, heavy-metal…, cast, and 8 seasons.",

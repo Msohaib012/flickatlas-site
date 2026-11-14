@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 28,
+ "count": 36,
  "titles": {
   "movie:1088548": {
    "backdrop_path": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
@@ -361,6 +361,113 @@
    "vote_average": 5.596,
    "vote_count": 73
   },
+  "movie:1161048": {
+   "backdrop_path": "/rrucFNW1qOgSPL4n2Fy6CdpBDEY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lina",
+     "n": "Katia Winter"
+    },
+    {
+     "c": "Jonas",
+     "n": "Adam Lundgren"
+    },
+    {
+     "c": "Eva",
+     "n": "Eva Melander"
+    },
+    {
+     "c": "Nadja",
+     "n": "Bahar Pars"
+    },
+    {
+     "c": "Amir",
+     "n": "Amed Bozan"
+    },
+    {
+     "c": "Ingela",
+     "n": "Maria Sid"
+    },
+    {
+     "c": "Kaj",
+     "n": "Christoffer Nordenrot"
+    },
+    {
+     "c": "Torbjörn",
+     "n": "Claes Hartelius"
+    },
+    {
+     "c": "Anette",
+     "n": "Cecilia Nilsson"
+    },
+    {
+     "c": "Jenny",
+     "n": "Lola Zackow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Patrik Eklund"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1161048,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "A ragtag group of public sector employees battle not only their own discord but also a bloodthirsty killer during a seemingly innocuous retreat.",
+   "popularity": 2.512,
+   "poster_path": "/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-13",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Conference",
+   "trailer": {
+    "key": "B9hpl8e-lQ4",
+    "name": "Official trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.48,
+   "vote_count": 435
+  },
   "movie:1219548": {
    "backdrop_path": "/bSZniMQ6vWVLnCGEEHr99rQOTAj.jpg",
    "budget": 0,
@@ -455,6 +562,121 @@
    "type": "movie",
    "vote_average": 6.684,
    "vote_count": 57
+  },
+  "movie:1222248": {
+   "backdrop_path": "/8r4Fk4GZMPZGRBjxFJsZjJICj0O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gunnar Sønsteby (young)",
+     "n": "Sjur Vatne Brean"
+    },
+    {
+     "c": "Gunnar Sønsteby (old)",
+     "n": "Erik Hivju"
+    },
+    {
+     "c": "Edvard Tallaksen",
+     "n": "Philip Helgar"
+    },
+    {
+     "c": "Andreas Aubert",
+     "n": "Magnus Dugdale"
+    },
+    {
+     "c": "Erling Solheim",
+     "n": "Jakob Maanum Trulsen"
+    },
+    {
+     "c": "Jens Christian Hauge",
+     "n": "Jacob Jensen"
+    },
+    {
+     "c": "Anne Solheim",
+     "n": "Flo Fagerli"
+    },
+    {
+     "c": "Reidun Andersen",
+     "n": "Ines Asserson"
+    },
+    {
+     "c": "Gudrun Collett",
+     "n": "Lisa Loven Kongsli"
+    },
+    {
+     "c": "Philip Hansteen",
+     "n": "Martin Karelius Østensen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Andreas Andersen"
+   ],
+   "genres": [
+    "War",
+    "History",
+    "Drama"
+   ],
+   "id": 1222248,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.",
+   "popularity": 2.3669,
+   "poster_path": "/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+   "production_countries": [
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-30",
+   "revenue": 3301976,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Number 24",
+   "trailer": {
+    "key": "zbMZU3saPw0",
+    "name": "NR.24 | 2024 | Trailer | Artbox Production House",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.13,
+   "vote_count": 393
   },
   "movie:1317448": {
    "backdrop_path": "/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
@@ -973,6 +1195,121 @@
    "vote_average": 6.3,
    "vote_count": 45
   },
+  "movie:16248": {
+   "backdrop_path": "/6Ld4ivkOa2tmvP2F0Fo4eRiuMkz.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Daryl",
+     "n": "Barret Oliver"
+    },
+    {
+     "c": "Joyce Richardson",
+     "n": "Mary Beth Hurt"
+    },
+    {
+     "c": "Andy Richardson",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Dr. Ellen Lamb",
+     "n": "Kathryn Walker"
+    },
+    {
+     "c": "Elaine Fox",
+     "n": "Colleen Camp"
+    },
+    {
+     "c": "Dr. Jeffrey Stewart",
+     "n": "Josef Sommer"
+    },
+    {
+     "c": "Howie Fox",
+     "n": "Steve Ryan"
+    },
+    {
+     "c": "General Graycliffe",
+     "n": "Ron Frazier"
+    },
+    {
+     "c": "Mr. Nesbitt",
+     "n": "David Wohl"
+    },
+    {
+     "c": "Turtle",
+     "n": "Danny Corkill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Simon Wincer"
+   ],
+   "genres": [
+    "Family",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 16248,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Daryl is a normal 10-year-old boy in many ways. However, unbeknown to his foster parents and friends, Daryl is actually a government-created robot with superhuman reflexes and mental abilities. Even his name has a hidden meaning -- it's actually an acronym for Data Analyzing Robot Youth Life-form. When the organization that created him deems the \"super soldier\" experiment a failure and schedules Daryl to be disassembled, it is up to a few rogue scientists to help him escape.",
+   "popularity": 2.6442,
+   "poster_path": "/87huhTOQijJy0pLhusZfest1MoZ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-06-14",
+   "revenue": 7840873,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He can fly a jet, race a car and outsmart a computer. The government created him and now they want him destroyed.",
+   "title": "D.A.R.Y.L.",
+   "trailer": {
+    "key": "b16ORBT0ImE",
+    "name": "Vinegar Syndrome Ultra 4K UHD + Blu-ray Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.397,
+   "vote_count": 385
+  },
   "movie:1671548": {
    "backdrop_path": "/uq6oeqeXTYPjiave6hpvvGSgSQ0.jpg",
    "budget": 0,
@@ -1229,6 +1566,164 @@
    "vote_average": 6.483,
    "vote_count": 459
   },
+  "movie:26648": {
+   "backdrop_path": "/ljaYQnoTmdawkRqUquu4kCMQqO9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Dirk Bogarde"
+    },
+    {
+     "c": "Lucia",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Klaus",
+     "n": "Philippe Leroy"
+    },
+    {
+     "c": "Hans",
+     "n": "Gabriele Ferzetti"
+    },
+    {
+     "c": "Stumm",
+     "n": "Giuseppe Addobbati"
+    },
+    {
+     "c": "Countess Stein",
+     "n": "Isa Miranda"
+    },
+    {
+     "c": "Adolph",
+     "n": "Nino Bignamini"
+    },
+    {
+     "c": "Atherton",
+     "n": "Marino Masé"
+    },
+    {
+     "c": "Bert",
+     "n": "Amadeo Amodio"
+    },
+    {
+     "c": "Day Porter",
+     "n": "Piero Vida"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Liliana Cavani"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Romance"
+   ],
+   "id": 26648,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A concentration camp survivor discovers her former torturer and lover working as a porter at a hotel in postwar Vienna. When the couple attempt to re-create their sadomasochistic relationship, his former SS comrades begin to stalk them.",
+   "popularity": 2.7368,
+   "poster_path": "/zTUYhMdh2Jwk5s9jbrU4mCH3CY4.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "IndiePix Unlimited Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/om1AJmTFbc4B82HszpqJElsMshe.png",
+     "name": "IndiePix Unlimited Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-04-03",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Most Controversial Picture of Our Time!",
+   "title": "The Night Porter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.714,
+   "vote_count": 406
+  },
   "movie:26748": {
    "backdrop_path": "/vsxo1dkhRHd9YT9Um5IaxvnF8Yt.jpg",
    "budget": 5000000,
@@ -1411,6 +1906,112 @@
    "type": "movie",
    "vote_average": 7.056,
    "vote_count": 441
+  },
+  "movie:272548": {
+   "backdrop_path": "/keo8noxQJGA0eT06Vt7pkoWVxx4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonny",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Kidman",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Leon",
+     "n": "Robert Sheehan"
+    },
+    {
+     "c": "Derek Kaye",
+     "n": "Stephen Campbell Moore"
+    },
+    {
+     "c": "Glenn",
+     "n": "Eric Lampaert"
+    },
+    {
+     "c": "Paul",
+     "n": "Kevin Bishop"
+    },
+    {
+     "c": "Renatus",
+     "n": "Tom Audenaert"
+    },
+    {
+     "c": "Ella",
+     "n": "Erika Sainte"
+    },
+    {
+     "c": "Colonel Dickford",
+     "n": "Jay Benedict"
+    },
+    {
+     "c": "Mr. White",
+     "n": "Kerry Shale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Antoine Bardou-Jacquet"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 272548,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "What if Apollo 11 never actually made it? What if, in reality, Stanley Kubrick secretly shot the famous images of the moon landing in a studio, working for the US administration? This is the premise of a totally plausible conspiracy theory that takes us to swinging sixties London, where a stubborn CIA agent will never find Kubrick but is forced to team up with a lousy manager of a seedy rock band to develop the biggest con of all time.",
+   "popularity": 1.4381,
+   "poster_path": "/pkeHSbyBslHOUBTTWkkPFTyVvQ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-03-14",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on a true conspiracy theory",
+   "title": "Moonwalkers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.127,
+   "vote_count": 407
   },
   "movie:301348": {
    "backdrop_path": "/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
@@ -1681,6 +2282,133 @@
    "vote_average": 5.793,
    "vote_count": 496
   },
+  "movie:39148": {
+   "backdrop_path": "/cJ2CNxc1AQh5raZgxeQreGKxale.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Bulma (voice)",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "Yamcha (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Oolong (voice)",
+     "n": "Naoki Tatsuta"
+    },
+    {
+     "c": "Puar (voice)",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "Master Roshi (voice)",
+     "n": "Kin'ya Aikawa"
+    },
+    {
+     "c": "Umigame (voice)",
+     "n": "Daisuke Gori"
+    },
+    {
+     "c": "Commander Red/Shenlong (voice)",
+     "n": "Kenji Utsumi"
+    },
+    {
+     "c": "Staff Officer Black (voice)",
+     "n": "Masaharu Sato"
+    },
+    {
+     "c": "General Blue (voice)",
+     "n": "Bin Shimada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Shigeyasu Yamauchi"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 39148,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them.",
+   "popularity": 2.2814,
+   "poster_path": "/wuW7jeE7pX7glnZpCcJZGfC0YSr.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-03-04",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dragon Ball: The Path to Power",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 414
+  },
   "movie:427348": {
    "backdrop_path": "/mBmxc4EQi8GlNAgtx7r9SRxOivK.jpg",
    "budget": 0,
@@ -1873,6 +2601,266 @@
    "type": "movie",
    "vote_average": 6.401,
    "vote_count": 483
+  },
+  "movie:456048": {
+   "backdrop_path": "/jHd6jANcVYpA7uUGSyJf2nSMULw.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Noah Kross",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Rachel Weller",
+     "n": "Sarah Lind"
+    },
+    {
+     "c": "Lucas Weller",
+     "n": "Jakob Davies"
+    },
+    {
+     "c": "Adam Westinghouse",
+     "n": "Hugh Dillon"
+    },
+    {
+     "c": "Agent Porter",
+     "n": "Vicellous Shannon"
+    },
+    {
+     "c": "Little Noah",
+     "n": "Jett Klyne"
+    },
+    {
+     "c": "Border Ranger",
+     "n": "Lorne Cardinal"
+    },
+    {
+     "c": "Schroder's Daughter",
+     "n": "Destee Klyne"
+    },
+    {
+     "c": "Irving Ravetch",
+     "n": "David Lovgren"
+    },
+    {
+     "c": "Motel Clerk",
+     "n": "Leo Fafard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob W. King"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 456048,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 2030 the world is in a permanent state of economic recession and facing serious environmental problems as a result of global warming.",
+   "popularity": 2.0427,
+   "poster_path": "/2qf4wJoaYAXwY0Lov4OfBhSGbTQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-07-11",
+   "revenue": 17544173,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In the near future our government will decide who is expendable.",
+   "title": "The Humanity Bureau",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.751,
+   "vote_count": 412
+  },
+  "movie:490448": {
+   "backdrop_path": "/dGCJdSwulQdqSklrqdsPYWMXRlU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marion",
+     "n": "Camille Chamoux"
+    },
+    {
+     "c": "Ben",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Fleur",
+     "n": "Camille Cottin"
+    },
+    {
+     "c": "Romain",
+     "n": "Jérémie Elkaïm"
+    },
+    {
+     "c": "Arthur",
+     "n": "Vincent Dedienne"
+    },
+    {
+     "c": "Nicole",
+     "n": "Dominique Valadié"
+    },
+    {
+     "c": "Koukou",
+     "n": "Svetlana Gergova"
+    },
+    {
+     "c": "Almog",
+     "n": "Bar Levy"
+    },
+    {
+     "c": "Boyan",
+     "n": "Aleksandar Aleksiev"
+    },
+    {
+     "c": "Yuval",
+     "n": "Sagi Halperin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Patrick Cassir"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 490448,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Marion and Ben, thirty years old, meet on Tinder. That's about all they have in common; but the opposites attract each other, and they decide in the early morning of their meeting to go on vacation together despite the advice of their entourage. They will finally leave - to Bulgaria, halfway to their dream destinations: Beirut for Marion, Biarritz for Ben. Without a precise plan and, as they will soon discover, with very different conceptions of what a dream holiday should be.",
+   "popularity": 0.8412,
+   "poster_path": "/2QhiQaZIA5dxPZA0zFv7EpydyGW.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-02",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Our Happy Holiday",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.664,
+   "vote_count": 412
   },
   "movie:970348": {
    "backdrop_path": "/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",

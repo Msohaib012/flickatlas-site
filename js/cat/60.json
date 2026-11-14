@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 41,
+ "count": 46,
  "titles": {
   "movie:1086260": {
    "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -242,6 +242,168 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 474
+  },
+  "movie:112160": {
+   "backdrop_path": "/gvtGBiE4r2xCVp0qR0mbM85Doxp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Romain",
+     "n": "Mathias Melloul"
+    },
+    {
+     "c": "Claire",
+     "n": "Valérie Maës"
+    },
+    {
+     "c": "Hervé",
+     "n": "Stephan Hersoen"
+    },
+    {
+     "c": "Maxime",
+     "n": "Pierre Perrier"
+    },
+    {
+     "c": "Michel",
+     "n": "Yan Brian"
+    },
+    {
+     "c": "Coralie",
+     "n": "Adeline Rebeillard"
+    },
+    {
+     "c": "Marie",
+     "n": "Leïla Denio"
+    },
+    {
+     "c": "Cédric",
+     "n": "Gregory Annoni"
+    },
+    {
+     "c": "Pierre",
+     "n": "Nathan Duval"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Laetitia Favart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Pascal Arnold",
+    "Jean-Marc Barr"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 112160,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Three generations of a French family open up about their sexual experiences and desires after young Romain is caught masturbating in his biology class.",
+   "popularity": 5.3053,
+   "poster_path": "/pebwFXu7izkXf8b8soWVXoRyJoR.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-05-09",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sexual Chronicles of a French Family",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 415
   },
   "movie:1160360": {
    "backdrop_path": "/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
@@ -1287,6 +1449,176 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 64
+  },
+  "movie:23160": {
+   "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "János Valuska",
+     "n": "Lars Rudolph"
+    },
+    {
+     "c": "György Eszter",
+     "n": "Peter Fitz"
+    },
+    {
+     "c": "Tünde Eszter",
+     "n": "Hanna Schygulla"
+    },
+    {
+     "c": "Lajos Harrer",
+     "n": "Alfréd Járai"
+    },
+    {
+     "c": "Mr. Hagelmayer",
+     "n": "Gyula Pauer"
+    },
+    {
+     "c": "Man In The Broad-Cloth Coat",
+     "n": "János Derzsi"
+    },
+    {
+     "c": "Factotum",
+     "n": "Mihály Kormos"
+    },
+    {
+     "c": "Porter",
+     "n": "Putyi Horváth"
+    },
+    {
+     "c": "Aunt Piri",
+     "n": "Éva Almássy Albert"
+    },
+    {
+     "c": "Chief Constable",
+     "n": "Péter Dobai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Béla Tarr"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 23160,
+   "industry": "world",
+   "origin_country": [
+    "HU"
+   ],
+   "original_language": "hu",
+   "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+   "popularity": 1.8766,
+   "poster_path": "/ix3pquGqTkCW86UbVTdRcrhGEFm.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "HU",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Klassiki"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cgfAUbWv7QcVkf9LZw07FjnuFv7.png",
+     "name": "Klassiki",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-02-01",
+   "revenue": 64974,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "sk"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Werckmeister Harmonies",
+   "trailer": {
+    "key": "-tJVdq_G_Go",
+    "name": "4k Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.855,
+   "vote_count": 403
   },
   "movie:2360": {
    "backdrop_path": "/7GQH1qYmqu0llcYque6flDmSR55.jpg",
@@ -2890,6 +3222,421 @@
    "type": "movie",
    "vote_average": 5.564,
    "vote_count": 474
+  },
+  "movie:55960": {
+   "backdrop_path": "/oBBtZHbtLt8wOHemA9Qv8hzcqng.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antonio Caponi",
+     "n": "Totò"
+    },
+    {
+     "c": "Peppino Caponi",
+     "n": "Peppino De Filippo"
+    },
+    {
+     "c": "Marisa Florian",
+     "n": "Dorian Gray"
+    },
+    {
+     "c": "Gianni Caponi",
+     "n": "Teddy Reno"
+    },
+    {
+     "c": "Lucia Caponi",
+     "n": "Vittoria Crispo"
+    },
+    {
+     "c": "Mezzacapa",
+     "n": "Mario Castellani"
+    },
+    {
+     "c": "Raffaele",
+     "n": "Nino Manfredi"
+    },
+    {
+     "c": "Gabriella",
+     "n": "Linda Sini"
+    },
+    {
+     "c": "amico di Marisa",
+     "n": "Salvo Libassi"
+    },
+    {
+     "c": "la figlia di gianni e Marisa",
+     "n": "Luisa Ciampi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Camillo Mastrocinque"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 55960,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Antonio, Peppino and Lucia are three brothers who live in the country near Naples. Lucia's son, Gianni, goes to Naples to study medicine, but there he knows a ballet dancer. They fall in love and, when she goes to Milan, Gianni follows her. Informed of this and afraid that their nephew will stop studying, the three Caponi brothers leave for Milan to persuade Gianni to come back and continue studying and abandon the \"Malafemmina\" (bad girl).",
+   "popularity": 0.981,
+   "poster_path": "/jHe65nUmr2DBuzEAAkuiFbUssYT.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1956-08-23",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Toto, Peppino, and the Hussy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.996,
+   "vote_count": 384
+  },
+  "movie:680860": {
+   "backdrop_path": "/mpawNP1soprsrfTFFfgn1moC9KM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Emma Moore",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Noah",
+     "n": "Scott Eastwood"
+    },
+    {
+     "c": "Anne",
+     "n": "Gina Rodriguez"
+    },
+    {
+     "c": "Logan",
+     "n": "Manny Jacinto"
+    },
+    {
+     "c": "Ginny",
+     "n": "Clark Backo"
+    },
+    {
+     "c": "Trevor",
+     "n": "Luke David Blumm"
+    },
+    {
+     "c": "Paul",
+     "n": "Mason Gooding"
+    },
+    {
+     "c": "Lisa",
+     "n": "Dylan Gelula"
+    },
+    {
+     "c": "Leighton",
+     "n": "Isabel May"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jason Orley"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 680860,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.",
+   "popularity": 2.1438,
+   "poster_path": "/an4HVcLT4Ce2aXgxuSEnJ1UDdfp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-10",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their exes have moved on. They haven't.",
+   "title": "I Want You Back",
+   "trailer": {
+    "key": "o31abr8E0qU",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.297,
+   "vote_count": 396
+  },
+  "movie:964960": {
+   "backdrop_path": "/yDA4vgY6Thi8jflN94kHa05mqjj.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Dodin Bouffant",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Eugénie",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Grimaud",
+     "n": "Patrick d'Assumçao"
+    },
+    {
+     "c": "Rabaz",
+     "n": "Emmanuel Salinger"
+    },
+    {
+     "c": "Magot",
+     "n": "Jan Hammenecker"
+    },
+    {
+     "c": "Beaubois",
+     "n": "Frédéric Fisbach"
+    },
+    {
+     "c": "Violette",
+     "n": "Galatea Bellugi"
+    },
+    {
+     "c": "Küchenchef des Prinzen",
+     "n": "Pierre Gagnaire"
+    },
+    {
+     "c": "Pauline",
+     "n": "Bonnie Chagneau-Ravoire"
+    },
+    {
+     "c": "Père de Pauline",
+     "n": "Yannik Landrein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Trần Anh Hùng"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 964960,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Set in 1889 France, Dodin Bouffant is a chef living with his personal cook and lover Eugénie. They share a long history of gastronomy and love but Eugénie refuses to marry Dodin, so the food lover decides to do something he has never done before: cook for her.",
+   "popularity": 3.4538,
+   "poster_path": "/pYwK6rg0pmxDxzdtECABUsf49Eu.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-11-08",
+   "revenue": 5970753,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Savor every moment.",
+   "title": "The Taste of Things",
+   "trailer": {
+    "key": "LeI-4eWvqwU",
+    "name": "Official UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.107,
+   "vote_count": 431
   },
   "movie:9660": {
    "backdrop_path": "/omMa8BHw4S5da4D69GjvVZ9oObG.jpg",

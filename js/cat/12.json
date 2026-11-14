@@ -1,6 +1,6 @@
 {
  "bucket": "12",
- "count": 28,
+ "count": 35,
  "titles": {
   "movie:118412": {
    "backdrop_path": "/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
@@ -256,6 +256,163 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 22
+  },
+  "movie:12412": {
+   "backdrop_path": "/hY3O9tTA6xlk5l7xamO4uVNxEN2.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "2nd Staff Sergeant Aubrey Stamps",
+     "n": "Derek Luke"
+    },
+    {
+     "c": "Sergeant Bishop Cummings",
+     "n": "Michael Ealy"
+    },
+    {
+     "c": "Corporal Hector Negron",
+     "n": "Laz Alonso"
+    },
+    {
+     "c": "Private First Class Sam Train",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Peppi 'The Great Butterfly' Grotta",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Renata",
+     "n": "Valentina Cervi"
+    },
+    {
+     "c": "Angelo Torancelli (The Boy)",
+     "n": "Matteo Sciabordi"
+    },
+    {
+     "c": "Detective Antonio Ri",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Tim Boyle",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Enrico",
+     "n": "John Leguizamo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 12412,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Miracle at St. Anna chronicles the story of four American soldiers who are members of the all-black 92nd \"Buffalo Soldier\" Division stationed in Tuscany, Italy during World War II.",
+   "popularity": 1.8754,
+   "poster_path": "/7PqmgaQBuD0Zp9pDIkkEjkhCJUj.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-09-15",
+   "revenue": 9323833,
+   "runtime": 160,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "World War II had its heroes and its miracles.",
+   "title": "Miracle at St. Anna",
+   "trailer": {
+    "key": "I-cUpdiehsw",
+    "name": "Miracle At St. Anna - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.101,
+   "vote_count": 410
   },
   "movie:1263012": {
    "backdrop_path": "/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
@@ -1223,6 +1380,141 @@
    "vote_average": 6.095,
    "vote_count": 465
   },
+  "movie:329712": {
+   "backdrop_path": "/s14TKXCYH8dotfBIBuanNaYyBst.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thierry Taugourdeau",
+     "n": "Vincent Lindon"
+    },
+    {
+     "c": "La femme de Thierry",
+     "n": "Karine de Mirbeck"
+    },
+    {
+     "c": "Le fils de Thierry",
+     "n": "Mathieu Schaller"
+    },
+    {
+     "c": "Conseiller Pôle emploi",
+     "n": "Yves Ory"
+    },
+    {
+     "c": "Le collègue syndicaliste",
+     "n": "Xavier Mathieu"
+    },
+    {
+     "c": "Le professeur de danse",
+     "n": "Noel Mairot"
+    },
+    {
+     "c": "La banquière",
+     "n": "Catherine Saint-Bonnet"
+    },
+    {
+     "c": "Employeur sur Skype (voice)",
+     "n": "Christophe Rossignon"
+    },
+    {
+     "c": "Le jeune homme interpellé",
+     "n": "Soufiane Guerrab"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Stéphane Brizé"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 329712,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "At the age of 51 and after 20 months on unemployment, Thierry starts a new job that soon brings him face to face with a moral dilemma. How much is he willing to accept to keep his job?",
+   "popularity": 1.363,
+   "poster_path": "/fMsOEBcAeBL74xWMUj6hgDv4l1y.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-05-19",
+   "revenue": 106498,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Measure of a Man",
+   "trailer": {
+    "key": "SlLUzvHlNlU",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.58,
+   "vote_count": 386
+  },
   "movie:330112": {
    "backdrop_path": "/21IMO1CC5V6VuHoM7MSg3pr61DA.jpg",
    "budget": 0,
@@ -1412,6 +1704,359 @@
    "type": "movie",
    "vote_average": 7.775,
    "vote_count": 447
+  },
+  "movie:44012": {
+   "backdrop_path": "/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg",
+   "budget": 120000,
+   "cast": [
+    {
+     "c": "Jeanne Dielman",
+     "n": "Delphine Seyrig"
+    },
+    {
+     "c": "Sylvain Dielman",
+     "n": "Jan Decorte"
+    },
+    {
+     "c": "1st Caller",
+     "n": "Henri Storck"
+    },
+    {
+     "c": "2nd Caller",
+     "n": "Jacques Doniol-Valcroze"
+    },
+    {
+     "c": "3rd Caller",
+     "n": "Yves Bical"
+    },
+    {
+     "c": "Neighbor (voice) (uncredited)",
+     "n": "Chantal Akerman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Chantal Akerman"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 44012,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+   "popularity": 2.5651,
+   "poster_path": "/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-01-21",
+   "revenue": 0,
+   "runtime": 202,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "trailer": {
+    "key": "iuP1MN6RNJU",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.37,
+   "vote_count": 424
+  },
+  "movie:489412": {
+   "backdrop_path": "/rA9QYI7yTV2F2AvaqBcq1vL3MOr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Don Hertzfeldt"
+    },
+    {
+     "c": "Doctor (voice)",
+     "n": "Sara Cushman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Don Hertzfeldt"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 489412,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bill struggles to put together his shattered psyche.",
+   "popularity": 1.4923,
+   "poster_path": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-05-21",
+   "revenue": 0,
+   "runtime": 62,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Isn't everything amazing?",
+   "title": "It's Such a Beautiful Day",
+   "trailer": {
+    "key": "ecn9YiqqHyw",
+    "name": "rerelease trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.932,
+   "vote_count": 387
+  },
+  "movie:517412": {
+   "backdrop_path": "/4tphk3VbqoRtCVuOzlEQxUrpR6c.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Nikola Tesla",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Anne Morgan",
+     "n": "Eve Hewson"
+    },
+    {
+     "c": "George Westinghouse",
+     "n": "Jim Gaffigan"
+    },
+    {
+     "c": "Thomas Edison",
+     "n": "Kyle MacLachlan"
+    },
+    {
+     "c": "J.P. Morgan",
+     "n": "Donnie Keshawarz"
+    },
+    {
+     "c": "Robert Underwood Johnson",
+     "n": "Josh Hamilton"
+    },
+    {
+     "c": "Anital Szigeti",
+     "n": "Ebon Moss-Bachrach"
+    },
+    {
+     "c": "Katherine Johnson",
+     "n": "Lucy Walters"
+    },
+    {
+     "c": "Bourke Cochran",
+     "n": "John Palladino"
+    },
+    {
+     "c": "Charles Peck",
+     "n": "Michael Mastro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Almereyda"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 517412,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.",
+   "popularity": 2.3002,
+   "poster_path": "/v0guO0krvyz8IfKGxEje04LVM9d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-08-20",
+   "revenue": 459051,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "My achievements and conquests will be evaluated in the future",
+   "title": "Tesla",
+   "trailer": {
+    "key": "OqCD9wRdOUE",
+    "name": "TESLA | Official Trailer (2020) Ethan Hawke Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.755,
+   "vote_count": 398
   },
   "movie:553512": {
    "backdrop_path": "/aQ7444JX7gefPhGJTlvilj3zG2S.jpg",
@@ -1776,6 +2421,207 @@
    "vote_average": 6.8,
    "vote_count": 475
   },
+  "movie:801112": {
+   "backdrop_path": "/12GAm3EiHUUeCB5mk3NphURUh1R.jpg",
+   "budget": 14100000,
+   "cast": [
+    {
+     "c": "Edgardo Mortara (child)",
+     "n": "Enea Sala"
+    },
+    {
+     "c": "Edgardo Mortara",
+     "n": "Leonardo Maltese"
+    },
+    {
+     "c": "Pio IX",
+     "n": "Paolo Pierobon"
+    },
+    {
+     "c": "Momolo Mortara",
+     "n": "Fausto Russo Alesi"
+    },
+    {
+     "c": "Marianna Mortara",
+     "n": "Barbara Ronchi"
+    },
+    {
+     "c": "Angelo Padovani",
+     "n": "Andrea Gherpelli"
+    },
+    {
+     "c": "Riccardo Mortara",
+     "n": "Samuele Teneggi"
+    },
+    {
+     "c": "Giudice Carboni",
+     "n": "Corrado Invernizzi"
+    },
+    {
+     "c": "Giacomo Antonelli",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Pier Gaetano Feletti",
+     "n": "Fabrizio Gifuni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Marco Bellocchio"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 801112,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The story of Edgardo Mortara, a young Jewish boy living in Bologna, Italy, who in 1858, after being secretly baptized, was forcibly taken from his family to be raised as a Christian. His parents’ struggle to free their son became part of a larger political battle that pitted the papacy against forces of democracy and Italian unification.",
+   "popularity": 1.5861,
+   "poster_path": "/3CJDRs0NxJXqG2jnlsJOwrADYQM.jpg",
+   "production_countries": [
+    "IT",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-05-25",
+   "revenue": 4123091,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "he",
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kidnapped",
+   "trailer": {
+    "key": "LCwiOmN28H0",
+    "name": "US Trailer V2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.266,
+   "vote_count": 395
+  },
   "movie:8512": {
    "backdrop_path": "/n6SFCz0OsyZ800ZSlaD5WpNmqCj.jpg",
    "budget": 27000000,
@@ -2077,6 +2923,106 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 449
+  },
+  "movie:9812": {
+   "backdrop_path": "/kz8uFk8AYDu4an8PhkdGLbVJXMi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Casey Wells",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Christine",
+     "n": "Paula Marshall"
+    },
+    {
+     "c": "Nick",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Billy Hill",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Dallas",
+     "n": "Paulina Porizkova"
+    },
+    {
+     "c": "Dr. Jarvis",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Ice",
+     "n": "Glenn Plummer"
+    },
+    {
+     "c": "Kasarov",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Cashier",
+     "n": "Luck Hari"
+    },
+    {
+     "c": "Cop",
+     "n": "Bari K. Willerford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Skip Woods"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 9812,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former Los Angeles drug dealer moves far away to Texas, making a new life for himself as a married architect in the suburbs. His old crime partner unexpectedly shows up with heroin and gangster business, attracting a slew of violent unsavory characters.",
+   "popularity": 1.9455,
+   "poster_path": "/pbfBCMSzmKlAHZUDwsrtmG7GZP3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-09-25",
+   "revenue": 3121,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They say the past always catches up with you. This could be the day.",
+   "title": "Thursday",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 396
   },
   "tv:1412": {
    "backdrop_path": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",

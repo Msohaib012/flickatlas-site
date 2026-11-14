@@ -1,7 +1,70 @@
 {
  "bucket": "04",
- "count": 35,
+ "count": 43,
  "titles": {
+  "movie:10604": {
+   "d": "Zorba the Greek (1964): Drama film. Story: An uptight English writer traveling to Crete on a… See cast, budget $783.0k, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
+   "industry": "world",
+   "k": "Zorba the Greek, Zorba the Greek movie, Zorba the Greek cast, Zorba the Greek story, Zorba the Greek box office collection, Zorba the Greek budget, Zorba the Greek review, Zorba the Greek rating, Zorba the Greek release date, Zorba the Greek Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Bates"
+     },
+     {
+      "@type": "Person",
+      "name": "Irene Papas"
+     },
+     {
+      "@type": "Person",
+      "name": "Lila Kedrova"
+     },
+     {
+      "@type": "Person",
+      "name": "Sotiris Moustakas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 404,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Zorba the Greek (1964): Drama film. Story: An uptight English writer traveling to Crete on a… See cast, budget $783.0k, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mihalis Kakogiannis"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10604",
+    "name": "Zorba the Greek",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1964-12-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10604"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Zorba the Greek (1964)</h1>\n<p class=\"ssr-lead\">An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 1964</li><li>Runtime: 142 minutes</li><li>Director: Mihalis Kakogiannis</li><li>Genres: Drama</li><li>Budget: $783.0k</li><li>TMDB rating: 7.4/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Quinn as Alexis Zorba</li><li>Alan Bates as Basil</li><li>Irene Papas as Widow</li><li>Lila Kedrova as Madame Hortense</li><li>Sotiris Moustakas as Mimithos</li><li>Anna Kyriakou as Soul</li><li>Takis Emmanuel as Manolakas</li><li>Eleni Anousaki as Lola</li><li>George Foundas as Mavrandoni</li><li>George P. Cosmatos as Acne Faced Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "Zorba the Greek (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1964"
+  },
   "movie:1128204": {
    "d": "Feed (2026): Horror film. Story: Five social media influencers spend a weekend at a… See cast, TMDB rating 6.6/10, and release date 6 August 2026.",
    "img": "https://image.tmdb.org/t/p/w780/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
@@ -579,6 +642,70 @@
    "t": "Shaun the Sheep: The Beast of Mossy Bottom (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:15804": {
+   "d": "A Brighter Summer Day (1991): Crime/Drama film. Story: A boy experiences first love, friendships and… See cast and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
+   "industry": "world",
+   "k": "A Brighter Summer Day, A Brighter Summer Day movie, A Brighter Summer Day cast, A Brighter Summer Day story, A Brighter Summer Day box office collection, A Brighter Summer Day budget, A Brighter Summer Day review, A Brighter Summer Day rating, A Brighter Summer Day release date, A Brighter Summer Day Crime, A Brighter Summer Day Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chang Chen"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Yang"
+     },
+     {
+      "@type": "Person",
+      "name": "Chang Kuo-chu"
+     },
+     {
+      "@type": "Person",
+      "name": "Elaine Jin Yan-Ling"
+     },
+     {
+      "@type": "Person",
+      "name": "Wang Chuan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 417,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "A Brighter Summer Day (1991): Crime/Drama film. Story: A boy experiences first love, friendships and… See cast and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edward Yang"
+     }
+    ],
+    "duration": "PT237M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15804",
+    "name": "A Brighter Summer Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15804"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Brighter Summer Day (1991)</h1>\n<p class=\"ssr-lead\">A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 1991</li><li>Runtime: 237 minutes</li><li>Director: Edward Yang</li><li>Genres: Crime, Drama, Romance</li><li>TMDB rating: 8.2/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chang Chen as Xiao Si&#x27;r</li><li>Lisa Yang as Ming</li><li>Chang Kuo-chu as Father</li><li>Elaine Jin Yan-Ling as Mother</li><li>Wang Chuan as Eldest Sister</li><li>Chang Han as Elder Brother</li><li>Chiang Hsiu-Chiung as Middle Sister</li><li>Stephanie Lai as Youngest Sister</li><li>Tan Chih-Kang as Ma</li><li>Wang Chi-tsan as Cat</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Brighter Summer Day (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:1688804": {
    "d": "Freefall: A Reckoning for Boeing (2026): Documentary film. Story: Following the highly publicized death of Boeing… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
@@ -641,6 +768,326 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Freefall: A Reckoning for Boeing (2026)</h1>\n<p class=\"ssr-lead\">Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 95 minutes</li><li>Director: Rory Kennedy</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Barnett as Self (archive footage)</li><li>Rob Turkewitz as Self - Attorney for John Barnett</li><li>Sam Mohawk as Self - Boeing Quality Investigator</li><li>Roy Irvin as Self - Boeing Quality Investigator (Former)</li><li>Sam Salehpour as Self - Boeing Quality Engineer</li><li>Merle Meyers as Self - Boeing Quality Manager (Former)</li><li>Jim McNerney as Self (archive footage)</li><li>David G. Bradley as Self (archive footage)</li><li>Jack Welch as Self (archive footage)</li><li>David Gelles as Self - Author and Journalist, The New York Times</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Freefall: A Reckoning for Boeing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:19004": {
+   "d": "The Land Before Time III: The Time of the Great Giving (1995): Animation/Adventure film. Story: When the water supply to the Great Valley is blocked… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
+   "industry": "world",
+   "k": "The Land Before Time III: The Time of the Great Giving, The Land Before Time III: The Time of the Great Giving movie, The Land Before Time III: The Time of the Great Giving cast, The Land Before Time III: The Time of the Great Giving story, The Land Before Time III: The Time of the Great Giving box office collection, The Land Before Time III: The Time of the Great Giving budget, The Land Before Time III: The Time of the Great Giving review, The Land Before Time III: The Time of the Great Giving rating, The Land Before Time III: The Time of the Great Giving release date, The Land Before Time III: The Time of the Great Giving Animation, The Land Before Time III: The Time of the Great Giving Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott McAfee"
+     },
+     {
+      "@type": "Person",
+      "name": "Candace Hutson"
+     },
+     {
+      "@type": "Person",
+      "name": "Heather Hogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bennett"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Paulsen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 425,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Land Before Time III: The Time of the Great Giving (1995): Animation/Adventure film. Story: When the water supply to the Great Valley is blocked… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roy Allen Smith"
+     }
+    ],
+    "duration": "PT70M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19004",
+    "name": "The Land Before Time III: The Time of the Great Giving",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-03-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19004"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Land Before Time III: The Time of the Great Giving (1995)</h1>\n<p class=\"ssr-lead\">When the water supply to the Great Valley is blocked, Littlefoot and his friends must cooperate with a group of bullies to find the reason the cause.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 1995</li><li>Runtime: 70 minutes</li><li>Director: Roy Allen Smith</li><li>Genres: Animation, Adventure, Family</li><li>TMDB rating: 6.2/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott McAfee as Littlefoot (voice)</li><li>Candace Hutson as Cera (voice)</li><li>Heather Hogan as Ducky (voice)</li><li>Jeff Bennett as Petrie / Mutt / Iguanadon (voice)</li><li>Rob Paulsen as Spike (voice)</li><li>John Ingle as Narrator / Cera&#x27;s Father (voice)</li><li>Linda Gary as Grandma / Mother Quetzalcoatlus (voice)</li><li>Whit Hertford as Hyp (voice)</li><li>Nicholas Guest as Hyp&#x27;s Father (voice)</li><li>Tress MacNeille as Stegosaurus / Spike &amp; Ducky&#x27;s Mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Land Before Time III: The Time of the Great Giving (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
+  "movie:22504": {
+   "d": "The King and the Mockingbird (1980): Animation/Family film. Story: A young shepherdess and a chimneysweep plan to get… See cast and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
+   "industry": "world",
+   "k": "The King and the Mockingbird, The King and the Mockingbird movie, The King and the Mockingbird cast, The King and the Mockingbird story, The King and the Mockingbird box office collection, The King and the Mockingbird budget, The King and the Mockingbird review, The King and the Mockingbird rating, The King and the Mockingbird release date, The King and the Mockingbird trailer, The King and the Mockingbird Animation, The King and the Mockingbird Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Renaud Marx"
+     },
+     {
+      "@type": "Person",
+      "name": "Agnès Viala"
+     },
+     {
+      "@type": "Person",
+      "name": "Pascal Mazzotti"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Médina"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 429,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The King and the Mockingbird (1980): Animation/Family film. Story: A young shepherdess and a chimneysweep plan to get… See cast and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Grimault"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22504",
+    "name": "The King and the Mockingbird",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22504"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The King and the Mockingbird (1980)</h1>\n<p class=\"ssr-lead\">A young shepherdess and a chimneysweep plan to get married and escape the clutches of a tyrannical king in love with her, assisted by the guile of a cheeky mockingbird, the king&#x27;s archenemy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 1980</li><li>Runtime: 83 minutes</li><li>Director: Paul Grimault</li><li>Genres: Animation, Family, Fantasy</li><li>TMDB rating: 7.8/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Martin as L’oiseau (voice)</li><li>Renaud Marx as Le ramoneur (voice)</li><li>Agnès Viala as La bergère (voice)</li><li>Pascal Mazzotti as Le roi (voice)</li><li>Albert Médina as Le belluaire / Le haut hurleur (voice)</li><li>Philippe Derrez as Le liftier / Le speaker (voice)</li><li>Raymond Bussières as Le chef de la police (voice)</li><li>Roger Blin as L’aveugle (voice)</li><li>Claude Piéplu as Le maire du palais (voice)</li><li>Hubert Deschamps as Le sentencieux (voice)</li></ul>\n</article>",
+   "t": "The King and the Mockingbird (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
+  "movie:309304": {
+   "d": "Grandma (2015): Comedy/Drama film. Story: Self-described misanthrope Elle Reid has her… See cast, budget $600.0k, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kiVn09vghnscMWMqlX8uoQuXtMW.jpg",
+   "industry": "world",
+   "k": "Grandma, Grandma movie, Grandma cast, Grandma story, Grandma box office collection, Grandma budget, Grandma review, Grandma rating, Grandma release date, Grandma Comedy, Grandma Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lily Tomlin"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Garner"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcia Gay Harden"
+     },
+     {
+      "@type": "Person",
+      "name": "Judy Greer"
+     },
+     {
+      "@type": "Person",
+      "name": "Laverne Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 399,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Grandma (2015): Comedy/Drama film. Story: Self-described misanthrope Elle Reid has her… See cast, budget $600.0k, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Weitz"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kiVn09vghnscMWMqlX8uoQuXtMW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=309304",
+    "name": "Grandma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=309304"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Grandma (2015)</h1>\n<p class=\"ssr-lead\">Self-described misanthrope Elle Reid has her protective bubble burst when her 18-year-old granddaughter, Sage, shows up needing help. The two of them go on a day-long journey that causes Elle to come to terms with her past and Sage to confront her future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2015</li><li>Runtime: 78 minutes</li><li>Director: Paul Weitz</li><li>Genres: Comedy, Drama</li><li>Budget: $600.0k</li><li>TMDB rating: 6.4/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lily Tomlin as Elle</li><li>Julia Garner as Sage</li><li>Marcia Gay Harden as Judy</li><li>Judy Greer as Olivia</li><li>Laverne Cox as Deathy</li><li>Elizabeth Peña as Carla</li><li>Sarah Burns as Jill</li><li>Colleen Camp as Bonobo Customer</li><li>Lauren Tom as Doctor</li><li>Judy Geeson as Francesca</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Grandma (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:329004": {
+   "d": "The Survivalist (2015): Drama/Science Fiction film. Story: In a time of starvation, a survivalist lives off a… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9uNxv66tEPnzsKCDPzcIK0ZIgVB.jpg",
+   "industry": "world",
+   "k": "The Survivalist, The Survivalist movie, The Survivalist cast, The Survivalist story, The Survivalist box office collection, The Survivalist budget, The Survivalist review, The Survivalist rating, The Survivalist release date, The Survivalist trailer, The Survivalist Drama, The Survivalist Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Martin McCann"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Goth"
+     },
+     {
+      "@type": "Person",
+      "name": "Olwen Fouéré"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Simpson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 411,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Survivalist (2015): Drama/Science Fiction film. Story: In a time of starvation, a survivalist lives off a… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Fingleton"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9uNxv66tEPnzsKCDPzcIK0ZIgVB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=329004",
+    "name": "The Survivalist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=329004"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Survivalist (2015)</h1>\n<p class=\"ssr-lead\">In a time of starvation, a survivalist lives off a small plot of land hidden deep in forest. When two women seeking food and shelter discover his farm, he finds his existence threatened.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2015</li><li>Runtime: 104 minutes</li><li>Director: Stephen Fingleton</li><li>Genres: Drama, Science Fiction, Thriller</li><li>TMDB rating: 6.2/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Martin McCann as The Survivalist</li><li>Mia Goth as Milja</li><li>Olwen Fouéré as Kathryn</li><li>Douglas Russell as Snatcher</li><li>Andrew Simpson as Augustus</li><li>Ryan McParland as Crossbow Raider</li><li>Hussina Raja as Watchwoman</li><li>Ciaran Flynn as Watchman</li><li>Seán Doupe as Axe Raider</li><li>Jeremy Martin as Raider</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Survivalist (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:332704": {
+   "d": "Backtrack (2015): Mystery/Horror film. Story: Troubled psychotherapist Peter Bowers is suffering… See cast, TMDB rating 5.8/10, and release date 25 July 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/yr9UxlMes1AzYUxscoPo7dSmiTv.jpg",
+   "industry": "world",
+   "k": "Backtrack, Backtrack movie, Backtrack cast, Backtrack story, Backtrack box office collection, Backtrack budget, Backtrack review, Backtrack rating, Backtrack release date, Backtrack trailer, Backtrack Mystery, Backtrack Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrien Brody"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Neill"
+     },
+     {
+      "@type": "Person",
+      "name": "Malcolm Kennard"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloe Bayliss"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Spence"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 421,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Backtrack (2015): Mystery/Horror film. Story: Troubled psychotherapist Peter Bowers is suffering… See cast, TMDB rating 5.8/10, and release date 25 July 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Petroni"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Mystery",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yr9UxlMes1AzYUxscoPo7dSmiTv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=332704",
+    "name": "Backtrack",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=332704"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Backtrack (2015)</h1>\n<p class=\"ssr-lead\">Troubled psychotherapist Peter Bowers is suffering from nightmares and eerie visions. When he uncovers a horrifying secret that all of his patients share, he is put on a course that takes him back to the small hometown he fled years ago. There he confronts his demons and unravels a mystery 20 years in the making.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 2015</li><li>Runtime: 90 minutes</li><li>Director: Michael Petroni</li><li>Genres: Mystery, Horror, Thriller</li><li>TMDB rating: 5.8/10 (421 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrien Brody as Peter Bower</li><li>Sam Neill as Duncan Stewart</li><li>Malcolm Kennard as Barry</li><li>Chloe Bayliss as Elizabeth Valentine</li><li>Bruce Spence as Felix</li><li>Robin McLeavy as Barbara Henning</li><li>Jenni Baird as Carol Bower</li><li>Anna Lise Phillips as Erica George</li><li>Olga Miller as Erica George (ghost)</li><li>Michael Whalley as Officer Samuels</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Backtrack (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:43904": {
    "d": "L'Atalante (1934): Comedy/Drama film. Story: Newly married couple Juliette and ship captain Jean… See cast and TMDB rating 7.5/10.",
@@ -769,6 +1216,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tremors: A Cold Day in Hell (2018)</h1>\n<p class=\"ssr-lead\">Burt Gummer and Travis Welker find themselves in a fight for survival after investigating deadly giant worm attacks in the Canadian arctic.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2018</li><li>Runtime: 98 minutes</li><li>Director: Don Michael Paul</li><li>Genres: Action, Adventure, Science Fiction</li><li>TMDB rating: 5.8/10 (486 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Gross as Burt Gummer</li><li>Jamie Kennedy as Travis Welker</li><li>Tanya van Graan as Dr. Rita Sims</li><li>Stephanie Schildknecht as Aussie</li><li>Jamie-Lee Money as Valerie McKee</li><li>Jay Anstey as Dr. D</li><li>Jenna Upton as Dr. Silke Daanen</li><li>Christie Peruso as Geo-Tech Vargas</li><li>Greg Kriek as Dutch</li><li>Alistair Moulton Black as Yankee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Tremors: A Cold Day in Hell (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:500904": {
+   "d": "A Vigilante (2019): Thriller/Drama film. Story: A once-abused woman devotes herself to ridding… See cast, TMDB rating 5.4/10, and release date 2 May 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/nBrGtAxH2u93nzufppND6Nn7HU2.jpg",
+   "industry": "world",
+   "k": "A Vigilante, A Vigilante movie, A Vigilante cast, A Vigilante story, A Vigilante box office collection, A Vigilante budget, A Vigilante review, A Vigilante rating, A Vigilante release date, A Vigilante trailer, A Vigilante Thriller, A Vigilante Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Spector"
+     },
+     {
+      "@type": "Person",
+      "name": "Tonye Patano"
+     },
+     {
+      "@type": "Person",
+      "name": "Judy Marte"
+     },
+     {
+      "@type": "Person",
+      "name": "Betsy Aidem"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 425,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "A Vigilante (2019): Thriller/Drama film. Story: A once-abused woman devotes herself to ridding… See cast, TMDB rating 5.4/10, and release date 2 May 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sarah Daggar-Nickson"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nBrGtAxH2u93nzufppND6Nn7HU2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=500904",
+    "name": "A Vigilante",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=500904"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Vigilante (2019)</h1>\n<p class=\"ssr-lead\">A once-abused woman devotes herself to ridding victims of their domestic abusers while hunting down the one she must kill to be truly free.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 May 2019</li><li>Runtime: 92 minutes</li><li>Director: Sarah Daggar-Nickson</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 5.4/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Wilde as Sadie</li><li>Morgan Spector as Sadie&#x27;s Husband</li><li>Tonye Patano as Counselor Beverly</li><li>Judy Marte as Straight Up Shelter Woman</li><li>Betsy Aidem as Andrea Shaund</li><li>C.J. Wilson as Michael Shaund</li><li>Chuck Cooper as Lawyer</li><li>Kyle Catlett as Zach</li><li>Estefania Tejeda as Counseling Group Woman #1</li><li>Cheryse Dyllan as Charlene Jackson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Vigilante (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:576004": {
    "d": "Porno (2019): Comedy/Horror film. Story: When a group of naive teens working at a movie… See cast, TMDB rating 6.0/10, and release date 28 June 2019.",

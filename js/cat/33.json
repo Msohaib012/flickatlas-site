@@ -1,7 +1,522 @@
 {
  "bucket": "33",
- "count": 20,
+ "count": 28,
  "titles": {
+  "movie:10433": {
+   "backdrop_path": "/xX5St4pQuLWK9JbKHYuDnLOQSon.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Wayne \"Mad Dog\" Dobie",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Glory",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Frank Milo",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Mike",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Harold",
+     "n": "Mike Starr"
+    },
+    {
+     "c": "Andrew the Beater",
+     "n": "Tom Towles"
+    },
+    {
+     "c": "Lee",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Shooter",
+     "n": "Derek Anunciation"
+    },
+    {
+     "c": "Driver",
+     "n": "Doug Hara"
+    },
+    {
+     "c": "Dealer in Car",
+     "n": "Evan Lionel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John McNaughton"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Romance",
+    "Drama"
+   ],
+   "id": 10433,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wayne Dobie is a shy cop whose low-key demeanor has earned him the affectionate nickname \"Mad Dog.\" After Mad Dog saves the life of Frank Milo, a crime boss and aspiring stand-up comedian, he's offered the company of an attractive young waitress named Glory for a week. At first both are uneasy about the arrangement, but they eventually fall in love. However, the situation becomes complicated when Milo demands Glory back.",
+   "popularity": 1.9396,
+   "poster_path": "/wmgmTe9uQ5mtudN6e4IVEGvSqg1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-03-05",
+   "revenue": 11081586,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A cop who'd rather be an artist. A mobster who'd rather be a comic. And a woman who'd rather be anywhere but between them.",
+   "title": "Mad Dog and Glory",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.033,
+   "vote_count": 419
+  },
+  "movie:10733": {
+   "backdrop_path": "/fy8E5sF1Phf5aihA3nxx4Qqxotl.jpg",
+   "budget": 107000000,
+   "cast": [
+    {
+     "c": "Sam Houston",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Davy Crockett",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "James Bowie",
+     "n": "Jason Patric"
+    },
+    {
+     "c": "William Travis",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Antonio Lopez de Santa Ana",
+     "n": "Emilio Echevarría"
+    },
+    {
+     "c": "Joe",
+     "n": "Edwin Hodge"
+    },
+    {
+     "c": "Rosanna Travis",
+     "n": "Emily Deschanel"
+    },
+    {
+     "c": "Juan Seguin",
+     "n": "Jordi Mollà"
+    },
+    {
+     "c": "Sgt. William Ward",
+     "n": "Leon Rippy"
+    },
+    {
+     "c": "James Bonham",
+     "n": "Marc Blucas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Lee Hancock"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Drama"
+   ],
+   "id": 10733,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio, Texas.",
+   "popularity": 2.5724,
+   "poster_path": "/weHQHadXJLrmIvBXwZJsMgfJ6jJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-04-07",
+   "revenue": 25819961,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You will never forget",
+   "title": "The Alamo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.801,
+   "vote_count": 390
+  },
+  "movie:11633": {
+   "backdrop_path": "/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Deyunan (voice)",
+     "n": "Ai Kobayashi"
+    },
+    {
+     "c": "Deyunan (motion actor)",
+     "n": "Asumi Miwa"
+    },
+    {
+     "c": "Buriareosu (voice)",
+     "n": "Jurota Kosugi"
+    },
+    {
+     "c": "Hitomi (voice)",
+     "n": "Yuki Matsuoka"
+    },
+    {
+     "c": "Uranosu (voice)",
+     "n": "Yuzuru Fujimoto"
+    },
+    {
+     "c": "Hadesu (voice)",
+     "n": "Takehito Koyasu"
+    },
+    {
+     "c": "Atena (voice)",
+     "n": "Mami Koyama"
+    },
+    {
+     "c": "Nike (voice)",
+     "n": "Miho Yamada"
+    },
+    {
+     "c": "Yoshitsune (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Shichiken rô Erekutoryuon (voice)",
+     "n": "Ryuji Nakagi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shinji Aramaki"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 11633,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a utopian society created at the end of World War III, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?",
+   "popularity": 1.925,
+   "poster_path": "/mtSmeCDTexb0uWhVedouJ4SeD6c.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-04-17",
+   "revenue": 1461989,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Humanity's last chance for survival.",
+   "title": "Appleseed",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.758,
+   "vote_count": 419
+  },
+  "movie:11933": {
+   "backdrop_path": "/5Uo0vXeg7KDTDwodKy9FC5f5K8N.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Chris Thorne",
+     "n": "Chevy Chase"
+    },
+    {
+     "c": "Judge Alvin 'J.P' Valkenheiser / Bobo",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Dennis / Eldona",
+     "n": "John Candy"
+    },
+    {
+     "c": "Diane Lightson",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Artie",
+     "n": "Daniel Baldwin"
+    },
+    {
+     "c": "Fausto Squiriniszu",
+     "n": "Taylor Negron"
+    },
+    {
+     "c": "Mark",
+     "n": "Raymond J. Barry"
+    },
+    {
+     "c": "Digital Underground Member",
+     "n": "Tupac Shakur"
+    },
+    {
+     "c": "Renalda Squiriniszu",
+     "n": "Bertila Damas"
+    },
+    {
+     "c": "Brian",
+     "n": "Brian Doyle-Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dan Aykroyd"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 11933,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While attempting to seduce gorgeous lawyer Diane Lightson, wealthy gadabout Chris Thorne agrees to drive her to Atlantic City, N.J. But, when some reckless driving draws the attention of a deeply critical cop, they and the flamboyant \"Brazillionaires\" who tagged along end up in the court of a grotesque and vengeful judge, who has a special vendetta against the wealthy and erudite.",
+   "popularity": 2.3651,
+   "poster_path": "/Apk5Hbby70diyeMHd2VhxUSHNW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-02-15",
+   "revenue": 8500000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All they wanted was a little getaway. All they got was nothing but trouble.",
+   "title": "Nothing but Trouble",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.286,
+   "vote_count": 422
+  },
   "movie:1202033": {
    "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
    "budget": 0,
@@ -381,6 +896,157 @@
    "vote_average": 6.8,
    "vote_count": 24
   },
+  "movie:174733": {
+   "backdrop_path": "/q2B3bjLYcxGG11ThDr8gyzCIGAv.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Andrey Garin",
+     "n": "Sergey Puskepalis"
+    },
+    {
+     "c": "Vladislav Konstantinov",
+     "n": "Anatoliy Belyy"
+    },
+    {
+     "c": "Irina Garina",
+     "n": "Svetlana Khodchenkova"
+    },
+    {
+     "c": "Alisa",
+     "n": "Katerina Shpitsa"
+    },
+    {
+     "c": "Michael",
+     "n": "Stanislav Duzhnikov"
+    },
+    {
+     "c": "Bob Liutin",
+     "n": "Ivan Makarevich"
+    },
+    {
+     "c": "Denis Istomin",
+     "n": "Aleksey Bardukov"
+    },
+    {
+     "c": "Ksenia Garin",
+     "n": "Anfisa Vistingauzen"
+    },
+    {
+     "c": "Moscow Mayor",
+     "n": "Anatoliy Kotenyov"
+    },
+    {
+     "c": "Galochka",
+     "n": "Elena Panova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Anton Megerdichev"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 174733,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Terror strikes the underground train system in Moscow in the form of a flood from a collapsed tunnel. The film follows a diverse group of Moscow citizens who find themselves trapped in the city’s underground rail network, their train derailed and virtually crushed after an aging tunnel collapses. Amongst this band of survivors is softly spoken surgeon Andrey (Sergei Puskepalis), whose wife is having an affair with the conceited businessman Vlad (Anatoly Beliy). Fate brings these two men together on the same doomed train, but there is little time to resolve their differences, as the tunnel begins to quickly fill with water, forcing them to work together with the others and find a way back to the surface.",
+   "popularity": 1.6347,
+   "poster_path": "/b66g0ad7zYYpp1TVCbacsa5W9Id.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-02-21",
+   "revenue": 4463059,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Metro",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.653,
+   "vote_count": 395
+  },
   "movie:248933": {
    "backdrop_path": "/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
    "budget": 6875270,
@@ -672,6 +1338,360 @@
    "type": "movie",
    "vote_average": 7.173,
    "vote_count": 447
+  },
+  "movie:3033": {
+   "backdrop_path": "/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "James Whale",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Clayton Boone",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Hanna",
+     "n": "Lynn Redgrave"
+    },
+    {
+     "c": "Betty",
+     "n": "Lolita Davidovich"
+    },
+    {
+     "c": "David Lewis",
+     "n": "David Dukes"
+    },
+    {
+     "c": "Harry",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Dwight",
+     "n": "Mark Kiely"
+    },
+    {
+     "c": "Edmund Kay",
+     "n": "Jack Plotnick"
+    },
+    {
+     "c": "Elsa Lanchester",
+     "n": "Rosalind Ayres"
+    },
+    {
+     "c": "Boris Karloff",
+     "n": "Jack Betts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bill Condon"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 3033,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "It's 1957, and James Whale's heyday as the director of \"Frankenstein,\" \"Bride of Frankenstein\" and \"The Invisible Man\" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.",
+   "popularity": 1.9421,
+   "poster_path": "/awvJH3NtXoStsjAtXKr99hfuVaG.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Here TV"
+    },
+    {
+     "name": "Here TV  Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aFXgq7JAVVs2zdAlfqB1LlCfIUD.png",
+     "name": "Here TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/nLnN7wjiPLo5A2Um8BZA2IupEJS.png",
+     "name": "Here TV  Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-11-04",
+   "revenue": 6451628,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A portrait of an outrageous friendship.",
+   "title": "Gods and Monsters",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.913,
+   "vote_count": 410
+  },
+  "movie:501633": {
+   "backdrop_path": "/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Audrey Scapio, social worker at l'Envol",
+     "n": "Audrey Lamy"
+    },
+    {
+     "c": "Manu, director of l'Envol",
+     "n": "Corinne Masiero"
+    },
+    {
+     "c": "Hélène, volunteer at l'Envol",
+     "n": "Noémie Lvovsky"
+    },
+    {
+     "c": "Angélique, volunteer at l'Envol",
+     "n": "Déborah Lukumuena"
+    },
+    {
+     "c": "Dimitri, Audrey's brother",
+     "n": "Pablo Pauly"
+    },
+    {
+     "c": "Julie Charpentier, the punk",
+     "n": "Sarah Suco"
+    },
+    {
+     "c": "Laurent, Audrey's friend",
+     "n": "Quentin Faure"
+    },
+    {
+     "c": "Béatrice, social services manager",
+     "n": "Brigitte Sy"
+    },
+    {
+     "c": "Ramouna",
+     "n": "Tassadit Mandi"
+    },
+    {
+     "c": "Chantal, the appliance repairer",
+     "n": "Adolpha van Meerhaeghe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Louis-Julien Petit"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 501633,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Following a city councils decision, a women's shelter will soon be closed and social workers have only three months to accommodate the residents.",
+   "popularity": 0.7239,
+   "poster_path": "/kn0uHQLJ7YdlBbRfOSMYSqXvYW4.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-09",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Invisibles",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 387
+  },
+  "movie:586333": {
+   "backdrop_path": "/abTnQsdz3wRHDTtYauDnTEQkwnb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eze",
+     "n": "Pol Monen"
+    },
+    {
+     "c": "Marcos",
+     "n": "Jaime Lorente"
+    },
+    {
+     "c": "Celeste",
+     "n": "Andrea Ros"
+    },
+    {
+     "c": "Marta",
+     "n": "María Pedraza"
+    },
+    {
+     "c": "Maggie",
+     "n": "Beatriz Arjona"
+    },
+    {
+     "c": "Abril",
+     "n": "Abril Zamora"
+    },
+    {
+     "c": "Celia",
+     "n": "Celia de Molina"
+    },
+    {
+     "c": "",
+     "n": "Ignacio Mateos"
+    },
+    {
+     "c": "Nurse",
+     "n": "Bea de la Cruz"
+    },
+    {
+     "c": "",
+     "n": "Nico Romero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jota Linares"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 586333,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "On their last night together, four longtime flatmates' lives are suddenly upended when a secret is revealed during the course of an evening celebration.",
+   "popularity": 1.3035,
+   "poster_path": "/19yUi8HkQbyKLjdt9ab2U9ZUFmk.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-03-22",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Who Would You Take to a Deserted Island?",
+   "trailer": {
+    "key": "8J3TQV-ngko",
+    "name": "Who Would You Take to a Deserted Island? | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.117,
+   "vote_count": 390
   },
   "movie:718633": {
    "backdrop_path": "/iwyKRyOFlOZ1fBdONscHiDEcEgz.jpg",

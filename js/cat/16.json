@@ -1,6 +1,6 @@
 {
  "bucket": "16",
- "count": 38,
+ "count": 42,
  "titles": {
   "movie:1034716": {
    "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
@@ -961,6 +961,113 @@
    "vote_average": 8.152,
    "vote_count": 89
   },
+  "movie:2016": {
+   "backdrop_path": "/eKYnSOV7UBj0zCSCmnD1GFVFMTs.jpg",
+   "budget": 14500000,
+   "cast": [
+    {
+     "c": "Saïd",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Yassir",
+     "n": "Samy Naceri"
+    },
+    {
+     "c": "Messaoud",
+     "n": "Roschdy Zem"
+    },
+    {
+     "c": "Abdelkader",
+     "n": "Sami Bouajila"
+    },
+    {
+     "c": "Sergeant Martinez",
+     "n": "Bernard Blancan"
+    },
+    {
+     "c": "Corporal Leroux",
+     "n": "Mathieu Simonet"
+    },
+    {
+     "c": "Captain Durieux",
+     "n": "Benoît Giros"
+    },
+    {
+     "c": "Margueritte",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Colonel",
+     "n": "Antoine Chappey"
+    },
+    {
+     "c": "Larbi",
+     "n": "Assaad Bouab"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rachid Bouchareb"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 2016,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "1943. They have never stepped foot on French soil but because France was at war, Said, Abdelkader, Messaoud and Yassir enlist in the French Army, along with 130,000 other “indigenous” soldiers, to liberate the “fatherland” from the Nazi enemy. Heroes that history has forgotten...",
+   "popularity": 1.7373,
+   "poster_path": "/49Bq01x0hGe6wQeswmkI4CTnmoi.jpg",
+   "production_countries": [
+    "DZ",
+    "BE",
+    "FR",
+    "MA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-27",
+   "revenue": 22963701,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The true story of World War II's forgotten heroes.",
+   "title": "Days of Glory",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.664,
+   "vote_count": 422
+  },
   "movie:216": {
    "backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
    "budget": 130000,
@@ -1211,6 +1318,176 @@
    "vote_average": 5.79,
    "vote_count": 495
   },
+  "movie:40016": {
+   "backdrop_path": "/wDrs28ZYYnXVIeb87H0dCYlWiFA.jpg",
+   "budget": 10000,
+   "cast": [
+    {
+     "c": "Rod",
+     "n": "Alan Bagh"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Whitney Moore"
+    },
+    {
+     "c": "Susan",
+     "n": "Janae Caster"
+    },
+    {
+     "c": "Tony",
+     "n": "Colton Osborne"
+    },
+    {
+     "c": "Ramsey",
+     "n": "Adam Sessa"
+    },
+    {
+     "c": "Becky",
+     "n": "Catherine Batcha"
+    },
+    {
+     "c": "Nat's Mom",
+     "n": "Patsy van Ettinger"
+    },
+    {
+     "c": "Nightclub Singer",
+     "n": "Damien Carter"
+    },
+    {
+     "c": "Dr. Jones",
+     "n": "Rick Camp"
+    },
+    {
+     "c": "Tree Hugger",
+     "n": "Stephen Gustavson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "James Nguyen"
+   ],
+   "genres": [
+    "Romance",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 40016,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A platoon of eagles and vultures attacks the residents of a small town. Many people die. It's not known what caused the flying menace to attack. Two people manage to fight back, but will they survive Birdemic?",
+   "popularity": 1.0828,
+   "poster_path": "/gqmcAVNNUosB55RliecFYnkWT4M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-02-27",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Why did the eagles and vultures attack?",
+   "title": "Birdemic: Shock and Terror",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 2.178,
+   "vote_count": 383
+  },
   "movie:44716": {
    "backdrop_path": "/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
    "budget": 15000000,
@@ -1368,6 +1645,137 @@
    "type": "movie",
    "vote_average": 7.146,
    "vote_count": 482
+  },
+  "movie:459616": {
+   "backdrop_path": "/uPWJAJJwwFuqzsZBsIiQ4vHJ6Ya.jpg",
+   "budget": 18900000,
+   "cast": [
+    {
+     "c": "Aladin / Sam",
+     "n": "Kev Adams"
+    },
+    {
+     "c": "Shah Zaman / Marco",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Shah Zamam's Genie",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Génie",
+     "n": "Éric Judor"
+    },
+    {
+     "c": "Flight Attendant",
+     "n": "Noémie Lenoir"
+    },
+    {
+     "c": "Shallia / Sofia",
+     "n": "Vanessa Guide"
+    },
+    {
+     "c": "Wahid",
+     "n": "Wahid Bouzidi"
+    },
+    {
+     "c": "Soldier Aladin",
+     "n": "Booder"
+    },
+    {
+     "c": "Christopher Colombus",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Vizier",
+     "n": "Jean-Paul Rouve"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Lionel Steketee"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 459616,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After freeing Baghdad from its terrible ruler, Aladin delays his marriage to the princess until a new dictator arrives to take over the city.",
+   "popularity": 1.3231,
+   "poster_path": "/dolYOzR2SnRRkNeRV6yE1c3bsxF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-03",
+   "revenue": 19000000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Brand New Adventures of Aladdin",
+   "trailer": {
+    "key": "Ms55DzeCbRU",
+    "name": "The Brand New Adventures of Aladin / Alad'2 (2018) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 408
   },
   "movie:500916": {
    "backdrop_path": "/lY3CHPKZV41z5rW2npA0UGeMAHI.jpg",
@@ -1919,6 +2327,181 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 451
+  },
+  "movie:9616": {
+   "backdrop_path": "/7KBJf963tZBijpP6bKOJrxkowGp.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Alex Bernier",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Mara Sinclair",
+     "n": "Shannyn Sossamon"
+    },
+    {
+     "c": "William Eden",
+     "n": "Benno Fürmann"
+    },
+    {
+     "c": "Thomas Garrett",
+     "n": "Mark Addy"
+    },
+    {
+     "c": "Driscoll",
+     "n": "Peter Weller"
+    },
+    {
+     "c": "Dominic",
+     "n": "Francesco Carnelutti"
+    },
+    {
+     "c": "Apathetic Bishop",
+     "n": "Mattia Sbragia"
+    },
+    {
+     "c": "Bookstore Owner",
+     "n": "Richard Bremmer"
+    },
+    {
+     "c": "Sister Franca",
+     "n": "Maria Cristina Maccà"
+    },
+    {
+     "c": "Faraway Eyes Girl",
+     "n": "Rosalinda Celentano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Helgeland"
+   ],
+   "genres": [
+    "Fantasy",
+    "Mystery",
+    "Thriller",
+    "Romance",
+    "Drama",
+    "Horror"
+   ],
+   "id": 9616,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For centuries, a secret Order of priests has existed within the Church. A renegade priest, Father Alex Bernier, is sent to Rome to investigate the mysterious death of one of the Order's most revered members. Following a series of strangely similar killings, Bernier launches an investigation that forces him to confront unimaginable evil.",
+   "popularity": 1.8704,
+   "poster_path": "/7kj4TffoKCt4gIrNupr2oqmir69.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-05",
+   "revenue": 11600000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Behind the disguise of good hides the soul of evil.",
+   "title": "The Order",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 393
   },
   "tv:103516": {
    "backdrop_path": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
