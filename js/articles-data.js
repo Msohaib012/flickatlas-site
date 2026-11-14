@@ -146841,5 +146841,384 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 14 Nov 2026 09:35:00 EST"
+  },
+  "1x66adh": {
+    "id": "1x66adh",
+    "type": "news",
+    "headline": "Ananya Panday Calls Security Concerns in Bollywood Scary Following Tiger Shroff Car Attack",
+    "dek": "During the Hindustan Times Leadership Summit 2026, actor Ananya Panday shared her thoughts on the recent attack targeting Tiger Shroff and the broader safety issues facing Bollywood personalities.",
+    "body": [
+      {
+        "h": "Ananya Panday Speaks at the Leadership Summit",
+        "p": [
+          "Actor Ananya Panday appeared as a speaker at the 24th edition of the Hindustan Times Leadership Summit 2026. During her session, she discussed her journey in the film industry and contemporary Bollywood culture.",
+          "Her conversation with Sonal Kalra, Chief Managing Editor for Entertainment and Lifestyle at Hindustan Times, touched upon various aspects of cinema, including the pressing matter of personal security for film personalities."
+        ]
+      },
+      {
+        "h": "Reaction to the Tiger Shroff Incident",
+        "p": [
+          "The discussion naturally turned toward the recent security breach involving actor Tiger Shroff. When asked if the alarming event had caused her any concern, Ananya described the situation as terrifying and deeply unfortunate.",
+          "She pointed out that such incidents will likely force a reassessment of existing security protocols. According to her, the priority extends beyond the celebrity to include everyone present in large public crowds."
+        ]
+      },
+      {
+        "h": "Preserving Fan Interaction",
+        "p": [
+          "Ananya expressed worry that heightened dangers might create a permanent barrier between performers and their supporters. She highlighted that personal interactions remain the most rewarding part of her acting career.",
+          "Hearing how viewers connect with her characters brings her immense joy. She remains hopeful that a balance can be struck so that fans and actors can continue to engage safely without losing that vital connection."
+        ]
+      },
+      {
+        "h": "Details of the Attack on Tiger Shroff",
+        "p": [
+          "The security crisis unfolded around 7 pm on October 18 in Mumbai as Tiger Shroff was departing from a football club. Three individuals targeted the actor's vehicle, opening fire at close range.",
+          "While Tiger escaped without physical harm, his driver and a bystander sustained injuries during the shooting. The violent episode immediately triggered widespread discussions regarding the safety of prominent film stars."
+        ]
+      },
+      {
+        "h": "Legal Action and False Information Warnings",
+        "p": [
+          "In the wake of the shooting, Tiger's management team issued a firm warning against the circulation of unverified stories and AI-generated media falsely attributed to him. They emphasized that the actor had not released any video statements regarding the incident.",
+          "The team cautioned that anyone spreading misleading content could face potential legal consequences as authorities continue to investigate the circumstances surrounding the attack."
+        ]
+      },
+      {
+        "h": "Court Proceedings and Custody Extension",
+        "p": [
+          "Law enforcement officials have made significant progress in the investigation. A special court operating under the Maharashtra Control of Organised Crime Act extended the police custody of Phool Singh and four other suspects.",
+          "Their detention in connection with the firing incident involving Tiger Shroff has been prolonged until November 16 as the police pursue further inquiries."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ananya Panday addressed the alarming car attack on Tiger Shroff during the Hindustan Times Leadership Summit 2026, describing safety concerns in the industry as scary. The October 18 incident in Mumbai led to extended police custody for five accused individuals under MCOCA while authorities and celebrity teams manage fallout and security."
+        ]
+      }
+    ],
+    "facts": [
+      "Three men attacked Tiger Shroff's car on October 18 in Mumbai.",
+      "The attack happened around 7 pm as Tiger Shroff was leaving a football club.",
+      "Tiger Shroff escaped without injuries, but his driver and a bystander were reportedly hurt.",
+      "Phool Singh and four other accused are in police custody till November 16 under MCOCA."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Tiger Shroff",
+        "Sonal Kalra",
+        "Phool Singh",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Hindustan Times Leadership Summit 2026",
+        "The Fault in Our Stars",
+        "Aparajito",
+        "Ponyo"
+      ]
+    },
+    "keywords": [
+      "Ananya Panday",
+      "Tiger Shroff",
+      "Hindustan Times Leadership Summit",
+      "Tiger Shroff attack"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Ananya_Panday_HT_Summit_1794663837175_MSd5_1794663837367_rYL5_b22583ed-3516-471f-a567-8bf1b0ad9cca_bOXt.jpg",
+        "caption": "Ananya Panday Calls Security Concerns in Bollywood Scary Following Tiger Shroff Car Attack",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 19:45:06 +0530"
+  },
+  "ybqa1w": {
+    "id": "ybqa1w",
+    "type": "news",
+    "headline": "All Five Hunger Games Films Land on BBC Ahead of Sunrise on the Reaping Premiere",
+    "dek": "Fans can now stream the entire cinematic franchise on BBC iPlayer as the countdown begins for the theatrical release of the sixth installment.",
+    "body": [
+      {
+        "h": "Complete Franchise Arrives on BBC",
+        "p": [
+          "Audiences can now stream every single installment of one of the most successful young adult adaptations of the past two decades on the BBC. The complete collection of five motion pictures is accessible on BBC iPlayer, giving enthusiasts an opportunity to revisit the dystopian universe from the very beginning.",
+          "This digital expansion comes as anticipation reaches a fever pitch for the upcoming cinematic continuation in the sweeping saga."
+        ]
+      },
+      {
+        "h": "Prequel Joins the Streaming Library",
+        "p": [
+          "The latest addition to the streaming lineup is The Hunger Games: The Ballad of Songbirds Snakes, which landed on the platform following its broadcast television premiere on BBC One. Its arrival completes the entire pentalogy on the network's digital catch-up service.",
+          "The timing of this release strategy aligns perfectly with the imminent theatrical rollout of the sixth chapter in the overarching cinematic universe."
+        ]
+      },
+      {
+        "h": "Cinematic Countdown to November 20",
+        "p": [
+          "The arrival of the franchise on the BBC platform precedes the UK theatrical debut of Sunrise on the Reaping by just one week. The newest feature film is scheduled to hit the big screen on November 20, driving substantial renewed interest in the property.",
+          "Early industry chatter regarding the upcoming picture has already generated significant excitement among devoted followers of the dystopian series."
+        ]
+      },
+      {
+        "h": "Inside The Ballad of Songbirds Snakes",
+        "p": [
+          "Set decades prior to the trials faced by original protagonist Katniss Everdeen, the 2023 prequel explores the early life of the man who would eventually rule Panem. Tom Blyth steps into the role of a young Coriolanus Snow, functioning as a mentor during a crucial historical juncture for the nation.",
+          "Opposite him is Rachel Zegler, who portrays Lucy Gray Baird, the colorful musical tribute assigned to Snow from District 12. Together, the pair navigate the political machinery of the Capitol as the tenth annual tournament approaches."
+        ]
+      },
+      {
+        "h": "Franchise History and Legacy",
+        "p": [
+          "The cinematic journey began in 2012 with the release of the inaugural movie, followed quickly by Catching Fire the subsequent year. The concluding book of the literary trilogy was split into two cinematic parts, arriving in 2014 and 2015 respectively.",
+          "After an eight-year hiatus, the prequel expanded the cinematic universe, cementing the property's enduring cultural footprint across global box offices and home viewing platforms."
+        ]
+      },
+      {
+        "h": "Critical Reception and Reviews",
+        "p": [
+          "Upon its theatrical debut, the prequel earned mixed-to-positive notices from critics, holding a 64 percent approval score on Rotten Tomatoes. Reviewers praised its tightly edited action sequences and the continued relevance of its underlying political themes.",
+          "Publications like Time Out highlighted the striking visual presentation and the compelling lead performances that anchored this return to Panem."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "All five films in the Hunger Games franchise are now available to stream on BBC iPlayer following the television broadcast of The Ballad of Songbirds Snakes. This streaming availability leads directly into the UK theatrical release of Sunrise on the Reaping on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "All five Hunger Games movies are streaming on BBC iPlayer",
+      "The Ballad of Songbirds Snakes aired on BBC One on 12 November",
+      "Sunrise on the Reaping releases in UK cinemas on 20 November",
+      "The Ballad of Songbirds Snakes was released in cinemas in 2023",
+      "Tom Blyth plays Coriolanus Snow and Rachel Zegler plays Lucy Gray Baird",
+      "The first Hunger Games movie was released in 2012",
+      "The Ballad of Songbirds Snakes has a 64% rating on Rotten Tomatoes"
+    ],
+    "entities": {
+      "people": [
+        "Rachel Zegler",
+        "Tom Blyth",
+        "Jennifer Lawrence",
+        "Coriolanus Snow",
+        "Lucy Gray Baird",
+        "Katniss Everdeen"
+      ],
+      "titles": [
+        "The Hunger Games",
+        "Sunrise on the Reaping",
+        "The Hunger Games: The Ballad of Songbirds Snakes",
+        "The Hunger Games: Catching Fire",
+        "The Hunger Games: Mockingjay – Part 1",
+        "The Hunger Games: Mockingjay – Part 2"
+      ]
+    },
+    "keywords": [
+      "Hunger Games movies BBC",
+      "Sunrise on the Reaping release",
+      "The Ballad of Songbirds Snakes streaming",
+      "Tom Blyth Rachel Zegler Hunger Games"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/the-hunger-games-jennifer-lawrence-6661dfe65c631.jpg?crop=1.00xw:0.753xh;0,0&amp;resize=1200:*",
+        "caption": "All Five Hunger Games Films Land on BBC Ahead of Sunrise on the Reaping Premiere",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 14:17:00 +0000"
+  },
+  "1xooxlt": {
+    "id": "1xooxlt",
+    "type": "news",
+    "headline": "James Gunn Shuts Down Rumours of Sweeping Changes to Superman: Man of Tomorrow",
+    "dek": "Filmmaker James Gunn has firmly rejected online gossip suggesting that studio leadership changes have led to major cuts and recasting in the upcoming DCU film.",
+    "body": [
+      {
+        "h": "Addressing the Rumours Online",
+        "p": [
+          "Filmmaker James Gunn has directly addressed and dismissed widespread speculation circulating across the internet regarding the upcoming superhero feature Superman: Man of Tomorrow. Rumours had begun to spread suggesting that recent shifts in studio leadership had triggered a wave of major alterations to the film.",
+          "Rather than letting the misinformation grow, Gunn took to social media to set the record straight. He firmly stated that the claims regarding forced alterations were completely untrue."
+        ]
+      },
+      {
+        "h": "Leadership Shifts and Studio Mergers",
+        "p": [
+          "The online chatter largely stemmed from significant corporate changes involving Paramount Pictures and Warner Bros merging to form Skydance. Following this massive industry development, announcements revealed that James Gunn and Peter Safran would no longer be heading DC Studios, which took many supporters by surprise.",
+          "This leadership transition created an environment of uncertainty among fans, sparking numerous theories about how the creative direction of the cinematic universe might alter under new management."
+        ]
+      },
+      {
+        "h": "Alleged Cuts and Recasting Claims",
+        "p": [
+          "Among the most prominent pieces of misinformation circulating online were claims that new executives at Skydance had demanded extensive rewrites, substantial reshoots, and dramatic cuts to the production. Rumours even suggested that notable characters portrayed by actors like Milly Alcock and Xolo Mariduena, alongside a rumoured role for Adria Arjona, might face recasting or complete removal.",
+          "Such claims caused considerable concern within the fan community, who feared that the planned continuity and ensemble structure of the project could be severely compromised by executive interference."
+        ]
+      },
+      {
+        "h": "Setting the Record Straight",
+        "p": [
+          "In his public statement, Gunn clarified that the speculative reports held no basis in reality. He pointed out that leadership from Skydance had not even viewed the film yet, meaning any claims about their reactions or demands were entirely fabricated.",
+          "According to the filmmaker, the only individuals who have actually seen the picture thus far are Peter Safran and a very tight-knit circle of trusted friends and family members, invalidating all external narratives."
+        ]
+      },
+      {
+        "h": "Production and Release Timeline",
+        "p": [
+          "Production on the highly anticipated superhero feature officially wrapped up in August. The project is currently locked in for its theatrical rollout, scheduled to hit cinemas on July 9, 2027.",
+          "The narrative is set up as an origin tale drawing inspiration from various comic book iterations, aiming specifically to explore the complex dynamic between the titular hero and his iconic adversary."
+        ]
+      },
+      {
+        "h": "Cast and Ensemble Details",
+        "p": [
+          "The film boasts a massive ensemble cast featuring David Corenswet in the lead role alongside Nicholas Hoult as the principal antagonist. Other prominent cast members attached to the project include Rachel Brosnahan, Skyler Gisondo, Sara Sampaio, and Lars Eidinger.",
+          "With production successfully finished and a clear release date on the horizon, the creative team remains focused on delivering the intended vision without the interference claimed by internet gossip."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn dismissed online rumours claiming that the Paramount and Warner Bros merger into Skydance led to major cuts and recasting in Superman: Man of Tomorrow. Gunn clarified that no one from Skydance has seen the film yet, keeping the July 9, 2027 release date firmly on track with its original cast."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran are no longer heading DC Studios",
+      "Paramount Pictures and Warner Bros merged to form Skydance",
+      "Superman: Man of Tomorrow wrapped filming in August",
+      "The movie is scheduled for release on July 9, 2027",
+      "David Corenswet stars as Superman and Nicholas Hoult stars as Lex Luthor",
+      "Other cast members include Milly Alcock, Xolo Mariduena, Adria Arjona, Lars Eidinger, Rachel Brosnahan, Skyler Gisondo, and Sara Sampaio"
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "David Corenswet",
+        "Nicholas Hoult",
+        "Milly Alcock",
+        "Xolo Mariduena",
+        "Adria Arjona",
+        "Lars Eidinger",
+        "Rachel Brosnahan",
+        "Skyler Gisondo",
+        "Sara Sampaio"
+      ],
+      "titles": [
+        "Superman: Man of Tomorrow"
+      ]
+    },
+    "keywords": [
+      "Superman Man of Tomorrow",
+      "James Gunn Skydance rumours",
+      "David Corenswet Superman movie",
+      "Man of Tomorrow release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/man-of-tomorrow1794634866.jpg",
+        "caption": "James Gunn Shuts Down Rumours of Sweeping Changes to Superman: Man of Tomorrow",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-14T13:53:04+05:30"
+  },
+  "17s2kkh": {
+    "id": "17s2kkh",
+    "type": "news",
+    "headline": "Sofia Vergara Spotted Leaving Star-Studded GQ Event With Douglas Chabbott",
+    "dek": "Actress Sofia Vergara was seen leaning on rumored love interest Douglas Chabbott while exiting a high-profile Hollywood awards celebration.",
+    "body": [
+      {
+        "h": "An Animated Exit at Chateau Marmont",
+        "p": [
+          "Sofia Vergara captured attention during a night out in Los Angeles as she departed the GQ Men Of The Year Awards. The actress made an animated exit from the famous Chateau Marmont venue, stepping out into the bustling evening crowd after partying alongside fellow industry heavyweights.",
+          "Navigating the exit proved slightly challenging in her towering footwear. The Hollywood star appeared somewhat unsteady on her feet while making her way out of the celebration, drawing the gaze of onlookers and photographers stationed outside the venue."
+        ]
+      },
+      {
+        "h": "Accompanied by Douglas Chabbott",
+        "p": [
+          "Providing a steadying presence at her side was businessman Douglas Chabbott. While the pair have been linked since last year, their official relationship status remains unconfirmed by the actress, though they have frequently been spotted together at various international locations.",
+          "As Vergara teetered in her vertiginous heels, she clutched onto Chabbott for support. For the star-studded occasion, the entrepreneur opted for a relaxed look consisting of a blue blazer and denim, contrasting with Vergara's striking metallic ensemble."
+        ]
+      },
+      {
+        "h": "Red Carpet Glamour and Star-Studded Attendees",
+        "p": [
+          "Vergara cut a glamorous figure for the evening festivities, showcasing her signature style in a bronze sequined co-ord complete with a plunging neckline. Her vibrant look stood out amid a crowd of prominent figures attending the annual publication event.",
+          "The celebration drew a vast array of notable names who were also captured leaving the venue. Among the notable couples and stars spotted heading home were Monica Barbaro and Andrew Garfield, alongside performers like Tinashe and Halle Bailey, and actors including Matt Damon and Jason Bateman."
+        ]
+      },
+      {
+        "h": "Growing Speculation Surrounding the Pair",
+        "p": [
+          "Rumors regarding Vergara and Chabbott's connection have persisted for months. The duo were previously observed growing close during trips to Rome and Cannes, and Chabbott has since been integrated into family gatherings, having recently attended a festive dinner alongside the actress's loved ones.",
+          "Beyond his association with the Modern Family star, Chabbott boasts a wide circle of famous acquaintances. The Babson College graduate counts notable public figures such as Orlando Bloom, Dakota Johnson, and Derek Hough among his social network."
+        ]
+      },
+      {
+        "h": "Dating Standards After High-Profile Divorce",
+        "p": [
+          "Vergara's latest outing follows a brief relationship with orthopedic surgeon Dr. Justin Saliman and her high-profile separation from actor Joe Manganiello. The television star was married to Manganiello from 2015 until their final split.",
+          "Refining her perspective on romance, the actress previously shared clear criteria for future partners during a media appearance. She emphasized the importance of financial independence, noting that she prefers a partner whose financial standing matches or exceeds her own to prevent resentment."
+        ]
+      },
+      {
+        "h": "Embracing Single Life Without Urgency",
+        "p": [
+          "Reflecting on her journey after the divorce, Vergara admitted to experiencing initial anxieties about returning to the dating world as a single woman. However, those initial worries have since subsided as she has settled into her independence.",
+          "With a relaxed outlook on her personal life, the Hollywood icon made it clear that she is in no rush to settle down. Finding a healthy and loving connection remains a priority, but she is content taking her time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sofia Vergara was seen leaning on rumored love interest Douglas Chabbott while leaving the GQ Men Of The Year Awards at Chateau Marmont in Los Angeles. The actress looked stylish in a bronze sequined outfit while navigating her exit alongside Chabbott, amid ongoing public speculation regarding their relationship status."
+        ]
+      }
+    ],
+    "facts": [
+      "Sofia Vergara is 54 years old.",
+      "Douglas Chabbott is 39 years old.",
+      "The event took place at Chateau Marmont in Los Angeles.",
+      "Sofia Vergara was married to Joe Manganiello from 2015 to 2024."
+    ],
+    "entities": {
+      "people": [
+        "Sofia Vergara",
+        "Douglas Chabbott",
+        "Monica Barbaro",
+        "Andrew Garfield",
+        "Tinashe",
+        "Halle Bailey",
+        "Rumer Willis",
+        "Patrick Schwarzenegger",
+        "Travis Scott",
+        "Matt Damon",
+        "Jason Bateman",
+        "Camilla Belle",
+        "Orlando Bloom",
+        "Derek Hough",
+        "Dakota Johnson",
+        "Justin Saliman",
+        "Joe Manganiello"
+      ],
+      "titles": [
+        "Modern Family",
+        "GQ Men Of The Year Awards"
+      ]
+    },
+    "keywords": [
+      "Sofia Vergara GQ Men Of The Year Awards",
+      "Sofia Vergara Douglas Chabbott",
+      "Douglas Chabbott dating",
+      "Sofia Vergara news"
+    ],
+    "images": [],
+    "published": "2026-11-14T15:13:25Z"
   }
 };
