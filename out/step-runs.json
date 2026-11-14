@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-13T20:40:12Z",
-    "run_id": "43503592736",
-    "status": "success",
-    "checked": {
-     "candidates": 328,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Mahesh Babu's Son Gautam Blown Away By Ranbir-Yash's Film; Reveals Which Actor Stole The Show",
-      "O.M Trailer Out: Dhanush's Operation Mole against red sandalwood mafia looks intense, Mammootty & Sai Pallavi steal show",
-      "In 2025, when Brad Pitt sold Los Feliz home to Austin Butler after burglary",
-      "Commanders QB Sam Hartman is TV's next 'Bachelor'",
-      "I Love How Patrick Stewart Made Todd Stashwick Feel At Home On The Star Trek: Picard Season 3 Set",
-      "I Heard The Invite Had Oscar Buzz, But I Was Surprised About What Drew Me Into The Movie",
-      "Alan Ritchson Took A Break From Filming Season 5 Of Reacher To Hilariously Remind Us He Can Sing",
-      "HBO’s Forgotten 12-Episode Sci-Fi Thriller Is One of Television’s Most Unsettling",
-      "Star Wars’ Beloved Classics Just Made an Unexpected Comeback",
-      "Maika Monroe Replaced Margaret Qualley in Victorian Psycho, but the Script Didn’t Change",
-      "Wreck-It Ralph 3 Gets Strong Tease From Disney As Fans Beg for Another Sequel",
-      "Billy Evans Explains Why He’s Not Mad You Can See Everything Makes Him Look ‘Crazy’",
-      "Best Johnny Depp Movies Ranked Ahead of Ebenezer",
-      "Netflix's New \"Prison Break Meets Chernobyl\" 6-Part Thriller Arrives Next Month With Gritty First Trailer",
-      "22 Biggest ‘Lord of the Rings’ Easter Eggs & References In ‘The Rings of Power’ Season 3",
-      "13 Years Later, Fox Is Reviving One of Its Biggest Reality TV Competitions",
-      "'GTA 6' Players Need to Do One Important Thing Before Next Week's Massive Launch",
-      "6 Greatest Military Action TV Thrillers With 5+ Seasons",
-      "NBC Officially Unveils 2027's New Brooklyn Nine-Nine Replacement Series",
-      "CBS’s Supernatural Series Modernizes 1 Quintessential Fantasy Trope"
-     ],
-     "updated": [],
-     "count": 323,
-     "detail": "328 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-13T21:51:38Z",
     "run_id": "43514231582",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "377 stories, 2 duplicates removed, 17 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-14T19:51:38Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 289,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Day 11 Box Office Collection: Early Estimates, Occupancy & Total Earnings",
+      "Was Daniel Radcliffe Not The Highest Paid Actor In Harry Potter? Technically No – Here’s The Catch!",
+      "I’d Love To Know If Michael Weatherly Will Return To NCIS Full Time, And Wilmer Valderrama Shared His Take",
+      "I Can't Stop Thinking About This Pivotal Scene In The Only Living Pickpocket In New York",
+      "Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING",
+      "Victorian Psycho's Uncut Scene Put Acting to the Test | Set Stories",
+      "‘Rivals’ Stars Reveal Behind-the-Scenes Secrets of Season 2's Most Outrageous Scene",
+      "‘MobLand’ Star Tom Hardy’s Crime Thriller Officially Leaves Free Streaming",
+      "Marvel's New Sci-Fi Series Hits 421 Million Minutes Watched in One Week",
+      "‘Blade Runner’ Meets ‘The Expanse’ in New Sci-Fi Thriller Officially Arriving in 2027",
+      "Netflix's \"Yellowstone Meets Nashville\" Thriller Comparison Scores 'Tulsa King' Star's Approval",
+      "Ewan McGregor's New A24 Psychological Thriller Officially Confirms 2027 Release Date",
+      "8 Revenge Action Thriller Movies that Beat 'Taken' At Its Own Game",
+      "22 Biggest 'Grand Theft Auto VI' References & Easter Eggs",
+      "BBC's Hit 3-Season Crime Thriller Officially Ending In 2027",
+      "Every Marvel TV Show Of 2026, Ranked",
+      "New Avengers Release Conquers Disney+ Ahead Of Doomsday",
+      "Dexter Officially Finds Its Best Replacement For Lumen 16 Years Later",
+      "Cartoon Network’s New Ben 10 Reboot Makes A Major Change To A Beloved Character",
+      "Cobra Kai’s Breakout Star Lands New Thriller A Year After Karate Kid Spinoff Ended"
+     ],
+     "updated": [],
+     "count": 262,
+     "detail": "263 stories, 0 duplicates removed, 26 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-13T23:52:05Z",
-    "run_id": "43530067697",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1469,27 +1451,32 @@
      "detail": "+4 articles, +0 box-office rows, 1 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-14T19:54:06Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
+      "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
+      "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
+      "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot"
+     ],
+     "updated": [],
+     "count": 9,
+     "detail": "+4 articles, +0 box-office rows, 5 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-13T21:51:39Z",
-    "run_id": "43514231582",
-    "status": "success",
-    "checked": {
-     "candidates": 321,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 311, coming 10"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1903,26 +1890,27 @@
      "detail": "now 323, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-13T22:47:38Z",
-    "run_id": "43522052403",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-14T19:54:06Z",
+    "run_id": "43634264338",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 333,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 323, coming 10"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2369,27 +2357,35 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-14T20:07:40Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "ybqa1w",
+      "qvfl28",
+      "p1mudb",
+      "1s36fg0",
+      "4sfdlj",
+      "rbayka",
+      "6tzilm",
+      "4isabb"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-13T20:40:13Z",
-    "run_id": "43503592736",
-    "status": "success",
-    "checked": {
-     "candidates": 665,
-     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 650 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2795,19 +2791,27 @@
      "detail": "+0 new rows, 6 updated rows, 654 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-14T19:54:06Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 674,
+     "detail": "649 collected staging rows from readers; 228 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 657 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3037,27 +3041,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "convert_news": [
+   },
    {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-13T23:55:50Z",
-    "run_id": "43530067697",
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-14T20:07:37Z",
+    "run_id": "43634264338",
     "status": "success",
     "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
+     "candidates": 868,
+     "detail": "released movies without a review; Tavily searches: 706"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
+     "count": 0
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "convert_news": [
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3568,19 +3571,34 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-14T20:07:39Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
+      "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
+      "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot",
+      "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
+      "Zehar-e-Mohabbat Episode 25 — Watch Online on HUM TV",
+      "Bano Episode 31 — Watch Online on Geo TV"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3832,19 +3850,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-14T19:53:41Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected; 25 summary failure(s): Uswah Ep 52, Dar-E-Nijaat Ep 30, Uswah Ep 51, Nashtar Ep 30, Dar-E-Nijaat Ep 31, Nashtar Ep 31, Bano Ep 31, Khushi Ep 63, Bano Ep 29, Uswah Ep 50, Khushi Ep 62, Dastoor Ep 85, Khushi Ep 60, Zehar-e-Mohabbat Ep 25, Dastoor Ep 84, Bano Ep 30, Aangan Ep 13, Khushi Ep 61, Aangan Ep 14, Dastoor Ep 83, Izzat Ep 56, Lagan Lagi Ep 16, Izzat Ep 55, Lagan Lagi Ep 17, Izzat Ep 54"
+    },
+    "changed": {
+     "added": [
+      "Zehar-e-Mohabbat Ep 25",
+      "Bano Ep 31"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4166,26 +4194,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-13T20:40:12Z",
-    "run_id": "43503592736",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 96/96 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4675,19 +4696,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-14T19:54:05Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 262 still unprocessed; today by category: movies 13/6, tv_dramas 8/4, episodes 2/2, box_office 15/6, celebrities_events 20/5, upcoming_releases 5/4, ott_streaming 8/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 6/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
+      "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
+      "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
+      "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5001,19 +5034,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5343,24 +5376,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 440,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5695,19 +5728,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5957,19 +5995,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6204,19 +6242,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6503,19 +6541,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6756,19 +6794,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6998,19 +7036,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7259,6 +7297,16 @@
     "category": "Trending News",
     "run_at": "2026-11-14T19:02:20Z",
     "run_id": "43628829482",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7779,16 +7827,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-13T21:58:34Z",
     "run_id": "43514231582",
     "status": "skipped",
@@ -8025,19 +8063,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-13T20:40:22Z",
-    "run_id": "43503592736",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8302,8 +8340,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-14T20:07:48Z",
+    "run_id": "43634264338",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-14T19:02:20Z"
+ "updated_at": "2026-11-14T20:07:48Z"
 }

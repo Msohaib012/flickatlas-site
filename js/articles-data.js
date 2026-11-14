@@ -148266,5 +148266,445 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-14T10:28:57-08:00"
+  },
+  "3jqsav": {
+    "id": "3jqsav",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 25 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 25 aired on 2026-11-14 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 25 aired on 2026-11-14 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=1u2IAMtpfFk"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 25 aired on 2026-11-14.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=1u2IAMtpfFk",
+      "YouTube views: 82,409."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/1u2IAMtpfFk/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 25",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-14T17:00:13Z"
+  },
+  "1ugheip": {
+    "id": "1ugheip",
+    "type": "news",
+    "headline": "Bano Episode 31 — Watch Online on Geo TV",
+    "dek": "Bano episode 31 aired on 2026-11-14 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 31 aired on 2026-11-14 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=iom21w9SQr8"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 31 aired on 2026-11-14.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=iom21w9SQr8",
+      "YouTube views: 426,253."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iom21w9SQr8/hqdefault.jpg",
+        "caption": "Bano Episode 31",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-14T17:00:07Z"
+  },
+  "1g9x04c": {
+    "id": "1g9x04c",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
+    "dek": "An overview of the box office performance, regional figures, and occupancy trends for Ramayana: Part 1 up to its tenth day.",
+    "body": [
+      {
+        "h": "Opening Weekend Momentum",
+        "p": [
+          "Ramayana: Part 1 began its theatrical journey with massive numbers, pulling in a grand total of ₹62.5 crore net across all languages on its very first day. The Hindi version alone contributed ₹45 crore to that opening figure, while regional languages such as Kannada, Telugu, Tamil, and Malayalam added steady support.",
+          "The momentum continued through the first weekend, culminating in a robust third-day collection of ₹70.75 crore net. By the end of its first week spanning eight days, the film accumulated an estimated ₹564.75 crore net, establishing a formidable presence at the box office."
+        ]
+      },
+      {
+        "h": "Mid-Week Surges and Slumps",
+        "p": [
+          "The cinematic release experienced notable fluctuations in daily earnings as it transitioned from weekends to weekdays. Day 4 brought in ₹55 crore net before the movie witnessed an extraordinary mid-week surge on Day 5, racking up a massive ₹111.25 crore net with the Hindi belt alone contributing ₹92 crore.",
+          "Following this peak, collections adjusted downward gradually, recording ₹95 crore on Day 6 and ₹70.5 crore on Day 7. The first week concluded with Day 8 bringing in an estimated ₹51 crore net across the country."
+        ]
+      },
+      {
+        "h": "Entering the Second Week",
+        "p": [
+          "As the feature entered its second week, weekday numbers remained resilient. Day 9 brought in ₹46 crore net, while the subsequent tenth day saw a strong rebound with collections touching ₹73.25 crore net.",
+          "Early tracking for Day 11 indicates that final figures are still being compiled and will be updated shortly as reports from various theaters and regions are consolidated by industry trackers."
+        ]
+      },
+      {
+        "h": "Occupancy Rate Fluctuations",
+        "p": [
+          "Audience turnout tracked through theater occupancy rates showed distinct patterns across different show timings. On the opening day, overall occupancy stood at 30.17 percent, driven heavily by strong night screenings that reached up to 50 percent capacity.",
+          "The highest overall occupancy was recorded on Day 5, surging to 67.5 percent with afternoon shows peaking remarkably. Subsequent days showed consistent viewer interest, particularly during evening and night slots across multiple regions."
+        ]
+      },
+      {
+        "h": "Regional Language Breakdown",
+        "p": [
+          "While the Hindi version captured the lion's share of the earnings throughout the theatrical run, regional markets played an important role in boosting the overall totals. Kannada, Telugu, Tamil, and Malayalam versions consistently added valuable crores to the daily tallies.",
+          "For instance, on Day 10, the film earned ₹55 crore from the Hindi version, while Tamil and Malayalam markets contributed ₹4.5 crore each, and Kannada and Telugu markets added ₹5.25 crore and ₹4 crore respectively."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Global Reach",
+        "p": [
+          "Total box office figures up to Day 10 put the India net collections at an estimated ₹684 crore, out of which ₹529.5 crore came from the Hindi version alone. The India gross collection stands impressively at an estimated ₹807.1 crore.",
+          "On the international front, the venture crossed boundaries to pull in $40.25 million, translating to roughly ₹380.4 crore in overseas markets. Combined together, the worldwide gross earnings for Ramayana: Part 1 have touched an estimated ₹1187.5 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has crossed an estimated ₹684 crore in India net box office collections up to its tenth day, backed by strong performances in both domestic and overseas markets. While Day 11 figures are still pending compilation, the film has already accumulated a massive worldwide gross of approximately ₹1187.5 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 Day 1 collection was ₹62.5 cr",
+      "Ramayana: Part 1 Week 1 total was ₹564.75 cr",
+      "Ramayana: Part 1 total till Day 10 was ₹684 cr",
+      "Ramayana: Part 1 worldwide collection was ₹1187.5 cr",
+      "Ramayana: Part 1 overseas collection was $40.25 million"
+    ],
+    "entities": {
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office collection",
+      "Ramayana Day 11 collection",
+      "Ramayana Part 1 earnings",
+      "Ramayana occupancy report"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5FDbijlbJvhrpvUrsfLTXKNeV2aDEfTgVjjFNIkh5mYffh4q1hQxL1mMEu4thlZRVVKTUsvxhgPsQJak0-HgJzUE4fP6VYyzE9MoHehIjxW46CqoWi_UoUIydtRZMbyHPEFmineVxAMBxHePu96cS0ROtrBpT2ACWrGUSWxfZQUm-8hnsX5nMcpC0Z1Y/w1600/ramayana-part-1-day-11-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-15T00:15:51.846+05:30"
+  },
+  "18e2qgf": {
+    "id": "18e2qgf",
+    "type": "news",
+    "headline": "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
+    "dek": "The actor vents his frustration over the scrapped Star Wars project developed alongside Steven Soderbergh, calling the studio's choice to drop the film a criminal missed opportunity.",
+    "body": [
+      {
+        "h": "The Scrapped Star Wars Project",
+        "p": [
+          "Adam Driver continues to voice his strong disappointment regarding the cancellation of The Hunt for Ben Solo, a Star Wars sequel project that ultimately failed to move forward at Disney. The actor spent a significant portion of time working on the concept, dedicating nearly two and a half years to its development alongside acclaimed filmmaker Steven Soderbergh.",
+          "The proposed narrative would have explored events following the release of 2019's The Rise of Skywalker. According to the details, the storyline was slated to feature the redemption and subsequent apparent death of Ben Solo."
+        ]
+      },
+      {
+        "h": "Surprise Over Studio Hesitation",
+        "p": [
+          "Driver admitted that he was genuinely baffled when the involvement of Steven Soderbergh failed to immediately convince executives to greenlight the picture. From his perspective, the combination of a major franchise and a celebrated director should have made the decision effortless.",
+          "Reflecting on the studio's hesitation, Driver did not hold back his feelings about the outcome. He described the choice to scrap the venture as feeling entirely criminal given the creative potential at stake."
+        ]
+      },
+      {
+        "h": "Fan Outcry and Extraordinary Support",
+        "p": [
+          "Following the revelation of the project's demise, the actor was profoundly moved by the passionate reaction of the fanbase. Supporters organized massive protests, which included renting prominent digital billboards in Times Square and even hiring a plane to fly over the Disney lot to voice their displeasure.",
+          "Driver noted that he never anticipated such a monumental display of dedication from viewers. He compared the collective energy to a group of friends sharing a passionate discussion at a local bar about the cinematic stories they wish to see brought to life."
+        ]
+      },
+      {
+        "h": "Critique of Industry Risk Aversion",
+        "p": [
+          "The experience highlighted broader issues within the modern film industry for the performer, who pointed out that Hollywood has increasingly become a reactive and risk-averse business. Executives frequently rely on metrics tied strictly to past financial successes rather than taking bold creative leaps.",
+          "He further questioned studio logic by drawing comparisons to legendary auteurs, wondering why visionary filmmakers like Francis Ford Coppola are not routinely given complete creative freedom and blank checks to execute their artistic visions."
+        ]
+      },
+      {
+        "h": "Moving On to Future Collaborations",
+        "p": [
+          "Despite the disappointing end to the Star Wars derivative, Driver has found other avenues to work alongside the broader corporate umbrella. Following persistent recruitment efforts by Marvel head Kevin Feige, the actor officially signed on to portray Mister Sinister in an upcoming X-Men film produced by the Disney-owned studio.",
+          "Meanwhile, Soderbergh has already pivoted toward fresh creative endeavors, moving on to pen and develop what Driver describes as one of the finest scripts the director has ever written."
+        ]
+      },
+      {
+        "h": "Current Releases and Next Steps",
+        "p": [
+          "While the chapter on Ben Solo is permanently closed, Driver's career continues to march forward without missing a beat. His latest cinematic venture, Paper Tiger directed by James Gray, is currently playing in theaters for audiences to enjoy.",
+          "Reflecting on the unpredictable nature of getting movies made in the current climate, the actor acknowledges that he must find clever ways to navigate the system as he actively searches for his next big role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Adam Driver has expressed strong condemnation toward Disney for scrapping his Star Wars sequel project, The Hunt for Ben Solo, which he developed alongside Steven Soderbergh. Despite massive fan protests and extraordinary public support, the actor confirmed the film is dead while reflecting on industry risk aversion and pivoting to his upcoming X-Men and Paper Tiger projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Adam Driver spent nearly two and a half years developing The Hunt for Ben Solo.",
+      "Steven Soderbergh was involved in developing the film with Adam Driver.",
+      "The Hunt for Ben Solo would have taken place after 2019's The Rise of Skywalker.",
+      "Adam Driver first shared news of the project in an October 2025 AP article.",
+      "Fans organized protests including flying a plane over the Disney lot and renting Times Square billboards.",
+      "Kevin Feige pursued Adam Driver for years before the actor signed on to play Mister Sinister in an upcoming X-Men movie.",
+      "Paper Tiger is directed by James Gray and stars Adam Driver."
+    ],
+    "entities": {
+      "people": [
+        "Adam Driver",
+        "Steven Soderbergh",
+        "Francis Ford Coppola",
+        "Kevin Feige",
+        "James Gray",
+        "Lena Dunham"
+      ],
+      "titles": [
+        "The Hunt for Ben Solo",
+        "Star Wars",
+        "The Rise of Skywalker",
+        "Girls",
+        "X-Men",
+        "Paper Tiger"
+      ]
+    },
+    "keywords": [
+      "Adam Driver The Hunt for Ben Solo",
+      "Steven Soderbergh Star Wars movie",
+      "Adam Driver X Men Mister Sinister",
+      "Paper Tiger James Gray film"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-39.jpg",
+        "caption": "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 19:43:37 +0000"
+  },
+  "u6qd1a": {
+    "id": "u6qd1a",
+    "type": "news",
+    "headline": "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
+    "dek": "The official trailer for the second season of Bhuvan Bam's popular comedy series Dhindora has dropped, revealing new character dynamics and a November premiere date.",
+    "body": [
+      {
+        "h": "Trailer Launch and Premiere Details",
+        "p": [
+          "The official trailer for the second season of the comedy series Dhindora has officially been unveiled, generating considerable excitement among fans of the franchise. Viewers can mark their calendars for the show's upcoming streaming debut on November 20.",
+          "This highly anticipated second season makes its grand landing directly on Netflix, expanding the reach of the popular digital universe to a much larger platform and audience."
+        ]
+      },
+      {
+        "h": "Return of the Iconic Characters",
+        "p": [
+          "Creator and actor Bhuvan Bam returns to reprise his renowned multiple roles, bringing back the beloved madcap world originally spawned from BB Ki Vines. Fans will once again see him portray an entire family of familiar personalities.",
+          "Among the returning crowd is the fan-favourite, ever-unlucky uncle Titu Mama, alongside other staples of the household including Babloo ji, Janki, Sameer, and Bancho, all brought to life by Bam."
+        ]
+      },
+      {
+        "h": "New Additions to the Cast",
+        "p": [
+          "A major highlight of the upcoming season is the introduction of a fresh face into the eccentric family dynamic: Sanjeeda Sheikh joins the cast as Kavita Mami.",
+          "Kavita Mami steps in as Titu Mama's wife, establishing a dynamic where she is uniquely positioned as someone who can completely see through his unending explanations."
+        ]
+      },
+      {
+        "h": "Creator Insights and Creative Vision",
+        "p": [
+          "Bhuvan Bam reflected on the evolution of the project, noting that partnering with the streaming platform allowed the creative team to push their ideas further onto a much bigger canvas.",
+          "He teased that the new episodes feature Titu Mama attempting to make peace with his in-laws, leading to predictable complications and heightened chaos where peace is never truly an option."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Directorial Perspective",
+        "p": [
+          "Director Sneha Shetty Kohli steered the chaos of the second season from behind the camera, marking a special milestone with her directorial debut on the project.",
+          "The production scale introduces fresh energy to the established universe, featuring elements ranging from bizarre action sequences to colourful song-and-dance numbers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for the second season of Dhindora has been released, featuring the return of Bhuvan Bam in multiple roles alongside new cast member Sanjeeda Sheikh as Kavita Mami. The comedy series is scheduled to premiere on Netflix on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhindora Season 2 trailer was unveiled on Friday, November 14, 2026.",
+      "The season is set to premiere on Netflix on November 20, 2026.",
+      "Bhuvan Bam plays multiple characters including Titu Mama, Babloo ji, Janki, Sameer, and Bancho.",
+      "Sanjeeda Sheikh joins the cast as Kavita Mami, Titu Mama's wife.",
+      "Sneha Shetty Kohli is the director of the second season."
+    ],
+    "entities": {
+      "people": [
+        "Bhuvan Bam",
+        "Sanjeeda Sheikh",
+        "Sneha Shetty Kohli"
+      ],
+      "titles": [
+        "Dhindora",
+        "Dhindora Season 2",
+        "BB Ki Vines"
+      ]
+    },
+    "keywords": [
+      "Dhindora Season 2 trailer",
+      "Bhuvan Bam Dhindora",
+      "Sanjeeda Sheikh Kavita Mami",
+      "Dhindora Netflix release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6584-dhindhora.png",
+        "caption": "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T19:54:06Z"
+  },
+  "11ce1k9": {
+    "id": "11ce1k9",
+    "type": "news",
+    "headline": "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot",
+    "dek": "Ewan McGregor teams up with Claire Danes for the upcoming psychological thriller series The Spot, which has officially confirmed its January 13 release date on Hulu.",
+    "body": [
+      {
+        "h": "Introduction to The Spot",
+        "p": [
+          "Actor Ewan McGregor is preparing to take on a compelling new project with the upcoming thriller series The Spot. The project is slated to premiere on Hulu on January 13, bringing together a powerhouse cast for a story centered on psychological tension and domestic dread.",
+          "The production promises to test the boundaries of trust between its main characters, offering viewers a deeply unsettling look at how quickly a comfortable life can unravel when hidden secrets come to light."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "In The Spot, Ewan McGregor stars as a teacher who begins harboring dark suspicions about his wife. Convinced that his spouse, a surgeon portrayed by Claire Danes, may have struck a child in a hit-and-run accident, his viewpoint shifts entirely.",
+          "This terrifying possibility sends the couple spiraling into a complex web of suspicion and concealed guilt. First-look imagery features Claire Danes inspecting her car with a mobile phone flashlight, hinting at the harrowing moral dilemmas and accountability questions the narrative explores."
+        ]
+      },
+      {
+        "h": "Creative Minds Behind the Camera",
+        "p": [
+          "The series is written and created by Ed Solomon, who previously worked with Claire Danes on the thriller series Full Circle in 2016. Solomon has built a celebrated career writing iconic feature films including Bill Ted's Excellent Adventure, Men in Black, and Charlie's Angels.",
+          "His recent pivot toward stories upending the lives of upper-class Americans includes works like Mosaic and No Sudden Move. Solomon has also cited cinematic inspirations such as the 1963 film High and Low, which similarly forces wealthy protagonists into profound moral crises."
+        ]
+      },
+      {
+        "h": "Ewan McGregor Career Background",
+        "p": [
+          "Ewan McGregor has enjoyed a diverse and decorated career spanning decades of film and television. He first broke into the industry with an incendiary performance in the 1996 film Trainspotting, earning a BAFTA Scotland award and a London Film Critics' Circle Award.",
+          "He later achieved global stardom playing Obi-Wan Kenobi in the Star Wars prequel trilogy from 1999 to 2005, a role he briefly reprised in 2015's Star Wars: The Force Awakens. McGregor also cemented his status as a household name portraying Christian in Baz Luhrmann's 2001 musical Moulin Rouge!"
+        ]
+      },
+      {
+        "h": "Recent Projects and Accolades",
+        "p": [
+          "In recent years, McGregor won an Emmy Award in 2023 for his gripping portrayal of Roy Halston Frowick in the Netflix biographical drama series Halston. He also shares the screen with Anne Hathaway in the sci-fi movie The End of Oak Street.",
+          "With The Spot, McGregor continues exploring intense dramatic material, stepping into a psychological thriller landscape that showcases his enduring range as an actor."
+        ]
+      },
+      {
+        "h": "The Elite Status Dynamic",
+        "p": [
+          "A fascinating element of The Spot is that the partner suspected of involvement in the hit-and-run accident occupies the higher social status in the relationship. This dynamic places privilege and accountability under a harsh microscope.",
+          "As the characters grapple with potential guilt, the story challenges audiences to consider the lengths to which seemingly good people will go in order to protect their accumulated wealth and status."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ewan McGregor and Claire Danes star in the upcoming psychological thriller series The Spot, created by Ed Solomon. The show is scheduled to premiere on Hulu on January 13, following a teacher who suspects his surgeon wife may be involved in a hit-and-run accident."
+        ]
+      }
+    ],
+    "facts": [
+      "The Spot premieres on Hulu on Jan. 13.",
+      "Ewan McGregor stars as a teacher in The Spot.",
+      "Claire Danes plays a surgeon and Ewan McGregor's wife in The Spot.",
+      "Ed Solomon is the writer and creator of The Spot.",
+      "Ewan McGregor won an Emmy Award in 2023 for Halston.",
+      "Ewan McGregor starred in Trainspotting (1996), Moulin Rouge! (2001), and the Star Wars prequel trilogy (1999–2005)."
+    ],
+    "entities": {
+      "people": [
+        "Ewan McGregor",
+        "Claire Danes",
+        "Ed Solomon",
+        "Baz Luhrmann",
+        "Steven Soderbergh",
+        "Spike Lee",
+        "Ben Affleck",
+        "Anne Hathaway",
+        "Roy Halston Frowick"
+      ],
+      "titles": [
+        "The Spot",
+        "Trainspotting",
+        "Star Wars prequel trilogy",
+        "Star Wars: The Force Awakens",
+        "Moulin Rouge!",
+        "Halston",
+        "The End of Oak Street",
+        "Full Circle",
+        "Mosaic",
+        "No Sudden Move",
+        "Bill Ted's Excellent Adventure",
+        "Men in Black",
+        "Charlie's Angels",
+        "High and Low",
+        "Highest 2 Lowest",
+        "Animals"
+      ]
+    },
+    "keywords": [
+      "The Spot Hulu release date",
+      "Ewan McGregor The Spot series",
+      "Claire Danes Ed Solomon thriller",
+      "The Spot Ewan McGregor Claire Danes"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/ewn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 19:18:13 GMT"
   }
 };
