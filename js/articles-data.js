@@ -142356,5 +142356,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 02:55:12 GMT"
+  },
+  "13qktwu": {
+    "id": "13qktwu",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 9: Ranbir Kapoor Starrer Surpasses Chhaava And Crosses Rs 1,100 Crore Worldwide",
+    "dek": "The Ranbir Kapoor and Nitesh Tiwari epic Ramayana: Rise of a Legend has broken another box-office record by overtaking the lifetime India nett collection of Chhaava on its ninth day in cinemas.",
+    "body": [
+      {
+        "h": "The Nine-Day Milestone",
+        "p": [
+          "The theatrical run of the mythological drama continues to reach unprecedented heights. On its ninth day in cinemas, the Ranbir Kapoor starrer surpassed the lifetime domestic nett earnings of Chhaava.",
+          "Industry tracking figures from Sacnilk indicate that the feature added Rs 47.85 crore nett domestically on Day 9. This latest surge brings the domestic nett total of the Nitesh Tiwari directorial to Rs 612.45 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown And Show Counts",
+        "p": [
+          "The theatrical deployment on Day 9 spanned 22,993 shows across multiple regional versions. The Hindi presentation dominated audience turnout by generating Rs 36.25 crore from 18,377 shows.",
+          "Regional contributions added further momentum to the domestic ledger. The Malayalam version brought in Rs 3.25 crore, the Kannada version earned Rs 3 crore, the Tamil language version contributed Rs 2.75 crore, and the Telugu release added Rs 2.60 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Major Successes",
+        "p": [
+          "By crossing the Rs 601.57-crore lifetime India nett collection set by Vicky Kaushal's 2025 blockbuster Chhaava, the film has cemented its status as a major historical commercial success.",
+          "Earlier in its theatrical journey, the feature had already surpassed the full theatrical runs of Shah Rukh Khan's Pathaan, which accumulated Rs 544.28 crore domestically, and Animal, starring Ranbir Kapoor, which earned Rs 556.36 crore in India."
+        ]
+      },
+      {
+        "h": "Global Gross And Overseas Performance",
+        "p": [
+          "On the international front, the production achieved strong overseas returns. The international markets contributed Rs 25 crore on Day 9 alone, elevating the total overseas gross figure to Rs 378.50 crore.",
+          "Combined with domestic figures, the worldwide gross collection has now advanced past the Rs 1,100-crore threshold, officially resting at Rs 1,110.70 crore. The domestic gross collection alone has reached Rs 732.20 crore alongside an average collection of Rs 20,851 per show."
+        ]
+      },
+      {
+        "h": "An Extended Opening Week Recap",
+        "p": [
+          "Following its worldwide release on November 5, the film established strong momentum with an opening day of Rs 64.85 crore nett in India. Collections shifted through the week with Rs 48.05 crore on Day 2, Rs 69.80 crore on Day 3, and Rs 56.15 crore on Diwali during its fourth day.",
+          "Mid-week performance peaked significantly with Rs 107.50 crore on Day 5 and Rs 94.10 crore on Day 6, before moving to Rs 70.65 crore on Bhai Dooj for Day 7 and Rs 53.50 crore on Day 8."
+        ]
+      },
+      {
+        "h": "Production Background And Cast Details",
+        "p": [
+          "Conceived as a two-part cinematic adaptation of Valmiki’s epic, the narrative follows Lord Rama as he sets out to rescue his wife Sita after her abduction by the asura king Ravana. The second part of the project is scheduled to release on Diwali 2028.",
+          "The movie is produced by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations, with Malhotra and Yash serving as co-producers. The ensemble cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman, with Sunny Deol appearing as Lord Hanuman in the post-credits scene."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed the lifetime India nett collection of Chhaava on its ninth day in cinemas, taking its domestic nett total to Rs 612.45 crore. Driven by strong multilingual screenings and international receipts, the worldwide gross for the Ranbir Kapoor starrer has surpassed Rs 1,100 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Day 9 nett collection in India was Rs 47.85 crore",
+      "Total domestic nett collection reached Rs 612.45 crore",
+      "Worldwide gross collection crossed Rs 1,100 crore, standing at Rs 1,110.70 crore",
+      "Worldwide release date was November 5, 2026",
+      "Chhaava lifetime India nett collection was Rs 601.57 crore",
+      "Pathaan India collection was Rs 544.28 crore",
+      "Animal India collection was Rs 556.36 crore",
+      "Overseas gross collection reached Rs 378.50 crore",
+      "Total shows on Day 9 were 22,993",
+      "Hindi version Day 9 collection was Rs 36.25 crore from 18,377 shows",
+      "Second part of the film is expected to release on Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Vicky Kaushal",
+        "Nitesh Tiwari",
+        "Shah Rukh Khan",
+        "Namit Malhotra",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Chhaava",
+        "Pathaan",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Day 9 collection",
+      "Ramayana beats Chhaava"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-9-141249333-16x9_0.jpg?VersionId=n2wK9zYCLYLz2j0sgJOhCRgKqHgl8cii",
+        "caption": "Ramayana Box Office Collection Day 9: Ranbir Kapoor Starrer Surpasses Chhaava And Crosses Rs 1,100 Crore Worldwide",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 08:43:16 +0530"
+  },
+  "1tynyr7": {
+    "id": "1tynyr7",
+    "type": "news",
+    "headline": "James Gunn and Peter Safran Exit DC Studios, Casting Doubt on The People Vs. Gorilla Grodd",
+    "dek": "The departure of studio heads James Gunn and Peter Safran has created major uncertainty around upcoming experimental DC projects like the Superman spin-off series, The People Vs. Gorilla Grodd.",
+    "body": [
+      {
+        "h": "Leadership Shake-Up at DC Studios",
+        "p": [
+          "A massive leadership shift has hit DC Studios as James Gunn and Peter Safran depart from their key roles. Although both executives originally signed four-year contracts starting on November 1, 2022, their unexpected exit has arrived much sooner than anticipated.",
+          "While Skydance has not provided an official explanation for the sudden change, industry observers attribute the move primarily to underwhelming box office performances from recent theatrical releases such as Clayface and Supergirl."
+        ]
+      },
+      {
+        "h": "James Gunn Reacts and Confirms Future Plans",
+        "p": [
+          "Following the announcement, James Gunn took to Instagram to share his feelings of relief regarding his departure from the studio. He reassured fans that neither he nor Safran are completely finished with DC, indicating that the foundational characters they established will continue to exist in future projects.",
+          "Reports also confirm that the upcoming feature Man of Tomorrow has already advanced into post-production, meaning it should escape major disruption from the executive transition."
+        ]
+      },
+      {
+        "h": "The Uncertain Future of The People Vs. Gorilla Grodd",
+        "p": [
+          "The same level of security cannot be guaranteed for the upcoming Superman spin-off series, The People Vs. Gorilla Grodd. Created by Tony Yacenda and Dan Perrault, the show has already finished filming and is targeting a 2027 release date.",
+          "Despite its completion, the recent leadership overhaul has significantly dampened enthusiasm for the project. Originally designed as a strange genre-bender that served as vital connective tissue, its future now looks much more complicated under new management."
+        ]
+      },
+      {
+        "h": "A Shift Away From Experimental Storytelling",
+        "p": [
+          "With Gunn's departure, his initial Chapter 1: Gods and Monsters blueprint is expected to be phased out. Skydance appears to be pivoting toward faster-paced projects with broader commercial appeal, leaving fewer openings for eccentric experiments.",
+          "The comedic mockumentary style planned for Grodd was originally envisioned to transition into a mainline antagonist for future Flash or Justice League films. Now, questions remain about whether such an unconventional villain fits into upcoming blockbuster strategies."
+        ]
+      },
+      {
+        "h": "Daily Planet Ensemble Cast in Limbo",
+        "p": [
+          "The uncertainty surrounding the new direction also impacts the show's Daily Planet ensemble. Actors including Skyler Gisondo as Jimmy Olsen, Wendell Pierce as Perry White, Beck Bennett as Steve Lombard, and Mikaela Hoover as Cat Grant now find their characters' long-term arcs facing potential limbo.",
+          "Although these actors are still expected to reprise their roles in Man of Tomorrow, their prospects beyond the 2027 window remain unclear, further diminishing anticipation for the spin-off series."
+        ]
+      },
+      {
+        "h": "A Risky Venture From the Start",
+        "p": [
+          "Even before the studio changes, The People Vs. Gorilla Grodd was considered a bold and risky endeavor. In an era where superhero fatigue pushes franchises to constantly reinvent themselves, a satirical true-crime mockumentary about Grodd stood out as a massive narrative gamble.",
+          "The premise risked undercutting the character's menace before he ever confronted a traditional hero on the big screen. Although the DCU has historically been less experimental than its Marvel counterpart, this unique project now demands careful optimism as a potential last of its kind."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn and Peter Safran have exited their leadership roles at DC Studios following underwhelming box office returns for recent films. This sudden transition threatens the future and appeal of the upcoming satirical mockumentary series The People Vs. Gorilla Grodd, leaving its unique genre-bending format and cast in uncertainty as Skydance shifts toward more mainstream projects."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran signed four-year contracts starting November 1, 2022.",
+      "Both executives exited their leadership roles at DC Studios.",
+      "The People Vs. Gorilla Grodd is set for a 2027 release.",
+      "Man of Tomorrow has entered post-production.",
+      "Tony Yacenda and Dan Perrault created The People Vs. Gorilla Grodd."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "Tony Yacenda",
+        "Dan Perrault",
+        "Skyler Gisondo",
+        "Wendell Pierce",
+        "Beck Bennett",
+        "Mikaela Hoover",
+        "Gorilla Grodd"
+      ],
+      "titles": [
+        "Superman",
+        "Clayface",
+        "Supergirl",
+        "Man of Tomorrow",
+        "The People Vs. Gorilla Grodd",
+        "Peacemaker",
+        "Creature Commandos",
+        "Wonder Man"
+      ]
+    },
+    "keywords": [
+      "James Gunn DCU exit",
+      "The People Vs. Gorilla Grodd",
+      "DC Studios leadership change",
+      "Superman spin off series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/david-corenswet-s-superman-smiling-as-he-flies-into-the-camera-in-superman-2025.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "James Gunn and Peter Safran Exit DC Studios, Casting Doubt on The People Vs. Gorilla Grodd",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 04:00:18 GMT"
+  },
+  "1wo3nsr": {
+    "id": "1wo3nsr",
+    "type": "news",
+    "headline": "O.M Trailer Review: Mammootty, Dhanush And Sai Pallavi Starrer Promises High-Octane Action",
+    "dek": "The newly released trailer for the upcoming Tamil action drama O.M offers a thrilling look at its star-studded cast and real-life-inspired plot.",
+    "body": [
+      {
+        "h": "Introduction to the Trailer Release",
+        "p": [
+          "The makers of the upcoming Tamil film O.M officially launched its trailer on Friday evening, giving fans a detailed preview of the high-octane action drama. Running for three minutes, the preview highlights key sequences and sets the tone for a project inspired by actual events. The movie unites an impressive lineup of creative talent known for major achievements in the industry.",
+          "Expectations have been high due to the stellar crew involved in the production. Director Rajkumar Periaswamy brings his recent National Award-winning momentum to the project, while co-stars Dhanush and Mammootty add multiple National Awards of their own to the formidable ensemble cast."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The storyline centers around the Tamil Nadu Police Department and their intense mission to dismantle a massive smuggling ring operating across the region. Sai Pallavi steps into a striking new persona as a senior police officer leading the special initiative known as Operation Mole, abbreviated as O.M.",
+          "Dhanush portrays a member of the newly established Organized Crime Intelligence Unit, or OCIU, who goes undercover to infiltrate the criminal enterprise. Meanwhile, veteran star Mammootty plays Siya, the apparent mastermind behind the wood-smuggling operation, with Naseeruddin Shah also featuring as a key player in the syndicate."
+        ]
+      },
+      {
+        "h": "Star Power and Notable Performances",
+        "p": [
+          "The project marks a significant milestone as the first full-fledged feature film bringing Dhanush and Mammootty together onscreen. Mammootty makes a long-awaited return to Tamil cinema, sporting a stylish look at age 76 that has generated substantial buzz among moviegoers.",
+          "Sai Pallavi takes on a rigorous, no-nonsense police role distinct from anything she has attempted previously. This comes at a time when audiences are also watching her portray Sita in Ramayana, showcasing her incredible versatility across different cinematic genres."
+        ]
+      },
+      {
+        "h": "Musical Score and Production Design",
+        "p": [
+          "Composer Sai Abhyankar delivers a standout background score that takes center stage during the second half of the promotional clip. The music elevates the dramatic tension and builds toward a peak-climax experience that hints at a strong theatrical presentation.",
+          "Tamil cinema has consistently impressed audiences with powerful background scores throughout the year, and this project appears ready to continue that trend with its explosive sound design and energetic audio-visual integration."
+        ]
+      },
+      {
+        "h": "Release Strategy and Box Office Clashes",
+        "p": [
+          "The film was originally planned for an October release, but the makers strategically adjusted their schedule to avoid competing with Rajinikanth's Jailer 2 and bypassed the Diwali festive window to make room for Suriya's Scene. The feature is now locked to debut on November 20.",
+          "The revised date sets up a direct box office clash with Dulquer Salmaan's Aakasamlo Oka Tara. This scheduling coincidence marks the first time that Mammootty and his son Dulquer will have films released on the exact same day, albeit in different languages."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for the upcoming Tamil action drama O.M has arrived, showcasing lead performances from Mammootty, Dhanush, and Sai Pallavi in a story about dismantling a smuggling ring. Directed by Rajkumar Periaswamy, the film features music by Sai Abhyankar and is scheduled to release on November 20 following schedule adjustments."
+        ]
+      }
+    ],
+    "facts": [
+      "The O.M trailer has a runtime of 3 minutes.",
+      "The trailer was released on Friday evening.",
+      "The film is scheduled for release on November 20.",
+      "Mammootty is 76 years old.",
+      "Rajkumar Periaswamy recently won a National Award for directing Amaran."
+    ],
+    "entities": {
+      "people": [
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi",
+        "Rajkumar Periaswamy",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Sai Abhyankar",
+        "Rajinikanth",
+        "Suriya",
+        "Dulquer Salmaan"
+      ],
+      "titles": [
+        "O.M",
+        "Amaran",
+        "Ramayana",
+        "Jailer 2",
+        "Scene",
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "O.M trailer review",
+      "Mammootty O.M film",
+      "Dhanush Sai Pallavi O.M",
+      "Rajkumar Periaswamy O.M"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-trailer-review-001.jpg",
+        "caption": "O.M Trailer Review: Mammootty, Dhanush And Sai Pallavi Starrer Promises High-Octane Action",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 03:56:40 +0000"
+  },
+  "1irvzf2": {
+    "id": "1irvzf2",
+    "type": "news",
+    "headline": "Boston Blue Season 2 Episode 6 Bloodlines Episode Rating and Discussion",
+    "dek": "Share your thoughts, rate the latest chapter of Boston Blue titled Bloodlines, and vote for your favorite standout character from the episode.",
+    "body": [
+      {
+        "h": "Diving Into Bloodlines",
+        "p": [
+          "Fans of the hit television series Boston Blue are once again being given the platform to evaluate the latest narrative chapter. Season 2, Episode 6, carrying the official title Bloodlines, has officially arrived on screens, bringing with it a fresh wave of dramatic twists and character developments. As viewers tune in to witness how the unfolding plot affects their favorite law enforcement and justice personnel, dedicated communities are buzzing with anticipation and immediate critiques of the storytelling direction.",
+          "Episodic television often relies heavily on maintaining steady momentum, and this particular installment aims to test narrative boundaries within the established world of the series. With complex familial ties and professional obligations colliding, the narrative offers plenty of material for audiences to dissect. Whether viewers are examining the pacing, the dialogue, or the overarching season arc, Bloodlines provides a rich viewing experience that demands a closer look."
+        ]
+      },
+      {
+        "h": "Interactive Fan Polls and Ratings",
+        "p": [
+          "For those who follow the show closely, rating systems and interactive polls have become an integral part of the weekly viewing ritual. The newly launched episode poll allows followers to grade Bloodlines on a traditional scale ranging from an outstanding five out of five down to zero for entries that failed to hit the mark. These metrics help quantify general audience satisfaction and highlight which narrative choices resonated most strongly with the broad viewership.",
+          "Beyond simple numerical grades, the engagement platform encourages supporters to voice detailed opinions about specific scenes, emotional highs, and any narrative disappointments they encountered. Because episodic television thrives on viewer investment, these community checkpoints offer a vital window into how public perception shifts from week to week during an ongoing broadcast run."
+        ]
+      },
+      {
+        "h": "Standout Character Spotlights",
+        "p": [
+          "A major highlight of the weekly discussion centers on identifying which individual made the strongest impression during the runtime. The episode features a robust lineup of familiar faces, giving audiences plenty of options when voting for the standout performer of the week. Characters driving the narrative forward face intense personal and professional dilemmas, allowing the cast to deliver memorable moments.",
+          "Among the contenders capturing audience attention are Det. Danny Reagan portrayed by Donny Wahlberg, Det. Lena Silver played by Sonequa Martin-Green, and Supt. Sarah Silver brought to life by Maggie Lawson. Additional focal points in the ensemble include Officer Jonah Silver played by Marcus Scribner, Officer Sean Reagan played by Mika Amonsen, and D.A. Mae Silver portrayed by Gloria Reuben."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Extended Ensemble",
+        "p": [
+          "The rich tapestry of the series is further rounded out by veteran performers and supporting figures who shape the weekly conflicts. Rev. Edwin Peters, played by Ernie Hudson, and Gwen Silver, portrayed by Marg Helgenberger, add significant emotional weight and depth to the unfolding dramatic situations. Their interactions with the primary investigators provide essential context for the broader community struggles depicted on screen.",
+          "Rounding out the eligible characters for the weekly spotlight is Phoebe Yates, played by Matia Jackett, who also contributes to the intricate web of personal and professional relationships. The diverse array of talent ensures that different subplots receive adequate attention, giving fans of various characters something substantial to advocate for in the community voting arenas."
+        ]
+      },
+      {
+        "h": "Community Discourse and Spoilers Warning",
+        "p": [
+          "As tradition dictates following the release of a new chapter, community comment sections have opened up for unfiltered conversation regarding plot developments. Participants are encouraged to share their favorite sequences, discuss unexpected turns, and speculate on what might happen next in the storyline. However, organizers have issued standard reminders that these spaces naturally contain detailed plot reveals.",
+          "Viewers who have yet to experience the latest broadcast are strongly advised to delay reading through community reactions until they are fully caught up. The open nature of the forum guarantees that major narrative beats will be discussed freely by those who have already watched the episode, preserving the viewing experience for latecomers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Boston Blue has released Season 2, Episode 6, titled Bloodlines, prompting fans to participate in weekly rating polls and vote for their favorite standout characters from the extensive ensemble cast. The episode features prominent figures such as Det. Danny Reagan and Det. Lena Silver as viewers gather online to discuss plot developments and share their reactions.",
+          "Community platforms continue to host active discussions regarding the latest chapter, offering structured opportunities for audiences to grade the content while advising late viewers to avoid spoiler-heavy comment threads."
+        ]
+      }
+    ],
+    "facts": [
+      "Boston Blue Season 2 Episode 6 is titled Bloodlines.",
+      "Donny Wahlberg plays Det. Danny Reagan.",
+      "Sonequa Martin-Green plays Det. Lena Silver.",
+      "Maggie Lawson plays Supt. Sarah Silver.",
+      "Marcus Scribner plays Officer Jonah Silver.",
+      "Mika Amonsen plays Officer Sean Reagan.",
+      "Gloria Reuben plays D.A. Mae Silver.",
+      "Ernie Hudson plays Rev. Edwin Peters.",
+      "Marg Helgenberger plays Gwen Silver.",
+      "Matia Jackett plays Phoebe Yates."
+    ],
+    "entities": {
+      "people": [
+        "Donny Wahlberg",
+        "Sonequa Martin-Green",
+        "Maggie Lawson",
+        "Marcus Scribner",
+        "Mika Amonsen",
+        "Gloria Reuben",
+        "Ernie Hudson",
+        "Marg Helgenberger",
+        "Matia Jackett"
+      ],
+      "titles": [
+        "Boston Blue"
+      ]
+    },
+    "keywords": [
+      "Boston Blue Bloodlines",
+      "Boston Blue episode 206",
+      "Donny Wahlberg Boston Blue",
+      "Boston Blue review"
+    ],
+    "images": [],
+    "published": "2026-11-14T04:00:00.176+00:00"
   }
 };
