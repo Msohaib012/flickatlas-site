@@ -359,7 +359,7 @@
     if (genres.length) factRows.push(["Genres", UI.esc(genres.join(", "))]);
     if (prodCountries.length) factRows.push(["Production Countries", UI.esc(prodCountries.join(", "))]);
     if (pub.budget) factRows.push(["Budget", UI.fmtMoneyWords(pub.budget)]);
-    if (pub.revenue) factRows.push(["Worldwide Gross", UI.fmtMoneyWords(pub.revenue)]);
+    if (pub.revenue) factRows.push(["Worldwide Gross", `<span data-bo-box="gross">${UI.fmtMoneyWords(pub.revenue)}</span>`]);
 
     const heroFacts = [];
     if (relDate) heroFacts.push(`<div><span>Release Date</span><b>${UI.esc(relDate)}</b></div>`);
@@ -527,8 +527,10 @@
           const html = UI.fmtMoney(metric.amount);
           const wwBox = document.querySelector('[data-bo-box="worldwide"]');
           if (wwBox) wwBox.innerHTML = html;
-          const grossBox = document.querySelector('[data-bo-box="gross"]');
-          if (grossBox) grossBox.innerHTML = html;
+          /* Every Worldwide Gross on the page (Box Office card +
+             Movie Facts) gets the same verified figure, so the page
+             never shows two different totals. */
+          document.querySelectorAll('[data-bo-box="gross"]').forEach((el) => { el.innerHTML = html; });
         } catch (_) { /* keep the synchronous figure */ }
       });
     }

@@ -122,6 +122,14 @@ DAYWISE_HEADER = (
 # WORLDWIDE figure, a running total, or a unit error — reject it
 # rather than average a wrong number into the site.
 MAX_DAY_CR = 120.0
+
+# AI-first (owner order 2026-11-14): AI (Gemini + Tavily — his name
+# "AI Tally") is the PRIMARY box-office lane, direct sources are the
+# backup. When the AI supply step (scripts/ai_daywise_supply.py)
+# contributes a figure for a movie+day, that figure wins over the
+# reader average below; sources fill only what AI missed. The
+# staging filename for the AI lane is tavily-supply.json.
+AI_FIRST_SOURCE = "tavily-supply"
 # Sanity caps for the optional extra fields (same purpose: reject a
 # running total or unit error misread as a day figure).
 MAX_SHOWS = 30000        # most shows in a day: ~16.5k (Jailer 2 Day 1)
@@ -454,16 +462,30 @@ def finalize(collected, extras_collected, primary):
         # into Rs0.00 Cr -> a $0 row, silently losing the day even
         # when a source reported it. USD is computed from the 3dp
         # mean, so a Rs0.001 Cr day finalizes to $106, not $0.
-        if len(crs) >= 2:
-            mean_cr = round(sum(crs) / len(crs), 3)
+        # AI-first (owner order 2026-11-14): when the AI lane supplies
+        # a figure for this movie+day, it wins over the reader mean —
+        # sources fill only what AI missed. The AI figure's date is
+        # validated (release_date + day - 1) by the supply step, so it
+        # is used directly instead of the primary's date.
+        ai_first = AI_FIRST_SOURCE in contribs
+        if ai_first:
+            mean_cr = round(contribs[AI_FIRST_SOURCE][0], 3)
+            dstr = contribs[AI_FIRST_SOURCE][1]
+            disagreed = len({d for (_c, d) in contribs.values()}) > 1
+            print(f"multisource: AI-first {tid} Day {day}: using "
+                  f"{AI_FIRST_SOURCE} Rs{mean_cr:.2f} Cr, skipping "
+                  f"reader average ({sorted(contribs)})")
         else:
-            mean_cr = round(crs[0], 3)
+            if len(crs) >= 2:
+                mean_cr = round(sum(crs) / len(crs), 3)
+            else:
+                mean_cr = round(crs[0], 3)
+            dstr, disagreed = pick_date(contribs, primary)
+            if disagreed:
+                print(f"multisource: WARN {tid} Day {day}: sources disagree "
+                      f"on date {sorted(set(d for (_c, d) in contribs.values()))} "
+                      f"— using {dstr}")
         usd = round(mean_cr * 1e7 / INR_PER_USD)
-        dstr, disagreed = pick_date(contribs, primary)
-        if disagreed:
-            print(f"multisource: WARN {tid} Day {day}: sources disagree "
-                  f"on date {sorted(set(d for (_c, d) in contribs.values()))} "
-                  f"— using {dstr}")
         per_movie = out.setdefault(tid, {})
         per_movie[day] = {
             "date": dstr,
@@ -475,6 +497,7 @@ def finalize(collected, extras_collected, primary):
             "sources": {s: cr for s, (cr, _d) in
                         sorted(contribs.items())},
             "india": True,
+            "ai_first": ai_first,
         }
     extra_means = finalize_extras(extras_collected)
     for (tid, day), fields in extra_means.items():
@@ -559,7 +582,10 @@ def make_sidecar(finalized):
         "schema_version": 2,
         "rule": ("mean of the Rs Cr figures across every source that "
                  "reports a movie+day; single source = that figure; "
-                 "India Net day-wise only; never invented. Extra fields "
+                 "AI-first (owner order 2026-11-14): when the AI lane "
+                 "(tavily-supply) reports a movie+day, its figure wins "
+                 "over the reader mean — sources fill only what AI "
+                 "missed; India Net day-wise only; never invented. Extra fields "
                  "(overseas/shows/occupancy/tickets) are averaged the "
                  "same way across the sources that report each field; "
                  "a missing field stays absent. India Net and Overseas "

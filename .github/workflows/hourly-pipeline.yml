@@ -285,6 +285,16 @@ jobs:
             rm -f "$EVIDENCE"
             python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging --evidence-out "$EVIDENCE" || echo "tavily search failed; retaining last-good Tavily staging"
             python3 scripts/gemini_boxoffice.py --evidence "$EVIDENCE" --staging out/boxoffice-staging --out out/boxoffice-staging/tavily.json || echo "Gemini review failed; retaining last-good Tavily staging"
+            # AI supply (owner order 2026-11-14, AI Tally first): Gemini
+            # + Tavily supplies missing India Net days for published
+            # movies with no day-wise rows at all. Writes
+            # out/boxoffice-staging/tavily-supply.json, which the
+            # multisource engine below prefers over the reader average.
+            # Fail-open: the pipeline's Tavily secret is dead in effect
+            # (48/48 searches fail), so this step usually does nothing
+            # in CI until the secret is fixed — the figures are seeded
+            # from a local run meanwhile (see ai_daywise_supply.py).
+            python3 scripts/ai_daywise_supply.py --root . || echo "AI supply failed; retaining last-good tavily-supply staging"
           else
             echo "tavily/Gemini verification not due this run (runs hourly via the pipeline schedule)"
           fi

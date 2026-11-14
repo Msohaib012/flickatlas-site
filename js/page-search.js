@@ -21,9 +21,9 @@
   const main = document.getElementById("app");
   const q = (UI.pageQuery().get("q") || "").trim();
   UI.setSEO({ title: q ? `Search results for “${q}” | FlickAtlas` : "Search FlickAtlas", desc: "Search published movies, TV series, people and news on FlickAtlas.", path: "/search" + (q ? `?q=${encodeURIComponent(q)}` : "") });
-  main.innerHTML = `<div class="wrap"><div class="page-hero"><h1>Search FlickAtlas</h1></div><form class="search-form" action="/search" method="get"><input type="search" name="q" value="${UI.esc(q)}" placeholder="Try a title, person or story" aria-label="Search query"><button class="btn btn-teal" type="submit">Search</button></form><div id="results" style="margin-top:26px" aria-live="polite"></div></div>`;
+  main.innerHTML = `<div class="wrap"><div class="page-hero"><h1>Search FlickAtlas</h1></div><div id="results" style="margin-top:26px" aria-live="polite"></div></div>`;
   const results = main.querySelector("#results");
-  if (!q) { results.innerHTML = `<p style="color:var(--muted)">Type a title, name or story above to get started.</p>`; return; }
+  if (!q) { results.innerHTML = `<p style="color:var(--muted)">Use the search box in the header above to get started.</p>`; return; }
 
   const norm = v => String(v == null ? "" : v).toLocaleLowerCase().replace(/[^a-z0-9\s]+/g, " ").replace(/\s+/g, " ").trim();
   const qNorm = norm(q);
@@ -144,6 +144,10 @@
   if (peopleById.size) categories.push(["person", "People / celebrities"]);
   categories.push(["boxoffice", "Box Office"]);
   categories.push(["news", "News"]);
+  /* Owner order 2026-11-14: a category with zero loaded matches is
+     not shown at all — no empty section, no "(0 loaded matches)"
+     heading, and no option in the Show dropdown for it. */
+  const shownCategories = categories.filter(([key]) => (groups[key] || []).length > 0);
 
   function section(key) {
     const rows = groups[key] || [];
@@ -244,11 +248,20 @@
     return `<section class="search-group" aria-labelledby="search-tmdb"><h2 id="search-tmdb">More results from TMDB <small>(${rows.length} match${rows.length === 1 ? "" : "es"})</small></h2><p class="search-date-note">These titles come from TMDB, not from FlickAtlas's published catalogue — opening one shows its detail page if it has been catalogued, otherwise the usual not-published state.</p><div class="search-results">${cards}</div></section>`;
   }
   function renderResults() {
-    const shown = show === "all" ? categories : categories.filter(([key]) => key === show);
-    groupsHost.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${shown.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${shown.map(c => section(c[0])).join("")}${tmdbSectionHtml()}`;
+    const shown = show === "all" ? shownCategories : shownCategories.filter(([key]) => key === show);
+    const tmdbHtml = tmdbSectionHtml();
+    /* When every local group is empty and the TMDB fallback is done
+       with nothing, say so plainly instead of an empty page. While
+       the TMDB call is still in flight, show nothing yet — it may
+       still fill the page. */
+    const noResults = (!shown.length && !tmdbHtml && tmdbFallback && tmdbFallback.done)
+      ? `<p>No results found for “${UI.esc(q)}”. Try a different title, name or story.</p>` : "";
+    const navHtml = shown.length
+      ? `<nav class="search-category-nav" aria-label="Jump to search category">${shown.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>` : "";
+    groupsHost.innerHTML = `${navHtml}${noResults}${shown.map(c => section(c[0])).join("")}${tmdbHtml}`;
   }
   UI.mountFaSelect(results.querySelector("#searchFilterHost .filter-select"),
-    [{ value: "all", label: "All results" }, ...categories.map(([key, label]) => ({ value: key, label }))],
+    [{ value: "all", label: "All results" }, ...shownCategories.map(([key, label]) => ({ value: key, label }))],
     show, (v) => { show = v; renderResults(); });
   renderResults();
   /* Kick off the TMDB fallback for every non-empty query (2026-11-14):
