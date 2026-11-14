@@ -143880,5 +143880,433 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 06:46:50 +0000"
+  },
+  "19u7kjv": {
+    "id": "19u7kjv",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 9: Ranbir Kapoor, Yash, Sai Pallavi's Epic Sails Past ₹1100 Crore, Beats Pathaan, Kalki 2898 AD",
+    "dek": "Ranbir Kapoor, Yash, and Sai Pallavi's mythological drama Ramayana crosses the ₹1100 crore mark worldwide on day 9, surpassing previous records set by major blockbusters.",
+    "body": [
+      {
+        "h": "Milestone Crossed on Day 9",
+        "p": [
+          "The mythological cinematic epic Ramayana has continued its remarkable theatrical journey by surging past the ₹1100 crore milestone globally on its ninth day. Benefiting from steady momentum following its holiday release window, the film achieved this dramatic feat by commanding strong numbers both domestically and internationally.",
+          "Trade trackers have noted that the global tally positions the feature among the fastest-climbing pictures of recent years. The momentum highlights sustained audience interest in major cinematic storytelling across multiple territories."
+        ]
+      },
+      {
+        "h": "Domestic and Overseas Earnings Breakdown",
+        "p": [
+          "According to data from tracking agency Sacnilk, the domestic gross for the feature reached ₹732.50 crore. Meanwhile, international markets contributed an additional ₹25 crore on day 9 alone, pushing the overseas gross total to ₹378.50 crore.",
+          "Combined, these figures bring the overall worldwide box office gross to ₹1111 crore. The film also successfully crossed the ₹1000 crore threshold within just eight days of its theatrical rollout."
+        ]
+      },
+      {
+        "h": "Comparing Against All-Time Blockbusters",
+        "p": [
+          "In terms of speed to the ₹1000 crore club, Ramayana trails only Pushpa 2: The Rule and Dhurandhar: The Revenge, both of which achieved the milestone in seven days. However, it outpaced several major titles including Baahubali 2, which took 10 days, and RRR, which required 16 days.",
+          "The film's trajectory also proved faster than KGF: Chapter 2, Jawan, and Pathaan. On day 9 specifically, it outperformed the comparative figures of earlier hits like Kalki 2898 AD and Pathaan."
+        ]
+      },
+      {
+        "h": "The Global Box Office Race",
+        "p": [
+          "Despite Ramayana posting strong day-9 figures, Aditya Dhar's Dhurandhar 2: The Revenge continues to maintain the top spot in the overall worldwide race. Dhurandhar 2 holds an Indian gross of ₹857.19 crore and added ₹23 crore internationally on its ninth day, elevating its global total to ₹1151.19 crore.",
+          "This keeps Dhurandhar 2 ahead in cumulative worldwide earnings even as Ramayana closes the gap with competitive daily increments in overseas territories."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana arrived in cinemas on November 5, 2026, coinciding with the Diwali festive period. The multi-starrer features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana.",
+          "Additional key cast members include Sunny Deol as Hanuman and Arun Govil as King Dashrath. The feature was distributed in Hindi, Tamil, Telugu, Kannada, and Malayalam as the first installment of a planned two-part saga, with the second part scheduled for 2028."
+        ]
+      },
+      {
+        "h": "Upcoming Festival Screening at IFFI",
+        "p": [
+          "Beyond its commercial success in theaters, Ramayana has been selected to inaugurate the BRICS segment at the 57th edition of the International Film Festival of India. The event is set to begin in Goa on November 20, 2026.",
+          "As the first screening in this specific category, the feature will represent Indian cinema alongside selections from all 11 BRICS member nations and partner countries, aiming to highlight diverse storytelling styles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed ₹1100 crore worldwide on day 9, surpassing previous milestones set by films like Pathaan and Kalki 2898 AD. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film is also slated to open the BRICS segment at the 57th International Film Festival of India."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed ₹1100 crore worldwide on day 9.",
+      "The domestic gross stands at ₹732.50 crore.",
+      "Overseas gross on day 9 added ₹25 crore, reaching ₹378.50 crore internationally.",
+      "Total worldwide collection reached ₹1111 crore.",
+      "The film crossed the ₹1000 crore mark in eight days.",
+      "Dhurandhar 2: The Revenge holds a worldwide collection of ₹1151.19 crore.",
+      "Ramayana released on November 5, 2026.",
+      "The 57th International Film Festival of India begins in Goa on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Arun Govil",
+        "Shah Rukh Khan",
+        "Prabhas",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Dhurandhar 2: The Revenge",
+        "Pushpa 2: The Rule",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2",
+        "RRR",
+        "KGF: Chapter 2",
+        "Jawan",
+        "Pathaan",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana worldwide collection day 9",
+      "Ramayana Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Ranbir-Kapoor-Ramayana_1794640113822_ihUj_1794640120153_qlwb_47687438-3360-4deb-9e86-1a8e3202dfd6_H4au.png",
+        "caption": "Ramayana Worldwide Box Office Collection Day 9: Ranbir Kapoor, Yash, Sai Pallavi's Epic Sails Past ₹1100 Crore, Beats Pa",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 12:39:43 +0530"
+  },
+  "1qboato": {
+    "id": "1qboato",
+    "type": "news",
+    "headline": "Emma Stone and Julianne Moore Praise Jesse Eisenberg's Music in 'The Debut'",
+    "dek": "Following a screening of his A24 community theater comedy, writer-director Jesse Eisenberg discussed crafting the film's original tracks alongside stars Julianne Moore, Paul Giamatti, Halle Bailey, and producer Emma Stone.",
+    "body": [
+      {
+        "h": "The Musical Mind of Jesse Eisenberg",
+        "p": [
+          "Filmmaker and creator Jesse Eisenberg took the stage at the Academy Museum's David Geffen Theater following a special screening of his A24 community theater comedy. During the post-screening conversation, the multi-hyphenate artist opened up about composing every original song featured in the picture. Rather than viewing his musical output as a grand artistic ambition, Eisenberg joked about his creative limitations.",
+          "He shared that while he approaches his work aspiring to channel legendary rock icons, the final product frequently resembles theatrical Broadway compositions. He noted that writing annual 24-hour benefit musicals in New York forced him to become accustomed to overnight songwriting under strict time limits, shaping his distinct musical style."
+        ]
+      },
+      {
+        "h": "Crafting a Safe Net for the Audience",
+        "p": [
+          "Despite taking full responsibility for the film's soundtrack, Eisenberg deliberately structured the movie so that viewers would not feel dependent on the musical numbers to enjoy the story. He remarked that he established a safety net to ensure the narrative remains strong even for individuals who might dislike the music.",
+          "His collaborators, however, were quick to defend the quality of the work. Producer Emma Stone expressed her surprise upon discovering the extensive catalogue of demos and tracks Eisenberg had quietly developed, praising the music and expressing a desire to witness a full stage version of the musical."
+        ]
+      },
+      {
+        "h": "Cast Reactions to Recording the Songs",
+        "p": [
+          "Halle Bailey, who contributed her vocals to the project, described a wonderful recording experience. Having started her own career performing in youth productions as a child, she expressed genuine admiration for Eisenberg's unexpected songwriting abilities.",
+          "Julianne Moore approached the recording booth with more trepidation. Portraying a repressed individual discovering community theater, Moore admitted that singing on camera felt daunting, particularly when listening to co-stars perform with incredible vocal talent down the hall. Nevertheless, she noted that the music provided her with unique emotional layers to explore as a performer."
+        ]
+      },
+      {
+        "h": "Effortless Collaboration With Lead Actors",
+        "p": [
+          "Eisenberg had high praise for his veteran lead actors, Julianne Moore and Paul Giamatti, noting a remarkable achievement during production. According to the director, nearly every scene featuring the pair utilized either the first or second take.",
+          "He emphasized that this efficiency was not due to time constraints, but rather the exceptional preparedness and precision of both performers. Having admired their work for decades since watching them in youth-accessible cinema—including Giamatti's villainous turn in a 2002 family comedy—Eisenberg expressed deep gratitude for their professional dedication."
+        ]
+      },
+      {
+        "h": "Channeling the Beginner Experience",
+        "p": [
+          "For Moore, portraying someone entirely new to the theatrical arts felt surprisingly natural. She reflected on how easily actors can access the vulnerable feeling of being a beginner.",
+          "She pointed out that performers acutely remember the awkwardness of not knowing how to control their physical movements, manage their voices, or match energy levels on stage. Tapping into that unfamiliarity allowed her to authentically inhabit a character finding her voice later in life."
+        ]
+      },
+      {
+        "h": "A Longstanding Creative Partnership",
+        "p": [
+          "The connection between Eisenberg and Emma Stone extends far beyond their current project. The pair initially bonded over shared community theater upbringings while filming an action-comedy together in 2009, though Stone humorously noted her hometown theater group in Phoenix performed significantly more shows than Eisenberg's New Jersey troupe.",
+          "Stone has now successfully produced every film directed by Eisenberg. He lauded her sharp business acumen, noting that her strategic insights during marketing meetings consistently command the complete attention of corporate professionals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jesse Eisenberg discussed writing the music for his A24 community theater comedy during an Academy Museum Q and A alongside cast members Julianne Moore, Paul Giamatti, Halle Bailey, and producer Emma Stone. The collaborators praised the film's original songs and highlighted the seamless first-take performances delivered by the lead actors.",
+          "The event underscored the deep creative partnership between Eisenberg and Stone, who has now produced all three of his directorial features."
+        ]
+      }
+    ],
+    "facts": [
+      "Jesse Eisenberg wrote every song in The Debut.",
+      "The post-screening Q and A took place at the Academy Museum's David Geffen Theater on a Friday night.",
+      "Paul Giamatti played a villain in the 2002 family comedy Big Fat Liar.",
+      "Emma Stone has produced all three films directed by Jesse Eisenberg.",
+      "Jesse Eisenberg and Emma Stone first worked together while shooting Zombieland in 2009."
+    ],
+    "entities": {
+      "people": [
+        "Emma Stone",
+        "Julianne Moore",
+        "Jesse Eisenberg",
+        "Paul Giamatti",
+        "Halle Bailey",
+        "Stephen Schwartz",
+        "Colton Ryan",
+        "Denton Davidson",
+        "Zombieland"
+      ],
+      "titles": [
+        "The Debut",
+        "Big Fat Liar",
+        "The Odyssey",
+        "Wild Horse Nine",
+        "La Bola Negra",
+        "Werwulf",
+        "Project Hail Mary",
+        "Wildwood",
+        "Naza",
+        "The Good Daughter",
+        "How to Divorce During the War",
+        "Ebenezer",
+        "You Can See Everything",
+        "Artificial",
+        "The Wiz"
+      ]
+    },
+    "keywords": [
+      "Jesse Eisenberg The Debut songs",
+      "Julianne Moore The Debut",
+      "Emma Stone Jesse Eisenberg movie",
+      "Paul Giamatti Julianne Moore comedy"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/GettyImages-2295144043.jpg?w=650",
+        "caption": "Emma Stone and Julianne Moore Praise Jesse Eisenberg's Music in 'The Debut'",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 07:45:00 +0000"
+  },
+  "121uahe": {
+    "id": "121uahe",
+    "type": "news",
+    "headline": "Trade Expert Sumit Kadel Predicts Massive Rs 55-65 Crore Opening Day for Shah Rukh Khan's King",
+    "dek": "Trade analyst Sumit Kadel shares his predictions for Shah Rukh Khan's upcoming action thriller King, addressing potential box office clashes and opening day expectations.",
+    "body": [
+      {
+        "h": "Anticipated Christmas Release",
+        "p": [
+          "Followers of Shah Rukh Khan are eagerly counting down the days until Christmas, marking the superstar's much-awaited return to the silver screen after a three-year hiatus.",
+          "The upcoming project, titled King, is positioned as a major holiday attraction and has generated immense buzz across social media and entertainment platforms."
+        ]
+      },
+      {
+        "h": "Production and Star-Studded Cast",
+        "p": [
+          "Helmed by director Siddharth Anand, King is structured as an action thriller and receives joint production backing from Red Chillies Entertainment and Marflix Pictures.",
+          "The film features an expansive ensemble cast that includes Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Rani Mukerji, Jaideep Ahlawat, Jackie Shroff, Raghav Juyal, and Abhay Verma."
+        ]
+      },
+      {
+        "h": "Suhana Khan's Theatrical Debut",
+        "p": [
+          "Significantly, the feature serves as the theatrical debut for Suhana Khan, marking her inaugural cinematic collaboration alongside her father Shah Rukh Khan.",
+          "Initial promotional assets, including the first look and teaser, have successfully heightened audience excitement for this unique father-daughter pairing."
+        ]
+      },
+      {
+        "h": "Music and Promotional Momentum",
+        "p": [
+          "Prior to its theatrical arrival, the movie has already started building strong momentum with the release of its first song, Tu Mil Jaaye.",
+          "The track has resonated widely with viewers, emerging as a viral hit and amplifying anticipation for the remainder of the soundtrack."
+        ]
+      },
+      {
+        "h": "Trade Expert Opening Day Forecast",
+        "p": [
+          "Trade expert Sumit Kadel weighed in on the film's commercial prospects in an exclusive conversation, suggesting a phenomenal start if the promotional campaign delivers.",
+          "According to Kadel, a compelling trailer on par with Pathaan or Jawan could propel the Hindi version to net between Rs 55 crore and Rs 65 crore on December 24."
+        ]
+      },
+      {
+        "h": "Christmas Weekend Potential",
+        "p": [
+          "Kadel further noted that positive audience word-of-mouth could lead to extraordinary box office numbers over the December 25, 26, and 27 Christmas weekend.",
+          "The combination of the holiday period and a superhit viral track positions the feature to dominate multiplexes during its opening frame."
+        ]
+      },
+      {
+        "h": "Addressing the Hollywood Clash",
+        "p": [
+          "Regarding potential competition from the Hollywood release Avengers Doomsday, Kadel expressed confidence that it would not severely hinder King's theatrical run.",
+          "He explained that since Avengers Doomsday will derive the majority of its business within its initial eight days, any clash would cause minimal disruption to the Shah Rukh Khan starrer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade expert Sumit Kadel predicts that Shah Rukh Khan's upcoming action thriller King could achieve an opening day collection of Rs 55-65 crore on December 24, provided its trailer matches the scale of Pathaan or Jawan.",
+          "Directed by Siddharth Anand and slated for a worldwide holiday release, the film faces little threat from competing Hollywood titles like Avengers Doomsday and marks the theatrical debut of Suhana Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "King is scheduled for release on December 24, 2026.",
+      "Sumit Kadel predicted an opening day collection of Rs 55-65 crore for the Hindi version.",
+      "Shah Rukh Khan and Deepika Padukone are collaborating for the sixth time.",
+      "The film is directed by Siddharth Anand and produced by Red Chillies Entertainment and Marflix Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Raghav Juyal",
+        "Abhay Verma",
+        "Suhana Khan",
+        "Sumit Kadel"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Pathaan",
+        "Jawan",
+        "Avengers Doomsday",
+        "Om Shanti Om",
+        "Chennai Express",
+        "Happy New Year"
+      ]
+    },
+    "keywords": [
+      "King movie",
+      "Shah Rukh Khan King",
+      "Sumit Kadel box office prediction",
+      "King opening day collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kingboxofficefeature-94081794641330.jpg",
+        "caption": "Trade Expert Sumit Kadel Predicts Massive Rs 55-65 Crore Opening Day for Shah Rukh Khan's King",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 13:00:48 +0530"
+  },
+  "2zcso3": {
+    "id": "2zcso3",
+    "type": "news",
+    "headline": "Brandon Sanderson's Stormlight: Faith Fury Officially Unveiled",
+    "dek": "Faith Fury has been officially revealed as part of Brotherwise Games' Stormlight: War for Roshar tabletop adaptation, bringing new strategic depth to the Cosmere franchise.",
+    "body": [
+      {
+        "h": "Introduction to Faith Fury",
+        "p": [
+          "Fans of Brandon Sanderson's expansive literary universe have plenty of new developments to anticipate across multiple mediums. Among the most exciting recent reveals is Stormlight: Faith Fury, an unexpected bonus addition for tabletop enthusiasts following the massive crowdfunding success of the franchise's latest board game adaptation.",
+          "This new expansion content stems directly from the ongoing conflict between Honor and Odium, capturing the essence of the novels in a fresh format."
+        ]
+      },
+      {
+        "h": "Kickstarter Success and Stretch Goals",
+        "p": [
+          "The announcement of Faith Fury followed a wildly successful crowdfunding campaign for Stormlight: War for Roshar. Initially setting a modest goal of 15 stretch goals, the campaign ultimately unlocked a staggering 29 rewards for eager supporters.",
+          "In total, the crowdfunding effort brought in more than $3.6 million with backing from over 15,000 individuals, proving the immense enduring popularity of Sanderson's Cosmere intellectual property."
+        ]
+      },
+      {
+        "h": "Mechanics and Action Cards",
+        "p": [
+          "Faith Fury introduces distinct action cards designed to reflect the ideological struggles of the books into tabletop gameplay mechanics. One prominent card, titled One More Try, features Kaladin Stormblessed and allows players to retrieve and play a card from their discard pile.",
+          "Another card, Odium's Influence, provides a darker tactical option by letting participants enrage neutral troops, mirroring the complex and fraught political landscape of Roshar."
+        ]
+      },
+      {
+        "h": "Additional Campaign Rewards",
+        "p": [
+          "Beyond Faith Fury, the crowdfunding campaign unlocked several other noteworthy expansions for the game. These additions include the Truthless stretch goal featuring Szeth as a playable leader, along with Divided Loyalties introducing Sja-Anat and Venli as champions.",
+          "Furthermore, backers unlocked a brand new Solo Mode, redesigned miniatures for all 12 leaders, special holofoil cards, and additional objectives to deepen replayability."
+        ]
+      },
+      {
+        "h": "Gameplay and Board Game Overview",
+        "p": [
+          "Designed by John D. Clair and published by Brotherwise Games, Stormlight: War for Roshar is an epic strategy board game accommodating one to four players. Participants command well-known figures like Dalinar, Kaladin, Raboniel, and Taravangian.",
+          "Players must carefully manage resources, build armies, recruit allies, and utilize Surgebinding abilities while balancing diplomacy, controlling Oathgates, and fulfilling strategic objectives to secure victory."
+        ]
+      },
+      {
+        "h": "Future Timeline and Broader Franchise",
+        "p": [
+          "The board game is currently scheduled for Kickstarter fulfillment in November 2027, with a wider retail release expected to follow afterward. This adds to a busy period for the franchise, which also includes an upcoming live-action series in development at Apple TV.",
+          "Additionally, author Brandon Sanderson recently confirmed plans to begin outlining the Back Five novels of The Stormlight Archive starting in early 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brandon Sanderson's Stormlight: Faith Fury has been officially revealed as part of a successful Kickstarter campaign for Brotherwise Games' Stormlight: War for Roshar. The campaign raised over $3.6 million, unlocking numerous stretch goals alongside the tabletop game's planned November 2027 fulfillment."
+        ]
+      }
+    ],
+    "facts": [
+      "Brandon Sanderson confirmed he will start outlining the Back Five novels of The Stormlight Archive starting early 2027.",
+      "Apple TV is developing a live-action Stormlight Archive series with Brandon Sanderson involved.",
+      "Brotherwise Games' Stormlight: War for Roshar Kickstarter campaign raised over $3.6 million.",
+      "Faith Fury is a stretch goal unlocked during the Kickstarter campaign.",
+      "Faith Fury introduces action cards such as One More Try and Odium's Influence.",
+      "The Kickstarter campaign initially planned for 15 stretch goals and ultimately unlocked 29.",
+      "The Truthless stretch goal introduces Szeth as a playable leader.",
+      "Divided Loyalties adds Sja-Anat and Venli as champions.",
+      "Stormlight: War for Roshar is designed by John D. Clair and supports one to four players.",
+      "Playable characters in the board game include Dalinar, Kaladin, Raboniel, and Taravangian.",
+      "The Kickstarter campaign had more than 15,000 backers.",
+      "Kickstarter fulfillment for Stormlight: War for Roshar is currently targeting November 2027."
+    ],
+    "entities": {
+      "people": [
+        "Brandon Sanderson",
+        "John D. Clair",
+        "Kaladin",
+        "Szeth",
+        "Sja-Anat",
+        "Venli",
+        "Dalinar",
+        "Raboniel",
+        "Taravangian"
+      ],
+      "titles": [
+        "The Stormlight Archive",
+        "Stormlight: Faith Fury",
+        "Stormlight: War for Roshar"
+      ]
+    },
+    "keywords": [
+      "Brandon Sanderson Stormlight",
+      "Stormlight War for Roshar",
+      "Faith Fury board game",
+      "Brotherwise Games Cosmere RPG"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/the-cover-of-words-of-radiance.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Brandon Sanderson's Stormlight: Faith Fury Officially Unveiled",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 07:30:18 GMT"
   }
 };

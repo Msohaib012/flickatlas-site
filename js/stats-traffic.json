@@ -1,89 +1,89 @@
 {
   "connected": true,
-  "generated": "2026-11-14T07:01:22Z",
+  "generated": "2026-11-14T07:52:19Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
-    "users": 75,
-    "pageviews": 114,
-    "sessions": 79,
-    "avg_session_seconds": 41.9
+    "users": 86,
+    "pageviews": 159,
+    "sessions": 93,
+    "avg_session_seconds": 61.6
   },
   "last7": {
-    "users": 267,
-    "pageviews": 479,
-    "sessions": 313,
-    "avg_session_seconds": 42.3
+    "users": 278,
+    "pageviews": 524,
+    "sessions": 327,
+    "avg_session_seconds": 47.9
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 79,
-      "avg_time_seconds": 178.1
+      "views": 91,
+      "avg_time_seconds": 208.4
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 18,
-      "avg_time_seconds": 29.5
+      "views": 19,
+      "avg_time_seconds": 27.8
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 10.0
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 24.0
+      "views": 17,
+      "avg_time_seconds": 9.9
     },
     {
       "path": "/search",
       "title": "Search Movies, TV Shows & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 25.7
+      "views": 17,
+      "avg_time_seconds": 23.9
+    },
+    {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 15,
+      "avg_time_seconds": 24.1
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 7.7
+      "views": 14,
+      "avg_time_seconds": 7.4
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 9.6
+      "views": 14,
+      "avg_time_seconds": 9.2
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 14.6
+      "views": 13,
+      "avg_time_seconds": 13.7
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 11.7
+      "views": 13,
+      "avg_time_seconds": 11.6
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 9.5
+      "views": 13,
+      "avg_time_seconds": 8.8
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 290,
-      "users": 256
+      "sessions": 304,
+      "users": 267
     },
     {
       "source": "(not set)",
@@ -107,15 +107,15 @@
   "countries": [
     {
       "country": "Singapore",
-      "users": 49
+      "users": 52
     },
     {
       "country": "United States",
-      "users": 49
+      "users": 51
     },
     {
       "country": "Brazil",
-      "users": 42
+      "users": 45
     },
     {
       "country": "Hong Kong",
@@ -123,11 +123,11 @@
     },
     {
       "country": "Argentina",
-      "users": 16
+      "users": 18
     },
     {
       "country": "Vietnam",
-      "users": 15
+      "users": 16
     },
     {
       "country": "Pakistan",
@@ -135,21 +135,21 @@
     },
     {
       "country": "Bangladesh",
-      "users": 10
+      "users": 11
+    },
+    {
+      "country": "Indonesia",
+      "users": 11
     },
     {
       "country": "Japan",
-      "users": 10
-    },
-    {
-      "country": "Malaysia",
       "users": 10
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 262
+      "users": 273
     },
     {
       "device": "mobile",
