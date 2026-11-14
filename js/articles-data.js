@@ -144308,5 +144308,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 07:30:18 GMT"
+  },
+  "3b9asx": {
+    "id": "3b9asx",
+    "type": "news",
+    "headline": "OM Trailer Reactions: Internet Calls Dhanush Absolute Inferno, Say Hype Is Real",
+    "dek": "The trailer for OM – Chapter 1: Udhiram – The Blood Wood brings Dhanush, Mammootty, and Sai Pallavi together, sparking intense excitement online ahead of its theatrical debut.",
+    "body": [
+      {
+        "h": "Trailer Release Sparks Online Buzz",
+        "p": [
+          "The newly dropped trailer for the upcoming film OM – Chapter 1: Udhiram – The Blood Wood has generated massive excitement across the internet. Scheduled for a theatrical debut on November 20, the nearly three-minute preview has given enthusiasts plenty of details to discuss.",
+          "Audiences have taken readily to social media platforms to express their anticipation. Viewers are particularly captivated by the striking appearances of the lead cast and the gritty premise of the project."
+        ]
+      },
+      {
+        "h": "Cast Performances Draw Praise",
+        "p": [
+          "Dhanush has received an overwhelming response for his intense transformation in the footage. Several fans on the internet have labeled the lead actor an absolute inferno, noting that the pre-release hype surrounding the project is fully justified.",
+          "Sai Pallavi has also won significant appreciation for her striking screen presence and expressive performance. Furthermore, the combination of Dhanush and Mammootty sharing the screen has emerged as a major talking point for film enthusiasts."
+        ]
+      },
+      {
+        "h": "Action and Technical Elements",
+        "p": [
+          "The visual scale and action choreography within the forest setting have impressed numerous watchers. Particular attention has been drawn to the blood-soaked fight sequences staged against the backdrop of the Seshachalam forests.",
+          "While many viewers commended the editing and overall visual execution, opinions on the audio design remained divided. Some internet users pointed out that the heavy background score tended to overshadow the dialogue delivery, suggesting that the sound mixing could have been improved."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Set against the illegal red sandalwood trade in Andhra Pradesh, the narrative establishes a dangerous operation within regional forests. Dhanush portrays an undercover police officer who successfully infiltrates the smuggling network.",
+          "Sai Pallavi takes on the role of an IPS officer heading the operation. Meanwhile, Mammootty appears as an enigmatic character who exercises control over the illegal trade operations."
+        ]
+      },
+      {
+        "h": "Director and Background",
+        "p": [
+          "The feature is written and directed by National Award-winning filmmaker Rajkumar Periasamy. The storyline centers on a joint law enforcement operation by the police forces of Andhra Pradesh and Tamil Nadu to dismantle the red sandalwood smuggling ring.",
+          "Dhanush is also serving as the producer for this cinematic venture. The creative team has aimed to deliver a high-stakes crime drama with extensive regional appeal."
+        ]
+      },
+      {
+        "h": "Release Schedule Adjustments",
+        "p": [
+          "The movie was originally slated to arrive in cinemas on October 16. However, the release plans were revised out of respect for Rajinikanth's Jailer 2.",
+          "Additionally, the producers opted to avoid the crowded Diwali festival window to ensure a clear theatrical run for Suriya's Scene. The film is now set for a worldwide cinematic release on November 20."
+        ]
+      },
+      {
+        "h": "Language Offerings",
+        "p": [
+          "OM – Chapter 1: Udhiram – The Blood Wood will arrive in theaters in its original Tamil language. Additionally, the makers have arranged dubbed versions to cater to wider audiences.",
+          "The dubbed editions will be available in Telugu, Hindi, Malayalam, and Kannada, allowing fans across different regions to experience the crime drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer release for OM – Chapter 1: Udhiram – The Blood Wood has generated strong online reactions for its lead performances and action sequences ahead of its November 20 global release. Directed by Rajkumar Periasamy, the crime drama stars Dhanush, Sai Pallavi, and Mammootty in a story centered on the red sandalwood smuggling trade."
+        ]
+      }
+    ],
+    "facts": [
+      "November 20, 2026",
+      "October 16, 2026",
+      "Rajkumar Periasamy",
+      "Dhanush",
+      "Mammootty",
+      "Sai Pallavi",
+      "Rajinikanth",
+      "Suriya"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy",
+        "Rajinikanth",
+        "Suriya"
+      ],
+      "titles": [
+        "OM – Chapter 1: Udhiram – The Blood Wood",
+        "Jailer 2",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "OM trailer",
+      "Dhanush OM film",
+      "Mammootty Sai Pallavi",
+      "Udhiram The Blood Wood"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/om-trailer-144258449-16x9_0.jpg?VersionId=y4pcAqu.JfjIK5vzmaK46nxsZBvPDPSd",
+        "caption": "OM Trailer Reactions: Internet Calls Dhanush Absolute Inferno, Say Hype Is Real",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 14:14:12 +0530"
+  },
+  "14a5f3n": {
+    "id": "14a5f3n",
+    "type": "news",
+    "headline": "Holby City Revival Hopes Rise as Netflix Prepares to Stream the Classic Medical Drama",
+    "dek": "Fans of the long-running medical soap opera are speculating about a potential comeback as classic episodes head to a major streaming platform.",
+    "body": [
+      {
+        "h": "A Surprising Streaming Arrival",
+        "p": [
+          "In a development that has surprised many followers of British television, episodes from the beloved medical drama are making their way to Netflix. The announcement has sparked fresh discussions across social media regarding the future of the beloved program and whether a return to screens might eventually be possible.",
+          "For millions of households, the arrival on a major global streaming service means that both nostalgic longtime viewers and an entirely fresh audience can experience the high-stakes hospital environment for themselves."
+        ]
+      },
+      {
+        "h": "Two Decades on British Television",
+        "p": [
+          "Throughout its extensive run on air, the medical series captivated audiences with a mixture of intense medical emergencies, intricate romantic entanglements, and dramatic workplace politics. Viewers grew deeply attached to the dedicated doctors and nurses who populated the wards week after week.",
+          "Over the course of more than two decades, the program established itself as a foundational element of evening television, turning its fictional hospital into a familiar and comforting setting for millions of devoted fans."
+        ]
+      },
+      {
+        "h": "The Painful Decision to Cancel",
+        "p": [
+          "Despite its enduring popularity and massive cultural footprint, the announcement that the program was facing cancellation came as a devastating blow to its community of supporters. The sudden halt brought an end to an era of appointment viewing that had lasted for generations.",
+          "The final broadcast reached its emotional conclusion in March of 2022, forcing viewers to bid a permanent farewell to characters and storylines that had become integral parts of their weekly routines."
+        ]
+      },
+      {
+        "h": "Details on the Netflix Release",
+        "p": [
+          "The streaming giant has scheduled both the main medical show and its sister program to appear on the platform with episodes slated to drop on November 23. At this stage, platform operators have kept exact details under wraps regarding which specific installments or seasons will be featured.",
+          "While previous episodes disappeared from the BBC iPlayer platform, fans have retained access to classic installments via alternative streaming destinations such as U, while sister program Casualty maintains availability through other digital channels."
+        ]
+      },
+      {
+        "h": "Sparks of Revival Speculation",
+        "p": [
+          "The introduction of the series to such a massive global subscriber base has naturally reignited conversations about whether the program could follow in the footsteps of other revived television franchises. Supporters have long maintained hope that another network or platform might step in to resurrect the hospital halls.",
+          "Streaming acquisitions frequently serve as a testing ground to gauge audience interest and demographic reach, leaving hopeful viewers wondering if this digital move could lay the groundwork for future new content."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Classic episodes of the long-running medical drama are heading to Netflix on November 23, giving both old fans and new viewers a chance to watch the show again. This major streaming development has naturally revived speculation among supporters about whether the beloved program could eventually return for a full revival."
+        ]
+      }
+    ],
+    "facts": [
+      "Holby City ran for 23 years before ending.",
+      "The final episode of Holby City aired in March 2022.",
+      "Holby City and Casualty are scheduled to drop on Netflix on November 23.",
+      "Classic episodes of Holby City are available on U."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Holby City",
+        "Casualty"
+      ]
+    },
+    "keywords": [
+      "Holby City Netflix",
+      "Holby City revival",
+      "Casualty Netflix",
+      "Holby City episodes"
+    ],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2026/06/SEI_300630730-27e1.jpg?quality=90&strip=all&w=555&resize=200,200&zoom=1",
+        "caption": "Holby City Revival Hopes Rise as Netflix Prepares to Stream the Classic Medical Drama",
+        "source": "Metro — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T08:52:27Z"
+  },
+  "1rufv0h": {
+    "id": "1rufv0h",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1000 crore worldwide",
+    "dek": "The mythological epic Ramayana: Rise of a Legend continues its historic box office run, racing past massive domestic and international milestones by its second weekend.",
+    "body": [
+      {
+        "h": "Record Breaking Opening Week",
+        "p": [
+          "The mythological epic Ramayana: Rise of a Legend enjoyed an extraordinary first week at cinemas, outperforming expectations across ticket sales, IMAX screenings, and domestic collections. Throughout its initial seven days in theaters, the feature secured numerous historic milestones, establishing a brand new benchmark for Monday box office earnings in the Hindi film sector. Momentum carried forward with impressive ticket sales on Tuesday and Wednesday as well.",
+          "Industry trackers noted that the production successfully concluded its official first week on Thursday, November 12, accumulating an impressive domestic total of Rs 564 crore. Audience turnout remained exceptionally high during the opening phase, propelled by intense anticipation surrounding the star-studded cast and grand visual scale."
+        ]
+      },
+      {
+        "h": "Reaching the Global Billion Mark",
+        "p": [
+          "Adding another monumental achievement to its ledger on day eight, the big-budget enterprise officially surpassed the coveted Rs 1,000-crore threshold in worldwide ticket sales. This rapid accumulation cemented its status as the third-fastest Indian motion picture to accomplish the global milestone.",
+          "The international momentum showed no signs of immediate slowing down as the second weekend commenced. Global tallies continued to climb past Rs 1,100 crore, securing its place among the most commercially successful Indian cinematic ventures in recent history."
+        ]
+      },
+      {
+        "h": "Domestic Net Collections Surge",
+        "p": [
+          "Following its record-shattering first week, the cinematic outing maintained robust momentum on its eighth day with a collection of Rs 53.50 crore domestically. Although subsequent days experienced a natural tapering off, figures remained remarkably high across the board.",
+          "On day nine, the feature brought in Rs 48 crore, followed by an additional Rs 18.13 crore recorded by Saturday afternoon of its tenth day. These figures pushed the total domestic net earnings past the major Rs 630 crore milestone."
+        ]
+      },
+      {
+        "h": "Detailed Day-Wise Earnings",
+        "p": [
+          "A closer look at the daily performance illustrates the immense theatrical pull of the project from its debut onwards. Opening day on Thursday pulled in Rs 64.85 crore, followed by Rs 48.05 crore on Friday and a massive Rs 69.80 crore on Saturday.",
+          "The first weekend peaked with Rs 56.15 crore on Sunday, before transitioning into a historic Monday collection of Rs 107.50 crore. Mid-week figures stayed strong with Rs 94.10 crore on Tuesday and Rs 70.65 crore on Wednesday, leading into the second weekend's ongoing tallies."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Helmed by acclaimed director Nitesh Tiwari and backed by producer Namit Malhotra, the project features a massive ensemble cast. Ranbir Kapoor steps into the role of Rama, while Sai Pallavi portrays Sita, and Yash stars as the formidable antagonist Ravana.",
+          "The stellar lineup also includes prominent names such as Ravi Dubey, Sunny Deol, Lara Dutta, and Arun Govil in crucial supporting parts, contributing significantly to the widespread audience appeal."
+        ]
+      },
+      {
+        "h": "Anticipated Second Weekend Upswing",
+        "p": [
+          "As the film enters its second weekend in theaters, trade analysts anticipate a renewed surge in ticket sales. Evening and night screenings, in particular, are projected to draw substantial crowds back into auditoriums.",
+          "The sustained footfall through the weekend indicates strong word-of-mouth and enduring audience interest, keeping box office counters active across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor, Yash, and Sai Pallavi's Ramayana has become the third-fastest Indian film to cross Rs 1000 crore worldwide, while its total India net collection reached Rs 630.83 crore by day 10. Directed by Nitesh Tiwari and produced by Namit Malhotra, the epic fantasy continues its strong theatrical run into its second weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana became the third-fastest Indian film to cross Rs 1000 crore worldwide.",
+      "The film's total India net collection reached Rs 630.83 crore by day 10.",
+      "First week India collection wrapped up at Rs 564 crore on Thursday, November 12, 2026.",
+      "Day 8 collection was Rs 53.50 crore.",
+      "Day 9 collection was Rs 48 crore.",
+      "Day 10 collection stood at Rs 18.13 crore as of Saturday afternoon.",
+      "Day 1 earnings were Rs 64.85 crore.",
+      "Day 2 earnings were Rs 48.05 crore.",
+      "Day 3 earnings were Rs 69.80 crore.",
+      "Day 4 earnings were Rs 56.15 crore.",
+      "Day 5 earnings were Rs 107.50 crore.",
+      "Day 6 earnings were Rs 94.10 crore.",
+      "Day 7 earnings were Rs 70.65 crore.",
+      "Worldwide collection crossed the Rs 1,100-crore mark.",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "The cast includes Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Sunny Deol, Lara Dutta, and Arun Govil."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Lara Dutta",
+        "Arun Govil"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 1",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana film",
+      "Ramayana day 10 collection",
+      "Ramayana 1000 crore worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135827479,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1000 crore worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T14:04:38+05:30"
+  },
+  "1dzygf7": {
+    "id": "1dzygf7",
+    "type": "news",
+    "headline": "Tiffani Thiessen Faces Hip Replacement Surgery Following Unexpected Medical Diagnosis",
+    "dek": "The Saved by the Bell star opened up about her recent health struggles, attributing her joint issues to childhood dancing and hip dysplasia.",
+    "body": [
+      {
+        "h": "An Unexpected Medical Reality",
+        "p": [
+          "Tiffani Thiessen recently shared a significant health update with her fans, revealing that she requires a total hip replacement. The 52-year-old actress discussed her medical journey during a podcast interview, explaining that the physical discomfort she experienced turned out to be far more serious than ordinary body aches.",
+          "Seeking clarity on her condition, Thiessen consulted specialists who uncovered multiple underlying issues. Alongside a torn labrum stemming from her past, a second opinion led to a striking diagnosis of hip dysplasia."
+        ]
+      },
+      {
+        "h": "Childhood Background and Athletic Passions",
+        "p": [
+          "The actress reflected on her early years as a dancer, noting that the flexibility which once served her artistic pursuits might have contributed to her current joint problems. She humorously compared her diagnosis to that of a German shepherd upon learning about the dysplasia.",
+          "In recent times, Thiessen has found joy in playing pickleball alongside her son. However, the advancing pain in her hip has forced her to step away from the recreational sport for several weeks, especially as her son has begun outperforming her on the court."
+        ]
+      },
+      {
+        "h": "Early Stardom and Career Breakthrough",
+        "p": [
+          "Long before her current health challenges, Thiessen built a lasting legacy in television and modeling. She captured the title of Miss Junior America in 1987 before landing her defining television role in 1989 as Kelly Kapowski on Saved by the Bell.",
+          "Her portrayal quickly turned her into a prominent teen idol and established her presence in households across the country. She later expanded her acting range in 1994 by joining the cast of Beverly Hills, 90210 as the cunning character Valerie Malone."
+        ]
+      },
+      {
+        "h": "Enduring Passion for Acting",
+        "p": [
+          "Despite navigating the physical demands of aging in the entertainment industry, Thiessen maintains an enthusiastic outlook on her profession. She expressed that her primary career aspiration is simply the opportunity to continue performing rather than chasing specific accolades.",
+          "Recognizing that career options can narrow over time, she emphasizes gratitude for being able to keep doing what she loves. Her dedication to the craft remains as strong as ever."
+        ]
+      },
+      {
+        "h": "Connecting with Younger Generations",
+        "p": [
+          "Thiessen credits her positive perspective on the industry partly to the energy of newer actors entering the scene. Working alongside younger colleagues brings a lively dynamic to her sets and helps keep her feeling youthful.",
+          "She fondly recalled moments on set where veteran crew members or older actors might feel exhausted during early morning hours, while younger cast members stay energetic by filming TikTok videos."
+        ]
+      },
+      {
+        "h": "Recent Projects and Future Outlook",
+        "p": [
+          "The actress continues to take on diverse roles, demonstrating her versatility across live-action and voice work. She stars as Miss Graves, the head of a supernatural boarding school for young witches and warlocks, in Coven Academy.",
+          "Additionally, she lent her voice to the superhero character She-Hulk in the 2024 animated special LEGO Marvel Avengers: Mission Demolition, showcasing her ongoing footprint in modern entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tiffani Thiessen announced during a podcast appearance that she needs a hip replacement after discovering she has a torn labrum and hip dysplasia. The actress reflected on her career milestones from Saved by the Bell to Coven Academy while discussing how working with younger generations keeps her energized."
+        ]
+      }
+    ],
+    "facts": [
+      "Tiffani Thiessen is 52 years old.",
+      "Thiessen revealed her hip replacement diagnosis on the Breaking Bread with Tom Papa podcast on Nov. 10, 2026.",
+      "She won the Miss Junior America title in 1987.",
+      "She landed the role of Kelly Kapowski on Saved by the Bell in 1989.",
+      "She joined the cast of Beverly Hills, 90210 in 1994.",
+      "She voiced She-Hulk in the animated special LEGO Marvel Avengers: Mission Demolition in 2024."
+    ],
+    "entities": {
+      "people": [
+        "Tiffani Thiessen",
+        "Tom Papa"
+      ],
+      "titles": [
+        "Saved by the Bell",
+        "Saved by the Bell: Wedding in Las Vegas",
+        "Beverly Hills, 90210",
+        "Coven Academy",
+        "LEGO Marvel Avengers: Mission Demolition"
+      ]
+    },
+    "keywords": [
+      "Tiffani Thiessen hip replacement",
+      "Saved by the Bell Tiffani Thiessen",
+      "Tiffani Thiessen hip dysplasia",
+      "Breaking Bread with Tom Papa Tiffani Thiessen"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148718709.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Tiffani Thiessen Faces Hip Replacement Surgery Following Unexpected Medical Diagnosis",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 03:13:37 -0500"
   }
 };
