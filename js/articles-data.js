@@ -140408,5 +140408,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-14T00:51:37Z"
+  },
+  "1fdqjbf": {
+    "id": "1fdqjbf",
+    "type": "news",
+    "headline": "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
+    "dek": "Nitesh Tiwari's mythological drama Ramayana crosses the Rs 1100 crore mark globally within nine days, overtaking Pushpa 2 to secure its spot as the second fastest Indian film to reach the milestone.",
+    "body": [
+      {
+        "h": "Global Box Office Milestones",
+        "p": [
+          "Nitesh Tiwari's grand mythological feature Ramayana continues to shatter records across international markets. According to data published by Sacnilk, the film accumulated Rs 25 crore in overseas territories alone on its second Friday. This single-day surge pushed the cumulative international total to an impressive Rs 378.5 crore.",
+          "Combined with domestic figures, the grand worldwide collection for the cinematic epic reached a staggering Rs 1110.7 crore by the conclusion of its ninth day in theaters. The project has maintained immense momentum since its opening weekend."
+        ]
+      },
+      {
+        "h": "Surpassing Major Box Office Rivals",
+        "p": [
+          "With its latest global earnings update, Ramayana successfully outpaced the nine-day worldwide collection of Allu Arjun's massive hit Pushpa 2, which had finished its corresponding frame at Rs 1109.43 crore. This feat makes Tiwari's directorial venture the second fastest Indian film to cross the coveted Rs 1100 crore threshold.",
+          "The only title ahead of it in this specific category is Dhurandhar 2, which recorded Rs 1151.19 crore over its initial nine days of theatrical release."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Direction",
+        "p": [
+          "The enormous attention surrounding the project stems largely from its massive scale, cultural weight, and star-studded ensemble cast. Director Nitesh Tiwari takes the helm following his previous work on Bawaal, bringing high expectations for both narrative depth and visual effects.",
+          "The feature marks a major big-screen comeback for Ranbir Kapoor after a three-year hiatus. Kapoor stars as Lord Ram, while Sai Pallavi portrays Sita, and Yash takes on the role of the antagonist Ravana. Additional key performances feature Ravi Dubey, Lara Dutta, Arun Govil, and Rakul Preet Singh."
+        ]
+      },
+      {
+        "h": "Celebrity Reviews and Critical Reception",
+        "p": [
+          "Public and industry praise has poured in following the release, including a notable review from Gautam Ghattamaneni, son of Mahesh Babu. Ghattamaneni awarded the feature 3.5 stars and expressed being completely blown away by the execution.",
+          "In his review notes, he highlighted the CGI, writing, direction, and acting, specifically praising Ranbir Kapoor's portrayal of Rama and describing Yash as incredible in the role of Ravana. He also complimented the musical score by AR Rahman and Zimmer, noting that while the length is noticeable, it remains a must-watch testament to Indian cinema."
+        ]
+      },
+      {
+        "h": "Historic Domestic and International Run",
+        "p": [
+          "Ramayana has consistently scripted history both domestically and globally since premiering in theaters. Beyond setting records as Ranbir Kapoor's highest-grossing worldwide venture, the production crossed the Rs 1000 crore mark globally in just eight days.",
+          "Concurrently, the film cemented its domestic strength by entering the Rs 600 crore club in India, demonstrating an unstoppable box office streak across diverse audience demographics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has achieved a worldwide box office collection of Rs 1110.7 crore by its ninth day, driven by strong international earnings of Rs 378.5 crore. The film surpassed Pushpa 2 to become the second fastest Indian movie to cross the Rs 1100 crore milestone, backed by praise for its lead performances and visual scale."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned Rs 25 crore in the overseas market on day 9.",
+      "The total overseas collection reached Rs 378.5 crore after 9 days.",
+      "The total worldwide collection of Ramayana reached Rs 1110.7 crore after 9 days.",
+      "Pushpa 2 earned Rs 1109.43 crore in its first 9 days.",
+      "Dhurandhar 2 earned Rs 1151.19 crore in 9 days.",
+      "Gautam Ghattamaneni gave Ramayana a 3.5 star rating."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Allu Arjun",
+        "Mahesh Babu",
+        "Gautam Ghattamaneni",
+        "AR Rahman",
+        "Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Bawaal",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana worldwide collection",
+      "Ramayana day 9 box office",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana beats Pushpa 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday9wwfeature1-94641794604870.jpg",
+        "caption": "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 07:15:19 +0530"
+  },
+  "y6w730": {
+    "id": "y6w730",
+    "type": "news",
+    "headline": "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
+    "dek": "Transportation Secretary Sean Duffy points to outdated hardware following an unprecedented radar instability issue that halted domestic airspace.",
+    "body": [
+      {
+        "h": "Introduction to the Airspace Shutdown",
+        "p": [
+          "The Federal Aviation Administration enacted a rare nationwide grounding of flights, bringing domestic airspace to a temporary halt. Transportation Secretary Sean Duffy attributed the unexpected disruption to a radar instability problem that ultimately overwhelmed an antiquated system.",
+          "As routers overloaded, Duffy noted that the old hardware failed while emphasizing that none of the new systems went down. He cautioned that the current technological infrastructure is likely to experience further failures without intervention."
+        ]
+      },
+      {
+        "h": "Official Explanations and Briefing Details",
+        "p": [
+          "During a White House briefing, officials addressed potential causes behind the airspace closure while pushing for infrastructure funding. Homeland Security Secretary Markwayne Mullin addressed questions regarding whether a cyber attack or artificial intelligence attack triggered the event.",
+          "Mullin stated that authorities have observed zero evidence indicating a cyber attack or AI attack. While rumors of a software update or system vulnerability circulated prior to the briefing, officials worked to restore normal operations as skies began to reopen."
+        ]
+      },
+      {
+        "h": "Scale of the Disruption",
+        "p": [
+          "The afternoon FAA grounding forced more than 3,500 flights out of the air, leaving an estimated 1.5 million passengers stranded at airports nationwide. Communication problems across the 22 FAA-run Air Route Traffic Control Centers created widespread uncertainty as federal information remained tightly controlled.",
+          "Airlines responded swiftly to the stoppage, with Delta cutting flights for the remainder of the day alongside thousands of announced cancellations. Meanwhile, a handful of international flights along with operations in Alaska and Hawaii maintained service due to independent communications systems."
+        ]
+      },
+      {
+        "h": "Impact on Travel and International Diversions",
+        "p": [
+          "Echoing emergency measures seen during historical events over 25 years ago, Canada agreed to accept diverted US flights. Conversely, international airports in cities like Vancouver and Montreal experienced significant cancellations affecting U.S. destinations.",
+          "The timing of the disruption posed challenges for regular travel schedules, particularly at airports such as San Francisco International Airport in California. Regional hubs handling heavy commuter traffic felt immediate strains as carriers scrambled to adjust their timetables."
+        ]
+      },
+      {
+        "h": "Funding and System Upgrades",
+        "p": [
+          "Transportation Secretary Duffy utilized the White House briefing to advocate for substantial financial investment into the national air traffic network. Pointing to the vulnerability of older routers and hardware, officials pressed for a multi-billion dollar allocation to modernize radar systems.",
+          "The push for federal funding comes as leaders warn that delaying necessary upgrades could lead to repeated hardware failures. Officials stressed the importance of replacing legacy equipment to prevent future nationwide shutdowns of domestic airspace."
+        ]
+      },
+      {
+        "h": "Resumption of Normal Operations",
+        "p": [
+          "Following the FAA's decision to lift the ground stop, aviation authorities reported that systems were moving in the right direction. Homeland Security Secretary Mullin expressed optimism that flight operations would soon return to normal across the country.",
+          "Airlines began assessing the backlog of grounded aircraft and stranded travelers as restrictions eased. While full recovery across all commercial networks is expected to take time, critical routes slowly resumed regular schedules."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin addressed a nationwide FAA ground stop caused by radar instability and outdated hardware. The shutdown stranded 1.5 million passengers and prompted international flight diversions before officials lifted the restriction."
+        ]
+      }
+    ],
+    "facts": [
+      "Date: November 13, 2026",
+      "Flights grounded: Over 3,500",
+      "Stranded passengers: 1.5 million",
+      "ARTCC centers: 22 FAA-run Air Route Traffic Control Centers",
+      "People involved: Sean Duffy, Markwayne Mullin, Donald Trump, Dominic Patten, Scott Jennings, Ynon Kreiz, Hasan Piker, Johnny Depp, Tom Rothman, James Gunn, Steve Miner, Anthony Clark, Shane Gillis, Christian Cousins"
+    ],
+    "entities": {
+      "people": [
+        "Sean Duffy",
+        "Markwayne Mullin",
+        "Donald Trump",
+        "Dominic Patten",
+        "Scott Jennings",
+        "Ynon Kreiz",
+        "Hasan Piker",
+        "Johnny Depp",
+        "Tom Rothman",
+        "James Gunn",
+        "Steve Miner",
+        "Anthony Clark",
+        "Shane Gillis",
+        "Christian Cousins"
+      ],
+      "titles": [
+        "Ebenezer",
+        "Brand New Day",
+        "Man Of Tomorrow",
+        "Kindergarten Cop",
+        "Knots Landing",
+        "Friday The 13th",
+        "Yes, Dear",
+        "VisionQuest"
+      ]
+    },
+    "keywords": [
+      "FAA ground stop",
+      "Sean Duffy airspace shutdown",
+      "nationwide flight grounding",
+      "FAA radar instability"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg?w=1024",
+        "caption": "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 01:48:37 +0000"
+  },
+  "rbayka": {
+    "id": "rbayka",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Box Office Collection Day 43: Ajay Devgn, Tabu Film Nears Rs 589 Cr Worldwide",
+    "dek": "The crime thriller Drishyam 3: The Conclusion starring Ajay Devgn and Tabu continues its theatrical run into its seventh week, nearing the Rs 589 crore milestone globally.",
+    "body": [
+      {
+        "h": "Continued Box Office Momentum",
+        "p": [
+          "The popular crime thriller feature Drishyam 3: The Conclusion has demonstrated notable staying power at the box office, maintaining a presence in cinemas even after entering its seventh week of release. Industry trackers and public reports indicate that the feature has secured a blockbuster verdict following its extended run.",
+          "While daily figures have naturally slowed down due to the longevity of the exhibition period, the cumulative financial milestones continue to climb. The title sustains its exhibition footprint across the country, showing enduring appeal among audiences who continue to patronize late-stage screenings."
+        ]
+      },
+      {
+        "h": "Domestic Earnings Breakdown",
+        "p": [
+          "On its forty-third day in domestic theatres, the feature brought in a net collection of Rs 12 lakh alongside a gross collection of Rs 14 lakh within the Indian market. These figures reflect a modest day-on-day adjustment as the extended theatrical tenure progresses.",
+          "With these latest additions, the total domestic net earnings for the film have climbed to Rs 380.31 crore. Meanwhile, the overall gross tally generated exclusively from the domestic territory stands at an impressive Rs 455.35 crore."
+        ]
+      },
+      {
+        "h": "Global Gross and International Contribution",
+        "p": [
+          "On the international front, the project has garnered substantial support from overseas territories, helping propel its worldwide gross collections close to the Rs 589 crore threshold. The current aggregate global figure is documented at Rs 588.55 crore.",
+          "A breakdown of the global distribution reveals that the domestic Indian market accounts for 77.4% of the overall financial returns, while international markets contribute the remaining 22.6% of the cumulative worldwide gross."
+        ]
+      },
+      {
+        "h": "Returning Cast and Narrative Arc",
+        "p": [
+          "The narrative brings back familiar characters from the established franchise, with Ajay Devgn reprising his central role as Vijay Salgaonkar. The plot follows Salgaonkar as he faces renewed complications and fresh obstacles designed to test his resolve years after evading the legal consequences of his actions.",
+          "Alongside the main protagonist, Tabu returns to the screen as Meera Deshmukh, whose underlying motivations have evolved from a quest for justice into a pursuit of vengeance. The expansive ensemble cast also features performances by Shriya Saran, Ishita Dutta, Mrunal Jadhav, Rajat Kapoor, Prakash Raj, and Jaideep Ahlawat."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Critical Reception",
+        "p": [
+          "A standout element of the critical appraisal focuses on the intense confrontation between the protagonist and Jaideep Ahlawat's character. Reviewers have highlighted this psychological and physical face-off as a compelling highlight of the narrative tension.",
+          "Critical evaluations have praised the emotional weight that the lead actor brings to the project. The central performance imbues the character with a humanizing quality that allows viewers to understand his choices, even when those actions remain morally complex and indefensible."
+        ]
+      },
+      {
+        "h": "Data Transparency and Industry Tracking",
+        "p": [
+          "The financial figures and metric updates associated with the release are compiled through a combination of public reporting and industry estimation sources. These statistics offer a representative overview of the theatrical performance up to the mid-November update.",
+          "Industry analysts note that these approximate totals remain subject to future adjustments as official studio verifications are finalized and late-reporting international market tallies are completely tallied into the system."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Drishyam 3: The Conclusion maintains its theatrical run into its seventh week, achieving a blockbuster verdict with a domestic net collection of Rs 380.31 crore and a worldwide gross nearing Rs 589 crore. The Ajay Devgn and Tabu starrer continues to draw audiences despite normal daily slowdowns during its extended exhibition period."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3: The Conclusion collected Rs 12 lakh net in India on Day 43.",
+      "The domestic net earnings reached Rs 380.31 crore.",
+      "Worldwide gross collection reached Rs 588.55 crore.",
+      "India gross collection stands at Rs 455.35 crore.",
+      "International markets contributed Rs 133.20 crore.",
+      "Overseas territories account for 22.6% of global earnings.",
+      "The Indian market contributes 77.4% of global earnings."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Rajat Kapoor",
+        "Prakash Raj",
+        "Jaideep Ahlawat"
+      ],
+      "titles": [
+        "Drishyam 3: The Conclusion",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 box office collection",
+      "Ajay Devgn Drishyam 3",
+      "Drishyam 3 Day 43 earnings",
+      "Drishyam 3 worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135819758,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam 3: The Conclusion Box Office Collection Day 43: Ajay Devgn, Tabu Film Nears Rs 589 Cr Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T06:25:30+05:30"
+  },
+  "p5d6en": {
+    "id": "p5d6en",
+    "type": "news",
+    "headline": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
+    "dek": "Sony Pictures is launching a robust awards campaign and global screening strategy to secure a historic Best Picture nomination for Spider-Man: Brand New Day.",
+    "body": [
+      {
+        "h": "The Rise of Tom Holland",
+        "p": [
+          "Over the past ten years, Tom Holland has cemented his status as one of the most prominent talents in the cinematic landscape. He initially captured worldwide attention through his iconic portrayal of Spider-Man, while also lending his talents to Disney projects such as Onward in 2020 and Sony Pictures' video game adaptation Uncharted in 2022.",
+          "The year 2026 proved to be exceptionally massive for the actor. In addition to his superhero ventures, his performance in The Odyssey helped propel that film to become the highest-grossing R-rated movie in history at approximately $1.8 billion."
+        ]
+      },
+      {
+        "h": "A Landmark Box Office Run",
+        "p": [
+          "Following his success in other projects, Tom Holland returned to the Marvel Cinematic Universe in Spider-Man: Brand New Day, marking his fourth solo outing in the franchise. The sequel introduced a fresh creative direction under director Destin Daniel Cretton, who took over the reins from Jon Watts and introduced the MCU's first classic mutant originating from Earth-616.",
+          "The sequel performed extraordinarily well, generating tremendous critical praise and shattering numerous box-office milestones. It currently ranks as the third-highest-grossing movie of all time, bringing in more than $2.5 billion worldwide, and stands as the highest-grossing film ever domestically while approaching the $1 billion domestic threshold."
+        ]
+      },
+      {
+        "h": "Pushing for Academy Recognition",
+        "p": [
+          "Building on this unprecedented commercial success, Sony Pictures is aiming for a major milestone: an Academy Award nomination. In an interview with Deadline, Sony Pictures Motion Picture Group CEO and chairman Tom Rothman spoke about the possibility of Spider-Man: Brand New Day securing a nod for Best Picture at the 99th Academy Awards.",
+          "Rothman emphasized that the Academy is meant to recognize greatness and argued that it is incumbent upon studios producing high-quality commercial films to initiate conversations among viewers and voters. He notably challenged observers by asking whether there are truly ten films released that year superior to the blockbuster."
+        ]
+      },
+      {
+        "h": "Strategy and Global Screenings",
+        "p": [
+          "To jumpstart the campaign, Sony has hired awards consultants and mapped out a rigorous screening strategy beginning just before Thanksgiving 2026. The plans involve multiple For Your Consideration Q and A sessions featuring filmmakers and key department heads, alongside tastemaker events hosted by Rothman on both coasts of the United States.",
+          "International markets are also a major focus for the studio's push. Special screenings are scheduled in global cities including London, Paris, Madrid, Copenhagen, Rome, Mexico City, Berlin, and Tokyo, alongside domestic events in Los Angeles and New York."
+        ]
+      },
+      {
+        "h": "The Re-Release and Talent Schedules",
+        "p": [
+          "As part of the ongoing momentum, the movie is slated for a theatrical re-release on December 4, featuring previously unseen footage that was left out of the original cut. This gives audiences a fresh incentive to experience the blockbuster back on the big screen.",
+          "Meanwhile, the availability of lead stars Tom Holland and Zendaya remains uncertain. Both actors are currently tied up with intensive promotional campaigns for their respective work in The Odyssey and Dune: Part Three."
+        ]
+      },
+      {
+        "h": "Overcoming Historical Precedent",
+        "p": [
+          "Securing a Best Picture nomination remains a monumental challenge for any superhero feature. In recent history, only two comic book adaptations have managed to break into that category: 2018's Black Panther and 2019's Joker.",
+          "Despite the historical rarity of superhero films receiving top Academy recognition, studio executives are hoping that overwhelming audience affection and staggering box-office receipts will encourage voters to give Spider-Man: Brand New Day serious consideration."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures is launching a major awards campaign and global screening strategy to secure a Best Picture nomination for Spider-Man: Brand New Day at the 99th Academy Awards. Despite the historical rarity of superhero films receiving top Oscar recognition, studio leadership is hoping the movie's massive box-office success and critical reception will drive the historic push."
+        ]
+      }
+    ],
+    "facts": [
+      "Tom Holland starred in Spider-Man: Brand New Day and The Odyssey in 2026.",
+      "The Odyssey grossed about $1.8 billion as the highest-grossing R-rated movie in history.",
+      "Spider-Man: Brand New Day grossed more than $2.5 billion worldwide.",
+      "Tom Rothman is the CEO and chairman of Sony Pictures Motion Picture Group.",
+      "The 99th Academy Awards will consider films for Best Picture.",
+      "Screenings and FYC events are scheduled to kick off just before Thanksgiving 2026.",
+      "The movie will be re-released in theaters on Dec. 4 with new footage."
+    ],
+    "entities": {
+      "people": [
+        "Tom Holland",
+        "Destin Daniel Cretton",
+        "Jon Watts",
+        "Tom Rothman",
+        "Zendaya"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Onward",
+        "Uncharted",
+        "The Odyssey",
+        "Black Panther",
+        "Joker",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day",
+      "Tom Holland Spider-Man",
+      "Tom Rothman Sony Pictures",
+      "Spider-Man Brand New Day Oscar"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/tom-holland.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 00:35:38 GMT"
   }
 };

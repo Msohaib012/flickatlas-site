@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-14T00:54:13Z",
+  "generated": "2026-11-14T01:59:23Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 5,
+    "pageviews": 10,
+    "sessions": 6,
+    "avg_session_seconds": 13.6
   },
   "last7": {
-    "users": 194,
-    "pageviews": 365,
-    "sessions": 234,
-    "avg_session_seconds": 42.4
+    "users": 198,
+    "pageviews": 375,
+    "sessions": 240,
+    "avg_session_seconds": 41.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 63,
-      "avg_time_seconds": 148.0
+      "views": 67,
+      "avg_time_seconds": 143.2
     },
     {
       "path": "/ott",
@@ -82,8 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 216,
-      "users": 185
+      "sessions": 221,
+      "users": 189
+    },
+    {
+      "source": "search.google.com",
+      "medium": "referral",
+      "sessions": 7,
+      "users": 1
     },
     {
       "source": "(not set)",
@@ -96,12 +102,6 @@
       "medium": "organic",
       "sessions": 6,
       "users": 3
-    },
-    {
-      "source": "search.google.com",
-      "medium": "referral",
-      "sessions": 6,
-      "users": 1
     }
   ],
   "countries": [
@@ -110,11 +110,11 @@
       "users": 38
     },
     {
-      "country": "Brazil",
-      "users": 31
+      "country": "Singapore",
+      "users": 34
     },
     {
-      "country": "Singapore",
+      "country": "Brazil",
       "users": 31
     },
     {
@@ -122,11 +122,11 @@
       "users": 20
     },
     {
-      "country": "Argentina",
-      "users": 11
+      "country": "Pakistan",
+      "users": 12
     },
     {
-      "country": "Pakistan",
+      "country": "Argentina",
       "users": 11
     },
     {
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 189
+      "users": 193
     },
     {
       "device": "mobile",
