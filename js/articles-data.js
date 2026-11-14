@@ -145721,5 +145721,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 11:30:12 GMT"
+  },
+  "1ytrath": {
+    "id": "1ytrath",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
+    "dek": "Nitesh Tiwari's cinematic adaptation Ramayana crosses a major milestone globally as Day 9 numbers push total collections past the Rs. 1,100 crore mark.",
+    "body": [
+      {
+        "h": "The Box Office Journey",
+        "p": [
+          "Nitesh Tiwari's grand mythological drama Ramayana continues its extraordinary theatrical run, officially surging past the massive milestone of Rs. 1,100 crores in worldwide gross collections. The film has demonstrated incredible momentum globally, captivating audiences with its ambitious world-building, exceptional direction, and grand production scale.",
+          "Having already cleared the Rs. 1,000 crore threshold within just eight days of its premiere, the feature shows zero signs of fatigue as it marches steadily through its second week in cinemas."
+        ]
+      },
+      {
+        "h": "Milestones And Historical Standings",
+        "p": [
+          "With this ongoing financial triumph, Ramayana has successfully secured the 9th position on the prestigious list of all-time highest-grossing Indian films. In doing so, the epic has surpassed the lifetime earnings of several major blockbusters, including Pathaan at Rs. 1,055 crores, Kalki 2898 AD at over Rs. 1,042 crores, and Bajrangi Bhaijaan at over Rs. 920 crores.",
+          "The theatrical journey is far from over, with industry analysts keeping a close eye on whether upcoming weekend audiences will push the title past heavyweights like Jawan, K.G.F: Chapter 2, RRR, and Dhurandhar."
+        ]
+      },
+      {
+        "h": "Opening Week And Festive Surge",
+        "p": [
+          "The foundational success of the feature was established immediately on Day 1 and Day 2, pulling in a combined domestic gross of over Rs. 134 crores from Indian ticket counters alone. This initial triumph quickly snowballed into an even larger weekend windfall that brought in upwards of Rs. 150 crores.",
+          "The timing aligned with the Diwali festive period, specifically November 9 and November 10, when the movie raked in an astounding domestic gross of over Rs. 240 crores, cementing its widespread cultural reception."
+        ]
+      },
+      {
+        "h": "Day 9 Collections Across Languages",
+        "p": [
+          "As the second week drew toward its close on November 13, the film recorded a strong single-day gross collection of over Rs. 57 crores across India. This total was distributed among multiple regional language versions to cater to audiences nationwide.",
+          "The Hindi version led the charge with Rs. 36.25 crores, followed by the Malayalam version at Rs. 3.25 crores, the Kannada version at Rs. 3 crores, the Tamil version at Rs. 2.75 crores, and the Telugu version contributing Rs. 2.6 crores."
+        ]
+      },
+      {
+        "h": "Global And Domestic Distribution Breakdown",
+        "p": [
+          "The total worldwide gross collection of over Rs. 1,110 crores is divided significantly between domestic and international territories. Domestic audiences within India have contributed a substantial Rs. 732 crores to the overall tally.",
+          "Meanwhile, overseas markets have chipped in a powerful Rs. 378 crores, proving that the mythological epic enjoys a broad, cross-border appeal among moviegoers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has crossed Rs. 1,100 crores in worldwide gross collections by its ninth day in theaters, landing it the 9th spot among India's highest-grossing films. Driven by stellar festive performances and robust multilingual earnings across domestic and international markets, the Ranbir Kapoor-starrer continues its historic box office run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs. 1,100 crores in worldwide gross collections by Day 9.",
+      "The film surpassed Rs. 1,000 crores within eight days of release.",
+      "Ramayana ranks 9th in the list of highest-grossing Indian films of all time.",
+      "Pathaan grossed Rs. 1,055 crores.",
+      "Kalki 2898 AD grossed over Rs. 1,042 crores.",
+      "Bajrangi Bhaijaan grossed over Rs. 920 crores.",
+      "Day 1 and Day 2 gross collection from India exceeded Rs. 134 crores.",
+      "Weekend gross collections exceeded Rs. 150 crores.",
+      "Diwali days November 9 and 10 generated over Rs. 240 crores in Indian gross collection.",
+      "Day 9 gross collection on November 13 was over Rs. 57 crores.",
+      "Hindi version Day 9 collection was Rs. 36.25 crores.",
+      "Malayalam version Day 9 collection was Rs. 3.25 crores.",
+      "Kannada version Day 9 collection was Rs. 3 crores.",
+      "Tamil version Day 9 collection was Rs. 2.75 crores.",
+      "Telugu version Day 9 collection was Rs. 2.6 crores.",
+      "Total worldwide gross is over Rs. 1,110 crores, with Rs. 732 crores from India and Rs. 378 crores from overseas."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Siddharth Thampi",
+        "Pankaj Tripathi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pathaan",
+        "Kalki 2898 AD",
+        "Bajrangi Bhaijaan",
+        "Jawan",
+        "K.G.F: Chapter 2",
+        "RRR",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 9 collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office1794642247.jpg",
+        "caption": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-14T13:46:33+05:30"
+  },
+  "eawyzo": {
+    "id": "eawyzo",
+    "type": "news",
+    "headline": "The Hunting Wives Tie-In Novel Arrives Ahead Of Season 2",
+    "dek": "A special Netflix tie-in edition of May Cobb's novel is launching just days before the second season of the hit thriller series premieres.",
+    "body": [
+      {
+        "h": "The Return Of A Hit Thriller",
+        "p": [
+          "The Hunting Wives has firmly established itself as a prominent thriller series on Netflix, capturing audience attention with its blend of drama, crime, and romance. The television adaptation drew widespread interest upon its debut, pulling viewers into a tangled web of suspense that was originally forged on the printed page."
+        ]
+      },
+      {
+        "h": "Literary Roots And Recognition",
+        "p": [
+          "The television series is adapted from May Cobb's 2021 novel of the same name. Following the massive success of the screen adaptation, the original book has experienced an even greater surge in recognition and relevance among thriller enthusiasts and general readers alike."
+        ]
+      },
+      {
+        "h": "A New Tie-In Edition",
+        "p": [
+          "Five years after its initial publication, the novel is receiving a brand new Netflix tie-in re-release scheduled for November 17th, 2026. This special edition is currently available for preorder and features key art pulled directly from the upcoming second season of the show."
+        ]
+      },
+      {
+        "h": "Timing And Release Schedule",
+        "p": [
+          "The newly packaged book arrives precisely one week prior to the release of season 2 on Netflix, giving fans an ideal window to dive into the reading material. All episodes of the second season are set to drop on November 26th, 2026, coinciding with Thanksgiving Day in the United States."
+        ]
+      },
+      {
+        "h": "Characters And Narrative Stakes",
+        "p": [
+          "The narrative heavily revolves around characters such as Sophie and Margot, whose intense relationship anchored the first season. Viewers are eager to see how the plot advances following a dramatic cliffhanger that left Sophie in a uniquely vulnerable position."
+        ]
+      },
+      {
+        "h": "Future Prospects And Early Success",
+        "p": [
+          "The first season proved to be a major triumph for book adaptations on streaming platforms, combining bold twists with a gripping atmosphere. Demonstrating strong confidence in the property, Netflix has already renewed the series for a third season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A special Netflix tie-in edition of May Cobb's novel The Hunting Wives is scheduled for release on November 17th, 2026, just one week before season 2 debuts on November 26th. The upcoming book edition features key art from the sophomore season, offering fans additional context and excitement as the drama returns."
+        ]
+      }
+    ],
+    "facts": [
+      "May Cobb wrote the 2021 novel The Hunting Wives.",
+      "The Netflix tie-in edition of the book releases on November 17, 2026.",
+      "Season 2 of The Hunting Wives premieres on Netflix on November 26, 2026.",
+      "The show's first season premiered in July 2025.",
+      "The series has already been renewed for a third season."
+    ],
+    "entities": {
+      "people": [
+        "May Cobb",
+        "Sophie",
+        "Margot",
+        "Brittany Snow",
+        "Malin Akerman",
+        "Rebecca Perry Cutter",
+        "Julie Anne Robinson",
+        "Cathal Gunning",
+        "Mary Kassel"
+      ],
+      "titles": [
+        "The Hunting Wives"
+      ]
+    },
+    "keywords": [
+      "The Hunting Wives",
+      "The Hunting Wives season 2",
+      "May Cobb The Hunting Wives",
+      "The Hunting Wives Netflix tie in"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/malin-akerman-as-margo-banks-smiling-in-the-hunting-wives-season-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Hunting Wives Tie-In Novel Arrives Ahead Of Season 2",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:00:18 GMT"
+  },
+  "9cjumg": {
+    "id": "9cjumg",
+    "type": "news",
+    "headline": "Anirudh Ravichander Steps Away From Music Until 2027 Following Greece Wedding With Kavya Maran",
+    "dek": "Prominent composer Anirudh Ravichander and Kavya Maran tied the knot in an intimate Greece ceremony, with the musician planning an extended break from work until January 2027.",
+    "body": [
+      {
+        "h": "The Greece Wedding Ceremony",
+        "p": [
+          "Anirudh Ravichander and Kavya Maran celebrated their marriage in an intimate ceremony held in Greece. Following the wedding, the couple returned to Chennai alongside the bride's father, Kalanithi Maran. At the airport, the composer was spotted waving to waiting fans upon arrival.",
+          "The high-profile guest list for the destination ceremony featured prominent figures, including superstar Rajinikanth and former Tamil Nadu Chief Minister MK Stalin. Both figures shared front-row spotlight moments during the celebrations."
+        ]
+      },
+      {
+        "h": "Traditional Self-Respect Marriage Format",
+        "p": [
+          "The matrimonial ceremony adhered to the self-respect marriage tradition, a detail confirmed by DMK IT Wing Secretary Dr T R B Rajaa. The rituals involved the couple exchanging garlands and chains in front of family members and guests of honour.",
+          "This specific marriage style traces its origins to the social reform movement spearheaded by Periyar E V Ramasamy. Emphasizing equality and mutual consent without standard religious rituals, self-respect marriages gained formal legal recognition in Tamil Nadu in the year 1967."
+        ]
+      },
+      {
+        "h": "Extended Professional Hiatus Until 2027",
+        "p": [
+          "Following his marriage, the musician is reportedly stepping away from professional commitments for an extended period. Sources including YouTube channel Valai Pechu hosts J Bismi, Anthanan, and Sakthivel indicate that he will remain on a work break until January 2027.",
+          "Filmmakers were informed well in advance about this pause, as the composer had decided against taking on new projects past the month of October. The pre-planned schedule allowed production teams to adjust their timelines around his absence."
+        ]
+      },
+      {
+        "h": "Impact on Kamal Haasan's Sandiyar",
+        "p": [
+          "The composer's scheduled hiatus directly impacted promotional plans for Kamal Haasan's upcoming film Sandiyar. Specifically, the film's teaser was delayed because the background score had not yet been completed by the musician.",
+          "Consequently, the project's makers opted to release only a first-look poster on November 7 to coincide with Kamal Haasan's birthday. The official teaser is now anticipated to debut alongside the music when the next shooting schedule commences."
+        ]
+      },
+      {
+        "h": "Future Professional Outlook",
+        "p": [
+          "With professional activities paused through the remainder of the current period, the composer is expected to enjoy a prolonged period away from recording studios. Industry reports suggest that his return to work in the new year could kick off with the completion of Sandiyar.",
+          "The wedding date itself had been intentionally fixed well ahead of time, ensuring that all professional commitments could be accurately mapped around the extended break."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Composer Anirudh Ravichander and Kavya Maran married in a Greece ceremony adhering to self-respect traditions, attended by notable figures like Rajinikanth and MK Stalin. Following their return to Chennai, the musician has embarked on a professional hiatus lasting until January 2027, which has notably delayed the teaser release for Kamal Haasan's Sandiyar."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran got married in Greece on November 11, 2026.",
+      "The couple returned to Chennai on Saturday, November 14, 2026.",
+      "The composer is taking a work break until January 2027.",
+      "Guests at the wedding included Rajinikanth and MK Stalin.",
+      "Dr T R B Rajaa confirmed the marriage followed the self-respect tradition.",
+      "Self-respect marriages gained legal recognition in Tamil Nadu in 1967.",
+      "The Sandiyar teaser was missed on Kamal Haasan's birthday on November 7, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Kalanithi Maran",
+        "Kamal Haasan",
+        "J Bismi",
+        "Anthanan",
+        "Sakthivel",
+        "Dr T R B Rajaa",
+        "Periyar E V Ramasamy",
+        "Rajinikanth",
+        "MK Stalin"
+      ],
+      "titles": [
+        "Sandiyar"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander Kavya Maran wedding",
+      "Anirudh Ravichander break January 2027",
+      "Kamal Haasan Sandiyar teaser",
+      "Anirudh Kavya Greece wedding"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anirudh-ravichander--kavya-maran-140151440-16x9_0.jpg?VersionId=g6HdRS5Cd5.vpVeT.OFfTZtF2Y_VH9pz",
+        "caption": "Anirudh Ravichander Steps Away From Music Until 2027 Following Greece Wedding With Kavya Maran",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 16:58:33 +0530"
+  },
+  "16hsb9u": {
+    "id": "16hsb9u",
+    "type": "news",
+    "headline": "Jon Bernthal's The Accountant 2 Leaving Streaming Platforms",
+    "dek": "The action thriller starring Jon Bernthal and Ben Affleck is officially scheduled to depart from Hulu and Disney+ at the end of November.",
+    "body": [
+      {
+        "h": "Departure From Major Platforms",
+        "p": [
+          "The action-heavy sequel The Accountant 2 is preparing to exit its current streaming homes on Hulu and Disney+ at the conclusion of November 2026. Viewers hoping to catch the high-stakes narrative from home will find their final chance to stream the title on November 30, before it officially leaves the catalogues on December 1.",
+          "This removal places the film alongside several other notable titles cycling off the service around the same time, including theatrical hits like Heretic and Longlegs, as well as the complete Hunger Games library."
+        ]
+      },
+      {
+        "h": "Expanded Role for Jon Bernthal",
+        "p": [
+          "Jon Bernthal steps into a much larger capacity in this follow-up, reprising his role as Braxton, the brother to Ben Affleck's character Christian Wolff. While his appearance in the 2016 sleeper hit was largely restricted to occasional supporting moments, the sequel places him directly in the spotlight alongside Affleck.",
+          "The dynamic shifts the narrative into an explosive buddy-comedy framework, pairing the methodical combat style of the autistic accountant with his estranged brother's volatile energy to deliver high-octane sequences."
+        ]
+      },
+      {
+        "h": "Plot and Behind-the-Scenes Direction",
+        "p": [
+          "Directed by Gavin O'Connor, the storyline picks up eight years after the events of the original film. The central mystery sparks into motion when former Treasury Department director Ray King is murdered while working on a complex case, leaving behind only a cryptic message written on his arm instructing investigators to find the accountant.",
+          "Treasury agent Marybeth Medina takes up the clue, reaching out to Wolff to unravel the murder. Together, the brothers uncover a far-reaching conspiracy involving human trafficking rings, corrupt operatives, and lethal professional assassins."
+        ]
+      },
+      {
+        "h": "Box Office and Audience Reception",
+        "p": [
+          "Upon arriving in theaters on April 25, 2025, the feature accumulated $103 million globally at the box office. Although this figure fell short of the $155 million earned by its predecessor, the sequel found tremendous success among viewers.",
+          "Audience response was exceptionally positive, translating to a Verified Hot score of 92% on Rotten Tomatoes. This viewer rating stands notably higher than the 77% audience score achieved by the original film."
+        ]
+      },
+      {
+        "h": "A Blend of Action Styles",
+        "p": [
+          "Drawing comparisons to popular franchises like John Wick and Denzel Washington's The Equalizer, the movie leans heavily into stylized tactical combat. Christian Wolff's clinical approach to violence combined with his protective instincts drives the core action set pieces.",
+          "The blend of brutal efficiency and emotional family dynamics helped cement the film's reputation as a standout modern action thriller following its debut on streaming platforms in September 2026."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the Third Installment",
+        "p": [
+          "Plans for a third chapter are already underway, with director Gavin O'Connor having mapped out a trilogy beginning back in 2021. Early production details indicate that Anna Kendrick is expected to return for the upcoming entry after her notable absence from the sequel.",
+          "The director has shared that the next film will shift genres slightly into a buddy road movie focused heavily on Wolff's personal life, specifically revolving around his pursuit of love and emotional connection."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The action thriller The Accountant 2 is scheduled to leave Hulu and Disney+ on December 1, 2026. Starring Ben Affleck and Jon Bernthal, the film brought in $103 million at the box office and earned high audience praise before its upcoming departure from streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "The Accountant 2 was released in theaters on April 25, 2025.",
+      "The film has a runtime of 132 minutes.",
+      "The sequel grossed $103 million at the box office.",
+      "The original film earned $155 million.",
+      "The sequel received a 92% Verified Hot score on Rotten Tomatoes.",
+      "The original film received a 77% audience rating on Rotten Tomatoes.",
+      "The movie was added to Hulu and Disney+ in September 2026.",
+      "The film is leaving Hulu and Disney+ on December 1, 2026, with the last day to stream being November 30, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "Ben Affleck",
+        "Anna Kendrick",
+        "Cynthia Addai-Robinson",
+        "Gavin O'Connor",
+        "J.K. Simmons",
+        "Bill Dubuque",
+        "Kevin Halloran",
+        "Matt Damon",
+        "Jamie Patricof",
+        "Lynette Howell Taylor",
+        "Scott LaStaiti",
+        "Michael Joe",
+        "Mark Williams",
+        "Alison Winter",
+        "Ray King",
+        "Marybeth Medina",
+        "Christian Wolff"
+      ],
+      "titles": [
+        "The Accountant 2",
+        "The Accountant",
+        "The Accountant 3",
+        "John Wick",
+        "The Equalizer",
+        "Heretic",
+        "Longlegs",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "The Accountant 2 streaming",
+      "Jon Bernthal The Accountant 2",
+      "Ben Affleck action movie",
+      "The Accountant 3 release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/the-accountant-2_tio06h.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jon Bernthal's The Accountant 2 Leaving Streaming Platforms",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:00:16 GMT"
   }
 };

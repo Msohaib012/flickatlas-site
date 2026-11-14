@@ -1,26 +1,26 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-14T06:52:20Z",
-   "last_run": "2026-11-14T06:52:20Z",
+   "last_attempt_at": "2026-11-14T12:51:15Z",
+   "last_run": "2026-11-14T12:51:15Z",
    "last_status": "success",
-   "last_success": "2026-11-14T06:52:20Z",
+   "last_success": "2026-11-14T12:51:15Z",
    "consecutive_failures": 0,
-   "detail": "valid top 20 snapshot"
+   "detail": "valid top 19 snapshot"
   },
   "sacnilk_boxoffice": {
-   "last_attempt_at": "2026-11-14T08:58:44Z",
-   "last_run": "2026-11-14T08:58:44Z",
+   "last_attempt_at": "2026-11-14T12:58:02Z",
+   "last_run": "2026-11-14T12:58:02Z",
    "last_status": "failed",
    "last_success": "2026-11-08T11:57:48Z",
-   "consecutive_failures": 37,
+   "consecutive_failures": 38,
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-11-14T09:00:15Z",
-   "last_run": "2026-11-14T09:00:15Z",
+   "last_attempt_at": "2026-11-14T12:59:33Z",
+   "last_run": "2026-11-14T12:59:33Z",
    "last_status": "success",
-   "last_success": "2026-11-14T09:00:15Z",
+   "last_success": "2026-11-14T12:59:33Z",
    "consecutive_failures": 0,
    "detail": "validated 165 rows; 1 staging files changed"
   },
@@ -33,12 +33,12 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-14T06:52:40Z",
-   "last_run": "2026-11-14T06:52:40Z",
-   "last_status": "success",
+   "last_attempt_at": "2026-11-14T12:51:46Z",
+   "last_run": "2026-11-14T12:51:46Z",
+   "last_status": "failed",
    "last_success": "2026-11-14T06:52:40Z",
-   "consecutive_failures": 0,
-   "detail": "150 digital titles; registry 829; checked 64 this run"
+   "consecutive_failures": 1,
+   "detail": "invalid release_dates response for 1810118"
   },
   "wp_boxoffice": {
    "last_attempt_at": "2026-11-14T09:00:20Z",
@@ -49,12 +49,12 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-14T06:56:00Z",
-   "last_run": "2026-11-14T06:56:00Z",
+   "last_attempt_at": "2026-11-14T13:00:12Z",
+   "last_run": "2026-11-14T13:00:12Z",
    "last_status": "success",
-   "last_success": "2026-11-14T06:56:00Z",
+   "last_success": "2026-11-14T13:00:12Z",
    "consecutive_failures": 0,
-   "detail": "validated 94 rows; 1 staging files changed"
+   "detail": "validated 94 rows; 0 staging files changed"
   },
   "filmibeat_boxoffice": {
    "last_attempt_at": "2026-11-14T09:53:31Z",
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-14T10:57:11Z"
+ "updated_at": "2026-11-14T13:00:12Z"
 }

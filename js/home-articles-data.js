@@ -94,6 +94,44 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 14 Nov 2026 11:30:12 GMT"
   },
+  "9cjumg": {
+    "id": "9cjumg",
+    "type": "news",
+    "headline": "Anirudh Ravichander Steps Away From Music Until 2027 Following Greece Wedding With Kavya Maran",
+    "dek": "Prominent composer Anirudh Ravichander and Kavya Maran tied the knot in an intimate Greece ceremony, with the musician planning an extended break from work until January 2027.",
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Kalanithi Maran",
+        "Kamal Haasan",
+        "J Bismi",
+        "Anthanan",
+        "Sakthivel",
+        "Dr T R B Rajaa",
+        "Periyar E V Ramasamy",
+        "Rajinikanth",
+        "MK Stalin"
+      ],
+      "titles": [
+        "Sandiyar"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander Kavya Maran wedding",
+      "Anirudh Ravichander break January 2027",
+      "Kamal Haasan Sandiyar teaser",
+      "Anirudh Kavya Greece wedding"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anirudh-ravichander--kavya-maran-140151440-16x9_0.jpg?VersionId=g6HdRS5Cd5.vpVeT.OFfTZtF2Y_VH9pz",
+        "caption": "Anirudh Ravichander Steps Away From Music Until 2027 Following Greece Wedding With Kavya Maran",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 16:58:33 +0530"
+  },
   "1wlrai4": {
     "id": "1wlrai4",
     "type": "news",
@@ -129,6 +167,94 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 14 Nov 2026 06:14:00 EST"
+  },
+  "eawyzo": {
+    "id": "eawyzo",
+    "type": "news",
+    "headline": "The Hunting Wives Tie-In Novel Arrives Ahead Of Season 2",
+    "dek": "A special Netflix tie-in edition of May Cobb's novel is launching just days before the second season of the hit thriller series premieres.",
+    "entities": {
+      "people": [
+        "May Cobb",
+        "Sophie",
+        "Margot",
+        "Brittany Snow",
+        "Malin Akerman",
+        "Rebecca Perry Cutter",
+        "Julie Anne Robinson",
+        "Cathal Gunning",
+        "Mary Kassel"
+      ],
+      "titles": [
+        "The Hunting Wives"
+      ]
+    },
+    "keywords": [
+      "The Hunting Wives",
+      "The Hunting Wives season 2",
+      "May Cobb The Hunting Wives",
+      "The Hunting Wives Netflix tie in"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/malin-akerman-as-margo-banks-smiling-in-the-hunting-wives-season-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Hunting Wives Tie-In Novel Arrives Ahead Of Season 2",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:00:18 GMT"
+  },
+  "16hsb9u": {
+    "id": "16hsb9u",
+    "type": "news",
+    "headline": "Jon Bernthal's The Accountant 2 Leaving Streaming Platforms",
+    "dek": "The action thriller starring Jon Bernthal and Ben Affleck is officially scheduled to depart from Hulu and Disney+ at the end of November.",
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "Ben Affleck",
+        "Anna Kendrick",
+        "Cynthia Addai-Robinson",
+        "Gavin O'Connor",
+        "J.K. Simmons",
+        "Bill Dubuque",
+        "Kevin Halloran",
+        "Matt Damon",
+        "Jamie Patricof",
+        "Lynette Howell Taylor",
+        "Scott LaStaiti",
+        "Michael Joe",
+        "Mark Williams",
+        "Alison Winter",
+        "Ray King",
+        "Marybeth Medina",
+        "Christian Wolff"
+      ],
+      "titles": [
+        "The Accountant 2",
+        "The Accountant",
+        "The Accountant 3",
+        "John Wick",
+        "The Equalizer",
+        "Heretic",
+        "Longlegs",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "The Accountant 2 streaming",
+      "Jon Bernthal The Accountant 2",
+      "Ben Affleck action movie",
+      "The Accountant 3 release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/the-accountant-2_tio06h.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jon Bernthal's The Accountant 2 Leaving Streaming Platforms",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:00:16 GMT"
   },
   "10ke8m8": {
     "id": "10ke8m8",
@@ -446,6 +572,44 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-14T14:04:38+05:30"
+  },
+  "1ytrath": {
+    "id": "1ytrath",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
+    "dek": "Nitesh Tiwari's cinematic adaptation Ramayana crosses a major milestone globally as Day 9 numbers push total collections past the Rs. 1,100 crore mark.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Siddharth Thampi",
+        "Pankaj Tripathi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pathaan",
+        "Kalki 2898 AD",
+        "Bajrangi Bhaijaan",
+        "Jawan",
+        "K.G.F: Chapter 2",
+        "RRR",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 9 collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office1794642247.jpg",
+        "caption": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-14T13:46:33+05:30"
   },
   "1dzygf7": {
     "id": "1dzygf7",
@@ -4459,146 +4623,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 12:31:15 +0200"
-  },
-  "p50yvw": {
-    "id": "p50yvw",
-    "type": "news",
-    "headline": "VASSY Releases New Single Dirty Martini Following Historic Year",
-    "dek": "The Australian EDM star drops her latest cheeky track, reflecting on a blockbuster 2026 that included motherhood, festival debuts, and chart milestones.",
-    "entities": {
-      "people": [
-        "VASSY",
-        "BUST-R",
-        "Oscar Jamo",
-        "Tiësto",
-        "Mind Electric"
-      ],
-      "titles": [
-        "Dirty Martini",
-        "Day N Night",
-        "On Me",
-        "Secrets"
-      ]
-    },
-    "keywords": [
-      "VASSY Dirty Martini",
-      "VASSY singer",
-      "VASSY Day N Night",
-      "VASSY music",
-      "Oscar Jamo"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/vassy-2026-1800.jpg?w=1024",
-        "caption": "VASSY Releases New Single Dirty Martini Following Historic Year",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 09:53:34 +0000"
-  },
-  "1wjp5av": {
-    "id": "1wjp5av",
-    "type": "news",
-    "headline": "Ryan Seacrest Stunned As Wheel of Fortune Contestant Secures Massive $138,000 Payout",
-    "dek": "Host Ryan Seacrest celebrated on stage after a dominant player named Luke solved a difficult bonus puzzle with minimal letters to claim a huge cash prize on Wheel of Fortune.",
-    "entities": {
-      "people": [
-        "Ryan Seacrest",
-        "Luke",
-        "Ashley",
-        "Krista",
-        "Buzz Lightyear",
-        "Woody"
-      ],
-      "titles": [
-        "Wheel of Fortune",
-        "Stranger Things Have Happened"
-      ]
-    },
-    "keywords": [
-      "Wheel of Fortune",
-      "Ryan Seacrest",
-      "Luke Wheel of Fortune",
-      "Wheel of Fortune 138000"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-13T151632.293.webp?resize=1200,630",
-        "caption": "Ryan Seacrest Stunned As Wheel of Fortune Contestant Secures Massive $138,000 Payout",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 09:49:46 +0000"
-  },
-  "1ke2zer": {
-    "id": "1ke2zer",
-    "type": "news",
-    "headline": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
-    "dek": "The District Child Protection Officer in Ahmedabad has urged local authorities to limit certain tracks, stage visuals, and props during Diljit Dosanjh's upcoming live performance.",
-    "entities": {
-      "people": [
-        "Diljit Dosanjh",
-        "Dr Panditrao Dharenavar",
-        "Jiya Surana"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Diljit Dosanjh Ahmedabad concert",
-      "Diljit Dosanjh restrictions Indore",
-      "Diljit Dosanjh Narendra Modi Stadium",
-      "Dr Panditrao Dharenavar complaint"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/diljit-dosanjh1794559869.jpg",
-        "caption": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-13T15:06:22+05:30"
-  },
-  "9uhmgb": {
-    "id": "9uhmgb",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 9: Ranbir Kapoor Starrer Crosses Major Milestones But Awaits Hit Status",
-    "dek": "Explore the box office trajectory of the mythological epic Ramayana, featuring Ranbir Kapoor, as it crosses significant domestic milestones while trade experts weigh in on its massive budget and breakeven targets.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Anupam Kher",
-        "Sheeba Chadha",
-        "Adinath Kothare",
-        "Sumit Kadel",
-        "Ranpreet Kaur"
-      ],
-      "titles": [
-        "Ramayana",
-        "Animal",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana collection day 9",
-      "Sumit Kadel Ramayana hit or flop"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday8feature1-51351794561703.jpg",
-        "caption": "Ramayana Box Office Day 9: Ranbir Kapoor Starrer Crosses Major Milestones But Awaits Hit Status",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 15:01:41 +0530"
   },
   "8c197r": {
     "id": "8c197r",

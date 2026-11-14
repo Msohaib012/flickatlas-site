@@ -1,39 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-14T11:52:40Z",
+  "generated": "2026-11-14T13:05:22Z",
   "realtime": {
-    "active_users": 4
+    "active_users": 3
   },
   "today": {
-    "users": 90,
-    "pageviews": 167,
-    "sessions": 100,
-    "avg_session_seconds": 60.4
+    "users": 96,
+    "pageviews": 180,
+    "sessions": 106,
+    "avg_session_seconds": 58.6
   },
   "last7": {
-    "users": 282,
-    "pageviews": 532,
-    "sessions": 334,
-    "avg_session_seconds": 47.8
+    "users": 288,
+    "pageviews": 545,
+    "sessions": 340,
+    "avg_session_seconds": 47.5
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 94,
-      "avg_time_seconds": 203.3
+      "views": 97,
+      "avg_time_seconds": 201.1
+    },
+    {
+      "path": "/box-office",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "views": 23,
+      "avg_time_seconds": 15.4
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
       "views": 19,
       "avg_time_seconds": 27.8
-    },
-    {
-      "path": "/box-office",
-      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 9.9
     },
     {
       "path": "/search",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 310,
-      "users": 271
+      "sessions": 316,
+      "users": 277
     },
     {
       "source": "(not set)",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 53
+      "users": 58
     },
     {
       "country": "Singapore",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 277
+      "users": 283
     },
     {
       "device": "mobile",
