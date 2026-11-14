@@ -1337,6 +1337,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .fa-box-latest-card dd .fa-money{min-width:0;overflow-wrap:anywhere}
 .fa-box-unavailable{font-size:.66rem;font-weight:550;color:#60746f;letter-spacing:-.02em}
 .fa-box-partial{display:inline-block;font-size:.56rem;font-weight:650;line-height:1.3;text-decoration:none;padding:1px 3px;background:#e9f3ef;border-radius:4px;color:#536a65;cursor:help}
+.fa-box-progress{display:inline-block;font-size:.62rem;font-weight:700;line-height:1.3;padding:2px 6px;background:#e6f4f1;border:1px solid #bfe3db;border-radius:999px;color:#0d6e5f;white-space:nowrap}
 .fa-box-latest-card .fa-box-evidence{display:block;margin:4px 0 0;color:#60746f;font-size:.58rem;font-weight:450;line-height:1.35;overflow-wrap:anywhere}
 .fa-box-latest-card .fa-box-source{color:var(--teal-dark);text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
 .fa-box-latest--home .fa-box-latest-card{padding:12px}
@@ -1350,7 +1351,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .bo-title-summary small{display:block;color:var(--muted);font-size:.78rem;margin-top:5px}
 .bo-title-table{max-width:100%;overflow-x:auto}
 @media(max-width:600px){.fa-box-latest-card{padding:13px}.fa-box-latest-card dd{font-size:.81rem;gap:3px}.fa-box-latest-card dl>div{padding-left:6px;padding-right:6px}.bo-title-summary{gap:7px}.bo-title-summary>div{padding:11px 9px}.bo-title-summary b,.bo-title-summary strong{font-size:1rem}}
-@media(max-width:360px){.fa-box-latest-card dd{font-size:.77rem}.fa-box-partial{font-size:.52rem;padding:1px 2px}}
+@media(max-width:360px){.fa-box-latest-card dd{font-size:.77rem}.fa-box-partial{font-size:.52rem;padding:1px 2px}.fa-box-progress{font-size:.56rem;padding:1px 5px}}
 @media(prefers-reduced-motion:reduce){.fa-box-latest-card{transition:none}.fa-box-latest-card:hover{transform:none}}
 /* Article search results use the same separated editorial surface, without changing other result types. */
 .search-group[aria-labelledby="search-news"] .search-result{border:1px solid #d5e9e4;border-left:3px solid var(--teal);border-radius:13px;background:linear-gradient(135deg,#fff 60%,#f0f9f5);box-shadow:0 3px 14px #07332e13;padding:14px;min-width:0}

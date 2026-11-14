@@ -579,9 +579,54 @@
         if (!metric) return `<small class="fa-box-evidence">—</small>`;
         return "";
       };
+      /* Owner order 2026-11-14: a 7-day (or 2-day) window that is still
+         accumulating must say so, not read "Not reported". Days tracked
+         = World: verified-total history points in the snapshot; Bollywood:
+         distinct daywise dates. A flat World total (latest point equals
+         the 2-days-ago point) is a genuine ₹0 — no collections in 2 days —
+         not a missing figure. Titles with no tracking data at all keep the
+         honest "Not reported". */
+      const historyFor = (tid) => {
+        const h = boxOfficeSnapshot && boxOfficeSnapshot.total_history && boxOfficeSnapshot.total_history[tid];
+        return Array.isArray(h) ? h : [];
+      };
+      const daysTracked = () => {
+        if (bucket === "world") return historyFor(id).length;
+        const seen = new Set();
+        for (const r of rows) if (r && r.date) seen.add(r.date);
+        return seen.size;
+      };
+      const progressTag = (windowKey) => {
+        const n = daysTracked();
+        if (windowKey === "last_7_days" && n >= 1 && n < 7) return `<span class="fa-box-progress">Day ${n} of 7</span>`;
+        if (windowKey === "last_2_days" && n === 1) return `<span class="fa-box-progress">Day 1 of 2</span>`;
+        return null;
+      };
+      const flatTwoDay = () => {
+        if (bucket !== "world") return false;
+        const h = historyFor(id);
+        if (h.length < 2) return false;
+        const target = HomeBoxOffice.shiftDate(todayIST, -2);
+        let base = null;
+        for (const p of h) if (p && p.date <= target) base = p;
+        const latest = h[h.length - 1];
+        if (!base || !latest || latest.date !== todayIST) return false;
+        const gap = (Date.parse(target) - Date.parse(base.date)) / 86400000;
+        return Number.isFinite(gap) && gap <= 2 && Number(latest.amount) === Number(base.amount);
+      };
       const metricCell = (windowKey, label, description) => {
         const metric = metricFor(windowKey);
-        return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${metric ? amountHtml(metric) : missing}</dd>${evidence(metric)}</div>`;
+        if (metric) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${amountHtml(metric)}</dd>${evidence(metric)}</div>`;
+        if (windowKey === "last_7_days") {
+          const tag = progressTag(windowKey);
+          if (tag) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${tag}</dd><small class="fa-box-evidence">7-day window still running</small></div>`;
+        }
+        if (windowKey === "last_2_days") {
+          const tag = progressTag(windowKey);
+          if (tag) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${tag}</dd><small class="fa-box-evidence">2-day window still running</small></div>`;
+          if (flatTwoDay()) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${UI.fmtMoney(0)}</dd><small class="fa-box-evidence">No change in 2 days</small></div>`;
+        }
+        return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${missing}</dd>${evidence(null)}</div>`;
       };
       const title = UI.esc(UI.titleOf(entry));
       const date = entry.release_date || "";

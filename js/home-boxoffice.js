@@ -72,6 +72,11 @@
         world: Array.isArray(value.selections && value.selections.world) ? value.selections.world.map(String).slice(0, 8) : [],
       },
       reports: value.reports && typeof value.reports === "object" && !Array.isArray(value.reports) ? value.reports : {},
+      // total_history (2026-11-14): verified cumulative-total points per
+      // title, so the renderer can tell a 7-day window that is still
+      // accumulating ("Day N of 7") from one with no data at all.
+      // Passthrough only — validated shape, never trusted for figures.
+      total_history: value.total_history && typeof value.total_history === "object" && !Array.isArray(value.total_history) ? value.total_history : {},
     };
   }
   async function loadSnapshot(fetcher) {
