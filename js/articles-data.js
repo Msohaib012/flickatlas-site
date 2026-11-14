@@ -147220,5 +147220,674 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-14T15:13:25Z"
+  },
+  "gmlpij": {
+    "id": "gmlpij",
+    "type": "news",
+    "headline": "Aangan Episode 14 — Watch Online on HUM TV",
+    "dek": "Aangan episode 14 aired on 2026-11-14 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 14 aired on 2026-11-14 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=B2rcGDRGwz4"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 14 aired on 2026-11-14.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=B2rcGDRGwz4",
+      "YouTube views: 53,428.",
+      "TMDB: Aangan (id 90172)."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/B2rcGDRGwz4/hqdefault.jpg",
+        "caption": "Aangan Episode 14",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-14T16:00:40Z"
+  },
+  "1gcsvz8": {
+    "id": "1gcsvz8",
+    "type": "news",
+    "headline": "Nashtar Episode 31 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 31 aired on 2026-11-14 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 31 aired on 2026-11-14 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=HfokLFZYbGo"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 31 aired on 2026-11-14.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=HfokLFZYbGo",
+      "YouTube views: 433,638.",
+      "TMDB: Nashtar (id 332312)."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/HfokLFZYbGo/hqdefault.jpg",
+        "caption": "Nashtar Episode 31",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-14T16:00:32Z"
+  },
+  "1h9ep4g": {
+    "id": "1h9ep4g",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 31 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 31 aired on 2026-11-14 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 31 aired on 2026-11-14 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3GePwM9Fq7s"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 31 aired on 2026-11-14.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3GePwM9Fq7s",
+      "YouTube views: 537,667.",
+      "TMDB: Dar-E-Nijaat (id 328722)."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3GePwM9Fq7s/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 31",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-14T16:00:08Z"
+  },
+  "1mlvo3": {
+    "id": "1mlvo3",
+    "type": "news",
+    "headline": "Khushi Episode 63 — Watch Online on HUM TV",
+    "dek": "Khushi episode 63 aired on 2026-11-14 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 63 aired on 2026-11-14 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Oyt7TXJEMI4"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 63 aired on 2026-11-14.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Oyt7TXJEMI4",
+      "YouTube views: 280,287."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Oyt7TXJEMI4/hqdefault.jpg",
+        "caption": "Khushi Episode 63",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-14T15:00:27Z"
+  },
+  "ou3z6s": {
+    "id": "ou3z6s",
+    "type": "news",
+    "headline": "Uswah Episode 52 — Watch Online on Geo TV",
+    "dek": "Uswah episode 52 aired on 2026-11-14 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 52 aired on 2026-11-14 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=plFvcyS24Sc"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 52 aired on 2026-11-14.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=plFvcyS24Sc",
+      "YouTube views: 895,036."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/plFvcyS24Sc/hqdefault.jpg",
+        "caption": "Uswah Episode 52",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-14T15:00:19Z"
+  },
+  "1fhp08s": {
+    "id": "1fhp08s",
+    "type": "news",
+    "headline": "Izzat Episode 56 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 56 aired on 2026-11-14 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 56 aired on 2026-11-14 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=eExG78dFNQ8"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 56 aired on 2026-11-14.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=eExG78dFNQ8",
+      "YouTube views: 4,593."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/eExG78dFNQ8/hqdefault.jpg",
+        "caption": "Izzat Episode 56",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-14T15:00:02Z"
+  },
+  "tgtl2e": {
+    "id": "tgtl2e",
+    "type": "news",
+    "headline": "Dastoor Episode 85 — Watch Online on Green TV",
+    "dek": "Dastoor episode 85 aired on 2026-11-14 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 85 aired on 2026-11-14 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Ieyj4l3Q7e0"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 85 aired on 2026-11-14.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Ieyj4l3Q7e0",
+      "YouTube views: 114,459.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Ieyj4l3Q7e0/hqdefault.jpg",
+        "caption": "Dastoor Episode 85",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-14T14:45:15Z"
+  },
+  "1ncc6tg": {
+    "id": "1ncc6tg",
+    "type": "news",
+    "headline": "Sarod Maestro Amjad Ali Khan Faces Travel Crisis as British Airways Loses Six Instruments Ahead of US Concert",
+    "dek": "Renowned musician Amjad Ali Khan and his troupe are stranded without their essential musical instruments after a British Airways flight delay, threatening their upcoming American tour schedule.",
+    "body": [
+      {
+        "h": "The Missing Baggage Crisis",
+        "p": [
+          "Legendary sarod maestro Amjad Ali Khan recently encountered a stressful situation when six musical instruments belonging to his touring party went missing following a journey with British Airways. The troupe, currently in the midst of a concert tour across the United States, found themselves grounded without the crucial gear needed for their scheduled live performances.",
+          "The missing luggage contains six separate pieces holding the group's specialized instruments. With a major performance looming shortly after the incident, the maestro and his team have appealed directly to the carrier to locate and expedite the delayed baggage on an absolute priority basis."
+        ]
+      },
+      {
+        "h": "Family and Troupe Involvement",
+        "p": [
+          "Accompanying the veteran musician on this international tour are his talented sons and fellow musicians, Amaan Ali Bangash and Ayaan Ali Bangash. As core members of the performing entourage, they share in the predicament as they wait for the carrier to track down the vital equipment.",
+          "The family and their accompanying artists rely entirely on these specific instruments for their professional engagements, making the delay a major obstacle to executing their planned tour dates seamlessly across various American cities."
+        ]
+      },
+      {
+        "h": "Echoes of Past Incidents",
+        "p": [
+          "This unfortunate incident is not the first time the veteran musician has faced logistical nightmares with the same airline. A striking parallel occurred back in 2014, when his cherished sarod—affectionately named Ganga—went missing for a grueling 48-hour period during a flight from London to Delhi before finally being recovered.",
+          "That historic scare left a lasting impression, and the recurrence of baggage mishandling a decade later has once again brought attention to the vulnerabilities artists face when traveling internationally with delicate, priceless cultural artifacts."
+        ]
+      },
+      {
+        "h": "At-Risk Concert Schedule",
+        "p": [
+          "According to the maestro's official itinerary and website details, the tour is structured across October and November, featuring performances spread over a multi-day span. A high-profile concert was scheduled to take place at the Montalvo Arts Center Carriage House Theatre in Saratoga, California.",
+          "In addition to the California event, the tour map includes two more upcoming concerts planned for November 21 and November 22. With performances tightly scheduled, the delayed delivery of the instruments places immense pressure on the troupe to make it to the stage on time."
+        ]
+      },
+      {
+        "h": "Public Appeal on Social Media",
+        "p": [
+          "Taking matters to the digital sphere on Friday morning, Amjad Ali Khan issued a series of urgent public messages on X, tagging the official airline handle to draw immediate attention. He emphasized that the instruments are indispensable to their live shows and stressed the urgency of having the six delayed baggage pieces delivered as soon as possible.",
+          "In a follow-up social media post, he reiterated that upcoming professional commitments and performances hinge entirely on the gear. He urged the carrier's customer service channels to treat the matter with immediate attention and assist in resolving the logistical failure swiftly."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Airline Response",
+        "p": [
+          "The maestro's public pleas quickly drew widespread attention from devoted admirers, who flooded the comment sections and tagged the airline to demand swift action. One proactive supporter even looped in former British Prime Minister Rishi Sunak, requesting political intervention to prompt the carrier into returning the instruments.",
+          "In response to the mounting public pressure, a spokesperson for British Airways stated that representatives are in direct contact with the customer. The airline affirmed that it is undertaking every possible effort to reunite the musician with his baggage at the earliest opportunity while offering a sincere apology for the inconvenience caused."
+        ]
+      },
+      {
+        "h": "A Pattern of Instrument Mishandling",
+        "p": [
+          "The latest incident highlights a broader, recurring pattern of criticism directed at the carrier regarding the mishandling, delay, and occasional damage of musical instruments belonging to prominent artists. Industry professionals frequently voice concerns over how airlines handle fragile cargo.",
+          "Just last year, guitars belonging to The Staples Jr Singers suffered loss and damage on a London-to-Paris flight operated by the company, while instruments belonging to The Bridge City Sinners were also misplaced earlier this year, fueling ongoing scrutiny over airline baggage protocols."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sarod maestro Amjad Ali Khan and his troupe, including Amaan Ali Bangash and Ayaan Ali Bangash, found their musical instruments delayed by British Airways ahead of a US tour. The musician appealed on X for urgent delivery of the six missing bags to preserve their concert schedule, prompting an apology and a promise of assistance from the airline."
+        ]
+      }
+    ],
+    "facts": [
+      "Amjad Ali Khan's six musical instruments went missing after a British Airways flight.",
+      "The incident occurred ahead of a US concert tour.",
+      "The troupe includes his sons Amaan Ali Bangash and Ayaan Ali Bangash.",
+      "A similar incident happened in 2014 when his sarod named Ganga was lost for 48 hours between London and Delhi.",
+      "A concert was planned at the Montalvo Arts Center Carriage House Theatre in Saratoga, California, on November 14.",
+      "Two more concerts are scheduled for November 21 and November 22.",
+      "Amjad Ali Khan posted appeals on X on Friday morning.",
+      "Other incidents involving the airline include lost guitars of The Staples Jr Singers last year and misplaced instruments of The Bridge City Sinners this year."
+    ],
+    "entities": {
+      "people": [
+        "Amjad Ali Khan",
+        "Amaan Ali Bangash",
+        "Ayaan Ali Bangash",
+        "Rishi Sunak"
+      ],
+      "titles": [
+        "The Staples Jr Singers",
+        "The Bridge City Sinners"
+      ]
+    },
+    "keywords": [
+      "Amjad Ali Khan",
+      "British Airways",
+      "Amaan Ali Bangash",
+      "Ayaan Ali Bangash"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135837507,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sarod Maestro Amjad Ali Khan Faces Travel Crisis as British Airways Loses Six Instruments Ahead of US Concert",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T21:51:04+05:30"
+  },
+  "1d6rsta": {
+    "id": "1d6rsta",
+    "type": "news",
+    "headline": "Veteran Telugu Actor Giri Babu Passes Away at 83; Chiranjeevi and Anil Ravipudi Pay Tribute",
+    "dek": "Renowned actor, director, and producer Giri Babu has died at the age of 83, prompting an outpouring of grief and tributes from across the Telugu film industry.",
+    "body": [
+      {
+        "h": "The Passing of a Telugu Cinema Legend",
+        "p": [
+          "The veteran Telugu actor Giri Babu has passed away at the age of 83. His death on Saturday has deeply shaken the entertainment community, leaving a profound void in the hearts of colleagues and admirers alike.",
+          "With a career spanning over five decades, Giri Babu left an indelible mark on Telugu cinema through hundreds of memorable performances. His sudden departure marks the end of an era for regional filmmaking."
+        ]
+      },
+      {
+        "h": "Early Life and Entry into Cinema",
+        "p": [
+          "Born on June 8, 1943, in Ravinuthala village within the Prakasam district of Andhra Pradesh, Giri Babu originated from an ordinary farming family before breaking into the movie business.",
+          "He made his official acting debut in the 1973 film Jagame Maya. In the early stages of his career, he frequently took on negative roles before successfully transitioning into a diverse array of characters, including heroes, comedians, and vital character parts."
+        ]
+      },
+      {
+        "h": "A Versatile Career Across Six Hundred Films",
+        "p": [
+          "Throughout his prolific career, Giri Babu appeared in more than 600 films. His distinct acting style and versatility allowed him to seamlessly shift between different personas on the silver screen.",
+          "Beyond acting, he also expanded his creative footprint by working behind the camera as a producer and a director, further contributing to the growth and development of the industry."
+        ]
+      },
+      {
+        "h": "Directorial and Production Ventures",
+        "p": [
+          "As a producer, Giri Babu backed several notable projects during his active years in the industry, including films such as Simha Garjana, Merupudadi, and Indrajith.",
+          "His creative endeavors also extended to direction, where he helmed projects including Ranarangam, Indrajith, and Nee Sukhame Ne Korukunna, showcasing his multifaceted talents."
+        ]
+      },
+      {
+        "h": "Final Screen Appearance",
+        "p": [
+          "Even in his later years, Giri Babu maintained a connection to the craft that defined his life. His final screen appearance came in the 2023 Telugu film Anni Manchi Sakunamule.",
+          "That concluding performance added one final chapter to a legendary filmography that spanned over fifty years of dedicated cinematic service."
+        ]
+      },
+      {
+        "h": "Industry Leaders and Politicians Pay Tribute",
+        "p": [
+          "Following the news of his passing, prominent figures from the Telugu film industry and political sphere took to social media to express their condolences. Megastar Chiranjeevi shared his shock, praising Giri Babu's distinctive style and contributions as an actor, producer, and director.",
+          "Director Anil Ravipudi highlighted the artist's remarkable versatility, noting that his memorable performances will forever remain with cinema lovers. Meanwhile, Andhra Pradesh Chief Minister N Chandrababu Naidu remembered the late actor's humble beginnings and his decades of delighting audiences as a villain, comedian, and character artist."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran Telugu actor Giri Babu has died at the age of 83, bringing a close to a career that spanned over 600 films and five decades. Industry icons such as Chiranjeevi and Anil Ravipudi, along with Andhra Pradesh Chief Minister N Chandrababu Naidu, shared heartfelt tributes honoring his multifaceted legacy as an actor, producer, and director."
+        ]
+      }
+    ],
+    "facts": [
+      "Giri Babu died at the age of 83 on Saturday.",
+      "He was born on June 8, 1943, in Ravinuthala village of Andhra Pradesh's Prakasam district.",
+      "He made his acting debut in the 1973 film Jagame Maya.",
+      "He appeared in over 600 films over a five-decade career.",
+      "He produced films including Simha Garjana, Merupudadi, and Indrajith.",
+      "He directed films including Ranarangam, Indrajith, and Nee Sukhame Ne Korukunna.",
+      "His last screen appearance was in the 2023 film Anni Manchi Sakunamule."
+    ],
+    "entities": {
+      "people": [
+        "Giri Babu",
+        "Chiranjeevi",
+        "Anil Ravipudi",
+        "N Chandrababu Naidu"
+      ],
+      "titles": [
+        "Jagame Maya",
+        "Simha Garjana",
+        "Merupudadi",
+        "Indrajith",
+        "Ranarangam",
+        "Nee Sukhame Ne Korukunna",
+        "Anni Manchi Sakunamule"
+      ]
+    },
+    "keywords": [
+      "Giri Babu",
+      "Chiranjeevi",
+      "Anil Ravipudi",
+      "N Chandrababu Naidu",
+      "Jagame Maya"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/giri_babu_1794671322154_RosQ_1794671322339_HHc4_3fc09bd2-4828-46d3-ba72-afc9cfa4f2df_IjOC.jpg",
+        "caption": "Veteran Telugu Actor Giri Babu Passes Away at 83; Chiranjeevi and Anil Ravipudi Pay Tribute",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 21:29:14 +0530"
+  },
+  "1rxpvue": {
+    "id": "1rxpvue",
+    "type": "news",
+    "headline": "Daniel Kaluuya and Tyriq Withers Go Viral With Airport Interview During FAA Ground Stop",
+    "dek": "Actors Daniel Kaluuya and Tyriq Withers found themselves stranded at an Oregon airport following a sudden nationwide FAA ground stop, leading to an unexpected and humorous media appearance.",
+    "body": [
+      {
+        "h": "The Unexpected Airport Chaos",
+        "p": [
+          "Travel plans across the United States were thrown into sudden disarray when a nationwide Federal Aviation Administration ground stop took effect. Among the thousands of affected travelers were actors Daniel Kaluuya and Tyriq Withers, who were forced to deboard an aircraft that was originally scheduled to fly toward Los Angeles.",
+          "The unexpected disruption left passengers navigating terminal confusion as the aviation agency implemented the sweeping halt for safety reasons. Rather than staying quiet in the terminal, the stranded performers ended up speaking with local reporters who were covering the unfolding travel crisis."
+        ]
+      },
+      {
+        "h": "A Viral Interview in Oregon",
+        "p": [
+          "The actors captured public attention while waiting inside Eugene Airport in the state of Oregon. Local station KVAL News approached the pair to discuss the chaotic terminal environment, prompting a memorable on-camera exchange that quickly circulated across social media platforms.",
+          "Withers leaned into the surreal atmosphere of the evening with theatrical gratitude. He humorously thanked both higher powers and federal regulators for keeping travelers safe, injecting a dose of levity into an otherwise frustrating evening for stranded flyers."
+        ]
+      },
+      {
+        "h": "Memes and Pop Culture References",
+        "p": [
+          "During the impromptu conversation, Withers dropped a clever nod to an older internet meme. He channeled a famous quote from a 2016 local news segment about a partygoer complaining about a venue closure, adapting the lines to express his disbelief over airport restrictions.",
+          "The reporter could not contain laughter at the remark. Meanwhile, Kaluuya stood nearby, chuckling at his companion's comedic delivery before offering his own perspective on the situation to the camera."
+        ]
+      },
+      {
+        "h": "Kaluuya's Perspective on Safety",
+        "p": [
+          "While acknowledging that the sudden cancellation was undoubtedly an inconvenience, Kaluuya struck a more reflective tone during the interview. He emphasized that passenger well-being should remain the primary focus during such unprecedented operational pauses.",
+          "The Oscar-winning actor noted that travelers should consider the potential lives protected by such swift regulatory interventions. His grounded reaction balanced out Withers' more eccentric comedic cadence during the broadcast."
+        ]
+      },
+      {
+        "h": "Other Celebrities Caught in the Halt",
+        "p": [
+          "The unexpected aviation shutdown extended far beyond Oregon, catching multiple high-profile figures off guard in different parts of the country. Actress Brooks Nader also experienced travel delays while preparing to journey down south.",
+          "Nader was seated on a private aircraft preparing to depart from New York when the restriction order came down. Her intended destination was Louisiana, where she planned to catch an upcoming collegiate football match."
+        ]
+      },
+      {
+        "h": "The Scope of the FAA Shutdown",
+        "p": [
+          "The federal agency initiated the sudden nationwide halt just before four o'clock in the afternoon, pointing to extraordinary circumstances necessitating immediate safety measures. The restriction caused widespread flight delays and cancellations from coast to coast.",
+          "Fortunately, the disruption did not last indefinitely. Authorities lifted the emergency ground stop shortly before half-past eight in the evening, allowing standard aviation schedules to gradually resume after a roughly four-hour freeze."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actors Daniel Kaluuya and Tyriq Withers unexpectedly went viral after giving a humorous interview at an Oregon airport while stranded by a nationwide FAA ground stop. The emergency aviation pause also affected other public figures like Brooks Nader, but normal travel eventually resumed after federal regulators lifted the restriction later that evening."
+        ]
+      }
+    ],
+    "facts": [
+      "Daniel Kaluuya is 37 years old.",
+      "Tyriq Withers is 28 years old.",
+      "Brooks Nader is 29 years old.",
+      "The FAA announced the nationwide ground stop just before 4 p.m. Friday.",
+      "The ground stop was lifted just before 8:30 p.m., roughly four hours after it was issued."
+    ],
+    "entities": {
+      "people": [
+        "Daniel Kaluuya",
+        "Tyriq Withers",
+        "Brooks Nader"
+      ],
+      "titles": [
+        "Get Out",
+        "Baywatch",
+        "Love Thy Nader"
+      ]
+    },
+    "keywords": [
+      "Daniel Kaluuya",
+      "Tyriq Withers",
+      "FAA ground stop",
+      "Eugene Airport",
+      "Brooks Nader"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148746060.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Daniel Kaluuya and Tyriq Withers Go Viral With Airport Interview During FAA Ground Stop",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:19:55 -0500"
+  },
+  "1qroohs": {
+    "id": "1qroohs",
+    "type": "news",
+    "headline": "Mumbai Court Releases Accused in Sonakshi Sinha Morphed Photos Case Citing Illegal Arrest",
+    "dek": "A Mumbai court has ordered the immediate release of an accused man detained in Delhi over the alleged circulation of morphed nude photographs of actor Sonakshi Sinha, pointing out procedural lapses and violations of legal safeguards.",
+    "body": [
+      {
+        "h": "Introduction to the Case",
+        "p": [
+          "A judicial magistrate in Mumbai ordered the release of an individual who had been detained in the national capital in connection with the online distribution of manipulated nude photographs belonging to well-known actor Sonakshi Sinha. The actor had earlier approached local authorities to lodge a formal complaint against the digital harassment.",
+          "Law enforcement officials in Mumbai registered a formal case at the Bandra police station following the complaint. The grievance detailed how manipulated pictures of the celebrity were being circulated across various social media platforms by a suspect based in Delhi."
+        ]
+      },
+      {
+        "h": "Detention and Transit",
+        "p": [
+          "The suspect, identified in court records as Aryan Deepak Jain, was taken into custody by authorities from the Jagatpuri Police Station situated in the Shahdara district of Delhi. Following the apprehension, he was flown directly to Mumbai to be produced before a local magistrate.",
+          "Police officials sought a three-day custodial remand of the individual. The primary rationale provided by the investigating team was the necessity to track down the digital devices utilized in generating and spreading the offensive material."
+        ]
+      },
+      {
+        "h": "Court Observers and Procedural Flaws",
+        "p": [
+          "Upon reviewing the circumstances of the apprehension, the presiding magistrate noticed glaring omissions in the execution of standard legal protocols. Specifically, the authorities failed to produce the detained person before the nearest local magistrate in Delhi prior to interstate transit.",
+          "The court highlighted that the investigating agency could not provide a reasonable justification for bypassing this mandatory step. Direct transit from Delhi to Mumbai without local judicial clearance was deemed a clear violation of established legal requirements."
+        ]
+      },
+      {
+        "h": "Arguments by the Defense Counsel",
+        "p": [
+          "The legal representatives appearing for the accused—namely Aman Shahi, Prashant Trivedi, and Aditya Jain—vehemently contested the police remand plea. They pointed out that mandatory arrest notices were never served to their client, nor were the proper grounds of arrest clearly communicated.",
+          "Defense attorneys further emphasized that rushing the individual out of Delhi's jurisdiction by flight reflected an unusual haste, which they attributed to the high-profile nature of the celebrity complainant. The accused maintained his complete innocence throughout the proceedings."
+        ]
+      },
+      {
+        "h": "Application of BNSS Safeguards",
+        "p": [
+          "The magistrate examined the statutory provisions governing the offences invoked, which carried potential prison terms of up to seven years. Because of this threshold, compliance with Section 35(1)(b) of the Bharatiya Nagarik Suraksha Sanhita (BNSS) was strictly required.",
+          "The court observed that the official records lacked any satisfactory documentation demonstrating the necessity of the arrest or compliance with the specified recording procedures mandated by the statute."
+        ]
+      },
+      {
+        "h": "Significance of Statutory Compliance",
+        "p": [
+          "In its final observations, the judiciary underscored that the mere requirement of carrying out further investigation cannot override the absolute necessity of adhering to established legal safeguards during an arrest.",
+          "The bench reiterated that detention without following due process remains legally unsustainable, regardless of the investigative goals or the gravity of the allegations raised by the complainant."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A Mumbai court ordered the release of Aryan Deepak Jain, who was arrested in Delhi over the alleged circulation of morphed photographs of actor Sonakshi Sinha. The magistrate flagged multiple violations of legal procedures and BNSS safeguards, noting that the police failed to produce the accused before a local magistrate in Delhi before bringing him to Mumbai."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred in Mumbai and Delhi on November 14, 2026.",
+      "Aryan Deepak Jain was arrested from Jagatpuri Police Station in Delhi's Shahdara area at around 10.11 am.",
+      "The case was registered at Mumbai's Bandra police station.",
+      "The offences involved are punishable with imprisonment of up to seven years under Section 35(1)(b) of the BNSS."
+    ],
+    "entities": {
+      "people": [
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Vidya",
+        "Tanu Jain"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sonakshi Sinha morphed photos case",
+      "Aryan Deepak Jain Mumbai court",
+      "Sonakshi Sinha Delhi man arrest",
+      "Bandra police station Sonakshi Sinha"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/sonakshi-sinha-141950970-16x9.jpg?VersionId=oazw6971WwTxRYJdUgYb_R7_dD_I2.Q5",
+        "caption": "Mumbai Court Releases Accused in Sonakshi Sinha Morphed Photos Case Citing Illegal Arrest",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 22:06:26 +0530"
   }
 };
