@@ -143502,5 +143502,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 04:48:38 GMT"
+  },
+  "1k8t3qh": {
+    "id": "1k8t3qh",
+    "type": "news",
+    "headline": "Ramayana Day 10 Advance Booking Proves Massive As Presales Cross 400 Crore Milestone",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana continues its triumphant theatrical run, racking up impressive advance ticket sales on its tenth day and crossing a monumental milestone.",
+    "body": [
+      {
+        "h": "The Mythological Epic Hits The Big Screen",
+        "p": [
+          "Nitesh Tiwari's grand cinematic adaptation of the Ramayana has established itself as one of the major conversational focal points throughout the Diwali festive period. Backed by substantial financial resources and an expansive scope, the film has drawn considerable industry attention from the moment its production scale and casting choices were revealed. Bringing together a vast ensemble cast, the project stands out as a major theatrical attraction.",
+          "The feature hit silver screens globally on November 5, 2026, quickly translating pre-release buzz into formidable box office momentum. Industry analysts and trade trackers have closely monitored its daily trajectory, noting how the film has dominated public interest during a competitive holiday window."
+        ]
+      },
+      {
+        "h": "An All-Star Cast Spearheads The Project",
+        "p": [
+          "The mythological drama features a prominent lineup of notable performers from across the entertainment industry. Leading the cast are Ranbir Kapoor, Yash, and Sai Pallavi, who deliver powerhouse performances that have earned widespread praise from audiences and critics alike. Their screen presence forms the emotional and narrative core of the grand production.",
+          "Complementing the primary trio is a supporting roster that includes Rakul Preet Singh, Lara Dutta, Vivek Oberoi, Arun Govil, and Sheeba Chadha. Each actor contributes to the sprawling narrative, bringing recognized faces and seasoned talent to various key roles within the epic tale."
+        ]
+      },
+      {
+        "h": "Critical Acclaim And Record-Breaking Pace",
+        "p": [
+          "Following its theatrical debut, the film received enthusiastic reviews from industry commentators. Prominent critic Ramesh Bala awarded the feature a five-star rating, hailing it as an absolute cinema experience and a monumental cinematic masterpiece. His critique specifically highlighted the breathtaking visuals, extraordinary storytelling, goosebumps-inducing elevations, and standout acting.",
+          "This critical praise mirrored the film's extraordinary financial velocity. The feature reportedly surpassed the one thousand crore worldwide earnings threshold within a mere eight-week—or rather, eight-day—span, marking it as one of the fastest domestic releases to enter that elite club. Domestically in India, the feature crossed the six hundred crore mark within its first nine days."
+        ]
+      },
+      {
+        "h": "Sustained Momentum In The Second Weekend",
+        "p": [
+          "As the mythological epic transitioned into its second weekend, ticket counters remained remarkably active. Even at this stage of its theatrical run, the feature continued to roar loud at the ticket windows, driven by steady consumer demand. This ongoing enthusiasm is particularly evident when examining the pre-sale metrics.",
+          "According to data reported by Sacnilk, the feature generated thirty-eight point one nine crore rupees from advance bookings alone for its tenth day. This figure was achieved through the successful sale of eleven point four three lakh tickets across participating territories."
+        ]
+      },
+      {
+        "h": "Comparing Presales Across The Run",
+        "p": [
+          "A fascinating aspect of the tenth day's performance is how it stacks up against earlier phases of the release window. Notably, the presales recorded for day ten actually surpassed the advance figures achieved on the second day, which stood at thirty point six three crore rupees.",
+          "The complete day-wise breakdown of advance collections illustrates the consistent demand throughout the run: day one brought in fifty point zero eight crore rupees, day two saw thirty point six three crore rupees, day three hit forty-seven point four six crore rupees, and day four reached thirty-nine point seven two crore rupees."
+        ]
+      },
+      {
+        "h": "Tracking The Daily Advance Figures",
+        "p": [
+          "The trajectory continued through the middle of the first week with day five recording fifty-nine point five one crore rupees, day six bringing in forty-nine point five three crore rupees, day seven registering thirty-five point one one crore rupees, and day eight dropping slightly to twenty-six point six six crore rupees.",
+          "Moving toward the end of the first week and into the weekend, day nine secured twenty-three point four five crore rupees in advance bookings, leading up to the strong thirty-eight point one nine crore rupee tally on day ten."
+        ]
+      },
+      {
+        "h": "Milestone Total In Advance Bookings",
+        "p": [
+          "Through this steady accumulation of advance sales, the feature crossed a massive cumulative milestone. In total, the production has amassed a staggering four hundred point three four crore rupees purely from advance ticket sales across its first ten days in theaters.",
+          "This aggregate presale figure underscores the deep-rooted anticipation and sustained patronage from audiences eager to experience the mythological retelling on the big screen."
+        ]
+      },
+      {
+        "h": "Overall Financial Earnings Across Territories",
+        "p": [
+          "In addition to advance booking triumphs, the overall box office tallies continue to climb impressively. On its ninth day alone, the feature secured forty-eight point one crore rupees within India, elevating its cumulative domestic total to six hundred and twelve point seven crore rupees.",
+          "Meanwhile, international markets contributed a robust three hundred and seventy-eight point five crore rupees, bringing the combined worldwide box office collection to an astounding one thousand one hundred and eleven crore rupees."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has maintained an exceptionally strong theatrical presence during its second weekend, crossing the four hundred crore rupee mark in total advance bookings by its tenth day. Backed by a stellar cast including Ranbir Kapoor, Yash, and Sai Pallavi, the mythological epic continues to shatter records with a worldwide total reaching one thousand one hundred and eleven crore rupees."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana was released on November 5, 2026.",
+      "The film crossed Rs 1,000 crore worldwide within eight days.",
+      "In India, the film collected over Rs 600 crore in nine days.",
+      "Ramesh Bala gave the film a 5 star rating.",
+      "Day 10 advance booking collection was Rs 38.19 crore with 11.43 lakh tickets sold.",
+      "Day 2 advance booking collection was Rs 30.63 crore.",
+      "Total advance booking collection in 10 days is Rs 400.34 crore.",
+      "Day 1 advance booking was Rs 50.08 crore.",
+      "Day 3 advance booking was Rs 47.46 crore.",
+      "Day 4 advance booking was Rs 39.72 crore.",
+      "Day 5 advance booking was Rs 59.51 crore.",
+      "Day 6 advance booking was Rs 49.53 crore.",
+      "Day 7 advance booking was Rs 35.11 crore.",
+      "Day 8 advance booking was Rs 26.66 crore.",
+      "Day 9 advance booking was Rs 23.45 crore.",
+      "Day 9 collection in India was Rs 48.1 crore.",
+      "Overall collection in India reached Rs 612.7 crore.",
+      "Total overseas collection was Rs 378.5 crore.",
+      "Worldwide collection reached Rs 1111 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Sheeba Chadha",
+        "Ramesh Bala"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking collection",
+      "Ramayana box office day 10",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday10presalesfeature-53541794637048.jpg",
+        "caption": "Ramayana Day 10 Advance Booking Proves Massive As Presales Cross 400 Crore Milestone",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:49:18 +0530"
+  },
+  "1q60x9b": {
+    "id": "1q60x9b",
+    "type": "news",
+    "headline": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
+    "dek": "Acclaimed filmmaker Michael Mann finds himself locked in a federal court dispute with New Regency over the copyright ownership of his 1995 masterpiece Heat.",
+    "body": [
+      {
+        "h": "The Legal Dispute",
+        "p": [
+          "A major legal conflict has erupted between acclaimed director Michael Mann and production company New Regency regarding the copyright ownership of the 1995 crime classic Heat. Following multiple attempts by Mann this year to reclaim his original screenplay under copyright termination provisions, New Regency filed a lawsuit in federal court. The Yariv Milchan-run company is seeking to have Mann's trio of termination notices declared completely defective and invalid.",
+          "The core of New Regency's legal argument rests on the assertion that Mann's work on the screenplay constituted a 'work for hire.' If upheld, this classification would render his termination notices dead on arrival, ensuring that the company maintains its long-held hold over the intellectual property and related television and film rights."
+        ]
+      },
+      {
+        "h": "Mann Counterattacks",
+        "p": [
+          "Michael Mann and his legal representation are pushing back forcefully against New Regency's claims. Represented by Robert Klieger, Mann's team insists that the dispute centers around original, personal writing that the filmmaker completed on multiple screenplays during the 1980s. These early creative efforts eventually evolved into the iconic 1995 cinematic release that Mann wrote, produced, and directed.",
+          "After four decades, Mann is exercising the statutory rights afforded to authors to reclaim their original creations. Even with certain contractual rights having reverted to him under the WGA Basic Agreement, the CAA-repped director points to a previously overlooked 1988 oral agreement between himself and two of his loan-out companies that assigned him core rights as an independent author."
+        ]
+      },
+      {
+        "h": "High Stakes and Corporate Concerns",
+        "p": [
+          "New Regency, founded in 1991, is looking at both the historical implications and future business complications of the copyright challenge. Lawyers from Kendall Brill Kelly filed a 20-page complaint for declaratory relief outlining the severe risks involved if Mann's notices are given effect. The studio argues that it would strip them of rights held for over three decades beginning in 2028.",
+          "Furthermore, the company claims that the termination notices would cloud the title to the screenplay and jeopardize their ability to develop, finance, and license derivative works. Additionally, certain provisions in agreements that both Mann and Regency entered into with Amazon regarding the upcoming project depend directly on the outcome of this litigation."
+        ]
+      },
+      {
+        "h": "Separation from Heat 2",
+        "p": [
+          "Amidst the escalating legal drama, representatives for Michael Mann have clarified that the copyright lawsuit has no bearing on the production of the heavily anticipated prequel, Heat 2. Filming for the upcoming project is scheduled to begin shooting on January 19, moving forward independently of the federal court proceedings.",
+          "The upcoming prequel will see Mann directing from his own script, which is based on the number one New York Times bestselling novel he co-authored with Meg Gardiner in 2022. The high-profile feature boasts a star-studded cast featuring Leonardo DiCaprio, Christian Bale, Adam Driver, Stephen Graham, and Jason Clarke."
+        ]
+      },
+      {
+        "h": "Confidence in Statutory Rights",
+        "p": [
+          "Despite the formidable legal machinery of New Regency, Michael Mann's camp remains entirely unintimidated by the lawsuit. His legal representatives have stated publicly that they intend to vigorously defend the action in court.",
+          "Mann's team expressed full confidence that the judicial system will ultimately vindicate the filmmaker's statutory rights under the Copyright Act, ensuring he regains control over the foundational work of his legendary crime thriller."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Michael Mann and production company New Regency are locked in a federal lawsuit over the copyright ownership of the 1995 crime classic Heat. While New Regency claims the screenplay was a work for hire, Mann is utilizing copyright termination rights based on personal 1980s writing and a 1988 oral agreement. Both sides maintain distinct stakes in the outcome, though the legal battle will not interfere with the scheduled January 19 production start for the upcoming prequel Heat 2."
+        ]
+      }
+    ],
+    "facts": [
+      "The original Heat film was released in 1995.",
+      "New Regency filed a federal court lawsuit against Michael Mann on November 13, 2026.",
+      "Heat 2 is scheduled to begin filming on January 19.",
+      "The Heat 2 novel was co-authored by Michael Mann and Meg Gardiner in 2022.",
+      "New Regency was founded in 1991."
+    ],
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Al Pacino",
+        "Robert De Niro",
+        "Yariv Milchan",
+        "Robert Klieger",
+        "Meg Gardiner",
+        "Leonardo DiCaprio",
+        "Christian Bale",
+        "Adam Driver",
+        "Stephen Graham",
+        "Jason Clarke"
+      ],
+      "titles": [
+        "Heat",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "Michael Mann lawsuit",
+      "Heat film rights",
+      "New Regency Heat",
+      "Heat 2 movie"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1857917735.jpg?w=1024",
+        "caption": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 05:56:57 +0000"
+  },
+  "15p0lut": {
+    "id": "15p0lut",
+    "type": "news",
+    "headline": "YENA Teams Up with Japanese Idol Group CUTIE STREET for Surprise \"Sakuranbo\" Collaboration",
+    "dek": "Singer YENA has surprised fans by revealing a collaborative music video teaser with Japanese idol group CUTIE STREET for her upcoming track \"Sakuranbo\".",
+    "body": [
+      {
+        "h": "An Unexpected Musical Partnership",
+        "p": [
+          "Fans of solo artist YENA received a pleasant shock when a brand-new music video teaser was released featuring a surprise collaboration with the Japanese idol group CUTIE STREET. The announcement immediately generated intense buzz across digital platforms as followers pieced together the cross-border musical partnership.",
+          "The newly dropped preview offers a vibrant glimpse into the upcoming project, highlighting a unique blend of Korean pop stardom and Japanese idol energy. Viewers were quick to express their excitement upon discovering that the neighboring nation's performers would play a distinct role in the visual release."
+        ]
+      },
+      {
+        "h": "Inside the Retro-Themed Teaser",
+        "p": [
+          "The preview clip begins with a playful explosion of cherries bursting out from a retro-style jukebox, quickly flooding the frame with color before cutting to YENA and her bright, refreshing aesthetics. The setting adopts a distinctly kitschy, vintage restaurant backdrop that emphasizes a joyful and endearing mood.",
+          "As the clip progresses toward its conclusion, members of CUTIE STREET make their much-anticipated appearances. Donning outfits highlighted by striking red details, the Japanese idols step forward individually to display their personal charisma through cute gestures, leaving a memorable impact despite their brief screen time."
+        ]
+      },
+      {
+        "h": "Reimagining a Classic Hit",
+        "p": [
+          "The track at the center of this release is a fresh rendition of \"Sakuranbo,\" originally brought to fame by Japanese singer Ai Otsuka back in 2003. Known far and wide for its bouncy, infectious rhythm, the tune has endured as a timeless staple cherished across multiple generations.",
+          "More than two decades after its initial debut, the melody retains its widespread appeal. YENA’s modern interpretation breathes new life into the composition, bridging eras and cultures while honoring the enduring legacy of the original 2003 release."
+        ]
+      },
+      {
+        "h": "Release Schedule and Platform Details",
+        "p": [
+          "Audience anticipation has skyrocketed following the unannounced cameo by the Japanese group, leaving followers eager to witness the full collaborative chemistry on screen. The upcoming release is slated to drop across various digital music streaming platforms.",
+          "Marking calendars globally, the official launch is scheduled for November 17 at 6 PM KST. Fans will soon be able to experience both the audio track and the complete music video in its entirety."
+        ]
+      },
+      {
+        "h": "Tracing YENA's Musical Journey",
+        "p": [
+          "YENA first stepped into the spotlight as a member of the project group IZ*ONE following her debut in 2018. Her time with the ensemble helped solidify her presence in the competitive industry and paved the way for her eventual transition into a solo career.",
+          "In 2022, she officially launched her solo path with the energetic track \"SMILEY.\" Since then, she has continuously expanded her discography with successful releases such as \"SMARTPHONE,\" \"Good Morning,\" \"NEMONEMO,\" and \"Catch Catch.\""
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer YENA has released a music video teaser for her upcoming song \"Sakuranbo,\" featuring a surprise collaboration with Japanese idol group CUTIE STREET. The track, originally a 2003 hit by Ai Otsuka, is set to launch on streaming platforms on November 17 at 6 PM KST."
+        ]
+      }
+    ],
+    "facts": [
+      "YENA released a music video teaser on November 13 KST",
+      "The song \"Sakuranbo\" is a cover of a track originally released by Ai Otsuka in 2003",
+      "YENA's version of \"Sakuranbo\" will be released on November 17 at 6 PM KST",
+      "YENA debuted as a member of IZ*ONE in 2018",
+      "YENA launched her solo career in 2022 with \"SMILEY\""
+    ],
+    "entities": {
+      "people": [
+        "YENA",
+        "Ai Otsuka",
+        "Minsoo-Kim"
+      ],
+      "titles": [
+        "Sakuranbo",
+        "SMILEY",
+        "SMARTPHONE",
+        "Good Morning",
+        "NEMONEMO",
+        "Catch Catch",
+        "IZ*ONE",
+        "CUTIE STREET"
+      ]
+    },
+    "keywords": [
+      "YENA Sakuranbo",
+      "CUTIE STREET collaboration",
+      "Ai Otsuka Sakuranbo cover",
+      "YENA new song 2026"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 00:30:00 EST"
+  },
+  "1m3mp31": {
+    "id": "1m3mp31",
+    "type": "news",
+    "headline": "Dakota Mortensen Files Defamation Lawsuit Against Producers of The Secret Lives of Mormon Wives",
+    "dek": "Reality star Dakota Mortensen is suing Hulu and the production team of The Secret Lives of Mormon Wives for more than $300,000, alleging that scenes were deliberately staged to depict him as a domestic abuser and serial adulterer.",
+    "body": [
+      {
+        "h": "The Lawsuit Filed Against Hulu and Producers",
+        "p": [
+          "Reality television personality Dakota Mortensen has taken legal action against the production team behind the popular streaming series The Secret Lives of Mormon Wives as well as Hulu. Court documents indicate that the 33-year-old reality star is seeking damages exceeding $300,000.",
+          "The legal filing centers on allegations of defamation, with Mortensen claiming that the creators of the show intentionally manipulated narratives and manufactured fake storylines at his expense."
+        ]
+      },
+      {
+        "h": "Allegations of Staged Scenes and Fabricated Narratives",
+        "p": [
+          "According to the court documents, Mortensen asserts that producers staged specific interactions to create a false impression of his character. He maintains that the show falsely cast him as an obsessive former partner and a serial adulterer.",
+          "Furthermore, the lawsuit addresses specific un-aired and aired footage disputes. Mortensen claims that producers filmed an incident involving former star Taylor Frankie Paul striking someone with a pizza box that ultimately did not air, while other heavily edited sequences made it to the final broadcast."
+        ]
+      },
+      {
+        "h": "The Child Protective Services Controversy",
+        "p": [
+          "A major point of contention in the lawsuit involves a reported call made to Child Protective Services regarding Taylor Frankie Paul. Mortensen formally denies making the call to the agency.",
+          "He alleges that the production team deliberately attempted to portray him as a vindictive ex-boyfriend who retaliated against the mother of his child by involving child protective services."
+        ]
+      },
+      {
+        "h": "Impact on Reputation and Emotional Distress",
+        "p": [
+          "The legal complaint outlines the profound personal and professional fallout Mortensen has allegedly experienced since the episodes were released. He points to severe emotional distress and public humiliation stemming from how he was depicted.",
+          "Additionally, the lawsuit highlights that his business ventures have suffered due to the ruined reputation resulting from the controversial episodes, which continue to stream on Hulu."
+        ]
+      },
+      {
+        "h": "Specific Seasons and Legal Demands",
+        "p": [
+          "The lawsuit specifies that episodes from the third, fourth, and fifth seasons of the program contributed directly to presenting him to millions of viewers as a domestic abuser.",
+          "To address these grievances, Mortensen is demanding a jury trial alongside compensatory damages and other financial relief from the defendants."
+        ]
+      },
+      {
+        "h": "Background Context Involving Taylor Frankie Paul",
+        "p": [
+          "The legal action arrives following a period of turbulent personal history between Mortensen and his 32-year-old ex-girlfriend, Taylor Frankie Paul, who was previously a prominent cast member on the show.",
+          "The pair have navigated high-profile personal developments, including a major update in their ongoing custody battle that took place earlier in September."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dakota Mortensen has filed a lawsuit against Hulu and the producers of The Secret Lives of Mormon Wives seeking over $300,000 in damages for defamation. He alleges that the show purposefully staged scenes to falsely portray him as an abusive ex-partner and serial adulterer."
+        ]
+      }
+    ],
+    "facts": [
+      "Dakota Mortensen is 33 years old.",
+      "Taylor Frankie Paul is 32 years old.",
+      "The lawsuit seeks damages in excess of $300,000.",
+      "The legal action targets Hulu and the producers of The Secret Lives of Mormon Wives.",
+      "A custody battle update between Dakota and Taylor occurred in September."
+    ],
+    "entities": {
+      "people": [
+        "Dakota Mortensen",
+        "Taylor Frankie Paul"
+      ],
+      "titles": [
+        "The Secret Lives of Mormon Wives"
+      ]
+    },
+    "keywords": [
+      "Dakota Mortensen lawsuit",
+      "Secret Lives of Mormon Wives producers",
+      "Taylor Frankie Paul",
+      "Hulu defamation lawsuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/dakota-mortensen-suing-producers.jpg",
+        "caption": "Dakota Mortensen Files Defamation Lawsuit Against Producers of The Secret Lives of Mormon Wives",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 06:46:50 +0000"
   }
 };

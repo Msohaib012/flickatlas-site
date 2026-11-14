@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-14T05:19:46Z",
+  "generated": "2026-11-14T07:01:22Z",
   "realtime": {
-    "active_users": 3
+    "active_users": 1
   },
   "today": {
-    "users": 52,
-    "pageviews": 61,
-    "sessions": 55,
-    "avg_session_seconds": 12.6
+    "users": 75,
+    "pageviews": 114,
+    "sessions": 79,
+    "avg_session_seconds": 41.9
   },
   "last7": {
-    "users": 244,
-    "pageviews": 426,
-    "sessions": 289,
-    "avg_session_seconds": 36.7
+    "users": 267,
+    "pageviews": 479,
+    "sessions": 313,
+    "avg_session_seconds": 42.3
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 70,
-      "avg_time_seconds": 142.5
+      "views": 79,
+      "avg_time_seconds": 178.1
     },
     {
       "path": "/ott",
@@ -40,6 +40,12 @@
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
       "views": 14,
       "avg_time_seconds": 24.0
+    },
+    {
+      "path": "/search",
+      "title": "Search Movies, TV Shows & Entertainment News | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 25.7
     },
     {
       "path": "/most-awaited",
@@ -70,31 +76,25 @@
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
       "views": 12,
       "avg_time_seconds": 9.5
-    },
-    {
-      "path": "/person",
-      "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 4.8
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 267,
-      "users": 233
+      "sessions": 290,
+      "users": 256
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 8,
+      "sessions": 10,
       "users": 8
     },
     {
       "source": "search.google.com",
       "medium": "referral",
-      "sessions": 8,
+      "sessions": 9,
       "users": 1
     },
     {
@@ -106,28 +106,28 @@
   ],
   "countries": [
     {
-      "country": "United States",
-      "users": 46
+      "country": "Singapore",
+      "users": 49
     },
     {
-      "country": "Singapore",
-      "users": 44
+      "country": "United States",
+      "users": 49
     },
     {
       "country": "Brazil",
-      "users": 36
+      "users": 42
     },
     {
       "country": "Hong Kong",
-      "users": 23
+      "users": 24
     },
     {
       "country": "Argentina",
-      "users": 14
+      "users": 16
     },
     {
       "country": "Vietnam",
-      "users": 14
+      "users": 15
     },
     {
       "country": "Pakistan",
@@ -138,18 +138,18 @@
       "users": 10
     },
     {
-      "country": "Malaysia",
-      "users": 9
+      "country": "Japan",
+      "users": 10
     },
     {
-      "country": "Indonesia",
-      "users": 8
+      "country": "Malaysia",
+      "users": 10
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 239
+      "users": 262
     },
     {
       "device": "mobile",

@@ -3,6 +3,14 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1806668,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
       "id": 1368337,
@@ -91,6 +99,43 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "US",
+      "date": "2026-11-14",
+      "date_kind": "digital",
+      "id": 1716604,
+      "providers": [
+        {
+          "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+          "name": "Disney+"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-14",
+      "date_kind": "release",
+      "id": 1776645,
+      "providers": [
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "CA",
+      "date": "2026-11-14",
+      "date_kind": "digital",
+      "id": 1803919,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "AU",
       "date": "2026-11-14",
       "date_kind": "digital",
@@ -99,19 +144,11 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "date": "2026-11-13",
-      "date_kind": "release",
-      "id": 1314786,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
-        }
-      ],
+      "country": "IT",
+      "date": "2026-11-14",
+      "date_kind": "digital",
+      "id": 1806490,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -140,7 +177,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-13",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1636756,
       "providers": [
         {
@@ -158,6 +195,35 @@ window.FA_OTT = {
         {
           "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
           "name": "Chaupal Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1819101,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1816354,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1816385,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
       "type": "movie"
@@ -2729,6 +2795,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IT",
+      "date": "2026-05-26",
+      "date_kind": "digital",
+      "id": 1815448,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-05-22",
       "date_kind": "release",
       "id": 1228710,
@@ -2884,6 +2958,22 @@ window.FA_OTT = {
         {
           "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
           "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-03-20",
+      "date_kind": "digital",
+      "id": 1314786,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"

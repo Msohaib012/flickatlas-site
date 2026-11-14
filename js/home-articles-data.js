@@ -44,6 +44,142 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 14 Nov 2026 09:34:30 +0200"
   },
+  "1m3mp31": {
+    "id": "1m3mp31",
+    "type": "news",
+    "headline": "Dakota Mortensen Files Defamation Lawsuit Against Producers of The Secret Lives of Mormon Wives",
+    "dek": "Reality star Dakota Mortensen is suing Hulu and the production team of The Secret Lives of Mormon Wives for more than $300,000, alleging that scenes were deliberately staged to depict him as a domestic abuser and serial adulterer.",
+    "entities": {
+      "people": [
+        "Dakota Mortensen",
+        "Taylor Frankie Paul"
+      ],
+      "titles": [
+        "The Secret Lives of Mormon Wives"
+      ]
+    },
+    "keywords": [
+      "Dakota Mortensen lawsuit",
+      "Secret Lives of Mormon Wives producers",
+      "Taylor Frankie Paul",
+      "Hulu defamation lawsuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/dakota-mortensen-suing-producers.jpg",
+        "caption": "Dakota Mortensen Files Defamation Lawsuit Against Producers of The Secret Lives of Mormon Wives",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 06:46:50 +0000"
+  },
+  "1k8t3qh": {
+    "id": "1k8t3qh",
+    "type": "news",
+    "headline": "Ramayana Day 10 Advance Booking Proves Massive As Presales Cross 400 Crore Milestone",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana continues its triumphant theatrical run, racking up impressive advance ticket sales on its tenth day and crossing a monumental milestone.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Sheeba Chadha",
+        "Ramesh Bala"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking collection",
+      "Ramayana box office day 10",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday10presalesfeature-53541794637048.jpg",
+        "caption": "Ramayana Day 10 Advance Booking Proves Massive As Presales Cross 400 Crore Milestone",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:49:18 +0530"
+  },
+  "1q60x9b": {
+    "id": "1q60x9b",
+    "type": "news",
+    "headline": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
+    "dek": "Acclaimed filmmaker Michael Mann finds himself locked in a federal court dispute with New Regency over the copyright ownership of his 1995 masterpiece Heat.",
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Al Pacino",
+        "Robert De Niro",
+        "Yariv Milchan",
+        "Robert Klieger",
+        "Meg Gardiner",
+        "Leonardo DiCaprio",
+        "Christian Bale",
+        "Adam Driver",
+        "Stephen Graham",
+        "Jason Clarke"
+      ],
+      "titles": [
+        "Heat",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "Michael Mann lawsuit",
+      "Heat film rights",
+      "New Regency Heat",
+      "Heat 2 movie"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1857917735.jpg?w=1024",
+        "caption": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 05:56:57 +0000"
+  },
+  "15p0lut": {
+    "id": "15p0lut",
+    "type": "news",
+    "headline": "YENA Teams Up with Japanese Idol Group CUTIE STREET for Surprise \"Sakuranbo\" Collaboration",
+    "dek": "Singer YENA has surprised fans by revealing a collaborative music video teaser with Japanese idol group CUTIE STREET for her upcoming track \"Sakuranbo\".",
+    "entities": {
+      "people": [
+        "YENA",
+        "Ai Otsuka",
+        "Minsoo-Kim"
+      ],
+      "titles": [
+        "Sakuranbo",
+        "SMILEY",
+        "SMARTPHONE",
+        "Good Morning",
+        "NEMONEMO",
+        "Catch Catch",
+        "IZ*ONE",
+        "CUTIE STREET"
+      ]
+    },
+    "keywords": [
+      "YENA Sakuranbo",
+      "CUTIE STREET collaboration",
+      "Ai Otsuka Sakuranbo cover",
+      "YENA new song 2026"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 00:30:00 EST"
+  },
   "1kvjjjo": {
     "id": "1kvjjjo",
     "type": "news",
@@ -4477,176 +4613,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 05:21:23 +0000"
-  },
-  "jxr4j": {
-    "id": "jxr4j",
-    "type": "news",
-    "headline": "Rosalía Secures Historic Third Album of the Year Win at the Latin Grammys",
-    "dek": "The Spanish singer achieved a major milestone at the 27th Annual Latin GRAMMY Awards, taking home the top honor for her ambitious LP Lux.",
-    "entities": {
-      "people": [
-        "Rosalía",
-        "Juanes",
-        "Jorge Drexler",
-        "Karol G",
-        "Carín León",
-        "Anitta",
-        "Mon Laferte",
-        "CA7RIEL Paco Amoroso",
-        "Silvana Estrada",
-        "Rawayana",
-        "Milo J"
-      ],
-      "titles": [
-        "LUX (Complete Works)",
-        "Lux",
-        "El Mal Querer",
-        "Motomami"
-      ]
-    },
-    "keywords": [
-      "Rosalia Latin Grammys",
-      "Lux Album of the Year",
-      "Rosalia Latin GRAMMY Awards 2026",
-      "Rosalía",
-      "Juanes"
-    ],
-    "images": [
-      {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/roalisa-aoty-lead.jpg?crop=0px%2C11px%2C1800px%2C1014px&#038;resize=1600%2C900",
-        "caption": "Rosalía Secures Historic Third Album of the Year Win at the Latin Grammys",
-        "source": "Rolling Stone Music"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 04:18:34 +0000"
-  },
-  "j39knn": {
-    "id": "j39knn",
-    "type": "news",
-    "headline": "Mahesh Manjrekar Remembers Late Colleague Nana Patekar and Discusses Past Controversy",
-    "dek": "Actor-director Mahesh Manjrekar reflects on the sudden demise of veteran actor Nana Patekar, shares details of his final hours, and addresses the past Tanushree Dutta controversy in a recent interview.",
-    "entities": {
-      "people": [
-        "Mahesh Manjrekar",
-        "Nana Patekar",
-        "Tanushree Dutta"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Mahesh Manjrekar Nana Patekar",
-      "Nana Patekar final hours",
-      "Tanushree Dutta controversy Nana Patekar",
-      "Mahesh Manjrekar interview News18 Marathi"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135788988,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Mahesh Manjrekar Remembers Late Colleague Nana Patekar and Discusses Past Controversy",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-13T09:41:13+05:30"
-  },
-  "16go9hk": {
-    "id": "16go9hk",
-    "type": "news",
-    "headline": "‘Cupertino’ Season 1, Episode 7 Explores Legal Battles Over AI Music Slop",
-    "dek": "In the latest episode of the courtroom drama, Michael Price takes on a challenging lawsuit involving an aging rapper and artificial intelligence knockoffs.",
-    "entities": {
-      "people": [
-        "Cliff Method Man Smith",
-        "Michael Price",
-        "Ry Vance",
-        "Bayard Diamond",
-        "Danny Burstein",
-        "Purvis Beer",
-        "Amir Malaklou",
-        "Jimmy Buffett",
-        "Jacob",
-        "Olivia",
-        "Josh Frank",
-        "Vik",
-        "Anna",
-        "Natalia",
-        "Christy",
-        "Bilge Ebiri",
-        "Jordan Firstman",
-        "Michael Ealy",
-        "Thea von Engelbrechten",
-        "Chris Brown",
-        "Usher",
-        "Trisha Paytas",
-        "Jessica Chastain",
-        "Sophie Okonedo",
-        "Matthew Barney",
-        "Pusha T"
-      ],
-      "titles": [
-        "Cupertino",
-        "Yungwood",
-        "Bass Booty",
-        "Booty Bass",
-        "Harper",
-        "A.J. & Buddy",
-        "Cinematrix",
-        "Dancing With the Stars",
-        "Ebenezer",
-        "The Bachelor",
-        "The Sound of Music",
-        "Batman: The Animated Series",
-        "How to Rob a Bank",
-        "Hotel Rwanda",
-        "Southern Charm",
-        "War"
-      ]
-    },
-    "keywords": [
-      "Cupertino Yungwood",
-      "Method Man Cupertino",
-      "Cupertino Episode 7 recap",
-      "Cupertino CBS AI music"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/158/a23/42ee592486fe41288cb936d761e34c853a-cupertino-ep6.1x.rsocial.w1200.jpg",
-        "caption": "‘Cupertino’ Season 1, Episode 7 Explores Legal Battles Over AI Music Slop",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-13T04:00:22.922Z"
-  },
-  "13xm3qx": {
-    "id": "13xm3qx",
-    "type": "news",
-    "headline": "Netflix Set to Release Documentary Examining Russell Brand's Rise and Fall",
-    "dek": "The streaming platform brings Olivia Isaacs' documentary detailing the investigation and legal trial of Russell Brand to audiences.",
-    "entities": {
-      "people": [
-        "Russell Brand",
-        "Olivia Isaacs",
-        "Rosamund Urwin",
-        "Charlotte Wace",
-        "Ian Winter"
-      ],
-      "titles": [
-        "Russell Brand: Open Secret"
-      ]
-    },
-    "keywords": [
-      "Russell Brand Open Secret",
-      "Russell Brand documentary Netflix",
-      "Olivia Isaacs Russell Brand",
-      "Russell Brand trial sentence"
-    ],
-    "images": [
-      {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/russellbrandopensecretuniversal-base_na_03_zxx-1.jpg?w=1600&#038;h=900&#038;crop=1",
-        "caption": "Netflix Set to Release Documentary Examining Russell Brand's Rise and Fall",
-        "source": "Rolling Stone"
-      }
-    ],
-    "published": "2026-11-13T03:52:01Z"
   },
   "8c197r": {
     "id": "8c197r",
