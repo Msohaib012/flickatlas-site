@@ -141591,5 +141591,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-14T03:05:53Z"
+  },
+  "1thuied": {
+    "id": "1thuied",
+    "type": "news",
+    "headline": "Diljit Dosanjh Faces Song Restrictions and Safety Demands Ahead of Ahmedabad Concert",
+    "dek": "Local authorities in Ahmedabad have been urged to restrict specific tracks from Diljit Dosanjh's upcoming live performance over concerns regarding references to alcohol, drugs, and weapons, following an earlier controversy in Indore.",
+    "body": [
+      {
+        "h": "Ahmedabad Authorities Target Setlist",
+        "p": [
+          "Local officials in Ahmedabad have turned their attention toward the upcoming live concert by Punjabi singer Diljit Dosanjh, calling for specific modifications to his performance setlist. The event is scheduled to take place on November 21, 2026, at the Narendra Modi Stadium. Authorities have received official communication requesting that certain tracks be entirely omitted from the performance due to their lyrical themes.",
+          "The scrutiny centers heavily on songs that allegedly contain references to alcohol, narcotics, and weapons. This administrative intervention follows a recent bomb threat that targeted the singer prior to his performance in Indore, creating heightened public attention surrounding the logistical and security arrangements for his ongoing tour."
+        ]
+      },
+      {
+        "h": "Official Complaints and Flagged Tracks",
+        "p": [
+          "The push for restrictions originated from a formal communication sent on November 5 by Ahmedabad’s District Child Protection Officer to the city’s Police Commissioner. This action was prompted by a complaint lodged by Dr Panditrao Dharenavar, a professor based in Chandigarh who has historically campaigned against music perceived to encourage substance abuse and violence.",
+          "Four distinct tracks were highlighted in the official complaint for exclusion from the live show: Patiala Pegg, 5 Taara Theeke, Jeeb Vicho Feem Labbiya, and Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di. The communications argue that simply altering or modifying the lyrics during the live rendition would be insufficient to mitigate the concerns associated with these particular songs."
+        ]
+      },
+      {
+        "h": "Alignment with National Campaigns",
+        "p": [
+          "The request submitted to the police highlights the core objectives of the Centre’s Nasha Mukt Bharat Abhiyaan, arguing that public performances featuring themes of alcohol and drug glorification run counter to these national initiatives. Authorities were explicitly asked to ensure these four tracks are left off the final performance list for the venue.",
+          "Furthermore, the official communication cites legal precedent to reinforce the argument. It draws upon an observation made by the Punjab and Haryana High Court on July 22, 2019, which raised reservations regarding the public promotion and performance of music that normalizes liquor, narcotics, and violence."
+        ]
+      },
+      {
+        "h": "Child Safety and Environmental Concerns",
+        "p": [
+          "Beyond the lyrical content of the concert, the complaint draws significant attention to the physical well-being and safety of children attending the large-scale event. A specific request has been put forward asking that the singer refrain from inviting children onto the stage during the proceedings.",
+          "The advisory underscores potential hazards linked to the event environment, noting that sound exposure levels could surpass 120 decibels, posing a risk to young attendees' hearing. Additionally, the complaint cautions that flashing stage lighting setups could act as a trigger for seizures among susceptible individuals."
+        ]
+      },
+      {
+        "h": "Navigating Tour Controversies",
+        "p": [
+          "The fresh restrictions in Ahmedabad add to a complex period for the artist's live tour management. While major stadiums continue to prepare for large crowds, increased regulatory oversight is reshaping how public authorities manage large-scale musical events.",
+          "With the event date approaching, organizers and local law enforcement must navigate both the artistic demands of the tour and the strict guidelines requested by child protection advocates and concerned citizens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Punjabi singer Diljit Dosanjh faces performance restrictions for his upcoming November 21, 2026 concert at Ahmedabad's Narendra Modi Stadium following a complaint by a Chandigarh professor. Authorities have been asked to ban four specific songs and prevent children from being invited on stage due to safety and health concerns."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh's concert is scheduled for November 21, 2026",
+      "The venue for the concert is Narendra Modi Stadium",
+      "The District Child Protection Officer wrote to the Police Commissioner on November 5",
+      "The complaint was filed by Dr Panditrao Dharenavar",
+      "Four songs flagged are Patiala Pegg, 5 Taara Theeke, Jeeb Vicho Feem Labbiya, and Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di",
+      "The Punjab and Haryana High Court made an observation on July 22, 2019"
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Dr Panditrao Dharenavar"
+      ],
+      "titles": [
+        "Patiala Pegg",
+        "5 Taara Theeke",
+        "Jeeb Vicho Feem Labbiya",
+        "Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh November 21 concert",
+      "Diljit Dosanjh Patiala Pegg",
+      "Diljit Dosanjh Narendra Modi Stadium"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/13115628/image-69.jpeg",
+        "caption": "Diljit Dosanjh Faces Song Restrictions and Safety Demands Ahead of Ahmedabad Concert",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-14T03:29:34Z"
+  },
+  "1abp7kf": {
+    "id": "1abp7kf",
+    "type": "news",
+    "headline": "VisionQuest Finale Reaches Three-Year High Viewership",
+    "dek": "The final episode of the Marvel series pulls in 3.7 million views after one day on Disney+ and sets up future cinematic events.",
+    "body": [
+      {
+        "h": "Record-Breaking Finale Viewership",
+        "p": [
+          "The concluding chapter of VisionQuest delivered impressive streaming numbers for the platform. Following its release, the final episode pulled in 3.7 million views in its initial twenty-four hours on Disney+.",
+          "This performance established a new benchmark for the season while showcasing a substantial jump from the previous week. Viewership spiked by forty-four percent compared to the seventh episode."
+        ]
+      },
+      {
+        "h": "Standing Among Marvel Milestones",
+        "p": [
+          "The strong audience turnout positions the project as a standout performer within the franchise. It officially secured the title of the most-watched Marvel series finale in over three years.",
+          "Prior to this milestone, the second season of Loki held the top spot with 11.2 million viewers recorded across its first three days of availability."
+        ]
+      },
+      {
+        "h": "Climbing the Streaming Charts",
+        "p": [
+          "Beyond individual episode metrics, the program has made notable progress in broader industry rankings. The title improved its standing on Nielsen's Top 10 Streaming Originals chart, moving up from seventh to sixth place."
+        ]
+      },
+      {
+        "h": "Inside the Narrative Climax",
+        "p": [
+          "The eighth episode places several major characters inside the estate of Virgil Horton, who served as the human inspiration for Ultron's avatar. While allies attempt a rescue, intense confrontations unfold involving Jocasta, Ultron, and Vision.",
+          "Casualties occur during the struggle before Ultron attempts a wider assault on humanity. The threat is ultimately halted through coordinated efforts from Vision and younger allies."
+        ]
+      },
+      {
+        "h": "Trilogy Conclusion and Missing Faces",
+        "p": [
+          "This installment serves as the final chapter in a trilogy that includes WandaVision and Agatha All Along. The narrative brings together several members of the Maximoff family, though a prominent figure remains absent for the majority of the runtime."
+        ]
+      },
+      {
+        "h": "Surprise Post-Credit Scene",
+        "p": [
+          "Although she misses the main events, Wanda appears during an unexpected post-credit sequence. Awakened by Doctor Doom following the events of Doctor Strange in The Multiverse of Madness, the character's return lays groundwork for future reunions."
+        ]
+      },
+      {
+        "h": "Impact on Upcoming Releases",
+        "p": [
+          "The conclusion of the streaming series generated immediate commercial momentum for the broader cinematic universe. Following the finale broadcast, ticket sales experienced a noticeable surge for the upcoming feature Avengers: Doomsday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The finale of VisionQuest achieved significant streaming success with 3.7 million views in one day, marking the highest viewership for a Marvel series conclusion in over three years. The episode wrapped up a major trilogy while setting up future connections to Avengers: Doomsday through a surprise post-credit appearance."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest Episode 8 drove 3.7 million views after one day of streaming on Disney+",
+      "Viewership saw a 44% increase compared to Episode 7",
+      "Loki Season 2 nabbed 11.2 million viewers in its first three days",
+      "The show climbed from No. 7 to No. 6 in Nielsen's Top 10 Streaming Originals chart",
+      "Avengers: Doomsday hits theaters on Dec. 18"
+    ],
+    "entities": {
+      "people": [
+        "Paul Bettany",
+        "T'Nia Miller",
+        "James Spader",
+        "Todd Stashwick",
+        "Ruaridh Mollica",
+        "Lauren Morais",
+        "Joe Locke",
+        "Elizabeth Olsen",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "VisionQuest",
+        "Loki",
+        "WandaVision",
+        "Agatha All Along",
+        "Doctor Strange in The Multiverse of Madness",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "VisionQuest finale",
+      "VisionQuest Episode 8",
+      "Marvel Disney Plus",
+      "Avengers Doomsday ticket sales"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/10/visionquest-ultron-paul-bettany-marvel-copy.jpg",
+        "caption": "VisionQuest Finale Reaches Three-Year High Viewership",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 22:31:04 +0000"
+  },
+  "b9lif5": {
+    "id": "b9lif5",
+    "type": "news",
+    "headline": "Bhuvan Bam's Dhindora Season 2 Sets Netflix Release Date",
+    "dek": "After five years, the popular comedy series Dhindora returns for its second season, moving from YouTube to Netflix with a premiere date set for November 20, 2026.",
+    "body": [
+      {
+        "h": "The Return of Titu Mama and BB Ki Vines",
+        "p": [
+          "After a five-year hiatus, the widely popular comedy series Dhindora is officially returning for a second season. Creator and star Bhuvan Bam will reprise his role as the down-on-his-luck fan-favourite character Titu Mama.",
+          "In a major platform shift, the upcoming instalment is moving away from its original home on YouTube to premiere directly on the streaming giant Netflix on November 20, 2026."
+        ]
+      },
+      {
+        "h": "New Cast Additions and Familiar Faces",
+        "p": [
+          "Alongside Bhuvan Bam, who continues to play multiple characters from his BB Ki Vines universe including Babloo ji, Janki, Sameer, and Bancho, the new season introduces notable fresh talent.",
+          "Sanjeeda Sheikh joins the ensemble as Kavita Mami, Titu Mama's wife, while veteran actor Kanwaljit Singh comes aboard to portray Titu's stern father-in-law who has an old score to settle."
+        ]
+      },
+      {
+        "h": "Plot Details and High Stakes",
+        "p": [
+          "The trailer for the second season reveals that Titu Mama has managed to land himself in massive trouble after facing an 11 crore rupee loss. He must somehow own up to this financial disaster in front of his demanding in-laws.",
+          "To survive the ordeal, his in-laws decide to put him through a literal test. The new trailer also teases plenty of action sequences alongside trademark song and dance routines."
+        ]
+      },
+      {
+        "h": "Special Cameos and Creative Team",
+        "p": [
+          "Viewers can also expect several surprise appearances throughout the season, with the trailer offering quick glimpses of Udit Narayan, Anup Soni, and Orry in special cameo roles.",
+          "Sneha Shetty Kohli directs the season in her debut. The writing team consists of Bhuvan Bam, Abbas Dalal, Hussain Dalal, and Chetan Dange, with production handled by Rohit Raj and Bam."
+        ]
+      },
+      {
+        "h": "Bhuvan Bam on Expanding the Universe",
+        "p": [
+          "Reflecting on the transition to a major streaming platform, Bhuvan Bam noted that the BB Ki Vines universe now operates on a much larger canvas while carefully preserving the core soul and humour of the original series.",
+          "He explained that Titu Mama has an innate talent for stumbling into situations he never signed up for, leading this time to complicated efforts to make peace with his estranged in-laws."
+        ]
+      },
+      {
+        "h": "Sanjeeda Sheikh on Her Character",
+        "p": [
+          "Sanjeeda Sheikh shared her excitement about joining the project, revealing she was immediately drawn to Kavita because the character is capable of holding her own against Titu Mama.",
+          "Describing Kavita as the person who knows Titu best, Sheikh pointed out that while he always keeps an explanation ready, she is typically the only person in the room who can see right through it."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bhuvan Bam's comedy series Dhindora is returning for its second season on Netflix after a five-year gap. The new instalment features fresh cast members Sanjeeda Sheikh and Kanwaljit Singh alongside special cameos, following Titu Mama as he faces a major financial loss and meets his in-laws."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhindora Season 2 premieres on Netflix on November 20, 2026",
+      "The first season of Dhindora aired five years ago",
+      "Bhuvan Bam plays ten characters in the BB Ki Vines universe",
+      "Sanjeeda Sheikh plays Kavita Mami",
+      "Kanwaljit Singh plays Titu's stern father-in-law",
+      "Sneha Shetty Kohli makes her directorial debut with this season",
+      "The plot features Titu Mama facing an Rs 11 crore loss",
+      "Udit Narayan, Anup Soni, and Orry make cameo appearances",
+      "The show is produced by Rohit Raj and Bhuvan Bam"
+    ],
+    "entities": {
+      "people": [
+        "Bhuvan Bam",
+        "Sanjeeda Sheikh",
+        "Kanwaljit Singh",
+        "Sneha Shetty Kohli",
+        "Abbas Dalal",
+        "Hussain Dalal",
+        "Chetan Dange",
+        "Rohit Raj",
+        "Udit Narayan",
+        "Anup Soni",
+        "Orry",
+        "Sonal Pandya"
+      ],
+      "titles": [
+        "Dhindora",
+        "BB Ki Vines",
+        "Toxic",
+        "Heeramandi",
+        "Hanuman Ansh"
+      ]
+    },
+    "keywords": [
+      "Dhindora Season 2",
+      "Bhuvan Bam Netflix",
+      "Titu Mama Dhindora",
+      "Sanjeeda Sheikh Dhindora"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156506203,thumbsize-1291296,width-1280,height-720,resizemode-75/156506203.jpg",
+        "caption": "Bhuvan Bam's Dhindora Season 2 Sets Netflix Release Date",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T03:29:34Z"
+  },
+  "1ocsls5": {
+    "id": "1ocsls5",
+    "type": "news",
+    "headline": "New Regency Files Lawsuit Against Filmmaker Michael Mann Over Heat Screenplay Copyright",
+    "dek": "Production company New Regency has taken legal action to block director Michael Mann from reclaiming rights to his 1995 crime drama screenplay as preparations continue for an upcoming sequel.",
+    "body": [
+      {
+        "h": "The Lawsuit Filed in Los Angeles",
+        "p": [
+          "New Regency launched legal proceedings against filmmaker Michael Mann in a Los Angeles federal court on Friday. The studio is seeking a judicial declaration to invalidate three termination notices served by the director.",
+          "The legal challenge aims to prevent Mann from reasserting ownership over the script for the 1995 crime drama, with the studio maintaining that it holds all enduring rights to the screenplay."
+        ]
+      },
+      {
+        "h": "Work Made for Hire Dispute",
+        "p": [
+          "At the center of the legal dispute is New Regency's assertion that the screenplay qualifies as a work made for hire. According to the court filing, Mann acknowledged this status repeatedly in written contracts he signed personally and through his own corporate entities.",
+          "The studio argues that because the text falls under the work-for-hire doctrine, it remains exempt from copyright termination provisions outlined in Section 203 of the United States Copyright Act."
+        ]
+      },
+      {
+        "h": "Background on the Original Writing",
+        "p": [
+          "The contested script originated from creative work and personal writing conducted by Mann across the 1980s. Those early drafts eventually culminated in the celebrated 1995 theatrical release, which he wrote, produced, and directed.",
+          "Representatives for the filmmaker noted that these foundational creations span four decades of development before materializing into the recognizable cinematic project."
+        ]
+      },
+      {
+        "h": "Response From the Filmmaker",
+        "p": [
+          "A spokesperson representing Mann issued a statement on Friday evening defending the director's actions. The representative emphasized that after forty years, the creator is utilizing statutory rights granted to authors to take back their original material.",
+          "The filmmaker's camp expressed full confidence that the judicial system will uphold these statutory rights under federal copyright law and confirmed that they intend to mount a vigorous defense."
+        ]
+      },
+      {
+        "h": "Status of the Sequel Production",
+        "p": [
+          "Representatives for Mann clarified that the ongoing copyright dispute has no connection to the development of the upcoming follow-up project. Production on the new picture is scheduled to commence on January 19.",
+          "The upcoming project will function as both a prequel and a sequel, adapting narrative elements from the 2022 novel co-authored by Mann and Meg Gardiner."
+        ]
+      },
+      {
+        "h": "Legacy of the 1995 Original",
+        "p": [
+          "The seminal 1995 motion picture remains a monumental entry in the crime genre, famously featuring leading performances by celebrated actors Al Pacino and Robert De Niro.",
+          "The director is slated to return to both write and direct the forthcoming installment, continuing the narrative universe established by the original cinematic milestone."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "New Regency has initiated a federal lawsuit in Los Angeles to stop filmmaker Michael Mann from reclaiming copyright ownership of the 1995 crime drama screenplay. While the studio argues the script was a work made for hire, representatives for the director maintain they will vigorously defend his statutory rights as production on the sequel approaches."
+        ]
+      }
+    ],
+    "facts": [
+      "New Regency sued Michael Mann in a Los Angeles federal court on Friday.",
+      "The lawsuit asks a judge to declare three termination notices served by Mann null and void.",
+      "New Regency argues the Heat screenplay is a work made for hire under 17 U.S.C. § 203.",
+      "The original film Heat was released in 1995 and was written, produced, and directed by Michael Mann.",
+      "Heat 2 originates as a novel written by Michael Mann and Meg Gardiner released in 2022.",
+      "Production on Heat 2 is scheduled to begin shooting on January 19.",
+      "Al Pacino and Robert De Niro starred in the 1995 film."
+    ],
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Meg Gardiner",
+        "Al Pacino",
+        "Robert De Niro"
+      ],
+      "titles": [
+        "Heat",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "New Regency Michael Mann Heat",
+      "Heat screenplay copyright lawsuit",
+      "Michael Mann termination notices",
+      "Heat 2 production January 19"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Untitled-design-2026-11-13T182133.788.jpg",
+        "caption": "New Regency Files Lawsuit Against Filmmaker Michael Mann Over Heat Screenplay Copyright",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 02:51:26 +0000"
   }
 };
