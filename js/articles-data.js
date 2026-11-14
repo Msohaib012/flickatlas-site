@@ -145347,5 +145347,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 09:26:56 +0000"
+  },
+  "qvfl28": {
+    "id": "qvfl28",
+    "type": "news",
+    "headline": "Mauricio Pochettino Takes Over as Manchester United Head Coach Following Michael Carrick Exit",
+    "dek": "The Argentine manager steps into the Old Trafford role after finishing national team duties, tasked with lifting the club out of the Premier League relegation zone.",
+    "body": [
+      {
+        "h": "The New Leadership Appointment",
+        "p": [
+          "Manchester United has confirmed the selection of Mauricio Pochettino as the club's fresh head coach. This decision resolves the managerial vacancy created by the abrupt departure of Michael Carrick.",
+          "Pochettino has committed to a two-and-a-half-year contract with the English club. He will officially step into the role once his current responsibilities conclude."
+        ]
+      },
+      {
+        "h": "Background on Carrick's Departure",
+        "p": [
+          "Michael Carrick exited his position following a sacking on Thursday, November 12, 2026. The change came on the heels of a difficult opening phase to the 2026/27 campaign.",
+          "Despite a strong finish to the previous season under Carrick after taking over in January 2026, the team's current standing prompted immediate action from the club leadership."
+        ]
+      },
+      {
+        "h": "Current Premier League Standing",
+        "p": [
+          "The Red Devils currently sit in 18th place within the Premier League table. The squad has accumulated eight points across their initial 10 matches.",
+          "Their record stands at one win, five draws, and four defeats, placing them firmly within the relegation zone and adding urgency to Pochettino's arrival."
+        ]
+      },
+      {
+        "h": "Transition and Upcoming Schedule",
+        "p": [
+          "Before arriving in Manchester, Pochettino must oversee two upcoming Nations League matches for the United States men's national team against Haiti.",
+          "He is scheduled to join the club next week, with his inaugural fixture set as an away match against Liverpool at Anfield on November 22."
+        ]
+      },
+      {
+        "h": "Release Clause and Negotiations",
+        "p": [
+          "The agreement to bring the Argentine manager to Old Trafford involved navigating contractual terms with US Soccer.",
+          "Reports indicated the contract featured a 7 million Pound release clause, which enabled Manchester United to secure his release."
+        ]
+      },
+      {
+        "h": "Managerial Experience in Europe",
+        "p": [
+          "Pochettino brings extensive background knowledge from across European football, beginning his career with Espanyol in 2009 before moving to Southampton in 2013.",
+          "His career includes notable tenures with Tottenham Hotspur, Paris Saint-Germain, and Chelsea, highlighted by reaching the 2019 UEFA Champions League final."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mauricio Pochettino has been named the new head coach of Manchester United on a two-and-a-half-year deal following Michael Carrick's departure on November 12, 2026. He will take charge after finishing his duties with the United States national team, aiming to lift the club out of the relegation zone starting with a match against Liverpool on November 22."
+        ]
+      }
+    ],
+    "facts": [
+      "Mauricio Pochettino was appointed Manchester United head coach on November 13, 2026.",
+      "Michael Carrick was sacked on Thursday, November 12, 2026.",
+      "Manchester United is 18th in the Premier League table with eight points from 10 matches.",
+      "Pochettino's first match in charge will be against Liverpool at Anfield on November 22.",
+      "The release clause with US Soccer was 7 million Pounds."
+    ],
+    "entities": {
+      "people": [
+        "Mauricio Pochettino",
+        "Michael Carrick",
+        "Riya Mishra",
+        "Ruben Amorim"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Mauricio Pochettino",
+      "Manchester United",
+      "Michael Carrick",
+      "Mauricio Pochettino Manchester United"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6569-untitled-design-2026-11-13t175815843.jpg",
+        "caption": "Mauricio Pochettino Takes Over as Manchester United Head Coach Following Michael Carrick Exit",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T11:52:30Z"
+  },
+  "1wlrai4": {
+    "id": "1wlrai4",
+    "type": "news",
+    "headline": "THE BOYZ Member Eric Announces Solo Debut Album Set for January Release",
+    "dek": "After marking roughly ten years since his initial group debut, THE BOYZ artist Eric is preparing to launch his first formal solo album.",
+    "body": [
+      {
+        "h": "Announcing the Solo Project",
+        "p": [
+          "The entertainment sphere is abuzz with the news that Eric, a prominent member of the music group THE BOYZ, will officially step out as a solo artist. According to reports that emerged on November 14, the performer is currently gearing up to unveil his very first album under his own name early next year. The highly anticipated project is slated for an official release in January 2027.",
+          "This upcoming launch represents a massive milestone in the artist's career, arriving roughly a decade after he first entered the public eye as part of a major idol group. Fans have eagerly awaited formal solo material from him, and the upcoming project is expected to highlight his distinct artistic identity."
+        ]
+      },
+      {
+        "h": "A Decade of Musical Growth",
+        "p": [
+          "Ever since his group debut back in 2017, Eric has continuously pushed his boundaries as a performer. Alongside demonstrating impressive and dynamic dance skills on stage, he has steadily honed his songwriting and musical composition capabilities. His creative footprint can be found across numerous group tracks, proving his dedication to the craft beyond just choreography and vocal delivery.",
+          "Over the years, he has contributed lyric-writing and rap-making talents to several notable songs released by his band. Tracks featuring his creative touch include well-known favorites like 'Bloom Bloom,' 'THRILL RIDE,' 'Honey,' and 'Last Kiss.' Additionally, he has frequently utilized platforms like SoundCloud to distribute self-composed works, giving listeners an unmediated look at his personal musical style."
+        ]
+      },
+      {
+        "h": "Expanding Horizons with GRID Entertainment",
+        "p": [
+          "The groundwork for this upcoming solo venture has been steadily building throughout the latter half of the year. Back in August, the performer signed an exclusive contract with GRID Entertainment, a strategic move that immediately signaled an expansion of his individual promotional activities and career scope.",
+          "Since joining his new agency, he has actively broadened his portfolio through diverse solo engagements. These have included dedicated individual fan meetings as well as high-profile appearances at fashion week events, allowing him to cultivate a stronger personal brand alongside his ongoing group responsibilities."
+        ]
+      },
+      {
+        "h": "Connecting with Supporters Through Recent Events",
+        "p": [
+          "Ahead of his musical rollout, the performer has been actively engaging supporters through unique personal exhibitions and gatherings in Seoul. On November 14, he hosted his very first solo fan meeting in Korea, titled 'Son Youngjae Over Flowers,' held at the Grand Theater of Kwangwoon University's Donghae Culture and Arts Center located in Nowon-gu.",
+          "This major gathering closely followed another milestone creative endeavor: his inaugural solo photography exhibition, named the 'Baby Pink Letter Exhibition.' Running from November 7 to 13 in Yongsan-gu, Seoul, these consecutive events provided dedicated followers with intimate avenues to connect with his artistic sensibilities away from the main concert stage."
+        ]
+      },
+      {
+        "h": "Continued Commitments with THE BOYZ",
+        "p": [
+          "Even with preparations for his solo album heating up, Eric remains deeply committed to his group activities. He continues to stand alongside his fellow bandmates—Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, Q, and Sunwoo—as they prepare for upcoming high-profile performances to close out the year.",
+          "The complete lineup is scheduled to host their extensive 'ZENERATION III' concert series. These year-end performances will take place from December 24 to 27 at the KSPO DOME in Songpa-gu, Seoul, bringing together the musicians and their supporters for a grand seasonal celebration."
+        ]
+      },
+      {
+        "h": "Management and Operational Shifts",
+        "p": [
+          "The upcoming holiday concert series holds additional significance as it arrives under a newly structured management setup. Following announcements made in September, SEVEN EIGHT RECORDS officially took charge of overseeing and managing the group's ongoing operational activities.",
+          "This partnership works in tandem with the members' individual agency commitments, ensuring that both group and solo schedules—such as Eric's forthcoming January album launch—receive dedicated professional coordination moving forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "THE BOYZ member Eric is preparing to release his debut solo album in January 2027, marking nearly ten years since his initial 2017 group debut. Following an exclusive contract signing with GRID Entertainment and recent solo events like his photography exhibition and fan meeting, he continues to balance individual projects with upcoming group concerts."
+        ]
+      }
+    ],
+    "facts": [
+      "Eric will release his first solo album in January 2027.",
+      "He debuted as a member of THE BOYZ in 2017.",
+      "News regarding his solo debut was reported by News1 on November 14.",
+      "He has songwriting credits on THE BOYZ tracks 'Bloom Bloom', 'THRILL RIDE', 'Honey', and 'Last Kiss'.",
+      "He signed an exclusive contract with GRID Entertainment in August.",
+      "His solo fan meeting 'Son Youngjae Over Flowers' took place on November 14 at the Grand Theater of Kwangwoon University's Donghae Culture and Arts Center in Nowon-gu, Seoul.",
+      "His 'Baby Pink Letter Exhibition' ran from November 7 to 13 in Yongsan-gu, Seoul.",
+      "THE BOYZ members include Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, Q, Sunwoo, and Eric.",
+      "THE BOYZ will hold their 'ZENERATION III' concert from December 24 to 27 at KSPO DOME in Songpa-gu, Seoul.",
+      "SEVEN EIGHT RECORDS took charge of the group's activities in September."
+    ],
+    "entities": {
+      "people": [
+        "Eric",
+        "Sangyeon",
+        "Jacob",
+        "Younghoon",
+        "Hyunjae",
+        "Juyeon",
+        "Kevin",
+        "Q",
+        "Sunwoo"
+      ],
+      "titles": [
+        "THE BOYZ",
+        "Bloom Bloom",
+        "THRILL RIDE",
+        "Honey",
+        "Last Kiss",
+        "ZENERATION III"
+      ]
+    },
+    "keywords": [
+      "THE BOYZ Eric solo debut",
+      "Eric January solo album",
+      "Son Youngjae Over Flowers fan meeting",
+      "Baby Pink Letter Exhibition",
+      "ZENERATION III KSPO DOME"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 06:14:00 EST"
+  },
+  "1ttohrd": {
+    "id": "1ttohrd",
+    "type": "news",
+    "headline": "Deepti Sharma Honoured As ICC Women's Player of the Month For October 2026",
+    "dek": "India all-rounder Deepti Sharma clinches the ICC Women's Player of the Month award for October 2026 after her stellar all-round display against Zimbabwe.",
+    "body": [
+      {
+        "h": "The ICC Monthly Honour",
+        "p": [
+          "India's experienced all-rounder Deepti Sharma has officially been named the ICC Women's Player of the Month for October 2026. This prestigious recognition comes in the wake of her outstanding contributions during the home series against Zimbabwe.",
+          "To secure the monthly accolade, the 29-year-old outpaced fellow nominees Sobhana Mostary from Bangladesh and Annabel Sutherland from Australia, adding yet another impressive individual milestone to her international cricket journey."
+        ]
+      },
+      {
+        "h": "Dominant Series Against Zimbabwe",
+        "p": [
+          "Throughout the multi-format series, Deepti proved to be a central figure in India's campaign. The national side put up a dominant display against the visiting team, remaining completely unbeaten across all six international fixtures spanning the T20I and ODI legs.",
+          "Her exceptional form with both bat and ball allowed the hosts to dictate terms from the outset, ensuring a memorable and clean sweep over the touring side."
+        ]
+      },
+      {
+        "h": "Impactful T20I Performances",
+        "p": [
+          "Deepti's heroics began right at the start of the tour in the opening T20I fixture held in Raipur. When India found themselves in early trouble at 19/4, she played a vital, quickfire knock of 49 runs to rescue the innings and set up a successful recovery.",
+          "In addition to her crucial rescue act with the bat, she chipped in with two wickets during the T20I matches, helping the team complete a comprehensive series sweep."
+        ]
+      },
+      {
+        "h": "Shining in the ODI Leg",
+        "p": [
+          "Carrying her momentum into the one-day matches, the all-rounder immediately made her presence felt by picking up two wickets in the opening encounter. She followed this up with a truly standout display in the second ODI.",
+          "During that match, she registered her second career ODI century and grabbed three wickets, sealing an unassailable 2-0 lead for India in the one-day series."
+        ]
+      },
+      {
+        "h": "Overall Tour Statistics",
+        "p": [
+          "By the conclusion of the matches across both formats, Deepti's cumulative output stood at 155 runs alongside seven wickets. Her consistent brilliance anchored the team's unbeaten run throughout the bilateral engagement.",
+          "These figures highlighted her immense value to the squad as a premier all-rounder capable of turning matches around in any department."
+        ]
+      },
+      {
+        "h": "Player Reactions and Dedication",
+        "p": [
+          "Reacting to the announcement, Deepti expressed her delight and shared the credit with her colleagues and coaching staff. She noted that the series had been fantastic for the squad, highlighting the impressive performances put in by the younger members of the team.",
+          "She also singled out her century as a particularly special milestone because it directly contributed to a winning cause, while thanking the voting panel, fans, and supporters worldwide by dedicating the award to them."
+        ]
+      },
+      {
+        "h": "Building on Past Success",
+        "p": [
+          "This latest monthly honour arrives approximately a year after another major career high for the all-rounder. Deepti had previously played a crucial role in helping India secure the ICC Women's Cricket World Cup triumph in October 2025.",
+          "That historic victory, coupled with her recent accolades, continues to make October a particularly special and fruitful month in her international sporting career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "India's Deepti Sharma has won the ICC Women's Player of the Month award for October 2026 following her impressive all-round performances against Zimbabwe. Across six matches, she accumulated 155 runs and took seven wickets, surpassing nominees from Bangladesh and Australia.",
+          "The recognition follows her key role in India's unbeaten series campaign and comes a year after her contribution to the team's October 2025 World Cup triumph."
+        ]
+      }
+    ],
+    "facts": [
+      "Deepti Sharma was named ICC Women's Player of the Month for October 2026.",
+      "She scored 155 runs and claimed seven wickets against Zimbabwe.",
+      "India completed an unbeaten six-match series against Zimbabwe.",
+      "Deepti beat Sobhana Mostary and Annabel Sutherland for the award.",
+      "Deepti Sharma is 29 years old.",
+      "She scored 49 runs in the first T20I in Raipur after India was 19/4.",
+      "She scored her second ODI century and added three wickets in the second ODI.",
+      "India won the ICC Women's Cricket World Cup in October 2025."
+    ],
+    "entities": {
+      "people": [
+        "Deepti Sharma",
+        "Sobhana Mostary",
+        "Annabel Sutherland"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Deepti Sharma ICC award",
+      "Deepti Sharma Player of the Month",
+      "India vs Zimbabwe women series",
+      "Deepti Sharma October 2026"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6566-untitled-design-2026-11-13t174423511.jpg",
+        "caption": "Deepti Sharma Honoured As ICC Women's Player of the Month For October 2026",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T11:52:30Z"
+  },
+  "45v8k5": {
+    "id": "45v8k5",
+    "type": "news",
+    "headline": "Alan Ritchson Fires Back at Fan Criticism Over Reacher Fight Scenes",
+    "dek": "The star of Prime Video's hit series defends the show's action choreography by citing severe injuries from Lee Child's original novels.",
+    "body": [
+      {
+        "h": "The Core of the Conflict",
+        "p": [
+          "Audiences familiar with the legendary character Jack Reacher know that crossing paths with the formidable former military policeman usually ends in disaster for opponents. Across four seasons, the Prime Video adaptation has drawn widespread acclaim for translating Lee Child's bestselling novels to the screen. Yet, despite the overall praise, a segment of the viewer base has expressed dissatisfaction regarding how the television series orchestrates its physical altercations.",
+          "Rather than letting the critique slide, the show's leading man decided to engage directly. The conversation unfolded on the social media platform Threads, where a viewer praised the actor's overall portrayal while simultaneously taking issue with the choreography choices made by the production team."
+        ]
+      },
+      {
+        "h": "A Viewer's View on Reacher Rules",
+        "p": [
+          "The fan argument centered around a perceived departure from the source material's foundational laws. Specifically, the commenter asserted that within the pages of the novels, the protagonist never loses an encounter and never even comes close to experiencing defeat.",
+          "According to this viewer, introducing narrative tension by making physical sequences look difficult or uncertain violates the core concept of the character. The commenter stated they could not abide seeing outcomes placed in doubt when the literary version operates with absolute invulnerability."
+        ]
+      },
+      {
+        "h": "Digging Into Literary Receipts",
+        "p": [
+          "Far from ignoring the commentary or offering a generic PR reply, the actor proved his deep familiarity with the literary franchise. Pulling out exact details from the books, he highlighted a brutal narrative arc that completely dismantles the idea of effortless victory.",
+          "He directed attention to the third book in the series, pointing out a harrowing sequence where the protagonist suffers catastrophic trauma during a brutal confrontation."
+        ]
+      },
+      {
+        "h": "The Brutal Reality of Tripwire",
+        "p": [
+          "Detailing the events of the third book, the star reminded fans of the horrific toll exacted during the final battle against the villain known as Hook Hobie. Debris from a shotgun blast drives a large nail directly into the character's skull, an injury he continues fighting through unaware.",
+          "Following that horrific wound, he takes a .38 caliber bullet directly to the chest and ultimately spends three weeks recovering in a coma. The actor noted that expecting effortless, unscathed victories is entirely non-canonical."
+        ]
+      },
+      {
+        "h": "Action Choreography on Screen",
+        "p": [
+          "The television adaptation has consistently leaned into hard-hitting, bruising combat styles that emphasize the sheer physical presence of the lead actor. While the books allow readers to visualize absolute dominance, translating that to live-action television often requires visual tension to keep audiences engaged.",
+          "By grounding the fights in gritty realism, the series attempts to showcase the heavy physical toll of violent confrontations, even for a giant former military investigator."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Online Discourse",
+        "p": [
+          "The public exchange quickly caught the attention of the broader fandom, sparking widespread debate across social media about how faithful adaptations should handle action sequences. Many readers and viewers weighed in on the delicate balance between literary accuracy and cinematic excitement.",
+          "Such interactions highlight the unique relationship between modern television stars and their audiences, especially when adapted properties carry massive, dedicated literary followings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alan Ritchson responded to a fan on Threads who complained that Reacher fight scenes make outcomes look too doubtful. The star fired back by referencing specific brutal events from the third book, Tripwire, proving that the character does indeed face near-fatal injuries in the source material."
+        ]
+      }
+    ],
+    "facts": [
+      "Alan Ritchson stars in Reacher",
+      "The exchange took place on Threads",
+      "The third book in the series is titled Tripwire",
+      "Hook Hobie is the villain in Tripwire",
+      "The character wakes up from a three-week coma after the fight in Tripwire"
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Lee Child",
+        "Chris McPherson",
+        "Hook Hobie"
+      ],
+      "titles": [
+        "Reacher",
+        "Tripwire",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo"
+      ]
+    },
+    "keywords": [
+      "Alan Ritchson Reacher",
+      "Reacher fight scenes",
+      "Tripwire Lee Child",
+      "Reacher TV show criticism"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/reacher-featured-alan-ritchson.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Alan Ritchson Fires Back at Fan Criticism Over Reacher Fight Scenes",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 11:30:12 GMT"
   }
 };
