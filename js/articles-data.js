@@ -144683,5 +144683,286 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 03:13:37 -0500"
+  },
+  "p1mudb": {
+    "id": "p1mudb",
+    "type": "news",
+    "headline": "Ana de Armas Makes Red Carpet Debut with Boyfriend Alberto Montenegro",
+    "dek": "The actress stepped out with the Venezuelan musician at the Latin Recording Academy Person of the Year Gala in Las Vegas.",
+    "body": [
+      {
+        "h": "Red Carpet Debut in Las Vegas",
+        "p": [
+          "Ana de Armas made her official red carpet debut alongside her musician boyfriend, Alberto Montenegro. The couple attended the 2026 Latin Recording Academy Person of the Year Gala held at the MGM Grand Conference Center in Las Vegas.",
+          "The actress caught the attention of photographers in a striking sheer gown and a black off-the-shoulder corset. Her partner coordinated with her look by wearing a classic black suit paired with a pale blue shirt and a navy tie."
+        ]
+      },
+      {
+        "h": "Going Instagram Official and Recent Sightings",
+        "p": [
+          "The public appearance comes approximately a month after Ana took their relationship to Instagram. She shared a carousel featuring a glimpse of the musician during a trip to Paris for fashion week festivities.",
+          "Eagle-eyed fans spotted place cards bearing both of their names at a dinner during their European getaway. The couple had previously been seen attending the Louis Vuitton runway show and an after-party together."
+        ]
+      },
+      {
+        "h": "Early Romance and Public Outings",
+        "p": [
+          "While the exact timeline of when their romance began remains private, the pair were first spotted together publicly in July. Their relationship continued to blossom over the summer months.",
+          "In August, the actress and the music artist enjoyed a vacation in Formentera, Spain. Photographs from the trip captured them sharing a passionate kiss and taking a romantic boat ride at sunset."
+        ]
+      },
+      {
+        "h": "Alberto Montenegro's Musical Background",
+        "p": [
+          "Alberto Montenegro is recognized as the lead vocalist and guitarist for the band Rawayana. The musical group was originally formed in 2007 and has maintained an active touring schedule.",
+          "The band's tour dates have brought them to various cities including San Francisco, Nashville, Chicago, and Brooklyn. Their itinerary also included a performance at the Kia Forum."
+        ]
+      },
+      {
+        "h": "Previous Relationships and Past Headlines",
+        "p": [
+          "Before her relationship with Montenegro, Ana was linked to actor Tom Cruise. Reports indicated that the pair called it quits after a nine-month romance because things were moving too quickly.",
+          "She was also spotted sharing a cozy moment with Jacob Elordi earlier in the year at the Golden Globes. However, those past connections have since evolved or ended."
+        ]
+      },
+      {
+        "h": "Future Family Goals and Outlook",
+        "p": [
+          "In a previous interview, the actress opened up about her personal aspirations regarding family and children. She expressed a strong protective instinct toward children and a desire to have a family soon.",
+          "She noted that love remains unpredictable and cannot be entirely controlled. Despite her busy career in Hollywood, she continues to navigate her personal life on her own terms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ana de Armas and musician Alberto Montenegro made their official red carpet debut at a gala in Las Vegas. The couple's latest public appearance follows months of growing romance and travel together."
+        ]
+      }
+    ],
+    "facts": [
+      "Ana de Armas is 38 years old.",
+      "Alberto Montenegro is 37 years old.",
+      "The red carpet debut took place at the 2026 Latin Recording Academy Person of the Year Gala in Las Vegas.",
+      "Rawayana was formed in 2007."
+    ],
+    "entities": {
+      "people": [
+        "Ana de Armas",
+        "Alberto Montenegro",
+        "Tom Cruise",
+        "Jacob Elordi",
+        "Kendall Jenner"
+      ],
+      "titles": [
+        "Knives Out",
+        "Blonde",
+        "Glass Onion"
+      ]
+    },
+    "keywords": [
+      "Ana de Armas",
+      "Alberto Montenegro",
+      "Ana de Armas boyfriend",
+      "Latin Recording Academy Person of the Year Gala"
+    ],
+    "images": [],
+    "published": "2026-11-14T09:53:28Z"
+  },
+  "1t65idy": {
+    "id": "1t65idy",
+    "type": "news",
+    "headline": "The Walking Dead Reunites Rick and Daryl After Eight Years in New Video Game",
+    "dek": "Fans of the iconic AMC zombie franchise can finally play as Rick Grimes and Daryl Dixon together again in the newly released retro beat-'em-up title, The Walking Dead: Streets of Survival.",
+    "body": [
+      {
+        "h": "A Historic Franchise Reunion",
+        "p": [
+          "The expansive Walking Dead universe has spawned numerous spin-off television series since the original AMC show premiered in 2010. Viewers have followed various survivors across multiple projects, but nothing has quite matched the nostalgic appeal of the early seasons.",
+          "The dynamic between Rick Grimes and Daryl Dixon formed the emotional core of the original series. Watching Rick lead the group while Daryl transformed from a guarded outsider into a reliable protector gave audiences some of the most memorable moments in television history."
+        ]
+      },
+      {
+        "h": "Entering The Virtual World",
+        "p": [
+          "An official new release has finally brought the legendary duo back together after an eight-year wait. The Walking Dead: Streets of Survival launched on September 18, 2026, offering a throwback experience for dedicated followers of the franchise.",
+          "Developed by Odaclick Game Studio and published by Trailmark Games, the title adopts a retro-inspired, side-scrolling beat-'em-up format. It draws heavy inspiration from the dramatic 'All Out War' narrative arc where the survivors clashed against Negan."
+        ]
+      },
+      {
+        "h": "Gameplay and Familiar Locations",
+        "p": [
+          "Players traverse a total of 12 distinct levels that recreate iconic settings from the television universe. Environments featured throughout the campaign include Alexandria, Hilltop, and the Sanctuary as hordes of walkers attack.",
+          "Aside from fighting the undead and hostile survivors, users must scavenge for essential supplies, gather upgrades, and solve puzzles. The gameplay allows for replayability through different characters and varying difficulty settings."
+        ]
+      },
+      {
+        "h": "Playable Survivors and Unlocks",
+        "p": [
+          "Both Rick and Daryl serve as playable protagonists, equipped with their signature weapons like Rick's magnum and Daryl's crossbow. Michonne also joins the playable roster, slicing through enemies with her recognizable katana.",
+          "Additional characters make appearances throughout the experience, including Simon, the Winslow walker, and the Season 2 Well Walker. Furthermore, players can unlock Negan after finishing the main campaign to wield Lucille against adversaries."
+        ]
+      },
+      {
+        "h": "Mixed Reception and Steam Status",
+        "p": [
+          "Despite the excitement surrounding the character reunion, the release has experienced a somewhat polarized public reception. It currently holds a 'Mostly Positive' overall score on Steam with about 70 percent positive reviews.",
+          "More recent user feedback has dipped into the 'Mixed' category. Common complaints from players center around repetitive combat mechanics, a relatively brief campaign length, and the total absence of co-op multiplayer features."
+        ]
+      },
+      {
+        "h": "Editions and Multi-Platform Availability",
+        "p": [
+          "The title is accessible across a wide variety of modern gaming hardware. It is currently available on PC through Steam, PS5, Xbox Series X/S, Nintendo Switch, and the Nintendo Switch 2.",
+          "Gamers can purchase the standard edition for $19.99, while a $29.99 Deluxe Edition provides extra cosmetic items, an endless survival mode, and additional gameplay challenges for dedicated fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Walking Dead: Streets of Survival officially reunites Rick Grimes and Daryl Dixon in a video game released on September 18, 2026, by Odaclick Game Studio and Trailmark Games. While the retro side-scroller faces mixed reviews regarding its combat and lack of co-op, it offers nostalgic fans a chance to play as classic characters across familiar locations."
+        ]
+      }
+    ],
+    "facts": [
+      "The original AMC series premiered in 2010.",
+      "The Walking Dead: Streets of Survival was released on September 18, 2026.",
+      "The game was developed by Odaclick Game Studio and published by Trailmark Games.",
+      "The title features 12 levels set in locations like Alexandria, Hilltop, and the Sanctuary.",
+      "The standard edition costs $19.99 and the Deluxe Edition costs $29.99.",
+      "The game has a Mostly Positive overall rating on Steam with about 70 percent positive reviews."
+    ],
+    "entities": {
+      "people": [
+        "Rick Grimes",
+        "Daryl Dixon",
+        "Negan",
+        "Michonne",
+        "Simon",
+        "Nicholas Becher"
+      ],
+      "titles": [
+        "The Walking Dead",
+        "Fear the Walking Dead",
+        "Dead City",
+        "The Ones Who Live",
+        "Daryl Dixon",
+        "The Walking Dead: Streets of Survival",
+        "The Walking Dead: Aftermath",
+        "Clair Obscur",
+        "Civ",
+        "Elden Ring",
+        "Halo 2",
+        "Pokémon Winds Waves",
+        "Dungeon Crawler Carl"
+      ]
+    },
+    "keywords": [
+      "The Walking Dead Streets of Survival",
+      "Rick and Daryl video game",
+      "Odaclick Game Studio",
+      "Trailmark Games"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/rick-and-daryl-blue-sky-walking-dead.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Walking Dead Reunites Rick and Daryl After Eight Years in New Video Game",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 08:00:18 GMT"
+  },
+  "7ch9q": {
+    "id": "7ch9q",
+    "type": "news",
+    "headline": "Emraan Hashmi Discusses Intensive Preparation for Action-Packed Role in Gunmaaster G9",
+    "dek": "Actor Emraan Hashmi opens up about the rigorous training required for his upcoming film Gunmaaster G9, detailing the unique demands of its gunfights and hand-to-hand combat sequences.",
+    "body": [
+      {
+        "h": "Introduction to the Project",
+        "p": [
+          "Bollywood actor Emraan Hashmi is currently preparing for the theatrical release of his upcoming action-packed project titled Gunmaaster G9. The film promises a thrilling cinematic experience and has already generated significant buzz following the release of its trailer on Wednesday.",
+          "Directed by filmmaker Aditya Datt and backed by producers Deepak Mukut, Hunar Mukut, and Sangeeta Ahir, the movie features a prominent ensemble cast. Alongside Hashmi, the project stars Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh in key roles."
+        ]
+      },
+      {
+        "h": "Physical Preparation and Action Sequences",
+        "p": [
+          "Hashmi revealed that working on Gunmaaster G9 demanded a entirely new level of physical conditioning compared to his previous outings. The actor undertook intensive preparation involving martial arts training, tactical gun shooting, and conditioning for demanding stunts.",
+          "Discussing the core of his role, Hashmi noted that his characters usually navigate dangerous environments, but this venture thrusts him directly into the thick of the chaos. He emphasized his goal to deliver convincing stunts and showcase an unseen side of his performance."
+        ]
+      },
+      {
+        "h": "Genelia Deshmukh Joins the Cast",
+        "p": [
+          "Actress Genelia Deshmukh shares screen space with Emraan Hashmi for the very first time in this venture. She expressed enthusiasm about the project's versatile appeal, highlighting that the narrative extends beyond mere action to incorporate romance, humour, music, and deep emotion.",
+          "Deshmukh believes this multi-genre approach gives the cast ample opportunity to entertain viewers on multiple fronts. She added that the recently unveiled trailer merely hints at the expansive fictional world crafted by the team."
+        ]
+      },
+      {
+        "h": "Aparshakti Khurana on the Scale and Characters",
+        "p": [
+          "Co-star Aparshakti Khurana weighed in on the film's scale, pointing out that the production benefits from a delightfully entertaining mix of characters and situations. He feels that the collective madness and larger-than-life moments are tailor-made for theatrical viewing.",
+          "Khurana noted that every performer in the ensemble contributes uniquely to the overall narrative energy, enhancing the broader theatrical appeal that audiences traditionally enjoy experiencing together on the big screen."
+        ]
+      },
+      {
+        "h": "Producer Perspective and Grand Scale",
+        "p": [
+          "Producer Deepak Mukut shed light on the financial and logistical scale of the venture, stating that the team deliberately mounted the project as a grand theatrical spectacle. He emphasized that the production value, locations, and action choreography were designed to draw crowds into cinema halls.",
+          "Presented by Soham Rockstar Entertainment Pvt. Ltd., the feature brings together Hashmi's fresh action avatar alongside compelling music and commercial elements to create an enticing proposition for moviegoers."
+        ]
+      },
+      {
+        "h": "Release Details and Production Team",
+        "p": [
+          "Fans eagerly anticipating the project do not have to wait much longer, as Gunmaaster G9 is officially scheduled to hit the big screen on November 27, 2026.",
+          "The film's production responsibilities are handled by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir, ensuring a polished presentation under the banner of Soham Rockstar Entertainment Pvt. Ltd."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Emraan Hashmi discussed his demanding physical preparation for gunfights and martial arts in the upcoming film Gunmaaster G9, directed by Aditya Datt. Co-starring Genelia Deshmukh and Aparshakti Khurana, the theatrical release is slated for November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Emraan Hashmi stars in Gunmaaster G9.",
+      "The film also stars Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh.",
+      "Aditya Datt is the director of the film.",
+      "Deepak Mukut, Hunar Mukut, and Sangeeta Ahir are the producers.",
+      "The film is presented by Soham Rockstar Entertainment Pvt. Ltd.",
+      "The trailer was unveiled on Wednesday.",
+      "The film is set to release in cinemas on November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Aditya Datt",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir"
+      ],
+      "titles": [
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9",
+      "Emraan Hashmi Gunmaaster G9",
+      "Genelia Deshmukh",
+      "Aditya Datt"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/11/5469-dsgsd.jpg",
+        "caption": "Emraan Hashmi Discusses Intensive Preparation for Action-Packed Role in Gunmaaster G9",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T09:53:28Z"
   }
 };
