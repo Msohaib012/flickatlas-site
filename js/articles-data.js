@@ -148706,5 +148706,496 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 19:18:13 GMT"
+  },
+  "fannnz": {
+    "id": "fannnz",
+    "type": "news",
+    "headline": "Bigg Boss 20: Rapper Yung DSA Opens Up About Childhood Financial Struggles and Living Away From Family",
+    "dek": "Inside the Bigg Boss 20 house, rapper Yung DSA shared painful memories of his difficult childhood, discussing his parents' financial arguments and how he grew accustomed to living independently at a young age.",
+    "body": [
+      {
+        "h": "Childhood Revelations on Reality Television",
+        "p": [
+          "During his time inside the prominent reality television house, musician Yung DSA opened up regarding the hardships of his early years. While interacting with fellow contestant Arishfa Khan, the rapper delved into personal memories that shaped his worldview and independence.",
+          "The conversation brought to light a side of the artist that viewers rarely see, moving beyond his public persona to touch upon deeply personal familial experiences and the emotional resilience he developed growing up."
+        ]
+      },
+      {
+        "h": "Coping With Early Independence",
+        "p": [
+          "Responding to a question about who he missed the most during the show, Yung DSA mentioned his close friend Samiksha. However, he candidly admitted that being away from his parents felt somewhat familiar due to circumstances he faced when he was very young.",
+          "Recalling his early days, the rapper explained how constant travel and specific family responsibilities required him to adapt quickly. He shared that trips to Solapur to stay with his grandparents became a normal part of managing daily life and obtaining necessities."
+        ]
+      },
+      {
+        "h": "Financial Hardships and Parental Conflicts",
+        "p": [
+          "The musician did not shy away from discussing the severe economic pressures his household endured. He recounted how money troubles frequently sparked bitter arguments between his mother and father.",
+          "As both parents had to work to sustain the household, Yung DSA and his brother often found themselves managing on their own. This early exposure to solitude made the rapper accustomed to living independently from a tender age."
+        ]
+      },
+      {
+        "h": "A Lifetime of Traveling and Living Away",
+        "p": [
+          "Building on those formative years, Yung DSA noted that frequent travel later in life further reinforced his habit of staying away from home. Moving around for various commitments meant he spent a significant portion of his life away from a stationary domestic environment.",
+          "Despite the physical distance that characterized much of his upbringing and career, the artist emphasized that his bond with his relatives remains strong and unbroken."
+        ]
+      },
+      {
+        "h": "Strong Family Bonds Despite the Distance",
+        "p": [
+          "Even though he grew up accustomed to the absence of his immediate family members under the same roof, Yung DSA clarified that emotional closeness was never lost. He affirmed that he and his family share a deeply connected relationship.",
+          "This enduring attachment was clearly demonstrated during a recent task in the house involving family messages, where hearing the voices of his mother, father, and brother left the rapper visibly and intensely emotional."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Inside the Bigg Boss 20 house, rapper Yung DSA opened up to Arishfa Khan about his difficult childhood, recalling how financial struggles and parental arguments forced him and his brother to live alone from a young age. Despite growing accustomed to living away from his family due to early childhood circumstances and frequent travel, the rapper became extremely emotional upon hearing messages from his parents and brother during a house task."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 14, 2026",
+      "Yung DSA spoke with Arishfa Khan inside the Bigg Boss 20 house",
+      "Yung DSA's mother used to go to Solapur to visit grandparents when he was a kid",
+      "Yung DSA mentioned his close friend Samiksha"
+    ],
+    "entities": {
+      "people": [
+        "Yung DSA",
+        "Arishfa Khan",
+        "Samiksha"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Yung DSA",
+      "Arishfa Khan",
+      "Bigg Boss 20 Yung DSA"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6606-yung-dsa.png",
+        "caption": "Bigg Boss 20: Rapper Yung DSA Opens Up About Childhood Financial Struggles and Living Away From Family",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T20:52:02Z"
+  },
+  "1w8cy4y": {
+    "id": "1w8cy4y",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
+    "dek": "Rockstar Games and Atlantic Records reveal the complete album details for the highly anticipated title, featuring major artists, physical vinyl variants, curated in-game radio stations, and a live music festival in Miami.",
+    "body": [
+      {
+        "h": "First Look at the Grand Theft Auto VI Album",
+        "p": [
+          "As the launch of Grand Theft Auto VI approaches, gaming and music enthusiasts have caught an early glimpse of the official soundtrack. Photos and footage of the vinyl package for the upcoming project have emerged across social media, confirming a comprehensive tracklist.",
+          "The collection spans two records and contains 34 tracks. Sources closely tied to the production have verified the lineup, building immense anticipation for how the audio will accompany the virtual world."
+        ]
+      },
+      {
+        "h": "An Eclectic Lineup of Global Artists",
+        "p": [
+          "The star-studded roster features a diverse mix of prominent performers spanning multiple genres. Confirmed contributors include Travis Scott, Cardi B, Dua Lipa, Lana Del Rey, Playboi Carti, and Morgan Wallen.",
+          "Additional featured acts range from Gunna and Future to Tame Impala, Metro Boomin, Fred again.., and PinkPantheress. Several pieces from the project are already accessible on digital streaming platforms."
+        ]
+      },
+      {
+        "h": "Release Details and Platform Availability",
+        "p": [
+          "Initially announced in September through a collaboration between Atlantic Records and Rockstar Games, the complete project is scheduled to drop on November 19. This launch aligns directly with the video game's release date for PlayStation 5 and Xbox Series X|S hardware.",
+          "The audio curation aims to evoke the atmosphere and mood of Leonida and Vice City. This release upholds the franchise's long-running tradition of highlighting emerging sonic subcultures and breaking new tunes."
+        ]
+      },
+      {
+        "h": "Exclusive Retail Vinyl Editions",
+        "p": [
+          "Collectors and physical media enthusiasts will have numerous options to purchase the record. Major outlets like Amazon, Walmart, Target, Best Buy, Barnes & Noble, and Urban Outfitters, alongside independent record stores and Blood Records, will stock the album.",
+          "Every participating retailer will supply a distinct vinyl pressing. These versions include unique visual designs and custom posters tailored to each seller."
+        ]
+      },
+      {
+        "h": "Curated In-Game Radio Stations",
+        "p": [
+          "Beyond the standalone release, the virtual world will incorporate dedicated radio stations hosted by notable figures. Curators and hosts include Bad Bunny, Lana Del Rey, Morgan Wallen, Burna Boy, Robyn, Trina, and Trick Daddy.",
+          "These broadcasts will further enrich the audio landscape of the fictional setting, providing players with curated listening experiences while navigating the virtual environment."
+        ]
+      },
+      {
+        "h": "Grand Theft Auto VI Festival in Miami",
+        "p": [
+          "To celebrate the rollout, a live music event titled Grand Theft Auto VI: The Festival is scheduled for November 21 at Mana Wynwood in Miami. The concert lineup boasts live performances by Cardi B, Travis Scott, Rauw Alejandro, and others.",
+          "A special Cactus Jack set will feature Travis Scott alongside Don Toliver and SoFaygo, complete with a special guest appearance by Kodak Black."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rockstar Games and Atlantic Records are set to release a 34-song soundtrack album alongside the launch of Grand Theft Auto VI on November 19. The project features prominent artists, multiple retail vinyl variations, curated in-game radio hosts, and a celebratory music festival in Miami."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI launches on November 19, 2026.",
+      "The album features 34 songs across two records.",
+      "The release is a collaboration between Atlantic Records and Rockstar Games.",
+      "Grand Theft Auto VI: The Festival takes place on November 21 at Mana Wynwood in Miami."
+    ],
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Cardi B",
+        "Dua Lipa",
+        "Don Toliver",
+        "Bad Bunny",
+        "Lana Del Rey",
+        "Morgan Wallen",
+        "Robyn",
+        "Burna Boy",
+        "Playboi Carti",
+        "Gunna",
+        "Yung Lean",
+        "Future",
+        "Metro Boomin",
+        "Fred again..",
+        "PinkPantheress",
+        "Tame Impala",
+        "Fuerza Regida",
+        "Rauw Alejandro",
+        "Trina",
+        "Trick Daddy",
+        "SoFaygo",
+        "Kodak Black",
+        "Justice",
+        "Michael McDonald",
+        "CA7RIEL",
+        "Paco Amoroso",
+        "Étienne de Crécy",
+        "SZA",
+        "King Gizzard the Lizard Wizard",
+        "Jhayco",
+        "A Boogie Wit Da Hoodie",
+        "Elkan",
+        "Young Thug",
+        "Tee Grizzley",
+        "JT",
+        "JENNIE",
+        "Tove Lo",
+        "Zara Larsson",
+        "Camila Cabello",
+        "Fcukers",
+        "Arca",
+        "Rina Sawayama",
+        "Rose Gray",
+        "Kali Uchis",
+        "Helado Negro",
+        "Omar Apollo",
+        "Keith Richards",
+        "Jesse Johnson",
+        "Dâm-Funk",
+        "Stanley Clarke",
+        "Yussef Dayes",
+        "Robert Glasper"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto VI: The Album",
+        "Grand Theft Auto VI: The Festival",
+        "Starting From Zero",
+        "That’s It",
+        "Ahh Yea",
+        "RHYNO",
+        "Sexy Magic",
+        "Flower in a Hurricane",
+        "Go Easy",
+        "Last Thing You Need",
+        "X",
+        "Suzuki",
+        "Macacoa 2000",
+        "Dance With Me",
+        "Bigger",
+        "Count Up",
+        "Let’s Rock",
+        "Wakin Up Flex",
+        "IKYFL",
+        "TF?",
+        "Don’t Chart",
+        "GMA",
+        "Power Trip",
+        "Blood in Your Eyes",
+        "Fast Emotion",
+        "Sweet Like Candy",
+        "Only One",
+        "Sandunguea",
+        "TRDWFE",
+        "All Again",
+        "Crazy for You",
+        "Largate",
+        "No Me Busques",
+        "Bright Lights, Big City",
+        "Stone Kold Krazy Luuv",
+        "Overtown Lights"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI Album",
+      "Grand Theft Auto VI soundtrack",
+      "Travis Scott Cardi B GTA 6",
+      "Grand Theft Auto VI The Festival"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/grand-theft-auto-6-banner-2026-billboard-1800.jpg?w=1024",
+        "caption": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 20:45:56 +0000"
+  },
+  "1rg1vfp": {
+    "id": "1rg1vfp",
+    "type": "news",
+    "headline": "Supriya Sule Says NCP (SP) Open to Delimitation With Uniform 50% Seat Increase",
+    "dek": "The Nationalist Congress Party (Sharadchandra Pawar) has expressed willingness to support the Centre's delimitation proposal on the condition that all states receive an equal 50 per cent increase in Lok Sabha seats and women's reservation is implemented.",
+    "body": [
+      {
+        "h": "Party Stance on Delimitation",
+        "p": [
+          "The Nationalist Congress Party (Sharadchandra Pawar) has indicated that it is open to considering the central government's proposed delimitation exercise. Party working president and Baramati MP Supriya Sule stated that the political organization could support the Delimitation Bill in principle under specific conditions.",
+          "Sule made these remarks during a press conference held ahead of the upcoming session of Parliament. She noted that her party's stance on the matter is consistent with the position it maintained during all-party discussions conducted three months prior."
+        ]
+      },
+      {
+        "h": "Conditions for Support",
+        "p": [
+          "For the NCP (SP) to accept the proposed formula, the increase in parliamentary seats must be applied equally and uniformly across every state. Sule explained that the party is willing to back the plan if it benefits the country as a whole without creating regional disparities.",
+          "In addition to the uniform seat increase, Sule made it clear that the delimitation exercise must not proceed without the implementation of women's reservation. The combination of these two elements forms the core of the party's prerequisites for backing the constitutional amendment."
+        ]
+      },
+      {
+        "h": "Reference to Amit Shah's Proposal",
+        "p": [
+          "While detailing the party's perspective, Sule referred to a proposal previously put forward by Union Home Minister Amit Shah. That proposal envisioned increasing parliamentary seats by 50 per cent across every state in the country.",
+          "Pointing to this uniform formula, Sule reiterated that if all states receive seats in an equal proportion, her party has no objection to considering the plan. This potential backing could provide assistance to the Modi government in building the necessary two-thirds majority."
+        ]
+      },
+      {
+        "h": "Rising Electorate Sizes",
+        "p": [
+          "To justify the necessity of redrawing constituency boundaries, Sule highlighted the substantial growth in the voter population across parliamentary constituencies nationwide. She noted that numerous constituencies now encompass between 25 lakh and 40 lakh voters.",
+          "As a specific local example, she mentioned her own constituency of Baramati, where the number of registered voters has grown from 10 to 12 lakh up to nearly 20 to 22 lakh."
+        ]
+      },
+      {
+        "h": "Challenges of Representation",
+        "p": [
+          "Sule raised questions regarding the practicality of an individual Member of Parliament effectively serving such massive populations. She argued that even extraordinary figures like fictional superheroes would struggle to reach 25 to 40 lakh constituents.",
+          "Furthermore, she pointed out the limitations of the existing Rs 5 crore allocation under the Members of Parliament Local Area Development Scheme. Smaller constituencies, she argued, are essential for ensuring that local development needs receive proper attention and effective representation."
+        ]
+      },
+      {
+        "h": "Political Alliances and Rumours",
+        "p": [
+          "Aside from addressing the delimitation topic, Sule took the opportunity to dismiss speculation regarding any potential shift in political alliances. She denied rumours that the NCP (SP) might join the BJP-led National Democratic Alliance or merge with the rival NCP faction.",
+          "She clarified that any talk of a merger following the passing of Ajit Pawar was put to rest immediately after his death. Additionally, she reaffirmed that the party remains firmly committed to the opposition INDIA bloc."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Supriya Sule announced that the NCP (SP) is open to supporting the Centre's delimitation proposal provided there is a uniform 50 percent increase in Lok Sabha seats for all states and women's reservation is enacted. She cited swelling voter counts in constituencies like Baramati and the limitations of current MPLADS funds as reasons for smaller boundaries, while also denying any merger rumours and reaffirming ties to the INDIA bloc."
+        ]
+      }
+    ],
+    "facts": [
+      "Supriya Sule is the NCP (SP) working president and Baramati MP.",
+      "Union Home Minister Amit Shah previously proposed increasing parliamentary seats by 50 per cent in every state.",
+      "Voter numbers in Baramati rose from 10–12 lakh to nearly 20–22 lakh.",
+      "Constituencies across the country currently have between 25 lakh and 40 lakh voters.",
+      "The Members of Parliament Local Area Development Scheme allocation is Rs 5 crore."
+    ],
+    "entities": {
+      "people": [
+        "Supriya Sule",
+        "Amit Shah",
+        "Ajit Pawar"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Supriya Sule delimitation",
+      "NCP SP seat increase",
+      "Delimitation Bill womens reservation",
+      "Supriya Sule Baramati voters"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6617-untitled-design-2026-11-14t181922234.png",
+        "caption": "Supriya Sule Says NCP (SP) Open to Delimitation With Uniform 50% Seat Increase",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T20:52:02Z"
+  },
+  "ezj4e2": {
+    "id": "ezj4e2",
+    "type": "news",
+    "headline": "Camerimage Film Festival Crowns 2026 Winners Led By Fatherland and Wild Horse Nine",
+    "dek": "The 34th annual cinematography celebration in Toruń, Poland, announced its top prizes, with Lukasz Zal taking the Golden Frog and Martin McDonagh's film winning the audience award.",
+    "body": [
+      {
+        "h": "Main Competition and Top Winners",
+        "p": [
+          "The 34th iteration of the Camerimage Film Festival concluded its run in Toruń, Poland, celebrating the finest achievements in global cinematography. During the Saturday closing ceremony, the prestigious event—which adopted the name ToruńCamerimage earlier in the year—distributed its highest honors to several standout cinematic projects.",
+          "Topping the main competition was the film Fatherland, earning widespread acclaim and cementing its status as an upcoming Academy Award contender. Cinematographer Lukasz Zal captured the coveted Golden Frog for his exceptional visual work on the feature, which is directed by Pawel Pawlikowski."
+        ]
+      },
+      {
+        "h": "Fatherland Plot and Oscar Ambitions",
+        "p": [
+          "Serving as Poland's official submission for the international feature Oscar, Fatherland transports viewers into a Cold War-era journey through Germany. The narrative follows Nobel Prize-winning author Thomas Mann, portrayed by Hanns Zischler, alongside his daughter Erika, played by Sandra Hüller, as they embark on an immersive road trip.",
+          "The project has picked up significant momentum on the festival circuit, positioning itself as a major player in upcoming international award races alongside its fellow European contenders."
+        ]
+      },
+      {
+        "h": "Silver and Bronze Frog Honorees",
+        "p": [
+          "Other prominent features earned recognition in the main cinematography categories during the festive Polish gathering. Cinematographer Jasper J. Spanning was awarded the Silver Frog for his work on Woman Unknown, a project directed by May El-Toukhy.",
+          "Meanwhile, Mikhail Krichman claimed the Bronze Frog for his visual contributions to Minotaur, a film directed by Andrey Zvyagintsev."
+        ]
+      },
+      {
+        "h": "Audience Award and Star-Studded Thriller",
+        "p": [
+          "In addition to the jury selections, festival attendees cast their votes to determine the recipient of the audience award. That honor was claimed by Wild Horse Nine, a comedic spy thriller directed by Martin McDonagh and shot by cinematographer Ben Davis.",
+          "The film features high-profile performances from John Malkovich and Sam Rockwell, and it carries substantial Oscar aspirations as it approaches its wider release strategy."
+        ]
+      },
+      {
+        "h": "Debuts, Nonfiction, and Specialized Categories",
+        "p": [
+          "The festival also recognized emerging talent and specialized formats across multiple distinct competitive sections. In the Cinematographers’ Debuts category, Eira Wyn Jones took home the Golden Frog for Effi O Blaenau, directed by Tereza Nvotova, while Kaifeng Zhong secured the Directors’ Debuts Golden Frog for Atlantic Rhapsody.",
+          "Nonfiction and episodic storytelling received dedicated spotlights as well. Eva Kraljevic won the Documentary Features Golden Frog for To Hold a Mountain, directed by Petar Glomazic, and Maxim Arbugaev and Vladimir Egorov earned the Documentary Shorts Golden Frog for Chuuraa, directed by Evgenia Arbugaeva. In the television field, Maciej Sobieraj collected the Golden Frog for the series Silent Night, directed by Jan Holoubek."
+        ]
+      },
+      {
+        "h": "Music Videos, National Race, and Student Etudes",
+        "p": [
+          "Additional trophies were handed out for short-form visual storytelling and national cinema achievements. The Music Videos competition saw Jeff Bierman win the Golden Frog for the (LA)HORDE-directed video What You Want.",
+          "In Poland's national race, Alan Ruczyński was honored with the Golden Frog for A Free Woman, a project he co-directed alongside Eliza Godlewska. Wrapping up the event, the Film and Art School Etudes Competition awarded the Golden Tadpole to Francesca Avanzini for Revolver, the Silver Tadpole to Paul Ader for Nika's Room, and the Bronze Tadpole to Enrico Barbaro Jr. for Until We Bury Them!"
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 34th Camerimage Film Festival in Toruń, Poland, concluded with a closing ceremony honoring outstanding cinematography across features, documentaries, television, and music videos. Fatherland won the main competition Golden Frog for Lukasz Zal, while Wild Horse Nine captured the audience award.",
+          "Various other directors, cinematographers, and student creators were recognized with medals ranging from the Silver and Bronze Frogs to the student Tadpoles."
+        ]
+      }
+    ],
+    "facts": [
+      "The 34th Camerimage Film Festival was held in Toruń, Poland.",
+      "The festival changed its name earlier in the year to ToruńCamerimage.",
+      "Lukasz Zal won the Golden Frog for Fatherland.",
+      "Fatherland is directed by Pawel Pawlikowski and is Poland's selection for the international feature Oscar.",
+      "Fatherland stars Hanns Zischler as Thomas Mann and Sandra Hüller as Erika.",
+      "Jasper J. Spanning won the Silver Frog for Woman Unknown, directed by May El-Toukhy.",
+      "Mikhail Krichman won the Bronze Frog for Minotaur, directed by Andrey Zvyagintsev.",
+      "Wild Horse Nine won the audience award and was shot by Ben Davis, directed by Martin McDonagh, and stars John Malkovich and Sam Rockwell."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Gajewski",
+        "Lukasz Zal",
+        "Pawel Pawlikowski",
+        "Thomas Mann",
+        "Hanns Zischler",
+        "Erika",
+        "Sandra Hüller",
+        "Jasper J. Spanning",
+        "May El-Toukhy",
+        "Mikhail Krichman",
+        "Andrey Zvyagintsev",
+        "Martin McDonagh",
+        "Ben Davis",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Diego Araya Corvalán",
+        "Eira Wyn Jones",
+        "Tereza Nvotova",
+        "Kaifeng Zhong",
+        "Eva Kraljevic",
+        "Petar Glomazic",
+        "Maxim Arbugaev",
+        "Vladimir Egorov",
+        "Evgenia Arbugaeva",
+        "Maciej Sobieraj",
+        "Jan Holoubek",
+        "Jeff Bierman",
+        "Alan Ruczyński",
+        "Eliza Godlewska",
+        "Francesca Avanzini",
+        "Paoli de Luca",
+        "Paul Ader",
+        "Konstantin Münzel",
+        "Enrico Barbaro Jr.",
+        "Marco Araujo",
+        "Tony Maglio",
+        "Ethan Millman",
+        "Jackie Strause",
+        "Kirsten Chuba",
+        "Scott Feinberg",
+        "Winston Cho",
+        "Lacey Rose",
+        "Nancy Jo Sales",
+        "Scott Roxborough"
+      ],
+      "titles": [
+        "Fatherland",
+        "Wild Horse Nine",
+        "Woman Unknown",
+        "Minotaur",
+        "La Bola Negra",
+        "Fjord",
+        "Effi O Blaenau",
+        "Atlantic Rhapsody",
+        "To Hold a Mountain",
+        "Chuuraa",
+        "Silent Night",
+        "What You Want",
+        "A Free Woman",
+        "Revolver",
+        "Nika's Room",
+        "Until We Bury Them!",
+        "Man of Tomorrow",
+        "Superman",
+        "Ebenezer",
+        "You Can See Everything",
+        "Mo Amor",
+        "Cookie Queens",
+        "Virgin River",
+        "The Bachelor"
+      ]
+    },
+    "keywords": [
+      "Camerimage Film Festival",
+      "Fatherland movie",
+      "Lukasz Zal",
+      "Wild Horse Nine"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/FATHERLAND-200504-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Camerimage Film Festival Crowns 2026 Winners Led By Fatherland and Wild Horse Nine",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 20:06:12 +0000"
   }
 };
