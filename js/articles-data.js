@@ -146109,5 +146109,371 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 11:00:16 GMT"
+  },
+  "1xaw57e": {
+    "id": "1xaw57e",
+    "type": "news",
+    "headline": "Yash Overhauls Prabhas in Koimoi Star Ranking Following Ramayana Box Office Milestone",
+    "dek": "Kannada superstar Yash has climbed past Prabhas in the Koimoi Star Power Index, propelled by the phenomenal box office performance of his latest film Ramayana.",
+    "body": [
+      {
+        "h": "The Box Office Triumph of Ramayana",
+        "p": [
+          "Yash has made a remarkable return to the forefront of Indian cinema following earlier career setbacks. His compelling performance as Ravan in the Bollywood epic Ramayana has captured audience acclaim and driven massive ticket sales across the country.",
+          "The momentum of the film culminated on its second Friday, marking its ninth day in theaters, when the grand production officially breached the coveted 600-crore net collection club at the Indian box office."
+        ]
+      },
+      {
+        "h": "Understanding the Koimoi Star Ranking",
+        "p": [
+          "The Koimoi Star Power Index evaluates and ranks actors based on the commercial success of their films in terms of domestic box office milestones. Points are allocated according to how high a star's film climbs into elite earnings brackets, such as the 100-crore, 200-crore, and higher clubs.",
+          "Additionally, the ranking system rewards performers whose movies secure a position among the top ten highest-grossing Bollywood films in overseas markets. For South Indian releases, the metrics factor in the collections generated specifically by the Hindi-dubbed versions."
+        ]
+      },
+      {
+        "h": "Yash Smashes Past Previous Benchmarks",
+        "p": [
+          "Prior to the premiere of Ramayana, Yash held the twelfth position in the power index with a total of 500 points. The exceptional nine-day run of his latest cinematic venture resulted in a massive surge to his overall score.",
+          "By crossing the 600-crore net milestone domestically, he secured a direct addition of 600 points. Furthermore, the film's strong international performance earned him an extra 50 points for breaking into Bollywood's top ten overseas grossers, bringing his grand total to 1150 points."
+        ]
+      },
+      {
+        "h": "Overtaking Prabhas on the Leaderboard",
+        "p": [
+          "With his new tally of 1150 points, Yash successfully surpassed Prabhas, who sits at 1100 points. This leap allows the actor known as the Rocking Star to secure the ninth spot in the competitive rankings.",
+          "Industry analysts suggest that given the ongoing theatrical strength of Ramayana, Yash is positioned to climb even higher. He is projected to bypass Hrithik Roshan, who currently commands 1300 points, to claim the eighth position."
+        ]
+      },
+      {
+        "h": "Breakdown of the Star's Scoring Tally",
+        "p": [
+          "Yash's accumulation of 1150 points is distributed across several major box office achievements throughout his career. His earlier Hindi release Toxic contributed 100 points for entering the 100 crore club.",
+          "A major portion of his prior score came from KGF Chapter 2, which added 400 points for entering the 400 crore club, combined with the new 650 points earned entirely through the domestic and international success of Ramayana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yash has overtaken Prabhas in the Koimoi Star Ranking, landing in the ninth spot with 1150 points after Ramayana entered the 600-crore net club on its second Friday. The actor added significant points to his tally through domestic milestones and overseas achievements, with further climbs anticipated on the leaderboard."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash surpassed Prabhas in the Koimoi Star Ranking with 1150 points compared to Prabhas's 1100 points.",
+      "Ramayana entered the 600 crore net club on its second Friday, which was day 9.",
+      "Yash previously stood at 500 points at the twelfth spot before the release of Ramayana.",
+      "Yash's points breakdown includes 100 points for Toxic (Hindi), 400 points for KGF Chapter 2, 600 points for Ramayana, and 50 points for overseas grossers.",
+      "Yash is positioned to surpass Hrithik Roshan who holds 1300 points."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Prabhas",
+        "Hrithik Roshan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Toxic",
+        "KGF Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana box office",
+      "Koimoi Star Ranking Yash",
+      "Yash surpasses Prabhas",
+      "Ramayana 600 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-yash-goes-past-prabhas-in-koimoi-star-ranking-as-ramayana-enters-600-crore-net-club.jpg",
+        "caption": "Yash Overhauls Prabhas in Koimoi Star Ranking Following Ramayana Box Office Milestone",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 12:25:14 +0000"
+  },
+  "9vadfd": {
+    "id": "9vadfd",
+    "type": "news",
+    "headline": "BTS Claims Album of the Year for ARIRANG at the 2026 Melon Music Awards",
+    "dek": "The globally renowned septet secures a grand prize at MMA2026 despite not attending the ceremony, adding to a remarkable year of sustained international charting success.",
+    "body": [
+      {
+        "h": "Grand Prize Victory at MMA2026",
+        "p": [
+          "Global K-pop phenomenon BTS added another prestigious accolade to their collection by capturing the Album of the Year honor at the 2026 Melon Music Awards. The major victory was announced during the opening day of the ceremony held at the Gocheok Sky Dome in Seoul.",
+          "Winning one of the night's highest grand prizes underscores the continuing dominance of the group's fifth studio release, titled ARIRANG. Even though the members were not present at the venue to accept the trophy personally, the announcement generated immense excitement among supporters worldwide."
+        ]
+      },
+      {
+        "h": "Competitive Field of Nominees",
+        "p": [
+          "The category featured some of the most prominent releases of the year, making the win particularly notable. BTS triumphed against a formidable group of fellow nominees that included aespa with LEMONADE, AKMU with FLOWERING, CORTIS with GREENGREEN, and IVE with REVIVE+.",
+          "Securing the top prize against such strong contenders highlights the broad appeal and critical reception of ARIRANG across the music landscape."
+        ]
+      },
+      {
+        "h": "A Historic Group Reunion",
+        "p": [
+          "ARIRANG holds profound significance for both the artists and their fanbase as it represents the group's triumphant comeback as a full ensemble. The record arrived in March, ending a hiatus of three years and nine months while the members completed their mandatory military service duties.",
+          "The project successfully brought all individuals back together in the recording studio, marking a major milestone chapter in their career timeline following their extended time away from group promotions."
+        ]
+      },
+      {
+        "h": "The Message Behind SWIM",
+        "p": [
+          "The central thematic drive of the record is anchored by its prominent title track, SWIM. The composition carries an encouraging narrative focused on resilience, pushing forward, and refusing to halt in spite of life's turbulent waves.",
+          "Through this inspiring message, the artists communicate a clear determination to navigate future obstacles head-on, resonating deeply with listeners encountering their own personal difficulties."
+        ]
+      },
+      {
+        "h": "Sustained Global Chart Performance",
+        "p": [
+          "Beyond domestic honors, the studio project has maintained an impressive footprint on international music charts months after its initial launch. The release secured the No. 62 position on the Billboard 200 main U.S. albums chart for the ranking dated November 14.",
+          "This achievement follows an explosive debut at No. 1 on the April 4 ranking, where it maintained the top position for three consecutive weeks and has now logged an extraordinary total of 33 weeks on the chart."
+        ]
+      },
+      {
+        "h": "Ceremony Highlights and Performances",
+        "p": [
+          "The opening day of MMA2026 featured a packed lineup of high-energy performances from various prominent acts across the industry. Artists taking to the stage included I.O.I, AEN, aespa, ATEEZ, Dragon Pony, HANA, and Hearts2Hearts.",
+          "Additional performances were delivered by IDID, NCT DREAM, RESCENE, RIIZE, TUIDE, TWS, and YENA, setting a vibrant tone before the multi-day event continued into its second scheduled date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS won Album of the Year for their fifth studio album, ARIRANG, at the 2026 Melon Music Awards held at the Gocheok Sky Dome in Seoul. Despite the group's absence from the venue, the record triumphed over multiple prominent nominees and continued its strong global charting streak."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS won Album of the Year for ARIRANG at the 2026 Melon Music Awards.",
+      "MMA2026 opened on November 14 at Gocheok Sky Dome in Seoul.",
+      "ARIRANG is the fifth studio album by BTS and their first full-group release in three years and nine months after military service, released in March.",
+      "The title track of the album is named SWIM.",
+      "Nominees in the category included aespa for LEMONADE, AKMU for FLOWERING, CORTIS for GREENGREEN, and IVE for REVIVE+.",
+      "ARIRANG placed No. 62 on the Billboard 200 chart dated November 14, after debuting at No. 1 on April 4 and spending 33 weeks on the chart total."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "ARIRANG",
+        "LEMONADE",
+        "FLOWERING",
+        "GREENGREEN",
+        "REVIVE+",
+        "SWIM"
+      ]
+    },
+    "keywords": [
+      "BTS ARIRANG album",
+      "BTS Album of the Year",
+      "Melon Music Awards 2026",
+      "BTS MMA2026 win"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 08:06:00 EST"
+  },
+  "898tdp": {
+    "id": "898tdp",
+    "type": "news",
+    "headline": "Imtiaz Ali Praises Dhurandhar at HTLS 2026",
+    "dek": "Filmmaker Imtiaz Ali discussed the Hindi film industry at the 24th Hindustan Times Leadership Summit, highlighting Dhurandhar as a project initially labeled impractical by many in Bollywood.",
+    "body": [
+      {
+        "h": "Imtiaz Ali Speaks at HTLS 2026",
+        "p": [
+          "Writer and director Imtiaz Ali appeared as a featured speaker at the 24th edition of the Hindustan Times Leadership Summit. During a conversation with Sonal Kalra, the filmmaker shared his observations on the evolving nature of the Hindi film industry and the current phase of introspection among creators.",
+          "Ali noted that industry discussions frequently revolve around shifting audience preferences and uncertainties regarding what succeeds. He pointed to debates surrounding star power versus non-star projects and perceptions about shrinking attention spans in viewers."
+        ]
+      },
+      {
+        "h": "Overcoming Early Skepticism",
+        "p": [
+          "Addressing the massive success of Aditya Dhar's spy thriller franchise, Ali highlighted how the project was perceived prior to its release. He revealed that during its development and studio rounds, numerous individuals within Bollywood considered Dhurandhar highly impractical and unlikely to succeed.",
+          "Despite early doubts about its viability, the feature defied conventional industry rules. Ali observed that its triumph has since shifted perspectives, prompting many in the industry to reevaluate formulas and consider new directions."
+        ]
+      },
+      {
+        "h": "Challenging Conventional Industry Assumptions",
+        "p": [
+          "The filmmaker noted a common industry narrative claiming that modern audiences no longer have the patience for lengthy narratives. However, he contrasted this theory with the impressive runtime of Dhurandhar, which spans nearly three hours.",
+          "Ali used this contrast to illustrate how breakout hits frequently subvert prevailing industry assumptions. Rather than adhering to strict runtime limits, successful projects have demonstrated that compelling storytelling can override traditional constraints."
+        ]
+      },
+      {
+        "h": "Box Office Milestones and Franchise Scale",
+        "p": [
+          "The Dhurandhar series has achieved unprecedented financial success at the box office, crossing ₹3000 crore worldwide across its two installments. The first film, released in December, grossed over ₹1300 crore globally and set domestic benchmarks during its fourteen-week theatrical run.",
+          "The sequel, Dhurandhar: The Revenge, arrived in March and shattered multiple records. It became the first Hindi film to achieve a ₹100 crore net collection in a single day, reaching the milestone three times during its opening weekend."
+        ]
+      },
+      {
+        "h": "Cast and Creative Leadership",
+        "p": [
+          "Written and directed by Aditya Dhar, the Dhurandhar films center on an Indian spy infiltrating networks in Pakistan. The ensemble cast features Ranveer Singh in the lead role, alongside R Madhavan, Akshaye Khanna, Arjun Rampal, Sanjay Dutt, Rakesh Bedi, and Sara Arjun.",
+          "While the first part earned widespread critical acclaim, the second part received more mixed reviews. Nevertheless, both films stand as the highest-grossing Hindi releases in India to date."
+        ]
+      },
+      {
+        "h": "Industry Reflection and Future Outlook",
+        "p": [
+          "Ali characterized the current atmosphere in Bollywood as a period of deep introspection. As creators analyze the unexpected triumphs of unconventional projects, the language and approach to filmmaking are undergoing noticeable shifts.",
+          "By breaking established norms, projects like Dhurandhar have encouraged studios and filmmakers to rethink traditional strategies and embrace bolder narrative choices."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "At the 24th Hindustan Times Leadership Summit 2026, filmmaker Imtiaz Ali discussed industry trends and praised Aditya Dhar's Dhurandhar. He noted that the blockbuster franchise was initially dismissed by many in Bollywood as impractical before breaking box office records and reshaping industry expectations."
+        ]
+      }
+    ],
+    "facts": [
+      "The 24th Hindustan Times Leadership Summit took place in 2026.",
+      "Imtiaz Ali spoke with Sonal Kalra at the summit.",
+      "Dhurandhar was directed by Aditya Dhar and starred Ranveer Singh.",
+      "The first Dhurandhar film released in December.",
+      "Dhurandhar: The Revenge released in March.",
+      "The Dhurandhar franchise crossed ₹3000 crore worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Imtiaz Ali",
+        "Sonal Kalra",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "R Madhavan",
+        "Akshaye Khanna",
+        "Arjun Rampal",
+        "Sanjay Dutt",
+        "Rakesh Bedi",
+        "Sara Arjun"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Main Vaapas Aaunga",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Imtiaz Ali Dhurandhar",
+      "Aditya Dhar Dhurandhar",
+      "Ranveer Singh Dhurandhar",
+      "HTLS 2026 Imtiaz Ali"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/dhurandhar_1794660079438_KKLk_1794660079960_jpNH_162ede24-8f2b-49bb-89ea-f01627433e86_3QRx.jpg",
+        "caption": "Imtiaz Ali Praises Dhurandhar at HTLS 2026",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 18:32:46 +0530"
+  },
+  "2cqtz5": {
+    "id": "2cqtz5",
+    "type": "news",
+    "headline": "Daniel Craig's Most Polarizing James Bond Feature Is Leaving Streaming Soon",
+    "dek": "One of the most debated installments in the long-running spy franchise is about to exit its current streaming home in the United States.",
+    "body": [
+      {
+        "h": "An Impending Departure from Streaming Platforms",
+        "p": [
+          "Fans of the world's most famous fictional secret agent are facing a deadline to catch one of the more contentious entries in the franchise. The movie in question, which follows the adventures of Agent 007, is currently available on Paramount+ in the United States, but this streaming availability is only temporary. Viewers who wish to revisit or discover this particular chapter will need to do so before it cycles off the platform.",
+          "This impending removal highlights the fluid nature of digital licensing agreements for major cinematic franchises. Even massive studio properties frequently rotate between different subscription services and video-on-demand storefronts, leaving audiences to track where their favorite titles happen to reside at any given moment."
+        ]
+      },
+      {
+        "h": "The Rocky Road to Production",
+        "p": [
+          "The film's troubled history began long before cameras started rolling, shaped significantly by major industry disruptions. Its pre-production phase collided directly with the 2007-2008 Writers Guild of America strike, creating immense hurdles for the creative team. Because of the labor stoppage, the production entered its active filming phase with a script that was far from finished.",
+          "Rather than pausing operations to wait out the strike, the production pushed forward under immense pressure. This resulted in a frantic atmosphere where dialogue and sequences had to be improvised and revised on the fly, testing the limits of everyone involved in bringing the ambitious spy sequel to life."
+        ]
+      },
+      {
+        "h": "Actor's Frustrations and On-the-Fly Rewrites",
+        "p": [
+          "Carrying the weight of a legendary cinematic legacy is never simple, but doing so without a finalized screenplay compounded the difficulty exponentially. The leading star of the franchise candidly discussed these trials in interviews leading up to subsequent installments, admitting that the cast and crew had only the bare bones of a story when filming commenced.",
+          "The actor noted that employing a writer to finish the narrative was impossible during the industry shutdown, forcing unexpected scriptwriting duties onto individuals who were not professional scribes. While the team ultimately managed to push through the chaotic conditions, the experience left a lasting impression on the lead performer regarding the perils of unprepared productions."
+        ]
+      },
+      {
+        "h": "A Difficult Follow-Up to a Critically Acclaimed Debut",
+        "p": [
+          "The pressure surrounding this specific project was heightened because it served as the direct follow-up to a widely celebrated franchise introduction. That initial outing earned rave reviews from critics and audiences alike, even garnering a prestigious BAFTA nomination for the lead actor's intense and emotionally charged portrayal of Agent 007.",
+          "Following that triumphant reception, studio executives were eager to maintain momentum and quickly green-lit a sequel. They enlisted a critically acclaimed Swiss drama director known for helming character-driven projects to steer the ship, hoping to blend high-stakes action with deep emotional resonance."
+        ]
+      },
+      {
+        "h": "Reluctant Legacy and Contractual Conditions",
+        "p": [
+          "Throughout his tenure portraying the British secret service agent, the lead actor frequently exhibited a complicated relationship with the role. Following his first outing as 007, he famously questioned producers about how many more commitments he would be obligated to fulfill, hinting at the physical and mental toll the part demanded.",
+          "Later in his run, after completing his fourth appearance in the tuxedo, he made memorable hyperbolic remarks expressing exhaustion and a strong reluctance to ever return. He did eventually agree to headline one final cinematic chapter, though that return came with a very specific narrative stipulation regarding the ultimate fate of the character."
+        ]
+      },
+      {
+        "h": "Public Reception and Franchise Standing",
+        "p": [
+          "Over the years, this particular installment has earned a reputation as one of the most divisive entries in the entire multi-decade history of the James Bond series. While some viewers appreciated its raw intensity, brisk pacing, and continuation of serialized storytelling, others criticized its fragmented narrative structure.",
+          "Despite the chaotic circumstances of its creation and the mixed debates among longtime fans, the film remains an essential building block in the modern era of the franchise. It represents a period when the series was actively redefining its tone, moving away from traditional formulas toward grittier, more grounded espionage adventures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A divisive James Bond film starring Daniel Craig is preparing to leave Paramount+ in the United States. The movie faced a troubled production due to the 2007-2008 Writers Guild of America strike, forcing the cast and crew to improvise scenes with an unfinished script."
+        ]
+      }
+    ],
+    "facts": [
+      "Daniel Craig starred in the James Bond franchise.",
+      "The 2007-2008 Writers Guild of America strike affected the film's production.",
+      "Marc Forster directed the sequel following Casino Royale.",
+      "The movie is currently streaming on Paramount+ in the United States."
+    ],
+    "entities": {
+      "people": [
+        "Daniel Craig",
+        "Barbara Broccoli",
+        "Marc Forster",
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher",
+        "Sean Connery",
+        "Roger Moore",
+        "Timothy Dalton"
+      ],
+      "titles": [
+        "James Bond",
+        "Casino Royale",
+        "Spectre",
+        "Skyfall",
+        "Dr. No",
+        "Diamonds Are Forever",
+        "Live and Let Die",
+        "A View to a Kill",
+        "The Living Daylights",
+        "Licence to Kill",
+        "Finding Neverland",
+        "Monster's Ball"
+      ]
+    },
+    "keywords": [
+      "Daniel Craig James Bond",
+      "Paramount Plus James Bond movie",
+      "James Bond streaming departure",
+      "Daniel Craig",
+      "Barbara Broccoli"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/daniel-craig-james-bond-quantum-of-solace.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Daniel Craig's Most Polarizing James Bond Feature Is Leaving Streaming Soon",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 13:30:12 GMT"
   }
 };
