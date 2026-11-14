@@ -585,7 +585,9 @@
          distinct daywise dates. A flat World total (latest point equals
          the 2-days-ago point) is a genuine ₹0 — no collections in 2 days —
          not a missing figure. Titles with no tracking data at all keep the
-         honest "Not reported". */
+         honest "Not reported". The 7-day cell also carries the revenue for
+         the days so far (World: total change since tracking started) next
+         to the "Day N of 7" tag. */
       const historyFor = (tid) => {
         const h = boxOfficeSnapshot && boxOfficeSnapshot.total_history && boxOfficeSnapshot.total_history[tid];
         return Array.isArray(h) ? h : [];
@@ -598,9 +600,23 @@
       };
       const progressTag = (windowKey) => {
         const n = daysTracked();
-        if (windowKey === "last_7_days" && n >= 1 && n < 7) return `<span class="fa-box-progress">Day ${n} of 7</span>`;
+        if (windowKey === "last_7_days" && n >= 1 && n <= 7) return `<span class="fa-box-progress">Day ${n} of 7</span>`;
         if (windowKey === "last_2_days" && n === 1) return `<span class="fa-box-progress">Day 1 of 2</span>`;
         return null;
+      };
+      const partialSevenDay = () => {
+        // Revenue for the days so far (World only): total change over the
+        // tracked window. The seed point (first observation) is the least
+        // reliable — a new title's first Mojo total is often incomplete
+        // (Wild Horse Nine jumped $2.5M -> $12.6M on day 2) — so for 3+
+        // points the change is measured from the SECOND point; for exactly
+        // 2 points, from the first. One point cannot measure a change.
+        if (bucket !== "world") return null;
+        const h = historyFor(id);
+        if (h.length < 2) return null;
+        const base = h.length >= 3 ? h[1] : h[0];
+        const diff = Number(h[h.length - 1].amount) - Number(base.amount);
+        return Number.isFinite(diff) && diff >= 0 ? diff : null;
       };
       const flatTwoDay = () => {
         if (bucket !== "world") return false;
@@ -616,9 +632,19 @@
       };
       const metricCell = (windowKey, label, description) => {
         const metric = metricFor(windowKey);
-        if (metric) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${amountHtml(metric)}</dd>${evidence(metric)}</div>`;
+        if (metric) {
+          // Bollywood partial 7-day sum: the figure is the revenue for the
+          // days so far, so the "Day N of 7" tag rides as evidence below it.
+          if (windowKey === "last_7_days" && bucket === "bollywood") {
+            const n = daysTracked();
+            if (n >= 1 && n < 7) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${amountHtml(metric)}</dd><small class="fa-box-evidence"><span class="fa-box-progress">Day ${n} of 7</span></small></div>`;
+          }
+          return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${amountHtml(metric)}</dd>${evidence(metric)}</div>`;
+        }
         if (windowKey === "last_7_days") {
           const tag = progressTag(windowKey);
+          const partial = partialSevenDay();
+          if (partial !== null && tag) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${UI.fmtMoney(partial)} ${tag}</dd><small class="fa-box-evidence">Revenue so far</small></div>`;
           if (tag) return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${tag}</dd><small class="fa-box-evidence">7-day window still running</small></div>`;
         }
         if (windowKey === "last_2_days") {
