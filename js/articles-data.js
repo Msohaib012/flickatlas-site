@@ -140799,5 +140799,431 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 00:35:38 GMT"
+  },
+  "1o3p2to": {
+    "id": "1o3p2to",
+    "type": "news",
+    "headline": "Avengers: Doomsday Smashes Pre-Sales Records With $70 Million in North America",
+    "dek": "Marvel Studios gears up for another massive cinematic event as Avengers: Doomsday crosses $70 million in advance ticket sales across North America ahead of its December premiere.",
+    "body": [
+      {
+        "h": "Massive Advance Sales Fuel Box Office Hopes",
+        "p": [
+          "Marvel Studios is experiencing an extraordinary wave of pre-release enthusiasm as its upcoming blockbuster, Avengers: Doomsday, crosses the substantial threshold of $70 million in advance ticket sales throughout North America. Industry analysts and box office trackers are keeping a close watch on the superhero sequel, noting that total pre-sales might even climb past the $100 million mark as the official theatrical release date approaches.",
+          "This exceptional early financial performance places the film in a prime position to potentially replicate the staggering opening weekend achievements of earlier Marvel releases. Observers suggest that ticket momentum could propel the title into the exclusive club of 2026 films opening above the $300 million mark domestically."
+        ]
+      },
+      {
+        "h": "Following in the Footsteps of Spider-Man",
+        "p": [
+          "The current box office excitement builds directly upon the historic theatrical run achieved earlier in the year by Spider-Man: Brand New Day. Starring Tom Holland, that particular film shattered domestic benchmarks by pulling in a monumental $360 million debut, ultimately establishing itself as the biggest domestic opening of all time in North America.",
+          "That same Spider-Man installment went on to conquer the global market, accumulating a massive worldwide gross of $2.5 billion. Because of this precedent, exhibitors and analysts anticipate that Avengers: Doomsday could follow a strikingly similar trajectory upon its theatrical arrival."
+        ]
+      },
+      {
+        "h": "Directorial Leadership and Release Schedule",
+        "p": [
+          "The upcoming superhero tentpole is being helmed by the acclaimed filmmaking duo Anthony and Joe Russo, whose return to the franchise has generated substantial fan anticipation. Their direction aims to capture the grand scale and dramatic tension expected from a marquee Avengers installment.",
+          "Audiences in India will be among the first to experience the narrative unfold when the film opens on December 17, 2026. Following that international rollout, the picture will officially hit theaters across the United States on December 18, 2026."
+        ]
+      },
+      {
+        "h": "Disney+ Integration and Crucial Post-Credit Teases",
+        "p": [
+          "Fan excitement and subsequent ticket purchases received a dramatic upward jolt following a major narrative revelation delivered through the Disney+ web series VisionQuest on December 11. The post-credit sequence featured Robert Downey Jr. as Doctor Doom resurrecting the fan-favorite character Wanda Maximoff, also known as the Scarlet Witch, played by Elizabeth Olsen.",
+          "This strategic television tie-in caused an immediate surge in theatrical demand, resulting in over 60,000 tickets being purchased specifically for opening-night previews in the US across a mere 48-hour window following the broadcast."
+        ]
+      },
+      {
+        "h": "Expanding Cinematic Connections",
+        "p": [
+          "The character of Doctor Doom has systematically woven himself into the fabric of recent Marvel releases through a series of carefully placed post-credit sequences. Prior to the VisionQuest reveal, the formidable villain appeared in both The Fantastic Four: First Steps and Avengers: Endgame Encore.",
+          "In First Steps, the character was seen interacting with the infant Franklin Richards, the baby boy of Reed Richards and Sue Storm. Meanwhile, in the Encore sequence, he arrives with the specific objective of recruiting Bruce Banner, also known as the Hulk, portrayed by Mark Ruffalo."
+        ]
+      },
+      {
+        "h": "Updates to the Writers' Room",
+        "p": [
+          "Recent administrative updates on the Writers' Guild of America website have shed light on the collaborative writing process behind the project. Actors Ryan Reynolds and Hugh Jackman, alongside Spider-Man: Brand New Day director Destin Daniel Cretton, have earned additional writing credits for their contributions to Avengers: Doomsday.",
+          "In addition, writer Michael Waldron saw his credit attribution modified from an empty designation to an official 'and' credit, signifying his authorship of an earlier draft of the screenplay. Stephen McFeely is recognized as another primary credited screenwriter, with Eric Pearson, Chris McKenna, Erik Sommers, Jeff Loveness, and Andrew Lanham also receiving additional writing credits."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has surpassed $70 million in North American pre-sales ahead of its December release, driven by intense fan interest and a major character reveal in the Disney+ series VisionQuest. Directed by Anthony and Joe Russo, the film follows the historic box office success of Spider-Man: Brand New Day and features a screenplay shaped by multiple credited writers."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday has crossed $70 million in pre-sales tickets in North America.",
+      "Avengers: Doomsday will release in India on December 17, 2026.",
+      "Avengers: Doomsday will open in the US on December 18, 2026.",
+      "Spider-Man: Brand New Day earned $360 million as a domestic debut in North America.",
+      "Spider-Man: Brand New Day grossed $2.5 billion worldwide.",
+      "The Disney+ series VisionQuest featured a post-credit scene on December 11.",
+      "Over 60,000 tickets for opening-night previews in the US were sold in just 48 hours following the Wanda reveal."
+    ],
+    "entities": {
+      "people": [
+        "Sonal Pandya",
+        "Tom Holland",
+        "Anthony Russo",
+        "Joe Russo",
+        "Paul Bettany",
+        "James Spader",
+        "Robert Downey Jr.",
+        "Elizabeth Olsen",
+        "Reed Richards",
+        "Sue Storm",
+        "Franklin Richards",
+        "Mark Ruffalo",
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Destin Daniel Cretton",
+        "Michael Waldron",
+        "Stephen McFeely",
+        "Eric Pearson",
+        "Chris McKenna",
+        "Erik Sommers",
+        "Jeff Loveness",
+        "Andrew Lanham",
+        "Satya Nadella",
+        "Moushumi Chatterjee",
+        "Jayanta Mukherjee",
+        "Diljit Dosanjh",
+        "Daddy Yankee",
+        "Anupam Kher",
+        "Ranbir Kapoor",
+        "Kareena Kapoor Khan",
+        "Prithviraj Sukumaran",
+        "Gambhir",
+        "Rohit",
+        "Virat",
+        "Shreyas"
+      ],
+      "titles": [
+        "Spider-Man Brand New Day",
+        "Avengers Doomsday",
+        "Avengers Endgame",
+        "VisionQuest",
+        "The Fantastic Four First Steps",
+        "Avengers Endgame Encore",
+        "Daayra",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Spider-Man Brand New Day",
+      "Anthony and Joe Russo",
+      "Robert Downey Jr Doctor Doom",
+      "VisionQuest"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156504839,thumbsize-1414365,width-1280,height-720,resizemode-75/156504839.jpg",
+        "caption": "Avengers: Doomsday Smashes Pre-Sales Records With $70 Million in North America",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T02:13:14Z"
+  },
+  "1ffe4dp": {
+    "id": "1ffe4dp",
+    "type": "news",
+    "headline": "Isla Fisher and Blake Ritson Join Al Pacino in Thriller Captivated",
+    "dek": "The upcoming feature exploring the 1973 kidnapping of John Paul Getty III adds new cast members as production moves forward in Italy.",
+    "body": [
+      {
+        "h": "Expanding the Cast",
+        "p": [
+          "The upcoming thriller Captivated has expanded its main ensemble by welcoming Isla Fisher and Blake Ritson to the project. They join academy award winner Al Pacino in the feature, which takes its inspiration from the infamous 1973 abduction of John Paul Getty III.",
+          "In addition to Fisher and Ritson, Jackson Kelly has also boarded the cast. Production on the feature is currently active, utilizing authentic backdrops in Calabria and Rome, Italy, to set the tone for the narrative."
+        ]
+      },
+      {
+        "h": "A Fresh Perspective on a Real Event",
+        "p": [
+          "Set against the backdrop of 1970s Italy, the film is designed to offer a completely unique interpretation of the famed kidnapping incident. This historical event was previously brought to the screen in Ridley Scott's All the Money in the World and the FX series Trust.",
+          "The creative team behind the production aims to explore unexplored angles of the ordeal, presenting an alternate vantage point that distinguishes this movie from previous adaptations of the same historical chapter."
+        ]
+      },
+      {
+        "h": "Behind the Lens",
+        "p": [
+          "Dito Montiel is directing the project, bringing his distinct storytelling style to the production. His prior directorial work includes the films A Guide to Recognizing Your Saints and Fighting.",
+          "Working alongside the director is cinematographer Stefan Ciupek, whose previous credits encompass the Academy Award-winning Slumdog Millionaire, Rumors, and the SXSW feature Brother Verses Brother."
+        ]
+      },
+      {
+        "h": "Personal Connection to the Source",
+        "p": [
+          "Producer and co-writer Michael Mammoliti shares a deeply personal link to the material. Because of direct familial connections to the real-life events, he grew up with a perspective distinct from the narrative typically shown on screen.",
+          "Alongside Mammoliti, the producing team features Manasvi Mamgai of 32Red Entertainment, Andrea Bucko and Nicky Weinstock of Sweetheart Entertainment, and Cassian Elwes, collaborating to bring this vision to life."
+        ]
+      },
+      {
+        "h": "Production and Financing Support",
+        "p": [
+          "Additional producers supporting the feature include Michael Jefferson, Poppy Shaw of Calcott Films, Vinod Bhanushali of Bhanushali Studios Limited, and Anamaria Jakic. A broad roster of executive producers and co-executive producers is also attached.",
+          "International sales for the film are being handled by Voltage Pictures, while domestic distribution responsibilities are managed by CAA Media Finance and WME."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Isla Fisher and Blake Ritson have joined Al Pacino in the thriller Captivated, which tells a new interpretation of the 1973 kidnapping of John Paul Getty III. Directed by Dito Montiel, production is currently underway in Italy with a large team of producers."
+        ]
+      }
+    ],
+    "facts": [
+      "Isla Fisher and Blake Ritson joined the cast of Captivated.",
+      "Al Pacino stars in the thriller Captivated.",
+      "The film is inspired by the 1973 kidnapping of John Paul Getty III.",
+      "Jackson Kelly also joined the cast.",
+      "Dito Montiel is directing the feature.",
+      "Production is underway in Calabria and Rome, Italy."
+    ],
+    "entities": {
+      "people": [
+        "Al Pacino",
+        "Isla Fisher",
+        "Blake Ritson",
+        "Jackson Kelly",
+        "Dito Montiel",
+        "John Paul Getty III",
+        "Michael Mammoliti",
+        "Manasvi Mamgai",
+        "Andrea Bucko",
+        "Nicky Weinstock",
+        "Cassian Elwes",
+        "Stefan Ciupek"
+      ],
+      "titles": [
+        "Captivated",
+        "All the Money in the World",
+        "Trust",
+        "A Guide to Recognizing Your Saints",
+        "Fighting",
+        "Slumdog Millionaire",
+        "Rumors",
+        "Brother Verses Brother"
+      ]
+    },
+    "keywords": [
+      "Captivated film",
+      "Al Pacino Captivated",
+      "Isla Fisher Captivated",
+      "Blake Ritson Captivated",
+      "John Paul Getty III movie"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Isla-Fisher-Blake-Ritson-Al-Pacino.jpg?w=1000",
+        "caption": "Isla Fisher and Blake Ritson Join Al Pacino in Thriller Captivated",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 00:41:20 +0000"
+  },
+  "rirvqp": {
+    "id": "rirvqp",
+    "type": "news",
+    "headline": "Producer Dil Raju Confirms 2027 Theatrical Windows For Salman Khan And Akshay Kumar Projects",
+    "dek": "Prominent producer Dil Raju has shared significant updates regarding the release schedules for Salman Khan's action film Monster and Akshay Kumar's comedy venture.",
+    "body": [
+      {
+        "h": "Introduction To The Upcoming Slate",
+        "p": [
+          "Renowned producer Dil Raju has offered fresh details concerning two major Bollywood projects under his banner. The announcements bring substantial focus to upcoming cinematic ventures starring some of the most prominent faces in the Indian film industry.",
+          "Both films are slated for theatrical rollouts in the year 2027. These updates provide clear visibility into the production timelines and release windows planned for these high-profile movies."
+        ]
+      },
+      {
+        "h": "Monster Targets Eid 2027",
+        "p": [
+          "The action spectacle Monster, previously identified during production by the working title SVC63, is currently scheduled to arrive in cinemas during the festive window of Eid 2027.",
+          "A substantial share of the principal photography has already concluded. The creative team is actively steering the project forward to meet its targeted holiday release date."
+        ]
+      },
+      {
+        "h": "Star Power And Cross-Industry Collaboration",
+        "p": [
+          "Monster pairs Bollywood superstar Salman Khan with Nayanthara for the very first time on the silver screen. This casting choice has significantly elevated anticipation among moviegoers.",
+          "In addition to the lead actors, the film marks a creative partnership between Salman Khan and Telugu filmmaker Vamshi Paidipally, blending talent from different regional film industries into a pan-Indian venture."
+        ]
+      },
+      {
+        "h": "Akshay Kumar Comedy Scheduled For February 2027",
+        "p": [
+          "In addition to the action project, Dil Raju provided a schedule update for an upcoming comedy entertainer featuring Akshay Kumar. The film is now projected to hit theaters in February 2027.",
+          "This revised timeline follows an earlier plan that had pointed toward a December 2026 release. Filming for the project has wrapped up, allowing the makers to transition into promotional preparations."
+        ]
+      },
+      {
+        "h": "Reuniting A Successful Director-Actor Duo",
+        "p": [
+          "The upcoming comedy brings back the winning combination of actor Akshay Kumar and director Anees Bazmee. The duo has previously delivered popular hits such as Welcome and Singh Is Kinng.",
+          "Alongside the lead actor, the cast features notable performers including Vidya Balan and Raashii Khanna. While industry reports suggest the film carries the title Mauja Hi Mauja, an official confirmation regarding the title and exact launch date is still awaited."
+        ]
+      },
+      {
+        "h": "Expanding Footprint In Bollywood",
+        "p": [
+          "Through these ambitious titles, producer Dil Raju continues to broaden his engagement with Hindi cinema. His previous ventures in the industry include backing the Hindi language remake of Jersey featuring Shahid Kapoor.",
+          "While Monster aims to draw crowds through a grand scale and festive scheduling, the comedy project relies on a proven director-actor partnership and broad genre appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Dil Raju has confirmed theatrical release windows for two major upcoming Bollywood films in 2027. The action entertainer Monster, starring Salman Khan and Nayanthara, is eyeing an Eid release, while Akshay Kumar's comedy directed by Anees Bazmee is slated for February."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan and Nayanthara star in Monster, formerly known as SVC63.",
+      "Monster is directed by Vamshi Paidipally and is planned for Eid 2027.",
+      "Akshay Kumar's comedy with director Anees Bazmee is scheduled for February 2027, shifting from a previous December 2026 plan.",
+      "The cast of the comedy film includes Vidya Balan and Raashii Khanna, and it is reportedly titled Mauja Hi Mauja.",
+      "Dil Raju previously backed the Hindi remake of Jersey starring Shahid Kapoor."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Nayanthara",
+        "Akshay Kumar",
+        "Anees Bazmee",
+        "Dil Raju",
+        "Vamshi Paidipally",
+        "Vidya Balan",
+        "Raashii Khanna",
+        "Shahid Kapoor"
+      ],
+      "titles": [
+        "Monster",
+        "SVC63",
+        "Welcome",
+        "Singh Is Kinng",
+        "Mauja Hi Mauja",
+        "Jersey"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Monster",
+      "Akshay Kumar Anees Bazmee comedy",
+      "Monster Eid 2027 release",
+      "Dil Raju Bollywood films"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156505982,thumbsize-198406,width-1280,height-720,resizemode-75/156505982.jpg",
+        "caption": "Producer Dil Raju Confirms 2027 Theatrical Windows For Salman Khan And Akshay Kumar Projects",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T02:13:14Z"
+  },
+  "1mhh906": {
+    "id": "1mhh906",
+    "type": "news",
+    "headline": "OM: Chapter One Trailer Released Featuring Dhanush and Mammootty",
+    "dek": "The promotional video for the action drama OM: Chapter One has arrived, highlighting a high-stakes clash between Dhanush and Mammootty alongside Sai Pallavi leading a CBI mission.",
+    "body": [
+      {
+        "h": "Trailer Launch and Initial Reception",
+        "p": [
+          "The promotional video for the upcoming action drama OM: Chapter One has officially dropped, generating considerable excitement across digital platforms. The makers unveiled the footage shortly before midnight following a delay in the scheduled launch event.",
+          "Social media users swiftly reacted to the preview, showering praise on the lead performances and overall aesthetic. Viewers highlighted the screen presence of the main cast as well as the dynamic background score accompanying the action sequences."
+        ]
+      },
+      {
+        "h": "Plot and Operation Mole",
+        "p": [
+          "The narrative of the feature is set across two temple towns and opens with a thought-provoking line about real-life events. The central plot revolves around a clandestine government endeavor titled Operation Mole.",
+          "The storyline weaves through a dangerous criminal network and the illicit red sandalwood trade. The visuals suggest that the main characters become deeply entangled in these regional conflicts through various forms of infiltration and confrontation."
+        ]
+      },
+      {
+        "h": "Character Roles and Performances",
+        "p": [
+          "Dhanush anchors the project by portraying an ordinary woodcutter who gets pulled into the sandalwood underworld. His character delivers several rugged and intense action sequences throughout the preview.",
+          "Malayalam superstar Mammootty appears in a heavily anticipated grey-shaded role, marking a significant return to Tamil cinema after a prolonged absence. His appearance hints at a powerful figure orchestrating dark underworld dealings."
+        ]
+      },
+      {
+        "h": "Sai Pallavi Leads the CBI Mission",
+        "p": [
+          "Sai Pallavi takes charge of the law enforcement side of the narrative as CBI officer Nithya Reddy. Her character spearheads the critical Operation Mole mission against the criminal factions.",
+          "The actress stands out in her authority role, providing a steady counterbalance to the rugged violence exhibited by her male co-stars during their explosive confrontations."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Music",
+        "p": [
+          "Audiences online expressed immense enthusiasm regarding the combination of major stars sharing the screen. Comments poured in celebrating the pairing of Dhanush and Mammootty alongside Sai Pallavi.",
+          "The musical score, crafted by Sai Abhyankkar, received notable commendation from fans who pointed out how the background tracks elevate the intensity of the trailer's most dramatic moments."
+        ]
+      },
+      {
+        "h": "Cast and Franchise Plans",
+        "p": [
+          "Beyond the primary trio, the film features Sreeleela and Naseeruddin Shah in essential supporting roles. The overall project is helmed as an action-heavy drama with sprawling multi-part ambitions.",
+          "The creators have structured the narrative as the opening chapter of a planned two-part franchise, aiming to expand upon the criminal syndicates and undercover operations introduced initially."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "The theatrical release for this ambitious two-part franchise opener is locked for November 20. Fans do not have to wait much longer to see how the conflict between the woodcutter, the underworld boss, and the CBI officer unfolds on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for OM: Chapter One has been released, showcasing an intense action drama starring Dhanush and Mammootty alongside Sai Pallavi leading Operation Mole. The film is scheduled for a theatrical release on November 20 as the first part of a two-part franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer of OM: Chapter One was released on November 14, 2026.",
+      "OM: Chapter One is scheduled for a theatrical release on November 20.",
+      "Dhanush plays a woodcutter involved in the red sandalwood trade.",
+      "Mammootty plays a grey-shaded role in his return to Tamil cinema after a huge gap.",
+      "Sai Pallavi plays CBI officer Nithya Reddy leading Operation Mole.",
+      "Sreeleela and Naseeruddin Shah appear in key roles.",
+      "Sai Abhyankkar composed the songs and background score.",
+      "The film is planned as the first installment of a two-part franchise."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Nithya Reddy",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Sai Abhyankkar"
+      ],
+      "titles": [
+        "OM: Chapter One",
+        "Operation Mole"
+      ]
+    },
+    "keywords": [
+      "OM Chapter One trailer",
+      "Dhanush Mammootty OM",
+      "Sai Pallavi Operation Mole",
+      "OM Chapter One release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135819814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "OM: Chapter One Trailer Released Featuring Dhanush and Mammootty",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T06:30:53+05:30"
   }
 };

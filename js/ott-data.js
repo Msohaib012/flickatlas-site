@@ -115,7 +115,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1050981,
@@ -128,7 +127,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1780407,
@@ -173,7 +171,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 312661,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-11-12",
       "date_kind": "digital",
       "id": 1616687,
@@ -186,7 +195,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-12",
       "date_kind": "digital",
       "id": 1518204,
@@ -357,11 +365,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-10",
       "date_kind": "digital",
       "id": 1376400,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+          "name": "Lionsgate Play Apple TV Channel"
+        },
+        {
+          "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+          "name": "Lionsgate Play Amazon Channel"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -1039,6 +1055,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 279246,
       "providers": [
+        {
+          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
         {
           "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
           "name": "Hulu"
@@ -2217,6 +2237,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-09-11",
+      "date_kind": "release",
+      "id": 332061,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-09-09",
       "date_kind": "digital",
       "id": 1440098,
@@ -3036,6 +3068,18 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-01-08",
+      "date_kind": "release",
+      "id": 1022453,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "movie"

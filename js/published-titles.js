@@ -5811,7 +5811,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-09-24",
     "date_kind": "release",
     "runtime": 80,
-    "providers": []
+    "providers": [
+      {
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1145110": {
     "id": 1145110,
@@ -6542,7 +6555,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Shani Khader"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "249863": {
     "id": 249863,
@@ -12128,7 +12148,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-01-08",
     "date_kind": "release",
     "runtime": 186,
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "847742": {
     "id": 847742,
@@ -22013,6 +22040,12 @@ window.FA_PUBLISHED = {
     ],
     "providers": [
       {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Hulu",
         "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
         "region": "US",
@@ -28715,7 +28748,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-06",
     "date_kind": "release",
     "runtime": 127,
-    "providers": []
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1819101": {
     "id": 1819101,
@@ -28891,7 +28931,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 33,
-    "providers": []
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1818821": {
     "id": 1818821,
@@ -35821,7 +35868,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 90,
-    "providers": []
+    "providers": [
+      {
+        "name": "Passionflix Amazon Channel",
+        "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1748010": {
     "id": 1748010,
@@ -40008,7 +40062,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 137,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1821218": {
     "id": 1821218,
@@ -40093,7 +40154,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 105,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1820552": {
     "id": 1820552,
@@ -40742,7 +40810,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1812110": {
     "id": 1812110,
@@ -41441,7 +41516,8 @@ window.FA_PUBLISHED = {
     "certification": "U/A 16+",
     "release_date": "2026-10-02",
     "date_kind": "release",
-    "runtime": 158
+    "runtime": 158,
+    "providers": []
   },
   "922673": {
     "id": 922673,
@@ -41482,7 +41558,8 @@ window.FA_PUBLISHED = {
     "certification": "UA",
     "release_date": "2026-10-02",
     "date_kind": "release",
-    "runtime": 124
+    "runtime": 124,
+    "providers": []
   },
   "334412": {
     "id": 334412,

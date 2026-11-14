@@ -3599,7 +3599,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-28",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-09-24",
     "popularity": 74.9515
   },
@@ -3978,7 +3991,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-29",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-09-11",
     "popularity": 5.4556
   },
@@ -7519,7 +7539,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-31",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-01-08",
     "popularity": 3.5971
   },
@@ -14033,6 +14060,12 @@ window.FA_PUBLISHED = {
     "status": "Returning Series",
     "providers": [
       {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Hulu",
         "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
         "region": "US",
@@ -18164,7 +18197,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-06",
     "popularity": 3.5606
   },
@@ -18276,7 +18316,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 2.1467
   },
@@ -22789,7 +22836,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-09",
     "date_kind": "release",
     "status": "Post Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Passionflix Amazon Channel",
+        "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-16",
     "popularity": 0.9074
   },
@@ -25353,7 +25407,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-12",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 2.4612
   },
@@ -25407,7 +25468,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-12",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 2.3242
   },
@@ -25807,7 +25875,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-12",
     "popularity": 4.0389
   },
@@ -26262,6 +26337,7 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-13",
     "date_kind": "release",
     "status": "Released",
+    "providers": [],
     "release_date": "2026-10-02",
     "popularity": 2.3609
   },
@@ -26288,6 +26364,7 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-13",
     "date_kind": "release",
     "status": "Released",
+    "providers": [],
     "release_date": "2026-10-02",
     "popularity": 1.3733
   },
