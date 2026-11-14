@@ -28,7 +28,10 @@
 # Schedule 6x/day (:10 past every 4th hour). Stage 1a = movies
 # vote >= 300, split into bands (300-499 / 500-999 / >=1000) because a
 # single discover query exceeds TMDB's 500-page window. The `query`
-# input lets later bands run without editing this file.
+# input lets later bands run without editing this file. The `media`
+# input (2026-11-14) lets TV pools run the same way — TV popular
+# (popularity.desc, vote >= 150) and recent TV (first_air_date.desc,
+# vote >= 20); the schedule default stays movie.
 # ======================================================================
 name: Catalogue build
 
@@ -37,6 +40,10 @@ on:
     - cron: '10 0,4,8,12,16,20 * * *'
   workflow_dispatch:
     inputs:
+      media:
+        description: 'Media type: movie, tv, or both'
+        required: false
+        default: 'movie'
       query:
         description: 'Discover query (no api_key), e.g. sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499'
         required: false
@@ -72,7 +79,7 @@ jobs:
         continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python3 scripts/catalogue_build.py --pool discover --media movie --query "${{ inputs.query || 'sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499' }}" --limit ${{ inputs.limit || 800 }} --max-pages 500
+        run: python3 scripts/catalogue_build.py --pool discover --media ${{ inputs.media || 'movie' }} --query "${{ inputs.query || 'sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499' }}" --limit ${{ inputs.limit || 800 }} --max-pages 500
 
       # --- Commit if changed ---------------------------------------------
       # Reuses the hourly pipeline's commit-with-retry (same rebase

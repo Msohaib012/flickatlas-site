@@ -9,7 +9,14 @@ writes the title into its per-bucket chunk files:
   js/cat/<bb>.json  — browser data chunk: the catalogue entry per title
                       (same shape as FA_PUBLISHED entries, plus
                       source="catalogue", catalogue=true, providers,
-                      cast + director).
+                      cast + director). Entries are keyed "kind:id"
+                      ("movie:101" / "tv:101") — a movie+TV pair sharing
+                      a numeric id (movie 101 Léon vs TV 101 "Beat the
+                      Geeks") must not overwrite each other. Stage-1a
+                      wrote bare-id keys; the builder migrates them on
+                      its next run (migrate_cat_chunks + migrate_state_keys)
+                      and the detail pages try the prefixed key first,
+                      bare key as fallback.
   js/seo/<bb>.json  — Worker meta chunk: the seo-meta entry per title
                       (same shape as js/seo-meta.json values, built by
                       scripts/seo_assets.title_meta with credits, so
@@ -219,6 +226,13 @@ def bucket_of(tid):
     return str(int(tid) % BUCKETS).zfill(2)
 
 
+def chunk_key(kind, tid):
+    """Chunk/state key for one title: "movie:101" / "tv:101". Bare
+    numeric ids collide across media (movie 101 Léon vs TV 101
+    "Beat the Geeks"), so no key is ever a bare id after stage 1a."""
+    return "%s:%s" % (kind, tid)
+
+
 def chunk_paths(bucket):
     return (os.path.join(CAT_DIR, bucket + ".json"),
             os.path.join(SEO_DIR, bucket + ".json"))
@@ -254,16 +268,32 @@ def write_if_changed(path, text):
     return True
 
 
-def build_title(tid, key, today):
+def build_title(tid, kind, key, today):
     """Fetch + gate + build (entry, meta, credits) for one TMDB id.
-    Returns (entry, meta, credits) or (None, None, None) with the skip
-    reason logged by the caller via the second return slot."""
-    details, kind = PT.fetch_title(tid, key)
+    `kind` is pinned by the pool: PT.fetch_title() tries movie-first
+    and would return movie data for a TV id sharing the numeric id
+    (TV 101 "Beat the Geeks" exists alongside movie 101 "Léon"), so
+    the kind is fetched directly here. Pakistani-origin TV is skipped
+    (reason "pk-origin"): Pakistani content on FlickAtlas comes from
+    the YouTube drama track, never TMDB — a PK TV entry would take the
+    show page's isPakistani() drama path (YouTube Episodes list, no
+    Seasons table). Returns (entry, meta, credits) or
+    (None, None, None) with the skip reason logged by the caller via
+    the second return slot."""
+    append = ("videos,release_dates" if kind == "movie"
+              else "videos,content_ratings")
+    try:
+        details = tmdb_get("/%s/%s?append_to_response=%s" % (kind, tid, append), key)
+    except Exception:
+        return None, None, None, "fetch-error"
     if details is None:
         return None, None, None, "not-found"
     ok, reason = quality_gate(details)
     if not ok:
         return None, None, None, reason
+    if kind == "tv" and "PK" in [str(c).upper()
+                                 for c in (details.get("origin_country") or [])]:
+        return None, None, None, "pk-origin"
     _watch = fetch_watch_results(tid, kind, key)
     providers = fetch_providers(tid, kind, key, _watch)
     providers_wtw = fetch_providers_wtw(tid, kind, key, _watch)
@@ -295,7 +325,8 @@ def pool_top_rated(key, media, limit, state_done):
                 break
             for r in results:
                 tid = str(r.get("id"))
-                if tid not in state_done and tid not in [t for t, _ in out]:
+                if (chunk_key(kind, tid) not in state_done
+                        and (tid, kind) not in out):
                     out.append((tid, kind))
                     if len(out) >= limit:
                         break
@@ -321,7 +352,8 @@ def pool_discover(key, media, query, limit, max_pages, state_done):
                 break
             for r in results:
                 tid = str(r.get("id"))
-                if tid not in state_done and tid not in [t for t, _ in out]:
+                if (chunk_key(kind, tid) not in state_done
+                        and (tid, kind) not in out):
                     out.append((tid, kind))
                     if len(out) >= limit:
                         break
@@ -339,6 +371,82 @@ def load_state():
     except (OSError, ValueError):
         pass
     return {"pools": {}, "added": {}, "skipped": {}, "updated": ""}
+
+
+def migrate_cat_chunks():
+    """Rewrite existing js/cat chunks from stage-1a bare-id keys to
+    kind:id keys. The kind comes from each entry's own "type" field
+    (build_entry always sets it). A bare entry whose prefixed key
+    already exists is dropped, never overwriting the newer entry.
+    Runs over ALL buckets so the migration completes in one run,
+    whether or not the pool touches a bucket. Returns
+    (buckets_rewritten, entries_renamed)."""
+    if not os.path.isdir(CAT_DIR):
+        return 0, 0
+    rewritten, renamed = 0, 0
+    for name in sorted(os.listdir(CAT_DIR)):
+        if not name.endswith(".json"):
+            continue
+        path = os.path.join(CAT_DIR, name)
+        titles = read_chunk(path)
+        if not titles:
+            continue
+        new_titles, changed = {}, False
+        for key, entry in titles.items():
+            key = str(key)
+            if ":" in key:
+                new_titles[key] = entry
+                continue
+            changed = True
+            kind = (entry or {}).get("type") or "movie"
+            new_key = chunk_key(kind, key)
+            if new_key not in new_titles:
+                new_titles[new_key] = entry
+                renamed += 1
+            # else: a prefixed entry already covers this title; the
+            # bare duplicate is dropped.
+        if changed:
+            bucket = name[:-len(".json")]
+            if write_if_changed(path, dump_chunk(bucket, new_titles)):
+                rewritten += 1
+    return rewritten, renamed
+
+
+def migrate_state_keys(state):
+    """Rewrite bare-id keys in state["added"]/state["skipped"] to
+    kind:id keys, resolving the kind from the title's cat-chunk entry
+    (chunks are migrated first, so the lookup tries the prefixed key).
+    Unresolvable keys are dropped — the title is rebuilt by a later
+    pool run. Returns (renamed, dropped)."""
+    renamed, dropped = 0, 0
+    cache = {}
+
+    def entry_for(tid):
+        bucket = bucket_of(tid)
+        if bucket not in cache:
+            cache[bucket] = read_chunk(os.path.join(CAT_DIR, bucket + ".json"))
+        titles = cache[bucket]
+        return (titles.get(tid) or titles.get("movie:" + tid)
+                or titles.get("tv:" + tid))
+
+    for section in ("added", "skipped"):
+        old = state.get(section) or {}
+        new = {}
+        for key, val in old.items():
+            key = str(key)
+            if ":" in key:
+                new[key] = val
+                continue
+            entry = entry_for(key)
+            if entry and (entry.get("type") in ("movie", "tv")):
+                new[chunk_key(entry["type"], key)] = val
+                renamed += 1
+            else:
+                dropped += 1
+                log("catalogue_build: dropping unresolvable state key "
+                    "%s:%s" % (section, key))
+        state[section] = new
+    return renamed, dropped
 
 
 def main():
@@ -361,6 +469,19 @@ def main():
         return 2
     today = time.strftime("%Y-%m-%d", time.gmtime())
     state = load_state()
+    # Stage-1a wrote bare-id keys; TV needs kind:id keys (a movie+TV
+    # pair sharing a numeric id overwrote each other in js/cat).
+    # Migrate chunks first (state resolution reads them), then state.
+    # Skipped on --dry-run: a dry run must not change anything.
+    if not args.dry_run:
+        n_buckets, n_renamed = migrate_cat_chunks()
+        if n_renamed:
+            log("catalogue_build: migrated %d cat entries in %d buckets to "
+                "kind:id keys" % (n_renamed, n_buckets))
+        n_state, n_dropped = migrate_state_keys(state)
+        if n_state or n_dropped:
+            log("catalogue_build: migrated %d state keys, dropped %d "
+                "unresolvable" % (n_state, n_dropped))
     done = set(state.get("added", {}).keys())
     pool_name = "%s:%s:%s" % (args.pool, args.media, args.query or "-")
 
@@ -394,20 +515,26 @@ def main():
     changed_buckets = set()
     added, skipped = 0, 0
     for tid, kind in ids:
-        entry, meta, credits, reason = build_title(tid, key, today)
+        entry, meta, credits, reason = build_title(tid, kind, key, today)
         time.sleep(SLEEP)
         if entry is None:
-            state.setdefault("skipped", {})[tid] = reason
+            state.setdefault("skipped", {})[chunk_key(kind, tid)] = reason
             skipped += 1
             continue
         bucket = bucket_of(tid)
         if bucket not in cat_chunks:
             cat_chunks[bucket] = read_chunk(chunk_paths(bucket)[0])
             seo_chunks[bucket] = read_chunk(chunk_paths(bucket)[1])
-        cat_chunks[bucket][tid] = entry
+        cat_chunks[bucket][chunk_key(kind, tid)] = entry
         seo_chunks[bucket]["%s:%s" % (kind, tid)] = meta
-        state.setdefault("added", {})[tid] = today
-        if isinstance(credits, dict):
+        state.setdefault("added", {})[chunk_key(kind, tid)] = today
+        # out/credits.json is keyed by BARE id (the shared cache
+        # fetch-credits.py + seo_assets read). A TV title must never
+        # overwrite a movie's cached credits (or vice versa) — the
+        # builder's own meta uses the fresh credits, so only write
+        # when the id is not cached yet. Full fix (kind:id cache keys)
+        # is a wider migration; flagged in the design doc.
+        if isinstance(credits, dict) and tid not in credits_cache:
             credits_cache[tid] = credits
         changed_buckets.add(bucket)
         added += 1

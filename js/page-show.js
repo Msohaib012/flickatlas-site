@@ -1,6 +1,7 @@
 /* FlickAtlas — TV show detail page (?id=<tmdb tv id>): published
    titles, plus catalogue titles from per-bucket chunks (stage 1a,
-   2026-11-14). Rewritten 2026-10-25 (published-only rebuild, §4);
+   2026-11-14; entries keyed kind:id — "tv:<id>" — since 2026-11-14,
+   bare-id keys tried as fallback while old chunks migrate). Rewritten 2026-10-25 (published-only rebuild, §4);
    rich detail fields added in consolidation (spec §1a): genres,
    creators, episode runtime, tagline, certification and spoken
    languages all render FROM THE BAKED-IN published entry — never a
@@ -116,7 +117,12 @@
       const res = await fetch("/js/cat/" + bb + ".json");
       if (!res.ok) return null;
       const chunk = await res.json();
-      return (chunk && chunk.titles && chunk.titles[String(tid)]) || null;
+      const titles = (chunk && chunk.titles) || {};
+      /* Kind-prefixed keys (2026-11-14): a movie+TV pair sharing a
+         numeric id (movie 101 Léon vs TV 101 "Beat the Geeks") no
+         longer collides. Bare-id keys are the stage-1a form — try
+         them as a fallback while old chunks migrate. */
+      return titles["tv:" + String(tid)] || titles[String(tid)] || null;
     } catch (_) { return null; }
   };
   let pub = (window.FA_PUBLISHED || {})[String(id)] || null;

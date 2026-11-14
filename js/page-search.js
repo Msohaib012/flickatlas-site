@@ -1,6 +1,7 @@
 /* FlickAtlas — grouped search over PUBLISHED content first, with a live
-   TMDB fallback when the local search finds nothing (stage 1a,
-   2026-11-14).
+   TMDB fallback for every query (stage 1a, 2026-11-14; always-on
+   since 2026-11-14 — catalogue titles must surface even when
+   published titles also match).
    Rewritten 2026-10-25 (published-only rebuild, §3): search reads
    window.FA_PUBLISHED titles (title/overview) and window.FA_ARTICLES
    headlines — never the live TMDB catalogue. People come from cast
@@ -9,12 +10,12 @@
    searchable — they live in FA_ARTICLES (headlines like "Bano Episode
    13 — Watch on Geo TV") and appear under the News group. All
    matching is local and instant — no pagination, no loading states.
-   The ONE exception is the TMDB fallback below: it runs only when
-   the local search finds NOTHING at all, for this query only, and a
-   TMDB failure leaves the normal no-results state. Results carry a
-   .fa-select in-page dropdown (All / Movies / TV / People / News)
-   that shows only one result group at a time — never a native
-   <select> popup. */
+   The TMDB fallback below runs for every non-empty query (one call,
+   deduped against local results, fail-open) — it is how catalogue
+   titles are found, since no local catalogue search index exists yet.
+   Results carry a .fa-select in-page dropdown (All / Movies / TV /
+   People / News) that shows only one result group at a time — never
+   a native <select> popup. */
 (function () {
   UI.mountChrome("");
   const main = document.getElementById("app");
@@ -210,15 +211,17 @@
     </div></div><div id="searchGroups"></div>`;
   const groupsHost = results.querySelector("#searchGroups");
 
-  /* TMDB fallback (stage 1a, 2026-11-14): when the local search over
-     FA_PUBLISHED + FA_ARTICLES finds nothing at all, ONE live TMDB
-     multi-search runs for this query and its movie/tv results render
-     as a "More results from TMDB" section. Clicking a result goes to
-     the detail page, which renders from its catalogue chunk if the
-     title is catalogued, else the existing "not published" state.
+  /* TMDB fallback (stage 1a, 2026-11-14; always-on since 2026-11-14):
+     ONE live TMDB multi-search runs for every non-empty query and its
+     movie/tv results render as a "More results from TMDB" section —
+     catalogue titles must surface even when published titles also
+     match (the old total-miss trigger hid them). Rows already in the
+     local groups are deduped out. Clicking a result goes to the
+     detail page, which renders from its catalogue chunk if the title
+     is catalogued, else the existing "not published" state.
      Cached per query so filter changes re-render without a second
      call; fail-open — a TMDB failure (or an empty TMDB answer) leaves
-     the normal no-results state. */
+     the normal results state. */
   let tmdbFallback = null; // { done, rows: [{ media_type, id, title/name, poster_path, release_date/first_air_date, vote_average }] }
   function tmdbSectionHtml() {
     if (!tmdbFallback || !tmdbFallback.done || !tmdbFallback.rows.length) return "";
@@ -248,12 +251,21 @@
     [{ value: "all", label: "All results" }, ...categories.map(([key, label]) => ({ value: key, label }))],
     show, (v) => { show = v; renderResults(); });
   renderResults();
-  /* Kick off the TMDB fallback once, only when the local search found
-     nothing at all for a non-empty query. */
-  if (q && categories.every(([key]) => !(groups[key] || []).length)) {
+  /* Kick off the TMDB fallback for every non-empty query (2026-11-14):
+     catalogue titles must surface even when published titles also
+     match. One call per query; rows already in the local groups are
+     deduped out; fail-open. */
+  if (q && qNorm.length >= 2) {
     tmdbFallback = { done: false, rows: [] };
     TMDB.searchMulti(q, 1).then((data) => {
-      const rows = ((data && data.results) || []).filter(r => r && (r.media_type === "movie" || r.media_type === "tv") && (r.title || r.name)).slice(0, 20);
+      const localIds = new Set([
+        ...groups.movie.map(x => "movie:" + x.id),
+        ...groups.tv.map(x => "tv:" + x.id),
+      ]);
+      const rows = ((data && data.results) || [])
+        .filter(r => r && (r.media_type === "movie" || r.media_type === "tv") && (r.title || r.name))
+        .filter(r => !localIds.has(r.media_type + ":" + r.id))
+        .slice(0, 20);
       tmdbFallback = { done: true, rows };
       renderResults();
     }).catch(() => { tmdbFallback = { done: true, rows: [] }; renderResults(); });
