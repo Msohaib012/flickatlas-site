@@ -9860,6 +9860,35 @@
           }
         },
         "india": false
+      },
+      "8": {
+        "date": "2026-11-13",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 30.7
+            },
+            "value": 30.7
+          },
+          "overseas": {
+            "crore": 4.0,
+            "currency": "USD",
+            "date": "2026-11-13",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 4.0
+            },
+            "value": 422610
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 4049
+            },
+            "value": 4049
+          }
+        },
+        "india": false
       }
     },
     "1416312": {
@@ -10823,6 +10852,20 @@
         "collection_usd": 110935,
         "date": "2026-11-13",
         "date_disagreed": false,
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 27.0
+            },
+            "value": 27.0
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 877
+            },
+            "value": 877
+          }
+        },
         "india": true,
         "sources": {
           "tavily-supply": 1.05

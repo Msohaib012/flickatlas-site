@@ -142737,5 +142737,398 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-14T04:00:00.176+00:00"
+  },
+  "1czjexo": {
+    "id": "1czjexo",
+    "type": "news",
+    "headline": "Suriya's Crime Thriller 'Scene' Secures Massive Digital Deal and Strong Box Office Run",
+    "dek": "Actor Suriya's latest Tamil crime thriller ‘Scene’ has reportedly fetched a substantial digital agreement while continuing to perform strongly at the global box office.",
+    "body": [
+      {
+        "h": "Digital Rights and Streaming Estimates",
+        "p": [
+          "The Tamil crime thriller ‘Scene’ has reportedly secured a major digital rights agreement valued at Rs 88 crore. According to emerging industry reports, the streaming acquisition was finalized with Netflix, generating significant anticipation among fans waiting for the film's home-viewing debut.",
+          "While the streaming platform and premiere schedule have circulated heavily across entertainment portals, the makers have not yet issued an official confirmation. Consequently, audiences are advised to view these reported dates and platform details as tentative until an official announcement is made."
+        ]
+      },
+      {
+        "h": "Expected Theatrical Window and Premiere Timeline",
+        "p": [
+          "Industry tracking indicates that the digital agreement incorporates a mandatory four-week gap between the film's theatrical opening and its subsequent OTT premiere. Given that the feature originally debuted in cinemas on November 6, analysts project that the streaming release could arrive as early as December 4.",
+          "This structured theatrical window ensures that the movie maintains a healthy run on the big screen before transitioning to digital platforms. Producers and distributors frequently rely on such windows to maximize box office potential before unlocking home-viewing audiences."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Narrative Premise",
+        "p": [
+          "Directed by filmmaker Jithu Madhavan, ‘Scene’ positions lead actor Suriya in the role of DSP Inbaraj. The star-studded cast also features notable performances by Nazriya Nazim and Naslen K. Gafoor, adding considerable depth to the project's ensemble lineup.",
+          "The storyline centers on a complex investigation into a series of murders. As the protagonist delves deeper into the case, the narrative slowly uncovers hidden ties to an earlier, unresolved incident, blending traditional police procedural tropes with dark crime thriller elements."
+        ]
+      },
+      {
+        "h": "Domestic Box Office Performance",
+        "p": [
+          "The feature has maintained a formidable presence at the domestic box office throughout its first eight days of exhibition. On Friday, November 13, the film added Rs 6 crore net to its domestic tally across both its Tamil and Telugu language versions.",
+          "This single-day addition elevated the film's total domestic net earnings to Rs 117.70 crore, while the corresponding Indian gross collection reached Rs 136.70 crore. Tracking agencies noted that the Friday numbers represented a marginal 4 percent dip compared to the previous day's collection of Rs 6.25 crore net."
+        ]
+      },
+      {
+        "h": "Screen Count and Multilingual Reach",
+        "p": [
+          "To sustain its impressive theatrical run, the feature commanded a total of 4,049 shows across its Tamil and Telugu iterations on its eighth day in cinemas. The Tamil version continues to serve as the primary engine driving the film's domestic revenue figures.",
+          "Simultaneously, the Telugu dubbed release has successfully contributed to the overall domestic footprint. The widespread distribution strategy across multiple southern markets has enabled the feature to consistently draw crowds well past its opening weekend."
+        ]
+      },
+      {
+        "h": "International Earnings and Worldwide Gross",
+        "p": [
+          "Beyond domestic borders, international territories have played a vital role in bolstering the project's overall commercial success. The film pulled in an estimated Rs 4 crore from overseas markets on Friday alone.",
+          "This international surge pushed the overseas gross earnings to a solid Rs 74.50 crore. Combined with domestic figures, the total worldwide gross collection for the crime thriller has officially surpassed the Rs 211 crore milestone."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's crime thriller ‘Scene’ has reportedly secured an Rs 88 crore digital rights deal with Netflix, pointing to a tentative OTT premiere on December 4 following a four-week theatrical window. Alongside this streaming update, the Jithu Madhavan directorial has maintained strong commercial momentum, crossing Rs 211 crore in worldwide gross collections by its eighth day in cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Digital rights for ‘Scene’ were reportedly sold for Rs 88 crore.",
+      "The film theatrical release date was November 6.",
+      "The tentative digital premiere date is expected on December 4.",
+      "Suriya plays DSP Inbaraj in the film.",
+      "The film was directed by Jithu Madhavan.",
+      "On Friday, November 13, the film collected Rs 6 crore net in India.",
+      "Domestic net earnings reached Rs 117.70 crore by day 8.",
+      "India gross collection reached Rs 136.70 crore by day 8.",
+      "The film recorded 4,049 shows across Tamil and Telugu versions on its eighth day.",
+      "Overseas gross earnings reached Rs 74.50 crore.",
+      "Worldwide gross collections surpassed Rs 211 crore."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen K. Gafoor"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene movie OTT release",
+      "Suriya Scene box office",
+      "Jithu Madhavan Scene Tamil film",
+      "Scene digital rights Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135821484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya's Crime Thriller 'Scene' Secures Massive Digital Deal and Strong Box Office Run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T08:59:16+05:30"
+  },
+  "ewu04k": {
+    "id": "ewu04k",
+    "type": "news",
+    "headline": "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
+    "dek": "Priyanka Chopra is set to star in the sci-fi feature Bluefly, portraying a UN interpreter who embarks on a covert mission to the Congo with Russell Crowe.",
+    "body": [
+      {
+        "h": "Stepping Into Sci-Fi",
+        "p": [
+          "Priyanka Chopra is expanding her Hollywood filmography by taking on a brand new genre. The actress will headline the upcoming science-fiction project Bluefly, steering away from the intense physical action roles she has recently tackled.",
+          "Production for the movie has officially commenced in Queensland, Australia, where the star has relocated temporarily alongside her daughter Malti Marie Jonas to begin shooting."
+        ]
+      },
+      {
+        "h": "Character Details and Plot",
+        "p": [
+          "In Bluefly, Priyanka Chopra portrays Myla Reese, a United Nations interpreter. She stars alongside Russell Crowe, who plays a former pilot named Benny.",
+          "The storyline follows Myla and Benny as they embark on a covert mission deep into the Congo. Their objective is to recover a missing military aircraft, which ultimately leads them to cross paths with a powerful and mysterious force hidden within the jungle."
+        ]
+      },
+      {
+        "h": "Linguistic Challenges",
+        "p": [
+          "Preparing for the role of Myla Reese has required a unique set of linguistic preparations for the leading lady. The actress revealed that she is collaborating closely with a dialect coach to master multiple African languages.",
+          "Her dialogue will feature several distinct tongues, ranging from Swahili and Zulu to Lingala, presenting a major performance challenge that she embraced after years of physical action work."
+        ]
+      },
+      {
+        "h": "Inspiration from Real Life",
+        "p": [
+          "Priyanka Chopra's long-standing humanitarian work provided unexpected inspiration for her latest character. Having served as a UNICEF ambassador for roughly fifteen years, she has frequently interacted with real UN translators.",
+          "This firsthand exposure to professionals in the field influenced her approach to playing a United Nations interpreter on screen, adding a layer of authenticity to her performance."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Supporting Cast",
+        "p": [
+          "The science-fiction feature is directed by filmmaker Nimród Antal. Meanwhile, the screenplay is a collaborative effort penned by writers David Frigerio, William Eubank, and Carlyle Eubank.",
+          "Rounding out the main ensemble is actor Michael Chiklis, who joins the project to portray a United States government operative involved in the narrative."
+        ]
+      },
+      {
+        "h": "Upcoming Projects Overview",
+        "p": [
+          "Aside from Bluefly, Priyanka Chopra maintains a packed slate of international and regional projects. Her upcoming ventures include appearances in the Hollywood films Reset and Judgement Day, both slated for 2027.",
+          "Additionally, she plays Mandakini in SS Rajamouli's high-budget movie Varanasi alongside Mahesh Babu and Prithviraj Sukumaran, and she filmed a cameo in Mira Nair's biopic Amri."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Priyanka Chopra will play a UN interpreter named Myla Reese in the sci-fi film Bluefly, starring opposite Russell Crowe under the direction of Nimród Antal. Production for the feature is currently underway in Australia, where the actress is tackling multiple African languages with a dialect coach for her role."
+        ]
+      }
+    ],
+    "facts": [
+      "Priyanka Chopra will play UN interpreter Myla Reese in Bluefly.",
+      "Russell Crowe plays former pilot Benny in Bluefly.",
+      "Bluefly is directed by Nimród Antal.",
+      "Production for Bluefly is taking place in Queensland, Australia.",
+      "Michael Chiklis plays a US government operative in the film.",
+      "Priyanka Chopra has been a UNICEF ambassador for around 15 years.",
+      "Priyanka Chopra plays Mandakini in SS Rajamouli's Varanasi (2027)."
+    ],
+    "entities": {
+      "people": [
+        "Priyanka Chopra",
+        "Russell Crowe",
+        "Nimród Antal",
+        "David Frigerio",
+        "William Eubank",
+        "Carlyle Eubank",
+        "Michael Chiklis",
+        "Malti Marie Jonas",
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Prithviraj Sukumaran",
+        "Mira Nair",
+        "Amrita Sher-Gil",
+        "Ritesh Batra",
+        "Saif Ali Khan",
+        "Vidya Balan"
+      ],
+      "titles": [
+        "Bluefly",
+        "Baywatch",
+        "Citadel",
+        "Heads of State",
+        "The Bluff",
+        "Varanasi",
+        "Amri",
+        "Reset",
+        "Judgement Day",
+        "Long Years Ago"
+      ]
+    },
+    "keywords": [
+      "Priyanka Chopra Bluefly",
+      "Russell Crowe Bluefly film",
+      "Nimrod Antal Bluefly",
+      "Priyanka Chopra UN interpreter"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156505189,thumbsize-1121750,width-1280,height-720,resizemode-75/156505189.jpg",
+        "caption": "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T04:57:29Z"
+  },
+  "w5ovij": {
+    "id": "w5ovij",
+    "type": "news",
+    "headline": "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
+    "dek": "South Korean actor Kim Soo-Hyun has been ordered to make a multi-billion won payment to dietary supplement brand FromBIO in a civil lawsuit stemming from past personal controversies.",
+    "body": [
+      {
+        "h": "The Court's Ruling",
+        "p": [
+          "South Korean actor Kim Soo-Hyun has encountered a major legal setback following a Seoul-based brand dispute verdict delivered on November 13, 2026. The Suwon District Court's Civil Division 14 issued a partial victory to dietary supplement company FromBIO in a lawsuit directed at the actor, his agency Gold Medalist, and other co-defendants.",
+          "Under the first-instance ruling, which was delivered on November 11 and reported publicly days later, the defendants were ordered to jointly pay the company ₩1,158,984,000, along with delayed-payment interest. Additionally, the court ruled that the company must bear 70% of the litigation costs while the defendants cover the remainder."
+        ]
+      },
+      {
+        "h": "Origins of the Legal Dispute",
+        "p": [
+          "The controversy traces back to FromBIO signing Kim Soo-Hyun as its advertising brand ambassador in 2024. However, that professional association fell under intense public scrutiny in March 2025 after allegations surfaced concerning the actor's personal life and his relationship with the late actress Kim Sae-Ron.",
+          "Claiming that the negative publicity damaged its brand reputation and disrupted advertising activities, FromBIO initiated legal proceedings on May 16, 2025. The company initially sought roughly 3.96 billion in damages from the defendants before the court ultimately decided to grant only a portion of those claims."
+        ]
+      },
+      {
+        "h": "Central Arguments in the Lawsuit",
+        "p": [
+          "The core debate during the court proceedings revolved around whether the personal controversy constituted a direct violation of the dignity-maintenance clause stipulated in the advertising model contract. FromBIO argued that the fallout directly affected its corporate image and financial standing.",
+          "Judge Moon Hyun-ho presided over the case, with the court's operative order dictating the joint payment of 1,159,894,000 won plus interest. The court mandated interest calculations at 5% annually until November 11, 2026, and scaling up to 12% annually from November 12 until complete fulfillment."
+        ]
+      },
+      {
+        "h": "Response from Kim Soo-Hyun's Legal Team",
+        "p": [
+          "Following the verdict, Kim Soo-Hyun's legal representatives contested reports describing the financial penalty as compensation for contractual misconduct or wrongdoing. They clarified that the court found no evidence that the actor had breached the contract or acted at fault.",
+          "The actor's team emphasized that the court dismissed claims seeking full modeling fees and penalties under the dignity-maintenance clause. Instead, they described the mandated sum as a simple refund of modeling fees for the timeframe when advertisements could not be utilized."
+        ]
+      },
+      {
+        "h": "Appeal and Force Majeure Claims",
+        "p": [
+          "Kim's representatives also challenged the court's interpretation of the situation under force majeure contractual terms. They argued that the actor was himself a victim of the spread of false information and should not shoulder the financial burden.",
+          "Consequently, the legal team filed an appeal to challenge this specific aspect of the first-instance ruling. The civil lawsuit remains distinct from criminal matters, such as the indictment of Garosero Research Institute head Kim Se Ui over spreading false information."
+        ]
+      },
+      {
+        "h": "Background Context on the Controversy",
+        "p": [
+          "The civil litigation runs parallel to ongoing public attention surrounding Kim Soo-Hyun and the late actress Kim Sae-Ron. Allegations had emerged claiming the two dated when she was underage, though the actor has consistently denied these claims.",
+          "The actor's side has maintained that any relationship between them began strictly after she attained adulthood. Despite the heavy media scrutiny, Kim Soo-Hyun recently made his first red carpet appearance in over a year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "South Korean actor Kim Soo-Hyun and his agency have been ordered by the Suwon District Court to jointly pay dietary supplement company FromBIO ₩1,158,984,000 following a civil lawsuit over an advertising contract. While the company sued for approximately 3.96 billion in damages citing reputational harm from past controversies involving the late actress Kim Sae-Ron, the actor's legal team clarified that the court found no contract breach and has subsequently filed an appeal."
+        ]
+      }
+    ],
+    "facts": [
+      "The verdict was delivered by the Suwon District Court's Civil Division 14 on November 11, 2026, and reported on November 13, 2026.",
+      "The defendants were ordered to jointly pay FromBIO ₩1,158,984,000.",
+      "FromBIO originally filed its lawsuit on May 16, 2025, seeking approximately 3.96 billion in damages.",
+      "Kim Soo-Hyun was signed as an advertising model for FromBIO in 2024.",
+      "Kim Se Ui, head of the Garosero Research Institute, has been indicted and is facing trial over spreading false information."
+    ],
+    "entities": {
+      "people": [
+        "Kim Soo-Hyun",
+        "Kim Sae-Ron",
+        "Moon Hyun-ho",
+        "Kim Se Ui",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "Garosero Research Institute"
+      ]
+    },
+    "keywords": [
+      "Kim Soo-Hyun FromBIO lawsuit",
+      "Kim Soo-Hyun payment order",
+      "Kim Soo-Hyun Kim Sae-Ron controversy",
+      "Suwon District Court Kim Soo-Hyun"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156506329,thumbsize-158065,width-1280,height-720,resizemode-75/156506329.jpg",
+        "caption": "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T04:57:29Z"
+  },
+  "v18wa1": {
+    "id": "v18wa1",
+    "type": "news",
+    "headline": "Sydney Sweeney Faces Industry Scrutiny Over Romance With Scooter Braun and Brand Choices",
+    "dek": "Insiders raise concerns about Sydney Sweeney's career trajectory, highlighting her relationship with music mogul Scooter Braun, professional friction in Hollywood, and controversial marketing choices.",
+    "body": [
+      {
+        "h": "On Set in New Jersey",
+        "p": [
+          "Spotted on a drab New Jersey street dressed casually in a sweater, leather jacket, and jeans, actress Sydney Sweeney was far from her typical glamorous look. The 29-year-old star is currently busy filming The Housemaid’s Secret, which serves as the sequel to the psychological thriller hit The Housemaid.",
+          "In the production, she portrays a down-at-heel domestic worker, making her usual provocative attire entirely unsuitable. Her involvement in the franchise comes following the massive global success of the initial film, where she acted alongside Amanda Seyfried as ex-convict Millie Calloway."
+        ]
+      },
+      {
+        "h": "Record Payday for the Sequel",
+        "p": [
+          "The first installment performed remarkably well commercially, pulling in £300 million globally despite drawing dismissive reviews from critics who labeled it disposable popcorn entertainment. This impressive box office performance has paved the way for a lucrative return for its lead actress.",
+          "Industry reports indicate she secured a major financial upgrade for the sequel, landing a 100 per cent pay rise that guarantees a £10.7 million basic salary alongside lucrative hit-based bonuses. This milestone marks the largest payday of her professional career to date."
+        ]
+      },
+      {
+        "h": "Romance and Personal Life",
+        "p": [
+          "Away from her film projects, her personal life has also generated considerable attention amid reports suggesting her romance with 45-year-old music mogul Scooter Braun is heading toward marriage. Sources indicate the pair have lived together in his Los Angeles house almost since their relationship began after meeting at Jeff Bezos’ wedding in Venice during the summer of 2025.",
+          "The relationship has seen her attending synagogue with Braun, who is Jewish, as she reportedly prepares to embrace his faith prior to any wedding. Insiders close to the couple even suggest they may already be engaged or nearing an official announcement."
+        ]
+      },
+      {
+        "h": "Ambitions of Stardom and Criticism",
+        "p": [
+          "Despite her financial success, some industry critics and insiders remain skeptical about her path, noting that both she and Braun believe she is destined to become the next Marilyn Monroe. However, detractors argue that her reliance on provocative imagery and frequent public controversies risk damaging her long-term cultural standing.",
+          "Observers point out that her public image has faced hurdles among female audiences and younger demographics. Past marketing campaigns, including an American Eagle advertisement and promotional material for sports betting firm Novig, have previously drawn intense public backlash and polarized viewer sentiment."
+        ]
+      },
+      {
+        "h": "Industry Friction and Agency Changes",
+        "p": [
+          "Her professional decisions have also caused ripples among Hollywood power brokers, including WME head Ari Emanuel. While between representation, she reportedly consulted with Emanuel, who advised her that she would be taken more seriously if she distanced herself professionally from Braun.",
+          "Rejecting that advice, she signed with rival agency CAA instead in September and also parted ways with her long-time publicists. Associates suggest that Braun maintains significant influence over her career choices, film selections, and commercial ventures, though some close contacts privately worry about the partnership."
+        ]
+      },
+      {
+        "h": "Controversial Business Ventures",
+        "p": [
+          "Her entrepreneurial moves have continued to court controversy, most notably through social media promotions for her lingerie brand, SYRN. Recent advertisements featured her dressed as the beloved Dr Seuss character Cindy Lou Who from How The Grinch Stole Christmas, prompting immediate social media backlash over the sexualization of child characters.",
+          "These choices compound existing reputational challenges, including Braun's contentious history with Taylor Swift over master recordings, which left him widely disliked by the pop star's fanbase. Observers note that younger audiences, who form a crucial part of the cinema-going demographic, have grown increasingly alienated by these developments."
+        ]
+      },
+      {
+        "h": "Working-Class Roots in Washington",
+        "p": [
+          "Sweeney's journey to fame began far away from Hollywood glamour, raised in an outdoorsy, religious, and strongly Republican working-class family in Spokane, Washington. At the age of 12, she presented her parents, Steven and Lisa, with a PowerPoint presentation to convince them to support her acting ambitions.",
+          "The family relocated to Los Angeles the following year alongside her younger brother Trent, initially sharing a motel room. Although she secured her first role at age 13, the family faced financial hardship, eventually culminating in her parents separating and her father filing for bankruptcy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sydney Sweeney is currently filming The Housemaid’s Secret while securing a record-breaking £10.7 million basic salary for the upcoming sequel. Alongside her booming career and relationship with Scooter Braun, the actress continues to face intense public scrutiny, agency changes, and widespread online debate over her brand choices and public image."
+        ]
+      }
+    ],
+    "facts": [
+      "Sydney Sweeney is 29 years old and Scooter Braun is 45 years old.",
+      "Sydney Sweeney is filming The Housemaid’s Secret, the sequel to The Housemaid.",
+      "The first film took £300 million globally and starred Amanda Seyfried alongside Sydney Sweeney.",
+      "Sydney Sweeney's basic salary for the sequel is £10.7 million, representing a 100 per cent pay rise.",
+      "Sydney Sweeney and Scooter Braun met at Jeff Bezos’ wedding in Venice in the summer of 2025.",
+      "Sydney Sweeney signed with talent agency CAA in September.",
+      "Sydney Sweeney was raised in Spokane, Washington, by parents Steven and Lisa, alongside her brother Trent."
+    ],
+    "entities": {
+      "people": [
+        "Sydney Sweeney",
+        "Scooter Braun",
+        "Amanda Seyfried",
+        "Jeff Bezos",
+        "Ari Emanuel",
+        "Taylor Swift",
+        "Steven",
+        "Lisa",
+        "Trent"
+      ],
+      "titles": [
+        "The Housemaid's Secret",
+        "The Housemaid",
+        "Euphoria",
+        "How The Grinch Stole Christmas"
+      ]
+    },
+    "keywords": [
+      "Sydney Sweeney The Housemaid's Secret",
+      "Sydney Sweeney Scooter Braun marriage",
+      "Sydney Sweeney SYRN lingerie brand",
+      "Sydney Sweeney movies casting"
+    ],
+    "images": [],
+    "published": "2026-11-14T04:57:29Z"
   }
 };

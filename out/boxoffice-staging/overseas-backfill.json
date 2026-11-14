@@ -876,6 +876,14 @@
       "overseas_inr_cr": 4.0,
       "shows": 5062,
       "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-13",
+      "day": 8,
+      "occupancy_pct": 30.7,
+      "overseas_inr_cr": 4.0,
+      "shows": 4049,
+      "source": "overseas-backfill"
     }
   ],
   "1423191": [
@@ -926,6 +934,15 @@
       "day": 7,
       "occupancy_pct": 13.1,
       "shows": 2629,
+      "source": "overseas-backfill"
+    }
+  ],
+  "1440539": [
+    {
+      "date": "2026-11-13",
+      "day": 1,
+      "occupancy_pct": 27.0,
+      "shows": 877,
       "source": "overseas-backfill"
     }
   ],
