@@ -140025,5 +140025,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T20:24:23Z"
+  },
+  "cwan0m": {
+    "id": "cwan0m",
+    "type": "news",
+    "headline": "Samay Raina Jests Huma Qureshi Over Toxic Box Office Run on India's Got Latent",
+    "dek": "During a recent episode of India's Got Latent Season 2, comedian Samay Raina took lighthearted jabs at actress Huma Qureshi regarding the box office performance of her film Toxic.",
+    "body": [
+      {
+        "h": "Samay Raina's Banter With Huma Qureshi",
+        "p": [
+          "Comedian Samay Raina recently hosted actress Huma Qureshi on his popular comedy panel show, India's Got Latent Season 2. During the episode, Raina did not miss the opportunity to playfully tease the actress about the theatrical performance of her movie Toxic, creating a lighthearted moment on set.",
+          "The conversation quickly shifted toward how guests usually appear on the show before experiencing a box office failure. Raina jokingly pointed out that Qureshi was unique because her film underperformed before she made an appearance on the comedy program."
+        ]
+      },
+      {
+        "h": "Box Office Struggles of Toxic",
+        "p": [
+          "Toxic: A Fairy Tale for Grown-Ups was widely anticipated as a massive comeback vehicle for Kannada cinema star Yash. Directed by Geetu Mohandas, the project marked the actor's return to the big screen after a four-year gap following his blockbuster KGF films.",
+          "Despite carrying a heavy budget and featuring a prominent ensemble cast, the film failed to meet commercial expectations. The theatrical run fell short of the anticipated milestones, ultimately grossing less than 350 crore rupees globally."
+        ]
+      },
+      {
+        "h": "Exchange Over Personalities and Hatewatching",
+        "p": [
+          "Responding to the comedian's teasing, Huma Qureshi delivered a quick-witted comeback. She remarked that while she merely acted in a project titled Toxic, the host himself embodied that exact trait in real life.",
+          "Raina laughed off the comment, claiming that at least audiences tune in to watch him. Qureshi then playfully noted that contemporary culture relies heavily on hatewatching, which often boosts viewership numbers and helps keep shows like India's Got Latent at the top of the charts."
+        ]
+      },
+      {
+        "h": "Intimate Scenes and Show Dynamics",
+        "p": [
+          "The banter continued as the host brought up the film's promotional material, pointing out that the official trailer featured numerous intimate sequences. He suggested that viewer curiosity over these specific elements mirrored the viral nature of internet comedy shows.",
+          "Qureshi countered by noting a humorous contradiction in the host's demeanor. She observed that Raina is always exceptionally polite when inviting guests off-screen, but consistently spreads venom and sharp jokes once the cameras begin rolling."
+        ]
+      },
+      {
+        "h": "Govinda Incident Mentioned by Panelists",
+        "p": [
+          "The episode also featured other well-known panelists, including Krushna Abhishek, Ashish Solanki, and Balraj Singh Ghai. Discussions ranged across various pop culture topics during the lively recording session.",
+          "In one particular segment, Krushna Abhishek brought up the real-life incident involving his uncle, veteran actor Govinda, accidentally shooting himself in the leg. Continuing the comedic tone, panelist Ashish Solanki quipped that the veteran actor might have taken that drastic action after watching Toxic."
+        ]
+      },
+      {
+        "h": "Background and CBFC Clearance of the Film",
+        "p": [
+          "Geetu Mohandas's directorial venture boasts a star-studded main cast alongside Huma Qureshi, featuring prominent names like Nayanthara, Kiara Advani, Rukmini Vasanth, and Tara Sutaria. The film originally hit the big screen on August 26.",
+          "Toxic previously drew significant media attention due to its mature themes, intimate sequences, and specific portrayals of female characters. Despite the discussions surrounding its content, the Central Board of Film Certification passed the movie without cuts, granting it an A rating."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Comedian Samay Raina poked fun at actress Huma Qureshi regarding the box office underperformance of her film Toxic during an appearance on India's Got Latent Season 2. The exchange also touched upon the movie's intimate scenes, a separate comedic reference to veteran actor Govinda, and the film's earlier release with an A certification."
+        ]
+      }
+    ],
+    "facts": [
+      "India's Got Latent Season 2 features host Samay Raina.",
+      "Huma Qureshi plays Elizabeth in the film Toxic.",
+      "Toxic was directed by Geetu Mohandas and stars Yash alongside Nayanthara, Kiara Advani, Rukmini Vasanth, and Tara Sutaria.",
+      "The film was released on August 26 and received an A rating from the CBFC without cuts.",
+      "Toxic grossed less than 350 crore rupees at the box office."
+    ],
+    "entities": {
+      "people": [
+        "Samay Raina",
+        "Huma Qureshi",
+        "Yash",
+        "Geetu Mohandas",
+        "Krushna Abhishek",
+        "Ashish Solanki",
+        "Balraj Singh Ghai",
+        "Govinda",
+        "Nayanthara",
+        "Kiara Advani",
+        "Rukmini Vasanth",
+        "Tara Sutaria"
+      ],
+      "titles": [
+        "Toxic",
+        "Toxic: A Fairy Tale for Grown-Ups",
+        "Indias Got Latent",
+        "KGF"
+      ]
+    },
+    "keywords": [
+      "Toxic film box office",
+      "Samay Raina Huma Qureshi",
+      "Indias Got Latent Season 2",
+      "Geetu Mohandas Toxic movie"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af7406f4cc4e-huma-qureshi-samay-raina-135301973-16x9.jpg",
+        "caption": "Samay Raina Jests Huma Qureshi Over Toxic Box Office Run on India's Got Latent",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T00:51:37Z"
+  },
+  "e7asgm": {
+    "id": "e7asgm",
+    "type": "news",
+    "headline": "VisionQuest Concludes WandaVision Trilogy with Record Viewership",
+    "dek": "The latest Marvel television finale pulls in massive global streaming numbers on Disney+, marking the studio's highest viewership for a series finale in three years.",
+    "body": [
+      {
+        "h": "Record-Breaking Finale Viewership",
+        "p": [
+          "The television series VisionQuest officially concluded its run earlier this week, wrapping up the ongoing WandaVision trilogy with a massive global audience on Disney+. According to platform data, the highly anticipated final episode pulled in 3.7 million views globally within its first single day of streaming.",
+          "This impressive milestone represents a distinct high point for the entire series. Furthermore, the final episode experienced a significant 44 percent surge in viewership compared to the show's preceding episode, signaling intense fan engagement right up to the end."
+        ]
+      },
+      {
+        "h": "Milestone for Marvel Television",
+        "p": [
+          "The exceptional performance of the VisionQuest conclusion marks a major achievement for Marvel Studios' television division. Industry metrics confirm that the episode stands as the most-watched Marvel series finale since the conclusion of Loki Season 2.",
+          "In addition to its explosive single-day debut numbers, the series has maintained a steady presence across the broader entertainment landscape. It previously secured the No. 6 position on the Nielsen streaming charts for original content during the tracking week of October 26 to November 1."
+        ]
+      },
+      {
+        "h": "Tying into Upcoming Cinematic Releases",
+        "p": [
+          "The buzz surrounding the conclusion of VisionQuest extends beyond home streaming platforms and into the theatrical space. The finale famously featured a post-credits sequence teasing the eventual return of Wanda Maximoff.",
+          "Disney reports that this strategic narrative tease has successfully galvanized the fan base, resulting in an immediate and notable spike in ticket sales for the upcoming theatrical feature Avengers: Doomsday ahead of its premiere next month."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Key Characters",
+        "p": [
+          "The series is anchored by Paul Bettany, who reprises his role as Vision. The character's complex journey began in the 2015 film Age of Ultron, followed by his death in 2018's Infinity War and subsequent resurrection devoid of his original emotions and memories.",
+          "Joining Bettany is James Spader, who steps back into the role of Ultron. The expansive ensemble cast also features Todd Stashwick as the morally ambiguous mercenary Paladin, alongside Faran Tahir returning to his role as Raz from the foundational MCU film Iron Man."
+        ]
+      },
+      {
+        "h": "Extended Ensemble and Supporting Roles",
+        "p": [
+          "Beyond the primary leads, VisionQuest boasts a diverse supporting cast that deepens the narrative scope of the series. Notable additions to the roster include performances by Lauren Morais, Diane Morgan, Orla Brady, and Polly Frame.",
+          "The talented lineup is rounded out by Henry Lewis, Jonathan Sayer, Emily Hampshire, and James D'Arcy, each contributing to the expansive television narrative built around the central characters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The conclusion of the VisionQuest series on Disney+ drew 3.7 million views globally after one day, marking Marvel's most-watched finale in three years. The finale's end-credit sequence teasing Wanda Maximoff also drove a spike in ticket sales for the upcoming Avengers: Doomsday film."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest concluded earlier this week with its finale debuting on Tuesday.",
+      "The finale gathered 3.7 million views after one day globally on Disney+.",
+      "The viewership marked a 44% increase over the previous episode.",
+      "VisionQuest was ranked No. 6 among streaming originals for the week of October 26 to November 1.",
+      "Paul Bettany stars as Vision, a character introduced in 2015's Age of Ultron and killed in 2018's Infinity War.",
+      "James Spader stars as Ultron in the series.",
+      "Faran Tahir reprises his role of Raz from Iron Man."
+    ],
+    "entities": {
+      "people": [
+        "Paul Bettany",
+        "James Spader",
+        "Todd Stashwick",
+        "Faran Tahir",
+        "Lauren Morais",
+        "Diane Morgan",
+        "Orla Brady",
+        "Polly Frame",
+        "Henry Lewis",
+        "Jonathan Sayer",
+        "Emily Hampshire",
+        "James D'Arcy",
+        "Wanda Maximoff"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Loki",
+        "Avengers: Doomsday",
+        "Age of Ultron",
+        "Infinity War",
+        "Iron Man"
+      ]
+    },
+    "keywords": [
+      "VisionQuest finale",
+      "Paul Bettany VisionQuest",
+      "Marvel Disney plus VisionQuest",
+      "Avengers Doomsday ticket sales"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/TM_Trailer2_Still_4.jpeg?w=1024",
+        "caption": "VisionQuest Concludes WandaVision Trilogy with Record Viewership",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 23:24:42 +0000"
+  },
+  "12m1liv": {
+    "id": "12m1liv",
+    "type": "news",
+    "headline": "Donald Trump Pushes Congress to Pass Motion Picture, Television, and Entertainment Revitalization Act",
+    "dek": "Donald Trump uses social media to call for bipartisan support of federal tax incentives aimed at bringing the entertainment industry back to the United States.",
+    "body": [
+      {
+        "h": "Trump's Call for Action on Tax Incentives",
+        "p": [
+          "Donald Trump has issued a fresh push on social media urging United States lawmakers to advance a federal film and television tax incentive package. Writing on Truth Social, he stressed the urgency of passing the legislation to support domestic production.",
+          "The proposed measure, titled the Motion Picture, Television, and Entertainment Revitalization Act, aims to curb the exodus of domestic entertainment work to other nations and secure long-term stability for American media creators."
+        ]
+      },
+      {
+        "h": "Bipartisan Lawmakers Named in Support",
+        "p": [
+          "In his public statement, Trump highlighted a cross-party coalition of senators and representatives backing the 20 percent incentive. Notably, he included political opponent Senator Adam Schiff alongside Senator Tim Scott.",
+          "Other congressional members listed in the post span both sides of the political aisle, signaling a broad legislative group collaborating to move the initiative forward."
+        ]
+      },
+      {
+        "h": "Concerns Over Legislative Timeline",
+        "p": [
+          "Following a Democratic sweep in the midterms that secured control of both chambers of Congress, uncertainty surrounds the bill's future. Observers worry the measure might stall as Republicans prioritize other legislative items during the lame-duck period.",
+          "Proponents have discussed attaching the entertainment revitalization package to end-of-the-year funding measures. However, this strategy carries risks of hitting an impasse or leading to government funding delays."
+        ]
+      },
+      {
+        "h": "Financial Estimates and Economic Impact",
+        "p": [
+          "Financial projections for the tax incentives remain a point of discussion, with the Joint Committee on Taxation yet to publish an official estimate. Meanwhile, the Cato Institute has projected the cost of the legislation to fall between $33 billion and $49 billion.",
+          "Supporters of the bill counter these figures by pointing to independent studies indicating that the incentives will generate substantial economic activity and boost state revenues significantly."
+        ]
+      },
+      {
+        "h": "Focus on Blue Collar Workers and Domestic Production",
+        "p": [
+          "Trump emphasized that the entertainment industry has largely migrated to foreign territories like Canada, the United Kingdom, and Australia. He argued that the legislation would create a positive ripple effect for hundreds of thousands of blue-collar workers.",
+          "According to the pitch, the capital invested into these tax credits will be recovered tenfold through increased financial activity flowing directly into government treasuries."
+        ]
+      },
+      {
+        "h": "Upcoming Bipartisan Discussions",
+        "p": [
+          "Organizers are reportedly setting up meetings with leaders from both political parties to finalize the negotiations. Proponents maintain that because much of the revenue is currently lost from blue states, a bipartisan consensus is achievable.",
+          "The ongoing push seeks a swift and efficient legislative process to ensure the entertainment sector remains rooted firmly in the United States."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Donald Trump has urged Congress to pass the Motion Picture, Television, and Entertainment Revitalization Act to bring entertainment production back to the United States. Despite bipartisan backing and arguments regarding economic benefits for blue-collar workers, the bill faces uncertain prospects amid legislative hurdles and projected costs."
+        ]
+      }
+    ],
+    "facts": [
+      "Donald Trump posted about the tax incentive on Truth Social.",
+      "The proposed legislation is called the Motion Picture, Television, and Entertainment Revitalization Act.",
+      "The incentive offers a 20 percent tax credit.",
+      "The Cato Institute estimated the cost of the bill to be between $33 billion and $49 billion."
+    ],
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Adam Schiff",
+        "Tim Scott",
+        "John Cornyn",
+        "Raphael Warnock",
+        "Steve Daines",
+        "Bernie Moreno",
+        "Tim Sheehy",
+        "Alex Padilla",
+        "Mark Warner",
+        "Thom Tillis",
+        "Chris Coons",
+        "Katie Britt",
+        "Dick Durbin",
+        "Jason Smith",
+        "Nathaniel Moran",
+        "Brian Jack",
+        "Linda Sanchez"
+      ],
+      "titles": [
+        "Motion Picture, Television, and Entertainment Revitalization Act"
+      ]
+    },
+    "keywords": [
+      "Donald Trump film tax incentive",
+      "Motion Picture Television and Entertainment Revitalization Act",
+      "federal film TV tax bill",
+      "Trump entertainment industry tax credit"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292328576-e1792074477445.jpg?w=1024",
+        "caption": "Donald Trump Pushes Congress to Pass Motion Picture, Television, and Entertainment Revitalization Act",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 23:14:55 +0000"
+  },
+  "j18a5g": {
+    "id": "j18a5g",
+    "type": "news",
+    "headline": "Pawan Singh and Jyoti Singh Legal Battle Reaches New Emotional Low in Ballia Court",
+    "dek": "Jyoti Singh broke down in tears outside the Ballia Family Court, accusing Bhojpuri star Pawan Singh of ignoring legal summons and showing disregard for the judicial process.",
+    "body": [
+      {
+        "h": "The Core Dispute in Ballia Court",
+        "p": [
+          "The legal battle between well-known Bhojpuri cinema personality Pawan Singh and his wife, Jyoti Singh, has escalated following recent proceedings at the Ballia Family Court. The ongoing maintenance case has put the couple's troubled relationship back under the spotlight as both parties navigate formal judicial channels.",
+          "During the latest court appearance, Jyoti Singh was present to record her statement spanning two pages, while her husband did not make a personal appearance. Instead, legal representation attended the proceedings on his behalf to present his side of the argument to the court."
+        ]
+      },
+      {
+        "h": "Emotional Outburst and Allegations",
+        "p": [
+          "Speaking to the media after the court session, Jyoti Singh became visibly emotional, expressing deep frustration over the prolonged legal ordeal. She shared that she has been dealing with continuous mental distress and accused her husband of deliberately dragging out the proceedings.",
+          "Her primary grievance centered on Pawan Singh's repeated failure to appear personally for the hearings. She questioned whether his absence demonstrated a belief that he is above the law and suggested that his influence and resources are being used to bypass court dates."
+        ]
+      },
+      {
+        "h": "Legal Arguments and Previous Penalties",
+        "p": [
+          "Jyoti's legal counsel, Mrityunjay Singh, also raised objections regarding the actor's consistent absence from the hearings. The lawyer pointed to Pawan Singh's strong financial standing and official security details, questioning why personal attendance was continually avoided despite these resources.",
+          "This is not the first instance where attendance has become a point of contention. In October, the court imposed a fine of three thousand rupees due to a previous absence, at which time medical documents citing a mother's illness were submitted through counsel."
+        ]
+      },
+      {
+        "h": "Questions Raised About Government and Public Stance",
+        "p": [
+          "Beyond the immediate courtroom battle, Jyoti publicly questioned government initiatives regarding women's empowerment and the safety of daughters. She noted the contrast between political slogans supporting women during elections and the reality of a woman navigating courts alone.",
+          "She also referenced Pawan Singh's public status, questioning whether individuals holding such positions should remain mindful of their personal responsibilities and the dignity associated with their roles in society."
+        ]
+      },
+      {
+        "h": "Background of the Marriage and Separation",
+        "p": [
+          "The marital relationship between Pawan Singh and Jyoti Singh began with their wedding on March 6, 2018. However, differences emerged relatively quickly, leading to the couple living apart as their relationship deteriorated.",
+          "Legal steps followed when Pawan Singh filed a divorce petition in the Ara court, while Jyoti Singh filed a maintenance petition in the Ballia court on April 22, 2022. Despite previous reconciliation efforts, no settlement has been reached so far."
+        ]
+      },
+      {
+        "h": "Upcoming Court Schedule",
+        "p": [
+          "With the recent recording of Jyoti Singh's statement and the ongoing arguments from both legal teams, the matter remains sub judice. The Ballia Family Court has scheduled the next date of hearing for December 3.",
+          "Both parties will await further directions from the judiciary as the legal proceedings regarding maintenance and separation continue to unfold in the family court."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jyoti Singh expressed her emotional distress outside the Ballia Family Court during ongoing maintenance proceedings involving her husband, Pawan Singh. She criticized his repeated absence from court dates and questioned whether his status places him above the law, while the next hearing is set for December 3."
+        ]
+      }
+    ],
+    "facts": [
+      "Pawan Singh and Jyoti Singh were married on 2018-03-06",
+      "Jyoti Singh filed a maintenance petition in Ballia court on 2022-04-22",
+      "The recent court hearing took place on 2026-11-12",
+      "The next hearing is scheduled for December 3",
+      "A fine of three thousand rupees was imposed in October due to an absence"
+    ],
+    "entities": {
+      "people": [
+        "Pawan Singh",
+        "Jyoti Singh",
+        "Mrityunjay Singh"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Pawan Singh",
+      "Jyoti Singh",
+      "Pawan Singh wife",
+      "Ballia Family Court"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af6fd8c2a060-pawan-singh-jyoti-singh-divorce-case-1307390-16x9.jpeg",
+        "caption": "Pawan Singh and Jyoti Singh Legal Battle Reaches New Emotional Low in Ballia Court",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T00:51:37Z"
   }
 };

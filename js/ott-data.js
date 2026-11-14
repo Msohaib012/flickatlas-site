@@ -2,14 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "AU",
-      "date": "2026-11-14",
-      "date_kind": "digital",
-      "id": 1812547,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
@@ -98,6 +90,14 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "AU",
+      "date": "2026-11-14",
+      "date_kind": "digital",
+      "id": 1812547,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "date": "2026-11-13",
       "date_kind": "release",
