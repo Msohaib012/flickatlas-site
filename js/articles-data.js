@@ -141970,5 +141970,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 02:51:26 +0000"
+  },
+  "1s36fg0": {
+    "id": "1s36fg0",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Claims",
+    "dek": "Kanika Mann spots romantic feelings between Scout OP and Love Gill in Bigg Boss 20 Episode 69, leading to denials and a surprising headline-making remark.",
+    "body": [
+      {
+        "h": "Introduction To The Episode",
+        "p": [
+          "Bigg Boss 20 Episode 69 delivered an engaging conversation among the contestants involving Kanika Mann, Love Gill, and Scout OP. The discussions inside the house quickly turned toward personal equations and the nature of relationships shared by the participants.",
+          "Viewers tuned in to see how dynamic shifts within the reality television house continued to generate drama and intrigue among the housemates."
+        ]
+      },
+      {
+        "h": "Kanika Mann's Observations",
+        "p": [
+          "During a conversation with Love Gill, Kanika Mann brought up her observations regarding Scout OP's behavior. Kanika stated that she believed Scout harbored romantic feelings for Love rather than viewing her as a sister.",
+          "She pointed out that Scout appeared visibly affected whenever Love interacted with other contestants or gave her attention to someone else, suggesting a deeper emotional investment."
+        ]
+      },
+      {
+        "h": "Love Gill's Reaction",
+        "p": [
+          "Responding to Kanika's remarks, Love Gill maintained that they never shared a brother-sister dynamic and even mentioned that she encouraged him to find a romantic partner outside the reality show.",
+          "Love expressed her disagreement with Kanika's interpretation, making it clear that she did not perceive any romantic undertone in their friendship."
+        ]
+      },
+      {
+        "h": "Scout OP Denies Claims",
+        "p": [
+          "When confronted with the observations, Scout OP firmly denied having any romantic feelings for Love Gill. He insisted that their equation was built entirely on jokes and friendship.",
+          "Scout explained that he had invested a lot emotionally in their bond and would naturally feel bad if people misunderstood it, stressing that there was nothing romantic going on."
+        ]
+      },
+      {
+        "h": "The Turning Point Remark",
+        "p": [
+          "Adding a twist to the discussion, Love Gill gave Scout a playful directive following his clarification. She told him that he should stop calling her his sister from then on.",
+          "This remark added an interesting dimension to the ongoing exchange, leaving housemates and viewers wondering whether it was merely playful banter or a shift in their equation."
+        ]
+      },
+      {
+        "h": "Scout OP's Extreme Makeover",
+        "p": [
+          "Later in the episode, Scout OP's late-night antics took another turn when he decided to trim his hair following an argument with Love. After accidentally cutting off too much, he chose to shave his head completely.",
+          "This drastic transformation shocked housemates including Love and Mahhi, while Amrapali and Kanika questioned whether the move was intentional."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "Fans can catch Bigg Boss 20 everyday on JioHotstar at 9 pm and Colors TV at 10:30 pm to follow the latest developments inside the house.",
+          "The reality series continues to air regular episodes filled with unexpected twists, intense arguments, and evolving equations among the contestants."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 Episode 69 featured Kanika Mann suggesting that Scout OP has romantic feelings for Love Gill, which both contestants denied. The interaction concluded with Love telling Scout not to call her his sister anymore, followed by Scout shaving his head after an argument.",
+          "The episode aired as part of the regular broadcast schedule on JioHotstar and Colors TV."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 69 featured a conversation between Kanika Mann, Love Gill, and Scout OP.",
+      "Kanika Mann suggested that Scout OP has romantic feelings for Love Gill.",
+      "Love Gill told Scout OP not to call her his sister anymore.",
+      "Scout OP shaved his head completely after accidentally cutting off too much hair following an argument with Love.",
+      "Bigg Boss 20 airs everyday on JioHotstar at 9pm and Colors TV at 10:30pm."
+    ],
+    "entities": {
+      "people": [
+        "Kanika Mann",
+        "Love Gill",
+        "Scout OP",
+        "Mahhi",
+        "Amrapali"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Love Gill",
+      "Scout OP",
+      "Kanika Mann",
+      "Bigg Boss 20 Episode 69"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156506423,thumbsize-174908,width-1280,height-720,resizemode-75/156506423.jpg",
+        "caption": "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Claims",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T03:40:56Z"
+  },
+  "1uhzj5y": {
+    "id": "1uhzj5y",
+    "type": "news",
+    "headline": "DC's R-Rated Horror Spin-Off Exits Theaters Ahead of Digital Launch",
+    "dek": "The dark DC cinematic project is wrapping up its theatrical run and heading to digital platforms after a notable box-office journey.",
+    "body": [
+      {
+        "h": "The Theatrical Exit of a Dark DC Experiment",
+        "p": [
+          "The R-rated horror feature centered around the classic comic book villain has officially concluded its primary box-office run, exiting roughly one thousand theaters nationwide. Having reached the conclusion of its major milestones on the big screen, the film is preparing to transition to home viewing formats.",
+          "Industry tracking indicates that the picture will make its debut on digital platforms shortly after the first week of December. This scheduling leaves the production with approximately three weeks to capitalize on its remaining theater footprint before completing its theatrical life cycle."
+        ]
+      },
+      {
+        "h": "Origins and Creative Shifts",
+        "p": [
+          "The journey of this R-rated project to the silver screen involved several major creative transitions. Initially conceived as an offshoot of Matt Reeves' darker cinematic vision for the Dark Knight, the film originally had filmmaker Mike Flanagan attached to write and direct.",
+          "As studio strategies evolved, the production was absorbed into the broader DC Universe framework. Ultimately, direction of the feature fell to James Watkins, guiding the atmospheric horror story into a distinct corner of the comic book company's cinematic output."
+        ]
+      },
+      {
+        "h": "Leadership Changes at DC Studios",
+        "p": [
+          "The theatrical rollout of the horror spin-off occurred during a period of immense organizational transition for DC Studios. Just weeks after the film's premiere, shocking announcements revealed that co-CEOs James Gunn and Peter Safran had departed their posts after leading the division for four years.",
+          "This sudden shakeup has left the studio's carefully mapped future slate in a state of uncertainty. Observers note that the horror project was fortunate to secure a wide theatrical release given the turbulent climate surrounding the studio's overarching strategy."
+        ]
+      },
+      {
+        "h": "Context Within the Broader Franchise Landscape",
+        "p": [
+          "The cinematic landscape surrounding DC productions has seen diverse storytelling approaches flourish recently. Matt Reeves' universe expanded through a television series focusing on the Penguin, alongside plans for a direct sequel to his original Gotham-set feature.",
+          "Additionally, Todd Phillips pursued an independent continuity path with his standalone sequel focusing on another iconic villain. Prior to their departure, studio leadership emphasized that their long-term vision did not strictly depend on a rigid, interconnected cinematic universe."
+        ]
+      },
+      {
+        "h": "Contrasting Past Cinematic Strategies",
+        "p": [
+          "The previous era of DC filmmaking, often designated as the extended universe, frequently faced criticism for attempting to fast-track toward a massive ensemble crossover akin to rival comic adaptations. Those earlier efforts prioritized rapid expansion over individual character development.",
+          "With the recent departure of the studio's top executives, questions loom regarding whether the entire franchise will undergo yet another comprehensive reboot or if standalone storytelling will remain the preferred path forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An R-rated DC horror spin-off has been pulled from approximately one thousand theaters as it prepares for a digital release following its theatrical run. The project, which navigated several creative changes before landing under James Watkins' direction, wrapped up its big-screen journey amidst major leadership shifts at DC Studios."
+        ]
+      }
+    ],
+    "facts": [
+      "The film has been removed from 1,000 theaters.",
+      "The movie is scheduled to debut digitally after the first week of December 2026.",
+      "James Gunn and Peter Safran were replaced as co-CEOs after four years.",
+      "The project was originally envisioned as a spin-off to Matt Reeves' The Batman with Mike Flanagan attached.",
+      "James Watkins ultimately directed the film."
+    ],
+    "entities": {
+      "people": [
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher",
+        "James Gunn",
+        "Peter Safran",
+        "Matt Reeves",
+        "Mike Flanagan",
+        "James Watkins",
+        "Todd Phillips",
+        "Jason Voorhees",
+        "Michael Myers",
+        "Freddy Krueger",
+        "Pennywise",
+        "Chucky",
+        "John Carpenter",
+        "Wes Craven"
+      ],
+      "titles": [
+        "The Batman",
+        "The Penguin",
+        "Joker: Folie à Deux",
+        "The Avengers",
+        "Friday the 13th",
+        "Halloween",
+        "A Nightmare on Elm Street"
+      ]
+    },
+    "keywords": [
+      "Clayface movie",
+      "DC horror spin off",
+      "James Gunn Peter Safran DC",
+      "Matt Reeves The Batman"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/batman-standing-rooftop-looking-at-camera.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "DC's R-Rated Horror Spin-Off Exits Theaters Ahead of Digital Launch",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 03:00:22 GMT"
+  },
+  "wthlxh": {
+    "id": "wthlxh",
+    "type": "news",
+    "headline": "Shilpa Shetty To Host New Reality Television Series Pyaar Ka Pressure Cooker On Colors",
+    "dek": "Bollywood actress Shilpa Shetty is set to front Colors' upcoming reality television program Pyaar Ka Pressure Cooker, which puts commitment-shy partners and their families under the same roof.",
+    "body": [
+      {
+        "h": "Introduction To Pyaar Ka Pressure Cooker",
+        "p": [
+          "Bollywood star Shilpa Shetty is preparing to anchor a brand new television reality program titled Pyaar Ka Pressure Cooker. The show is scheduled to broadcast on the Colors channel, bringing a unique perspective to contemporary romance and family dynamics.",
+          "The production aims to address modern courtship dilemmas by housing commitment-shy couples alongside their parents. Participants will confront various contemporary romance trends under one roof."
+        ]
+      },
+      {
+        "h": "Navigating Modern Relationship Trends",
+        "p": [
+          "The program is designed to tackle modern dating phenomena that often leave older generations perplexed. Contestants will deal with terminology such as situationships, benching, and breadcrumbing.",
+          "According to the announcements, the series focuses on couples who find themselves stuck at critical crossroads. Whether they are struggling with a lack of commitment or trapped in long-term partnerships that refuse to progress, the format forces them to address underlying issues."
+        ]
+      },
+      {
+        "h": "Host Shilpa Shetty On The Show",
+        "p": [
+          "Discussing her involvement in the project, host Shilpa Shetty shared her perspective on how modern romances have evolved. She noted that current romantic vocabulary has caused clarity to become lost along the way.",
+          "She expressed excitement about the unique reality format, emphasizing that it serves as India's first relationship program where parents deliver necessary reality checks. She highlighted that the concept is equally relatable for both participating partners and watching parents."
+        ]
+      },
+      {
+        "h": "The Unique Role Of Parents",
+        "p": [
+          "Within the shared house environment, participants are compelled to answer difficult questions they have previously avoided. Rather than just interpersonal debates, parents step directly into the process.",
+          "The parental involvement provides much-needed reality checks for the couples. This dynamic continues until moments of absolute clarity arrive and hidden truths finally come out into the open."
+        ]
+      },
+      {
+        "h": "Quirky Promotional Campaign",
+        "p": [
+          "The television project was initially unveiled through a quirky and catchy promotional video. The promotional material guided viewers through a comparison of romance narratives from past generations versus today.",
+          "The promo transitions from the strict and disapproving parents of yesteryears to modern dating scenarios where terms like ghosting confuse families. The preview builds directly toward the signature focal point of the series."
+        ]
+      },
+      {
+        "h": "Clarity Ki Seeti And Signature Sound",
+        "p": [
+          "The defining auditory symbol of the program is the whistle of a pressure cooker. Referred to as clarity ki seeti, this sound signifies the moment when absolute truth emerges under intense pressure.",
+          "This signature element ties together the humorous yet revealing format, signaling that participants are finally facing the realities of their romantic connections."
+        ]
+      },
+      {
+        "h": "Perspective From Leadership",
+        "p": [
+          "Alok Jain, who serves as Head for Hindi and English Entertainment across Streaming, TV, and Studios at JioStar, shared insights regarding the conceptualization of the show. He emphasized that young India remains at the heart of their programming decisions.",
+          "He noted that while romance is among the most heavily discussed subjects for the younger generation, it rarely receives an honest intergenerational discussion. The network aims to present an idea infused with humor, heart, and clear viewpoints that younger viewers can easily share."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actress Shilpa Shetty is set to host the new Colors reality show Pyaar Ka Pressure Cooker, which brings commitment-shy couples and their parents together under one roof. The program addresses modern dating trends like situationships and breadcrumbing, utilizing a signature pressure cooker whistle to signal moments of truth and clarity."
+        ]
+      }
+    ],
+    "facts": [
+      "Shilpa Shetty is set to host the new reality show Pyaar Ka Pressure Cooker.",
+      "Pyaar Ka Pressure Cooker will air on the Colors channel.",
+      "The show brings commitment-shy couples and parents under one roof.",
+      "Alok Jain is the Head of Hindi and English Entertainment, Streaming, TV and Studios at JioStar.",
+      "The news was reported on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shilpa Shetty",
+        "Alok Jain"
+      ],
+      "titles": [
+        "Pyaar Ka Pressure Cooker"
+      ]
+    },
+    "keywords": [
+      "Shilpa Shetty Pyaar Ka Pressure Cooker",
+      "Pyaar Ka Pressure Cooker reality show",
+      "Colors TV Pyaar Ka Pressure Cooker",
+      "Shilpa Shetty new show"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6553-shilpa-shetty.png",
+        "caption": "Shilpa Shetty To Host New Reality Television Series Pyaar Ka Pressure Cooker On Colors",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T03:40:56Z"
+  },
+  "4sfdlj": {
+    "id": "4sfdlj",
+    "type": "news",
+    "headline": "The Terminal List Ascends to the Summit of Prime Video Streaming Charts",
+    "dek": "The action thriller starring Chris Pratt has climbed to the top spot on streaming platforms, fueled by dedicated fans and expanding franchise plans.",
+    "body": [
+      {
+        "h": "Reaching the Top Spot on Streaming",
+        "p": [
+          "The action-oriented drama series has made significant waves across digital platforms, recently surging to the number one streaming position. According to reports from Variety, the production captured substantial viewership numbers over the course of its run.",
+          "With cumulative viewing metrics passing the threshold of 1.3 billion minutes watched, the project continues to defy initial industry expectations. This surge highlights the ongoing popularity of high-stakes military conspiracy thrillers among modern audiences."
+        ]
+      },
+      {
+        "h": "Origins in Source Material and Leadership",
+        "p": [
+          "The television property finds its foundation in the well-regarded literary creations written by Jack Carr. The author, who brings firsthand experience as a former Navy SEAL to his stories, crafted the original character James Reece.",
+          "Behind the scenes, the adaptation was developed for the screen by creator David DiGilio. Together, the creative team has maintained a focus on delivering intense tactical narratives that stay true to the spirit of the novels."
+        ]
+      },
+      {
+        "h": "Navigating Initial Critical Reception",
+        "p": [
+          "When the inaugural season premiered back in 2022, the journey was not entirely smooth. Initial reviews from professional critics were mixed and generally did not favor the book-to-screen translation.",
+          "Despite the tepid critical start, viewer engagement told a different story. Audience response scores were notably high right from the beginning, proving that there was a massive appetite for this specific style of uncompromising action."
+        ]
+      },
+      {
+        "h": "Prioritizing the Core Audience",
+        "p": [
+          "Creator Jack Carr famously acknowledged that the series was intentionally built to satisfy the core fanbase rather than chase mainstream critical trends. The production avoided watering down its tone to appeal to safer sensibilities.",
+          "By sticking to its original vision and refusing to compromise on its gritty aesthetic, the creative team built immense goodwill. This loyalty from viewers ultimately created a strong foundation for future expansion."
+        ]
+      },
+      {
+        "h": "Expansion Through Prequels and Sequels",
+        "p": [
+          "The momentum generated by the first batch of episodes has allowed the universe to grow significantly. A second season was developed using the narrative framework of the novel True Believer.",
+          "Additionally, the franchise expanded its reach with the announcement and development of a prequel series titled The Terminal List: Dark Wolf. These new chapters allowed creators to delve deeper into the backgrounds of beloved characters."
+        ]
+      },
+      {
+        "h": "Shifting Critical Perspectives Over Time",
+        "p": [
+          "As the franchise has grown to include multiple entries and spin-offs, general perception has notably evolved. Both the main series and its related projects have seen a warmer reception from reviewers as the scope widened.",
+          "This gradual shift demonstrates how consistency and dedication to a specific genre can win over skeptics. The expanding universe shows no signs of slowing down its outreach."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Prime Video action thriller The Terminal List, based on the novels by Jack Carr and starring Chris Pratt, has climbed to the No. 1 streaming position with over 1.3 billion minutes watched. Despite mixed early reviews in 2022, the series succeeded by catering directly to fans, leading to an expanded franchise that includes a second season and the prequel The Terminal List: Dark Wolf."
+        ]
+      }
+    ],
+    "facts": [
+      "The Terminal List reached No. 1 on streaming.",
+      "The series surpassed 1.3 billion minutes watched.",
+      "The show is based on novels by Jack Carr.",
+      "Jack Carr is a former Navy SEAL turned author.",
+      "The series was created for television by David DiGilio.",
+      "The first season of the show premiered in 2022.",
+      "The second season is based on the novel True Believer.",
+      "The prequel series is titled The Terminal List: Dark Wolf.",
+      "The series stars Chris Pratt."
+    ],
+    "entities": {
+      "people": [
+        "Michael John Petty",
+        "Jack Carr",
+        "David DiGilio",
+        "Chris Pratt"
+      ],
+      "titles": [
+        "The Terminal List",
+        "The Devil's Left Hand",
+        "The Terminal List: Dark Wolf",
+        "True Believer"
+      ]
+    },
+    "keywords": [
+      "The Terminal List",
+      "Jack Carr",
+      "Chris Pratt",
+      "The Terminal List Dark Wolf",
+      "Prime Video action thriller"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/the-terminal-list-season-2-constance-wu.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Terminal List Ascends to the Summit of Prime Video Streaming Charts",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 02:55:12 GMT"
   }
 };
