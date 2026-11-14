@@ -144964,5 +144964,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-14T09:53:28Z"
+  },
+  "1r2hq32": {
+    "id": "1r2hq32",
+    "type": "news",
+    "headline": "Vishal Dadlani Jokes About Legal Troubles After Shruti Haasan Mentions Diljit Dosanjh Song On Talk Show",
+    "dek": "During a car ride on Double Date with Neha Dhupia and Angad Bedi, actor Shruti Haasan and composer Vishal Dadlani discussed Punjabi music, leading to a humorous quip from Vishal.",
+    "body": [
+      {
+        "h": "Guest Appearance on Double Date",
+        "p": [
+          "Actor and singer Shruti Haasan along with music composer Vishal Dadlani recently appeared as guests on the talk show Double Date with Neha Dhupia and Angad Bedi. As hosts Neha and Angad picked up their guests from home, the group engaged in a lively conversation about their musical preferences while heading to the studio for the shoot.",
+          "The casual commute quickly turned into an entertaining exchange about various music genres, with the passengers sharing their appreciation for different artists and iconic tracks from the entertainment industry."
+        ]
+      },
+      {
+        "h": "Praise for Daler Mehndi",
+        "p": [
+          "The musical discussion began when Shruti expressed her immense admiration for legendary Punjabi singer Daler Mehndi. She declared herself to be one of his biggest fans on the planet, specifically highlighting his global hit Tunak Tunak Tun as her absolute favourite track.",
+          "Weighing in on the artist's global reach, Vishal agreed that the track remains one of India's most significant cultural exports. He even described the iconic song as timeless and of a scale that surpasses many contemporary artists."
+        ]
+      },
+      {
+        "h": "Discussion on Diljit Dosanjh and Case",
+        "p": [
+          "Shifting the conversation to the current generation of Punjabi musicians, Shruti noted that she enjoys a wide spectrum of Punjabi music ranging from classy to casual styles. When asked to name her favorite from the current lot, she immediately named Diljit Dosanjh and mentioned his song Case.",
+          "Since the composer was unfamiliar with the specific track, fellow guest Angad Bedi sang a few lines of the song to jog his memory, explaining the lyrical essence of an ongoing court or police case."
+        ]
+      },
+      {
+        "h": "Vishal Dadlani's Humorous Reaction",
+        "p": [
+          "Upon hearing the lyrical theme of Diljit's song, Vishal made the entire car burst into laughter by quipping that the subject matter felt entirely too familiar to his own life experiences. He humorously insisted that he had personally felt the weight of those particular lyrics.",
+          "The lighthearted joke drew chuckles from the hosts and Shruti alike, turning a simple discussion about modern Punjabi music into a self-deprecating moment regarding the composer's past."
+        ]
+      },
+      {
+        "h": "A Look Back at Past Legal Troubles",
+        "p": [
+          "The composer's playful comment referenced real legal hurdles he faced in the past. In 2016, an FIR was filed against Vishal and activist Tehseen Poonawalla over a social media post concerning a speech given at the Haryana State Legislative Assembly by a Digambar Jain monk.",
+          "Though the Punjab and Haryana High Court quashed the criminal proceedings in 2019 while imposing a fine, the matter eventually reached the Supreme Court. By 2025, the apex court set aside the previous order with the observation that judicial forums should not be used for moral policing."
+        ]
+      },
+      {
+        "h": "Recent Projects of the Stars",
+        "p": [
+          "Aside from his appearance on the talk show, Vishal recently handled the full album composition for the theatrical release Tu Meri Main Tera Main Tera Tu Meri, starring Kartik Aaryan and Ananya Panday.",
+          "Shruti has likewise kept busy with major cinematic projects. Following her appearance in Lokesh Kanagaraj's Coolie, she is slated to star in the Tamil film Train as well as the Telugu movie Aakasamlo Oka Tara."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shruti Haasan and Vishal Dadlani appeared as guests on Double Date with Neha Dhupia and Angad Bedi, where a conversation about Punjabi music led to a discussion of Diljit Dosanjh's song Case. Hearing the track's theme prompted Vishal to make a humorous joke about his own history with legal troubles."
+        ]
+      }
+    ],
+    "facts": [
+      "Shruti Haasan and Vishal Dadlani appeared on Double Date with Neha Dhupia and Angad Bedi",
+      "Shruti named Daler Mehndi and Diljit Dosanjh as her favorite Punjabi artistes",
+      "Shruti mentioned Diljit Dosanjh's song Case",
+      "Vishal Dadlani joked that the song Case was the story of his life",
+      "An FIR was filed against Vishal Dadlani and Tehseen Poonawalla in 2016 over a tweet about monk Tarun Sagar",
+      "The Punjab and Haryana High Court quashed the criminal case in 2019 and imposed a fine of ₹ 10 lakh each",
+      "The Supreme Court set aside the order in 2025",
+      "Vishal Dadlani composed the album for the 2025 film Tu Meri Main Tera Main Tera Tu Meri starring Kartik Aaryan and Ananya Panday",
+      "Shruti Haasan starred in Lokesh Kanagaraj’s Coolie and has upcoming roles in Train and Aakasamlo Oka Tara"
+    ],
+    "entities": {
+      "people": [
+        "Vishal Dadlani",
+        "Shruti Haasan",
+        "Neha Dhupia",
+        "Angad Bedi",
+        "Daler Mehndi",
+        "Diljit Dosanjh",
+        "Tehseen Poonawalla",
+        "Tarun Sagar",
+        "Kartik Aaryan",
+        "Ananya Panday",
+        "Lokesh Kanagaraj"
+      ],
+      "titles": [
+        "Double Date with Neha Dhupia and Angad Bedi",
+        "Tunak Tunak Tun",
+        "Case",
+        "Tu Meri Main Tera Main Tera Tu Meri",
+        "Coolie",
+        "Train",
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "Vishal Dadlani",
+      "Shruti Haasan",
+      "Diljit Dosanjh Case",
+      "Double Date with Neha Dhupia",
+      "Daler Mehndi"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Vishal_Dadlani_Diljit_Dosanjh_case_1794648993065_3ABT_1794649006958_ewOz_565fac5a-e378-4794-b54a-8aeba6246796_8wsc.jpg",
+        "caption": "Vishal Dadlani Jokes About Legal Troubles After Shruti Haasan Mentions Diljit Dosanjh Song On Talk Show",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 15:39:49 +0530"
+  },
+  "1emv5fi": {
+    "id": "1emv5fi",
+    "type": "news",
+    "headline": "Kim Feel Launches Solo Concert JOURNEY in Seoul",
+    "dek": "Renowned singer Kim Feel kicks off his two-day solo concert series titled JOURNEY at the Blue Square Woori WON Banking Hall in Yongsan-gu, Seoul, marking his first full-length album promotion in approximately seven years.",
+    "body": [
+      {
+        "h": "The Grand Opening of JOURNEY",
+        "p": [
+          "Renowned vocalist Kim Feel has officially commenced his highly anticipated solo concert series titled 2026 KIM FEEL CONCERT JOURNEY. The two-day musical event opens today, November 14, at the prominent Blue Square Woori WON Banking Hall located in Yongsan-gu, Seoul.",
+          "Fans attending the venue are treated to an intimate yet powerful atmosphere designed to offer deep emotional comfort and a genuine connection with the artist. The performances continue through November 15, bringing a wave of warmth to audiences as the year draws toward its conclusion."
+        ]
+      },
+      {
+        "h": "A Milestone Seven-Year Return",
+        "p": [
+          "The newly launched concert shares its overarching title with Kim Feel's second full-length studio album. This release marks a major milestone in his career, representing his very first full-length album in approximately seven years.",
+          "The extended gap between major studio projects has only heightened listener enthusiasm, turning this concert series into a landmark celebration of his evolving artistry and enduring dedication to his craft."
+        ]
+      },
+      {
+        "h": "Curating the Ultimate Setlist",
+        "p": [
+          "For this special weekend, Kim Feel has carefully crafted a rich and comprehensive setlist. The lineup features every single track from his brand-new full-length album, allowing attendees to experience the project in its entirety through live renditions.",
+          "Alongside the fresh material, the artist has incorporated a selection of his signature tracks and established audience favorites. This thoughtful blend bridges his past repertoire with his current creative direction on a single stage."
+        ]
+      },
+      {
+        "h": "Emotive Vocals and Live Delivery",
+        "p": [
+          "Known for his distinctively emotive vocals and delicate live delivery, Kim Feel aims to forge a profound bond with everyone in the room. His performance style relies heavily on nuance, allowing the lyrical depth of his songs to resonate clearly across the hall.",
+          "The concert's central theme revolves around sharing comfort and collective emotion through music, reinforcing his reputation as an artist capable of touching listeners deeply through his voice."
+        ]
+      },
+      {
+        "h": "Digital Teasers and Rehearsal Insights",
+        "p": [
+          "In the days leading up to the opening night, Kim Feel utilized his official social media channels to heighten anticipation. He released a series of short-form video clips collectively titled These Days, Kim Feel, giving followers an exclusive look inside his rehearsal space.",
+          "These behind-the-scenes segments captured the singer collaborating closely with his bandmates, meticulously fine-tuning their musical coordination and offering a glimpse into the rigorous preparation behind the live shows."
+        ]
+      },
+      {
+        "h": "Busking Preview and Fan Excitement",
+        "p": [
+          "Adding to the pre-concert momentum, Kim Feel shared footage of an impromptu busking performance featuring a passionate rendition of Life Is Life, the official title track from his new album.",
+          "When combined with the rehearsal clips, this live preview offered a compelling taste of his vocal prowess and successfully drove fan excitement to new heights ahead of the opening curtain."
+        ]
+      },
+      {
+        "h": "Artist Reflections and Goals",
+        "p": [
+          "Reflecting on the hard work poured into the project, Kim Feel shared that he would do his utmost to deliver memorable music and unforgettable performances for every attendee.",
+          "He further expressed his sincere hope that the audience would find genuine comfort during the concerts, providing a meaningful space to gather their thoughts and emotions as the year winds down."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Kim Feel has opened his two-day solo concert JOURNEY at the Blue Square Woori WON Banking Hall in Yongsan-gu, Seoul, on November 14 and 15. The event highlights his first full-length album in approximately seven years, featuring a rich setlist of new tracks and signature songs designed to offer audiences emotional comfort."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Feel's solo concert is titled 2026 KIM FEEL CONCERT JOURNEY.",
+      "The concert takes place on November 14 and 15, 2026.",
+      "The venue is the Blue Square Woori WON Banking Hall in Yongsan-gu, Seoul.",
+      "The concert shares its title with his second full-length album, his first in approximately seven years.",
+      "Among the promotional content released was a short-form video series titled These Days, Kim Feel.",
+      "The title track of his new album is named Life Is Life."
+    ],
+    "entities": {
+      "people": [
+        "Kim Feel"
+      ],
+      "titles": [
+        "JOURNEY",
+        "These Days, Kim Feel",
+        "Life Is Life"
+      ]
+    },
+    "keywords": [
+      "Kim Feel JOURNEY concert",
+      "Kim Feel solo concert Seoul",
+      "Kim Feel Life Is Life",
+      "Kim Feel new album 2026"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 04:18:00 EST"
+  },
+  "10ke8m8": {
+    "id": "10ke8m8",
+    "type": "news",
+    "headline": "Cinematographer Saket Saurabh Talks About His Hollywood Debut In Hotel Motel Patel",
+    "dek": "National award-winning cinematographer Saket Saurabh discusses his international entry with the American feature film Hotel Motel Patel directed by Mitesh Patel.",
+    "body": [
+      {
+        "h": "Stepping Into International Cinema",
+        "p": [
+          "Renowned cinematographer Saket Saurabh is expanding his professional horizons by making his official Hollywood debut with the upcoming American feature film Hotel Motel Patel. Known for his work on acclaimed national award-winning projects like The Lost Behrupiya and Aadha Chand Tum Rak Lo, Saurabh is embracing this major milestone in his visual storytelling career.",
+          "The upcoming feature production represents a collaborative bridge connecting artistic talent from the Indian film industry with the wider scope of American cinema. Helmed by award-winning director Mitesh Patel, the production aims to bring a distinctive immigrant narrative to international audiences through thoughtful cinematography."
+        ]
+      },
+      {
+        "h": "Exploring The Immigrant Experience",
+        "p": [
+          "The thematic core of Hotel Motel Patel revolves around immigrant ambition, cultural identity, and the pursuit of the American dream. Set against the backdrop of the United States, the movie draws direct inspiration from the history of Gujarati immigrants who played a transformative role in shaping the American hospitality landscape through the motel industry.",
+          "The narrative follows an ambitious family that relocates overseas for a better future, only to find themselves running a struggling motel in unfamiliar territory. This hopeful relocation quickly transitions into a mix of humorous, chaotic, and emotional encounters with demanding guests, internal family conflicts, and unexpected friendships."
+        ]
+      },
+      {
+        "h": "Cinematic Vision And Creative Challenges",
+        "p": [
+          "For Saket Saurabh, whose artistic approach focuses heavily on bridging emotional resonance with visual imagery, the project presents a unique canvas. The story requires navigating between lighthearted comedy and intimate human drama, providing a dynamic framework for framing each scene effectively.",
+          "Reflecting on his time working on location, Saurabh noted that every day on set introduces fresh creative challenges. He finds excitement in pushing boundaries, working past limitations, and collaborating with a deeply passionate team to ensure each sequence maintains its own distinct visual identity."
+        ]
+      },
+      {
+        "h": "Shifting Tones And Visual Storytelling",
+        "p": [
+          "The film's dual emotional layers create a compelling opportunity for nuanced visual storytelling. The first half leans into lively comedic situations and colorful characters, establishing a vibrant and energetic atmosphere for the audience.",
+          "As the story progresses into its latter half, the narrative shifts toward deeper explorations of belonging, personal resilience, family bonds, and cultural identity. The cinematography adapts to these changing currents, moving smoothly from bright humor to grounding dramatic moments."
+        ]
+      },
+      {
+        "h": "An Ensemble Cast And Crew",
+        "p": [
+          "Hotel Motel Patel features a prominent ensemble cast representing cross-cultural talent. Among the notable names attached to the project are Omi Vaidya, widely remembered for his role as Chatur Ramalingam in the blockbuster comedy 3 Idiots, alongside actor Freddy Daruwala and television star Shrenu Parikh.",
+          "The creative backbone of the film extends behind the camera as well. The script is penned by veteran screenwriter Pankaj Trivedi, whose previous credits include Apna Sapna Money Money, Hello Darling, and Run Bhola Run. Additionally, Arnav Shah serves as associate director, bringing valuable experience from his prior work on the Hollywood production Obsession."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cinematographer Saket Saurabh is making his Hollywood debut with the American feature film Hotel Motel Patel, directed by Mitesh Patel. The project explores the history of Gujarati immigrants in the American hospitality industry through a narrative featuring Omi Vaidya, Freddy Daruwala, and Shrenu Parikh."
+        ]
+      }
+    ],
+    "facts": [
+      "Saket Saurabh is a national award-winning cinematographer known for The Lost Behrupiya and Aadha Chand Tum Rak Lo.",
+      "Hotel Motel Patel is an American feature film directed by Mitesh Patel.",
+      "The film's cast includes Omi Vaidya, Freddy Daruwala, and Shrenu Parikh.",
+      "Pankaj Trivedi is the screenwriter of the film.",
+      "Arnav Shah serves as the associate director.",
+      "The story focuses on Gujarati immigrants and the Patel Motel legacy in the United States."
+    ],
+    "entities": {
+      "people": [
+        "Saket Saurabh",
+        "Mitesh Patel",
+        "Abhishek Ranjit",
+        "Omi Vaidya",
+        "Freddy Daruwala",
+        "Shrenu Parikh",
+        "Pankaj Trivedi",
+        "Arnav Shah"
+      ],
+      "titles": [
+        "Hotel Motel Patel",
+        "The Lost Behrupiya",
+        "Aadha Chand Tum Rak Lo",
+        "3 Idiots",
+        "Apna Sapna Money Money",
+        "Hello Darling",
+        "Run Bhola Run",
+        "Obsession"
+      ]
+    },
+    "keywords": [
+      "Hotel Motel Patel",
+      "Saket Saurabh",
+      "Mitesh Patel",
+      "Omi Vaidya",
+      "Shrenu Parikh"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/cinematographersaketsaurabhinterview-86081794653017.jpg",
+        "caption": "Cinematographer Saket Saurabh Talks About His Hollywood Debut In Hotel Motel Patel",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 16:15:13 +0530"
+  },
+  "uqch68": {
+    "id": "uqch68",
+    "type": "news",
+    "headline": "Ramayana Day 10 Advance Booking: Ranbir Kapoor Starrer Chases Dhurandhar 2 After Massive Pre-Sales",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana: Part 1 registers stellar advance bookings for its second Saturday, securing an entry into the Top 10 all-time second Saturdays.",
+    "body": [
+      {
+        "h": "Stellar Second Saturday Pre-Sales",
+        "p": [
+          "The box office momentum for director Nitesh Tiwari's visual spectacle Ramayana: Part 1 continues to break records as the movie steps into its second weekend. Starring a prominent ensemble featuring Ranbir Kapoor, Yash, and Sai Pallavi, the mythological magnum opus has recorded exceptional pre-sales figures for its tenth day, falling on Saturday, November 14.",
+          "Across the country, ticket counters have witnessed massive demand. The film accumulated an impressive 32.17 crore gross, excluding blocked seats, through the sale of 9.73 lakh tickets in pure advance bookings alone."
+        ]
+      },
+      {
+        "h": "Chasing the Dhurandhar 2 Record",
+        "p": [
+          "Translating to a substantial 27.30 crore net collection, the advance ticket sales alone have comfortably pushed Ramayana into the coveted Top 10 All-Time Biggest Second Saturdays in Bollywood history. This remarkable feat was achieved without factoring in a single over-the-counter walk-in ticket for the day.",
+          "With 27.30 crore net locked in, the film requires an additional 30.71 crore through afternoon and evening spot bookings to surpass Dhurandhar 2. Ranveer Singh's blockbuster holds the top spot for the biggest second Saturday in Bollywood with a net collection of 58 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Past Milestones",
+        "p": [
+          "Purely on the strength of its 27.30 crore net pre-sales, Ramayana has already overtaken the full-day second Saturday net totals recorded by films like Saiyaara and Drishyam 3. Furthermore, it is rapidly closing the gap on high-grossing titles such as Jawan and Gadar 2.",
+          "Within the current calendar year of 2026, the feature stands firmly as the second biggest second Saturday release, trailing only behind Dhurandhar 2."
+        ]
+      },
+      {
+        "h": "Beating Personal Bests",
+        "p": [
+          "To break past Ranbir Kapoor's own previous career-best second Saturday set by Animal at 32.47 crore, Ramayana only needs a modest 5.18 crore in walk-in collections on November 14. Achieving this will solidify a direct entry into the top five.",
+          "Reaching the ultimate milestone of 58.00 crore demands a strong conversion rate during afternoon and night shows, requiring roughly 31 crore in spot sales. Given the multi-language, pan-India appeal, trade analysts view the target as an ambitious yet attainable climb."
+        ]
+      },
+      {
+        "h": "Top 10 Second Saturdays Context",
+        "p": [
+          "The historical ledger for second Saturdays places Dhurandhar 2 at the peak with 58 crore, followed closely by Dhurandhar at 53 crore and Chhaava at 44 crore. Other notable entrants in the upper echelon include Stree 2 at 33 crore and Animal at 32.47 crore.",
+          "Rounding out the remaining positions are Gadar 2 at 31.07 crore, Jawan at 30.10 crore, Ramayana at its advance booking baseline of 27.3 crore, Saiyaara and Drishyam 3 at 26.5 crore, and The Kashmir Files at 24.8 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has recorded massive advance booking numbers for its second Saturday on November 14, pulling in 27.30 crore net from 9.73 lakh tickets sold. The film needs an additional 30.71 crore in walk-in collections to dethrone Dhurandhar 2 from its record-holding position."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 is directed by Nitesh Tiwari.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Day 10 of the film corresponds to Saturday, November 14.",
+      "Advance bookings reached 32.17 crore gross from 9.73 lakh tickets sold.",
+      "Advance net collection stands at 27.30 crore.",
+      "Dhurandhar 2 holds the record for the biggest second Saturday in Bollywood with 58 crore net.",
+      "Animal previously set Ranbir Kapoor's career-best second Saturday at 32.47 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dhurandhar 2",
+        "Dhurandhar",
+        "Chhaava",
+        "Stree 2",
+        "Animal",
+        "Gadar 2",
+        "Jawan",
+        "Saiyaara",
+        "Drishyam 3",
+        "The Kashmir Files"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 10 advance booking",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana second Saturday collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-advance-booking-01.jpg",
+        "caption": "Ramayana Day 10 Advance Booking: Ranbir Kapoor Starrer Chases Dhurandhar 2 After Massive Pre-Sales",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 09:26:56 +0000"
   }
 };
