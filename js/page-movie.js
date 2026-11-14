@@ -13,9 +13,12 @@
    record, not a catalogue) — except catalogue entries, whose cast +
    director are baked into their chunk entry, so no live credits fetch
    runs for them. A title that is neither published nor catalogued
-   renders a plain state — the page NEVER fetches the title live from
-   TMDB to fill itself (a chunk fetch is a static file fetch, not a
-   TMDB call). Money always goes through UI.fmtMoney* (USD data,
+   is fetched live from TMDB (TMDB.liveEntry, 2026-11-14, owner
+   order) and rendered in-memory — hero/story/facts/trailer/
+   where-to-watch/cast/crew all show, the same as a published post.
+   Only the AI-written parts (Reviews, related news) stay
+   published-only. Nothing is written back, so a live title can never
+   duplicate a published or catalogued one. Money always goes through UI.fmtMoney* (USD data,
    auto-converts on currency change); no watch/download buttons, no
    external links except the YouTube trailer embed. */
 (async function () {
@@ -129,6 +132,16 @@
   };
   let pub = (window.FA_PUBLISHED || {})[String(id)] || null;
   if (!pub) pub = await fetchCatalogueEntry(id);
+  /* Live TMDB fallback (2026-11-14, owner order): a real title that
+     is neither published nor catalogued yet still gets its full post.
+     Rendered in-memory only — nothing is written to FA_PUBLISHED or
+     the catalogue, so it can never duplicate them. */
+  let isLive = false;
+  let liveCredits = null;
+  if (!pub) {
+    const live = await TMDB.liveEntry("movie", id);
+    if (live) { pub = live.entry; liveCredits = live.credits; isLive = true; }
+  }
   if (pub && pub.type === "tv") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a TV show — it lives on its own show page.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/show?id=${encodeURIComponent(id)}">Open Show Page →</a></p></div>`;
@@ -184,7 +197,11 @@
        its loading skeleton forever. The page must render without cast
        if the fetch fails OR hangs — never wait forever. */
     let credits = null;
-    if (Array.isArray(pub.cast) && pub.cast.length) {
+    if (liveCredits) {
+      /* Live TMDB entry: the details call already returned credits
+         (with person ids) — no second fetch. */
+      credits = liveCredits;
+    } else if (Array.isArray(pub.cast) && pub.cast.length) {
       /* Catalogue entry: synthesize the credits shape from the baked
          cast/director. No TMDB person ids are stored, so cast/crew
          render as plain text (see castCard/crewLink below) — never a
@@ -739,6 +756,10 @@
       title: `${title}${year ? ` (${year})` : ""} — ${pub.overview ? "Story & Cast" : "Cast & Details"} | FlickAtlas`,
       desc: (pub.overview || `${title} film details and cast information on FlickAtlas.`).slice(0, 160),
       path: `/movie?id=${encodeURIComponent(id)}`,
+      /* Live entries are not in the sitemap/catalogue yet: keep them
+         out of Google's index until the catalogue gives them SSR.
+         Published/catalogued titles are unaffected (isLive false). */
+      ...(isLive ? { noindex: true } : {}),
       dates: pageDates,
       type: "video.movie",
       image: poster || "",

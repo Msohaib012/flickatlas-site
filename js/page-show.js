@@ -12,9 +12,12 @@
    title only (a single-title record, not a catalogue) — except
    catalogue entries, whose cast + director are baked into their chunk
    entry, so no live credits fetch runs for them. A title that is
-   neither published nor catalogued renders a plain state — the page
-   NEVER fetches the title live from TMDB to fill itself (a chunk
-   fetch is a static file fetch, not a TMDB call). No watch/download
+   neither published nor catalogued is fetched live from TMDB
+   (TMDB.liveEntry, 2026-11-14, owner order) and rendered in-memory —
+   hero/story/facts/trailer/seasons/cast/crew all show, the same as a
+   published post. Only the AI-written parts (Reviews, related news)
+   stay published-only. Nothing is written back, so a live title can
+   never duplicate a published or catalogued one. No watch/download
    buttons, no external links except the YouTube trailer embed.
    Pakistani dramas have NO seasons (seasons are an OTT thing): for a
    Pakistani drama the Seasons table is replaced by an Episodes list
@@ -127,6 +130,21 @@
   };
   let pub = (window.FA_PUBLISHED || {})[String(id)] || null;
   if (!pub) pub = await fetchCatalogueEntry(id);
+  /* Live TMDB fallback (2026-11-14, owner order): a real show that is
+     neither published nor catalogued yet still gets its full post.
+     Rendered in-memory only — nothing is written to FA_PUBLISHED or
+     the catalogue, so it can never duplicate them. Pakistani dramas
+     stay on the YouTube track (same rule as the catalogue's
+     pk-origin skip): a live TMDB fetch must never render one as a
+     regular show page. */
+  let isLive = false;
+  let liveCredits = null;
+  if (!pub) {
+    const live = await TMDB.liveEntry("tv", id);
+    if (live && UI.industryOf(live.entry) !== "pakistani") {
+      pub = live.entry; liveCredits = live.credits; isLive = true;
+    }
+  }
   if (pub && pub.type === "movie") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a movie — it lives on its own movie page.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(id)}">Open Movie Page →</a></p></div>`;
@@ -177,7 +195,11 @@
        not a catalogue). Best effort — the page renders without cast
        if it fails. */
     let credits = null;
-    if (Array.isArray(pub.cast) && pub.cast.length) {
+    if (liveCredits) {
+      /* Live TMDB entry: the details call already returned credits
+         (with person ids) — no second fetch. */
+      credits = liveCredits;
+    } else if (Array.isArray(pub.cast) && pub.cast.length) {
       /* Catalogue entry: synthesize the credits shape from the baked
          cast/director. No TMDB person ids are stored, so cast/crew
          render as plain text (see castCard/crewLink below) — never a
@@ -460,6 +482,9 @@
       title: `${name}${year ? ` (${year})` : ""} — ${isPakistani ? "Episodes, Cast & Story" : "Seasons, Cast & Story"} | FlickAtlas`,
       desc: (pub.overview || `${name} — ${isPakistani ? "episodes" : "seasons"}, cast, crew and story on FlickAtlas.`).slice(0, 160),
       path: `/show?id=${encodeURIComponent(id)}`,
+      /* Live entries are not in the sitemap/catalogue yet: keep them
+         out of Google's index until the catalogue gives them SSR. */
+      ...(isLive ? { noindex: true } : {}),
       dates: pageDates,
       type: "video.tv_show",
       image: backdrop || poster || "",
