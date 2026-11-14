@@ -149575,5 +149575,88 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-14T21:40:19Z"
+  },
+  "14d66wc": {
+    "id": "14d66wc",
+    "type": "news",
+    "headline": "Sony Mounts Ambitious Oscar Campaign For Spider-Man: Brand New Day Following Massive Box Office Run",
+    "dek": "Following a massive $2.5 billion worldwide box office run, Sony Pictures is pushing hard for major Academy Award recognition with Spider-Man: Brand New Day.",
+    "body": [
+      {
+        "h": "An Ambitious Campaign For The Academy",
+        "p": [
+          "Sony Pictures has officially launched an aggressive Best Picture campaign targeting the 99th Academy Awards for Spider-Man: Brand New Day. The studio has brought on professional awards consultants to strengthen its Oscar push, with chairman and CEO Tom Rothman personally backing the initiative.",
+          "To ensure Academy voters experience the film properly, Sony is arranging special screenings starting just before Thanksgiving. Additionally, a theatrical re-release is planned before the end of the year specifically to capture the attention of voters who missed it on the big screen."
+        ]
+      },
+      {
+        "h": "A Historic Box Office Success",
+        "p": [
+          "The studio's push is heavily backed by the blockbuster's phenomenal commercial performance. According to Box Office Mojo, the movie has grossed approximately $2.5 billion worldwide.",
+          "Furthermore, the film reportedly shattered the all-time domestic opening record previously held by Avengers: Endgame, giving Sony strong commercial leverage for its awards narrative."
+        ]
+      },
+      {
+        "h": "The Long History Of Oscar Struggles",
+        "p": [
+          "Despite dominating global box offices for years, the superhero giant has faced a complicated relationship with the Academy regarding major categories. Recognition for the franchise has historically stayed restricted mostly to technical wins.",
+          "The live-action Spider-Man franchise serves as a prime example of this trend, having secured only a single win across eight films when Spider-Man 2 took home Best Visual Effects."
+        ]
+      },
+      {
+        "h": "Technical Wins Versus Major Categories",
+        "p": [
+          "Across the wider Marvel Cinematic Universe, the numbers reflect a similar pattern of limited major category representation. The franchise has gathered 19 total Oscar nominations, with ten of those coming from visual effects alone.",
+          "Recognition in premier categories such as Best Picture remains exceedingly rare for comic book adaptations. Only two superhero films in history, Black Panther and Joker, have managed to break into the Best Picture race."
+        ]
+      },
+      {
+        "h": "Breaking The 22-Year Streak",
+        "p": [
+          "The last major win for a live-action Spider-Man film occurred 22 years ago with the visual effects victory of Spider-Man 2. Sony aims to change this historical limitation permanently with Brand New Day.",
+          "With Tom Rothman driving the campaign and the impending release of Avengers: Doomsday, the studio sees a unique window to secure Marvel's biggest Oscar recognition to date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures has hired professional awards consultants and arranged special screenings to campaign for Best Picture for Spider-Man: Brand New Day at the 99th Academy Awards. Backed by a $2.5 billion worldwide box office haul and a record domestic opening, the studio aims to overcome Marvel's historic struggle for major Oscar recognition."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Man: Brand New Day collected approximately $2.5 billion worldwide according to Box Office Mojo.",
+      "Spider-Man 2 won an Oscar for Best Visual Effects in 2005.",
+      "The wider franchise has collected 19 Oscar nominations, including ten for visual effects.",
+      "Tom Rothman is the chairman and CEO of Sony Pictures.",
+      "Only two superhero movies, Black Panther and Joker, have made it into the Best Picture race."
+    ],
+    "entities": {
+      "people": [
+        "Tom Rothman"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Spider-Man 2",
+        "Black Panther",
+        "Joker"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day",
+      "Sony Pictures Oscar campaign",
+      "Tom Rothman",
+      "Spider-Man Brand New Day box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/marvel-finally-has-a-chance-to-fix-the-franchises-biggest-oscar-snub-after-2-5-billion-box-office-success-with-brand-new-day.jpg",
+        "caption": "Sony Mounts Ambitious Oscar Campaign For Spider-Man: Brand New Day Following Massive Box Office Run",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 22:46:44 +0000"
   }
 };
