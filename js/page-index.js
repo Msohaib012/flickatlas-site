@@ -835,6 +835,39 @@
       })
       .sort((a, b) => group === "now" ? String(b.g.date).localeCompare(String(a.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0) : String(a.g.date).localeCompare(String(b.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0))
       .slice(0, HOME_LIMITS.ott);
+    /* OTT Coming fallback (owner order 2026-11-14): when the Bollywood
+       Coming set is empty, the rail shows World Cinema Coming titles
+       instead of standing empty. DISPLAY fill only — World titles are
+       NOT reclassified as Bollywood (their data and industry tags are
+       untouched); the rail carries an honest note saying so. Applies
+       to Coming only; the Now rail is untouched. When World has no
+       Coming titles either, fallback stays false and the honest empty
+       message shows instead of a misleading note. */
+    const OTT_COMING_FALLBACK_NOTE = "No Bollywood titles are coming to OTT yet — showing World Cinema titles.";
+    const ottComingFor = (industry, type = "all") => {
+      const items = ottFor("coming", industry, type);
+      if (items.length || industry !== "bollywood") return { items, fallback: false };
+      const worldItems = ottFor("coming", "international", type);
+      return { items: worldItems, fallback: worldItems.length > 0 };
+    };
+    /* Keep the honest fallback note in sync with the Coming rail. The
+       note sits between the group's <h3> and its scroller (styled by
+       the existing .ott-group-note rule). */
+    const syncOttComingNote = (comingHost, fallback) => {
+      if (!comingHost) return;
+      const group = comingHost.closest(".ott-group");
+      if (!group) return;
+      let note = group.querySelector(".ott-group-note");
+      if (fallback) {
+        if (!note) {
+          note = document.createElement("p");
+          note.className = "ott-group-note";
+          const h = group.querySelector("h3");
+          if (h) h.after(note); else group.prepend(note);
+        }
+        note.textContent = OTT_COMING_FALLBACK_NOTE;
+      } else if (note) note.remove();
+    };
     const ottCardHtml = ({ g, x }, coming) => UI.ottCard(x, { coming, providers: g.providers, tag: tagFor(x), date: g.date, dateKind: g.date_kind });
     const ottRailHtml = (items, coming) => items.length
       ? items.map(p => ottCardHtml(p, coming)).join("")
@@ -845,12 +878,15 @@
     let ottRerender = null;
     const ottHasKind = ["bollywood", "international"].some(ind =>
       ottFor("now", ind).length > 0 || ottFor("coming", ind).length > 0);
+    /* Default Bollywood view: the Coming rail falls back to World
+       titles (with the honest note) when Bollywood has none. */
+    const ottComingDefault = ottComingFor("bollywood", "movie");
     const ottHtml = safeRail("ott", () => ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
       <div class="section-head"><h2>OTT</h2>
       <a class="see-all" href="/ott?f=bollywood">See All →</a></div>
       ${homeFilterRow("ott")}
       <div class="ott-group"><h3>Now on OTT</h3><div class="scroller" data-results="now">${ottRailHtml(ottFor("now", "bollywood", "movie"), false)}</div></div>
-      <div class="ott-group"><h3>Coming to OTT</h3><div class="scroller" data-results="coming">${ottRailHtml(ottFor("coming", "bollywood", "movie"), true)}</div></div>
+      <div class="ott-group"><h3>Coming to OTT</h3>${ottComingDefault.fallback ? `<p class="ott-group-note">${OTT_COMING_FALLBACK_NOTE}</p>` : ""}<div class="scroller" data-results="coming">${ottRailHtml(ottComingDefault.items, true)}</div></div>
     </section>` : "");
 
     /* ---------- coming soon: a DAILY release calendar over the
@@ -1389,9 +1425,11 @@
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry);
-          const comingItems = ottFor("coming", industry);
+          const coming = ottComingFor(industry);
+          const comingItems = coming.items;
           if (nowHost) nowHost.innerHTML = nowItems.length ? nowItems.map(p => ottCardHtml(p, false)).join("") : `<p role="status">No titles streaming on OTT for ${industryLabel(industry)} yet.</p>`;
           if (comingHost) comingHost.innerHTML = comingItems.length ? comingItems.map(p => ottCardHtml(p, true)).join("") : `<p role="status">No upcoming OTT releases reported for ${industryLabel(industry)} yet.</p>`;
+          syncOttComingNote(comingHost, coming.fallback);
           return;
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
@@ -1450,7 +1488,8 @@
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry, type);
-          const comingItems = ottFor("coming", industry, type);
+          const coming = ottComingFor(industry, type);
+          const comingItems = coming.items;
           /* Empty states name the selected Type too (2026-10-28: with
              Industry=Bollywood + Type=TV Series the old "for Bollywood
              yet" line hid which filter was empty). */
@@ -1463,6 +1502,7 @@
             : `No upcoming OTT releases reported for ${industryLabel(industry)} ${ottTypeNoun} yet.`;
           if (nowHost) nowHost.innerHTML = nowItems.length ? nowItems.map(p => ottCardHtml(p, false)).join("") : `<p class="ott-empty" role="status">${nowEmpty}</p>`;
           if (comingHost) comingHost.innerHTML = comingItems.length ? comingItems.map(p => ottCardHtml(p, true)).join("") : `<p class="ott-empty" role="status">${comingEmpty}</p>`;
+          syncOttComingNote(comingHost, coming.fallback);
           return;
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : "Coming Soon & Most Awaited";
