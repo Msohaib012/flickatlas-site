@@ -1,6 +1,6 @@
 {
  "bucket": "66",
- "count": 27,
+ "count": 34,
  "titles": {
   "movie:1107166": {
    "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
@@ -111,6 +111,122 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 273
+  },
+  "movie:1108566": {
+   "backdrop_path": "/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nick Bali",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Leonides / Elias Vardakis",
+     "n": "Richard Madden"
+    },
+    {
+     "c": "Penelope Vardakis",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "George Mensah",
+     "n": "Babou Ceesay"
+    },
+    {
+     "c": "Audrey Vardakis",
+     "n": "Clare Holman"
+    },
+    {
+     "c": "Monique",
+     "n": "Abbey Lee"
+    },
+    {
+     "c": "Yiannis Dimitriou",
+     "n": "Manos Gavras"
+    },
+    {
+     "c": "",
+     "n": "Argyris Gaganis"
+    },
+    {
+     "c": "Victoria",
+     "n": "Eleni Vergeti"
+    },
+    {
+     "c": "Governer",
+     "n": "Dimitris Topalidis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Philippe Lacôte"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1108566,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An expat PI is hired to investigate a suspicious death in Crete, Greece, where jealousies run deep amongst the victim's powerful family.",
+   "popularity": 3.2208,
+   "poster_path": "/WiAEiqelck0NGWplhL5JQR12eg.jpg",
+   "production_countries": [
+    "US",
+    "GR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-25",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Jealousy can drive anyone to the edge.",
+   "title": "Killer Heat",
+   "trailer": {
+    "key": "ADGSIaE6nzE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.808,
+   "vote_count": 344
   },
   "movie:1165366": {
    "backdrop_path": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
@@ -257,6 +373,116 @@
    "type": "movie",
    "vote_average": 7.817,
    "vote_count": 290
+  },
+  "movie:1272166": {
+   "backdrop_path": "/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lord Doyle",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Dao Ming",
+     "n": "Fala Chen"
+    },
+    {
+     "c": "Cynthia Blithe",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Grandma",
+     "n": "Deanie Ip"
+    },
+    {
+     "c": "Adrian Lippett",
+     "n": "Alex Jennings"
+    },
+    {
+     "c": "Mr. Huang",
+     "n": "Jason Tobin"
+    },
+    {
+     "c": "Casino Manager",
+     "n": "Adrienne Lau"
+    },
+    {
+     "c": "Alfred da Souza",
+     "n": "Anthony Wong Chau-sang"
+    },
+    {
+     "c": "Royale Casino Receptionist",
+     "n": "Jessica Lai"
+    },
+    {
+     "c": "Royale Casino Assistant Manager",
+     "n": "Margaret Cheung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edward Berger"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1272166,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
+   "popularity": 3.0116,
+   "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+   "production_countries": [
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-10-16",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ballad of a Small Player",
+   "trailer": {
+    "key": "z1B5W55TFyo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 375
   },
   "movie:1428766": {
    "backdrop_path": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
@@ -971,6 +1197,438 @@
    "vote_average": 4.794,
    "vote_count": 401
   },
+  "movie:250766": {
+   "backdrop_path": "/hfBVcLWjvL9ZCEPDLcbGYsBvor1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roger Ebert (voice)",
+     "n": "Stephen Stanton"
+    },
+    {
+     "c": "Self - Film Critic",
+     "n": "Roger Ebert"
+    },
+    {
+     "c": "Self - Ebert's Wife",
+     "n": "Chaz Ebert"
+    },
+    {
+     "c": "Self - Filmmaker",
+     "n": "Ramin Bahrani"
+    },
+    {
+     "c": "Self - Film Critic",
+     "n": "Richard Corliss"
+    },
+    {
+     "c": "Self - TV Producer",
+     "n": "Nancy De Los Santos"
+    },
+    {
+     "c": "Self - Filmmaker",
+     "n": "Ava DuVernay"
+    },
+    {
+     "c": "Self - Ebert's Friend",
+     "n": "Bruce Elliot"
+    },
+    {
+     "c": "Self - Journalist",
+     "n": "Laura Emerick"
+    },
+    {
+     "c": "Self - Ebert's Step-Grandson",
+     "n": "Emil Evans"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steve James"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 250766,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The surprising and entertaining life of renowned film critic and social commentator Roger Ebert (1942-2013): his early days as a freewheeling bachelor and Pulitzer Prize winner, his famously contentious partnership with Gene Siskel, his life-altering marriage, and his brave and transcendent battle with cancer.",
+   "popularity": 1.1375,
+   "poster_path": "/nK4cYTEO2eHLMgMII0Ux0kBOGhG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-11-14",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only thing Roger loved more than movies.",
+   "title": "Life Itself",
+   "trailer": {
+    "key": "ytOQZ6x4wvY",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.508,
+   "vote_count": 382
+  },
+  "movie:28966": {
+   "backdrop_path": "/u90ajspDd9911ISbx74rtofQZfO.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Mary Preston",
+     "n": "Clara Bow"
+    },
+    {
+     "c": "Jack Powell",
+     "n": "Charles 'Buddy' Rogers"
+    },
+    {
+     "c": "David Armstrong",
+     "n": "Richard Arlen"
+    },
+    {
+     "c": "Sylvia Lewis",
+     "n": "Jobyna Ralston"
+    },
+    {
+     "c": "Herman Schwimpf",
+     "n": "El Brendel"
+    },
+    {
+     "c": "Air Commander",
+     "n": "Richard Tucker"
+    },
+    {
+     "c": "Cadet White",
+     "n": "Gary Cooper"
+    },
+    {
+     "c": "The Sergeant",
+     "n": "Gunboat Smith"
+    },
+    {
+     "c": "Mr. Armstrong",
+     "n": "Henry B. Walthall"
+    },
+    {
+     "c": "Lieutenant Cameron",
+     "n": "Roscoe Karns"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "William A. Wellman"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "War",
+    "Romance"
+   ],
+   "id": 28966,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two young men, one rich, one middle class, both in love with the same woman, become US Air Corps fighter pilots and, eventually, heroic flying aces during World War I. Devoted best friends, their mutual love of the girl eventually threatens their bond. Meanwhile, a hometown girl who's the lovestruck lifelong next door neighbor of one of them pines away.",
+   "popularity": 1.8932,
+   "poster_path": "/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1927-08-12",
+   "revenue": 3600000,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "Youth, hitting the clouds! Laughing at danger! Fighting, loving, dodging death! That's \"WINGS\"",
+   "title": "Wings",
+   "trailer": {
+    "key": "08NbkvJQq-s",
+    "name": "Wings - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.232,
+   "vote_count": 355
+  },
+  "movie:408266": {
+   "backdrop_path": "/hyUuVIbjqXLHKl3kcaTZxmBwN07.jpg",
+   "budget": 31000000,
+   "cast": [
+    {
+     "c": "Bruce Lee",
+     "n": "Philip Ng Wan-lung"
+    },
+    {
+     "c": "Steve McKee",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Wong Jack Man",
+     "n": "Xia Yu"
+    },
+    {
+     "c": "Tony Yu",
+     "n": "Ron Yuan"
+    },
+    {
+     "c": "Vince Miller",
+     "n": "Darren E. Scott"
+    },
+    {
+     "c": "King Lau",
+     "n": "King Lau"
+    },
+    {
+     "c": "Winston Peng",
+     "n": "Yee Jee Tso"
+    },
+    {
+     "c": "Chinatown Pedestrian (uncredited)",
+     "n": "Teresa Navarro"
+    },
+    {
+     "c": "Tourist (uncredited)",
+     "n": "Vanessa Ross"
+    },
+    {
+     "c": "Ship Passenger (uncredited)",
+     "n": "Christina July Kim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "George Nolfi"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 408266,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.",
+   "popularity": 2.4489,
+   "poster_path": "/odn4Hj2u7IQhJRmr15pTYZbkbc.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/pxmDUtLdaSCek4LUwme4h7wfsC9.png",
+     "name": "MovieMe",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-09-29",
+   "revenue": 7220490,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Fight That Created The Legend",
+   "title": "Birth of the Dragon",
+   "trailer": {
+    "key": "SL7OfxJo2oA",
+    "name": "BIRTH OF THE DRAGON - OFFICIAL TRAILER (2017)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 344
+  },
   "movie:417466": {
    "backdrop_path": "/iqd7U0nrQw9zKUKyG05dtWpBVJT.jpg",
    "budget": 1800000,
@@ -1295,6 +1953,107 @@
    "vote_average": 7.314,
    "vote_count": 480
   },
+  "movie:435366": {
+   "backdrop_path": "/y1VC0S3i48OqHlGOUgi56ZWUBqZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kwon Yoo",
+     "n": "Ji Chang-wook"
+    },
+    {
+     "c": "Yeo-wool",
+     "n": "Shim Eun-kyung"
+    },
+    {
+     "c": "Public Defender Min Chun-sang",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "Demolition",
+     "n": "Ahn Jae-hong"
+    },
+    {
+     "c": "Ma Deok-soo",
+     "n": "Kim Sang-ho"
+    },
+    {
+     "c": "Yongdosa",
+     "n": "Kim Min-kyo"
+    },
+    {
+     "c": "Manager of Law Office",
+     "n": "Lee Hanee"
+    },
+    {
+     "c": "Kwon Yoo's Mother",
+     "n": "Kim Ho-jung"
+    },
+    {
+     "c": "Eun-pye",
+     "n": "Kim Seul-gi"
+    },
+    {
+     "c": "Old Prisoner",
+     "n": "Woo Hyeon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Bae Jong"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 435366,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In real life, Kwon Yoo is unemployed, but in the virtual game world he is the best leader. Kwon Yoo is then framed for a murder. With the help of hacker Yeo-wool, he tries to uncover the truth behind the murder case.",
+   "popularity": 2.4063,
+   "poster_path": "/8tE4MhhuWHize6pNyxAtakUyNZc.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Vrott Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k8teC7ImsMzvTXhlWV8zu9Bf2hB.png",
+     "name": "Vrott Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-09",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Enter virtually. Reset reality.",
+   "title": "Fabricated City",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 371
+  },
   "movie:445466": {
    "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
    "budget": 0,
@@ -1522,6 +2281,160 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 444
+  },
+  "movie:8866": {
+   "backdrop_path": "/2ZWD2t48CbjxcxzaZ8tqqDiY85f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noelle",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Abby",
+     "n": "Janeane Garofalo"
+    },
+    {
+     "c": "Brian",
+     "n": "Ben Chaplin"
+    },
+    {
+     "c": "Ed",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Roy",
+     "n": "James McCaffrey"
+    },
+    {
+     "c": "Eric",
+     "n": "Richard Coca"
+    },
+    {
+     "c": "Mario",
+     "n": "Stanley DeSantis"
+    },
+    {
+     "c": "Susan",
+     "n": "Antoinette Valente"
+    },
+    {
+     "c": "Bee Man",
+     "n": "Mitch Rouse"
+    },
+    {
+     "c": "Emily",
+     "n": "La Tanya M. Fisher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Lehmann"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 8866,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+   "popularity": 1.7398,
+   "poster_path": "/4T2edRWgD8QlW62Ja6w5uSFteRH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-04-26",
+   "revenue": 3407,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Brian's about to discover the woman he loves isn't the woman he loves.",
+   "title": "The Truth About Cats & Dogs",
+   "trailer": {
+    "key": "6nFJcAt-ktU",
+    "name": "The Truth About Cats & Dogs | #TBT Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 353
   },
   "movie:9666": {
    "backdrop_path": "/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg",

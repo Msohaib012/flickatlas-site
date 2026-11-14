@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 37,
+ "count": 52,
  "titles": {
   "movie:1061798": {
    "d": "Jim Queen (2026): Animation/Comedy film. Story: When Heterosis, a mysterious virus that turns gay men… See cast and TMDB rating 7.9/10.",
@@ -198,6 +198,70 @@
    "t": "City Hunter (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
   },
+  "movie:1129598": {
+   "d": "Prey (2024): Action/Thriller film. Story: A young couple is compelled to leave their Christian… See cast, TMDB rating 5.9/10, and release date 30 August 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+   "industry": "world",
+   "k": "Prey, Prey movie, Prey cast, Prey story, Prey box office collection, Prey budget, Prey review, Prey rating, Prey release date, Prey trailer, Prey Action, Prey Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Phillippe"
+     },
+     {
+      "@type": "Person",
+      "name": "Emile Hirsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Mena Suvari"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Flashner"
+     },
+     {
+      "@type": "Person",
+      "name": "Tristan Thompson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Prey (2024): Action/Thriller film. Story: A young couple is compelled to leave their Christian… See cast, TMDB rating 5.9/10, and release date 30 August 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mukunda Michael Dewil"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1129598",
+    "name": "Prey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-08-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1129598"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Prey (2024)</h1>\n<p class=\"ssr-lead\">A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2024</li><li>Runtime: 86 minutes</li><li>Director: Mukunda Michael Dewil</li><li>Genres: Action, Thriller, Horror</li><li>TMDB rating: 5.9/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Phillippe as Andrew</li><li>Emile Hirsch as Grun</li><li>Mena Suvari as Sue</li><li>Dylan Flashner as Tyler</li><li>Tristan Thompson as Max</li><li>Michaela Sasner as Chrissy</li><li>Jeremy Tardy as Thabo</li><li>Mohamed Hakeemshady as Scar</li><li>Alpha Miknas as Fatigues</li><li>Godwin Asamoah Obeng as Wanda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Prey (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1140498": {
    "d": "Is This Thing On? (2025): Comedy/Drama film. Story: As their marriage quietly unravels, Alex faces middle… See cast, budget $15M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
@@ -326,6 +390,133 @@
    "t": "Dead Again (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:11598": {
+   "d": "The Kentucky Fried Movie (1977): Comedy film. Story: A series of loosely connected skits that spoof news… See cast, budget $600.0k, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fiSvjqNpjGJJEFryM7n4pIVQV6f.jpg",
+   "industry": "world",
+   "k": "The Kentucky Fried Movie, The Kentucky Fried Movie movie, The Kentucky Fried Movie cast, The Kentucky Fried Movie story, The Kentucky Fried Movie box office collection, The Kentucky Fried Movie budget, The Kentucky Fried Movie review, The Kentucky Fried Movie rating, The Kentucky Fried Movie release date, The Kentucky Fried Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Evan C. Kim"
+     },
+     {
+      "@type": "Person",
+      "name": "Bong Soo Han"
+     },
+     {
+      "@type": "Person",
+      "name": "Agneta Eckemyr"
+     },
+     {
+      "@type": "Person",
+      "name": "Marilyn Joi"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcy Goldman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Kentucky Fried Movie (1977): Comedy film. Story: A series of loosely connected skits that spoof news… See cast, budget $600.0k, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Landis"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fiSvjqNpjGJJEFryM7n4pIVQV6f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11598",
+    "name": "The Kentucky Fried Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11598"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Kentucky Fried Movie (1977)</h1>\n<p class=\"ssr-lead\">A series of loosely connected skits that spoof news programs, commercials, porno films, kung-fu films, disaster films, blaxploitation films, spy films, mafia films, and the fear that somebody is watching you on the other side of the TV.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 1977</li><li>Runtime: 83 minutes</li><li>Director: John Landis</li><li>Genres: Comedy</li><li>Budget: $600.0k</li><li>TMDB rating: 6.2/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Evan C. Kim as Loo (segment &quot;A Fistful of Yen&quot;)</li><li>Bong Soo Han as Dr. Klahn (segment &quot;A Fistful of Yen&quot;)</li><li>Agneta Eckemyr as Ming Chow (segment &quot;A Fistful of Yen&quot;)</li><li>Marilyn Joi as Cleopatra Schwartz (segment &quot;Cleopatra Schwartz&quot;)</li><li>Marcy Goldman as Housewife (segment &quot;Household Odors&quot;)</li><li>Bill Bixby as Himself (segment &quot;Headache Clinic&quot;)</li><li>John Landis as TV Technician Thrown by Gorilla (segment &quot;A.M. Today&quot;)</li><li>Donald Sutherland as The Clumsy Waiter (segment &quot;That&#x27;s Armageddon&quot;)</li><li>Victoria Carroll as The Nurse (segment &quot;That&#x27;s Armageddon&quot;)</li><li>George Lazenby as The Architect (segment &quot;That&#x27;s Armageddon&quot;)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Kentucky Fried Movie (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
+  },
+  "movie:119698": {
+   "d": "The Dinosaur Project (2012): Adventure/Action film. Story: Found footage of an expedition into the Congo jungle… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nAhKxK8inVjHeHAw6W2xkQjdbh5.jpg",
+   "industry": "world",
+   "k": "The Dinosaur Project, The Dinosaur Project movie, The Dinosaur Project cast, The Dinosaur Project story, The Dinosaur Project box office collection, The Dinosaur Project budget, The Dinosaur Project review, The Dinosaur Project rating, The Dinosaur Project release date, The Dinosaur Project trailer, The Dinosaur Project Adventure, The Dinosaur Project Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natasha Loring"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Kane"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Dillane"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Brooke"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Jennings"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Dinosaur Project (2012): Adventure/Action film. Story: Found footage of an expedition into the Congo jungle… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sid Bennett"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nAhKxK8inVjHeHAw6W2xkQjdbh5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=119698",
+    "name": "The Dinosaur Project",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=119698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Dinosaur Project (2012)</h1>\n<p class=\"ssr-lead\">Found footage of an expedition into the Congo jungle where a team of explorers stumbles upon a colony of Dinosaurs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2012</li><li>Runtime: 83 minutes</li><li>Director: Sid Bennett</li><li>Genres: Adventure, Action, Horror</li><li>TMDB rating: 5.8/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natasha Loring as Dr Liz Draper</li><li>Matt Kane as Luke Marchant</li><li>Richard Dillane as Marchant</li><li>Peter Brooke as Charlie Rutherford</li><li>Stephen Jennings as Dave Moore</li><li>Andre Weideman as Pete Van Aarde</li><li>Abena Ayivor as Amara</li><li>Sivu Nobongoza as Etienne</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Studiocanal Presents Amazon Channel</li></ul>\n</article>",
+   "t": "The Dinosaur Project (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:1239198": {
    "d": "My Dearest Señorita (2026): Drama/Romance film. Story: A young woman from a traditional family learns she's… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
@@ -390,6 +581,134 @@
    "t": "My Dearest Señorita (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:12598": {
+   "d": "Jo (1971): Comedy/Crime film. Story: A writer accidentally shoots his blackmailer and… See cast, TMDB rating 7.2/10, and release date 31 August 1971.",
+   "img": "https://image.tmdb.org/t/p/w780/2y6qnUaICupt4epIdanjgsEzhv9.jpg",
+   "industry": "world",
+   "k": "Jo, Jo movie, Jo cast, Jo story, Jo box office collection, Jo budget, Jo review, Jo rating, Jo release date, Jo Comedy, Jo Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis de Funès"
+     },
+     {
+      "@type": "Person",
+      "name": "Claude Gensac"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Galabru"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Blier"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Tréjan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Jo (1971): Comedy/Crime film. Story: A writer accidentally shoots his blackmailer and… See cast, TMDB rating 7.2/10, and release date 31 August 1971.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean Girault"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2y6qnUaICupt4epIdanjgsEzhv9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12598",
+    "name": "Jo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1971-08-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12598"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jo (1971)</h1>\n<p class=\"ssr-lead\">A writer accidentally shoots his blackmailer and tries to hide the body.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 1971</li><li>Runtime: 85 minutes</li><li>Director: Jean Girault</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 7.2/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis de Funès as Antoine Brisebard</li><li>Claude Gensac as Sylvie Brisebard</li><li>Michel Galabru as Tonelotti l&#x27;entrepreneur</li><li>Bernard Blier as Inspecteur Ducros</li><li>Guy Tréjan as Adrien Colas</li><li>Ferdy Mayne as Mr. Grunder</li><li>Yvonne Clech as Cécile Grunder</li><li>Florence Blot as Madame Cramusel</li><li>Micheline Luccioni as Françoise</li><li>Christiane Muller as Mathilde</li></ul>\n</article>",
+   "t": "Jo (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1971"
+  },
+  "movie:1266798": {
+   "d": "Dog 51 (2025): Thriller/Science Fiction film. Story: In the near future, Paris is divided into three zones… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+   "industry": "world",
+   "k": "Dog 51, Dog 51 movie, Dog 51 cast, Dog 51 story, Dog 51 box office collection, Dog 51 budget, Dog 51 review, Dog 51 rating, Dog 51 release date, Dog 51 trailer, Dog 51 Thriller, Dog 51 Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gilles Lellouche"
+     },
+     {
+      "@type": "Person",
+      "name": "Adèle Exarchopoulos"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Garrel"
+     },
+     {
+      "@type": "Person",
+      "name": "Romain Duris"
+     },
+     {
+      "@type": "Person",
+      "name": "Valeria Bruni Tedeschi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Dog 51 (2025): Thriller/Science Fiction film. Story: In the near future, Paris is divided into three zones… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cédric Jimenez"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Thriller",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1266798",
+    "name": "Dog 51",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1266798"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dog 51 (2025)</h1>\n<p class=\"ssr-lead\">In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 2025</li><li>Runtime: 100 minutes</li><li>Director: Cédric Jimenez</li><li>Genres: Thriller, Science Fiction, Action</li><li>TMDB rating: 6.2/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gilles Lellouche as Zem Brecht</li><li>Adèle Exarchopoulos as Salia Malberg</li><li>Louis Garrel as Jon Mafram</li><li>Romain Duris as Théo Rimarval</li><li>Valeria Bruni Tedeschi as Irina Mitrovna</li><li>Stéphane Bak as Cal</li><li>Hugo Dillon as Luc</li><li>Artus as Malik Bouzid</li><li>Mélanie Berthinier as Charline</li><li>Daphné Patakia as Amel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Dog 51 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1373198": {
    "d": "Twisted (2026): Horror/Thriller film. Story: Two millennial scammers hit the jackpot by… See cast, budget $93, and TMDB rating 4.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
@@ -453,6 +772,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Twisted (2026)</h1>\n<p class=\"ssr-lead\">Two millennial scammers hit the jackpot by sub-leasing luxury New York apartments they don&#x27;t own, but their lucrative scheme spirals out of control when they target a mysterious landlord who turns the scam back on them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 93 minutes</li><li>Director: Darren Lynn Bousman</li><li>Genres: Horror, Thriller</li><li>Budget: $93</li><li>TMDB rating: 4.5/10 (62 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Djimon Hounsou as Dr. Kezian</li><li>Lauren LaVera as Paloma</li><li>Mia Healey as Smith</li><li>Neal McDonough as Bradshaw</li><li>Alicia Witt as Rebecca</li><li>Gina Philips as Warricker</li><li>Prof as Crace</li><li>David Call as Tad</li><li>Michael Lombardi as Greg</li><li>Renes Rivera as Lenny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Twisted (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:14098": {
+   "d": "100 Feet (2008): Horror film. Story: After Marnie Watson kills her abusive husband in… See cast, budget $10M, TMDB rating 5.7/10, and release date 22 July 2008.",
+   "img": "https://image.tmdb.org/t/p/w780/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
+   "industry": "world",
+   "k": "100 Feet, 100 Feet movie, 100 Feet cast, 100 Feet story, 100 Feet box office collection, 100 Feet budget, 100 Feet review, 100 Feet rating, 100 Feet release date, 100 Feet Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Famke Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Cannavale"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Westwick"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Paré"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Charbonneau"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 358,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "100 Feet (2008): Horror film. Story: After Marnie Watson kills her abusive husband in… See cast, budget $10M, TMDB rating 5.7/10, and release date 22 July 2008.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Red"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14098",
+    "name": "100 Feet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-07-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14098"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>100 Feet (2008)</h1>\n<p class=\"ssr-lead\">After Marnie Watson kills her abusive husband in self-defense, she is condemned to house arrest... only to discover that the house is possessed by the enraged and violent spirit of her dead husband.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2008</li><li>Runtime: 105 minutes</li><li>Director: Eric Red</li><li>Genres: Horror</li><li>Budget: $10M</li><li>TMDB rating: 5.7/10 (358 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Famke Janssen as Marnie Watson</li><li>Bobby Cannavale as Shanks</li><li>Ed Westwick as Joey</li><li>Michael Paré as Mike Watson / The Ghost</li><li>Patricia Charbonneau as Frances</li><li>John Fallon as Jimmy</li><li>Kevin Geer as Father Pritchet</li><li>Tibor Pálffy as Homeless Man</li><li>Kembe Sorel as Patrolman</li><li>Evelyne Kandech as Patrolwoman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "100 Feet (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1412598": {
    "d": "Killer Whale (2026): Thriller/Horror film. Story: Follows best friends Maddie and Trish as they find… See cast and TMDB rating 5.2/10.",
@@ -773,6 +1155,138 @@
    "t": "Mexican Psycho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1698": {
+   "d": "Anatomy (2000): Horror/Thriller film. Story: Medical student Paula wins a place at an exclusive… See cast, TMDB rating 6.1/10, and release date 3 February 2000.",
+   "img": "https://image.tmdb.org/t/p/w780/6OzOuU2JE0lm11p0UEUm3dCiH3L.jpg",
+   "industry": "world",
+   "k": "Anatomy, Anatomy movie, Anatomy cast, Anatomy story, Anatomy box office collection, Anatomy budget, Anatomy review, Anatomy rating, Anatomy release date, Anatomy Horror, Anatomy Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Franka Potente"
+     },
+     {
+      "@type": "Person",
+      "name": "Benno Fürmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Loos"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Blomberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Holger Speckhahn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 343,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Anatomy (2000): Horror/Thriller film. Story: Medical student Paula wins a place at an exclusive… See cast, TMDB rating 6.1/10, and release date 3 February 2000.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stefan Ruzowitzky"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6OzOuU2JE0lm11p0UEUm3dCiH3L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1698",
+    "name": "Anatomy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-02-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Anatomy (2000)</h1>\n<p class=\"ssr-lead\">Medical student Paula wins a place at an exclusive Heidelberg medical school. When the body of a young man she met on the train turns up on her dissection table, she begins to investigate the mysterious circumstances surrounding his death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 February 2000</li><li>Runtime: 103 minutes</li><li>Director: Stefan Ruzowitzky</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.1/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Franka Potente as Paula</li><li>Benno Fürmann as Hein</li><li>Anna Loos as Gretchen</li><li>Sebastian Blomberg as Caspar</li><li>Holger Speckhahn as Phil</li><li>Traugott Buhre as Prof. Grombek</li><li>Oliver Wnuk as Ludwig</li><li>Arndt Schwering-Sohnrey as David</li><li>Andreas Guenther as Franz</li><li>Antonia Holfelder as Gabi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Anatomy (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
+  "movie:18298": {
+   "d": "The Three Kings (2001): Comedy/Adventure film. Story: The Three Wise Men – Balthazar, Melchior and Gaspard… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/417ACqYWlwc6RzgVhO4B5xRgZ0C.jpg",
+   "industry": "world",
+   "k": "The Three Kings, The Three Kings movie, The Three Kings cast, The Three Kings story, The Three Kings box office collection, The Three Kings budget, The Three Kings review, The Three Kings rating, The Three Kings release date, The Three Kings Comedy, The Three Kings Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Didier Bourdon"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Campan"
+     },
+     {
+      "@type": "Person",
+      "name": "Pascal Légitimus"
+     },
+     {
+      "@type": "Person",
+      "name": "Virginie de Clausade"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Roussel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 356,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Three Kings (2001): Comedy/Adventure film. Story: The Three Wise Men – Balthazar, Melchior and Gaspard… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Didier Bourdon"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Campan"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/417ACqYWlwc6RzgVhO4B5xRgZ0C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18298",
+    "name": "The Three Kings",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18298"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Three Kings (2001)</h1>\n<p class=\"ssr-lead\">The Three Wise Men – Balthazar, Melchior and Gaspard – are on their way to Bethlehem to pay homage to the infant Jesus when they are suddenly, an inexplicably, transported two thousand years into the future. They find themselves walking the streets of Paris, where they encounter a young woman called Macha who, they are convinced, will lead them to the newborn Messiah.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2001</li><li>Runtime: 102 minutes</li><li>Director: Didier Bourdon, Bernard Campan</li><li>Genres: Comedy, Adventure, Fantasy</li><li>TMDB rating: 5.7/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Didier Bourdon as Balthazar</li><li>Bernard Campan as Melchior</li><li>Pascal Légitimus as Gaspard</li><li>Virginie de Clausade as Macha</li><li>Nathalie Roussel as la mère de Macha</li><li>Claude Brosset as Hoeder</li><li>Didier Flamand as l&#x27;ami de la mère</li><li>Walid Afkir as Jo</li><li>Christophe Hémon as Guillaume</li><li>Colette Maire as La concierge de Macha</li></ul>\n</article>",
+   "t": "The Three Kings (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:18898": {
    "d": "Looking for Eric (2009): Drama/Comedy film. Story: Middle-aged postman and football fan Eric Bishop… See cast, budget $6M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
@@ -836,6 +1350,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Looking for Eric (2009)</h1>\n<p class=\"ssr-lead\">Middle-aged postman and football fan Eric Bishop struggles with his increasingly chaotic existence, but receives some life coaching from the famously philosophical Éric Cantona.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2009</li><li>Runtime: 116 minutes</li><li>Director: Ken Loach</li><li>Genres: Drama, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 6.5/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Evets as Eric Bishop</li><li>Éric Cantona as Éric Cantona</li><li>Stephanie Bishop as Lily</li><li>Gerard Kearns as Ryan</li><li>Stefan Gumbs as Jess</li><li>Lucy-Jo Hudson as Sam</li><li>Cole Williams as Daisy</li><li>Dylan Williams as Daisy</li><li>Matthew McNulty as Young Eric</li><li>Laura Ainsworth as Young Lily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "Looking for Eric (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:19698": {
+   "d": "Porky's II: The Next Day (1983): Comedy film. Story: When the students of Angel Beach High decide to stage… See cast, budget $6.5M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y3jFTq9K46XeQzEXqo1QXpmhXmY.jpg",
+   "industry": "world",
+   "k": "Porky's II: The Next Day, Porky's II: The Next Day movie, Porky's II: The Next Day cast, Porky's II: The Next Day story, Porky's II: The Next Day box office collection, Porky's II: The Next Day budget, Porky's II: The Next Day review, Porky's II: The Next Day rating, Porky's II: The Next Day release date, Porky's II: The Next Day Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dan Monahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Wyatt Knight"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Herrier"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Cyril O'Reilly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Porky's II: The Next Day (1983): Comedy film. Story: When the students of Angel Beach High decide to stage… See cast, budget $6.5M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bob Clark"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y3jFTq9K46XeQzEXqo1QXpmhXmY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19698",
+    "name": "Porky's II: The Next Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Porky&#x27;s II: The Next Day (1983)</h1>\n<p class=\"ssr-lead\">When the students of Angel Beach High decide to stage &quot;An Evening With Shakespeare,&quot; their efforts are threatened by Miss Balbricker, who views the works of Shakespeare as obscene. She enlists the help of Reverend Bubba Flavel, a religious fanatic who brings along his flock of followers to pressure the school into shutting down the production.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 1983</li><li>Runtime: 98 minutes</li><li>Director: Bob Clark</li><li>Genres: Comedy</li><li>Budget: $6.5M</li><li>TMDB rating: 5.7/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dan Monahan as Pee Wee</li><li>Wyatt Knight as Tommy</li><li>Mark Herrier as Billy</li><li>Roger Wilson as Mickey</li><li>Cyril O&#x27;Reilly as TIm</li><li>Tony Ganios as Meat</li><li>Kaki Hunter as Wendy</li><li>Scott Colomby as Brian</li><li>Nancy Parsons as Balbricker</li><li>Joseph Runningfox as John Henry (as Joseph Runningfox)</li></ul>\n</article>",
+   "t": "Porky's II: The Next Day (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
+  },
+  "movie:26198": {
+   "d": "The Keep (1983): Horror/Fantasy film. Story: Set during World War II, a German army garrison is… See cast, budget $6M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yqDKFfyMnhmiXJgLHYeykU0iKqC.jpg",
+   "industry": "world",
+   "k": "The Keep, The Keep movie, The Keep cast, The Keep story, The Keep box office collection, The Keep budget, The Keep review, The Keep rating, The Keep release date, The Keep trailer, The Keep Horror, The Keep Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Glenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Alberta Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jürgen Prochnow"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Prosky"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Byrne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 348,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Keep (1983): Horror/Fantasy film. Story: Set during World War II, a German army garrison is… See cast, budget $6M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Mann"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yqDKFfyMnhmiXJgLHYeykU0iKqC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26198",
+    "name": "The Keep",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26198"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Keep (1983)</h1>\n<p class=\"ssr-lead\">Set during World War II, a German army garrison is sent to guard a mountain pass in a village in Romania&#x27;s Carpathian mountains and sets up barracks in an ancient stone fortress. Two of the soldiers unwittingly release a mysterious entity that kills or corrupts those within its influence, drawing the attention of a Gestapo commander, a Jewish scholar, and a mysterious traveller.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 1983</li><li>Runtime: 96 minutes</li><li>Director: Michael Mann</li><li>Genres: Horror, Fantasy</li><li>Budget: $6M</li><li>TMDB rating: 5.6/10 (348 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Glenn as Glaeken Trismegestus</li><li>Alberta Watson as Eva Cuza</li><li>Jürgen Prochnow as Captain Klaus Woermann</li><li>Robert Prosky as Father Mihail Fonescu</li><li>Gabriel Byrne as Major Kaempffer</li><li>Ian McKellen as Dr. Theodore Cuza</li><li>William Morgan Sheppard as Alexandru</li><li>Royston Tickner as Tomescu</li><li>Michael Carter as Radu Molasar</li><li>John Vine as Lutz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Keep (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
   },
   "movie:2998": {
    "d": "Zabriskie Point (1970): Drama film. Story: Anthropology student Daria, who's helping a property… See cast, budget $7M, and TMDB rating 7.0/10.",
@@ -1154,6 +1795,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Beatles: Eight Days a Week - The Touring Years (2016)</h1>\n<p class=\"ssr-lead\">The Beatles stormed through Europe&#x27;s music scene in 1963, and, in 1964, they conquered America. Their groundbreaking world tours changed global youth culture forever and, arguably, invented mass entertainment as we know it today. All the while, the group were composing and recording a series of extraordinarily successful singles and albums. However the relentless pressure of such unprecedented fame, that in 1966 became uncontrollable turmoil, led to the decision to stop touring. In the ensuing years The Beatles were then free to focus on a series of albums that changed the face of recorded music.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2016</li><li>Runtime: 106 minutes</li><li>Director: Ron Howard</li><li>Genres: Documentary, Music</li><li>Budget: $5</li><li>TMDB rating: 7.5/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul McCartney as Self</li><li>Ringo Starr as Self</li><li>John Lennon as Self (archive footage)</li><li>George Harrison as Self (archive footage)</li><li>Larry Kane as Self</li><li>Whoopi Goldberg as Self</li><li>Elvis Costello as Self</li><li>Suzy Eddie Izzard as Self</li><li>Sigourney Weaver as Self</li><li>Richard Lester as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
    "t": "The Beatles: Eight Days a Week - The Touring Years (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:401698": {
+   "d": "Hidden Kisses (2016): Drama/Romance film. Story: Nathan, 16, lives alone with his father Stephane. A… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3dzpw2dpLbB3goixNYJIB8jdaE1.jpg",
+   "industry": "world",
+   "k": "Hidden Kisses, Hidden Kisses movie, Hidden Kisses cast, Hidden Kisses story, Hidden Kisses box office collection, Hidden Kisses budget, Hidden Kisses review, Hidden Kisses rating, Hidden Kisses release date, Hidden Kisses Drama, Hidden Kisses Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Patrick Timsit"
+     },
+     {
+      "@type": "Person",
+      "name": "Bérenger Anceaux"
+     },
+     {
+      "@type": "Person",
+      "name": "Jules Houplain"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruno Putzulu"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Schulz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 341,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Hidden Kisses (2016): Drama/Romance film. Story: Nathan, 16, lives alone with his father Stephane. A… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Didier Bivel"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3dzpw2dpLbB3goixNYJIB8jdaE1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=401698",
+    "name": "Hidden Kisses",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=401698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hidden Kisses (2016)</h1>\n<p class=\"ssr-lead\">Nathan, 16, lives alone with his father Stephane. A newcomer in high school, he is invited to a party and falls in love with Louis, a boy in his class. They find themselves out of sight and kiss each other, but someone takes a picture of them. Soon, the photo is published on Facebook and a storm overtakes their lives as they face bullying and rejection.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2016</li><li>Runtime: 87 minutes</li><li>Director: Didier Bivel</li><li>Genres: Drama, Romance, TV Movie</li><li>TMDB rating: 7.4/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Patrick Timsit as Stéphane</li><li>Bérenger Anceaux as Nathan</li><li>Jules Houplain as Louis</li><li>Bruno Putzulu as Bruno</li><li>Barbara Schulz as Corinne</li><li>Catherine Jacob as Catherine</li><li>Lisa Kramarz as Laura</li><li>Nicolas Carpentier as Tristan</li><li>Clara Choï as Aude</li><li>Ingrid Donnadieu as La prof d&#x27;allemand</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Dekkoo, Here TV, Dekkoo Amazon Channel, Here TV Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "Hidden Kisses (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
   "movie:41498": {
@@ -1475,6 +2180,134 @@
    "t": "A Writer's Odyssey (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:6498": {
+   "d": "Nightwatch (1994): Horror/Thriller film. Story: Martin, a law student, takes up a job as a… See cast, TMDB rating 6.9/10, and release date 25 February 1994.",
+   "img": "https://image.tmdb.org/t/p/w780/2FAGeHcOOxviG3iNTFh4paFoJYM.jpg",
+   "industry": "world",
+   "k": "Nightwatch, Nightwatch movie, Nightwatch cast, Nightwatch story, Nightwatch box office collection, Nightwatch budget, Nightwatch review, Nightwatch rating, Nightwatch release date, Nightwatch trailer, Nightwatch Horror, Nightwatch Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nikolaj Coster-Waldau"
+     },
+     {
+      "@type": "Person",
+      "name": "Sofie Gråbøl"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Bodnia"
+     },
+     {
+      "@type": "Person",
+      "name": "Lotte Andersen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ulf Pilgaard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 351,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Nightwatch (1994): Horror/Thriller film. Story: Martin, a law student, takes up a job as a… See cast, TMDB rating 6.9/10, and release date 25 February 1994.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ole Bornedal"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2FAGeHcOOxviG3iNTFh4paFoJYM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6498",
+    "name": "Nightwatch",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6498"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nightwatch (1994)</h1>\n<p class=\"ssr-lead\">Martin, a law student, takes up a job as a nightwatchman at a mortuary to fund his studies. But the mortuary harbours a dark secret, and he has to find the truth before he is implicated in a serial murder case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 1994</li><li>Runtime: 107 minutes</li><li>Director: Ole Bornedal</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.9/10 (351 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikolaj Coster-Waldau as Martin</li><li>Sofie Gråbøl as Kalinka</li><li>Kim Bodnia as Jens</li><li>Lotte Andersen as Lotte</li><li>Ulf Pilgaard as Kommisæren</li><li>Rikke Louise Andersson as Joyce</li><li>Stig Hoffmeyer as Rolf</li><li>Gyrd Løfquist as Den gamle nattevagt</li><li>Niels Anders Thorn as Lægen</li><li>Leif Adolfsson as Teaterdirektøren</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Nightwatch (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
+  "movie:761898": {
+   "d": "Sword Art Online the Movie - Progressive - Aria of a Starless Night (2021): Animation/Action film.",
+   "img": "https://image.tmdb.org/t/p/w780/qKVOTKPPtvoXd75L1HOSBPLtKWS.jpg",
+   "industry": "world",
+   "k": "Sword Art Online the Movie - Progressive - Aria of a Starless Night, Sword Art Online the Movie - Progressive - Aria of a Starless Night movie, Sword Art Online the Movie - Progressive - Aria of a Starless Night cast, Sword Art Online the Movie - Progressive - Aria of a Starless Night story, Sword Art Online the Movie - Progressive - Aria of a Starless Night box office collection, Sword Art Online the Movie - Progressive - Aria of a Starless Night budget, Sword Art Online the Movie - Progressive - Aria of a Starless Night review, Sword Art Online the Movie - Progressive - Aria of a Starless Night rating, Sword Art Online the Movie - Progressive - Aria of a Starless Night release date, Sword Art Online the Movie - Progressive - Aria of a Starless Night trailer, Sword Art Online the Movie - Progressive - Aria of a Starless Night Animation, Sword Art Online the Movie - Progressive - Aria of a Starless Night Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yoshitsugu Matsuoka"
+     },
+     {
+      "@type": "Person",
+      "name": "Haruka Tomatsu"
+     },
+     {
+      "@type": "Person",
+      "name": "Inori Minase"
+     },
+     {
+      "@type": "Person",
+      "name": "Koichi Yamadera"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroki Yasumoto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Sword Art Online the Movie - Progressive - Aria of a Starless Night (2021): Animation/Action film.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ayako Kono"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qKVOTKPPtvoXd75L1HOSBPLtKWS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=761898",
+    "name": "Sword Art Online the Movie - Progressive - Aria of a Starless Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=761898"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sword Art Online the Movie - Progressive - Aria of a Starless Night (2021)</h1>\n<p class=\"ssr-lead\">Asuna Yuuki had never played online games until accidentally putting on the NerveGear for Sword Art Online, the world’s first VRMMORPG. She soon finds herself and other players trapped inside a game, where if a player dies in the game, they die in the real world. As she continues to live on in this world where death is always a step away, a solitary swordsman named Kirito appears before her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2021</li><li>Runtime: 97 minutes</li><li>Director: Ayako Kono</li><li>Genres: Animation, Action, Fantasy, Science Fiction</li><li>TMDB rating: 7.9/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoshitsugu Matsuoka as Kirito (voice)</li><li>Haruka Tomatsu as Asuna &#x27;Asuna&#x27; Yuuki (voice)</li><li>Inori Minase as Misumi &#x27;Mito&#x27; Tozawa (voice)</li><li>Koichi Yamadera as Akihiko Kayaba (voice)</li><li>Hiroki Yasumoto as Agil (voice)</li><li>Nobuyuki Hiyama as Diabel (voice)</li><li>Rina Hidaka as Silica (voice)</li><li>Ryusei Nakao as Mito Avatar (Voice)</li><li>Tomokazu Seki as Kibaou (voice)</li><li>Shiori Izawa as Argo (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Sword Art Online the Movie - Progressive - Aria of a Starless Night (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:785398": {
    "d": "EO (2022): Drama/Adventure film. Story: The world is a mysterious place when seen through the… See cast, TMDB rating 6.5/10, and release date 30 September 2022.",
    "img": "https://image.tmdb.org/t/p/w780/bdncpEiiH3C7OjzvIu07zl2zcTd.jpg",
@@ -1538,6 +2371,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>EO (2022)</h1>\n<p class=\"ssr-lead\">The world is a mysterious place when seen through the eyes of an animal. EO, a grey donkey with melancholic eyes, meets good and bad people on his life’s path, experiences joy and pain, endures the wheel of fortune randomly turn his luck into disaster and his despair into unexpected bliss. But not even for a moment does he lose his innocence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2022</li><li>Runtime: 88 minutes</li><li>Director: Jerzy Skolimowski</li><li>Genres: Drama, Adventure</li><li>TMDB rating: 6.5/10 (448 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Drzymalska as Kasandra</li><li>Isabelle Huppert as The Countess</li><li>Lorenzo Zurzolo as Vito</li><li>Mateusz Kościukiewicz as Mateo</li><li>Tomasz Organek as Ziom</li><li>Lolita Chammah as Dora</li><li>Agata Sasinowska as Kaja</li><li>Anna Rokita as Dorota</li><li>Michał Przybysławski as Zenek</li><li>Gloria Iradukunda as Zea</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "EO (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:8198": {
+   "d": "The Quiet American (2002): Romance/Thriller film. Story: Cynical British journalist Fowler falls in love with… See cast, budget $30M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fay6quwuE1sqGJ7R9I2PH5SNmTn.jpg",
+   "industry": "world",
+   "k": "The Quiet American, The Quiet American movie, The Quiet American cast, The Quiet American story, The Quiet American box office collection, The Quiet American budget, The Quiet American review, The Quiet American rating, The Quiet American release date, The Quiet American trailer, The Quiet American Romance, The Quiet American Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Đỗ Thị Hải Yến"
+     },
+     {
+      "@type": "Person",
+      "name": "Tzi Ma"
+     },
+     {
+      "@type": "Person",
+      "name": "Rade Šerbedžija"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 351,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Quiet American (2002): Romance/Thriller film. Story: Cynical British journalist Fowler falls in love with… See cast, budget $30M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phillip Noyce"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Romance",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fay6quwuE1sqGJ7R9I2PH5SNmTn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8198",
+    "name": "The Quiet American",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8198"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Quiet American (2002)</h1>\n<p class=\"ssr-lead\">Cynical British journalist Fowler falls in love with a young Vietnamese woman but is dismayed when a naïve U.S. official also begins vying for her attention. In retaliation, Fowler informs the communists that the American is selling arms to their enemy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2002</li><li>Runtime: 101 minutes</li><li>Director: Phillip Noyce</li><li>Genres: Romance, Thriller, Drama, War</li><li>Budget: $30M</li><li>TMDB rating: 6.6/10 (351 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Caine as Thomas Fowler</li><li>Brendan Fraser as Alden Pyle</li><li>Đỗ Thị Hải Yến as Phuong</li><li>Tzi Ma as Hinh</li><li>Rade Šerbedžija as Inspector Vigot</li><li>Robert Stanton as Joe Tunney</li><li>Holmes Osborne as Bill Granger</li><li>Ngo Quang Hai as General Thế</li><li>Ferdinand Hoang as Mr. Muoi</li><li>Pham Thi Mai Hoa as Phuong&#x27;s Sister</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Quiet American (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:898": {
+   "d": "Birdman of Alcatraz (1962): Drama/Crime film. Story: After killing a prison guard, convict Robert Stroud… See cast, budget $2.65M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1J6QXImtqIQxiOdVTonLV5IbRwA.jpg",
+   "industry": "world",
+   "k": "Birdman of Alcatraz, Birdman of Alcatraz movie, Birdman of Alcatraz cast, Birdman of Alcatraz story, Birdman of Alcatraz box office collection, Birdman of Alcatraz budget, Birdman of Alcatraz review, Birdman of Alcatraz rating, Birdman of Alcatraz release date, Birdman of Alcatraz trailer, Birdman of Alcatraz Drama, Birdman of Alcatraz Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Burt Lancaster"
+     },
+     {
+      "@type": "Person",
+      "name": "Karl Malden"
+     },
+     {
+      "@type": "Person",
+      "name": "Thelma Ritter"
+     },
+     {
+      "@type": "Person",
+      "name": "Neville Brand"
+     },
+     {
+      "@type": "Person",
+      "name": "Betty Field"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Birdman of Alcatraz (1962): Drama/Crime film. Story: After killing a prison guard, convict Robert Stroud… See cast, budget $2.65M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Frankenheimer"
+     }
+    ],
+    "duration": "PT147M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1J6QXImtqIQxiOdVTonLV5IbRwA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=898",
+    "name": "Birdman of Alcatraz",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1962-07-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=898"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Birdman of Alcatraz (1962)</h1>\n<p class=\"ssr-lead\">After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud&#x27;s life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 July 1962</li><li>Runtime: 147 minutes</li><li>Director: John Frankenheimer</li><li>Genres: Drama, Crime, History</li><li>Budget: $2.65M</li><li>TMDB rating: 7.4/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Lancaster as Robert Stroud</li><li>Karl Malden as Harvey Shoemaker</li><li>Thelma Ritter as Elizabeth Stroud</li><li>Neville Brand as Bull Ransom</li><li>Betty Field as Stella Johnson</li><li>Telly Savalas as Feto Gomez</li><li>Edmond O&#x27;Brien as Tom Gaddis</li><li>Hugh Marlowe as Roy Comstock</li><li>Whit Bissell as Dr. Ellis</li><li>Crahan Denton as Kramer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Birdman of Alcatraz (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1962"
   },
   "tv:1398": {
    "d": "The Sopranos (1999) is a Crime and Drama TV series. Explore its story: The story of New Jersey-based Italian-American…, cast, 6 seasons, and 86 episodes.",

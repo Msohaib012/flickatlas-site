@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 48,
+ "count": 53,
  "titles": {
   "movie:10945": {
    "backdrop_path": "/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
@@ -1655,6 +1655,189 @@
    "vote_average": 7.577,
    "vote_count": 392
   },
+  "movie:336445": {
+   "backdrop_path": "/80EyJ7GHK4rCJTQdw9j7fu3kR6n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gary Faulkner",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Marci",
+     "n": "Wendi McLendon-Covey"
+    },
+    {
+     "c": "God",
+     "n": "Russell Brand"
+    },
+    {
+     "c": "Agent Simons",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "Agent Doss",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Pickles",
+     "n": "Paul Scheer"
+    },
+    {
+     "c": "Airline Employee Lady",
+     "n": "Fiona Vroom"
+    },
+    {
+     "c": "Nurse",
+     "n": "Hilary Jardine"
+    },
+    {
+     "c": "Roy",
+     "n": "Will Sasso"
+    },
+    {
+     "c": "Harbour Patrol Officer",
+     "n": "Lauren McGibbon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Larry Charles"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 336445,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gary Faulkner is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.",
+   "popularity": 1.5708,
+   "poster_path": "/tUmo47WFeFRIQktGXYxWnSZXO6P.jpg",
+   "production_countries": [
+    "US",
+    "AU",
+    "MA"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-12-15",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One Man's Wildly True Quest To Capture Osama Bin Laden",
+   "title": "Army of One",
+   "trailer": {
+    "key": "HjRqok3v72U",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 346
+  },
   "movie:336845": {
    "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
    "budget": 0,
@@ -2280,6 +2463,134 @@
    "vote_average": 7.27,
    "vote_count": 455
   },
+  "movie:39145": {
+   "backdrop_path": "/a7yu3kFNsKuDdXlpcElBvBvaoIk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Kuririn (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Lucifer (voice)",
+     "n": "Nachi Nozawa"
+    },
+    {
+     "c": "Bulma (voice)",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "Yamucha (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Puar (voice)",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "Oolong (voice)",
+     "n": "Naoki Tatsuta"
+    },
+    {
+     "c": "Shitsuji (voice)",
+     "n": "Shozo Iizuka"
+    },
+    {
+     "c": "Ghastel (voice) / Kame (voice)",
+     "n": "Daisuke Gori"
+    },
+    {
+     "c": "Kame Sennin (voice)",
+     "n": "Kohei Miyauchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Daisuke Nishio"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 39145,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Goku and Kuririn are given an assignment by Kame-Sen'nin: \"Retrieve the sleeping princess from Lucifer and I will take you as my students.\" But the mission proves to be more perilous than originally thought.",
+   "popularity": 2.5583,
+   "poster_path": "/8UpsSq1MxRfIPDvyqjLLHXzfR5W.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-07-18",
+   "revenue": 0,
+   "runtime": 45,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dragon Ball: Sleeping Princess in Devil's Castle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.715,
+   "vote_count": 342
+  },
   "movie:39345": {
    "backdrop_path": "/uwCB4AzJlhnzy3EAezzcMETWMB0.jpg",
    "budget": 0,
@@ -2575,6 +2886,235 @@
    "type": "movie",
    "vote_average": 6.723,
    "vote_count": 444
+  },
+  "movie:438145": {
+   "backdrop_path": "/qVYryTA9Tcyu1Sf1gES7xBkDv6y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hannah",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Feeney",
+     "n": "James Frecheville"
+    },
+    {
+     "c": "Conneely",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Pope",
+     "n": "Freddie Fox"
+    },
+    {
+     "c": "Hobson",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Fitzgibbon",
+     "n": "Moe Dunford"
+    },
+    {
+     "c": "Ellie",
+     "n": "Sarah Greene"
+    },
+    {
+     "c": "Lord Kilmichael",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Bolton",
+     "n": "Dermot Crowley"
+    },
+    {
+     "c": "Coyne",
+     "n": "Ruairí Heading"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lance Daly"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 438145,
+   "industry": "world",
+   "origin_country": [
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "In 1847, when Ireland is in the grip of the Great Famine that has ravaged the country for two long years, Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, returns home to reunite with his estranged family, only to discover the cruelest reality, a black land where death reigns.",
+   "popularity": 2.2722,
+   "poster_path": "/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg",
+   "production_countries": [
+    "BE",
+    "IE",
+    "LU"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-05",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ga",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In Ireland’s darkest hour vengeance shines a light",
+   "title": "Black '47",
+   "trailer": {
+    "key": "q1W1DLwg3lk",
+    "name": "BLACK 47 Official Irish and UK Trailer (2018)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 350
   },
   "movie:489245": {
    "backdrop_path": "/O7GlRZ6nN1rqUXSkHbnXGjn6nl.jpg",
@@ -3302,6 +3842,131 @@
    "vote_average": 8.3,
    "vote_count": 1048
   },
+  "movie:703745": {
+   "backdrop_path": "/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Emma Collins",
+     "n": "Tania Raymonde"
+    },
+    {
+     "c": "Richard Lowell",
+     "n": "Nathaniel Buzolic"
+    },
+    {
+     "c": "Eugene Shaw",
+     "n": "Emerson Brooks"
+    },
+    {
+     "c": "Lucas",
+     "n": "Bren Foster"
+    },
+    {
+     "c": "Miya",
+     "n": "Reina Aoi"
+    },
+    {
+     "c": "Spin",
+     "n": "Alexander Bhat"
+    },
+    {
+     "c": "Bahari",
+     "n": "Siya Mayola"
+    },
+    {
+     "c": "Nandi",
+     "n": "Avumile Qongqo"
+    },
+    {
+     "c": "Brown",
+     "n": "Brashaad Mayweather"
+    },
+    {
+     "c": "Schill",
+     "n": "Ernest St.Clair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Pogue"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 703745,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a \"scientific\" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.",
+   "popularity": 2.6335,
+   "poster_path": "/bKthjUmxjHjvJK8FktFfQdmwP12.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-08-25",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Deadlier than ever.",
+   "title": "Deep Blue Sea 3",
+   "trailer": {
+    "key": "7pT7Hhpoemc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 374
+  },
   "movie:74945": {
    "backdrop_path": "/swdekl4vQJ0LOnjSZcmKUIUz26S.jpg",
    "budget": 0,
@@ -3518,6 +4183,121 @@
    "type": "movie",
    "vote_average": 5.963,
    "vote_count": 451
+  },
+  "movie:852445": {
+   "backdrop_path": "/rzz7TBviOvDgIeujt2h9GwxV0AJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michal",
+     "n": "Guillaume Canet"
+    },
+    {
+     "c": "Elise",
+     "n": "Laetitia Dosch"
+    },
+    {
+     "c": "Selma",
+     "n": "Patience Munchenbach"
+    },
+    {
+     "c": "Rescapée",
+     "n": "Felicia Talluto"
+    },
+    {
+     "c": "Deborah",
+     "n": "Marie Jung"
+    },
+    {
+     "c": "Karin",
+     "n": "Suliane Brahim"
+    },
+    {
+     "c": "William",
+     "n": "Martin Verset"
+    },
+    {
+     "c": "Tom",
+     "n": "Martial Rollin"
+    },
+    {
+     "c": "Volontaire secours",
+     "n": "Valentijn Dhaenens"
+    },
+    {
+     "c": "Infirmière belge",
+     "n": "Céline Groussard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Just Philippot"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Fantasy"
+   ],
+   "id": 852445,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "During a heat wave, strange clouds start pouring down acid rain, wreaking devastation and panic throughout France. In a world teetering on the edge, a girl and her divorced parents must join forces to confront and try to escape this climate catastrophe.",
+   "popularity": 2.2262,
+   "poster_path": "/6JrZMrk3ZlQFURI7nmKGMxnTUCs.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-20",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Acid",
+   "trailer": {
+    "key": "XeRo7qpNFxo",
+    "name": "ACID - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.632,
+   "vote_count": 378
   },
   "movie:9045": {
    "backdrop_path": "/dHjb0duA8MwjiMJykF7dLcEoKBm.jpg",

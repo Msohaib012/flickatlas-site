@@ -1,6 +1,6 @@
 {
  "bucket": "89",
- "count": 38,
+ "count": 42,
  "titles": {
   "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
@@ -154,6 +154,123 @@
    "type": "movie",
    "vote_average": 6.569,
    "vote_count": 495
+  },
+  "movie:11489": {
+   "backdrop_path": "/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosetta",
+     "n": "Émilie Dequenne"
+    },
+    {
+     "c": "Patron",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Riquet",
+     "n": "Fabrizio Rongione"
+    },
+    {
+     "c": "Mother",
+     "n": "Anne Yernaux"
+    },
+    {
+     "c": "Campground Manager",
+     "n": "Bernard Marbaix"
+    },
+    {
+     "c": "Head of Personnel",
+     "n": "Frédéric Bodson"
+    },
+    {
+     "c": "The Boss's Son",
+     "n": "Florian Delain"
+    },
+    {
+     "c": "First Saleswoman",
+     "n": "Christiane Dorval"
+    },
+    {
+     "c": "Second Saleswoman",
+     "n": "Mireille Bailly"
+    },
+    {
+     "c": "Mother's Boyfriend",
+     "n": "Thomas Gollas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jean-Pierre Dardenne",
+    "Luc Dardenne"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11489,
+   "industry": "world",
+   "origin_country": [
+    "BE"
+   ],
+   "original_language": "fr",
+   "overview": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
+   "popularity": 1.9644,
+   "poster_path": "/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-09-29",
+   "revenue": 266665,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Rosetta",
+   "trailer": {
+    "key": "woN2P4r65oA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.105,
+   "vote_count": 353
   },
   "movie:1155089": {
    "backdrop_path": "/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
@@ -1697,6 +1814,181 @@
    "vote_average": 6.7,
    "vote_count": 401
   },
+  "movie:25389": {
+   "backdrop_path": "/nfTkAIHLQ0XGVAxJefC8zX5yYrr.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Lawrence Woolsey",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Ruth Corday / Carole",
+     "n": "Cathy Moriarty"
+    },
+    {
+     "c": "Gene Loomis",
+     "n": "Simon Fenton"
+    },
+    {
+     "c": "Stan",
+     "n": "Omri Katz"
+    },
+    {
+     "c": "Sandra",
+     "n": "Lisa Jakub"
+    },
+    {
+     "c": "Sherry",
+     "n": "Kellie Martin"
+    },
+    {
+     "c": "Dennis Loomis",
+     "n": "Jesse Lee Soffer"
+    },
+    {
+     "c": "Anne Loomis",
+     "n": "Lucinda Jenney"
+    },
+    {
+     "c": "Harvey Starkweather",
+     "n": "James Villemaire"
+    },
+    {
+     "c": "Howard",
+     "n": "Robert Picardo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joe Dante"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 25389,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A showman introduces a small coastal town to a unique movie experience and capitalizes on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie.",
+   "popularity": 1.6474,
+   "poster_path": "/2S6FEhl4dpr5E0mj3sth0XxJQAu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-01-29",
+   "revenue": 9532895,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Lawrence Woolsey presents the end of civilization as we know it. Make that... Proudly Presents!",
+   "title": "Matinee",
+   "trailer": {
+    "key": "0GmhD-MnoQM",
+    "name": "Matinee (1993) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.697,
+   "vote_count": 347
+  },
   "movie:284289": {
    "backdrop_path": "/a0wiBOMVRkGaj5gjWFVJ2TTBLHB.jpg",
    "budget": 0,
@@ -2639,6 +2931,98 @@
    "vote_average": 6.429,
    "vote_count": 389
   },
+  "movie:5889": {
+   "backdrop_path": "/oKGaTHGcveMKUalGLmEIt5CUgNj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Azumi",
+     "n": "Aya Ueto"
+    },
+    {
+     "c": "Hyuga",
+     "n": "Kenji Kohashi"
+    },
+    {
+     "c": "Ukiha",
+     "n": "Hiroki Narimiya"
+    },
+    {
+     "c": "Amagi",
+     "n": "Takatoshi Kaneko"
+    },
+    {
+     "c": "Nagara",
+     "n": "Yuma Ishigaki"
+    },
+    {
+     "c": "Yura",
+     "n": "Yasuomi Sano"
+    },
+    {
+     "c": "Awa",
+     "n": "Shinji Suzuki"
+    },
+    {
+     "c": "Hiei",
+     "n": "Eita Nagayama"
+    },
+    {
+     "c": "Komoru",
+     "n": "Shogo Yamaguchi"
+    },
+    {
+     "c": "Nachi",
+     "n": "Shun Oguri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ryuhei Kitamura"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 5889,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In war-torn Japan, the Tokugawa Shogun, desperate to restore peace to his people, orders the assassination of the hostile warlords. A beautiful young woman is raised from birth with nine other orphans, to become an assassin. Her name is Azumi, the ultimate assassin.",
+   "popularity": 2.1929,
+   "poster_path": "/3pnMViIDP6whWXnTBq7ibQipSyS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2003-05-10",
+   "revenue": 0,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "From The Ravages of War Raises An Assassin.",
+   "title": "Azumi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 381
+  },
   "movie:645689": {
    "backdrop_path": "/wddNG1To5jUwmX8gwcGjZSpckwg.jpg",
    "budget": 11000000,
@@ -2872,6 +3256,111 @@
    "type": "movie",
    "vote_average": 5.902,
    "vote_count": 468
+  },
+  "movie:8289": {
+   "backdrop_path": "/dO8qUkabhQwBy8lPGawtvWQkdKd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arkady Renko",
+     "n": "William Hurt"
+    },
+    {
+     "c": "Jack Osborne",
+     "n": "Lee Marvin"
+    },
+    {
+     "c": "William Kirwill",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Iamskoy",
+     "n": "Ian Bannen"
+    },
+    {
+     "c": "Irina",
+     "n": "Joanna Pacula"
+    },
+    {
+     "c": "Pasha",
+     "n": "Michael Elphick"
+    },
+    {
+     "c": "Anton",
+     "n": "Richard Griffiths"
+    },
+    {
+     "c": "Pribluda",
+     "n": "Rikki Fulton"
+    },
+    {
+     "c": "General",
+     "n": "Alexander Knox"
+    },
+    {
+     "c": "Golodkin",
+     "n": "Alexei Sayle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Apted"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 8289,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Police Inspector Renko tries to solve the case of three bodies found in Moscow's Gorky Park but finds his attempts to solve the crime impeded by his superiors. Working on his own, Renko seeks out more information and stumbles across a conspiracy involving the highest levels of the government.",
+   "popularity": 2.1306,
+   "poster_path": "/xQFH7XlMk8pLPDzK5XVEj5McsRm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-12-15",
+   "revenue": 15856028,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Murder In Moscow",
+   "title": "Gorky Park",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.322,
+   "vote_count": 360
   },
   "movie:93289": {
    "backdrop_path": "/sf3LLFDjkZIABUnHi2tIY02az5r.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 36,
+ "count": 45,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -222,6 +222,147 @@
    "vote_average": 6.9,
    "vote_count": 412
   },
+  "movie:11037": {
+   "backdrop_path": "/mz4ozla1GGt2jgYNdqiS6lcNeTu.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Charles 'Chappy' Sinclair",
+     "n": "Louis Gossett Jr."
+    },
+    {
+     "c": "Doug Masters",
+     "n": "Jason Gedrick"
+    },
+    {
+     "c": "Minister of Defense Col. Akir Nakesh",
+     "n": "David Suchet"
+    },
+    {
+     "c": "Col. Ted Masters",
+     "n": "Tim Thomerson"
+    },
+    {
+     "c": "Reggie",
+     "n": "Larry B. Scott"
+    },
+    {
+     "c": "Elizabeth Masters",
+     "n": "Caroline Lagerfelt"
+    },
+    {
+     "c": "Tony",
+     "n": "Jerry Levine"
+    },
+    {
+     "c": "Milo Bazen",
+     "n": "Robbie Rist"
+    },
+    {
+     "c": "Knotcher",
+     "n": "Michael Bowen"
+    },
+    {
+     "c": "Matthew 'Matt' Masters",
+     "n": "Robert Jayne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sidney J. Furie"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 11037,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Doug's father, an Air Force Pilot, is shot down by MiGs belonging to a radical Middle Eastern state, no one seems able to get him out. Doug finds Chappy, an Air Force Colonel who is intrigued by the idea of sending in two fighters piloted by himself and Doug to rescue Doug's father after bombing the MiG base.",
+   "popularity": 2.3145,
+   "poster_path": "/h1qFAZkVusLf3zcArMCaLpnjg55.jpg",
+   "production_countries": [
+    "CA",
+    "IL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-01-17",
+   "revenue": 24159872,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Break the sound barrier.",
+   "title": "Iron Eagle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.597,
+   "vote_count": 362
+  },
   "movie:11337": {
    "backdrop_path": "/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
    "budget": 10000000,
@@ -330,6 +471,110 @@
    "type": "movie",
    "vote_average": 6.922,
    "vote_count": 483
+  },
+  "movie:11537": {
+   "backdrop_path": "/jPybVtmqT68Pw0LCLXeypViQPFh.jpg",
+   "budget": 92,
+   "cast": [
+    {
+     "c": "Chien Fu",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "The Beggar / Pai Chang Tien",
+     "n": "Simon Yuen Siu-Tien"
+    },
+    {
+     "c": "Master Shang Kuan Yin",
+     "n": "Hwang Jang-Lee"
+    },
+    {
+     "c": "Teacher Lee",
+     "n": "Dean Shek Tin"
+    },
+    {
+     "c": "Priest",
+     "n": "Roy Horan"
+    },
+    {
+     "c": "Master Chao Chi-Chih",
+     "n": "Fung Hak-on"
+    },
+    {
+     "c": "Master Hung",
+     "n": "Charlie Chan Yiu-Lam"
+    },
+    {
+     "c": "Three Provinces Champ",
+     "n": "Tino Wong"
+    },
+    {
+     "c": "Teacher Lian",
+     "n": "Peter Chan Lung"
+    },
+    {
+     "c": "Su Chen",
+     "n": "Hsu Hsia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Yuen Woo-ping"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 11537,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Everyone abuses and humiliates a downtrodden orphan until he befriends an old man, who turns out to be the last master of the snake fist fighting style. Jackie becomes the old man's student and finds himself in battle with the master of the eagle's claw style, who has vowed to destroy the snake fist clan.",
+   "popularity": 3.3834,
+   "poster_path": "/oCt4990zVSNILSU0Q6DStmdbpIA.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1978-03-01",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Snake in the Eagle's Shadow",
+   "trailer": {
+    "key": "YdQ_7mhfqNw",
+    "name": "88 Films Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.299,
+   "vote_count": 383
   },
   "movie:1242937": {
    "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
@@ -776,6 +1021,198 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 32
+  },
+  "movie:13637": {
+   "backdrop_path": "/qjiiIuv1SkMPFbskL0FbZyd3dUj.jpg",
+   "budget": 3800000,
+   "cast": [
+    {
+     "c": "Gunman",
+     "n": "Hideaki Ito"
+    },
+    {
+     "c": "Kiyomori",
+     "n": "Koichi Sato"
+    },
+    {
+     "c": "Yoshitsune",
+     "n": "Yusuke Iseya"
+    },
+    {
+     "c": "Ruriko",
+     "n": "Kaori Momoi"
+    },
+    {
+     "c": "Sheriff",
+     "n": "Teruyuki Kagawa"
+    },
+    {
+     "c": "Village Mayor",
+     "n": "Takaaki Ishibashi"
+    },
+    {
+     "c": "Yoichi",
+     "n": "Masanobu Ando"
+    },
+    {
+     "c": "Shizuka",
+     "n": "Yoshino Kimura"
+    },
+    {
+     "c": "Shigemori",
+     "n": "Masato Sakai"
+    },
+    {
+     "c": "Akira",
+     "n": "Shun Oguri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Takashi Miike"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Comedy",
+    "Western",
+    "Thriller"
+   ],
+   "id": 13637,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A nameless gunfighter arrives in a town ripped apart by rival gangs and, though courted by both to join, chooses his own path.",
+   "popularity": 2.2221,
+   "poster_path": "/tnB7lpBknu510z9ATWbfpamPKZa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-09-15",
+   "revenue": 2725258,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sukiyaki Western Django",
+   "trailer": {
+    "key": "5BjjQQKIbjU",
+    "name": "Sukiyaki Western Django - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.195,
+   "vote_count": 376
   },
   "movie:1378537": {
    "backdrop_path": "/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
@@ -1436,6 +1873,167 @@
    "vote_average": 7.881,
    "vote_count": 485
   },
+  "movie:17037": {
+   "backdrop_path": "/2fP8yZHl3FxJUouMCTBqTnSUrno.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Jake",
+     "n": "Jonathan Taylor Thomas"
+    },
+    {
+     "c": "Allie",
+     "n": "Jessica Biel"
+    },
+    {
+     "c": "Eddie",
+     "n": "Adam LaVorgna"
+    },
+    {
+     "c": "Jake's Dad",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Carolyn",
+     "n": "Eve Gordon"
+    },
+    {
+     "c": "Tracey",
+     "n": "Lauren Maltby"
+    },
+    {
+     "c": "Nolan",
+     "n": "Andrew Lauer"
+    },
+    {
+     "c": "Max",
+     "n": "Sean O'Bryan"
+    },
+    {
+     "c": "Marjorie",
+     "n": "Lesley Boone"
+    },
+    {
+     "c": "Tom Tom Girl Mary",
+     "n": "Amzie Strickland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Arlene Sanford"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 17037,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Estranged from his father, college student Jake is lured home to New York for Christmas with the promise of receiving a classic Porsche as a gift. When the bullying football team dumps him in the desert in a Santa suit, Jake is left without identification or money to help him make the journey. Meanwhile, his girlfriend, Allie, does not know where he is, and accepts a cross-country ride from Jake's rival, Eddie.",
+   "popularity": 2.9342,
+   "poster_path": "/9hTYFvEDnajUIbpdfc3fO6bZq2Y.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-11-13",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Somewhere between L.A. and N.Y. Jake found the meaning of Christmas.",
+   "title": "I'll Be Home for Christmas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 367
+  },
   "movie:23637": {
    "backdrop_path": "/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
    "budget": 0,
@@ -1523,6 +2121,280 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 408
+  },
+  "movie:25137": {
+   "backdrop_path": "/a2NwfaoYCga2NhCIJkCN1fyZGM1.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "C.J. Nicholas",
+     "n": "Jesse Metcalfe"
+    },
+    {
+     "c": "Ella Crystal",
+     "n": "Amber Tamblyn"
+    },
+    {
+     "c": "Mark Hunter",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Corey Finley",
+     "n": "Joel David Moore"
+    },
+    {
+     "c": "Ben Nickerson",
+     "n": "Orlando Jones"
+    },
+    {
+     "c": "Lieutenant Merchant",
+     "n": "Lawrence P. Beron"
+    },
+    {
+     "c": "Martin Weldon",
+     "n": "Sewell Whitney"
+    },
+    {
+     "c": "Gary Spota",
+     "n": "David Jensen"
+    },
+    {
+     "c": "Judge Sheppard",
+     "n": "Sharon K. London"
+    },
+    {
+     "c": "Taieesha",
+     "n": "Krystal Kofie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Hyams"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 25137,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Remake of a 1956 Fritz Lang film in which a novelist's investigation of a dirty district attorney leads to a setup within the courtroom.",
+   "popularity": 2.1115,
+   "poster_path": "/uZvWmX3fhjnlIbiou5ziR6aVN7b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-02-05",
+   "revenue": 4388563,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Why would a man frame himself... for murder?",
+   "title": "Beyond a Reasonable Doubt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.713,
+   "vote_count": 361
+  },
+  "movie:284537": {
+   "backdrop_path": "/dtgSkyamABSVFbZhJNl4e5SX6VL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Klieg",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Rich Ruskin",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Gina Selway",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Gabe Ruskin",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Deb Moseley",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Ted Thurber",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Dr. Daryl Moffet",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Dawn Hurley",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Rainer Ybarra",
+     "n": "Thomas Mann"
+    },
+    {
+     "c": "Connie",
+     "n": "Rose Abdoo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shira Piven"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 284537,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A year in the life of Alice Klieg, a woman with Borderline personality disorder who wins the Mega Millions lottery, quits her meds and buys her own talk show.",
+   "popularity": 1.1057,
+   "poster_path": "/pwFJAUPtB5MT9ekuOLcwEFklvFr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-05-01",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Alice is going to be on TV whether you like it or not.",
+   "title": "Welcome to Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 352
   },
   "movie:348537": {
    "backdrop_path": "/rvMBDR182O8S3CqXymi7GwX1ekF.jpg",
@@ -2037,6 +2909,151 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 399
+  },
+  "movie:46837": {
+   "backdrop_path": "/kPsmN62vFuJD3FjFIRZXO84tKQI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Smith",
+     "n": "Thomas Dekker"
+    },
+    {
+     "c": "Stella",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Thor",
+     "n": "Chris Zylka"
+    },
+    {
+     "c": "Lorelei",
+     "n": "Roxane Mesquida"
+    },
+    {
+     "c": "London",
+     "n": "Juno Temple"
+    },
+    {
+     "c": "The Messiah",
+     "n": "James Duval"
+    },
+    {
+     "c": "Rex",
+     "n": "Andy Fischer-Price"
+    },
+    {
+     "c": "Drug Fairy Nymph (uncredited)",
+     "n": "Brandy Futch"
+    },
+    {
+     "c": "Red-Haired Girl",
+     "n": "Nicole LaLiberte"
+    },
+    {
+     "c": "Nicole",
+     "n": "Kelly Lynch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gregg Araki"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 46837,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Smith, a typical young college student who likes partying and engaging in acts of random sex and debauchery, has been having some interesting dreams revolving around two gorgeous women -- and is shocked when he meets the dream girls in real life. Lorelei looks just like his fantasy brunette, while a mysterious red-haired girl being chased by assassins draws him into an international conspiracy. Or is it all just a drug-induced hallucination?",
+   "popularity": 1.6379,
+   "poster_path": "/vIbX9X6lMdbdqYfuxxsHvi9n01v.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-06",
+   "revenue": 635162,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Blow your mind.",
+   "title": "Kaboom",
+   "trailer": {
+    "key": "dBnEggAMznM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 374
   },
   "movie:50037": {
    "backdrop_path": "/ax9TM12FIYiEPOto4vDw5gLdGCU.jpg",
@@ -2629,6 +3646,134 @@
    "vote_average": 7.9,
    "vote_count": 386
   },
+  "movie:751237": {
+   "backdrop_path": "/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Amanda",
+     "n": "Sandra Oh"
+    },
+    {
+     "c": "Chris",
+     "n": "Fivel Stewart"
+    },
+    {
+     "c": "Danny",
+     "n": "Dermot Mulroney"
+    },
+    {
+     "c": "River",
+     "n": "Odeya Rush"
+    },
+    {
+     "c": "Umma",
+     "n": "MeeWha Alana Lee"
+    },
+    {
+     "c": "Mr. Kang",
+     "n": "Tom Yi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Iris K. Shim"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 751237,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.",
+   "popularity": 2.3772,
+   "poster_path": "/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-18",
+   "revenue": 2100000,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "A mother's love never dies",
+   "title": "Umma",
+   "trailer": {
+    "key": "QQdXvvtu-iI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.269,
+   "vote_count": 342
+  },
   "movie:801937": {
    "backdrop_path": "/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
    "budget": 0,
@@ -2752,6 +3897,160 @@
    "type": "movie",
    "vote_average": 6.546,
    "vote_count": 217
+  },
+  "movie:945937": {
+   "backdrop_path": "/zX0q1hPRon0SAIcRmTum06Khjll.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Charlie Swift",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Marcie Kramer",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Stan Mullen",
+     "n": "James Caan"
+    },
+    {
+     "c": "Beggar",
+     "n": "Gbenga Akinnagbe"
+    },
+    {
+     "c": "Lloyd 'The Freak' Mercury",
+     "n": "Christopher Matthew Cook"
+    },
+    {
+     "c": "Milt",
+     "n": "David Chattam"
+    },
+    {
+     "c": "Benny",
+     "n": "Toby Huss"
+    },
+    {
+     "c": "Sal",
+     "n": "Fredric Lehne"
+    },
+    {
+     "c": "Mavis",
+     "n": "Sharon Gless"
+    },
+    {
+     "c": "Blade",
+     "n": "Brennan Keel Cook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Phillip Noyce"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 945937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.",
+   "popularity": 3.0489,
+   "poster_path": "/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-18",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Keep your friends close and your enemies dead.",
+   "title": "Fast Charlie",
+   "trailer": {
+    "key": "geZ-0zEHx60",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.341,
+   "vote_count": 380
   },
   "tv:12637": {
    "backdrop_path": "/coHgKyLRwhbMktEWr6dwSYUg2BH.jpg",

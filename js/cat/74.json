@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 38,
+ "count": 48,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -311,6 +311,191 @@
    "vote_average": 6.713,
    "vote_count": 497
   },
+  "movie:1127674": {
+   "backdrop_path": "/xvUHdXIqRBOdjdebWPWBHTEQ6p7.jpg",
+   "budget": 18218260,
+   "cast": [
+    {
+     "c": "Mei",
+     "n": "Liu Yaxi"
+    },
+    {
+     "c": "Marcello",
+     "n": "Enrico Borello"
+    },
+    {
+     "c": "Annibale",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Lorena",
+     "n": "Sabrina Ferilli"
+    },
+    {
+     "c": "Wang",
+     "n": "Chunyu Shanshan"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Luca Zingaretti"
+    },
+    {
+     "c": "Santi",
+     "n": "Tomal Islam"
+    },
+    {
+     "c": "Yun",
+     "n": "Miki Yeung Oi-Gan"
+    },
+    {
+     "c": "Cip",
+     "n": "Claudio Pallitto"
+    },
+    {
+     "c": "Cioppe",
+     "n": "Daniele Mosca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Mainetti"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1127674,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The son of an indebted restaurant owner joins a foreign girl in search of her sister. Together, they’ll have to fight side by side against the most ruthless members of the Roman criminal underworld.",
+   "popularity": 1.6366,
+   "poster_path": "/44ifThrLAZQST7OTcibqTwNuDA5.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-03-13",
+   "revenue": 1457292,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Vengeance is her destiny.",
+   "title": "The Forbidden City",
+   "trailer": {
+    "key": "E02CbJ9dCQY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.925,
+   "vote_count": 365
+  },
   "movie:1175174": {
    "backdrop_path": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
    "budget": 0,
@@ -489,6 +674,125 @@
    "type": "movie",
    "vote_average": 6.555,
    "vote_count": 246
+  },
+  "movie:121674": {
+   "backdrop_path": "/55zGKBnKQJ4JV7fZyXE2XsDAuJS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Philip 'Pip' Pirrip",
+     "n": "Jeremy Irvine"
+    },
+    {
+     "c": "Miss Havisham",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Abel Magwitch",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Estella Havisham",
+     "n": "Holliday Grainger"
+    },
+    {
+     "c": "Mr. Jaggers",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Mrs. Joe",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Joe Gargery",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Wemmick",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Mr. Pumblechook",
+     "n": "David Walliams"
+    },
+    {
+     "c": "Molly",
+     "n": "Tamzin Outhwaite"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Newell"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 121674,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Orphan Pip discovers through lawyer Mr. Jaggers that a mysterious benefactor wishes to ensure that he becomes a gentleman. Reunited with his childhood patron, Miss Havisham, and his first love, the beautiful but emotionally cold Estella, he discovers that the elderly spinster has gone mad from having been left at the altar as a young woman, and has made her charge into a warped, unfeeling heartbreaker.",
+   "popularity": 2.0979,
+   "poster_path": "/z9eLxcsNOtoq4dTMDJwr79QR3xd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-30",
+   "revenue": 6202879,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for a life of great expectations.",
+   "title": "Great Expectations",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 361
   },
   "movie:1361774": {
    "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
@@ -1153,6 +1457,140 @@
    "vote_average": 5.795,
    "vote_count": 66
   },
+  "movie:15674": {
+   "backdrop_path": "/3nJD6oMaLNRwa6QjHTqGZaxBu8X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sabrina Sawyer",
+     "n": "Melissa Joan Hart"
+    },
+    {
+     "c": "Aunt Hilda",
+     "n": "Sherry Miller"
+    },
+    {
+     "c": "Aunt Zelda",
+     "n": "Charlene Fernetz"
+    },
+    {
+     "c": "Marnie Littlefield",
+     "n": "Michelle Beaudoin"
+    },
+    {
+     "c": "Seth",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Harvey",
+     "n": "Tobias Mehler"
+    },
+    {
+     "c": "Katy Lemore",
+     "n": "Lalainia Lindbjerg"
+    },
+    {
+     "c": "Freddie",
+     "n": "Laura Harris"
+    },
+    {
+     "c": "Fran",
+     "n": "Kea Wong"
+    },
+    {
+     "c": "Coach",
+     "n": "Jo Bates"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tibor Takács"
+   ],
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy"
+   ],
+   "id": 15674,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A girl, sent by her parents to live with her two eccentric aunts, finds out on her sixteenth birthday that she is a witch.",
+   "popularity": 1.9775,
+   "poster_path": "/esmArJK1cb9xsWphfPWNREN6Gg6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-04-07",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Do homework, buy prom dress, learn how to fly.",
+   "title": "Sabrina the Teenage Witch",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.725,
+   "vote_count": 358
+  },
   "movie:15774": {
    "backdrop_path": "/AmRfsOyEXpVhnaYXZMoDlZd9Siq.jpg",
    "budget": 2900000,
@@ -1615,6 +2053,187 @@
    "vote_average": 7.3,
    "vote_count": 24
   },
+  "movie:207774": {
+   "backdrop_path": "/j6xyaXJO4oaE99QJGxggpeLbJ7j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Deacon",
+     "n": "Gordon Kennedy"
+    },
+    {
+     "c": "Mark",
+     "n": "Aidan McArdle"
+    },
+    {
+     "c": "Gray",
+     "n": "Robin Hill"
+    },
+    {
+     "c": "Father Crellick",
+     "n": "Luke Neal"
+    },
+    {
+     "c": "Father Calvino",
+     "n": "Patrick Godfrey"
+    },
+    {
+     "c": "Mr. Proudley",
+     "n": "Marcus Cunningham"
+    },
+    {
+     "c": "Mrs. Proudley",
+     "n": "Sarah Annis"
+    },
+    {
+     "c": "The Proudley’s Baby",
+     "n": "Dexter Alexander"
+    },
+    {
+     "c": "Punched Youth",
+     "n": "Drew Casson"
+    },
+    {
+     "c": "Priest",
+     "n": "Lee Arnold"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Elliot Goldner"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 207774,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vatican investigators are sent to the British West Country to investigate paranormal activity, and they find the events are more disturbing than they first imagined.",
+   "popularity": 1.7767,
+   "poster_path": "/dNtkysYSyE3FcUGbdkooDckD16Y.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-03-28",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil has a new form.",
+   "title": "The Borderlands",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.565,
+   "vote_count": 341
+  },
   "movie:2274": {
    "backdrop_path": "/lTxRQzTfGwApLoxQlRldgOIcx55.jpg",
    "budget": 45000000,
@@ -1767,6 +2386,365 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 460
+  },
+  "movie:231474": {
+   "backdrop_path": "/6jR6IZkX7USdRsAzoq7BTqKFgqP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paxton Flynn",
+     "n": "Robbie Amell"
+    },
+    {
+     "c": "Tripp Flynn",
+     "n": "Keenan Tracey"
+    },
+    {
+     "c": "Jordyn Flynn",
+     "n": "Michelle Forbes"
+    },
+    {
+     "c": "Mason Fuller",
+     "n": "Victor Garber"
+    },
+    {
+     "c": "Dylan Savini",
+     "n": "Alexa PenaVega"
+    },
+    {
+     "c": "Mai",
+     "n": "Kira Clavell"
+    },
+    {
+     "c": "Lahtasi",
+     "n": "Darryl Quon"
+    },
+    {
+     "c": "Waters",
+     "n": "Eric Breker"
+    },
+    {
+     "c": "Carter Flynn",
+     "n": "Dan Payne"
+    },
+    {
+     "c": "Dr Kramer",
+     "n": "Alex Zahara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Nisha Ganatra"
+   ],
+   "genres": [
+    "Adventure"
+   ],
+   "id": 231474,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Imagine if all mythical artifacts, from Jason's Golden Fleece to Cinderella's glass slippers, were real. Well, they are -- and for centuries, a secret society called the Hunters has been sworn to protect them from an evil force called the Krugen.",
+   "popularity": 1.5085,
+   "poster_path": "/ubR6x50z4aLflgzJcw7X7HflKKr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "AsianCrush"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oPEgKhJZjWEjCjySvwozKQyrNKi.png",
+     "name": "AsianCrush",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-10-25",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For centuries, a secret organization has protected the world's treasures... Meet the next generation.",
+   "title": "The Hunters",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.608,
+   "vote_count": 361
+  },
+  "movie:24274": {
+   "backdrop_path": "/zqNOCCVhZRjryQ7BcvpIHTY10Uf.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Sheriff Dan Gillis",
+     "n": "James Farentino"
+    },
+    {
+     "c": "Janet Gillis",
+     "n": "Melody Anderson"
+    },
+    {
+     "c": "William G. Dobbs",
+     "n": "Jack Albertson"
+    },
+    {
+     "c": "Ron",
+     "n": "Dennis Redfield"
+    },
+    {
+     "c": "Linda",
+     "n": "Nancy Locke"
+    },
+    {
+     "c": "Girl on the Beach / Nurse Lisa",
+     "n": "Lisa Blount"
+    },
+    {
+     "c": "Harry",
+     "n": "Robert Englund"
+    },
+    {
+     "c": "Ernie",
+     "n": "Bill Quinn"
+    },
+    {
+     "c": "Herman",
+     "n": "Michael Currie"
+    },
+    {
+     "c": "George Le Moyne / Freddie",
+     "n": "Christopher Allport"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gary Sherman"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 24274,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a series of gory murders commited by mobs of townspeople against visiting tourists, the corpses appear to be coming back to life and living normally as locals in the small town.",
+   "popularity": 2.4706,
+   "poster_path": "/aMZD57u1M9TQAKf12OYUUcv9hjn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-07-27",
+   "revenue": 216166,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It will take your breath away. All of it.",
+   "title": "Dead & Buried",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 349
   },
   "movie:248774": {
    "backdrop_path": "/7DsPcLMbybqpl7nNMcwzPCM4VKG.jpg",
@@ -2494,6 +3472,296 @@
    "type": "movie",
    "vote_average": 4.994,
    "vote_count": 496
+  },
+  "movie:30074": {
+   "backdrop_path": "/tDdWG2RqEaGd6nilO1OVKFSOVql.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scooby-Doo / Fred (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Shaggy (voice)",
+     "n": "Casey Kasem"
+    },
+    {
+     "c": "Daphne (voice)",
+     "n": "Heather North"
+    },
+    {
+     "c": "Velma (voice)",
+     "n": "Nicole Jaffe"
+    },
+    {
+     "c": "Dusk (voice)",
+     "n": "Jane Wiedlin"
+    },
+    {
+     "c": "Thorn / Queen (voice)",
+     "n": "Jennifer Hale"
+    },
+    {
+     "c": "Jasper Ridgeway / Jack / Lifeguard #1 (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Luna (voice)",
+     "n": "Kimberly Brooks"
+    },
+    {
+     "c": "Harry / Stormy Weathers / Barry / Lightning Strikes / Lifeguard #2 (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Daniel Illiwara / King (voice)",
+     "n": "Phil LaMarr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Scott Jeralds"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Music",
+    "Mystery"
+   ],
+   "id": 30074,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Yowie Yahoo starts kidnapping musicians at a concert attended by Scooby and the gang in Vampire Rock, Australia.",
+   "popularity": 2.4242,
+   "poster_path": "/x8GJ7evV6YBISijuBuGLQjvckYA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-03-04",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Scooby-Doo! and the Legend of the Vampire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 372
+  },
+  "movie:30874": {
+   "backdrop_path": "/dQBDaw2afx2Cx7WuGC3bDE5s6w2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Fred Williams",
+     "n": "Jack Hedley"
+    },
+    {
+     "c": "Fay Majors",
+     "n": "Almanta Suska"
+    },
+    {
+     "c": "Mickey Scellenda",
+     "n": "Howard Ross"
+    },
+    {
+     "c": "Peter Bunch",
+     "n": "Andrea Occhipinti"
+    },
+    {
+     "c": "Jane Forrester Lodge",
+     "n": "Alexandra Delli Colli"
+    },
+    {
+     "c": "Dr. Paul Davis",
+     "n": "Paolo Malco"
+    },
+    {
+     "c": "Rosie",
+     "n": "Cinzia de Ponti"
+    },
+    {
+     "c": "Dr. Lodge",
+     "n": "Cosimo Cinieri"
+    },
+    {
+     "c": "Kitty",
+     "n": "Daniela Doria"
+    },
+    {
+     "c": "Mrs. Weissburger",
+     "n": "Babette New"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lucio Fulci"
+   ],
+   "genres": [
+    "Horror",
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 30874,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A burned-out New York police detective teams up with a college psychoanalyst to track down a vicious serial killer randomly stalking and killing various young women around the city.",
+   "popularity": 2.5555,
+   "poster_path": "/pi2Ft9zZWr6MCO4TmmxRzqJilSk.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-03-04",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Slashing up women was his pleasure.",
+   "title": "The New York Ripper",
+   "trailer": {
+    "key": "vbNSmZYwMbQ",
+    "name": "The New York Ripper | Trailer | Jack Hedley | Almanta Suska | Howard Ross",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.273,
+   "vote_count": 344
   },
   "movie:30974": {
    "backdrop_path": "/4lajnEr8oZFAGhwkHKuGsnvXA14.jpg",
@@ -3264,6 +4532,113 @@
    "vote_average": 7.914,
    "vote_count": 426
   },
+  "movie:673174": {
+   "backdrop_path": "/61uvGsh4HmhEBDGIUuSEpIjYHdF.jpg",
+   "budget": 5989313,
+   "cast": [
+    {
+     "c": "Amaia Salazar",
+     "n": "Marta Etura"
+    },
+    {
+     "c": "Jonan Etxaide",
+     "n": "Carlos Librado \"Nene\""
+    },
+    {
+     "c": "Javier Markina",
+     "n": "Leonardo Sbaraglia"
+    },
+    {
+     "c": "Padre Sarasola",
+     "n": "Imanol Arias"
+    },
+    {
+     "c": "Fina Hidalgo",
+     "n": "Ana Wagener"
+    },
+    {
+     "c": "Fermín Montes",
+     "n": "Francesc Orella"
+    },
+    {
+     "c": "James",
+     "n": "Benn Northover"
+    },
+    {
+     "c": "Tía Engrasi",
+     "n": "Itziar Aizpuru"
+    },
+    {
+     "c": "Flora Salazar",
+     "n": "Elvira Mínguez"
+    },
+    {
+     "c": "Aloisius Dupree",
+     "n": "Colin McFarlane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fernando González Molina"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 673174,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.",
+   "popularity": 1.9796,
+   "poster_path": "/bLZeYC5XBi3SuJFhyNFpAGGneQH.jpg",
+   "production_countries": [
+    "DE",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-07-24",
+   "revenue": 0,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "eu",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Offering to the Storm",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.463,
+   "vote_count": 363
+  },
   "movie:774": {
    "backdrop_path": "/wNxy6Fqvjh0FsIuk7cgqNNq5PhP.jpg",
    "budget": 0,
@@ -3310,6 +4685,96 @@
    "type": "movie",
    "vote_average": 6.673,
    "vote_count": 384
+  },
+  "movie:81774": {
+   "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ursule",
+     "n": "Serena Grandi"
+    },
+    {
+     "c": "La mère",
+     "n": "Claudine Auger"
+    },
+    {
+     "c": "Mme Muller",
+     "n": "Marina Vlady"
+    },
+    {
+     "c": "Roger",
+     "n": "Fabrice Josso"
+    },
+    {
+     "c": "Le père",
+     "n": "François Perrot"
+    },
+    {
+     "c": "Adolphe",
+     "n": "Aurélien Recoing"
+    },
+    {
+     "c": "Hélène",
+     "n": "Rosette"
+    },
+    {
+     "c": "M. Frank",
+     "n": "Laurent Spielvogel"
+    },
+    {
+     "c": "Elisa",
+     "n": "Alexandra Vandernoot"
+    },
+    {
+     "c": "Kate",
+     "n": "Marion Peterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Gianfranco Mingozzi"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 81774,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1914, sixteen year old Roger returned home from boarding school during vacation to find his puberty hit hard in a house filled with beautiful women. These women have previous engagements with other men who are away, and during this time, Roger impregnates them all, including his aunt and sister, then devises plans to cuckold the men.",
+   "popularity": 7.4776,
+   "poster_path": "/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1986-11-04",
+   "revenue": 1300000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Exploits of a Young Don Juan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 344
   },
   "movie:936074": {
    "backdrop_path": "/oo3qmAjckhKlLpckuqoZlOQD9pV.jpg",

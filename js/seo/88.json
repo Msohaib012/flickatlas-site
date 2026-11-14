@@ -1,6 +1,6 @@
 {
  "bucket": "88",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:1088": {
    "d": "Whale Rider (2003): Drama/Family film. Story: A contemporary story of love, rejection, and triumph… See cast, budget $8M, and TMDB rating 7.0/10.",
@@ -581,6 +581,69 @@
    "t": "The Red Hangar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1888": {
+   "d": "The Fortune Cookie (1966): Comedy film. Story: TV cameraman Harry Hinkle is injured while filming a… See cast, budget $3.71M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x9krjfbtFfv1ouL8A59324M7O0e.jpg",
+   "industry": "world",
+   "k": "The Fortune Cookie, The Fortune Cookie movie, The Fortune Cookie cast, The Fortune Cookie story, The Fortune Cookie box office collection, The Fortune Cookie budget, The Fortune Cookie review, The Fortune Cookie rating, The Fortune Cookie release date, The Fortune Cookie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Lemmon"
+     },
+     {
+      "@type": "Person",
+      "name": "Walter Matthau"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Rich"
+     },
+     {
+      "@type": "Person",
+      "name": "Judi West"
+     },
+     {
+      "@type": "Person",
+      "name": "Cliff Osmond"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Fortune Cookie (1966): Comedy film. Story: TV cameraman Harry Hinkle is injured while filming a… See cast, budget $3.71M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Billy Wilder"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x9krjfbtFfv1ouL8A59324M7O0e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1888",
+    "name": "The Fortune Cookie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-10-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1888"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Fortune Cookie (1966)</h1>\n<p class=\"ssr-lead\">TV cameraman Harry Hinkle is injured while filming a football game. Seeing big dollar signs, his unscrupulous ambulance-chasing lawyer brother-in-law Willie Gingrich enters the picture, and convinces Harry to overstate his injuries and claim $1 million in pain and suffering. Harry&#x27;s similarly-minded ex-wife suddenly reappears in an attempt to rekindle their relationship.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 1966</li><li>Runtime: 125 minutes</li><li>Director: Billy Wilder</li><li>Genres: Comedy</li><li>Budget: $3.71M</li><li>TMDB rating: 7.2/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lemmon as Harry Hinkle</li><li>Walter Matthau as Willie Gingrich</li><li>Ron Rich as Boom Boom Jackson</li><li>Judi West as Sandy Hinkle</li><li>Cliff Osmond as Purkey</li><li>Lurene Tuttle as Mother Hinkle</li><li>Harry Holcombe as O&#x27;Brien</li><li>Les Tremayne as Thompson</li><li>Marge Redmond as Charlotte Gingrich</li><li>Ann Shoemaker as Sister Veronica</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
+   "t": "The Fortune Cookie (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:18988": {
    "d": "The Lion in Winter (1968): Drama/History film. Story: Christmas 1183, Angevin Empire: King Henry II plans… See cast, budget $4M, and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
@@ -644,6 +707,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Lion in Winter (1968)</h1>\n<p class=\"ssr-lead\">Christmas 1183, Angevin Empire: King Henry II plans to announce his successor to the throne. Jockeying for the crown, though, is complex. Henry has three sons and wants his boy Prince John to take over. Henry&#x27;s wife, Queen Eleanor, believes their son Prince Richard should be king. As family and various schemers gather for the holiday, each tries to make the indecisive king choose their option.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 1968</li><li>Runtime: 134 minutes</li><li>Director: Anthony Harvey</li><li>Genres: Drama, History</li><li>Budget: $4M</li><li>TMDB rating: 7.4/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter O&#x27;Toole as Henry II</li><li>Katharine Hepburn as Eleanor of Aquitaine</li><li>Anthony Hopkins as Richard</li><li>John Castle as Geoffrey</li><li>Nigel Terry as John</li><li>Timothy Dalton as Philip II</li><li>Jane Merrow as Alais</li><li>Nigel Stock as William Marshall</li><li>O.Z. Whitehead as Bishop of Durham</li><li>Kenneth Ives as Queen Eleanor&#x27;s Guard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, BFI Player Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Lion in Winter (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
+  },
+  "movie:1988": {
+   "d": "A Mighty Heart (2007): Drama/Thriller film. Story: Based on Mariane Pearl's account of the terrifying… See cast, budget $16M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+   "industry": "world",
+   "k": "A Mighty Heart, A Mighty Heart movie, A Mighty Heart cast, A Mighty Heart story, A Mighty Heart box office collection, A Mighty Heart budget, A Mighty Heart review, A Mighty Heart rating, A Mighty Heart release date, A Mighty Heart trailer, A Mighty Heart Drama, A Mighty Heart Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Futterman"
+     },
+     {
+      "@type": "Person",
+      "name": "Irrfan Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Archie Panjabi"
+     },
+     {
+      "@type": "Person",
+      "name": "Denis O'Hare"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "A Mighty Heart (2007): Drama/Thriller film. Story: Based on Mariane Pearl's account of the terrifying… See cast, budget $16M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Winterbottom"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1988",
+    "name": "A Mighty Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1988"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Mighty Heart (2007)</h1>\n<p class=\"ssr-lead\">Based on Mariane Pearl&#x27;s account of the terrifying and unforgettable story of her husband, Wall Street Journal reporter Danny Pearl&#x27;s life and death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 June 2007</li><li>Runtime: 108 minutes</li><li>Director: Michael Winterbottom</li><li>Genres: Drama, Thriller, History</li><li>Budget: $16M</li><li>TMDB rating: 6.4/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jolie as Mariane Pearl</li><li>Dan Futterman as Daniel Pearl</li><li>Irrfan Khan as Zeeshan Kazmi</li><li>Archie Panjabi as Asra Q. Nomani</li><li>Denis O&#x27;Hare as John Bussey</li><li>Harvesp Viraf Chiniwala as Adam Pearl</li><li>Azfar Ali as Asra&#x27;s Boyfriend</li><li>Jillian Armenante as Maureen Platt</li><li>Zachary Coffin as Matt McDowell</li><li>Demetri Goritsas as John Skelton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "A Mighty Heart (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:21788": {
    "d": "Trouble at Timpetill (2008): Fantasy/Adventure film. Story: The children of a small European mountain village end… See cast and TMDB rating 6.1/10.",
@@ -965,6 +1092,196 @@
    "t": "If I Were You (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:347688": {
+   "d": "Scooby-Doo! and KISS: Rock and Roll Mystery (2015): Family/Animation film. Story: Get ready to Rock! Scooby-Doo and the Mystery Inc. See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/asiuMK2TcJGhbcn2dvHF2nLqpqw.jpg",
+   "industry": "world",
+   "k": "Scooby-Doo! and KISS: Rock and Roll Mystery, Scooby-Doo! and KISS: Rock and Roll Mystery movie, Scooby-Doo! and KISS: Rock and Roll Mystery cast, Scooby-Doo! and KISS: Rock and Roll Mystery story, Scooby-Doo! and KISS: Rock and Roll Mystery box office collection, Scooby-Doo! and KISS: Rock and Roll Mystery budget, Scooby-Doo! and KISS: Rock and Roll Mystery review, Scooby-Doo! and KISS: Rock and Roll Mystery rating, Scooby-Doo! and KISS: Rock and Roll Mystery release date, Scooby-Doo! and KISS: Rock and Roll Mystery trailer, Scooby-Doo! and KISS: Rock and Roll Mystery Family, Scooby-Doo! and KISS: Rock and Roll Mystery Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Frank Welker"
+     },
+     {
+      "@type": "Person",
+      "name": "Mindy Cohn"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Lillard"
+     },
+     {
+      "@type": "Person",
+      "name": "Grey DeLisle"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Simmons"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Scooby-Doo! and KISS: Rock and Roll Mystery (2015): Family/Animation film. Story: Get ready to Rock! Scooby-Doo and the Mystery Inc. See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Spike Brandt"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Cervone"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/asiuMK2TcJGhbcn2dvHF2nLqpqw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=347688",
+    "name": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=347688"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scooby-Doo! and KISS: Rock and Roll Mystery (2015)</h1>\n<p class=\"ssr-lead\">Get ready to Rock! Scooby-Doo and the Mystery Inc. Gang team up with the one and only KISS in this all-new, out-of-this-world adventure! We join the Gang at KISS World – the all-things-KISS theme park, as they investigate a series of strange hauntings. With help from KISS, they discover that the Crimson Witch has returned to summon The Destroyer from the alternate dimension of Kissteria! The evil duos ghastly plan, to destroy the earth! Can the Gang&#x27;s cunning and KISS&#x27;s power of rock save the day?!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 July 2015</li><li>Runtime: 79 minutes</li><li>Director: Spike Brandt, Tony Cervone</li><li>Genres: Family, Animation, Comedy, Mystery</li><li>TMDB rating: 7.9/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Welker as Fred / Scooby-Doo (voice)</li><li>Mindy Cohn as Velma (voice)</li><li>Matthew Lillard as Shaggy (voice)</li><li>Grey DeLisle as Daphne (voice)</li><li>Gene Simmons as Demon (voice)</li><li>Paul Stanley as Starchild (voice)</li><li>Eric Singer as Catman (voice)</li><li>Garry Marshall as Manny Goldman (voice)</li><li>Doc McGhee as Chip McGhoo (voice)</li><li>Pauley Perrette as Delilah Domino (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Scooby-Doo! and KISS: Rock and Roll Mystery (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:38288": {
+   "d": "“The Shorts” by Aldo, Giovanni and Giacomo (1996): Comedy film. Story: I Corti (\"Shorts\") by Aldo, Giovanni & Giacomo was… See cast and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mFVGzW8a2Z37NphnuB6liChiuRv.jpg",
+   "industry": "world",
+   "k": "“The Shorts” by Aldo, Giovanni and Giacomo, “The Shorts” by Aldo, Giovanni and Giacomo movie, “The Shorts” by Aldo, Giovanni and Giacomo cast, “The Shorts” by Aldo, Giovanni and Giacomo story, “The Shorts” by Aldo, Giovanni and Giacomo box office collection, “The Shorts” by Aldo, Giovanni and Giacomo budget, “The Shorts” by Aldo, Giovanni and Giacomo review, “The Shorts” by Aldo, Giovanni and Giacomo rating, “The Shorts” by Aldo, Giovanni and Giacomo release date, “The Shorts” by Aldo, Giovanni and Giacomo Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aldo Baglio"
+     },
+     {
+      "@type": "Person",
+      "name": "Giacomo Poretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Storti"
+     },
+     {
+      "@type": "Person",
+      "name": "Marina Massironi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "“The Shorts” by Aldo, Giovanni and Giacomo (1996): Comedy film. Story: I Corti (\"Shorts\") by Aldo, Giovanni & Giacomo was… See cast and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arturo Brachetti"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mFVGzW8a2Z37NphnuB6liChiuRv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38288",
+    "name": "“The Shorts” by Aldo, Giovanni and Giacomo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-03-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38288"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>“The Shorts” by Aldo, Giovanni and Giacomo (1996)</h1>\n<p class=\"ssr-lead\">I Corti (&quot;Shorts&quot;) by Aldo, Giovanni &amp; Giacomo was the first stage show of the comedy trio, with the participation of Marina Massironi. It was recorded live at the Teatro Nuovo in Ferrara on 28 and 29 March 1996. Produced by Agidi, with the theatre direction of Arturo Brachetti.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 1996</li><li>Runtime: 130 minutes</li><li>Director: Arturo Brachetti</li><li>Genres: Comedy</li><li>TMDB rating: 8.1/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aldo Baglio as Aldo</li><li>Giacomo Poretti as Giacomo</li><li>Giovanni Storti as Giovanni</li><li>Marina Massironi as Marina</li></ul>\n</article>",
+   "t": "“The Shorts” by Aldo, Giovanni and Giacomo (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
+  "movie:463088": {
+   "d": "The Game Changers (2019): Documentary film. Story: From the UFC Octagon in Las Vegas and the… See cast, TMDB rating 7.3/10, and release date 16 September 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/xqHgdHqW2zYKP5loe1o7ScccebV.jpg",
+   "industry": "world",
+   "k": "The Game Changers, The Game Changers movie, The Game Changers cast, The Game Changers story, The Game Changers box office collection, The Game Changers budget, The Game Changers review, The Game Changers rating, The Game Changers release date, The Game Changers Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Wilks"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnold Schwarzenegger"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrik Baboumian"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Jurek"
+     },
+     {
+      "@type": "Person",
+      "name": "Dotsie Bausch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Game Changers (2019): Documentary film. Story: From the UFC Octagon in Las Vegas and the… See cast, TMDB rating 7.3/10, and release date 16 September 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louie Psihoyos"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xqHgdHqW2zYKP5loe1o7ScccebV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=463088",
+    "name": "The Game Changers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=463088"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Game Changers (2019)</h1>\n<p class=\"ssr-lead\">From the UFC Octagon in Las Vegas and the anthropology lab at Dartmouth, to a strongman gym in Berlin and the bushlands of Zimbabwe, the world is introduced to elite athletes, special ops soldiers, visionary scientists, cultural icons, and everyday heroes—each on a mission to create a seismic shift in the way we eat and live.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2019</li><li>Runtime: 88 minutes</li><li>Director: Louie Psihoyos</li><li>Genres: Documentary</li><li>TMDB rating: 7.3/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Wilks as Self (voice)</li><li>Arnold Schwarzenegger as Self</li><li>Patrik Baboumian as Self</li><li>Scott Jurek as Self</li><li>Dotsie Bausch as Self</li><li>Tia Blanco as Self</li><li>Nimai Delgado as Self</li><li>Rip Esselstyn as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Game Changers (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:475888": {
    "d": "Tell It to the Bees (2019): Romance/Drama film. Story: Dr. Jean Markham returns to the town she left as a… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/Oeo4ZabmekrqCQyn34SI95692d.jpg",
@@ -1093,6 +1410,70 @@
    "t": "Prom (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:547388": {
+   "d": "New Biz in the Hood (2019): Comedy/Drama film. Story: Fred Bartel is the charismatic boss of a trendy… See cast, budget $9.6M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5ayg658eADu2IehWvTktZNjfzgX.jpg",
+   "industry": "world",
+   "k": "New Biz in the Hood, New Biz in the Hood movie, New Biz in the Hood cast, New Biz in the Hood story, New Biz in the Hood box office collection, New Biz in the Hood budget, New Biz in the Hood review, New Biz in the Hood rating, New Biz in the Hood release date, New Biz in the Hood Comedy, New Biz in the Hood Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gilles Lellouche"
+     },
+     {
+      "@type": "Person",
+      "name": "Malik Bentalha"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina Ouazani"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Lou"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne-Elisabeth Blateau"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 350,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "New Biz in the Hood (2019): Comedy/Drama film. Story: Fred Bartel is the charismatic boss of a trendy… See cast, budget $9.6M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mohamed Hamidi"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5ayg658eADu2IehWvTktZNjfzgX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=547388",
+    "name": "New Biz in the Hood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=547388"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>New Biz in the Hood (2019)</h1>\n<p class=\"ssr-lead\">Fred Bartel is the charismatic boss of a trendy Parisian communication agency, Happy Few. After a heated tax audit, he was forced by the administration to relocate overnight his company in La Courneuve. Fred and his team meet Samy, a young suburb who will quickly propose to teach them the rules and practices to adopt in this new environment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2019</li><li>Runtime: 90 minutes</li><li>Director: Mohamed Hamidi</li><li>Genres: Comedy, Drama</li><li>Budget: $9.6M</li><li>TMDB rating: 5.8/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gilles Lellouche as Frédéric Bartel</li><li>Malik Bentalha as Samy</li><li>Sabrina Ouazani as Leïla</li><li>Camille Lou as Élodie</li><li>Anne-Elisabeth Blateau as Sidonie</li><li>Loïc Legendre as Gilou</li><li>Hugo Becker as Mike</li><li>Harmandeep Palminder as Ari</li><li>Karim Belkhadra as Bibiche</li><li>Annabelle Lengronne as Mariama</li></ul>\n</article>",
+   "t": "New Biz in the Hood (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:575088": {
    "d": "Baba Yaga: Terror of the Dark Forest (2020): Horror film. Story: A boy and his friends must save his infant sister… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/rXQiuJn0DVfEAlYcALUpiYmmQEp.jpg",
@@ -1155,6 +1536,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Baba Yaga: Terror of the Dark Forest (2020)</h1>\n<p class=\"ssr-lead\">A boy and his friends must save his infant sister from an evil witch who eats babies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2020</li><li>Runtime: 96 minutes</li><li>Director: Svyatoslav Podgaevsky</li><li>Genres: Horror</li><li>TMDB rating: 6.4/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oleg Chugunov as Egor</li><li>Glafira Golubeva as Dasha</li><li>Artem Zhigulin as Anton</li><li>Igor Khripunov as Mrachnyy</li><li>Svetlana Ustinova as Tatyana, nanny</li><li>Aleksey Rozin as Alexey, father</li><li>Maryana Spivak as Yuliya, stepmother</li><li>Marta Kessler as Seta</li><li>Daniil Filippov</li><li>Evgeniya Evstigneeva as Egor&#x27;s mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Baba Yaga: Terror of the Dark Forest (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:614488": {
+   "d": "Street Flow (2019): Drama/Crime film. Story: Noumouké, from the suburb of Paris, is about to… See cast, budget $2.7M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jH1f7VaYtMCyqgJRoG7lCg8krxO.jpg",
+   "industry": "world",
+   "k": "Street Flow, Street Flow movie, Street Flow cast, Street Flow story, Street Flow box office collection, Street Flow budget, Street Flow review, Street Flow rating, Street Flow release date, Street Flow Drama, Street Flow Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bakary Diombera"
+     },
+     {
+      "@type": "Person",
+      "name": "Jammeh Diangana"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloé Jouannet"
+     },
+     {
+      "@type": "Person",
+      "name": "Alix Mathurin"
+     },
+     {
+      "@type": "Person",
+      "name": "Dali Benssalah"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Street Flow (2019): Drama/Crime film. Story: Noumouké, from the suburb of Paris, is about to… See cast, budget $2.7M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alix Mathurin"
+     },
+     {
+      "@type": "Person",
+      "name": "Leïla Sy"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jH1f7VaYtMCyqgJRoG7lCg8krxO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=614488",
+    "name": "Street Flow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=614488"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Street Flow (2019)</h1>\n<p class=\"ssr-lead\">Noumouké, from the suburb of Paris, is about to decide which brother&#x27;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2019</li><li>Runtime: 95 minutes</li><li>Director: Alix Mathurin, Leïla Sy</li><li>Genres: Drama, Crime</li><li>Budget: $2.7M</li><li>TMDB rating: 6.9/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bakary Diombera as Noumouké</li><li>Jammeh Diangana as Soulaymaan</li><li>Chloé Jouannet as Lisa</li><li>Alix Mathurin as Demba</li><li>Dali Benssalah as Samir</li><li>Slimane Dazi as &#x27;Le Cuistot&#x27;</li><li>Cherine Ghemri as Sofia</li><li>Ahmed Bedda as Sahli</li><li>Aïmen Derriachi as Farid</li><li>Mathieu Kassovitz as Dominique</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Street Flow (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:747688": {
    "d": "Yara (2021): Drama/Crime film. Story: The murder of 13-year-old Yara Gambirasio shocks the… See cast, TMDB rating 6.3/10, and release date 18 October 2021.",

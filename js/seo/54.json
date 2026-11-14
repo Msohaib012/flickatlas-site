@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 48,
+ "count": 55,
  "titles": {
   "movie:1015154": {
    "d": "Fireflies at El Mozote (2025): Action/Drama film. Story: A boy seeks revenge after surviving El Mozote… See cast and TMDB rating 8.7/10.",
@@ -705,6 +705,70 @@
    "t": "Reds (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1981"
   },
+  "movie:196254": {
+   "d": "Barbie Mariposa & the Fairy Princess (2013): Animation/Family film. Story: Join Mariposa and her new friend, Princess Catania… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wrt7STmV10GVl8Q9qPvxBUMxT1Z.jpg",
+   "industry": "world",
+   "k": "Barbie Mariposa & the Fairy Princess, Barbie Mariposa & the Fairy Princess movie, Barbie Mariposa & the Fairy Princess cast, Barbie Mariposa & the Fairy Princess story, Barbie Mariposa & the Fairy Princess box office collection, Barbie Mariposa & the Fairy Princess budget, Barbie Mariposa & the Fairy Princess review, Barbie Mariposa & the Fairy Princess rating, Barbie Mariposa & the Fairy Princess release date, Barbie Mariposa & the Fairy Princess trailer, Barbie Mariposa & the Fairy Princess Animation, Barbie Mariposa & the Fairy Princess Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Maryke Hendrikse"
+     },
+     {
+      "@type": "Person",
+      "name": "Tabitha St. Germain"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathleen Barr"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariee Devereux"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 343,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Barbie Mariposa & the Fairy Princess (2013): Animation/Family film. Story: Join Mariposa and her new friend, Princess Catania… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Lau"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wrt7STmV10GVl8Q9qPvxBUMxT1Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=196254",
+    "name": "Barbie Mariposa & the Fairy Princess",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=196254"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie Mariposa &amp; the Fairy Princess (2013)</h1>\n<p class=\"ssr-lead\">Join Mariposa and her new friend, Princess Catania, in this magical adventure to save the fairy land of Shimmervale. Together, the girls learn that with great friends, the sky is the limit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 2013</li><li>Runtime: 75 minutes</li><li>Director: William Lau</li><li>Genres: Animation, Family, Fantasy</li><li>TMDB rating: 6.9/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Mariposa (voice)</li><li>Maryke Hendrikse as Princess Catania (voice)</li><li>Tabitha St. Germain as Willa / Zee (voice)</li><li>Kathleen Barr as Gwyllion / Anu (voice)</li><li>Mariee Devereux as Talayla (voice)</li><li>Alessandro Juliani as Prince Carlos (voice)</li><li>Jane Barr as Queen Marabella (voice)</li><li>Alistair Abell as Lord Gastrous (voice)</li><li>Russell Roberts as King Regellius (voice)</li><li>Sam Vincent as Boris (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Barbie Mariposa & the Fairy Princess (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:2054": {
    "d": "Mr. Holland's Opus (1995): Drama/Music film. Story: In 1965, passionate musician Glenn Holland takes a… See cast, budget $31M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/oUptKQLatCgywVDx0ETVhq7knHt.jpg",
@@ -961,6 +1025,70 @@
    "t": "The Meddler (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:33954": {
+   "d": "The Hawks and the Sparrows (1966): Comedy/Fantasy film. Story: A man and his son take an allegorical stroll through… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sS0P6Kzfb95vopsqXdlNUgvkZQV.jpg",
+   "industry": "world",
+   "k": "The Hawks and the Sparrows, The Hawks and the Sparrows movie, The Hawks and the Sparrows cast, The Hawks and the Sparrows story, The Hawks and the Sparrows box office collection, The Hawks and the Sparrows budget, The Hawks and the Sparrows review, The Hawks and the Sparrows rating, The Hawks and the Sparrows release date, The Hawks and the Sparrows Comedy, The Hawks and the Sparrows Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Totò"
+     },
+     {
+      "@type": "Person",
+      "name": "Ninetto Davoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Femi Benussi"
+     },
+     {
+      "@type": "Person",
+      "name": "Umberto Bevilacqua"
+     },
+     {
+      "@type": "Person",
+      "name": "Renato Capogna"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Hawks and the Sparrows (1966): Comedy/Fantasy film. Story: A man and his son take an allegorical stroll through… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pier Paolo Pasolini"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sS0P6Kzfb95vopsqXdlNUgvkZQV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=33954",
+    "name": "The Hawks and the Sparrows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-05-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=33954"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hawks and the Sparrows (1966)</h1>\n<p class=\"ssr-lead\">A man and his son take an allegorical stroll through life with a talking bird that spouts social and political philosophy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 May 1966</li><li>Runtime: 90 minutes</li><li>Director: Pier Paolo Pasolini</li><li>Genres: Comedy, Fantasy</li><li>TMDB rating: 7.2/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Totò as Totò Innocenti / Frate Cicillo</li><li>Ninetto Davoli as Ninetto Innocenti / Frate Ninetto</li><li>Femi Benussi as Luna</li><li>Umberto Bevilacqua as Incensurato</li><li>Renato Capogna as Mascalzone</li><li>Alfredo Leggi as Mascalzone</li><li>Renato Montalbano as San Francesco</li><li>Flaminia Siciliano as Mascalzone</li><li>Lena Lin Solaro as Urganda</li><li>Giovanni Tarallo as Il Contadino Affamato</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
+   "t": "The Hawks and the Sparrows (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:35854": {
    "d": "Flash Point (2007): Action film. Story: Detective Sergeant Ma Jun, known for dispensing his… See cast, budget $8M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/9d4jQys8LF0TkRuHS3D71sSgnUG.jpg",
@@ -1210,6 +1338,132 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kal Ho Naa Ho (2003)</h1>\n<p class=\"ssr-lead\">An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2003</li><li>Runtime: 187 minutes</li><li>Director: Nikkhil Advani</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 7.5/10 (469 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shah Rukh Khan as Aman Mathur</li><li>Preity Zinta as Naina Catherine Kapur</li><li>Saif Ali Khan as Rohit Patel</li><li>Jaya Bachchan as Jennifer Kapur</li><li>Sushma Seth as Lajjo Kapur</li><li>Reema Lagoo as Namrata Mathur</li><li>Athit Naik as Shiv Kapur</li><li>Jhanak Shukla as Jiya Kapur</li><li>Delnaaz Irani as Jaspreet &quot;Sweetu&quot; Kapoor</li><li>Lillete Dubey as Jaswinder &quot;Jazz&quot; Kapoor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Kal Ho Naa Ho (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
+  },
+  "movie:43554": {
+   "d": "Paparazzi (1998): Comedy film. Story: A montley group of free-lance photographers are… See cast, TMDB rating 5.1/10, and release date 18 December 1998.",
+   "img": "https://image.tmdb.org/t/p/w780/5NXiyBCMBcgVLv62UepfgGBjBhC.jpg",
+   "industry": "world",
+   "k": "Paparazzi, Paparazzi movie, Paparazzi cast, Paparazzi story, Paparazzi box office collection, Paparazzi budget, Paparazzi review, Paparazzi rating, Paparazzi release date, Paparazzi Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian De Sica"
+     },
+     {
+      "@type": "Person",
+      "name": "Massimo Boldi"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Abatantuono"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberto Brunetti"
+     },
+     {
+      "@type": "Person",
+      "name": "Nino D'Angelo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Paparazzi (1998): Comedy film. Story: A montley group of free-lance photographers are… See cast, TMDB rating 5.1/10, and release date 18 December 1998.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neri Parenti"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5NXiyBCMBcgVLv62UepfgGBjBhC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=43554",
+    "name": "Paparazzi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=43554"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paparazzi (1998)</h1>\n<p class=\"ssr-lead\">A montley group of free-lance photographers are desperate to grab a good shot of a celebrity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 1998</li><li>Runtime: 100 minutes</li><li>Director: Neri Parenti</li><li>Genres: Comedy</li><li>TMDB rating: 5.1/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian De Sica as Cesare &quot;Faina&quot; Proietti</li><li>Massimo Boldi as Giacomo &quot;Bin&quot; Colombo</li><li>Diego Abatantuono as Ugo &quot;King&quot; Conti</li><li>Roberto Brunetti as Remo &quot;Er Patata&quot; Cartocci</li><li>Nino D&#x27;Angelo as Ciro &quot;3000&quot; Cuccuriello</li><li>Ramona Bădescu as Self</li><li>Rino Barillari as Self</li><li>Aldo Biscardi as Self</li><li>Nathalie Caldonazzo as Self</li><li>Elenoire Casalegno as Self</li></ul>\n</article>",
+   "t": "Paparazzi (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
+  "movie:44754": {
+   "d": "Margaret (2011): Drama film. Story: 17-year-old Lisa feels certain that she inadvertently… See cast, budget $14M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ugDpO1cu2RxL1URucxPLkT31KG3.jpg",
+   "industry": "world",
+   "k": "Margaret, Margaret movie, Margaret cast, Margaret story, Margaret box office collection, Margaret budget, Margaret review, Margaret rating, Margaret release date, Margaret trailer, Margaret Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Paquin"
+     },
+     {
+      "@type": "Person",
+      "name": "J. Smith-Cameron"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeannie Berlin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Margaret (2011): Drama film. Story: 17-year-old Lisa feels certain that she inadvertently… See cast, budget $14M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenneth Lonergan"
+     }
+    ],
+    "duration": "PT150M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ugDpO1cu2RxL1URucxPLkT31KG3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=44754",
+    "name": "Margaret",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=44754"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Margaret (2011)</h1>\n<p class=\"ssr-lead\">17-year-old Lisa feels certain that she inadvertently played a role in causing a traffic accident that claimed a woman&#x27;s life. In her attempts to set things right, she meets with opposition at every step. Torn apart with frustration, she begins emotionally brutalizing her family, her friends, her teachers, and, most of all, herself. She has been confronted quite unexpectedly with a basic truth: that her youthful ideals are on a collision course with the realities and compromises of the adult world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2011</li><li>Runtime: 150 minutes</li><li>Director: Kenneth Lonergan</li><li>Genres: Drama</li><li>Budget: $14M</li><li>TMDB rating: 6.4/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Paquin as Lisa Cohen</li><li>J. Smith-Cameron as Joan</li><li>Mark Ruffalo as Maretti</li><li>Jeannie Berlin as Emily</li><li>Jean Reno as Ramon</li><li>Sarah Steele as Becky</li><li>John Gallagher Jr. as Darren</li><li>Cyrus Hernstadt as Curtis</li><li>Allison Janney as Monica Patterson</li><li>Kieran Culkin as Paul</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Margaret (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:472454": {
    "d": "Ayla: The Daughter of War (2017): Drama/War film. Story: In 1950, amidst the ravages of the Korean War… See cast, budget $4.2M, and TMDB rating 8.0/10.",
@@ -1467,6 +1721,70 @@
    "t": "Drop Zone (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:515454": {
+   "d": "Come True (2020): Science Fiction/Horror film. Story: Looking for an escape from her recurring nightmares… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ewCNsgQ8m12Ul6vfDVQCOHHnJs1.jpg",
+   "industry": "world",
+   "k": "Come True, Come True movie, Come True cast, Come True story, Come True box office collection, Come True budget, Come True review, Come True rating, Come True release date, Come True trailer, Come True Science Fiction, Come True Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julia Sarah Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Landon Liboiron"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlee Ryski"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Heatherington"
+     },
+     {
+      "@type": "Person",
+      "name": "Tedra Rogers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Come True (2020): Science Fiction/Horror film. Story: Looking for an escape from her recurring nightmares… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Scott Burns"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Science Fiction",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ewCNsgQ8m12Ul6vfDVQCOHHnJs1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=515454",
+    "name": "Come True",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=515454"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Come True (2020)</h1>\n<p class=\"ssr-lead\">Looking for an escape from her recurring nightmares, 18-year-old Sarah submits to a university sleep study, but soon realizes she&#x27;s become the conduit to a frightening new discovery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2020</li><li>Runtime: 105 minutes</li><li>Director: Anthony Scott Burns</li><li>Genres: Science Fiction, Horror</li><li>TMDB rating: 5.9/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Sarah Stone as Sarah</li><li>Landon Liboiron as Jeremy</li><li>Carlee Ryski as Anita</li><li>Christopher Heatherington as Dr. Meyer</li><li>Tedra Rogers as Zoe</li><li>Brandon DeWyn as Michael</li><li>John Tasker as Lyle</li><li>Austin Baker as Will</li><li>Shane Ghostkeeper as Aaron</li><li>Christopher Thomas as Jack</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
+   "t": "Come True (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:525554": {
    "d": "The Bouncer (2018): Action/Drama film. Story: A tough nightclub bouncer struggling to raise his… See cast, budget $3.38M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/mAWMorHkrbBvsfBv8XiE6qbCY9L.jpg",
@@ -1658,6 +1976,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Horizon Line (2020)</h1>\n<p class=\"ssr-lead\">A couple flying on a small plane to attend a tropical island wedding must fight for their lives after their pilot suffers a heart attack.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2020</li><li>Runtime: 92 minutes</li><li>Director: Mikael Marcimain</li><li>Genres: Thriller, Adventure, Action</li><li>TMDB rating: 5.6/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Allison Williams as Sara</li><li>Alexander Dreymon as Jackson</li><li>Keith David as Freddy Wyman</li><li>Pearl Mackie as Pascale</li><li>Jumayn Hunter as Samuel (voice)</li><li>Privilege Magezi as Solomon</li><li>Amanda Khan as Nadia</li><li>Anouchka Massoudy as Theresa</li><li>Kate Shepherd as Leah</li><li>Daisy Yip Tong as Grace</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Horizon Line (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:606154": {
+   "d": "The Tunnel (2019): Thriller/Drama film. Story: When a truck crashes inside a tunnel, people on their… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z3XJuxg0AkUfwTpmOe4NUuLJzhn.jpg",
+   "industry": "world",
+   "k": "The Tunnel, The Tunnel movie, The Tunnel cast, The Tunnel story, The Tunnel box office collection, The Tunnel budget, The Tunnel review, The Tunnel rating, The Tunnel release date, The Tunnel trailer, The Tunnel Thriller, The Tunnel Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thorbjørn Harr"
+     },
+     {
+      "@type": "Person",
+      "name": "Ylva Fuglerud"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikkel Bratt Silset"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Carlehed"
+     },
+     {
+      "@type": "Person",
+      "name": "Ingvild Holthe Bygdnes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Tunnel (2019): Thriller/Drama film. Story: When a truck crashes inside a tunnel, people on their… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pål Øie"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z3XJuxg0AkUfwTpmOe4NUuLJzhn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=606154",
+    "name": "The Tunnel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=606154"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Tunnel (2019)</h1>\n<p class=\"ssr-lead\">When a truck crashes inside a tunnel, people on their way home for Christmas are brutally trapped in a deadly fire. With a blizzard raging outside, and the first responders struggling to get to the accident, it&#x27;s every man for himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2019</li><li>Runtime: 103 minutes</li><li>Director: Pål Øie</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.3/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thorbjørn Harr as Stein</li><li>Ylva Fuglerud as Elise</li><li>Mikkel Bratt Silset as Ivar</li><li>Lisa Carlehed as Ingrid</li><li>Ingvild Holthe Bygdnes as Andrea</li><li>Per Egil Aske as Christian</li><li>Peter Førde as Kurt</li><li>Daniel Alexander Skadal as Rafa</li><li>Silje Breivik as Mia</li><li>Jan Gunnar Røise as Gunnar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Tunnel (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:654754": {
+   "d": "Billie Eilish: The World's a Little Blurry (2021): Documentary/Music film. Story: This documentary offers a deeply intimate look at… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
+   "industry": "world",
+   "k": "Billie Eilish: The World's a Little Blurry, Billie Eilish: The World's a Little Blurry movie, Billie Eilish: The World's a Little Blurry cast, Billie Eilish: The World's a Little Blurry story, Billie Eilish: The World's a Little Blurry box office collection, Billie Eilish: The World's a Little Blurry budget, Billie Eilish: The World's a Little Blurry review, Billie Eilish: The World's a Little Blurry rating, Billie Eilish: The World's a Little Blurry release date, Billie Eilish: The World's a Little Blurry trailer, Billie Eilish: The World's a Little Blurry Documentary, Billie Eilish: The World's a Little Blurry Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Billie Eilish"
+     },
+     {
+      "@type": "Person",
+      "name": "FINNEAS"
+     },
+     {
+      "@type": "Person",
+      "name": "Maggie Baird"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick O'Connell"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Sulewski"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Billie Eilish: The World's a Little Blurry (2021): Documentary/Music film. Story: This documentary offers a deeply intimate look at… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "R.J. Cutler"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=654754",
+    "name": "Billie Eilish: The World's a Little Blurry",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=654754"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Billie Eilish: The World&#x27;s a Little Blurry (2021)</h1>\n<p class=\"ssr-lead\">This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2021</li><li>Runtime: 140 minutes</li><li>Director: R.J. Cutler</li><li>Genres: Documentary, Music</li><li>TMDB rating: 8.2/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Billie Eilish as Self</li><li>FINNEAS as Self</li><li>Maggie Baird as Self</li><li>Patrick O&#x27;Connell as Self</li><li>Claudia Sulewski as Self</li><li>Zoe Donahoe as Self</li><li>Brandon &#x27;Q&#x27; Adams as Self</li><li>Carlos López Estrada as Self</li><li>Justin Bieber as Self</li><li>Orlando Bloom as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Billie Eilish: The World's a Little Blurry (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:694254": {
    "d": "Baggio: The Divine Ponytail (2021): Drama film. Story: A chronicle biopic of the 22-year career of soccer… See cast and TMDB rating 6.4/10.",

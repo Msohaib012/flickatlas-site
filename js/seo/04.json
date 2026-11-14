@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10604": {
    "d": "Zorba the Greek (1964): Drama film. Story: An uptight English writer traveling to Crete on a… See cast, budget $783.0k, and TMDB rating 7.4/10.",
@@ -833,6 +833,69 @@
    "t": "The Land Before Time III: The Time of the Great Giving (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
   },
+  "movie:2204": {
+   "d": "Alice in the Cities (1974): Drama film. Story: German journalist Philip Winter has a case of… See cast, TMDB rating 7.7/10, and release date 17 May 1974.",
+   "img": "https://image.tmdb.org/t/p/w780/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
+   "industry": "world",
+   "k": "Alice in the Cities, Alice in the Cities movie, Alice in the Cities cast, Alice in the Cities story, Alice in the Cities box office collection, Alice in the Cities budget, Alice in the Cities review, Alice in the Cities rating, Alice in the Cities release date, Alice in the Cities trailer, Alice in the Cities Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rüdiger Vogler"
+     },
+     {
+      "@type": "Person",
+      "name": "Yella Rottländer"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Kreuzer"
+     },
+     {
+      "@type": "Person",
+      "name": "Edda Köchl"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernest Boehm"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Alice in the Cities (1974): Drama film. Story: German journalist Philip Winter has a case of… See cast, TMDB rating 7.7/10, and release date 17 May 1974.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wim Wenders"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2204",
+    "name": "Alice in the Cities",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2204"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice in the Cities (1974)</h1>\n<p class=\"ssr-lead\">German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 1974</li><li>Runtime: 110 minutes</li><li>Director: Wim Wenders</li><li>Genres: Drama</li><li>TMDB rating: 7.7/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rüdiger Vogler as Philip Winter</li><li>Yella Rottländer as Alice van Damm</li><li>Lisa Kreuzer as Lisa van Damm</li><li>Edda Köchl as Angela</li><li>Ernest Boehm as Publisher</li><li>Sam Presti as Car Dealer</li><li>Lois Moran as Airport Hostess</li><li>Didi Petrikat as Woman at Swimming Park</li><li>Hans Hirschmüller as Police Officer</li><li>Sibylle Baier as Woman on Ferry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Alice in the Cities (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
+  },
   "movie:22504": {
    "d": "The King and the Mockingbird (1980): Animation/Family film. Story: A young shepherdess and a chimneysweep plan to get… See cast and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
@@ -1089,6 +1152,70 @@
    "t": "Backtrack (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:334304": {
+   "d": "Belle and Sebastian: The Adventure Continues (2015): Adventure/Family film. Story: September, 1945. Sebastian impatiently waits for the… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/ESrvgUpFNJrCi57T6MQjXYnN3b.jpg",
+   "industry": "world",
+   "k": "Belle and Sebastian: The Adventure Continues, Belle and Sebastian: The Adventure Continues movie, Belle and Sebastian: The Adventure Continues cast, Belle and Sebastian: The Adventure Continues story, Belle and Sebastian: The Adventure Continues box office collection, Belle and Sebastian: The Adventure Continues budget, Belle and Sebastian: The Adventure Continues review, Belle and Sebastian: The Adventure Continues rating, Belle and Sebastian: The Adventure Continues release date, Belle and Sebastian: The Adventure Continues trailer, Belle and Sebastian: The Adventure Continues Adventure, Belle and Sebastian: The Adventure Continues Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Félix Bossuet"
+     },
+     {
+      "@type": "Person",
+      "name": "Tchéky Karyo"
+     },
+     {
+      "@type": "Person",
+      "name": "Thierry Neuvic"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaux Chatelier"
+     },
+     {
+      "@type": "Person",
+      "name": "Urbain Cancelier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Belle and Sebastian: The Adventure Continues (2015): Adventure/Family film. Story: September, 1945. Sebastian impatiently waits for the… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christian Duguay"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ESrvgUpFNJrCi57T6MQjXYnN3b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=334304",
+    "name": "Belle and Sebastian: The Adventure Continues",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=334304"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Belle and Sebastian: The Adventure Continues (2015)</h1>\n<p class=\"ssr-lead\">September, 1945. Sebastian impatiently waits for the return of his friend Angelina, whom he has not seen for two years. When the plane carrying the young woman to her small village in the Alps is reported to have crashed in the mountains, Sebastian is convinced that Angelina is still alive. Along with his faithful dog Belle, Sebastian embarks on the most dangerous adventure of his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2015</li><li>Runtime: 97 minutes</li><li>Director: Christian Duguay</li><li>Genres: Adventure, Family</li><li>Budget: $15.1M</li><li>TMDB rating: 6.9/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Félix Bossuet as Sébastien</li><li>Tchéky Karyo as César</li><li>Thierry Neuvic as Pierre, Sébastien&#x27;s father</li><li>Margaux Chatelier as Angélina, César&#x27;s niece</li><li>Urbain Cancelier as Mayor</li><li>Thylane Blondeau as Gabrielle</li><li>Joseph Malerba as Alfonso</li><li>Ludi Boeken as Marcel</li><li>Jeffrey Noel as Louis, the mechanic</li><li>Fred Epaud as René</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Belle and Sebastian: The Adventure Continues (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:43904": {
    "d": "L'Atalante (1934): Comedy/Drama film. Story: Newly married couple Juliette and ship captain Jean… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
@@ -1152,6 +1279,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>L&#x27;Atalante (1934)</h1>\n<p class=\"ssr-lead\">Newly married couple Juliette and ship captain Jean struggle through marriage as they travel on the L&#x27;Atalante along with the captain&#x27;s first mate and a cabin boy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 1934</li><li>Runtime: 88 minutes</li><li>Director: Jean Vigo</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 7.5/10 (489 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michel Simon as Père Jules</li><li>Dita Parlo as Juliette</li><li>Jean Dasté as Jean</li><li>Gilles Margaritis as Peddler</li><li>Louis Lefebvre as Cabin Boy</li><li>Maurice Gilles as Office Manager</li><li>Raphaël Diligent as Raspoutine, the boatman</li><li>Claude Aveline as (uncredited)</li><li>René Blech as Best Man at Wedding (uncredited)</li><li>Lou Bonin as Passenger at Railway Station (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "L'Atalante (1934) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1934"
+  },
+  "movie:485504": {
+   "d": "El Camino Christmas (2017): Comedy/Crime film. Story: A young man seeking a father he has never met… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",
+   "industry": "world",
+   "k": "El Camino Christmas, El Camino Christmas movie, El Camino Christmas cast, El Camino Christmas story, El Camino Christmas box office collection, El Camino Christmas budget, El Camino Christmas review, El Camino Christmas rating, El Camino Christmas release date, El Camino Christmas trailer, El Camino Christmas Comedy, El Camino Christmas Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent D'Onofrio"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alba"
+     },
+     {
+      "@type": "Person",
+      "name": "Dax Shepard"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Kurtwood Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "El Camino Christmas (2017): Comedy/Crime film. Story: A young man seeking a father he has never met… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David E. Talbert"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=485504",
+    "name": "El Camino Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=485504"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>El Camino Christmas (2017)</h1>\n<p class=\"ssr-lead\">A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2017</li><li>Runtime: 89 minutes</li><li>Director: David E. Talbert</li><li>Genres: Comedy, Crime, Drama</li><li>TMDB rating: 5.5/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent D&#x27;Onofrio as Carl Hooker</li><li>Jessica Alba as Beth Flowers</li><li>Dax Shepard as Deputy Billy Calhoun</li><li>Tim Allen as Larry Michael Roth</li><li>Kurtwood Smith as Sheriff Bob Fuller</li><li>Luke Grimes as Eric Roth</li><li>Michelle Mylett as Kate Daniels</li><li>Emilio Rivera as Vicente Cruz</li><li>Kimberly Quinn as Jewels Daniels</li><li>Jimmy O. Yang as Mike</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "El Camino Christmas (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:496704": {
    "d": "Tremors: A Cold Day in Hell (2018): Action/Adventure film. Story: Burt Gummer and Travis Welker find themselves in a… See cast and TMDB rating 5.8/10.",
@@ -1281,6 +1472,134 @@
    "t": "A Vigilante (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:544404": {
+   "d": "Who You Think I Am (2019): Drama/Romance film. Story: Claire, a 50-year-old divorced teacher, creates a… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1WT5MPdagc2PXcsF74TvinTqLz2.jpg",
+   "industry": "world",
+   "k": "Who You Think I Am, Who You Think I Am movie, Who You Think I Am cast, Who You Think I Am story, Who You Think I Am box office collection, Who You Think I Am budget, Who You Think I Am review, Who You Think I Am rating, Who You Think I Am release date, Who You Think I Am Drama, Who You Think I Am Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juliette Binoche"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "François Civil"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie-Ange Casta"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillaume Gouix"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Who You Think I Am (2019): Drama/Romance film. Story: Claire, a 50-year-old divorced teacher, creates a… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Safy Nebbou"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1WT5MPdagc2PXcsF74TvinTqLz2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=544404",
+    "name": "Who You Think I Am",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=544404"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Who You Think I Am (2019)</h1>\n<p class=\"ssr-lead\">Claire, a 50-year-old divorced teacher, creates a fake Facebook profile of a 24-year-old woman to catfish Alex, the roommate of her former lover, Ludo.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2019</li><li>Runtime: 101 minutes</li><li>Director: Safy Nebbou</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.5/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juliette Binoche as Claire Millaud</li><li>Nicole Garcia as Dr. Catherine Bormans</li><li>François Civil as Alex Chelly</li><li>Marie-Ange Casta as Katia</li><li>Guillaume Gouix as Ludovic Dalaux</li><li>Charles Berling as Gilles</li><li>Jules Houplain as Max</li><li>Jules Gauzelin as Tristan</li><li>Francis Leplay as Serge</li><li>Pierre Giraud as Paul</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor Amazon Channel, Cohen Media Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Who You Think I Am (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:560204": {
+   "d": "Arkansas (2020): Crime/Thriller film. Story: Kyle and Swin live by the orders of an Arkansas-based… See cast, TMDB rating 5.8/10, and release date 5 May 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/1Q3cxQmZcU7lqwWlruKL2yCC5j2.jpg",
+   "industry": "world",
+   "k": "Arkansas, Arkansas movie, Arkansas cast, Arkansas story, Arkansas box office collection, Arkansas budget, Arkansas review, Arkansas rating, Arkansas release date, Arkansas trailer, Arkansas Crime, Arkansas Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liam Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Clark Duke"
+     },
+     {
+      "@type": "Person",
+      "name": "Vince Vaughn"
+     },
+     {
+      "@type": "Person",
+      "name": "John Malkovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Eden Brolin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 361,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Arkansas (2020): Crime/Thriller film. Story: Kyle and Swin live by the orders of an Arkansas-based… See cast, TMDB rating 5.8/10, and release date 5 May 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Clark Duke"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1Q3cxQmZcU7lqwWlruKL2yCC5j2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=560204",
+    "name": "Arkansas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-05-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=560204"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Arkansas (2020)</h1>\n<p class=\"ssr-lead\">Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#x27;ve never met. But when a deal goes horribly wrong, the consequences are deadly.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2020</li><li>Runtime: 117 minutes</li><li>Director: Clark Duke</li><li>Genres: Crime, Thriller, Action, Mystery</li><li>TMDB rating: 5.8/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Hemsworth as Kyle</li><li>Clark Duke as Swin</li><li>Vince Vaughn as Frog</li><li>John Malkovich as Bright</li><li>Eden Brolin as Johanna</li><li>Vivica A. Fox as Her</li><li>Michael Kenneth Williams as Almond</li><li>Patrick Muldoon as Joe</li><li>Jacob Zachar as Stranger</li><li>Juston Street as Barry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Arkansas (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:576004": {
    "d": "Porno (2019): Comedy/Horror film. Story: When a group of naive teens working at a movie… See cast, TMDB rating 6.0/10, and release date 28 June 2019.",
    "img": "https://image.tmdb.org/t/p/w780/3ZCwBCB9vTykcxUvBQFRnzPbyEc.jpg",
@@ -1343,6 +1662,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Porno (2019)</h1>\n<p class=\"ssr-lead\">When a group of naive teens working at a movie theater in a small Christian town discover a mysterious film hidden in its basement, they unleash an alluring succubus who gives them a sex education…written in blood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2019</li><li>Runtime: 98 minutes</li><li>Director: Keola Racela</li><li>Genres: Comedy, Horror</li><li>TMDB rating: 6.0/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Evan Daves as Abe</li><li>Larry Saperstein as Todd</li><li>Jillian Mueller as Chaz</li><li>Glenn Stott as Ricky</li><li>Robbie Tann as Heavy Metal Jeff</li><li>Katelyn Pearce as Lilith</li><li>Bill Phillips as Mr. Pike</li><li>Peter Reznikoff as Lord Beekman</li><li>Amber Paul as Woman</li><li>David Arrow as Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Porno (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:633604": {
+   "d": "Yummy (2019): Horror/Comedy film. Story: A young couple travels to a shabby Eastern European… See cast, TMDB rating 6.3/10, and release date 18 December 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg",
+   "industry": "world",
+   "k": "Yummy, Yummy movie, Yummy cast, Yummy story, Yummy box office collection, Yummy budget, Yummy review, Yummy rating, Yummy release date, Yummy trailer, Yummy Horror, Yummy Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maaike Neuville"
+     },
+     {
+      "@type": "Person",
+      "name": "Bart Hollanders"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Ramon"
+     },
+     {
+      "@type": "Person",
+      "name": "Clara Cleymans"
+     },
+     {
+      "@type": "Person",
+      "name": "Annick Christiaens"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Yummy (2019): Horror/Comedy film. Story: A young couple travels to a shabby Eastern European… See cast, TMDB rating 6.3/10, and release date 18 December 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lars Damoiseaux"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=633604",
+    "name": "Yummy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=633604"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yummy (2019)</h1>\n<p class=\"ssr-lead\">A young couple travels to a shabby Eastern European hospital for plastic surgery. The young woman wants a breast reduction. Her mother comes along for yet another face-lift. Wandering through an abandoned ward the boyfriend stumbles upon a young woman, gagged and strapped to an operating table; she is the result of an experimental rejuvenation treatment. He frees her, but does not realize he just caused the outbreak of a virus that will change doctors, patients and his mother-in-law into bloodthirsty zombies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2019</li><li>Runtime: 90 minutes</li><li>Director: Lars Damoiseaux</li><li>Genres: Horror, Comedy</li><li>TMDB rating: 6.3/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maaike Neuville as Alison</li><li>Bart Hollanders as Michael</li><li>Benjamin Ramon as Daniel</li><li>Clara Cleymans as Janja</li><li>Annick Christiaens as Sylvia</li><li>Éric Godon as Dr. K</li><li>Joshua Rubin as Yonah</li><li>Taeke Nicolaï as Oksana</li><li>Tom Audenaert as William</li><li>Nourredine Farihi as Cleaner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Yummy (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
   "movie:749004": {
@@ -1472,6 +1855,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Desert Warrior (2026)</h1>\n<p class=\"ssr-lead\">In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 2026</li><li>Runtime: 127 minutes</li><li>Director: Rupert Wyatt</li><li>Genres: History, War, Action</li><li>Budget: $150M</li><li>TMDB rating: 5.9/10 (57 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Mackie as Hanzala</li><li>Aiysha Hart as Princess Hind</li><li>Sami Bouajila as Hani</li><li>Sharlto Copley as Jalabzeen</li><li>Ben Kingsley as Emperor Kisra II</li><li>Ghassan Massoud as King Numan</li><li>Lamis Ammar as Medicine Woman</li><li>Ramsey Faragallah as Ibn Qabisah</li><li>Saïd Boumazoughe as Samir</li><li>Younes Bouab as Aasif</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
    "t": "Desert Warrior (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:9104": {
+   "d": "Buffalo Soldiers (2002): Drama/Comedy film. Story: A criminal subculture operates among U.S. soldiers… See cast, budget $15M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7Pw5NOv7aUtmHyh1yASEldOlAz0.jpg",
+   "industry": "world",
+   "k": "Buffalo Soldiers, Buffalo Soldiers movie, Buffalo Soldiers cast, Buffalo Soldiers story, Buffalo Soldiers box office collection, Buffalo Soldiers budget, Buffalo Soldiers review, Buffalo Soldiers rating, Buffalo Soldiers release date, Buffalo Soldiers trailer, Buffalo Soldiers Drama, Buffalo Soldiers Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joaquin Phoenix"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Glenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Paquin"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth McGovern"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Buffalo Soldiers (2002): Drama/Comedy film. Story: A criminal subculture operates among U.S. soldiers… See cast, budget $15M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gregor Jordan"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Pw5NOv7aUtmHyh1yASEldOlAz0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9104",
+    "name": "Buffalo Soldiers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9104"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buffalo Soldiers (2002)</h1>\n<p class=\"ssr-lead\">A criminal subculture operates among U.S. soldiers stationed in West Germany just before the fall of the Berlin wall.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2002</li><li>Runtime: 98 minutes</li><li>Director: Gregor Jordan</li><li>Genres: Drama, Comedy, War, Crime, Thriller</li><li>Budget: $15M</li><li>TMDB rating: 6.3/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joaquin Phoenix as Ray Elwood</li><li>Ed Harris as Colonel Berman</li><li>Scott Glenn as Sergeant Lee</li><li>Anna Paquin as Robyn Lee</li><li>Elizabeth McGovern as Mrs. Berman</li><li>Michael Peña as Garcia</li><li>Leon as Stoney</li><li>Gabriel Mann as Pfc. Brian Knoll</li><li>Dean Stockwell as General Lancaster</li><li>Brian Delate as Colonel Marshall</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buffalo Soldiers (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "tv:1104": {
    "d": "Mad Men (2007) is a Drama TV series. Explore its story: Set in 1960-1970 New York, this sexy, stylized and…, cast, 7 seasons, and 92 episodes.",

@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 51,
+ "count": 61,
  "titles": {
   "movie:10217": {
    "backdrop_path": "/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
@@ -163,6 +163,118 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 445
+  },
+  "movie:109417": {
+   "backdrop_path": "/5L5NYXBPmThp1OBj3IGStlRGltx.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Jason Blake",
+     "n": "Josh Holloway"
+    },
+    {
+     "c": "Dante",
+     "n": "Laz Alonso"
+    },
+    {
+     "c": "Franklyn",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Stacy",
+     "n": "Caity Lotz"
+    },
+    {
+     "c": "Rooster",
+     "n": "Chris Brown"
+    },
+    {
+     "c": "Flipz",
+     "n": "Ivan 'Flipz' Velez"
+    },
+    {
+     "c": "Terrence J",
+     "n": "Terrence J"
+    },
+    {
+     "c": "Sway Calloway",
+     "n": "Sway Calloway"
+    },
+    {
+     "c": "Scott",
+     "n": "Demetrius Grosse"
+    },
+    {
+     "c": "Sight",
+     "n": "Steve Terada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Benson Lee"
+   ],
+   "genres": [
+    "Music",
+    "Drama"
+   ],
+   "id": 109417,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A down-on-his-luck coach is hired to prepare a team of the best American dancers for an international tournament that attracts all the best crews from around the world, but the Americans haven't won in fifteen years.",
+   "popularity": 1.8227,
+   "poster_path": "/dB4L9yt9eFbVhx8tSuDUHoMeN4x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-09-21",
+   "revenue": 16549477,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The World is watching",
+   "title": "Battle of the Year",
+   "trailer": {
+    "key": "msSQxCMPH0I",
+    "name": "Battle Of The Year Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 369
   },
   "movie:11217": {
    "backdrop_path": "/6Mh45I2bE4uEjy19Jk45THEmLd0.jpg",
@@ -444,6 +556,166 @@
    "type": "movie",
    "vote_average": 7.679,
    "vote_count": 390
+  },
+  "movie:1161617": {
+   "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Randy",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "Mike",
+     "n": "Lil Rel Howery"
+    },
+    {
+     "c": "Jessica",
+     "n": "Aimee Carrero"
+    },
+    {
+     "c": "Shanice",
+     "n": "Yvette Nicole Brown"
+    },
+    {
+     "c": "Dr. Serano",
+     "n": "Rob Riggle"
+    },
+    {
+     "c": "Officer Taggert",
+     "n": "Page Kennedy"
+    },
+    {
+     "c": "Rookie",
+     "n": "Xolo Maridueña"
+    },
+    {
+     "c": "Nurse Chad",
+     "n": "Eric Jungmann"
+    },
+    {
+     "c": "Kim",
+     "n": "Ayesha Harris"
+    },
+    {
+     "c": "Motorcycle Matt",
+     "n": "Luka Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Leone"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Drama"
+   ],
+   "id": 1161617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
+   "popularity": 5.2999,
+   "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-09-12",
+   "revenue": 35190,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The best medical care minimum wage can provide.",
+   "title": "Code 3",
+   "trailer": {
+    "key": "Np4MAXPz_PM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 376
   },
   "movie:11617": {
    "backdrop_path": "/bcZUdS133kwngC8CXJHD6sRAHDt.jpg",
@@ -1490,6 +1762,125 @@
    "vote_average": 6.569,
    "vote_count": 108
   },
+  "movie:14517": {
+   "backdrop_path": "/zDkLBWZmt8jZrEhdKoUKoaEwETC.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Helena / Anti-Helena",
+     "n": "Stephanie Leonidas"
+    },
+    {
+     "c": "Valentine",
+     "n": "Jason Barry"
+    },
+    {
+     "c": "Morris Campbell / Prime Minister",
+     "n": "Rob Brydon"
+    },
+    {
+     "c": "Joanne Campbell / Queen of Light / Queen of Shadows",
+     "n": "Gina McKee"
+    },
+    {
+     "c": "Aunt Nan",
+     "n": "Dora Bryan"
+    },
+    {
+     "c": "Librarian",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Gryphon",
+     "n": "Robert Llewellyn"
+    },
+    {
+     "c": "Cops 1-4",
+     "n": "Lenny Henry"
+    },
+    {
+     "c": "Pingo / Bing",
+     "n": "Nik Robson"
+    },
+    {
+     "c": "Sphinx",
+     "n": "Simon Harvey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dave McKean"
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "id": 14517,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a fantasy world of opposing kingdoms, a 15-year old girl must find the fabled MirrorMask in order to save the kingdom and get home.",
+   "popularity": 1.4885,
+   "poster_path": "/itIJU3NKbdgScA1WPIxXzOlm0Uj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-01-25",
+   "revenue": 973613,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Other Side of Reason. The Other Side of Fate. The Other Side of Truth.",
+   "title": "MirrorMask",
+   "trailer": {
+    "key": "swrcKRVgeGI",
+    "name": "Mirrormask - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.453,
+   "vote_count": 383
+  },
   "movie:1477317": {
    "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
    "budget": 0,
@@ -2200,6 +2591,198 @@
    "vote_average": 6.811,
    "vote_count": 201
   },
+  "movie:1717": {
+   "backdrop_path": "/xp5cZAZC9jcdaIr10Md47CgPHbF.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Willie Stark",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Jack Burden",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Judge Irwin",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Anne Stanton",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Adam Stanton",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Sadie Burke",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Tiny Duffy",
+     "n": "James Gandolfini"
+    },
+    {
+     "c": "Roderick \"Sugar Boy\" Ellis",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Mrs. Burden",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Lucy Stark",
+     "n": "Talia Balsam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Zaillian"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1717,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of an idealist's rise to power in the world of Louisiana politics and the corruption that leads to his ultimate downfall. Based on the 1946 Pulitzer Prize-winning novel written by Robert Penn Warren, loosely based on the story of real-life politician Huey Long.",
+   "popularity": 2.323,
+   "poster_path": "/r3Yu6JdufxUSqy6PJgT887UpSMt.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-10",
+   "revenue": 9450897,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Time brings all things to light.",
+   "title": "All the King's Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.774,
+   "vote_count": 349
+  },
+  "movie:18917": {
+   "backdrop_path": "/jExkMK7bByCh4AjpEa4eOixtnUt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Kristýna Kohoutová"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "date_kind": "release",
+   "director": [
+    "Jan Švankmajer"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 18917,
+   "industry": "world",
+   "origin_country": [
+    "CH"
+   ],
+   "original_language": "cs",
+   "overview": "A quiet young English girl named Alice finds herself in an alternate version of her own reality after chasing a white rabbit. She becomes surrounded by living inanimate objects and stuffed dead animals, and must find a way out of this nightmare - no matter how twisted or odd that way must be.",
+   "popularity": 1.5634,
+   "poster_path": "/3EcTuXjJT6PnAcJDJYI4WbiupCV.jpg",
+   "production_countries": [
+    "CH",
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "OVID"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-08-03",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs"
+   ],
+   "status": "Released",
+   "tagline": "A film made for children… perhaps?",
+   "title": "Alice",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 374
+  },
   "movie:2117": {
    "backdrop_path": "/4co3a3mx5BgoHCmJUPAI03MDOWy.jpg",
    "budget": 0,
@@ -2643,6 +3226,98 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 401
+  },
+  "movie:393717": {
+   "backdrop_path": "/9mVgtyhmkQtsJkq5Fu4OhuU0155.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yanis",
+     "n": "Sami Bouajila"
+    },
+    {
+     "c": "Eric",
+     "n": "Guillaume Gouix"
+    },
+    {
+     "c": "Nasser",
+     "n": "Youssef Hajdi"
+    },
+    {
+     "c": "Amine",
+     "n": "Redouane Behache"
+    },
+    {
+     "c": "Nora",
+     "n": "Kahina Carina"
+    },
+    {
+     "c": "Frank",
+     "n": "David Saracino"
+    },
+    {
+     "c": "Audrey",
+     "n": "Alice de Lencquesaing"
+    },
+    {
+     "c": "Khadidja",
+     "n": "Baya Belal"
+    },
+    {
+     "c": "Adama",
+     "n": "Steve Tientcheu"
+    },
+    {
+     "c": "Salif",
+     "n": "Kaaris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Julien Leclercq"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 393717,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "One of the members of a gang of thieves commits a serious mistake that force them to work for a ruthless gang of drug dealers, endangering the future of the team, their lives and those of their families.",
+   "popularity": 1.2747,
+   "poster_path": "/zq4QUvbPS2bf6mesCPW04awrBoJ.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-05-04",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Thieves against dealers.",
+   "title": "The Crew",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.163,
+   "vote_count": 361
   },
   "movie:40817": {
    "backdrop_path": "/zq8NTyMCvLmQAHLCgzCX3uGkLMo.jpg",
@@ -3375,6 +4050,110 @@
    "vote_average": 6.9,
    "vote_count": 493
   },
+  "movie:542917": {
+   "backdrop_path": "/tr0QbJHWjI3pWhY75oTNl3o9lcC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alba",
+     "n": "Belén Rueda"
+    },
+    {
+     "c": "Unai",
+     "n": "Javier Rey"
+    },
+    {
+     "c": "Estíbaliz",
+     "n": "Aura Garrido"
+    },
+    {
+     "c": "Mario Santos",
+     "n": "Manolo Solo"
+    },
+    {
+     "c": "Tasio / Ignacio",
+     "n": "Àlex Brendemühl"
+    },
+    {
+     "c": "Grandfather",
+     "n": "Ramón Barea"
+    },
+    {
+     "c": "Germán",
+     "n": "Sergio Dorado"
+    },
+    {
+     "c": "Optician",
+     "n": "Pedro Casablanc"
+    },
+    {
+     "c": "Medina",
+     "n": "Joseba Apaolaza"
+    },
+    {
+     "c": "Don Tiburcio",
+     "n": "Txema Blasco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Calparsoro"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 542917,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Vitoria-Gasteiz, Basque Country, Spain, 2019. Two corpses appear in the crypt of the Old Cathedral. Police officer Unai López de Ayala, an expert in criminal profiling, must hunt down the ritual murderer who has been terrorizing the city for two decades.",
+   "popularity": 1.8664,
+   "poster_path": "/xOA4MbyJZVJHGZ38wC4LPpruBBX.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-25",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "eu",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Twin Murders: The Silence of the White City",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.648,
+   "vote_count": 359
+  },
   "movie:61717": {
    "backdrop_path": "/kuXldgiMg0YZMD8XV4n2orFa1FX.jpg",
    "budget": 6000000,
@@ -3869,6 +4648,525 @@
    "type": "movie",
    "vote_average": 6.379,
    "vote_count": 466
+  },
+  "movie:8217": {
+   "backdrop_path": "/ofIyN1TZJFvoCePNpbJebsg54D4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Tate",
+     "n": "Mia Farrow"
+    },
+    {
+     "c": "Doug Tate",
+     "n": "William Hurt"
+    },
+    {
+     "c": "Joe",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "Ed",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Dorothy",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Vicky",
+     "n": "Judy Davis"
+    },
+    {
+     "c": "Dr. Yang",
+     "n": "Keye Luke"
+    },
+    {
+     "c": "Muse",
+     "n": "Bernadette Peters"
+    },
+    {
+     "c": "Nancy Brill",
+     "n": "Cybill Shepherd"
+    },
+    {
+     "c": "Helen",
+     "n": "Holland Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 8217,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alice Tate, mother of two, with a marriage of 16 years, finds herself falling for a handsome sax player, Joe. Stricken with a backache, she consults herbalist Dr. Yang, who realizes that her problems are not related to her back, but in her mind and heart. Dr. Yang's magical herbs give Alice wondrous powers, taking her out of her well-established rut.",
+   "popularity": 2.1049,
+   "poster_path": "/g6PGzYqXNofrrGKS7dixoc2P5M7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-12-25",
+   "revenue": 7331839,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A younger man and a bolder woman",
+   "title": "Alice",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.35,
+   "vote_count": 356
+  },
+  "movie:833417": {
+   "backdrop_path": "/gr2KgfjOfCA4lxCH7yk5bgPIMkp.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Julie Roy",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Sylvie",
+     "n": "Anne Suarez"
+    },
+    {
+     "c": "Madame Lusigny",
+     "n": "Geneviève Mnich"
+    },
+    {
+     "c": "Nolan",
+     "n": "Nolan Arizmendi"
+    },
+    {
+     "c": "Chloé",
+     "n": "Sasha Lemaître Cremaschi"
+    },
+    {
+     "c": "Vincent",
+     "n": "Cyril Gueï"
+    },
+    {
+     "c": "Jeanne Delacroix",
+     "n": "Lucie Gallo"
+    },
+    {
+     "c": "Sophie",
+     "n": "Agathe Dronne"
+    },
+    {
+     "c": "Lydia",
+     "n": "Mathilde Weil"
+    },
+    {
+     "c": "Amina",
+     "n": "Dana Fiaque"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Eric Gravel"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 833417,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Julie finally gets an interview for a job where she can raise her children better only to run into a national transit strike.",
+   "popularity": 0.9083,
+   "poster_path": "/nH6MyOu4wdHnI3Im7PtpaqVRGQB.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-16",
+   "revenue": 42566,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Full Time",
+   "trailer": {
+    "key": "ax65fImmTyI",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 365
+  },
+  "movie:843617": {
+   "backdrop_path": "/4XgQ3Uxu2XbZbs2dZ2TQu6Uju3s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mack",
+     "n": "Gina Rodriguez"
+    },
+    {
+     "c": "Adam",
+     "n": "Damon Wayans Jr."
+    },
+    {
+     "c": "Nick Russell",
+     "n": "Tom Ellis"
+    },
+    {
+     "c": "Brannagan",
+     "n": "Augustus Prew"
+    },
+    {
+     "c": "Ryan 'Little'",
+     "n": "Joel Courtney"
+    },
+    {
+     "c": "Ashley",
+     "n": "Liza Koshy"
+    },
+    {
+     "c": "Carl",
+     "n": "Jerry Kernion"
+    },
+    {
+     "c": "Claire",
+     "n": "Ego Nwodim"
+    },
+    {
+     "c": "Kirk",
+     "n": "Marin Hinkle"
+    },
+    {
+     "c": "Brady Stratton",
+     "n": "Brock O'Hurn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Trish Sie"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 843617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "New York sportswriter Mack has spent years devising successful hook-up \"plays\" with her friends, but when she unexpectedly falls for one of her targets, she must learn what it takes to go from simply scoring to playing for keeps.",
+   "popularity": 3.1066,
+   "poster_path": "/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-02-13",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is a team sport",
+   "title": "Players",
+   "trailer": {
+    "key": "8gH6AEBwEAw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.039,
+   "vote_count": 343
   },
   "movie:844417": {
    "backdrop_path": "/1KpCjh3hedCEX8mvxtldU0Z2IiE.jpg",

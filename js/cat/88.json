@@ -1,6 +1,6 @@
 {
  "bucket": "88",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:1088": {
    "backdrop_path": "/dLJ6qwEXg2AglBSClRV5iVYZI1b.jpg",
@@ -1205,6 +1205,129 @@
    "vote_average": 7.81,
    "vote_count": 21
   },
+  "movie:1888": {
+   "backdrop_path": "/x9krjfbtFfv1ouL8A59324M7O0e.jpg",
+   "budget": 3705000,
+   "cast": [
+    {
+     "c": "Harry Hinkle",
+     "n": "Jack Lemmon"
+    },
+    {
+     "c": "Willie Gingrich",
+     "n": "Walter Matthau"
+    },
+    {
+     "c": "Boom Boom Jackson",
+     "n": "Ron Rich"
+    },
+    {
+     "c": "Sandy Hinkle",
+     "n": "Judi West"
+    },
+    {
+     "c": "Purkey",
+     "n": "Cliff Osmond"
+    },
+    {
+     "c": "Mother Hinkle",
+     "n": "Lurene Tuttle"
+    },
+    {
+     "c": "O'Brien",
+     "n": "Harry Holcombe"
+    },
+    {
+     "c": "Thompson",
+     "n": "Les Tremayne"
+    },
+    {
+     "c": "Charlotte Gingrich",
+     "n": "Marge Redmond"
+    },
+    {
+     "c": "Sister Veronica",
+     "n": "Ann Shoemaker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Billy Wilder"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1888,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "TV cameraman Harry Hinkle is injured while filming a football game. Seeing big dollar signs, his unscrupulous ambulance-chasing lawyer brother-in-law Willie Gingrich enters the picture, and convinces Harry to overstate his injuries and claim $1 million in pain and suffering. Harry's similarly-minded ex-wife suddenly reappears in an attempt to rekindle their relationship.",
+   "popularity": 1.7773,
+   "poster_path": "/tGZc0sRoXgGzRDhHaCRmqxNSKVZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-10-19",
+   "revenue": 6800000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Is he a spy? A security risk? Is he unfaithful? Or is he a nice, normal shnook - out to make a million bucks by sheer accident!",
+   "title": "The Fortune Cookie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.178,
+   "vote_count": 369
+  },
   "movie:18988": {
    "backdrop_path": "/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
    "budget": 4000000,
@@ -1366,6 +1489,138 @@
    "type": "movie",
    "vote_average": 7.37,
    "vote_count": 424
+  },
+  "movie:1988": {
+   "backdrop_path": "/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Mariane Pearl",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Daniel Pearl",
+     "n": "Dan Futterman"
+    },
+    {
+     "c": "Zeeshan Kazmi",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Asra Q. Nomani",
+     "n": "Archie Panjabi"
+    },
+    {
+     "c": "John Bussey",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Adam Pearl",
+     "n": "Harvesp Viraf Chiniwala"
+    },
+    {
+     "c": "Asra's Boyfriend",
+     "n": "Azfar Ali"
+    },
+    {
+     "c": "Maureen Platt",
+     "n": "Jillian Armenante"
+    },
+    {
+     "c": "Matt McDowell",
+     "n": "Zachary Coffin"
+    },
+    {
+     "c": "John Skelton",
+     "n": "Demetri Goritsas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Winterbottom"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "History"
+   ],
+   "id": 1988,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on Mariane Pearl's account of the terrifying and unforgettable story of her husband, Wall Street Journal reporter Danny Pearl's life and death.",
+   "popularity": 1.7597,
+   "poster_path": "/z5f7KPg8vqqYXtaF0wUkSWryDIg.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-06-22",
+   "revenue": 18928871,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "fr",
+    "ur",
+    "lt",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One woman dared to keep hope alive.",
+   "title": "A Mighty Heart",
+   "trailer": {
+    "key": "G7EDc354h1k",
+    "name": "A Mighty Heart - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.378,
+   "vote_count": 362
   },
   "movie:21788": {
    "backdrop_path": "/uHEnql66pAI5KCyOZ7waxFK0fVj.jpg",
@@ -2038,6 +2293,329 @@
    "vote_average": 6.4,
    "vote_count": 399
   },
+  "movie:347688": {
+   "backdrop_path": "/asiuMK2TcJGhbcn2dvHF2nLqpqw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred / Scooby-Doo (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Velma (voice)",
+     "n": "Mindy Cohn"
+    },
+    {
+     "c": "Shaggy (voice)",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Daphne (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Demon (voice)",
+     "n": "Gene Simmons"
+    },
+    {
+     "c": "Starchild (voice)",
+     "n": "Paul Stanley"
+    },
+    {
+     "c": "Catman (voice)",
+     "n": "Eric Singer"
+    },
+    {
+     "c": "Manny Goldman (voice)",
+     "n": "Garry Marshall"
+    },
+    {
+     "c": "Chip McGhoo (voice)",
+     "n": "Doc McGhee"
+    },
+    {
+     "c": "Delilah Domino (voice)",
+     "n": "Pauley Perrette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Spike Brandt",
+    "Tony Cervone"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 347688,
+   "industry": "world",
+   "origin_country": [
+    "DK",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Get ready to Rock! Scooby-Doo and the Mystery Inc. Gang team up with the one and only KISS in this all-new, out-of-this-world adventure! We join the Gang at KISS World – the all-things-KISS theme park, as they investigate a series of strange hauntings. With help from KISS, they discover that the Crimson Witch has returned to summon The Destroyer from the alternate dimension of Kissteria! The evil duos ghastly plan, to destroy the earth! Can the Gang's cunning and KISS's power of rock save the day?!",
+   "popularity": 1.9985,
+   "poster_path": "/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-09",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+   "trailer": {
+    "key": "A35YBHx0ots",
+    "name": "Scooby-Doo! & Kiss: Rock & Roll Mystery Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.916,
+   "vote_count": 363
+  },
+  "movie:38288": {
+   "backdrop_path": "/mFVGzW8a2Z37NphnuB6liChiuRv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aldo",
+     "n": "Aldo Baglio"
+    },
+    {
+     "c": "Giacomo",
+     "n": "Giacomo Poretti"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Giovanni Storti"
+    },
+    {
+     "c": "Marina",
+     "n": "Marina Massironi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Arturo Brachetti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 38288,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "I Corti (\"Shorts\") by Aldo, Giovanni & Giacomo was the first stage show of the comedy trio, with the participation of Marina Massironi. It was recorded live at the Teatro Nuovo in Ferrara on 28 and 29 March 1996. Produced by Agidi, with the theatre direction of Arturo Brachetti.",
+   "popularity": 1.0102,
+   "poster_path": "/y3hEulMYSTQuvmI5jBTyWrcvJQX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-03-29",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "“The Shorts” by Aldo, Giovanni and Giacomo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.116,
+   "vote_count": 366
+  },
+  "movie:463088": {
+   "backdrop_path": "/xqHgdHqW2zYKP5loe1o7ScccebV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (voice)",
+     "n": "James Wilks"
+    },
+    {
+     "c": "Self",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Self",
+     "n": "Patrik Baboumian"
+    },
+    {
+     "c": "Self",
+     "n": "Scott Jurek"
+    },
+    {
+     "c": "Self",
+     "n": "Dotsie Bausch"
+    },
+    {
+     "c": "Self",
+     "n": "Tia Blanco"
+    },
+    {
+     "c": "Self",
+     "n": "Nimai Delgado"
+    },
+    {
+     "c": "Self",
+     "n": "Rip Esselstyn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Louie Psihoyos"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 463088,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From the UFC Octagon in Las Vegas and the anthropology lab at Dartmouth, to a strongman gym in Berlin and the bushlands of Zimbabwe, the world is introduced to elite athletes, special ops soldiers, visionary scientists, cultural icons, and everyday heroes—each on a mission to create a seismic shift in the way we eat and live.",
+   "popularity": 1.5534,
+   "poster_path": "/eufF3xEif5EZ1gTjdubw3KWh9xU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-16",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Armed with the truth",
+   "title": "The Game Changers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 353
+  },
   "movie:475888": {
    "backdrop_path": "/Oeo4ZabmekrqCQyn34SI95692d.jpg",
    "budget": 0,
@@ -2375,6 +2953,97 @@
    "vote_average": 6.1,
    "vote_count": 478
   },
+  "movie:547388": {
+   "backdrop_path": "/5ayg658eADu2IehWvTktZNjfzgX.jpg",
+   "budget": 9598644,
+   "cast": [
+    {
+     "c": "Frédéric Bartel",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Samy",
+     "n": "Malik Bentalha"
+    },
+    {
+     "c": "Leïla",
+     "n": "Sabrina Ouazani"
+    },
+    {
+     "c": "Élodie",
+     "n": "Camille Lou"
+    },
+    {
+     "c": "Sidonie",
+     "n": "Anne-Elisabeth Blateau"
+    },
+    {
+     "c": "Gilou",
+     "n": "Loïc Legendre"
+    },
+    {
+     "c": "Mike",
+     "n": "Hugo Becker"
+    },
+    {
+     "c": "Ari",
+     "n": "Harmandeep Palminder"
+    },
+    {
+     "c": "Bibiche",
+     "n": "Karim Belkhadra"
+    },
+    {
+     "c": "Mariama",
+     "n": "Annabelle Lengronne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Mohamed Hamidi"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 547388,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Fred Bartel is the charismatic boss of a trendy Parisian communication agency, Happy Few. After a heated tax audit, he was forced by the administration to relocate overnight his company in La Courneuve. Fred and his team meet Samy, a young suburb who will quickly propose to teach them the rules and practices to adopt in this new environment.",
+   "popularity": 1.2817,
+   "poster_path": "/a2WTpc0HpC2fSIFJu6fLe7oyx2t.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-02-27",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cv",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "New Biz in the Hood",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.841,
+   "vote_count": 350
+  },
   "movie:575088": {
    "backdrop_path": "/rXQiuJn0DVfEAlYcALUpiYmmQEp.jpg",
    "budget": 0,
@@ -2523,6 +3192,110 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 390
+  },
+  "movie:614488": {
+   "backdrop_path": "/jH1f7VaYtMCyqgJRoG7lCg8krxO.jpg",
+   "budget": 2700000,
+   "cast": [
+    {
+     "c": "Noumouké",
+     "n": "Bakary Diombera"
+    },
+    {
+     "c": "Soulaymaan",
+     "n": "Jammeh Diangana"
+    },
+    {
+     "c": "Lisa",
+     "n": "Chloé Jouannet"
+    },
+    {
+     "c": "Demba",
+     "n": "Alix Mathurin"
+    },
+    {
+     "c": "Samir",
+     "n": "Dali Benssalah"
+    },
+    {
+     "c": "'Le Cuistot'",
+     "n": "Slimane Dazi"
+    },
+    {
+     "c": "Sofia",
+     "n": "Cherine Ghemri"
+    },
+    {
+     "c": "Sahli",
+     "n": "Ahmed Bedda"
+    },
+    {
+     "c": "Farid",
+     "n": "Aïmen Derriachi"
+    },
+    {
+     "c": "Dominique",
+     "n": "Mathieu Kassovitz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Alix Mathurin",
+    "Leïla Sy"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 614488,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Noumouké, from the suburb of Paris, is about to decide which brother's foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.",
+   "popularity": 1.7621,
+   "poster_path": "/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-12",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Street Flow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.921,
+   "vote_count": 380
   },
   "movie:747688": {
    "backdrop_path": "/jpadmB7KftfYHJnyY9e8AFH60L8.jpg",

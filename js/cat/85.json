@@ -1,7 +1,182 @@
 {
  "bucket": "85",
- "count": 41,
+ "count": 51,
  "titles": {
+  "movie:11085": {
+   "backdrop_path": "/dZJpcnokyQ86wrUNooiRJGmDMHT.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "First Lieutnant Fletcher Christian",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Capt. William Bligh",
+     "n": "Trevor Howard"
+    },
+    {
+     "c": "Seaman John Mills",
+     "n": "Richard Harris"
+    },
+    {
+     "c": "Alexander Smith",
+     "n": "Hugh Griffith"
+    },
+    {
+     "c": "William Brown",
+     "n": "Richard Haydn"
+    },
+    {
+     "c": "Matthew Quintal",
+     "n": "Percy Herbert"
+    },
+    {
+     "c": "Seaman Edward Birkett",
+     "n": "Gordon Jackson"
+    },
+    {
+     "c": "Michael Byrne",
+     "n": "Chips Rafferty"
+    },
+    {
+     "c": "Seaman William McCoy",
+     "n": "Noel Purcell"
+    },
+    {
+     "c": "John Fryer",
+     "n": "Eddie Byrne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lewis Milestone"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+   ],
+   "id": 11085,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Bounty leaves Portsmouth in 1787. Its destination: to sail to Tahiti and load bread-fruit. Captain Bligh will do anything to get there as fast as possible, using any means to keep up a strict discipline. When they arrive at Tahiti, it is like a paradise for the crew, something completely different than the living hell aboard the ship. On the way back to England, officer Fletcher Christian becomes the leader of a mutiny.",
+   "popularity": 3.3202,
+   "poster_path": "/caxk06SANEacvycZFiApv1LA6Kl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1962-11-08",
+   "revenue": 13680000,
+   "runtime": 185,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "sm",
+    "fr",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "The mightiest excitement that ever swept across the sea or the screen!",
+   "title": "Mutiny on the Bounty",
+   "trailer": {
+    "key": "Ur25pXcI52o",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.034,
+   "vote_count": 364
+  },
   "movie:12185": {
    "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
    "budget": 15000000,
@@ -1469,6 +1644,398 @@
    "vote_average": 6.6,
    "vote_count": 390
   },
+  "movie:18885": {
+   "backdrop_path": "/2m8gk7KmYk5POA5b4Xr7URBsK4P.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Grandpa",
+     "n": "Victor Wong"
+    },
+    {
+     "c": "Colt",
+     "n": "Max Elliott Slade"
+    },
+    {
+     "c": "Rocky",
+     "n": "Sean Fox"
+    },
+    {
+     "c": "Tum Tum",
+     "n": "J. Evan Bonifant"
+    },
+    {
+     "c": "Miyo",
+     "n": "Caroline Junko King"
+    },
+    {
+     "c": "Glam",
+     "n": "Dustin Nguyen"
+    },
+    {
+     "c": "Sam",
+     "n": "Alan McRae"
+    },
+    {
+     "c": "Jessica",
+     "n": "Margarita Franco"
+    },
+    {
+     "c": "Vinnie",
+     "n": "Jason Schombing"
+    },
+    {
+     "c": "Slam",
+     "n": "Angelo Tiffe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Charles T. Kanganis"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Action",
+    "Comedy"
+   ],
+   "id": 18885,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a championship baseball match, the three brothers hear that their grandfather in Japan is in trouble, and head out to help him, conceding the match. When they arrive in Japan, they must use all their powers to defend him against his ancient enemy, who has returned to exact revenge.",
+   "popularity": 2.1684,
+   "poster_path": "/kXuh3c0DyvqSGo0DBatoemBwEtz.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-02-25",
+   "revenue": 11798854,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Colt, Rocky and Tum Tum are back for bigger kicks in an all new adventure",
+   "title": "3 Ninjas Kick Back",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 342
+  },
+  "movie:209185": {
+   "backdrop_path": "/wUG2O57Rg0hrMtwsL6b9etPkKAD.jpg",
+   "budget": 12700000,
+   "cast": [
+    {
+     "c": "Murray French",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Dr. Lewis",
+     "n": "Taylor Kitsch"
+    },
+    {
+     "c": "Simon",
+     "n": "Gordon Pinsent"
+    },
+    {
+     "c": "Kathleen",
+     "n": "Liane Balaban"
+    },
+    {
+     "c": "Henry Tilley",
+     "n": "Mark Critch"
+    },
+    {
+     "c": "Trip Anderson",
+     "n": "Peter Keleghan"
+    },
+    {
+     "c": "Vera",
+     "n": "Mary Walsh"
+    },
+    {
+     "c": "Ellie",
+     "n": "Margaret Killingbeck"
+    },
+    {
+     "c": "Barbara French",
+     "n": "Cathy Jones"
+    },
+    {
+     "c": "Frank Dalton",
+     "n": "Matt Watts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Don McKellar"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 209185,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A small fishing village must procure a local doctor to secure a lucrative business contract. When unlikely candidate and big city doctor Paul Lewis lands in their lap for a trial residence, the townsfolk rally together to charm him into staying. As the doctor’s time in the village winds to a close, acting mayor Murray French has no choice but to pull out all the stops and begin The Grand Seduction.",
+   "popularity": 1.3429,
+   "poster_path": "/jEmeM9BKYWaCxzX0nF6thqLl9zp.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-05-30",
+   "revenue": 3430018,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The small town of Tickle Cove needed a doctor. What they got was a miracle.",
+   "title": "The Grand Seduction",
+   "trailer": {
+    "key": "01lMJa-bPQ4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.675,
+   "vote_count": 381
+  },
+  "movie:2185": {
+   "backdrop_path": "/jY6EdpztuCUPwWzlVHC2BW4K50r.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Eliot Arnold",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Anna Herk",
+     "n": "Rene Russo"
+    },
+    {
+     "c": "Matt Arnold",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "Puggy",
+     "n": "Jason Lee"
+    },
+    {
+     "c": "Arthur Herk",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Henry Desalvo",
+     "n": "Dennis Farina"
+    },
+    {
+     "c": "Jenny Herk",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "Monica Romero",
+     "n": "Janeane Garofalo"
+    },
+    {
+     "c": "Nina",
+     "n": "Sofía Vergara"
+    },
+    {
+     "c": "Snake",
+     "n": "Tom Sizemore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Barry Sonnenfeld"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 2185,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of how a mysterious suitcase brings together, and changes, the lives of a divorced dad, an unhappy housewife, two hitmen, a pair of street thugs, two love struck teens, two FBI men and a psychedelic toad. Based on Pulitzer Prize-winning humorist Dave Barry's best-selling first novel, \"Big Trouble.\"",
+   "popularity": 2.2121,
+   "poster_path": "/h844gBztdYMLrroUen6qbsomrGx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-04-05",
+   "revenue": 8493890,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They have forty-five minutes to save the world. They need forty-six.",
+   "title": "Big Trouble",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 346
+  },
   "movie:23685": {
    "backdrop_path": "/ntVB3LgyvKIaw6Dk29ZuDsV3TSR.jpg",
    "budget": 75000000,
@@ -2260,6 +2827,507 @@
    "vote_average": 5.901,
    "vote_count": 424
   },
+  "movie:431185": {
+   "backdrop_path": "/dMy6C8tcvXNFuOdL6pdppmvAgia.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Laura",
+     "n": "Yvonne Strahovski"
+    },
+    {
+     "c": "Shawn",
+     "n": "Justin Bruening"
+    },
+    {
+     "c": "Maddie",
+     "n": "Abigail Pniowsky"
+    },
+    {
+     "c": "Owen",
+     "n": "Julian Bailey"
+    },
+    {
+     "c": "Kayla",
+     "n": "Anna Pniowsky"
+    },
+    {
+     "c": "Clerk",
+     "n": "Stephanie Costa"
+    },
+    {
+     "c": "Masked Man",
+     "n": "Ryan McDonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dennis Iliadis"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 431185,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.",
+   "popularity": 1.7809,
+   "poster_path": "/pi9Zo4uIATSe8cQ96cCOWJ1qdGw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-25",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "He's Out There",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.945,
+   "vote_count": 357
+  },
+  "movie:4985": {
+   "backdrop_path": "/tIXJy1WbgtILBrD1HALZiBhlfAD.jpg",
+   "budget": 2900000,
+   "cast": [
+    {
+     "c": "Paul Crewe",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Warden Hazen",
+     "n": "Eddie Albert"
+    },
+    {
+     "c": "Captain Knauer",
+     "n": "Ed Lauter"
+    },
+    {
+     "c": "Nate Scarboro",
+     "n": "Michael Conrad"
+    },
+    {
+     "c": "Caretaker",
+     "n": "James Hampton"
+    },
+    {
+     "c": "Granville",
+     "n": "Harry Caesar"
+    },
+    {
+     "c": "Pop",
+     "n": "John Steadman"
+    },
+    {
+     "c": "Unger",
+     "n": "Charles Tyner"
+    },
+    {
+     "c": "Rassmeusen",
+     "n": "Mike Henry"
+    },
+    {
+     "c": "Samson",
+     "n": "Richard Kiel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Aldrich"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 4985,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A football player-turned-convict organizes a team of inmates to play against a team of prison guards. His dilemma is that the warden asks him to throw the game in return for an early release, but he is also concerned about the inmates' lack of self-esteem.",
+   "popularity": 4.8326,
+   "poster_path": "/2qtpPGRpMEnwhRRoq3iqyQm238V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-08-21",
+   "revenue": 43008075,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's survival of the fiercest and funniest",
+   "title": "The Longest Yard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.744,
+   "vote_count": 344
+  },
+  "movie:5185": {
+   "backdrop_path": "/9FxGJdhpvDjb0qvhEjNFT3a1r4L.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Robert Stephens"
+    },
+    {
+     "c": "Dr. John Watson",
+     "n": "Colin Blakely"
+    },
+    {
+     "c": "Gabrielle Valadon",
+     "n": "Geneviève Page"
+    },
+    {
+     "c": "Mycroft Holmes",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Madame Petrova",
+     "n": "Tamara Toumanova"
+    },
+    {
+     "c": "Nikolai Rogozhin",
+     "n": "Clive Revill"
+    },
+    {
+     "c": "Mrs. Hudson",
+     "n": "Irene Handl"
+    },
+    {
+     "c": "Queen Victoria",
+     "n": "Mollie Maureen"
+    },
+    {
+     "c": "Gravedigger",
+     "n": "Stanley Holloway"
+    },
+    {
+     "c": "Woman in Wheelchair",
+     "n": "Catherine Lacey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Billy Wilder"
+   ],
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Comedy"
+   ],
+   "id": 5185,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a bored Sherlock eagerly takes the case of Gabrielle Valladon following an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
+   "popularity": 2.2842,
+   "poster_path": "/vQSYu0DXkqTOEfWF21AzaqXxYCZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1970-10-29",
+   "revenue": 1500000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Anything But Elementary.",
+   "title": "The Private Life of Sherlock Holmes",
+   "trailer": {
+    "key": "sFvUB6cn_IA",
+    "name": "THE PRIVATE LIFE OF SHERLOCK HOLMES (Masters of Cinema) New & Exclusive Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.812,
+   "vote_count": 356
+  },
+  "movie:571785": {
+   "backdrop_path": "/a8ppJJIQmEJcLSFfhxupc4aT4KW.jpg",
+   "budget": 9070000,
+   "cast": [
+    {
+     "c": "Jun-seok",
+     "n": "Lee Je-hoon"
+    },
+    {
+     "c": "Jang-ho",
+     "n": "Ahn Jae-hong"
+    },
+    {
+     "c": "Ki-hoon",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Sang-soo",
+     "n": "Park Jeong-min"
+    },
+    {
+     "c": "Han",
+     "n": "Park Hae-soo"
+    },
+    {
+     "c": "Ki-hoon's Mother",
+     "n": "Lee Hang-na"
+    },
+    {
+     "c": "Ki-hoon's Father",
+     "n": "Seung Eui-yeol"
+    },
+    {
+     "c": "Security Chief",
+     "n": "Song Yo-sep"
+    },
+    {
+     "c": "Tae-geun",
+     "n": "Bae Je-gi"
+    },
+    {
+     "c": "Bong-sik / Bong-soo",
+     "n": "Cho Seong-ha"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Yoon Sung-hyun"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller"
+   ],
+   "id": 571785,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Four young men want to leave their dystopian world behind and go to a distant paradise to execute a money robbery, a daring act that will have unexpected consequences.",
+   "popularity": 1.8926,
+   "poster_path": "/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-22",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "We became its prey.",
+   "title": "Time to Hunt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.122,
+   "vote_count": 357
+  },
   "movie:582885": {
    "backdrop_path": "/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
    "budget": 0,
@@ -2745,6 +3813,126 @@
    "vote_average": 6.0,
    "vote_count": 442
   },
+  "movie:9085": {
+   "backdrop_path": "/tUPLfffhiJqvb75onmrC0nUkWax.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Quick",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Sugar Ray",
+     "n": "Richard Pryor"
+    },
+    {
+     "c": "Bennie Wilson",
+     "n": "Redd Foxx"
+    },
+    {
+     "c": "Phil Cantone",
+     "n": "Danny Aiello"
+    },
+    {
+     "c": "Bugsy Calhoune",
+     "n": "Michael Lerner"
+    },
+    {
+     "c": "Vera",
+     "n": "Della Reese"
+    },
+    {
+     "c": "Annie",
+     "n": "Berlinda Tolbert"
+    },
+    {
+     "c": "Jack Jenkins",
+     "n": "Stan Shaw"
+    },
+    {
+     "c": "Dominique La Rue",
+     "n": "Jasmine Guy"
+    },
+    {
+     "c": "Richie Vento",
+     "n": "Vic Polizos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eddie Murphy"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 9085,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "'Sugar' Ray is the owner of an illegal casino and must contend with the pressure of vicious gangsters and corrupt police who want to see him go out of business. In the world of organised crime and police corruption in the 1920s, any dastardly trick is fair.",
+   "popularity": 2.1809,
+   "poster_path": "/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-11-17",
+   "revenue": 60864870,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're up to something big.",
+   "title": "Harlem Nights",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.05,
+   "vote_count": 380
+  },
   "movie:931285": {
    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
    "budget": 80000000,
@@ -2995,6 +4183,117 @@
    "type": "movie",
    "vote_average": 6.901,
    "vote_count": 385
+  },
+  "movie:9685": {
+   "backdrop_path": "/szK2fXjZ88sM0aHFQ9JziyWIJ64.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Igby",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Mimi",
+     "n": "Susan Sarandon"
+    },
+    {
+     "c": "D.H.",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Sookie",
+     "n": "Claire Danes"
+    },
+    {
+     "c": "Russel",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Rachel",
+     "n": "Amanda Peet"
+    },
+    {
+     "c": "Oliver",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Jason",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "10-Year-Old Igby",
+     "n": "Rory Culkin"
+    },
+    {
+     "c": "13-Year-Old Oliver",
+     "n": "Peter Anthony Tambakis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Burr Steers"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 9685,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Igby Slocumb, a rebellious and sarcastic 17-year-old boy, is at war with the stifling world of old money privilege he was born into. With a schizophrenic father, a self-absorbed, distant mother, and a shark-like young Republican big brother, Igby figures there must be a better life out there -- and sets about finding it.",
+   "popularity": 1.5386,
+   "poster_path": "/f53JBgzYESamcYT3LkUeeoSXPgi.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-05-01",
+   "revenue": 4777465,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Insanity is relative.",
+   "title": "Igby Goes Down",
+   "trailer": {
+    "key": "TiixYclELs8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.577,
+   "vote_count": 369
   },
   "tv:19885": {
    "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",

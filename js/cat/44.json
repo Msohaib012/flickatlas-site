@@ -1,7 +1,119 @@
 {
  "bucket": "44",
- "count": 40,
+ "count": 50,
  "titles": {
+  "movie:1053544": {
+   "backdrop_path": "/omRgNEWxU8wDbh5Qfdadf4l6V9n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frigga Vibenius",
+     "n": "Tuva Novotny"
+    },
+    {
+     "c": "Tage Vibenius",
+     "n": "Peter Franzén"
+    },
+    {
+     "c": "Dabir Ayobi",
+     "n": "Kardo Razzazi"
+    },
+    {
+     "c": "Mika Vibenius",
+     "n": "Felicia Truedsson"
+    },
+    {
+     "c": "Erika Svalin",
+     "n": "Angela Kovács"
+    },
+    {
+     "c": "Aila",
+     "n": "Tintin Poggats Sarri"
+    },
+    {
+     "c": "Simon Vibenius",
+     "n": "Edvin Ryding"
+    },
+    {
+     "c": "Livli",
+     "n": "Åsa Simma"
+    },
+    {
+     "c": "Patrik",
+     "n": "Jonathan Fredriksson"
+    },
+    {
+     "c": "Joakim Lundmark",
+     "n": "Jakob Hultcrantz Hansson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Holm"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Action"
+   ],
+   "id": 1053544,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "As the Swedish town of Kiruna sinks, Frigga finds herself torn between her family and her job as security chief at the world's largest underground mine.",
+   "popularity": 2.1567,
+   "poster_path": "/ta1B8QQ3pBRA0TG8wH0CfgG6vlp.jpg",
+   "production_countries": [
+    "FI",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-15",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "NOT IF. BUT WHEN.",
+   "title": "The Abyss",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 341
+  },
   "movie:10544": {
    "backdrop_path": "/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg",
    "budget": 0,
@@ -436,6 +548,96 @@
    "vote_average": 5.129,
    "vote_count": 481
   },
+  "movie:11144": {
+   "backdrop_path": "/a7m4NkcKcN6ancZdIs3jBCvNIBU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bulldozer",
+     "n": "Bud Spencer"
+    },
+    {
+     "c": "Sergeant Kempfer",
+     "n": "Raimund Harmstorf"
+    },
+    {
+     "c": "Gerry",
+     "n": "Ottaviano Dell'Acqua"
+    },
+    {
+     "c": "Ghigo",
+     "n": "Nando Paone"
+    },
+    {
+     "c": "Tojo (Red-haired boy)",
+     "n": "Enzo Santaniello"
+    },
+    {
+     "c": "Tony",
+     "n": "Marco Stefanelli"
+    },
+    {
+     "c": "Spitz",
+     "n": "Giovanni Vettorazzo"
+    },
+    {
+     "c": "Colonel Martin",
+     "n": "Reinhard Kolldehoff"
+    },
+    {
+     "c": "Alberto Sarticoli 'Orso' a/k/a 'Bear'",
+     "n": "Joe Bugner"
+    },
+    {
+     "c": "Meccanico (as Gigi Bonos)",
+     "n": "Luigi Bonos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Michele Lupo"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 11144,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The \"Bulldozer\", a former football star, is now working as a fisherman. As a group of street-people arranges a football match against the local Armybase, he is asked to be their trainer. His boat was damaged by a submarine and he currently has no work, so he agrees.",
+   "popularity": 1.4742,
+   "poster_path": "/qVaw72xh9ViQ5GHoegAbzcmBQb.jpg",
+   "production_countries": [
+    "DE",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1978-09-15",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "They Called Him Bulldozer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.883,
+   "vote_count": 360
+  },
   "movie:1115544": {
    "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
    "budget": 0,
@@ -848,6 +1050,162 @@
    "vote_average": 6.223,
    "vote_count": 110
   },
+  "movie:1151244": {
+   "backdrop_path": "/fYepNPcgAYHQRMNZW95oOykLRgQ.jpg",
+   "budget": 4600000,
+   "cast": [
+    {
+     "c": "Cesare",
+     "n": "Tommaso Ragno"
+    },
+    {
+     "c": "Pietro",
+     "n": "Giuseppe De Domenico"
+    },
+    {
+     "c": "Adele",
+     "n": "Roberta Rovelli"
+    },
+    {
+     "c": "Lucia",
+     "n": "Martina Scrinzi"
+    },
+    {
+     "c": "Zia Cesira",
+     "n": "Orietta Notari"
+    },
+    {
+     "c": "Virginia",
+     "n": "Carlotta Gamba"
+    },
+    {
+     "c": "Attilio",
+     "n": "Santiago Fondevila"
+    },
+    {
+     "c": "Anna Pennisi",
+     "n": "Sara Serraiocco"
+    },
+    {
+     "c": "Ada",
+     "n": "Rachele Potrich"
+    },
+    {
+     "c": "Flavia",
+     "n": "Anna Thaler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Maura Delpero"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1151244,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In the last days of the Second World War, a deserting soldier disrupts a tranquil and isolated mountain community. For one family, his arrival brings excitement and romance, but tragedy lies in wait.",
+   "popularity": 2.4255,
+   "poster_path": "/aeCwM7c1Y1IAu3Oqqj5A2tSziWR.jpg",
+   "production_countries": [
+    "IT",
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-19",
+   "revenue": 4380000,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Vermiglio",
+   "trailer": {
+    "key": "701RfY55ppQ",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.986,
+   "vote_count": 349
+  },
   "movie:1323244": {
    "backdrop_path": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
    "budget": 0,
@@ -1255,6 +1613,166 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 24
+  },
+  "movie:18444": {
+   "backdrop_path": "/vNijAksUUekLP0sMuuGctkSFK2L.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Father",
+     "n": "John Mills"
+    },
+    {
+     "c": "Mother",
+     "n": "Dorothy McGuire"
+    },
+    {
+     "c": "Fritz",
+     "n": "James MacArthur"
+    },
+    {
+     "c": "Roberta 'Bertie'",
+     "n": "Janet Munro"
+    },
+    {
+     "c": "Kuala, Pirate Chief",
+     "n": "Sessue Hayakawa"
+    },
+    {
+     "c": "Ernst",
+     "n": "Tommy Kirk"
+    },
+    {
+     "c": "Francis",
+     "n": "Kevin Corcoran"
+    },
+    {
+     "c": "Captain Moreland",
+     "n": "Cecil Parker"
+    },
+    {
+     "c": "Auban",
+     "n": "Andy Ho"
+    },
+    {
+     "c": "Big Pirate",
+     "n": "Milton Reid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ken Annakin"
+   ],
+   "genres": [
+    "Adventure",
+    "Family"
+   ],
+   "id": 18444,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being shipwrecked, the Robinson family is marooned on an island inhabited only by an impressive array of wildlife. In true pioneer spirit, they quickly make themselves at home but soon face a danger even greater than nature: dastardly pirates.",
+   "popularity": 2.1436,
+   "poster_path": "/3ZItm1RcdwNuPnCaaqEFGrbVlcO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1960-12-21",
+   "revenue": 40356000,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "THE ADVENTURE OF ADVENTURES!",
+   "title": "Swiss Family Robinson",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.832,
+   "vote_count": 381
   },
   "movie:2144": {
    "backdrop_path": "/wLNMNO87pYqUAgbJE5xZGNUK46S.jpg",
@@ -1916,6 +2434,243 @@
    "vote_average": 6.9,
    "vote_count": 392
   },
+  "movie:411144": {
+   "backdrop_path": "/wm5QhKgitszib5KjaWeNK6yAgoj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Merricat Blackwood",
+     "n": "Taissa Farmiga"
+    },
+    {
+     "c": "Constance Blackwood",
+     "n": "Alexandra Daddario"
+    },
+    {
+     "c": "Uncle Julian Blackwood",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Charles Blackwood",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Helen Clarke",
+     "n": "Paula Malcomson"
+    },
+    {
+     "c": "Bobby Dunham",
+     "n": "Peter Coonan"
+    },
+    {
+     "c": "Jim Donnell",
+     "n": "Ian Toner"
+    },
+    {
+     "c": "Stella",
+     "n": "Joanne Crawford"
+    },
+    {
+     "c": "Lucille Wright",
+     "n": "Anna Nugent"
+    },
+    {
+     "c": "Sam Clarke",
+     "n": "Peter O'Meara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Stacie Passon"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 411144,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Shirleyville, Vermont, during the sixties, sisters Merricat and Constance, along with their ailing uncle Julian, confined to a wheelchair, live isolated in a big mansion located on the hill overlooking the town, tormented by the memories of a family tragedy occurred six years ago. The arrival of cousin Charles will threaten the fragile equilibrium of their minds, haunted by madness, fear and superstition.",
+   "popularity": 2.0678,
+   "poster_path": "/ejp1MQSlekBjH3bBJrBlWItpmQW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-30",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "We Have Always Lived in the Castle",
+   "trailer": {
+    "key": "NQg-nUoMCBo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.534,
+   "vote_count": 350
+  },
   "movie:433244": {
    "backdrop_path": "/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg",
    "budget": 0,
@@ -2023,6 +2778,159 @@
    "type": "movie",
    "vote_average": 5.288,
    "vote_count": 453
+  },
+  "movie:507244": {
+   "backdrop_path": "/o0H6PjNX3wPS1JLOvw9Z0sEDDgW.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jake",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Drea",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "General Volkov",
+     "n": "Kristofer Hivju"
+    },
+    {
+     "c": "Valentine",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Gorynych",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Tank Commander",
+     "n": "Simon Merrells"
+    },
+    {
+     "c": "Father Samson",
+     "n": "Kevin Eldon"
+    },
+    {
+     "c": "Fuentes",
+     "n": "Eden Epstein"
+    },
+    {
+     "c": "Pilot",
+     "n": "George Somner"
+    },
+    {
+     "c": "Officer Sanchez",
+     "n": "Sergio Freijo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "J.J. Perry"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Comedy"
+   ],
+   "id": 507244,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+   "popularity": 4.4123,
+   "poster_path": "/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "SK"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-08-20",
+   "revenue": 1319121,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The apocalypse isn't for everybody.",
+   "title": "Afterburn",
+   "trailer": {
+    "key": "ZkEjle729tI",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 377
   },
   "movie:52744": {
    "backdrop_path": "/kKoiL1jeLFqqH2StTKvFnT54exu.jpg",
@@ -2136,6 +3044,120 @@
    "type": "movie",
    "vote_average": 6.646,
    "vote_count": 417
+  },
+  "movie:548544": {
+   "backdrop_path": "/u2Av6NyDeLkwYTBXxIGousLNzz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eurídice Gusmão",
+     "n": "Carol Duarte"
+    },
+    {
+     "c": "Guida Gusmão",
+     "n": "Julia Stockler"
+    },
+    {
+     "c": "Older Eurídice Gusmão",
+     "n": "Fernanda Montenegro"
+    },
+    {
+     "c": "Antenor",
+     "n": "Gregório Duvivier"
+    },
+    {
+     "c": "Filomena",
+     "n": "Bárbara Santos"
+    },
+    {
+     "c": "Ana",
+     "n": "Flávia Gusmão"
+    },
+    {
+     "c": "Manoel",
+     "n": "António Fonseca"
+    },
+    {
+     "c": "Zélia",
+     "n": "Maria Manoella"
+    },
+    {
+     "c": "Cecília",
+     "n": "Cristina Pereira"
+    },
+    {
+     "c": "Iorgus",
+     "n": "Nikolas Antunes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Karim Aïnouz"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 548544,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Rio de Janeiro, Brazil, 1950. In the conservative home of the Gusmão family, Eurídice and Guida are two inseparable sisters who support each other. While Guida can share with her younger sister the details of her romantic adventures, Eurídice finds in her older sister the encouragement she needs to pursue her dream of becoming a professional pianist.",
+   "popularity": 2.887,
+   "poster_path": "/dHmy5vHcEfeBfy72sWxAdeSBLmn.jpg",
+   "production_countries": [
+    "BR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-08",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "el",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "A tropical melodrama",
+   "title": "Invisible Life",
+   "trailer": {
+    "key": "NRF-Pba3QrE",
+    "name": "Invisible Life - Official Trailer | Amazon Studios",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 353
   },
   "movie:634544": {
    "backdrop_path": "/bfnUoHV9IPDGmxQmGAEOKIBNIWM.jpg",
@@ -2343,6 +3365,223 @@
    "type": "movie",
    "vote_average": 8.035,
    "vote_count": 474
+  },
+  "movie:653744": {
+   "backdrop_path": "/xSECYW2bdaJJCWcuv9IhuiKR9As.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Sérgio Vieira de Mello",
+     "n": "Wagner Moura"
+    },
+    {
+     "c": "Carolina Larriera",
+     "n": "Ana de Armas"
+    },
+    {
+     "c": "Bill Von Zehle",
+     "n": "Garret Dillahunt"
+    },
+    {
+     "c": "Andre Valentine",
+     "n": "Will Dalton"
+    },
+    {
+     "c": "Paul Bremer",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Gil Loescher",
+     "n": "Brían F. O'Byrne"
+    },
+    {
+     "c": "Gaby Pichon",
+     "n": "Clemens Schick"
+    },
+    {
+     "c": "Gilda Vieira de Mello",
+     "n": "Clarisse Abujamra"
+    },
+    {
+     "c": "General Xanana Gusmão",
+     "n": "Pedro Hossi"
+    },
+    {
+     "c": "Ieng Sary",
+     "n": "Sahajak Boonthanakit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greg Barker"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 653744,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Brazilian Sérgio Vieira de Mello hangs in the balance during the most treacherous mission of his career.",
+   "popularity": 1.6539,
+   "poster_path": "/tABtj9BwYVDCM69h7AK38MDgw64.jpg",
+   "production_countries": [
+    "AL",
+    "JO",
+    "TH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-01-28",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In a world of conflict, he risked everything for peace.",
+   "title": "Sergio",
+   "trailer": {
+    "key": "h03jLiWIXVI",
+    "name": "Sergio | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 369
+  },
+  "movie:657644": {
+   "backdrop_path": "/hAv1GwwatyWV1RFXOfaASxgUVm4.jpg",
+   "budget": 2111711,
+   "cast": [
+    {
+     "c": "Jaison / Minnal Murali / Martin Rangakala",
+     "n": "Tovino Thomas"
+    },
+    {
+     "c": "Shibu / Minnal Murali",
+     "n": "Guru Somasundaram"
+    },
+    {
+     "c": "Pothan",
+     "n": "Aju Varghese"
+    },
+    {
+     "c": "Josemon",
+     "n": "Vasisht Umesh"
+    },
+    {
+     "c": "Usha",
+     "n": "Shelly Kishore"
+    },
+    {
+     "c": "\"Bruce Lee\" Biji",
+     "n": "Femina George"
+    },
+    {
+     "c": "Varkey",
+     "n": "P Balachandran"
+    },
+    {
+     "c": "Daasan",
+     "n": "Harisree Ashokan"
+    },
+    {
+     "c": "S.I. Saajan",
+     "n": "Baiju Santhosh"
+    },
+    {
+     "c": "Jesmi",
+     "n": "Arya Salim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Basil Joseph"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 657644,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "A tailor gains special powers after being struck by lightning but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.",
+   "popularity": 1.386,
+   "poster_path": "/efetKFDyptrRpoHBb103Tg3Auw5.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-16",
+   "revenue": 0,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Minnal Murali",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 354
   },
   "movie:74944": {
    "backdrop_path": "/5li8dEJE67Ahe5j3gZPEY0ZRsgm.jpg",
@@ -2597,6 +3836,142 @@
    "type": "movie",
    "vote_average": 6.112,
    "vote_count": 456
+  },
+  "movie:895744": {
+   "backdrop_path": "/ppNyhrKHCeEgASliV4QN03bp6QR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dave Grohl",
+     "n": "Dave Grohl"
+    },
+    {
+     "c": "Taylor Hawkins",
+     "n": "Taylor Hawkins"
+    },
+    {
+     "c": "Nate Mendel",
+     "n": "Nate Mendel"
+    },
+    {
+     "c": "Pat Smear",
+     "n": "Pat Smear"
+    },
+    {
+     "c": "Chris Shiflett",
+     "n": "Chris Shiflett"
+    },
+    {
+     "c": "Rami Jaffee",
+     "n": "Rami Jaffee"
+    },
+    {
+     "c": "Samantha",
+     "n": "Whitney Cummings"
+    },
+    {
+     "c": "Barb Weems",
+     "n": "Leslie Grossman"
+    },
+    {
+     "c": "Darren Sandelbaum",
+     "n": "Will Forte"
+    },
+    {
+     "c": "Skye Willow",
+     "n": "Jenna Ortega"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "BJ McDonnell"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Music"
+   ],
+   "id": 895744,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.",
+   "popularity": 1.6318,
+   "poster_path": "/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-24",
+   "revenue": 3018515,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He gives new meaning to a killer track.",
+   "title": "Studio 666",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.839,
+   "vote_count": 373
   },
   "movie:9544": {
    "backdrop_path": "/5gnBqLDi1pjJxxCgpOJCu5VSLp1.jpg",

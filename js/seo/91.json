@@ -1,7 +1,71 @@
 {
  "bucket": "91",
- "count": 38,
+ "count": 50,
  "titles": {
+  "movie:10491": {
+   "d": "Enigma (2001): Mystery/Drama film. Story: The story of the WWII project to crack the code… See cast, TMDB rating 6.3/10, and release date 22 January 2001.",
+   "img": "https://image.tmdb.org/t/p/w780/pE334YKo9NNgee3VEGl6VR6gGSZ.jpg",
+   "industry": "world",
+   "k": "Enigma, Enigma movie, Enigma cast, Enigma story, Enigma box office collection, Enigma budget, Enigma review, Enigma rating, Enigma release date, Enigma trailer, Enigma Mystery, Enigma Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dougray Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Winslet"
+     },
+     {
+      "@type": "Person",
+      "name": "Saffron Burrows"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Northam"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikolaj Coster-Waldau"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Enigma (2001): Mystery/Drama film. Story: The story of the WWII project to crack the code… See cast, TMDB rating 6.3/10, and release date 22 January 2001.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Apted"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Mystery",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pE334YKo9NNgee3VEGl6VR6gGSZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10491",
+    "name": "Enigma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10491"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Enigma (2001)</h1>\n<p class=\"ssr-lead\">The story of the WWII project to crack the code behind the Enigma machine, used by the Germans to encrypt messages sent to their submarines.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2001</li><li>Runtime: 119 minutes</li><li>Director: Michael Apted</li><li>Genres: Mystery, Drama, Thriller, Romance, War</li><li>TMDB rating: 6.3/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dougray Scott as Tom Jericho</li><li>Kate Winslet as Hester Wallace</li><li>Saffron Burrows as Claire Romilly</li><li>Jeremy Northam as Mr. Wigram</li><li>Nikolaj Coster-Waldau as Puck</li><li>Tom Hollander as Logie</li><li>Donald Sumpter as Leveret</li><li>Matthew Macfadyen as Cave</li><li>Richard Leaf as Baxter</li><li>Bohdan Poraj as Pinker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Shout! Factory Amazon Channel</li><li>Rent: Fandango At Home</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Enigma (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:1051891": {
    "d": "Thelma (2024): Action/Adventure film. Story: When 93-year-old Thelma Post gets duped by a phone… See cast, budget $5M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
@@ -1074,6 +1138,202 @@
    "t": "NAZA (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:2791": {
+   "d": "The Chronicles of Riddick: Dark Fury (2004): Animation/Action film. Story: After their narrow escape at the end of \"Pitch… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/df6629Du7ndSJtjaDwa9glag5Hj.jpg",
+   "industry": "world",
+   "k": "The Chronicles of Riddick: Dark Fury, The Chronicles of Riddick: Dark Fury movie, The Chronicles of Riddick: Dark Fury cast, The Chronicles of Riddick: Dark Fury story, The Chronicles of Riddick: Dark Fury box office collection, The Chronicles of Riddick: Dark Fury budget, The Chronicles of Riddick: Dark Fury review, The Chronicles of Riddick: Dark Fury rating, The Chronicles of Riddick: Dark Fury release date, The Chronicles of Riddick: Dark Fury Animation, The Chronicles of Riddick: Dark Fury Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhiana Griffith"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith David"
+     },
+     {
+      "@type": "Person",
+      "name": "Tress MacNeille"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger L. Jackson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Chronicles of Riddick: Dark Fury (2004): Animation/Action film. Story: After their narrow escape at the end of \"Pitch… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Chung"
+     }
+    ],
+    "duration": "PT34M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/df6629Du7ndSJtjaDwa9glag5Hj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2791",
+    "name": "The Chronicles of Riddick: Dark Fury",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-06-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2791"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Chronicles of Riddick: Dark Fury (2004)</h1>\n<p class=\"ssr-lead\">After their narrow escape at the end of &quot;Pitch Black,&quot; Riddick, Jack and the Imam find themselves at the mercy of a madwoman who intends to entomb Riddick forever as part of a twisted art exhibit. With little but a shiv and Riddick&#x27;s innate viciousness to aid them, Riddick and his allies must find a way to escape from their captor and her band of mercenaries.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2004</li><li>Runtime: 34 minutes</li><li>Director: Peter Chung</li><li>Genres: Animation, Action, Science Fiction, Thriller</li><li>TMDB rating: 6.1/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Richard B. Riddick (voice)</li><li>Rhiana Griffith as Jack (voice)</li><li>Keith David as Abu &#x27;Imam&#x27; al-Walid (voice)</li><li>Tress MacNeille as Antonia Chillingsworth (voice)</li><li>Roger L. Jackson as Junner (voice)</li><li>Nick Chinlund as Toombs (voice)</li><li>Dwight Schultz as Skiff A.I. (voice)</li><li>Julia Fletcher as Merc Squad Leader (voice)</li><li>Hedy Burress as Lab Tech (voice)</li><li>Andrew Philpot as Tech (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Chronicles of Riddick: Dark Fury (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:280391": {
+   "d": "Animal Kingdom: Let's Go Ape (2015): Adventure/Comedy film. Story: Based on the novel 'Evolution Man' by Roy Lewis, this… See cast and budget $37.58M.",
+   "img": "https://image.tmdb.org/t/p/w780/vq2TVlQmOUE6uZnRIZD475IcoAX.jpg",
+   "industry": "world",
+   "k": "Animal Kingdom: Let's Go Ape, Animal Kingdom: Let's Go Ape movie, Animal Kingdom: Let's Go Ape cast, Animal Kingdom: Let's Go Ape story, Animal Kingdom: Let's Go Ape box office collection, Animal Kingdom: Let's Go Ape budget, Animal Kingdom: Let's Go Ape review, Animal Kingdom: Let's Go Ape rating, Animal Kingdom: Let's Go Ape release date, Animal Kingdom: Let's Go Ape Adventure, Animal Kingdom: Let's Go Ape Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     },
+     {
+      "@type": "Person",
+      "name": "Arié Elmaleh"
+     },
+     {
+      "@type": "Person",
+      "name": "Mélissa Theuriau"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrice Thibaud"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Hecq"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Animal Kingdom: Let's Go Ape (2015): Adventure/Comedy film. Story: Based on the novel 'Evolution Man' by Roy Lewis, this… See cast and budget $37.58M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vq2TVlQmOUE6uZnRIZD475IcoAX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=280391",
+    "name": "Animal Kingdom: Let's Go Ape",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=280391"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Animal Kingdom: Let&#x27;s Go Ape (2015)</h1>\n<p class=\"ssr-lead\">Based on the novel &#x27;Evolution Man&#x27; by Roy Lewis, this tells the story about the first man - young Edward - to descend from apes. Edward is ejected by his tribe, but is very resourceful. He learns to walk, discovers fire, manages to hunt - and we follow him as he evolves. He has a generous nature, and search for true humanity - a world where we don&#x27;t eat our fathers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2015</li><li>Runtime: 91 minutes</li><li>Director: Jamel Debbouze</li><li>Genres: Adventure, Comedy, Animation</li><li>Budget: $37.58M</li><li>TMDB rating: 5.2/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamel Debbouze as Edouard (voice)</li><li>Arié Elmaleh as Ian (voice)</li><li>Mélissa Theuriau as Lucie (voice)</li><li>Patrice Thibaud as Vladimir / Sergey (voice)</li><li>Christian Hecq as Simeon (voice)</li><li>Diouc Koma as Vania</li><li>Adrien Antoine as Vania (voice)</li><li>Georgette Kala-Lobé as La sorcière</li><li>Nathalie Homs as La sorcière (voice)</li><li>Youssef Hajdi as Marcel (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Rakuten TV</li></ul>\n</article>",
+   "t": "Animal Kingdom: Let's Go Ape (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:312791": {
+   "d": "GirlHouse (2014): Horror/Thriller film. Story: In an attempt to make some extra cash while away at… See cast, budget $3.15M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aoidrQ7c0Z170EvyoDSMDeq1mUV.jpg",
+   "industry": "world",
+   "k": "GirlHouse, GirlHouse movie, GirlHouse cast, GirlHouse story, GirlHouse box office collection, GirlHouse budget, GirlHouse review, GirlHouse rating, GirlHouse release date, GirlHouse Horror, GirlHouse Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ali Cobrin"
+     },
+     {
+      "@type": "Person",
+      "name": "Erin Agostino"
+     },
+     {
+      "@type": "Person",
+      "name": "James Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Hunter"
+     },
+     {
+      "@type": "Person",
+      "name": "Alyson Bath"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "GirlHouse (2014): Horror/Thriller film. Story: In an attempt to make some extra cash while away at… See cast, budget $3.15M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Trevor Matthews"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Knautz"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aoidrQ7c0Z170EvyoDSMDeq1mUV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=312791",
+    "name": "GirlHouse",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=312791"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>GirlHouse (2014)</h1>\n<p class=\"ssr-lead\">In an attempt to make some extra cash while away at College, Kylie moves into a house that streams content to an X-rated website. After a deranged fan hacks in to determine the house&#x27;s location, she finds herself in a terrifying fight for her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2014</li><li>Runtime: 100 minutes</li><li>Director: Trevor Matthews, Jon Knautz</li><li>Genres: Horror, Thriller</li><li>Budget: $3.15M</li><li>TMDB rating: 6.0/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ali Cobrin as Kylie Atkins</li><li>Erin Agostino as Liz Owens</li><li>James Thomas as Gary Preston</li><li>Alice Hunter as Kat</li><li>Alyson Bath as Devon</li><li>Adam DiMarco as Ben Stanley</li><li>George Carroll as Loverboy</li><li>Elysia Rotaru as Heather</li><li>Chasty Ballesteros as Janet</li><li>Nicole Fox as Mia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "GirlHouse (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:335791": {
    "d": "When the Bough Breaks (2016): Drama/Thriller film. Story: A surrogate mother harbors a deadly secret desire for… See cast, budget $10M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/vjGYFfG8Amm019QoSB9csEZC4X2.jpg",
@@ -1138,6 +1398,327 @@
    "t": "When the Bough Breaks (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:36691": {
+   "d": "Solitary Man (2009): Comedy/Drama film. Story: A car magnate watches his personal and professional… See cast, budget $15M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nksADlpxKNoZVENbtNJiCovAsRD.jpg",
+   "industry": "world",
+   "k": "Solitary Man, Solitary Man movie, Solitary Man cast, Solitary Man story, Solitary Man box office collection, Solitary Man budget, Solitary Man review, Solitary Man rating, Solitary Man release date, Solitary Man Comedy, Solitary Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Sarandon"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny DeVito"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary-Louise Parker"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenna Fischer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 361,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Solitary Man (2009): Comedy/Drama film. Story: A car magnate watches his personal and professional… See cast, budget $15M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Levien"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Koppelman"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nksADlpxKNoZVENbtNJiCovAsRD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36691",
+    "name": "Solitary Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36691"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Solitary Man (2009)</h1>\n<p class=\"ssr-lead\">A car magnate watches his personal and professional life hit the skids because of his business and romantic indiscretions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2009</li><li>Runtime: 90 minutes</li><li>Director: David Levien, Brian Koppelman</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $15M</li><li>TMDB rating: 5.9/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Douglas as Ben Kalmen</li><li>Susan Sarandon as Nancy Kalmen</li><li>Danny DeVito as Jimmy Marino</li><li>Mary-Louise Parker as Jordon Karsch</li><li>Jenna Fischer as Susan Porter</li><li>Imogen Poots as Allyson Karsch</li><li>Jesse Eisenberg as Daniel Cheston</li><li>Richard Schiff as Steve Heller</li><li>Jake Siciliano as Scotty</li><li>David Costabile as Gary Porter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Lionsgate+ Amazon Channel, Starz, Starz Apple TV channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Solitary Man (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:414191": {
+   "d": "Our House (2018): Horror film. Story: Ethan is suffering enormous guilt after his parents… See cast, TMDB rating 5.6/10, and release date 27 July 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/gbAfXcRSrd7WBRk1pNuZtHHw6cK.jpg",
+   "industry": "world",
+   "k": "Our House, Our House movie, Our House cast, Our House story, Our House box office collection, Our House budget, Our House review, Our House rating, Our House release date, Our House trailer, Our House Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thomas Mann"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicola Peltz Beckham"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Moyer"
+     },
+     {
+      "@type": "Person",
+      "name": "Percy Hynes White"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Horne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Our House (2018): Horror film. Story: Ethan is suffering enormous guilt after his parents… See cast, TMDB rating 5.6/10, and release date 27 July 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Scott Burns"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gbAfXcRSrd7WBRk1pNuZtHHw6cK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=414191",
+    "name": "Our House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=414191"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Our House (2018)</h1>\n<p class=\"ssr-lead\">Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2018</li><li>Runtime: 90 minutes</li><li>Director: Anthony Scott Burns</li><li>Genres: Horror</li><li>TMDB rating: 5.6/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thomas Mann as Ethan</li><li>Nicola Peltz Beckham as Hannah</li><li>Kate Moyer as Becca</li><li>Percy Hynes White as Matt</li><li>Christine Horne as Jess</li><li>John Ralston as Richard</li><li>Lucius Hoyos as Dag</li><li>Allison Hossack as Lila</li><li>Robert B. Kennedy as Tom</li><li>Carlyn Burchell as Ms. Nash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Our House (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:42691": {
+   "d": "Oedipus Rex (1967): Drama film. Story: In pre-war Italy, a young couple have a baby boy. The… See cast, TMDB rating 6.8/10, and release date 7 September 1967.",
+   "img": "https://image.tmdb.org/t/p/w780/gNSXF2AKz3mTNT9CSWma9gxnwBR.jpg",
+   "industry": "world",
+   "k": "Oedipus Rex, Oedipus Rex movie, Oedipus Rex cast, Oedipus Rex story, Oedipus Rex box office collection, Oedipus Rex budget, Oedipus Rex review, Oedipus Rex rating, Oedipus Rex release date, Oedipus Rex Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Franco Citti"
+     },
+     {
+      "@type": "Person",
+      "name": "Silvana Mangano"
+     },
+     {
+      "@type": "Person",
+      "name": "Alida Valli"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmelo Bene"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Beck"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 377,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Oedipus Rex (1967): Drama film. Story: In pre-war Italy, a young couple have a baby boy. The… See cast, TMDB rating 6.8/10, and release date 7 September 1967.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pier Paolo Pasolini"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gNSXF2AKz3mTNT9CSWma9gxnwBR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=42691",
+    "name": "Oedipus Rex",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1967-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=42691"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Oedipus Rex (1967)</h1>\n<p class=\"ssr-lead\">In pre-war Italy, a young couple have a baby boy. The father, however, is jealous of his son - and the scene moves to antiquity, where the baby is taken into the desert to be killed. He is rescued, given the name Oedipus, and brought up by the King and Queen of Corinth as their son. One day an oracle informs Oedipus that he is destined to kill his father and marry his mother. Horrified, he flees Corinth and his supposed parents - only to get into a fight and kill an older man on the road…</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 1967</li><li>Runtime: 105 minutes</li><li>Director: Pier Paolo Pasolini</li><li>Genres: Drama</li><li>TMDB rating: 6.8/10 (377 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Franco Citti as Oedipus</li><li>Silvana Mangano as Jocasta, Queen of Thebes (and unnamed Italian young mother)</li><li>Alida Valli as Merope, Queen of Corinth</li><li>Carmelo Bene as Creon</li><li>Julian Beck as Tiresias</li><li>Luciano Bartoli as Laius, King of Thebes (and unnamed Italian young father)</li><li>Francesco Leonetti as Servo di Laio</li><li>Ahmed Belhachmi as Polybus, King of Corinth</li><li>Giovanni Ivan Scratuglia as Sacerdote</li><li>Giandomenico Davoli as Pastore di Polibo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
+   "t": "Oedipus Rex (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1967"
+  },
+  "movie:593691": {
+   "d": "HOMECOMING: A film by Beyoncé (2019): Documentary/Music film. Story: This intimate, in-depth look at Beyoncé's celebrated… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
+   "industry": "world",
+   "k": "HOMECOMING: A film by Beyoncé, HOMECOMING: A film by Beyoncé movie, HOMECOMING: A film by Beyoncé cast, HOMECOMING: A film by Beyoncé story, HOMECOMING: A film by Beyoncé box office collection, HOMECOMING: A film by Beyoncé budget, HOMECOMING: A film by Beyoncé review, HOMECOMING: A film by Beyoncé rating, HOMECOMING: A film by Beyoncé release date, HOMECOMING: A film by Beyoncé trailer, HOMECOMING: A film by Beyoncé Documentary, HOMECOMING: A film by Beyoncé Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Beyoncé"
+     },
+     {
+      "@type": "Person",
+      "name": "JAŸ-Z"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Rowland"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Solange"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "HOMECOMING: A film by Beyoncé (2019): Documentary/Music film. Story: This intimate, in-depth look at Beyoncé's celebrated… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Beyoncé"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=593691",
+    "name": "HOMECOMING: A film by Beyoncé",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=593691"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>HOMECOMING: A film by Beyoncé (2019)</h1>\n<p class=\"ssr-lead\">This intimate, in-depth look at Beyoncé&#x27;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2019</li><li>Runtime: 137 minutes</li><li>Director: Beyoncé</li><li>Genres: Documentary, Music, TV Movie</li><li>TMDB rating: 8.0/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Beyoncé as Self</li><li>JAŸ-Z as Self - Special Guest</li><li>Kelly Rowland as Self - Special Guest</li><li>Michelle Williams as Self - Special Guest</li><li>Solange as Self - Special Guest</li><li>Blue Ivy Carter as Self</li><li>Rumi Carter as Self</li><li>Sir Carter as Self</li><li>Tina Knowles as Self</li><li>Chlöe Bailey as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "HOMECOMING: A film by Beyoncé (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:5991": {
+   "d": "The Last Laugh (1924): Drama film. Story: An aging doorman, after being fired from his… See cast, TMDB rating 7.8/10, and release date 23 December 1924.",
+   "img": "https://image.tmdb.org/t/p/w780/sTyt7e2PB5nfY02reL1iZUYPbly.jpg",
+   "industry": "world",
+   "k": "The Last Laugh, The Last Laugh movie, The Last Laugh cast, The Last Laugh story, The Last Laugh box office collection, The Last Laugh budget, The Last Laugh review, The Last Laugh rating, The Last Laugh release date, The Last Laugh Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emil Jannings"
+     },
+     {
+      "@type": "Person",
+      "name": "Maly Delschaft"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Hiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Hans Unterkircher"
+     },
+     {
+      "@type": "Person",
+      "name": "Hermann Vallentin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 374,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Last Laugh (1924): Drama film. Story: An aging doorman, after being fired from his… See cast, TMDB rating 7.8/10, and release date 23 December 1924.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "F. W. Murnau"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sTyt7e2PB5nfY02reL1iZUYPbly.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5991",
+    "name": "The Last Laugh",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1924-12-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5991"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Laugh (1924)</h1>\n<p class=\"ssr-lead\">An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 December 1924</li><li>Runtime: 90 minutes</li><li>Director: F. W. Murnau</li><li>Genres: Drama</li><li>TMDB rating: 7.8/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emil Jannings as Hotel Doorman</li><li>Maly Delschaft as His Niece</li><li>Max Hiller as Bridegroom</li><li>Hans Unterkircher as Hotel Manager</li><li>Hermann Vallentin as Potbellied Guest</li><li>Emilie Kurz as Bridegroom&#x27;s Aunt</li><li>Georg John as Night Watchman</li><li>Emmy Wyda as Thin Neighbor</li><li>Harald Madsen as uncredited</li><li>Carl Schenstrøm as Wedding Musician</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kino Film Collection</li></ul>\n</article>",
+   "t": "The Last Laugh (1924) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1924"
+  },
   "movie:611291": {
    "d": "Bring the Soul: The Movie (2019): Music/Documentary film. Story: A glimpse into K-pop group BTS’ world away from the… See cast and TMDB rating 8.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/nQRTynJcXF5GRcyEHF09yZIuQ7F.jpg",
@@ -1201,6 +1782,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bring the Soul: The Movie (2019)</h1>\n<p class=\"ssr-lead\">A glimpse into K-pop group BTS’ world away from the stage, featuring intimate group discussions alongside spectacular concert performances from their world tour.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2019</li><li>Runtime: 105 minutes</li><li>Director: Park Jun-soo</li><li>Genres: Music, Documentary</li><li>TMDB rating: 8.3/10 (464 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>RM as Self</li><li>Jin as Self</li><li>SUGA as Self</li><li>j-hope as Self</li><li>Jimin as Self</li><li>V as Self</li><li>Jung Kook as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kocowa</li></ul>\n</article>",
    "t": "Bring the Soul: The Movie (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:635891": {
+   "d": "Clerks III (2022): Comedy/Drama film. Story: After narrowly surviving a massive heart attack… See cast, budget $7M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1IGi6NEwuJAHU29RQfF2WrpxWZL.jpg",
+   "industry": "world",
+   "k": "Clerks III, Clerks III movie, Clerks III cast, Clerks III story, Clerks III box office collection, Clerks III budget, Clerks III review, Clerks III rating, Clerks III release date, Clerks III trailer, Clerks III Comedy, Clerks III Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brian O'Halloran"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosario Dawson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Mewes"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Clerks III (2022): Comedy/Drama film. Story: After narrowly surviving a massive heart attack… See cast, budget $7M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Smith"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1IGi6NEwuJAHU29RQfF2WrpxWZL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=635891",
+    "name": "Clerks III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=635891"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clerks III (2022)</h1>\n<p class=\"ssr-lead\">After narrowly surviving a massive heart attack, Randal enlists his old friend Dante to help him make a movie immortalizing their youthful days at the little convenience store that started it all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 2022</li><li>Runtime: 100 minutes</li><li>Director: Kevin Smith</li><li>Genres: Comedy, Drama</li><li>Budget: $7M</li><li>TMDB rating: 6.0/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brian O&#x27;Halloran as Dante Hicks</li><li>Jeff Anderson as Randal Graves</li><li>Rosario Dawson as Becky</li><li>Jason Mewes as Jay</li><li>Kevin Smith as Silent Bob</li><li>Marilyn Ghigliotti as Veronica Loughran</li><li>Trevor Fehrman as Elias Grover</li><li>Austin Zajur as Blockchain Coltrane</li><li>Jennifer Schwalbach Smith as Emma</li><li>Harley Quinn Smith as Milly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Clerks III (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:848791": {
    "d": "The Stranger (2022): Thriller/Crime film. Story: Two strangers strike up a conversation on a long… See cast and TMDB rating 6.2/10.",
@@ -1390,6 +2035,136 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Offering (2022)</h1>\n<p class=\"ssr-lead\">In the wake of a young Jewish girl’s disappearance, the son of a Hasidic funeral director returns home with his pregnant wife in hopes of reconciling with his father. Little do they know that directly beneath them in the family morgue, an ancient evil with sinister plans for the unborn child lurks inside a mysterious corpse.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2022</li><li>Runtime: 93 minutes</li><li>Director: Oliver Park</li><li>Genres: Horror</li><li>TMDB rating: 5.9/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Blood as Art</li><li>Emm Wiseman as Claire</li><li>Paul Kaye as Heimish</li><li>Allan Corduner as Saul</li><li>Daniel Ben Zenou as Chayim</li><li>Sofia Weldon as Sarah Scheindal</li><li>Anton Trendafilov as Yosille</li><li>Meglena Karalambova as Aida</li><li>Jonathan Yunger as Levi Siegelman</li><li>Velizar Binev as Moishe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Offering (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:965791": {
+   "d": "A Difficult Year (2023): Comedy film. Story: Compulsive spenders Albert and Bruno are in debt up… See cast, budget $13M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aWcqE8wGN8Gv4VSPAGCqTFYy7aC.jpg",
+   "industry": "world",
+   "k": "A Difficult Year, A Difficult Year movie, A Difficult Year cast, A Difficult Year story, A Difficult Year box office collection, A Difficult Year budget, A Difficult Year review, A Difficult Year rating, A Difficult Year release date, A Difficult Year trailer, A Difficult Year Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pio Marmaï"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Merlant"
+     },
+     {
+      "@type": "Person",
+      "name": "Mathieu Amalric"
+     },
+     {
+      "@type": "Person",
+      "name": "Grégoire Leprince-Ringuet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "A Difficult Year (2023): Comedy film. Story: Compulsive spenders Albert and Bruno are in debt up… See cast, budget $13M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Éric Toledano"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Nakache"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aWcqE8wGN8Gv4VSPAGCqTFYy7aC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=965791",
+    "name": "A Difficult Year",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-10-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=965791"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Difficult Year (2023)</h1>\n<p class=\"ssr-lead\">Compulsive spenders Albert and Bruno are in debt up to their necks. While seeking help from community workers to get their lives back on track, they run into a group of young green activists. Lured by the free beer and snacks rather than by the ideals of eco-activists, Albert and Bruno find themselves joining the movement without much conviction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 October 2023</li><li>Runtime: 120 minutes</li><li>Director: Éric Toledano, Olivier Nakache</li><li>Genres: Comedy</li><li>Budget: $13M</li><li>TMDB rating: 5.9/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pio Marmaï as Albert Laprade</li><li>Jonathan Cohen as Bruno Ambrosi</li><li>Noémie Merlant as Cactus</li><li>Mathieu Amalric as Henri Tomasi</li><li>Grégoire Leprince-Ringuet as Quinoa</li><li>Luàna Bajrami as Antilope</li><li>Sandrine Briard as Sirène</li><li>Oussama Kheddam as Sofiane</li><li>Danièle Lebrun as Madeleine</li><li>Alexandra Roth as Corinne</li></ul>\n</article>",
+   "t": "A Difficult Year (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:990691": {
+   "d": "Loving Adults (2022): Thriller film. Story: The thin line between love and hate turns deadly when… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o21lRbAMn0MBlKawSIi3tCEM8K3.jpg",
+   "industry": "world",
+   "k": "Loving Adults, Loving Adults movie, Loving Adults cast, Loving Adults story, Loving Adults box office collection, Loving Adults budget, Loving Adults review, Loving Adults rating, Loving Adults release date, Loving Adults trailer, Loving Adults Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dar Salim"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonja Richter"
+     },
+     {
+      "@type": "Person",
+      "name": "Sus Wilkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikael Birkkjær"
+     },
+     {
+      "@type": "Person",
+      "name": "Lars Ranthe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Loving Adults (2022): Thriller film. Story: The thin line between love and hate turns deadly when… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Barbara Topsøe-Rothenborg"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o21lRbAMn0MBlKawSIi3tCEM8K3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=990691",
+    "name": "Loving Adults",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=990691"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Loving Adults (2022)</h1>\n<p class=\"ssr-lead\">The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2022</li><li>Runtime: 106 minutes</li><li>Director: Barbara Topsøe-Rothenborg</li><li>Genres: Thriller</li><li>TMDB rating: 6.3/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dar Salim as Christian</li><li>Sonja Richter as Leonora</li><li>Sus Wilkins as Xenia</li><li>Mikael Birkkjær as Police Commissioner</li><li>Lars Ranthe as Kim</li><li>Morten Burian as Peter</li><li>Iris Mealor Olsen as Martha</li><li>Benjamin Kitter as Ulrik</li><li>Karoline Hamm as Young Leonora</li><li>Natali Vallespir Sand as Sonja</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Loving Adults (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
   "tv:225891": {

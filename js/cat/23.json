@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 47,
+ "count": 51,
  "titles": {
   "movie:11123": {
    "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
@@ -835,6 +835,241 @@
    "type": "movie",
    "vote_average": 8.3,
    "vote_count": 82
+  },
+  "movie:15723": {
+   "backdrop_path": "/90sruxPLYoCzYnaFEVzxfpkGjG5.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Larry Mann",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Phil Cooper",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Bob Walker",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Bellboy",
+     "n": "Paul Dawson"
+    },
+    {
+     "c": "Bartender (uncredited)",
+     "n": "Christopher Donahue"
+    },
+    {
+     "c": "The Big Kahuna (uncredited)",
+     "n": "Ron Komora"
+    },
+    {
+     "c": "Business Man (uncredited)",
+     "n": "Frank L. Messina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "date_kind": "release",
+   "director": [
+    "John Swanbeck"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 15723,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three salesmen working for a firm that makes industrial lubricants are waiting in the company's \"hospitality suite\" at a manufacturers' convention for a \"big kahuna\" named Dick Fuller to show up, in hopes they can persuade him to place an order that could salvage the company's flagging sales.",
+   "popularity": 1.2944,
+   "poster_path": "/sMhWWdW6V3HXFanELFA1oHdvboS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "History Vault"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5VGoQun874KipwsAgtc8eagtIkc.png",
+     "name": "History Vault",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-04-28",
+   "revenue": 3728888,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Big Kahuna",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.767,
+   "vote_count": 380
+  },
+  "movie:157823": {
+   "backdrop_path": "/va6SObQdsJV4BmPKts4pTsKIk37.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Josh Stamos",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Dena Brauer",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Harmon",
+     "n": "Peter Sarsgaard"
+    },
+    {
+     "c": "Surprise",
+     "n": "Alia Shawkat"
+    },
+    {
+     "c": "Dylan",
+     "n": "Logan Miller"
+    },
+    {
+     "c": "Sean",
+     "n": "Kai Lennox"
+    },
+    {
+     "c": "Anne",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Feed Factory Clerk",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Felix",
+     "n": "Traber Charles Burns"
+    },
+    {
+     "c": "Mable",
+     "n": "Autumn Nidalmia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kelly Reichardt"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 157823,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story about three radical environmentalists coming together to execute the most intense protest of their lives: the explosion of a hydroelectric dam.",
+   "popularity": 1.3687,
+   "poster_path": "/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+   "production_countries": [
+    "BR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-04-23",
+   "revenue": 271755,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Night Moves",
+   "trailer": {
+    "key": "W2hHtZ16yng",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 381
   },
   "movie:1628123": {
    "backdrop_path": "/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
@@ -1904,6 +2139,188 @@
    "type": "movie",
    "vote_average": 7.534,
    "vote_count": 388
+  },
+  "movie:46523": {
+   "backdrop_path": "/fkZFA9SHDijvl2tPxZRWogAJeWm.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Gerrie van Boven",
+     "n": "Tim Haars"
+    },
+    {
+     "c": "Richard Batsbak",
+     "n": "Huub Smit"
+    },
+    {
+     "c": "Rikkert Biemans",
+     "n": "Wesley van Gaalen"
+    },
+    {
+     "c": "Barrie Butsers",
+     "n": "Flip van der Kuil"
+    },
+    {
+     "c": "Robbie Schuurmans",
+     "n": "Steffen Haars"
+    },
+    {
+     "c": "Man 1 in cafe",
+     "n": "Theo Maassen"
+    },
+    {
+     "c": "Manuela van Grinsven",
+     "n": "Nicole van Nierop"
+    },
+    {
+     "c": "Reinout Oerlemans",
+     "n": "Reinout Oerlemans"
+    },
+    {
+     "c": "Rikkert's boss",
+     "n": "Hans Teeuwen"
+    },
+    {
+     "c": "Foreman",
+     "n": "Frank Lammers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Steffen Haars",
+    "Flip van der Kuil"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 46523,
+   "industry": "world",
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "Five friends from 'Maaskantje' are getting fired because of the economic crisis. They decide that they won't pay for anything anymore.",
+   "popularity": 0.7822,
+   "poster_path": "/5nD9368gG2b0uGLHC2vWRTN8PQu.jpg",
+   "production_countries": [
+    "NL"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-09",
+   "revenue": 8786756,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "Kick some kut",
+   "title": "New Kids Turbo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.374,
+   "vote_count": 362
+  },
+  "movie:55823": {
+   "backdrop_path": "/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giovanni Busacca",
+     "n": "Vittorio Gassman"
+    },
+    {
+     "c": "Oreste Jacovacci",
+     "n": "Alberto Sordi"
+    },
+    {
+     "c": "Costantina",
+     "n": "Silvana Mangano"
+    },
+    {
+     "c": "Bordin",
+     "n": "Folco Lulli"
+    },
+    {
+     "c": "Capitano Castelli",
+     "n": "Bernard Blier"
+    },
+    {
+     "c": "Tenente Gallina",
+     "n": "Romolo Valli"
+    },
+    {
+     "c": "Maggiore Venturi",
+     "n": "Vittorio Sanipoli"
+    },
+    {
+     "c": "Giardino",
+     "n": "Nicola Arigliano"
+    },
+    {
+     "c": "Sottotenente Lorenzi",
+     "n": "Mario Valdemarin"
+    },
+    {
+     "c": "Mandich",
+     "n": "Tiberio Mitri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Mario Monicelli"
+   ],
+   "genres": [
+    "Comedy",
+    "War",
+    "Drama"
+   ],
+   "id": 55823,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Italy, 1916. Oreste Jacovacci and Giovanni Busacca are called, as all the Italian youths, to serve the army in the WWI. They both try in every way to avoid serving the army.",
+   "popularity": 1.0209,
+   "poster_path": "/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1959-10-28",
+   "revenue": 0,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The great battle spectacle of our time!",
+   "title": "The Great War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.076,
+   "vote_count": 381
   },
   "movie:640923": {
    "backdrop_path": "/kAvmmy5wbrsNTZvXUULAHhjWLFS.jpg",

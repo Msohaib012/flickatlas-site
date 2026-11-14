@@ -1,7 +1,107 @@
 {
  "bucket": "55",
- "count": 43,
+ "count": 55,
  "titles": {
+  "movie:1002155": {
+   "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Charles Aznavour",
+     "n": "Tahar Rahim"
+    },
+    {
+     "c": "Pierre Roche",
+     "n": "Bastien Bouillon"
+    },
+    {
+     "c": "Edith Piaf",
+     "n": "Marie-Julie Baup"
+    },
+    {
+     "c": "Raoul Breton",
+     "n": "Luc Antoni"
+    },
+    {
+     "c": "Jean-Louis Marquet",
+     "n": "Nicolas Chupin"
+    },
+    {
+     "c": "Micheline",
+     "n": "Ella Pellegrini"
+    },
+    {
+     "c": "Ulla Thorsell",
+     "n": "Petra Silander"
+    },
+    {
+     "c": "Aïda Aznavour",
+     "n": "Camille Moutawakil"
+    },
+    {
+     "c": "Missak Manouchian",
+     "n": "Tigran Mekhitarian"
+    },
+    {
+     "c": "Misha Aznavourian",
+     "n": "Hovnatan Avédikian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Grand Corps Malade",
+    "Mehdi Idir"
+   ],
+   "genres": [
+    "History",
+    "Music",
+    "Drama"
+   ],
+   "id": 1002155,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "From his poor childhood to his rise to fame, from his triumphs to his failures, from Paris to New York, discover the exceptional journey of an artist. Intimate, intense, fragile and indestructible, devoted to his art until the very end, here is one of the most immortal singers of all time: MONSIEUR AZNAVOUR.",
+   "popularity": 1.4412,
+   "poster_path": "/23FkaTaAosaTcTgyuJdTf7TvcJu.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "BG"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-23",
+   "revenue": 16,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hy",
+    "es",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Monsieur Aznavour",
+   "trailer": {
+    "key": "MB3OAsPPzl0",
+    "name": "MONSIEUR AZNAVOUR - Official HD Trailer - Only In Cinemas",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 377
+  },
   "movie:1010755": {
    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
    "budget": 8500000,
@@ -150,6 +250,103 @@
    "type": "movie",
    "vote_average": 5.946,
    "vote_count": 355
+  },
+  "movie:10655": {
+   "backdrop_path": "/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Col. Joshua Chamberlain",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Lieut. Gen. James Longstreet",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Gen. Robert E. Lee",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Brig. Gen. John Buford",
+     "n": "Sam Elliott"
+    },
+    {
+     "c": "Maj. Gen. George E. Pickett",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Lieut. Thomas D. Chamberlain",
+     "n": "C. Thomas Howell"
+    },
+    {
+     "c": "Maj. Gen. George G. Meade",
+     "n": "Richard Anderson"
+    },
+    {
+     "c": "Brig. Gen. Lewis A. Armistead",
+     "n": "Richard Jordan"
+    },
+    {
+     "c": "Sergeant Buster Kilrain",
+     "n": "Kevin Conway"
+    },
+    {
+     "c": "Brig. Gen. Richard B. Garnett",
+     "n": "Andrew Prine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ronald F. Maxwell"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 10655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the summer of 1863, General Robert E. Lee leads the Confederate Army of Northern Virginia into Gettysburg, Pennsylvania with the goal of marching through to Washington, D.C. The Union Army of the Potomac, under the command of General George G. Meade, forms a defensive position to confront the rebel forces in what will prove to be the decisive battle of the American Civil War.",
+   "popularity": 3.0762,
+   "poster_path": "/k0XKdT3QbycMB8f2H7CEZVx2t4m.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-12-10",
+   "revenue": 10769960,
+   "runtime": 254,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Same Land. Same God. Different Dreams.",
+   "title": "Gettysburg",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.004,
+   "vote_count": 352
   },
   "movie:10855": {
    "backdrop_path": "/9SIFiToG6kRkoS5OKUhuPYp2mnI.jpg",
@@ -537,6 +734,286 @@
    "vote_average": 6.288,
    "vote_count": 440
   },
+  "movie:1239655": {
+   "backdrop_path": "/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Craig Waterman",
+     "n": "Tim Robinson"
+    },
+    {
+     "c": "Austin Carmichael",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Tami Waterman",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Steven Waterman",
+     "n": "Jack Dylan Grazer"
+    },
+    {
+     "c": "Mr. Mendoza",
+     "n": "Rick Worthy"
+    },
+    {
+     "c": "Ian",
+     "n": "Whitmer Thomas"
+    },
+    {
+     "c": "Stan",
+     "n": "Daniel London"
+    },
+    {
+     "c": "Mike",
+     "n": "Eric Rahill"
+    },
+    {
+     "c": "Nathan",
+     "n": "Jacob Ming-Trent"
+    },
+    {
+     "c": "Tony",
+     "n": "Billy Bryk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew DeYoung"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1239655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Suburban dad Craig falls hard for his charismatic new neighbor Austin, and his attempts to make an adult male friend threatens to ruin both of their lives.",
+   "popularity": 2.8969,
+   "poster_path": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-05-23",
+   "revenue": 16979301,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Men shouldn't have friends.",
+   "title": "Friendship",
+   "trailer": {
+    "key": "cmSPwZIZu6Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.406,
+   "vote_count": 350
+  },
+  "movie:1299655": {
+   "backdrop_path": "/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lorenz Hart",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Eddie",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Richard Rodgers",
+     "n": "Andrew Scott"
+    },
+    {
+     "c": "Elizabeth Weiland",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "E.B. 'Andy' White",
+     "n": "Patrick Kennedy"
+    },
+    {
+     "c": "Morty Rifkin",
+     "n": "Jonah Lees"
+    },
+    {
+     "c": "Oscar Hammerstein",
+     "n": "Simon Delaney"
+    },
+    {
+     "c": "Sven",
+     "n": "Giles Surridge"
+    },
+    {
+     "c": "Stephen Sondheim",
+     "n": "Cillian Sullivan"
+    },
+    {
+     "c": "Lawrence Langner",
+     "n": "Michael James Ford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 1299655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
+   "popularity": 3.3403,
+   "poster_path": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+   "production_countries": [
+    "IE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-10-24",
+   "revenue": 3569263,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Forgotten but not gone.",
+   "title": "Blue Moon",
+   "trailer": {
+    "key": "qo7gRHip0lI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.654,
+   "vote_count": 357
+  },
   "movie:13555": {
    "backdrop_path": "/uDIZFlKa3h9ufzxpGXerCbIgmLc.jpg",
    "budget": 2000000,
@@ -635,6 +1112,167 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 444
+  },
+  "movie:139455": {
+   "backdrop_path": "/5agsKXYOnrWLSonuYSxnfgyCwga.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Sheriff Cooper",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Aubrey Bradimore",
+     "n": "Jaime King"
+    },
+    {
+     "c": "Santa Jim",
+     "n": "Donal Logue"
+    },
+    {
+     "c": "Brenda",
+     "n": "Ellen Wong"
+    },
+    {
+     "c": "Abused Mom",
+     "n": "Lisa Marie"
+    },
+    {
+     "c": "Tiffany",
+     "n": "Courtney-Jane White"
+    },
+    {
+     "c": "Maria",
+     "n": "Cortney Palm"
+    },
+    {
+     "c": "Dad",
+     "n": "John B. Lowe"
+    },
+    {
+     "c": "Ronald Jones Jr. / Ronald Jones Sr.",
+     "n": "Rick Skene"
+    },
+    {
+     "c": "Deputy Jordan",
+     "n": "Brendan Fehr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven C. Miller"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 139455,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As their small Midwestern town prepares for its annual Christmas Eve parade, a sheriff and his deputy discover that a maniac in a Santa suit is murdering those he judges as naughty.",
+   "popularity": 1.5878,
+   "poster_path": "/ippySSXam9UHw6j8g3aH8WxC9LU.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-30",
+   "revenue": 130781,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You better watch out.",
+   "title": "Silent Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 343
   },
   "movie:1397055": {
    "backdrop_path": "/mBo1uTuTnc1aim8QIWwIQu4LM8c.jpg",
@@ -1513,6 +2151,205 @@
    "vote_average": 7.405,
    "vote_count": 37
   },
+  "movie:19955": {
+   "backdrop_path": "/igpbsI6LH5eV1gIrePmiI1cWc2M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luis Costa",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Emma",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Geneviève Costa",
+     "n": "Bernadette Lafont"
+    },
+    {
+     "c": "Francis Bertatoff",
+     "n": "Wladimir Yordanoff"
+    },
+    {
+     "c": "Maxine",
+     "n": "Louise Monot"
+    },
+    {
+     "c": "Carole",
+     "n": "Katia Lewkowicz"
+    },
+    {
+     "c": "Pierre-Yves",
+     "n": "Grégoire Oestermann"
+    },
+    {
+     "c": "Catherine",
+     "n": "Véronique Barrault"
+    },
+    {
+     "c": "Axelle",
+     "n": "Marie-Armelle Deguy"
+    },
+    {
+     "c": "Marie",
+     "n": "Luce Mouchel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Éric Lartigau"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 19955,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Life is easy for 43-year-old Luis, a happy single guy, fulfilled in his job of star nose with a perfume creation company, cosseted by his mother and five sisters. It could have lasted for a whole life, but fed up with mollycoddling and helping him, his mother and sisters decide it's time he got married, and the sooner the better!",
+   "popularity": 1.7483,
+   "poster_path": "/jfeJwdtZpsAR6ap9kSrBg7c3bSL.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-11-01",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Do",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.373,
+   "vote_count": 370
+  },
+  "movie:24655": {
+   "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wade Parent",
+     "n": "James Brolin"
+    },
+    {
+     "c": "Lauren Humphries",
+     "n": "Kathleen Lloyd"
+    },
+    {
+     "c": "Everett",
+     "n": "John Marley"
+    },
+    {
+     "c": "Amos Clements",
+     "n": "R.G. Armstrong"
+    },
+    {
+     "c": "John Norris",
+     "n": "John Rubinstein"
+    },
+    {
+     "c": "Margie Johnson",
+     "n": "Elizabeth Thompson"
+    },
+    {
+     "c": "Ray Mott",
+     "n": "Roy Jenson"
+    },
+    {
+     "c": "Lynn Marie Parent",
+     "n": "Kim Richards"
+    },
+    {
+     "c": "Debra Parent",
+     "n": "Kyle Richards"
+    },
+    {
+     "c": "Miss McDonald",
+     "n": "Kate Murtagh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Elliot Silverstein"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Thriller",
+    "Mystery",
+    "Fantasy"
+   ],
+   "id": 24655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Utah community of Santa Ynez is being terrorized by a mysterious black coupe that appears out of nowhere and begins running people down. After the car kills off the town sheriff, Captain Wade Parent is determined to stop the murderous driver.",
+   "popularity": 2.8903,
+   "poster_path": "/gFM9yMrO4fQMiG440Lx6bazB517.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-05-12",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Is it a phantom, a demon, or the devil himself?",
+   "title": "The Car",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.402,
+   "vote_count": 353
+  },
   "movie:25155": {
    "backdrop_path": "/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
    "budget": 1200000,
@@ -1824,6 +2661,118 @@
    "vote_average": 7.297,
    "vote_count": 480
   },
+  "movie:25955": {
+   "backdrop_path": "/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
+   "budget": 780000,
+   "cast": [
+    {
+     "c": "Skip McCoy",
+     "n": "Richard Widmark"
+    },
+    {
+     "c": "Candy",
+     "n": "Jean Peters"
+    },
+    {
+     "c": "Moe Williams",
+     "n": "Thelma Ritter"
+    },
+    {
+     "c": "Captain Dan Tiger",
+     "n": "Murvyn Vye"
+    },
+    {
+     "c": "Joey",
+     "n": "Richard Kiley"
+    },
+    {
+     "c": "Zara",
+     "n": "Willis Bouchey"
+    },
+    {
+     "c": "Detective Winoki",
+     "n": "Milburn Stone"
+    },
+    {
+     "c": "Headquarters Communist in Chair (uncredited)",
+     "n": "Parley Baer"
+    },
+    {
+     "c": "Fight Spectator (uncredited)",
+     "n": "Chet Brandenburg"
+    },
+    {
+     "c": "Lum (uncredited)",
+     "n": "Frank Kumagai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Samuel Fuller"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 25955,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
+   "popularity": 2.0693,
+   "poster_path": "/et4fY4BxLyAPwxvUFUbzCUrGsjR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1953-05-27",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How the law took a chance on a B-girl … and won!",
+   "title": "Pickup on South Street",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 342
+  },
   "movie:28055": {
    "backdrop_path": "/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
    "budget": 0,
@@ -1969,6 +2918,102 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 499
+  },
+  "movie:36355": {
+   "backdrop_path": "/750Uayj0Bww4QfqMUJCymW3EJkC.jpg",
+   "budget": 25530000,
+   "cast": [
+    {
+     "c": "Sandy Ricks",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Porter Ricks",
+     "n": "Paul Hogan"
+    },
+    {
+     "c": "Dirk Moran",
+     "n": "Jonathan Banks"
+    },
+    {
+     "c": "Bounty Fisherman #1",
+     "n": "Robert Deacon"
+    },
+    {
+     "c": "Cathy",
+     "n": "Chelsea Field"
+    },
+    {
+     "c": "Sandy's Mom",
+     "n": "Mary Jo Faraci"
+    },
+    {
+     "c": "Sandy's Sister",
+     "n": "Allison Bertolino"
+    },
+    {
+     "c": "Kim",
+     "n": "Jessica Wesson"
+    },
+    {
+     "c": "Marvin",
+     "n": "Jason Fuchs"
+    },
+    {
+     "c": "Bounty Fisherman #2",
+     "n": "Mark Casella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alan Shapiro"
+   ],
+   "genres": [
+    "Adventure",
+    "Family"
+   ],
+   "id": 36355,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sandy Ricks is sent by his mom to Coral Key, a rustic island in the Florida keys, to spend the summer with his uncle Porter Ricks. Sandy dislikes everything about his new environment until a new friend comes into his life, a dolphin named Flipper, that brings uncle and nephew together and leads Sandy on the summer adventure of a lifetime.",
+   "popularity": 1.7321,
+   "poster_path": "/c3KEzecZ5oE6CpSrWX6wCLrBJbf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-05-17",
+   "revenue": 20080020,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This summer it's finally safe to go back in the water.",
+   "title": "Flipper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.553,
+   "vote_count": 366
   },
   "movie:390555": {
    "backdrop_path": "/5D4sx3UuCCTDrz6BW20pcEur2pm.jpg",
@@ -2212,6 +3257,90 @@
    "vote_average": 7.358,
    "vote_count": 453
   },
+  "movie:461955": {
+   "backdrop_path": "/fGQr2maSQIjLw4RET6XzOKKO9bo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jasper",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Amir",
+     "n": "Eugene Khumbanyiwa"
+    },
+    {
+     "c": "Carl",
+     "n": "Robert Hobbs"
+    },
+    {
+     "c": "Sarah",
+     "n": "Carly Pope"
+    },
+    {
+     "c": "Nosh",
+     "n": "Brandon Auret"
+    },
+    {
+     "c": "Politician",
+     "n": "Michael Huff"
+    },
+    {
+     "c": "Woman Bomber",
+     "n": "Jay Anstey"
+    },
+    {
+     "c": "Militia #1",
+     "n": "Alec Gillis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "date_kind": "release",
+   "director": [
+    "Neill Blomkamp"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Horror",
+    "War"
+   ],
+   "id": 461955,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A story of broken humanity following the invasion of a technologically superior alien species. Bleak, harrowing, and unrelenting, the humans must find enough courage to go on fighting.",
+   "popularity": 0.8729,
+   "poster_path": "/4wVeP9BHsQul7CRgdrfiUt1Rds1.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-06-14",
+   "revenue": 0,
+   "runtime": 22,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Rakka",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.011,
+   "vote_count": 362
+  },
   "movie:46655": {
    "backdrop_path": "/fkIymGaZbJTuqTP9cPpRL3ZH7jj.jpg",
    "budget": 0,
@@ -2300,6 +3429,94 @@
    "type": "movie",
    "vote_average": 6.614,
    "vote_count": 405
+  },
+  "movie:492355": {
+   "backdrop_path": "/tKpKadxhYGhLq5m0Ek5jHVj0dhI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adriana Alberti",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Massimo Alberti",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Marco Cilio",
+     "n": "Giuseppe Battiston"
+    },
+    {
+     "c": "Teresa",
+     "n": "Giulia Michelini"
+    },
+    {
+     "c": "Teodoro",
+     "n": "Massimiliano Bruno"
+    },
+    {
+     "c": "Milos",
+     "n": "Aleksandar Cvjetković"
+    },
+    {
+     "c": "Padre Giuseppe",
+     "n": "Franco Pinelli"
+    },
+    {
+     "c": "Suor Assunta",
+     "n": "Gegia"
+    },
+    {
+     "c": "Marylou",
+     "n": "Gladys Robles"
+    },
+    {
+     "c": "Imam",
+     "n": "Vittorio Hamarz Vasfi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Aronadio"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 492355,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The owner of a dilapidated B&B has an idea: in order to dodge bankruptcy, he has to turn his business into a place of worship—a tax-free activity, where he'll host pilgrims in exchange for a generous donation. He joins forces with an unscrupulous accountant and a failed novelist to come up with his new religion.",
+   "popularity": 0.3726,
+   "poster_path": "/kqGjUROxf2nak14rhB1NvPKGpDc.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-29",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Just Believe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 357
   },
   "movie:791155": {
    "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
@@ -2446,6 +3663,205 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 441
+  },
+  "movie:84355": {
+   "backdrop_path": "/lW6mVGxqDjVaqcVJJbRnrXe8vsq.jpg",
+   "budget": 125000,
+   "cast": [
+    {
+     "c": "Iris",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Hannah",
+     "n": "Rosemarie DeWitt"
+    },
+    {
+     "c": "Jack",
+     "n": "Mark Duplass"
+    },
+    {
+     "c": "Tom (in photos)",
+     "n": "Michael Harring"
+    },
+    {
+     "c": "Al",
+     "n": "Mike Birbiglia"
+    },
+    {
+     "c": "Tom's Friend",
+     "n": "Jason Dodson"
+    },
+    {
+     "c": "Tom's Friend",
+     "n": "Pete Erickson"
+    },
+    {
+     "c": "Tom's Friend",
+     "n": "Kathryn Lebo"
+    },
+    {
+     "c": "Tom's Friend",
+     "n": "Evan Mosher"
+    },
+    {
+     "c": "Tom's Friend",
+     "n": "Jennifer Maas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lynn Shelton"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 84355,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Iris invites her friend Jack to stay at her family's island getaway after the death of his brother. At their remote cabin, Jack's drunken encounter with Hannah, Iris' sister, kicks off a revealing stretch of days.",
+   "popularity": 1.6241,
+   "poster_path": "/yEyoOzOEUBMSofsTticDWBOOsv7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-11",
+   "revenue": 3242802,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about doing the right thing with the wrong person.",
+   "title": "Your Sister's Sister",
+   "trailer": {
+    "key": "1Na2I2b6edA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.473,
+   "vote_count": 382
   },
   "movie:86555": {
    "backdrop_path": "/2RDNAPa6EW0aW725Gj4V7Sj6vBj.jpg",

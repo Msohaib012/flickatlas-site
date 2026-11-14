@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 33,
+ "count": 39,
  "titles": {
   "movie:10178": {
    "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
@@ -231,6 +231,151 @@
    "type": "movie",
    "vote_average": 5.858,
    "vote_count": 464
+  },
+  "movie:1181678": {
+   "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucía",
+     "n": "Ludwika Paleta"
+    },
+    {
+     "c": "Javier",
+     "n": "Juanpa Zurita"
+    },
+    {
+     "c": "Raúl",
+     "n": "Hernán Mendoza"
+    },
+    {
+     "c": "La Avispa",
+     "n": "Harold Azuara"
+    },
+    {
+     "c": "Martín",
+     "n": "Agustín Arana"
+    },
+    {
+     "c": "Maguis",
+     "n": "Yuriria del Valle"
+    },
+    {
+     "c": "María",
+     "n": "Karla Rico"
+    },
+    {
+     "c": "Jorge",
+     "n": "Jorge Gidi"
+    },
+    {
+     "c": "Lucía (15 años)",
+     "n": "Isabel Gonzalez"
+    },
+    {
+     "c": "Panchita",
+     "n": "Macarena Oz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ihtzi Hurtado"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1181678,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+   "popularity": 5.0927,
+   "poster_path": "/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-21",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "¿Quieres ser mi hijo?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.4,
+   "vote_count": 378
   },
   "movie:119278": {
    "backdrop_path": "/m7B3pDhzf3pfHrVE1aQ6gzOKXAH.jpg",
@@ -1119,6 +1264,351 @@
    "vote_average": 4.918,
    "vote_count": 49
   },
+  "movie:1978": {
+   "backdrop_path": "/sUZfWQ8zlZx0OwOTmorDgttzIia.jpg",
+   "budget": 1450000,
+   "cast": [
+    {
+     "c": "Eve Gill",
+     "n": "Jane Wyman"
+    },
+    {
+     "c": "Charlotte Inwood",
+     "n": "Marlene Dietrich"
+    },
+    {
+     "c": "Det. Insp. Wilfried 'Ordinary' Smith",
+     "n": "Michael Wilding"
+    },
+    {
+     "c": "Jonathan Cooper",
+     "n": "Richard Todd"
+    },
+    {
+     "c": "Commodore Gill",
+     "n": "Alastair Sim"
+    },
+    {
+     "c": "Mrs. Gill",
+     "n": "Sybil Thorndike"
+    },
+    {
+     "c": "Nellie Goode",
+     "n": "Kay Walsh"
+    },
+    {
+     "c": "Mr. Fortesque",
+     "n": "Miles Malleson"
+    },
+    {
+     "c": "Freddie Williams",
+     "n": "Hector MacGregor"
+    },
+    {
+     "c": "'Lovely Ducks'",
+     "n": "Joyce Grenfell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1978,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A struggling actress tries to help a friend prove his innocence when he's accused of murdering the husband of a high-society entertainer.",
+   "popularity": 1.6311,
+   "poster_path": "/l43OTqhib8do1WwXig8JI8Y68Fd.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "Darkroom"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1950-02-23",
+   "revenue": 1900000,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love held its breath as sudden terror held the stage!",
+   "title": "Stage Fright",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.825,
+   "vote_count": 383
+  },
+  "movie:25678": {
+   "backdrop_path": "/vu7Pbne8Fwpkj1su4DuHW7WQH9k.jpg",
+   "budget": 350000,
+   "cast": [
+    {
+     "c": "Sgt. Joe Armstrong",
+     "n": "Michael Dudikoff"
+    },
+    {
+     "c": "Sgt. Curtis Jackson",
+     "n": "Steve James"
+    },
+    {
+     "c": "Sgt. Charlie McDonald",
+     "n": "Larry Poindexter"
+    },
+    {
+     "c": "Tojo Ken",
+     "n": "Mike Stone"
+    },
+    {
+     "c": "Capt. 'Wild Bill' Woodward",
+     "n": "Jeff Celentano"
+    },
+    {
+     "c": "Alicia Sanborn",
+     "n": "Michelle Botes"
+    },
+    {
+     "c": "Leo 'The Lion' Burke",
+     "n": "Gary Conway"
+    },
+    {
+     "c": "Shinyuki",
+     "n": "John Fujioka"
+    },
+    {
+     "c": "Tommy Taylor",
+     "n": "Jonathan Pienaar"
+    },
+    {
+     "c": "Pat McCarthy",
+     "n": "Len Sparrowhawk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sam Firstenberg"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 25678,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a remote Caribbean island, Army Ranger Joe Armstrong investigates the disappearance of several marines, which leads him to The Lion, a super-criminal who has kidnapped a local scientist and mass-produced an army of mutant Ninja warriors.",
+   "popularity": 2.7925,
+   "poster_path": "/4a4pASHNv68ZhfKJESekI2b6Dse.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-05-01",
+   "revenue": 4000000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The ultimate American fighting machine is back!",
+   "title": "American Ninja 2: The Confrontation",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.539,
+   "vote_count": 345
+  },
   "movie:31578": {
    "backdrop_path": "/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
    "budget": 0,
@@ -1602,6 +2092,116 @@
    "vote_average": 6.2,
    "vote_count": 409
   },
+  "movie:591278": {
+   "backdrop_path": "/6hfmHRaZNKzazyDDLli5CbT6L8H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Self",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "Self",
+     "n": "Kit Harington"
+    },
+    {
+     "c": "Self",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Self",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Self",
+     "n": "Sophie Turner"
+    },
+    {
+     "c": "Self",
+     "n": "Isaac Hempstead Wright"
+    },
+    {
+     "c": "Self",
+     "n": "Maisie Williams"
+    },
+    {
+     "c": "Self",
+     "n": "Michelle Fairley"
+    },
+    {
+     "c": "Self",
+     "n": "Iain Glen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jeanie Finlay"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 591278,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series “Game of Thrones,” chronicling the creation of the show’s most ambitious and complicated season.  Debuting one week after the series 8 finale, GAME OF THRONES: THE LAST WATCH delves deep into the mud and blood to reveal the tears and triumphs involved in the challenge of bringing the fantasy world of Westeros to life in the very real studios, fields and car-parks of Northern Ireland.  Made with unprecedented access, GAME OF THRONES: THE LAST WATCH is an up-close and personal portrait from the trenches of production, following the crew and the cast as they contend with extreme weather, punishing deadlines and an ever-excited fandom hungry for spoilers.  Much more than a “making of” documentary, this is a funny, heartbreaking story, told with wit and intimacy, about the bittersweet pleasures of what it means to create a world – and then have to say goodbye to it.",
+   "popularity": 2.6379,
+   "poster_path": "/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-26",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A farewell to Westeros with the people who built the realm",
+   "title": "Game of Thrones: The Last Watch",
+   "trailer": {
+    "key": "9K7c0jXkaGc",
+    "name": "Game of Thrones: The Last Watch | Official Documentary Trailer | HBO",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 357
+  },
   "movie:619278": {
    "backdrop_path": "/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
    "budget": 0,
@@ -1702,6 +2302,160 @@
    "type": "movie",
    "vote_average": 6.269,
    "vote_count": 413
+  },
+  "movie:69778": {
+   "backdrop_path": "/oqN7CoEzxAABrGBlS8s4PyU3xLO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eric Keppler",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Kelly",
+     "n": "Leslie Bibb"
+    },
+    {
+     "c": "Laura",
+     "n": "Lindsay Sloane"
+    },
+    {
+     "c": "Alison Lobel",
+     "n": "Lake Bell"
+    },
+    {
+     "c": "Sue Plummer",
+     "n": "Michelle Borth"
+    },
+    {
+     "c": "Adam Richman",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Mike McCrudden",
+     "n": "Tyler Labine"
+    },
+    {
+     "c": "Willow Talbot",
+     "n": "Angela Sarafyan"
+    },
+    {
+     "c": "Doug Duquez",
+     "n": "Martin Starr"
+    },
+    {
+     "c": "Marcus",
+     "n": "Rhys Coiro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Huyck",
+    "Alex Gregory"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 69778,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of 30-year-olds who have been friends since high school attempt to throw an end-of-summer orgy.",
+   "popularity": 2.3326,
+   "poster_path": "/1lyMNAAaKb3pZHoVXVDQExCmzVI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-02",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about old friends in new positions.",
+   "title": "A Good Old Fashioned Orgy",
+   "trailer": {
+    "key": "ajNE2Q0wdtY",
+    "name": "A GOOD OLD FASHIONED ORGY Trailer (Red Band) - available on DVD & digital formats 14 May 2012",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.832,
+   "vote_count": 368
   },
   "movie:72478": {
    "backdrop_path": "/zGNLkZYzFrBvROL2g6UNJsfnA8h.jpg",
@@ -1806,6 +2560,175 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 498
+  },
+  "movie:9278": {
+   "backdrop_path": "/8FlHUvNOSANeo8Y8adBNJanEib.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Alex Furlong",
+     "n": "Emilio Estevez"
+    },
+    {
+     "c": "Victor Vacendak",
+     "n": "Mick Jagger"
+    },
+    {
+     "c": "Julie Redlund",
+     "n": "Rene Russo"
+    },
+    {
+     "c": "Ian McCandless",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Mark Michelette",
+     "n": "Jonathan Banks"
+    },
+    {
+     "c": "Brad Carter",
+     "n": "David Johansen"
+    },
+    {
+     "c": "Nun",
+     "n": "Amanda Plummer"
+    },
+    {
+     "c": "Eagle Man",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Earnhart",
+     "n": "Wilbur Fitzgerald"
+    },
+    {
+     "c": "Ripper",
+     "n": "Esai Morales"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Geoff Murphy"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 9278,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Time-traveling bounty hunters find a doomed race-car driver in the past and bring him to 2009 New York, where his mind will be replaced with that of a terminally ill billionaire.",
+   "popularity": 2.2451,
+   "poster_path": "/lSN8lIX90Az0t1qvIXC4MlCvd9a.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-01-17",
+   "revenue": 17129026,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Alex Furlong died today. Eighteen years from now he'll be running for his life.",
+   "title": "Freejack",
+   "trailer": {
+    "key": "CIU819AyIVM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 375
   },
   "tv:108978": {
    "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 34,
+ "count": 38,
  "titles": {
   "movie:10213": {
    "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
@@ -120,6 +120,162 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 413
+  },
+  "movie:12613": {
+   "backdrop_path": "/ckjqoqCGbPyf8HknxXu4hXS9N4M.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Ryu (voice)",
+     "n": "Koujiro Shimizu"
+    },
+    {
+     "c": "Ken Masters (voice)",
+     "n": "Kenji Haga"
+    },
+    {
+     "c": "Chun-Li (voice)",
+     "n": "Miki Fujitani"
+    },
+    {
+     "c": "Guile (voice)",
+     "n": "Masane Tsukayama"
+    },
+    {
+     "c": "M. Bison (voice)",
+     "n": "Takeshi Kusaka"
+    },
+    {
+     "c": "Vega (voice)",
+     "n": "Kaneto Shiozawa"
+    },
+    {
+     "c": "Sagat (voice)",
+     "n": "Shigezo Sasaoka"
+    },
+    {
+     "c": "Balrog (voice)",
+     "n": "Jouji Nakata"
+    },
+    {
+     "c": "Fei-Long (voice)",
+     "n": "Masakatsu Funaki"
+    },
+    {
+     "c": "Dhalsim (voice)",
+     "n": "Yukimasa Kishino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gisaburō Sugii"
+   ],
+   "genres": [
+    "Animation",
+    "Action"
+   ],
+   "id": 12613,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Bison, the ruthless leader of the international terrorist organization Shadowlaw, has been desperately searching for the greatest fighter on the planet for years. He finds it in Ryu, a young wanderer who never stays in one place long enough for Bison to find him. He does, however, get a fix on Ken Masters, an American martial arts champion who studied with Ryu as a child under the same master. Meanwhile, Major Guile of the United States Army is forced to team up with Chun Li from China in hopes of apprehending Bison and putting a stop his international ring of crime.",
+   "popularity": 7.1232,
+   "poster_path": "/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qtw1f8sXwc57wAY6l0RuYzMOg4t.png",
+     "name": "RetroCrush Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-08-06",
+   "revenue": 29000000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The wear lose and the strong win! Will the World Wariors triumph or die?",
+   "title": "Street Fighter II: The Animated Movie",
+   "trailer": {
+    "key": "8adq6g4BhSY",
+    "name": "Street Fighter 2: The Animated Movie, Discotek Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 343
   },
   "movie:1304313": {
    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -1288,6 +1444,107 @@
    "vote_average": 7.2,
    "vote_count": 28
   },
+  "movie:15213": {
+   "backdrop_path": "/tcFFMP25n6zoB8R12ulx3lKgRzs.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Yankee Irving (voice)",
+     "n": "Jake T. Austin"
+    },
+    {
+     "c": "Screwie (voice)",
+     "n": "Rob Reiner"
+    },
+    {
+     "c": "Lefty Maginnis (voice)",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Stanley Irving (voice)",
+     "n": "Mandy Patinkin"
+    },
+    {
+     "c": "Hobo Andy / Maitre D' (voice)",
+     "n": "Richard Kind"
+    },
+    {
+     "c": "Mr. Robinson (voice)",
+     "n": "Robert Wagner"
+    },
+    {
+     "c": "Marti Brewster (voice)",
+     "n": "Raven-Symoné"
+    },
+    {
+     "c": "Darlin' (voice)",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Babe Ruth (voice)",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Officer Bryant (voice)",
+     "n": "Ritchie Allen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Colin Brady",
+    "Christopher Reeve",
+    "Dan St. Pierre"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 15213,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy begins a grand journey to return Babe Ruth's baseball bat before the deciding game of the 1932 World Series comes to a close.",
+   "popularity": 3.1886,
+   "poster_path": "/zevMhG4AIAJpOKLqtUCxzC5T3JA.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-08-04",
+   "revenue": 16627188,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No matter where life takes you, always keep swingin'",
+   "title": "Everyone's Hero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 359
+  },
   "movie:1548113": {
    "backdrop_path": "/qz7B5uDspnkoz068wLbLnleotwV.jpg",
    "budget": 0,
@@ -1502,6 +1759,99 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 100
+  },
+  "movie:19413": {
+   "backdrop_path": "/lZzW1Y6sDGhbnOh8NuMwUlOVVVe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giacinto",
+     "n": "Nino Manfredi"
+    },
+    {
+     "c": "Domizio",
+     "n": "Francesco Anniballi"
+    },
+    {
+     "c": "Gaetana",
+     "n": "Maria Bosco"
+    },
+    {
+     "c": "Lisetta",
+     "n": "Giselda Castrini"
+    },
+    {
+     "c": "Plinio",
+     "n": "Alfredo D'Ippolito"
+    },
+    {
+     "c": "Paride",
+     "n": "Giancarlo Fanelli"
+    },
+    {
+     "c": "Maria Libera",
+     "n": "Marina Fasoli"
+    },
+    {
+     "c": "Camillo",
+     "n": "Ettore Garofolo"
+    },
+    {
+     "c": "Vittoriano",
+     "n": "Marco Marsili"
+    },
+    {
+     "c": "Fernando",
+     "n": "Franco Merli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "e 14",
+   "date_kind": "release",
+   "director": [
+    "Ettore Scola"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 19413,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Giacinto lives with his wife, their ten children and various other family members in a shack on the hills of Rome. Some time ago he has lost his left eye while at work, and got a consistent sum of money from the insurance company, which he keeps hidden from the rest of the family. His whole life is now based on defending the money he sees as his own, while the rest of the family tries to kill him.",
+   "popularity": 3.0552,
+   "poster_path": "/rl2wUqZAZSEXymyvH3U7onEQfMN.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1976-09-23",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ugly, Dirty and Bad",
+   "trailer": {
+    "key": "Rikqcbg1Fc0",
+    "name": "Brutti, sporchi e cattivi - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.519,
+   "vote_count": 363
   },
   "movie:24913": {
    "backdrop_path": "/lLxz3D3LBhyO3q9F0eBqSjepoD4.jpg",
@@ -1829,6 +2179,135 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 493
+  },
+  "movie:32613": {
+   "backdrop_path": "/ok4zZ7MCpYS6PaT2ijUrb7Ankc5.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Prof. Sir Alexander Saxton",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Dr. Wells",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Captain Kazan",
+     "n": "Telly Savalas"
+    },
+    {
+     "c": "Father Pujardov",
+     "n": "Alberto de Mendoza"
+    },
+    {
+     "c": "Countess Irina Petrovska",
+     "n": "Silvia Tortosa"
+    },
+    {
+     "c": "Inspector Mirov",
+     "n": "Julio Peña"
+    },
+    {
+     "c": "Yevtushenko",
+     "n": "Ángel del Pozo"
+    },
+    {
+     "c": "Natasha",
+     "n": "Helga Liné"
+    },
+    {
+     "c": "Miss Jones",
+     "n": "Alice Reinheart"
+    },
+    {
+     "c": "Conductor Koniev",
+     "n": "José Jaspe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eugenio Martín"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 32613,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "Mysterious and unearthly deaths start to occur while Professor Saxton is transporting the frozen remains of a primitive humanoid creature he found in Manchuria back to Europe.",
+   "popularity": 2.3953,
+   "poster_path": "/5gKmaU3ExxGKMM3rD0JKWIKBFg1.jpg",
+   "production_countries": [
+    "ES",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Full Moon Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1972-09-30",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A nightmare of terror travelling aboard the Horror Express!",
+   "title": "Horror Express",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.341,
+   "vote_count": 356
   },
   "movie:41413": {
    "backdrop_path": "/51dQaI3KrgtSACthFPF8wjCDTw0.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 37,
+ "count": 43,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -533,6 +533,119 @@
    "type": "movie",
    "vote_average": 7.103,
    "vote_count": 1203
+  },
+  "movie:1151949": {
+   "backdrop_path": "/lkzBusEFoXTQnxFMEsYAZ1QwRqu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Agent 13 / Nomi",
+     "n": "Aurora Ribero"
+    },
+    {
+     "c": "Agent Umbra",
+     "n": "Hana Pitrashata Malasan"
+    },
+    {
+     "c": "Ariel",
+     "n": "Andri Mashadi"
+    },
+    {
+     "c": "Prasetyo",
+     "n": "Adipati Dolken"
+    },
+    {
+     "c": "Jeki",
+     "n": "Kristo Immanuel"
+    },
+    {
+     "c": "Monji",
+     "n": "Ali Fikry"
+    },
+    {
+     "c": "Soriah",
+     "n": "Taskya Namya"
+    },
+    {
+     "c": "Soemitro",
+     "n": "Arswendy Bening Swara"
+    },
+    {
+     "c": "Handler",
+     "n": "Chew Kin Wah"
+    },
+    {
+     "c": "Haga",
+     "n": "Agra Piliang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Timo Tjahjanto"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1151949,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "ID"
+   ],
+   "original_language": "id",
+   "overview": "Skilled in the art of killing, a young assassin defies her mentor to save a boy from a ruthless crime syndicate — and she'll destroy anyone in her path.",
+   "popularity": 4.5431,
+   "poster_path": "/7UYeDUzFIscGVr0mo7isvnrVYvO.jpg",
+   "production_countries": [
+    "ID"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-10",
+   "revenue": 0,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh",
+    "fr",
+    "id",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Violence is her only option.",
+   "title": "The Shadow Strays",
+   "trailer": {
+    "key": "jsKo8nvOfck",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.287,
+   "vote_count": 370
   },
   "movie:1249": {
    "backdrop_path": "/grBVNhFI7iNB54eFfXVzbYfDSQk.jpg",
@@ -1237,6 +1350,110 @@
    "vote_average": 7.05,
    "vote_count": 20
   },
+  "movie:20649": {
+   "backdrop_path": "/xhYs4yaBnDNM3utncVzLmFVpAmK.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Det. Rocco Klein",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Det. Larry Mazilli",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Rodney Little",
+     "n": "Delroy Lindo"
+    },
+    {
+     "c": "Ronald 'Strike' Dunham",
+     "n": "Mekhi Phifer"
+    },
+    {
+     "c": "Victor Dunham",
+     "n": "Isaiah Washington"
+    },
+    {
+     "c": "André the Giant",
+     "n": "Keith David"
+    },
+    {
+     "c": "Tyrone 'Shorty' Jeeter",
+     "n": "Peewee Love"
+    },
+    {
+     "c": "Iris Jeeter",
+     "n": "Regina Taylor"
+    },
+    {
+     "c": "Errol Barnes",
+     "n": "Thomas Jefferson Byrd"
+    },
+    {
+     "c": "Scientific",
+     "n": "Sticky Fingaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 20649,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Strike is a young city drug pusher under the tutelage of drug lord Rodney Little. When a night manager at a fast-food restaurant is found with four bullets in his body, Strike’s older brother turns himself in as the killer. Detective Rocco Klein doesn’t buy the story, however, setting out to find the truth, and it seems that all the fingers point toward Strike & Rodney.",
+   "popularity": 2.275,
+   "poster_path": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "ALLBLK Apple TV channel"
+    },
+    {
+     "name": "ALLBLK Amazon channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-09-15",
+   "revenue": 13100000,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When there’s murder on the streets, everyone is a suspect.",
+   "title": "Clockers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.702,
+   "vote_count": 374
+  },
   "movie:209249": {
    "backdrop_path": "/5YnUQ5oRXjQcxuqwn76NoIxwRV2.jpg",
    "budget": 0,
@@ -1409,6 +1626,130 @@
    "type": "movie",
    "vote_average": 5.994,
    "vote_count": 483
+  },
+  "movie:2149": {
+   "backdrop_path": "/vbVe8HhnR1hJ6I5k49E6cqCajYX.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Rebeca Carlson",
+     "n": "Madonna"
+    },
+    {
+     "c": "Frank Dulaney",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Sharon Dulaney",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Joanne Braslow",
+     "n": "Anne Archer"
+    },
+    {
+     "c": "Dr. Alan Paley",
+     "n": "Jürgen Prochnow"
+    },
+    {
+     "c": "Jeffrey Roston",
+     "n": "Frank Langella"
+    },
+    {
+     "c": "Judge Richter Burnham",
+     "n": "Lillian Lehman"
+    },
+    {
+     "c": "Robert Garrett",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "Dr. McCurdy",
+     "n": "Charles Hallahan"
+    },
+    {
+     "c": "Charles Biggs",
+     "n": "Stan Shaw"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Uli Edel"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 2149,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an elderly millionaire is found dead with cocaine in his system, his will leaves $8 million to Rebecca Carlson, who was having an affair with him. District attorney Robert Garrett decides to prosecute Rebecca, arguing that she deliberately engaged in wild sex with the old man to overexcite him and lead to his premature death. Defense attorney Frank Dulaney defends Rebecca in court while getting sucked into a dangerous affair with her.",
+   "popularity": 2.7796,
+   "poster_path": "/rGDfwZHRMpY5R0ZkmaiHHvpYQKB.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-01-15",
+   "revenue": 38000000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An act of love, or an act of murder?",
+   "title": "Body of Evidence",
+   "trailer": {
+    "key": "51xEHzC-rjQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.982,
+   "vote_count": 361
   },
   "movie:23049": {
    "backdrop_path": "/4s0AurNfsPuC0M6RdPk12trhb6W.jpg",
@@ -2172,6 +2513,94 @@
    "vote_average": 6.077,
    "vote_count": 496
   },
+  "movie:613349": {
+   "backdrop_path": "/70zanWt7TxBCZJCdMYhCMFDdGQr.jpg",
+   "budget": 6837995,
+   "cast": [
+    {
+     "c": "Serge Mamou Mani, the doctor",
+     "n": "Michel Blanc"
+    },
+    {
+     "c": "Malek Aknoun, Uber delivery man",
+     "n": "Hakim Jemili"
+    },
+    {
+     "c": "Rose Malaparte",
+     "n": "Solène Rigot"
+    },
+    {
+     "c": "Suzy, the switchboard operator (voice)",
+     "n": "Chantal Lauby"
+    },
+    {
+     "c": "Grisoni, Uber's customer",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Sonya Derringer, the woman giving birth",
+     "n": "Fadily Camara"
+    },
+    {
+     "c": "Wilfried",
+     "n": "Artus"
+    },
+    {
+     "c": "Mr. Xanakis, the old patient",
+     "n": "Jacques Boudet"
+    },
+    {
+     "c": "Marjolaine Joffrin",
+     "n": "Ophélia Kolb"
+    },
+    {
+     "c": "Henri Joffrin",
+     "n": "Maxence Tual"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Tristan Séguéla"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 613349,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "On Christmas eve, Serge is the only on-call emergency doctor available. Struck by a crippling back-ache, he gets help from a pizza delivery boy who will need to step in the doctor's shoes.",
+   "popularity": 1.1277,
+   "poster_path": "/7wx7VMj4eoJUXR4ZVdYVDzFStNd.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-11",
+   "revenue": 6294941,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Good Doctor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.532,
+   "vote_count": 343
+  },
   "movie:6949": {
    "backdrop_path": "/lDeH6UkNGX2UcaOKTJ5SHtmNwbD.jpg",
    "budget": 4000000,
@@ -2548,6 +2977,126 @@
    "vote_average": 4.546,
    "vote_count": 393
   },
+  "movie:826749": {
+   "backdrop_path": "/uYa9EvkWgmE3EhcSdEAOzRqiydw.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Paul",
+     "n": "Jesse Metcalfe"
+    },
+    {
+     "c": "Robert",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Balzary",
+     "n": "Chad Michael Murray"
+    },
+    {
+     "c": "Kate",
+     "n": "Kelly Greyson"
+    },
+    {
+     "c": "Ulysses",
+     "n": "Ser'Darius Blain"
+    },
+    {
+     "c": "Sophia",
+     "n": "Katalina Viteri"
+    },
+    {
+     "c": "Dobbs",
+     "n": "Shannen Doherty"
+    },
+    {
+     "c": "Sandra",
+     "n": "Natalie Burn"
+    },
+    {
+     "c": "Ava",
+     "n": "Kaleina Cordova"
+    },
+    {
+     "c": "Marcia",
+     "n": "Leslee Emmett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Cullen Bressack"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 826749,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.",
+   "popularity": 2.4682,
+   "poster_path": "/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-17",
+   "revenue": 52169,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This prison has no bars.",
+   "title": "Fortress",
+   "trailer": {
+    "key": "LdqK7CuCYp4",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.656,
+   "vote_count": 375
+  },
   "movie:964849": {
    "backdrop_path": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
    "budget": 5900000,
@@ -2760,6 +3309,171 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 175
+  },
+  "movie:9849": {
+   "backdrop_path": "/1viDPGEPpEZBVwuIotnaXBQNyGQ.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Uncle Martin",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Tim O'Hara",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Brace Channing",
+     "n": "Elizabeth Hurley"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Daryl Hannah"
+    },
+    {
+     "c": "Coleye",
+     "n": "Wallace Shawn"
+    },
+    {
+     "c": "Mrs. Brown",
+     "n": "Christine Ebersole"
+    },
+    {
+     "c": "Mr. Channing",
+     "n": "Michael Lerner"
+    },
+    {
+     "c": "Armitan",
+     "n": "Ray Walston"
+    },
+    {
+     "c": "Felix",
+     "n": "Shelley Malil"
+    },
+    {
+     "c": "Billy",
+     "n": "Jeremy Hotz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Donald Petrie"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 9849,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ambitious television reporter Tim O'Hara stumbles upon a martian whose spaceship has accidentally crashed on Earth. Thinking this is his ticket to a Pulitzer Prize, Tim makes plans to expose the martian, who, posing as Tim's Uncle Martin, takes human form and has plans of his own. In fact, all of Tim's efforts to divulge the truth are systematically thwarted by the resourceful alien, who ultimately recruits Tim to help him repair his ship for a return to Mars.",
+   "popularity": 2.2448,
+   "poster_path": "/pOp4xriDEFUy2uN0BfnHJcjzqWt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-02-11",
+   "revenue": 36850101,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The martian has landed. There goes the neighborhood.",
+   "title": "My Favorite Martian",
+   "trailer": {
+    "key": "VXZ-b-ZB7Rw",
+    "name": "My Favorite Martian",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.684,
+   "vote_count": 370
   },
   "tv:123249": {
    "backdrop_path": "/sxBC3GJI1PZXpwb0xAYRxLL4nja.jpg",

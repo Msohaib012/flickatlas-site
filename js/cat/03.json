@@ -1,7 +1,352 @@
 {
  "bucket": "03",
- "count": 41,
+ "count": 49,
  "titles": {
+  "movie:11703": {
+   "backdrop_path": "/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
+   "budget": 1250000,
+   "cast": [
+    {
+     "c": "Luis Molina",
+     "n": "William Hurt"
+    },
+    {
+     "c": "Valentin Arregui",
+     "n": "Raúl Juliá"
+    },
+    {
+     "c": "Leni Lamaison / Marta / Spider Woman",
+     "n": "Sonia Braga"
+    },
+    {
+     "c": "Warden",
+     "n": "José Lewgoy"
+    },
+    {
+     "c": "Pedro",
+     "n": "Milton Gonçalves"
+    },
+    {
+     "c": "Mother",
+     "n": "Miriam Pires"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Nuno Leal Maia"
+    },
+    {
+     "c": "Americo",
+     "n": "Fernando Torres"
+    },
+    {
+     "c": "Greta",
+     "n": "Patricio Bisso"
+    },
+    {
+     "c": "Werner",
+     "n": "Herson Capri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Héctor Babenco"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11703,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of two radically different men thrown together in a Latin American prison cell. One is Valentin, a journalist being tortured for his political beliefs. The other is Molina, a gay window-dresser who fills their lonely nights by spinning romantic fantasies drawn from memories of old movies.",
+   "popularity": 2.6163,
+   "poster_path": "/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
+   "production_countries": [
+    "BR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-07-26",
+   "revenue": 17000000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "de",
+    "pt",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Once upon a time... in a tropical island far away, there lived a strange woman…",
+   "title": "Kiss of the Spider Woman",
+   "trailer": {
+    "key": "faiLjJOR_YE",
+    "name": "Re-release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.975,
+   "vote_count": 360
+  },
+  "movie:123103": {
+   "backdrop_path": "/5r1gKY9mJNXLABbhoJJmyeVG9EJ.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Gringo",
+     "n": "Eli Roth"
+    },
+    {
+     "c": "Monica",
+     "n": "Andrea Osvárt"
+    },
+    {
+     "c": "Ariel",
+     "n": "Ariel Levy"
+    },
+    {
+     "c": "Kylie",
+     "n": "Lorenza Izzo"
+    },
+    {
+     "c": "Pollo",
+     "n": "Nicolás Martínez"
+    },
+    {
+     "c": "Irina",
+     "n": "Natasha Yarovenko"
+    },
+    {
+     "c": "V.I.P. Girl",
+     "n": "Selena Gomez"
+    },
+    {
+     "c": "Ramón",
+     "n": "Ramón Llao"
+    },
+    {
+     "c": "Guide",
+     "n": "Ignacia Allamand"
+    },
+    {
+     "c": "Firefighter",
+     "n": "Marcial Tagle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicolás López"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 123103,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Mayhem and death follow when an earthquake traps a group of tourists in a Chilean town.",
+   "popularity": 1.8269,
+   "poster_path": "/jbPqPMbJbhFttJy2joNVsO7a7Po.jpg",
+   "production_countries": [
+    "CL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-12",
+   "revenue": 58510,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The only thing more terrifying than Mother Nature is human nature.",
+   "title": "Aftershock",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.151,
+   "vote_count": 364
+  },
   "movie:1235303": {
    "backdrop_path": "/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
    "budget": 0,
@@ -1450,6 +1795,110 @@
    "vote_average": 6.9,
    "vote_count": 408
   },
+  "movie:19403": {
+   "backdrop_path": "/thMdGESFFPyMTt14AACD0qk9v0m.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Arthur Bishop",
+     "n": "Charles Bronson"
+    },
+    {
+     "c": "Steve McKenna",
+     "n": "Jan-Michael Vincent"
+    },
+    {
+     "c": "Harry McKenna",
+     "n": "Keenan Wynn"
+    },
+    {
+     "c": "The Girl",
+     "n": "Jill Ireland"
+    },
+    {
+     "c": "Louise, Steve McKenna's Girlfriend",
+     "n": "Linda Ridgeway"
+    },
+    {
+     "c": "The Man",
+     "n": "Frank De Kova"
+    },
+    {
+     "c": "Intern",
+     "n": "James Davidson"
+    },
+    {
+     "c": "Policeman",
+     "n": "Lindsay Crosby"
+    },
+    {
+     "c": "Messenger",
+     "n": "Steve Cory"
+    },
+    {
+     "c": "Yamoto",
+     "n": "Tak Kubota"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Winner"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 19403,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Arthur Bishop is a veteran hit man who, owing to his penchant for making his targets' deaths seem like accidents, thinks himself an artist. It's made him very rich, but as he hits middle age, he's so depressed and lonely that he takes on one of his victim's sons, Steve McKenna, as his apprentice. Arthur puts him through a rigorous training period and brings him on several hits. As Steven improves, Arthur worries that he'll discover who killed his father.",
+   "popularity": 2.364,
+   "poster_path": "/hizE0MwFJOBlfLSFqFNKv7cSxkT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1972-10-06",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He has 100 ways to kill... and they all work!",
+   "title": "The Mechanic",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.668,
+   "vote_count": 370
+  },
   "movie:19703": {
    "backdrop_path": "/tmbwscy8OvNMkg4CFOi8eEO523b.jpg",
    "budget": 1400000,
@@ -1664,6 +2113,113 @@
    "vote_average": 7.904,
    "vote_count": 434
   },
+  "movie:244403": {
+   "backdrop_path": "/aSrP7Xmk4EDL1iqWX2cbtnXqmT7.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Sam Manning",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Quentin",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Emily",
+     "n": "Felicity Huffman"
+    },
+    {
+     "c": "Kate Lucas",
+     "n": "Selena Gomez"
+    },
+    {
+     "c": "Josh Manning",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Mary Beth",
+     "n": "Alexandra Lovelace"
+    },
+    {
+     "c": "Del",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Trill",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Peaches",
+     "n": "Kate Micucci"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Zoe Graham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William H. Macy"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 244403,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A grieving father in a downward spiral stumbles across a box of his recently deceased son's demo tapes and lyrics. Shocked by the discovery of this unknown talent, he forms a band in the hope of finding some catharsis.",
+   "popularity": 1.821,
+   "poster_path": "/ka3gEmHph5FTJouSdOOK02Ck6bx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-01-01",
+   "revenue": 58293,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The way back begins with a single chord.",
+   "title": "Rudderless",
+   "trailer": {
+    "key": "Xq6XgPSgzmA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 345
+  },
   "movie:3": {
    "backdrop_path": "/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
    "budget": 0,
@@ -1765,6 +2321,136 @@
    "type": "movie",
    "vote_average": 7.272,
    "vote_count": 457
+  },
+  "movie:307103": {
+   "backdrop_path": "/zqlePpnG6PK082fOckeR13VPCoc.jpg",
+   "budget": 5290000,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "Raphaël Personnaz"
+    },
+    {
+     "c": "Frédérique Pons",
+     "n": "Nathalie Baye"
+    },
+    {
+     "c": "Bougon",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Carbonel",
+     "n": "Michel Vuillermoz"
+    },
+    {
+     "c": "Guy Georges",
+     "n": "Adama Niane"
+    },
+    {
+     "c": "Lemoine",
+     "n": "Olivier Balazuc"
+    },
+    {
+     "c": "Elisabeth Ortega",
+     "n": "Christa Théret"
+    },
+    {
+     "c": "Jensen",
+     "n": "Thierry Neuvic"
+    },
+    {
+     "c": "L'avocat de Guy Georges",
+     "n": "William Nadylam"
+    },
+    {
+     "c": "Coco",
+     "n": "Chloé Stefani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "Κ-15",
+   "date_kind": "release",
+   "director": [
+    "Frédéric Tellier"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 307103,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The hunt, capture and trial of Guy Georges, one of France's most notorious serial killers.",
+   "popularity": 1.2554,
+   "poster_path": "/w1TKSc5ml15JjlnYtsvM4fAEG8Z.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-01-07",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "SK1",
+   "trailer": {
+    "key": "KefO9YIwNYg",
+    "name": "Serial Killer 1 - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.866,
+   "vote_count": 347
   },
   "movie:43003": {
    "backdrop_path": "/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
@@ -2162,6 +2848,146 @@
    "vote_average": 6.691,
    "vote_count": 452
   },
+  "movie:583903": {
+   "backdrop_path": "/tlnu7qpEeyh4mgS7w2BIH6daPsA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicole Teague",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Matthew Teague",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Dane Faucheux",
+     "n": "Jason Segel"
+    },
+    {
+     "c": "Faith Pruett",
+     "n": "Cherry Jones"
+    },
+    {
+     "c": "Aaron",
+     "n": "Jake Owen"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Denée Benton"
+    },
+    {
+     "c": "Teresa",
+     "n": "Gwendoline Christie"
+    },
+    {
+     "c": "Peter",
+     "n": "Reed Diamond"
+    },
+    {
+     "c": "Molly Teague",
+     "n": "Isabella Kai"
+    },
+    {
+     "c": "Evie Teague",
+     "n": "Violet McGraw"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gabriela Cowperthwaite"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 583903,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out.",
+   "popularity": 1.8736,
+   "poster_path": "/vg9C5LttsKBqoLuqeQvOXaeBGiD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-04",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Our Friend",
+   "trailer": {
+    "key": "GTWqGLnOxtA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.174,
+   "vote_count": 377
+  },
   "movie:616803": {
    "backdrop_path": "/mBijGSEEkIVt24ruvTxFuQWRKJm.jpg",
    "budget": 0,
@@ -2506,6 +3332,198 @@
    "vote_average": 6.4,
    "vote_count": 445
   },
+  "movie:851303": {
+   "backdrop_path": "/fu8cHHdmySIX0MEafUv6QkslFlY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Camille",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Georges",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Charles",
+     "n": "Grégory Gadebois"
+    },
+    {
+     "c": "Gary",
+     "n": "Solan Machado-Graner"
+    },
+    {
+     "c": "Épouse",
+     "n": "Éliza Maillot"
+    },
+    {
+     "c": "Épouse",
+     "n": "Bénédicte Charton"
+    },
+    {
+     "c": "Épouse",
+     "n": "Morgane Lombard"
+    },
+    {
+     "c": "Épouse",
+     "n": "Fabienne Chaudat"
+    },
+    {
+     "c": "Époux",
+     "n": "Franck Mercadal"
+    },
+    {
+     "c": "Époux",
+     "n": "Lucas Bleger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Régis Roinsard"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 851303,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A boy and his eccentric parents leave their home in Paris for a country house in Spain. As the mother descends deeper into her own mind, it's up to the boy and his father to keep her safe and happy.",
+   "popularity": 1.5323,
+   "poster_path": "/i7zWGYTXPN0KgcbuTnIEV3qGpEC.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-05",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Waiting for Bojangles",
+   "trailer": {
+    "key": "VS-4EJnjkkI",
+    "name": "WAITING FOR BOJANGLES | Official Trailer | STUDIOCANAL International",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.306,
+   "vote_count": 373
+  },
   "movie:8703": {
    "backdrop_path": "/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
    "budget": 580000,
@@ -2732,6 +3750,121 @@
    "type": "movie",
    "vote_average": 6.502,
    "vote_count": 406
+  },
+  "movie:9503": {
+   "backdrop_path": "/mKOp7sXHbwUpOdd9WCClcg0wp3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pope Sergius II.",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Johanna von Ingelheim",
+     "n": "Johanna Wokalek"
+    },
+    {
+     "c": "Gerold",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Village Priest",
+     "n": "Iain Glen"
+    },
+    {
+     "c": "Aesculapius",
+     "n": "Edward Petherbridge"
+    },
+    {
+     "c": "Anastasius",
+     "n": "Anatole Taubman"
+    },
+    {
+     "c": "Johanna von Ingelheim - Age 10-14",
+     "n": "Lotte Flack"
+    },
+    {
+     "c": "Johanna von Ingelheim - Age 6-9",
+     "n": "Tigerlily Hutchinson"
+    },
+    {
+     "c": "Joan's Mother",
+     "n": "Jördis Triebel"
+    },
+    {
+     "c": "Arsenius",
+     "n": "Oliver Cotton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Sönke Wortmann"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 9503,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "A 9th century woman of English extraction born in the German city of Ingelheim disguises herself as a man and rises through the Vatican ranks.",
+   "popularity": 1.6502,
+   "poster_path": "/cYeodvtw9wlo5DWUVwoTiqjvfLJ.jpg",
+   "production_countries": [
+    "DE",
+    "IT",
+    "MA",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-10-22",
+   "revenue": 28748076,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Pope Joan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 371
   },
   "tv:111803": {
    "backdrop_path": "/qVBIAcZkK5j6WRq7JehJcOMbdgb.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "34",
- "count": 36,
+ "count": 43,
  "titles": {
   "movie:10534": {
    "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
@@ -782,6 +782,112 @@
    "vote_average": 7.671,
    "vote_count": 35
   },
+  "movie:1180634": {
+   "backdrop_path": "/5ujNnFpEbLK2xE9MSM8GNV6zOqF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Derna",
+     "n": "Barbara Ronchi"
+    },
+    {
+     "c": "Antonietta",
+     "n": "Serena Rossi"
+    },
+    {
+     "c": "Amerigo",
+     "n": "Christian Cervone"
+    },
+    {
+     "c": "Amerigo Adulto",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Capa ‘e Fierro",
+     "n": "Francesco Di Leva"
+    },
+    {
+     "c": "Maddalena Criscuolo",
+     "n": "Antonia Truppo"
+    },
+    {
+     "c": "Zandragliona",
+     "n": "Monica Nappo"
+    },
+    {
+     "c": "Pachiochia",
+     "n": "Dora Romano"
+    },
+    {
+     "c": "Maestra Ferrari",
+     "n": "Beatrice Schiros"
+    },
+    {
+     "c": "Alcide",
+     "n": "Ivan Zerbinati"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Cristina Comencini"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1180634,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In late 1940s Italy, a mother makes the difficult decision to send her son to the north, where he catches glimpses of a new life away from poverty.",
+   "popularity": 2.2306,
+   "poster_path": "/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-21",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Children's Train",
+   "trailer": {
+    "key": "76Aljh0U8Hk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 359
+  },
   "movie:1228834": {
    "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
    "budget": 32000000,
@@ -1360,6 +1466,122 @@
    "vote_average": 6.3,
    "vote_count": 497
   },
+  "movie:14034": {
+   "backdrop_path": "/tONZXxOfDjYYSeVaGSmLpHpqO5B.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Kevin Caffery",
+     "n": "Martin Lawrence"
+    },
+    {
+     "c": "Max Fairbanks",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Berger",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Gloria Sidell",
+     "n": "Glenne Headly"
+    },
+    {
+     "c": "Amber Belhaven",
+     "n": "Carmen Ejogo"
+    },
+    {
+     "c": "Uncle Jack",
+     "n": "Bernie Mac"
+    },
+    {
+     "c": "Earl Radburn",
+     "n": "Larry Miller"
+    },
+    {
+     "c": "Lutetia Fairbanks",
+     "n": "Nora Dunn"
+    },
+    {
+     "c": "Detective Alex Tardio",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Walter Greenbaum",
+     "n": "Richard Schiff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sam Weisman"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 14034,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thief Kevin Caffery attempts to rob from the home of rich businessman Max Fairbanks. But Fairbanks catches him and steals his cherished ring that his girlfriend gave him. Caffery is then bent on revenge and getting his ring back with the help of his partners.",
+   "popularity": 2.0577,
+   "poster_path": "/dF9vz1LB6078ULfweT2vxdWZzos.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-05-31",
+   "revenue": 38400000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It takes a thief to nail a crook.",
+   "title": "What's the Worst That Could Happen?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.478,
+   "vote_count": 356
+  },
   "movie:14134": {
    "backdrop_path": "/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
    "budget": 0,
@@ -1856,6 +2078,105 @@
    "vote_average": 7.956,
    "vote_count": 34
   },
+  "movie:25934": {
+   "backdrop_path": "/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
+   "budget": 625000,
+   "cast": [
+    {
+     "c": "Mark Thackeray",
+     "n": "Sidney Poitier"
+    },
+    {
+     "c": "Denham",
+     "n": "Christian Roberts"
+    },
+    {
+     "c": "Pamela Dare",
+     "n": "Judy Geeson"
+    },
+    {
+     "c": "Gillian Blanchard",
+     "n": "Suzy Kendall"
+    },
+    {
+     "c": "Barbara 'Babs' Pegg",
+     "n": "Lulu"
+    },
+    {
+     "c": "Mrs. Dare",
+     "n": "Ann Bell"
+    },
+    {
+     "c": "Theo Weston",
+     "n": "Geoffrey Bayldon"
+    },
+    {
+     "c": "Grace Evans",
+     "n": "Faith Brook"
+    },
+    {
+     "c": "Clinty Clintridge",
+     "n": "Patricia Routledge"
+    },
+    {
+     "c": "Potter",
+     "n": "Christopher Chittell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "James Clavell"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 25934,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A British Guianese engineer starts a job as a high school teacher in London’s East End, where his uninterested and delinquent pupils are in desperate need of attention and care.",
+   "popularity": 3.4396,
+   "poster_path": "/xMaVwTfgETmPs5yp3lNK5SeWCtB.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1967-06-14",
+   "revenue": 42432803,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Turned-on teens... and the teacher who had to tame them!",
+   "title": "To Sir, with Love",
+   "trailer": {
+    "key": "oMAjca-pgr4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.469,
+   "vote_count": 372
+  },
   "movie:37534": {
    "backdrop_path": "/rKaX8ery6hhQn8LT8FWdFyOBQSy.jpg",
    "budget": 0,
@@ -2035,6 +2356,272 @@
    "type": "movie",
    "vote_average": 5.35,
    "vote_count": 402
+  },
+  "movie:4034": {
+   "backdrop_path": "/1oziVuVtJc7BgHRCVLhVJ53u9u3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adrien Dufourquet",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Agnès Villermosa",
+     "n": "Françoise Dorléac"
+    },
+    {
+     "c": "Prof. Norbert Catalan",
+     "n": "Jean Servais"
+    },
+    {
+     "c": "Lola",
+     "n": "Simone Renant"
+    },
+    {
+     "c": "Señor Mario De Castro",
+     "n": "Adolfo Celi"
+    },
+    {
+     "c": "Lebel",
+     "n": "Roger Dumas"
+    },
+    {
+     "c": "Commissaire",
+     "n": "Daniel Ceccaldi"
+    },
+    {
+     "c": "\"Sir Winston\"",
+     "n": "Ubiracy De Oliveira"
+    },
+    {
+     "c": "Tupac",
+     "n": "Milton Ribeiro"
+    },
+    {
+     "c": "General in wheelchair",
+     "n": "Lucien Raimbourg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Philippe de Broca"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Comedy"
+   ],
+   "id": 4034,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "French military man Adrien Dufourquet gets an eight-day furlough to visit his fiancée, Agnès. But when he arrives in Paris, he learns that her late father's partner, museum curator Professor Catalan, has just been kidnapped by a group of Amazon tribesmen who have also stolen a priceless statue from the museum. Adrien and Agnès pursue the kidnappers to Brazil, where they learn that the statue is the key to a hidden Amazon treasure.",
+   "popularity": 2.3262,
+   "poster_path": "/AhaUqqHTIMSXG6WOMRCreitQ1ZX.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1964-02-05",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Look what they call a quiet week in Rio!",
+   "title": "That Man from Rio",
+   "trailer": {
+    "key": "ceB4bqJVEYg",
+    "name": "That Man From Rio - Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 371
+  },
+  "movie:641934": {
+   "backdrop_path": "/fKxGUfI09ubxe594Nl8Om2cMuxH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucy",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Jane",
+     "n": "Sonoya Mizuno"
+    },
+    {
+     "c": "Danny",
+     "n": "Jermaine Fowler"
+    },
+    {
+     "c": "Brittany",
+     "n": "Kiersey Clemons"
+    },
+    {
+     "c": "Kat",
+     "n": "Molly Gordon"
+    },
+    {
+     "c": "Ben",
+     "n": "Whitmer Thomas"
+    },
+    {
+     "c": "Stu",
+     "n": "Sean Hayes"
+    },
+    {
+     "c": "Sheila",
+     "n": "Tig Notaro"
+    },
+    {
+     "c": "Sky",
+     "n": "Odessa A'zion"
+    },
+    {
+     "c": "Server 1",
+     "n": "Patrick McDonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephanie Allynne",
+    "Tig Notaro"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 641934,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lucy and Jane have been best friends for most of their lives and think they know everything there is to know about each other. But when Jane announces she's moving to London, Lucy reveals a long-held secret. As Jane tries to help Lucy, their friendship is thrown into chaos.",
+   "popularity": 2.5445,
+   "poster_path": "/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-06-06",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "It's never too late to figure it out.",
+   "title": "Am I OK?",
+   "trailer": {
+    "key": "b80FbdimIHs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 380
   },
   "movie:785534": {
    "backdrop_path": "/ctckqAvz9aTZDtfXLmDUdMflesU.jpg",
@@ -2298,6 +2885,121 @@
    "vote_average": 7.14,
    "vote_count": 461
   },
+  "movie:811634": {
+   "backdrop_path": "/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Sun Wukong (voice)",
+     "n": "Jiang Bian"
+    },
+    {
+     "c": "(voice)",
+     "n": "Cai Haiting"
+    },
+    {
+     "c": "(voice)",
+     "n": "Su Shangqing"
+    },
+    {
+     "c": "(voice)",
+     "n": "Zhang Lei"
+    },
+    {
+     "c": "(voice)",
+     "n": "Zhang He"
+    },
+    {
+     "c": "(voice)",
+     "n": "Lin Qiang"
+    },
+    {
+     "c": "(voice)",
+     "n": "Liu Sicen"
+    },
+    {
+     "c": "(voice)",
+     "n": "Wang Chenguang"
+    },
+    {
+     "c": "(voice)",
+     "n": "Baomu Zhongyang"
+    },
+    {
+     "c": "(voice)",
+     "n": "Sheng Feng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Wang Yunfei"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 811634,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+   "popularity": 1.9369,
+   "poster_path": "/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-02",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "The final showdown.",
+   "title": "The Monkey King: Reborn",
+   "trailer": {
+    "key": "mjj3L35IKT0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 345
+  },
   "movie:842934": {
    "backdrop_path": "/4vkJmo7wqtEzJ2aCsHVJH16jOss.jpg",
    "budget": 0,
@@ -2446,6 +3148,109 @@
    "type": "movie",
    "vote_average": 5.558,
    "vote_count": 462
+  },
+  "movie:9534": {
+   "backdrop_path": "/vZUntwE0BLPxvjDVi54qQqxYyOI.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Rafael González",
+     "n": "Guillermo Toledo"
+    },
+    {
+     "c": "Lourdes",
+     "n": "Mónica Cervera"
+    },
+    {
+     "c": "Don Antonio Fraguas",
+     "n": "Luis Varela"
+    },
+    {
+     "c": "Comisario Campoy",
+     "n": "Enrique Villén"
+    },
+    {
+     "c": "Alonso",
+     "n": "Fernando Tejero"
+    },
+    {
+     "c": "Jaime",
+     "n": "Javier Gutiérrez"
+    },
+    {
+     "c": "Roxanne",
+     "n": "Kira Miró"
+    },
+    {
+     "c": "Señora despistada",
+     "n": "Rosario Pardo"
+    },
+    {
+     "c": "Concha",
+     "n": "Gracia Olayo"
+    },
+    {
+     "c": "Matías",
+     "n": "José Alias"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Álex de la Iglesia"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 9534,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A playboy has the tables turned on him when he finds himself being used as a plaything by an undesirable woman.",
+   "popularity": 1.1207,
+   "poster_path": "/1wOWudCNA550cLNk3JFoqhxLOGB.jpg",
+   "production_countries": [
+    "ES",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-09-10",
+   "revenue": 9040667,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Ferpect Crime",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.709,
+   "vote_count": 373
   },
   "tv:135934": {
    "backdrop_path": "/cmmIzxA0I8inxWbNEwCsI9JxQai.jpg",

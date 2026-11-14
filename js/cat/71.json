@@ -1,6 +1,6 @@
 {
  "bucket": "71",
- "count": 47,
+ "count": 55,
  "titles": {
   "movie:100271": {
    "backdrop_path": "/2vc5hXc4pMXcKOOsOuyI2MQ1AdK.jpg",
@@ -736,6 +736,163 @@
    "vote_average": 6.82,
    "vote_count": 499
   },
+  "movie:12771": {
+   "backdrop_path": "/qZiQ1ISNYjk6xn61NKwpcOGSG9a.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "Joe Tyler",
+     "n": "Matthew Perry"
+    },
+    {
+     "c": "Sara Moore",
+     "n": "Elizabeth Hurley"
+    },
+    {
+     "c": "Tony",
+     "n": "Vincent Pastore"
+    },
+    {
+     "c": "Gordon Moore",
+     "n": "Bruce Campbell"
+    },
+    {
+     "c": "Ray Harris",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Kate",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Vernon",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Milton",
+     "n": "Jerry Stiller"
+    },
+    {
+     "c": "Warren Cebron",
+     "n": "Marshall Bell"
+    },
+    {
+     "c": "Bouncer",
+     "n": "Derek Southers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Reginald Hudlin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 12771,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Sara is served divorce papers while she is in New York, she is stunned. Not about to lose the fortune she amassed with her self-serving Texan husband, she makes an offer to her process server, Joe, that sets them off on a wild trip across the country.",
+   "popularity": 1.5753,
+   "poster_path": "/zi8uGxsyhxo0Uzg09ImxLzBDSK3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-08-23",
+   "revenue": 16930185,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The One Thing That Could Bring Them Together Is Revenge.",
+   "title": "Serving Sara",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 360
+  },
   "movie:1329471": {
    "backdrop_path": "/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
    "budget": 0,
@@ -1357,6 +1514,136 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 33
+  },
+  "movie:19971": {
+   "backdrop_path": "/iBMgaRFhF7AQOY3OUgWESDgkBwm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rynn Jacobs",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Frank Hallet",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Mrs. Cora Hallet",
+     "n": "Alexis Smith"
+    },
+    {
+     "c": "Officer Ron Miglioriti",
+     "n": "Mort Shuman"
+    },
+    {
+     "c": "Mario Podesta",
+     "n": "Scott Jacoby"
+    },
+    {
+     "c": "Town Hall Clerk",
+     "n": "Dorothy Davis"
+    },
+    {
+     "c": "Bank Manager",
+     "n": "Clesson Goodhue"
+    },
+    {
+     "c": "Bank Clerk",
+     "n": "Hubert Noël"
+    },
+    {
+     "c": "Bank Clerk",
+     "n": "Jacques Famery"
+    },
+    {
+     "c": "Teller",
+     "n": "Mary Morter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Gessner"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 19971,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "13-year-old Rynn Jacobs lives in a New England beach town. Whenever the landlady inquires after Rynn's father, she claims that he's not available. But when the landlady's son, Frank, won't leave Rynn alone, she teams up with a neighbor Mario to maintain the dark family secret that she's been keeping to herself.",
+   "popularity": 3.4436,
+   "poster_path": "/qlH7atDoN2iOmq6pNsoFIlebhgA.jpg",
+   "production_countries": [
+    "FR",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-12-25",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ask her no questions, she'll tell you no lies. Ask her too many and somebody dies.",
+   "title": "The Little Girl Who Lives Down the Lane",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.993,
+   "vote_count": 378
   },
   "movie:22171": {
    "backdrop_path": "/vXrZ7pyHHQGBSyfXC791b62Ouxv.jpg",
@@ -2295,6 +2582,94 @@
    "vote_average": 7.203,
    "vote_count": 414
   },
+  "movie:384371": {
+   "backdrop_path": "/6F39LP6xVjEX3fAElohyNjsewnY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hubert Jacquin",
+     "n": "André Dussollier"
+    },
+    {
+     "c": "Manuela Baudry",
+     "n": "Bérengère Krief"
+    },
+    {
+     "c": "Paul-Gérard Langlois",
+     "n": "Arnaud Ducret"
+    },
+    {
+     "c": "Marion Legloux",
+     "n": "Julia Piaton"
+    },
+    {
+     "c": "Samuel Edelman",
+     "n": "Nicolas Marié"
+    },
+    {
+     "c": "Julien",
+     "n": "Panayotis Pascot"
+    },
+    {
+     "c": "Valérie",
+     "n": "Audrey Looten"
+    },
+    {
+     "c": "Arnaud",
+     "n": "Mathieu Madénian"
+    },
+    {
+     "c": "Isabelle",
+     "n": "Nathalie Roussel"
+    },
+    {
+     "c": "Seb",
+     "n": "Guillaume Delorme"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "François Desagnat"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 384371,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When recently widowed, it is difficult to get used to a new life ... This is the case for Hubert Jacquin, who spends most of his time in his huge apartment, depressed, in front of his TV. One day, after a misunderstanding, his life will change. Manuela, a young and bubbly adventurer in search of a dwelling calls his home! At first reluctant, Hubert will quickly get used to the presence of this energy storm, who even manages to convince him to allow two other people to stay. There are many surprises in store for Hubert ...",
+   "popularity": 0.744,
+   "poster_path": "/9FpgQeSFHn0wR0ybetcJ20nQyGb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-20",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Roommates Wanted",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.241,
+   "vote_count": 375
+  },
   "movie:39371": {
    "backdrop_path": "/dKZSzoNufvLVgClNunVqfhgJem7.jpg",
    "budget": 0,
@@ -2382,6 +2757,123 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 408
+  },
+  "movie:413471": {
+   "backdrop_path": "/wNhlTHDKBqfUa9SNK4eAaChOfoQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Peter Newmans",
+     "n": "Johnny Simmons"
+    },
+    {
+     "c": "Michelle",
+     "n": "Brittany Snow"
+    },
+    {
+     "c": "James Newmans",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Caroline",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "Brenda Newmans",
+     "n": "Maria Bello"
+    },
+    {
+     "c": "Luke",
+     "n": "Beck Bennett"
+    },
+    {
+     "c": "Rich",
+     "n": "Kumail Nanjiani"
+    },
+    {
+     "c": "Charlie",
+     "n": "Paul Wesley"
+    },
+    {
+     "c": "Attractive Woman",
+     "n": "Charlotte McKinney"
+    },
+    {
+     "c": "Mr. Hanson",
+     "n": "Ken Marino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kevin Pollak"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 413471,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.",
+   "popularity": 1.4787,
+   "poster_path": "/paUniAKHsD42mi7XYEc71oZq22.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-06",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on the (Mostly) True Story of the 30-Year-old Who Just Hit Puberty.",
+   "title": "The Late Bloomer",
+   "trailer": {
+    "key": "lThdKt9aXyM",
+    "name": "The Late Bloomer - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 366
   },
   "movie:4271": {
    "backdrop_path": "/veVadjT1OFnU34KOupKy8pUFp7o.jpg",
@@ -2639,6 +3131,289 @@
    "type": "movie",
    "vote_average": 7.537,
    "vote_count": 441
+  },
+  "movie:489471": {
+   "backdrop_path": "/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Tommy Caldwell"
+    },
+    {
+     "c": "Self",
+     "n": "John Branch"
+    },
+    {
+     "c": "Self",
+     "n": "Kevin Jorgeson"
+    },
+    {
+     "c": "Self – Tommy's Father",
+     "n": "Mike Caldwell"
+    },
+    {
+     "c": "Self – Tommy's Mother",
+     "n": "Terry Caldwell"
+    },
+    {
+     "c": "Self – Tommy's Friend",
+     "n": "Kelly Cordes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Josh Lowell",
+    "Peter Mortimer"
+   ],
+   "genres": [
+    "Documentary",
+    "Adventure"
+   ],
+   "id": 489471,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an unbelievable story of perseverance, free climber Tommy Caldwell and climbing partner Kevin Jorgeson attempt to scale the impossible 3000ft Dawn Wall of El Capitan.",
+   "popularity": 1.3715,
+   "poster_path": "/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg",
+   "production_countries": [
+    "AT",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-11-01",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Dawn Wall",
+   "trailer": {
+    "key": "5Hc8tB9uhho",
+    "name": "The Dawn Wall (2018) | Official Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.019,
+   "vote_count": 378
+  },
+  "movie:573171": {
+   "backdrop_path": "/9PxXSAnbVfvFacsGTJu1aXEWVg7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toto (voice)",
+     "n": "Bruno Bichir"
+    },
+    {
+     "c": "Willy (voice)",
+     "n": "Carlos Espejel"
+    },
+    {
+     "c": "Bibi (voice)",
+     "n": "Angélica Vale"
+    },
+    {
+     "c": "Di (Voice)",
+     "n": "Maite Perroni"
+    },
+    {
+     "c": "Confi / Venancio / Dodo (voice)",
+     "n": "Gabriel Riva Palacio Alatriste"
+    },
+    {
+     "c": "Cuache / Antonio / Don Fidencio (voice)",
+     "n": "Rodolfo Riva Palacio Alatriste"
+    },
+    {
+     "c": "Uly (voice)",
+     "n": "Dione Riva Palacio Santacruz"
+    },
+    {
+     "c": "Max (voice)",
+     "n": "Oliver Díaz Barba"
+    },
+    {
+     "c": "Mamá Gallina (voice)",
+     "n": "Lulú Morán"
+    },
+    {
+     "c": "Polito (voice)",
+     "n": "Marcelo Barcelo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Gabriel Riva Palacio Alatriste",
+    "Rodolfo Riva Palacio Alatriste"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 573171,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Toto and his family must travel to the South Pole to fulfill a promise: return a polar bear and some Spanish penguins to their home. To achieve this, they will have to overcome obstacles that teach them how important teamwork is.",
+   "popularity": 1.9695,
+   "poster_path": "/8xCO3IarklLD4tK1rPn0e4gSMoV.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-12-14",
+   "revenue": 1106924,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Little Eggs: A Frozen Rescue",
+   "trailer": {
+    "key": "6htlqn6yMeg",
+    "name": "UK Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 364
+  },
+  "movie:6071": {
+   "backdrop_path": "/p9PdDRIiQfjGtg21xHOPVD7jZyy.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Jimmy Kilmartin",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Little Junior Brown",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Calvin Hart",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Bev Kilmartin",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "Rosie Kilmartin",
+     "n": "Kathryn Erbe"
+    },
+    {
+     "c": "Frank Zioli",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Ronnie Gannon",
+     "n": "Michael Rapaport"
+    },
+    {
+     "c": "Omar",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Big Junior Brown",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Jack Gold",
+     "n": "Anthony Heald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barbet Schroeder"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 6071,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jimmy Kilmartin's an ex-con who's trying to go straight. But he can't say no to a quick driving job because his so-called friend's life is threatened. The job is for Little Junior Brown, a violent and powerful villain. When things go wrong, Jimmy is left to do the time, and his whole life is turned upside-down, but if that wasn't enough, the cops won't leave Jimmy alone when he gets out... They want Little Junior Brown.",
+   "popularity": 2.1989,
+   "poster_path": "/2cCxEqeIy6Q8HgVjfT7obOnF5Zi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1995-04-21",
+   "revenue": 14942422,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Little Junior Brown. He rules the streets. He owns the game. But he doesn't own all of the players.",
+   "title": "Kiss of Death",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.691,
+   "vote_count": 379
   },
   "movie:675871": {
    "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
@@ -3224,6 +3999,201 @@
    "type": "movie",
    "vote_average": 6.829,
    "vote_count": 413
+  },
+  "movie:9071": {
+   "backdrop_path": "/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Nick Reve",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Nicole Springer",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Wolf",
+     "n": "Dermot Mulroney"
+    },
+    {
+     "c": "Wanda",
+     "n": "Danielle von Zerneck"
+    },
+    {
+     "c": "Chad Palomino",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Tito",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Cora",
+     "n": "Rica Martens"
+    },
+    {
+     "c": "Assistant Camera",
+     "n": "Kevin Corrigan"
+    },
+    {
+     "c": "Gaffer",
+     "n": "Robert Wightman"
+    },
+    {
+     "c": "Sound Mixer / 'Speedo'",
+     "n": "Michael Griffiths"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom DiCillo"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 9071,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Low-budget independent filmmaker Nick Reve tries to keep everything together as his production is plagued with an insecure actress, a megalomaniac star, a pretentious beret-wearing director of photography, and lousy catering.",
+   "popularity": 1.3348,
+   "poster_path": "/b54xDk98oWtEtAso9sj1wjaZDDH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-07-21",
+   "revenue": 1148752,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nick is about to discover the first rule of filmmaking: if at first you don't succeed... PANIC!",
+   "title": "Living in Oblivion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.158,
+   "vote_count": 349
   },
   "tv:105971": {
    "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",

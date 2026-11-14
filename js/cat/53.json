@@ -1,6 +1,6 @@
 {
  "bucket": "53",
- "count": 32,
+ "count": 37,
  "titles": {
   "movie:1008953": {
    "backdrop_path": "/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
@@ -1687,6 +1687,174 @@
    "vote_average": 5.839,
    "vote_count": 416
   },
+  "movie:273153": {
+   "backdrop_path": "/yH0zuzEDzvsRYI7AEBpLmxBSJ61.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Delphine",
+     "n": "Izïa Higelin"
+    },
+    {
+     "c": "Carole",
+     "n": "Cécile de France"
+    },
+    {
+     "c": "Monique",
+     "n": "Noémie Lvovsky"
+    },
+    {
+     "c": "Adeline",
+     "n": "Laetitia Dosch"
+    },
+    {
+     "c": "Antoine",
+     "n": "Kévin Azaïs"
+    },
+    {
+     "c": "Françoise",
+     "n": "Loulou Hanssen"
+    },
+    {
+     "c": "Manuel",
+     "n": "Benjamin Bellecour"
+    },
+    {
+     "c": "Fabienne",
+     "n": "Sarah Suco"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Calypso Valois"
+    },
+    {
+     "c": "Marie-Laure",
+     "n": "Natalie Beder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Catherine Corsini"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 273153,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1971, a young woman moves from the French countryside to Paris and begins a passionate love affair with a feminist leader.",
+   "popularity": 1.6059,
+   "poster_path": "/ugqdTcTEiIl37jv0QiSUlpplEke.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-08-19",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Summertime",
+   "trailer": {
+    "key": "_rPKZJCMX6M",
+    "name": "Summertime trailer - in cinemas & on demand from 15 July 2016",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.649,
+   "vote_count": 369
+  },
   "movie:28053": {
    "backdrop_path": "/vy0vzHqPF4PsEip4IF4zwhKNy4P.jpg",
    "budget": 6000000,
@@ -1891,6 +2059,140 @@
    "type": "movie",
    "vote_average": 6.94,
    "vote_count": 415
+  },
+  "movie:300153": {
+   "backdrop_path": "/xq41fcgtkJgorfMPNseNY9lZ25i.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Dennis Stock",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "James Dean",
+     "n": "Dane DeHaan"
+    },
+    {
+     "c": "John Morris",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Jack Warner",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Eartha Kitt",
+     "n": "Kelly McCreary"
+    },
+    {
+     "c": "Roger Love",
+     "n": "Kristian Bruun"
+    },
+    {
+     "c": "Natalie Wood",
+     "n": "Lauren Gallagher"
+    },
+    {
+     "c": "Messy Actress",
+     "n": "Kendal Rae"
+    },
+    {
+     "c": "Pier Angeli",
+     "n": "Alessandra Mastronardi"
+    },
+    {
+     "c": "Norma",
+     "n": "Stella Schnabel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anton Corbijn"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 300153,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AU",
+    "GB",
+    "DE",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "In 1955, young photographer Dennis Stock develops a close bond with actor James Dean while shooting pictures of the rising Hollywood star.",
+   "popularity": 1.1718,
+   "poster_path": "/aT6joQI1aOHDFvQst7gFJkIhN6N.jpg",
+   "production_countries": [
+    "AU",
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Eros Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-09",
+   "revenue": 1231606,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From rebel to icon",
+   "title": "Life",
+   "trailer": {
+    "key": "qfexgwzmU_U",
+    "name": "LIFE - OFFICIAL UK TRAILER [HD] - ROBERT PATTINSON, DANE DEHAAN",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 380
   },
   "movie:308453": {
    "backdrop_path": "/57b4FmA9aSNE6wiL439DlKFS5TY.jpg",
@@ -2403,6 +2705,485 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 415
+  },
+  "movie:509853": {
+   "backdrop_path": "/c4UbjY6n3YvsRLbAPd8gK04Ag7Q.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Moose",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Hunter Dunbar",
+     "n": "Devon Sawa"
+    },
+    {
+     "c": "Leah",
+     "n": "Ana Golja"
+    },
+    {
+     "c": "Slim",
+     "n": "James Paxton"
+    },
+    {
+     "c": "Brenda",
+     "n": "Jessica Uberuaga"
+    },
+    {
+     "c": "Luis",
+     "n": "Luis Da Silva, Jr."
+    },
+    {
+     "c": "Aaron",
+     "n": "Josh Richman"
+    },
+    {
+     "c": "Todd",
+     "n": "Jacob Grodnik"
+    },
+    {
+     "c": "Agent",
+     "n": "Elle Matarazzo"
+    },
+    {
+     "c": "Autograph Seeker",
+     "n": "Rob Wolfe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fred Durst"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 509853,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rabid film fan stalks his favorite action hero and destroys the star's life.",
+   "popularity": 1.9818,
+   "poster_path": "/nojx83s8JWyYpI9oeKdQXniWMu6.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-30",
+   "revenue": 3153,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "All he wanted was an autograph.",
+   "title": "The Fanatic",
+   "trailer": {
+    "key": "YRS6V8RXIKE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.419,
+   "vote_count": 344
+  },
+  "movie:5353": {
+   "backdrop_path": "/k1dXZF6vyVgtmppyXWLZd9FmqmY.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Simon Hunt",
+     "n": "Richard Gere"
+    },
+    {
+     "c": "Duck",
+     "n": "Terrence Howard"
+    },
+    {
+     "c": "Benjamin",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "CIA Operative",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Boris",
+     "n": "Mark Ivanir"
+    },
+    {
+     "c": "Marjana",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Indian Officer",
+     "n": "Nitin Ganatra"
+    },
+    {
+     "c": "The Fox",
+     "n": "Ljubomir Kerekeš"
+    },
+    {
+     "c": "Srdjan",
+     "n": "Goran Kostić"
+    },
+    {
+     "c": "Marda",
+     "n": "Kristina Krepela"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Shepard"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 5353,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young journalist, an experienced cameraman and a discredited reporter find their bold plan to capture Bosnia's top war criminal quickly spiraling out of control when a UN representative mistakes them for a CIA hit squad.",
+   "popularity": 1.8662,
+   "poster_path": "/kXUfQGa7BoW856hDYAFtZLtiAAQ.jpg",
+   "production_countries": [
+    "US",
+    "MX",
+    "HR",
+    "BA"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-09-03",
+   "revenue": 7600000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hr",
+    "sr",
+    "bs",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How can they find the world's most wanted war criminal when the C.I.A. can't... By actually looking?",
+   "title": "The Hunting Party",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 369
+  },
+  "movie:5653": {
+   "backdrop_path": "/5tsQ6QrKa7to3S2DCosSOYrJ6OE.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Martin Luther",
+     "n": "Joseph Fiennes"
+    },
+    {
+     "c": "Girolamo Aleander",
+     "n": "Jonathan Firth"
+    },
+    {
+     "c": "Katharina von Bora",
+     "n": "Claire Cox"
+    },
+    {
+     "c": "Johann Tetzel",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Frederick",
+     "n": "Peter Ustinov"
+    },
+    {
+     "c": "Johann von Staupitz",
+     "n": "Bruno Ganz"
+    },
+    {
+     "c": "Leo X",
+     "n": "Uwe Ochsenknecht"
+    },
+    {
+     "c": "Hanna",
+     "n": "Maria Simon"
+    },
+    {
+     "c": "Cardinal Jacob Cajetan",
+     "n": "Mathieu Carrière"
+    },
+    {
+     "c": "Georg Spalatin",
+     "n": "Benjamin Sadler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Eric Till"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 5653,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the early 16th century, idealistic German monk Martin Luther, disgusted by the materialism in the church, begins the dialogue that will lead to the Protestant Reformation.",
+   "popularity": 2.2403,
+   "poster_path": "/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-10-29",
+   "revenue": 29400000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Rebel. Genius. Liberator.",
+   "title": "Luther",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 344
   },
   "movie:618353": {
    "backdrop_path": "/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg",

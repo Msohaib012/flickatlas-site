@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 34,
+ "count": 44,
  "titles": {
   "movie:1000879": {
    "d": "The Site (2026): Thriller/Fantasy film. Story: Vincent works the night shift on the construction… See cast and TMDB rating 5.3/10.",
@@ -258,6 +258,70 @@
    "t": "Buena Vista Social Club (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
   },
+  "movie:12579": {
+   "d": "The Woman Next Door (1981): Drama/Romance film. Story: Two ex-lovers wind up living next door to each other… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
+   "industry": "world",
+   "k": "The Woman Next Door, The Woman Next Door movie, The Woman Next Door cast, The Woman Next Door story, The Woman Next Door box office collection, The Woman Next Door budget, The Woman Next Door review, The Woman Next Door rating, The Woman Next Door release date, The Woman Next Door Drama, The Woman Next Door Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Fanny Ardant"
+     },
+     {
+      "@type": "Person",
+      "name": "Henri Garcin"
+     },
+     {
+      "@type": "Person",
+      "name": "Michèle Baumgartner"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger Van Hool"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Woman Next Door (1981): Drama/Romance film. Story: Two ex-lovers wind up living next door to each other… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Truffaut"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12579",
+    "name": "The Woman Next Door",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1981-09-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12579"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Woman Next Door (1981)</h1>\n<p class=\"ssr-lead\">Two ex-lovers wind up living next door to each other with their respective spouses. Forbidden passions ensue.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 1981</li><li>Runtime: 106 minutes</li><li>Director: François Truffaut</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.1/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Bernard Coudray</li><li>Fanny Ardant as Mathilde Bauchard</li><li>Henri Garcin as Philippe Bauchard</li><li>Michèle Baumgartner as Arlette Coudray</li><li>Roger Van Hool as Roland Duguet</li><li>Véronique Silver as Madame Odile Jouve</li><li>Philippe Morier-Genoud as Doctor</li><li>Nicole Vauthier as Hotel concierge</li><li>Muriel Combe as Nicole</li><li>Olivier Becquaert as Thomas Coudray</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
+   "t": "The Woman Next Door (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1981"
+  },
   "movie:1321179": {
    "d": "The King's Warden (2026): History/Drama film. Story: In a remote mountain village of 15th-century Joseon… See cast, budget $6.9M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
@@ -321,6 +385,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The King&#x27;s Warden (2026)</h1>\n<p class=\"ssr-lead\">In a remote mountain village of 15th-century Joseon, humble headman Heung-do hears a rumor that any village hosting an exiled nobleman will be blessed with abundance and fortune. Hoping to bring prosperity to his impoverished community, he eagerly submits a petition to host one—unaware that his guest is none other than the fallen monarch, deposed boy-king Danjong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2026</li><li>Runtime: 117 minutes</li><li>Director: Chang Hang-jun</li><li>Genres: History, Drama</li><li>Budget: $6.9M</li><li>TMDB rating: 6.9/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoo Hai-jin as Eom Heung-do</li><li>Park Ji-hoon as Yi Hong-wi / Nosan / King Danjong</li><li>Yoo Ji-tae as Han Myeong-hoe</li><li>Jeon Mi-do as Mae-hwa</li><li>Kim Min as Eom Tae-san</li><li>Park Ji-hwan as Eo Se-gyeom</li><li>Lee Jun-hyuk as Geumseong / Yi Yu</li><li>Ahn Jae-hong as Norugol village chief</li><li>Lee Jun-hyeok as Makdong&#x27;s father</li><li>Kim Soo-jin as Makdong&#x27;s mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The King's Warden (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13679": {
+   "d": "Kirikou and the Wild Beasts (2005): Adventure/Animation film. Story: Kirikou's grandfather thinks that the story of… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg",
+   "industry": "world",
+   "k": "Kirikou and the Wild Beasts, Kirikou and the Wild Beasts movie, Kirikou and the Wild Beasts cast, Kirikou and the Wild Beasts story, Kirikou and the Wild Beasts box office collection, Kirikou and the Wild Beasts budget, Kirikou and the Wild Beasts review, Kirikou and the Wild Beasts rating, Kirikou and the Wild Beasts release date, Kirikou and the Wild Beasts Adventure, Kirikou and the Wild Beasts Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierre-Ndoffé Sarr"
+     },
+     {
+      "@type": "Person",
+      "name": "Awa Sène Sarr"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Liensol"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie-Philomène Nga"
+     },
+     {
+      "@type": "Person",
+      "name": "Emile Abossolo M'bo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Kirikou and the Wild Beasts (2005): Adventure/Animation film. Story: Kirikou's grandfather thinks that the story of… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michel Ocelot"
+     },
+     {
+      "@type": "Person",
+      "name": "Bénédicte Galup"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13679",
+    "name": "Kirikou and the Wild Beasts",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-12-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13679"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kirikou and the Wild Beasts (2005)</h1>\n<p class=\"ssr-lead\">Kirikou&#x27;s grandfather thinks that the story of Kirikou and The Witch was too short, so he proceeds to explain more about Kirikou&#x27;s accomplishments. We find out how the little boy became a gardener, a detective, a maker of pottery, a merchant, a traveler and a doctor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 December 2005</li><li>Runtime: 75 minutes</li><li>Director: Michel Ocelot, Bénédicte Galup</li><li>Genres: Adventure, Animation, Family, Fantasy</li><li>TMDB rating: 6.6/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierre-Ndoffé Sarr as Kirikou (voice)</li><li>Awa Sène Sarr as Karaba (voice)</li><li>Robert Liensol as Le grand-père (voice)</li><li>Marie-Philomène Nga as La mère (voice)</li><li>Emile Abossolo M&#x27;bo as L&#x27;oncle (voice)</li><li>Pascal N&#x27;Zonzi as Le veillard</li><li>Marthe N&#x27;Domé as La femme forte</li><li>Emilie Gaydu as La grande fille</li><li>Gwénaël Sommier as Le grand garçon</li><li>Alex Carrete as Le garçon moyen</li></ul>\n</article>",
+   "t": "Kirikou and the Wild Beasts (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:1380279": {
    "d": "The Plastic Men (2026): War/Drama film. Story: Vietnam veteran Jonathan Teller suffers from guilt… See cast, budget $250.0k, and TMDB rating 6.7/10.",
@@ -503,6 +635,134 @@
    "t": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1679": {
+   "d": "Godzilla Raids Again (1955): Science Fiction/Horror film. Story: Two fishing scout pilots make a horrifying discovery… See cast and budget $800.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/xJgVSEl4HnRl4UscJRQn9Rfubet.jpg",
+   "industry": "world",
+   "k": "Godzilla Raids Again, Godzilla Raids Again movie, Godzilla Raids Again cast, Godzilla Raids Again story, Godzilla Raids Again box office collection, Godzilla Raids Again budget, Godzilla Raids Again review, Godzilla Raids Again rating, Godzilla Raids Again release date, Godzilla Raids Again Science Fiction, Godzilla Raids Again Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hiroshi Koizumi"
+     },
+     {
+      "@type": "Person",
+      "name": "Setsuko Wakayama"
+     },
+     {
+      "@type": "Person",
+      "name": "Minoru Chiaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Takashi Shimura"
+     },
+     {
+      "@type": "Person",
+      "name": "Masao Shimizu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Godzilla Raids Again (1955): Science Fiction/Horror film. Story: Two fishing scout pilots make a horrifying discovery… See cast and budget $800.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Motoyoshi Oda"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Science Fiction",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xJgVSEl4HnRl4UscJRQn9Rfubet.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1679",
+    "name": "Godzilla Raids Again",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1955-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1679"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla Raids Again (1955)</h1>\n<p class=\"ssr-lead\">Two fishing scout pilots make a horrifying discovery when they encounter a second Godzilla alongside a new monster named Anguirus. Without the weapon that killed the original, authorities attempt to lure Godzilla away from the mainland. But Anguirus soon arrives and the two monsters make their way towards Osaka as Japan braces for tragedy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 1955</li><li>Runtime: 82 minutes</li><li>Director: Motoyoshi Oda</li><li>Genres: Science Fiction, Horror, Action</li><li>Budget: $800.0k</li><li>TMDB rating: 6.0/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hiroshi Koizumi as Shoichi Tsukioka</li><li>Setsuko Wakayama as Hidemi Yamaji</li><li>Minoru Chiaki as Kôji Kobayashi</li><li>Takashi Shimura as Kyohei Yamane-hakase</li><li>Masao Shimizu as Zoologist Dr. Tadokoro</li><li>Seijirô Onda as Captain Terasawa of Osaka Defense Corps</li><li>Sonosuke Sawamura as Hokkaido Branch Manager Shingo Shibeki</li><li>Yoshio Tsuchiya as Tajima, Member of Osaka Defense Corps</li><li>Mayuri Mokushô as Radio Operator Yasuko Inouye</li><li>Minosuke Yamada as Chief of Civil Defense</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, Cinemax Amazon Channel, TCM, HBO Max, Cinemax Apple TV channel</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Godzilla Raids Again (1955) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1955"
+  },
+  "movie:215379": {
+   "d": "Young Ones (2014): Western/Action film. Story: In a future where water is scarce, a farmer defends… See cast, TMDB rating 5.7/10, and release date 28 June 2014.",
+   "img": "https://image.tmdb.org/t/p/w780/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+   "industry": "world",
+   "k": "Young Ones, Young Ones movie, Young Ones cast, Young Ones story, Young Ones box office collection, Young Ones budget, Young Ones review, Young Ones rating, Young Ones release date, Young Ones Western, Young Ones Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Shannon"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Hoult"
+     },
+     {
+      "@type": "Person",
+      "name": "Elle Fanning"
+     },
+     {
+      "@type": "Person",
+      "name": "Kodi Smit-McPhee"
+     },
+     {
+      "@type": "Person",
+      "name": "Aimee Mullins"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Young Ones (2014): Western/Action film. Story: In a future where water is scarce, a farmer defends… See cast, TMDB rating 5.7/10, and release date 28 June 2014.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jake Paltrow"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Western",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=215379",
+    "name": "Young Ones",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-06-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=215379"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Young Ones (2014)</h1>\n<p class=\"ssr-lead\">In a future where water is scarce, a farmer defends his land and hopes to rejuvenate his parched soil. However, his daughter&#x27;s boyfriend schemes to steal the land for himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2014</li><li>Runtime: 100 minutes</li><li>Director: Jake Paltrow</li><li>Genres: Western, Action, Drama, Science Fiction</li><li>TMDB rating: 5.7/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Shannon as Ernest Holm</li><li>Nicholas Hoult as Flem Lever</li><li>Elle Fanning as Mary Holm</li><li>Kodi Smit-McPhee as Jerome Holm</li><li>Aimee Mullins as Katherine Holm</li><li>Christy Pankhurst as Robbie</li><li>Alex McGregor as Sooz</li><li>Robert Hobbs as Caleb</li><li>David Butler as Sam Lever</li><li>David Clatworthy as Calvin Hooyman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Hulu, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Young Ones (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:232679": {
    "d": "When the Game Stands Tall (2014): Drama film. Story: A young coach turns a losing high school football… See cast, budget $15M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/h2WyyRB2jKpketuZ0znyANyJGjc.jpg",
@@ -565,6 +825,261 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>When the Game Stands Tall (2014)</h1>\n<p class=\"ssr-lead\">A young coach turns a losing high school football program around to go undefeated for 12 consecutive seasons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2014</li><li>Runtime: 115 minutes</li><li>Director: Thomas Carter</li><li>Genres: Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.7/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Caviezel as Bob Ladouceur</li><li>Michael Chiklis as Terry Eidson</li><li>Laura Dern as Bev Ladouceur</li><li>Clancy Brown as Mickey Ryan</li><li>Ser&#x27;Darius Blain as Cam Colvin</li><li>Stephan James as T.K. Kelly</li><li>Jessie T. Usher as Tayshon Lanear</li><li>Matthew Daddario as Danny Ladouceur</li><li>Alexander Ludwig as Chris Ryan</li><li>Joe Massingill as Beaser</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "When the Game Stands Tall (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:23479": {
+   "d": "The Bad News Bears (1976): Family/Comedy film. Story: An aging, down-on-his-luck ex-minor leaguer coaches a… See cast, budget $9M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jsMViXpdIBm7HY6XkInbQ1PU1OC.jpg",
+   "industry": "world",
+   "k": "The Bad News Bears, The Bad News Bears movie, The Bad News Bears cast, The Bad News Bears story, The Bad News Bears box office collection, The Bad News Bears budget, The Bad News Bears review, The Bad News Bears rating, The Bad News Bears release date, The Bad News Bears trailer, The Bad News Bears Family, The Bad News Bears Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Walter Matthau"
+     },
+     {
+      "@type": "Person",
+      "name": "Tatum O'Neal"
+     },
+     {
+      "@type": "Person",
+      "name": "Vic Morrow"
+     },
+     {
+      "@type": "Person",
+      "name": "Joyce Van Patten"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Piazza"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Bad News Bears (1976): Family/Comedy film. Story: An aging, down-on-his-luck ex-minor leaguer coaches a… See cast, budget $9M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Ritchie"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jsMViXpdIBm7HY6XkInbQ1PU1OC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23479",
+    "name": "The Bad News Bears",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23479"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bad News Bears (1976)</h1>\n<p class=\"ssr-lead\">An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 1976</li><li>Runtime: 102 minutes</li><li>Director: Michael Ritchie</li><li>Genres: Family, Comedy, Drama</li><li>Budget: $9M</li><li>TMDB rating: 6.9/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Walter Matthau as Morris Buttermaker</li><li>Tatum O&#x27;Neal as Amanda Whurlitzer</li><li>Vic Morrow as Roy Turner</li><li>Joyce Van Patten as Cleveland</li><li>Ben Piazza as Bob Whitewood</li><li>Jackie Earle Haley as Kelly Leak</li><li>Alfred Lutter as Ogilvie</li><li>Chris Barnes as Tanner Boyle</li><li>Erin Blunt as Ahmad Abdul Rahim</li><li>Gary Lee Cavagnaro as Endelberg</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Bad News Bears (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
+  "movie:24679": {
+   "d": "Bird (1988): Drama/Music film. Story: Saxophone player Charlie ‘Bird’ Parker comes to New… See cast, budget $9M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1lnrkpvnw6cRxJS9VyMMei9Ed6g.jpg",
+   "industry": "world",
+   "k": "Bird, Bird movie, Bird cast, Bird story, Bird box office collection, Bird budget, Bird review, Bird rating, Bird release date, Bird trailer, Bird Drama, Bird Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Forest Whitaker"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Venora"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Zelniker"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel E. Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith David"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Bird (1988): Drama/Music film. Story: Saxophone player Charlie ‘Bird’ Parker comes to New… See cast, budget $9M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Clint Eastwood"
+     }
+    ],
+    "duration": "PT161M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1lnrkpvnw6cRxJS9VyMMei9Ed6g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24679",
+    "name": "Bird",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24679"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bird (1988)</h1>\n<p class=\"ssr-lead\">Saxophone player Charlie ‘Bird’ Parker comes to New York in 1940 and is quickly noticed for his remarkable way of playing. He becomes a drug addict but his loving wife Chan tries to help him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 1988</li><li>Runtime: 161 minutes</li><li>Director: Clint Eastwood</li><li>Genres: Drama, Music</li><li>Budget: $9M</li><li>TMDB rating: 6.8/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Forest Whitaker as Charlie &#x27;Bird&#x27; Parker</li><li>Diane Venora as Chan Parker</li><li>Michael Zelniker as Red Rodney</li><li>Samuel E. Wright as Dizzy Gillespie</li><li>Keith David as Buster Franklin</li><li>Michael McGuire as Brewster</li><li>James Handy as Esteves</li><li>Damon Whitaker as Young Bird</li><li>Morgan Nagler as Kim</li><li>Arlen Dean Snyder as Dr. Heath</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Bird (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
+  "movie:3079": {
+   "d": "The Curse of Frankenstein (1957): Horror/Science Fiction film. Story: Baron Victor Frankenstein has discovered life's… See cast and budget $270.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
+   "industry": "world",
+   "k": "The Curse of Frankenstein, The Curse of Frankenstein movie, The Curse of Frankenstein cast, The Curse of Frankenstein story, The Curse of Frankenstein box office collection, The Curse of Frankenstein budget, The Curse of Frankenstein review, The Curse of Frankenstein rating, The Curse of Frankenstein release date, The Curse of Frankenstein trailer, The Curse of Frankenstein Horror, The Curse of Frankenstein Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Cushing"
+     },
+     {
+      "@type": "Person",
+      "name": "Hazel Court"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Urquhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Melvyn Hayes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Curse of Frankenstein (1957): Horror/Science Fiction film. Story: Baron Victor Frankenstein has discovered life's… See cast and budget $270.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Terence Fisher"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3079",
+    "name": "The Curse of Frankenstein",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1957-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Curse of Frankenstein (1957)</h1>\n<p class=\"ssr-lead\">Baron Victor Frankenstein has discovered life&#x27;s secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face — and a tendency to kill.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 1957</li><li>Runtime: 83 minutes</li><li>Director: Terence Fisher</li><li>Genres: Horror, Science Fiction</li><li>Budget: $270.0k</li><li>TMDB rating: 6.8/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Cushing as Baron Victor Frankenstein</li><li>Hazel Court as Elizabeth</li><li>Robert Urquhart as Paul Krempe</li><li>Christopher Lee as The Creature</li><li>Melvyn Hayes as Young Victor</li><li>Valerie Gaunt as Justine</li><li>Paul Hardtmuth as Prof. Bernstein</li><li>Noel Hood as Aunt</li><li>Fred Johnson as Grandpa</li><li>Claude Kingston as Little Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Curse of Frankenstein (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1957"
+  },
+  "movie:32579": {
+   "d": "Under the Same Moon (2007): Drama film. Story: Tells the parallel stories of nine-year-old Carlitos… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zonIwzSHU4i8Mh1XG6w0JrPpLJb.jpg",
+   "industry": "world",
+   "k": "Under the Same Moon, Under the Same Moon movie, Under the Same Moon cast, Under the Same Moon story, Under the Same Moon box office collection, Under the Same Moon budget, Under the Same Moon review, Under the Same Moon rating, Under the Same Moon release date, Under the Same Moon trailer, Under the Same Moon Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrian Alonso"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate del Castillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugenio Derbez"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Zapata"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Salinas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Under the Same Moon (2007): Drama film. Story: Tells the parallel stories of nine-year-old Carlitos… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patricia Riggen"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zonIwzSHU4i8Mh1XG6w0JrPpLJb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=32579",
+    "name": "Under the Same Moon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=32579"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Under the Same Moon (2007)</h1>\n<p class=\"ssr-lead\">Tells the parallel stories of nine-year-old Carlitos and his mother, Rosario. In the hopes of providing a better life for her son, Rosario works illegally in the U.S. while her mother cares for Carlitos back in Mexico.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2007</li><li>Runtime: 106 minutes</li><li>Director: Patricia Riggen</li><li>Genres: Drama</li><li>TMDB rating: 8.0/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrian Alonso as Carlos &#x27;Carlitos&#x27; Reyes</li><li>Kate del Castillo as Rosario</li><li>Eugenio Derbez as Enrique</li><li>Maya Zapata as Alicia</li><li>Carmen Salinas as Doña Carmen &#x27;La Coyota&#x27;</li><li>Angelina Peláez as Benita Reyes</li><li>Gabriel Porras as Paco</li><li>America Ferrera as Martha</li><li>María Rojo as Reyna</li><li>Jesse Garcia as David</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Under the Same Moon (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:354979": {
    "d": "Dog Eat Dog (2016): Drama/Crime film. Story: Ex-cons Troy, Mad Dog, and Diesel are hired by an… See cast, TMDB rating 5.1/10, and release date 18 November 2016.",
@@ -1078,6 +1593,70 @@
    "t": "Superman II: The Richard Donner Cut (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:758879": {
+   "d": "A Castle for Christmas (2021): Comedy/Adventure film. Story: To escape a scandal, a bestselling author journeys to… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
+   "industry": "world",
+   "k": "A Castle for Christmas, A Castle for Christmas movie, A Castle for Christmas cast, A Castle for Christmas story, A Castle for Christmas box office collection, A Castle for Christmas budget, A Castle for Christmas review, A Castle for Christmas rating, A Castle for Christmas release date, A Castle for Christmas trailer, A Castle for Christmas Comedy, A Castle for Christmas Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brooke Shields"
+     },
+     {
+      "@type": "Person",
+      "name": "Cary Elwes"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Ross"
+     },
+     {
+      "@type": "Person",
+      "name": "Andi Osho"
+     },
+     {
+      "@type": "Person",
+      "name": "Tina Gray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "A Castle for Christmas (2021): Comedy/Adventure film. Story: To escape a scandal, a bestselling author journeys to… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mary Lambert"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=758879",
+    "name": "A Castle for Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-11-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=758879"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Castle for Christmas (2021)</h1>\n<p class=\"ssr-lead\">To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2021</li><li>Runtime: 98 minutes</li><li>Director: Mary Lambert</li><li>Genres: Comedy, Adventure</li><li>TMDB rating: 6.0/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brooke Shields as Sophie</li><li>Cary Elwes as Myles</li><li>Lee Ross as Thomas</li><li>Andi Osho as Maisie</li><li>Tina Gray as Helen</li><li>Eilidh Loan as Rhona</li><li>Stephen Oswald as Angus</li><li>Vanessa Grasse as Lexi</li><li>Desiree Burch as Claire</li><li>Anthony Strachan as Eamon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Castle for Christmas (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:762079": {
    "d": "The Advent Calendar (2021): Horror/Thriller film. Story: Eva, an ex-dancer, is now living in a wheelchair… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
@@ -1332,6 +1911,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fun Size (2012)</h1>\n<p class=\"ssr-lead\">Wren&#x27;s Halloween plans go awry when she&#x27;s made to babysit her brother, who disappears into a sea of trick-or-treaters. Accompanied by her best friend and two nerdy classmates, Wren needs to find her brother before her mom finds out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 October 2012</li><li>Runtime: 87 minutes</li><li>Director: Josh Schwartz</li><li>Genres: Comedy</li><li>Budget: $14M</li><li>TMDB rating: 5.6/10 (457 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Victoria Justice as Wren DeSantis</li><li>Jane Levy as April Martin</li><li>Thomas Mann as Roosevelt Leroux</li><li>Thomas McDonell as Aaron Riley</li><li>Chelsea Handler as Joy DeSantis</li><li>Jackson Nicoll as Albert DeSantis</li><li>Osric Chau as Peng Chong</li><li>Thomas Middleditch as Fuzzy</li><li>Riki Lindhome as Denise (Galaxy Scout)</li><li>Josh Pence as Keevin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Fun Size (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:8279": {
+   "d": "Paris (2008): Drama film. Story: Pierre, a professional dancer, suffers from a serious… See cast, budget $19M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mCjL4UL11lW0XzvYI7KnK1vL94b.jpg",
+   "industry": "world",
+   "k": "Paris, Paris movie, Paris cast, Paris story, Paris box office collection, Paris budget, Paris review, Paris rating, Paris release date, Paris Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juliette Binoche"
+     },
+     {
+      "@type": "Person",
+      "name": "Romain Duris"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Dupontel"
+     },
+     {
+      "@type": "Person",
+      "name": "François Cluzet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Paris (2008): Drama film. Story: Pierre, a professional dancer, suffers from a serious… See cast, budget $19M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cédric Klapisch"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mCjL4UL11lW0XzvYI7KnK1vL94b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8279",
+    "name": "Paris",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8279"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paris (2008)</h1>\n<p class=\"ssr-lead\">Pierre, a professional dancer, suffers from a serious heart disease. While he is waiting for a transplant which may (or may not) save his life, he has nothing better to do than look at the people around him, from the balcony of his Paris apartment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2008</li><li>Runtime: 130 minutes</li><li>Director: Cédric Klapisch</li><li>Genres: Drama</li><li>Budget: $19M</li><li>TMDB rating: 6.5/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juliette Binoche as Elise</li><li>Romain Duris as Pierre</li><li>Fabrice Luchini as Roland Verneuil</li><li>Albert Dupontel as Jean</li><li>François Cluzet as Philippe Verneuil</li><li>Karin Viard as La Boulangère</li><li>Gilles Lellouche as Franky</li><li>Mélanie Laurent as Laetitia</li><li>Zinedine Soualem as Mourad</li><li>Julie Ferrier as Caroline</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Paris (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "tv:106379": {
    "d": "Fallout (2024) is an Action & Adventure and Sci-Fi & Fantasy TV series. Explore its story: The story of haves and have-nots in a world in which… and cast.",

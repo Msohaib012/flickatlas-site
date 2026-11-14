@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 34,
+ "count": 44,
  "titles": {
   "movie:10451": {
    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
@@ -468,6 +468,120 @@
    "vote_average": 6.59,
    "vote_count": 472
   },
+  "movie:1239251": {
+   "backdrop_path": "/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Megamind (voice)",
+     "n": "Keith Ferguson"
+    },
+    {
+     "c": "Roxanne Ritchi (voice)",
+     "n": "Laura Post"
+    },
+    {
+     "c": "OI' Chum (voice)",
+     "n": "Josh Brener"
+    },
+    {
+     "c": "Keiko Morita (voice)",
+     "n": "Maya Tuttle"
+    },
+    {
+     "c": "Lady Doppler (voice)",
+     "n": "Emily Tuñon"
+    },
+    {
+     "c": "Lord Nighty-Knight (voice)",
+     "n": "Talon Warburton"
+    },
+    {
+     "c": "Pierre Pressure (voice)",
+     "n": "Scott Adsit"
+    },
+    {
+     "c": "Behemoth (voice)",
+     "n": "Chris Sullivan"
+    },
+    {
+     "c": "Mel / Mr. Donut / TV Announcer (voice)",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Machiavillain (voice)",
+     "n": "Adam Lambert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Eric Fogel"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1239251,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+   "popularity": 4.0312,
+   "poster_path": "/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-03-01",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Act like a villain, think like a hero.",
+   "title": "Megamind vs. the Doom Syndicate",
+   "trailer": {
+    "key": "DXb7tWC2W5o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.019,
+   "vote_count": 364
+  },
   "movie:1248251": {
    "backdrop_path": "/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
    "budget": 0,
@@ -675,6 +789,108 @@
    "type": "movie",
    "vote_average": 6.764,
    "vote_count": 462
+  },
+  "movie:13751": {
+   "backdrop_path": "/5cQG6wbizKfADPCNp4Tm801VMxH.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Akeelah Anderson",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Dr. Larabee",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Tanya Anderson",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Mr. Welch",
+     "n": "Curtis Armstrong"
+    },
+    {
+     "c": "Javier",
+     "n": "J.R. Villarreal"
+    },
+    {
+     "c": "Dylan Chiu",
+     "n": "Sean Michael Afable"
+    },
+    {
+     "c": "Georgia",
+     "n": "Sahara Garey"
+    },
+    {
+     "c": "Devon",
+     "n": "Lee Thompson Young"
+    },
+    {
+     "c": "Terrence",
+     "n": "Julito McCullum"
+    },
+    {
+     "c": "Kiana",
+     "n": "Erica Hubbard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Doug Atchison"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 13751,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "11-year-old Akeelah Anderson has a way with words. After winning her schoolwide spelling bee, she decides to enter the competition, despite her classmates' derision and the antipathy of her mother Tanya. Thanks to the efforts of her teacher Dr. Larabee, she reaches the finals. As she gets to know her fellow competitors, Akeelah realizes that coming first isn't everything in life.",
+   "popularity": 3.7577,
+   "poster_path": "/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-04-28",
+   "revenue": 18948425,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Changing the world... one word at a time.",
+   "title": "Akeelah and the Bee",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.018,
+   "vote_count": 369
   },
   "movie:1426451": {
    "backdrop_path": "/sWaTZpotExFAYzW9OgOLLBT5s82.jpg",
@@ -1034,6 +1250,62 @@
    "type": "movie",
    "vote_average": 7.269,
    "vote_count": 39
+  },
+  "movie:15251": {
+   "backdrop_path": "/7STCwOwwe4bwZsuGHhyUQ8if2jl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Sideline Actor",
+     "n": "James Argiro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bruce Gowers"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 15251,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Taped live and in concert at Constitution Hall in Washington, D.C. in August, 1983, Eddie Murphy: Delirious captures Eddie Murphy's wild and outrageous stand-up comedy act, which he performed in New York and eighteen other cities across the U.S. to standing-room-only audiences. Eddie's comedy was groundbreaking, completely new, razor sharp and definitely funny.Eddie Murphy pontificates in his own vulgarly hilarious fashion on everything from bizarre sexual fantasies to reliving the family barbecue, and is peppered with Eddie's one-of-a-kind wit. Laugh along as Eddie reminiscences of hot childhood days and the ice cream man intermixed with classic vocal parodies of top American entertainers.Experience Eddie Murphy at his best, live and red hot! Delirious! Uncensored and Uncut!",
+   "popularity": 0.9654,
+   "poster_path": "/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1983-10-15",
+   "revenue": 0,
+   "runtime": 69,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Eddie Murphy: Delirious",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.599,
+   "vote_count": 379
   },
   "movie:1620551": {
    "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
@@ -1547,6 +1819,262 @@
    "vote_average": 6.929,
    "vote_count": 422
   },
+  "movie:238751": {
+   "backdrop_path": "/lAJLaHbkqXYMxcGO6WZxIhNwh31.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Alex Grady",
+     "n": "Eric Roberts"
+    },
+    {
+     "c": "Tommy Lee",
+     "n": "Phillip Rhee"
+    },
+    {
+     "c": "Frank Couzo",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Catherine Wade",
+     "n": "Sally Kirkland"
+    },
+    {
+     "c": "Travis Brickley",
+     "n": "Chris Penn"
+    },
+    {
+     "c": "Virgil Keller",
+     "n": "John Dye"
+    },
+    {
+     "c": "Sonny Grasso",
+     "n": "David Agresta"
+    },
+    {
+     "c": "Don Peterson",
+     "n": "Tom Everett"
+    },
+    {
+     "c": "Mrs. Grady",
+     "n": "Louise Fletcher"
+    },
+    {
+     "c": "Jennings",
+     "n": "John P. Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Radler"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 238751,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A team from the United States is going to compete against Korea in a Tae Kwon Do tournament. The team consists of fighters from all over the country--can they overcome their rivalry and work together to win?",
+   "popularity": 3.2476,
+   "poster_path": "/jB1I9LihBFKzJlRhpOPzbEXdgKc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-11-10",
+   "revenue": 14100000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "A team is not a team if you don't give a damn about each other.",
+   "title": "Best of the Best",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.507,
+   "vote_count": 370
+  },
+  "movie:299551": {
+   "backdrop_path": "/ogO4yKFddTm3h3Loekk1US4BdIq.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Dr. Henry West",
+     "n": "William Mapother"
+    },
+    {
+     "c": "Judith Winstead",
+     "n": "Rya Kihlstedt"
+    },
+    {
+     "c": "Susan Gorman",
+     "n": "Sharon Maughan"
+    },
+    {
+     "c": "Joanne Breault",
+     "n": "Anne Betancourt"
+    },
+    {
+     "c": "Marcus Wheeler",
+     "n": "John Rubinstein"
+    },
+    {
+     "c": "Cathleen West",
+     "n": "Suzanne Jamieson"
+    },
+    {
+     "c": "Steven West",
+     "n": "Gerald McCullouch"
+    },
+    {
+     "c": "Father Donnelly",
+     "n": "Brian Chenoweth"
+    },
+    {
+     "c": "Sergeant Parella",
+     "n": "Joe Guarneri"
+    },
+    {
+     "c": "Government Researcher",
+     "n": "Gage Maverik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Chris Sparling"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 299551,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the early 1970s, Dr. Henry West creates an institute to find people with supernatural abilities. When Judith Winstead comes to the facility, she exhibits amazing abilities that the military wants to turn into a weapon.",
+   "popularity": 1.9667,
+   "poster_path": "/ompMn7y7LAlRgwfOYjp88bCCD1O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-01-05",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only case of possession confirmed by the U.S. Government.",
+   "title": "The Atticus Institute",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.754,
+   "vote_count": 378
+  },
   "movie:346651": {
    "backdrop_path": "/zpnVZ8WIq5xIA1QGf5nXb32Nn2M.jpg",
    "budget": 0,
@@ -2045,6 +2573,346 @@
    "vote_average": 7.047,
    "vote_count": 416
   },
+  "movie:4351": {
+   "backdrop_path": "/fUdxWZPjTy7ghxp0wZVBfCvWhzV.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Lauren Adrian",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "George Morgan",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Alfonso Diaz",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Eva Jimenez",
+     "n": "Maya Zapata"
+    },
+    {
+     "c": "Teresa Casillas",
+     "n": "Sonia Braga"
+    },
+    {
+     "c": "Elena Diaz",
+     "n": "Kate del Castillo"
+    },
+    {
+     "c": "Frank Kozerski",
+     "n": "Randall Batinkoff"
+    },
+    {
+     "c": "Marco Antonio Salamanca",
+     "n": "Juan Diego Botto"
+    },
+    {
+     "c": "Domingo Esparza",
+     "n": "Irineo Alvarez"
+    },
+    {
+     "c": "Julio",
+     "n": "Julio Cesar Cedillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gregory Nava"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 4351,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "American corporations are using the North American Free Trade Agreement by opening large maquiladoras right across the United States–Mexico border. The maquiladoras hire mostly Mexican women to work long hours for little money in order to produce mass quantity products. Lauren Adrian, an impassioned American news reporter for the Chicago Sentinel wants to be assigned to the Iraq front-lines to cover the war. Instead, her editor George Morgan assigns her to investigate a series of slayings involving young maquiladora factory women in a Mexican bordertown.",
+   "popularity": 1.7436,
+   "poster_path": "/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-22",
+   "revenue": 8329799,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Lies. Corruption. Murder. One reporter will break the silence.",
+   "title": "Bordertown",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 375
+  },
+  "movie:455551": {
+   "backdrop_path": "/60qjADBGGjgFLcYSIG5zaPlxUQk.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "The Hunter",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Brendan",
+     "n": "RJ Mitte"
+    },
+    {
+     "c": "Charlie",
+     "n": "Jedidiah Goodacre"
+    },
+    {
+     "c": "Annie",
+     "n": "Laura Bilgeri"
+    },
+    {
+     "c": "Rob",
+     "n": "Niko Pepaj"
+    },
+    {
+     "c": "Kara",
+     "n": "Hannah Rose May"
+    },
+    {
+     "c": "Alien",
+     "n": "Scott Nettleton"
+    },
+    {
+     "c": "Colonel McAllen",
+     "n": "Sean Millington"
+    },
+    {
+     "c": "Prisoner Romanovich",
+     "n": "Graham Shiels"
+    },
+    {
+     "c": "Kara's Mother",
+     "n": "Tracey Hway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mauro Borrelli"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 455551,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "When five friends vacation at a remote lake house, they expect nothing less then a good time, unaware that Earth is under attack by an alien invasion and mass-abductions.",
+   "popularity": 1.8542,
+   "poster_path": "/A2sQAzHavtot2brA42pHXKgf3ww.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-06-02",
+   "revenue": 112357,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They've come to claim what's theirs",
+   "title": "The Recall",
+   "trailer": {
+    "key": "3xTgJ_Ld8RI",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 378
+  },
   "movie:539651": {
    "backdrop_path": "/2JMG17kxeq1w88oHUkesxpIHmTZ.jpg",
    "budget": 5000000,
@@ -2160,6 +3028,121 @@
    "vote_average": 6.931,
    "vote_count": 486
   },
+  "movie:586451": {
+   "backdrop_path": "/fsM6AB85cptuiG142s6ZQS17mjr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mary Beth Connolly",
+     "n": "Morgan Saylor"
+    },
+    {
+     "c": "Priscilla Connolly",
+     "n": "Sophie Lowe"
+    },
+    {
+     "c": "Enid Nora Devlin",
+     "n": "Margo Martindale"
+    },
+    {
+     "c": "Susie Gallagher",
+     "n": "June Squibb"
+    },
+    {
+     "c": "Gail Maguire",
+     "n": "Annette O'Toole"
+    },
+    {
+     "c": "Doreen Burke",
+     "n": "Marceline Hugot"
+    },
+    {
+     "c": "Alexis",
+     "n": "Gayle Rankin"
+    },
+    {
+     "c": "Officer Justin Brennan",
+     "n": "Will Brittain"
+    },
+    {
+     "c": "Officer Coletti",
+     "n": "Skipp Sudduth"
+    },
+    {
+     "c": "Gorski",
+     "n": "Ebon Moss-Bachrach"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Danielle Krudy",
+    "Bridget Savage Cole"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 586451,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While grieving for the loss of their mother, the Connolly sisters suddenly find they have a crime to cover up, leading them deep into the underbelly of their salty Maine fishing village.",
+   "popularity": 1.668,
+   "poster_path": "/AgxDU9Vp0R6RIV6jpmQ4JrTcZzv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-26",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Small town. Big secrets.",
+   "title": "Blow the Man Down",
+   "trailer": {
+    "key": "uWM1U_kd0rE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.198,
+   "vote_count": 359
+  },
   "movie:5951": {
    "backdrop_path": "/6Uw2IGTqNAz8l5wXxKc9LJB99Dm.jpg",
    "budget": 6000000,
@@ -2268,6 +3251,152 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 412
+  },
+  "movie:616251": {
+   "backdrop_path": "/ahW9vTY0ZM5OaFOV40EhxDOxmbF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucy Gulliver",
+     "n": "Geraldine Viswanathan"
+    },
+    {
+     "c": "Nick",
+     "n": "Dacre Montgomery"
+    },
+    {
+     "c": "Max Vora",
+     "n": "Utkarsh Ambudkar"
+    },
+    {
+     "c": "Amanda",
+     "n": "Molly Gordon"
+    },
+    {
+     "c": "Nadine",
+     "n": "Phillipa Soo"
+    },
+    {
+     "c": "Marcos",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Chloe",
+     "n": "Suki Waterhouse"
+    },
+    {
+     "c": "Cheryl Gulliver",
+     "n": "Sheila McCarthy"
+    },
+    {
+     "c": "Jeff",
+     "n": "Nathan Dales"
+    },
+    {
+     "c": "Harvard",
+     "n": "Ego Nwodim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Natalie Krinsky"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 616251,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lucy is a young gallery assistant who collects mementos from her relationships. She discovers that she must let go of her past to move forward, and comes up with a lovely, artistic way to help herself and others who have suffered heartbreak.",
+   "popularity": 3.5343,
+   "poster_path": "/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-11",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's an art to letting go.",
+   "title": "The Broken Hearts Gallery",
+   "trailer": {
+    "key": "-5AdZ_8I7sc",
+    "name": "Broken Hearts Gallery - Final Trailer - At Cinemas NOW!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.149,
+   "vote_count": 348
   },
   "movie:621151": {
    "backdrop_path": "/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
@@ -2398,6 +3527,114 @@
    "type": "movie",
    "vote_average": 6.365,
    "vote_count": 477
+  },
+  "movie:665251": {
+   "backdrop_path": "/x6Dxc9Z17Yt9gtq7Dq6uCPbPcxD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ken (Takeshi Kovacs) (voice)",
+     "n": "Tatsuhisa Suzuki"
+    },
+    {
+     "c": "Gina (Leilin Kawahara) (voice)",
+     "n": "Rina Sato"
+    },
+    {
+     "c": "Holly Togram (voice)",
+     "n": "Ayaka Asai"
+    },
+    {
+     "c": "Hideki Tanaseda (voice)",
+     "n": "Kenji Yamauchi"
+    },
+    {
+     "c": "Shinji (voice)",
+     "n": "Kanehira Yamamoto"
+    },
+    {
+     "c": "Genzō (voice)",
+     "n": "Koji Ishii"
+    },
+    {
+     "c": "Ogai (voice)",
+     "n": "Jouji Nakata"
+    },
+    {
+     "c": "Holly's Mom (voice)",
+     "n": "Kaori Nakamura"
+    },
+    {
+     "c": "Holly's Dad (voice)",
+     "n": "Kazumasa Nakamura"
+    },
+    {
+     "c": "Tsubakihara (voice)",
+     "n": "Atsushi Imaruoka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Yoshiyuki Okada",
+    "Takeru Nakajima"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction"
+   ],
+   "id": 665251,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.",
+   "popularity": 2.0248,
+   "poster_path": "/vlIYzx7cc4Wvaoh7ShjF2HZG45.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-18",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Altered Carbon: Resleeved",
+   "trailer": {
+    "key": "HmDxxoFslzs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.546,
+   "vote_count": 345
   },
   "movie:829051": {
    "backdrop_path": "/5pNH4IvHu4A0Fhbtecklw3QFYyY.jpg",

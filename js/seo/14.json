@@ -1,7 +1,71 @@
 {
  "bucket": "14",
- "count": 39,
+ "count": 46,
  "titles": {
+  "movie:11414": {
+   "d": "The Defiant Ones (1958): Crime/Drama film. Story: Two convicts—one white, one black—escape while… See cast, TMDB rating 7.2/10, and release date 14 August 1958.",
+   "img": "https://image.tmdb.org/t/p/w780/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
+   "industry": "world",
+   "k": "The Defiant Ones, The Defiant Ones movie, The Defiant Ones cast, The Defiant Ones story, The Defiant Ones box office collection, The Defiant Ones budget, The Defiant Ones review, The Defiant Ones rating, The Defiant Ones release date, The Defiant Ones trailer, The Defiant Ones Crime, The Defiant Ones Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tony Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Sidney Poitier"
+     },
+     {
+      "@type": "Person",
+      "name": "Theodore Bikel"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles McGraw"
+     },
+     {
+      "@type": "Person",
+      "name": "Lon Chaney Jr."
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 347,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Defiant Ones (1958): Crime/Drama film. Story: Two convicts—one white, one black—escape while… See cast, TMDB rating 7.2/10, and release date 14 August 1958.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stanley Kramer"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11414",
+    "name": "The Defiant Ones",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1958-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11414"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Defiant Ones (1958)</h1>\n<p class=\"ssr-lead\">Two convicts—one white, one black—escape while chained to each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 1958</li><li>Runtime: 96 minutes</li><li>Director: Stanley Kramer</li><li>Genres: Crime, Drama, Adventure, Thriller</li><li>TMDB rating: 7.2/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Curtis as John &#x27;Joker&#x27; Jackson</li><li>Sidney Poitier as Noah Cullen</li><li>Theodore Bikel as Sheriff Max Muller</li><li>Charles McGraw as Capt. Frank Gibbons</li><li>Lon Chaney Jr. as Big Sam</li><li>King Donovan as Solly</li><li>Claude Akins as Mack</li><li>Lawrence Dobkin as Editor</li><li>Whit Bissell as Lou Gans</li><li>Carl Switzer as Angus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Roku Premium Channel, ScreenPix Apple TV channel, ScreenPix Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Defiant Ones (1958) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1958"
+  },
   "movie:12614": {
    "d": "Victor/Victoria (1982): Music/Comedy film. Story: A struggling female soprano finds work playing a male… See cast, budget $15M, and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
@@ -576,6 +640,69 @@
    "t": "3 Ninjas (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:2014": {
+   "d": "The Edge of Heaven (2007): Drama film. Story: The lives of six German-Turkish immigrants are drawn… See cast, budget $3.8M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s3kGgVwM946SWj3iXShDbeJALiT.jpg",
+   "industry": "world",
+   "k": "The Edge of Heaven, The Edge of Heaven movie, The Edge of Heaven cast, The Edge of Heaven story, The Edge of Heaven box office collection, The Edge of Heaven budget, The Edge of Heaven review, The Edge of Heaven rating, The Edge of Heaven release date, The Edge of Heaven trailer, The Edge of Heaven Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Baki Davrak"
+     },
+     {
+      "@type": "Person",
+      "name": "Nurgül Yeşilçay"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrycia Ziółkowska"
+     },
+     {
+      "@type": "Person",
+      "name": "Tuncel Kurtiz"
+     },
+     {
+      "@type": "Person",
+      "name": "Nursel Köse"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Edge of Heaven (2007): Drama film. Story: The lives of six German-Turkish immigrants are drawn… See cast, budget $3.8M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fatih Akin"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s3kGgVwM946SWj3iXShDbeJALiT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2014",
+    "name": "The Edge of Heaven",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-09-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2014"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Edge of Heaven (2007)</h1>\n<p class=\"ssr-lead\">The lives of six German-Turkish immigrants are drawn together by circumstance: An old man and a prostitute forging a partnership, a young scholar reconciling his past, two young women falling in love, and a mother putting the shattered pieces of her life back together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2007</li><li>Runtime: 122 minutes</li><li>Director: Fatih Akin</li><li>Genres: Drama</li><li>Budget: $3.8M</li><li>TMDB rating: 7.2/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Baki Davrak as Nejat Aksu</li><li>Nurgül Yeşilçay as Ayten Öztürk</li><li>Patrycia Ziółkowska as Charlotte &quot;Lotte&quot; Staub</li><li>Tuncel Kurtiz as Ali Aksu</li><li>Nursel Köse as Yeter &quot;Jessy&quot; Öztürk</li><li>Hanna Schygulla as Susanne Staub</li><li>Erkan Can as Cousin Ufuk</li><li>Nejat İşler as Commissioner</li><li>Güven Kıraç as Security Guard</li><li>Lars Rudolph as Mr. Obermüller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
+   "t": "The Edge of Heaven (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:20414": {
    "d": "Grande, grosso e... Verdone (2008): Comedy film. Story: A comic movie divided in three episodes. See cast, TMDB rating 5.9/10, and release date 7 March 2008.",
    "img": "https://image.tmdb.org/t/p/w780/bYcsJJVj70YHHMOZGCBaDLxBI2j.jpg",
@@ -895,6 +1022,73 @@
    "t": "Silent Night, Deadly Night (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:29514": {
+   "d": "Two Evil Eyes (1990): Horror film. Story: A duo of Edgar Allan Poe adaptations about a greedy… See cast, budget $9M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wWucXwUmJiA5iUNqegJHbcy2Mzy.jpg",
+   "industry": "world",
+   "k": "Two Evil Eyes, Two Evil Eyes movie, Two Evil Eyes cast, Two Evil Eyes story, Two Evil Eyes box office collection, Two Evil Eyes budget, Two Evil Eyes review, Two Evil Eyes rating, Two Evil Eyes release date, Two Evil Eyes Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrienne Barbeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramy Zada"
+     },
+     {
+      "@type": "Person",
+      "name": "E.G. Marshall"
+     },
+     {
+      "@type": "Person",
+      "name": "Madeleine Potter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Two Evil Eyes (1990): Horror film. Story: A duo of Edgar Allan Poe adaptations about a greedy… See cast, budget $9M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George A. Romero"
+     },
+     {
+      "@type": "Person",
+      "name": "Dario Argento"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wWucXwUmJiA5iUNqegJHbcy2Mzy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=29514",
+    "name": "Two Evil Eyes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-01-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=29514"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Two Evil Eyes (1990)</h1>\n<p class=\"ssr-lead\">A duo of Edgar Allan Poe adaptations about a greedy wife&#x27;s attempt to embezzle her dying husband&#x27;s fortune, and a sleazy reporter&#x27;s adoption of a strange black cat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 January 1990</li><li>Runtime: 120 minutes</li><li>Director: George A. Romero, Dario Argento</li><li>Genres: Horror</li><li>Budget: $9M</li><li>TMDB rating: 6.1/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrienne Barbeau as Jessica Valdemar</li><li>Harvey Keitel as Roderick Usher</li><li>Ramy Zada as Dr. Robert Hoffman</li><li>E.G. Marshall as Steven Pike</li><li>Madeleine Potter as Annabel</li><li>Bingo O&#x27;Malley as Ernest Valdemar</li><li>John Amos as Det. Legrand</li><li>Kim Hunter as Gloria Pym</li><li>Martin Balsam as Mr. Pym</li><li>Sally Kirkland as Eleonora</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Screambox Amazon Channel, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Two Evil Eyes (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:298614": {
    "d": "Do Not Disturb (2014): Comedy film. Story: Michel, who's crazy about jazz, has just found a rare… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/srxYer1Xl8y7qcviSXqYfDjehL9.jpg",
@@ -1086,6 +1280,74 @@
    "t": "On Chesil Beach (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:39414": {
+   "d": "Paper Man (2009): Comedy/Drama film. Story: A coming-of-middle-age comedy that chronicles the… See cast, TMDB rating 6.3/10, and release date 15 June 2009.",
+   "img": "https://image.tmdb.org/t/p/w780/oec9dd990pRQ8W3meakCuAQKX6o.jpg",
+   "industry": "world",
+   "k": "Paper Man, Paper Man movie, Paper Man cast, Paper Man story, Paper Man box office collection, Paper Man budget, Paper Man review, Paper Man rating, Paper Man release date, Paper Man Comedy, Paper Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Kudrow"
+     },
+     {
+      "@type": "Person",
+      "name": "Kieran Culkin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Paper Man (2009): Comedy/Drama film. Story: A coming-of-middle-age comedy that chronicles the… See cast, TMDB rating 6.3/10, and release date 15 June 2009.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kieran Mulroney"
+     },
+     {
+      "@type": "Person",
+      "name": "Michele Mulroney"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oec9dd990pRQ8W3meakCuAQKX6o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39414",
+    "name": "Paper Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-06-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39414"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paper Man (2009)</h1>\n<p class=\"ssr-lead\">A coming-of-middle-age comedy that chronicles the unlikely friendship between failed author Richard Dunne and a Long Island teen who teaches him a thing or two about growing up, all under the disapproving eye of his long-suffering wife and his imaginary Superhero friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2009</li><li>Runtime: 110 minutes</li><li>Director: Kieran Mulroney, Michele Mulroney</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Daniels as Richard Dunn</li><li>Emma Stone as Abby</li><li>Ryan Reynolds as Captain Excellent</li><li>Lisa Kudrow as Claire Dunn</li><li>Kieran Culkin as Christopher</li><li>Hunter Parrish as Bryce</li><li>Arabella Field as Lucy</li><li>Chris Parnell as Peter</li><li>Eric Gilliland as UPS Guy</li><li>Louis Rosario as Bryce&#x27;s Posse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Paper Man (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:395814": {
    "d": "Rememory (2017): Science Fiction/Drama film. Story: The widow of a wise professor stumbles upon one of… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/3vSrGsnMjzAycIU80udh7NFAJkP.jpg",
@@ -1149,6 +1411,54 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Rememory (2017)</h1>\n<p class=\"ssr-lead\">The widow of a wise professor stumbles upon one of his inventions that&#x27;s able to record and play a person&#x27;s memory.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2017</li><li>Runtime: 111 minutes</li><li>Director: Mark Palansky</li><li>Genres: Science Fiction, Drama, Mystery</li><li>TMDB rating: 6.1/10 (498 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Dinklage as Sam Bloom</li><li>Julia Ormond as Carolyn Dunn</li><li>Martin Donovan as Gordon Dunn</li><li>Anton Yelchin as Todd</li><li>Henry Ian Cusick as Lawton</li><li>Evelyne Brochu as Wendy</li><li>Gracyn Shinyei as Jane Dunn</li><li>Jordana Largy as Freddie</li><li>Colin Lawrence as Mike Buckland</li><li>Carrie Anne Fleming as Norma Myers</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Rememory (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:48714": {
+   "d": "The Big Shave (1967): Horror/Drama film. Story: A young man walks into a meticulously clean and… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wtlhixFsctfV4LHJiVq95Ho37B6.jpg",
+   "industry": "world",
+   "k": "The Big Shave, The Big Shave movie, The Big Shave cast, The Big Shave story, The Big Shave box office collection, The Big Shave budget, The Big Shave review, The Big Shave rating, The Big Shave release date, The Big Shave Horror, The Big Shave Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Bernuth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Big Shave (1967): Horror/Drama film. Story: A young man walks into a meticulously clean and… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wtlhixFsctfV4LHJiVq95Ho37B6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=48714",
+    "name": "The Big Shave",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1967-12-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=48714"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Big Shave (1967)</h1>\n<p class=\"ssr-lead\">A young man walks into a meticulously clean and sterile bathroom and proceeds to shave away hair, then skin, in an increasingly bloody and graphic bathroom scene.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 December 1967</li><li>Runtime: 6 minutes</li><li>Director: Martin Scorsese</li><li>Genres: Horror, Drama</li><li>TMDB rating: 6.9/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Bernuth as Young Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel, HBO Max</li></ul>\n</article>",
+   "t": "The Big Shave (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1967"
   },
   "movie:52214": {
    "d": "A Beautiful Wife (2007): Comedy/Romance film. Story: Mariano has been married for 10 years with Miranda, a… See cast and TMDB rating 5.7/10.",
@@ -1214,6 +1524,70 @@
    "t": "A Beautiful Wife (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:532814": {
+   "d": "The Bad Seed (2018): Horror/Thriller film. Story: A widower suspects that his seemingly perfect… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yt3wwVVZEeE0VvsxooDTwZhY8Ig.jpg",
+   "industry": "world",
+   "k": "The Bad Seed, The Bad Seed movie, The Bad Seed cast, The Bad Seed story, The Bad Seed box office collection, The Bad Seed budget, The Bad Seed review, The Bad Seed rating, The Bad Seed release date, The Bad Seed Horror, The Bad Seed Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rob Lowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Mckenna Grace"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Dugdale"
+     },
+     {
+      "@type": "Person",
+      "name": "Marci T. House"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorne Cardinal"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Bad Seed (2018): Horror/Thriller film. Story: A widower suspects that his seemingly perfect… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Lowe"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yt3wwVVZEeE0VvsxooDTwZhY8Ig.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=532814",
+    "name": "The Bad Seed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=532814"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bad Seed (2018)</h1>\n<p class=\"ssr-lead\">A widower suspects that his seemingly perfect adolescent daughter is a heartless killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2018</li><li>Runtime: 84 minutes</li><li>Director: Rob Lowe</li><li>Genres: Horror, Thriller, TV Movie</li><li>TMDB rating: 7.0/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Lowe as David</li><li>Mckenna Grace as Emma</li><li>Sarah Dugdale as Chloe</li><li>Marci T. House as Mrs. Ellis</li><li>Lorne Cardinal as Brian</li><li>Chris Shields as Sheriff Peterson</li><li>Cara Buono as Angela</li><li>Patty McCormack as Dr. March</li><li>Shauna Johannesen as Maggie Curtis</li><li>Luke Roessler as Milo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo</li></ul>\n</article>",
+   "t": "The Bad Seed (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:549514": {
    "d": "Fatale (2020): Drama/Thriller film. Story: After a wild one-night stand, successful sports agent… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
@@ -1277,6 +1651,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fatale (2020)</h1>\n<p class=\"ssr-lead\">After a wild one-night stand, successful sports agent Derrick Tyler watches his perfect life slowly disappear when he discovers the sexy and mysterious woman he risked everything for is determined police detective Valerie Quinlan who entangles him in her latest investigation. As he desperately tries to put the pieces together, he falls deeper into her trap, risking his family, his career, and even his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2020</li><li>Runtime: 102 minutes</li><li>Director: Deon Taylor</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.0/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Swank as Det. Valerie Quinlan</li><li>Michael Ealy as Derrick Tyler</li><li>Mike Colter as Rafe Grimes</li><li>Damaris Lewis as Tracie Tyler</li><li>Tyrin Turner as Tyrin Abenathy</li><li>Danny Pino as Carter Heywood</li><li>Geoffrey Owens as Bill Cranepool</li><li>David Hoflin as Officer Lowe</li><li>Sam Daly as Officer Stallman</li><li>Lance Stephenson as Sports Star Cameo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
    "t": "Fatale (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:569814": {
+   "d": "Rebels (2019): Comedy film. Story: Sandra, a young woman forced to leave the south of… See cast, TMDB rating 6.1/10, and release date 17 January 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/tdINmzvmq0en7FprqiE3STwM9hQ.jpg",
+   "industry": "world",
+   "k": "Rebels, Rebels movie, Rebels cast, Rebels story, Rebels box office collection, Rebels budget, Rebels review, Rebels rating, Rebels release date, Rebels trailer, Rebels Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cécile de France"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Lamy"
+     },
+     {
+      "@type": "Person",
+      "name": "Yolande Moreau"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Abkarian"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Jouy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Rebels (2019): Comedy film. Story: Sandra, a young woman forced to leave the south of… See cast, TMDB rating 6.1/10, and release date 17 January 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Allan Mauduit"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tdINmzvmq0en7FprqiE3STwM9hQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=569814",
+    "name": "Rebels",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=569814"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rebels (2019)</h1>\n<p class=\"ssr-lead\">Sandra, a young woman forced to leave the south of France to flee a violent husband. Without attachment, she returned to Boulogne-sur-Mer, the city of her childhood which she left almost 15 years ago. She finds her mother there and a world she left behind. Without money, she is hired in a fish cannery where she befriends two workers. But one day, one of her colleagues tackles her insistently, she defends herself and kills him accidentally.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 2019</li><li>Runtime: 87 minutes</li><li>Director: Allan Mauduit</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cécile de France as Sandra Dréant, former Miss Nord-Pas-de-Calais</li><li>Audrey Lamy as Marilyn Santos, fishmonger&#x27;s employee</li><li>Yolande Moreau as Nadine Dewulder, fishmonger&#x27;s employee</li><li>Simon Abkarian as Simon Bénéké, Sandra&#x27;s father</li><li>Samuel Jouy as Inspector Digne</li><li>Béatrice Agenin as Sandra&#x27;s mother</li><li>Patrick Ridremont as Jean-Mil, foreman of the fishmonger</li><li>Tom Lecocq as Dylan, Marilyn&#x27;s son</li><li>Valentin Papoudof as Gaëtan, Mr. Boniface&#x27;s henchman</li><li>Michel Masiero as Franck Dewulder, Nadine&#x27;s husband</li></ul>\n</article>",
+   "t": "Rebels (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:803114": {
    "d": "The Requin (2022): Horror/Mystery film. Story: A couple on a romantic getaway find themselves… See cast, budget $8.5M, and TMDB rating 4.7/10.",

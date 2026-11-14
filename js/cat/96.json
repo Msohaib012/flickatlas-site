@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 38,
+ "count": 47,
  "titles": {
   "movie:1028196": {
    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -296,6 +296,95 @@
    "vote_average": 7.502,
    "vote_count": 417
   },
+  "movie:12496": {
+   "backdrop_path": "/pNpQf1ZwdKLHo25jFSDisMfqXJl.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Seibei Iguchi",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Tomoe Iinuma",
+     "n": "Rie Miyazawa"
+    },
+    {
+     "c": "Choubei Kusaka",
+     "n": "Nenji Kobayashi"
+    },
+    {
+     "c": "Michinojo Iinuma",
+     "n": "Mitsuru Fukikoshi"
+    },
+    {
+     "c": "Zenemon Yogo",
+     "n": "Min Tanaka"
+    },
+    {
+     "c": "Toyotaro Koda",
+     "n": "Ren Osugi"
+    },
+    {
+     "c": "Naota",
+     "n": "Hiroshi Kanbe"
+    },
+    {
+     "c": "Kayano Iguchi",
+     "n": "Miki Ito"
+    },
+    {
+     "c": "Ito Iguchi",
+     "n": "Ito Senba"
+    },
+    {
+     "c": "Older Ito Iguchi",
+     "n": "Keiko Kishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Yoji Yamada"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 12496,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Seibei Iguchi leads a difficult life as a low ranking samurai at the turn of the nineteenth century. A widower with a meager income, Seibei struggles to take care of his two daughters and senile mother. New prospects seem to open up when the beautiful Tomoe, a childhood friend, comes back into he and his daughters' life, but as the Japanese feudal system unravels, Seibei is still bound by the code of honor of the samurai and by his own sense of social precedence. How can he find a way to do what is best for those he loves?",
+   "popularity": 4.1998,
+   "poster_path": "/bB2M8UF8wc9flfGWkcgkTTf8Mzr.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-02",
+   "revenue": 7372769,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Twilight Samurai",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.785,
+   "vote_count": 382
+  },
   "movie:12596": {
    "backdrop_path": "/9nFpMbSWebfdGlAxFyPHn9eyIvY.jpg",
    "budget": 33000000,
@@ -535,6 +624,192 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 37
+  },
+  "movie:13396": {
+   "backdrop_path": "/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Older James / Narrator  (uncredited)",
+     "n": "Raymond Briggs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Dianne Jackson"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 13396,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes him on a magical adventure to the North Pole to meet Santa Claus.",
+   "popularity": 2.3268,
+   "poster_path": "/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amebatv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aJXVegIjKagfzioJ90nwDn3beb4.png",
+     "name": "Amebatv Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-12-26",
+   "revenue": 0,
+   "runtime": 25,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Snowman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.579,
+   "vote_count": 375
+  },
+  "movie:13696": {
+   "backdrop_path": "/scHIDomz6Irdf4pQt53Q6pqdSk1.jpg",
+   "budget": 633000,
+   "cast": [
+    {
+     "c": "Rocky Sullivan",
+     "n": "James Cagney"
+    },
+    {
+     "c": "Jerry Connolly",
+     "n": "Pat O'Brien"
+    },
+    {
+     "c": "James Frazier",
+     "n": "Humphrey Bogart"
+    },
+    {
+     "c": "Laury Ferguson",
+     "n": "Ann Sheridan"
+    },
+    {
+     "c": "Mac Keefer",
+     "n": "George Bancroft"
+    },
+    {
+     "c": "Soapy",
+     "n": "Billy Halop"
+    },
+    {
+     "c": "Swing",
+     "n": "Bobby Jordan"
+    },
+    {
+     "c": "Bim",
+     "n": "Leo Gorcey"
+    },
+    {
+     "c": "Pasty",
+     "n": "Gabriel Dell"
+    },
+    {
+     "c": "Crab",
+     "n": "Huntz Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michael Curtiz"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 13696,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Childhood chums Rocky Sullivan and Jerry Connelly grow up on opposite sides of the fence: Rocky matures into a prominent gangster, while Jerry becomes a priest, tending to the needs of his old tenement neighborhood.",
+   "popularity": 1.926,
+   "poster_path": "/k23E4UAcow8eczLRmVCMdukL4Mx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1938-11-26",
+   "revenue": 1700000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The saga of America’s dirty faced kids... and the breaks that life won’t give them!",
+   "title": "Angels with Dirty Faces",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.535,
+   "vote_count": 374
   },
   "movie:1392796": {
    "backdrop_path": "/v8tpkxm7AhLu69eaZKJLsNaSL5.jpg",
@@ -1446,6 +1721,142 @@
    "vote_average": 5.809,
    "vote_count": 491
   },
+  "movie:206296": {
+   "backdrop_path": "/irxjcC0io2ibj703Wr0FQABeZdm.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Cathy Hiatt",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Jamie Wellerstein",
+     "n": "Jeremy Jordan"
+    },
+    {
+     "c": "Alise Michaels",
+     "n": "Natalie Knepp"
+    },
+    {
+     "c": "Heather Greenblatt",
+     "n": "Bettina Bresnan"
+    },
+    {
+     "c": "Linda Whitfield",
+     "n": "Marceline Hugot"
+    },
+    {
+     "c": "Richard",
+     "n": "Rafael Sardina"
+    },
+    {
+     "c": "Carole Ann",
+     "n": "Allison Macri"
+    },
+    {
+     "c": "Ryan James",
+     "n": "Alan Simpson"
+    },
+    {
+     "c": "Karl",
+     "n": "Nic Novicki"
+    },
+    {
+     "c": "Danica Schwartz",
+     "n": "Tamara Mintz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard LaGravenese"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "id": 206296,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In New York, a struggling actress and a successful writer sing about their failed marriage from two perspectives.",
+   "popularity": 1.7644,
+   "poster_path": "/dxTLKSTyGb5IXB64iNgU9AWAsXT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-11-03",
+   "revenue": 292092,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are two sides to every love story.",
+   "title": "The Last Five Years",
+   "trailer": {
+    "key": "9FKjLJZdycI",
+    "name": "The Last Five Years - Official UK Trailer (2015)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.831,
+   "vote_count": 353
+  },
   "movie:26596": {
    "backdrop_path": "/yiglnLtYEH6UGY1qFy4zacixCXf.jpg",
    "budget": 0,
@@ -1540,6 +1951,298 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 499
+  },
+  "movie:28696": {
+   "backdrop_path": "/atbJUEuf6Y8vcduHLfvaJqPyF6d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Strabler",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Kathie Bleeker",
+     "n": "Mary Murphy"
+    },
+    {
+     "c": "Sheriff Harry Bleeker",
+     "n": "Robert Keith"
+    },
+    {
+     "c": "Chino",
+     "n": "Lee Marvin"
+    },
+    {
+     "c": "Sheriff Stew Singer",
+     "n": "Jay C. Flippen"
+    },
+    {
+     "c": "Mildred",
+     "n": "Peggy Maley"
+    },
+    {
+     "c": "Charlie Thomas",
+     "n": "Hugh Sanders"
+    },
+    {
+     "c": "Frank Bleeker",
+     "n": "Ray Teal"
+    },
+    {
+     "c": "Bill Hannegan",
+     "n": "John Brown"
+    },
+    {
+     "c": "Art Kleiner",
+     "n": "Will Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "László Benedek"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Romance"
+   ],
+   "id": 28696,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Black Rebels Motorcycle Club ride into the small California town of Wrightsville, eager to raise hell. Brooding gang leader Johnny Strabler takes a liking to Kathie, the daughter of the local lawman, as another club rolls into town.",
+   "popularity": 1.5559,
+   "poster_path": "/yVbBTzr6hkTZBNCr01RKXcTyfGu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1953-12-30",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hot feelings hit terrifying heights in a story that really boils over!",
+   "title": "The Wild One",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 347
+  },
+  "movie:297596": {
+   "backdrop_path": "/8b7BpDvmPABFtrw9GeSesHFQBaB.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Evan Lake",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Milton Schultz",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Muhammad Banir",
+     "n": "Alexander Karim"
+    },
+    {
+     "c": "Michelle Zuberain",
+     "n": "Irène Jacob"
+    },
+    {
+     "c": "Aasim",
+     "n": "Aymen Hamdouchi"
+    },
+    {
+     "c": "Mbui",
+     "n": "Tomiwa Edun"
+    },
+    {
+     "c": "Ghedi",
+     "n": "Claudius Peters"
+    },
+    {
+     "c": "James Clifton",
+     "n": "Robert G. Slade"
+    },
+    {
+     "c": "Dr. Wangari",
+     "n": "Derek Ezenagu"
+    },
+    {
+     "c": "Dr. Clayborne",
+     "n": "Geff Francis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Schrader"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 297596,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Evan Lake, a veteran CIA agent, has been ordered to retire. But when his protégé uncovers evidence that Lake's nemesis, the terrorist Banir, has resurfaced, Lake goes rogue, embarking on a perilous, intercontinental mission to eliminate his sworn enemy.",
+   "popularity": 1.8843,
+   "poster_path": "/gL6riNxQeyPXT5YsgqE2aWhl1zi.jpg",
+   "production_countries": [
+    "BS",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-12-04",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "ro"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dying of the Light",
+   "trailer": {
+    "key": "PUCggOyEmDA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.671,
+   "vote_count": 359
   },
   "movie:30596": {
    "backdrop_path": "/sclEvlduoGf5io1oLj5UsQLOdKQ.jpg",
@@ -2036,6 +2739,113 @@
    "vote_average": 7.882,
    "vote_count": 449
   },
+  "movie:598896": {
+   "backdrop_path": "/2ZzmfwgvVh2KLH4A8HMzX5TytAc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edee Holzer",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Miguel",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Alawa",
+     "n": "Sarah Dawn Pledge"
+    },
+    {
+     "c": "Emma",
+     "n": "Kim Dickens"
+    },
+    {
+     "c": "Adam",
+     "n": "Warren Christie"
+    },
+    {
+     "c": "Drew",
+     "n": "Finlay Wojtak-Hissong"
+    },
+    {
+     "c": "Colt",
+     "n": "Brad Leland"
+    },
+    {
+     "c": "Store Employee",
+     "n": "Jordan Bullchild"
+    },
+    {
+     "c": "Store Clerk",
+     "n": "David Trimble"
+    },
+    {
+     "c": "Kayla Big Bear",
+     "n": "Rikki-Lynn Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robin Wright"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 598896,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Edee, in the aftermath of an unfathomable event, finds herself unable to stay connected to the world she once knew and in the face of that uncertainty, retreats to the magnificent, but unforgiving, wilds of the Rockies. After a local hunter brings her back from the brink of death, she must find a way to live again.",
+   "popularity": 2.5125,
+   "poster_path": "/6pYhDPzYPGKvDYpxdf0IUE3RDAS.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-02-12",
+   "revenue": 2375190,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story of humanity, in the face of uncertainty",
+   "title": "Land",
+   "trailer": {
+    "key": "sOw20FDNnHA",
+    "name": "LAND - Official Trailer [HD] - In Theaters February 12",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.683,
+   "vote_count": 345
+  },
   "movie:6396": {
    "backdrop_path": "/iYFh15WLRXHPfAkcaqgIfVLoopC.jpg",
    "budget": 600000,
@@ -2186,6 +2996,115 @@
    "type": "movie",
    "vote_average": 7.155,
    "vote_count": 471
+  },
+  "movie:664996": {
+   "backdrop_path": "/3yAoVcQR1i7Zgm7yNxy58i3RzCi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stan",
+     "n": "Milo Coy"
+    },
+    {
+     "c": "Grown Up Stan (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Mom",
+     "n": "Lee Eddy"
+    },
+    {
+     "c": "Dad",
+     "n": "Bill Wise"
+    },
+    {
+     "c": "Vicky",
+     "n": "Natalie L'Amoreaux"
+    },
+    {
+     "c": "Steve",
+     "n": "Josh Wiggins"
+    },
+    {
+     "c": "Jana",
+     "n": "Jessica Brynn Cohen"
+    },
+    {
+     "c": "Greg",
+     "n": "Sam Chipman"
+    },
+    {
+     "c": "Stephanie",
+     "n": "Danielle Guilbot"
+    },
+    {
+     "c": "Kranz",
+     "n": "Zachary Levi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "History"
+   ],
+   "id": 664996,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man narrates stories of his life as a 10-year-old boy in 1969 Houston, weaving tales of nostalgia with a fantastical account of a journey to the moon.",
+   "popularity": 2.9297,
+   "poster_path": "/ms3qa9LH9kosaGCSe22NJ7fDPv9.jpg",
+   "production_countries": [
+    "US",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-24",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A coming of age story.... the way only Richard Linklater could tell it.",
+   "title": "Apollo 10½: A Space Age Childhood",
+   "trailer": {
+    "key": "Dzuz5s_Qk-A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.976,
+   "vote_count": 350
   },
   "movie:8696": {
    "backdrop_path": "/mB23ce4CxfUwSb9Y6YY8NPLyy2E.jpg",
@@ -2340,6 +3259,132 @@
    "type": "movie",
    "vote_average": 6.528,
    "vote_count": 424
+  },
+  "movie:886396": {
+   "backdrop_path": "/iQJ1gC2p6yn5wnBEklhPaEFJ3n1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonathan Kent / Superboy (voice)",
+     "n": "Jack Dylan Grazer"
+    },
+    {
+     "c": "Damian Wayne / Robin (voice)",
+     "n": "Jack Griffo"
+    },
+    {
+     "c": "Lois Lane (voice)",
+     "n": "Laura Bailey"
+    },
+    {
+     "c": "Bruce Wayne / Batman (voice)",
+     "n": "Troy Baker"
+    },
+    {
+     "c": "Lex Luthor / Starro (voice)",
+     "n": "Darin De Paul"
+    },
+    {
+     "c": "Green Arrow / Penguin / Principal (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Jor-El (voice)",
+     "n": "Nolan North"
+    },
+    {
+     "c": "Jimmy Olsen / Melvin Masters (voice)",
+     "n": "Zeno Robinson"
+    },
+    {
+     "c": "Wonder Girl / Lara / Mom (voice)",
+     "n": "Myrna Velasco"
+    },
+    {
+     "c": "Clark Kent / Superman (voice)",
+     "n": "Travis Willingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matt Peters"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 886396,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After discovering he has powers, 11-year-old Jonathan Kent and assassin-turned-Boy-Wonder Damian Wayne must join forces to rescue their fathers (Superman & Batman) and save the planet from the malevolent alien force known as Starro.",
+   "popularity": 3.1326,
+   "poster_path": "/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-17",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "The ultimate threat. The greatest battle. The perfect team.",
+   "title": "Batman and Superman: Battle of the Super Sons",
+   "trailer": {
+    "key": "ZDPK7I5BD3g",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.649,
+   "vote_count": 377
   },
   "movie:9096": {
    "backdrop_path": "/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",

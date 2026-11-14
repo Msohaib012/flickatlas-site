@@ -1,7 +1,70 @@
 {
  "bucket": "97",
- "count": 32,
+ "count": 36,
  "titles": {
+  "movie:10397": {
+   "d": "Angela's Ashes (2000): Drama film. Story: An Irish Catholic family returns to 1930s Limerick… See cast, budget $50M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
+   "industry": "world",
+   "k": "Angela's Ashes, Angela's Ashes movie, Angela's Ashes cast, Angela's Ashes story, Angela's Ashes box office collection, Angela's Ashes budget, Angela's Ashes review, Angela's Ashes rating, Angela's Ashes release date, Angela's Ashes trailer, Angela's Ashes Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emily Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Carlyle"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Breen"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Legge"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Owens"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Angela's Ashes (2000): Drama film. Story: An Irish Catholic family returns to 1930s Limerick… See cast, budget $50M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Parker"
+     }
+    ],
+    "duration": "PT145M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10397",
+    "name": "Angela's Ashes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-01-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10397"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Angela&#x27;s Ashes (2000)</h1>\n<p class=\"ssr-lead\">An Irish Catholic family returns to 1930s Limerick after a child&#x27;s death in America. The unemployed I.R.A. veteran father struggles with poverty, prejudice, and alcoholism as the family endures harsh slum conditions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2000</li><li>Runtime: 145 minutes</li><li>Director: Alan Parker</li><li>Genres: Drama</li><li>Budget: $50M</li><li>TMDB rating: 7.3/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Watson as Angela McCourt</li><li>Robert Carlyle as Malachy McCourt</li><li>Joe Breen as Young Frank</li><li>Michael Legge as Older Frank</li><li>Ciarán Owens as Middle Frank</li><li>Ronnie Masterson as Grandma Sheehan</li><li>Pauline McLynn as Aunt Aggie</li><li>Liam Carney as Uncle Pa Keating</li><li>Eanna MacLiam as Uncle Pat</li><li>Shane Murray-Corcoran as Young Malachy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Angela's Ashes (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:1043197": {
    "d": "Dust Bunny (2025): Fantasy/Horror film. Story: Ten-year-old Aurora asks her hitman neighbor to kill… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
@@ -578,6 +641,70 @@
    "t": "¿Quieres ser mi novia? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:18197": {
+   "d": "Running on Empty (1988): Drama/Crime film. Story: The Popes are a family who haven't been able to use… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xZGCJleQaeqi5jFsvcOoqfsMZvT.jpg",
+   "industry": "world",
+   "k": "Running on Empty, Running on Empty movie, Running on Empty cast, Running on Empty story, Running on Empty box office collection, Running on Empty budget, Running on Empty review, Running on Empty rating, Running on Empty release date, Running on Empty Drama, Running on Empty Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christine Lahti"
+     },
+     {
+      "@type": "Person",
+      "name": "River Phoenix"
+     },
+     {
+      "@type": "Person",
+      "name": "Judd Hirsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonas Abry"
+     },
+     {
+      "@type": "Person",
+      "name": "Martha Plimpton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Running on Empty (1988): Drama/Crime film. Story: The Popes are a family who haven't been able to use… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sidney Lumet"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xZGCJleQaeqi5jFsvcOoqfsMZvT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18197",
+    "name": "Running on Empty",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18197"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Running on Empty (1988)</h1>\n<p class=\"ssr-lead\">The Popes are a family who haven&#x27;t been able to use their real identity for years. In the late sixties, the parents set a weapons lab afire in an effort to hinder the government&#x27;s Vietnam war campaign. Ever since then, the Popes have been on the run with the authorities never far behind. Their survival is threatened when their eldest son falls in love with a girl, and announces his wish to live his life on his own terms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 1988</li><li>Runtime: 116 minutes</li><li>Director: Sidney Lumet</li><li>Genres: Drama, Crime</li><li>TMDB rating: 7.4/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christine Lahti as Annie Pope</li><li>River Phoenix as Danny Pope</li><li>Judd Hirsch as Arthur Pope</li><li>Jonas Abry as Harry Pope</li><li>Martha Plimpton as Lorna Phillips</li><li>Ed Crowley as Mr. Phillips</li><li>L.M. Kit Carson as Gus Winant</li><li>Steven Hill as Donald Patterson</li><li>Augusta Dabney as Abigail Patterson</li><li>David Margulies as Dr. Jonah Reiff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Running on Empty (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:19597": {
    "d": "The Hedgehog (2009): Comedy/Drama film. Story: Paloma is a serious and highly articulate but deeply… See cast, TMDB rating 7.2/10, and release date 1 July 2009.",
    "img": "https://image.tmdb.org/t/p/w780/brOMTLeCIz0LBt4jxMp1658aT45.jpg",
@@ -706,6 +833,70 @@
    "t": "Niagara (1953) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1953"
   },
+  "movie:214597": {
+   "d": "Fright Night 2: New Blood (2013): Horror/Comedy film. Story: By day Gerri Dandridge is a sexy professor, but by… See cast, budget $8M, and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xEdeW2mif652Opusa6wXVvhFdVu.jpg",
+   "industry": "world",
+   "k": "Fright Night 2: New Blood, Fright Night 2: New Blood movie, Fright Night 2: New Blood cast, Fright Night 2: New Blood story, Fright Night 2: New Blood box office collection, Fright Night 2: New Blood budget, Fright Night 2: New Blood review, Fright Night 2: New Blood rating, Fright Night 2: New Blood release date, Fright Night 2: New Blood trailer, Fright Night 2: New Blood Horror, Fright Night 2: New Blood Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Payne"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Power"
+     },
+     {
+      "@type": "Person",
+      "name": "Sacha Parkinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Waller"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaime Murray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "Fright Night 2: New Blood (2013): Horror/Comedy film. Story: By day Gerri Dandridge is a sexy professor, but by… See cast, budget $8M, and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eduardo Rodríguez"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xEdeW2mif652Opusa6wXVvhFdVu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=214597",
+    "name": "Fright Night 2: New Blood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=214597"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fright Night 2: New Blood (2013)</h1>\n<p class=\"ssr-lead\">By day Gerri Dandridge is a sexy professor, but by night she transforms into a real-life vampire with an unquenchable thirst for human blood. When a group of high school students travel abroad to study in Romania, they find themselves ensnared in her chilling web of lust and terror. Charlie and &#x27;Evil&#x27; Ed must stop Gerri from drinking and bathing in the blood of a &#x27;new moon virgin&#x27;, who just so happens to be Charlie’s ex-girlfriend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2013</li><li>Runtime: 100 minutes</li><li>Director: Eduardo Rodríguez</li><li>Genres: Horror, Comedy</li><li>Budget: $8M</li><li>TMDB rating: 5.0/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Payne as Charley Brewster</li><li>Sean Power as Peter Vincent</li><li>Sacha Parkinson as Amy Peterson</li><li>Chris Waller as &#x27;Evil&#x27; Ed Bates</li><li>Jaime Murray as Gerri Dandridge</li><li>John-Christian Bateman as Chaperone</li><li>Liana Margineanu as Old Lady</li><li>Alina Minzu as Shayla Sunshine</li><li>Adi Hostiuc as Dragomir</li><li>Joelle Coutinho as French Girl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Fright Night 2: New Blood (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:36897": {
    "d": "Pokémon: Mewtwo Returns (2001): Animation/Family film. Story: The Team Rocket leader, Giovanni, has found Mewtwo in… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
@@ -833,6 +1024,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie: Spy Squad (2016)</h1>\n<p class=\"ssr-lead\">Barbie and her best friends Teresa and Renee transform from hard-working gymnasts to undercover secret agents. When their amazing gymnastics skills catch the eye of a top-secret spy agency, the girls are soon following clues to a gem-stealing cat burglar, using high-tech gadgets, glam disguises and cute robo-pets to save the day.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2016</li><li>Runtime: 75 minutes</li><li>Director: Conrad Helten</li><li>Genres: Action, Animation, Family</li><li>TMDB rating: 7.0/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Erica Lindbeck as Barbie (voice)</li><li>Stephanie Sheh as Renee (voice)</li><li>Jenny Pellicer as Teresa (voice)</li><li>Alyssya Swales as Chelsea (voice)</li><li>Elizabeth Irving as Mila (voice)</li><li>Brian Dobson as Agent Dunbar / Announcer / Head Chef (voice)</li><li>Rebecca Husain as Patricia (voice)</li><li>Cathy Weseluck as Aunt Zoe (voice)</li><li>Ian Hanlin as Lazlo (voice)</li><li>Jonathan Holmes as Percy (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Barbie: Spy Squad (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:502897": {
+   "d": "Leto (2018): Music/Drama film. Story: Leningrad, one summer in the early eighties. See cast, budget $150.0k, TMDB rating 7.4/10, and release date 7 June 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/lUyn54M9fNg0qPx6wulSQraqBvz.jpg",
+   "industry": "world",
+   "k": "Leto, Leto movie, Leto cast, Leto story, Leto box office collection, Leto budget, Leto review, Leto rating, Leto release date, Leto trailer, Leto Music, Leto Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Teo Yoo"
+     },
+     {
+      "@type": "Person",
+      "name": "Roma Zver"
+     },
+     {
+      "@type": "Person",
+      "name": "Irina Starshenbaum"
+     },
+     {
+      "@type": "Person",
+      "name": "Philipp Avdeev"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Gorchilin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Leto (2018): Music/Drama film. Story: Leningrad, one summer in the early eighties. See cast, budget $150.0k, TMDB rating 7.4/10, and release date 7 June 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kirill Serebrennikov"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Music",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lUyn54M9fNg0qPx6wulSQraqBvz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=502897",
+    "name": "Leto",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=502897"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Leto (2018)</h1>\n<p class=\"ssr-lead\">Leningrad, one summer in the early eighties. Smuggling LPs by Lou Reed and David Bowie, the underground rock scene is boiling ahead of the Perestroika. Mike and his beautiful wife Natasha meet with young Viktor Tsoi. Together with friends, they will change the destiny of rock’n’roll in the Soviet Union.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 June 2018</li><li>Runtime: 126 minutes</li><li>Director: Kirill Serebrennikov</li><li>Genres: Music, Drama</li><li>Budget: $150.0k</li><li>TMDB rating: 7.4/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Teo Yoo as Viktor Tsoi</li><li>Roma Zver as Mayk Naumenko</li><li>Irina Starshenbaum as Natalya Naumenko</li><li>Philipp Avdeev as Leonid</li><li>Alexander Gorchilin as Punk</li><li>Yuliya Aug as Anna Alexandrovna</li><li>Nikita Efremov as Bob</li><li>Georgy Kudrenko as Zhora</li><li>Alexandra Revenko as Maryana&#x27;s Friend</li><li>Nikita Elenev as Virus</li></ul>\n</article>",
+   "t": "Leto (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:735697": {
    "d": "Incredible But True (2022): Comedy/Fantasy film. Story: Alain and Marie moved to the suburb house of their… See cast, budget $4.34M, and TMDB rating 6.0/10.",

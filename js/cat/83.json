@@ -1,7 +1,170 @@
 {
  "bucket": "83",
- "count": 29,
+ "count": 41,
  "titles": {
+  "movie:10183": {
+   "backdrop_path": "/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Ray Eddy",
+     "n": "Melissa Leo"
+    },
+    {
+     "c": "Lila Littlewolf",
+     "n": "Misty Upham"
+    },
+    {
+     "c": "TJ",
+     "n": "Charlie McDermott"
+    },
+    {
+     "c": "Bernie Littlewolf",
+     "n": "John Canoe"
+    },
+    {
+     "c": "Guy Versailles",
+     "n": "Jay Klaitz"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Dylan Carusona"
+    },
+    {
+     "c": "Ricky",
+     "n": "James Reilly"
+    },
+    {
+     "c": "Trooper Finnerty",
+     "n": "Michael O'Keefe"
+    },
+    {
+     "c": "Jacques Bruno",
+     "n": "Mark Boone Junior"
+    },
+    {
+     "c": "Chinese woman",
+     "n": "Betty Ouyang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Courtney Hunt"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 10183,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A financially strapped mother joins a Mohawk woman to smuggle illegal immigrants into the United States.",
+   "popularity": 1.3219,
+   "poster_path": "/6wsrP3rtxJlbS8EGwldLIkCXtWs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-09-05",
+   "revenue": 5457664,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ur",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Desperation Knows No Borders",
+   "title": "Frozen River",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.637,
+   "vote_count": 376
+  },
   "movie:1101383": {
    "backdrop_path": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
    "budget": 80000000,
@@ -529,6 +692,130 @@
    },
    "type": "movie",
    "vote_average": 6.029,
+   "vote_count": 349
+  },
+  "movie:1283": {
+   "backdrop_path": "/cKLsNFf88VQrJDT4NJu7HN8Bsi8.jpg",
+   "budget": 1800000,
+   "cast": [
+    {
+     "c": "José Luis Torrente",
+     "n": "Santiago Segura"
+    },
+    {
+     "c": "Rafi",
+     "n": "Javier Cámara"
+    },
+    {
+     "c": "Amparito",
+     "n": "Neus Asensi"
+    },
+    {
+     "c": "Reme",
+     "n": "Chus Lampreave"
+    },
+    {
+     "c": "Padre",
+     "n": "Tony Leblanc"
+    },
+    {
+     "c": "Malaguita",
+     "n": "Julio Sanjuán"
+    },
+    {
+     "c": "Toneti",
+     "n": "Jimmy Barnatán"
+    },
+    {
+     "c": "Bombilla",
+     "n": "Darío Paso"
+    },
+    {
+     "c": "Carlitos",
+     "n": "Carlos Perea"
+    },
+    {
+     "c": "Francés",
+     "n": "Manuel Manquiña"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Santiago Segura"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1283,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A former policeman enlists his nerdy friend to help bust drug traffickers moving heroin through a Chinese restaurant.",
+   "popularity": 1.9512,
+   "poster_path": "/tGlaXKGmpo7YH1ULTQYFCz8241k.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-03-13",
+   "revenue": 9735799,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Torrente: The Dumb Arm of the Law",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.53,
    "vote_count": 349
   },
   "movie:1309083": {
@@ -1392,6 +1679,192 @@
    "vote_average": 7.22,
    "vote_count": 296
   },
+  "movie:1483": {
+   "backdrop_path": "/GtblqNxBX0fUbLVNhempSYwCWe.jpg",
+   "budget": 33000,
+   "cast": [
+    {
+     "c": "God Killing Himself",
+     "n": "Brian Salzburg"
+    },
+    {
+     "c": "Mother Earth",
+     "n": "Donna Dempsey"
+    },
+    {
+     "c": "Son of Earth",
+     "n": "Stephen Charles Barry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "E. Elias Merhige"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 1483,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
+   "popularity": 1.8165,
+   "poster_path": "/rvgYcVToOHe0gKWtF3mz6SvM4Aw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1991-06-05",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Begotten",
+   "trailer": {
+    "key": "JVpksHJ8jQI",
+    "name": "Begotten – Official 4K Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 383
+  },
+  "movie:15983": {
+   "backdrop_path": "/4FGUzyY421gOjPwfRr3jNvEsJVX.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Matt Hunter",
+     "n": "Chuck Norris"
+    },
+    {
+     "c": "Mikhail Rostov",
+     "n": "Richard Lynch"
+    },
+    {
+     "c": "Dahlia McGuire",
+     "n": "Melissa Prophet"
+    },
+    {
+     "c": "Nikko Kador",
+     "n": "Alexander Zale"
+    },
+    {
+     "c": "Tomas Montoya",
+     "n": "Alex Colon"
+    },
+    {
+     "c": "Marvin Cassidy",
+     "n": "Eddie Jones"
+    },
+    {
+     "c": "Frank Johnston",
+     "n": "Jon DeVries"
+    },
+    {
+     "c": "Fred Harper",
+     "n": "James O'Sullivan"
+    },
+    {
+     "c": "Mickey Seidman",
+     "n": "Billy Drago"
+    },
+    {
+     "c": "Luis Castillo",
+     "n": "Jaime Sánchez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Zito"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 15983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A one-man army comes to the rescue of the United States when a spy attempts an invasion.",
+   "popularity": 2.5194,
+   "poster_path": "/mE5dSRTKW1dzV7D0pgP8sMxyIa9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-09-27",
+   "revenue": 17536256,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "America wasn't ready...but HE was!",
+   "title": "Invasion U.S.A.",
+   "trailer": {
+    "key": "-ttJX4Z1hzk",
+    "name": "Vinegar Syndrome Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 369
+  },
   "movie:1601083": {
    "backdrop_path": "/duqqXguVFjNK8oZBWsGMXD47LJI.jpg",
    "budget": 0,
@@ -1476,6 +1949,420 @@
    "type": "movie",
    "vote_average": 7.935,
    "vote_count": 23
+  },
+  "movie:183": {
+   "backdrop_path": "/uDNujlgku4FgHDeOdrfEQk1FtW1.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Jimmy",
+     "n": "Luke Edwards"
+    },
+    {
+     "c": "Tate",
+     "n": "Vince Trankina"
+    },
+    {
+     "c": "Christine",
+     "n": "Wendy Phillips"
+    },
+    {
+     "c": "Counselor",
+     "n": "Dea McAllister"
+    },
+    {
+     "c": "Bateman",
+     "n": "Sam McMurray"
+    },
+    {
+     "c": "Sam",
+     "n": "Beau Bridges"
+    },
+    {
+     "c": "Corey",
+     "n": "Fred Savage"
+    },
+    {
+     "c": "Nick",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Putnam",
+     "n": "Will Seltzer"
+    },
+    {
+     "c": "Bus Clerk",
+     "n": "Roy Conrad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Todd Holland"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 183,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy and his brother run away from home and hitch cross-country, with help from a girl they meet, to compete in the ultimate video game championship.",
+   "popularity": 1.6667,
+   "poster_path": "/dtgNNq3TBbpBX6RXHLt5gAMdwPV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-12-15",
+   "revenue": 14278900,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "It's more than a game...it's the chance of a lifetime.",
+   "title": "The Wizard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 365
+  },
+  "movie:20483": {
+   "backdrop_path": "/eIJEApRNDaysFxBIJFXCxdciZpk.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Maddy Phillips",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Austin",
+     "n": "Corbin Bleu"
+    },
+    {
+     "c": "Gus",
+     "n": "Max Thieriot"
+    },
+    {
+     "c": "Molly Phillips",
+     "n": "Jennifer Beals"
+    },
+    {
+     "c": "Tom Phillips",
+     "n": "Sam Robards"
+    },
+    {
+     "c": "Mr. Hartman",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Ferrell",
+     "n": "James Le Gros"
+    },
+    {
+     "c": "Brisbane",
+     "n": "Michael Des Barres"
+    },
+    {
+     "c": "Brad",
+     "n": "Stark Sands"
+    },
+    {
+     "c": "Flagler",
+     "n": "Lennie Loftin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bart Freundlich"
+   ],
+   "genres": [
+    "Family",
+    "Action",
+    "Adventure"
+   ],
+   "id": 20483,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A determined twelve-year-old mountain climber takes drastic action to save her injured father by planning a high-stakes bank heist, using her skills and teamwork to navigate the challenge.",
+   "popularity": 1.6512,
+   "poster_path": "/vNZTtrzrIsIAHzqH3143oWIzFjG.jpg",
+   "production_countries": [
+    "DK",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-02-06",
+   "revenue": 16951702,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're on a mission without permission.",
+   "title": "Catch That Kid",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 341
+  },
+  "movie:21583": {
+   "backdrop_path": "/5JENkUpYQjkbg2zKZ6UuTyolnHs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sue",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Mike",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Trish",
+     "n": "Margo Martindale"
+    },
+    {
+     "c": "Jerry",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "Al",
+     "n": "James Hiroyuki Liao"
+    },
+    {
+     "c": "Jango",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Corporate Bliss Receptionist",
+     "n": "Katie O’Grady"
+    },
+    {
+     "c": "Marissa",
+     "n": "Yolanda Suarez"
+    },
+    {
+     "c": "Jed",
+     "n": "Kevin Heffernan"
+    },
+    {
+     "c": "Businessman",
+     "n": "Don Burns"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Belber"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 21583,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A traveling art saleswoman tries to shake off a flaky motel manager who falls for her and won't leave her alone.",
+   "popularity": 1.407,
+   "poster_path": "/roum0tVUqDWRbxBPlvdBzrxjMpK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-02-08",
+   "revenue": 2566648,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "Some moments just feel right.",
+   "title": "Management",
+   "trailer": {
+    "key": "0FcMpO34kG8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 363
   },
   "movie:21683": {
    "backdrop_path": "/kaYyrF2iPVtGN3f4eKI0AqHtVNc.jpg",
@@ -1579,6 +2466,254 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 469
+  },
+  "movie:22383": {
+   "backdrop_path": "/jJKjniDrS1FaWiSgOBxjjTe6ME.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dolworth",
+     "n": "Burt Lancaster"
+    },
+    {
+     "c": "Fardan",
+     "n": "Lee Marvin"
+    },
+    {
+     "c": "Ehrengard",
+     "n": "Robert Ryan"
+    },
+    {
+     "c": "Jake",
+     "n": "Woody Strode"
+    },
+    {
+     "c": "Jesus Raza",
+     "n": "Jack Palance"
+    },
+    {
+     "c": "Maria",
+     "n": "Claudia Cardinale"
+    },
+    {
+     "c": "Grant",
+     "n": "Ralph Bellamy"
+    },
+    {
+     "c": "Ortega",
+     "n": "Joe De Santis"
+    },
+    {
+     "c": "Fierro",
+     "n": "Rafael Bertrand"
+    },
+    {
+     "c": "Padilla",
+     "n": "Jorge Martínez de Hoyos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Brooks"
+   ],
+   "genres": [
+    "Western",
+    "Adventure",
+    "Action"
+   ],
+   "id": 22383,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+   "popularity": 3.836,
+   "poster_path": "/sH4Clw7QrtH23xl9o4sOpHNkRIz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-11-01",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Rough, tough and ready.",
+   "title": "The Professionals",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 370
+  },
+  "movie:33583": {
+   "backdrop_path": "/9CbH2EktREWAur7XLBeFNFNr5BQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ciappelletto",
+     "n": "Franco Citti"
+    },
+    {
+     "c": "Andreuccio of Perugia",
+     "n": "Ninetto Davoli"
+    },
+    {
+     "c": "Rustico (scenes deleted)",
+     "n": "Jovan Jovanović"
+    },
+    {
+     "c": "Peronella",
+     "n": "Angela Luce"
+    },
+    {
+     "c": "Masetto of Lamporecchio",
+     "n": "Vincenzo Amato"
+    },
+    {
+     "c": "Monk",
+     "n": "Giuseppe Zigaina"
+    },
+    {
+     "c": "Una Madonna",
+     "n": "Maria Gabriella Maione"
+    },
+    {
+     "c": "",
+     "n": "Vincenzo Cristo"
+    },
+    {
+     "c": "Allievo di Giotto",
+     "n": "Pier Paolo Pasolini"
+    },
+    {
+     "c": "Lizio da Valbona",
+     "n": "Giorgio Iovine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Pier Paolo Pasolini"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 33583,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A young Sicilian is swindled twice, but ends up rich; a man poses as a deaf-mute in a convent of curious nuns; a woman must hide her lover when her husband comes home early; a scoundrel fools a priest on his deathbed; three brothers take revenge on their sister's lover; a young girl sleeps on the roof to meet her boyfriend at night; a group of painters wait for inspiration; a crafty priest attempts to seduce his friend's wife; and two friends make a pact to find out what happens after death.",
+   "popularity": 2.5222,
+   "poster_path": "/iL5mmuIL6fqFSWJeHE417WWrocz.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1971-08-25",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Ribaldry! Rakes and libertines. Raised skirts and lowered lashes. A blush on every cheek. Pasolini. Filming The Decameron. Bringing life to art...and art to life.",
+   "title": "The Decameron",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.851,
+   "vote_count": 370
   },
   "movie:369883": {
    "backdrop_path": "/xDHCtB2rUUJYMEWoYbXITbQcirY.jpg",
@@ -1854,6 +2989,123 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 495
+  },
+  "movie:454283": {
+   "backdrop_path": "/3ldiRRggT4CC38jEE4gqVgTUhVM.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Deshawn Crious \"D.C.\" Carver",
+     "n": "Johnny Knoxville"
+    },
+    {
+     "c": "Benny",
+     "n": "Chris Pontius"
+    },
+    {
+     "c": "Rudie",
+     "n": "Clover Nee"
+    },
+    {
+     "c": "Boogie",
+     "n": "Eleanor Worthington-Cox"
+    },
+    {
+     "c": "Adult Boogie",
+     "n": "Susan Yeagley"
+    },
+    {
+     "c": "Knoblach",
+     "n": "Dan Bakkedahl"
+    },
+    {
+     "c": "Mia",
+     "n": "Camilla Wolfson"
+    },
+    {
+     "c": "Ziffel",
+     "n": "Johnny Pemberton"
+    },
+    {
+     "c": "Four Finger Annie",
+     "n": "Jack Haven"
+    },
+    {
+     "c": "Rodney",
+     "n": "Eric Manaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Kirkby"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 454283,
+   "industry": "world",
+   "origin_country": [
+    "ZA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A daredevil designs and operates his own theme park with his friends.",
+   "popularity": 1.86,
+   "poster_path": "/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg",
+   "production_countries": [
+    "ZA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-06-01",
+   "revenue": 5059608,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Real Stunts. Real Thrills. Real Messed Up.",
+   "title": "Action Point",
+   "trailer": {
+    "key": "ri1Cc3Yz09U",
+    "name": "Action Point (2018) - Official Trailer - Paramount Pictures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.462,
+   "vote_count": 372
   },
   "movie:529983": {
    "backdrop_path": "/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
@@ -2166,6 +3418,117 @@
    "type": "movie",
    "vote_average": 7.616,
    "vote_count": 469
+  },
+  "movie:592983": {
+   "backdrop_path": "/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellian (voice)",
+     "n": "Rachel Zegler"
+    },
+    {
+     "c": "Chilo (voice)",
+     "n": "Miguel Bernardeau"
+    },
+    {
+     "c": "Orsola (voice)",
+     "n": "Giovanna Bush"
+    },
+    {
+     "c": "Lumbrian Soldier (voice)",
+     "n": "Dennis Stowe"
+    },
+    {
+     "c": "Nazara (voice)",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Flink (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Old Maid (voice)",
+     "n": "Susan Fitzer"
+    },
+    {
+     "c": "Queen Ellsmere (voice)",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "King Solon (voice)",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Bolinar (voice)",
+     "n": "John Lithgow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Vicky Jenson"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 592983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+   "popularity": 4.6268,
+   "poster_path": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+   "production_countries": [
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-22",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Experience a twist on happily ever after.",
+   "title": "Spellbound",
+   "trailer": {
+    "key": "jGQiq1ZuCW8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.545,
+   "vote_count": 345
   },
   "movie:646683": {
    "backdrop_path": "/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
@@ -2560,6 +3923,164 @@
    "type": "movie",
    "vote_average": 6.417,
    "vote_count": 445
+  },
+  "movie:883083": {
+   "backdrop_path": "/qEYcteWFxQjfyjMrZCWcaLfHSe1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nevena",
+     "n": "Sara Klimoska"
+    },
+    {
+     "c": "Maria",
+     "n": "Anamaria Marinca"
+    },
+    {
+     "c": "Biliana",
+     "n": "Alice Englert"
+    },
+    {
+     "c": "Yovan",
+     "n": "Félix Maritaud"
+    },
+    {
+     "c": "Boris",
+     "n": "Carloto Cotta"
+    },
+    {
+     "c": "Bosilka",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "Elica",
+     "n": "Irena Ristić"
+    },
+    {
+     "c": "Yoana",
+     "n": "Kamka Tocinovski"
+    },
+    {
+     "c": "Young Nevena",
+     "n": "Leontina Bainović"
+    },
+    {
+     "c": "Young Biliana",
+     "n": "Anastasija Karanovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Goran Stolevski"
+   ],
+   "genres": [
+    "Horror",
+    "Drama"
+   ],
+   "id": 883083,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "mk",
+   "overview": "In an isolated mountain village in 19th century Macedonia, a young feral witch accidentally kills a peasant. She assumes the peasant's shape to see what life is like in her skin, igniting a deep seated curiosity to experience life inside the bodies of others.",
+   "popularity": 2.2739,
+   "poster_path": "/qVRADANU3JpMyapKjV3eM41VlDG.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "MK",
+    "RS"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-04-22",
+   "revenue": 125000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt",
+    "mk"
+   ],
+   "status": "Released",
+   "tagline": "It's a wicked thing this world.",
+   "title": "You Won't Be Alone",
+   "trailer": {
+    "key": "8q_ircqu8HA",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.564,
+   "vote_count": 380
   },
   "movie:886083": {
    "backdrop_path": "/2NrIzba4wHUYXJurKAMFs70Qcok.jpg",

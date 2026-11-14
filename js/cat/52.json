@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 41,
+ "count": 45,
  "titles": {
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -635,6 +635,137 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 27
+  },
+  "movie:14752": {
+   "backdrop_path": "/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+   "budget": 2079000,
+   "cast": [
+    {
+     "c": "Akash Malhotra",
+     "n": "Aamir Khan"
+    },
+    {
+     "c": "Siddharth \"Sid\" Sinha",
+     "n": "Akshaye Khanna"
+    },
+    {
+     "c": "Sameer Mulchandani",
+     "n": "Saif Ali Khan"
+    },
+    {
+     "c": "Shalini",
+     "n": "Preity Zinta"
+    },
+    {
+     "c": "Tara Jaiswal",
+     "n": "Dimple Kapadia"
+    },
+    {
+     "c": "Pooja",
+     "n": "Sonali Kulkarni"
+    },
+    {
+     "c": "Rohit",
+     "n": "Ayub Khan"
+    },
+    {
+     "c": "Mahesh",
+     "n": "Rajat Kapoor"
+    },
+    {
+     "c": "Deepa",
+     "n": "Samantha Tremayne"
+    },
+    {
+     "c": "Priya",
+     "n": "Suchitra Pillai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Farhan Akhtar"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 14752,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+   "popularity": 1.3899,
+   "poster_path": "/c6Cicaf2FFmfcInfsbPTxMLk5CS.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-08-10",
+   "revenue": 4099000,
+   "runtime": 183,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Welcome To A Summer Of Their Lives You Will Never Forget",
+   "title": "Dil Chahta Hai",
+   "trailer": {
+    "key": "OBAcYSSUf6o",
+    "name": "Official Netflix Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 360
   },
   "movie:1595852": {
    "backdrop_path": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
@@ -1642,6 +1773,151 @@
    "vote_average": 6.611,
    "vote_count": 464
   },
+  "movie:413052": {
+   "backdrop_path": "/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Alex Danyliuk",
+     "n": "Callan McAuliffe"
+    },
+    {
+     "c": "Kira Whittal",
+     "n": "Lorraine Nicholson"
+    },
+    {
+     "c": "Sye",
+     "n": "Daniel Eric Gold"
+    },
+    {
+     "c": "Zed",
+     "n": "Clifton Collins Jr."
+    },
+    {
+     "c": "Agent Curtis",
+     "n": "Zachary Bennett"
+    },
+    {
+     "c": "Chairman of the Federal Reserve",
+     "n": "Kristian Truelsen"
+    },
+    {
+     "c": "Alex's Mother",
+     "n": "Vlada Verevko"
+    },
+    {
+     "c": "Alex's Father",
+     "n": "Genadijs Dolganovs"
+    },
+    {
+     "c": "Randy The Car Dealer",
+     "n": "Randy Thomas"
+    },
+    {
+     "c": "Randy Bickle",
+     "n": "Greg Hovanessian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Akan Satayev"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 413052,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "KZ",
+    "US",
+    "HK",
+    "TH"
+   ],
+   "original_language": "en",
+   "overview": "Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank",
+   "popularity": 2.1187,
+   "poster_path": "/gpYwKrP6s749b5Nzgm2174jKrpf.jpg",
+   "production_countries": [
+    "CA",
+    "KZ",
+    "HK",
+    "TH",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-09-15",
+   "revenue": 11239,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He will find you. He will become you.",
+   "title": "Hacker",
+   "trailer": {
+    "key": "Va9cvA0zgwI",
+    "name": "Hacker Trailer - On DVD & Digital 4/4",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.249,
+   "vote_count": 359
+  },
   "movie:433252": {
    "backdrop_path": "/2ec2qzc9izRpDDCgNNU3CNZ8wX.jpg",
    "budget": 0,
@@ -1748,6 +2024,215 @@
    "type": "movie",
    "vote_average": 6.666,
    "vote_count": 486
+  },
+  "movie:45752": {
+   "backdrop_path": "/oVROUaJkzEBAlNbUKnXQiiKbJRf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred / Scooby Doo (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Velma (voice)",
+     "n": "Mindy Cohn"
+    },
+    {
+     "c": "Shaggy (voice)",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Daphne (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Ranger Knudsen / Woodsman / Spectre / Fishman (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Deacon / Babyface Boretti / Store Owner (voice)",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Darryl (voice)",
+     "n": "Phil LaMarr"
+    },
+    {
+     "c": "Luke (voice)",
+     "n": "Scott Menville"
+    },
+    {
+     "c": "Burt (voice)",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Trudy (voice)",
+     "n": "Tara Strong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ethan Spaulding"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Mystery"
+   ],
+   "id": 45752,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Scooby and the gang experience outdoor fun as they go back to Fred's old summer camp. As summer goes on, it becomes increasingly clear that the spooky camp stories told by the fireplace, are more real than they've though and soon, it's up to the gang to try and solve the mystery of camp scare.",
+   "popularity": 3.1432,
+   "poster_path": "/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-09-14",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Back-to-nature chills and thrills!",
+   "title": "Scooby-Doo! Camp Scare",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 356
+  },
+  "movie:4952": {
+   "backdrop_path": "/cPDMOeafVmyguVlwE4ls6HER021.jpg",
+   "budget": 1600000,
+   "cast": [
+    {
+     "c": "Jan Morrow",
+     "n": "Doris Day"
+    },
+    {
+     "c": "Brad Allen",
+     "n": "Rock Hudson"
+    },
+    {
+     "c": "Jonathan Forbes",
+     "n": "Tony Randall"
+    },
+    {
+     "c": "Alma",
+     "n": "Thelma Ritter"
+    },
+    {
+     "c": "Tony Walters",
+     "n": "Nick Adams"
+    },
+    {
+     "c": "Marie",
+     "n": "Julia Meade"
+    },
+    {
+     "c": "Harry",
+     "n": "Allen Jenkins"
+    },
+    {
+     "c": "Pierot",
+     "n": "Marcel Dalio"
+    },
+    {
+     "c": "Mrs. Walters",
+     "n": "Lee Patrick"
+    },
+    {
+     "c": "Nurse Resnick",
+     "n": "Mary McCarty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michael Gordon"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 4952,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Playboy songwriter Brad Allen's succession of romances annoys his neighbor, interior designer Jan Morrow, who shares a telephone party line with him and hears all his breezy routines. After Jan unsuccessfully lodges a complaint against him, Brad sets about to seduce her in the guise of a sincere and upstanding Texas rancher. When mutual friend Jonathan discovers that his best friend is moving in on the girl he desires, however, sparks fly.",
+   "popularity": 2.5332,
+   "poster_path": "/ugvyj5nl9QmTYuaGUTefVYBDePE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-10-07",
+   "revenue": 18750000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "...It's What Goes On When The Lights Go Off!",
+   "title": "Pillow Talk",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.128,
+   "vote_count": 344
   },
   "movie:5552": {
    "backdrop_path": "/1s9Gz5M2L2YWHkcxhcHwgXFD8c9.jpg",

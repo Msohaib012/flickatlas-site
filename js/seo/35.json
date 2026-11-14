@@ -1,7 +1,71 @@
 {
  "bucket": "35",
- "count": 36,
+ "count": 47,
  "titles": {
+  "movie:1001835": {
+   "d": "Wifelike (2022): Science Fiction/Mystery film. Story: A grieving detective in the near-future hunts down… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
+   "industry": "world",
+   "k": "Wifelike, Wifelike movie, Wifelike cast, Wifelike story, Wifelike box office collection, Wifelike budget, Wifelike review, Wifelike rating, Wifelike release date, Wifelike trailer, Wifelike Science Fiction, Wifelike Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elena Kampouris"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Rhys Meyers"
+     },
+     {
+      "@type": "Person",
+      "name": "Doron Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Agam Darshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Sampaio"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Wifelike (2022): Science Fiction/Mystery film. Story: A grieving detective in the near-future hunts down… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Bird"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Science Fiction",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1001835",
+    "name": "Wifelike",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1001835"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wifelike (2022)</h1>\n<p class=\"ssr-lead\">A grieving detective in the near-future hunts down criminals who trade artificial humans on the black market. In the fight to end AI exploitation, an underground resistance attempts to infiltrate him by sabotaging the programming of the artificial human assigned as his companion to behave like his late wife. She begins to question her reality as memories of a past life begin to surface in a world where nothing is as it seems.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2022</li><li>Runtime: 105 minutes</li><li>Director: James Bird</li><li>Genres: Science Fiction, Mystery, Thriller</li><li>TMDB rating: 6.5/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elena Kampouris as Meredith</li><li>Jonathan Rhys Meyers as William</li><li>Doron Bell as Agent Black</li><li>Agam Darshi as Louise</li><li>Sara Sampaio as Wendy</li><li>Alix Villaret as Lydie</li><li>Fletcher Donovan as Keene</li><li>C.J. Perry Barnyashev as Holly</li><li>Stephen Lobo as Marion</li><li>Claire Friesen as Willa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Wifelike (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:10935": {
    "d": "Heaven's Gate (1980): Drama/Western film. Story: Harvard graduate James Averill serves as the sheriff… See cast, budget $44M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Heaven&#x27;s Gate (1980)</h1>\n<p class=\"ssr-lead\">Harvard graduate James Averill serves as the sheriff of prosperous Jackson County, Wyoming, standing at the center of a conflict between impoverished immigrants and affluent cattle farmers. Politically connected ranchers enlist mercenary Nathan Champion—who is also vying for the affections of local madam Ella Watson—to combat the immigrant uprising. As tensions escalate, both Averill and Champion start to question their decisions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 1980</li><li>Runtime: 217 minutes</li><li>Director: Michael Cimino</li><li>Genres: Drama, Western, History</li><li>Budget: $44M</li><li>TMDB rating: 6.7/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kris Kristofferson as James Averill</li><li>Christopher Walken as Nathan D. Champion</li><li>John Hurt as Billy Irvine</li><li>Sam Waterston as Frank Canton</li><li>Brad Dourif as Mr. Eggleston</li><li>Isabelle Huppert as Ella Watson</li><li>Joseph Cotten as The Reverend Doctor</li><li>Jeff Bridges as John L. Bridges</li><li>Ronnie Hawkins as Major Wolcott</li><li>Paul Koslo as Mayor Charlie Lezak</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
    "t": "Heaven's Gate (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:11035": {
+   "d": "Roma (1972): Comedy/Drama film. Story: A virtually plotless, gaudy, impressionistic portrait… See cast, TMDB rating 7.3/10, and release date 16 March 1972.",
+   "img": "https://image.tmdb.org/t/p/w780/577MexfjVxgTakrbugG8QbfimUn.jpg",
+   "industry": "world",
+   "k": "Roma, Roma movie, Roma cast, Roma story, Roma box office collection, Roma budget, Roma review, Roma rating, Roma release date, Roma Comedy, Roma Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Gonzales Falcon"
+     },
+     {
+      "@type": "Person",
+      "name": "Fiona Florence"
+     },
+     {
+      "@type": "Person",
+      "name": "Pia De Doses"
+     },
+     {
+      "@type": "Person",
+      "name": "Marne Maitland"
+     },
+     {
+      "@type": "Person",
+      "name": "Renato Giovannoli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Roma (1972): Comedy/Drama film. Story: A virtually plotless, gaudy, impressionistic portrait… See cast, TMDB rating 7.3/10, and release date 16 March 1972.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Federico Fellini"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/577MexfjVxgTakrbugG8QbfimUn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11035",
+    "name": "Roma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1972-03-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11035"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Roma (1972)</h1>\n<p class=\"ssr-lead\">A virtually plotless, gaudy, impressionistic portrait of Rome through the eyes of one of its most famous citizens.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 1972</li><li>Runtime: 120 minutes</li><li>Director: Federico Fellini</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.3/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Gonzales Falcon as Fellini, Age 18</li><li>Fiona Florence as Dolores - Young Prostitute</li><li>Pia De Doses as Princess Domitilla</li><li>Marne Maitland as Underground Guide</li><li>Renato Giovannoli as Cardinal Ottaviani</li><li>Elisa Mainardi as Pharmacist&#x27;s wife / Cinema spectator</li><li>Norma Giacchero as Reporter Interviewing Fellini</li><li>Stefano Mayore as Fellini as a Child</li><li>Galliano Sbarra as Music Hall Compere</li><li>Anna Magnani as Anna Magnani</li></ul>\n</article>",
+   "t": "Roma (1972) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1972"
   },
   "movie:11235": {
    "d": "Local Hero (1983): Comedy/Drama film. Story: An American oil company sends a man to Scotland to… See cast, budget $4.2M, and TMDB rating 6.8/10.",
@@ -326,6 +454,69 @@
    "t": "The Rays and Shadows (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14035": {
+   "d": "Meatballs (1979): Comedy film. Story: Tripper is the head counselor at a budget summer camp… See cast, budget $1.21M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bIpASor2NGXCtx3BSCF8ejfiK52.jpg",
+   "industry": "world",
+   "k": "Meatballs, Meatballs movie, Meatballs cast, Meatballs story, Meatballs box office collection, Meatballs budget, Meatballs review, Meatballs rating, Meatballs release date, Meatballs trailer, Meatballs Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Murray"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Atkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Russ Banham"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristine DeBell"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Craven"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Meatballs (1979): Comedy film. Story: Tripper is the head counselor at a budget summer camp… See cast, budget $1.21M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ivan Reitman"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bIpASor2NGXCtx3BSCF8ejfiK52.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14035",
+    "name": "Meatballs",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-06-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14035"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Meatballs (1979)</h1>\n<p class=\"ssr-lead\">Tripper is the head counselor at a budget summer camp called Camp Northstar. In truth, he&#x27;s young at heart and only marginally more mature than the campers themselves. Tripper befriends Rudy, a loner camper who has trouble fitting in. As Tripper inspires his young charges to defeat rival Camp Mohawk in the annual Olympiad competition, Rudy plays matchmaker between Tripper and Roxanne, a female counselor at Northstar.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 1979</li><li>Runtime: 92 minutes</li><li>Director: Ivan Reitman</li><li>Genres: Comedy</li><li>Budget: $1.21M</li><li>TMDB rating: 5.8/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Murray as Tripper Harrison</li><li>Harvey Atkin as Morty</li><li>Russ Banham as Crockett</li><li>Kristine DeBell as A.L.</li><li>Matt Craven as Hardware</li><li>Kate Lynch as Roxanne</li><li>Sarah Torgov as Candace</li><li>Keith Knight as Fink</li><li>Chris Makepeace as Rudy</li><li>Jack Blum as Spaz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV, MovieSphere+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Meatballs (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:1473635": {
    "d": "Things We Don't Say (2026): Drama film. Story: Carlo and Elisa are a successful couple. He’s a… See cast, TMDB rating 6.9/10, and release date 29 January 2026.",
    "img": "https://image.tmdb.org/t/p/w780/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
@@ -388,6 +579,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Things We Don&#x27;t Say (2026)</h1>\n<p class=\"ssr-lead\">Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2026</li><li>Runtime: 114 minutes</li><li>Director: Gabriele Muccino</li><li>Genres: Drama</li><li>TMDB rating: 6.9/10 (163 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stefano Accorsi as Carlo</li><li>Carolina Crescentini as Elisa</li><li>Miriam Leone as Anna</li><li>Claudio Santamaria as Paolo</li><li>Beatrice Savignani as Blu</li><li>Margherita Pantaleo as Vittoria</li><li>Ahmed Boulane as Hassan</li><li>Alessandra Carrillo</li></ul>\n</article>",
    "t": "Things We Don't Say (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:15035": {
+   "d": "Fire and Ice (1983): Animation/Fantasy film. Story: The villainous Nekron and his mother, Queen Juliana… See cast, budget $1.2M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4yFQG3MSIAriY02pMg0BpgZjUA5.jpg",
+   "industry": "world",
+   "k": "Fire and Ice, Fire and Ice movie, Fire and Ice cast, Fire and Ice story, Fire and Ice box office collection, Fire and Ice budget, Fire and Ice review, Fire and Ice rating, Fire and Ice release date, Fire and Ice trailer, Fire and Ice Animation, Fire and Ice Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Randy Norton"
+     },
+     {
+      "@type": "Person",
+      "name": "Cynthia Leake"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Sandor"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Hannon"
+     },
+     {
+      "@type": "Person",
+      "name": "Leo Gordon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Fire and Ice (1983): Animation/Fantasy film. Story: The villainous Nekron and his mother, Queen Juliana… See cast, budget $1.2M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ralph Bakshi"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Animation",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4yFQG3MSIAriY02pMg0BpgZjUA5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15035",
+    "name": "Fire and Ice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-03-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15035"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fire and Ice (1983)</h1>\n<p class=\"ssr-lead\">The villainous Nekron and his mother, Queen Juliana, plot against the human race from their frigid fortress. Creating mass destruction with huge glaciers, mother and son incur the wrath of Larn, a warrior whose entire village was destroyed by ice. When Nekron&#x27;s underlings kidnap the beautiful Princess Teegra, Larn sets out to rescue her, assisted by the fierce and enigmatic Darkwolf.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 March 1983</li><li>Runtime: 82 minutes</li><li>Director: Ralph Bakshi</li><li>Genres: Animation, Fantasy, Science Fiction, Adventure</li><li>Budget: $1.2M</li><li>TMDB rating: 6.7/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Randy Norton as Larn</li><li>Cynthia Leake as Teegra</li><li>Steve Sandor as Darkwolf</li><li>Sean Hannon as Nekron</li><li>Leo Gordon as Jarol</li><li>William Ostrander as Taro / Larn (voice)</li><li>Eileen O&#x27;Neill as Juliana</li><li>Elizabeth Lloyd Shaw as Roleil</li><li>Micky Morton as Otwa</li><li>Tamarah Park as Tutor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Fandor, Night Flight Plus, Fandor Amazon Channel, Screambox Amazon Channel, Darkroom, Midnight Pulp, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Fire and Ice (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
   },
   "movie:1596335": {
    "d": "The AI Doc: Or How I Became an Apocaloptimist (2026): Documentary film. Story: A father-to-be tries to figure out what is happening… See cast.",
@@ -715,6 +970,70 @@
    "t": "Family Guy Happy Hell-o-ween (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:227735": {
+   "d": "Dolphin Tale 2 (2014): Family/Drama film. Story: The team of people who saved Winter's life reassemble… See cast, budget $36M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jAXPhMpnJTzBa8oSAP0l9sjYgV8.jpg",
+   "industry": "world",
+   "k": "Dolphin Tale 2, Dolphin Tale 2 movie, Dolphin Tale 2 cast, Dolphin Tale 2 story, Dolphin Tale 2 box office collection, Dolphin Tale 2 budget, Dolphin Tale 2 review, Dolphin Tale 2 rating, Dolphin Tale 2 release date, Dolphin Tale 2 trailer, Dolphin Tale 2 Family, Dolphin Tale 2 Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nathan Gamble"
+     },
+     {
+      "@type": "Person",
+      "name": "Cozi Zuehlsdorff"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Connick Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Judd"
+     },
+     {
+      "@type": "Person",
+      "name": "Kris Kristofferson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Dolphin Tale 2 (2014): Family/Drama film. Story: The team of people who saved Winter's life reassemble… See cast, budget $36M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charles Martin Smith"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Family",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jAXPhMpnJTzBa8oSAP0l9sjYgV8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=227735",
+    "name": "Dolphin Tale 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=227735"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dolphin Tale 2 (2014)</h1>\n<p class=\"ssr-lead\">The team of people who saved Winter&#x27;s life reassemble in the wake of her surrogate mother&#x27;s passing in order to find her a companion so she can remain at the Clearwater Marine Hospital.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2014</li><li>Runtime: 107 minutes</li><li>Director: Charles Martin Smith</li><li>Genres: Family, Drama</li><li>Budget: $36M</li><li>TMDB rating: 6.9/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nathan Gamble as Sawyer Nelson</li><li>Cozi Zuehlsdorff as Hazel Haskett</li><li>Harry Connick Jr. as Dr. Clay Haskett</li><li>Ashley Judd as Lorraine Nelson</li><li>Kris Kristofferson as Reed Hasket</li><li>Morgan Freeman as Dr. Cameron McCarthy</li><li>Bethany Hamilton as Herself</li><li>Austin Stowell as Kyle Connellan</li><li>Austin Highsmith Garces as Phoebe</li><li>Denisea Wilson as Julia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dolphin Tale 2 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:253835": {
    "d": "Los Bandoleros (2009): Action/Drama film. Story: The film tells the back story about the characters… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/q4MG2j8a7QEjg3ksd4hFXwBSNPf.jpg",
@@ -778,6 +1097,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Los Bandoleros (2009)</h1>\n<p class=\"ssr-lead\">The film tells the back story about the characters and events leading up to the explosive oil truck heist in Fast &amp; Furious.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 July 2009</li><li>Runtime: 20 minutes</li><li>Director: Vin Diesel</li><li>Genres: Action, Drama</li><li>TMDB rating: 6.1/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Dominic Toretto</li><li>Michelle Rodriguez as Letty Ortiz</li><li>Sung Kang as Han Lue</li><li>Tego Calderon as Tego Leo</li><li>Don Omar as Rico Santos</li><li>Juan Fernández as Elvis</li><li>Mirtha Michelle as Mirtha</li><li>F. Valentino Morales as Malo</li><li>Adria Carrasco as Rubria</li><li>Celines Toribio as Elvis&#x27; Girlfriend</li></ul>\n</article>",
    "t": "Los Bandoleros (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:272435": {
+   "d": "Gemma Bovery (2014): Romance/Drama film. Story: Martin, an ex-Parisian well-heeled hipster passionate… See cast, budget $9.7M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8PyY9n2pFEU3vabpJcqOYkC5SkX.jpg",
+   "industry": "world",
+   "k": "Gemma Bovery, Gemma Bovery movie, Gemma Bovery cast, Gemma Bovery story, Gemma Bovery box office collection, Gemma Bovery budget, Gemma Bovery review, Gemma Bovery rating, Gemma Bovery release date, Gemma Bovery trailer, Gemma Bovery Romance, Gemma Bovery Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gemma Arterton"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Flemyng"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Elsa Zylberstein"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabelle Candelier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Gemma Bovery (2014): Romance/Drama film. Story: Martin, an ex-Parisian well-heeled hipster passionate… See cast, budget $9.7M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anne Fontaine"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8PyY9n2pFEU3vabpJcqOYkC5SkX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=272435",
+    "name": "Gemma Bovery",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=272435"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gemma Bovery (2014)</h1>\n<p class=\"ssr-lead\">Martin, an ex-Parisian well-heeled hipster passionate about Gustave Flaubert who settled into a Norman village as a baker, sees an English couple moving into a small farm nearby. Not only are the names of the new arrivals Gemma and Charles Bovery, but their behavior also seems to be inspired by Flaubert&#x27;s heroes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2014</li><li>Runtime: 99 minutes</li><li>Director: Anne Fontaine</li><li>Genres: Romance, Drama, Comedy</li><li>Budget: $9.7M</li><li>TMDB rating: 6.2/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gemma Arterton as Gemma Bovery</li><li>Jason Flemyng as Charlie</li><li>Fabrice Luchini as Martin</li><li>Elsa Zylberstein as Wizzy</li><li>Isabelle Candelier as Valérie Joubert</li><li>Niels Schneider as Hervé de Bressigny</li><li>Mel Raido as Patrick</li><li>Pip Torrens as Rankin</li><li>Kacey Mottet Klein as Julien Joubert</li><li>Édith Scob as Madame de Bressigny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, OVID, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Gemma Bovery (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:34335": {
+   "d": "Nine Dead (2010): Crime/Horror film. Story: Communication is the key to the survival for nine… See cast, budget $2M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1Oak5sa1L51ytCxM2KHmrwKE7qF.jpg",
+   "industry": "world",
+   "k": "Nine Dead, Nine Dead movie, Nine Dead cast, Nine Dead story, Nine Dead box office collection, Nine Dead budget, Nine Dead review, Nine Dead rating, Nine Dead release date, Nine Dead Crime, Nine Dead Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melissa Joan Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "John Terry"
+     },
+     {
+      "@type": "Person",
+      "name": "Chip Bent"
+     },
+     {
+      "@type": "Person",
+      "name": "Lawrence Turner"
+     },
+     {
+      "@type": "Person",
+      "name": "Edrick Browne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Nine Dead (2010): Crime/Horror film. Story: Communication is the key to the survival for nine… See cast, budget $2M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Shadley"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Crime",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1Oak5sa1L51ytCxM2KHmrwKE7qF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34335",
+    "name": "Nine Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-03-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nine Dead (2010)</h1>\n<p class=\"ssr-lead\">Communication is the key to the survival for nine strangers who have been kidnapped by a masked gunman and told that one of them will die every ten minutes until they discover how they are all connected. Who of the nine lives and who dies?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 2010</li><li>Runtime: 98 minutes</li><li>Director: Chris Shadley</li><li>Genres: Crime, Horror, Mystery</li><li>Budget: $2M</li><li>TMDB rating: 5.3/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melissa Joan Hart as Kelley</li><li>John Terry as Shooter</li><li>Chip Bent as Sully</li><li>Lawrence Turner as Coogan</li><li>Edrick Browne as Leon</li><li>John Cates as Christian</li><li>Marc Macaulay as Father Francis</li><li>Lucille Soong as Chan</li><li>Ritchie Montgomery as Vincent Perez</li><li>William Lee Scott as Jackson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Nine Dead (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:4235": {
    "d": "The Sicilian Clan (1969): Crime/Drama film. Story: An ambitious mobster plans an elaborate diamond heist… See cast, budget $19M, and TMDB rating 7.6/10.",
@@ -969,6 +1416,201 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ordet (1955)</h1>\n<p class=\"ssr-lead\">The three sons of devout Danish farmer Morten have widely disparate religious beliefs. Youngest son Anders shares his father&#x27;s religion, but eldest son Mikkel has lost his faith, while middle child Johannes has become delusional and proclaims that he is Jesus Christ himself. When Mikkel&#x27;s wife, Inger goes into a difficult childbirth, everyone&#x27;s beliefs are put to the test.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 1955</li><li>Runtime: 125 minutes</li><li>Director: Carl Theodor Dreyer</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Henrik Malberg as Morten Borgen (uncredited)</li><li>Birgitte Federspiel as Inger Borgen (uncredited)</li><li>Emil Hass Christensen as Mikkel Borgen (uncredited)</li><li>Preben Lerdorff Rye as Johannes Borgen (uncredited)</li><li>Cay Kristiansen as Anders Borgen (uncredited)</li><li>Ejner Federspiel as Peter Petersen (uncredited)</li><li>Gerda Nielsen as Anne Petersen (uncredited)</li><li>Sylvia Eckhausen as Kirstin Petersen (uncredited)</li><li>Ann Elisabeth Groth as Maren Borgen (uncredited)</li><li>Susanne Rud as Lilleinger Borgen (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel, TCM, Darkroom</li></ul>\n</article>",
    "t": "Ordet (1955) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1955"
+  },
+  "movie:50135": {
+   "d": "Animals United (2010): Animation/Family film. Story: A group of animals waiting for the annual flood they… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9bKg2Tft4P3AovKHzb7RTflcX3X.jpg",
+   "industry": "world",
+   "k": "Animals United, Animals United movie, Animals United cast, Animals United story, Animals United box office collection, Animals United budget, Animals United review, Animals United rating, Animals United release date, Animals United Animation, Animals United Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christoph Maria Herbst"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralf Schmitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Fritsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastian Pastewka"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Kalkofe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Animals United (2010): Animation/Family film. Story: A group of animals waiting for the annual flood they… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Reinhard Klooss"
+     },
+     {
+      "@type": "Person",
+      "name": "Holger Tappe"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9bKg2Tft4P3AovKHzb7RTflcX3X.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=50135",
+    "name": "Animals United",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-10-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=50135"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Animals United (2010)</h1>\n<p class=\"ssr-lead\">A group of animals waiting for the annual flood they rely on for food and water discover that the humans, who have been destroying their habitats have built a dam for a leisure resort. The animals endeavour to save the delta and send a message to the humans not to interfere with nature.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 October 2010</li><li>Runtime: 93 minutes</li><li>Director: Reinhard Klooss, Holger Tappe</li><li>Genres: Animation, Family, Comedy</li><li>TMDB rating: 5.6/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christoph Maria Herbst as Charles</li><li>Ralf Schmitz as Billy</li><li>Thomas Fritsch as Sokrates</li><li>Bastian Pastewka as Angie</li><li>Oliver Kalkofe as Smith</li><li>Nana Spier as Bonnie</li><li>Constantin von Jascheroff as Meerkat #1</li><li>Jessica Owen as Meerkat #2</li><li>Dirk Petrick as Junior</li><li>Tilo Schmitz as Biggie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Animals United (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:508935": {
+   "d": "The Eight Hundred (2020): War/History film. Story: In 1937, eight hundred Chinese soldiers fight under… See cast, budget $80M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x2WhpsSikzftIScNKkcSgwlGwHk.jpg",
+   "industry": "world",
+   "k": "The Eight Hundred, The Eight Hundred movie, The Eight Hundred cast, The Eight Hundred story, The Eight Hundred box office collection, The Eight Hundred budget, The Eight Hundred review, The Eight Hundred rating, The Eight Hundred release date, The Eight Hundred War, The Eight Hundred History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wang Qianyuan"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Yi"
+     },
+     {
+      "@type": "Person",
+      "name": "Huang Zhizhong"
+     },
+     {
+      "@type": "Person",
+      "name": "Jiang Wu"
+     },
+     {
+      "@type": "Person",
+      "name": "Ou Hao"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Eight Hundred (2020): War/History film. Story: In 1937, eight hundred Chinese soldiers fight under… See cast, budget $80M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guan Hu"
+     }
+    ],
+    "duration": "PT147M",
+    "genre": [
+     "War",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x2WhpsSikzftIScNKkcSgwlGwHk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=508935",
+    "name": "The Eight Hundred",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=508935"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Eight Hundred (2020)</h1>\n<p class=\"ssr-lead\">In 1937, eight hundred Chinese soldiers fight under siege from a warehouse in the middle of the Shanghai battlefield, completely surrounded by the Japanese army.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2020</li><li>Runtime: 147 minutes</li><li>Director: Guan Hu</li><li>Genres: War, History, Drama, Action</li><li>Budget: $80M</li><li>TMDB rating: 7.0/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wang Qianyuan as Yang Guai</li><li>Zhang Yi as Old Abacus</li><li>Huang Zhizhong as Lao Hulu</li><li>Jiang Wu as Lao Tie</li><li>Ou Hao as Duan Wu</li><li>Du Chun as Lieutenant Colonel Xie Jinyuan</li><li>Vision Wei as Zhu Shengzhong</li><li>Tang Yixin as Yang Huimin</li><li>Li Jiuxiao as Dao Zi</li><li>Jerry Lee as Qi Jiaming</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Eight Hundred (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:531735": {
+   "d": "Ibiza (2019): Comedy film. Story: A mature podiatrist, his girlfriend and her teenage… See cast, TMDB rating 5.2/10, and release date 3 July 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/iGzNogI1nSMiyl8kgqSkS0mwsci.jpg",
+   "industry": "world",
+   "k": "Ibiza, Ibiza movie, Ibiza cast, Ibiza story, Ibiza box office collection, Ibiza budget, Ibiza review, Ibiza rating, Ibiza release date, Ibiza Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Mathilde Seigner"
+     },
+     {
+      "@type": "Person",
+      "name": "Léopold Buchsbaum"
+     },
+     {
+      "@type": "Person",
+      "name": "JoeyStarr"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Marchal"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Ibiza (2019): Comedy film. Story: A mature podiatrist, his girlfriend and her teenage… See cast, TMDB rating 5.2/10, and release date 3 July 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arnaud Lemort"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iGzNogI1nSMiyl8kgqSkS0mwsci.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=531735",
+    "name": "Ibiza",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=531735"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ibiza (2019)</h1>\n<p class=\"ssr-lead\">A mature podiatrist, his girlfriend and her teenage children travel Ibiza to live a crazy holidays.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2019</li><li>Runtime: 86 minutes</li><li>Director: Arnaud Lemort</li><li>Genres: Comedy</li><li>TMDB rating: 5.2/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Philippe</li><li>Mathilde Seigner as Carole</li><li>Léopold Buchsbaum as Julien</li><li>JoeyStarr as Frankie</li><li>Olivier Marchal as Pascalou</li><li>Frédérique Bel as Fleur</li><li>Louis-Do de Lencquesaing as Michel</li><li>Alexis Corso as Jordan</li><li>Xavier Robic as Roméo</li><li>Philippe Laudenbach as Philip&#x27;s father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hungama Play</li></ul>\n</article>",
+   "t": "Ibiza (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:5335": {
    "d": "Theorem (1968): Mystery/Drama film. Story: A wealthy Italian household is turned upside down… See cast, TMDB rating 7.0/10, and release date 7 September 1968.",
@@ -1350,6 +1992,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Coup de chance (2023)</h1>\n<p class=\"ssr-lead\">Fanny and Jean have everything of an ideal couple: fulfilled professionally, they live in a magnificent apartment in the beautiful districts of Paris, and seem to be in love as on the first day. But when Fanny crosses, by chance, former classmate Alain, she&#x27;s immediately capsized. They see each other again very quickly and grow closer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2023</li><li>Runtime: 96 minutes</li><li>Director: Woody Allen</li><li>Genres: Romance, Drama, Comedy</li><li>Budget: $12M</li><li>TMDB rating: 6.2/10 (460 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lou de Laâge as Fanny Fournier</li><li>Valérie Lemercier as Camille Moreau</li><li>Melvil Poupaud as Jean Fournier</li><li>Niels Schneider as Alain Aubert</li><li>Elsa Zylberstein as Caroline Blanc</li><li>Grégory Gadebois as Henri Delauny</li><li>Guillaume de Tonquédec as Marcel Blanc</li><li>Jeanne Bournaud as Linda</li><li>Anne Loiret as Delphine</li><li>Sâm Mirhosseini as Dragos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Coup de chance (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:939335": {
+   "d": "Muzzle (2023): Action/Thriller film. Story: LAPD K-9 officer Jake Rosser has just witnessed the… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg",
+   "industry": "world",
+   "k": "Muzzle, Muzzle movie, Muzzle cast, Muzzle story, Muzzle box office collection, Muzzle budget, Muzzle review, Muzzle rating, Muzzle release date, Muzzle trailer, Muzzle Action, Muzzle Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Eckhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Tinoco"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Penelope Mitchell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Muzzle (2023): Action/Thriller film. Story: LAPD K-9 officer Jake Rosser has just witnessed the… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Stalberg Jr."
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=939335",
+    "name": "Muzzle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=939335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Muzzle (2023)</h1>\n<p class=\"ssr-lead\">LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a choke-hold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 2023</li><li>Runtime: 100 minutes</li><li>Director: John Stalberg Jr.</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.5/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Eckhart as Jake Rosser</li><li>Stephen Lang as Leland</li><li>Diego Tinoco as Hernandez</li><li>Leslie Black as Councilwoman Pricilla Cross</li><li>Penelope Mitchell as Mia</li><li>Nick Searcy as Captain Freeman</li><li>Grainger Hines as Aldo Damon</li><li>Luis Chávez as Aojo</li><li>Delissa Reynolds as Det. Ramos</li><li>George Avgoustis as Connors</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Muzzle (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
   },
   "tv:125935": {

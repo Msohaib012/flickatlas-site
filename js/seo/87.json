@@ -1,7 +1,139 @@
 {
  "bucket": "87",
- "count": 31,
+ "count": 37,
  "titles": {
+  "movie:1030987": {
+   "d": "Sympathy for the Devil (2023): Action/Horror film. Story: After being forced to drive a mysterious passenger at… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
+   "industry": "world",
+   "k": "Sympathy for the Devil, Sympathy for the Devil movie, Sympathy for the Devil cast, Sympathy for the Devil story, Sympathy for the Devil box office collection, Sympathy for the Devil budget, Sympathy for the Devil review, Sympathy for the Devil rating, Sympathy for the Devil release date, Sympathy for the Devil trailer, Sympathy for the Devil Action, Sympathy for the Devil Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Kinnaman"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Zollicoffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Lee Price"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver McCallum"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 358,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Sympathy for the Devil (2023): Action/Horror film. Story: After being forced to drive a mysterious passenger at… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yuval Adler"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1030987",
+    "name": "Sympathy for the Devil",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1030987"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sympathy for the Devil (2023)</h1>\n<p class=\"ssr-lead\">After being forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where it becomes clear that not everything is as it seems.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 2023</li><li>Runtime: 90 minutes</li><li>Director: Yuval Adler</li><li>Genres: Action, Horror, Thriller, Crime</li><li>TMDB rating: 5.9/10 (358 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Kinnaman as The Driver</li><li>Nicolas Cage as The Passenger</li><li>Alexis Zollicoffer as Waitress</li><li>Cameron Lee Price as Cop</li><li>Oliver McCallum as Boy</li><li>Rich Hopkins as Trucker</li><li>Kaiwi Lyman as Colleague</li><li>Burns Burns as Owner</li><li>Nancy Good as Grandmother</li><li>Danny Tesla as Paramedic</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Sympathy for the Devil (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:1076487": {
+   "d": "Warhorse One (2023): Action/War film. Story: A gunned down Navy SEAL Master Chief must guide a… See cast, TMDB rating 7.2/10, and release date 30 June 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
+   "industry": "world",
+   "k": "Warhorse One, Warhorse One movie, Warhorse One cast, Warhorse One story, Warhorse One box office collection, Warhorse One budget, Warhorse One review, Warhorse One rating, Warhorse One release date, Warhorse One trailer, Warhorse One Action, Warhorse One War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "Athena Durner"
+     },
+     {
+      "@type": "Person",
+      "name": "Raj Kala"
+     },
+     {
+      "@type": "Person",
+      "name": "James Sherrill"
+     },
+     {
+      "@type": "Person",
+      "name": "Siya Rostami"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Warhorse One (2023): Action/War film. Story: A gunned down Navy SEAL Master Chief must guide a… See cast, TMDB rating 7.2/10, and release date 30 June 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johnny Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "William Kaufman"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Action",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1076487",
+    "name": "Warhorse One",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1076487"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Warhorse One (2023)</h1>\n<p class=\"ssr-lead\">A gunned down Navy SEAL Master Chief must guide a child to safety through a gauntlet of hostile Taliban insurgents and survive the brutal Afghanistan wilderness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2023</li><li>Runtime: 125 minutes</li><li>Director: Johnny Strong, William Kaufman</li><li>Genres: Action, War, Drama</li><li>TMDB rating: 7.2/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Strong as Master Chief Richard Mirko</li><li>Athena Durner as Zoe Walters</li><li>Raj Kala as Radam</li><li>James Sherrill as Petty Officer James &#x27;G&#x27; Wiliker</li><li>Siya Rostami as Tarad</li><li>Danny Augustus as Jarrah</li><li>Michael Sauers as Chief Petty Officer Mike Miller</li><li>Xander Gòmez as Lewa &#x27;The Hunter&#x27;</li><li>David Ibrahim as Abu Bakar</li><li>Steve Mokate as Commander Johns</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Warhorse One (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:1084187": {
    "d": "Pretty Lethal (2026): Action/Thriller film. Story: A troupe of ballerinas find themselves fighting for… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
@@ -387,6 +519,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>undertone (2026)</h1>\n<p class=\"ssr-lead\">The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 2026</li><li>Runtime: 94 minutes</li><li>Director: Ian Tuason</li><li>Genres: Horror, Mystery</li><li>Budget: $500.0k</li><li>TMDB rating: 6.0/10 (753 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nina Kiri as Evy</li><li>Adam DiMarco as Justin (voice)</li><li>Michèle Duquet as Mama</li><li>Keana Bastidas as Jessa (voice)</li><li>Jeff Yung as Mike (voice)</li><li>Ryan Turner as Darren (voice)</li><li>Ari Millen as Dr. Ram (voice)</li><li>Marisol D’Andrea as Nurse (voice)</li><li>Austin Tuason as Caller 1 (voice)</li><li>Seled Calderon as Caller 2 (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "undertone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:15587": {
+   "d": "Safari (2009): Adventure/Comedy film. Story: Richard Dacier owns a tour agency specialized on… See cast, TMDB rating 4.6/10, and release date 1 April 2009.",
+   "img": "https://image.tmdb.org/t/p/w780/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
+   "industry": "world",
+   "k": "Safari, Safari movie, Safari cast, Safari story, Safari box office collection, Safari budget, Safari review, Safari rating, Safari release date, Safari Adventure, Safari Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kad Merad"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Abelanski"
+     },
+     {
+      "@type": "Person",
+      "name": "Frédérique Bel"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Lecluyse"
+     },
+     {
+      "@type": "Person",
+      "name": "David Saracino"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Safari (2009): Adventure/Comedy film. Story: Richard Dacier owns a tour agency specialized on… See cast, TMDB rating 4.6/10, and release date 1 April 2009.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Baroux"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15587",
+    "name": "Safari",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15587"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Safari (2009)</h1>\n<p class=\"ssr-lead\">Richard Dacier owns a tour agency specialized on organizing safaris for European tourists eager to confront the African wild life. Actually, he took the job after his father and never went into the savanna by himself. As he owes big money to some mobster, he is compelled to convey a fake tourist, with a suspicious suitcase, toward Mozambic. To avoid suspicion from the authorities, he is supposed to tour a group of tourists as usual. The only problem - he is completely unexperienced as a guide!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2009</li><li>Runtime: 102 minutes</li><li>Director: Olivier Baroux</li><li>Genres: Adventure, Comedy</li><li>TMDB rating: 4.6/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kad Merad as Richard Dacier</li><li>Lionel Abelanski as Benoît</li><li>Frédérique Bel as Fabienne</li><li>Guy Lecluyse as Bertrand</li><li>David Saracino as Rémi</li><li>Nicolas Marié as Monsieur Charles</li><li>Yannick Noah as Sagha</li><li>Omar Sy as Youssouf Hammal</li><li>Valérie Benguigui as Magalie</li><li>Didier Moestus as Soldat douane</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Safari (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:16187": {
+   "d": "Buzz Lightyear of Star Command: The Adventure Begins (2000): Action/Adventure film. Story: Buzz Lightyear must battle Emperor Zurg with the help… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/2r6tLi4p21dqVmOP5Lwge4hcDAU.jpg",
+   "industry": "world",
+   "k": "Buzz Lightyear of Star Command: The Adventure Begins, Buzz Lightyear of Star Command: The Adventure Begins movie, Buzz Lightyear of Star Command: The Adventure Begins cast, Buzz Lightyear of Star Command: The Adventure Begins story, Buzz Lightyear of Star Command: The Adventure Begins box office collection, Buzz Lightyear of Star Command: The Adventure Begins budget, Buzz Lightyear of Star Command: The Adventure Begins review, Buzz Lightyear of Star Command: The Adventure Begins rating, Buzz Lightyear of Star Command: The Adventure Begins release date, Buzz Lightyear of Star Command: The Adventure Begins Action, Buzz Lightyear of Star Command: The Adventure Begins Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tim Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Sullivan"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Furst"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Carolla"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Buzz Lightyear of Star Command: The Adventure Begins (2000): Action/Adventure film. Story: Buzz Lightyear must battle Emperor Zurg with the help… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tad Stones"
+     }
+    ],
+    "duration": "PT70M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2r6tLi4p21dqVmOP5Lwge4hcDAU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16187",
+    "name": "Buzz Lightyear of Star Command: The Adventure Begins",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-08-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16187"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buzz Lightyear of Star Command: The Adventure Begins (2000)</h1>\n<p class=\"ssr-lead\">Buzz Lightyear must battle Emperor Zurg with the help of three hopefuls who insist on being his partners.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 2000</li><li>Runtime: 70 minutes</li><li>Director: Tad Stones</li><li>Genres: Action, Adventure, Animation, Comedy, Family, Science Fiction, TV Movie</li><li>TMDB rating: 6.4/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tim Allen as Buzz Lightyear (voice)</li><li>Nicole Sullivan as Mira Nova (voice)</li><li>Stephen Furst as Booster Muchapper (voice)</li><li>Larry Miller as XR (voice)</li><li>Adam Carolla as Commander Nebula (voice)</li><li>Patrick Warburton as Little Green Men (voice)</li><li>Wayne Knight as Evil Emperor Zurg (voice)</li><li>Diedrich Bader as Warp Darkmatter / Agent Z (voice)</li><li>Kevin Michael Richardson as Space Ranger (voice)</li><li>Charles Kimbrough as Brain Pod #29 / Rhizomian Man (voice)</li></ul>\n</article>",
+   "t": "Buzz Lightyear of Star Command: The Adventure Begins (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:1659087": {
    "d": "180 (2026): Thriller/Crime film. Story: When an unexpected road rage incident puts his son in… See cast, TMDB rating 5.9/10, and release date 16 April 2026.",
@@ -963,6 +1223,69 @@
    "t": "Monkey Shines (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:31587": {
+   "d": "Scarecrow (1973): Drama film. Story: Two drifters bum around, visit earthy women and… See cast, budget $875.0k, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jFUhMdZuEISfCGCm9lrI441Cw5j.jpg",
+   "industry": "world",
+   "k": "Scarecrow, Scarecrow movie, Scarecrow cast, Scarecrow story, Scarecrow box office collection, Scarecrow budget, Scarecrow review, Scarecrow rating, Scarecrow release date, Scarecrow Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gene Hackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorothy Tristan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ann Wedgeworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Lynch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 370,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Scarecrow (1973): Drama film. Story: Two drifters bum around, visit earthy women and… See cast, budget $875.0k, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jerry Schatzberg"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jFUhMdZuEISfCGCm9lrI441Cw5j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=31587",
+    "name": "Scarecrow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-04-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=31587"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scarecrow (1973)</h1>\n<p class=\"ssr-lead\">Two drifters bum around, visit earthy women and discuss opening a car wash in Pittsburgh.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 April 1973</li><li>Runtime: 112 minutes</li><li>Director: Jerry Schatzberg</li><li>Genres: Drama</li><li>Budget: $875.0k</li><li>TMDB rating: 7.0/10 (370 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gene Hackman as Max Millan</li><li>Al Pacino as Francis Lionel &#x27;Lion&#x27; Delbuchi</li><li>Dorothy Tristan as Coley</li><li>Ann Wedgeworth as Frenchy</li><li>Richard Lynch as Jack Riley</li><li>Eileen Brennan as Darlene</li><li>Al Cingolani as Skipper</li><li>Rutanya Alda as Woman in camper</li><li>Penelope Allen as Annie</li><li>Richard Hackman as Mickey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Scarecrow (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
+  },
   "movie:339987": {
    "d": "The Exception (2017): War/Drama film. Story: Nothing is as it seems in this riveting World War 2… See cast, TMDB rating 6.9/10, and release date 2 June 2017.",
    "img": "https://image.tmdb.org/t/p/w780/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
@@ -1216,6 +1539,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Servant (1963)</h1>\n<p class=\"ssr-lead\">An indolent aristocrat gets more than he bargained for when he hires a competent but silently devious manservant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 1963</li><li>Runtime: 116 minutes</li><li>Director: Joseph Losey</li><li>Genres: Drama</li><li>TMDB rating: 7.6/10 (390 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dirk Bogarde as Hugo Barrett</li><li>James Fox as Tony</li><li>Sarah Miles as Vera</li><li>Wendy Craig as Susan Stewart</li><li>Catherine Lacey as Lady Agatha Mounset</li><li>Richard Vernon as Lord Willie Mounset</li><li>Harold Pinter as People in Restaurant: Society Man</li><li>Ann Firbank as People in Restaurant: Society Woman</li><li>Doris Nolan as People in Restaurant: Older Woman</li><li>Patrick Magee as People in Restaurant: Bishop</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Servant (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1963"
+  },
+  "movie:59387": {
+   "d": "The Powerpuff Girls Movie (2002): Animation/Action film. Story: After destroying the city of Townsville in a game of… See cast and budget $11M.",
+   "img": "https://image.tmdb.org/t/p/w780/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+   "industry": "world",
+   "k": "The Powerpuff Girls Movie, The Powerpuff Girls Movie movie, The Powerpuff Girls Movie cast, The Powerpuff Girls Movie story, The Powerpuff Girls Movie box office collection, The Powerpuff Girls Movie budget, The Powerpuff Girls Movie review, The Powerpuff Girls Movie rating, The Powerpuff Girls Movie release date, The Powerpuff Girls Movie Animation, The Powerpuff Girls Movie Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cathy Cavadini"
+     },
+     {
+      "@type": "Person",
+      "name": "Tara Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "E. G. Daily"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Kane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Powerpuff Girls Movie (2002): Animation/Action film. Story: After destroying the city of Townsville in a game of… See cast and budget $11M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Craig McCracken"
+     }
+    ],
+    "duration": "PT74M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=59387",
+    "name": "The Powerpuff Girls Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=59387"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Powerpuff Girls Movie (2002)</h1>\n<p class=\"ssr-lead\">After destroying the city of Townsville in a game of tag, a trio of superpowered little girls must redeem themselves by stopping a vengeful monkey&#x27;s plot for world domination.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2002</li><li>Runtime: 74 minutes</li><li>Director: Craig McCracken</li><li>Genres: Animation, Action, Family</li><li>Budget: $11M</li><li>TMDB rating: 6.8/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cathy Cavadini as Blossom (voice)</li><li>Tara Strong as Bubbles (voice)</li><li>E. G. Daily as Buttercup (voice)</li><li>Roger L. Jackson as Mojo Jojo (voice)</li><li>Tom Kane as Professor Utonium (voice)</li><li>Tom Kenny as Mayor / Narrator / Ka-Ching Ka-Ching (voice)</li><li>Jennifer Hale as Ms. Keane (voice)</li><li>Jennifer Martin as Miss Bellum (voice)</li><li>Jeff Bennett as Ace / Big Billy / Grubber (voice)</li><li>Grey DeLisle as Linda / Woman at Zoo (voice)</li></ul>\n</article>",
+   "t": "The Powerpuff Girls Movie (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:747687": {
    "d": "The Catholic School (2021): Crime/Thriller film. Story: Three well-off young men—former students at Rome’s… See cast and TMDB rating 6.2/10.",

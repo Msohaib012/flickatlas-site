@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 36,
+ "count": 45,
  "titles": {
   "movie:10337": {
    "d": "Bugsy (1991): Crime/Drama film. Story: New York gangster Ben 'Bugsy' Siegel takes a brief… See cast, budget $30M, and TMDB rating 6.3/10.",
@@ -130,6 +130,69 @@
    "t": "Barfly (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
   },
+  "movie:11037": {
+   "d": "Iron Eagle (1986): Action film. Story: When Doug's father, an Air Force Pilot, is shot down… See cast, budget $18M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mz4ozla1GGt2jgYNdqiS6lcNeTu.jpg",
+   "industry": "world",
+   "k": "Iron Eagle, Iron Eagle movie, Iron Eagle cast, Iron Eagle story, Iron Eagle box office collection, Iron Eagle budget, Iron Eagle review, Iron Eagle rating, Iron Eagle release date, Iron Eagle Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis Gossett Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Gedrick"
+     },
+     {
+      "@type": "Person",
+      "name": "David Suchet"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Thomerson"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry B. Scott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Iron Eagle (1986): Action film. Story: When Doug's father, an Air Force Pilot, is shot down… See cast, budget $18M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sidney J. Furie"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mz4ozla1GGt2jgYNdqiS6lcNeTu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11037",
+    "name": "Iron Eagle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-01-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11037"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Eagle (1986)</h1>\n<p class=\"ssr-lead\">When Doug&#x27;s father, an Air Force Pilot, is shot down by MiGs belonging to a radical Middle Eastern state, no one seems able to get him out. Doug finds Chappy, an Air Force Colonel who is intrigued by the idea of sending in two fighters piloted by himself and Doug to rescue Doug&#x27;s father after bombing the MiG base.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 1986</li><li>Runtime: 117 minutes</li><li>Director: Sidney J. Furie</li><li>Genres: Action</li><li>Budget: $18M</li><li>TMDB rating: 5.6/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Gossett Jr. as Charles &#x27;Chappy&#x27; Sinclair</li><li>Jason Gedrick as Doug Masters</li><li>David Suchet as Minister of Defense Col. Akir Nakesh</li><li>Tim Thomerson as Col. Ted Masters</li><li>Larry B. Scott as Reggie</li><li>Caroline Lagerfelt as Elizabeth Masters</li><li>Jerry Levine as Tony</li><li>Robbie Rist as Milo Bazen</li><li>Michael Bowen as Knotcher</li><li>Robert Jayne as Matthew &#x27;Matt&#x27; Masters</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, YouTube TV</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Iron Eagle (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:11337": {
    "d": "Stardust Memories (1980): Comedy/Drama film. Story: While attending a retrospect of his work, a filmmaker… See cast, budget $10M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
@@ -193,6 +256,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Stardust Memories (1980)</h1>\n<p class=\"ssr-lead\">While attending a retrospect of his work, a filmmaker recalls his life and his loves: the inspirations for his films.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 1980</li><li>Runtime: 89 minutes</li><li>Director: Woody Allen</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $10M</li><li>TMDB rating: 6.9/10 (483 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Allen as Sandy Bates</li><li>Charlotte Rampling as Dorrie</li><li>Jessica Harper as Daisy</li><li>Marie-Christine Barrault as Isobel</li><li>Tony Roberts as Tony</li><li>Daniel Stern as Actor</li><li>Amy Wright as Shelley</li><li>Helen Hanft as Vivian Orkin</li><li>John Rothman as Jack Abel</li><li>Eli Mintz as Old Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Stardust Memories (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:11537": {
+   "d": "Snake in the Eagle's Shadow (1978): Action/Comedy film. Story: Everyone abuses and humiliates a downtrodden orphan… See cast and budget $92.",
+   "img": "https://image.tmdb.org/t/p/w780/jPybVtmqT68Pw0LCLXeypViQPFh.jpg",
+   "industry": "world",
+   "k": "Snake in the Eagle's Shadow, Snake in the Eagle's Shadow movie, Snake in the Eagle's Shadow cast, Snake in the Eagle's Shadow story, Snake in the Eagle's Shadow box office collection, Snake in the Eagle's Shadow budget, Snake in the Eagle's Shadow review, Snake in the Eagle's Shadow rating, Snake in the Eagle's Shadow release date, Snake in the Eagle's Shadow trailer, Snake in the Eagle's Shadow Action, Snake in the Eagle's Shadow Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Yuen Siu-Tien"
+     },
+     {
+      "@type": "Person",
+      "name": "Hwang Jang-Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Shek Tin"
+     },
+     {
+      "@type": "Person",
+      "name": "Roy Horan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 383,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Snake in the Eagle's Shadow (1978): Action/Comedy film. Story: Everyone abuses and humiliates a downtrodden orphan… See cast and budget $92.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yuen Woo-ping"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jPybVtmqT68Pw0LCLXeypViQPFh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11537",
+    "name": "Snake in the Eagle's Shadow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-03-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11537"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Snake in the Eagle&#x27;s Shadow (1978)</h1>\n<p class=\"ssr-lead\">Everyone abuses and humiliates a downtrodden orphan until he befriends an old man, who turns out to be the last master of the snake fist fighting style. Jackie becomes the old man&#x27;s student and finds himself in battle with the master of the eagle&#x27;s claw style, who has vowed to destroy the snake fist clan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 March 1978</li><li>Runtime: 98 minutes</li><li>Director: Yuen Woo-ping</li><li>Genres: Action, Comedy</li><li>Budget: $92</li><li>TMDB rating: 7.3/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Chien Fu</li><li>Simon Yuen Siu-Tien as The Beggar / Pai Chang Tien</li><li>Hwang Jang-Lee as Master Shang Kuan Yin</li><li>Dean Shek Tin as Teacher Lee</li><li>Roy Horan as Priest</li><li>Fung Hak-on as Master Chao Chi-Chih</li><li>Charlie Chan Yiu-Lam as Master Hung</li><li>Tino Wong as Three Provinces Champ</li><li>Peter Chan Lung as Teacher Lian</li><li>Hsu Hsia as Su Chen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li></ul>\n</article>",
+   "t": "Snake in the Eagle's Shadow (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
   },
   "movie:1242937": {
    "d": "The Dreadful (2026): Horror film. Story: In medieval England, Anne and her domineering… See cast, TMDB rating 5.9/10, and release date 5 March 2026.",
@@ -384,6 +511,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Great Awakening (2026)</h1>\n<p class=\"ssr-lead\">One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 April 2026</li><li>Runtime: 129 minutes</li><li>Director: Joshua Enck</li><li>Genres: History, Drama</li><li>TMDB rating: 7.4/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Paul Sneed as Benjamin Franklin</li><li>Jonathan Blair as George Whitefield</li><li>JT Schaeffer as Benny Franklin Bache</li><li>Josh Bates as Alexander Hamilton</li><li>Joe Dignoti as Bread vendor</li><li>Stephen Foster Harris as William Blount</li><li>Zac Johnson as Caleb Strong</li><li>Matt Meyer as Robert Yates</li><li>Stephen Atherholt as Gunning Bedford Jr.</li><li>Ryan Jameson Hippe as William Seward</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "A Great Awakening (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13637": {
+   "d": "Sukiyaki Western Django (2007): Adventure/Action film. Story: A nameless gunfighter arrives in a town ripped apart… See cast and budget $3.8M.",
+   "img": "https://image.tmdb.org/t/p/w780/qjiiIuv1SkMPFbskL0FbZyd3dUj.jpg",
+   "industry": "world",
+   "k": "Sukiyaki Western Django, Sukiyaki Western Django movie, Sukiyaki Western Django cast, Sukiyaki Western Django story, Sukiyaki Western Django box office collection, Sukiyaki Western Django budget, Sukiyaki Western Django review, Sukiyaki Western Django rating, Sukiyaki Western Django release date, Sukiyaki Western Django trailer, Sukiyaki Western Django Adventure, Sukiyaki Western Django Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hideaki Ito"
+     },
+     {
+      "@type": "Person",
+      "name": "Koichi Sato"
+     },
+     {
+      "@type": "Person",
+      "name": "Yusuke Iseya"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaori Momoi"
+     },
+     {
+      "@type": "Person",
+      "name": "Teruyuki Kagawa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 376,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Sukiyaki Western Django (2007): Adventure/Action film. Story: A nameless gunfighter arrives in a town ripped apart… See cast and budget $3.8M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Takashi Miike"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qjiiIuv1SkMPFbskL0FbZyd3dUj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13637",
+    "name": "Sukiyaki Western Django",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13637"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sukiyaki Western Django (2007)</h1>\n<p class=\"ssr-lead\">A nameless gunfighter arrives in a town ripped apart by rival gangs and, though courted by both to join, chooses his own path.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2007</li><li>Runtime: 121 minutes</li><li>Director: Takashi Miike</li><li>Genres: Adventure, Action, Comedy, Western, Thriller</li><li>Budget: $3.8M</li><li>TMDB rating: 6.2/10 (376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hideaki Ito as Gunman</li><li>Koichi Sato as Kiyomori</li><li>Yusuke Iseya as Yoshitsune</li><li>Kaori Momoi as Ruriko</li><li>Teruyuki Kagawa as Sheriff</li><li>Takaaki Ishibashi as Village Mayor</li><li>Masanobu Ando as Yoichi</li><li>Yoshino Kimura as Shizuka</li><li>Masato Sakai as Shigemori</li><li>Shun Oguri as Akira</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Sukiyaki Western Django (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:1378537": {
    "d": "Mirzapur: The Movie (2026): Action/Crime film. Story: Akhandanand Tripathi sits on the throne of Mirzapur. See cast, budget $8.77M, and TMDB rating 7.0/10.",
@@ -769,6 +960,70 @@
    "t": "Teen Titans: Trouble in Tokyo (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:17037": {
+   "d": "I'll Be Home for Christmas (1998): Comedy/Family film. Story: Estranged from his father, college student Jake is… See cast, budget $30M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2fP8yZHl3FxJUouMCTBqTnSUrno.jpg",
+   "industry": "world",
+   "k": "I'll Be Home for Christmas, I'll Be Home for Christmas movie, I'll Be Home for Christmas cast, I'll Be Home for Christmas story, I'll Be Home for Christmas box office collection, I'll Be Home for Christmas budget, I'll Be Home for Christmas review, I'll Be Home for Christmas rating, I'll Be Home for Christmas release date, I'll Be Home for Christmas Comedy, I'll Be Home for Christmas Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Taylor Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Biel"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam LaVorgna"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Cole"
+     },
+     {
+      "@type": "Person",
+      "name": "Eve Gordon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 367,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "I'll Be Home for Christmas (1998): Comedy/Family film. Story: Estranged from his father, college student Jake is… See cast, budget $30M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arlene Sanford"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2fP8yZHl3FxJUouMCTBqTnSUrno.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17037",
+    "name": "I'll Be Home for Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17037"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;ll Be Home for Christmas (1998)</h1>\n<p class=\"ssr-lead\">Estranged from his father, college student Jake is lured home to New York for Christmas with the promise of receiving a classic Porsche as a gift. When the bullying football team dumps him in the desert in a Santa suit, Jake is left without identification or money to help him make the journey. Meanwhile, his girlfriend, Allie, does not know where he is, and accepts a cross-country ride from Jake&#x27;s rival, Eddie.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 1998</li><li>Runtime: 86 minutes</li><li>Director: Arlene Sanford</li><li>Genres: Comedy, Family</li><li>Budget: $30M</li><li>TMDB rating: 6.0/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jonathan Taylor Thomas as Jake</li><li>Jessica Biel as Allie</li><li>Adam LaVorgna as Eddie</li><li>Gary Cole as Jake&#x27;s Dad</li><li>Eve Gordon as Carolyn</li><li>Lauren Maltby as Tracey</li><li>Andrew Lauer as Nolan</li><li>Sean O&#x27;Bryan as Max</li><li>Lesley Boone as Marjorie</li><li>Amzie Strickland as Tom Tom Girl Mary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "I'll Be Home for Christmas (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:23637": {
    "d": "Ciao, Professore! (1992): Comedy film. Story: A bureaucratic snafu sends Marco Tullio Sperelli, a… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
@@ -831,6 +1086,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ciao, Professore! (1992)</h1>\n<p class=\"ssr-lead\">A bureaucratic snafu sends Marco Tullio Sperelli, a portly, middle-aged northern Italian, to teach third grade in a poor town outside Naples</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 1992</li><li>Runtime: 93 minutes</li><li>Director: Lina Wertmüller</li><li>Genres: Comedy</li><li>TMDB rating: 7.2/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paolo Villaggio as Marco Sperelli</li><li>Isa Danieli as Preside</li><li>Paolo Bonacelli as Ludovico Mazzullo</li><li>Gigio Morra as Custode</li><li>Sergio Solli as Cartonaio</li><li>Ester Carloni as Zia Esterina</li><li>Mario Porfito as Sindaco Antonio Ruoppolo</li><li>Filomena Lieto as Cecchina</li><li>Alessandra Detora as Angeluccia</li><li>Raffaele Gioia as Autista</li></ul>\n</article>",
    "t": "Ciao, Professore! (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:25137": {
+   "d": "Beyond a Reasonable Doubt (2009): Thriller film. Story: Remake of a 1956 Fritz Lang film in which a… See cast, budget $25M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a2NwfaoYCga2NhCIJkCN1fyZGM1.jpg",
+   "industry": "world",
+   "k": "Beyond a Reasonable Doubt, Beyond a Reasonable Doubt movie, Beyond a Reasonable Doubt cast, Beyond a Reasonable Doubt story, Beyond a Reasonable Doubt box office collection, Beyond a Reasonable Doubt budget, Beyond a Reasonable Doubt review, Beyond a Reasonable Doubt rating, Beyond a Reasonable Doubt release date, Beyond a Reasonable Doubt Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jesse Metcalfe"
+     },
+     {
+      "@type": "Person",
+      "name": "Amber Tamblyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel David Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 361,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Beyond a Reasonable Doubt (2009): Thriller film. Story: Remake of a 1956 Fritz Lang film in which a… See cast, budget $25M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Hyams"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a2NwfaoYCga2NhCIJkCN1fyZGM1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25137",
+    "name": "Beyond a Reasonable Doubt",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25137"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beyond a Reasonable Doubt (2009)</h1>\n<p class=\"ssr-lead\">Remake of a 1956 Fritz Lang film in which a novelist&#x27;s investigation of a dirty district attorney leads to a setup within the courtroom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2009</li><li>Runtime: 105 minutes</li><li>Director: Peter Hyams</li><li>Genres: Thriller</li><li>Budget: $25M</li><li>TMDB rating: 5.7/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Metcalfe as C.J. Nicholas</li><li>Amber Tamblyn as Ella Crystal</li><li>Michael Douglas as Mark Hunter</li><li>Joel David Moore as Corey Finley</li><li>Orlando Jones as Ben Nickerson</li><li>Lawrence P. Beron as Lieutenant Merchant</li><li>Sewell Whitney as Martin Weldon</li><li>David Jensen as Gary Spota</li><li>Sharon K. London as Judge Sheppard</li><li>Krystal Kofie as Taieesha</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Beyond a Reasonable Doubt (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:284537": {
+   "d": "Welcome to Me (2015): Comedy/Drama film. Story: A year in the life of Alice Klieg, a woman with… See cast, TMDB rating 5.9/10, and release date 1 May 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/dtgSkyamABSVFbZhJNl4e5SX6VL.jpg",
+   "industry": "world",
+   "k": "Welcome to Me, Welcome to Me movie, Welcome to Me cast, Welcome to Me story, Welcome to Me box office collection, Welcome to Me budget, Welcome to Me review, Welcome to Me rating, Welcome to Me release date, Welcome to Me Comedy, Welcome to Me Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     },
+     {
+      "@type": "Person",
+      "name": "James Marsden"
+     },
+     {
+      "@type": "Person",
+      "name": "Linda Cardellini"
+     },
+     {
+      "@type": "Person",
+      "name": "Wes Bentley"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Jason Leigh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Welcome to Me (2015): Comedy/Drama film. Story: A year in the life of Alice Klieg, a woman with… See cast, TMDB rating 5.9/10, and release date 1 May 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shira Piven"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dtgSkyamABSVFbZhJNl4e5SX6VL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=284537",
+    "name": "Welcome to Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=284537"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Welcome to Me (2015)</h1>\n<p class=\"ssr-lead\">A year in the life of Alice Klieg, a woman with Borderline personality disorder who wins the Mega Millions lottery, quits her meds and buys her own talk show.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2015</li><li>Runtime: 87 minutes</li><li>Director: Shira Piven</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.9/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Wiig as Alice Klieg</li><li>James Marsden as Rich Ruskin</li><li>Linda Cardellini as Gina Selway</li><li>Wes Bentley as Gabe Ruskin</li><li>Jennifer Jason Leigh as Deb Moseley</li><li>Alan Tudyk as Ted Thurber</li><li>Tim Robbins as Dr. Daryl Moffet</li><li>Joan Cusack as Dawn Hurley</li><li>Thomas Mann as Rainer Ybarra</li><li>Rose Abdoo as Connie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Welcome to Me (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:348537": {
    "d": "Spanish Affair 2 (2015): Comedy/Romance film. Story: Amaia after breaking up with Rafa, falls in love with… See cast, budget $4.5M, and TMDB rating 5.5/10.",
@@ -1087,6 +1469,70 @@
    "t": "The End? (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:46837": {
+   "d": "Kaboom (2010): Comedy/Science Fiction film. Story: Smith, a typical young college student who likes… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kPsmN62vFuJD3FjFIRZXO84tKQI.jpg",
+   "industry": "world",
+   "k": "Kaboom, Kaboom movie, Kaboom cast, Kaboom story, Kaboom box office collection, Kaboom budget, Kaboom review, Kaboom rating, Kaboom release date, Kaboom trailer, Kaboom Comedy, Kaboom Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thomas Dekker"
+     },
+     {
+      "@type": "Person",
+      "name": "Haley Bennett"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Zylka"
+     },
+     {
+      "@type": "Person",
+      "name": "Roxane Mesquida"
+     },
+     {
+      "@type": "Person",
+      "name": "Juno Temple"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 374,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Kaboom (2010): Comedy/Science Fiction film. Story: Smith, a typical young college student who likes… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gregg Araki"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kPsmN62vFuJD3FjFIRZXO84tKQI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=46837",
+    "name": "Kaboom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-10-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=46837"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kaboom (2010)</h1>\n<p class=\"ssr-lead\">Smith, a typical young college student who likes partying and engaging in acts of random sex and debauchery, has been having some interesting dreams revolving around two gorgeous women -- and is shocked when he meets the dream girls in real life. Lorelei looks just like his fantasy brunette, while a mysterious red-haired girl being chased by assassins draws him into an international conspiracy. Or is it all just a drug-induced hallucination?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 2010</li><li>Runtime: 86 minutes</li><li>Director: Gregg Araki</li><li>Genres: Comedy, Science Fiction, Mystery</li><li>TMDB rating: 5.6/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thomas Dekker as Smith</li><li>Haley Bennett as Stella</li><li>Chris Zylka as Thor</li><li>Roxane Mesquida as Lorelei</li><li>Juno Temple as London</li><li>James Duval as The Messiah</li><li>Andy Fischer-Price as Rex</li><li>Brandy Futch as Drug Fairy Nymph (uncredited)</li><li>Nicole LaLiberte as Red-Haired Girl</li><li>Kelly Lynch as Nicole</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Roku Premium Channel, AMC+</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Kaboom (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:50037": {
    "d": "Beyond the Black Rainbow (2010): Science Fiction/Horror film. Story: In 1983, a young mute woman with psychic abilities is… See cast and budget $1.1M.",
    "img": "https://image.tmdb.org/t/p/w780/ax9TM12FIYiEPOto4vDw5gLdGCU.jpg",
@@ -1342,6 +1788,70 @@
    "t": "Simone: Woman of the Century (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:751237": {
+   "d": "Umma (2022): Horror/Mystery film. Story: Amanda and her daughter live a quiet life on an… See cast, budget $3M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+   "industry": "world",
+   "k": "Umma, Umma movie, Umma cast, Umma story, Umma box office collection, Umma budget, Umma review, Umma rating, Umma release date, Umma trailer, Umma Horror, Umma Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandra Oh"
+     },
+     {
+      "@type": "Person",
+      "name": "Fivel Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Dermot Mulroney"
+     },
+     {
+      "@type": "Person",
+      "name": "Odeya Rush"
+     },
+     {
+      "@type": "Person",
+      "name": "MeeWha Alana Lee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Umma (2022): Horror/Mystery film. Story: Amanda and her daughter live a quiet life on an… See cast, budget $3M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Iris K. Shim"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=751237",
+    "name": "Umma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=751237"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Umma (2022)</h1>\n<p class=\"ssr-lead\">Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2022</li><li>Runtime: 83 minutes</li><li>Director: Iris K. Shim</li><li>Genres: Horror, Mystery</li><li>Budget: $3M</li><li>TMDB rating: 5.3/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Oh as Amanda</li><li>Fivel Stewart as Chris</li><li>Dermot Mulroney as Danny</li><li>Odeya Rush as River</li><li>MeeWha Alana Lee as Umma</li><li>Tom Yi as Mr. Kang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Umma (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:801937": {
    "d": "Silent Night, Deadly Night (2025): Horror/Thriller film. Story: After witnessing his parents' brutal murder on… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
@@ -1405,6 +1915,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Silent Night, Deadly Night (2025)</h1>\n<p class=\"ssr-lead\">After witnessing his parents&#x27; brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2025</li><li>Runtime: 96 minutes</li><li>Director: Mike P. Nelson</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.5/10 (217 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rohan Campbell as Billy Chapman</li><li>Ruby Modine as Pamela Sims</li><li>Mark Acheson as Charlie (Shotgun Santa)</li><li>David Lawrence Brown as Dean Sims</li><li>David Tomlinson as Max Benedict</li><li>Logan Sawyer as Young Billy</li><li>Erik Athavale as Geoffrey Chapman</li><li>Rick Skene as Elroy (The Snatcher)</li><li>James Durham as Harold</li><li>Sharon Bajer as Delphine Anderson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Silent Night, Deadly Night (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:945937": {
+   "d": "Fast Charlie (2024): Action/Crime film. Story: When his aging mob boss is whacked, Charlie Swift, a… See cast, budget $20M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zX0q1hPRon0SAIcRmTum06Khjll.jpg",
+   "industry": "world",
+   "k": "Fast Charlie, Fast Charlie movie, Fast Charlie cast, Fast Charlie story, Fast Charlie box office collection, Fast Charlie budget, Fast Charlie review, Fast Charlie rating, Fast Charlie release date, Fast Charlie trailer, Fast Charlie Action, Fast Charlie Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierce Brosnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     },
+     {
+      "@type": "Person",
+      "name": "James Caan"
+     },
+     {
+      "@type": "Person",
+      "name": "Gbenga Akinnagbe"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Matthew Cook"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Fast Charlie (2024): Action/Crime film. Story: When his aging mob boss is whacked, Charlie Swift, a… See cast, budget $20M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phillip Noyce"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zX0q1hPRon0SAIcRmTum06Khjll.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=945937",
+    "name": "Fast Charlie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-01-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=945937"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fast Charlie (2024)</h1>\n<p class=\"ssr-lead\">When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2024</li><li>Runtime: 90 minutes</li><li>Director: Phillip Noyce</li><li>Genres: Action, Crime, Drama</li><li>Budget: $20M</li><li>TMDB rating: 6.3/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierce Brosnan as Charlie Swift</li><li>Morena Baccarin as Marcie Kramer</li><li>James Caan as Stan Mullen</li><li>Gbenga Akinnagbe as Beggar</li><li>Christopher Matthew Cook as Lloyd &#x27;The Freak&#x27; Mercury</li><li>David Chattam as Milt</li><li>Toby Huss as Benny</li><li>Fredric Lehne as Sal</li><li>Sharon Gless as Mavis</li><li>Brennan Keel Cook as Blade</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Fast Charlie (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "tv:12637": {
    "d": "Rebelde (2004) is a Drama and Comedy TV series. Explore its story: A group of young adults will spend their adolescence…, cast, 3 seasons, and 440 episodes.",

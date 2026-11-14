@@ -1,7 +1,70 @@
 {
  "bucket": "11",
- "count": 44,
+ "count": 50,
  "titles": {
+  "movie:10411": {
+   "d": "The Distinguished Gentleman (1992): Comedy film. Story: A Florida con man uses the recent death of the long… See cast, budget $50M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4AR1E5kJ0QiQh0zPWd9KLYCxM4v.jpg",
+   "industry": "world",
+   "k": "The Distinguished Gentleman, The Distinguished Gentleman movie, The Distinguished Gentleman cast, The Distinguished Gentleman story, The Distinguished Gentleman box office collection, The Distinguished Gentleman budget, The Distinguished Gentleman review, The Distinguished Gentleman rating, The Distinguished Gentleman release date, The Distinguished Gentleman Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eddie Murphy"
+     },
+     {
+      "@type": "Person",
+      "name": "Lane Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Sheryl Lee Ralph"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Don Baker"
+     },
+     {
+      "@type": "Person",
+      "name": "Victoria Rowell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 343,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Distinguished Gentleman (1992): Comedy film. Story: A Florida con man uses the recent death of the long… See cast, budget $50M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Lynn"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4AR1E5kJ0QiQh0zPWd9KLYCxM4v.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10411",
+    "name": "The Distinguished Gentleman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10411"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Distinguished Gentleman (1992)</h1>\n<p class=\"ssr-lead\">A Florida con man uses the recent death of the long time Congressman from his district, who he just happens to share a last name with, to get elected to his version of paradise, the U.S. Congress, where the money flows from lobbyists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 1992</li><li>Runtime: 112 minutes</li><li>Director: Jonathan Lynn</li><li>Genres: Comedy</li><li>Budget: $50M</li><li>TMDB rating: 6.0/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eddie Murphy as Thomas Jefferson Johnson</li><li>Lane Smith as Dick Dodge</li><li>Sheryl Lee Ralph as Miss Loretta</li><li>Joe Don Baker as Olaf Andersen</li><li>Victoria Rowell as Celia Kirby</li><li>Grant Shaud as Arthur Reinhardt</li><li>Kevin McCarthy as Terry Corrigan</li><li>Charles S. Dutton as Elijah Hawkins</li><li>Victor Rivers as Armando</li><li>Chi McBride as Homer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Distinguished Gentleman (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:10511": {
    "d": "In America (2003): Drama film. Story: A family of Irish immigrants adjusts to life on the… See cast, TMDB rating 7.1/10, and release date 22 September 2003.",
    "img": "https://image.tmdb.org/t/p/w780/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
@@ -1024,6 +1087,70 @@
    "t": "Patient Zero (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:3111": {
+   "d": "A Star Is Born (1954): Drama/Music film. Story: A movie star helps a young singer-actress find fame… See cast, budget $5.02M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+   "industry": "world",
+   "k": "A Star Is Born, A Star Is Born movie, A Star Is Born cast, A Star Is Born story, A Star Is Born box office collection, A Star Is Born budget, A Star Is Born review, A Star Is Born rating, A Star Is Born release date, A Star Is Born trailer, A Star Is Born Drama, A Star Is Born Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Judy Garland"
+     },
+     {
+      "@type": "Person",
+      "name": "James Mason"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Carson"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Bickford"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommy Noonan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "A Star Is Born (1954): Drama/Music film. Story: A movie star helps a young singer-actress find fame… See cast, budget $5.02M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Cukor"
+     }
+    ],
+    "duration": "PT176M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3111",
+    "name": "A Star Is Born",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1954-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3111"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Star Is Born (1954)</h1>\n<p class=\"ssr-lead\">A movie star helps a young singer-actress find fame, even as age and alcoholism send his own career into a downward spiral.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 1954</li><li>Runtime: 176 minutes</li><li>Director: George Cukor</li><li>Genres: Drama, Music, Romance</li><li>Budget: $5.02M</li><li>TMDB rating: 7.1/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Judy Garland as Vicki Lester</li><li>James Mason as Norman Maine</li><li>Jack Carson as Matt Libby</li><li>Charles Bickford as Oliver Niles</li><li>Tommy Noonan as Danny McGuire</li><li>Lucy Marlow as Lola Lavery</li><li>Amanda Blake as Susan Ettinger</li><li>Irving Bacon as Graves</li><li>Hazel Shermet as Libby&#x27;s Secretary</li><li>James Brown as Glenn Williams (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "A Star Is Born (1954) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1954"
+  },
   "movie:31411": {
    "d": "The Cameraman (1928): Comedy/Romance film. Story: A photographer takes up newsreel shooting to impress… See cast and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/7Za5Riy12u1CUDXeqMUlDBweYAE.jpg",
@@ -1151,6 +1278,70 @@
    "t": "White Girl (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:34311": {
+   "d": "Sleepaway Camp II: Unhappy Campers (1988): Comedy/Horror film. Story: Angela Baker escapes from a mental hospital and… See cast and budget $465.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/xXXUXxjZcuRE2zExhwtYG5RBat4.jpg",
+   "industry": "world",
+   "k": "Sleepaway Camp II: Unhappy Campers, Sleepaway Camp II: Unhappy Campers movie, Sleepaway Camp II: Unhappy Campers cast, Sleepaway Camp II: Unhappy Campers story, Sleepaway Camp II: Unhappy Campers box office collection, Sleepaway Camp II: Unhappy Campers budget, Sleepaway Camp II: Unhappy Campers review, Sleepaway Camp II: Unhappy Campers rating, Sleepaway Camp II: Unhappy Campers release date, Sleepaway Camp II: Unhappy Campers trailer, Sleepaway Camp II: Unhappy Campers Comedy, Sleepaway Camp II: Unhappy Campers Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pamela Springsteen"
+     },
+     {
+      "@type": "Person",
+      "name": "Renée Estevez"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Higgins"
+     },
+     {
+      "@type": "Person",
+      "name": "Valerie Hartman"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Patrick Clarke"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Sleepaway Camp II: Unhappy Campers (1988): Comedy/Horror film. Story: Angela Baker escapes from a mental hospital and… See cast and budget $465.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael A. Simpson"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xXXUXxjZcuRE2zExhwtYG5RBat4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34311",
+    "name": "Sleepaway Camp II: Unhappy Campers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34311"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sleepaway Camp II: Unhappy Campers (1988)</h1>\n<p class=\"ssr-lead\">Angela Baker escapes from a mental hospital and surfaces at a summer camp as a counselor who lectures her teenage charges on proper moral behavior. Those teens who break her strict rules -- from the camp chatterbox or a sex-obsessed girl to the boys who are peeping Toms -- are murdered by the impostor in various gruesome ways. As more campers go missing, intrepid counselor Molly begins to piece together the truth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 1988</li><li>Runtime: 80 minutes</li><li>Director: Michael A. Simpson</li><li>Genres: Comedy, Horror</li><li>Budget: $465.0k</li><li>TMDB rating: 5.8/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pamela Springsteen as Angela Johnson</li><li>Renée Estevez as Molly Nagle</li><li>Tony Higgins as Sean Whitmore</li><li>Valerie Hartman as Ally Burgess</li><li>Brian Patrick Clarke as TC</li><li>Walter Gotell as Uncle John</li><li>Susan Marie Snyder as Mare</li><li>Kendall Bean as Demi</li><li>Julie Murphy as Lea</li><li>Carol Chambers as Brooke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, ScreenPix Apple TV channel, Amazon Prime Video with Ads, ScreenPix Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Sleepaway Camp II: Unhappy Campers (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:364111": {
    "d": "The Anthem of the Heart (2015): Animation/Drama film. Story: A young girl had her voice magically taken away so… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/A4EYBTiUFUS1av5xb5GDjvouJJN.jpg",
@@ -1214,6 +1405,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Anthem of the Heart (2015)</h1>\n<p class=\"ssr-lead\">A young girl had her voice magically taken away so that she would never hurt people with it, but her outlook changes when she encounters music and friendship. Will Naruse be able to convey the anthem of her heart?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 September 2015</li><li>Runtime: 119 minutes</li><li>Director: Tatsuyuki Nagai</li><li>Genres: Animation, Drama, Music, Romance</li><li>TMDB rating: 7.6/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Inori Minase as Jun Naruse (voice)</li><li>Koki Uchiyama as Takumi Sakagami (voice)</li><li>Sora Amamiya as Natsuki Nito (voice)</li><li>Yoshimasa Hosoya as Daiki Tazaki (voice)</li><li>Taishi Murata as Itsuki Mishima (voice)</li><li>Rie Takahashi as Yōko Uno (voice)</li><li>Shizuka Ishigami as Asuka Eda (voice)</li><li>Takanori Ooyama as Motoki Aizawa (voice)</li><li>Makoto Furukawa as Toshinori Iwaki (voice)</li><li>Keiji Fujiwara as Kazuki Joushima (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Anthem of the Heart (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:37211": {
+   "d": "Scooby-Doo! and the Reluctant Werewolf (1988): Animation/Comedy film. Story: Shaggy is turned into a werewolf by the wicked Count… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/qFeuSLq1InfpK9PgjFHmdY3UZNq.jpg",
+   "industry": "world",
+   "k": "Scooby-Doo! and the Reluctant Werewolf, Scooby-Doo! and the Reluctant Werewolf movie, Scooby-Doo! and the Reluctant Werewolf cast, Scooby-Doo! and the Reluctant Werewolf story, Scooby-Doo! and the Reluctant Werewolf box office collection, Scooby-Doo! and the Reluctant Werewolf budget, Scooby-Doo! and the Reluctant Werewolf review, Scooby-Doo! and the Reluctant Werewolf rating, Scooby-Doo! and the Reluctant Werewolf release date, Scooby-Doo! and the Reluctant Werewolf Animation, Scooby-Doo! and the Reluctant Werewolf Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Casey Kasem"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Messick"
+     },
+     {
+      "@type": "Person",
+      "name": "B.J. Ward"
+     },
+     {
+      "@type": "Person",
+      "name": "Hamilton Camp"
+     },
+     {
+      "@type": "Person",
+      "name": "Pat Musick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Scooby-Doo! and the Reluctant Werewolf (1988): Animation/Comedy film. Story: Shaggy is turned into a werewolf by the wicked Count… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ray Patterson"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qFeuSLq1InfpK9PgjFHmdY3UZNq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37211",
+    "name": "Scooby-Doo! and the Reluctant Werewolf",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37211"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scooby-Doo! and the Reluctant Werewolf (1988)</h1>\n<p class=\"ssr-lead\">Shaggy is turned into a werewolf by the wicked Count Dracula, and it&#x27;s up to Scooby, Scrappy and Shaggy&#x27;s girlfriend Googie to help him win a race against other monsters, and become human again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 1988</li><li>Runtime: 92 minutes</li><li>Director: Ray Patterson</li><li>Genres: Animation, Comedy, Family, TV Movie</li><li>TMDB rating: 7.4/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Casey Kasem as Shaggy Rogers (voice)</li><li>Don Messick as Scooby-Doo / Scrappy-Doo (voice)</li><li>B.J. Ward as Googie / Repulsa (voice)</li><li>Hamilton Camp as Dracula (voice)</li><li>Pat Musick as Vanna Pira (voice)</li><li>Rob Paulsen as Brunch (voice)</li><li>Frank Welker as Crunch (voice)</li><li>Jim Cummings as Frankenstein / Skull Head / Genghis Kong (voice)</li><li>Brian Stokes Mitchell as Bonejangles (voice)</li><li>Ed Gilbert as Dr. Jackyll / Mr. Snyde (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Scooby-Doo! and the Reluctant Werewolf (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
   },
   "movie:392011": {
    "d": "Kedi (2017): Documentary film. Story: A profile of Istanbul and its unique people, seen… See cast, TMDB rating 7.5/10, and release date 10 February 2017.",
@@ -1325,6 +1580,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Satanic (2016)</h1>\n<p class=\"ssr-lead\">Four friends on their way to Coachella stop off in Los Angeles to tour true-crime occult sites, only to encounter a mysterious young runaway who puts them on a terrifying path to ultimate horror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2016</li><li>Runtime: 84 minutes</li><li>Director: Jeffrey G. Hunt</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 4.3/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Hyland as Chloe</li><li>Clara Mamet as Elise</li><li>Steven Krueger as David</li><li>Justin Chon as Seth</li><li>Sophie Dalah as Alice</li><li>Anthony Carrigan as Sexy Bald Goth</li><li>Devanny Pinn as Goth</li><li>Marc Barnes as James the Hotel Clerk</li><li>Jeffrey G. Hunt as Yelling guy in Porsche</li><li>Stevin Knight as Satanist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+, Magnolia Selects Amazon Channel, Monsters and Nightmares Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
    "t": "Satanic (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:419511": {
+   "d": "Mister Happiness (2017): Romance/Comedy film. Story: A slacker switches up his cleaning job by pretending… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7aKx0Qk3V5Q1coqriH0BCK9GIXT.jpg",
+   "industry": "world",
+   "k": "Mister Happiness, Mister Happiness movie, Mister Happiness cast, Mister Happiness story, Mister Happiness box office collection, Mister Happiness budget, Mister Happiness review, Mister Happiness rating, Mister Happiness release date, Mister Happiness Romance, Mister Happiness Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Siani"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Abatantuono"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Signoris"
+     },
+     {
+      "@type": "Person",
+      "name": "Elena Cucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Cristiana Dell'Anna"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Mister Happiness (2017): Romance/Comedy film. Story: A slacker switches up his cleaning job by pretending… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Siani"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7aKx0Qk3V5Q1coqriH0BCK9GIXT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=419511",
+    "name": "Mister Happiness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=419511"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mister Happiness (2017)</h1>\n<p class=\"ssr-lead\">A slacker switches up his cleaning job by pretending to be a mental coach&#x27;s assistant and consults an injured ice skater who has lost her confidence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2017</li><li>Runtime: 94 minutes</li><li>Director: Alessandro Siani</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.0/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alessandro Siani as Martino De Simone</li><li>Diego Abatantuono as Guglielmo Gioia</li><li>Carla Signoris as Augusta</li><li>Elena Cucci as Arianna Crof</li><li>Cristiana Dell&#x27;Anna as Caterina De Simone</li><li>Yari Gugliucci as Procolo</li><li>Francesco Cicchella as Pappagallo (voice)</li><li>Stefano Ambrogi as Camionista</li><li>Giuseppe Antignati as Primario ospedale</li><li>Antonella Arseni as Dottoressa</li></ul>\n</article>",
+   "t": "Mister Happiness (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:4911": {
    "d": "Dark Blue (2002): Crime/Thriller film. Story: Set during the Rodney King riots, a robbery homicide… See cast, budget $15M, and TMDB rating 6.2/10.",
@@ -1453,6 +1772,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Kiss (2006)</h1>\n<p class=\"ssr-lead\">Michael has a great job, has his 4 best friends, and is in love with a beautiful girl at 30. He loves Jenna but his life seems predictable until someone else enters his life. It seems that everybody&#x27;s having relationship problems.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2006</li><li>Runtime: 115 minutes</li><li>Director: Tony Goldwyn</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $20M</li><li>TMDB rating: 6.1/10 (416 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zach Braff as Michael</li><li>Jacinda Barrett as Jenna</li><li>Casey Affleck as Chris</li><li>Rachel Bilson as Kim</li><li>Michael Weston as Izzy</li><li>Eric Christian Olsen as Kenny</li><li>Marley Shelton as Arianna</li><li>Lauren Lee Smith as Lisa</li><li>Harold Ramis as Professor Bowler</li><li>Blythe Danner as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Last Kiss (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
+  },
+  "movie:795811": {
+   "d": "Wheel of Fortune and Fantasy (2021): Drama/Romance film. Story: An unexpected love triangle, a seduction trap, and a… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mTOUk5M0LXIATbJDZkeH4xzA2hV.jpg",
+   "industry": "world",
+   "k": "Wheel of Fortune and Fantasy, Wheel of Fortune and Fantasy movie, Wheel of Fortune and Fantasy cast, Wheel of Fortune and Fantasy story, Wheel of Fortune and Fantasy box office collection, Wheel of Fortune and Fantasy budget, Wheel of Fortune and Fantasy review, Wheel of Fortune and Fantasy rating, Wheel of Fortune and Fantasy release date, Wheel of Fortune and Fantasy trailer, Wheel of Fortune and Fantasy Drama, Wheel of Fortune and Fantasy Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kotone Furukawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayumu Nakajima"
+     },
+     {
+      "@type": "Person",
+      "name": "Hyunri"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiyohiko Shibukawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Katsuki Mori"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 377,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Wheel of Fortune and Fantasy (2021): Drama/Romance film. Story: An unexpected love triangle, a seduction trap, and a… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryusuke Hamaguchi"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mTOUk5M0LXIATbJDZkeH4xzA2hV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=795811",
+    "name": "Wheel of Fortune and Fantasy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=795811"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wheel of Fortune and Fantasy (2021)</h1>\n<p class=\"ssr-lead\">An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 April 2021</li><li>Runtime: 121 minutes</li><li>Director: Ryusuke Hamaguchi</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.2/10 (377 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kotone Furukawa as Meiko</li><li>Ayumu Nakajima as Kazuaki</li><li>Hyunri as Tsugumi</li><li>Kiyohiko Shibukawa as Segawa</li><li>Katsuki Mori as Nao</li><li>Shouma Kai as Sasaki</li><li>Fusako Urabe as Natsuko</li><li>Aoba Kawai as Aya</li><li>Hitoshi Omika as Magazine Editor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel, Film Movement Plus Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wheel of Fortune and Fantasy (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "tv:1411": {
    "d": "Person of Interest (2011) is an Action & Adventure and Crime TV series. Explore its story: John Reese, former CIA paramilitary operative, is… and cast.",

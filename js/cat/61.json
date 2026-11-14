@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 35,
+ "count": 40,
  "titles": {
   "movie:10361": {
    "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
@@ -1394,6 +1394,127 @@
    "vote_average": 6.037,
    "vote_count": 389
   },
+  "movie:16161": {
+   "backdrop_path": "/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Joseph Summers",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Yvette",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Sweetpea",
+     "n": "Omar Gooding"
+    },
+    {
+     "c": "Melvin 'Mel'",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Rodney",
+     "n": "Snoop Dogg"
+    },
+    {
+     "c": "Juanita",
+     "n": "A.J. Johnson"
+    },
+    {
+     "c": "Kim",
+     "n": "Angell Conwell"
+    },
+    {
+     "c": "Do Dirty",
+     "n": "Kareem J. Grimes"
+    },
+    {
+     "c": "Sharika",
+     "n": "Tracey Cherelle Jones"
+    },
+    {
+     "c": "Patrice",
+     "n": "Mo'Nique"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Singleton"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 16161,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Jody, a misguided, 20-year-old African-American who is really just a baby boy finally forced-kicking and screaming to face the commitments of real life. Streetwise and jobless, he has not only fathered two children by two different women-Yvette and Peanut but still lives with his own mother. He can't seem to strike a balance or find direction in his chaotic life.",
+   "popularity": 2.4885,
+   "poster_path": "/vFucYR2YuJTX2ANfGDKwjUFMi18.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-06-27",
+   "revenue": 29381649,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just a Baby Boy.",
+   "title": "Baby Boy",
+   "trailer": {
+    "key": "kgwOhuEft5Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.115,
+   "vote_count": 378
+  },
   "movie:1641961": {
    "backdrop_path": "/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
    "budget": 0,
@@ -1661,6 +1782,137 @@
    "type": "movie",
    "vote_average": 4.407,
    "vote_count": 27
+  },
+  "movie:186161": {
+   "backdrop_path": "/jmZqL9yJ9DYuwzUv5mQUK946sXa.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Maria Ribeiro",
+     "n": "Rita Blanco"
+    },
+    {
+     "c": "José Ribeiro",
+     "n": "Joaquim de Almeida"
+    },
+    {
+     "c": "Francis Caillaux",
+     "n": "Roland Giraud"
+    },
+    {
+     "c": "Solange Caillaux",
+     "n": "Chantal Lauby"
+    },
+    {
+     "c": "Paula Ribeiro",
+     "n": "Barbara Cabrita"
+    },
+    {
+     "c": "Charles Caillaux",
+     "n": "Lannick Gautry"
+    },
+    {
+     "c": "Rosa",
+     "n": "Maria Vieira"
+    },
+    {
+     "c": "Lourdes",
+     "n": "Jacqueline Corado"
+    },
+    {
+     "c": "Mrs Reichert",
+     "n": "Nicole Croisille"
+    },
+    {
+     "c": "Carlos",
+     "n": "Jean-Pierre Martins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Ruben Alves"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 186161,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the beautiful area of ​​Paris, Maria and José Ribeiro lived for almost thirty years on the ground floor of a Haussmann building, in their dear little lodge.",
+   "popularity": 0.7508,
+   "poster_path": "/rts29kBtuw1xAlNeWMFuZN4WZRe.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-04-19",
+   "revenue": 11311521,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Gilded Cage",
+   "trailer": {
+    "key": "PR6o3LloMjQ",
+    "name": "The Gilded Cage / La Cage dorée (2013) - Trailer Engl [...]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.729,
+   "vote_count": 367
   },
   "movie:1961": {
    "backdrop_path": "/snPM5sBGoZSm8g81yyqxsXmyzP6.jpg",
@@ -2206,6 +2458,168 @@
    "type": "movie",
    "vote_average": 7.287,
    "vote_count": 413
+  },
+  "movie:32761": {
+   "backdrop_path": "/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Schober",
+     "n": "Birgit Doll"
+    },
+    {
+     "c": "Georg Schober",
+     "n": "Dieter Berner"
+    },
+    {
+     "c": "Eva Schober",
+     "n": "Leni Tanzer"
+    },
+    {
+     "c": "Optician Customer",
+     "n": "Silvia Fenz"
+    },
+    {
+     "c": "Georg's Superior",
+     "n": "Robert Dietl"
+    },
+    {
+     "c": "Fault Service of the Post Office",
+     "n": "Georg Friedrich"
+    },
+    {
+     "c": "Alexander",
+     "n": "Udo Samel"
+    },
+    {
+     "c": "Eva's Teacher",
+     "n": "Elisabeth Rath"
+    },
+    {
+     "c": "Bank Clerk",
+     "n": "Georges Kern"
+    },
+    {
+     "c": "Self(archive footage) (uncredited)",
+     "n": "Meat Loaf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Michael Haneke"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 32761,
+   "industry": "world",
+   "origin_country": [
+    "AT"
+   ],
+   "original_language": "de",
+   "overview": "Chronicles three years of a middle-class family seemingly caught up in their daily routines, troubled only by minor incidents. Behind their apparent calm and repetitive existence, however, they're planning something much more sinister.",
+   "popularity": 1.5888,
+   "poster_path": "/hPwtcwwmOnW7Mqr1s170LHxa74A.jpg",
+   "production_countries": [
+    "AT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-10-20",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Seventh Continent",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.462,
+   "vote_count": 378
   },
   "movie:352161": {
    "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
@@ -2892,6 +3306,170 @@
    "vote_average": 7.307,
    "vote_count": 443
   },
+  "movie:555561": {
+   "backdrop_path": "/nA5X70ESE9NpmSjSmuU2Ms2rOr6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adriano Doria",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Laura",
+     "n": "Miriam Leone"
+    },
+    {
+     "c": "Tommaso",
+     "n": "Fabrizio Bentivoglio"
+    },
+    {
+     "c": "Virginia Ferrara",
+     "n": "Maria Paiato"
+    },
+    {
+     "c": "Paolo",
+     "n": "Nicola Pannelli"
+    },
+    {
+     "c": "Agente interrogatorio",
+     "n": "Sergio Romano"
+    },
+    {
+     "c": "Avvocato",
+     "n": "Paola Sambo"
+    },
+    {
+     "c": "Daniele Garri",
+     "n": "Gerardo De Blasio"
+    },
+    {
+     "c": "",
+     "n": "Ilaria Amadasi"
+    },
+    {
+     "c": "Responsabile della sicurezza",
+     "n": "Ascanio Balbo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Stefano Mordini"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 555561,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Adriano wakes up in a hotel room next to the dead body of his lover, Laura. The door is locked from the inside and there is no evidence of anybody else in the room.",
+   "popularity": 0.7976,
+   "poster_path": "/l6YDKCQhAIhMgR4IlNy8wcOC6Ey.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "OVID"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-12-13",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Everyone considers him guilty. But is he really?",
+   "title": "The Invisible Witness",
+   "trailer": {
+    "key": "BdA_G4J620k",
+    "name": "The Invisible Witness Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 345
+  },
   "movie:570661": {
    "backdrop_path": "/ooVOGpJA40wWyohGUQ1T7ibrGRR.jpg",
    "budget": 0,
@@ -3543,6 +4121,113 @@
    "type": "movie",
    "vote_average": 6.383,
    "vote_count": 427
+  },
+  "movie:823461": {
+   "backdrop_path": "/enlicWSFU0H2JNe3TgHNe4RIGWT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrea Singer",
+     "n": "Iliza Shlesinger"
+    },
+    {
+     "c": "Dennis",
+     "n": "Ryan Hansen"
+    },
+    {
+     "c": "Serrena",
+     "n": "Rebecca Rittenhouse"
+    },
+    {
+     "c": "Brett",
+     "n": "Matt McGorry"
+    },
+    {
+     "c": "Chanterelle",
+     "n": "Taylor Hill"
+    },
+    {
+     "c": "Leslie",
+     "n": "Beth Dover"
+    },
+    {
+     "c": "Margot",
+     "n": "Margaret Cho"
+    },
+    {
+     "c": "Maggie",
+     "n": "Kimia Behpoornia"
+    },
+    {
+     "c": "Alli",
+     "n": "Rebecca Delgado Smith"
+    },
+    {
+     "c": "Casting Director",
+     "n": "Britney Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kimmy Gatewood"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 823461,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes, but is he everything he appears to be?",
+   "popularity": 1.228,
+   "poster_path": "/hkU2FQNWUEQFgLrDGrpZQ7Y17zx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-06-23",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If he checks all your boxes, check again.",
+   "title": "Good on Paper",
+   "trailer": {
+    "key": "z_-_hIuE1YA",
+    "name": "Good On Paper | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 348
   },
   "movie:878361": {
    "backdrop_path": "/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",

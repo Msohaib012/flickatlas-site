@@ -1,7 +1,70 @@
 {
  "bucket": "21",
- "count": 42,
+ "count": 54,
  "titles": {
+  "movie:1010821": {
+   "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baby Groot (voice)",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Kaitlyn Robrock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kirsten Lepore"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1010821,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
+   "popularity": 2.7472,
+   "poster_path": "/egBOw7NBMuM283SOltESKq0gJjJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-08-10",
+   "revenue": 0,
+   "runtime": 6,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Groot Takes a Bath",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.098,
+   "vote_count": 373
+  },
   "movie:1103621": {
    "backdrop_path": "/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
    "budget": 1000000,
@@ -523,6 +586,126 @@
    "type": "movie",
    "vote_average": 5.333,
    "vote_count": 27
+  },
+  "movie:11521": {
+   "backdrop_path": "/yTc0yX0WelxoUwWojK5076f5jMS.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Dede Tate",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Jane Grierson",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Fred Tate",
+     "n": "Adam Hann-Byrd"
+    },
+    {
+     "c": "Eddie",
+     "n": "Harry Connick Jr."
+    },
+    {
+     "c": "Garth Emmerick",
+     "n": "David Hyde Pierce"
+    },
+    {
+     "c": "Gina",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Damon Wells",
+     "n": "P.J. Ochlan"
+    },
+    {
+     "c": "Matt Montini",
+     "n": "Michael Shulman"
+    },
+    {
+     "c": "Miss Nimvel",
+     "n": "Celia Weston"
+    },
+    {
+     "c": "Winston F. Buckner",
+     "n": "George Plimpton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jodie Foster"
+   ],
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 11521,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dede is a sole parent trying to bring up her son Fred. When it is discovered that Fred is a genius, she is determined to ensure that Fred has all the opportunities that he needs, and that he is not taken advantage of by people who forget that his extremely powerful intellect is harboured in the body and emotions of a child.",
+   "popularity": 2.2661,
+   "poster_path": "/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-09-06",
+   "revenue": 25010896,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's not what he knows. It's what he understands.",
+   "title": "Little Man Tate",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 368
   },
   "movie:12121": {
    "backdrop_path": "/lTrHk6DznYoAGr7biPkdIbb4WGo.jpg",
@@ -1668,6 +1851,103 @@
    "vote_average": 4.715,
    "vote_count": 414
   },
+  "movie:14621": {
+   "backdrop_path": "/f4cilOhPkg90LfH8jgzNuuVx12H.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Principal Joe Clark",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Ms. Levias",
+     "n": "Beverly Todd"
+    },
+    {
+     "c": "Dr. Frank Napier",
+     "n": "Robert Guillaume"
+    },
+    {
+     "c": "Mr. Rosenberg",
+     "n": "Ethan Phillips"
+    },
+    {
+     "c": "Leonna Barrett",
+     "n": "Lynne Thigpen"
+    },
+    {
+     "c": "Mr. Darnell",
+     "n": "Michael Beach"
+    },
+    {
+     "c": "Mr. William Wright",
+     "n": "Tony Todd"
+    },
+    {
+     "c": "Kaneesha Carter",
+     "n": "Karen Malina White"
+    },
+    {
+     "c": "Mayor Don Bottman",
+     "n": "Alan North"
+    },
+    {
+     "c": "Mrs. Elliott",
+     "n": "Robin Bartlett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John G. Avildsen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14621,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When principal Joe Clark takes over decaying Eastside High School, he's faced with students wearing gang colors and graffiti-covered walls. Determined to do anything he must to turn the school around, he expels suspected drug dealers, padlocks doors and demands effort and results from students, staff and parents. Autocratic to a fault, this real-life educator put it all on the line.",
+   "popularity": 2.634,
+   "poster_path": "/7xOyz2NlaoqZ6xIjJh0Goptm0tP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-03-03",
+   "revenue": 31906454,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Eastside High was out of control...until Joe Clark took it back.",
+   "title": "Lean On Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 361
+  },
   "movie:1493021": {
    "backdrop_path": "/hk6tV2KIP8MkkDBNpvWRnvUrKyG.jpg",
    "budget": 0,
@@ -2121,6 +2401,173 @@
    "vote_average": 9.14,
    "vote_count": 75
   },
+  "movie:16121": {
+   "backdrop_path": "/mpRSzmUX0Lsimgg0M8hZRS2xrDC.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "The Sergeant",
+     "n": "Lee Marvin"
+    },
+    {
+     "c": "Griff",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Zab",
+     "n": "Robert Carradine"
+    },
+    {
+     "c": "Vinci",
+     "n": "Bobby Di Cicco"
+    },
+    {
+     "c": "Johnson",
+     "n": "Kelly Ward"
+    },
+    {
+     "c": "Walloon",
+     "n": "Stéphane Audran"
+    },
+    {
+     "c": "Schroeder",
+     "n": "Siegfried Rauch"
+    },
+    {
+     "c": "Rensonnet",
+     "n": "Serge Marquand"
+    },
+    {
+     "c": "General / Captain",
+     "n": "Charles Macaulay"
+    },
+    {
+     "c": "Broban",
+     "n": "Alain Doutey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Samuel Fuller"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 16121,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A veteran sergeant of World War I leads a squad in World War II, always in the company of the survivor Pvt. Griff, the writer Pvt. Zab, the Sicilian Pvt. Vinci and Pvt. Johnson, in Vichy French Africa, Sicily, D-Day at Omaha Beach, Belgium and France, and ending in a concentration camp in Czechoslovakia where they face the true horror of war.",
+   "popularity": 2.3541,
+   "poster_path": "/h0VcqQ3z1RroKk7WtiW0E6DDho2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-05-28",
+   "revenue": 7206220,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Only chance could have thrown them together. Now, nothing can pull them apart.",
+   "title": "The Big Red One",
+   "trailer": {
+    "key": "D911lxh4tm0",
+    "name": "The Big Red One",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.701,
+   "vote_count": 364
+  },
   "movie:1721": {
    "backdrop_path": "/iHJTF9WcXUfp8iy7EHPxMQ3XQyK.jpg",
    "budget": 0,
@@ -2230,6 +2677,439 @@
    "type": "movie",
    "vote_average": 6.813,
    "vote_count": 446
+  },
+  "movie:174321": {
+   "backdrop_path": "/rMrtoZfd0B0jDc1IW6r7MHELAtt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Linda Sinclair",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Jason Sherwood",
+     "n": "Michael Angarano"
+    },
+    {
+     "c": "Dr. Tom Sherwood",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Halle Anderson",
+     "n": "Lily Collins"
+    },
+    {
+     "c": "Narrator",
+     "n": "Fiona Shaw"
+    },
+    {
+     "c": "Vice Principal Phil Pelaski",
+     "n": "Norbert Leo Butz"
+    },
+    {
+     "c": "Principal Trudie Slocum",
+     "n": "Jessica Hecht"
+    },
+    {
+     "c": "Will",
+     "n": "Charlie Saxton"
+    },
+    {
+     "c": "Carl Kapinas",
+     "n": "Nathan Lane"
+    },
+    {
+     "c": "Sheila Nussbaum",
+     "n": "Nikki Blonsky"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Craig Zisk"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 174321,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Small-town Pennsylvania schoolteacher Linda Sinclair balances her staid home life with an incredible passion for her subject. Then a former star pupil reenters her life after failing as a playwright in New York City. Seeing in his script the inspiration that she has always longed to instill in her students, this dyed-in-the-wool romantic enlists the help of long-suffering drama teacher Carl to mount the work as the high school’s next and riskiest production.",
+   "popularity": 2.1482,
+   "poster_path": "/mF14chZNzgDRZffs8Wk8lPwdNQA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-05-16",
+   "revenue": 104810,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Refuse to live life by the book.",
+   "title": "The English Teacher",
+   "trailer": {
+    "key": "8fqAU3kYKWA",
+    "name": "The English Teacher Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 382
+  },
+  "movie:21521": {
+   "backdrop_path": "/rvpN5CrzCdwvwlBq0PDvoUYh9WE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sgt. Dragon Ma Yue Lung",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Maggie",
+     "n": "Maggie Cheung Man-yuk"
+    },
+    {
+     "c": "Ms. Pak",
+     "n": "Rosamund Kwan Chi-Lam"
+    },
+    {
+     "c": "Carina",
+     "n": "Carina Lau"
+    },
+    {
+     "c": "Superintendent Chun",
+     "n": "David Lam Wai"
+    },
+    {
+     "c": "Chief Inspector Tung",
+     "n": "Bill Tung Biu"
+    },
+    {
+     "c": "Captain Chik",
+     "n": "Herman Kwan Hoi-san"
+    },
+    {
+     "c": "Winnie Chik",
+     "n": "Isabella Wong Man-ying"
+    },
+    {
+     "c": "Regina",
+     "n": "Regina Kent"
+    },
+    {
+     "c": "Mr. B",
+     "n": "Tai Bo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jackie Chan"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 21521,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Dragon is now transferred to be the police head of Sai Wan district, and has to contend with a gangster kingpin, anti-Manchu revolutionaries, some runaway pirates, Manchu Loyalists and a corrupt police superintendent.",
+   "popularity": 3.1275,
+   "poster_path": "/oY6wOuPmeeDoKjPdPlMwwmDCYmA.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-07-25",
+   "revenue": 18681490,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "This A Is for Action!",
+   "title": "Project A - Part II",
+   "trailer": {
+    "key": "9MT6HKZpiQY",
+    "name": "[ Trailer ] A 計劃續集 ( Project A II ) - Restored Version",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 364
+  },
+  "movie:2321": {
+   "backdrop_path": "/aQKLuDKzaRBKpQVDsgbRT8C2SYJ.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Angela de Marco",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "'Cucumber' Frank de Marco",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Tony Russo, Sr.",
+     "n": "Dean Stockwell"
+    },
+    {
+     "c": "Mike Downey",
+     "n": "Matthew Modine"
+    },
+    {
+     "c": "Connie Russo",
+     "n": "Mercedes Ruehl"
+    },
+    {
+     "c": "Ed Benitez",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Regional Director Franklin",
+     "n": "Trey Wilson"
+    },
+    {
+     "c": "Karen Lutnick",
+     "n": "Nancy Travis"
+    },
+    {
+     "c": "Rita \"Hello Gorgeous\" Harcourt",
+     "n": "'Sister' Carol East"
+    },
+    {
+     "c": "Tommy Boyle",
+     "n": "Paul Lazar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Demme"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 2321,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Angela de Marco is fed up with her gangster husband's line of work and wants no part of the crime world. When her husband is killed for having an affair with the mistress of mob boss Tony \"The Tiger\" Russo, Angela and her son depart for New York City to make a fresh start. Unfortunately, Tony has set his sights upon Angela -- and so has an undercover FBI agent looking to use her to bust Tony.",
+   "popularity": 3.0416,
+   "poster_path": "/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-08-19",
+   "revenue": 21486757,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're her family... Whether she likes it or not.",
+   "title": "Married to the Mob",
+   "trailer": {
+    "key": "utU7opft6F4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.977,
+   "vote_count": 354
   },
   "movie:2621": {
    "backdrop_path": "/oNOJoW2XoH3shkQxHtOyacJRBCQ.jpg",
@@ -2364,6 +3244,385 @@
    "vote_average": 6.672,
    "vote_count": 497
   },
+  "movie:27621": {
+   "backdrop_path": "/socMWFFL8f5j41tVQ9TO64QkSxB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chanel Simmons",
+     "n": "Adrienne Bailon-Houghton"
+    },
+    {
+     "c": "Dorinda Thomas",
+     "n": "Sabrina Bryan"
+    },
+    {
+     "c": "Aqua Walker",
+     "n": "Kiely Williams"
+    },
+    {
+     "c": "Uncle Kamal Bhatia",
+     "n": "Roshan Seth"
+    },
+    {
+     "c": "Vikram",
+     "n": "Michael Steger"
+    },
+    {
+     "c": "Amar",
+     "n": "Kunal Sharma"
+    },
+    {
+     "c": "Gita",
+     "n": "Deepti Daryanani"
+    },
+    {
+     "c": "Rahim",
+     "n": "Rupak Ginn"
+    },
+    {
+     "c": "Swami",
+     "n": "Vinod Nagpal"
+    },
+    {
+     "c": "Marty",
+     "n": "J. Brandon Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Paul Hoen"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama",
+    "Music",
+    "TV Movie"
+   ],
+   "id": 27621,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chanel, Dorinda, and Aqua are off to India to star in a Bollywood movie. But when they discover that they will have to compete against each other to get the role in the movie, will the Cheetahs break up again?",
+   "popularity": 1.5117,
+   "poster_path": "/aIxBQvA3h6WbD3LJtXspWL8GOw3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-08-22",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What if only one star can shine?",
+   "title": "The Cheetah Girls: One World",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.101,
+   "vote_count": 355
+  },
+  "movie:286521": {
+   "backdrop_path": "/sydvKR3zdaLPQM96tUJmi7vD0XR.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Alex Carver",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Ruth Carver",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Miriam Carswell",
+     "n": "Carrie Preston"
+    },
+    {
+     "c": "Lily Portman",
+     "n": "Cynthia Nixon"
+    },
+    {
+     "c": "Blue Leggings",
+     "n": "Alysia Reiner"
+    },
+    {
+     "c": "Jackson",
+     "n": "Josh Pais"
+    },
+    {
+     "c": "Young Ruth",
+     "n": "Claire van der Boom"
+    },
+    {
+     "c": "Young Alex",
+     "n": "Korey Jackson"
+    },
+    {
+     "c": "Zoe",
+     "n": "Sterling Jerins"
+    },
+    {
+     "c": "Mrs. Vincent",
+     "n": "Liza J. Bennett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Loncraine"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 286521,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A long-time married couple who've spent their lives together in the same New York apartment become overwhelmed by personal and real estate-related issues when they plan to move away.",
+   "popularity": 1.422,
+   "poster_path": "/2WI5oq2QswLB0kJFOcL7ZA5ndKr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-05",
+   "revenue": 1020921,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A coming of age story",
+   "title": "5 Flights Up",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 342
+  },
+  "movie:30421": {
+   "backdrop_path": "/qkxMRQvKUsvidg7ewU1pcEbSX4h.jpg",
+   "budget": 1250000,
+   "cast": [
+    {
+     "c": "Ling Choi-san",
+     "n": "Leslie Cheung Kwok-wing"
+    },
+    {
+     "c": "Lip Siu Sin",
+     "n": "Joey Wong"
+    },
+    {
+     "c": "Swordsman Yin Chek-ha",
+     "n": "Wu Ma"
+    },
+    {
+     "c": "Tree Demon",
+     "n": "Lau Siu-ming"
+    },
+    {
+     "c": "Swordsman Hsia Hou",
+     "n": "David Lam Wai"
+    },
+    {
+     "c": "Siu Ching",
+     "n": "Fanny Sit Chi-Lun"
+    },
+    {
+     "c": "Secretary Chiu",
+     "n": "David Wu"
+    },
+    {
+     "c": "Judge",
+     "n": "Wong Jing"
+    },
+    {
+     "c": "Boss at Tavern",
+     "n": "Huang Ha"
+    },
+    {
+     "c": "Sells Paintings",
+     "n": "Sze Mei-Yee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Tony Ching Siu-tung"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action"
+   ],
+   "id": 30421,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A naïve young tax collector for the imperial government winds up spending the night in a haunted temple. There he falls in love with a beautiful woman who, unfortunately, is dead. With the aid of a powerful Daoist Swordsman, he must defeat undead hordes, overcome a sinister Tree Demoness, and descend to the pits of hell, to fight for the spirit he loves.",
+   "popularity": 4.7787,
+   "poster_path": "/2ck7UXj1ZAGwrMH9k7G1oxrCwx8.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-07-18",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "sa"
+   ],
+   "status": "Released",
+   "tagline": "Old Evil is coming to collect the bride.",
+   "title": "A Chinese Ghost Story",
+   "trailer": {
+    "key": "5I1blOtGrck",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.304,
+   "vote_count": 360
+  },
   "movie:3121": {
    "backdrop_path": "/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
    "budget": 2200000,
@@ -2460,6 +3719,115 @@
    "type": "movie",
    "vote_average": 7.302,
    "vote_count": 494
+  },
+  "movie:409421": {
+   "backdrop_path": "/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Killy (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Cibo (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Zuru (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Sutezo (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Tae (voice)",
+     "n": "Aya Suzaki"
+    },
+    {
+     "c": "Fusata (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Fuku (voice)",
+     "n": "Nanako Mori"
+    },
+    {
+     "c": "Pop (voice)",
+     "n": "Kazuhiro Yamaji"
+    },
+    {
+     "c": "Administration Authority (voice)",
+     "n": "Aki Toyosaki"
+    },
+    {
+     "c": "Sanakan (voice)",
+     "n": "Saori Hayami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Hiroyuki Seshita"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction",
+    "Animation"
+   ],
+   "id": 409421,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the distant technological future, civilization has reached its ultimate Net-based form. An \"infection\" in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city's controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.",
+   "popularity": 2.3648,
+   "poster_path": "/7eoRQY7VUMawwBnuD6uwN4szc8k.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-05-20",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "BLAME!",
+   "trailer": {
+    "key": "hwy806RC2-Q",
+    "name": "Blame! | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.501,
+   "vote_count": 374
   },
   "movie:46221": {
    "backdrop_path": "/hpSL417nA1YnkbEbZLD9zRv7ooh.jpg",
@@ -3497,6 +4865,96 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 478
+  },
+  "movie:930921": {
+   "backdrop_path": "/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luigi Pirandello",
+     "n": "Toni Servillo"
+    },
+    {
+     "c": "Onofrio \"Nofrio\" Principato",
+     "n": "Salvatore Ficarra"
+    },
+    {
+     "c": "Sebastiano \"Bastiano\" Vella",
+     "n": "Valentino Picone"
+    },
+    {
+     "c": "Santina",
+     "n": "Giulia Andò"
+    },
+    {
+     "c": "Mimmo Casà",
+     "n": "Rosario Lisma"
+    },
+    {
+     "c": "La balia",
+     "n": "Donatella Finocchiaro"
+    },
+    {
+     "c": "Maria Antonietta Portolano",
+     "n": "Aurora Quattrocchi"
+    },
+    {
+     "c": "La madre",
+     "n": "Galatea Ranzi"
+    },
+    {
+     "c": "Il padre",
+     "n": "Fausto Russo Alesi"
+    },
+    {
+     "c": "Il direttore di scena",
+     "n": "Filippo Luna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Roberto Andò"
+   ],
+   "genres": [
+    "Comedy",
+    "History",
+    "Drama"
+   ],
+   "id": 930921,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "During a trip to Sicily in 1920, Luigi Pirandello meets two gravediggers-turned-playwrights rehearsing a play with their amateur dramatics. Pirandello takes an interest in the odd couple, having been suffering from writer's block while working on his eventual masterpiece, Six Characters in Search of an Author.",
+   "popularity": 0.4907,
+   "poster_path": "/gtIhBUq4lnJrZyjuAkshXxW6Txi.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-27",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Strangeness",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.869,
+   "vote_count": 367
   },
   "movie:996821": {
    "backdrop_path": "/lsOdEAkwQ0TcP71HocJi8WUftmp.jpg",

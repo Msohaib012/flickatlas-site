@@ -1,6 +1,6 @@
 {
  "bucket": "07",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
@@ -401,6 +401,135 @@
    "vote_average": 6.681,
    "vote_count": 406
   },
+  "movie:11607": {
+   "backdrop_path": "/nC15YUPsHVmdoj1CJhevZ8nEiDV.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Captain Phillip Laidlaw",
+     "n": "Taurean Blacque"
+    },
+    {
+     "c": "Joyce Collins",
+     "n": "Nancy Everhard"
+    },
+    {
+     "c": "McBride",
+     "n": "Greg Evigan"
+    },
+    {
+     "c": "Snyder",
+     "n": "Miguel Ferrer"
+    },
+    {
+     "c": "Scarpelli",
+     "n": "Nia Peeples"
+    },
+    {
+     "c": "Jim Richardson",
+     "n": "Matt McCoy"
+    },
+    {
+     "c": "Dr. Diane Norris",
+     "n": "Cindy Pickett"
+    },
+    {
+     "c": "John Van Gelder",
+     "n": "Marius Weyers"
+    },
+    {
+     "c": "Burciaga",
+     "n": "Elya Baskin"
+    },
+    {
+     "c": "Hodges",
+     "n": "Thom Bray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sean S. Cunningham"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 11607,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The crew of an experimental underwater nuclear base are forced to struggle for their lives when their explorations disturb a creature who threatens to destroy their base.",
+   "popularity": 2.0899,
+   "poster_path": "/ueQQx7fyPjN643EwKIMHNF8A1Cw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-01-13",
+   "revenue": 8143225,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not All Aliens Come From Space. Save Your Last Breath... To Scream.",
+   "title": "DeepStar Six",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.527,
+   "vote_count": 369
+  },
   "movie:1167307": {
    "backdrop_path": "/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
    "budget": 60900000,
@@ -673,6 +802,139 @@
    "type": "movie",
    "vote_average": 6.17,
    "vote_count": 414
+  },
+  "movie:11807": {
+   "backdrop_path": "/WJtnxUbB5kOqD0AfS4viDuHxbC.jpg",
+   "budget": 2300000,
+   "cast": [
+    {
+     "c": "Aditya Kashyap",
+     "n": "Shahid Kapoor"
+    },
+    {
+     "c": "Geet Kaur Dhillon",
+     "n": "Kareena Kapoor Khan"
+    },
+    {
+     "c": "Anshuman",
+     "n": "Tarun Arora"
+    },
+    {
+     "c": "Geet's Grandfather",
+     "n": "Dara Singh"
+    },
+    {
+     "c": "Geet's Uncle",
+     "n": "Pavan Malhotra"
+    },
+    {
+     "c": "Geet's Father",
+     "n": "Kamal Tiwari"
+    },
+    {
+     "c": "Geet's Mother",
+     "n": "Kiran Juneja"
+    },
+    {
+     "c": "Mrs. Khanna",
+     "n": "Divya Shah"
+    },
+    {
+     "c": "Roop Kaur Dhillon",
+     "n": "Saumya Tandon"
+    },
+    {
+     "c": "Raghav",
+     "n": "Nihar Thakkar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Imtiaz Ali"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 11807,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A depressed wealthy businessman and a spunky carefree young woman embark on an unexpected journey that changes their lives.",
+   "popularity": 1.2381,
+   "poster_path": "/sQ7A7jyTbkK90vjd8yCRuoyL9CK.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-26",
+   "revenue": 10065630,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "pa",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't miss the train!",
+   "title": "Jab We Met",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.279,
+   "vote_count": 351
   },
   "movie:1196207": {
    "backdrop_path": "/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
@@ -999,6 +1261,129 @@
    "vote_average": 7.186,
    "vote_count": 466
   },
+  "movie:158907": {
+   "backdrop_path": "/nypN2Pm1IPNMlXv3vQPOK6T7wy7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Keith Reynolds",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Sophie",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Megan Reynolds",
+     "n": "Amy Ryan"
+    },
+    {
+     "c": "Lauren Reynolds",
+     "n": "Mackenzie Davis"
+    },
+    {
+     "c": "Peter Sebeck",
+     "n": "Kyle MacLachlan"
+    },
+    {
+     "c": "Wendy Sebeck",
+     "n": "Ali Wentworth"
+    },
+    {
+     "c": "Sophie's mom",
+     "n": "Lucy Davenport"
+    },
+    {
+     "c": "Clément",
+     "n": "Hugo Becker"
+    },
+    {
+     "c": "Sheldon",
+     "n": "Ben Shenkman"
+    },
+    {
+     "c": "Ryan",
+     "n": "Brendan Dooling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Drake Doremus"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 158907,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a foreign exchange student arrives in a small upstate New York town, she challenges the dynamics of her host family's relationships and alters their lives forever.",
+   "popularity": 1.4236,
+   "poster_path": "/dqXrIoaPTYIB9GWdD0DF1LArl6d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-01-18",
+   "revenue": 89661,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Breathe In",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 345
+  },
   "movie:1631807": {
    "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
    "budget": 0,
@@ -1106,6 +1491,194 @@
    "type": "movie",
    "vote_average": 6.487,
    "vote_count": 150
+  },
+  "movie:169607": {
+   "backdrop_path": "/ajukqMGU1d5d1Csx0jUGPDsXpFC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Vivian Maier"
+    },
+    {
+     "c": "Self - Narrator",
+     "n": "John Maloof"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Daniel Arnaud"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Simon Amédé"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Maren Baylaender"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Eula Biss"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Bindy Bitterman"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Roger Carlson"
+    },
+    {
+     "c": "Self - Talk Show Host",
+     "n": "Phil Donahue"
+    },
+    {
+     "c": "Self - Interview Subject",
+     "n": "Karen Frank"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Maloof",
+    "Charlie Siskel"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 169607,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vivian Maier's photos were seemingly destined for obscurity, lost among the clutter of the countless objects she'd collected throughout her life. Instead these images have shaken the world of street photography and irrevocably changed the life of the man who brought them to the public eye. This film brings to life the interesting turns and travails of the improbable saga of John Maloof's discovery of Vivian Maier, unravelling this mysterious tale through her documentary films, photographs, odd collections and personal accounts from the people that knew her. What started as a blog to show her work quickly became a viral sensation in the photography world. Photos destined for the trash heap now line gallery exhibitions, a forthcoming book and this documentary film.",
+   "popularity": 1.2678,
+   "poster_path": "/yaj9mpHNpns5j4ODP4352PgDWJM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-04-17",
+   "revenue": 1503616,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Finding Vivian Maier",
+   "trailer": {
+    "key": "2o2nBhQ67Zc",
+    "name": "Finding Vivian Maier - Official Movie Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.566,
+   "vote_count": 342
   },
   "movie:17707": {
    "backdrop_path": "/iwcvWOyT04GHLSevuFROL3SGSb6.jpg",
@@ -1971,6 +2544,99 @@
    "vote_average": 5.3,
    "vote_count": 421
   },
+  "movie:4107": {
+   "backdrop_path": "/eMiRBwTf7wWyuGCrDI9yHKOoPH8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ivan Cooper",
+     "n": "James Nesbitt"
+    },
+    {
+     "c": "Kevin McCorry",
+     "n": "Allan Gildea"
+    },
+    {
+     "c": "Eamonn McCann",
+     "n": "Gerard Crossan"
+    },
+    {
+     "c": "Bernadette Devlin",
+     "n": "Mary Moulds"
+    },
+    {
+     "c": "Bridget Bond",
+     "n": "Carmel McCallion"
+    },
+    {
+     "c": "Major General Ford",
+     "n": "Tim Pigott-Smith"
+    },
+    {
+     "c": "Brigadier Maclellan",
+     "n": "Nicholas Farrell"
+    },
+    {
+     "c": "Major Steele",
+     "n": "Christopher Villiers"
+    },
+    {
+     "c": "Colonel Tugwell",
+     "n": "James Hewitt"
+    },
+    {
+     "c": "Gerry Donaghy",
+     "n": "Declan Duddy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Greengrass"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 4107,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The dramatised story of the Irish civil rights protest march on January 30 1972 which ended in a massacre by British troops.",
+   "popularity": 1.5214,
+   "poster_path": "/oqdQMDJucR7R0ol0LFvzmqcDyEb.jpg",
+   "production_countries": [
+    "IE",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-01-25",
+   "revenue": 773228,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bloody Sunday",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.229,
+   "vote_count": 377
+  },
   "movie:419507": {
    "backdrop_path": "/nWWfohnSpIGw8worhKiFRmk2SZX.jpg",
    "budget": 0,
@@ -2061,6 +2727,176 @@
    "type": "movie",
    "vote_average": 3.985,
    "vote_count": 476
+  },
+  "movie:420707": {
+   "backdrop_path": "/gUebSn2HgWchRx2sUwYAXpbxCfV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeff Miller",
+     "n": "Joel Hogan"
+    },
+    {
+     "c": "Josh Miller",
+     "n": "Josh Potthoff"
+    },
+    {
+     "c": "Megan Murphy",
+     "n": "Megan Peta Hill"
+    },
+    {
+     "c": "Greg",
+     "n": "Pete Valley"
+    },
+    {
+     "c": "Mark the diver",
+     "n": "Mark Fell"
+    },
+    {
+     "c": "Josh and Jeff's Mother",
+     "n": "Christopher Callen"
+    },
+    {
+     "c": "Girl lost at sea #1",
+     "n": "Tara Wraith"
+    },
+    {
+     "c": "Girl lost at sea #2",
+     "n": "Teagan Berger"
+    },
+    {
+     "c": "Chris Bath",
+     "n": "Chris Bath"
+    },
+    {
+     "c": "Robert Ovadia",
+     "n": "Robert Ovadia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gerald Rascionato"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 420707,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity: Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival...And death.",
+   "popularity": 2.3823,
+   "poster_path": "/3uUO9eDxHeDREIX77BaQiI88ajp.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-17",
+   "revenue": 863413,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "First you find the sharks. Then they find you.",
+   "title": "Cage Dive",
+   "trailer": {
+    "key": "hS2-t77lDz8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.573,
+   "vote_count": 361
   },
   "movie:4507": {
    "backdrop_path": "/nmXzGIkLqChoPEAWauG9LdiNw37.jpg",
@@ -2589,6 +3425,175 @@
    "type": "movie",
    "vote_average": 5.915,
    "vote_count": 405
+  },
+  "movie:538207": {
+   "backdrop_path": "/srEsK6LPJSMd0LndDIzxtBEiKNS.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Daniel",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Rincon",
+     "n": "David Castañeda"
+    },
+    {
+     "c": "Anna",
+     "n": "Joana Metrass"
+    },
+    {
+     "c": "Lucas",
+     "n": "Elijah Rodriguez"
+    },
+    {
+     "c": "Miguel",
+     "n": "Nicholas Sean Johnny"
+    },
+    {
+     "c": "Jester",
+     "n": "Charlie MacGechan"
+    },
+    {
+     "c": "Mousy",
+     "n": "Dean John-Wilson"
+    },
+    {
+     "c": "Felix",
+     "n": "Jim Caesar"
+    },
+    {
+     "c": "Brenda",
+     "n": "Kerry Bennett"
+    },
+    {
+     "c": "Spider",
+     "n": "Uriel Emil Pollack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lior Geller"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 538207,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won't follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.",
+   "popularity": 2.4224,
+   "poster_path": "/1rvsmRHfjIalt2LBDrEkyKFOQgo.jpg",
+   "production_countries": [
+    "BG",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-09",
+   "revenue": 143837,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every life is worth saving.",
+   "title": "We Die Young",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 364
   },
   "movie:563907": {
    "backdrop_path": "/6ZIx11OQh6nrMRBNeVZuqLRNhqq.jpg",

@@ -1,7 +1,135 @@
 {
  "bucket": "48",
- "count": 36,
+ "count": 49,
  "titles": {
+  "movie:10348": {
+   "backdrop_path": "/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",
+   "budget": 3825240,
+   "cast": [
+    {
+     "c": "Chan Foh-To",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Amy Yip",
+     "n": "Anita Yuen Wing-yee"
+    },
+    {
+     "c": "Steve Cannon",
+     "n": "Michael Wong"
+    },
+    {
+     "c": "Warner 'Cougar' Kaugman",
+     "n": "Thorsten Nickel"
+    },
+    {
+     "c": "Uncle Chan Chun Tung",
+     "n": "Chor Yuen"
+    },
+    {
+     "c": "Da-Mui",
+     "n": "Daisy Woo Hoi-yan"
+    },
+    {
+     "c": "Siu-Mui",
+     "n": "Annie Man Chung-han"
+    },
+    {
+     "c": "Coach Mirakami",
+     "n": "Yūzō Kayama"
+    },
+    {
+     "c": "Miss Kenya",
+     "n": "Marie Eguro"
+    },
+    {
+     "c": "Saw",
+     "n": "Kenya Sawada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gordon Chan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 10348,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In order to release his kidnapped sisters, sports car mechanic, Chan Foh To, has to defeat a super-criminal street racer.",
+   "popularity": 3.102,
+   "poster_path": "/dhdT4JIqC2kExGPMmLcicAMthtJ.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-08-05",
+   "revenue": 16982903,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "cn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The stakes don't come much higher.",
+   "title": "Thunderbolt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 344
+  },
   "movie:1088548": {
    "backdrop_path": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
    "budget": 11700000,
@@ -360,6 +488,174 @@
    "type": "movie",
    "vote_average": 5.596,
    "vote_count": 73
+  },
+  "movie:113148": {
+   "backdrop_path": "/5vNn4LReE0p5AFDVpspYU2ZY8HV.jpg",
+   "budget": 725000,
+   "cast": [
+    {
+     "c": "Alvin",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Lance",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Truck Driver",
+     "n": "Lance LeGault"
+    },
+    {
+     "c": "Lady",
+     "n": "Joyce Payne"
+    },
+    {
+     "c": "Madison",
+     "n": "Gina Grande"
+    },
+    {
+     "c": "Madison (voice)",
+     "n": "Lynn Shelton"
+    },
+    {
+     "c": "Lumberjack",
+     "n": "Larry Kretchmar"
+    },
+    {
+     "c": "Lumberjack",
+     "n": "Enoch Moon"
+    },
+    {
+     "c": "Lumberjack",
+     "n": "David L. Osborne Jr."
+    },
+    {
+     "c": "Lumberjack",
+     "n": "Danni Wolcott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Gordon Green"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 113148,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two highway road workers spend the summer of 1988 away from their city lives. The isolated landscape becomes a place of misadventure as the men find themselves at odds with each other and the women they left behind.",
+   "popularity": 0.9437,
+   "poster_path": "/kCfs93bW6FdLIZoYN5pYILysyx4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-02-13",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Prince Avalanche",
+   "trailer": {
+    "key": "I7Ny5FyHtmE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 347
   },
   "movie:1161048": {
    "backdrop_path": "/rrucFNW1qOgSPL4n2Fy6CdpBDEY.jpg",
@@ -1566,6 +1862,224 @@
    "vote_average": 6.483,
    "vote_count": 459
   },
+  "movie:24548": {
+   "backdrop_path": "/wXYv3mC6mZPVChHBMxF2tVILcLb.jpg",
+   "budget": 11500000,
+   "cast": [
+    {
+     "c": "Terry",
+     "n": "Joyce Hyser"
+    },
+    {
+     "c": "Rick",
+     "n": "Clayton Rohner"
+    },
+    {
+     "c": "Buddy",
+     "n": "Billy Jayne"
+    },
+    {
+     "c": "Greg",
+     "n": "William Zabka"
+    },
+    {
+     "c": "Denise",
+     "n": "Toni Hudson"
+    },
+    {
+     "c": "Kevin",
+     "n": "Leigh McCloskey"
+    },
+    {
+     "c": "Sandy",
+     "n": "Sherilyn Fenn"
+    },
+    {
+     "c": "Deborah",
+     "n": "Deborah Goodrich"
+    },
+    {
+     "c": "Mr. Raymaker",
+     "n": "Kenneth Tigar"
+    },
+    {
+     "c": "Willie",
+     "n": "Arye Gross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lisa Gottlieb"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 24548,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Terry Griffith loses her high school's writing competition, she's convinced that it's because she's a girl. So Terry decides to change high schools and pose as a boy to prove her point. Her brother, Buddy, helps her pass as a guy so well that she is soon making friends with the boys at school, including the attractive Rick, who becomes her new best friend. But her gender-swapping makes things difficult when she falls in love with him.",
+   "popularity": 2.6157,
+   "poster_path": "/7ffvsRv8ueYYK0H3zocmNRPd8yN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-04-26",
+   "revenue": 11528900,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's about to go where no girl has gone before!",
+   "title": "Just One of the Guys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 354
+  },
+  "movie:24748": {
+   "backdrop_path": "/dlmROevxOVYtZXRUzt6DGJzl9BL.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Hud Bannon",
+     "n": "Paul Newman"
+    },
+    {
+     "c": "Homer Bannon",
+     "n": "Melvyn Douglas"
+    },
+    {
+     "c": "Alma Brown",
+     "n": "Patricia Neal"
+    },
+    {
+     "c": "Lon 'Lonnie' Bannon",
+     "n": "Brandon De Wilde"
+    },
+    {
+     "c": "Mr. Burris",
+     "n": "Whit Bissell"
+    },
+    {
+     "c": "Jesse",
+     "n": "Crahan Denton"
+    },
+    {
+     "c": "Hermy",
+     "n": "John Ashley"
+    },
+    {
+     "c": "Jose",
+     "n": "Val Avery"
+    },
+    {
+     "c": "Joe Scanlon",
+     "n": "George Petrie"
+    },
+    {
+     "c": "Truman Peters",
+     "n": "Curt Conway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Martin Ritt"
+   ],
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "id": 24748,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hud Bannon is a ruthless young man who tarnishes everything and everyone he touches. Hud represents the perfect embodiment of alienated youth, out for kicks with no regard for the consequences. There is bitter conflict between the callous Hud and his stern and highly principled father, Homer. Hud's nephew Lon admires Hud's cheating ways, though he soon becomes too aware of Hud's reckless amorality to bear him anymore. In the world of the takers and the taken, Hud is a winner. He's a cheat, but, he explains, \"I always say the law was meant to be interpreted in a lenient manner.\"",
+   "popularity": 2.2924,
+   "poster_path": "/54HnZLY03BN9jc1yVCrzZaWxMGG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1963-05-29",
+   "revenue": 10000000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The man with the barbed-wire soul.",
+   "title": "Hud",
+   "trailer": {
+    "key": "9uSurLxEiRc",
+    "name": "Imprint Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.27,
+   "vote_count": 380
+  },
   "movie:26648": {
    "backdrop_path": "/ljaYQnoTmdawkRqUquu4kCMQqO9.jpg",
    "budget": 0,
@@ -2013,6 +2527,175 @@
    "vote_average": 6.127,
    "vote_count": 407
   },
+  "movie:2748": {
+   "backdrop_path": "/5SDqKj8AfUazPqXvOCDL1nmE8Zb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katherine Joyce",
+     "n": "Ingrid Bergman"
+    },
+    {
+     "c": "Alex Joyce",
+     "n": "George Sanders"
+    },
+    {
+     "c": "Marie",
+     "n": "Maria Mauban"
+    },
+    {
+     "c": "Prostitute",
+     "n": "Anna Proclemer"
+    },
+    {
+     "c": "Paul Dupont",
+     "n": "Paul Müller"
+    },
+    {
+     "c": "Tony Burton",
+     "n": "Leslie Daniels"
+    },
+    {
+     "c": "Natalie Burton",
+     "n": "Natalia Ray"
+    },
+    {
+     "c": "Betty",
+     "n": "Jackie Frost"
+    },
+    {
+     "c": "Judy's Friend (uncredited)",
+     "n": "Bianca Maria Cerasoli"
+    },
+    {
+     "c": "Judy's Friend (uncredited)",
+     "n": "Adriana Danieli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Roberto Rossellini"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 2748,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense.",
+   "popularity": 2.2682,
+   "poster_path": "/d470qCzer5cTLRdeN0iTCQCJiOc.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1954-09-08",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Journey to Italy",
+   "trailer": {
+    "key": "XXJM3shx8WU",
+    "name": "Journey to Italy (1953) - trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.237,
+   "vote_count": 352
+  },
   "movie:301348": {
    "backdrop_path": "/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
    "budget": 5000000,
@@ -2124,6 +2807,131 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 452
+  },
+  "movie:320048": {
+   "backdrop_path": "/rmwyGjvG2SPox7jVudJXWu1YrQS.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Emma Taylor",
+     "n": "Ashley Benson"
+    },
+    {
+     "c": "Michael",
+     "n": "Matt McGorry"
+    },
+    {
+     "c": "Nicole",
+     "n": "Rebecca Naomi Jones"
+    },
+    {
+     "c": "Greg",
+     "n": "Jon Bass"
+    },
+    {
+     "c": "Emma's Mom",
+     "n": "Kaili Vernoff"
+    },
+    {
+     "c": "Emma's Dad",
+     "n": "Ted Koch"
+    },
+    {
+     "c": "Alissa",
+     "n": "Tali Custer"
+    },
+    {
+     "c": "Alex",
+     "n": "Michael William Freeman"
+    },
+    {
+     "c": "Kent",
+     "n": "John Anderson"
+    },
+    {
+     "c": "Professor",
+     "n": "Alex Cranmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Branden Kramer"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 320048,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Emma is a young and beautiful graduate student just starting a new life in New York City. Like most people her age, she is always connected - her phone and laptop are constant companions, documenting her most intimate moments. What she doesn't realize is that she's sharing her life with an uninvited and dangerous guest. A hacker is following Emma’s every move. When the voyeuristic thrill of watching her digitally isn't enough, the situation escalates to a dangerous and terrifying level.",
+   "popularity": 1.3955,
+   "poster_path": "/vSwYyxa12OqcrVnW6qPGqIBFyh2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-02-24",
+   "revenue": 110834,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At this moment someone could be listening... watching... recording...",
+   "title": "Ratter",
+   "trailer": {
+    "key": "8l6BwYMhyYw",
+    "name": "Ratter - Official Trailer - Now on DVD and Digital!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 348
   },
   "movie:325848": {
    "backdrop_path": "/fkVNy4cJOQVTelANXu0wh5wQ8hL.jpg",
@@ -2281,6 +3089,149 @@
    "type": "movie",
    "vote_average": 5.793,
    "vote_count": 496
+  },
+  "movie:38448": {
+   "backdrop_path": "/myYFabjrPz1Gbt3bB3GnEo6OlSN.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Syracuse",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Ondine",
+     "n": "Alicja Bachleda-Curuś"
+    },
+    {
+     "c": "Maura",
+     "n": "Dervla Kirwan"
+    },
+    {
+     "c": "Annie",
+     "n": "Alison Barry"
+    },
+    {
+     "c": "Nurse - Dialysis",
+     "n": "Marion O'Dwyer"
+    },
+    {
+     "c": "Alex",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Fish Co Op Worker",
+     "n": "Mary O'Shea"
+    },
+    {
+     "c": "Draper's Shop Tracy",
+     "n": "Gemma Reeves"
+    },
+    {
+     "c": "Priest",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Librarian",
+     "n": "Norma Sheahan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Neil Jordan"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 38448,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the coast of Cork, Syracuse is a divorced fisherman who has stopped drinking. His precocious daughter Annie has failing kidneys. One day, he finds a nearly-drowned young woman in his net; she calls herself Ondine and wants no one to see her. He puts her up in an isolated cottage that was his mother's. Annie discovers Ondine's presence and believes she is a selkie, a seal that turns human while on land. Syracuse is afraid to hope again.",
+   "popularity": 1.3122,
+   "poster_path": "/rQSQisWjIjXnGGenrpjG1GlQcRf.jpg",
+   "production_countries": [
+    "IE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-03-05",
+   "revenue": 1790061,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ro",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The truth is not what you know. It's what you believe.",
+   "title": "Ondine",
+   "trailer": {
+    "key": "rs8DiJaLhlY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.408,
+   "vote_count": 374
   },
   "movie:39148": {
    "backdrop_path": "/cJ2CNxc1AQh5raZgxeQreGKxale.jpg",
@@ -2774,6 +3725,95 @@
    "vote_average": 4.751,
    "vote_count": 412
   },
+  "movie:462148": {
+   "backdrop_path": "/76KK7mJlgytYaqscUTTpXzHuxo8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabriel",
+     "n": "Kev Adams"
+    },
+    {
+     "c": "Marie-Zoé",
+     "n": "Mélanie Bernier"
+    },
+    {
+     "c": "Tonton Joe",
+     "n": "Marc Lavoine"
+    },
+    {
+     "c": "Mr. Dickinson",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "Henrietta",
+     "n": "Sveva Alviti"
+    },
+    {
+     "c": "Régine",
+     "n": "Claude Perron"
+    },
+    {
+     "c": "Gérald",
+     "n": "Stéphane Debac"
+    },
+    {
+     "c": "Benoît",
+     "n": "Maxime Gasteuil"
+    },
+    {
+     "c": "Karine la pyromane",
+     "n": "Clémence Faure"
+    },
+    {
+     "c": "Doctor",
+     "n": "Guy Lecluyse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Frank Bellocq"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 462148,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Gabriel can't resist a beautiful woman. But his womanizing attitude is taking a toll on his career and social life. He decides to hire a life coach to help him.",
+   "popularity": 1.1666,
+   "poster_path": "/7Fqa4rMCqY39YgKNxrGdOvkobUY.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-04-18",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Coach me if you can!",
+   "title": "Love Addict",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.849,
+   "vote_count": 368
+  },
   "movie:490448": {
    "backdrop_path": "/dGCJdSwulQdqSklrqdsPYWMXRlU.jpg",
    "budget": 0,
@@ -2861,6 +3901,728 @@
    "type": "movie",
    "vote_average": 5.664,
    "vote_count": 412
+  },
+  "movie:50848": {
+   "backdrop_path": "/xZdIykZigrLEwD7ILa4mvII4VcD.jpg",
+   "budget": 4600000,
+   "cast": [
+    {
+     "c": "Arthur Martin",
+     "n": "Jacques Gamblin"
+    },
+    {
+     "c": "Bahia Benmahmoud",
+     "n": "Sara Forestier"
+    },
+    {
+     "c": "Mohamed Benmahmoud, le père de Bahia",
+     "n": "Zinedine Soualem"
+    },
+    {
+     "c": "Lucien Martin, le père d'Arthur",
+     "n": "Jacques Boudet"
+    },
+    {
+     "c": "Cécile Benhmamoud, la mère de Bahia",
+     "n": "Carole Franck"
+    },
+    {
+     "c": "Annette Martin, la mère d'Arthur",
+     "n": "Michèle Moretti"
+    },
+    {
+     "c": "Annette à 30 ans",
+     "n": "Julia Vaidis-Bogard"
+    },
+    {
+     "c": "Nassim",
+     "n": "Nabil Massad"
+    },
+    {
+     "c": "Hassan Hassini",
+     "n": "Zakariya Gouram"
+    },
+    {
+     "c": "Arthur Martin adolescent",
+     "n": "Adrien Stoclet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Michel Leclerc"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 50848,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Bahia Benmahmoud, a free-spirited young woman, has a particular way of seeing political engagement, as she doesn't hesitate to sleep with those who don't agree with her to convert them to her cause - which is a lot of people, as all right-leaning people are concerned. Generally, it works pretty well. Until the day she meets Arthur Martin, a discreet forty-something who doesn't like taking risks. She imagines that with a name like that, he's got to be slightly fascist. But names are deceitful and appearances deceiving.",
+   "popularity": 1.1803,
+   "poster_path": "/qnUyni6Cc5bQbgyvvof6yNwoIUd.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Chai Flicks"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-11-24",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Make love, not war",
+   "title": "The Names of Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 344
+  },
+  "movie:517148": {
+   "backdrop_path": "/t3BM7zeE7T0i12ZTA0PFDc92rGz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Iya Sergueeva",
+     "n": "Viktoriya Miroshnichenko"
+    },
+    {
+     "c": "Masha",
+     "n": "Vasilisa Perelygina"
+    },
+    {
+     "c": "Stepan",
+     "n": "Konstantin Balakirev"
+    },
+    {
+     "c": "Lyubov Petrovna",
+     "n": "Kseniya Kutepova"
+    },
+    {
+     "c": "Seamstress",
+     "n": "Olga Dragunova"
+    },
+    {
+     "c": "Nikolay Ivanovich",
+     "n": "Andrey Bykov"
+    },
+    {
+     "c": "Sasha",
+     "n": "Igor Shirokov"
+    },
+    {
+     "c": "Pashka",
+     "n": "Timofey Glazkov"
+    },
+    {
+     "c": "Stepan's Wife",
+     "n": "Alyona Kuchkova"
+    },
+    {
+     "c": "Sasha's Friend",
+     "n": "Veniamin Kac"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kantemir Balagov"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 517148,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "1945, Leningrad. World War II has devastated the city, demolishing its buildings and leaving its citizens in tatters, physically and mentally. Two young women, Iya and Masha, search for meaning and hope in the struggle to rebuild their lives amongst the ruins.",
+   "popularity": 1.2683,
+   "poster_path": "/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg",
+   "production_countries": [
+    "RU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-06-20",
+   "revenue": 0,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Beanpole",
+   "trailer": {
+    "key": "73_7Y95snIs",
+    "name": "Official U.S. Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.029,
+   "vote_count": 368
+  },
+  "movie:56648": {
+   "backdrop_path": "/viADylz58ZMoNsnZPCrQMyDbHZY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "François Perrin, journalist",
+     "n": "Pierre Richard"
+    },
+    {
+     "c": "Pierre Rambal-Cochet, powerful businessman",
+     "n": "Michel Bouquet"
+    },
+    {
+     "c": "Eric Rambal-Cochet, son of Pierre",
+     "n": "Fabrice Greco"
+    },
+    {
+     "c": "Mr. de Blénac, editor-in-chief of the newspaper",
+     "n": "Jacques François"
+    },
+    {
+     "c": "The family man",
+     "n": "Daniel Ceccaldi"
+    },
+    {
+     "c": "The photographer, colleague of François",
+     "n": "Charles Gérard"
+    },
+    {
+     "c": "Georges Pouzier, owner of the toy store",
+     "n": "Michel Aumont"
+    },
+    {
+     "c": "Pignier, journalist with sweaty hands",
+     "n": "Gérard Jugnot"
+    },
+    {
+     "c": "Christine Rambal-Cochet, Pierre's young wife",
+     "n": "Suzy Dyson"
+    },
+    {
+     "c": "The butler",
+     "n": "Michel Robin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Francis Veber"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 56648,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When Francois, a journalist, tours a big store for an article, he is chosen by the son of the newspaper's owner, Rambal-Cochet, as his new toy. Needing money and unwilling to quit his job, Francois agrees to this ridiculous assignment. Gradually befriending the spoiled boy, he induces him to play at making a newspaper, unveiling publicly the tyrannical way of life of the father. The powerful emotional climax we experience with the child astonishes both men.",
+   "popularity": 1.2721,
+   "poster_path": "/o4X5KTSqAvelfw49Gx5BZDUEYCm.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-12-08",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Toy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.931,
+   "vote_count": 348
+  },
+  "movie:67748": {
+   "backdrop_path": "/1KlJVF0xXLeFq2KTIjzA2LvWHH9.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Jamie Vlassakis",
+     "n": "Lucas Pittaway"
+    },
+    {
+     "c": "John Bunting",
+     "n": "Daniel Henshall"
+    },
+    {
+     "c": "Elizabeth Harvey",
+     "n": "Louise Harris"
+    },
+    {
+     "c": "Jeffrey",
+     "n": "Frank Cwertniak"
+    },
+    {
+     "c": "Nicholas",
+     "n": "Matthew Howard"
+    },
+    {
+     "c": "Alex",
+     "n": "Marcus Howard"
+    },
+    {
+     "c": "Troy",
+     "n": "Anthony Groves"
+    },
+    {
+     "c": "Barry",
+     "n": "Richard Green"
+    },
+    {
+     "c": "Robert",
+     "n": "Aaron Viergever"
+    },
+    {
+     "c": "David",
+     "n": "Beau Gosling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Justin Kurzel"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 67748,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Based on true events, 16 year-old Jamie falls in with his mother's new boyfriend and his crowd of self-appointed neighborhood watchmen, a relationship that leads to a spree of torture and murder.",
+   "popularity": 1.7194,
+   "poster_path": "/5LW1vPLa8ueVwdOgR8w5xYkSQGv.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "IFC Films Unlimited Apple TV channel"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lJ8Lh0SMfJgfWTV3rpFUjuaH26q.png",
+     "name": "IFC Films Unlimited Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-05-19",
+   "revenue": 1349387,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Australia's most infamous crime story",
+   "title": "Snowtown",
+   "trailer": {
+    "key": "WQQG2zJN7PM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.28,
+   "vote_count": 381
+  },
+  "movie:8748": {
+   "backdrop_path": "/pVIDe1IBxEnsCEbBP9fQQYIQsm0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lily",
+     "n": "Loren Taylor"
+    },
+    {
+     "c": "Jarrod",
+     "n": "Jemaine Clement"
+    },
+    {
+     "c": "Damon",
+     "n": "Joel Tobeck"
+    },
+    {
+     "c": "Jonah",
+     "n": "Brian Sergent"
+    },
+    {
+     "c": "Doug",
+     "n": "Craig Hall"
+    },
+    {
+     "c": "Nancy",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Vinny",
+     "n": "Morag Hills"
+    },
+    {
+     "c": "Zane",
+     "n": "Bernard Stewart"
+    },
+    {
+     "c": "Gordon",
+     "n": "Taika Waititi"
+    },
+    {
+     "c": "Eric Elisi",
+     "n": "David Fane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Taika Waititi"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 8748,
+   "industry": "world",
+   "origin_country": [
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "Love blossoms for Lily over double Meaty Boy burgers at mid-day when uber-computer nerd Jarrod comes in and leaves with free extra large fries.  After gatecrashing Jarrod's party and proving her skills on the game console, Lily goes down to Jarrod's home town with him so he can settle an old score with a past school bully.",
+   "popularity": 1.1843,
+   "poster_path": "/bHGHxXX8jOLV33r8rf1wjBkIdgr.jpg",
+   "production_countries": [
+    "NZ"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-15",
+   "revenue": 1300000,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's Someone For Everyone... Luckily Love Is Blind.",
+   "title": "Eagle vs Shark",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 353
   },
   "movie:970348": {
    "backdrop_path": "/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",

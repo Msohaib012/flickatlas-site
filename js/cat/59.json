@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 36,
+ "count": 46,
  "titles": {
   "movie:104859": {
    "backdrop_path": "/hozr6lmxzdEAwADSINd4YQjmTg6.jpg",
@@ -598,6 +598,184 @@
    "vote_average": 6.204,
    "vote_count": 1440
   },
+  "movie:11859": {
+   "backdrop_path": "/iFfbBL8vtiuTkqb9Os7lO8y3KnY.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Max Kirkpatrick",
+     "n": "William Baldwin"
+    },
+    {
+     "c": "Kate McQueen",
+     "n": "Cindy Crawford"
+    },
+    {
+     "c": "Colonel Ilya Kazak",
+     "n": "Steven Berkoff"
+    },
+    {
+     "c": "Lieutenant Meyerson",
+     "n": "Christopher McDonald"
+    },
+    {
+     "c": "Emilio Juantorena",
+     "n": "Miguel Sandoval"
+    },
+    {
+     "c": "Jodi Kirkpatrick",
+     "n": "Johann Carlo"
+    },
+    {
+     "c": "Rita",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Louis Aragon",
+     "n": "John Bedford Lloyd"
+    },
+    {
+     "c": "Rosa",
+     "n": "Jenette Goldstein"
+    },
+    {
+     "c": "Leonide \"the Hacker\" Volkov",
+     "n": "Paul Dillon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Sipes"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 11859,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Max Kirkpatrick is a cop who protects Kate McQuean, a civil law attorney, from a renegade KGB team out to terminate her",
+   "popularity": 2.522,
+   "poster_path": "/qcxsWOzBaF7MZNNThtRQWQ9Wrdk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-11-03",
+   "revenue": 11500000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's a cop on the edge. She's a woman with a dangerous secret. They've been targeted by the Russian mob, and now they're both Fair Game.",
+   "title": "Fair Game",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.163,
+   "vote_count": 358
+  },
   "movie:11959": {
    "backdrop_path": "/dAz8vPSI2daM4ZVrHSKnpNLUvDM.jpg",
    "budget": 5000000,
@@ -707,6 +885,145 @@
    "type": "movie",
    "vote_average": 6.66,
    "vote_count": 441
+  },
+  "movie:12259": {
+   "backdrop_path": "/mUAvhPWY4r7O32txXa7VvzKMrhJ.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Veeru",
+     "n": "Dharmendra"
+    },
+    {
+     "c": "Jai",
+     "n": "Amitabh Bachchan"
+    },
+    {
+     "c": "Thakur Baldev Singh",
+     "n": "Sanjeev Kumar"
+    },
+    {
+     "c": "Gabbar Singh",
+     "n": "Amjad Khan"
+    },
+    {
+     "c": "Basanti",
+     "n": "Hema Malini"
+    },
+    {
+     "c": "Radha",
+     "n": "Jaya Bachchan"
+    },
+    {
+     "c": "Mausi",
+     "n": "Leela Mishra"
+    },
+    {
+     "c": "Sambha",
+     "n": "Mac Mohan"
+    },
+    {
+     "c": "Kaalia",
+     "n": "Viju Khote"
+    },
+    {
+     "c": "Imaam Saheb",
+     "n": "A.K. Hangal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Ramesh Sippy"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 12259,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "After his family is slain by notorious bandit Gabbar Singh, former Inspector Thakur Baldev Singh enlists low-level outlaws Jai and Veeru to capture Gabbar and seek revenge.",
+   "popularity": 2.4552,
+   "poster_path": "/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1975-08-15",
+   "revenue": 70000000,
+   "runtime": 208,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "The greatest cast ever assembled! The greatest story ever told!",
+   "title": "Sholay",
+   "trailer": {
+    "key": "RDY97iu1_q8",
+    "name": "India’s Biggest Blockbuster Is Back in cinemas [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.092,
+   "vote_count": 342
   },
   "movie:1245859": {
    "backdrop_path": "/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
@@ -1331,6 +1648,184 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 304
+  },
+  "movie:13059": {
+   "backdrop_path": "/vguQyReCAYJg6EVwokOLPWAZwuH.jpg",
+   "budget": 50000,
+   "cast": [
+    {
+     "c": "Mya Denton",
+     "n": "Anessa Ramsey"
+    },
+    {
+     "c": "Ben Capstone",
+     "n": "Justin Welborn"
+    },
+    {
+     "c": "Lewis Denton",
+     "n": "AJ Bowen"
+    },
+    {
+     "c": "Clark",
+     "n": "Scott Poythress"
+    },
+    {
+     "c": "Rod",
+     "n": "Sahr Ngaujah"
+    },
+    {
+     "c": "Laura",
+     "n": "Lindsey Garrett"
+    },
+    {
+     "c": "Jim Parsons",
+     "n": "Chad McKnight"
+    },
+    {
+     "c": "Ken",
+     "n": "Christopher Thomas"
+    },
+    {
+     "c": "Jerry",
+     "n": "Matthew Stanton"
+    },
+    {
+     "c": "Janice",
+     "n": "Suehyla El-Attar Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jacob Gentry",
+    "David Bruckner",
+    "Dan Bush"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 13059,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A horror film told in three parts, from three perspectives, in which a mysterious transmission that turns people into killers invades every cell phone, radio, and television.",
+   "popularity": 1.398,
+   "poster_path": "/qRs8osQJZLItwQER2bzuuK9A0sp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-13",
+   "revenue": 249905,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Do you have the crazy?",
+   "title": "The Signal",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 355
   },
   "movie:13159": {
    "backdrop_path": "/kE3HQaJx9IuQCMIn3VVCXazXTea.jpg",
@@ -1961,6 +2456,114 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 177
+  },
+  "movie:152259": {
+   "backdrop_path": "/bpy9DzqhLN4oPxaHxFMQKG20v08.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Demi",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Bruni",
+     "n": "David Duchovny"
+    },
+    {
+     "c": "Markov",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Alex",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Pavlov",
+     "n": "Johnathon Schaech"
+    },
+    {
+     "c": "Semak",
+     "n": "Jason Beghe"
+    },
+    {
+     "c": "Sophi",
+     "n": "Dagmara Dominczyk"
+    },
+    {
+     "c": "Garin",
+     "n": "Derek Magyar"
+    },
+    {
+     "c": "Tyrtov",
+     "n": "Sean Patrick Flanery"
+    },
+    {
+     "c": "Sasha",
+     "n": "Jason Gray-Stanford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Robinson"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 152259,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The haunted Captain of a Soviet submarine holds the fate of the world in his hands. Forced to leave his family behind, he is charged with leading a covert mission cloaked in mystery.",
+   "popularity": 2.201,
+   "poster_path": "/lA1CRLLy3mA5bbut4g3u3CKBrZX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-01-03",
+   "revenue": 1197759,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You will never see it coming.",
+   "title": "Phantom",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.862,
+   "vote_count": 372
   },
   "movie:1536559": {
    "backdrop_path": "/5wvi1AfmGubxjftZgVsNVmJ6tHU.jpg",
@@ -3099,6 +3702,297 @@
    "vote_average": 6.164,
    "vote_count": 423
   },
+  "movie:438259": {
+   "backdrop_path": "/32c48NEZOJxBvpN4FkaObQTOhjH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Raleigh",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Captain Stanhope",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Osborne",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Hibbert",
+     "n": "Tom Sturridge"
+    },
+    {
+     "c": "Mason",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Trotter",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "The Colonel",
+     "n": "Robert Glenister"
+    },
+    {
+     "c": "Watson",
+     "n": "Theo Barklem-Biggs"
+    },
+    {
+     "c": "Hardy",
+     "n": "Miles Jupp"
+    },
+    {
+     "c": "Adjutant",
+     "n": "Oliver Dimsdale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Saul Dibb"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Action"
+   ],
+   "id": 438259,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set in a dugout in Aisne in 1918, a group of British officers, led by the mentally disintegrating young officer Stanhope, variously await their fate.",
+   "popularity": 1.7799,
+   "poster_path": "/5gGkt84bCPt7XRo35FcsrOeer78.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-12-14",
+   "revenue": 979521,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Innocence Lost... Courage Found",
+   "title": "Journey's End",
+   "trailer": {
+    "key": "936z-F_nEEQ",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 345
+  },
+  "movie:459": {
+   "backdrop_path": "/5WuvIg4f2AdFPLUADFjxexVAb2H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Empress Elisabeth",
+     "n": "Romy Schneider"
+    },
+    {
+     "c": "Emperor Franz Joseph",
+     "n": "Karlheinz Böhm"
+    },
+    {
+     "c": "Duchess Ludovika",
+     "n": "Magda Schneider"
+    },
+    {
+     "c": "Duke Max",
+     "n": "Gustav Knuth"
+    },
+    {
+     "c": "Princess Helene",
+     "n": "Uta Franz"
+    },
+    {
+     "c": "Count Andrassy",
+     "n": "Walther Reyer"
+    },
+    {
+     "c": "Archduchess Sophie",
+     "n": "Vilma Degischer"
+    },
+    {
+     "c": "Major Böckl",
+     "n": "Josef Meinrad"
+    },
+    {
+     "c": "Countess Bellegarde",
+     "n": "Senta Wengraf"
+    },
+    {
+     "c": "Helena auf Korfu",
+     "n": "Chariklia Baxevanos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Ernst Marischka"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "History"
+   ],
+   "id": 459,
+   "industry": "world",
+   "origin_country": [
+    "AT"
+   ],
+   "original_language": "de",
+   "overview": "After a wonderful time in Hungary Sissi falls extremely ill and must retreat to a Mediterranean climate to rest. The young empress’ mother takes her from Austria to recover in Madeira.",
+   "popularity": 2.273,
+   "poster_path": "/o6B5zxNzWR6hvT77IbjjUXdCtEu.jpg",
+   "production_countries": [
+    "AT"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1957-12-18",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sissi: The Fateful Years of an Empress",
+   "trailer": {
+    "key": "q4zV81VvWRI",
+    "name": "Sissi (1955) | Trailer | Romy Schneider | Karlheinz Böhm | Magda Schneider",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 363
+  },
   "movie:460059": {
    "backdrop_path": "/JYyQPEd22hldQLIaNLZI5oFvmM.jpg",
    "budget": 0,
@@ -3273,6 +4167,159 @@
    "vote_average": 6.765,
    "vote_count": 387
   },
+  "movie:50759": {
+   "backdrop_path": "/hl3ZJljnYIfjhDRgahVXsUKyVnH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shuhei Hirayama",
+     "n": "Chishū Ryū"
+    },
+    {
+     "c": "Michiko Hirayama",
+     "n": "Shima Iwashita"
+    },
+    {
+     "c": "Koichi",
+     "n": "Keiji Sada"
+    },
+    {
+     "c": "Akiko",
+     "n": "Mariko Okada"
+    },
+    {
+     "c": "Yutaka Miura",
+     "n": "Teruo Yoshida"
+    },
+    {
+     "c": "Fusako Taguchi",
+     "n": "Noriko Maki"
+    },
+    {
+     "c": "Kazuo",
+     "n": "Shinichirō Mikami"
+    },
+    {
+     "c": "Shuzo Kawai",
+     "n": "Nobuo Nakamura"
+    },
+    {
+     "c": "Sakuma, The 'Gourd'",
+     "n": "Eijirō Tōno"
+    },
+    {
+     "c": "Nobuko",
+     "n": "Kuniko Miyake"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Yasujirō Ozu"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 50759,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Widower Shuhei Hirayama's caretaker is his 24-year-old daughter, Michiko. Gradually, he comes to realize that Michiko should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
+   "popularity": 2.1619,
+   "poster_path": "/e1AjN8MNVLuOoDkMEM2TKmcYEHO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1962-11-18",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "An Autumn Afternoon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.875,
+   "vote_count": 342
+  },
   "movie:537059": {
    "backdrop_path": "/LJzyrq1ixZE8o10DbLkuEDYc7M.jpg",
    "budget": 0,
@@ -3392,6 +4439,396 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 404
+  },
+  "movie:585759": {
+   "backdrop_path": "/3UHkAGbm8H8hbgIUuxyMHOHHLuY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joshua Mansky",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "Agent Stone",
+     "n": "Lotte Verbeek"
+    },
+    {
+     "c": "Agent White",
+     "n": "James Bloor"
+    },
+    {
+     "c": "Alfred",
+     "n": "Robert Więckiewicz"
+    },
+    {
+     "c": "Gienadij Krutow",
+     "n": "Aleksey Serebryakov"
+    },
+    {
+     "c": "Donald Novak",
+     "n": "Corey Johnson"
+    },
+    {
+     "c": "G. Moran",
+     "n": "Nicholas Farrell"
+    },
+    {
+     "c": "Jurij Gawryłow",
+     "n": "Evgeniy Sidikhin"
+    },
+    {
+     "c": "'John Gift'",
+     "n": "Cezary Kosiński"
+    },
+    {
+     "c": "Adiutant Krutowa",
+     "n": "Aleksandr Lobanov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Łukasz Kośmicki"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 585759,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "Warsaw, Poland, during the Cuban Missile Crisis, 1962. Josh Mansky, a troubled math genius and former US chess champion, is recruited to hold a dangerous public match against the Soviet champion, while playing the deadly game of espionage hidden in the darkest shadows of a hostile territory.",
+   "popularity": 1.7315,
+   "poster_path": "/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-11-08",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pl",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Times change — The stakes remain the same.",
+   "title": "The Coldest Game",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.181,
+   "vote_count": 343
+  },
+  "movie:845659": {
+   "backdrop_path": "/sE6uilkTOIdg1zbZ3S8UKJ7Q9Av.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sienna Lane",
+     "n": "Kiana Madeira"
+    },
+    {
+     "c": "Kayden Williams",
+     "n": "Ross Butler"
+    },
+    {
+     "c": "Jax Deneris",
+     "n": "Matthew Noszka"
+    },
+    {
+     "c": "Beth Lane",
+     "n": "Bree Winslow"
+    },
+    {
+     "c": "Brent Jacobs",
+     "n": "Nicholas Duvernay"
+    },
+    {
+     "c": "Julian",
+     "n": "Manu Bennett"
+    },
+    {
+     "c": "Evan Kessler",
+     "n": "Ryan Bown"
+    },
+    {
+     "c": "Cara",
+     "n": "Poppy Gilbert"
+    },
+    {
+     "c": "Athena",
+     "n": "Cecilia Diesch"
+    },
+    {
+     "c": "Bookie",
+     "n": "Alex Czerwinski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Castille Landon"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 845659,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "A female boxing trainer discovers that her champion cage-fighter boyfriend has been cheating on her with her sister and decides to seek revenge by training up his arch-rival to challenge him.",
+   "popularity": 2.966,
+   "poster_path": "/ucO3NFIvMff71cBRR5EgYXPKWMC.jpg",
+   "production_countries": [
+    "DE",
+    "CH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-02-16",
+   "revenue": 143705,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Passion. Determination. Obsession.",
+   "title": "Perfect Addiction",
+   "trailer": {
+    "key": "FibtBUxV9hY",
+    "name": "Official DECAL Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.774,
+   "vote_count": 343
+  },
+  "movie:9959": {
+   "backdrop_path": "/asi4QVM9QSdSAZUo5mpMZVxNaxl.jpg",
+   "budget": 37665000,
+   "cast": [
+    {
+     "c": "Lorenzo Council",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Brenda Martin",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Karen Collucci",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Felicia",
+     "n": "Aunjanue Ellis-Taylor"
+    },
+    {
+     "c": "Boyle",
+     "n": "William Forsythe"
+    },
+    {
+     "c": "Billy Williams",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Lt. Gold",
+     "n": "Peter Friedman"
+    },
+    {
+     "c": "Leo Sullivan",
+     "n": "Domenick Lombardozzi"
+    },
+    {
+     "c": "Dr. Anil Chatterjee",
+     "n": "Aasif Mandvi"
+    },
+    {
+     "c": "Priest",
+     "n": "Philip Bosco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Roth"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 9959,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A black police detective must solve a strange case of a kidnapped boy and deal with a big racial protest.",
+   "popularity": 1.9512,
+   "poster_path": "/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-02-17",
+   "revenue": 14655628,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The Truth Is Hiding Where No One Dares To Look.",
+   "title": "Freedomland",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 374
   },
   "tv:113959": {
    "backdrop_path": "/8UuyKCIaX0MqcECmcgPxFCANkq4.jpg",

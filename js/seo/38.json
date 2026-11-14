@@ -1,7 +1,135 @@
 {
  "bucket": "38",
- "count": 36,
+ "count": 45,
  "titles": {
+  "movie:10938": {
+   "d": "Beautiful Thing (1996): Comedy/Drama film. Story: During a long, hot summer on the Thamesmead Estate in… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2qGHNcU8YBIbvNc8HR1YczBeejA.jpg",
+   "industry": "world",
+   "k": "Beautiful Thing, Beautiful Thing movie, Beautiful Thing cast, Beautiful Thing story, Beautiful Thing box office collection, Beautiful Thing budget, Beautiful Thing review, Beautiful Thing rating, Beautiful Thing release date, Beautiful Thing trailer, Beautiful Thing Comedy, Beautiful Thing Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Glen Berry"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Neal"
+     },
+     {
+      "@type": "Person",
+      "name": "Linda Henry"
+     },
+     {
+      "@type": "Person",
+      "name": "Tameka Empson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Daniels"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Beautiful Thing (1996): Comedy/Drama film. Story: During a long, hot summer on the Thamesmead Estate in… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hettie Macdonald"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2qGHNcU8YBIbvNc8HR1YczBeejA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10938",
+    "name": "Beautiful Thing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-06-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10938"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beautiful Thing (1996)</h1>\n<p class=\"ssr-lead\">During a long, hot summer on the Thamesmead Estate in Southeast London, three teenagers edge towards adulthood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 June 1996</li><li>Runtime: 92 minutes</li><li>Director: Hettie Macdonald</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 7.3/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Glen Berry as Jamie Gangel</li><li>Scott Neal as Steven Pearce</li><li>Linda Henry as Sandra Gangel</li><li>Tameka Empson as Leah</li><li>Ben Daniels as Tony</li><li>Meera Syal as Miss Chauhan</li><li>Garry Cooper as Ronnie Pearce</li><li>Jeillo Edwards as Rose</li><li>Terry Duggan as Kevin</li><li>Anna Karen as Marlene</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Beautiful Thing (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
+  "movie:11338": {
+   "d": "Into the Night (1985): Thriller/Comedy film. Story: Ed Okin used to have a boring life. He used to have… See cast, budget $11.4M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4BzmhmxdhAjsK1gcZfytYGAibr0.jpg",
+   "industry": "world",
+   "k": "Into the Night, Into the Night movie, Into the Night cast, Into the Night story, Into the Night box office collection, Into the Night budget, Into the Night review, Into the Night rating, Into the Night release date, Into the Night trailer, Into the Night Thriller, Into the Night Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Goldblum"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Pfeiffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Argenziano"
+     },
+     {
+      "@type": "Person",
+      "name": "Stacey Pickren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Into the Night (1985): Thriller/Comedy film. Story: Ed Okin used to have a boring life. He used to have… See cast, budget $11.4M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Landis"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Thriller",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4BzmhmxdhAjsK1gcZfytYGAibr0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11338",
+    "name": "Into the Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1985-02-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11338"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Into the Night (1985)</h1>\n<p class=\"ssr-lead\">Ed Okin used to have a boring life. He used to have trouble getting to sleep. Then one night, he met Diana. Now, Ed&#x27;s having trouble staying alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 1985</li><li>Runtime: 115 minutes</li><li>Director: John Landis</li><li>Genres: Thriller, Comedy</li><li>Budget: $11.4M</li><li>TMDB rating: 6.5/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Goldblum as Ed Okin</li><li>Michelle Pfeiffer as Diana</li><li>Dan Aykroyd as Herb</li><li>Carmen Argenziano as Stan</li><li>Stacey Pickren as Ellen Okin</li><li>Paul Mazursky as Bud Herman</li><li>Kathryn Harrold as Christie</li><li>Bruce McGill as Charlie</li><li>David Bowie as Colin Morris</li><li>David Cronenberg as Group Supervisor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Into the Night (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1985"
+  },
   "movie:1154538": {
    "d": "Nirvanna the Band the Show the Movie (2026): Comedy/Science Fiction film. Story: When their plan to book a show at the Rivoli goes… See cast and budget $1.2M.",
    "img": "https://image.tmdb.org/t/p/w780/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
@@ -388,6 +516,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Sad and Beautiful World (2026)</h1>\n<p class=\"ssr-lead\">Across three decades of passion, loss, and hope, Nino and Yasmina are bound by a magnetic relationship. Torn between love and survival, they must decide whether to build a family in Lebanon or leave their home despite tragedies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2026</li><li>Runtime: 110 minutes</li><li>Director: Cyril Aris</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 6.9/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mounia Akl as Yasmina</li><li>Hasan Akil as Nino</li><li>Camille Salameh as Antoine</li><li>Julia Kassar as Omaya</li><li>Tino Karam as Chafic</li><li>Nadyn Chalhoub as Leila</li><li>Alex Choueiry as Young Yasmina</li><li>Valentina Hachem as Amal</li><li>Mohamad Farhat as Young Nino</li><li>Yara Zakhour as Young Omaya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "A Sad and Beautiful World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1405338": {
+   "d": "Demon City (2025): Action/Crime film. Story: Framed for his family's murder and left for dead, an… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+   "industry": "world",
+   "k": "Demon City, Demon City movie, Demon City cast, Demon City story, Demon City box office collection, Demon City budget, Demon City review, Demon City rating, Demon City release date, Demon City trailer, Demon City Action, Demon City Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Toma Ikuta"
+     },
+     {
+      "@type": "Person",
+      "name": "Masahiro Higashide"
+     },
+     {
+      "@type": "Person",
+      "name": "Miou Tanaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Ami Touma"
+     },
+     {
+      "@type": "Person",
+      "name": "Taro Suruga"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Demon City (2025): Action/Crime film. Story: Framed for his family's murder and left for dead, an… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Seiji Tanaka"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1405338",
+    "name": "Demon City",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-02-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1405338"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Demon City (2025)</h1>\n<p class=\"ssr-lead\">Framed for his family&#x27;s murder and left for dead, an ex-hitman will stop at nothing to exact revenge on the masked &quot;demons&quot; who have taken over his city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 February 2025</li><li>Runtime: 106 minutes</li><li>Director: Seiji Tanaka</li><li>Genres: Action, Crime, Fantasy, Thriller</li><li>TMDB rating: 6.8/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toma Ikuta as Shuhei Sakata</li><li>Masahiro Higashide as Kanta Fase</li><li>Miou Tanaka as Homare Takemoto</li><li>Ami Touma as Ryo</li><li>Taro Suruga as Akira Fujita</li><li>Mai Kiryu as Aoi</li><li>Naoto Takenaka as Haruo Kawano</li><li>Takuma Otou as Yoshihito Takigawa</li><li>Matsuya Onoe as Ryu Sunohara</li><li>Masanobu Takashima as Kotaro Shinozuka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Demon City (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:14138": {
    "d": "Black Water (2008): Adventure/Drama film. Story: Based on true events, Grace, her boyfriend Adam, and… See cast, budget $700.0k, and TMDB rating 5.9/10.",
@@ -970,6 +1162,117 @@
    "t": "Falcon Rising (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:30238": {
+   "d": "Earthlings (2005): Documentary film. Story: Using hidden cameras and never-before-seen footage… See cast and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nEo7B55t79RhcbOjLo6Zcbig4Ku.jpg",
+   "industry": "world",
+   "k": "Earthlings, Earthlings movie, Earthlings cast, Earthlings story, Earthlings box office collection, Earthlings budget, Earthlings review, Earthlings rating, Earthlings release date, Earthlings Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joaquin Phoenix"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Earthlings (2005): Documentary film. Story: Using hidden cameras and never-before-seen footage… See cast and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shaun Monson"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nEo7B55t79RhcbOjLo6Zcbig4Ku.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=30238",
+    "name": "Earthlings",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=30238"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Earthlings (2005)</h1>\n<p class=\"ssr-lead\">Using hidden cameras and never-before-seen footage, Earthlings chronicles the day-to-day practices of the largest industries in the world, all of which rely entirely on animals for profit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2005</li><li>Runtime: 95 minutes</li><li>Director: Shaun Monson</li><li>Genres: Documentary</li><li>TMDB rating: 8.1/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joaquin Phoenix as Narrator (voice)</li></ul>\n</article>",
+   "t": "Earthlings (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
+  "movie:35138": {
+   "d": "Little Big Soldier (2010): Action/Comedy film. Story: The story of a farmer forced into conscription, who… See cast, budget $25M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kn0DkkCG459NTwUMzP6qbDWBNcu.jpg",
+   "industry": "world",
+   "k": "Little Big Soldier, Little Big Soldier movie, Little Big Soldier cast, Little Big Soldier story, Little Big Soldier box office collection, Little Big Soldier budget, Little Big Soldier review, Little Big Soldier rating, Little Big Soldier release date, Little Big Soldier trailer, Little Big Soldier Action, Little Big Soldier Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Leehom Wang"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Yoo"
+     },
+     {
+      "@type": "Person",
+      "name": "Lin Peng"
+     },
+     {
+      "@type": "Person",
+      "name": "Du Yuming"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Little Big Soldier (2010): Action/Comedy film. Story: The story of a farmer forced into conscription, who… See cast, budget $25M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ding Sheng"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kn0DkkCG459NTwUMzP6qbDWBNcu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=35138",
+    "name": "Little Big Soldier",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=35138"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Big Soldier (2010)</h1>\n<p class=\"ssr-lead\">The story of a farmer forced into conscription, who has been looking to get out of the army ever since. His great chance arrives when he stumbles upon a wounded general from an enemy state, and he kidnaps him, intending to claim credit for the capture, which includes five acres of land, and most importantly, honorable discharge from the army.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 2010</li><li>Runtime: 96 minutes</li><li>Director: Ding Sheng</li><li>Genres: Action, Comedy, Adventure</li><li>Budget: $25M</li><li>TMDB rating: 6.9/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as The Liang soldier</li><li>Leehom Wang as The Wei general</li><li>Steve Yoo as Prince Wen</li><li>Lin Peng as The Songstress</li><li>Du Yuming as Guard Wu</li><li>Ken Lo Wai-kwong as Guard Yong</li><li>Yu Rongguang as Deputy General Yu</li><li>Wu Yue as Robber</li><li>Jin Song as Lou Fan Wei</li><li>Xu Dongmei as Lou Fan Yan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Little Big Soldier (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:360638": {
    "d": "The Student and Mister Henri (2015): Drama/Comedy film. Story: Because of his wavering health, Monsieur Henri can no… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/rmGm8IPadUrmxy5GCP61DdQJ0PK.jpg",
@@ -1034,6 +1337,70 @@
    "t": "The Student and Mister Henri (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:38438": {
+   "d": "Buffet Froid (1979): Comedy/Crime film. Story: Alphonse Tram is unwittingly involved in several… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ler7oT35s8nxJ5H1bnoKufvMQzX.jpg",
+   "industry": "world",
+   "k": "Buffet Froid, Buffet Froid movie, Buffet Froid cast, Buffet Froid story, Buffet Froid box office collection, Buffet Froid budget, Buffet Froid review, Buffet Froid rating, Buffet Froid release date, Buffet Froid Comedy, Buffet Froid Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernard Blier"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Carmet"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Serrault"
+     },
+     {
+      "@type": "Person",
+      "name": "Geneviève Page"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 359,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Buffet Froid (1979): Comedy/Crime film. Story: Alphonse Tram is unwittingly involved in several… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bertrand Blier"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ler7oT35s8nxJ5H1bnoKufvMQzX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38438",
+    "name": "Buffet Froid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-12-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38438"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buffet Froid (1979)</h1>\n<p class=\"ssr-lead\">Alphonse Tram is unwittingly involved in several murders despite having no memory of committing the crimes. His confusion lead him to confess to his neighbour, Inspector Morvandieu. Alphonse and Morvandieu become the axis around which murders occur.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 1979</li><li>Runtime: 93 minutes</li><li>Director: Bertrand Blier</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 7.0/10 (359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Alphonse Tram</li><li>Bernard Blier as Inspecteur Morvandieu</li><li>Jean Carmet as Le vieil assassin</li><li>Michel Serrault as Le comptable</li><li>Geneviève Page as Geneviève Léonard</li><li>Jean Benguigui as Le tueur à gages</li><li>Marco Perrin as L&#x27;homme dérangé en pleine nuit</li><li>Carole Bouquet as La jeune fille</li><li>Bernard Crombey as Le médecin</li><li>Denise Gence as L&#x27;hôtesse au château</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Buffet Froid (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:411638": {
    "d": "The Fury of a Patient Man (2016): Thriller film. Story: Quiet Jose woos cafe worker Ana, but she is unaware… See cast, budget $1.2M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/eVgEBhfjzlWZXbZQLhdxLbWlez.jpg",
@@ -1096,6 +1463,202 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Fury of a Patient Man (2016)</h1>\n<p class=\"ssr-lead\">Quiet Jose woos cafe worker Ana, but she is unaware he has intentions other than the purely romantic.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2016</li><li>Runtime: 92 minutes</li><li>Director: Raúl Arévalo</li><li>Genres: Thriller</li><li>Budget: $1.2M</li><li>TMDB rating: 6.6/10 (478 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antonio de la Torre as Jose</li><li>Luis Callejo as Curro</li><li>Ruth Díaz as Ana</li><li>Raúl Jiménez as Juanjo</li><li>Manolo Solo as Santi</li><li>Font García as Julio</li><li>Pilar Gómez as Pili</li><li>Alicia Rubio as Carmen</li><li>Gaizka Ardanaz as Toñín</li><li>Luna Martín as Sara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Fury of a Patient Man (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:426338": {
+   "d": "La Llamada (2017): Comedy/Romance film. Story: María and Susana, two rebellious teenagers, spend the… See cast, budget $3.14M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/msj2VmaHEvJ0cKLZkdMLE6AO5dc.jpg",
+   "industry": "world",
+   "k": "La Llamada, La Llamada movie, La Llamada cast, La Llamada story, La Llamada box office collection, La Llamada budget, La Llamada review, La Llamada rating, La Llamada release date, La Llamada Comedy, La Llamada Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Macarena García"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Castillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Belén Cuesta"
+     },
+     {
+      "@type": "Person",
+      "name": "Gracia Olayo"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Collins-Moore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "La Llamada (2017): Comedy/Romance film. Story: María and Susana, two rebellious teenagers, spend the… See cast, budget $3.14M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Javier Calvo"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier Ambrossi"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/msj2VmaHEvJ0cKLZkdMLE6AO5dc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=426338",
+    "name": "La Llamada",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=426338"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Llamada (2017)</h1>\n<p class=\"ssr-lead\">María and Susana, two rebellious teenagers, spend the summer in a catholic camp. While they are grounded during a weekend, the most unexpected arrival in the most unexpected way will change their feelings about life, love and freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 2017</li><li>Runtime: 109 minutes</li><li>Director: Javier Calvo, Javier Ambrossi</li><li>Genres: Comedy, Romance</li><li>Budget: $3.14M</li><li>TMDB rating: 6.8/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Macarena García as María Casado</li><li>Anna Castillo as Susana Romero</li><li>Belén Cuesta as Sor Milagros</li><li>Gracia Olayo as Madre Bernarda de los Arcos</li><li>Richard Collins-Moore as Dios</li><li>María Isabel Díaz Lago as Janice</li><li>Secun de la Rosa as Carlos</li><li>Víctor Elías as Joseba</li><li>Esty Quesada as Marta (as Esty Quesada)</li><li>Henry Méndez as Él mismo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "La Llamada (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:46138": {
+   "d": "Made in Dagenham (2010): Comedy/Drama film. Story: A dramatization of the 1968 strike at the Ford… See cast, budget $7.2M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tEZ7LpbILQAbabjqJXvRzB9mF2L.jpg",
+   "industry": "world",
+   "k": "Made in Dagenham, Made in Dagenham movie, Made in Dagenham cast, Made in Dagenham story, Made in Dagenham box office collection, Made in Dagenham budget, Made in Dagenham review, Made in Dagenham rating, Made in Dagenham release date, Made in Dagenham trailer, Made in Dagenham Comedy, Made in Dagenham Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sally Hawkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Hoskins"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Geraldine James"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosamund Pike"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 351,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Made in Dagenham (2010): Comedy/Drama film. Story: A dramatization of the 1968 strike at the Ford… See cast, budget $7.2M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nigel Cole"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tEZ7LpbILQAbabjqJXvRzB9mF2L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=46138",
+    "name": "Made in Dagenham",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=46138"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Made in Dagenham (2010)</h1>\n<p class=\"ssr-lead\">A dramatization of the 1968 strike at the Ford Dagenham car plant, where female workers walked out in protest against sexual discrimination.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2010</li><li>Runtime: 113 minutes</li><li>Director: Nigel Cole</li><li>Genres: Comedy, Drama, History</li><li>Budget: $7.2M</li><li>TMDB rating: 6.7/10 (351 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sally Hawkins as Rita O&#x27;Grady</li><li>Bob Hoskins as Albert Passingham</li><li>Miranda Richardson as Barbara Castle</li><li>Geraldine James as Connie</li><li>Rosamund Pike as Lisa Hopkins</li><li>Andrea Riseborough as Brenda</li><li>Daniel Mays as Eddie O&#x27;Grady</li><li>Jaime Winstone as Sandra</li><li>Kenneth Cranham as Monty Taylor</li><li>Rupert Graves as Peter Hopkins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Made in Dagenham (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:508138": {
+   "d": "Burn (2019): Thriller/Crime film. Story: Lonely, unstable gas station attendant Melinda is… See cast, TMDB rating 6.1/10, and release date 23 August 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/3C14xx4RteMksSUwgYfI52B8Iu6.jpg",
+   "industry": "world",
+   "k": "Burn, Burn movie, Burn cast, Burn story, Burn box office collection, Burn budget, Burn review, Burn rating, Burn release date, Burn trailer, Burn Thriller, Burn Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tilda Cobham-Hervey"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Suki Waterhouse"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiloh Fernandez"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Shum Jr."
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Burn (2019): Thriller/Crime film. Story: Lonely, unstable gas station attendant Melinda is… See cast, TMDB rating 6.1/10, and release date 23 August 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike Gan"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3C14xx4RteMksSUwgYfI52B8Iu6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=508138",
+    "name": "Burn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=508138"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Burn (2019)</h1>\n<p class=\"ssr-lead\">Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 2019</li><li>Runtime: 89 minutes</li><li>Director: Mike Gan</li><li>Genres: Thriller, Crime, Action</li><li>TMDB rating: 6.1/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tilda Cobham-Hervey as Melinda</li><li>Josh Hutcherson as Billy</li><li>Suki Waterhouse as Sheila</li><li>Shiloh Fernandez as Perry</li><li>Harry Shum Jr. as Officer Liu</li><li>James Devoti as Dominik</li><li>Robert Figueroa as Philip</li><li>John D. Hickman as Bruce</li><li>Wayne Pyle as Fred</li><li>Winter-Lee Holland as Delores</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Lionsgate+ Amazon Channel, Starz, Starz Apple TV channel, Starz Roku Premium Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Burn (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:50838": {
    "d": "Wrecked (2010): Mystery/Thriller film. Story: A man awakens in a car wreck at the bottom of a steep… See cast and TMDB rating 5.4/10.",

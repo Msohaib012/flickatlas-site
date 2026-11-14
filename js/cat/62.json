@@ -1,7 +1,169 @@
 {
  "bucket": "62",
- "count": 43,
+ "count": 51,
  "titles": {
+  "movie:10162": {
+   "backdrop_path": "/et3pBXfI1Q1fb7kLwZIoW7CYQgh.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Jackie O'Shea",
+     "n": "Ian Bannen"
+    },
+    {
+     "c": "Michael O'Sullivan",
+     "n": "David Kelly"
+    },
+    {
+     "c": "Annie O'Shea",
+     "n": "Fionnula Flanagan"
+    },
+    {
+     "c": "Maggie O'Toole",
+     "n": "Susan Lynch"
+    },
+    {
+     "c": "Jim Kelly",
+     "n": "Brendan Dempsey"
+    },
+    {
+     "c": "Pig Finn",
+     "n": "James Nesbitt"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Paul Vaughan"
+    },
+    {
+     "c": "Mrs. Kennedy",
+     "n": "Maura O'Malley"
+    },
+    {
+     "c": "Maurice O'Toole",
+     "n": "Robert Hickey"
+    },
+    {
+     "c": "Brendy O'Toole",
+     "n": "Paddy Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kirk Jones"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10162,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a lottery winner dies of shock, his fellow townsfolk attempt to claim the money.",
+   "popularity": 1.4314,
+   "poster_path": "/bsxiOOKC40HlhdIJYCUE2BkpJv0.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-01-08",
+   "revenue": 43515982,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Finally, a comedy that will make you feel like a million bucks.",
+   "title": "Waking Ned",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.051,
+   "vote_count": 362
+  },
   "movie:10862": {
    "backdrop_path": "/hZARFbBT4I3svc6TAnaHrhTyKbc.jpg",
    "budget": 35000000,
@@ -113,6 +275,253 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 428
+  },
+  "movie:11062": {
+   "backdrop_path": "/9z9SwlbhlV1oaai2gPhyRE8xpIG.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Mayor John Pappas",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Kevin Calhoun",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Marybeth Cogan",
+     "n": "Bridget Fonda"
+    },
+    {
+     "c": "Frank Anselmo",
+     "n": "Danny Aiello"
+    },
+    {
+     "c": "Judge Walter Stern",
+     "n": "Martin Landau"
+    },
+    {
+     "c": "Abe Goodman",
+     "n": "David Paymer"
+    },
+    {
+     "c": "Paul Zapatti",
+     "n": "Anthony Franciosa"
+    },
+    {
+     "c": "Sydney Pappas",
+     "n": "Lindsay Duncan"
+    },
+    {
+     "c": "Elaine Santos",
+     "n": "Luna Lauren Vélez"
+    },
+    {
+     "c": "Larry Schwartz",
+     "n": "Richard Schiff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Harold Becker"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 11062,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The accidental shooting of a boy in New York City leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.",
+   "popularity": 2.2455,
+   "poster_path": "/w7EkAl4Oi8Lc6VQKaqRHrOV3CxR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-02-16",
+   "revenue": 33440204,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It started with a shootout on a rainswept street and ended in a scandal that shattered New York.",
+   "title": "City Hall",
+   "trailer": {
+    "key": "OlCO01s1upA",
+    "name": "City Hall - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.977,
+   "vote_count": 345
+  },
+  "movie:1162": {
+   "backdrop_path": "/5bvQEihHBKJ0Rs1J46HcG0wASDr.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Annie Sullivan",
+     "n": "Anne Bancroft"
+    },
+    {
+     "c": "Helen Keller",
+     "n": "Patty Duke"
+    },
+    {
+     "c": "Captain Arthur Keller",
+     "n": "Victor Jory"
+    },
+    {
+     "c": "Kate Keller",
+     "n": "Inga Swenson"
+    },
+    {
+     "c": "James Keller",
+     "n": "Andrew Prine"
+    },
+    {
+     "c": "Aunt Ev",
+     "n": "Kathleen Comegys"
+    },
+    {
+     "c": "Admissions Officer (uncredited)",
+     "n": "John Bliss"
+    },
+    {
+     "c": "Doctor (uncredited)",
+     "n": "Grant Code"
+    },
+    {
+     "c": "Annie at Age 10 (uncredited)",
+     "n": "Michele Farr"
+    },
+    {
+     "c": "Mr. Anagnos of Perkins School in Boston (uncredited)",
+     "n": "Jack Hollander"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Arthur Penn"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1162,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of the frightening, lonely world of silence and darkness of 7-year-old Helen Keller who, since infancy, has never seen the sky, heard her mother's voice or expressed her innermost feelings. Then Annie Sullivan, a 20-year-old teacher from Boston, arrives. Having just recently regained her own sight, the no-nonsense Annie reaches out to Helen through the power of touch, the only tool they have in common, and leads her bold pupil on a miraculous journey from fear and isolation to happiness and light.",
+   "popularity": 1.9926,
+   "poster_path": "/3dI6UVM5W1sz3MU9gNK5nVDcAyQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1962-07-28",
+   "revenue": 2500000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An emotional earthquake!",
+   "title": "The Miracle Worker",
+   "trailer": {
+    "key": "OffvfxvcSFc",
+    "name": "THE MIRACLE WORKER (Eureka Classics) New & Exclusive HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 362
   },
   "movie:11962": {
    "backdrop_path": "/ieZHOhXPnkHSaN3UNrmqZ6zjNR1.jpg",
@@ -1872,6 +2281,109 @@
    "vote_average": 6.888,
    "vote_count": 480
   },
+  "movie:183662": {
+   "backdrop_path": "/dPGn9ONgU9vYuViebCoBdHGDbHc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scott",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Bess",
+     "n": "Crystal Reed"
+    },
+    {
+     "c": "Jules",
+     "n": "Sarah Bolger"
+    },
+    {
+     "c": "Andie",
+     "n": "Caitríona Balfe"
+    },
+    {
+     "c": "Jeffrey",
+     "n": "Reid Ewing"
+    },
+    {
+     "c": "Mike Norris",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Brock",
+     "n": "D.J. Kemp"
+    },
+    {
+     "c": "Mrs. Brown",
+     "n": "Camille Guaty"
+    },
+    {
+     "c": "Mr. Graham",
+     "n": "Michael Landes"
+    },
+    {
+     "c": "Coach Evans",
+     "n": "Isaiah Mustafa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Malik Bader"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 183662,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A secret admirer's crush on a high school athlete takes a fatal turn.",
+   "popularity": 1.7876,
+   "poster_path": "/ntQhvoStjTJhmj755UFx6TuC6yp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-03-13",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Careful what you wish for",
+   "title": "Crush",
+   "trailer": {
+    "key": "uW150YnKkOg",
+    "name": "Crush - Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.957,
+   "vote_count": 380
+  },
   "movie:18462": {
    "backdrop_path": "/wE1x0OinNZ7RxFOLfXRSHZ91gx8.jpg",
    "budget": 3000000,
@@ -2479,6 +2991,276 @@
    "vote_average": 7.752,
    "vote_count": 497
   },
+  "movie:381262": {
+   "backdrop_path": "/rSWv4coph16vM5yOaOFXE1Y6qgY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "André Bamberski",
+     "n": "Daniel Auteuil"
+    },
+    {
+     "c": "Doctor Dieter Krombach",
+     "n": "Sebastian Koch"
+    },
+    {
+     "c": "Dany",
+     "n": "Marie-Josée Croze"
+    },
+    {
+     "c": "Cécile",
+     "n": "Christelle Cornil"
+    },
+    {
+     "c": "Kalinka (6 years old)",
+     "n": "Lila-Rose Gilberti"
+    },
+    {
+     "c": "Kalinka (14 years old)",
+     "n": "Emma Besson"
+    },
+    {
+     "c": "Robert",
+     "n": "Christian Kmiotek"
+    },
+    {
+     "c": "Maître Gibault",
+     "n": "Serge Feuillard"
+    },
+    {
+     "c": "Father of André",
+     "n": "Fred Personne"
+    },
+    {
+     "c": "Mother of André",
+     "n": "Thérèse Roussel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Vincent Garenq"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 381262,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1982, André Bamberski learns about the death of his 14 year-old daughter, Kalinka, while she was on vacation with her mother and stepfather in Germany. Convinced that Kalinka’s death was not an accident, Bamberski begins to investigate. A botched autopsy report raises his suspicions and leads him to accuse Kalinka’s stepfather, Dr Dieter Krombach, as the murderer.\r Unable to indict Krombach in Germany, Bamberski attempts to take the trial to France, where he will dedicate his life to Kalinka’s justice and the imprisonment of Krombach.",
+   "popularity": 1.3347,
+   "poster_path": "/lVYfYQBBvs6yb7pChIBJ6R4vsrK.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-03-16",
+   "revenue": 1600000,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "In Her Name",
+   "trailer": {
+    "key": "9yfTEjo5n90",
+    "name": "In Her Name (Au Nom de Ma Fille) - Official Trailer #1 - French Thriller",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.752,
+   "vote_count": 341
+  },
+  "movie:41662": {
+   "backdrop_path": "/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Mildred \"Millie\" Lammoreaux",
+     "n": "Shelley Duvall"
+    },
+    {
+     "c": "Mildred \"Pinky\" Rose",
+     "n": "Sissy Spacek"
+    },
+    {
+     "c": "Willie Hart",
+     "n": "Janice Rule"
+    },
+    {
+     "c": "Edgar Hart",
+     "n": "Robert Fortier"
+    },
+    {
+     "c": "Mrs. Rose",
+     "n": "Ruth Nelson"
+    },
+    {
+     "c": "Mr. Rose",
+     "n": "John Cromwell"
+    },
+    {
+     "c": "Ms. Bunweill",
+     "n": "Sierra Pecheur"
+    },
+    {
+     "c": "Doctor Maas",
+     "n": "Craig Richard Nelson"
+    },
+    {
+     "c": "Doris",
+     "n": "Maysie Hoy"
+    },
+    {
+     "c": "Alcira",
+     "n": "Belita Moreno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Altman"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 41662,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two co-workers, one a vain woman and the other an awkward teenager, share an increasingly bizarre relationship after becoming roommates.",
+   "popularity": 2.2168,
+   "poster_path": "/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-04-29",
+   "revenue": 5568,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "1 Woman Became 2, 2 Women Became 3, 3 Women Became 1.",
+   "title": "3 Women",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 364
+  },
   "movie:426962": {
    "backdrop_path": "/mWFDBX8IwajnlxiEYVaLGXxfgQ1.jpg",
    "budget": 0,
@@ -2906,6 +3688,119 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 492
+  },
+  "movie:481762": {
+   "backdrop_path": "/bmEg1mKCTieMba1KGIXQbQ0TTpF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sami Ben Boudaoud",
+     "n": "Samy Seghir"
+    },
+    {
+     "c": "Charles de Chazelle",
+     "n": "Jérémy Denisty"
+    },
+    {
+     "c": "Stanislas de Chazelle",
+     "n": "Denis Podalydès"
+    },
+    {
+     "c": "Djamila",
+     "n": "Sophia Aram"
+    },
+    {
+     "c": "Marie",
+     "n": "Joséphine Japy"
+    },
+    {
+     "c": "Jérôme",
+     "n": "Julien Courbey"
+    },
+    {
+     "c": "Abdelmalik",
+     "n": "Booder"
+    },
+    {
+     "c": "Sekou",
+     "n": "Bayou Sarr"
+    },
+    {
+     "c": "Tran",
+     "n": "Steve Tran"
+    },
+    {
+     "c": "Caroline de Chazelle",
+     "n": "Chloé Coulloud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Gabriel Julien-Laferrière"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 481762,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 2008, Sami Benboudaoud discovered the hell of Neuilly-sur-Seine. Ten years later, now that everything is for the best for Sami who brilliantly completes his studies of political science, nothing will go for his cousin Charles of Chazelle.",
+   "popularity": 1.1839,
+   "poster_path": "/jIP32EgEP98PZOBuq9A0xsu7nqM.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-08",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "In Neuilly change is happening now!",
+   "title": "Neuilly sa mère, sa mère !",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 346
   },
   "movie:560362": {
    "backdrop_path": "/meEuc9El2efDGZMARPjd4u4qHhd.jpg",
@@ -3531,6 +4426,110 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 430
+  },
+  "movie:881462": {
+   "backdrop_path": "/jOqGCRHZ2Hea2mPH2IOkMabmdw5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dante",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Alice",
+     "n": "Barbara Ronchi"
+    },
+    {
+     "c": "Valerio",
+     "n": "Mario Sgueglia"
+    },
+    {
+     "c": "Francesca",
+     "n": "Francesca Cavallin"
+    },
+    {
+     "c": "Omar",
+     "n": "Raz Degan"
+    },
+    {
+     "c": "Marcello",
+     "n": "Massimo Wertmüller"
+    },
+    {
+     "c": "Galadriel (5 - 7 Anni)",
+     "n": "Stella Trotta"
+    },
+    {
+     "c": "Terapeuta",
+     "n": "Andrea Purgatori"
+    },
+    {
+     "c": "Olga",
+     "n": "Alla Krasovitzkaya"
+    },
+    {
+     "c": "Direttore",
+     "n": "Angelo Tanzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Aronadio"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 881462,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Dante accidentally kisses Alice and they get engaged. After a surprise party for his 40th birthday, he wakes up a year later, not remembering what happened. Not only does he discover that Alice is pregnant... He feels time is passing too quickly and he starts forgetting some of the most important moments of his life.",
+   "popularity": 0.9357,
+   "poster_path": "/527kMgGu38T8Sc1wwfJxyoUHgrY.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-03-16",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Soon...",
+   "title": "Still Time",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.704,
+   "vote_count": 371
   },
   "movie:94562": {
    "backdrop_path": "/9ob5jg3GzumXqWUFUlPUq2S6Tkm.jpg",

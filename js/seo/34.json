@@ -1,6 +1,6 @@
 {
  "bucket": "34",
- "count": 36,
+ "count": 43,
  "titles": {
   "movie:10534": {
    "d": "White Squall (1996): Drama/Adventure film. Story: In 1960, a hardy group of prep school students boards… See cast, budget $38M, and TMDB rating 6.3/10.",
@@ -372,6 +372,69 @@
    "t": "A Foggy Tale (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1180634": {
+   "d": "The Children's Train (2024): Drama film. Story: In late 1940s Italy, a mother makes the difficult… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5ujNnFpEbLK2xE9MSM8GNV6zOqF.jpg",
+   "industry": "world",
+   "k": "The Children's Train, The Children's Train movie, The Children's Train cast, The Children's Train story, The Children's Train box office collection, The Children's Train budget, The Children's Train review, The Children's Train rating, The Children's Train release date, The Children's Train trailer, The Children's Train Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barbara Ronchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Serena Rossi"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Cervone"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefano Accorsi"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesco Di Leva"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 359,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Children's Train (2024): Drama film. Story: In late 1940s Italy, a mother makes the difficult… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cristina Comencini"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5ujNnFpEbLK2xE9MSM8GNV6zOqF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1180634",
+    "name": "The Children's Train",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1180634"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Children&#x27;s Train (2024)</h1>\n<p class=\"ssr-lead\">In late 1940s Italy, a mother makes the difficult decision to send her son to the north, where he catches glimpses of a new life away from poverty.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2024</li><li>Runtime: 106 minutes</li><li>Director: Cristina Comencini</li><li>Genres: Drama</li><li>TMDB rating: 7.4/10 (359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barbara Ronchi as Derna</li><li>Serena Rossi as Antonietta</li><li>Christian Cervone as Amerigo</li><li>Stefano Accorsi as Amerigo Adulto</li><li>Francesco Di Leva as Capa ‘e Fierro</li><li>Antonia Truppo as Maddalena Criscuolo</li><li>Monica Nappo as Zandragliona</li><li>Dora Romano as Pachiochia</li><li>Beatrice Schiros as Maestra Ferrari</li><li>Ivan Zerbinati as Alcide</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Children's Train (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1228834": {
    "d": "The Fix (2026): Action/Thriller film. Story: Disillusioned by the end of the war in Afghanistan, a… See cast, budget $32M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
@@ -628,6 +691,70 @@
    "t": "Mater and the Ghostlight (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:14034": {
+   "d": "What's the Worst That Could Happen? (2001): Action/Comedy film. Story: Thief Kevin Caffery attempts to rob from the home of… See cast and budget $60M.",
+   "img": "https://image.tmdb.org/t/p/w780/tONZXxOfDjYYSeVaGSmLpHpqO5B.jpg",
+   "industry": "world",
+   "k": "What's the Worst That Could Happen?, What's the Worst That Could Happen? movie, What's the Worst That Could Happen? cast, What's the Worst That Could Happen? story, What's the Worst That Could Happen? box office collection, What's the Worst That Could Happen? budget, What's the Worst That Could Happen? review, What's the Worst That Could Happen? rating, What's the Worst That Could Happen? release date, What's the Worst That Could Happen? Action, What's the Worst That Could Happen? Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Martin Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny DeVito"
+     },
+     {
+      "@type": "Person",
+      "name": "John Leguizamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Glenne Headly"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Ejogo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 356,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "What's the Worst That Could Happen? (2001): Action/Comedy film. Story: Thief Kevin Caffery attempts to rob from the home of… See cast and budget $60M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Weisman"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tONZXxOfDjYYSeVaGSmLpHpqO5B.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14034",
+    "name": "What's the Worst That Could Happen?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-05-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14034"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>What&#x27;s the Worst That Could Happen? (2001)</h1>\n<p class=\"ssr-lead\">Thief Kevin Caffery attempts to rob from the home of rich businessman Max Fairbanks. But Fairbanks catches him and steals his cherished ring that his girlfriend gave him. Caffery is then bent on revenge and getting his ring back with the help of his partners.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 May 2001</li><li>Runtime: 94 minutes</li><li>Director: Sam Weisman</li><li>Genres: Action, Comedy, Crime</li><li>Budget: $60M</li><li>TMDB rating: 5.5/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Martin Lawrence as Kevin Caffery</li><li>Danny DeVito as Max Fairbanks</li><li>John Leguizamo as Berger</li><li>Glenne Headly as Gloria Sidell</li><li>Carmen Ejogo as Amber Belhaven</li><li>Bernie Mac as Uncle Jack</li><li>Larry Miller as Earl Radburn</li><li>Nora Dunn as Lutetia Fairbanks</li><li>William Fichtner as Detective Alex Tardio</li><li>Richard Schiff as Walter Greenbaum</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
+   "t": "What's the Worst That Could Happen? (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:14134": {
    "d": "Main Hoon Na (2004): Drama film. Story: An army major goes undercover as a college student. See cast, TMDB rating 6.6/10, and release date 30 April 2004.",
    "img": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
@@ -882,6 +1009,69 @@
    "t": "Marty, Life Is Short (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:25934": {
+   "d": "To Sir, with Love (1967): Drama film. Story: A British Guianese engineer starts a job as a high… See cast, budget $625.0k, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
+   "industry": "world",
+   "k": "To Sir, with Love, To Sir, with Love movie, To Sir, with Love cast, To Sir, with Love story, To Sir, with Love box office collection, To Sir, with Love budget, To Sir, with Love review, To Sir, with Love rating, To Sir, with Love release date, To Sir, with Love trailer, To Sir, with Love Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sidney Poitier"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Judy Geeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzy Kendall"
+     },
+     {
+      "@type": "Person",
+      "name": "Lulu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "To Sir, with Love (1967): Drama film. Story: A British Guianese engineer starts a job as a high… See cast, budget $625.0k, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Clavell"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25934",
+    "name": "To Sir, with Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1967-06-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25934"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>To Sir, with Love (1967)</h1>\n<p class=\"ssr-lead\">A British Guianese engineer starts a job as a high school teacher in London’s East End, where his uninterested and delinquent pupils are in desperate need of attention and care.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 1967</li><li>Runtime: 105 minutes</li><li>Director: James Clavell</li><li>Genres: Drama</li><li>Budget: $625.0k</li><li>TMDB rating: 7.5/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sidney Poitier as Mark Thackeray</li><li>Christian Roberts as Denham</li><li>Judy Geeson as Pamela Dare</li><li>Suzy Kendall as Gillian Blanchard</li><li>Lulu as Barbara &#x27;Babs&#x27; Pegg</li><li>Ann Bell as Mrs. Dare</li><li>Geoffrey Bayldon as Theo Weston</li><li>Faith Brook as Grace Evans</li><li>Patricia Routledge as Clinty Clintridge</li><li>Christopher Chittell as Potter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "To Sir, with Love (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1967"
+  },
   "movie:37534": {
    "d": "The New Daughter (2009): Horror/Thriller film. Story: John James is a writer; his wife has left him. He… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/rKaX8ery6hhQn8LT8FWdFyOBQSy.jpg",
@@ -945,6 +1135,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The New Daughter (2009)</h1>\n<p class=\"ssr-lead\">John James is a writer; his wife has left him. He moves with his two middle-school children to an isolated house off a dirt road in South Carolina. The property has an Indian burial mound, which fascinates his daughter, Louisa, who&#x27;s entering puberty.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2009</li><li>Runtime: 108 minutes</li><li>Director: Luiso Berdejo</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.3/10 (402 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as John James</li><li>Ivana Baquero as Louisa James</li><li>Gattlin Griffith as Sam James</li><li>Samantha Mathis as Cassandra</li><li>Noah Taylor as Prof. Evan White</li><li>Amanda Garsys as Student</li><li>Mark Charles Davis as Student</li><li>Edmund Entin as BC #2</li><li>Gary Entin as BC #1</li><li>Margaret Anne Florence as Alexis Danella</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Lionsgate+ Amazon Channel, Peacock Premium Plus, Howdy Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The New Daughter (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:4034": {
+   "d": "That Man from Rio (1964): Adventure/Action film. Story: French military man Adrien Dufourquet gets an… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1oziVuVtJc7BgHRCVLhVJ53u9u3.jpg",
+   "industry": "world",
+   "k": "That Man from Rio, That Man from Rio movie, That Man from Rio cast, That Man from Rio story, That Man from Rio box office collection, That Man from Rio budget, That Man from Rio review, That Man from Rio rating, That Man from Rio release date, That Man from Rio trailer, That Man from Rio Adventure, That Man from Rio Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean-Paul Belmondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Françoise Dorléac"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Servais"
+     },
+     {
+      "@type": "Person",
+      "name": "Simone Renant"
+     },
+     {
+      "@type": "Person",
+      "name": "Adolfo Celi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "That Man from Rio (1964): Adventure/Action film. Story: French military man Adrien Dufourquet gets an… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philippe de Broca"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1oziVuVtJc7BgHRCVLhVJ53u9u3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4034",
+    "name": "That Man from Rio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1964-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4034"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>That Man from Rio (1964)</h1>\n<p class=\"ssr-lead\">French military man Adrien Dufourquet gets an eight-day furlough to visit his fiancée, Agnès. But when he arrives in Paris, he learns that her late father&#x27;s partner, museum curator Professor Catalan, has just been kidnapped by a group of Amazon tribesmen who have also stolen a priceless statue from the museum. Adrien and Agnès pursue the kidnappers to Brazil, where they learn that the statue is the key to a hidden Amazon treasure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 1964</li><li>Runtime: 117 minutes</li><li>Director: Philippe de Broca</li><li>Genres: Adventure, Action, Comedy</li><li>TMDB rating: 7.3/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Paul Belmondo as Adrien Dufourquet</li><li>Françoise Dorléac as Agnès Villermosa</li><li>Jean Servais as Prof. Norbert Catalan</li><li>Simone Renant as Lola</li><li>Adolfo Celi as Señor Mario De Castro</li><li>Roger Dumas as Lebel</li><li>Daniel Ceccaldi as Commissaire</li><li>Ubiracy De Oliveira as &quot;Sir Winston&quot;</li><li>Milton Ribeiro as Tupac</li><li>Lucien Raimbourg as General in wheelchair</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cohen Media Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "That Man from Rio (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1964"
+  },
+  "movie:641934": {
+   "d": "Am I OK? (2024): Comedy/Romance film. Story: Lucy and Jane have been best friends for most of… See cast, TMDB rating 6.3/10, and release date 6 June 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/fKxGUfI09ubxe594Nl8Om2cMuxH.jpg",
+   "industry": "world",
+   "k": "Am I OK?, Am I OK? movie, Am I OK? cast, Am I OK? story, Am I OK? box office collection, Am I OK? budget, Am I OK? review, Am I OK? rating, Am I OK? release date, Am I OK? trailer, Am I OK? Comedy, Am I OK? Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dakota Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonoya Mizuno"
+     },
+     {
+      "@type": "Person",
+      "name": "Jermaine Fowler"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiersey Clemons"
+     },
+     {
+      "@type": "Person",
+      "name": "Molly Gordon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Am I OK? (2024): Comedy/Romance film. Story: Lucy and Jane have been best friends for most of… See cast, TMDB rating 6.3/10, and release date 6 June 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephanie Allynne"
+     },
+     {
+      "@type": "Person",
+      "name": "Tig Notaro"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fKxGUfI09ubxe594Nl8Om2cMuxH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=641934",
+    "name": "Am I OK?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-06-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=641934"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Am I OK? (2024)</h1>\n<p class=\"ssr-lead\">Lucy and Jane have been best friends for most of their lives and think they know everything there is to know about each other. But when Jane announces she&#x27;s moving to London, Lucy reveals a long-held secret. As Jane tries to help Lucy, their friendship is thrown into chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 June 2024</li><li>Runtime: 86 minutes</li><li>Director: Stephanie Allynne, Tig Notaro</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 6.3/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dakota Johnson as Lucy</li><li>Sonoya Mizuno as Jane</li><li>Jermaine Fowler as Danny</li><li>Kiersey Clemons as Brittany</li><li>Molly Gordon as Kat</li><li>Whitmer Thomas as Ben</li><li>Sean Hayes as Stu</li><li>Tig Notaro as Sheila</li><li>Odessa A&#x27;zion as Sky</li><li>Patrick McDonald as Server 1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Am I OK? (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:785534": {
    "d": "Paper Lives (2021): Drama film. Story: In the streets of Istanbul, ailing waste warehouse… See cast, TMDB rating 8.0/10, and release date 12 March 2021.",
@@ -1073,6 +1395,70 @@
    "t": "Sick of Myself (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:811634": {
+   "d": "The Monkey King: Reborn (2021): Animation/Action film. Story: When the irritable monkey king visits a temple… See cast, budget $20M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+   "industry": "world",
+   "k": "The Monkey King: Reborn, The Monkey King: Reborn movie, The Monkey King: Reborn cast, The Monkey King: Reborn story, The Monkey King: Reborn box office collection, The Monkey King: Reborn budget, The Monkey King: Reborn review, The Monkey King: Reborn rating, The Monkey King: Reborn release date, The Monkey King: Reborn trailer, The Monkey King: Reborn Animation, The Monkey King: Reborn Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jiang Bian"
+     },
+     {
+      "@type": "Person",
+      "name": "Cai Haiting"
+     },
+     {
+      "@type": "Person",
+      "name": "Su Shangqing"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Lei"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang He"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Monkey King: Reborn (2021): Animation/Action film. Story: When the irritable monkey king visits a temple… See cast, budget $20M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wang Yunfei"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=811634",
+    "name": "The Monkey King: Reborn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=811634"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Monkey King: Reborn (2021)</h1>\n<p class=\"ssr-lead\">When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2021</li><li>Runtime: 95 minutes</li><li>Director: Wang Yunfei</li><li>Genres: Animation, Action, Fantasy, Family</li><li>Budget: $20M</li><li>TMDB rating: 7.2/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jiang Bian as Sun Wukong (voice)</li><li>Cai Haiting as (voice)</li><li>Su Shangqing as (voice)</li><li>Zhang Lei as (voice)</li><li>Zhang He as (voice)</li><li>Lin Qiang as (voice)</li><li>Liu Sicen as (voice)</li><li>Wang Chenguang as (voice)</li><li>Baomu Zhongyang as (voice)</li><li>Sheng Feng as (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Monkey King: Reborn (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:842934": {
    "d": "Poker Face (2022): Thriller/Crime film. Story: A yearly high-stakes poker game between childhood… See cast and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/4vkJmo7wqtEzJ2aCsHVJH16jOss.jpg",
@@ -1136,6 +1522,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Poker Face (2022)</h1>\n<p class=\"ssr-lead\">A yearly high-stakes poker game between childhood friends turns into chaos when the tech billionaire host unveils an elaborate scheme to seek revenge for the ways they&#x27;ve betrayed him over the years. But as his plans unfold, a group of thieves hatch plans of their own breaking into the mansion thinking it is empty. The old friends quickly band together and the years of playing the game help them win their way through a night of terror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2022</li><li>Runtime: 94 minutes</li><li>Director: Russell Crowe</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 5.6/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Crowe as Jake Foley</li><li>Liam Hemsworth as Michael Nankervis</li><li>RZA as Andrew Johnson</li><li>Brooke Satchwell as Nicole Foley</li><li>Aden Young as Alex Harris</li><li>Steve Bastoni as Paul</li><li>Daniel MacPherson as Sam Levine</li><li>Elsa Pataky as Penelope</li><li>Jack Thompson as Shaman Bill (Paje)</li><li>Jacqueline McKenzie as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Poker Face (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9534": {
+   "d": "The Ferpect Crime (2004): Comedy/Thriller film. Story: A playboy has the tables turned on him when he finds… See cast, budget $6M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vZUntwE0BLPxvjDVi54qQqxYyOI.jpg",
+   "industry": "world",
+   "k": "The Ferpect Crime, The Ferpect Crime movie, The Ferpect Crime cast, The Ferpect Crime story, The Ferpect Crime box office collection, The Ferpect Crime budget, The Ferpect Crime review, The Ferpect Crime rating, The Ferpect Crime release date, The Ferpect Crime Comedy, The Ferpect Crime Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Guillermo Toledo"
+     },
+     {
+      "@type": "Person",
+      "name": "Mónica Cervera"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Varela"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrique Villén"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernando Tejero"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Ferpect Crime (2004): Comedy/Thriller film. Story: A playboy has the tables turned on him when he finds… See cast, budget $6M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Álex de la Iglesia"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vZUntwE0BLPxvjDVi54qQqxYyOI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9534",
+    "name": "The Ferpect Crime",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9534"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Ferpect Crime (2004)</h1>\n<p class=\"ssr-lead\">A playboy has the tables turned on him when he finds himself being used as a plaything by an undesirable woman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2004</li><li>Runtime: 102 minutes</li><li>Director: Álex de la Iglesia</li><li>Genres: Comedy, Thriller</li><li>Budget: $6M</li><li>TMDB rating: 6.7/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guillermo Toledo as Rafael González</li><li>Mónica Cervera as Lourdes</li><li>Luis Varela as Don Antonio Fraguas</li><li>Enrique Villén as Comisario Campoy</li><li>Fernando Tejero as Alonso</li><li>Javier Gutiérrez as Jaime</li><li>Kira Miró as Roxanne</li><li>Rosario Pardo as Señora despistada</li><li>Gracia Olayo as Concha</li><li>José Alias as Matías</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Ferpect Crime (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "tv:135934": {
    "d": "The Legend of Vox Machina (2022) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: They're rowdy, they're ragtag, they're misfits turned….",

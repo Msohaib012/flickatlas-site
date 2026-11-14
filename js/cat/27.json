@@ -1,6 +1,6 @@
 {
  "bucket": "27",
- "count": 31,
+ "count": 40,
  "titles": {
   "movie:10427": {
    "backdrop_path": "/awzAeboEEQxTd0FH60Hn9JbVZIA.jpg",
@@ -499,6 +499,304 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 199
+  },
+  "movie:13127": {
+   "backdrop_path": "/5zmeFn1JsTY6Z2wjGGOw4ZFwJIe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Inspector Ma Kwun",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Detective Chan Kwok Chung",
+     "n": "Simon Yam"
+    },
+    {
+     "c": "Wong Po",
+     "n": "Sammo Hung Kam-bo"
+    },
+    {
+     "c": "Jack",
+     "n": "Wu Jing"
+    },
+    {
+     "c": "Lok Kwun Wah",
+     "n": "Liu Kai-chi"
+    },
+    {
+     "c": "Kwok Tze-sum",
+     "n": "Danny Summer"
+    },
+    {
+     "c": "Lee Wai Lok",
+     "n": "Ken Chang Tzu-yao"
+    },
+    {
+     "c": "Cheung Chun Fei",
+     "n": "Austin Wai Tin-chi"
+    },
+    {
+     "c": "Drug Trafficker",
+     "n": "Timmy Hung Tin-ming"
+    },
+    {
+     "c": "Policeman (as Chan Tat Chee)",
+     "n": "Chan Chi-Tak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wilson Yip"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 13127,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Chan, an articulate senior detective nearing the end of his career, is taking care of the daughter of a witness killed by ruthless crime lord Po. Martial arts expert Ma is set to take over as head of the crime unit, replacing Chan who wants an early retirement.",
+   "popularity": 3.1433,
+   "poster_path": "/38xh96dcfj6Z3aDj5phYZwKwHDn.jpg",
+   "production_countries": [
+    "HK",
+    "MO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-11-18",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "SPL: Kill Zone",
+   "trailer": {
+    "key": "JmJyXOIgyV4",
+    "name": "SPL Kill Zone - Cine Asia Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.996,
+   "vote_count": 373
+  },
+  "movie:13727": {
+   "backdrop_path": "/gT9a1REH37HNRuDF1WsD1VAMg2z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Didier Travolta",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "France",
+     "n": "Emmanuelle Béart"
+    },
+    {
+     "c": "Jean-François",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Walter",
+     "n": "Samuel Le Bihan"
+    },
+    {
+     "c": "Neuneuil",
+     "n": "Abbes Zahmani"
+    },
+    {
+     "c": "Mme Graindorge",
+     "n": "Annie Cordy"
+    },
+    {
+     "c": "La baronne",
+     "n": "Isabelle Nanty"
+    },
+    {
+     "c": "Guillaume",
+     "n": "François-Xavier Demaison"
+    },
+    {
+     "c": "Coco",
+     "n": "Christine Citti"
+    },
+    {
+     "c": "Cerise",
+     "n": "Chloé Lambert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Fabien Onteniente"
+   ],
+   "genres": [
+    "Music",
+    "Comedy"
+   ],
+   "id": 13727,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Didier Travolta is a 40-year-old disco music fan who has no job, lives with his mother, and has a son he hasn't seen for a while. The mother of his son refuses to send him their son for the holidays unless he can offer him a real vacation, not just going to bars of the French port city of Le Havre. Penniless, the only way he can see his son is by winning a dance contest organized by his friend Jackson, with the prize of a vacation to Australia for two.",
+   "popularity": 0.9564,
+   "poster_path": "/6P7UjF09cp9r13sh6OA6FbiAcsr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "IndieFlix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-04-02",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Can you dance?",
+   "title": "Disco",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.384,
+   "vote_count": 362
   },
   "movie:1381027": {
    "backdrop_path": "/6AYl4PU29o2WXUPZzAo56GVQs5r.jpg",
@@ -1165,6 +1463,122 @@
    "vote_average": 6.47,
    "vote_count": 395
   },
+  "movie:15927": {
+   "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+   "budget": 14500000,
+   "cast": [
+    {
+     "c": "Adela Quested",
+     "n": "Judy Davis"
+    },
+    {
+     "c": "Dr. Aziz H. Ahmed",
+     "n": "Victor Banerjee"
+    },
+    {
+     "c": "Mrs. Moore",
+     "n": "Peggy Ashcroft"
+    },
+    {
+     "c": "Richard Fielding",
+     "n": "James Fox"
+    },
+    {
+     "c": "Professor Godbole",
+     "n": "Alec Guinness"
+    },
+    {
+     "c": "Ronny Heaslop",
+     "n": "Nigel Havers"
+    },
+    {
+     "c": "Mr. Turton",
+     "n": "Richard Wilson"
+    },
+    {
+     "c": "Mrs. Turton",
+     "n": "Antonia Pemberton"
+    },
+    {
+     "c": "Major McBryde",
+     "n": "Michael Culver"
+    },
+    {
+     "c": "Mahmoud Ali",
+     "n": "Art Malik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Lean"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure",
+    "History"
+   ],
+   "id": 15927,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cultural mistrust and false accusations doom a friendship in British colonial India between an Indian doctor, an Englishwoman engaged to marry a city magistrate, and an English educator.",
+   "popularity": 2.9823,
+   "poster_path": "/rvBWlGRKte2U6qElHV13h6JvmSe.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-12-14",
+   "revenue": 40000000,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "David Lean, the Director of \"Doctor Zhivago\", \"Lawrence of Arabia\" and \"The Bridge on the River Kwai\", invites you on . .",
+   "title": "A Passage to India",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 354
+  },
   "movie:1602727": {
    "backdrop_path": "/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
    "budget": 0,
@@ -1382,6 +1796,281 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 167
+  },
+  "movie:16227": {
+   "backdrop_path": "/nFCXzdeJbJiYZF6rvSQnkkHAL7G.jpg",
+   "budget": 1678000,
+   "cast": [
+    {
+     "c": "Vincent Parry",
+     "n": "Humphrey Bogart"
+    },
+    {
+     "c": "Irene Jansen",
+     "n": "Lauren Bacall"
+    },
+    {
+     "c": "Bob",
+     "n": "Bruce Bennett"
+    },
+    {
+     "c": "Madge Rapf",
+     "n": "Agnes Moorehead"
+    },
+    {
+     "c": "Cabby (Sam)",
+     "n": "Tom D'Andrea"
+    },
+    {
+     "c": "Baker",
+     "n": "Clifton Young"
+    },
+    {
+     "c": "Detective Kennedy",
+     "n": "Douglas Kennedy"
+    },
+    {
+     "c": "George Fellsinger",
+     "n": "Rory Mallinson"
+    },
+    {
+     "c": "Dr. Walter Coley",
+     "n": "Houseley Stevenson"
+    },
+    {
+     "c": "Aunt Mary at Bus Station (uncredited)",
+     "n": "Mary Field"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Delmer Daves"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 16227,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence.",
+   "popularity": 1.7692,
+   "poster_path": "/dvwmiD6qQ05gojrFQRaFbdhbNDF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1947-09-05",
+   "revenue": 3430000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In danger as violent as their love!!!",
+   "title": "Dark Passage",
+   "trailer": {
+    "key": "DaeoGJGTNGg",
+    "name": "Dark Passage - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.296,
+   "vote_count": 375
+  },
+  "movie:17127": {
+   "backdrop_path": "/9ItSJKC4O77Uk2yULvSYdV6F171.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Nina Borowski",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "George Hanson",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Sidney Miller",
+     "n": "Alan Alda"
+    },
+    {
+     "c": "Rodney Fraser",
+     "n": "Nigel Hawthorne"
+    },
+    {
+     "c": "Vince McBride",
+     "n": "John Pankow"
+    },
+    {
+     "c": "Robert Joley",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Constance Miller",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Frank Hanson",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Paul James",
+     "n": "Amo Gulinello"
+    },
+    {
+     "c": "Dr. Goldstein",
+     "n": "Bruce Altman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Hytner"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 17127,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pregnant New York social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+   "popularity": 2.1973,
+   "poster_path": "/2mA6QEdzhsftNIFV11SGsQLJvJR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-04-17",
+   "revenue": 46900000,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A love story that could only happen between best friends.",
+   "title": "The Object of My Affection",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.829,
+   "vote_count": 345
   },
   "movie:182127": {
    "backdrop_path": "/rSKdbObq9wFug9zQSQcfTVWH04p.jpg",
@@ -1681,6 +2370,96 @@
    "type": "movie",
    "vote_average": 6.791,
    "vote_count": 462
+  },
+  "movie:39227": {
+   "backdrop_path": "/5AUkAvLeFmMaX3YaBrV8CnvcGEf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leila",
+     "n": "Ashley Olsen"
+    },
+    {
+     "c": "Charli",
+     "n": "Mary-Kate Olsen"
+    },
+    {
+     "c": "Jami",
+     "n": "Leslie Danon"
+    },
+    {
+     "c": "Derek Henson",
+     "n": "Julian Stone"
+    },
+    {
+     "c": "Paolo",
+     "n": "Michelangelo Tommaso"
+    },
+    {
+     "c": "Daril",
+     "n": "Ilenia Lazzarin"
+    },
+    {
+     "c": "Nobu",
+     "n": "Archie Kao"
+    },
+    {
+     "c": "Heidi",
+     "n": "Valentina Mattolini"
+    },
+    {
+     "c": "Ryan",
+     "n": "Derek Lee Nixon"
+    },
+    {
+     "c": "Enrico Tortoni",
+     "n": "Matt Patresi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Steve Purcell"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Romance"
+   ],
+   "id": 39227,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenage sisters Charli and Leila are on the verge of an experience beyond their wildest dreams! Pack your bags and jet off to Rome as the girls start their summer internship working for the legendary Derek Hanson - the totally cool international tycoon whose empire reaches from airlines to cutting-edge fashion. Amid the fabulous sights of this exciting city, the girls do their best to impress their boss, while still finding time to design their own line of very hip clothing, meet some very cute guys and turn their summer abroad into one awesome adventure they - and you - will never forget!",
+   "popularity": 0.8295,
+   "poster_path": "/jjnk4BLLtvMI1eDzqTTqd6BGeFK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-26",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "When in Rome",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 342
   },
   "movie:433627": {
    "backdrop_path": "/aJKvkpFEmuU8JlxqUlHYSo2LN3w.jpg",
@@ -2159,6 +2938,205 @@
    "vote_average": 6.945,
    "vote_count": 401
   },
+  "movie:5227": {
+   "backdrop_path": "/byEn9PSz6KHrOx6rIjur10GXiCT.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Pretzie",
+     "n": "Arnold Stang"
+    },
+    {
+     "c": "Hercules",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Helen Camden",
+     "n": "Deborah Loomis"
+    },
+    {
+     "c": "Professor Camden",
+     "n": "James Karen"
+    },
+    {
+     "c": "Zeus",
+     "n": "Ernest Graves"
+    },
+    {
+     "c": "Juno",
+     "n": "Tanny McDonald"
+    },
+    {
+     "c": "Rod Nelson",
+     "n": "Harold Burstein"
+    },
+    {
+     "c": "Maxie",
+     "n": "Merwin Goldsmith"
+    },
+    {
+     "c": "Nitro",
+     "n": "George Bartenieff"
+    },
+    {
+     "c": "Nemesis",
+     "n": "Taina Elg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Arthur Allan Seidelman"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 5227,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hercules is sent from Mount Olympus to modern-day Manhattan, where he takes up professional wrestling before getting mixed up with a gang of mobsters.",
+   "popularity": 2.3273,
+   "poster_path": "/2Rad0CXcWSyjp6vidmz08QriYNZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1970-02-23",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "See Him Topple Two Ton Newspaper Rolls! See Him Toss Tough Men Like Toothpicks!",
+   "title": "Hercules in New York",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.073,
+   "vote_count": 368
+  },
+  "movie:7227": {
+   "backdrop_path": "/flYEmZuMyDJKomYbprKzkbltXRw.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Don Gallagher",
+     "n": "Jack Lemmon"
+    },
+    {
+     "c": "Karen Wallace",
+     "n": "Lee Grant"
+    },
+    {
+     "c": "Eve Clayton",
+     "n": "Brenda Vaccaro"
+    },
+    {
+     "c": "Nicholas St. Downs III",
+     "n": "Joseph Cotten"
+    },
+    {
+     "c": "Emily Livingston",
+     "n": "Olivia de Havilland"
+    },
+    {
+     "c": "Stan Buchek",
+     "n": "Darren McGavin"
+    },
+    {
+     "c": "Martin Wallace",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Joe Patroni",
+     "n": "George Kennedy"
+    },
+    {
+     "c": "Philip Stevens",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Dorothy",
+     "n": "Maidie Norman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jerry Jameson"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 7227,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Flight 23 has crashed in the Bermuda Triangle after a hijacking gone wrong. Now the surviving passengers must brave panic, slow leaks, oxygen depletion, and more while attempting a daring plan, all while 200 feet underwater.",
+   "popularity": 2.6352,
+   "poster_path": "/m9b3frZR0Wu8I3ayN3QPrxfZMvC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-03-11",
+   "revenue": 91100000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "Flight 23 has crashed in the Bermuda Triangle... passengers still alive, trapped underwater...",
+   "title": "Airport '77",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.603,
+   "vote_count": 349
+  },
   "movie:831827": {
    "backdrop_path": "/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",
    "budget": 0,
@@ -2339,6 +3317,114 @@
    "type": "movie",
    "vote_average": 5.569,
    "vote_count": 429
+  },
+  "movie:9927": {
+   "backdrop_path": "/nYVrpgFL2kTbcQGNvbDy65NsXfP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Barker",
+     "n": "Johnny Knoxville"
+    },
+    {
+     "c": "Gary Barker",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Lynn Sheridan",
+     "n": "Katherine Heigl"
+    },
+    {
+     "c": "Winston",
+     "n": "Geoffrey Arend"
+    },
+    {
+     "c": "Billy",
+     "n": "Edward Barbanell"
+    },
+    {
+     "c": "Thomas",
+     "n": "Bill Chott"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Leonard Flowers"
+    },
+    {
+     "c": "Mark",
+     "n": "Leonard Earl Howze"
+    },
+    {
+     "c": "Glen",
+     "n": "Jed Rees"
+    },
+    {
+     "c": "Rudy",
+     "n": "John Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Barry W. Blaustein"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 9927,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pressured by a greedy uncle and a pile of debt, lovable loser Steve Barker resorts to an unthinkable, contemptible, just-crazy-enough-to-work scheme. He pretends to be mentally challenged to rig the upcoming Special Olympics and bring home the gold. But when Steve's fellow competitors get wise to the con, they inspire him to rise to the greatest challenge of all: becoming a better person.",
+   "popularity": 1.7985,
+   "poster_path": "/sEkEGRMaqDj4SMofgjOYVGR4o18.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-12-23",
+   "revenue": 40442437,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Make it special.",
+   "title": "The Ringer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.669,
+   "vote_count": 367
   },
   "tv:126027": {
    "backdrop_path": "/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",

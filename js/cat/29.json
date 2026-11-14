@@ -1,7 +1,165 @@
 {
  "bucket": "29",
- "count": 29,
+ "count": 39,
  "titles": {
+  "movie:10629": {
+   "backdrop_path": "/pku59jhFJGLqrFIP0m1ITyqfQcB.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Veronica Guerin",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "John Gilligan",
+     "n": "Gerard McSorley"
+    },
+    {
+     "c": "John Traynor",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Bernie Guerin",
+     "n": "Brenda Fricker"
+    },
+    {
+     "c": "Chris Mulligan",
+     "n": "Don Wycherley"
+    },
+    {
+     "c": "Graham Turley",
+     "n": "Barry Barnes"
+    },
+    {
+     "c": "Cathal Turley",
+     "n": "Simon O'Driscoll"
+    },
+    {
+     "c": "Aengus Fanning",
+     "n": "Emmet Bergin"
+    },
+    {
+     "c": "Ann Harris",
+     "n": "Charlotte Bradley"
+    },
+    {
+     "c": "Willy Kealy",
+     "n": "Mark Lambert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joel Schumacher"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 10629,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this true story, Veronica Guerin is an investigative reporter for an Irish newspaper. As the drug trade begins to bleed into the mainstream, Guerin decides to take on and expose those responsible. Beginning at the bottom with addicts, Guerin then gets in touch with John Traynor, a paranoid informant. Not without some prodding, Traynor leads her to John Gilligan, the ruthless head of the operation, who does not take kindly to Guerin's nosing.",
+   "popularity": 1.7015,
+   "poster_path": "/1aJYz1YjcZggKsTJhCcYJ3adtcm.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-07-11",
+   "revenue": 9439660,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Why would anyone want to kill Veronica Guerin?",
+   "title": "Veronica Guerin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.66,
+   "vote_count": 356
+  },
   "movie:10729": {
    "backdrop_path": "/fVKTOZwkLer18dG3piAzSPWFlY5.jpg",
    "budget": 15000000,
@@ -796,6 +954,143 @@
    "vote_average": 5.9,
    "vote_count": 417
   },
+  "movie:123229": {
+   "backdrop_path": "/uVulZOgJmNEqzdd1Q5I0OdNUkqo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Warner",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Abdelkrim",
+     "n": "Medi Sadoun"
+    },
+    {
+     "c": "Mousten",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Momo",
+     "n": "Jib Pocthier"
+    },
+    {
+     "c": "Kadija",
+     "n": "Alice Belaïdi"
+    },
+    {
+     "c": "Tia",
+     "n": "Pom Klementieff"
+    },
+    {
+     "c": "L'entraineur de foot",
+     "n": "Éric Cantona"
+    },
+    {
+     "c": "Organisateur du festival Rap",
+     "n": "Doudou Masta"
+    },
+    {
+     "c": "Stay",
+     "n": "Annabelle Lengronne"
+    },
+    {
+     "c": "Roger",
+     "n": "Fatsah Bouyahmed"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Franck Gastambide"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 123229,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "3 childhood friends who have never left their hometown in the suburb try to get into porn as a way of earning easy money.",
+   "popularity": 1.2576,
+   "poster_path": "/o6L3GbNB2vTzS0GyrTSmMMWcEGl.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-07-11",
+   "revenue": 103504,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Porn in the Hood",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.02,
+   "vote_count": 374
+  },
   "movie:1314829": {
    "backdrop_path": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
    "budget": 0,
@@ -1552,6 +1847,148 @@
    "vote_average": 5.913,
    "vote_count": 23
   },
+  "movie:16229": {
+   "backdrop_path": "/j06D4plPJNP1s0h3FKB8qwGRGpW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth Wurtzel",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "Rafe",
+     "n": "Jason Biggs"
+    },
+    {
+     "c": "Dr. Sterling",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Ruby",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Noah",
+     "n": "Jonathan Rhys Meyers"
+    },
+    {
+     "c": "Mrs. Wurtzel",
+     "n": "Jessica Lange"
+    },
+    {
+     "c": "Lou Reed",
+     "n": "Lou Reed"
+    },
+    {
+     "c": "Sam",
+     "n": "Jesse Moss"
+    },
+    {
+     "c": "Donald",
+     "n": "Nicholas Campbell"
+    },
+    {
+     "c": "Elizabeth at 12",
+     "n": "Zoe Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Erik Skjoldbjærg"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 16229,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When talented young writer Elizabeth Wurtzel earns a scholarship to Harvard, she sees it as her chance to escape the pressures of her working-class background and concentrate on her true talent. But what starts out so promising leads to self-destructive behavior and paralyzing depression that reflects an entire generation's struggle to navigate the effects of divorce, drugs, sex, and high expectations.",
+   "popularity": 1.4305,
+   "poster_path": "/4QB1h6mxlmQVM8BtYMybTwL2foc.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-06-13",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where do you go when you've gone too far?",
+   "title": "Prozac Nation",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.349,
+   "vote_count": 350
+  },
   "movie:1641629": {
    "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
    "budget": 0,
@@ -1896,6 +2333,267 @@
    "vote_average": 6.478,
    "vote_count": 45
   },
+  "movie:186929": {
+   "backdrop_path": "/d6ZaqMPzteFbvUvIZce9cTYUcn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Camiel Borgman",
+     "n": "Jan Bijvoet"
+    },
+    {
+     "c": "Marina",
+     "n": "Hadewych Minis"
+    },
+    {
+     "c": "Richard",
+     "n": "Jeroen Perceval"
+    },
+    {
+     "c": "Ludwig",
+     "n": "Alex van Warmerdam"
+    },
+    {
+     "c": "Pascal",
+     "n": "Tom Dewispelaere"
+    },
+    {
+     "c": "Stine",
+     "n": "Sara Hjort Ditlevsen"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Dirkje van der Pijl"
+    },
+    {
+     "c": "Brenda",
+     "n": "Annet Malherbe"
+    },
+    {
+     "c": "Ilonka",
+     "n": "Eva van de Wijdeven"
+    },
+    {
+     "c": "Leo",
+     "n": "Pieter-Bas de Waard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Alex van Warmerdam"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 186929,
+   "industry": "world",
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "An enigmatic vagrant cons himself into the home life of an arrogant upper-class family, turning their lives into a psychological nightmare in the process.",
+   "popularity": 1.1199,
+   "poster_path": "/kasPhXDk4BI4FUS3ku5Y4GrgBJY.jpg",
+   "production_countries": [
+    "NL",
+    "DK",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "OVID"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-29",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Borgman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 375
+  },
+  "movie:264729": {
+   "backdrop_path": "/9SmI3VzBmZon9QjTYQBR8onBSa5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hugo",
+     "n": "Yon González"
+    },
+    {
+     "c": "Braulio",
+     "n": "Julián López"
+    },
+    {
+     "c": "Carla",
+     "n": "Blanca Suárez"
+    },
+    {
+     "c": "Marisol",
+     "n": "Malena Alterio"
+    },
+    {
+     "c": "Nadia",
+     "n": "Úrsula Corberó"
+    },
+    {
+     "c": "Rafa",
+     "n": "Miki Esparbé"
+    },
+    {
+     "c": "Hakan",
+     "n": "Younes Bachir"
+    },
+    {
+     "c": "Próspero",
+     "n": "Javier Cámara"
+    },
+    {
+     "c": "Benigna",
+     "n": "Carmen Machi"
+    },
+    {
+     "c": "Andrés",
+     "n": "José Sacristán"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Nacho G. Velilla"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 264729,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Two young Spanish men, with a university education, are tired of unemployment and decide to move to Germany. But soon they will find out that finding a better living is not as easy as they expected.",
+   "popularity": 0.7717,
+   "poster_path": "/mhZWzcIvU5ind2q56qDDoDwKZv1.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2015-03-03",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Based on Hundreds of True Stories (Unfortunately)",
+   "title": "Off Course",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.301,
+   "vote_count": 347
+  },
   "movie:308529": {
    "backdrop_path": "/mZT5eXy9Tapf85LV62hkfaVp2Of.jpg",
    "budget": 17000000,
@@ -2022,6 +2720,105 @@
    "vote_average": 5.1,
    "vote_count": 458
   },
+  "movie:328429": {
+   "backdrop_path": "/5EYIaPWR8cg1fKAyH2KTFzTIaPT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain William D. Stanaforth",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Louis 'Skinny' Skinner (CapCom)",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Captain Emily Maddox",
+     "n": "Sanaa Lathan"
+    },
+    {
+     "c": "Greenstreet",
+     "n": "Anders Danielsen Lie"
+    },
+    {
+     "c": "Captain Frank Worsely",
+     "n": "Charles Baker"
+    },
+    {
+     "c": "Nasa Technician",
+     "n": "Bettina Skye"
+    },
+    {
+     "c": "Mission Control Technician (uncredited)",
+     "n": "Nancy Rubel"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Joe James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mark Elijah Rosenberg"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 328429,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captain William Stanaforth is on a one-way solo mission to take the first steps in colonising Mars. Like all pioneers throughout history, Stanaforth will face insurmountable odds and life and death decisions as he rockets bravely through space.",
+   "popularity": 1.5329,
+   "poster_path": "/zubKPqGvXog7LWMyVVZChCo4E8L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-06-03",
+   "revenue": 10232,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Approaching the Unknown",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.212,
+   "vote_count": 352
+  },
   "movie:347629": {
    "backdrop_path": "/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg",
    "budget": 20000000,
@@ -2134,6 +2931,428 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 438
+  },
+  "movie:441829": {
+   "backdrop_path": "/cz8m8AS8MOD1x4RAjYgYMHf13xB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Darryl Jacobson",
+     "n": "Daley Pearson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Taika Waititi"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 441829,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+   "popularity": 1.666,
+   "poster_path": "/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-14",
+   "revenue": 0,
+   "runtime": 5,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Rogers & Barnes. Stark & Rhodes. Thor & Darryl.",
+   "title": "Team Thor: Part 2",
+   "trailer": {
+    "key": "n3TOw6r7ghc",
+    "name": "Team Thor: Pt. 2, Where Are They Now?",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 381
+  },
+  "movie:46429": {
+   "backdrop_path": "/cBIGV9LYgJtb3xHETpgBgN7Mi3F.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Aman",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Fabulos",
+     "n": "Riley Smith"
+    },
+    {
+     "c": "Angel",
+     "n": "Tanit Phoenix"
+    },
+    {
+     "c": "Apollo Jones",
+     "n": "Steven Elder"
+    },
+    {
+     "c": "Mistress",
+     "n": "Jenny Gago"
+    },
+    {
+     "c": "Kansa",
+     "n": "Kevin Howarth"
+    },
+    {
+     "c": "Sueno",
+     "n": "Alyssa Pridham"
+    },
+    {
+     "c": "Forty Bold",
+     "n": "Alex Avant"
+    },
+    {
+     "c": "Hool",
+     "n": "Hector Hugo"
+    },
+    {
+     "c": "Bubis",
+     "n": "Jack Bowyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Goth"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Western"
+   ],
+   "id": 46429,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a nun broke her covenant with God to save the life of  her unborn son, Aman, he was cursed for life. As an adult, Aman has killed those who have crossed him. But his curse brings his victims back to life and they pursue him for revenge, so Aman enlists a young gunman to fight by his side against his undead victims.",
+   "popularity": 1.3553,
+   "poster_path": "/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-10-27",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Gallowwalkers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.807,
+   "vote_count": 378
+  },
+  "movie:5729": {
+   "backdrop_path": "/9sm4hWWjbLVVRhsokPaa1toqHe7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Man",
+     "n": "Gaston Modot"
+    },
+    {
+     "c": "The Woman",
+     "n": "Lya Lys"
+    },
+    {
+     "c": "Marquise' Chambermaid / Girl at Blangis' Castle",
+     "n": "Caridad de Laberdesque"
+    },
+    {
+     "c": "Bandit Leader in the Hut",
+     "n": "Max Ernst"
+    },
+    {
+     "c": "Governor",
+     "n": "Josep Llorens Artigas"
+    },
+    {
+     "c": "Duke of Blangis",
+     "n": "Lionel Salem"
+    },
+    {
+     "c": "Marquise of X",
+     "n": "Germaine Noizet"
+    },
+    {
+     "c": "Orchestra Conductor",
+     "n": "Duchange"
+    },
+    {
+     "c": "Marquis of X",
+     "n": "Bonaventura Ibáñez"
+    },
+    {
+     "c": "Bandit (uncredited)",
+     "n": "Jean Aurenche"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Luis Buñuel"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 5729,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
+   "popularity": 1.6602,
+   "poster_path": "/q3OH9Yk3hOE5uYEK55ASjEtsPfE.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1930-11-28",
+   "revenue": 7940,
+   "runtime": 63,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A surrealist masterpiece.",
+   "title": "L'Âge d'or",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 355
   },
   "movie:58129": {
    "backdrop_path": "/zMqJoVJXQPvkjZ1SZ03e4EuKMfm.jpg",
@@ -2346,6 +3565,140 @@
    "type": "movie",
    "vote_average": 5.986,
    "vote_count": 484
+  },
+  "movie:8429": {
+   "backdrop_path": "/zNjp6eolIcpGx11tDbE5eekeHEG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carmela",
+     "n": "Carmela Sazio"
+    },
+    {
+     "c": "Joe",
+     "n": "Robert Van Loon"
+    },
+    {
+     "c": "American Soldier",
+     "n": "Benjamin Emanuel"
+    },
+    {
+     "c": "American Soldier",
+     "n": "Raymond Campbell"
+    },
+    {
+     "c": "Harry, a German soldier",
+     "n": "Harold Wagner"
+    },
+    {
+     "c": "German soldier",
+     "n": "Albert Heinze"
+    },
+    {
+     "c": "Merlin, American Soldier",
+     "n": "Merlin Berth"
+    },
+    {
+     "c": "Swede, an American soldier",
+     "n": "Mats Carlson"
+    },
+    {
+     "c": "An American soldier",
+     "n": "Leonard Parrish"
+    },
+    {
+     "c": "American MP",
+     "n": "Dots Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Roberto Rossellini"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 8429,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Six stories unfold in various regions, from Sicily to the northern Po Valley as American military personnel interact with a variety of Italian locals over eighteen months in the push north during the Italian Campaign of WWII as German forces retreat.",
+   "popularity": 1.223,
+   "poster_path": "/r5IGAFASCXmp8m51vUbER3WwVcB.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1946-12-10",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "de",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are always opportunities for redemption.",
+   "title": "Paisan",
+   "trailer": {
+    "key": "JM_KpDmdF98",
+    "name": "Roberto Rossellini: The War Trilogy - trailer | BFI Blu-ray",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.519,
+   "vote_count": 368
   },
   "tv:127529": {
    "backdrop_path": "/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",

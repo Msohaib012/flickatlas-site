@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 28,
+ "count": 37,
  "titles": {
   "movie:10243": {
    "d": "The Flight of the Phoenix (1965): Adventure/Drama film. Story: A cargo aircraft crashes in a sandstorm in the Sahara… See cast and budget $5.36M.",
@@ -65,6 +65,137 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Flight of the Phoenix (1965)</h1>\n<p class=\"ssr-lead\">A cargo aircraft crashes in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for a replacement aircraft they need to build before their food and water run out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 December 1965</li><li>Runtime: 142 minutes</li><li>Director: Robert Aldrich</li><li>Genres: Adventure, Drama</li><li>Budget: $5.36M</li><li>TMDB rating: 7.2/10 (398 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Stewart as Frank Towns</li><li>Richard Attenborough as Lew Moran</li><li>Peter Finch as Captain Harris</li><li>Hardy Krüger as Heinrich Dorfmann</li><li>Ernest Borgnine as Trucker Cobb</li><li>Ian Bannen as Crow</li><li>Ronald Fraser as Sergeant Watson</li><li>Christian Marquand as Dr. Renaud</li><li>Dan Duryea as Standish</li><li>George Kennedy as Bellamy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Flight of the Phoenix (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1965"
+  },
+  "movie:10443": {
+   "d": "Fearless (1993): Drama film. Story: After surviving a plane crash that kills many others… See cast, budget $20M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/auKXOVH7znRHb8rl7DAS3c98hp4.jpg",
+   "industry": "world",
+   "k": "Fearless, Fearless movie, Fearless cast, Fearless story, Fearless box office collection, Fearless budget, Fearless review, Fearless rating, Fearless release date, Fearless trailer, Fearless Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Bridges"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Rossellini"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosie Perez"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hulce"
+     },
+     {
+      "@type": "Person",
+      "name": "John Turturro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Fearless (1993): Drama film. Story: After surviving a plane crash that kills many others… See cast, budget $20M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Weir"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/auKXOVH7znRHb8rl7DAS3c98hp4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10443",
+    "name": "Fearless",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-10-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10443"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fearless (1993)</h1>\n<p class=\"ssr-lead\">After surviving a plane crash that kills many others, Max Klein develops a sense of invulnerability, leading to radical, compulsive actions. Can a psychologist and a fellow guilt-ridden survivor bring him down to earth?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 1993</li><li>Runtime: 122 minutes</li><li>Director: Peter Weir</li><li>Genres: Drama</li><li>Budget: $20M</li><li>TMDB rating: 6.9/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Bridges as Max Klein</li><li>Isabella Rossellini as Laura Klein</li><li>Rosie Perez as Carla Rodrigo</li><li>Tom Hulce as Brillstein</li><li>John Turturro as Dr. Bill Perlman</li><li>Benicio del Toro as Manny Rodrigo</li><li>Deirdre O&#x27;Connell as Nan Gordon</li><li>John de Lancie as Jeff Gordon</li><li>Spencer Vrooman as Jonah Klein</li><li>Daniel Cerny as Byron Hummel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Fearless (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:11443": {
+   "d": "Dead Presidents (1995): Crime/Drama film. Story: On the streets they call cash dead presidents. And… See cast, budget $10M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c8H6Xi9im1tT6HP9PA9HpFE3sOy.jpg",
+   "industry": "world",
+   "k": "Dead Presidents, Dead Presidents movie, Dead Presidents cast, Dead Presidents story, Dead Presidents box office collection, Dead Presidents budget, Dead Presidents review, Dead Presidents rating, Dead Presidents release date, Dead Presidents Crime, Dead Presidents Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Larenz Tate"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith David"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Tucker"
+     },
+     {
+      "@type": "Person",
+      "name": "Freddy Rodríguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Jackson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Dead Presidents (1995): Crime/Drama film. Story: On the streets they call cash dead presidents. And… See cast, budget $10M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Albert Hughes"
+     },
+     {
+      "@type": "Person",
+      "name": "Allen Hughes"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c8H6Xi9im1tT6HP9PA9HpFE3sOy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11443",
+    "name": "Dead Presidents",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-10-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11443"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead Presidents (1995)</h1>\n<p class=\"ssr-lead\">On the streets they call cash dead presidents. And that&#x27;s just what a Vietnam veteran is after when he returns home from the war only to find himself drawn into a life of crime. With the aid of his fellow vets he plans the ultimate heist -- a daring robbery of an armored car filled with unmarked U.S. currency!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 1995</li><li>Runtime: 119 minutes</li><li>Director: Albert Hughes, Allen Hughes</li><li>Genres: Crime, Drama, Action</li><li>Budget: $10M</li><li>TMDB rating: 6.7/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Larenz Tate as Anthony Curtis</li><li>Keith David as Kirby</li><li>Chris Tucker as Skip</li><li>Freddy Rodríguez as Jose</li><li>Rose Jackson as Juanita Benson</li><li>N&#x27;Bushe Wright as Delilah Benson</li><li>Clifton Powell as Cutty</li><li>Terrence Howard as Cowboy</li><li>Bokeem Woodbine as Cleon</li><li>Clifton Collins Jr. as Betancourt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dead Presidents (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:1213243": {
    "d": "Toxic (2026): Action/Crime film. Story: A powerful drug cartel pulls the strings behind a… See cast, budget $60M, and TMDB rating 7.6/10.",
@@ -255,6 +386,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Daddy&#x27;s in Trouble (2026)</h1>\n<p class=\"ssr-lead\">Roberta is tired of taking care of the house and the kids all by herself, so she decides to take a vacation, leaving her husband to look after the children. The result is that the house is turned upside down as Fred tries to balance family demands with his work responsibilities. Amid laughter and chaos, the film shows how a family can overcome challenges when they stick together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 2026</li><li>Director: Carolina Durão</li><li>Genres: Comedy</li><li>TMDB rating: 7.2/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rafael Infante as Fred</li><li>Dani Calabresa as Roberta</li><li>Babu Santana as Matheus</li><li>Dan Ferreira as Dante</li><li>Livia la Gatto as Renata</li><li>Macla Tenório as Brenda</li><li>Xande Valois as João</li><li>Ana Régis as Simone</li><li>Docy Moreira as Beth</li><li>Rodolfo Vaz as Pontes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Daddy's in Trouble (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13243": {
+   "d": "Meet Bill (2007): Comedy/Drama film. Story: A mild-mannered bank executive mentors a teenage con… See cast, budget $5M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tQeYoSH2z0vqiBff3wUHOUqyZA7.jpg",
+   "industry": "world",
+   "k": "Meet Bill, Meet Bill movie, Meet Bill cast, Meet Bill story, Meet Bill box office collection, Meet Bill budget, Meet Bill review, Meet Bill rating, Meet Bill release date, Meet Bill Comedy, Meet Bill Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Eckhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alba"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Banks"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan Lerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 367,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Meet Bill (2007): Comedy/Drama film. Story: A mild-mannered bank executive mentors a teenage con… See cast, budget $5M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bernie Goldmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Melisa Wallack"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tQeYoSH2z0vqiBff3wUHOUqyZA7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13243",
+    "name": "Meet Bill",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Meet Bill (2007)</h1>\n<p class=\"ssr-lead\">A mild-mannered bank executive mentors a teenage con artist and tries to make a career change as a doughnut merchant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2007</li><li>Runtime: 93 minutes</li><li>Director: Bernie Goldmann, Melisa Wallack</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $5M</li><li>TMDB rating: 6.1/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Eckhart as Bill</li><li>Jessica Alba as Lucy</li><li>Elizabeth Banks as Jess</li><li>Logan Lerman as The Kid</li><li>Kristen Wiig as Jane Whittman</li><li>Timothy Olyphant as Chip Johnson</li><li>Holmes Osborne as Mr. Jacoby</li><li>Reed Diamond as Paul</li><li>Jason Sudeikis as Jim Whittman</li><li>Todd Louiso as John Jr.</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Meet Bill (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:1376043": {
    "d": "Mata (2026): Thriller/Drama film. Story: Wounded while on a clandestine operation in Niger… See cast, TMDB rating 6.2/10, and release date 27 May 2026.",
@@ -516,6 +715,134 @@
    "t": "Oscar Shaw (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:19543": {
+   "d": "Anacondas: Trail of Blood (2009): Adventure/Horror film. Story: A genetically created Anaconda, cut in half… See cast and TMDB rating 4.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
+   "industry": "world",
+   "k": "Anacondas: Trail of Blood, Anacondas: Trail of Blood movie, Anacondas: Trail of Blood cast, Anacondas: Trail of Blood story, Anacondas: Trail of Blood box office collection, Anacondas: Trail of Blood budget, Anacondas: Trail of Blood review, Anacondas: Trail of Blood rating, Anacondas: Trail of Blood release date, Anacondas: Trail of Blood Adventure, Anacondas: Trail of Blood Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Crystal Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Linden Ashby"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Midwinter"
+     },
+     {
+      "@type": "Person",
+      "name": "Calin Stanciu"
+     },
+     {
+      "@type": "Person",
+      "name": "John Rhys-Davies"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 375,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Anacondas: Trail of Blood (2009): Adventure/Horror film. Story: A genetically created Anaconda, cut in half… See cast and TMDB rating 4.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don E. FauntLeRoy"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Adventure",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19543",
+    "name": "Anacondas: Trail of Blood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19543"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Anacondas: Trail of Blood (2009)</h1>\n<p class=\"ssr-lead\">A genetically created Anaconda, cut in half, regenerates itself into two new aggressive giant snakes, due to the Blood Orchid.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2009</li><li>Runtime: 89 minutes</li><li>Director: Don E. FauntLeRoy</li><li>Genres: Adventure, Horror, Thriller, TV Movie</li><li>TMDB rating: 4.6/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Crystal Allen as Dr. Amanda Hayes</li><li>Linden Ashby as Jackson</li><li>Danny Midwinter as Scott</li><li>Calin Stanciu as Alex</li><li>John Rhys-Davies as Peter &quot;J.D.&quot; Murdoch</li><li>Ana Ularu as Heather</li><li>Claudiu Bleonţ as Armon</li><li>Anca Androne as Wendy</li><li>Emil Hostina as Eugene</li><li>Alexandru Potocean as Roland / Patrick</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Anacondas: Trail of Blood (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:21943": {
+   "d": "I Want You (2007): Romance/Comedy film. Story: A macho type man becomes entangled with an… See cast, TMDB rating 4.8/10, and release date 9 March 2007.",
+   "img": "https://image.tmdb.org/t/p/w780/flWQA4sdKEAUpUjyjsSEVMpqWxo.jpg",
+   "industry": "world",
+   "k": "I Want You, I Want You movie, I Want You cast, I Want You story, I Want You box office collection, I Want You budget, I Want You review, I Want You rating, I Want You release date, I Want You Romance, I Want You Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Riccardo Scamarcio"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Chiatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Katy Louise Saunders"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Chiara Augenti"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivan Bacchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "I Want You (2007): Romance/Comedy film. Story: A macho type man becomes entangled with an… See cast, TMDB rating 4.8/10, and release date 9 March 2007.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luis Prieto"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/flWQA4sdKEAUpUjyjsSEVMpqWxo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21943",
+    "name": "I Want You",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-03-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21943"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Want You (2007)</h1>\n<p class=\"ssr-lead\">A macho type man becomes entangled with an independent-minded girl.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 2007</li><li>Runtime: 106 minutes</li><li>Director: Luis Prieto</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 4.8/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riccardo Scamarcio as Stefano &#x27;Step&#x27; Mancini</li><li>Laura Chiatti as Ginevra &#x27;Gin&#x27; Biro</li><li>Katy Louise Saunders as Fabrizia &#x27;Babi&#x27; Gervasi</li><li>Maria Chiara Augenti as Pallina</li><li>Ivan Bacchi as Paolo Mancini</li><li>Giulia Elettra Gorietti as Daniela Gervasi</li><li>Susy Laude as Eleonora</li><li>Marco Aceti</li><li>Xhilda Lapardhaja</li><li>Claudio Bigagli as Claudio Gervasi</li></ul>\n</article>",
+   "t": "I Want You (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:270343": {
    "d": "Love at First Fight (2014): Comedy/Romance film. Story: Arnaud, facing an uncertain future and a dearth of… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",
@@ -706,6 +1033,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bagdad Cafe (1987)</h1>\n<p class=\"ssr-lead\">A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 1987</li><li>Runtime: 108 minutes</li><li>Director: Percy Adlon</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.2/10 (459 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marianne Sägebrecht as Jasmin Münchgstettner</li><li>CCH Pounder as Brenda</li><li>Jack Palance as Rudi Cox</li><li>Christine Kaufmann as Debby</li><li>Monica Calhoun as Phyllis</li><li>Darron Flagg as Salomo</li><li>George Aguilar as Cahuenga</li><li>G. Smokey Campbell as Sal</li><li>Hans Stadlbauer as Mr. Münchgstettner</li><li>Alan S. Craig as Eric</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Bagdad Cafe (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:4043": {
+   "d": "Law of Desire (1987): Drama/Romance film. Story: Pablo, a successful film director, disappointed in… See cast, budget $600.0k, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kx3KdTmefo87oQEEhGqm6dLlAg0.jpg",
+   "industry": "world",
+   "k": "Law of Desire, Law of Desire movie, Law of Desire cast, Law of Desire story, Law of Desire box office collection, Law of Desire budget, Law of Desire review, Law of Desire rating, Law of Desire release date, Law of Desire trailer, Law of Desire Drama, Law of Desire Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eusebio Poncela"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Maura"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernando Guillén"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Law of Desire (1987): Drama/Romance film. Story: Pablo, a successful film director, disappointed in… See cast, budget $600.0k, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pedro Almodóvar"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kx3KdTmefo87oQEEhGqm6dLlAg0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4043",
+    "name": "Law of Desire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4043"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Law of Desire (1987)</h1>\n<p class=\"ssr-lead\">Pablo, a successful film director, disappointed in his relationship with his young lover, Juan, concentrates in a new project, a monologue starring his transgender sister, Tina. Antonio, an uptight young man, falls possessively in love with the director and in his passion would stop at nothing to obtain the object of his desire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 1987</li><li>Runtime: 102 minutes</li><li>Director: Pedro Almodóvar</li><li>Genres: Drama, Romance, Thriller, Comedy</li><li>Budget: $600.0k</li><li>TMDB rating: 7.1/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eusebio Poncela as Pablo Quintero</li><li>Carmen Maura as Tina Quintero</li><li>Antonio Banderas as Antonio Benítez</li><li>Miguel Molina as Juan Bermúdez</li><li>Fernando Guillén as Detective</li><li>Manuela Velasco as Ada</li><li>Nacho Martínez as Doctor Martín</li><li>Bibiana Fernández as Ada’s Mother</li><li>Helga Liné as Antonio’s Mother</li><li>Germán Cobos as El Cura</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Law of Desire (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
   },
   "movie:463843": {
@@ -1030,6 +1421,70 @@
    "t": "Here Come the Teachers (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:543343": {
+   "d": "Guava Island (2019): Comedy/Thriller film. Story: Deni Maroon, a musician and dock worker is determined… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iyiLSQlJ6vbqEHdabO8wDF4aS1W.jpg",
+   "industry": "world",
+   "k": "Guava Island, Guava Island movie, Guava Island cast, Guava Island story, Guava Island box office collection, Guava Island budget, Guava Island review, Guava Island rating, Guava Island release date, Guava Island trailer, Guava Island Comedy, Guava Island Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Donald Glover"
+     },
+     {
+      "@type": "Person",
+      "name": "Rihanna"
+     },
+     {
+      "@type": "Person",
+      "name": "Letitia Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Nonso Anozie"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Jael Velázquez Abreu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Guava Island (2019): Comedy/Thriller film. Story: Deni Maroon, a musician and dock worker is determined… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hiro Murai"
+     }
+    ],
+    "duration": "PT56M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iyiLSQlJ6vbqEHdabO8wDF4aS1W.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=543343",
+    "name": "Guava Island",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=543343"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Guava Island (2019)</h1>\n<p class=\"ssr-lead\">Deni Maroon, a musician and dock worker is determined to pull off a music festival against the interests of the local factory owner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2019</li><li>Runtime: 56 minutes</li><li>Director: Hiro Murai</li><li>Genres: Comedy, Thriller, Music</li><li>TMDB rating: 6.7/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Donald Glover as Deni Maroon</li><li>Rihanna as Kofi Novia</li><li>Letitia Wright as Yara Love</li><li>Nonso Anozie as Red Cargo</li><li>Alan Jael Velázquez Abreu as Kito</li><li>Renny Arozarena as Butcher</li><li>Betiza Bismark as Emani Dune</li><li>Michael Ricardo Crespo Cardenas as Deni&#x27;s Assassin</li><li>Barbara Janet Martinez as Shopkeeper Woman</li><li>Ayensi Amilgar Jardines Delgado as Dodo</li></ul>\n</article>",
+   "t": "Guava Island (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:57243": {
    "d": "The Women on the 6th Floor (2011): Comedy film. Story: Paris, in the early 1960s. Jean-Louis Joubert is a… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/4yXwLVlpzVWMkVZuYxhLXC2luo6.jpg",
@@ -1092,6 +1547,137 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Women on the 6th Floor (2011)</h1>\n<p class=\"ssr-lead\">Paris, in the early 1960s. Jean-Louis Joubert is a serious but uptight stockbroker, married to Suzanne, a starchy class-conscious woman and father of two arrogant teenage boys, currently in a boarding school. The affluent man lives a steady yet boring life. At least until, due to fortuitous circumstances, Maria, the charming new maid at the service of Jean-Louis&#x27; family, makes him discover the servants&#x27; quarter on the sixth floor of the luxury building he owns and lives in. There live a crowd of lively Spanish maids who will help Jean-Louis to open to a new civilization and a new approach of life. In their company - and more precisely in the company of beautiful Maria - Jean-Louis will gradually become another man, a better man.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2011</li><li>Runtime: 106 minutes</li><li>Director: Philippe Le Guay</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (426 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Jean-Louis Joubert</li><li>Sandrine Kiberlain as Suzanne Joubert</li><li>Natalia Verbeke as Maria</li><li>Carmen Maura as Concepcion</li><li>Lola Dueñas as Carmen</li><li>Berta Ojea as Dolores</li><li>Concha Galán as Pilar</li><li>Marie-Armelle Deguy as Colette de Bergeret</li><li>Muriel Solvay as Nicole de Grandcourt</li><li>Audrey Fleurot as Bettina de Brossolette</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Strand Releasing Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
    "t": "The Women on the 6th Floor (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:79643": {
+   "d": "Anche se è amore non si vede (2011): Comedy film. Story: Salvo and Valentino are two Sicilian friends who have… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sx5RlLVm3dh9IZxLlDGBX3I3V88.jpg",
+   "industry": "world",
+   "k": "Anche se è amore non si vede, Anche se è amore non si vede movie, Anche se è amore non si vede cast, Anche se è amore non si vede story, Anche se è amore non si vede box office collection, Anche se è amore non si vede budget, Anche se è amore non si vede review, Anche se è amore non si vede rating, Anche se è amore non si vede release date, Anche se è amore non si vede Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Salvatore Ficarra"
+     },
+     {
+      "@type": "Person",
+      "name": "Valentino Picone"
+     },
+     {
+      "@type": "Person",
+      "name": "Ambra Angiolini"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Fleri"
+     },
+     {
+      "@type": "Person",
+      "name": "Sascha Zacharias"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 377,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Anche se è amore non si vede (2011): Comedy film. Story: Salvo and Valentino are two Sicilian friends who have… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Valentino Picone"
+     },
+     {
+      "@type": "Person",
+      "name": "Salvatore Ficarra"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sx5RlLVm3dh9IZxLlDGBX3I3V88.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=79643",
+    "name": "Anche se è amore non si vede",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=79643"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Anche se è amore non si vede (2011)</h1>\n<p class=\"ssr-lead\">Salvo and Valentino are two Sicilian friends who have moved to Turin, and now run a small business together. They drive foreign tourists around in a double-decker bus, and Salvo always tries to approach the pretty girls.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2011</li><li>Runtime: 95 minutes</li><li>Director: Valentino Picone, Salvatore Ficarra</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (377 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Salvatore Ficarra as Salvo</li><li>Valentino Picone as Valentino</li><li>Ambra Angiolini as Gisella</li><li>Diane Fleri as Sonia</li><li>Sascha Zacharias as Natasha</li><li>Giovanni Esposito as Orazio / Arturo</li><li>David Furr as Peter</li><li>Rossella Leone as Angela</li><li>Fabrizio Romano as Gigi</li><li>Sal Borgese as papà di Orazio</li></ul>\n</article>",
+   "t": "Anche se è amore non si vede (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:802443": {
+   "d": "Deadly Illusions (2021): Thriller/Drama film. Story: A bestselling female novelist, suffering from… See cast and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h9idnfOs9nt8Nj2agbOjlOqTGAc.jpg",
+   "industry": "world",
+   "k": "Deadly Illusions, Deadly Illusions movie, Deadly Illusions cast, Deadly Illusions story, Deadly Illusions box office collection, Deadly Illusions budget, Deadly Illusions review, Deadly Illusions rating, Deadly Illusions release date, Deadly Illusions Thriller, Deadly Illusions Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristin Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Dermot Mulroney"
+     },
+     {
+      "@type": "Person",
+      "name": "Greer Grammer"
+     },
+     {
+      "@type": "Person",
+      "name": "Shanola Hampton"
+     },
+     {
+      "@type": "Person",
+      "name": "Lora Martinez-Cunningham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "Deadly Illusions (2021): Thriller/Drama film. Story: A bestselling female novelist, suffering from… See cast and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anna Elizabeth James"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h9idnfOs9nt8Nj2agbOjlOqTGAc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=802443",
+    "name": "Deadly Illusions",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=802443"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Deadly Illusions (2021)</h1>\n<p class=\"ssr-lead\">A bestselling female novelist, suffering from writer&#x27;s block, hires an innocent young woman to watch over her twin children. As the novelist dangerously indulges in her new best seller, the line between the life she&#x27;s writing and the one she&#x27;s living becomes blurred.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2021</li><li>Runtime: 114 minutes</li><li>Director: Anna Elizabeth James</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 5.0/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristin Davis as Mary Morrison</li><li>Dermot Mulroney as Tom Morrison</li><li>Greer Grammer as Grace</li><li>Shanola Hampton as Elaine</li><li>Lora Martinez-Cunningham as Andrea Miller</li><li>Grayson Berry as Detective Newheart</li><li>Marie Wagenman as Alexandra Morrison</li><li>Olivia Taylor as Nanny #3</li><li>Jean Effron as Librarian</li><li>Ellen Humphreys as Angela Huntsman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Deadly Illusions (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:994143": {
    "d": "Skinamarink (2023): Horror film. Story: Two children wake up in the middle of the night to… See cast, budget $15.0k, and TMDB rating 5.3/10.",

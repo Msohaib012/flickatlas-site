@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 34,
+ "count": 44,
  "titles": {
   "movie:1000879": {
    "backdrop_path": "/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
@@ -516,6 +516,116 @@
    "vote_average": 7.476,
    "vote_count": 394
   },
+  "movie:12579": {
+   "backdrop_path": "/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bernard Coudray",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Mathilde Bauchard",
+     "n": "Fanny Ardant"
+    },
+    {
+     "c": "Philippe Bauchard",
+     "n": "Henri Garcin"
+    },
+    {
+     "c": "Arlette Coudray",
+     "n": "Michèle Baumgartner"
+    },
+    {
+     "c": "Roland Duguet",
+     "n": "Roger Van Hool"
+    },
+    {
+     "c": "Madame Odile Jouve",
+     "n": "Véronique Silver"
+    },
+    {
+     "c": "Doctor",
+     "n": "Philippe Morier-Genoud"
+    },
+    {
+     "c": "Hotel concierge",
+     "n": "Nicole Vauthier"
+    },
+    {
+     "c": "Nicole",
+     "n": "Muriel Combe"
+    },
+    {
+     "c": "Thomas Coudray",
+     "n": "Olivier Becquaert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "François Truffaut"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 12579,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Two ex-lovers wind up living next door to each other with their respective spouses. Forbidden passions ensue.",
+   "popularity": 2.0039,
+   "poster_path": "/nxBf3Y7Q9XVuKvUl0df8MW2IsQ7.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-09-30",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A destructive passion between desire and madness.",
+   "title": "The Woman Next Door",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.068,
+   "vote_count": 353
+  },
   "movie:1321179": {
    "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
    "budget": 6900000,
@@ -679,6 +789,98 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 34
+  },
+  "movie:13679": {
+   "backdrop_path": "/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kirikou (voice)",
+     "n": "Pierre-Ndoffé Sarr"
+    },
+    {
+     "c": "Karaba (voice)",
+     "n": "Awa Sène Sarr"
+    },
+    {
+     "c": "Le grand-père (voice)",
+     "n": "Robert Liensol"
+    },
+    {
+     "c": "La mère (voice)",
+     "n": "Marie-Philomène Nga"
+    },
+    {
+     "c": "L'oncle (voice)",
+     "n": "Emile Abossolo M'bo"
+    },
+    {
+     "c": "Le veillard",
+     "n": "Pascal N'Zonzi"
+    },
+    {
+     "c": "La femme forte",
+     "n": "Marthe N'Domé"
+    },
+    {
+     "c": "La grande fille",
+     "n": "Emilie Gaydu"
+    },
+    {
+     "c": "Le grand garçon",
+     "n": "Gwénaël Sommier"
+    },
+    {
+     "c": "Le garçon moyen",
+     "n": "Alex Carrete"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "Michel Ocelot",
+    "Bénédicte Galup"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 13679,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Kirikou's grandfather thinks that the story of Kirikou and The Witch was too short, so he proceeds to explain more about Kirikou's accomplishments. We find out how the little boy became a gardener, a detective, a maker of pottery, a merchant, a traveler and a doctor.",
+   "popularity": 1.6894,
+   "poster_path": "/yPWBxCxwMbwdvwcXagHNOPWrCig.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2005-12-07",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kirikou and the Wild Beasts",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 355
   },
   "movie:1380279": {
    "backdrop_path": "/7Xb6T5B2wQy0dcKVlgriyVqYDdt.jpg",
@@ -1063,6 +1265,368 @@
    "vote_average": 9.1,
    "vote_count": 21
   },
+  "movie:1679": {
+   "backdrop_path": "/xJgVSEl4HnRl4UscJRQn9Rfubet.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Shoichi Tsukioka",
+     "n": "Hiroshi Koizumi"
+    },
+    {
+     "c": "Hidemi Yamaji",
+     "n": "Setsuko Wakayama"
+    },
+    {
+     "c": "Kôji Kobayashi",
+     "n": "Minoru Chiaki"
+    },
+    {
+     "c": "Kyohei Yamane-hakase",
+     "n": "Takashi Shimura"
+    },
+    {
+     "c": "Zoologist Dr. Tadokoro",
+     "n": "Masao Shimizu"
+    },
+    {
+     "c": "Captain Terasawa of Osaka Defense Corps",
+     "n": "Seijirô Onda"
+    },
+    {
+     "c": "Hokkaido Branch Manager Shingo Shibeki",
+     "n": "Sonosuke Sawamura"
+    },
+    {
+     "c": "Tajima, Member of Osaka Defense Corps",
+     "n": "Yoshio Tsuchiya"
+    },
+    {
+     "c": "Radio Operator Yasuko Inouye",
+     "n": "Mayuri Mokushô"
+    },
+    {
+     "c": "Chief of Civil Defense",
+     "n": "Minosuke Yamada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Motoyoshi Oda"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Action"
+   ],
+   "id": 1679,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Two fishing scout pilots make a horrifying discovery when they encounter a second Godzilla alongside a new monster named Anguirus. Without the weapon that killed the original, authorities attempt to lure Godzilla away from the mainland. But Anguirus soon arrives and the two monsters make their way towards Osaka as Japan braces for tragedy.",
+   "popularity": 3.4545,
+   "poster_path": "/bBYdh9tDCyLaArBOzE38QCA7C3y.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1955-04-24",
+   "revenue": 1952653,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A tremendous, astonishing story that rages across the nation of Japan!",
+   "title": "Godzilla Raids Again",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 355
+  },
+  "movie:215379": {
+   "backdrop_path": "/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ernest Holm",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Flem Lever",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Mary Holm",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Jerome Holm",
+     "n": "Kodi Smit-McPhee"
+    },
+    {
+     "c": "Katherine Holm",
+     "n": "Aimee Mullins"
+    },
+    {
+     "c": "Robbie",
+     "n": "Christy Pankhurst"
+    },
+    {
+     "c": "Sooz",
+     "n": "Alex McGregor"
+    },
+    {
+     "c": "Caleb",
+     "n": "Robert Hobbs"
+    },
+    {
+     "c": "Sam Lever",
+     "n": "David Butler"
+    },
+    {
+     "c": "Calvin Hooyman",
+     "n": "David Clatworthy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jake Paltrow"
+   ],
+   "genres": [
+    "Western",
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 215379,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a future where water is scarce, a farmer defends his land and hopes to rejuvenate his parched soil. However, his daughter's boyfriend schemes to steal the land for himself.",
+   "popularity": 1.6813,
+   "poster_path": "/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+   "production_countries": [
+    "ZA",
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-06-28",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a future without water, vengeance will rain.",
+   "title": "Young Ones",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 349
+  },
   "movie:232679": {
    "backdrop_path": "/h2WyyRB2jKpketuZ0znyANyJGjc.jpg",
    "budget": 15000000,
@@ -1177,6 +1741,538 @@
    "type": "movie",
    "vote_average": 6.682,
    "vote_count": 396
+  },
+  "movie:23479": {
+   "backdrop_path": "/jsMViXpdIBm7HY6XkInbQ1PU1OC.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Morris Buttermaker",
+     "n": "Walter Matthau"
+    },
+    {
+     "c": "Amanda Whurlitzer",
+     "n": "Tatum O'Neal"
+    },
+    {
+     "c": "Roy Turner",
+     "n": "Vic Morrow"
+    },
+    {
+     "c": "Cleveland",
+     "n": "Joyce Van Patten"
+    },
+    {
+     "c": "Bob Whitewood",
+     "n": "Ben Piazza"
+    },
+    {
+     "c": "Kelly Leak",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Ogilvie",
+     "n": "Alfred Lutter"
+    },
+    {
+     "c": "Tanner Boyle",
+     "n": "Chris Barnes"
+    },
+    {
+     "c": "Ahmad Abdul Rahim",
+     "n": "Erin Blunt"
+    },
+    {
+     "c": "Endelberg",
+     "n": "Gary Lee Cavagnaro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Ritchie"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 23479,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.",
+   "popularity": 2.2942,
+   "poster_path": "/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Stingray Karaoke Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-04-07",
+   "revenue": 42349782,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The coach is waiting for his next beer. The pitcher is waiting for her first bra. The team is waiting for a miracle. Consider the possibilities.",
+   "title": "The Bad News Bears",
+   "trailer": {
+    "key": "rdqJs5-N1-A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 364
+  },
+  "movie:24679": {
+   "backdrop_path": "/1lnrkpvnw6cRxJS9VyMMei9Ed6g.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Charlie 'Bird' Parker",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Chan Parker",
+     "n": "Diane Venora"
+    },
+    {
+     "c": "Red Rodney",
+     "n": "Michael Zelniker"
+    },
+    {
+     "c": "Dizzy Gillespie",
+     "n": "Samuel E. Wright"
+    },
+    {
+     "c": "Buster Franklin",
+     "n": "Keith David"
+    },
+    {
+     "c": "Brewster",
+     "n": "Michael McGuire"
+    },
+    {
+     "c": "Esteves",
+     "n": "James Handy"
+    },
+    {
+     "c": "Young Bird",
+     "n": "Damon Whitaker"
+    },
+    {
+     "c": "Kim",
+     "n": "Morgan Nagler"
+    },
+    {
+     "c": "Dr. Heath",
+     "n": "Arlen Dean Snyder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 24679,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Saxophone player Charlie ‘Bird’ Parker comes to New York in 1940 and is quickly noticed for his remarkable way of playing. He becomes a drug addict but his loving wife Chan tries to help him.",
+   "popularity": 1.9334,
+   "poster_path": "/rTCp6M98RQAxRl0x0guU9GlH7HS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-06-01",
+   "revenue": 2000000,
+   "runtime": 161,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"There are no second acts in American lives.\"",
+   "title": "Bird",
+   "trailer": {
+    "key": "O9GGJO8HJ1E",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.85,
+   "vote_count": 363
+  },
+  "movie:3079": {
+   "backdrop_path": "/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
+   "budget": 270000,
+   "cast": [
+    {
+     "c": "Baron Victor Frankenstein",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Hazel Court"
+    },
+    {
+     "c": "Paul Krempe",
+     "n": "Robert Urquhart"
+    },
+    {
+     "c": "The Creature",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Young Victor",
+     "n": "Melvyn Hayes"
+    },
+    {
+     "c": "Justine",
+     "n": "Valerie Gaunt"
+    },
+    {
+     "c": "Prof. Bernstein",
+     "n": "Paul Hardtmuth"
+    },
+    {
+     "c": "Aunt",
+     "n": "Noel Hood"
+    },
+    {
+     "c": "Grandpa",
+     "n": "Fred Johnson"
+    },
+    {
+     "c": "Little Boy",
+     "n": "Claude Kingston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Terence Fisher"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 3079,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Baron Victor Frankenstein has discovered life's secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face — and a tendency to kill.",
+   "popularity": 2.2729,
+   "poster_path": "/r9PDkqKhzdo54aqnOL88wUJY49B.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1957-05-20",
+   "revenue": 8000000,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The creature created by man and forgotten by nature!",
+   "title": "The Curse of Frankenstein",
+   "trailer": {
+    "key": "3dShEw3PAuQ",
+    "name": "The Trailer That Sold Britain Hammer’s First Technicolour Horror in 1957",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.768,
+   "vote_count": 366
+  },
+  "movie:32579": {
+   "backdrop_path": "/zonIwzSHU4i8Mh1XG6w0JrPpLJb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlos  'Carlitos' Reyes",
+     "n": "Adrian Alonso"
+    },
+    {
+     "c": "Rosario",
+     "n": "Kate del Castillo"
+    },
+    {
+     "c": "Enrique",
+     "n": "Eugenio Derbez"
+    },
+    {
+     "c": "Alicia",
+     "n": "Maya Zapata"
+    },
+    {
+     "c": "Doña Carmen 'La Coyota'",
+     "n": "Carmen Salinas"
+    },
+    {
+     "c": "Benita Reyes",
+     "n": "Angelina Peláez"
+    },
+    {
+     "c": "Paco",
+     "n": "Gabriel Porras"
+    },
+    {
+     "c": "Martha",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Reyna",
+     "n": "María Rojo"
+    },
+    {
+     "c": "David",
+     "n": "Jesse Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "festival",
+   "director": [
+    "Patricia Riggen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 32579,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Tells the parallel stories of nine-year-old Carlitos and his mother, Rosario. In the hopes of providing a better life for her son, Rosario works illegally in the U.S. while her mother cares for Carlitos back in Mexico.",
+   "popularity": 1.6517,
+   "poster_path": "/wx9DwdcgvLhoQJP3AOXpvMISgtM.jpg",
+   "production_countries": [
+    "MX",
+    "US",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-27",
+   "revenue": 23311391,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The love between a mother and a son knows no boundaries.",
+   "title": "Under the Same Moon",
+   "trailer": {
+    "key": "9jCZgUiPixE",
+    "name": "Under The Same Moon Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.98,
+   "vote_count": 378
   },
   "movie:354979": {
    "backdrop_path": "/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
@@ -2210,6 +3306,115 @@
    "vote_average": 7.342,
    "vote_count": 430
   },
+  "movie:758879": {
+   "backdrop_path": "/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sophie",
+     "n": "Brooke Shields"
+    },
+    {
+     "c": "Myles",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Thomas",
+     "n": "Lee Ross"
+    },
+    {
+     "c": "Maisie",
+     "n": "Andi Osho"
+    },
+    {
+     "c": "Helen",
+     "n": "Tina Gray"
+    },
+    {
+     "c": "Rhona",
+     "n": "Eilidh Loan"
+    },
+    {
+     "c": "Angus",
+     "n": "Stephen Oswald"
+    },
+    {
+     "c": "Lexi",
+     "n": "Vanessa Grasse"
+    },
+    {
+     "c": "Claire",
+     "n": "Desiree Burch"
+    },
+    {
+     "c": "Eamon",
+     "n": "Anthony Strachan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Mary Lambert"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 758879,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.",
+   "popularity": 2.0084,
+   "poster_path": "/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-26",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Come home to where your dreams began.",
+   "title": "A Castle for Christmas",
+   "trailer": {
+    "key": "T_JbFba2i6s",
+    "name": "A Castle For Christmas | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 371
+  },
   "movie:762079": {
    "backdrop_path": "/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
    "budget": 0,
@@ -2714,6 +3919,114 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 457
+  },
+  "movie:8279": {
+   "backdrop_path": "/mCjL4UL11lW0XzvYI7KnK1vL94b.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Elise",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Pierre",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Roland Verneuil",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Jean",
+     "n": "Albert Dupontel"
+    },
+    {
+     "c": "Philippe Verneuil",
+     "n": "François Cluzet"
+    },
+    {
+     "c": "La Boulangère",
+     "n": "Karin Viard"
+    },
+    {
+     "c": "Franky",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Laetitia",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Mourad",
+     "n": "Zinedine Soualem"
+    },
+    {
+     "c": "Caroline",
+     "n": "Julie Ferrier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Cédric Klapisch"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 8279,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Pierre, a professional dancer, suffers from a serious heart disease. While he is waiting for a transplant which may (or may not) save his life, he has nothing better to do than look at the people around him, from the balcony of his Paris apartment.",
+   "popularity": 1.3449,
+   "poster_path": "/bcJAgm2N0FW0PkCew9A1yv8r6zF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-02-20",
+   "revenue": 23550000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Paris",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.459,
+   "vote_count": 369
   },
   "tv:106379": {
    "backdrop_path": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",

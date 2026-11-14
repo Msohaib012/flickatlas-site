@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 42,
+ "count": 50,
  "titles": {
   "movie:11502": {
    "backdrop_path": "/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
@@ -135,6 +135,131 @@
    "type": "movie",
    "vote_average": 7.264,
    "vote_count": 493
+  },
+  "movie:12502": {
+   "backdrop_path": "/1UHZ53y6dcfPElyuQ5UkqgAxwHi.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Karen Silkwood",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Drew Stephens",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Dolly Pelliker",
+     "n": "Cher"
+    },
+    {
+     "c": "Winston",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Morgan",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "Angela",
+     "n": "Diana Scarwid"
+    },
+    {
+     "c": "Paul Stone",
+     "n": "Ron Silver"
+    },
+    {
+     "c": "Earl Lapin",
+     "n": "Charles Hallahan"
+    },
+    {
+     "c": "Max Richter",
+     "n": "Josef Sommer"
+    },
+    {
+     "c": "Thelma Rice",
+     "n": "Sudie Bond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Nichols"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 12502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Like most of the people in her town, Karen Silkwood works at the local nuclear plant producing highly radioactive plutonium. Exposed one day to a lethal dose of radiation, Karen faces the blank walls of corporate indifference and denial. As her illness increases, her protest grows louder and she becomes an obvious danger to the powers that be.",
+   "popularity": 2.088,
+   "poster_path": "/sGB81v70nnZqPMKFasvCpOmPcfq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-12-14",
+   "revenue": 35616970,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "On November 13, 1974, Karen Silkwood, an employee of a nuclear facility, left to meet with a reporter from the New York Times. She never got there.",
+   "title": "Silkwood",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.938,
+   "vote_count": 369
   },
   "movie:12702": {
    "backdrop_path": "/mCK4c04c4D4c80qZJXuDaIMiQtl.jpg",
@@ -562,6 +687,115 @@
    "type": "movie",
    "vote_average": 7.191,
    "vote_count": 55
+  },
+  "movie:1371202": {
+   "backdrop_path": "/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ammar/Double A",
+     "n": "Soufiane Moussouli"
+    },
+    {
+     "c": "Ilian Petrov",
+     "n": "Admir Šehović"
+    },
+    {
+     "c": "Mingus",
+     "n": "Emmanuel Ohene Boafo"
+    },
+    {
+     "c": "Soof",
+     "n": "Fockeline Ouwerkerk"
+    },
+    {
+     "c": "Bente",
+     "n": "Roosmarijn van der Hoek"
+    },
+    {
+     "c": "Lucas",
+     "n": "Robin Boissevain"
+    },
+    {
+     "c": "Winston",
+     "n": "Louis Talpe"
+    },
+    {
+     "c": "Kees",
+     "n": "Marcel Hensema"
+    },
+    {
+     "c": "Lynn",
+     "n": "Loes Haverkort"
+    },
+    {
+     "c": "Mark",
+     "n": "Eric Corton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bobby Boermans"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1371202,
+   "industry": "world",
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
+   "popularity": 2.5882,
+   "poster_path": "/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
+   "production_countries": [
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-04-18",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "iHostage",
+   "trailer": {
+    "key": "Dhg-3ME2L6M",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.922,
+   "vote_count": 344
   },
   "movie:15602": {
    "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
@@ -1330,6 +1564,277 @@
    "vote_average": 6.8,
    "vote_count": 427
   },
+  "movie:26302": {
+   "backdrop_path": "/7ryDL1g6FNHMFdXmmmFGZZpEh0a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The poet as a young man / The poet's love / The nun in white lace / The angel of resurrection / The mime",
+     "n": "Sofiko Chiaureli"
+    },
+    {
+     "c": "The poet as a child",
+     "n": "Melkon Alekyan"
+    },
+    {
+     "c": "The poet in the monastery",
+     "n": "Vilen Galstyan"
+    },
+    {
+     "c": "The poet as an old man",
+     "n": "Gogi Gegechkori"
+    },
+    {
+     "c": "The prince",
+     "n": "Hovhannes Minasyan"
+    },
+    {
+     "c": "The poet's father",
+     "n": "Spartak Bagashvili"
+    },
+    {
+     "c": "The poet's mother",
+     "n": "Medea Japaridze"
+    },
+    {
+     "c": "",
+     "n": "Onik Minasyan"
+    },
+    {
+     "c": "",
+     "n": "Yuri Amiryan"
+    },
+    {
+     "c": "",
+     "n": "I. Babayan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Sergei Parajanov"
+   ],
+   "genres": [
+    "History"
+   ],
+   "id": 26302,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "hy",
+   "overview": "The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova's dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov.",
+   "popularity": 2.091,
+   "poster_path": "/rMUbQf7RgsYgQ47AFf1wpoSt4dX.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Eternal Family"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+     "name": "Pijama Films",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-10-01",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hy",
+    "az",
+    "ka"
+   ],
+   "status": "Released",
+   "tagline": "A poetic evocation of the life of Armenian poet Sayat Nova.",
+   "title": "The Color of Pomegranates",
+   "trailer": {
+    "key": "RsrUqqnPA3Q",
+    "name": "The Color Of Pomegranates Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.352,
+   "vote_count": 364
+  },
+  "movie:276902": {
+   "backdrop_path": "/lGoyDkKafXvKmZ2oQYdVMOzuhSX.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Dwayne McLaren",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Cassandra Steeley",
+     "n": "Teresa Palmer"
+    },
+    {
+     "c": "Sheriff Vogel",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Georgie Wits",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "Stan Steeley",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Derby Milton",
+     "n": "Michael Stuhlbarg"
+    },
+    {
+     "c": "Joe Barrett",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Harvey",
+     "n": "Ty Olsson"
+    },
+    {
+     "c": "Rosie",
+     "n": "Peyton Kennedy"
+    },
+    {
+     "c": "Nurse (uncredited)",
+     "n": "Marie Zydek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Shakman"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 276902,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "25-year-old Dwayne McLaren, a former athlete turned auto mechanic, dreams of getting out of tiny Cut Bank, Montana the coldest town in America. But his effort to do so sets in motion a deadly series of events that change his life and the life of the town forever...",
+   "popularity": 1.6531,
+   "poster_path": "/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-04",
+   "revenue": 288591,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Good Folks. Bad Deeds.",
+   "title": "Cut Bank",
+   "trailer": {
+    "key": "35c8ttEJ6fk",
+    "name": "Cut Bank | Official Trailer HD | A24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.789,
+   "vote_count": 374
+  },
   "movie:309302": {
    "backdrop_path": "/5dDUDrH373QJgblJx8BCNSNPIvz.jpg",
    "budget": 38000000,
@@ -1480,6 +1985,295 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 412
+  },
+  "movie:316002": {
+   "backdrop_path": "/rFoRdUFIHQhWRX9ZXK79uilOSWO.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Alice Eckle",
+     "n": "Jessica Biel"
+    },
+    {
+     "c": "Howard Birdwell",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Pam Hendrickson",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Scott",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Keyshawn",
+     "n": "Tracy Morgan"
+    },
+    {
+     "c": "Edwin",
+     "n": "Paul Reubens"
+    },
+    {
+     "c": "Helen Eckle",
+     "n": "Beverly D'Angelo"
+    },
+    {
+     "c": "Reverend Norm",
+     "n": "Kurt Fuller"
+    },
+    {
+     "c": "Rakeesha",
+     "n": "Malinda Williams"
+    },
+    {
+     "c": "Aunt Rita",
+     "n": "Kirstie Alley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David O. Russell"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 316002,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small town waitress gets a nail accidentally lodged in her head causing unpredictable behavior that leads her to Washington, DC.  Sparks fly when she meets a clueless young senator who takes up her cause - but what happens when love interferes with what you stand for?",
+   "popularity": 2.1983,
+   "poster_path": "/znPsDmQVKW0BuBnaErIAPo49X3i.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-10",
+   "revenue": 24487,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes you nail love. Sometimes it nails you.",
+   "title": "Accidental Love",
+   "trailer": {
+    "key": "nFVF377iqIw",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.3,
+   "vote_count": 364
+  },
+  "movie:31602": {
+   "backdrop_path": "/v1qEgoa9gqdomROteK8ceelJueJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sheriff Calder",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Anna Reeves",
+     "n": "Jane Fonda"
+    },
+    {
+     "c": "Charlie 'Bubber' Reeves",
+     "n": "Robert Redford"
+    },
+    {
+     "c": "Val Rogers",
+     "n": "E.G. Marshall"
+    },
+    {
+     "c": "Ruby Calder",
+     "n": "Angie Dickinson"
+    },
+    {
+     "c": "Emily Stewart",
+     "n": "Janice Rule"
+    },
+    {
+     "c": "Mrs. Reeves",
+     "n": "Miriam Hopkins"
+    },
+    {
+     "c": "Mary Fuller",
+     "n": "Martha Hyer"
+    },
+    {
+     "c": "Edwin Stewart",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Damon Fuller",
+     "n": "Richard Bradford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Arthur Penn"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 31602,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+   "popularity": 2.7926,
+   "poster_path": "/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-02-18",
+   "revenue": 2300000,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A breathless explosive story of today!",
+   "title": "The Chase",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.05,
+   "vote_count": 341
   },
   "movie:340402": {
    "backdrop_path": "/dXbV1QF2nrmrs0TLOQnNPydhwPj.jpg",
@@ -2538,6 +3332,101 @@
    "vote_average": 6.6,
    "vote_count": 406
   },
+  "movie:526702": {
+   "backdrop_path": "/6wiz1IqKpmMteGIX77hUFvjsd5L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Black Beauty (voice)",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Jo Green",
+     "n": "Mackenzie Foy"
+    },
+    {
+     "c": "John Manly",
+     "n": "Iain Glen"
+    },
+    {
+     "c": "George Winthorp",
+     "n": "Calam Lynch"
+    },
+    {
+     "c": "Mrs. Winthorp",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Georgina Winthorp",
+     "n": "Fern Deacon"
+    },
+    {
+     "c": "Mr. York",
+     "n": "David Sherwood"
+    },
+    {
+     "c": "Mario",
+     "n": "Bjorn Steinbach"
+    },
+    {
+     "c": "Mr. Winthrop",
+     "n": "Patrick Lyster"
+    },
+    {
+     "c": "James",
+     "n": "Max Raphael"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ashley Avis"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 526702,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.",
+   "popularity": 2.4111,
+   "poster_path": "/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg",
+   "production_countries": [
+    "DE",
+    "CH",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-27",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Find your way home.",
+   "title": "Black Beauty",
+   "trailer": {
+    "key": "DpZ3yZhsWZE",
+    "name": "Black Beauty | Official Trailer | Disney+",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.957,
+   "vote_count": 364
+  },
   "movie:61202": {
    "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
    "budget": 7700000,
@@ -3088,6 +3977,117 @@
    "type": "movie",
    "vote_average": 7.976,
    "vote_count": 415
+  },
+  "movie:832502": {
+   "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monkey King (voice)",
+     "n": "Jimmy O. Yang"
+    },
+    {
+     "c": "Dragon King (voice)",
+     "n": "Bowen Yang"
+    },
+    {
+     "c": "Lin (voice)",
+     "n": "Jolie Hoang-Rappaport"
+    },
+    {
+     "c": "Benbo (voice)",
+     "n": "Jo Koy"
+    },
+    {
+     "c": "Babbo (voice)",
+     "n": "Ron Yuan"
+    },
+    {
+     "c": "Stick (voice)",
+     "n": "Nan Li"
+    },
+    {
+     "c": "The Mayor (voice)",
+     "n": "Andrew Pang"
+    },
+    {
+     "c": "Mayor's Wife (voice)",
+     "n": "Stephanie Hsu"
+    },
+    {
+     "c": "Red Girl / Child Monkey (voice)",
+     "n": "Sophie Wu"
+    },
+    {
+     "c": "Jade Emperor / Monk (voice)",
+     "n": "Hoon Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Anthony Stacchi"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "id": 832502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+   "popularity": 3.2324,
+   "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-07-30",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legend has arrived",
+   "title": "The Monkey King",
+   "trailer": {
+    "key": "-Ao79QJNE-s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.528,
+   "vote_count": 378
   },
   "movie:931102": {
    "backdrop_path": "/7vLjt0NthBRvNDv9PVie8KpBWOJ.jpg",

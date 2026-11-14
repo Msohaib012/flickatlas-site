@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 40,
+ "count": 43,
  "titles": {
   "movie:1032950": {
    "backdrop_path": "/xXSjMjCdZ6v7NIFvsSMNqe4ySkF.jpg",
@@ -615,6 +615,189 @@
    "vote_average": 6.102,
    "vote_count": 494
   },
+  "movie:11950": {
+   "backdrop_path": "/rmTU5rLkN9g3EUEulfXdctJ5gpl.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "J.J. McClure",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Victor Prinzim / Captain Chaos / Don Canneloni",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Jamie Blake",
+     "n": "Dean Martin"
+    },
+    {
+     "c": "Fenderbaum",
+     "n": "Sammy Davis Jr."
+    },
+    {
+     "c": "Sheik",
+     "n": "Jamie Farr"
+    },
+    {
+     "c": "Betty",
+     "n": "Marilu Henner"
+    },
+    {
+     "c": "Hymie",
+     "n": "Telly Savalas"
+    },
+    {
+     "c": "Veronica",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Jill",
+     "n": "Susan Anton"
+    },
+    {
+     "c": "Marcie",
+     "n": "Catherine Bach"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hal Needham"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 11950,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a wealthy sheikh puts up $1 million in prize money for a cross-country car race, there is one person crazy enough to hit the road hard with wheels spinning fast. Legendary driver J.J. McClure enters the competition along with his friend Victor and together they set off across the American landscape in a madcap action-adventure destined to test their wits and automobile skills.",
+   "popularity": 2.8266,
+   "poster_path": "/sdXjbUcdESA5CKCyez6A29c2vq3.jpg",
+   "production_countries": [
+    "US",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-06-29",
+   "revenue": 56278073,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The popcorn's in the lobby. The nuts are on the screen.",
+   "title": "Cannonball Run II",
+   "trailer": {
+    "key": "PTvHelZPmaw",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.396,
+   "vote_count": 371
+  },
   "movie:1290450": {
    "backdrop_path": "/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
    "budget": 0,
@@ -830,6 +1013,121 @@
    "type": "movie",
    "vote_average": 6.92,
    "vote_count": 113
+  },
+  "movie:13350": {
+   "backdrop_path": "/ofM2bez3pE2SJBZAUyoQDdVPkJS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shaggy Rogers / Mirror Monster (voice)",
+     "n": "Casey Kasem"
+    },
+    {
+     "c": "Scooby-Doo / Scrappy-Doo (voice)",
+     "n": "Don Messick"
+    },
+    {
+     "c": "Ms. Grimwood (voice)",
+     "n": "Glynis Johns"
+    },
+    {
+     "c": "Sibella Dracula (voice)",
+     "n": "Susan Blu"
+    },
+    {
+     "c": "Tanis the Mummy (voice)",
+     "n": "Patty Maloney"
+    },
+    {
+     "c": "Elsa Frankensteen (voice)",
+     "n": "Pat Musick"
+    },
+    {
+     "c": "Winnie Werewolf (voice)",
+     "n": "Marilyn Schreffler"
+    },
+    {
+     "c": "Phantasma (voice)",
+     "n": "Russi Taylor"
+    },
+    {
+     "c": "Matches / Papa Werewolf / Well Dweller (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "The Grim Creeper / Mummy Daddy (voice)",
+     "n": "Andre Stojka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Charles August Nichols"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "TV Movie",
+    "Mystery",
+    "Fantasy"
+   ],
+   "id": 13350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Scooby, Shaggy and Scrappy are on their way to Miss Grimwood's Finishing School for Girls, where they've been hired as gym teachers. Once there, however, they find that not only is it actually an all-girl school of famous monsters' daughters but there's a villainess out to enslave the girls.",
+   "popularity": 2.5186,
+   "poster_path": "/duMdoHLQvnzRDZm2CD66DT4PvS5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-10-16",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hey there, it's the ghoul school!",
+   "title": "Scooby-Doo and the Ghoul School",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 345
   },
   "movie:1398050": {
    "backdrop_path": "/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
@@ -2339,6 +2637,198 @@
    "type": "movie",
    "vote_average": 7.004,
    "vote_count": 460
+  },
+  "movie:516850": {
+   "backdrop_path": "/dze068iVyTADUG4WyUxL3H1k2XA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marina",
+     "n": "Victoria Agalakova"
+    },
+    {
+     "c": "Roma Kitaev",
+     "n": "Efim Petrunin"
+    },
+    {
+     "c": "Ilya",
+     "n": "Nikita Elenev"
+    },
+    {
+     "c": "Olga",
+     "n": "Cécile Pleuge"
+    },
+    {
+     "c": "Lisa Grigorieva",
+     "n": "Sofya Shidlovskaya"
+    },
+    {
+     "c": "",
+     "n": "Igor Khripunov"
+    },
+    {
+     "c": "Bride",
+     "n": "Dariya Yartseva"
+    },
+    {
+     "c": "Bride's Father",
+     "n": "Dmitry Yartsev"
+    },
+    {
+     "c": "Victim",
+     "n": "Alla Artamonova"
+    },
+    {
+     "c": "Groom Mermaid",
+     "n": "Emil Sales"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R 18+",
+   "date_kind": "release",
+   "director": [
+    "Svyatoslav Podgaevsky"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 516850,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "An evil Mermaid falls in love with Marina's fiancé Roman and aims to keep him away from Marina in her Kingdom of Death under water. The Mermaid is a young woman who drowned a few centuries ago. Marina only has one week to overcome her fear of the dark water, to remain human in the deathly fight with the monsters and not to become one herself.",
+   "popularity": 1.5154,
+   "poster_path": "/gGFZ84plg0TPM737j8ccpseh96l.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-07-12",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Mermaid: Lake of the Dead",
+   "trailer": {
+    "key": "koBvnxSBqk4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.109,
+   "vote_count": 354
   },
   "movie:557950": {
    "backdrop_path": "/9eYrq3NZq3WsCuYQS0q9zPr1eMf.jpg",

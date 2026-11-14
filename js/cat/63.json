@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 37,
+ "count": 42,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -287,6 +287,223 @@
    "type": "movie",
    "vote_average": 5.665,
    "vote_count": 471
+  },
+  "movie:11163": {
+   "backdrop_path": "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Encolpio",
+     "n": "Martin Potter"
+    },
+    {
+     "c": "Ascilto",
+     "n": "Hiram Keller"
+    },
+    {
+     "c": "Gitone",
+     "n": "Max Born"
+    },
+    {
+     "c": "Eumolpo",
+     "n": "Salvo Randone"
+    },
+    {
+     "c": "Trimalcione",
+     "n": "Mario Romagnoli"
+    },
+    {
+     "c": "Fortunata",
+     "n": "Magali Noël"
+    },
+    {
+     "c": "Trifena",
+     "n": "Capucine"
+    },
+    {
+     "c": "Vernacchio",
+     "n": "Fanfulla"
+    },
+    {
+     "c": "Il predone",
+     "n": "Gordon Mitchell"
+    },
+    {
+     "c": "Minotauro",
+     "n": "George Eastman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Federico Fellini"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 11163,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+   "popularity": 1.9069,
+   "poster_path": "/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1969-09-18",
+   "revenue": 0,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Rome. Before Christ. After Fellini.",
+   "title": "Satyricon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.706,
+   "vote_count": 373
+  },
+  "movie:11463": {
+   "backdrop_path": "/6Ht821fxEaQ5f4MufKjY5Ks97Qk.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Senior Civil Servant",
+     "n": "Harry Andrews"
+    },
+    {
+     "c": "Squadron Leader Canfield",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Air Vice Marshal Keith Park",
+     "n": "Trevor Howard"
+    },
+    {
+     "c": "Baron von Richter",
+     "n": "Curd Jürgens"
+    },
+    {
+     "c": "Sgt. Pilot Andy",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Group Capt. Baker",
+     "n": "Kenneth More"
+    },
+    {
+     "c": "Air Chief Marshal Sir Hugh Dowding",
+     "n": "Laurence Olivier"
+    },
+    {
+     "c": "Group Capt. Hope",
+     "n": "Nigel Patrick"
+    },
+    {
+     "c": "Squadron Leader Colin Harvey",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Air Vice Marshal Evill",
+     "n": "Michael Redgrave"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Guy Hamilton"
+   ],
+   "genres": [
+    "War",
+    "History",
+    "Action",
+    "Drama"
+   ],
+   "id": 11463,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1940, the Royal Air Force fights a desperate battle against the might of the Luftwaffe for control of the skies over Britain, thus preventing an attempted Nazi invasion.",
+   "popularity": 2.613,
+   "poster_path": "/98kyEWxcqqNrsaprUtPaQ4adsNG.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "History Vault"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-09-15",
+   "revenue": 0,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "pl",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never was so much owed by so many to so few.",
+   "title": "Battle of Britain",
+   "trailer": {
+    "key": "4d86cHhp65Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.812,
+   "vote_count": 370
   },
   "movie:1356963": {
    "backdrop_path": "/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
@@ -1808,6 +2025,199 @@
    "vote_average": 4.0,
    "vote_count": 781
   },
+  "movie:208763": {
+   "backdrop_path": "/d7SWh0taIIfWyO2Yuy2wrO6z6p6.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Jonathan Green",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Petrus",
+     "n": "Aleksey Chadov"
+    },
+    {
+     "c": "Nastusya",
+     "n": "Agniya Ditkovskite"
+    },
+    {
+     "c": "Sotnik",
+     "n": "Yuriy Tsurilo"
+    },
+    {
+     "c": "Pannochka",
+     "n": "Olga Zaytseva"
+    },
+    {
+     "c": "Overko",
+     "n": "Aleksandr Yakovlev"
+    },
+    {
+     "c": "Dorosh",
+     "n": "Igor Jijikine"
+    },
+    {
+     "c": "Yavtukh",
+     "n": "Valeriy Zolotukhin"
+    },
+    {
+     "c": "Zhena Yavtukha",
+     "n": "Nina Ruslanova"
+    },
+    {
+     "c": "Kuznets",
+     "n": "Viktor Bychkov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oleg Stepchenko"
+   ],
+   "genres": [
+    "Thriller",
+    "Adventure",
+    "Mystery",
+    "Fantasy"
+   ],
+   "id": 208763,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Early 18th century. Cartographer Jonathan Green undertakes a scientific voyage from Europe to the East. Having passed through Transylvania and crossed the Carpathian Mountains, he finds himself in a small village lost in impassible woods. Nothing but chance and heavy fog could bring him to this cursed place. People who live here do not resemble any other people which the traveler saw before that. The villagers, having dug a deep moat to fend themselves from the rest of the world, share a naive belief that they could save themselves from evil, failing to understand that evil has made its nest in their souls and is waiting for an opportunity to gush out upon the world.",
+   "popularity": 1.8628,
+   "poster_path": "/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg",
+   "production_countries": [
+    "RU",
+    "CZ",
+    "UA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Outside TV Features Amzon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/y3b3UctYaH11sKkxPN4juIQhaHp.png",
+     "name": "Outside TV Features Amzon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-01-30",
+   "revenue": 34592118,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The truth is in you",
+   "title": "Forbidden Empire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 349
+  },
   "movie:24163": {
    "backdrop_path": "/tEqeyPPBJfyDJl0lO08YiqefYqd.jpg",
    "budget": 0,
@@ -2057,6 +2467,131 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 406
+  },
+  "movie:26263": {
+   "backdrop_path": "/be8hrZ0W2OiJ2WAag4SMnxGkUpz.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Paul Kersey",
+     "n": "Charles Bronson"
+    },
+    {
+     "c": "Karen Sheldon",
+     "n": "Kay Lenz"
+    },
+    {
+     "c": "Nathan White",
+     "n": "John P. Ryan"
+    },
+    {
+     "c": "Ed Zacharias",
+     "n": "Perry Lopez"
+    },
+    {
+     "c": "Detective Reiner",
+     "n": "George Dickerson"
+    },
+    {
+     "c": "Det. Phil Nozaki",
+     "n": "Soon-Tek Oh"
+    },
+    {
+     "c": "Erica Sheldon",
+     "n": "Dana Barron"
+    },
+    {
+     "c": "Randy Viscovich",
+     "n": "Jesse Dabson"
+    },
+    {
+     "c": "Nick Franco",
+     "n": "Peter Sherayko"
+    },
+    {
+     "c": "Vince Montono",
+     "n": "James Purcell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "J. Lee Thompson"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 26263,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the death of his girlfriend's daughter from a drug overdose, Paul Kersey takes on the local drug cartel.",
+   "popularity": 2.4939,
+   "poster_path": "/r8HwJQJyKRyJ2JypwiVR5p0ZV84.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-06-11",
+   "revenue": 6880310,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time it's war!",
+   "title": "Death Wish 4: The Crackdown",
+   "trailer": {
+    "key": "hOwFQS1eN0w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.712,
+   "vote_count": 375
   },
   "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
@@ -2662,6 +3197,105 @@
    "type": "movie",
    "vote_average": 6.763,
    "vote_count": 492
+  },
+  "movie:925263": {
+   "backdrop_path": "/klNuvFdKPROPuEgyISq3lFRATb0.jpg",
+   "budget": 13266839,
+   "cast": [
+    {
+     "c": "Giovanni",
+     "n": "Nanni Moretti"
+    },
+    {
+     "c": "Paola",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Ennio",
+     "n": "Silvio Orlando"
+    },
+    {
+     "c": "Vera",
+     "n": "Barbora Bobuľová"
+    },
+    {
+     "c": "Pierre",
+     "n": "Mathieu Amalric"
+    },
+    {
+     "c": "Jerzy",
+     "n": "Jerzy Stuhr"
+    },
+    {
+     "c": "Direttore del circo",
+     "n": "Zsolt Anger"
+    },
+    {
+     "c": "Psicoanalista",
+     "n": "Teco Celio"
+    },
+    {
+     "c": "Emma",
+     "n": "Valentina Romani"
+    },
+    {
+     "c": "Edoardo",
+     "n": "Flavio Furno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Nanni Moretti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 925263,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "An old film director, unhappy with the movie he's shooting about a Hungarian circus stranded in Rome during the 1956 anti-Soviet uprising, faces divorce from his producer wife and other problems.",
+   "popularity": 1.3583,
+   "poster_path": "/rN5ExiIpjHGAcm5mN4RsVzi0y1e.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2023-04-20",
+   "revenue": 6551542,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "el",
+    "hu",
+    "fr",
+    "la",
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Brighter Tomorrow",
+   "trailer": {
+    "key": "X4PFTqjQKCc",
+    "name": "A BRIGHTER TOMORROW - Official HD Trailer - Only in Cinemas",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 351
   },
   "movie:9263": {
    "backdrop_path": "/ic529Vlnxmp2ArVSYr5vBLoNFEK.jpg",

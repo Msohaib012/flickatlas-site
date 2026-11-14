@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 47,
+ "count": 52,
  "titles": {
   "movie:1043905": {
    "backdrop_path": "/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
@@ -1167,6 +1167,145 @@
    "vote_average": 7.7,
    "vote_count": 26
   },
+  "movie:13105": {
+   "backdrop_path": "/zzGgdKmUSnJx6cEiW3Nfh5ruOOy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Caroline",
+     "n": "Teri Garr"
+    },
+    {
+     "c": "Alex",
+     "n": "Frederick Koehler"
+    },
+    {
+     "c": "Kenny",
+     "n": "Taliesin Jaffe"
+    },
+    {
+     "c": "Megan",
+     "n": "Courtney-Jane White"
+    },
+    {
+     "c": "Megan",
+     "n": "Brittany White"
+    },
+    {
+     "c": "Ron",
+     "n": "Martin Mull"
+    },
+    {
+     "c": "Joan",
+     "n": "Ann Jillian"
+    },
+    {
+     "c": "Jinx",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Larry",
+     "n": "Christopher Lloyd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Stan Dragoti"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 13105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack and Caroline are a couple making a decent living when Jack suddenly loses his job. They agree that he should stay at home and look after the house while Caroline works. It's just that he's never done it before, and really doesn't have a clue...",
+   "popularity": 2.098,
+   "poster_path": "/QuTlgKKykL7j0PnZZd3LNFVhCX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-08-19",
+   "revenue": 64783827,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "When mom goes to work, dad goes berserk!",
+   "title": "Mr. Mom",
+   "trailer": {
+    "key": "wFXuRHFW3Wk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 368
+  },
   "movie:1358005": {
    "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
    "budget": 0,
@@ -1917,6 +2056,341 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 406
+  },
+  "movie:26405": {
+   "backdrop_path": "/6EHp4gjYmXaevHMnlYnH1abTEdt.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Doc Tydon",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "John Grant",
+     "n": "Gary Bond"
+    },
+    {
+     "c": "Jock Crawford",
+     "n": "Chips Rafferty"
+    },
+    {
+     "c": "Janette Hynes",
+     "n": "Sylvia Kay"
+    },
+    {
+     "c": "Dick",
+     "n": "Jack Thompson"
+    },
+    {
+     "c": "Joe",
+     "n": "Peter Whittle"
+    },
+    {
+     "c": "Tim Hynes",
+     "n": "Al Thomas"
+    },
+    {
+     "c": "Charlie",
+     "n": "John Meillon"
+    },
+    {
+     "c": "Atkins",
+     "n": "John Armstrong"
+    },
+    {
+     "c": "Jarvis",
+     "n": "Slim DeGrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ted Kotcheff"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 26405,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A young schoolteacher descends into personal moral degradation after finding himself stranded in a brutal, menacing town in outback Australia.",
+   "popularity": 2.327,
+   "poster_path": "/5XwMDn2acQZ3CHuJ3EDXLg348G3.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1971-07-21",
+   "revenue": 371717,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Have a drink, mate? Have a fight, mate? Have some dust and sweat, mate? There's nothing else out here.",
+   "title": "Wake in Fright",
+   "trailer": {
+    "key": "yqwDmHioWcE",
+    "name": "Official Arrow Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.242,
+   "vote_count": 368
+  },
+  "movie:276905": {
+   "backdrop_path": "/bqBtjT11WMPaX6RY6jkGBFz2HfS.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Norm (voice)",
+     "n": "Rob Schneider"
+    },
+    {
+     "c": "Vera (voice)",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Olympia (voice)",
+     "n": "Maya Kay"
+    },
+    {
+     "c": "Mr. Greene (voice)",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Socrates (voice)",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Grandfather (voice)",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "Forebear (voice)",
+     "n": "Charlie Adler"
+    },
+    {
+     "c": "Pablo / Stan (voice)",
+     "n": "Gabriel Iglesias"
+    },
+    {
+     "c": "Elizabeth (voice)",
+     "n": "Kate Higgins"
+    },
+    {
+     "c": "Laurence (voice)",
+     "n": "Michael McElhatton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Trevor Wall"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 276905,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Polar bear Norm and his three Arctic lemming buddies are forced out into the world once their icy home begins melting and breaking apart. Landing in New York, Norm begins life anew as a performing corporate mascot, only to discover that his new employers are directly responsible for the destruction of his polar home.",
+   "popularity": 2.4509,
+   "poster_path": "/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg",
+   "production_countries": [
+    "IN",
+    "IE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-14",
+   "revenue": 17062499,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bear to be different",
+   "title": "Norm of the North",
+   "trailer": {
+    "key": "u8A_F5oYJGI",
+    "name": "Norm Of The North (2016) – Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.658,
+   "vote_count": 374
   },
   "movie:29005": {
    "backdrop_path": "/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
@@ -3171,6 +3645,206 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 451
+  },
+  "movie:899405": {
+   "backdrop_path": "/AjfboLPgxFmUBHJzXBl2S5KS53L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valeria Ontiveros",
+     "n": "Annie Cabello"
+    },
+    {
+     "c": "Alex Garcia",
+     "n": "Ralf"
+    },
+    {
+     "c": "Regina",
+     "n": "Estefi Merelles"
+    },
+    {
+     "c": "Richie",
+     "n": "Harold Azuara"
+    },
+    {
+     "c": "Lina",
+     "n": "Alicia Vélez"
+    },
+    {
+     "c": "Self - Creative Executive",
+     "n": "Federico Fábregas"
+    },
+    {
+     "c": "DJ",
+     "n": "Heidi Garcia"
+    },
+    {
+     "c": "Max",
+     "n": "Marcel Jeannin"
+    },
+    {
+     "c": "Timmy",
+     "n": "Andrés Manterola"
+    },
+    {
+     "c": "Professor Deportes",
+     "n": "Chimwemwe Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "María Torres"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 899405,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "After an accidental text message turns into a digital friendship, Vale and Alex start crushing on each other without realizing they've met in real life.",
+   "popularity": 1.0798,
+   "poster_path": "/kQu9rNkiB0nSSRGQX0B6u9sxwfw.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-10",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Anonymously Yours",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 380
+  },
+  "movie:9005": {
+   "backdrop_path": "/qDEU8UwN07cz689uErkWtMlok0m.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Vic",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Renata Crest",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Bill Guerrard",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "Pete Van Heuten",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Roy Gelles",
+     "n": "Mike Starr"
+    },
+    {
+     "c": "Sidney",
+     "n": "Ned Bellamy"
+    },
+    {
+     "c": "Officer Tyler",
+     "n": "T.J. Jagodowski"
+    },
+    {
+     "c": "Councilman Williams",
+     "n": "David Pasquesi"
+    },
+    {
+     "c": "Rusti",
+     "n": "Lara Phillips"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Harold Ramis"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 9005,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A shady lawyer attempts a Christmas Eve crime, hoping to swindle the local mob out of some money. But his partner, a strip club owner, might have different plans for the cash.",
+   "popularity": 1.7582,
+   "poster_path": "/8N2X2u6nPoPEwRLIZbKacJw1xrC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-11-23",
+   "revenue": 10156958,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Thick Thieves. Thin Ice.",
+   "title": "The Ice Harvest",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.949,
+   "vote_count": 350
   },
   "tv:105": {
    "backdrop_path": "/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",

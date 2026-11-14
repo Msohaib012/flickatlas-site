@@ -1,7 +1,123 @@
 {
  "bucket": "42",
- "count": 39,
+ "count": 46,
  "titles": {
+  "movie:10342": {
+   "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Mrs. Tingle",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Leigh Ann Watson",
+     "n": "Katie Holmes"
+    },
+    {
+     "c": "Luke Churner",
+     "n": "Barry Watson"
+    },
+    {
+     "c": "Jo Lynn Jordan",
+     "n": "Marisa Coughlan"
+    },
+    {
+     "c": "Principal Potter",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Coach Wenchell",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Trudie Tucker",
+     "n": "Liz Stauber"
+    },
+    {
+     "c": "Miss Banks",
+     "n": "Molly Ringwald"
+    },
+    {
+     "c": "Miss Gold",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Brian Berry",
+     "n": "John Patrick White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Williamson"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 10342,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A bright high-school senior has her impending status as valedictorian jeopardized when her bitter history teacher, Mrs. Tingle, gives her a poor grade on a project.  When an attempt to get ahead in Mrs. Tingle's class goes awry, mayhem ensues and friendships, loyalties and trust are tested by the teacher's intricate mind-games.",
+   "popularity": 1.6041,
+   "poster_path": "/cGv0tkWZZSmoaPYiOsDcGmMhKq7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-08-20",
+   "revenue": 8946237,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Before school lets out, Mrs. Tingle's class is going to need a substitute teacher.",
+   "title": "Teaching Mrs. Tingle",
+   "trailer": {
+    "key": "ZbVa-QJXI5M",
+    "name": "Teaching Mrs. Tingle - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.532,
+   "vote_count": 378
+  },
   "movie:11042": {
    "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
    "budget": 8000000,
@@ -528,6 +644,113 @@
    "type": "movie",
    "vote_average": 7.087,
    "vote_count": 450
+  },
+  "movie:1212142": {
+   "backdrop_path": "/8qSsnSbgosaCROnvcOzeXyWsxIp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lainy Newton",
+     "n": "Amy Schumer"
+    },
+    {
+     "c": "Kate",
+     "n": "Jillian Bell"
+    },
+    {
+     "c": "Megan Taylor",
+     "n": "Brianne Howey"
+    },
+    {
+     "c": "Josh Lewis",
+     "n": "Will Forte"
+    },
+    {
+     "c": "Shirley",
+     "n": "Lizze Broadway"
+    },
+    {
+     "c": "Dave",
+     "n": "Damon Wayans Jr."
+    },
+    {
+     "c": "Fallon",
+     "n": "Urzila Carlson"
+    },
+    {
+     "c": "Steve",
+     "n": "Chris Geere"
+    },
+    {
+     "c": "Mark",
+     "n": "Joel David Moore"
+    },
+    {
+     "c": "Rawn",
+     "n": "Alex Moffat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tyler Spindel"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1212142,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Lainy's plan to settle down and start a family falls apart, she puts on a fake baby bump, tells a lie — and accidentally falls for her dream guy.",
+   "popularity": 2.4838,
+   "poster_path": "/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-02-04",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Lying like a mother.",
+   "title": "Kinda Pregnant",
+   "trailer": {
+    "key": "OAj2VFETzoM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.58,
+   "vote_count": 343
   },
   "movie:121642": {
    "backdrop_path": "/uzr5OCSv6DnRWRDwq9btxdUNMNY.jpg",
@@ -2054,6 +2277,620 @@
    "vote_average": 6.717,
    "vote_count": 390
   },
+  "movie:34942": {
+   "backdrop_path": "/4rFvJSvzX9dSOYeGzl59Udzdym9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Balto / Moose 1 / Moose 2 (voice)",
+     "n": "Maurice LaMarche"
+    },
+    {
+     "c": "Jenna (voice)",
+     "n": "Jodi Benson"
+    },
+    {
+     "c": "Kodi (voice)",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Boris / White Mountain Postmaster (voice)",
+     "n": "Charles Fleischer"
+    },
+    {
+     "c": "Ralph / Mr. Conner (voice)",
+     "n": "Bill Fagerbakke"
+    },
+    {
+     "c": "Duke (voice)",
+     "n": "Keith Carradine"
+    },
+    {
+     "c": "Dusty (voice)",
+     "n": "Charity James"
+    },
+    {
+     "c": "Dipsy (voice)",
+     "n": "Kathy Najimy"
+    },
+    {
+     "c": "Mel (voice)",
+     "n": "David Paymer"
+    },
+    {
+     "c": "Muc / Luc / Simpson (voice)",
+     "n": "Kevin Schon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Phil Weinstein"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Animation"
+   ],
+   "id": 34942,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Balto and the other sled dogs are feeling dejected because the mail that used to be delivered by dogsled is now being delivered by airplanes. But when a mail plane crashes in the mountains, the dogs come to the rescue.",
+   "popularity": 2.6298,
+   "poster_path": "/3tKVHAMFTajrSLfU6gUgdubiXBG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-04-14",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An American hero is back! The adventure continues!",
+   "title": "Balto III: Wings of Change",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 368
+  },
+  "movie:356842": {
+   "backdrop_path": "/tNoeXAKFL6sgpUYADRIGBOYiqsC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Justin",
+     "n": "Stephen Campbell Moore"
+    },
+    {
+     "c": "Kate",
+     "n": "Clémence Poésy"
+    },
+    {
+     "c": "Jon",
+     "n": "David Morrissey"
+    },
+    {
+     "c": "Theresa",
+     "n": "Laura Birn"
+    },
+    {
+     "c": "Tessa",
+     "n": "Deborah Findlay"
+    },
+    {
+     "c": "Mark",
+     "n": "Jonathan Harden"
+    },
+    {
+     "c": "Allergy Doctor",
+     "n": "Tuyen Do"
+    },
+    {
+     "c": "Sonographer",
+     "n": "Laila Alj"
+    },
+    {
+     "c": "Phil",
+     "n": "Christos Lawton"
+    },
+    {
+     "c": "Registrar",
+     "n": "Stephanie Jacob"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "David Farr"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 356842,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A young affluent couple expecting their first child hits it off with the new couple that moves in downstairs, until a dinner party between them ends in a shocking accident.",
+   "popularity": 1.3452,
+   "poster_path": "/r7c0b3di92eZUBT1PUoHHdBdWSb.jpg",
+   "production_countries": [
+    "AE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-03-11",
+   "revenue": 121827,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How well do you know your neighbors?",
+   "title": "The Ones Below",
+   "trailer": {
+    "key": "nnTfVYYAa8M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 382
+  },
+  "movie:38842": {
+   "backdrop_path": "/wiyGkY94gw6K38hjqdB961GmCuy.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Jack Harris",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Wayne Beering",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Buck Dolby",
+     "n": "Gabriel Macht"
+    },
+    {
+     "c": "Jerry Haggerty",
+     "n": "James Caan"
+    },
+    {
+     "c": "Diana Harris",
+     "n": "Jacinda Barrett"
+    },
+    {
+     "c": "Curt Allmans",
+     "n": "Kevin Pollak"
+    },
+    {
+     "c": "Audrey Dawns",
+     "n": "Laura Ramsey"
+    },
+    {
+     "c": "Nikita Sokoloff",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "James",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Frank Griffin",
+     "n": "Kelsey Grammer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Gallo"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 38842,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals and struggles not to drown in a sea of conmen, mobsters, drug addicts, and pornstars.",
+   "popularity": 1.8776,
+   "poster_path": "/l56cv8FczzEk4pe3W8BHiRNCC05.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-05-17",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Business is a lot like sex ... getting in is easy, pulling out is hard.",
+   "title": "Middle Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.522,
+   "vote_count": 370
+  },
+  "movie:440642": {
+   "backdrop_path": "/t4YhlPbrloOjukZLKol9dhfDyxS.jpg",
+   "budget": 7075038,
+   "cast": [
+    {
+     "c": "Alexey Leonov",
+     "n": "Evgeny Mironov"
+    },
+    {
+     "c": "Pavel Belyaev",
+     "n": "Konstantin Khabensky"
+    },
+    {
+     "c": "Sergey Korolev",
+     "n": "Vladimir Ilin"
+    },
+    {
+     "c": "Nikolay Kamanin",
+     "n": "Anatoliy Kotenyov"
+    },
+    {
+     "c": "Svetlana Leonova",
+     "n": "Alexandra Ursuliak"
+    },
+    {
+     "c": "Tatyana Belyaeva",
+     "n": "Elena Panova"
+    },
+    {
+     "c": "Vladimir Markelov",
+     "n": "Aleksandr Ilyin Jr"
+    },
+    {
+     "c": "Boris Chertok",
+     "n": "Yuriy Itskov"
+    },
+    {
+     "c": "Unit commander",
+     "n": "Kirill Poluhin"
+    },
+    {
+     "c": "Lyuda Belyaeva",
+     "n": "Vitaliya Kornienko"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dmitry Kiselyov"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "id": 440642,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "March 1965. In the heat of the Cold War, the USA and the USSR are competing for supremacy in space. What both superpowers aim for in this race, is to be the first to have a man walk in outer space. To accomplish that, no price is too high and no risk is too great. Now it’s up to the unlikely duo of a seasoned war veteran and a hot-headed test-pilot to fulfill this mission. Two men in a tiny spaceship, without proper testing, facing the complete unknown. They were supposed to do what no man has done before—and no man imagined what would happen next.",
+   "popularity": 1.5237,
+   "poster_path": "/hDNVRmrprxI9NQ0zc2Uu03p65Fw.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-04-06",
+   "revenue": 9868942,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "So far from home, so close to disaster",
+   "title": "The Spacewalker",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 379
+  },
   "movie:458342": {
    "backdrop_path": "/6p6H2b4jZrm6V4uf39X21xAPgrK.jpg",
    "budget": 0,
@@ -2622,6 +3459,232 @@
    "type": "movie",
    "vote_average": 6.332,
    "vote_count": 467
+  },
+  "movie:8942": {
+   "backdrop_path": "/wUScRcpPtfFPZpWZmUIIbHLEsBJ.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Wendy Carroll",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Wally Dalton"
+    },
+    {
+     "c": "Man in Park",
+     "n": "Larry Fessenden"
+    },
+    {
+     "c": "Icky",
+     "n": "Will Oldham"
+    },
+    {
+     "c": "Andy",
+     "n": "John Robinson"
+    },
+    {
+     "c": "Mechanic",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Lucy",
+     "n": "Lucy the Dog"
+    },
+    {
+     "c": "Kid by Fire",
+     "n": "David Koppell"
+    },
+    {
+     "c": "Kid by Fire",
+     "n": "Max Clement"
+    },
+    {
+     "c": "Kid by Fire",
+     "n": "Sid Shanley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Kelly Reichardt"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 8942,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A near-penniless drifter's journey to Alaska in search of work is interrupted when she loses her dog while attempting to shoplift food for it.",
+   "popularity": 1.2016,
+   "poster_path": "/cSe2AuFL6hL7EYd3jFAdsPtoaqS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Hoopla"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+     "name": "Hoopla",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-03-06",
+   "revenue": 1192655,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "On the long road, friendship is everything.",
+   "title": "Wendy and Lucy",
+   "trailer": {
+    "key": "pASs3rerRCY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 377
   },
   "movie:91342": {
    "backdrop_path": "/pXurmwRwzq7UwTf9MdWGLiiDKN6.jpg",

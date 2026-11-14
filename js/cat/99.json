@@ -1,7 +1,276 @@
 {
  "bucket": "99",
- "count": 29,
+ "count": 35,
  "titles": {
+  "movie:10399": {
+   "backdrop_path": "/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Fanny Price",
+     "n": "Frances O'Connor"
+    },
+    {
+     "c": "Edmund Bertram",
+     "n": "Jonny Lee Miller"
+    },
+    {
+     "c": "Mr. Henry Crawford",
+     "n": "Alessandro Nivola"
+    },
+    {
+     "c": "Young Fanny",
+     "n": "Hannah Taylor-Gordon"
+    },
+    {
+     "c": "Mrs. Price / Lady Bertram",
+     "n": "Lindsay Duncan"
+    },
+    {
+     "c": "Tom Bertram",
+     "n": "James Purefoy"
+    },
+    {
+     "c": "Mrs. Norris",
+     "n": "Sheila Gish"
+    },
+    {
+     "c": "Sir Thomas Bertram",
+     "n": "Harold Pinter"
+    },
+    {
+     "c": "Maria Bertram Rushworth",
+     "n": "Victoria Hamilton"
+    },
+    {
+     "c": "Mr. Rushworth",
+     "n": "Hugh Bonneville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Patricia Rozema"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 10399,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Fanny Price is sent to live with her wealthy relatives, the Bertrams, where she is treated poorly by most except her cousin Edmund. Her life is complicated by the arrival of the worldly Mary and Henry Crawford.",
+   "popularity": 1.8218,
+   "poster_path": "/4l6KP9BSU1QgSgj9cjpeS3Bfhsr.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-11-12",
+   "revenue": 4775847,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For everyone who loved \"Emma\" and \"Sense & Sensibility\" comes the comedy Jane Austen loved best.",
+   "title": "Mansfield Park",
+   "trailer": {
+    "key": "7t15rm0iwSQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.689,
+   "vote_count": 352
+  },
+  "movie:10799": {
+   "backdrop_path": "/1i8oz24NssaUplHdB8N7Od4Iqki.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Jean-Louis Schiffer",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Anna Heymes",
+     "n": "Arly Jover"
+    },
+    {
+     "c": "Paul Nerteaux",
+     "n": "Jocelyn Quivrin"
+    },
+    {
+     "c": "Mathilde Uran",
+     "n": "Laura Morante"
+    },
+    {
+     "c": "Coroner",
+     "n": "Philippe du Janerand"
+    },
+    {
+     "c": "Laurent",
+     "n": "Philippe Bas"
+    },
+    {
+     "c": "Dr. Ackerman",
+     "n": "Didier Sauvegrain"
+    },
+    {
+     "c": "Philippe Charlier",
+     "n": "Patrick Floersheim"
+    },
+    {
+     "c": "Olivier Amien",
+     "n": "Etienne Chicot"
+    },
+    {
+     "c": "Lieutenant",
+     "n": "Albert Dray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris Nahon"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action"
+   ],
+   "id": 10799,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When the young detective Paul Nerteaux finds the third slashed female corpse of illegal Turkish immigrants, he decides to ask for support to the experienced dark retired detective Jean-Louis Schiffer to chase the serial killer. Together, they infiltrate in the Turkish mafia trying to find the answer to the crimes. Meanwhile, the worker Anna Heymes is being submitted to a brain treatment and has severe headaches and glimpses of memories and visions. When these two parallel events collide, disclose that the Turkish organization \"The Wolves\" is behind them.",
+   "popularity": 1.8448,
+   "poster_path": "/AkX5I7NF3OcFvxwWm2VzsRgZ1yb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-04-20",
+   "revenue": 11875866,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "If You Can't Remember Your Past...You Can't Save Your Future.",
+   "title": "Empire of the Wolves",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 341
+  },
   "movie:109099": {
    "backdrop_path": "/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
    "budget": 20000000,
@@ -1254,6 +1523,157 @@
    "vote_average": 6.499,
    "vote_count": 474
   },
+  "movie:18299": {
+   "backdrop_path": "/zqAg8ZvRAUdGzQqY5NZ10jcwBgm.jpg",
+   "budget": 2100000,
+   "cast": [
+    {
+     "c": "Frank Flannagan",
+     "n": "Gary Cooper"
+    },
+    {
+     "c": "Ariane Chavasse / Thin Girl",
+     "n": "Audrey Hepburn"
+    },
+    {
+     "c": "Claude Chavasse",
+     "n": "Maurice Chevalier"
+    },
+    {
+     "c": "Monsieur X",
+     "n": "John McGiver"
+    },
+    {
+     "c": "Michel",
+     "n": "Van Doude"
+    },
+    {
+     "c": "Madame X",
+     "n": "Lise Bourdin"
+    },
+    {
+     "c": "Hotel Guest with Dog",
+     "n": "Olga Valéry"
+    },
+    {
+     "c": "Police Chief (uncredited)",
+     "n": "Paul Bonifas"
+    },
+    {
+     "c": "Brunette (uncredited)",
+     "n": "Audrey Long"
+    },
+    {
+     "c": "General (uncredited)",
+     "n": "Charles Lemontier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Billy Wilder"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 18299,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with a client's wife.",
+   "popularity": 1.7829,
+   "poster_path": "/jCHVviBhRQ7OkJFQfziO2N2ZJmh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1957-05-29",
+   "revenue": 2000000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Love is a game any number can play... especially in the afternoon...",
+   "title": "Love in the Afternoon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 357
+  },
   "movie:1999": {
    "backdrop_path": "/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
    "budget": 1700000,
@@ -1924,6 +2344,267 @@
    "type": "movie",
    "vote_average": 6.371,
    "vote_count": 431
+  },
+  "movie:377799": {
+   "backdrop_path": "/fVBFQQPoWCbhJdT9tWtHIifw7ya.jpg",
+   "budget": 5300000,
+   "cast": [
+    {
+     "c": "Fatah Ballabes",
+     "n": "Fatsah Bouyahmed"
+    },
+    {
+     "c": "Philippe",
+     "n": "Lambert Wilson"
+    },
+    {
+     "c": "Hassan",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Young TV reporter",
+     "n": "Julia Piaton"
+    },
+    {
+     "c": "Naïma, Fatah's wife",
+     "n": "Hajar Masdouki"
+    },
+    {
+     "c": "Mokhtar",
+     "n": "Abdellah Chakiri"
+    },
+    {
+     "c": "Teacher",
+     "n": "Amal El Atrache"
+    },
+    {
+     "c": "Samir",
+     "n": "Fehd Benchemsi"
+    },
+    {
+     "c": "Hamé Hamed",
+     "n": "Miloud Khetib"
+    },
+    {
+     "c": "Lucien",
+     "n": "Christian Ameri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Mohamed Hamidi"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 377799,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "An Algerian man's life-long dream finally comes true when he receives an invitation to take his cow Jacqueline to the Paris International Agriculture Fair.",
+   "popularity": 0.8349,
+   "poster_path": "/vkEvayLdaQFO34cPnwjGw9LAr0T.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-05",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "One Man and his Cow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 352
+  },
+  "movie:429199": {
+   "backdrop_path": "/aTF8rfm7Q1nQX0CXNmS4iUk80Kw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Khaled",
+     "n": "Sherwan Haji"
+    },
+    {
+     "c": "Wikström",
+     "n": "Sakari Kuosmanen"
+    },
+    {
+     "c": "Wikström's Wife",
+     "n": "Kaija Pakarinen"
+    },
+    {
+     "c": "Miriam",
+     "n": "Niroz Haji"
+    },
+    {
+     "c": "Nyrhinen",
+     "n": "Janne Hyytiäinen"
+    },
+    {
+     "c": "Calamnius",
+     "n": "Ilkka Koivula"
+    },
+    {
+     "c": "Mirja",
+     "n": "Nuppu Koivu"
+    },
+    {
+     "c": "Mazdak",
+     "n": "Simon Al-Bazoon"
+    },
+    {
+     "c": "Busker / Band Member",
+     "n": "Tuomari Nurmio"
+    },
+    {
+     "c": "Cashier at Train Station",
+     "n": "Abdi Jama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Aki Kaurismäki"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 429199,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "A restaurateur befriends a Syrian refugee who  has recently arrived in Finland.",
+   "popularity": 1.4585,
+   "poster_path": "/spqAX6L4YtPaCj2dnc10Tku9AU7.jpg",
+   "production_countries": [
+    "FI",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-03",
+   "revenue": 1657449,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fi",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Other Side of Hope",
+   "trailer": {
+    "key": "72coY37gcfM",
+    "name": "Janus Films Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.925,
+   "vote_count": 378
   },
   "movie:454699": {
    "backdrop_path": "/jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg",
@@ -2844,6 +3525,126 @@
    "type": "movie",
    "vote_average": 5.875,
    "vote_count": 413
+  },
+  "movie:9699": {
+   "backdrop_path": "/nOHtfBfbMqMoZ2XkqFaiePNlV78.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sir Charles Litton",
+     "n": "David Niven"
+    },
+    {
+     "c": "Chief Insp. Jacques Clouseau (archive footage)",
+     "n": "Peter Sellers"
+    },
+    {
+     "c": "Lady Simone Litton",
+     "n": "Capucine"
+    },
+    {
+     "c": "Chef Inspektor Charles Dreyfus",
+     "n": "Herbert Lom"
+    },
+    {
+     "c": "Clouseau's Father",
+     "n": "Richard Mulligan"
+    },
+    {
+     "c": "Marie Jouvet",
+     "n": "Joanna Lumley"
+    },
+    {
+     "c": "Charwoman",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Bruno Langois",
+     "n": "Robert Loggia"
+    },
+    {
+     "c": "Cato Fong",
+     "n": "Burt Kwouk"
+    },
+    {
+     "c": "Prof. Auguste Balls",
+     "n": "Harvey Korman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Blake Edwards"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 9699,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Pink Panther diamond is stolen once again from Lugash and the authorities call in Chief Inspector Clouseau from France. His plane disappears en-route. This time, famous French TV reporter Marie Jouvet sets out to solve the mystery and starts to interview everybody connected to Clouseau.",
+   "popularity": 2.5715,
+   "poster_path": "/l2Gv4I8CN28aflcqecPgb0NKh63.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "FR",
+    "ES",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-12-02",
+   "revenue": 9056073,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Newest and Funniest 'Panther' of them all.",
+   "title": "Trail of the Pink Panther",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.148,
+   "vote_count": 345
   },
   "tv:116799": {
    "backdrop_path": "/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",

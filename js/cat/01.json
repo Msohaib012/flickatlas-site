@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 44,
+ "count": 48,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -1791,6 +1791,171 @@
    "vote_average": 7.0,
    "vote_count": 407
   },
+  "movie:24001": {
+   "backdrop_path": "/p715OynJLMeTR0N92guOvo3iJ3s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alexa Concannon",
+     "n": "Sophie Monk"
+    },
+    {
+     "c": "Tyler",
+     "n": "Tad Hilgenbrink"
+    },
+    {
+     "c": "Wilson Wyler Concannon",
+     "n": "William Sadler"
+    },
+    {
+     "c": "Serina",
+     "n": "Janet Montgomery"
+    },
+    {
+     "c": "Lalo",
+     "n": "Alex Wyndham"
+    },
+    {
+     "c": "Sonny",
+     "n": "Ewan Bailey"
+    },
+    {
+     "c": "Gabe",
+     "n": "Mike Straub"
+    },
+    {
+     "c": "Jimbo",
+     "n": "Hristo Mitzkov"
+    },
+    {
+     "c": "Belle",
+     "n": "Joy McBrinn"
+    },
+    {
+     "c": "Sherri",
+     "n": "Ekaterina Temelkova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dave Parker"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 24001,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of young horror fans go searching for a film that mysteriously vanished years ago but instead find that the demented killer from the movie is real, and he's thrilled to meet fans who will die gruesomely for his art.",
+   "popularity": 2.4723,
+   "poster_path": "/odPuG8mbDF12uMAQ5K4LuebtyUo.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-09-29",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Trespassers will be slaughtered...",
+   "title": "The Hills Run Red",
+   "trailer": {
+    "key": "u0lBy5oelAc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.753,
+   "vote_count": 362
+  },
   "movie:28501": {
    "backdrop_path": "/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
    "budget": 200000,
@@ -2082,6 +2247,102 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 465
+  },
+  "movie:340601": {
+   "backdrop_path": "/gpWErHeuasppId2voOWkSDb4bzT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "Kelli Barksdale"
+    },
+    {
+     "c": "Brody",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Frank",
+     "n": "Marty Eli Schwartz"
+    },
+    {
+     "c": "Young Alex",
+     "n": "Cody Sullivan"
+    },
+    {
+     "c": "Alex",
+     "n": "Callan Mulvey"
+    },
+    {
+     "c": "Father",
+     "n": "Robin Thomas"
+    },
+    {
+     "c": "Young Tom",
+     "n": "Braden Fitzgerald"
+    },
+    {
+     "c": "Mother",
+     "n": "Daisy McCrackin"
+    },
+    {
+     "c": "Lynn",
+     "n": "Genesis Rodriguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dennis Iliadis"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 340601,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man recently released from a mental institute inherits a mansion after his parents die. After a series of disturbing events, he comes to believe it is haunted.",
+   "popularity": 1.7925,
+   "poster_path": "/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-10",
+   "revenue": 454481,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's all in your head",
+   "title": "Delirium",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 352
   },
   "movie:42801": {
    "backdrop_path": "/i7awVEzUulqDX35EDKtXijRCpzM.jpg",
@@ -2535,6 +2796,187 @@
    "vote_average": 6.816,
    "vote_count": 438
   },
+  "movie:550201": {
+   "backdrop_path": "/eTpqaNzT0laL3kETlZPdW7LtnCa.jpg",
+   "budget": 201822,
+   "cast": [
+    {
+     "c": "Day",
+     "n": "Theeradej Wongpuapan"
+    },
+    {
+     "c": "Koi",
+     "n": "Ratnomnot Ratchiratham"
+    },
+    {
+     "c": "Mayom",
+     "n": "Kongkiat Khomsiri"
+    },
+    {
+     "c": "Lucky",
+     "n": "Avajareen"
+    },
+    {
+     "c": "Paraglider Guy 1",
+     "n": "Suteerush Channukool"
+    },
+    {
+     "c": "Paraglider Guy 2",
+     "n": "Kuensit Suwanwatthakee"
+    },
+    {
+     "c": "Commercial Actress",
+     "n": "Phoranee Srithan"
+    },
+    {
+     "c": "Commercial Director",
+     "n": "Ekasith Meeprasertsakul"
+    },
+    {
+     "c": "Assistant Commercial Director",
+     "n": "Pratiparn Chantho"
+    },
+    {
+     "c": "Commercial Crew",
+     "n": "Wanlaya Wongsrikaew"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ping Lumpraploeng"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 550201,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Left alone to clean up a 6-meter-deep deserted pool, Day falls asleep on an inflatable raft. When he wakes, the water level has sunk so low that he can't climb out on his own. Stuck in the pool, Day screams for help, but the only thing that hears him is a creature from a nearby crocodile farm.",
+   "popularity": 1.3309,
+   "poster_path": "/n4XWXUoxH8WCUVfu2Sp3xhbMyUG.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-27",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "No water. No ladder. No way out.",
+   "title": "The Pool",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.895,
+   "vote_count": 372
+  },
   "movie:588001": {
    "backdrop_path": "/ensZ2nLvJEtFEioRFE6GJN9JPRI.jpg",
    "budget": 0,
@@ -2638,6 +3080,163 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 438
+  },
+  "movie:676701": {
+   "backdrop_path": "/tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg",
+   "budget": 11983950,
+   "cast": [
+    {
+     "c": "Tadeo Jones (voice)",
+     "n": "Óscar Barberán"
+    },
+    {
+     "c": "Momia (voice)",
+     "n": "Luis Posada"
+    },
+    {
+     "c": "Sara Lavrof (voice)",
+     "n": "Michelle Jenner"
+    },
+    {
+     "c": "Ramona (voz)",
+     "n": "Anuska Alborg"
+    },
+    {
+     "c": "Victoria (voz)",
+     "n": "Alexandra Jiménez"
+    },
+    {
+     "c": "Pickle (voice)",
+     "n": "Tito Valverde"
+    },
+    {
+     "c": "Agent Ramirez (voice)",
+     "n": "Cecilia Suárez"
+    },
+    {
+     "c": "Ryu (voice)",
+     "n": "José Corbacho"
+    },
+    {
+     "c": "Ann (voice)",
+     "n": "Berta Cortés"
+    },
+    {
+     "c": "Brian (voice)",
+     "n": "Pablo W.J. Gómez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Enrique Gato"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 676701,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Tad accidentally unleashes an ancient spell, endangering the lives of his friends Mummy, Jeff, and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure to end the Curse of the Mummy.",
+   "popularity": 3.2848,
+   "poster_path": "/jvIVl8zdNSOAJImw1elQEzxStMN.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-08-24",
+   "revenue": 32800000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tad the Lost Explorer and the Emerald Tablet",
+   "trailer": {
+    "key": "t07Nq-NL_jU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.455,
+   "vote_count": 357
   },
   "movie:7501": {
    "backdrop_path": "/eZTEtIU8AORfmVa7YcRBlAfbgA1.jpg",

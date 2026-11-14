@@ -1,7 +1,71 @@
 {
  "bucket": "64",
- "count": 38,
+ "count": 47,
  "titles": {
+  "movie:10064": {
+   "d": "Edison (2005): Drama/Action film. Story: In the troubled city of Edison, a young journalist… See cast, budget $25M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
+   "industry": "world",
+   "k": "Edison, Edison movie, Edison cast, Edison story, Edison box office collection, Edison budget, Edison review, Edison rating, Edison release date, Edison Drama, Edison Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Morgan Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "LL Cool J"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Timberlake"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan McDermott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Edison (2005): Drama/Action film. Story: In the troubled city of Edison, a young journalist… See cast, budget $25M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David J. Burke"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Drama",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10064",
+    "name": "Edison",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10064"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Edison (2005)</h1>\n<p class=\"ssr-lead\">In the troubled city of Edison, a young journalist, his jaded editor, and an honest investigator from the district attorney&#x27;s office join forces to gather evidence against corrupt members of an elite police unit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2005</li><li>Runtime: 99 minutes</li><li>Director: David J. Burke</li><li>Genres: Drama, Action, Thriller</li><li>Budget: $25M</li><li>TMDB rating: 5.3/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Morgan Freeman as Ashford</li><li>LL Cool J as Deed</li><li>Justin Timberlake as Pollack</li><li>Kevin Spacey as Wallace</li><li>Dylan McDermott as Lazerov</li><li>Cary Elwes as Reigert</li><li>John Heard as Tilman</li><li>Piper Perabo as Willow</li><li>Marco Sanchez as Reyes</li><li>Roselyn Sánchez as Maria</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, Amazon Prime Video with Ads, Peacock Premium Plus</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Edison (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:10264": {
    "d": "Hamlet (1990): Drama/History film. Story: Hamlet, Prince of Denmark, finds out that his uncle… See cast, budget $13.5M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hamlet (1990)</h1>\n<p class=\"ssr-lead\">Hamlet, Prince of Denmark, finds out that his uncle Claudius killed his father to obtain the throne, and plans revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 1990</li><li>Runtime: 130 minutes</li><li>Director: Franco Zeffirelli</li><li>Genres: Drama, History</li><li>Budget: $13.5M</li><li>TMDB rating: 6.6/10 (456 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mel Gibson as Hamlet</li><li>Glenn Close as Gertrude</li><li>Alan Bates as Claudius</li><li>Paul Scofield as The Ghost</li><li>Ian Holm as Polonius</li><li>Helena Bonham Carter as Ophelia</li><li>Stephen Dillane as Horatio</li><li>Nathaniel Parker as Laertes</li><li>Sean Murray as Guildenstern</li><li>Michael Maloney as Rosencrantz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "Hamlet (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
+  },
+  "movie:10364": {
+   "d": "Catch-22 (1970): War/Comedy film. Story: A WWII military pilot makes a valiant effort to be… See cast, budget $18M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7Oju2DdZTL7RUnoKctRvH4u1n8N.jpg",
+   "industry": "world",
+   "k": "Catch-22, Catch-22 movie, Catch-22 cast, Catch-22 story, Catch-22 box office collection, Catch-22 budget, Catch-22 review, Catch-22 rating, Catch-22 release date, Catch-22 trailer, Catch-22 War, Catch-22 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alan Arkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Balsam"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Benjamin"
+     },
+     {
+      "@type": "Person",
+      "name": "Art Garfunkel"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Gilford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Catch-22 (1970): War/Comedy film. Story: A WWII military pilot makes a valiant effort to be… See cast, budget $18M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike Nichols"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "War",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Oju2DdZTL7RUnoKctRvH4u1n8N.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10364",
+    "name": "Catch-22",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1970-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10364"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Catch-22 (1970)</h1>\n<p class=\"ssr-lead\">A WWII military pilot makes a valiant effort to be certified insane in order to be excused from flying missions. But there&#x27;s a catch.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 1970</li><li>Runtime: 121 minutes</li><li>Director: Mike Nichols</li><li>Genres: War, Comedy</li><li>Budget: $18M</li><li>TMDB rating: 6.7/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alan Arkin as Capt. John Yossarian</li><li>Martin Balsam as Col. Cathcart</li><li>Richard Benjamin as Maj. Danby</li><li>Art Garfunkel as Capt. Nately</li><li>Jack Gilford as Dr. &quot;Doc&quot; Daneeka</li><li>Buck Henry as Lt. Col. Korn</li><li>Bob Newhart as Maj. Major Major</li><li>Anthony Perkins as Chaplain Capt. A.T. Tappman</li><li>Paula Prentiss as Nurse Duckett</li><li>Martin Sheen as 1st Lt. Dobbs</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Catch-22 (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1970"
   },
   "movie:10464": {
    "d": "Corrina, Corrina (1994): Comedy/Romance film. Story: When Manny Singer's wife dies, his young daughter… See cast, budget $12.5M, and TMDB rating 6.7/10.",
@@ -755,6 +883,70 @@
    "t": "Desire (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17264": {
+   "d": "The Black Stallion (1979): Family/Adventure film. Story: While traveling with his father, young Alec becomes… See cast, budget $2.7M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/am84QBW5S17uKUeuWvjLIS8urrr.jpg",
+   "industry": "world",
+   "k": "The Black Stallion, The Black Stallion movie, The Black Stallion cast, The Black Stallion story, The Black Stallion box office collection, The Black Stallion budget, The Black Stallion review, The Black Stallion rating, The Black Stallion release date, The Black Stallion Family, The Black Stallion Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Mickey Rooney"
+     },
+     {
+      "@type": "Person",
+      "name": "Teri Garr"
+     },
+     {
+      "@type": "Person",
+      "name": "Clarence Muse"
+     },
+     {
+      "@type": "Person",
+      "name": "Hoyt Axton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 348,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Black Stallion (1979): Family/Adventure film. Story: While traveling with his father, young Alec becomes… See cast, budget $2.7M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carroll Ballard"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Family",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/am84QBW5S17uKUeuWvjLIS8urrr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17264",
+    "name": "The Black Stallion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-10-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17264"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Black Stallion (1979)</h1>\n<p class=\"ssr-lead\">While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion that is brought on board and stabled in the ship he is sailing on. When it tragically sinks both he and the horse survive only to be stranded on a deserted island. He befriends it, so when finally rescued both return to his home where they soon meet Henry Dailey, a once successful trainer. Together they begin training the horse to race against the fastest ones in the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 October 1979</li><li>Runtime: 118 minutes</li><li>Director: Carroll Ballard</li><li>Genres: Family, Adventure</li><li>Budget: $2.7M</li><li>TMDB rating: 7.1/10 (348 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Reno as Alec Ramsey</li><li>Mickey Rooney as Henry Dailey</li><li>Teri Garr as Alec&#x27;s Mother</li><li>Clarence Muse as Snoe</li><li>Hoyt Axton as Alec&#x27;s Father</li><li>Michael Higgins as Neville</li><li>Ed McNamara as Jake</li><li>Doghmi Larbi as Arab</li><li>Cass-Olé as The Black Stallion</li><li>John Burton as Jockey #1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel, Artiflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Black Stallion (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:18764": {
    "d": "Twin Dragons (1992): Action/Comedy film. Story: Identical twins are separated at birth, one becoming… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
@@ -887,6 +1079,70 @@
    "t": "Once Bitten (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
   },
+  "movie:19164": {
+   "d": "The Land Before Time IV: Journey Through the Mists (1996): Adventure/Animation film. Story: When Littlefoot's grandfather falls ill, the only way… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/ctzWJ7TALj46muJXWELhdmtIxTE.jpg",
+   "industry": "world",
+   "k": "The Land Before Time IV: Journey Through the Mists, The Land Before Time IV: Journey Through the Mists movie, The Land Before Time IV: Journey Through the Mists cast, The Land Before Time IV: Journey Through the Mists story, The Land Before Time IV: Journey Through the Mists box office collection, The Land Before Time IV: Journey Through the Mists budget, The Land Before Time IV: Journey Through the Mists review, The Land Before Time IV: Journey Through the Mists rating, The Land Before Time IV: Journey Through the Mists release date, The Land Before Time IV: Journey Through the Mists Adventure, The Land Before Time IV: Journey Through the Mists Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Ingle"
+     },
+     {
+      "@type": "Person",
+      "name": "Candace Hutson"
+     },
+     {
+      "@type": "Person",
+      "name": "Heather Hogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Paulsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bennett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Land Before Time IV: Journey Through the Mists (1996): Adventure/Animation film. Story: When Littlefoot's grandfather falls ill, the only way… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roy Allen Smith"
+     }
+    ],
+    "duration": "PT74M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ctzWJ7TALj46muJXWELhdmtIxTE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19164",
+    "name": "The Land Before Time IV: Journey Through the Mists",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19164"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Land Before Time IV: Journey Through the Mists (1996)</h1>\n<p class=\"ssr-lead\">When Littlefoot&#x27;s grandfather falls ill, the only way to cure him is with a flower from the forbidding land of the mists, which holds unexpected perils and danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 1996</li><li>Runtime: 74 minutes</li><li>Director: Roy Allen Smith</li><li>Genres: Adventure, Animation, Comedy, Family</li><li>TMDB rating: 6.2/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Ingle as Narrator (voice)</li><li>Candace Hutson as Cera (voice)</li><li>Heather Hogan as Ducky (voice)</li><li>Rob Paulsen as Spike (voice)</li><li>Jeff Bennett as Petrie / Ichy (voice)</li><li>Scott McAfee as Littlefoot (voice)</li><li>Kenneth Mars as Grandpa (voice)</li><li>Linda Gary as Grandma (voice)</li><li>Frank Welker as Tickles (voice)</li><li>Carol Bruce as Old One (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Land Before Time IV: Journey Through the Mists (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:27064": {
    "d": "Mishima: A Life in Four Chapters (1985): Drama film. Story: A fictional account of the life of Japanese author… See cast, budget $5M, and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/PnwQJeWhmx9wh9wWM0a0YhLmE.jpg",
@@ -949,6 +1205,150 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mishima: A Life in Four Chapters (1985)</h1>\n<p class=\"ssr-lead\">A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 1985</li><li>Runtime: 121 minutes</li><li>Director: Paul Schrader</li><li>Genres: Drama</li><li>Budget: $5M</li><li>TMDB rating: 7.8/10 (383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ken Ogata as Yukio Mishima</li><li>Masayuki Shionoya as Morita</li><li>Hiroshi Mikami as Cadet #1</li><li>Junya Fukuda as Cadet #2</li><li>Yuu Tokui as Cadet #3</li><li>Junkichi Orimoto as General Mashita</li><li>Naoko Ohtani as Mother</li><li>Go Riju as Mishima, Age 18-19</li><li>Masato Aizawa as Mishima, Age 9-14</li><li>Yuki Nagahara as Mishima, Age 5</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Mishima: A Life in Four Chapters (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
+  },
+  "movie:283564": {
+   "d": "SlugTerra: Return of the Elementals (2014): Family/Animation film. Story: A new member has joined Eli and the Shane Gang!. See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6jnSkRFKkcyKyQJGO5eVfFeXFGF.jpg",
+   "industry": "world",
+   "k": "SlugTerra: Return of the Elementals, SlugTerra: Return of the Elementals movie, SlugTerra: Return of the Elementals cast, SlugTerra: Return of the Elementals story, SlugTerra: Return of the Elementals box office collection, SlugTerra: Return of the Elementals budget, SlugTerra: Return of the Elementals review, SlugTerra: Return of the Elementals rating, SlugTerra: Return of the Elementals release date, SlugTerra: Return of the Elementals Family, SlugTerra: Return of the Elementals Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shannon Chan-Kent"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Francis"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Dobson"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Oliver"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Tockar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "SlugTerra: Return of the Elementals (2014): Family/Animation film. Story: A new member has joined Eli and the Shane Gang!. See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steve Sacks"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Darrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel DeSerranno"
+     },
+     {
+      "@type": "Person",
+      "name": "Behzad Mansoori-Dara"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan McPherson"
+     }
+    ],
+    "duration": "PT63M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6jnSkRFKkcyKyQJGO5eVfFeXFGF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=283564",
+    "name": "SlugTerra: Return of the Elementals",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=283564"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>SlugTerra: Return of the Elementals (2014)</h1>\n<p class=\"ssr-lead\">A new member has joined Eli and the Shane Gang! Junjie, once the protector of the Eastern Caverns, is a master of the slugslinging art of Slug Fu! But even with the power of five slingers, the Shane Gang find themselves in over their heads as they race across The 99 Caverns in search of the Legendary Elemental Slugs. The five Elementals are ancient slugs of great power, and the forbearers of all slugs found in SlugTerra today. In the wrong hands, they could bring Slugterra to the brink of destruction. So when an evil alliance starts hunting down the Elementals, Eli and his friends — old and new — take off in pursuit of the greatest threat their world has ever faced!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 August 2014</li><li>Runtime: 63 minutes</li><li>Director: Steve Sacks, Johnny Darrell, Daniel DeSerranno, Behzad Mansoori-Dara, Logan McPherson</li><li>Genres: Family, Animation, Adventure</li><li>TMDB rating: 7.0/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shannon Chan-Kent as Trixie</li><li>Andrew Francis as Kord Zane</li><li>Brian Dobson as Dark Slinger</li><li>Mark Oliver as Dr. Blakk</li><li>Lee Tockar as Pronto</li><li>Sam Vincent as Eli Shane</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, RetroCrush Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "SlugTerra: Return of the Elementals (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:291264": {
+   "d": "The Family Fang (2016): Comedy/Drama film. Story: A brother and sister return to their family home in… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aaSXUNaSdzRag4BlgyGJjLYGwDd.jpg",
+   "industry": "world",
+   "k": "The Family Fang, The Family Fang movie, The Family Fang cast, The Family Fang story, The Family Fang box office collection, The Family Fang budget, The Family Fang review, The Family Fang rating, The Family Fang release date, The Family Fang Comedy, The Family Fang Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Kidman"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Walken"
+     },
+     {
+      "@type": "Person",
+      "name": "Maryann Plunkett"
+     },
+     {
+      "@type": "Person",
+      "name": "Marin Ireland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Family Fang (2016): Comedy/Drama film. Story: A brother and sister return to their family home in… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aaSXUNaSdzRag4BlgyGJjLYGwDd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=291264",
+    "name": "The Family Fang",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=291264"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Family Fang (2016)</h1>\n<p class=\"ssr-lead\">A brother and sister return to their family home in search of their world famous parents who have disappeared.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2016</li><li>Runtime: 106 minutes</li><li>Director: Jason Bateman</li><li>Genres: Comedy, Drama, Mystery</li><li>TMDB rating: 5.9/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Bateman as Baxter Fang</li><li>Nicole Kidman as Annie Fang</li><li>Christopher Walken as Caleb Fang</li><li>Maryann Plunkett as Camille Fang</li><li>Marin Ireland as Suzanne Crosby</li><li>Kathryn Hahn as Young Camille</li><li>Jason Butler Harner as Young Caleb</li><li>Ali Wentworth as Sally Schiff</li><li>Harris Yulin as Hobart Waxman</li><li>Michael Chernus as Kenny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Lionsgate+ Amazon Channel, Starz, Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Family Fang (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:351964": {
    "d": "The Escort (2015): Drama/Comedy film. Story: Desperate for a good story, a sex-addicted journalist… See cast and TMDB rating 6.0/10.",
@@ -1077,6 +1477,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>I Am Dragon (2015)</h1>\n<p class=\"ssr-lead\">In the midst of the wedding princess Miroslava is kidnapped by a dragon and carried away into his castle on the remote island. Mira left everything behind in the past - family, friends and groom. Now the only things she had were a stone cage and a mysterious young man named Arman ... but who is he and what is he doing on that island? Miroslava will know the truth too late: loving a dragon will reveal the bitter truth - love is scary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 2015</li><li>Runtime: 110 minutes</li><li>Director: Indar Dzhendubaev</li><li>Genres: Fantasy, Romance</li><li>Budget: $18M</li><li>TMDB rating: 7.2/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mariya Poezzhaeva as Miroslava</li><li>Matvey Lykov as Arman</li><li>Stanislav Lyubshin as Knyaz</li><li>Pyotr Romanov as Igor</li><li>Andrey Lebedinsky as Kormchiy Igorya</li><li>Aleksandr Luchinin as Ded Igorya</li><li>Viktoriya Runtsova as Nevesta</li><li>Marta Kessler</li><li>Vladimir Kropotov</li><li>Yola Sanko as Starukha-zhritsa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "I Am Dragon (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:384664": {
+   "d": "Goodbye Berlin (2016): Drama/Comedy film. Story: Maik, a fourteen-year-old teenager, sets out on a… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kEHu88JMh9Zh4RYcgK7Lo2YZwdW.jpg",
+   "industry": "world",
+   "k": "Goodbye Berlin, Goodbye Berlin movie, Goodbye Berlin cast, Goodbye Berlin story, Goodbye Berlin box office collection, Goodbye Berlin budget, Goodbye Berlin review, Goodbye Berlin rating, Goodbye Berlin release date, Goodbye Berlin Drama, Goodbye Berlin Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tristan Göbel"
+     },
+     {
+      "@type": "Person",
+      "name": "Anand Batbileg"
+     },
+     {
+      "@type": "Person",
+      "name": "Mercedes Müller"
+     },
+     {
+      "@type": "Person",
+      "name": "Anja Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Uwe Bohm"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Goodbye Berlin (2016): Drama/Comedy film. Story: Maik, a fourteen-year-old teenager, sets out on a… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fatih Akin"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kEHu88JMh9Zh4RYcgK7Lo2YZwdW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=384664",
+    "name": "Goodbye Berlin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=384664"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Goodbye Berlin (2016)</h1>\n<p class=\"ssr-lead\">Maik, a fourteen-year-old teenager, sets out on a road trip during summertime with Tschick, a new classmate, in a stolen car. The two share life changing experiences during the eventful journey.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2016</li><li>Runtime: 93 minutes</li><li>Director: Fatih Akin</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.6/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tristan Göbel as Maik Klingenberg</li><li>Anand Batbileg as Tschick</li><li>Mercedes Müller as Isa</li><li>Anja Schneider as Klingenberg&#x27;s Mother</li><li>Uwe Bohm as Klingenberg&#x27;s Father</li><li>Udo Samel as Teacher</li><li>Claudia Geisler-Bading as Friedemanns&#x27;s Mother</li><li>Alexander Scheer as Juvenile Judge</li><li>Marc Hosemann as Police Officer</li><li>Friederike Kempter as Lawyer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Goodbye Berlin (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:41664": {
    "d": "Fantozzi Retires (1988): Comedy film. Story: After thirty years in the big corporation, Ugo… See cast, TMDB rating 6.1/10, and release date 22 December 1988.",
@@ -1268,6 +1732,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Where Is The Friend&#x27;s House? (1987)</h1>\n<p class=\"ssr-lead\">An 8-year-old boy must return his friend&#x27;s notebook he took by mistake, lest his friend be punished by expulsion from school.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 1987</li><li>Runtime: 83 minutes</li><li>Director: Abbas Kiarostami</li><li>Genres: Drama, Adventure</li><li>TMDB rating: 7.9/10 (464 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Babek Ahmadpour as Ahmad Ahmadpour</li><li>Ahmed Ahmadpour as Mohamed Reza Nematzadeh</li><li>Khodabakhsh Defai as Teacher</li><li>Iran Outari as Mother</li><li>Ait Ansari as Father</li><li>Sadika Taohidi as Persian Neighbour</li><li>Biman Mouafi as Ali, a Neighbour</li><li>Ali Djamali as Grandfather&#x27;s Friend</li><li>Aziz Babai as Waiter</li><li>Nader Ghoulami as Property Owner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Where Is The Friend's House? (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:508664": {
+   "d": "Danger Close: The Battle of Long Tan (2019): War/Drama film. Story: Vietnam War, 1966. Australia and New Zealand send… See cast and budget $23.93M.",
+   "img": "https://image.tmdb.org/t/p/w780/7uacpbrJd9g9xSTLgfyg1NwkAiu.jpg",
+   "industry": "world",
+   "k": "Danger Close: The Battle of Long Tan, Danger Close: The Battle of Long Tan movie, Danger Close: The Battle of Long Tan cast, Danger Close: The Battle of Long Tan story, Danger Close: The Battle of Long Tan box office collection, Danger Close: The Battle of Long Tan budget, Danger Close: The Battle of Long Tan review, Danger Close: The Battle of Long Tan rating, Danger Close: The Battle of Long Tan release date, Danger Close: The Battle of Long Tan trailer, Danger Close: The Battle of Long Tan War, Danger Close: The Battle of Long Tan Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Travis Fimmel"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Blome"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander England"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Glenane"
+     },
+     {
+      "@type": "Person",
+      "name": "Uli Latukefu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 374,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Danger Close: The Battle of Long Tan (2019): War/Drama film. Story: Vietnam War, 1966. Australia and New Zealand send… See cast and budget $23.93M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kriv Stenders"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "War",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7uacpbrJd9g9xSTLgfyg1NwkAiu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=508664",
+    "name": "Danger Close: The Battle of Long Tan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=508664"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Danger Close: The Battle of Long Tan (2019)</h1>\n<p class=\"ssr-lead\">Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 2019</li><li>Runtime: 119 minutes</li><li>Director: Kriv Stenders</li><li>Genres: War, Drama, History</li><li>Budget: $23.93M</li><li>TMDB rating: 6.8/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Travis Fimmel as Major Harry Smith</li><li>Toby Blome as Private Bill &#x27;Yank&#x27; Akell</li><li>Alexander England as Warrant Officer Class 2 Jack Kirby</li><li>Aaron Glenane as Captain Morrie Stanley</li><li>Uli Latukefu as Bombardier Ray Ngatai</li><li>Richard Te Are as Gunner Murry Watene</li><li>Luke Bracey as Sergeant Bob Buick</li><li>Sean McCarthy as Private Vic Grice</li><li>Mojean Aria as Second Lieutenant Gordon Sharp</li><li>Ryan Hance as Private Barry &#x27;Custard&#x27; Meller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Zee5, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Danger Close: The Battle of Long Tan (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:517764": {
    "d": "The Farm (2019): Horror film. Story: The young couple Nora and Alec are on their way back… See cast, TMDB rating 5.4/10, and release date 19 April 2019.",
@@ -1590,6 +2118,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Greenland 2: Migration (2026)</h1>\n<p class=\"ssr-lead\">Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 98 minutes</li><li>Director: Ric Roman Waugh</li><li>Genres: Adventure, Thriller, Science Fiction</li><li>Budget: $90M</li><li>TMDB rating: 6.4/10 (1659 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gerard Butler as John Garrity</li><li>Morena Baccarin as Allison Garrity</li><li>Roman Griffin Davis as Nathan Garrity</li><li>Tommie Earl Jenkins as General Sharpe</li><li>Trond Fausa Aurvåg as Adam Shaw</li><li>Amber Rose Revah as Dr Casey Amina</li><li>Gina Gangar as Elizabeth Price</li><li>Antonio De Lima as Charles Williams</li><li>Peter Polycarpou as Dr Haugen</li><li>Beruce Khan as Mr Singh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Greenland 2: Migration (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:871964": {
+   "d": "Nobody Sleeps in the Woods Tonight 2 (2021): Horror/Thriller film. Story: When something horrible happens to the only survivor… See cast and TMDB rating 4.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/icOUc1llxf2GJr1Z4dBbJYLzuvw.jpg",
+   "industry": "world",
+   "k": "Nobody Sleeps in the Woods Tonight 2, Nobody Sleeps in the Woods Tonight 2 movie, Nobody Sleeps in the Woods Tonight 2 cast, Nobody Sleeps in the Woods Tonight 2 story, Nobody Sleeps in the Woods Tonight 2 box office collection, Nobody Sleeps in the Woods Tonight 2 budget, Nobody Sleeps in the Woods Tonight 2 review, Nobody Sleeps in the Woods Tonight 2 rating, Nobody Sleeps in the Woods Tonight 2 release date, Nobody Sleeps in the Woods Tonight 2 trailer, Nobody Sleeps in the Woods Tonight 2 Horror, Nobody Sleeps in the Woods Tonight 2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mateusz Więcławek"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Wieniawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Zofia Wichłacz"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrzej Grabowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Wojciech Mecwaldowski"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Nobody Sleeps in the Woods Tonight 2 (2021): Horror/Thriller film. Story: When something horrible happens to the only survivor… See cast and TMDB rating 4.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bartosz M. Kowalski"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/icOUc1llxf2GJr1Z4dBbJYLzuvw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=871964",
+    "name": "Nobody Sleeps in the Woods Tonight 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=871964"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nobody Sleeps in the Woods Tonight 2 (2021)</h1>\n<p class=\"ssr-lead\">When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2021</li><li>Runtime: 97 minutes</li><li>Director: Bartosz M. Kowalski</li><li>Genres: Horror, Thriller, Comedy</li><li>TMDB rating: 4.6/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mateusz Więcławek as Adas Adamiec</li><li>Julia Wieniawa as Zosia Wolska</li><li>Zofia Wichłacz as Wanessa</li><li>Andrzej Grabowski as Waldemar Gwizdala</li><li>Wojciech Mecwaldowski as Oliwier</li><li>Izabela Dąbrowska as Janeczka</li><li>Sebastian Stankiewicz as Mariusz</li><li>Robert Wabich as Slawek</li><li>Lech Dyblik as Janusz</li><li>Paweł Krawczyk as Diviner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Nobody Sleeps in the Woods Tonight 2 (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:9264": {
    "d": "Poison Ivy (1992): Thriller/Drama film. Story: A seductive teen befriends an introverted high school… See cast, budget $3M, and TMDB rating 5.4/10.",

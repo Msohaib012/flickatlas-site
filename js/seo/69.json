@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 37,
+ "count": 44,
  "titles": {
   "movie:101669": {
    "d": "Mother's Day (2011): Crime/Horror film. Story: Crazed members of a sadistic family return to their… See cast, budget $11M, and TMDB rating 6.5/10.",
@@ -886,6 +886,134 @@
    "t": "Redirected (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:24869": {
+   "d": "Ink (2009): Action/Fantasy film. Story: Invisible forces exert power over us in our sleep. A… See cast, budget $250.0k, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bDB9NAjkB1J7ab3lgydj75aLo7o.jpg",
+   "industry": "world",
+   "k": "Ink, Ink movie, Ink cast, Ink story, Ink box office collection, Ink budget, Ink review, Ink rating, Ink release date, Ink Action, Ink Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christopher Soren Kelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Duffy"
+     },
+     {
+      "@type": "Person",
+      "name": "Quinn Hunchar"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Make"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Batter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Ink (2009): Action/Fantasy film. Story: Invisible forces exert power over us in our sleep. A… See cast, budget $250.0k, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jamin Winans"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bDB9NAjkB1J7ab3lgydj75aLo7o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24869",
+    "name": "Ink",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24869"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ink (2009)</h1>\n<p class=\"ssr-lead\">Invisible forces exert power over us in our sleep. A mercenary named Ink, on a literal nightmare mission, captures the spirit of 8-year-old Emma in the dream world. To save her, the dream-givers marshal all their resources, focusing on saving the soul of Emma&#x27;s tragically broken father.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2009</li><li>Runtime: 106 minutes</li><li>Director: Jamin Winans</li><li>Genres: Action, Fantasy</li><li>Budget: $250.0k</li><li>TMDB rating: 6.3/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Soren Kelly as John</li><li>Jessica Duffy as Liev</li><li>Quinn Hunchar as Emma</li><li>Jeremy Make as Jacob</li><li>Jennifer Batter as Allel</li><li>Eme Ikwuakor as Gabe</li><li>Shelby Malone as Sarah</li><li>Steve Sealy as Ron</li><li>Shannan Steele as Shelly</li><li>Steven Brown as The Collector</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Ink (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:256569": {
+   "d": "Trespass Against Us (2016): Action/Crime film. Story: Three generations of the rowdy Cutler family live as… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7v5OAruBWfppcGtBbjbZoz1dXKc.jpg",
+   "industry": "world",
+   "k": "Trespass Against Us, Trespass Against Us movie, Trespass Against Us cast, Trespass Against Us story, Trespass Against Us box office collection, Trespass Against Us budget, Trespass Against Us review, Trespass Against Us rating, Trespass Against Us release date, Trespass Against Us trailer, Trespass Against Us Action, Trespass Against Us Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Fassbender"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Lyndsey Marshal"
+     },
+     {
+      "@type": "Person",
+      "name": "Rory Kinnear"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Harris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Trespass Against Us (2016): Action/Crime film. Story: Three generations of the rowdy Cutler family live as… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam Smith"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7v5OAruBWfppcGtBbjbZoz1dXKc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=256569",
+    "name": "Trespass Against Us",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=256569"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trespass Against Us (2016)</h1>\n<p class=\"ssr-lead\">Three generations of the rowdy Cutler family live as outlaws in some of Britain&#x27;s richest countryside – hunting hares, ram-raiding stately homes, and taunting the police. Struggling to retain a way of life fast becoming extinct, Chad Cutler ends up caught between his father&#x27;s archaic principles and trying to do right by his kids, whilst the full force of the law is finally catching up with him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2016</li><li>Runtime: 99 minutes</li><li>Director: Adam Smith</li><li>Genres: Action, Crime, Drama</li><li>TMDB rating: 5.8/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Fassbender as Chad Cutler</li><li>Brendan Gleeson as Colby Culter</li><li>Lyndsey Marshal as Kelly Cutler</li><li>Rory Kinnear as P.C Lovage</li><li>Sean Harris as Gordon &#x27;Worzel Gummidge&#x27; Bennett</li><li>Kingsley Ben-Adir as Sampson</li><li>Gerard Kearns as Lester</li><li>Tony Way as Norman</li><li>Alan Williams as Noah</li><li>Mark Lewis Jones as Sergeant Pollock</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Trespass Against Us (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:273169": {
    "d": "French Women (2014): Comedy film. Story: A story about 11 girls living in Paris. Each of them… See cast, budget $5M, and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/dEiaE6YREbDShETjbesBHBTbTUL.jpg",
@@ -948,6 +1076,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>French Women (2014)</h1>\n<p class=\"ssr-lead\">A story about 11 girls living in Paris. Each of them has its own problems: career, love life, children. Every girl has their complexes and virtues. They always look elegant, hiding their inner feelings. Will they reach all the goals and overcome all their difficulties?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2014</li><li>Runtime: 116 minutes</li><li>Director: Audrey Dana</li><li>Genres: Comedy</li><li>Budget: $5M</li><li>TMDB rating: 5.7/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isabelle Adjani as Lily</li><li>Alice Belaïdi as Adeline</li><li>Laetitia Casta as Agathe</li><li>Audrey Dana as Jo</li><li>Julie Ferrier as Fanny</li><li>Audrey Fleurot as Sophie</li><li>Géraldine Nakache as Ysis</li><li>Vanessa Paradis as Rose</li><li>Alice Taglioni as Marie</li><li>Sylvie Testud as Sam</li></ul>\n</article>",
    "t": "French Women (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:27569": {
+   "d": "Extraordinary Measures (2010): Drama film. Story: Working-class father John Crowley is finally on the… See cast, budget $31M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o2AFwD4v62296mxkF74EMYL6P7j.jpg",
+   "industry": "world",
+   "k": "Extraordinary Measures, Extraordinary Measures movie, Extraordinary Measures cast, Extraordinary Measures story, Extraordinary Measures box office collection, Extraordinary Measures budget, Extraordinary Measures review, Extraordinary Measures rating, Extraordinary Measures release date, Extraordinary Measures trailer, Extraordinary Measures Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Keri Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Courtney B. Vance"
+     },
+     {
+      "@type": "Person",
+      "name": "Meredith Droeger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Extraordinary Measures (2010): Drama film. Story: Working-class father John Crowley is finally on the… See cast, budget $31M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Vaughan"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o2AFwD4v62296mxkF74EMYL6P7j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=27569",
+    "name": "Extraordinary Measures",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=27569"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Extraordinary Measures (2010)</h1>\n<p class=\"ssr-lead\">Working-class father John Crowley is finally on the fast track to corporate success when his two young children are diagnosed with Pompe disease—a condition that prevents the body from breaking down sugar. With the support of his wife, John ditches his career and teams with unconventional specialist, Dr. Robert Stonehill to found a bio-tech company and develop a cure in time to save the lives of his children. As Dr. Stonehill works tirelessly to prove the theories that made him the black sheep of the medical community, a powerful bond is forged between the two unlikely allies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2010</li><li>Runtime: 106 minutes</li><li>Director: Tom Vaughan</li><li>Genres: Drama</li><li>Budget: $31M</li><li>TMDB rating: 6.3/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brendan Fraser as John Crowley</li><li>Harrison Ford as Dr. Robert Stonehill</li><li>Keri Russell as Aileen Crowley</li><li>Courtney B. Vance as Marcus Temple</li><li>Meredith Droeger as Megan Crowley</li><li>Diego Velazquez as Patrick Crowley</li><li>Jared Harris as Docteur Kent Webber</li><li>Patrick Bauchau as CEO Erich Loring</li><li>Alan Ruck as Pete Sutphen</li><li>David Clennon as Dr. Renzler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Extraordinary Measures (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:312669": {
    "d": "Maggie's Plan (2016): Drama/Romance film. Story: Maggie's plan to have a baby on her own with a sperm… See cast, budget $2M, and TMDB rating 5.7/10.",
@@ -1208,6 +1399,134 @@
    "t": "Back to Mom's (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:46169": {
+   "d": "Twitches Too (2007): Drama/Family film. Story: Reunited witch twins Camryn and Alex adjust to their… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/siidi1AD6JNwWqrepY5DhqCCuEX.jpg",
+   "industry": "world",
+   "k": "Twitches Too, Twitches Too movie, Twitches Too cast, Twitches Too story, Twitches Too box office collection, Twitches Too budget, Twitches Too review, Twitches Too rating, Twitches Too release date, Twitches Too Drama, Twitches Too Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tia Mowry"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamera Mowry-Housley"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Fabian"
+     },
+     {
+      "@type": "Person",
+      "name": "Pat Kelly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 375,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Twitches Too (2007): Drama/Family film. Story: Reunited witch twins Camryn and Alex adjust to their… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stuart Gillard"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Drama",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/siidi1AD6JNwWqrepY5DhqCCuEX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=46169",
+    "name": "Twitches Too",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=46169"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Twitches Too (2007)</h1>\n<p class=\"ssr-lead\">Reunited witch twins Camryn and Alex adjust to their new life as supernatural beings while at the same time trying to maintain a normal existence in this sequel to the magical Disney Channel original movie Twitches. But they soon find themselves going head to head with the forces of darkness that threaten to destroy their world. Luckily, their birth mother, the powerful Miranda, is on hand to help out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2007</li><li>Runtime: 83 minutes</li><li>Director: Stuart Gillard</li><li>Genres: Drama, Family, Fantasy, TV Movie</li><li>TMDB rating: 6.7/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tia Mowry as Alex Fielding</li><li>Tamera Mowry-Housley as Camryn Barnes</li><li>Kristen Wilson as Miranda</li><li>Patrick Fabian as Thantos</li><li>Pat Kelly as Karsh</li><li>Leslie Seiler as Ileana</li><li>Karen Holness as Emily Barnes</li><li>Arnold Pinnock as David Barnes</li><li>Nathan Stephenson as Marcus</li><li>Chris Gallinger as Demetri</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Twitches Too (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
+  "movie:472269": {
+   "d": "Possum (2018): Drama/Horror film. Story: A disgraced children's puppeteer returns to his… See cast, budget $1.1M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yB70SrspWic4RM8yi1w27FDSvIN.jpg",
+   "industry": "world",
+   "k": "Possum, Possum movie, Possum cast, Possum story, Possum box office collection, Possum budget, Possum review, Possum rating, Possum release date, Possum trailer, Possum Drama, Possum Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sean Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Alun Armstrong"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Blithe"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Enever"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Eales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Possum (2018): Drama/Horror film. Story: A disgraced children's puppeteer returns to his… See cast, budget $1.1M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Holness"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yB70SrspWic4RM8yi1w27FDSvIN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=472269",
+    "name": "Possum",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=472269"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Possum (2018)</h1>\n<p class=\"ssr-lead\">A disgraced children&#x27;s puppeteer returns to his childhood home and is forced to confront his wicked stepfather and the secrets that have tortured him his entire life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2018</li><li>Runtime: 85 minutes</li><li>Director: Matthew Holness</li><li>Genres: Drama, Horror, Thriller</li><li>Budget: $1.1M</li><li>TMDB rating: 6.2/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Harris as Philip</li><li>Alun Armstrong as Maurice</li><li>Andy Blithe as Michael&#x27;s Father</li><li>Ryan Enever as Michael&#x27;s Uncle</li><li>Charlie Eales as Michael</li><li>Joe Gallucci as Lee</li><li>Rohan Gotobed as Andrew</li><li>Raphel Famotibe as Simon</li><li>Simon Bubb as Mr. Evans</li><li>Katie Lightfoot as Mrs. Atwood</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Screambox Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Possum (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:48769": {
    "d": "Gramps Is in the Resistance (1983): Comedy/War film. Story: It is 1943 in Paris. Like so many others, the… See cast, budget $3M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/gWP0xqcpeapXBqKKPFqLFc2rxDQ.jpg",
@@ -1399,6 +1718,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Serial (Bad) Weddings 3 (2021)</h1>\n<p class=\"ssr-lead\">Claude and Marie Verneuil will soon be celebrating their 40th wedding anniversary. For the occasion, their four daughters - Isabelle, Odile, Ségolène and Laure - decide to organize a big surprise party in their family home in Chinon. They also decide to invite, each, the parents of their respective husbands - Rachid Benassem, David Benichou, Chao Ling and Charles Koffi.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2021</li><li>Runtime: 97 minutes</li><li>Director: Philippe de Chauveron</li><li>Genres: Romance, Comedy</li><li>Budget: $22M</li><li>TMDB rating: 6.3/10 (443 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Claude Verneuil</li><li>Chantal Lauby as Marie Verneuil</li><li>Ary Abittan as David Benichou</li><li>Medi Sadoun as Rachid Benassem</li><li>Frédéric Chau as Chao Ling</li><li>Noom Diawara as Charles Koffi</li><li>Frédérique Bel as Isabelle Verneuil</li><li>Émilie Caen as Ségolène Verneuil</li><li>Élodie Fontan as Laure Verneuil</li><li>Alice David as Odile Verneuil</li></ul>\n</article>",
    "t": "Serial (Bad) Weddings 3 (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:826769": {
+   "d": "Rosaline (2022): Romance/Drama film. Story: Left heartbroken after Romeo begins to pursue her… See cast, TMDB rating 7.1/10, and release date 11 October 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg",
+   "industry": "world",
+   "k": "Rosaline, Rosaline movie, Rosaline cast, Rosaline story, Rosaline box office collection, Rosaline budget, Rosaline review, Rosaline rating, Rosaline release date, Rosaline trailer, Rosaline Romance, Rosaline Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kaitlyn Dever"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabela Merced"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Teale"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher McDonald"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Rosaline (2022): Romance/Drama film. Story: Left heartbroken after Romeo begins to pursue her… See cast, TMDB rating 7.1/10, and release date 11 October 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karen Maine"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=826769",
+    "name": "Rosaline",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=826769"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rosaline (2022)</h1>\n<p class=\"ssr-lead\">Left heartbroken after Romeo begins to pursue her cousin Juliet, Rosaline schemes to foil the famous romance and win back her guy in this comedic twist of Shakespeare&#x27;s Romeo and Juliet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2022</li><li>Runtime: 97 minutes</li><li>Director: Karen Maine</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 7.1/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kaitlyn Dever as Rosaline</li><li>Isabela Merced as Juliet</li><li>Kyle Allen as Romeo</li><li>Sean Teale as Dario</li><li>Christopher McDonald as Lord Capulet</li><li>Minnie Driver as Nurse Janet</li><li>Bradley Whitford as Adrian Capulet</li><li>Spencer Rayshon Stevenson as Paris</li><li>Nico Hiraga as Steve the Courier</li><li>Alistair Toovey as Tybalt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Rosaline (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:894169": {
+   "d": "Vendetta (2022): Action/Crime film. Story: When his daughter is murdered, William Duncan takes… See cast, TMDB rating 6.1/10, and release date 9 June 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+   "industry": "world",
+   "k": "Vendetta, Vendetta movie, Vendetta cast, Vendetta story, Vendetta box office collection, Vendetta budget, Vendetta review, Vendetta rating, Vendetta release date, Vendetta trailer, Vendetta Action, Vendetta Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clive Standen"
+     },
+     {
+      "@type": "Person",
+      "name": "Theo Rossi"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Jane"
+     },
+     {
+      "@type": "Person",
+      "name": "Kurt Yue"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 359,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Vendetta (2022): Action/Crime film. Story: When his daughter is murdered, William Duncan takes… See cast, TMDB rating 6.1/10, and release date 9 June 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jared Cohn"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=894169",
+    "name": "Vendetta",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-06-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=894169"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Vendetta (2022)</h1>\n<p class=\"ssr-lead\">When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug&#x27;s brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 June 2022</li><li>Runtime: 96 minutes</li><li>Director: Jared Cohn</li><li>Genres: Action, Crime</li><li>TMDB rating: 6.1/10 (359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clive Standen as William Duncan</li><li>Theo Rossi as Rory Fetter</li><li>Thomas Jane as Dante</li><li>Kurt Yue as Detective Chen</li><li>Bruce Willis as Donnie Fetter</li><li>Mike Tyson as Roach</li><li>Jackie Moore as Luna</li><li>Lauren Buglioli as Jen Duncan</li><li>Maddie Nichols as Kat Duncan</li><li>Cabot Basden as Danny Fetter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Vendetta (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:9669": {
    "d": "Ring 2 (1999): Horror/Mystery film. Story: While investigating the horrifying death of her… See cast, budget $6M, and TMDB rating 5.8/10.",

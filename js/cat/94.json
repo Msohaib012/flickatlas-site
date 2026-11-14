@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 44,
+ "count": 53,
  "titles": {
   "movie:10694": {
    "backdrop_path": "/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
@@ -706,6 +706,128 @@
    "vote_average": 6.988,
    "vote_count": 2501
   },
+  "movie:12594": {
+   "backdrop_path": "/kJJxRr7OHo6UPNXZI89DoIu6Eov.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Demerest",
+     "n": "Andrew Divoff"
+    },
+    {
+     "c": "Morgana",
+     "n": "Holly Fields"
+    },
+    {
+     "c": "Gregory",
+     "n": "Paul Johansson"
+    },
+    {
+     "c": "Farralon",
+     "n": "Bokeem Woodbine"
+    },
+    {
+     "c": "Webber",
+     "n": "Carlos Leon"
+    },
+    {
+     "c": "Gries",
+     "n": "Robert LaSardo"
+    },
+    {
+     "c": "Osip",
+     "n": "Oleg Vidov"
+    },
+    {
+     "c": "Tillaver",
+     "n": "Tommy Lister Jr."
+    },
+    {
+     "c": "Eric",
+     "n": "Chris Weber"
+    },
+    {
+     "c": "Security Guard #1",
+     "n": "Al Foster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jack Sholder"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 12594,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
+   "popularity": 2.6322,
+   "poster_path": "/1yb89Er5FyBoAWR1RUIA1p3BNid.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-03-12",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil has been summonned... again!",
+   "title": "Wishmaster 2: Evil Never Dies",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.653,
+   "vote_count": 343
+  },
   "movie:12994": {
    "backdrop_path": "/cR39VUrIKWrv9TfoiOzfim5D9p9.jpg",
    "budget": 0,
@@ -1302,6 +1424,136 @@
    "vote_average": 6.593,
    "vote_count": 43
   },
+  "movie:17494": {
+   "backdrop_path": "/osgn0gVcr2wU8N9x5VwERuX89qq.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Michael Carr",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Officer Pete Davis",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Karen Carr",
+     "n": "Madeleine Stowe"
+    },
+    {
+     "c": "Officer Roy Cole",
+     "n": "Roger E. Mosley"
+    },
+    {
+     "c": "Roger Graham",
+     "n": "Ken Lerner"
+    },
+    {
+     "c": "Penny, Karen's Friend",
+     "n": "Deborah Offner"
+    },
+    {
+     "c": "Ernie Pike",
+     "n": "Johnny Ray McGhee"
+    },
+    {
+     "c": "Jerome Lurie",
+     "n": "Carmen Argenziano"
+    },
+    {
+     "c": "Captain Russell Hayes",
+     "n": "Andy Romano"
+    },
+    {
+     "c": "Neighbor Jack",
+     "n": "Sonny Carl Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Kaplan"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 17494,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Michael and Karen Carr’s home is robbed, the couple strike up a friendship with duty officer Pete Davis. But the disturbed cop develops an intense fixation on Karen, and his idea of friendship soon turns into a dangerous obsession, making him the Carrs’ worst nightmare.",
+   "popularity": 2.8192,
+   "poster_path": "/qt1pESASA3w4xOOPwZS3YRlcYhL.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Vemox Cine Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-06-26",
+   "revenue": 57138719,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A man obsessed will do anything for love... A cop obsessed can get away with it.",
+   "title": "Unlawful Entry",
+   "trailer": {
+    "key": "I0_Z4lh-Rus",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.284,
+   "vote_count": 378
+  },
   "movie:17894": {
    "backdrop_path": "/9OIONHl9OBmQLbUHaPcnNtEDvF0.jpg",
    "budget": 16000000,
@@ -1739,6 +1991,140 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 467
+  },
+  "movie:20694": {
+   "backdrop_path": "/7jhCBakn96BcRpjQfFyMZdnrKEY.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Tommy Pickles (voice)",
+     "n": "E. G. Daily"
+    },
+    {
+     "c": "Chuckie Finster (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Phil DeVille / Lil DeVille / Betty DeVille (voice)",
+     "n": "Kath Soucie"
+    },
+    {
+     "c": "Kimi Watanabe-Finster (voice)",
+     "n": "Dionne Quan"
+    },
+    {
+     "c": "Nigel Thornberry (voice)",
+     "n": "Tim Curry"
+    },
+    {
+     "c": "Lou Pickles (voice)",
+     "n": "Joe Alaskey"
+    },
+    {
+     "c": "Charlotte Pickles (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Drew Pickles / Charles 'Chaz' Finster, Sr. (voice)",
+     "n": "Michael Bell"
+    },
+    {
+     "c": "Kira Watanabe-Finster (voice)",
+     "n": "Julia Kato"
+    },
+    {
+     "c": "Howard DeVille (voice)",
+     "n": "Phil Proctor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Eng",
+    "Norton Virgien"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation",
+    "Fantasy"
+   ],
+   "id": 20694,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the Rugrats find themselves stranded on a deserted island, they meet the Thornberrys, a family who agrees to help them escape.",
+   "popularity": 2.3636,
+   "poster_path": "/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-06-13",
+   "revenue": 55443032,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The family vacation goes overboard.",
+   "title": "Rugrats Go Wild",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.398,
+   "vote_count": 348
   },
   "movie:26594": {
    "backdrop_path": "/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
@@ -2901,6 +3287,242 @@
    "vote_average": 8.302,
    "vote_count": 396
   },
+  "movie:448194": {
+   "backdrop_path": "/uVH4JeqPyVHWVwsYce1z8CxVG36.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mrs. Reyes",
+     "n": "Laurie Holden"
+    },
+    {
+     "c": "Leah Reyes",
+     "n": "Nicole Muñoz"
+    },
+    {
+     "c": "Janice",
+     "n": "Chloe Rose"
+    },
+    {
+     "c": "Aaron",
+     "n": "Eric Osborne"
+    },
+    {
+     "c": "Rowen Dove",
+     "n": "James McGowan"
+    },
+    {
+     "c": "Teacher",
+     "n": "Victoria Sanchez"
+    },
+    {
+     "c": "Detective",
+     "n": "Neil Whitely"
+    },
+    {
+     "c": "911 Operator (voice)",
+     "n": "Missy Peregrym"
+    },
+    {
+     "c": "Pyewacket",
+     "n": "Bianca Melchior"
+    },
+    {
+     "c": "Rob",
+     "n": "Romeo Carere"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Adam MacDonald"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 448194,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A frustrated, angry teenage girl awakens something in the woods when she naively performs an occult ritual to invoke a witch to kill her mother.",
+   "popularity": 1.4967,
+   "poster_path": "/3ET9MWmIx2ny2KP5mqY9ceb0WxF.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-29",
+   "revenue": 166610,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be careful what you wish for. Someone might be listening.",
+   "title": "Pyewacket",
+   "trailer": {
+    "key": "ouX1T7OqAT4",
+    "name": "EVIL RITUAL (Official Trailer) - In Cinemas 24 January 2019",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.904,
+   "vote_count": 369
+  },
   "movie:485894": {
    "backdrop_path": "/mUoRmzM8HOQVPUpHgSG3cO92rJH.jpg",
    "budget": 0,
@@ -3017,6 +3639,219 @@
    "type": "movie",
    "vote_average": 6.164,
    "vote_count": 479
+  },
+  "movie:597094": {
+   "backdrop_path": "/xxA5AJBxgi1EPq9GO6cZtryAn1q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leo Katsuragi",
+     "n": "Masataka Kubota"
+    },
+    {
+     "c": "Ōtomo",
+     "n": "Nao Omori"
+    },
+    {
+     "c": "Kase",
+     "n": "Shota Sometani"
+    },
+    {
+     "c": "Monica",
+     "n": "Sakurako Konishi"
+    },
+    {
+     "c": "Julie",
+     "n": "Becky"
+    },
+    {
+     "c": "Yasu",
+     "n": "Takahiro Miura"
+    },
+    {
+     "c": "Chiachi",
+     "n": "Mami Fujioka"
+    },
+    {
+     "c": "Wan",
+     "n": "Yen Cheng-kuo"
+    },
+    {
+     "c": "Fu",
+     "n": "Duan Chun-hao"
+    },
+    {
+     "c": "Miyuki",
+     "n": "Maimi Yajima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Takashi Miike"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Comedy"
+   ],
+   "id": 597094,
+   "industry": "world",
+   "origin_country": [
+    "JP",
+    "GB"
+   ],
+   "original_language": "ja",
+   "overview": "One night in Tokyo, Leo, a young boxer, meets his first love, Monica, an imprisoned sex worker. Caught up in a drug-smuggling scheme, they find themselves pursued by a corrupt cop, a yakuza, his nemesis, and a female assassin.",
+   "popularity": 1.7155,
+   "poster_path": "/oCf0l04CXswtzRMExzbalGYftRM.jpg",
+   "production_countries": [
+    "JP",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-31",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "First Love",
+   "trailer": {
+    "key": "V3dGg18lj0M",
+    "name": "Official AU & NZ Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.722,
+   "vote_count": 352
   },
   "movie:649394": {
    "backdrop_path": "/AbDiTqEu8hVA6a9BaD1mciHRkLk.jpg",
@@ -3145,6 +3980,166 @@
    "type": "movie",
    "vote_average": 6.706,
    "vote_count": 406
+  },
+  "movie:716594": {
+   "backdrop_path": "/cRAvKRY5S84T4cO08I05QeVGBBk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bill Hagmaier",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Ted Bundy",
+     "n": "Luke Kirby"
+    },
+    {
+     "c": "Carolyn Lieberman",
+     "n": "Aleksa Palladino"
+    },
+    {
+     "c": "Roger Depue",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Warden Wilkenson",
+     "n": "W. Earl Brown"
+    },
+    {
+     "c": "Assistant Warden Paul Decker",
+     "n": "Gilbert Owuor"
+    },
+    {
+     "c": "Doctor James Dobson",
+     "n": "Christian Clemenson"
+    },
+    {
+     "c": "Colorado Investigator",
+     "n": "Hugo Armstrong"
+    },
+    {
+     "c": "Utah Investigator",
+     "n": "Nican Robinson"
+    },
+    {
+     "c": "Oregon Investigator",
+     "n": "Will Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Amber Sealey"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "History"
+   ],
+   "id": 716594,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Ted Bundy during Bundy's final years on death row.",
+   "popularity": 1.8959,
+   "poster_path": "/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-08-19",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "No Man of God",
+   "trailer": {
+    "key": "2vxm_IbS-6Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.558,
+   "vote_count": 353
   },
   "movie:7294": {
    "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
@@ -3635,6 +4630,394 @@
    "type": "movie",
    "vote_average": 7.445,
    "vote_count": 495
+  },
+  "movie:8194": {
+   "backdrop_path": "/89jLspWmm5dLIFeuIu0UToN4jB6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dito",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Young Dito",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Monty",
+     "n": "Chazz Palminteri"
+    },
+    {
+     "c": "Dito's Mother",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Young Antonio",
+     "n": "Channing Tatum"
+    },
+    {
+     "c": "Young Laurie",
+     "n": "Melonie Díaz"
+    },
+    {
+     "c": "Mike O'Shea",
+     "n": "Martin Compston"
+    },
+    {
+     "c": "Antonio",
+     "n": "Eric Roberts"
+    },
+    {
+     "c": "Laurie",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Aunt Mary",
+     "n": "Olga Merediz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dito Montiel"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 8194,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dito Montiel, a successful author, receives a call from his long-suffering mother, asking him to return home and visit his ailing father. Dito recalls his childhood growing up in a violent neighborhood in Queens, N.Y., with friends Antonio, Giuseppe, Nerf and Mike.",
+   "popularity": 1.6613,
+   "poster_path": "/bGmqGYglMDNN15uGPpeTMWNml1s.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-29",
+   "revenue": 516139,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the only way to move forward is to go back.",
+   "title": "A Guide to Recognizing Your Saints",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.496,
+   "vote_count": 360
+  },
+  "movie:8494": {
+   "backdrop_path": "/t9kiAxPGXWziIEsj4X2w2xsYliW.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Larry Wilson",
+     "n": "Andrew McCarthy"
+    },
+    {
+     "c": "Richard Parker",
+     "n": "Jonathan Silverman"
+    },
+    {
+     "c": "Bernie Lomax",
+     "n": "Terry Kiser"
+    },
+    {
+     "c": "Claudia",
+     "n": "Troy Byer"
+    },
+    {
+     "c": "Arthur Hummel",
+     "n": "Barry Bostwick"
+    },
+    {
+     "c": "Charles",
+     "n": "Tom Wright"
+    },
+    {
+     "c": "Henry",
+     "n": "Steve James"
+    },
+    {
+     "c": "Mobu",
+     "n": "Novella Nelson"
+    },
+    {
+     "c": "Claudia's Dad",
+     "n": "Stack Pierce"
+    },
+    {
+     "c": "Cartel Man #1",
+     "n": "Philip Coccioletti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Klane"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Adventure"
+   ],
+   "id": 8494,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Everybody's favorite stiff is back! Working fools Larry Wilson and Richard Parker have uncovered a dirty, little secret: Their former boss, Bernie Lomax, embezzled $2 million and placed it in a safe deposit box in the Caribbean. Now, the boys are ready to go after the loot, but they can't do it alone -- they need poor Bernie's help. Can the buddies give their ex-boss new life?",
+   "popularity": 1.8725,
+   "poster_path": "/ylN3DZEPCnn60ecGq01y0AyWsTQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-07-09",
+   "revenue": 12741891,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You don't have to stop partying just because you've stopped breathing.",
+   "title": "Weekend at Bernie's II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.114,
+   "vote_count": 343
+  },
+  "movie:920394": {
+   "backdrop_path": "/ljJaDl3RdcNdSuQVa2ScdNZOF1L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mehmet Mahir",
+     "n": "Engin Altan Düzyatan"
+    },
+    {
+     "c": "Suna",
+     "n": "Belçim Bilgin"
+    },
+    {
+     "c": "Özlem",
+     "n": "Gülizar Nisa Uray"
+    },
+    {
+     "c": "Ali Rıza",
+     "n": "Selim Erdoğan"
+    },
+    {
+     "c": "",
+     "n": "Erdem Baş"
+    },
+    {
+     "c": "",
+     "n": "Yener Sezgin"
+    },
+    {
+     "c": "",
+     "n": "Yiğit Çakır"
+    },
+    {
+     "c": "",
+     "n": "Ayfer Dönmez"
+    },
+    {
+     "c": "",
+     "n": "Ulrich Mertin"
+    },
+    {
+     "c": "Leyla",
+     "n": "Buket Gülbeyaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Andaç Haznedaroğlu"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 920394,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.",
+   "popularity": 1.2298,
+   "poster_path": "/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-21",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Father's Violin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.88,
+   "vote_count": 343
   },
   "movie:991494": {
    "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",

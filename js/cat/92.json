@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 35,
+ "count": 39,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -1506,6 +1506,167 @@
    "vote_average": 6.249,
    "vote_count": 485
   },
+  "movie:22292": {
+   "backdrop_path": "/m1QTfbKD90j63Gh9bOJt0g67LvA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucy Muir",
+     "n": "Gene Tierney"
+    },
+    {
+     "c": "Capt. Daniel Gregg",
+     "n": "Rex Harrison"
+    },
+    {
+     "c": "Miles Fairley",
+     "n": "George Sanders"
+    },
+    {
+     "c": "Martha Huggins",
+     "n": "Edna Best"
+    },
+    {
+     "c": "Anna Muir as an Adult",
+     "n": "Vanessa Brown"
+    },
+    {
+     "c": "Mrs. Fairley",
+     "n": "Anna Lee"
+    },
+    {
+     "c": "Mr. Coombe",
+     "n": "Robert Coote"
+    },
+    {
+     "c": "Anna Muir as a Child",
+     "n": "Natalie Wood"
+    },
+    {
+     "c": "Angelica Muir",
+     "n": "Isobel Elsom"
+    },
+    {
+     "c": "Eva Muir",
+     "n": "Victoria Horne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Joseph L. Mankiewicz"
+   ],
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 22292,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1900, young widow Lucy Muir learns that her seaside cottage is haunted and forms a unique relationship with the ghost.",
+   "popularity": 2.0093,
+   "poster_path": "/idoD3cwfwj86BPvVoWVgWhnT2xq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1947-05-25",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "THE SPIRIT... so willing! THE FLESH... so weak! THE ROMANCE... so wonderful!",
+   "title": "The Ghost and Mrs. Muir",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.525,
+   "vote_count": 376
+  },
   "movie:24192": {
    "backdrop_path": "/iz7xP1INmMTAfRKaToWVmXrrE1P.jpg",
    "budget": 0,
@@ -2139,6 +2300,223 @@
    "vote_average": 5.293,
    "vote_count": 400
   },
+  "movie:413992": {
+   "backdrop_path": "/2gGug6mhhYn6sRrym91n3GAq88A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Rossi",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Elwood",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Lila Mccabe",
+     "n": "Imogen Poots"
+    },
+    {
+     "c": "Bernadette Barrett",
+     "n": "Rosemarie DeWitt"
+    },
+    {
+     "c": "Maggie Russell",
+     "n": "Odessa Young"
+    },
+    {
+     "c": "Tom Barrett",
+     "n": "Joseph Lyle Taylor"
+    },
+    {
+     "c": "Mitchel Mccabe",
+     "n": "Jonathan Tucker"
+    },
+    {
+     "c": "Lou Hopkis",
+     "n": "Garry Chalk"
+    },
+    {
+     "c": "Paul Anderson",
+     "n": "Jared Abrahamson"
+    },
+    {
+     "c": "Rose Miller",
+     "n": "Gabrielle Rose"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jamie M. Dagg"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 413992,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former rodeo star, now a motel manager, meets a young man who is responsible for the violence that suddenly has seized his small town.",
+   "popularity": 1.5664,
+   "poster_path": "/oArWgsA0qwQyVRdUfgRSvwuQYAG.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "IFC Films Unlimited Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lJ8Lh0SMfJgfWTV3rpFUjuaH26q.png",
+     "name": "IFC Films Unlimited Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-11-17",
+   "revenue": 10456,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sweet Virginia",
+   "trailer": {
+    "key": "Jz3E_CCaAXo",
+    "name": "Sweet Virginia - Official Trailer l HD l IFC Films",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 348
+  },
   "movie:41592": {
    "backdrop_path": "/9c8uXCaljHjRcHabsUmnXaH6tv7.jpg",
    "budget": 5000000,
@@ -2716,6 +3094,200 @@
    "vote_average": 6.8,
    "vote_count": 429
   },
+  "movie:560192": {
+   "backdrop_path": "/vGtP84BJCb7Hl9UwocWIeyIPDJP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Fancy",
+     "n": "KaDee Strickland"
+    },
+    {
+     "c": "Buddy",
+     "n": "Luke Benward"
+    },
+    {
+     "c": "Detective Jones",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Officer Newton",
+     "n": "Zulay Henao"
+    },
+    {
+     "c": "Lisa",
+     "n": "Emily Marie Palmer"
+    },
+    {
+     "c": "Officer Garrett",
+     "n": "Oliver Trevena"
+    },
+    {
+     "c": "Patty",
+     "n": "Beatrice Hernandez"
+    },
+    {
+     "c": "Girl Scout 2",
+     "n": "Isabella Grace Roark"
+    },
+    {
+     "c": "Girl Scout 1",
+     "n": "Haley Milsap"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Stephen S. Campanelli"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 560192,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Walter and his neglected wife lure a young man into their Victorian home to escape a hurricane. When the man is charged with murder by Det. Jones, he must reveal the couple's wicked secrets to save himself.",
+   "popularity": 2.0092,
+   "poster_path": "/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-06",
+   "revenue": 5566,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A storm is coming",
+   "title": "Grand Isle",
+   "trailer": {
+    "key": "kMZA9aafu18",
+    "name": "Grand Isle - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 352
+  },
   "movie:610892": {
    "backdrop_path": "/fgUacNwfO5paHavroHtHeMHZMDB.jpg",
    "budget": 0,
@@ -3165,6 +3737,95 @@
    "type": "movie",
    "vote_average": 7.429,
    "vote_count": 471
+  },
+  "movie:8992": {
+   "backdrop_path": "/6E0GtHsx8335YHJE7dD9oL1gk9i.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "Walter \"Gib\" Gibson",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Alison Bradbury",
+     "n": "Daphne Zuniga"
+    },
+    {
+     "c": "Lance",
+     "n": "Anthony Edwards"
+    },
+    {
+     "c": "Jason",
+     "n": "Boyd Gaines"
+    },
+    {
+     "c": "Gary Cooper",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Mary Ann Webster",
+     "n": "Lisa Jane Persky"
+    },
+    {
+     "c": "Professor Taub",
+     "n": "Viveca Lindfors"
+    },
+    {
+     "c": "The Sure Thing",
+     "n": "Nicollette Sheridan"
+    },
+    {
+     "c": "Julie",
+     "n": "Marcia Christie"
+    },
+    {
+     "c": "Bobby",
+     "n": "Robert Anthony Marcucci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rob Reiner"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 8992,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gib, a beer-guzzling slob, and Alison, an uptight Ivy-Leaguer, are an unlikely duo stuck together on a cross-country trip during Christmas break. At first they get on each other's nerves but, as time passes, they find their divergent natures complement each other. Now they need to realize what they've already found before it's too late.",
+   "popularity": 1.4847,
+   "poster_path": "/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1985-03-01",
+   "revenue": 18135531,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A sure thing comes once in a lifetime... but the real thing lasts forever.",
+   "title": "The Sure Thing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 346
   },
   "tv:110492": {
    "backdrop_path": "/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",

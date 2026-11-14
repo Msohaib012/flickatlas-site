@@ -1,7 +1,663 @@
 {
  "bucket": "39",
- "count": 41,
+ "count": 51,
  "titles": {
+  "movie:1019939": {
+   "backdrop_path": "/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
+   "budget": 150000,
+   "cast": [
+    {
+     "c": "Jean Kayak",
+     "n": "Ryland Brickson Cole Tews"
+    },
+    {
+     "c": "The Furrier",
+     "n": "Olivia Graves"
+    },
+    {
+     "c": "The Merchant",
+     "n": "Doug Mancheski"
+    },
+    {
+     "c": "The Master Fur Trapper",
+     "n": "Wes Tank"
+    },
+    {
+     "c": "The Indian Fur Trapper",
+     "n": "Luis Rico"
+    },
+    {
+     "c": "Mascot",
+     "n": "Brendan Steere"
+    },
+    {
+     "c": "Mascot",
+     "n": "Jon Truei"
+    },
+    {
+     "c": "Mascot",
+     "n": "Jay Brown"
+    },
+    {
+     "c": "Mascot",
+     "n": "Jason Hoerchner"
+    },
+    {
+     "c": "Mascot",
+     "n": "Stephen Cervantes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mike Cheslik"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 1019939,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers.",
+   "popularity": 2.1482,
+   "poster_path": "/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/pxmDUtLdaSCek4LUwme4h7wfsC9.png",
+     "name": "MovieMe",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-02-09",
+   "revenue": 1267995,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Possibly thousands.",
+   "title": "Hundreds of Beavers",
+   "trailer": {
+    "key": "Dm5XHpQZvek",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.264,
+   "vote_count": 354
+  },
+  "movie:10939": {
+   "backdrop_path": "/o3bSYbap4gDnHeAru7umPVWTzAP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "François Perrin",
+     "n": "Pierre Richard"
+    },
+    {
+     "c": "Maurice Lefebvre",
+     "n": "Jean Carmet"
+    },
+    {
+     "c": "Colonel Louis, Marie, Alphonse Toulouse",
+     "n": "Jean Rochefort"
+    },
+    {
+     "c": "Christine",
+     "n": "Mireille Darc"
+    },
+    {
+     "c": "Le ministre",
+     "n": "Jean Bouise"
+    },
+    {
+     "c": "Paulette Lefebvre",
+     "n": "Colette Castel"
+    },
+    {
+     "c": "Charmant",
+     "n": "Henri Guybet"
+    },
+    {
+     "c": "Prince",
+     "n": "Hervé Sand"
+    },
+    {
+     "c": "Capitaine Cambrai",
+     "n": "Michel Duchaussoy"
+    },
+    {
+     "c": "le chef d'orchestre",
+     "n": "Yves Robert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Yves Robert"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10939,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "With \"little captain\" Cambrai raising serious doubts about the reality of the so-called \"super spy,\" Colonel Toulouse kidnaps Christine and forces Francois to play again the character of \"The Tall Blond Man with One Black Shoe\" in some fake adventures. All this to stop the investigation into the death of Colonel Milan.",
+   "popularity": 1.8146,
+   "poster_path": "/3sPd0v3SHRUl9qCwao7ggpW36uG.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1974-11-12",
+   "revenue": 107502,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Return of the Tall Blond Man with One Black Shoe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.556,
+   "vote_count": 355
+  },
+  "movie:130739": {
+   "backdrop_path": "/xL10TJ5dQluARc6Qq1dkHs2Xrk1.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Niko Fischer",
+     "n": "Tom Schilling"
+    },
+    {
+     "c": "Matze",
+     "n": "Marc Hosemann"
+    },
+    {
+     "c": "Julika Hoffmann",
+     "n": "Friederike Kempter"
+    },
+    {
+     "c": "Karl Speckenbach",
+     "n": "Justus von Dohnányi"
+    },
+    {
+     "c": "Elli",
+     "n": "Katharina Schüttler"
+    },
+    {
+     "c": "Phillip Rauch",
+     "n": "Arnd Klawitter"
+    },
+    {
+     "c": "Kontrolleur Jörg",
+     "n": "Martin Brambach"
+    },
+    {
+     "c": "Psychologe",
+     "n": "Andreas Schröders"
+    },
+    {
+     "c": "Walter Fischer",
+     "n": "Ulrich Noethen"
+    },
+    {
+     "c": "Hanna",
+     "n": "Inga Birkenfeld"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jan Ole Gerster"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 130739,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Niko, a twenty-something college dropout, lives for the moment as he drifts through the streets of Berlin, curiously observing everyone around him and oblivious to his growing status as an outsider. Then on one fateful day, through a series of absurdly amusing encounters, everything changes.",
+   "popularity": 1.2244,
+   "poster_path": "/gy58pmCztFrpxaRM9rGhv93LgCP.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-01",
+   "revenue": 2750275,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "No job. No girl. No coffee.",
+   "title": "A Coffee in Berlin",
+   "trailer": {
+    "key": "oMwUSipMzFA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.19,
+   "vote_count": 366
+  },
+  "movie:1321439": {
+   "backdrop_path": "/i8QHgJKnsd8csNBo8fH9wYW2Y9E.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dawn",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Trey",
+     "n": "Pierson Fodé"
+    },
+    {
+     "c": "Lexi",
+     "n": "Madison Pettis"
+    },
+    {
+     "c": "Birdie",
+     "n": "Frances Fisher"
+    },
+    {
+     "c": "Rachel",
+     "n": "Yvonne Orji"
+    },
+    {
+     "c": "Eve",
+     "n": "Hannah Stocking"
+    },
+    {
+     "c": "Carl",
+     "n": "Torrance Coombs"
+    },
+    {
+     "c": "Amber",
+     "n": "Naika Toussaint"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Christin Park"
+    },
+    {
+     "c": "Cindy",
+     "n": "Madeleine Arthur"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Janeen Damian"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1321439,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
+   "popularity": 2.3263,
+   "poster_path": "/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-09-11",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Romance gets a Texas-sized reality check.",
+   "title": "The Wrong Paris",
+   "trailer": {
+    "key": "SgKpEeduwh0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 359
+  },
   "movie:1437939": {
    "backdrop_path": "/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
    "budget": 0,
@@ -287,6 +943,233 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 445
+  },
+  "movie:17339": {
+   "backdrop_path": "/5HzyoetjiRl3VJ4R6q0jiewGzQZ.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Mallory",
+     "n": "Robert Shaw"
+    },
+    {
+     "c": "Barnsby",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Maritza",
+     "n": "Barbara Bach"
+    },
+    {
+     "c": "Miller",
+     "n": "Edward Fox"
+    },
+    {
+     "c": "Lescovar",
+     "n": "Franco Nero"
+    },
+    {
+     "c": "Weaver",
+     "n": "Carl Weathers"
+    },
+    {
+     "c": "Drazak",
+     "n": "Richard Kiel"
+    },
+    {
+     "c": "Petrovitch",
+     "n": "Alan Badel"
+    },
+    {
+     "c": "Schroeder",
+     "n": "Michael Byrne"
+    },
+    {
+     "c": "Jensen",
+     "n": "Philip Latham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Guy Hamilton"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure",
+    "War"
+   ],
+   "id": 17339,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "World War II, 1943. Mallory and Miller, the heroes who destroyed the guns of Navarone, are sent to Yugoslavia in search of a ghost from the past.",
+   "popularity": 3.4943,
+   "poster_path": "/3bFRwivCZuXx7fHWt4SpYaiHkNL.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1978-08-16",
+   "revenue": 7230000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hr",
+    "en",
+    "de",
+    "sr"
+   ],
+   "status": "Released",
+   "tagline": "Explosive high adventure!",
+   "title": "Force 10 from Navarone",
+   "trailer": {
+    "key": "V3gA-Gnm6hQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 367
   },
   "movie:192139": {
    "backdrop_path": "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
@@ -999,6 +1882,192 @@
    "vote_average": 6.616,
    "vote_count": 417
   },
+  "movie:24739": {
+   "backdrop_path": "/5BXxxMvcnWQiFnrnB756uyOl7RX.jpg",
+   "budget": 3700000,
+   "cast": [
+    {
+     "c": "Harry Washello",
+     "n": "Anthony Edwards"
+    },
+    {
+     "c": "Julie Peters",
+     "n": "Mare Winningham"
+    },
+    {
+     "c": "Ivan Peters",
+     "n": "John Agar"
+    },
+    {
+     "c": "Lucy Peters",
+     "n": "Lou Hancock"
+    },
+    {
+     "c": "Wilson",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Gerstead",
+     "n": "Kurt Fuller"
+    },
+    {
+     "c": "Landa",
+     "n": "Denise Crosby"
+    },
+    {
+     "c": "Fred the Cook",
+     "n": "Robert DoQui"
+    },
+    {
+     "c": "Waitress",
+     "n": "O-Lan Jones"
+    },
+    {
+     "c": "Harlan",
+     "n": "Claude Earl Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steve De Jarnatt"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 24739,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After 30 years of searching, Harry has finally met the girl of his dreams. Unfortunately, before they even have a chance to go on their first date, Harry intercepts some chilling news: WWIII has begun and nuclear missiles will destroy Los Angeles in less than an hour!",
+   "popularity": 3.0151,
+   "poster_path": "/9qRCVO9L3s3CsPnoUO9c3iZm6aB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-11-23",
+   "revenue": 1145404,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are 70 minutes to the end of the world. Where can you hide?",
+   "title": "Miracle Mile",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 347
+  },
   "movie:26039": {
    "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
    "budget": 2500000,
@@ -1598,6 +2667,111 @@
    "type": "movie",
    "vote_average": 8.3,
    "vote_count": 440
+  },
+  "movie:38939": {
+   "backdrop_path": "/QE9ILRngt3v67xkvNUPbjADPe2.jpg",
+   "budget": 406300,
+   "cast": [
+    {
+     "c": "Joanne Clayton",
+     "n": "Joan Collins"
+    },
+    {
+     "c": "Arthur Edward Grimsdyke",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Charles Gregory",
+     "n": "Roy Dotrice"
+    },
+    {
+     "c": "Ralph Jason",
+     "n": "Richard Greene"
+    },
+    {
+     "c": "Carl Maitland",
+     "n": "Ian Hendry"
+    },
+    {
+     "c": "George Carter",
+     "n": "Patrick Magee"
+    },
+    {
+     "c": "Enid Jason",
+     "n": "Barbara Murray"
+    },
+    {
+     "c": "Maj. William Rogers",
+     "n": "Nigel Patrick"
+    },
+    {
+     "c": "James Elliot",
+     "n": "Robin Phillips"
+    },
+    {
+     "c": "The Crypt Keeper",
+     "n": "Ralph Richardson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Freddie Francis"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 38939,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a tourist group become lost within ancient catacombs, they meet the sinister Crypt Keeper, who tells them each their fate. The enigmatic figure's macabre stories involve a wife dabbling in murder, a retired sanitation worker targeted by his suspicious neighbors, and an adulterer who may face a fitting demise if the yarns come true.",
+   "popularity": 2.3652,
+   "poster_path": "/vA3wsl2lfurU6UFVs0Hg0cZJDah.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Chilling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1972-03-09",
+   "revenue": 3000000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "DEATH LIVES in the Vault of Horror!",
+   "title": "Tales from the Crypt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 367
   },
   "movie:408439": {
    "backdrop_path": "/oyD5D5QBoFXa68M5RsmrjPe83pU.jpg",
@@ -2402,6 +3576,286 @@
    "vote_average": 7.923,
    "vote_count": 447
   },
+  "movie:5139": {
+   "backdrop_path": "/3Ndz1LOb8Y3X34GM9nx0kp61sXG.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "La Petite Fille",
+     "n": "Bertille Noël-Bruneau"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Isabelle Carré"
+    },
+    {
+     "c": "Le petit garçon",
+     "n": "Thomas Laliberté"
+    },
+    {
+     "c": "Judie",
+     "n": "Camille Lambert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Luc Jacquet"
+   ],
+   "genres": [
+    "Adventure",
+    "Family"
+   ],
+   "id": 5139,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young girl of about 10 years lives in a solitary peasant's house on the edge of the jurassic mountains in the East of France. One day in autumn, when she is on her way to school through the forest, she observes a hunting fox. Of course, the fox flees from her, but the girl feels a strong desire to meet the fox again.",
+   "popularity": 1.3073,
+   "poster_path": "/eBpc03hS9A7QPv0k6AZfDCdKURt.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-12-27",
+   "revenue": 29610210,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Fox and the Child",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.562,
+   "vote_count": 370
+  },
+  "movie:522039": {
+   "backdrop_path": "/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jimmie Fails",
+     "n": "Jimmie Fails"
+    },
+    {
+     "c": "Montgomery Allen",
+     "n": "Jonathan Majors"
+    },
+    {
+     "c": "James Sr.",
+     "n": "Rob Morgan"
+    },
+    {
+     "c": "Wanda Fails",
+     "n": "Tichina Arnold"
+    },
+    {
+     "c": "Bobby",
+     "n": "Mike Epps"
+    },
+    {
+     "c": "Clayton",
+     "n": "Finn Wittrock"
+    },
+    {
+     "c": "Grandpa Allen",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Preacher",
+     "n": "Willie Hen"
+    },
+    {
+     "c": "Kofi",
+     "n": "Jamal Trulove"
+    },
+    {
+     "c": "Nitty",
+     "n": "Antoine Redus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Talbot"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 522039,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jimmie Fails dreams of reclaiming the Victorian home his grandfather built in the heart of San Francisco. Joined on his quest by his best friend Mont, Jimmie searches for belonging in a rapidly changing city that seems to have left them behind.",
+   "popularity": 2.0088,
+   "poster_path": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-25",
+   "revenue": 2975184,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ht"
+   ],
+   "status": "Released",
+   "tagline": "Fight for your land. Fight for your home.",
+   "title": "The Last Black Man in San Francisco",
+   "trailer": {
+    "key": "C0FnJDhY9-0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.983,
+   "vote_count": 382
+  },
   "movie:6639": {
    "backdrop_path": "/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg",
    "budget": 45000000,
@@ -3169,6 +4623,111 @@
    "type": "movie",
    "vote_average": 6.107,
    "vote_count": 440
+  },
+  "movie:854239": {
+   "backdrop_path": "/xFKjWcxEumvwEhovqTDzoDCmD45.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Mamie Till-Mobley",
+     "n": "Danielle Deadwyler"
+    },
+    {
+     "c": "Emmett Till",
+     "n": "Jalyn Hall"
+    },
+    {
+     "c": "John Carthan",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Carolyn Bryant",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Moses Wright",
+     "n": "John Douglas Thompson"
+    },
+    {
+     "c": "Alma",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Myrlie Evers",
+     "n": "Jayme Lawson"
+    },
+    {
+     "c": "Medgar Evers",
+     "n": "Tosin Cole"
+    },
+    {
+     "c": "Rayfield Mooty",
+     "n": "Kevin Carroll"
+    },
+    {
+     "c": "Gene Mobley",
+     "n": "Sean Patrick Thomas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chinonye Chukwu"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 854239,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of Mamie Till Mobley's relentless pursuit of justice for her 14-year-old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
+   "popularity": 2.9241,
+   "poster_path": "/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-14",
+   "revenue": 11498884,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Witness the power of a mother’s love.",
+   "title": "Till",
+   "trailer": {
+    "key": "PqAAxlfY7Dg",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.337,
+   "vote_count": 378
   },
   "movie:862739": {
    "backdrop_path": "/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",

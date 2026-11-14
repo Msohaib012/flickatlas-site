@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 36,
+ "count": 43,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -289,6 +289,94 @@
    "type": "movie",
    "vote_average": 5.452,
    "vote_count": 444
+  },
+  "movie:13924": {
+   "backdrop_path": "/aMmN7JIUaBZfQfWJhYD30bfq4xw.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alvy Ray Smith"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 13924,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "There's nothing like a restful nap in a pleasant wooded valley. But when André awakens and is greeted by a pesky yellow-and-black striped insect with a nasty stinger, he ends up taking a quick (and painful) hike.",
+   "popularity": 1.8692,
+   "poster_path": "/vynPRSjD78EWQpWbvEimlU55Ke.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-12-17",
+   "revenue": 0,
+   "runtime": 2,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "André awakens from a nap and is greeted by a pesky bee.",
+   "title": "The Adventures of André and Wally B.",
+   "trailer": {
+    "key": "rQsCw1v-cEU",
+    "name": "Adventures of Andre & Wally B., The - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 348
   },
   "movie:14324": {
    "backdrop_path": "/cRXcuLS1z0820eZ4mOXF08VEdZR.jpg",
@@ -668,6 +756,162 @@
    "vote_average": 6.443,
    "vote_count": 71
   },
+  "movie:157424": {
+   "backdrop_path": "/amr7eGHvWcf2GjcEAAjF6eXqdxu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Penny",
+     "n": "Jillian Murray"
+    },
+    {
+     "c": "Marcus",
+     "n": "Mitch Ryan"
+    },
+    {
+     "c": "Bridgett",
+     "n": "Lydia Hearst"
+    },
+    {
+     "c": "Katia",
+     "n": "Claudette Lalí"
+    },
+    {
+     "c": "Porter",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Camila",
+     "n": "Solly Duran"
+    },
+    {
+     "c": "Dr. Edwards",
+     "n": "Currie Graham"
+    },
+    {
+     "c": "Dobs",
+     "n": "Ryan Donowho"
+    },
+    {
+     "c": "Josh",
+     "n": "Brando Eaton"
+    },
+    {
+     "c": "Mr. Arias",
+     "n": "Juan 'Papo' Bancalari"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kaare Andrews"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 157424,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of friends head to a deserted Caribbean island for a surprise overnight bachelor party only to discover that the island isn't deserted. It's actually the home to a secret medical facility. Not only that, there's something wrong with the water surrounding the island...",
+   "popularity": 2.1911,
+   "poster_path": "/5A4wV8k9Kv2OY3XjI9WDA5qsAkD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-05",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Birth of Fear",
+   "title": "Cabin Fever: Patient Zero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.989,
+   "vote_count": 370
+  },
   "movie:1627824": {
    "backdrop_path": "/slgx2ur9DnHRVLBJYfONL4T7wyx.jpg",
    "budget": 0,
@@ -834,6 +1078,166 @@
    "type": "movie",
    "vote_average": 7.8,
    "vote_count": 24
+  },
+  "movie:19824": {
+   "backdrop_path": "/e0fWkS9iJkLV2jSZ5g2MF2iTIKS.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Van Wilder",
+     "n": "Jonathan Bennett"
+    },
+    {
+     "c": "Kaitlin",
+     "n": "Kristin Cavallari"
+    },
+    {
+     "c": "Dean Charles Reardon",
+     "n": "Kurt Fuller"
+    },
+    {
+     "c": "Dick Arnold",
+     "n": "Steve Talley"
+    },
+    {
+     "c": "Farley",
+     "n": "Nestor Aaron Absera"
+    },
+    {
+     "c": "Corporal Benedict",
+     "n": "Nick Nicotera"
+    },
+    {
+     "c": "Yu Dum Fok",
+     "n": "Jerry Ray Shea"
+    },
+    {
+     "c": "Eve",
+     "n": "Meredith Giangrande"
+    },
+    {
+     "c": "Dongmei",
+     "n": "Irene Keng"
+    },
+    {
+     "c": "Vance Sr.",
+     "n": "Linden Ashby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Harvey Glazer"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 19824,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It is freshman year at Coolidge College and Van Wilder is ready to party. To his dismay, all the girls have taken a vow of chastity and the dean rules the school. Van embarks on a crusade to land the campus hottie, Kaitlin, and liberate his school from sexual oppression and party dysfunction.",
+   "popularity": 2.8639,
+   "poster_path": "/tjDH8REu8bqgW9zXDIOy6C8FNtH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-06-02",
+   "revenue": 20543,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The man. The myth. The beginning.",
+   "title": "Van Wilder: Freshman Year",
+   "trailer": {
+    "key": "AQwUvIMrLMw",
+    "name": "Van Wilder: Freshman Year - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.387,
+   "vote_count": 362
   },
   "movie:205724": {
    "backdrop_path": "/ucvAwCzaRuQAydXKP1BPErgZIzR.jpg",
@@ -1362,6 +1766,153 @@
    "vote_average": 6.227,
    "vote_count": 422
   },
+  "movie:308024": {
+   "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Adam Scott"
+    },
+    {
+     "c": "Emily",
+     "n": "Taylor Schilling"
+    },
+    {
+     "c": "Kurt",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Judith Godrèche"
+    },
+    {
+     "c": "RJ",
+     "n": "RJ Hermes"
+    },
+    {
+     "c": "Wade",
+     "n": "Kyle Field"
+    },
+    {
+     "c": "Dawn",
+     "n": "Sarah DeVincentis"
+    },
+    {
+     "c": "Max",
+     "n": "Max Moritt"
+    },
+    {
+     "c": "Breast Pump Doctor",
+     "n": "Susan Traylor"
+    },
+    {
+     "c": "Massage Parlor Man",
+     "n": "Jim Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Patrick Brice"
+   ],
+   "genres": [
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 308024,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alex, Emily, and their son, RJ, are new to Los Angeles. A chance meeting at the park introduces them to the mysterious Kurt, Charlotte, and Max. A family “playdate” becomes increasingly interesting as the night goes on.",
+   "popularity": 3.2178,
+   "poster_path": "/3XsGz8FbapcT8TsIeeTZrknJ2O8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-26",
+   "revenue": 1100000,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Get into the swing of things",
+   "title": "The Overnight",
+   "trailer": {
+    "key": "xq2MhdSqX7s",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.917,
+   "vote_count": 379
+  },
   "movie:380124": {
    "backdrop_path": "/2fC29LRezRnpQwnbjxXSO7dakb.jpg",
    "budget": 20000000,
@@ -1482,6 +2033,102 @@
    "vote_average": 5.8,
    "vote_count": 444
   },
+  "movie:467824": {
+   "backdrop_path": "/CX9O14p4SsAG8nz0BFhaDTSKH1.jpg",
+   "budget": 16723043,
+   "cast": [
+    {
+     "c": "Lim Joong-kyung",
+     "n": "Gang Dong-won"
+    },
+    {
+     "c": "Lee Yoon-hee",
+     "n": "Han Hyo-joo"
+    },
+    {
+     "c": "Jang Jin-tae",
+     "n": "Jung Woo-sung"
+    },
+    {
+     "c": "Han Sang-woo",
+     "n": "Kim Moo-yul"
+    },
+    {
+     "c": "Koo Mi-kyung",
+     "n": "Han Ye-ri"
+    },
+    {
+     "c": "Kim Cheol-jin",
+     "n": "Minho"
+    },
+    {
+     "c": "Lee Gi-seok, Head of the Public Security Department",
+     "n": "Huh Joon-ho"
+    },
+    {
+     "c": "Park Hwan-ryeol, Prosecutor's Office",
+     "n": "Park Byung-eun"
+    },
+    {
+     "c": "Little Red Riding Hood",
+     "n": "Shin Eun-soo"
+    },
+    {
+     "c": "Park Mu-young, Special Unit Captain",
+     "n": "Kim Beop-rae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kim Jee-woon"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+   ],
+   "id": 467824,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In 2029, an elite police squad combats an anti-reunification terrorist group while another enemy lurks nearby.",
+   "popularity": 2.4957,
+   "poster_path": "/71JMWqNDRz2Au59JYosfn5W8nuS.jpg",
+   "production_countries": [
+    "HK",
+    "JP",
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-07-25",
+   "revenue": 0,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "The human soldiers called wolves",
+   "title": "Illang: The Wolf Brigade",
+   "trailer": {
+    "key": "OlI7wWCLMNM",
+    "name": "ILLANG : THE WOLF BRIGADE (2018)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.261,
+   "vote_count": 341
+  },
   "movie:52124": {
    "backdrop_path": "/gMaZeKbx3BG7AwnqP6rAAbGwWAl.jpg",
    "budget": 0,
@@ -1570,6 +2217,115 @@
    "type": "movie",
    "vote_average": 5.492,
    "vote_count": 417
+  },
+  "movie:541524": {
+   "backdrop_path": "/7mH9nwyEyiGrODuq1khFEXyk5iY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Irene Redfield",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Clare Kendry",
+     "n": "Ruth Negga"
+    },
+    {
+     "c": "Brian Redfield",
+     "n": "André Holland"
+    },
+    {
+     "c": "John Bellew",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Hugh Wentworth",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Dave",
+     "n": "Gbenga Akinnagbe"
+    },
+    {
+     "c": "Felise",
+     "n": "Antoinette Crowe-Legacy"
+    },
+    {
+     "c": "Ted",
+     "n": "Justus Davis Graham"
+    },
+    {
+     "c": "Junior",
+     "n": "Ethan Barrett"
+    },
+    {
+     "c": "Zulena",
+     "n": "Ashley Ware Jenkins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rebecca Hall"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 541524,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1920s New York City, a Black woman finds her world upended when her life becomes intertwined with a former childhood friend who's passing as white.",
+   "popularity": 2.2178,
+   "poster_path": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-10",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nothing is black and white.",
+   "title": "Passing",
+   "trailer": {
+    "key": "trwq3CNCMkU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.277,
+   "vote_count": 354
   },
   "movie:589524": {
    "backdrop_path": "/fHg3OooyJOlaMzSgUv12RE96j4D.jpg",
@@ -1799,6 +2555,96 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 30
+  },
+  "movie:71524": {
+   "backdrop_path": "/1rLPWregu9q8m28w94syxsDenK5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jo Cavalier",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Gaby Delcourt",
+     "n": "Marie-France Pisier"
+    },
+    {
+     "c": "Simon Rosenblum",
+     "n": "Rachid Ferrache"
+    },
+    {
+     "c": "Gunther von Beckman",
+     "n": "Frank Hoffmann"
+    },
+    {
+     "c": "Adolf Hitler / Angela Hitler",
+     "n": "Günter Meisner"
+    },
+    {
+     "c": "Major Aschbach, Gestapo officer",
+     "n": "Benno Sterzenbach"
+    },
+    {
+     "c": "Lucien",
+     "n": "Yves Pignot"
+    },
+    {
+     "c": "Boxer",
+     "n": "Florent Pagny"
+    },
+    {
+     "c": "Sarah Rosenblum",
+     "n": "Sonja Tuchmann"
+    },
+    {
+     "c": "Micholo, boxer",
+     "n": "Stéphane Ferrara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Gérard Oury"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 71524,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In this action comedy the French boxer Jo Cavalier is charmed on the train to Berlin for the Olympics in Hitler's Germany by the little boy Simon Rosenblum who asks his autograph; when it turns out his adorable young fan is a Jewish orphan in danger of persecution, he risks his one shot at Olympic glory to save Simon and his family, helped only by a German officer-gentleman who became his friend in World War I, by an adventurous escape to Switzerland, Nazi troops on their heals and braving impossible odds in roller coaster-style.",
+   "popularity": 2.0344,
+   "poster_path": "/k9qMoIocHqEYiQY5IZdHbBOioX7.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1982-10-27",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ace of Aces",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.07,
+   "vote_count": 365
   },
   "movie:73624": {
    "backdrop_path": "/hel4RhpqHWamrfCueE7TZMEWJ5c.jpg",

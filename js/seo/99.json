@@ -1,7 +1,135 @@
 {
  "bucket": "99",
- "count": 29,
+ "count": 35,
  "titles": {
+  "movie:10399": {
+   "d": "Mansfield Park (1999): Romance/Drama film. Story: Fanny Price is sent to live with her wealthy… See cast, budget $11M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
+   "industry": "world",
+   "k": "Mansfield Park, Mansfield Park movie, Mansfield Park cast, Mansfield Park story, Mansfield Park box office collection, Mansfield Park budget, Mansfield Park review, Mansfield Park rating, Mansfield Park release date, Mansfield Park trailer, Mansfield Park Romance, Mansfield Park Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Frances O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonny Lee Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Nivola"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Taylor-Gordon"
+     },
+     {
+      "@type": "Person",
+      "name": "Lindsay Duncan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Mansfield Park (1999): Romance/Drama film. Story: Fanny Price is sent to live with her wealthy… See cast, budget $11M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patricia Rozema"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10399",
+    "name": "Mansfield Park",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10399"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mansfield Park (1999)</h1>\n<p class=\"ssr-lead\">Fanny Price is sent to live with her wealthy relatives, the Bertrams, where she is treated poorly by most except her cousin Edmund. Her life is complicated by the arrival of the worldly Mary and Henry Crawford.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 1999</li><li>Runtime: 112 minutes</li><li>Director: Patricia Rozema</li><li>Genres: Romance, Drama</li><li>Budget: $11M</li><li>TMDB rating: 6.7/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frances O&#x27;Connor as Fanny Price</li><li>Jonny Lee Miller as Edmund Bertram</li><li>Alessandro Nivola as Mr. Henry Crawford</li><li>Hannah Taylor-Gordon as Young Fanny</li><li>Lindsay Duncan as Mrs. Price / Lady Bertram</li><li>James Purefoy as Tom Bertram</li><li>Sheila Gish as Mrs. Norris</li><li>Harold Pinter as Sir Thomas Bertram</li><li>Victoria Hamilton as Maria Bertram Rushworth</li><li>Hugh Bonneville as Mr. Rushworth</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Mansfield Park (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
+  "movie:10799": {
+   "d": "Empire of the Wolves (2005): Drama/Crime film. Story: When the young detective Paul Nerteaux finds the… See cast, budget $24M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1i8oz24NssaUplHdB8N7Od4Iqki.jpg",
+   "industry": "world",
+   "k": "Empire of the Wolves, Empire of the Wolves movie, Empire of the Wolves cast, Empire of the Wolves story, Empire of the Wolves box office collection, Empire of the Wolves budget, Empire of the Wolves review, Empire of the Wolves rating, Empire of the Wolves release date, Empire of the Wolves Drama, Empire of the Wolves Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Arly Jover"
+     },
+     {
+      "@type": "Person",
+      "name": "Jocelyn Quivrin"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Morante"
+     },
+     {
+      "@type": "Person",
+      "name": "Philippe du Janerand"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 341,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Empire of the Wolves (2005): Drama/Crime film. Story: When the young detective Paul Nerteaux finds the… See cast, budget $24M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Nahon"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1i8oz24NssaUplHdB8N7Od4Iqki.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10799",
+    "name": "Empire of the Wolves",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-04-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10799"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Empire of the Wolves (2005)</h1>\n<p class=\"ssr-lead\">When the young detective Paul Nerteaux finds the third slashed female corpse of illegal Turkish immigrants, he decides to ask for support to the experienced dark retired detective Jean-Louis Schiffer to chase the serial killer. Together, they infiltrate in the Turkish mafia trying to find the answer to the crimes. Meanwhile, the worker Anna Heymes is being submitted to a brain treatment and has severe headaches and glimpses of memories and visions. When these two parallel events collide, disclose that the Turkish organization &quot;The Wolves&quot; is behind them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 April 2005</li><li>Runtime: 128 minutes</li><li>Director: Chris Nahon</li><li>Genres: Drama, Crime, Action</li><li>Budget: $24M</li><li>TMDB rating: 5.7/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Reno as Jean-Louis Schiffer</li><li>Arly Jover as Anna Heymes</li><li>Jocelyn Quivrin as Paul Nerteaux</li><li>Laura Morante as Mathilde Uran</li><li>Philippe du Janerand as Coroner</li><li>Philippe Bas as Laurent</li><li>Didier Sauvegrain as Dr. Ackerman</li><li>Patrick Floersheim as Philippe Charlier</li><li>Etienne Chicot as Olivier Amien</li><li>Albert Dray as Lieutenant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Empire of the Wolves (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:109099": {
    "d": "Passion (2013): Thriller/Drama film. Story: The rivalry between the manipulative boss of an… See cast, budget $20M, and TMDB rating 5.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
@@ -646,6 +774,70 @@
    "t": "Easy Virtue (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:18299": {
+   "d": "Love in the Afternoon (1957): Comedy/Romance film. Story: A middle-aged playboy becomes fascinated by the… See cast, budget $2.1M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zqAg8ZvRAUdGzQqY5NZ10jcwBgm.jpg",
+   "industry": "world",
+   "k": "Love in the Afternoon, Love in the Afternoon movie, Love in the Afternoon cast, Love in the Afternoon story, Love in the Afternoon box office collection, Love in the Afternoon budget, Love in the Afternoon review, Love in the Afternoon rating, Love in the Afternoon release date, Love in the Afternoon Comedy, Love in the Afternoon Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gary Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Hepburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Maurice Chevalier"
+     },
+     {
+      "@type": "Person",
+      "name": "John McGiver"
+     },
+     {
+      "@type": "Person",
+      "name": "Van Doude"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Love in the Afternoon (1957): Comedy/Romance film. Story: A middle-aged playboy becomes fascinated by the… See cast, budget $2.1M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Billy Wilder"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zqAg8ZvRAUdGzQqY5NZ10jcwBgm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18299",
+    "name": "Love in the Afternoon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1957-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18299"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love in the Afternoon (1957)</h1>\n<p class=\"ssr-lead\">A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with a client&#x27;s wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 1957</li><li>Runtime: 130 minutes</li><li>Director: Billy Wilder</li><li>Genres: Comedy, Romance</li><li>Budget: $2.1M</li><li>TMDB rating: 7.0/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Cooper as Frank Flannagan</li><li>Audrey Hepburn as Ariane Chavasse / Thin Girl</li><li>Maurice Chevalier as Claude Chavasse</li><li>John McGiver as Monsieur X</li><li>Van Doude as Michel</li><li>Lise Bourdin as Madame X</li><li>Olga Valéry as Hotel Guest with Dog</li><li>Paul Bonifas as Police Chief (uncredited)</li><li>Audrey Long as Brunette (uncredited)</li><li>Charles Lemontier as General (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Love in the Afternoon (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1957"
+  },
   "movie:1999": {
    "d": "In the Bedroom (2002): Drama/Thriller film. Story: Summertime on the coast of Maine, \"In the Bedroom\"… See cast, budget $1.7M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
@@ -964,6 +1156,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ocean&#x27;s Eleven (1960)</h1>\n<p class=\"ssr-lead\">Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 1960</li><li>Runtime: 127 minutes</li><li>Director: Lewis Milestone</li><li>Genres: Crime, Comedy, Thriller</li><li>TMDB rating: 6.4/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Sinatra as Danny Ocean</li><li>Dean Martin as Sam Harmon</li><li>Sammy Davis Jr. as Josh Howard</li><li>Peter Lawford as Jimmy Foster</li><li>Angie Dickinson as Beatrice Ocean</li><li>Richard Conte as Anthony Bergdorf</li><li>Cesar Romero as Duke Santos</li><li>Patrice Wymore as Adele Ekstrom</li><li>Joey Bishop as &quot;Mushy&quot; O&#x27;Connors</li><li>Akim Tamiroff as Spyros Acebos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Ocean's Eleven (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1960"
+  },
+  "movie:377799": {
+   "d": "One Man and his Cow (2017): Drama/Comedy film. Story: An Algerian man's life-long dream finally comes true… See cast, budget $5.3M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fVBFQQPoWCbhJdT9tWtHIifw7ya.jpg",
+   "industry": "world",
+   "k": "One Man and his Cow, One Man and his Cow movie, One Man and his Cow cast, One Man and his Cow story, One Man and his Cow box office collection, One Man and his Cow budget, One Man and his Cow review, One Man and his Cow rating, One Man and his Cow release date, One Man and his Cow Drama, One Man and his Cow Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fatsah Bouyahmed"
+     },
+     {
+      "@type": "Person",
+      "name": "Lambert Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Piaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Hajar Masdouki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "One Man and his Cow (2017): Drama/Comedy film. Story: An Algerian man's life-long dream finally comes true… See cast, budget $5.3M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mohamed Hamidi"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fVBFQQPoWCbhJdT9tWtHIifw7ya.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=377799",
+    "name": "One Man and his Cow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=377799"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Man and his Cow (2017)</h1>\n<p class=\"ssr-lead\">An Algerian man&#x27;s life-long dream finally comes true when he receives an invitation to take his cow Jacqueline to the Paris International Agriculture Fair.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2017</li><li>Runtime: 91 minutes</li><li>Director: Mohamed Hamidi</li><li>Genres: Drama, Comedy</li><li>Budget: $5.3M</li><li>TMDB rating: 6.7/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fatsah Bouyahmed as Fatah Ballabes</li><li>Lambert Wilson as Philippe</li><li>Jamel Debbouze as Hassan</li><li>Julia Piaton as Young TV reporter</li><li>Hajar Masdouki as Naïma, Fatah&#x27;s wife</li><li>Abdellah Chakiri as Mokhtar</li><li>Amal El Atrache as Teacher</li><li>Fehd Benchemsi as Samir</li><li>Miloud Khetib as Hamé Hamed</li><li>Christian Ameri as Lucien</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "One Man and his Cow (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:429199": {
+   "d": "The Other Side of Hope (2017): Comedy/Drama film. Story: A restaurateur befriends a Syrian refugee who has… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aTF8rfm7Q1nQX0CXNmS4iUk80Kw.jpg",
+   "industry": "world",
+   "k": "The Other Side of Hope, The Other Side of Hope movie, The Other Side of Hope cast, The Other Side of Hope story, The Other Side of Hope box office collection, The Other Side of Hope budget, The Other Side of Hope review, The Other Side of Hope rating, The Other Side of Hope release date, The Other Side of Hope trailer, The Other Side of Hope Comedy, The Other Side of Hope Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sherwan Haji"
+     },
+     {
+      "@type": "Person",
+      "name": "Sakari Kuosmanen"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaija Pakarinen"
+     },
+     {
+      "@type": "Person",
+      "name": "Niroz Haji"
+     },
+     {
+      "@type": "Person",
+      "name": "Janne Hyytiäinen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Other Side of Hope (2017): Comedy/Drama film. Story: A restaurateur befriends a Syrian refugee who has… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aki Kaurismäki"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aTF8rfm7Q1nQX0CXNmS4iUk80Kw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=429199",
+    "name": "The Other Side of Hope",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=429199"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Other Side of Hope (2017)</h1>\n<p class=\"ssr-lead\">A restaurateur befriends a Syrian refugee who has recently arrived in Finland.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 February 2017</li><li>Runtime: 101 minutes</li><li>Director: Aki Kaurismäki</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.9/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sherwan Haji as Khaled</li><li>Sakari Kuosmanen as Wikström</li><li>Kaija Pakarinen as Wikström&#x27;s Wife</li><li>Niroz Haji as Miriam</li><li>Janne Hyytiäinen as Nyrhinen</li><li>Ilkka Koivula as Calamnius</li><li>Nuppu Koivu as Mirja</li><li>Simon Al-Bazoon as Mazdak</li><li>Tuomari Nurmio as Busker / Band Member</li><li>Abdi Jama as Cashier at Train Station</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Other Side of Hope (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:454699": {
    "d": "Monster Family (2017): Animation/Family film. Story: The Wishbone family are far from happy. In an attempt… See cast and TMDB rating 6.0/10.",
@@ -1418,6 +1738,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sgt. Bilko (1996)</h1>\n<p class=\"ssr-lead\">The US army is known for churning out lean mean fighting machines intent on protecting our great nation. Sergeant Ernie Bilko is the leader of a ragtag group of the sorriest soldiers ever to enlist in the armed forces.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 1996</li><li>Runtime: 90 minutes</li><li>Director: Jonathan Lynn</li><li>Genres: Comedy</li><li>Budget: $39M</li><li>TMDB rating: 5.9/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Martin as Ernest Bilko</li><li>Dan Aykroyd as Colonel Hall</li><li>Phil Hartman as Major Thorn</li><li>Glenne Headly as Rita Robbins</li><li>Daryl Mitchell as Wally Holbrook</li><li>Max Casella as Dino Paparelli</li><li>Eric Edwards as Duane Doberman</li><li>Dan Ferro as Tony Morales</li><li>John Marshall Jones as Sergeant Henshaw</li><li>Brian Leckner as Sam Fender</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Sgt. Bilko (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:9699": {
+   "d": "Trail of the Pink Panther (1982): Comedy/Crime film. Story: The Pink Panther diamond is stolen once again from… See cast and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nOHtfBfbMqMoZ2XkqFaiePNlV78.jpg",
+   "industry": "world",
+   "k": "Trail of the Pink Panther, Trail of the Pink Panther movie, Trail of the Pink Panther cast, Trail of the Pink Panther story, Trail of the Pink Panther box office collection, Trail of the Pink Panther budget, Trail of the Pink Panther review, Trail of the Pink Panther rating, Trail of the Pink Panther release date, Trail of the Pink Panther Comedy, Trail of the Pink Panther Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Niven"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Sellers"
+     },
+     {
+      "@type": "Person",
+      "name": "Capucine"
+     },
+     {
+      "@type": "Person",
+      "name": "Herbert Lom"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Mulligan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Trail of the Pink Panther (1982): Comedy/Crime film. Story: The Pink Panther diamond is stolen once again from… See cast and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Blake Edwards"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nOHtfBfbMqMoZ2XkqFaiePNlV78.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9699",
+    "name": "Trail of the Pink Panther",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-12-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9699"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trail of the Pink Panther (1982)</h1>\n<p class=\"ssr-lead\">The Pink Panther diamond is stolen once again from Lugash and the authorities call in Chief Inspector Clouseau from France. His plane disappears en-route. This time, famous French TV reporter Marie Jouvet sets out to solve the mystery and starts to interview everybody connected to Clouseau.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 December 1982</li><li>Runtime: 96 minutes</li><li>Director: Blake Edwards</li><li>Genres: Comedy, Crime, Mystery</li><li>TMDB rating: 5.1/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Niven as Sir Charles Litton</li><li>Peter Sellers as Chief Insp. Jacques Clouseau (archive footage)</li><li>Capucine as Lady Simone Litton</li><li>Herbert Lom as Chef Inspektor Charles Dreyfus</li><li>Richard Mulligan as Clouseau&#x27;s Father</li><li>Joanna Lumley as Marie Jouvet</li><li>Julie Andrews as Charwoman</li><li>Robert Loggia as Bruno Langois</li><li>Burt Kwouk as Cato Fong</li><li>Harvey Korman as Prof. Auguste Balls</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Trail of the Pink Panther (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
   },
   "tv:116799": {
    "d": "The Lincoln Lawyer (2022) is a Drama and Crime TV series. Explore its story: Hotshot LA defense attorney Mickey Haller will do…, cast, and 4 seasons.",

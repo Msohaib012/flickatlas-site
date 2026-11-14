@@ -1,6 +1,6 @@
 {
  "bucket": "71",
- "count": 47,
+ "count": 55,
  "titles": {
   "movie:100271": {
    "d": "A Letter to Momo (2012): Comedy/Fantasy film. Story: A shy 11-year-old's life takes a strange turn when… See cast and TMDB rating 7.3/10.",
@@ -386,6 +386,69 @@
    "t": "Them! (1954) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1954"
   },
+  "movie:12771": {
+   "d": "Serving Sara (2002): Comedy film. Story: When Sara is served divorce papers while she is in… See cast, budget $29M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qZiQ1ISNYjk6xn61NKwpcOGSG9a.jpg",
+   "industry": "world",
+   "k": "Serving Sara, Serving Sara movie, Serving Sara cast, Serving Sara story, Serving Sara box office collection, Serving Sara budget, Serving Sara review, Serving Sara rating, Serving Sara release date, Serving Sara Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Perry"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Hurley"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Pastore"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Cedric the Entertainer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Serving Sara (2002): Comedy film. Story: When Sara is served divorce papers while she is in… See cast, budget $29M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Reginald Hudlin"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qZiQ1ISNYjk6xn61NKwpcOGSG9a.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12771",
+    "name": "Serving Sara",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-08-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12771"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Serving Sara (2002)</h1>\n<p class=\"ssr-lead\">When Sara is served divorce papers while she is in New York, she is stunned. Not about to lose the fortune she amassed with her self-serving Texan husband, she makes an offer to her process server, Joe, that sets them off on a wild trip across the country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 2002</li><li>Runtime: 100 minutes</li><li>Director: Reginald Hudlin</li><li>Genres: Comedy</li><li>Budget: $29M</li><li>TMDB rating: 5.4/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Perry as Joe Tyler</li><li>Elizabeth Hurley as Sara Moore</li><li>Vincent Pastore as Tony</li><li>Bruce Campbell as Gordon Moore</li><li>Cedric the Entertainer as Ray Harris</li><li>Amy Adams as Kate</li><li>Terry Crews as Vernon</li><li>Jerry Stiller as Milton</li><li>Marshall Bell as Warren Cebron</li><li>Derek Southers as Bouncer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Serving Sara (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:1329471": {
    "d": "Carolina Caroline (2026): Crime/Drama film. Story: A young woman, desperate to leave her small town… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
@@ -708,6 +771,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ip Man: Kung Fu Legend (2026)</h1>\n<p class=\"ssr-lead\">In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 94 minutes</li><li>Director: Li Liming</li><li>Genres: Action</li><li>TMDB rating: 7.0/10 (33 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis To Yu-hang as Ip Man</li><li>Philip Condron as James</li><li>Steven Dasz as Parker</li><li>Lee Yiu-king</li><li>Yan Yanlong</li><li>Zhang Tingfei</li><li>Zhou Xiaofei</li><li>Addison Ford as Lei Yihu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Tencent Video</li></ul>\n</article>",
    "t": "Ip Man: Kung Fu Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:19971": {
+   "d": "The Little Girl Who Lives Down the Lane (1976): Drama/Mystery film. Story: 13-year-old Rynn Jacobs lives in a New England beach… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/iBMgaRFhF7AQOY3OUgWESDgkBwm.jpg",
+   "industry": "world",
+   "k": "The Little Girl Who Lives Down the Lane, The Little Girl Who Lives Down the Lane movie, The Little Girl Who Lives Down the Lane cast, The Little Girl Who Lives Down the Lane story, The Little Girl Who Lives Down the Lane box office collection, The Little Girl Who Lives Down the Lane budget, The Little Girl Who Lives Down the Lane review, The Little Girl Who Lives Down the Lane rating, The Little Girl Who Lives Down the Lane release date, The Little Girl Who Lives Down the Lane Drama, The Little Girl Who Lives Down the Lane Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Sheen"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Mort Shuman"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Jacoby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Little Girl Who Lives Down the Lane (1976): Drama/Mystery film. Story: 13-year-old Rynn Jacobs lives in a New England beach… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Gessner"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iBMgaRFhF7AQOY3OUgWESDgkBwm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19971",
+    "name": "The Little Girl Who Lives Down the Lane",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19971"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Little Girl Who Lives Down the Lane (1976)</h1>\n<p class=\"ssr-lead\">13-year-old Rynn Jacobs lives in a New England beach town. Whenever the landlady inquires after Rynn&#x27;s father, she claims that he&#x27;s not available. But when the landlady&#x27;s son, Frank, won&#x27;t leave Rynn alone, she teams up with a neighbor Mario to maintain the dark family secret that she&#x27;s been keeping to herself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 1976</li><li>Runtime: 91 minutes</li><li>Director: Nicolas Gessner</li><li>Genres: Drama, Mystery, Thriller</li><li>TMDB rating: 7.0/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jodie Foster as Rynn Jacobs</li><li>Martin Sheen as Frank Hallet</li><li>Alexis Smith as Mrs. Cora Hallet</li><li>Mort Shuman as Officer Ron Miglioriti</li><li>Scott Jacoby as Mario Podesta</li><li>Dorothy Davis as Town Hall Clerk</li><li>Clesson Goodhue as Bank Manager</li><li>Hubert Noël as Bank Clerk</li><li>Jacques Famery as Bank Clerk</li><li>Mary Morter as Teller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
+   "t": "The Little Girl Who Lives Down the Lane (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
   },
   "movie:22171": {
    "d": "Ms .45 (1981): Crime/Thriller film. Story: After being attacked and raped twice in one day, a… See cast, budget $62.0k, and TMDB rating 6.7/10.",
@@ -1156,6 +1283,69 @@
    "t": "After the Storm (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:384371": {
+   "d": "Roommates Wanted (2016): Comedy film. Story: When recently widowed, it is difficult to get used to… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6F39LP6xVjEX3fAElohyNjsewnY.jpg",
+   "industry": "world",
+   "k": "Roommates Wanted, Roommates Wanted movie, Roommates Wanted cast, Roommates Wanted story, Roommates Wanted box office collection, Roommates Wanted budget, Roommates Wanted review, Roommates Wanted rating, Roommates Wanted release date, Roommates Wanted Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "André Dussollier"
+     },
+     {
+      "@type": "Person",
+      "name": "Bérengère Krief"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnaud Ducret"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Piaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Marié"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 375,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Roommates Wanted (2016): Comedy film. Story: When recently widowed, it is difficult to get used to… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Desagnat"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6F39LP6xVjEX3fAElohyNjsewnY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=384371",
+    "name": "Roommates Wanted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-04-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=384371"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Roommates Wanted (2016)</h1>\n<p class=\"ssr-lead\">When recently widowed, it is difficult to get used to a new life ... This is the case for Hubert Jacquin, who spends most of his time in his huge apartment, depressed, in front of his TV. One day, after a misunderstanding, his life will change. Manuela, a young and bubbly adventurer in search of a dwelling calls his home! At first reluctant, Hubert will quickly get used to the presence of this energy storm, who even manages to convince him to allow two other people to stay. There are many surprises in store for Hubert ...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 April 2016</li><li>Runtime: 97 minutes</li><li>Director: François Desagnat</li><li>Genres: Comedy</li><li>TMDB rating: 6.2/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>André Dussollier as Hubert Jacquin</li><li>Bérengère Krief as Manuela Baudry</li><li>Arnaud Ducret as Paul-Gérard Langlois</li><li>Julia Piaton as Marion Legloux</li><li>Nicolas Marié as Samuel Edelman</li><li>Panayotis Pascot as Julien</li><li>Audrey Looten as Valérie</li><li>Mathieu Madénian as Arnaud</li><li>Nathalie Roussel as Isabelle</li><li>Guillaume Delorme as Seb</li></ul>\n</article>",
+   "t": "Roommates Wanted (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:39371": {
    "d": "L'allenatore nel pallone (1984): Comedy film. Story: Oronzo Canà is called to coach Longobarda, the… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/dKZSzoNufvLVgClNunVqfhgJem7.jpg",
@@ -1218,6 +1408,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>L&#x27;allenatore nel pallone (1984)</h1>\n<p class=\"ssr-lead\">Oronzo Canà is called to coach Longobarda, the football team of a small town of Northern Italy, newly promoted to the First Division. His only task is not to be relegated, but Longobarda&#x27;s owner plots against him, finding the team&#x27;s current ranking far too expensive, and his top Brazilian striker is affected by a deep saudade.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 1984</li><li>Runtime: 98 minutes</li><li>Director: Sergio Martino</li><li>Genres: Comedy</li><li>TMDB rating: 6.5/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lino Banfi as Oronzo Canà</li><li>Camillo Milli as Presidente Borlotti</li><li>Andrea Roncato as Andrea Bergonzoni</li><li>Gigi Sammarchi as Giginho</li><li>Giuliana Calandra as Mara Canà</li><li>Stefania Spugnini as Michelina Canà</li><li>Viviana Larice as Suocera di Canà</li><li>Licinia Lentini as Marilde Borlotti</li><li>Franco Caracciolo as Ceretti</li><li>Stefano Davanzati as Speroni</li></ul>\n</article>",
    "t": "L'allenatore nel pallone (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:413471": {
+   "d": "The Late Bloomer (2016): Comedy/Drama film. Story: A sex therapist goes through puberty after the… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wNhlTHDKBqfUa9SNK4eAaChOfoQ.jpg",
+   "industry": "world",
+   "k": "The Late Bloomer, The Late Bloomer movie, The Late Bloomer cast, The Late Bloomer story, The Late Bloomer box office collection, The Late Bloomer budget, The Late Bloomer review, The Late Bloomer rating, The Late Bloomer release date, The Late Bloomer trailer, The Late Bloomer Comedy, The Late Bloomer Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Snow"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Lynch"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bello"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "The Late Bloomer (2016): Comedy/Drama film. Story: A sex therapist goes through puberty after the… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Pollak"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wNhlTHDKBqfUa9SNK4eAaChOfoQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=413471",
+    "name": "The Late Bloomer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=413471"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Late Bloomer (2016)</h1>\n<p class=\"ssr-lead\">A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2016</li><li>Runtime: 90 minutes</li><li>Director: Kevin Pollak</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 5.5/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Simmons as Dr. Peter Newmans</li><li>Brittany Snow as Michelle</li><li>J.K. Simmons as James Newmans</li><li>Jane Lynch as Caroline</li><li>Maria Bello as Brenda Newmans</li><li>Beck Bennett as Luke</li><li>Kumail Nanjiani as Rich</li><li>Paul Wesley as Charlie</li><li>Charlotte McKinney as Attractive Woman</li><li>Ken Marino as Mr. Hanson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Late Bloomer (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:4271": {
    "d": "Life Is a Long Quiet River (1988): Comedy film. Story: Two babies are switched at birth. When the mistake is… See cast and TMDB rating 6.7/10.",
@@ -1323,6 +1577,206 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Lou (2017)</h1>\n<p class=\"ssr-lead\">A lost-and-found box holds a mysterious and unseen monster within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 June 2017</li><li>Runtime: 6 minutes</li><li>Director: Dave Mullins</li><li>Genres: Family, Fantasy, Animation, Comedy</li><li>TMDB rating: 7.5/10 (441 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Lou (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:489471": {
+   "d": "The Dawn Wall (2017): Documentary/Adventure film. Story: In an unbelievable story of perseverance, free… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+   "industry": "world",
+   "k": "The Dawn Wall, The Dawn Wall movie, The Dawn Wall cast, The Dawn Wall story, The Dawn Wall box office collection, The Dawn Wall budget, The Dawn Wall review, The Dawn Wall rating, The Dawn Wall release date, The Dawn Wall trailer, The Dawn Wall Documentary, The Dawn Wall Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tommy Caldwell"
+     },
+     {
+      "@type": "Person",
+      "name": "John Branch"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Jorgeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Caldwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Caldwell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Dawn Wall (2017): Documentary/Adventure film. Story: In an unbelievable story of perseverance, free… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Josh Lowell"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Mortimer"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Documentary",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=489471",
+    "name": "The Dawn Wall",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=489471"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Dawn Wall (2017)</h1>\n<p class=\"ssr-lead\">In an unbelievable story of perseverance, free climber Tommy Caldwell and climbing partner Kevin Jorgeson attempt to scale the impossible 3000ft Dawn Wall of El Capitan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2017</li><li>Runtime: 101 minutes</li><li>Director: Josh Lowell, Peter Mortimer</li><li>Genres: Documentary, Adventure</li><li>TMDB rating: 8.0/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tommy Caldwell as Self</li><li>John Branch as Self</li><li>Kevin Jorgeson as Self</li><li>Mike Caldwell as Self – Tommy&#x27;s Father</li><li>Terry Caldwell as Self – Tommy&#x27;s Mother</li><li>Kelly Cordes as Self – Tommy&#x27;s Friend</li></ul>\n</article>",
+   "t": "The Dawn Wall (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:573171": {
+   "d": "Little Eggs: A Frozen Rescue (2022): Animation/Adventure film. Story: Toto and his family must travel to the South Pole to… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9PxXSAnbVfvFacsGTJu1aXEWVg7.jpg",
+   "industry": "world",
+   "k": "Little Eggs: A Frozen Rescue, Little Eggs: A Frozen Rescue movie, Little Eggs: A Frozen Rescue cast, Little Eggs: A Frozen Rescue story, Little Eggs: A Frozen Rescue box office collection, Little Eggs: A Frozen Rescue budget, Little Eggs: A Frozen Rescue review, Little Eggs: A Frozen Rescue rating, Little Eggs: A Frozen Rescue release date, Little Eggs: A Frozen Rescue trailer, Little Eggs: A Frozen Rescue Animation, Little Eggs: A Frozen Rescue Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruno Bichir"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Espejel"
+     },
+     {
+      "@type": "Person",
+      "name": "Angélica Vale"
+     },
+     {
+      "@type": "Person",
+      "name": "Maite Perroni"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Riva Palacio Alatriste"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Little Eggs: A Frozen Rescue (2022): Animation/Adventure film. Story: Toto and his family must travel to the South Pole to… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gabriel Riva Palacio Alatriste"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodolfo Riva Palacio Alatriste"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9PxXSAnbVfvFacsGTJu1aXEWVg7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=573171",
+    "name": "Little Eggs: A Frozen Rescue",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-12-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=573171"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Eggs: A Frozen Rescue (2022)</h1>\n<p class=\"ssr-lead\">Toto and his family must travel to the South Pole to fulfill a promise: return a polar bear and some Spanish penguins to their home. To achieve this, they will have to overcome obstacles that teach them how important teamwork is.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2022</li><li>Runtime: 91 minutes</li><li>Director: Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste</li><li>Genres: Animation, Adventure, Comedy, Family</li><li>TMDB rating: 7.7/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruno Bichir as Toto (voice)</li><li>Carlos Espejel as Willy (voice)</li><li>Angélica Vale as Bibi (voice)</li><li>Maite Perroni as Di (Voice)</li><li>Gabriel Riva Palacio Alatriste as Confi / Venancio / Dodo (voice)</li><li>Rodolfo Riva Palacio Alatriste as Cuache / Antonio / Don Fidencio (voice)</li><li>Dione Riva Palacio Santacruz as Uly (voice)</li><li>Oliver Díaz Barba as Max (voice)</li><li>Lulú Morán as Mamá Gallina (voice)</li><li>Marcelo Barcelo as Polito (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ViX Premium Amazon Channel</li></ul>\n</article>",
+   "t": "Little Eggs: A Frozen Rescue (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:6071": {
+   "d": "Kiss of Death (1995): Crime/Thriller film. Story: Jimmy Kilmartin's an ex-con who's trying to go… See cast, budget $40M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/p9PdDRIiQfjGtg21xHOPVD7jZyy.jpg",
+   "industry": "world",
+   "k": "Kiss of Death, Kiss of Death movie, Kiss of Death cast, Kiss of Death story, Kiss of Death box office collection, Kiss of Death budget, Kiss of Death review, Kiss of Death rating, Kiss of Death release date, Kiss of Death Crime, Kiss of Death Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Caruso"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Erbe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Kiss of Death (1995): Crime/Thriller film. Story: Jimmy Kilmartin's an ex-con who's trying to go… See cast, budget $40M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Barbet Schroeder"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/p9PdDRIiQfjGtg21xHOPVD7jZyy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6071",
+    "name": "Kiss of Death",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-04-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6071"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kiss of Death (1995)</h1>\n<p class=\"ssr-lead\">Jimmy Kilmartin&#x27;s an ex-con who&#x27;s trying to go straight. But he can&#x27;t say no to a quick driving job because his so-called friend&#x27;s life is threatened. The job is for Little Junior Brown, a violent and powerful villain. When things go wrong, Jimmy is left to do the time, and his whole life is turned upside-down, but if that wasn&#x27;t enough, the cops won&#x27;t leave Jimmy alone when he gets out... They want Little Junior Brown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 April 1995</li><li>Runtime: 101 minutes</li><li>Director: Barbet Schroeder</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $40M</li><li>TMDB rating: 5.7/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Caruso as Jimmy Kilmartin</li><li>Nicolas Cage as Little Junior Brown</li><li>Samuel L. Jackson as Calvin Hart</li><li>Helen Hunt as Bev Kilmartin</li><li>Kathryn Erbe as Rosie Kilmartin</li><li>Stanley Tucci as Frank Zioli</li><li>Michael Rapaport as Ronnie Gannon</li><li>Ving Rhames as Omar</li><li>Philip Baker Hall as Big Junior Brown</li><li>Anthony Heald as Jack Gold</li></ul>\n</article>",
+   "t": "Kiss of Death (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:675871": {
    "d": "Super Troopers 3 (2026): Comedy/Crime film. Story: When Farva’s wildly over-the-top Indian engagement to… See cast, budget $20M, and TMDB rating 6.3/10.",
@@ -1578,6 +2032,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Goliath (2022)</h1>\n<p class=\"ssr-lead\">Patrick is a tenacious lawyer specializing in environmental law. France is a schoolteacher who becomes an activist after her husband develops cancer from exposure to a pesticide. Mathias is an ambitious lobbyist working for an international chemical corporation. The paths of these characters collide as the lives of thousands are affected by a tragic act that sparks a powerful movement while the corporation fights to prevent the truth from being revealed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 2022</li><li>Runtime: 121 minutes</li><li>Director: Frédéric Tellier</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.8/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gilles Lellouche as Patrick Fameau</li><li>Pierre Niney as Mathias Rozen</li><li>Emmanuelle Bercot as France</li><li>Laurent Stocker as Paul</li><li>Yannick Renier as Zef</li><li>Chloé Stefani as Lucie Tauran</li><li>Marie Gillain as Audrey</li><li>Jacques Perrin as Richard Vannec</li><li>Heidi-Éva Clavier as Nadia</li><li>Malik Amraoui as Abel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Goliath (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9071": {
+   "d": "Living in Oblivion (1995): Comedy film. Story: Low-budget independent filmmaker Nick Reve tries to… See cast, budget $500.0k, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+   "industry": "world",
+   "k": "Living in Oblivion, Living in Oblivion movie, Living in Oblivion cast, Living in Oblivion story, Living in Oblivion box office collection, Living in Oblivion budget, Living in Oblivion review, Living in Oblivion rating, Living in Oblivion release date, Living in Oblivion Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Keener"
+     },
+     {
+      "@type": "Person",
+      "name": "Dermot Mulroney"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle von Zerneck"
+     },
+     {
+      "@type": "Person",
+      "name": "James Le Gros"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Living in Oblivion (1995): Comedy film. Story: Low-budget independent filmmaker Nick Reve tries to… See cast, budget $500.0k, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom DiCillo"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9071",
+    "name": "Living in Oblivion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9071"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Living in Oblivion (1995)</h1>\n<p class=\"ssr-lead\">Low-budget independent filmmaker Nick Reve tries to keep everything together as his production is plagued with an insecure actress, a megalomaniac star, a pretentious beret-wearing director of photography, and lousy catering.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 1995</li><li>Runtime: 90 minutes</li><li>Director: Tom DiCillo</li><li>Genres: Comedy</li><li>Budget: $500.0k</li><li>TMDB rating: 7.2/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Buscemi as Nick Reve</li><li>Catherine Keener as Nicole Springer</li><li>Dermot Mulroney as Wolf</li><li>Danielle von Zerneck as Wanda</li><li>James Le Gros as Chad Palomino</li><li>Peter Dinklage as Tito</li><li>Rica Martens as Cora</li><li>Kevin Corrigan as Assistant Camera</li><li>Robert Wightman as Gaffer</li><li>Michael Griffiths as Sound Mixer / &#x27;Speedo&#x27;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor, Fandor Amazon Channel, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Living in Oblivion (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "tv:105971": {
    "d": "Star Wars: The Bad Batch (2021) is an Animation and Action & Adventure TV series. Explore its story: The 'Bad Batch' of elite and experimental clones make….",

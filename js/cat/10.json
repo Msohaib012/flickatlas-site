@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 50,
+ "count": 58,
  "titles": {
   "movie:1020910": {
    "backdrop_path": "/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
@@ -460,6 +460,170 @@
    "vote_average": 6.271,
    "vote_count": 386
   },
+  "movie:1079310": {
+   "backdrop_path": "/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Totone",
+     "n": "Clément Faveau"
+    },
+    {
+     "c": "Marie-Lise",
+     "n": "Maïwène Barthélémy"
+    },
+    {
+     "c": "Claire",
+     "n": "Luna Garret"
+    },
+    {
+     "c": "Jean-Yves Bretin",
+     "n": "Mathis Bernard"
+    },
+    {
+     "c": "Francis",
+     "n": "Dimitri Baudry"
+    },
+    {
+     "c": "Cyril",
+     "n": "Armand Sancey Richard"
+    },
+    {
+     "c": "Pierrick",
+     "n": "Lucas Marillier"
+    },
+    {
+     "c": "Aurore",
+     "n": "Lorelei Vasseur"
+    },
+    {
+     "c": "Guy",
+     "n": "Damien Bilon"
+    },
+    {
+     "c": "Serge",
+     "n": "Jean-Marie Ganneval"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Louise Courvoisier"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1079310,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the western part of the French Alps: After the drunk driving death of his father, 18-year-old Totone must look after his younger sister. He pursues a €30k Comté cheese award he has no hope of winning. Good thing Marie-Lise takes a liking for him!",
+   "popularity": 1.256,
+   "poster_path": "/A3C3TbcB5hIm4aPPU3eZJrMxBYc.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-12-11",
+   "revenue": 6587495,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Cheese gets better with age… unless you’re the youngest ever Comté champion!",
+   "title": "Holy Cow",
+   "trailer": {
+    "key": "Q55naIp7PCI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.895,
+   "vote_count": 349
+  },
   "movie:1098110": {
    "backdrop_path": "/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
    "budget": 0,
@@ -567,6 +731,113 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 445
+  },
+  "movie:11310": {
+   "backdrop_path": "/kuq99XpsY2wyI0yMMNjK5pTLafY.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Mitch Robbins",
+     "n": "Billy Crystal"
+    },
+    {
+     "c": "Phil Berquist",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Glen Robbins",
+     "n": "Jon Lovitz"
+    },
+    {
+     "c": "Duke Page",
+     "n": "Jack Palance"
+    },
+    {
+     "c": "Barbara Robbins",
+     "n": "Patricia Wettig"
+    },
+    {
+     "c": "Bud",
+     "n": "Pruitt Taylor Vince"
+    },
+    {
+     "c": "Matt",
+     "n": "Bill McKinney"
+    },
+    {
+     "c": "Holly Robbins",
+     "n": "Lindsay Crystal"
+    },
+    {
+     "c": "Lois",
+     "n": "Beth Grant"
+    },
+    {
+     "c": "Clay Stone",
+     "n": "Noble Willingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Paul Weiland"
+   ],
+   "genres": [
+    "Comedy",
+    "Western"
+   ],
+   "id": 11310,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mitch Robbins' 40th birthday begins quite well until he returns home and finds his brother Glen, the black sheep of the family, in his sofa. Nevertheless he is about to have a wonderful birthday-night with his wife when he discovers a treasure map of Curly by chance. Together with Phil and unfortunately Glen he tries to find the hidden gold of Curly's father in the desert of Arizona.",
+   "popularity": 2.2171,
+   "poster_path": "/gh0lsyJARglhpbKmnY8i8M7V5bI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-06-10",
+   "revenue": 72000000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're back in the saddle!",
+   "title": "City Slickers II: The Legend of Curly's Gold",
+   "trailer": {
+    "key": "qgg9I4zOTnk",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 365
   },
   "movie:11510": {
    "backdrop_path": "/uIrRLzxpgHnx5Lfdt2hHmOBktrG.jpg",
@@ -2403,6 +2674,177 @@
    "vote_average": 6.4,
    "vote_count": 383
   },
+  "movie:23410": {
+   "backdrop_path": "/5df3793jyBeUQupx0uq1cA6lGF8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. David Kruipen",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Evelyn Kruipen",
+     "n": "Martha MacIsaac"
+    },
+    {
+     "c": "Atom Galen",
+     "n": "Aaron Ashmore"
+    },
+    {
+     "c": "Federico Fulce",
+     "n": "Kyle Schmid"
+    },
+    {
+     "c": "Bart",
+     "n": "Viv Leacock"
+    },
+    {
+     "c": "Ling Chen",
+     "n": "Steph Song"
+    },
+    {
+     "c": "Dr. Jane Sanders",
+     "n": "Anne Marie DeLuise"
+    },
+    {
+     "c": "Edward",
+     "n": "John Callander"
+    },
+    {
+     "c": "Nuti",
+     "n": "Lamech Kadloo"
+    },
+    {
+     "c": "Professor Anderson",
+     "n": "Evan Adams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Mark A. Lewis"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 23410,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At a remote Arctic research station, four ecology students discover the real horror of global warming is not the melting ice, but what's frozen within it. A prehistoric parasite is released from the carcass of a Woolly Mammoth upon the unsuspecting students who are forced to quarantine and make necessary sacrifices, or risk infecting the rest of the world.",
+   "popularity": 2.2998,
+   "poster_path": "/6oxJ75L6rB88TeSspcnPA7JqjWw.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-08-30",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Extinction will find you.",
+   "title": "The Thaw",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.661,
+   "vote_count": 376
+  },
   "movie:244610": {
    "backdrop_path": "/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
    "budget": 500000,
@@ -2844,6 +3286,171 @@
    "vote_average": 5.766,
    "vote_count": 480
   },
+  "movie:26610": {
+   "backdrop_path": "/r2t5TjazNr6Kx9eQbcy50izuPw0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jonas Engström",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Erik Vik",
+     "n": "Sverre Anker Ousdal"
+    },
+    {
+     "c": "Jon Holt",
+     "n": "Bjørn Floberg"
+    },
+    {
+     "c": "Tanja Lorentzen",
+     "n": "Maria Mathiesen"
+    },
+    {
+     "c": "Hilde Hagen",
+     "n": "Gisken Armand"
+    },
+    {
+     "c": "Arne Zakariassen",
+     "n": "Kristian Figenschow"
+    },
+    {
+     "c": "Tom Engen",
+     "n": "Thor Michael Aamodt"
+    },
+    {
+     "c": "Chief of Police",
+     "n": "Frode Rasmussen"
+    },
+    {
+     "c": "Eilert",
+     "n": "Bjørn Moan"
+    },
+    {
+     "c": "Ane",
+     "n": "Maria Bonnevie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Erik Skjoldbjærg"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 26610,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "Detectives Jonas and Erik are called to the midnight sun country of northern Norway to investigate a recent homicide, but their plan to arrest the killer goes awry, and Jonas mistakenly shoots Erik. The suspect escapes, and a frightened Jonas pins Erik's death on the fugitive. Jonas continues to pursue the killer as he seeks to protect himself; however, his mounting guilt and the omnipresent sun plague him with an insomnia that affects his sanity.",
+   "popularity": 2.0389,
+   "poster_path": "/bMq1l0RUf7xr45yMRUKzkU5cDOQ.jpg",
+   "production_countries": [
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-03-14",
+   "revenue": 227569,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "No peace for the wicked",
+   "title": "Insomnia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.003,
+   "vote_count": 346
+  },
   "movie:354110": {
    "backdrop_path": "/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
    "budget": 11000000,
@@ -2949,6 +3556,105 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 395
+  },
+  "movie:37910": {
+   "backdrop_path": "/gxEsfgJxgqYL3hlg9yKNU8Qsycq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noboru Terao (voice)",
+     "n": "Makoto Shinkai"
+    },
+    {
+     "c": "Mikako Nagamine (voice)",
+     "n": "Mika Shinohara"
+    },
+    {
+     "c": "Operator of the Lysithea (voice)",
+     "n": "Donna Burke"
+    },
+    {
+     "c": "",
+     "n": "Chihiro Suzuki"
+    },
+    {
+     "c": "",
+     "n": "Sumi Mutoh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Makoto Shinkai"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Romance"
+   ],
+   "id": 37910,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "It is 2046 when a mysterious alien force begins their annihilation of the human race. Leaving behind the one person she loves, Mikako joins the interstellar battle as a pilot. And so - while Mikako risks her life to save mankind - Noboru waits. The two lovers, worlds apart, desperately strive to remain connected as the gap between them widens at a frightening pace.",
+   "popularity": 1.7756,
+   "poster_path": "/mvRqW2z4iBws3CDkCNmojksyr4V.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-02-02",
+   "revenue": 0,
+   "runtime": 25,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A love story that transcends time and space...",
+   "title": "Voices of a Distant Star",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.523,
+   "vote_count": 349
   },
   "movie:391710": {
    "backdrop_path": "/tWp1P6tGWSMJfmOZxs65SNV0khX.jpg",
@@ -3056,6 +3762,191 @@
    "type": "movie",
    "vote_average": 6.427,
    "vote_count": 391
+  },
+  "movie:396810": {
+   "backdrop_path": "/sEqSMNIkxizIHW8kWKoikVYWeXF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harriet Lauler",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Anne Sherman",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Robin Sands",
+     "n": "Thomas Sadoski"
+    },
+    {
+     "c": "Edward",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Bree Wilson",
+     "n": "Adina Porter"
+    },
+    {
+     "c": "Zoe",
+     "n": "Sarah Baker"
+    },
+    {
+     "c": "Ronald Odom",
+     "n": "Tom Everett Scott"
+    },
+    {
+     "c": "Louie the gardener",
+     "n": "Gedde Watanabe"
+    },
+    {
+     "c": "Joe Mueller",
+     "n": "Joel Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mark Pellington"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 396810,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A retired businesswoman – who tries to control everything around her – decides to write her own obituary. A young journalist takes up the task of finding out the truth, and the result is a life-altering friendship.",
+   "popularity": 2.1753,
+   "poster_path": "/zvwBd0nsW5OqTs4ndEJLQY62leF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-03",
+   "revenue": 1783421,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An unexpected friendship that began at the end.",
+   "title": "The Last Word",
+   "trailer": {
+    "key": "MaRroK_qVeg",
+    "name": "The Last Word | Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.621,
+   "vote_count": 381
   },
   "movie:41110": {
    "backdrop_path": "/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
@@ -3234,6 +4125,94 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 427
+  },
+  "movie:41610": {
+   "backdrop_path": "/7MIgvo5HPBxJLO6dWliaywhPDVy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giandomenico Fracchia / La Belva Umana",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Commissario Auricchio",
+     "n": "Lino Banfi"
+    },
+    {
+     "c": "Signorina Corvino",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Madre della Belva Umana",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Pera",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Neuro",
+     "n": "Francesco Salvi"
+    },
+    {
+     "c": "De Simone",
+     "n": "Sandro Ghiani"
+    },
+    {
+     "c": "Ufficiale dei Carabinieri",
+     "n": "Antonio Allocca"
+    },
+    {
+     "c": "Palmira",
+     "n": "Jole Silvani"
+    },
+    {
+     "c": "Cicciona che fa footing",
+     "n": "Fiammetta Baralla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 41610,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The world's greatest criminal and the world greatest loser share the same face... now they'll share the same life!",
+   "popularity": 1.1208,
+   "poster_path": "/uNgg1a3K4NlqKFSi33TbfMbXU21.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1981-12-22",
+   "revenue": 3779105,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fracchia The Human Beast",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.689,
+   "vote_count": 351
   },
   "movie:429210": {
    "backdrop_path": "/96el06riGUnHRJGXxhP9StZzhFt.jpg",
@@ -4152,6 +5131,121 @@
    "type": "movie",
    "vote_average": 6.117,
    "vote_count": 393
+  },
+  "movie:91010": {
+   "backdrop_path": "/wYe0w2odluof3jb9tmn6ct3PS6o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sarah Palin",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Steve Schmidt",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "John McCain",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Rick Davis",
+     "n": "Peter MacNicol"
+    },
+    {
+     "c": "Mark Salter",
+     "n": "Jamey Sheridan"
+    },
+    {
+     "c": "Nicolle Wallace",
+     "n": "Sarah Paulson"
+    },
+    {
+     "c": "Mark Wallace",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Todd Palin",
+     "n": "David Barry Gray"
+    },
+    {
+     "c": "Chris Edwards",
+     "n": "Larry Sullivan"
+    },
+    {
+     "c": "Bexie Nobles",
+     "n": "Mikal Evans"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jay Roach"
+   ],
+   "genres": [
+    "TV Movie",
+    "Drama",
+    "Comedy",
+    "History"
+   ],
+   "id": 91010,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the Republican run of the 2008 Presidential election, candidate John McCain picks a relative unknown, Alaskan governor Sarah Palin, to be his running mate.  As the campaign kicks into high gear, her lack of experience, in both political and media savvy, becomes a drain upon McCain and his strategists.",
+   "popularity": 1.3428,
+   "poster_path": "/vGJiVW06PmTiyEYvcWMoEOnQFka.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-02-28",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Politics would never be the same.",
+   "title": "Game Change",
+   "trailer": {
+    "key": "QOa98P_Mv68",
+    "name": "Game Change: Trailer (HBO Films)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.919,
+   "vote_count": 354
   },
   "tv:114410": {
    "backdrop_path": "/fOUKSCbZzaoQKsO39enivHnWDid.jpg",

@@ -1,7 +1,302 @@
 {
  "bucket": "87",
- "count": 31,
+ "count": 37,
  "titles": {
+  "movie:1030987": {
+   "backdrop_path": "/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Driver",
+     "n": "Joel Kinnaman"
+    },
+    {
+     "c": "The Passenger",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Waitress",
+     "n": "Alexis Zollicoffer"
+    },
+    {
+     "c": "Cop",
+     "n": "Cameron Lee Price"
+    },
+    {
+     "c": "Boy",
+     "n": "Oliver McCallum"
+    },
+    {
+     "c": "Trucker",
+     "n": "Rich Hopkins"
+    },
+    {
+     "c": "Colleague",
+     "n": "Kaiwi Lyman"
+    },
+    {
+     "c": "Owner",
+     "n": "Burns Burns"
+    },
+    {
+     "c": "Grandmother",
+     "n": "Nancy Good"
+    },
+    {
+     "c": "Paramedic",
+     "n": "Danny Tesla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Yuval Adler"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1030987,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where it becomes clear that not everything is as it seems.",
+   "popularity": 2.1114,
+   "poster_path": "/afGdVMa80LMs6ibLP22CwM5uI4e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-07-20",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Revenge takes the wheel.",
+   "title": "Sympathy for the Devil",
+   "trailer": {
+    "key": "8IOwEPjQq9M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.912,
+   "vote_count": 358
+  },
+  "movie:1076487": {
+   "backdrop_path": "/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Master Chief Richard Mirko",
+     "n": "Johnny Strong"
+    },
+    {
+     "c": "Zoe Walters",
+     "n": "Athena Durner"
+    },
+    {
+     "c": "Radam",
+     "n": "Raj Kala"
+    },
+    {
+     "c": "Petty Officer James 'G' Wiliker",
+     "n": "James Sherrill"
+    },
+    {
+     "c": "Tarad",
+     "n": "Siya Rostami"
+    },
+    {
+     "c": "Jarrah",
+     "n": "Danny Augustus"
+    },
+    {
+     "c": "Chief Petty Officer Mike Miller",
+     "n": "Michael Sauers"
+    },
+    {
+     "c": "Lewa 'The Hunter'",
+     "n": "Xander Gòmez"
+    },
+    {
+     "c": "Abu Bakar",
+     "n": "David Ibrahim"
+    },
+    {
+     "c": "Commander Johns",
+     "n": "Steve Mokate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Johnny Strong",
+    "William Kaufman"
+   ],
+   "genres": [
+    "Action",
+    "War",
+    "Drama"
+   ],
+   "id": 1076487,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gunned down Navy SEAL Master Chief must guide a child to safety through a gauntlet of hostile Taliban insurgents and survive the brutal Afghanistan wilderness.",
+   "popularity": 2.9266,
+   "poster_path": "/1WYSPpjZ0zKr65yQes03QTPCrUh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-06-30",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Worth living for. Worth dying for.",
+   "title": "Warhorse One",
+   "trailer": {
+    "key": "63rL3f2zl8Q",
+    "name": "WARHORSE ONE (2023) Official Trailer | Johnny Strong | Athena Durner | Raj Kala",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.232,
+   "vote_count": 357
+  },
   "movie:1084187": {
    "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
    "budget": 0,
@@ -783,6 +1078,239 @@
    "type": "movie",
    "vote_average": 5.969,
    "vote_count": 753
+  },
+  "movie:15587": {
+   "backdrop_path": "/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Dacier",
+     "n": "Kad Merad"
+    },
+    {
+     "c": "Benoît",
+     "n": "Lionel Abelanski"
+    },
+    {
+     "c": "Fabienne",
+     "n": "Frédérique Bel"
+    },
+    {
+     "c": "Bertrand",
+     "n": "Guy Lecluyse"
+    },
+    {
+     "c": "Rémi",
+     "n": "David Saracino"
+    },
+    {
+     "c": "Monsieur Charles",
+     "n": "Nicolas Marié"
+    },
+    {
+     "c": "Sagha",
+     "n": "Yannick Noah"
+    },
+    {
+     "c": "Youssouf Hammal",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Magalie",
+     "n": "Valérie Benguigui"
+    },
+    {
+     "c": "Soldat douane",
+     "n": "Didier Moestus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Olivier Baroux"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 15587,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Richard Dacier owns a tour agency specialized on organizing safaris for European tourists eager to confront the African wild life. Actually, he took the job after his father and never went into the savanna by himself. As he owes big money to some mobster, he is compelled to convey a fake tourist, with a suspicious suitcase, toward Mozambic. To avoid suspicion from the authorities, he is supposed to tour a group of tourists as usual. The only problem - he is completely unexperienced as a guide!",
+   "popularity": 0.6091,
+   "poster_path": "/k3YyJ8SCHjYiVtL8dXn0sQzcEzU.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-04-01",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Safari",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 349
+  },
+  "movie:16187": {
+   "backdrop_path": "/2r6tLi4p21dqVmOP5Lwge4hcDAU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Buzz Lightyear (voice)",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Mira Nova (voice)",
+     "n": "Nicole Sullivan"
+    },
+    {
+     "c": "Booster Muchapper (voice)",
+     "n": "Stephen Furst"
+    },
+    {
+     "c": "XR (voice)",
+     "n": "Larry Miller"
+    },
+    {
+     "c": "Commander Nebula (voice)",
+     "n": "Adam Carolla"
+    },
+    {
+     "c": "Little Green Men (voice)",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Evil Emperor Zurg (voice)",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Warp Darkmatter / Agent Z (voice)",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Space Ranger (voice)",
+     "n": "Kevin Michael Richardson"
+    },
+    {
+     "c": "Brain Pod #29 / Rhizomian Man (voice)",
+     "n": "Charles Kimbrough"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Tad Stones"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction",
+    "TV Movie"
+   ],
+   "id": 16187,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Buzz Lightyear must battle Emperor Zurg with the help of three hopefuls who insist on being his partners.",
+   "popularity": 3.0999,
+   "poster_path": "/sbZ2ETj55ZpumplROESuWCLV3q7.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2000-08-08",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never fear, Buzz is here...",
+   "title": "Buzz Lightyear of Star Command: The Adventure Begins",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.393,
+   "vote_count": 345
   },
   "movie:1659087": {
    "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
@@ -2151,6 +2679,113 @@
    "vote_average": 6.322,
    "vote_count": 385
   },
+  "movie:31587": {
+   "backdrop_path": "/jFUhMdZuEISfCGCm9lrI441Cw5j.jpg",
+   "budget": 875000,
+   "cast": [
+    {
+     "c": "Max Millan",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Francis Lionel 'Lion' Delbuchi",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Coley",
+     "n": "Dorothy Tristan"
+    },
+    {
+     "c": "Frenchy",
+     "n": "Ann Wedgeworth"
+    },
+    {
+     "c": "Jack Riley",
+     "n": "Richard Lynch"
+    },
+    {
+     "c": "Darlene",
+     "n": "Eileen Brennan"
+    },
+    {
+     "c": "Skipper",
+     "n": "Al Cingolani"
+    },
+    {
+     "c": "Woman in camper",
+     "n": "Rutanya Alda"
+    },
+    {
+     "c": "Annie",
+     "n": "Penelope Allen"
+    },
+    {
+     "c": "Mickey",
+     "n": "Richard Hackman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jerry Schatzberg"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 31587,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two drifters bum around, visit earthy women and discuss opening a car wash in Pittsburgh.",
+   "popularity": 1.8364,
+   "poster_path": "/jK0e8jLl0pp59yX6AYMyyJPnMVJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-04-11",
+   "revenue": 4000000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The road leads itself to somewhere.",
+   "title": "Scarecrow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.036,
+   "vote_count": 370
+  },
   "movie:339987": {
    "backdrop_path": "/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
    "budget": 0,
@@ -2656,6 +3291,97 @@
    "type": "movie",
    "vote_average": 7.597,
    "vote_count": 390
+  },
+  "movie:59387": {
+   "backdrop_path": "/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Blossom (voice)",
+     "n": "Cathy Cavadini"
+    },
+    {
+     "c": "Bubbles (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Buttercup (voice)",
+     "n": "E. G. Daily"
+    },
+    {
+     "c": "Mojo Jojo (voice)",
+     "n": "Roger L. Jackson"
+    },
+    {
+     "c": "Professor Utonium (voice)",
+     "n": "Tom Kane"
+    },
+    {
+     "c": "Mayor / Narrator / Ka-Ching Ka-Ching (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Ms. Keane (voice)",
+     "n": "Jennifer Hale"
+    },
+    {
+     "c": "Miss Bellum (voice)",
+     "n": "Jennifer Martin"
+    },
+    {
+     "c": "Ace / Big Billy / Grubber (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Linda / Woman at Zoo (voice)",
+     "n": "Grey DeLisle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Craig McCracken"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Family"
+   ],
+   "id": 59387,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After destroying the city of Townsville in a game of tag, a trio of superpowered little girls must redeem themselves by stopping a vengeful monkey's plot for world domination.",
+   "popularity": 3.277,
+   "poster_path": "/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg",
+   "production_countries": [
+    "US",
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2002-07-03",
+   "revenue": 16426471,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Saving the world before bedtime!",
+   "title": "The Powerpuff Girls Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 369
   },
   "movie:747687": {
    "backdrop_path": "/kYJNrQ5say16fewLCdOVGjNpsX9.jpg",

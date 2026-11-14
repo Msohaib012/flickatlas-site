@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 38,
+ "count": 48,
  "titles": {
   "movie:10480": {
    "d": "Nurse Betty (2000): Comedy/Crime film. Story: What happens when a person decides that life is… See cast, budget $24M, and TMDB rating 6.1/10.",
@@ -261,6 +261,134 @@
    "t": "Coyote vs. Acme (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:12780": {
+   "d": "Iron Monkey (1993): Action/Crime film. Story: In this Hong Kong variation of Robin Hood, corrupt… See cast, budget $11M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/YmNqLZwBs3KB81Wpk30fh8faxe.jpg",
+   "industry": "world",
+   "k": "Iron Monkey, Iron Monkey movie, Iron Monkey cast, Iron Monkey story, Iron Monkey box office collection, Iron Monkey budget, Iron Monkey review, Iron Monkey rating, Iron Monkey release date, Iron Monkey trailer, Iron Monkey Action, Iron Monkey Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yu Rongguang"
+     },
+     {
+      "@type": "Person",
+      "name": "Donnie Yen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Wang Ching-ying"
+     },
+     {
+      "@type": "Person",
+      "name": "Angie Tsang Sze-Man"
+     },
+     {
+      "@type": "Person",
+      "name": "Yen Shi-Kwan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Iron Monkey (1993): Action/Crime film. Story: In this Hong Kong variation of Robin Hood, corrupt… See cast, budget $11M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yuen Woo-ping"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/YmNqLZwBs3KB81Wpk30fh8faxe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12780",
+    "name": "Iron Monkey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12780"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Monkey (1993)</h1>\n<p class=\"ssr-lead\">In this Hong Kong variation of Robin Hood, corrupt officials of a Chinese village are robbed by a masked bandit known as &quot;Iron Monkey&quot;, named after a benevolent deity. When all else fails, the Governor forces a traveling physician into finding the bandit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 1993</li><li>Runtime: 90 minutes</li><li>Director: Yuen Woo-ping</li><li>Genres: Action, Crime, Drama</li><li>Budget: $11M</li><li>TMDB rating: 7.4/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yu Rongguang as Dr. Yang / Iron Monkey</li><li>Donnie Yen as Wong Kei-ying</li><li>Jean Wang Ching-ying as Miss Orchid / Miss Ho</li><li>Angie Tsang Sze-Man as Wong Fei-Hung</li><li>Yen Shi-Kwan as Wonder Palm Monk Hin Hung</li><li>James Wong Jim as Governor Cheng Pak Fong</li><li>Sunny Yuen Shun-Yi as Master Fox</li><li>Hsiao Ho as Monk Hin Hung&#x27;s Disciple</li><li>Lee Fai as Monk Hin Hung&#x27;s Disciple</li><li>Chun Kwai-Bo as One of the Bad Monks</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
+   "t": "Iron Monkey (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:13580": {
+   "d": "The Spy Who Came In from the Cold (1965): Drama/Thriller film. Story: British agent Alec Leamas refuses to come in from the… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/llwusQFdHmHCWS7jySP2r6bbAIm.jpg",
+   "industry": "world",
+   "k": "The Spy Who Came In from the Cold, The Spy Who Came In from the Cold movie, The Spy Who Came In from the Cold cast, The Spy Who Came In from the Cold story, The Spy Who Came In from the Cold box office collection, The Spy Who Came In from the Cold budget, The Spy Who Came In from the Cold review, The Spy Who Came In from the Cold rating, The Spy Who Came In from the Cold release date, The Spy Who Came In from the Cold trailer, The Spy Who Came In from the Cold Drama, The Spy Who Came In from the Cold Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard Burton"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Bloom"
+     },
+     {
+      "@type": "Person",
+      "name": "Oskar Werner"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Wanamaker"
+     },
+     {
+      "@type": "Person",
+      "name": "George Voskovec"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 359,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Spy Who Came In from the Cold (1965): Drama/Thriller film. Story: British agent Alec Leamas refuses to come in from the… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Ritt"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/llwusQFdHmHCWS7jySP2r6bbAIm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13580",
+    "name": "The Spy Who Came In from the Cold",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1965-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13580"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Spy Who Came In from the Cold (1965)</h1>\n<p class=\"ssr-lead\">British agent Alec Leamas refuses to come in from the Cold War during the 1960s, choosing to face another mission, which may prove to be his final one.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 1965</li><li>Runtime: 112 minutes</li><li>Director: Martin Ritt</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.1/10 (359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Burton as Alec Leamas</li><li>Claire Bloom as Nancy &#x27;Nan&#x27; Perry</li><li>Oskar Werner as Fiedler</li><li>Sam Wanamaker as Peters</li><li>George Voskovec as Comrade Karden - Defense Attorney</li><li>Rupert Davies as George Smiley</li><li>Cyril Cusack as Control</li><li>Peter van Eyck as Hans-Dieter Mundt</li><li>Michael Hordern as Ashe</li><li>Robert Hardy as Dick Carlton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Spy Who Came In from the Cold (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1965"
+  },
   "movie:13980": {
    "d": "Sword of the Stranger (2007): Action/Animation film. Story: Pursued by formidable Chinese assassins, young Kotaro… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/mfu8cTvpJwrnu3sm2vDqh7o4yXX.jpg",
@@ -514,6 +642,70 @@
    "t": "My Worst Enemy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1680": {
+   "d": "King Kong vs. Godzilla (1962): Science Fiction/Fantasy film. Story: The advertising director of Pacific Pharmaceuticals… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9H8wGFwKKt2ADRhg2odywTg1NCZ.jpg",
+   "industry": "world",
+   "k": "King Kong vs. Godzilla, King Kong vs. Godzilla movie, King Kong vs. Godzilla cast, King Kong vs. Godzilla story, King Kong vs. Godzilla box office collection, King Kong vs. Godzilla budget, King Kong vs. Godzilla review, King Kong vs. Godzilla rating, King Kong vs. Godzilla release date, King Kong vs. Godzilla Science Fiction, King Kong vs. Godzilla Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tadao Takashima"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenji Sahara"
+     },
+     {
+      "@type": "Person",
+      "name": "Yū Fujiki"
+     },
+     {
+      "@type": "Person",
+      "name": "Ichirō Arishima"
+     },
+     {
+      "@type": "Person",
+      "name": "Jun Tazaki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "King Kong vs. Godzilla (1962): Science Fiction/Fantasy film. Story: The advertising director of Pacific Pharmaceuticals… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ishirō Honda"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Science Fiction",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9H8wGFwKKt2ADRhg2odywTg1NCZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1680",
+    "name": "King Kong vs. Godzilla",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1962-08-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1680"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>King Kong vs. Godzilla (1962)</h1>\n<p class=\"ssr-lead\">The advertising director of Pacific Pharmaceuticals, frustrated with the low ratings of their sponsored TV program, seeks a more sensationalist approach. He orders his staff to Faro Island to capture King Kong for exploitation. As Godzilla re-emerges, a media frenzy generates with Pacific looking to capitalize off of the ultimate battle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 August 1962</li><li>Runtime: 97 minutes</li><li>Director: Ishirō Honda</li><li>Genres: Science Fiction, Fantasy, Action</li><li>TMDB rating: 6.8/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tadao Takashima as Osamu Sakurai</li><li>Kenji Sahara as Kazuo Fujita</li><li>Yū Fujiki as Kinzaburo Furue</li><li>Ichirō Arishima as Director Tako</li><li>Jun Tazaki as General of the JSDF Eastern Army</li><li>Akihiko Hirata as Dr. Shosuke Shigezawa</li><li>Mie Hama as Fumiko Sakurai</li><li>Akiko Wakabayashi as Tamiye</li><li>Akemi Negishi as Chikiro&#x27;s Mother</li><li>Yoshio Kosugi as Chief of Faro Island</li></ul>\n</article>",
+   "t": "King Kong vs. Godzilla (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1962"
+  },
   "movie:1700680": {
    "d": "Crazy Magical Mexico (2026): Comedy film. Story: A man finds the best motivation to secure and save… See cast and TMDB rating 7.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
@@ -576,6 +768,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Crazy Magical Mexico (2026)</h1>\n<p class=\"ssr-lead\">A man finds the best motivation to secure and save his town: making an independent Mexican film.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2026</li><li>Runtime: 105 minutes</li><li>Director: Carlos Santos</li><li>Genres: Comedy</li><li>TMDB rating: 7.7/10 (81 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Silverio Palacios as Benito</li><li>Daniel Sosa as Juan</li><li>Fernando Cuautle as Pancho</li><li>Sofía Carrera as Melinda</li><li>Rocío Guzmán as Adri</li><li>Norma Reyna as Pacha Nana</li><li>Flor Benítez as Marisela</li><li>Shaní Lozano as Toña</li><li>Alberto Gorgonio as Fabio</li><li>John Michael DeWall as Dickens</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li></ul>\n</article>",
    "t": "Crazy Magical Mexico (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:17680": {
+   "d": "The Girlfriend Experience (2009): Drama film. Story: Chelsea is an in-demand call girl whose $2,000 an… See cast, budget $1.7M, and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yG1DppzYVHoRifCPZ8Z6aDWoFgp.jpg",
+   "industry": "world",
+   "k": "The Girlfriend Experience, The Girlfriend Experience movie, The Girlfriend Experience cast, The Girlfriend Experience story, The Girlfriend Experience box office collection, The Girlfriend Experience budget, The Girlfriend Experience review, The Girlfriend Experience rating, The Girlfriend Experience release date, The Girlfriend Experience trailer, The Girlfriend Experience Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sasha Grey"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Santos"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Eytan"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Zizzo"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Stein"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "The Girlfriend Experience (2009): Drama film. Story: Chelsea is an in-demand call girl whose $2,000 an… See cast, budget $1.7M, and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Soderbergh"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yG1DppzYVHoRifCPZ8Z6aDWoFgp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17680",
+    "name": "The Girlfriend Experience",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17680"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Girlfriend Experience (2009)</h1>\n<p class=\"ssr-lead\">Chelsea is an in-demand call girl whose $2,000 an hour price tag allows her to live in New York&#x27;s lap of luxury. Besides her beauty and sexual skill, Chelsea offers her clients companionship and conversation, or, as she dubs it, &quot;the girlfriend experience.&quot; With her successful business and a devoted, live-in boyfriend, Chelsea thinks she has it made... until a new client rocks her world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2009</li><li>Runtime: 77 minutes</li><li>Director: Steven Soderbergh</li><li>Genres: Drama</li><li>Budget: $1.7M</li><li>TMDB rating: 5.1/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sasha Grey as Chelsea / Christine</li><li>Chris Santos as Chris</li><li>Philip Eytan as Phillip</li><li>Peter Zizzo as Zizzo</li><li>Ron Stein as Vegas Buddy #1</li><li>Marshall Gilman as Vegas Buddy #2</li><li>Michael Roberts as Vegas Buddy #3</li><li>Jim Kempner as Art Gallery Owner</li><li>David Levien as David</li><li>Mark Jacobson as Interviewer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "The Girlfriend Experience (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:3080": {
+   "d": "Top Hat (1935): Music/Comedy film. Story: Showman Jerry Travers is working for producer Horace… See cast, budget $609.0k, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
+   "industry": "world",
+   "k": "Top Hat, Top Hat movie, Top Hat cast, Top Hat story, Top Hat box office collection, Top Hat budget, Top Hat review, Top Hat rating, Top Hat release date, Top Hat trailer, Top Hat Music, Top Hat Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fred Astaire"
+     },
+     {
+      "@type": "Person",
+      "name": "Ginger Rogers"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Everett Horton"
+     },
+     {
+      "@type": "Person",
+      "name": "Erik Rhodes"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Blore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Top Hat (1935): Music/Comedy film. Story: Showman Jerry Travers is working for producer Horace… See cast, budget $609.0k, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Sandrich"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3080",
+    "name": "Top Hat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1935-08-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3080"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Top Hat (1935)</h1>\n<p class=\"ssr-lead\">Showman Jerry Travers is working for producer Horace Hardwick in London. Jerry demonstrates his new dance steps late one night in Horace&#x27;s hotel room, much to the annoyance of sleeping Dale Tremont below. She goes upstairs to complain and the two are immediately attracted to each other. Complications arise when Dale mistakes Jerry for Horace.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 August 1935</li><li>Runtime: 99 minutes</li><li>Director: Mark Sandrich</li><li>Genres: Music, Comedy, Romance</li><li>Budget: $609.0k</li><li>TMDB rating: 7.2/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fred Astaire as Jerry Travers</li><li>Ginger Rogers as Dale Tremont</li><li>Edward Everett Horton as Horace Hardwick</li><li>Erik Rhodes as Alberto Beddini</li><li>Eric Blore as Bates</li><li>Helen Broderick as Madge Hardwick</li><li>Lucille Ball as Flower Shop Clerk (uncredited)</li><li>Gino Corrado as Venice Hotel Manager (uncredited)</li><li>Leonard Mudie as Florist (uncredited)</li><li>Dennis O&#x27;Keefe as Elevator Passenger / Hotel Guest / Dancer (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Top Hat (1935) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1935"
   },
   "movie:315880": {
    "d": "Correspondence (2016): Drama/Romance film. Story: The relationship between Ed, a married astronomer and… See cast, budget $10M, and TMDB rating 6.4/10.",
@@ -640,6 +959,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Correspondence (2016)</h1>\n<p class=\"ssr-lead\">The relationship between Ed, a married astronomer and Amy, his lover, who spend their years apart, is based only on phone calls and texts. One day Amy begins noticing something strange in Ed&#x27;s messages.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 January 2016</li><li>Runtime: 122 minutes</li><li>Director: Giuseppe Tornatore</li><li>Genres: Drama, Romance</li><li>Budget: $10M</li><li>TMDB rating: 6.4/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeremy Irons as Ed Phoerum</li><li>Olga Kurylenko as Amy</li><li>Simon Johns as Jason</li><li>Shauna Macdonald as Victoria</li><li>Simon Meacock as Artist</li><li>James Warren as Rick</li><li>Oscar Sanders as Nicholas</li><li>Paolo Calabresi as Prescatore Ottavio</li><li>Anna Savva as Angela</li><li>Irina Kara as Mamma di Amy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Correspondence (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:33680": {
+   "d": "Grand Hotel (1932): Drama/Romance film. Story: Guests at a posh Berlin hotel struggle through worry… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mTRmleBtvqlwMCLoRt9iwptDRRC.jpg",
+   "industry": "world",
+   "k": "Grand Hotel, Grand Hotel movie, Grand Hotel cast, Grand Hotel story, Grand Hotel box office collection, Grand Hotel budget, Grand Hotel review, Grand Hotel rating, Grand Hotel release date, Grand Hotel trailer, Grand Hotel Drama, Grand Hotel Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Greta Garbo"
+     },
+     {
+      "@type": "Person",
+      "name": "John Barrymore"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Crawford"
+     },
+     {
+      "@type": "Person",
+      "name": "Wallace Beery"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Barrymore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Grand Hotel (1932): Drama/Romance film. Story: Guests at a posh Berlin hotel struggle through worry… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edmund Goulding"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mTRmleBtvqlwMCLoRt9iwptDRRC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=33680",
+    "name": "Grand Hotel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1932-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=33680"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Grand Hotel (1932)</h1>\n<p class=\"ssr-lead\">Guests at a posh Berlin hotel struggle through worry, scandal, and heartache.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 1932</li><li>Runtime: 112 minutes</li><li>Director: Edmund Goulding</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.0/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Greta Garbo as Grusinskaya</li><li>John Barrymore as Baron Felix von Gaigern</li><li>Joan Crawford as Flämmchen</li><li>Wallace Beery as General Director Preysing</li><li>Lionel Barrymore as Otto Kringelein</li><li>Lewis Stone as Doctor Otternschlag</li><li>Jean Hersholt as Senf</li><li>Robert McWade as Meierheim</li><li>Purnell Pratt as Zinnowitz</li><li>Ferdinand Gottschalk as Pimenov</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Grand Hotel (1932) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1932"
   },
   "movie:3780": {
    "d": "Red Beard (1965): Drama film. Story: Aspiring to an easy job as personal physician to a… See cast, budget $650.0k, and TMDB rating 8.2/10.",
@@ -768,6 +1151,134 @@
    "t": "Brad's Status (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:51980": {
+   "d": "Germinal (1993): Drama/Romance film. Story: It's mid 19th century, north of France. The story of… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
+   "industry": "world",
+   "k": "Germinal, Germinal movie, Germinal cast, Germinal story, Germinal box office collection, Germinal budget, Germinal review, Germinal rating, Germinal release date, Germinal Drama, Germinal Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Miou-Miou"
+     },
+     {
+      "@type": "Person",
+      "name": "Renaud"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Carmet"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Henry"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Roger Milo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Germinal (1993): Drama/Romance film. Story: It's mid 19th century, north of France. The story of… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claude Berri"
+     }
+    ],
+    "duration": "PT160M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=51980",
+    "name": "Germinal",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=51980"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Germinal (1993)</h1>\n<p class=\"ssr-lead\">It&#x27;s mid 19th century, north of France. The story of a coal miner&#x27;s town. They are exploited by the mine&#x27;s owner. One day the decide to go on strike, and then the authorities repress them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 1993</li><li>Runtime: 160 minutes</li><li>Director: Claude Berri</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.7/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miou-Miou as &#x27;La Maheude&#x27;</li><li>Renaud as Étienne Lantier</li><li>Jean Carmet as Vincent Maheu, aka Bonnemort</li><li>Judith Henry as Catherine Maheu</li><li>Jean-Roger Milo as Antoine Chaval</li><li>Gérard Depardieu as Toussaint Maheu</li><li>Laurent Terzieff as Souvarine</li><li>Bernard Fresson as Victor Deneulin</li><li>Jean-Pierre Bisson as Rasseneur</li><li>Jacques Dacqmine as Philippe Hennebeau</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, OVID, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Germinal (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:592480": {
+   "d": "Alice and the Mayor (2019): Comedy/Drama film. Story: The mayor of Lyon, Paul Théraneau, is in a delicate… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/k5cAlsHARQ6SZhRkAIPQzpmCaJO.jpg",
+   "industry": "world",
+   "k": "Alice and the Mayor, Alice and the Mayor movie, Alice and the Mayor cast, Alice and the Mayor story, Alice and the Mayor box office collection, Alice and the Mayor budget, Alice and the Mayor review, Alice and the Mayor rating, Alice and the Mayor release date, Alice and the Mayor trailer, Alice and the Mayor Comedy, Alice and the Mayor Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Anaïs Demoustier"
+     },
+     {
+      "@type": "Person",
+      "name": "Nora Hamzawi"
+     },
+     {
+      "@type": "Person",
+      "name": "Léonie Simaga"
+     },
+     {
+      "@type": "Person",
+      "name": "Antoine Reinartz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Alice and the Mayor (2019): Comedy/Drama film. Story: The mayor of Lyon, Paul Théraneau, is in a delicate… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Pariser"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k5cAlsHARQ6SZhRkAIPQzpmCaJO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=592480",
+    "name": "Alice and the Mayor",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=592480"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice and the Mayor (2019)</h1>\n<p class=\"ssr-lead\">The mayor of Lyon, Paul Théraneau, is in a delicate position. After 30 years in politics, he is running out of ideas and is faced with a feeling of existential emptiness. To overcome this, Paul hires a young and brilliant philosopher, Alice Heimann. Then follows a dialogue between two diametrically opposed personalities who will turn their certainties upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2019</li><li>Runtime: 103 minutes</li><li>Director: Nicolas Pariser</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.2/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Paul Theraneau</li><li>Anaïs Demoustier as Alice Heimann</li><li>Nora Hamzawi as Mélinda</li><li>Léonie Simaga as Isabelle Leinsdorf</li><li>Antoine Reinartz as Daniel</li><li>Maud Wyler as Delphine</li><li>Alexandre Steiger as Gauthier</li><li>Pascal Rénéric as Xavier</li><li>Thomas Rortais as Pierre</li><li>Thomas Chabrol as Patrick Brac</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
+   "t": "Alice and the Mayor (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:664280": {
    "d": "David Attenborough: A Life on Our Planet (2020): Documentary/Drama film. Story: The story of life on our planet by the man who has… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
@@ -827,6 +1338,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>David Attenborough: A Life on Our Planet (2020)</h1>\n<p class=\"ssr-lead\">The story of life on our planet by the man who has seen more of the natural world than any other. In more than 90 years, Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. Addressing the biggest challenges facing life on our planet, the film offers a powerful message of hope for future generations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 2020</li><li>Runtime: 83 minutes</li><li>Director: Keith Scholey, Alastair Fothergill, Jonathan Hughes</li><li>Genres: Documentary, Drama</li><li>TMDB rating: 8.4/10 (478 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Attenborough as Self</li><li>Max Hughes as Young David</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "David Attenborough: A Life on Our Planet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:678580": {
+   "d": "El mesero (2021): Comedy film. Story: A waiter pretends to be an important businessman in… See cast, TMDB rating 8.0/10, and release date 15 July 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/1XF9ugYliCBWkXI2dCWAjRb1jvY.jpg",
+   "industry": "world",
+   "k": "El mesero, El mesero movie, El mesero cast, El mesero story, El mesero box office collection, El mesero budget, El mesero review, El mesero rating, El mesero release date, El mesero Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vadhir Derbez"
+     },
+     {
+      "@type": "Person",
+      "name": "Bárbara López"
+     },
+     {
+      "@type": "Person",
+      "name": "Arturo Barba"
+     },
+     {
+      "@type": "Person",
+      "name": "Emiliano Zurita"
+     },
+     {
+      "@type": "Person",
+      "name": "Ignacia Allamand"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 358,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "El mesero (2021): Comedy film. Story: A waiter pretends to be an important businessman in… See cast, TMDB rating 8.0/10, and release date 15 July 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Raúl Martínez"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1XF9ugYliCBWkXI2dCWAjRb1jvY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=678580",
+    "name": "El mesero",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-07-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=678580"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>El mesero (2021)</h1>\n<p class=\"ssr-lead\">A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 2021</li><li>Runtime: 86 minutes</li><li>Director: Raúl Martínez</li><li>Genres: Comedy</li><li>TMDB rating: 8.0/10 (358 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vadhir Derbez as Rodrigo Sada</li><li>Bárbara López as Mariana</li><li>Arturo Barba as Rogelio Saviñón</li><li>Emiliano Zurita as Pedro</li><li>Ignacia Allamand</li><li>Gustavo Sánchez Parra as Pasilla</li><li>Memo Villegas as Luis</li><li>Sabine Moussier as Estela</li><li>Rodrigo Bello as Asistente Savinon</li><li>Alberto Cervantes as Chofer Uber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "El mesero (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:78480": {
+   "d": "Monsieur Lazhar (2011): Drama/Comedy film. Story: During a harsh Montréal winter, an elementary-school… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",
+   "industry": "world",
+   "k": "Monsieur Lazhar, Monsieur Lazhar movie, Monsieur Lazhar cast, Monsieur Lazhar story, Monsieur Lazhar box office collection, Monsieur Lazhar budget, Monsieur Lazhar review, Monsieur Lazhar rating, Monsieur Lazhar release date, Monsieur Lazhar Drama, Monsieur Lazhar Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mohamed Fellag"
+     },
+     {
+      "@type": "Person",
+      "name": "Émilien Néron"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Proulx"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Nélisse"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie-Ève Beauregard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Monsieur Lazhar (2011): Drama/Comedy film. Story: During a harsh Montréal winter, an elementary-school… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philippe Falardeau"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=78480",
+    "name": "Monsieur Lazhar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=78480"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monsieur Lazhar (2011)</h1>\n<p class=\"ssr-lead\">During a harsh Montréal winter, an elementary-school class is left reeling after its teacher commits suicide. Bachir Lazhar, a charismatic Algerian immigrant, steps in as the substitute teacher for the classroom of traumatized children. All the while, he must keep his personal life tucked away: the fact that he is seeking political refuge in Québec – and that he, like the children, has suffered an appalling loss.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2011</li><li>Runtime: 94 minutes</li><li>Director: Philippe Falardeau</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.2/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mohamed Fellag as Bachir Lazhar</li><li>Émilien Néron as Simon</li><li>Danielle Proulx as Mme Vaillancourt</li><li>Sophie Nélisse as Alice L&#x27;Écuyer</li><li>Marie-Ève Beauregard as Marie-Frédérique</li><li>Denise Lamontagne as Parent</li><li>Brigitte Poupart as Claire</li><li>Louis Champagne as Concierge</li><li>Daniel Gadouas as Me Gilbert Danis</li><li>Vincent Millard as Victor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Brew, Fandor Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Monsieur Lazhar (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:798580": {
    "d": "The Creeps (2026): Horror/Comedy film. Story: When a mysterious gateway between dimensions… See cast, TMDB rating 4.5/10, and release date 2 April 2026.",

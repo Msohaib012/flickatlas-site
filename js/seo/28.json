@@ -1,7 +1,71 @@
 {
  "bucket": "28",
- "count": 41,
+ "count": 48,
  "titles": {
+  "movie:10128": {
+   "d": "Alien Nation (1988): Science Fiction/Crime film. Story: A few years from now, Earth will have the first… See cast, budget $16M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
+   "industry": "world",
+   "k": "Alien Nation, Alien Nation movie, Alien Nation cast, Alien Nation story, Alien Nation box office collection, Alien Nation budget, Alien Nation review, Alien Nation rating, Alien Nation release date, Alien Nation trailer, Alien Nation Science Fiction, Alien Nation Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Caan"
+     },
+     {
+      "@type": "Person",
+      "name": "Mandy Patinkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Terence Stamp"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevyn Major Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Bevis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Alien Nation (1988): Science Fiction/Crime film. Story: A few years from now, Earth will have the first… See cast, budget $16M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Graham Baker"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Science Fiction",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10128",
+    "name": "Alien Nation",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-10-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10128"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alien Nation (1988)</h1>\n<p class=\"ssr-lead\">A few years from now, Earth will have the first contact with an alien civilization. These aliens, known as Newcomers, slowly begin to be integrated into human society after years of quarantine.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 October 1988</li><li>Runtime: 91 minutes</li><li>Director: Graham Baker</li><li>Genres: Science Fiction, Crime, Thriller, Action</li><li>Budget: $16M</li><li>TMDB rating: 6.1/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Caan as Matthew Sykes</li><li>Mandy Patinkin as Samuel &#x27;George&#x27; Francisco</li><li>Terence Stamp as William Harcourt</li><li>Kevyn Major Howard as Rudyard Kipling</li><li>Leslie Bevis as Cassandra</li><li>Peter Jason as Fedorchuk</li><li>Conrad Dunn as Quint</li><li>Jeff Kober as Joshua Strader</li><li>Roger Aaron Brown as Bill Tuggle</li><li>Francis X. McCarthy as Captain Warner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Alien Nation (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:10728": {
    "d": "Faust (1926): Fantasy/Drama film. Story: Murnau’s epic adaptation of Goethe’s tragedy stands… See cast, TMDB rating 7.9/10, and release date 14 October 1926.",
    "img": "https://image.tmdb.org/t/p/w780/dQbnFqsbtyHS7OD108vuFJiUyzy.jpg",
@@ -255,6 +319,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>I Was a Stranger (2026)</h1>\n<p class=\"ssr-lead\">A Syrian doctor and her daughter flee Aleppo, setting off a chain of events that binds five strangers together. A smuggler, a soldier, a poet, and a coast guard captain collide in a crisis that tests their courage, their choices, and their humanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 103 minutes</li><li>Director: Brandt Andersen</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.9/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yasmine Al Massri as Amira Homsi</li><li>Yahya Mahayni as Mustafa</li><li>Omar Sy as Marwan</li><li>Ziad Bakri as Fathi</li><li>Constantine Markoulakis as Stavros</li><li>Jason Beghe as Dr. Kroft</li><li>Ayman Samman as Shaheen</li><li>Massa Daoud as Rasha Homsi</li><li>Angeliki Papoulia as Helena</li><li>Saleh Bakri as Alaa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Paramount Plus Premium, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel, Angel Studios</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "I Was a Stranger (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:12528": {
+   "d": "Southern Comfort (1981): Thriller/Action film. Story: A squad of National Guards on an isolated weekend… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1pXco8EiCGtYyBZuNSQIu6980lf.jpg",
+   "industry": "world",
+   "k": "Southern Comfort, Southern Comfort movie, Southern Comfort cast, Southern Comfort story, Southern Comfort box office collection, Southern Comfort budget, Southern Comfort review, Southern Comfort rating, Southern Comfort release date, Southern Comfort trailer, Southern Comfort Thriller, Southern Comfort Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keith Carradine"
+     },
+     {
+      "@type": "Person",
+      "name": "Powers Boothe"
+     },
+     {
+      "@type": "Person",
+      "name": "Fred Ward"
+     },
+     {
+      "@type": "Person",
+      "name": "Franklyn Seales"
+     },
+     {
+      "@type": "Person",
+      "name": "T.K. Carter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Southern Comfort (1981): Thriller/Action film. Story: A squad of National Guards on an isolated weekend… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Walter Hill"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1pXco8EiCGtYyBZuNSQIu6980lf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12528",
+    "name": "Southern Comfort",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1981-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12528"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Southern Comfort (1981)</h1>\n<p class=\"ssr-lead\">A squad of National Guards on an isolated weekend exercise in the Louisiana swamp must fight for their lives when they anger local Cajuns by stealing their canoes. Without live ammunition and in a strange country, their experience begins to mirror the Vietnam experience.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 1981</li><li>Runtime: 106 minutes</li><li>Director: Walter Hill</li><li>Genres: Thriller, Action</li><li>TMDB rating: 6.8/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keith Carradine as Spencer</li><li>Powers Boothe as Hardin</li><li>Fred Ward as Reece</li><li>Franklyn Seales as Simms</li><li>T.K. Carter as Cribbs</li><li>Lewis Smith as Stuckey</li><li>Les Lannom as Casper</li><li>Peter Coyote as Poole</li><li>Alan Autry as Bowden</li><li>Brion James as Trapper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Southern Comfort (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1981"
+  },
+  "movie:14628": {
+   "d": "Fletch Lives (1989): Comedy/Crime film. Story: Fletch is a fish out of water in small-town… See cast, budget $8M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5a6ExKIhLAMRN72eQ3nwuFGtpbJ.jpg",
+   "industry": "world",
+   "k": "Fletch Lives, Fletch Lives movie, Fletch Lives cast, Fletch Lives story, Fletch Lives box office collection, Fletch Lives budget, Fletch Lives review, Fletch Lives rating, Fletch Lives release date, Fletch Lives Comedy, Fletch Lives Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chevy Chase"
+     },
+     {
+      "@type": "Person",
+      "name": "Hal Holbrook"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianne Phillips"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Lee Ermey"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Libertini"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 356,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Fletch Lives (1989): Comedy/Crime film. Story: Fletch is a fish out of water in small-town… See cast, budget $8M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Ritchie"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5a6ExKIhLAMRN72eQ3nwuFGtpbJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14628",
+    "name": "Fletch Lives",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-03-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14628"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fletch Lives (1989)</h1>\n<p class=\"ssr-lead\">Fletch is a fish out of water in small-town Louisiana, where he&#x27;s checking out a tumbledown mansion he&#x27;s inherited. When a woman he flirts with turns up dead, he becomes a suspect and must find the killer and clear his name.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 March 1989</li><li>Runtime: 95 minutes</li><li>Director: Michael Ritchie</li><li>Genres: Comedy, Crime, Mystery</li><li>Budget: $8M</li><li>TMDB rating: 6.0/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chevy Chase as Irwin &#x27;Fletch&#x27; Fletcher</li><li>Hal Holbrook as Hamilton &quot;Ham&quot; Johnson</li><li>Julianne Phillips as Becky Culpepper</li><li>R. Lee Ermey as Jimmy Lee Farnsworth</li><li>Richard Libertini as Frank Walker</li><li>Randall &#x27;Tex&#x27; Cobb as Ben Dover</li><li>Cleavon Little as Calculus Entropy</li><li>George Wyner as Marvin Gillet</li><li>Patricia Kalember as Amanda Ray Ross</li><li>Geoffrey Lewis as KKK Leader</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Fletch Lives (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
+  "movie:15028": {
+   "d": "Clockstoppers (2002): Adventure/Family film. Story: Until now, Zak Gibbs' greatest challenge has been to… See cast, budget $26M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ygys5z5itmGGbSp2G003A6crCyO.jpg",
+   "industry": "world",
+   "k": "Clockstoppers, Clockstoppers movie, Clockstoppers cast, Clockstoppers story, Clockstoppers box office collection, Clockstoppers budget, Clockstoppers review, Clockstoppers rating, Clockstoppers release date, Clockstoppers trailer, Clockstoppers Adventure, Clockstoppers Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jesse Bradford"
+     },
+     {
+      "@type": "Person",
+      "name": "Paula Garcés"
+     },
+     {
+      "@type": "Person",
+      "name": "French Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Biehn"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Thomas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 370,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Clockstoppers (2002): Adventure/Family film. Story: Until now, Zak Gibbs' greatest challenge has been to… See cast, budget $26M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Frakes"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ygys5z5itmGGbSp2G003A6crCyO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15028",
+    "name": "Clockstoppers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-03-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15028"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clockstoppers (2002)</h1>\n<p class=\"ssr-lead\">Until now, Zak Gibbs&#x27; greatest challenge has been to find a way to buy a car. But when he discovers an odd wristwatch amidst his father&#x27;s various inventions and slips it on -- something very strange happens. The world around him seems to come to a stop, everything and everybody frozen in time. Zak quickly learns how to manipulate the device and he and his quick-witted and beautiful new friend, Francesca, start to have some real fun.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 2002</li><li>Runtime: 94 minutes</li><li>Director: Jonathan Frakes</li><li>Genres: Adventure, Family, Science Fiction, Thriller</li><li>Budget: $26M</li><li>TMDB rating: 5.3/10 (370 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Bradford as Zak Gibbs</li><li>Paula Garcés as Francesca</li><li>French Stewart as Dr. Earl Dopler</li><li>Michael Biehn as Henry Gates</li><li>Robin Thomas as Dr. Gibbs</li><li>Julia Sweeney as Jenny Gibbs</li><li>Lindze Letherman as Kelly Gibbs</li><li>Jason George as Richard</li><li>Ken Jenkins as NSA Agent Moore</li><li>Tony Abatemarco as Administrator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Clockstoppers (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:1549128": {
    "d": "Twin Stars (2026): Comedy film. Story: The story, set in a rural place, tells in a comic way… See cast, TMDB rating 5.6/10, and release date 14 May 2026.",
@@ -747,6 +1003,69 @@
    "t": "Infini (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:320028": {
+   "d": "An Italian Name (2015): Comedy film. Story: Paolo is an outgoing and handsome real estate broker… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pULQ0mpwndS8Xj9yokTnqw1bugM.jpg",
+   "industry": "world",
+   "k": "An Italian Name, An Italian Name movie, An Italian Name cast, An Italian Name story, An Italian Name box office collection, An Italian Name budget, An Italian Name review, An Italian Name rating, An Italian Name release date, An Italian Name Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Gassmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Valeria Golino"
+     },
+     {
+      "@type": "Person",
+      "name": "Luigi Lo Cascio"
+     },
+     {
+      "@type": "Person",
+      "name": "Rocco Papaleo"
+     },
+     {
+      "@type": "Person",
+      "name": "Micaela Ramazzotti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "An Italian Name (2015): Comedy film. Story: Paolo is an outgoing and handsome real estate broker… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francesca Archibugi"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pULQ0mpwndS8Xj9yokTnqw1bugM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=320028",
+    "name": "An Italian Name",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=320028"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>An Italian Name (2015)</h1>\n<p class=\"ssr-lead\">Paolo is an outgoing and handsome real estate broker married to Simona, a beautiful woman from the rough outskirts of Rome who has become an author of spicy bestsellers and is pregnant with their child. Betta, Paolo’s sister and her husband Sandro organise a dinner party with Paolo, Simona and their childhood friend, the eccentric musician Claudio. During the lively gathering Paolo reveals what he would like to name his son, causing reactions to steam up and a torrent of revelations to follow reaching climactic proportions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2015</li><li>Runtime: 89 minutes</li><li>Director: Francesca Archibugi</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alessandro Gassmann as Paolo Pontecorvo</li><li>Valeria Golino as Betta Pontecorvo</li><li>Luigi Lo Cascio as Sandro De Luca</li><li>Rocco Papaleo as Claudio</li><li>Micaela Ramazzotti as Simona</li><li>Marco Baliani</li><li>Manuela Mandracchia as Lucia</li><li>Giulia Salerno as Scintilla</li><li>Tommaso Strizzi as Pin</li><li>Anna Virzì as la figlia</li></ul>\n</article>",
+   "t": "An Italian Name (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:38528": {
    "d": "Horse Fever (1976): Comedy film. Story: Bruno Fioretti, known as \"Mandrake\", is an inveterate… See cast, TMDB rating 7.3/10, and release date 29 October 1976.",
    "img": "https://image.tmdb.org/t/p/w780/8cg1VtHc2fdiRJYchbvvo2srswZ.jpg",
@@ -872,6 +1191,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>If I Were a Boy (2017)</h1>\n<p class=\"ssr-lead\">Jeanne wakes up one morning and her life is about to take a funny turn, at first sight nothing has changed in her - to a small detail.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 2017</li><li>Runtime: 95 minutes</li><li>Director: Audrey Dana</li><li>Genres: Comedy</li><li>TMDB rating: 5.3/10 (401 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Audrey Dana as Jeanne</li><li>Christian Clavier as Docteur PACE</li><li>Éric Elmosnino as Merlin</li><li>Alice Belaïdi as Marcelle</li><li>Joséphine Draï as Joe</li><li>Antoine Gouy as Anton</li><li>Jézabel Marques as Cécile</li><li>Johanne Toledano as La secrétaire du docteur</li><li>Guillaume Delaunay as Monsieur Kracovik</li><li>Jérôme Paquatte as Le chef des ouvriers</li></ul>\n</article>",
    "t": "If I Were a Boy (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:459928": {
+   "d": "12 Feet Deep (2018): Thriller/Horror film. Story: Two sisters are trapped under the fiberglass cover of… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AhwEkJY1RRna8M0dcSAhR9aCeF4.jpg",
+   "industry": "world",
+   "k": "12 Feet Deep, 12 Feet Deep movie, 12 Feet Deep cast, 12 Feet Deep story, 12 Feet Deep box office collection, 12 Feet Deep budget, 12 Feet Deep review, 12 Feet Deep rating, 12 Feet Deep release date, 12 Feet Deep trailer, 12 Feet Deep Thriller, 12 Feet Deep Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nora-Jane Noone"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Park"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Farr"
+     },
+     {
+      "@type": "Person",
+      "name": "Tobin Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Dogen Eyeler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 347,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "12 Feet Deep (2018): Thriller/Horror film. Story: Two sisters are trapped under the fiberglass cover of… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Eskandari"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AhwEkJY1RRna8M0dcSAhR9aCeF4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=459928",
+    "name": "12 Feet Deep",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=459928"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>12 Feet Deep (2018)</h1>\n<p class=\"ssr-lead\">Two sisters are trapped under the fiberglass cover of an Olympic sized public pool and must brave the cold and each other to survive the harrowing night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2018</li><li>Runtime: 85 minutes</li><li>Director: Matt Eskandari</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 6.0/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nora-Jane Noone as Bree</li><li>Alexandra Park as Jonna</li><li>Diane Farr as Clara</li><li>Tobin Bell as McGradey</li><li>Dogen Eyeler as Boy at the Pool</li><li>Donald Prince as Detective Zimmerman</li><li>Matthew Ryan Michaels as Boy at the Pool</li><li>Christian Kain Blackburn as David</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "12 Feet Deep (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:461928": {
    "d": "Anna and the Apocalypse (2018): Horror/Comedy film. Story: A zombie apocalypse threatens the sleepy town of… See cast and TMDB rating 6.0/10.",
@@ -1328,6 +1711,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Pump Up the Volume (1990)</h1>\n<p class=\"ssr-lead\">Mark Hunter, a lonely high school student, uses his shortwave radio to moonlight as the popular pirate DJ &quot;Hard Harry.&quot; When his show gets blamed for a teen committing suicide, the students clash with high school faculty and the authorities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 1990</li><li>Runtime: 102 minutes</li><li>Director: Allan Moyle</li><li>Genres: Music, Drama</li><li>TMDB rating: 7.1/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Slater as Mark Hunter</li><li>Samantha Mathis as Nora Diniro</li><li>Annie Ross as Loretta Creswood</li><li>Scott Paulin as Brian Hunter</li><li>Mimi Kennedy as Marla Hunter</li><li>Andy Romano as Murdock</li><li>Keith Stuart Thayer as Luis Chavez</li><li>Cheryl Pollak as Paige Woodward</li><li>Jeff Chamberlain as Mr. Woodward</li><li>Lala Sloatman as Janie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Pump Up the Volume (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1990"
+  },
+  "movie:850028": {
+   "d": "Alice, Darling (2023): Thriller/Drama film. Story: Pushed to the breaking point by Simon, her… See cast, budget $4M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+   "industry": "world",
+   "k": "Alice, Darling, Alice, Darling movie, Alice, Darling cast, Alice, Darling story, Alice, Darling box office collection, Alice, Darling budget, Alice, Darling review, Alice, Darling rating, Alice, Darling release date, Alice, Darling trailer, Alice, Darling Thriller, Alice, Darling Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Kendrick"
+     },
+     {
+      "@type": "Person",
+      "name": "Wunmi Mosaku"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaniehtiio Horn"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Carrick"
+     },
+     {
+      "@type": "Person",
+      "name": "Markjan Winnick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Alice, Darling (2023): Thriller/Drama film. Story: Pushed to the breaking point by Simon, her… See cast, budget $4M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mary Nighy"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=850028",
+    "name": "Alice, Darling",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-01-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=850028"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice, Darling (2023)</h1>\n<p class=\"ssr-lead\">Pushed to the breaking point by Simon, her psychologically abusive boyfriend, Alice becomes an unwitting participant in an intervention staged by her two closest friends while on vacation. As she rediscovers the essence of herself and gains some much-needed perspective, she slowly starts to fray the cords of codependency that bind her. However, Simon&#x27;s vengeance is as inevitable as it is shattering, and once unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 2023</li><li>Runtime: 90 minutes</li><li>Director: Mary Nighy</li><li>Genres: Thriller, Drama, Romance</li><li>Budget: $4M</li><li>TMDB rating: 5.6/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Kendrick as Alice</li><li>Wunmi Mosaku as Sophie</li><li>Kaniehtiio Horn as Tess</li><li>Charlie Carrick as Simon</li><li>Markjan Winnick as Marcus</li><li>Daniel Stolfi as Officer</li><li>Carolyn Fe as Customer</li><li>Gordon Harper as Fawning Sycophant</li><li>Viviana Zarrillo as Store Owner</li><li>Mairi Babb as Volunteer #1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Alice, Darling (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:875828": {
    "d": "Peaky Blinders: The Immortal Man (2026): Crime/Drama film. Story: After his estranged son gets embroiled in a Nazi… See cast and TMDB rating 7.2/10.",

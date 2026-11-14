@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 41,
+ "count": 50,
  "titles": {
   "movie:10741": {
    "backdrop_path": "/3ivhTBoGtSRcxqsTdXHHkYFLxO2.jpg",
@@ -291,6 +291,173 @@
    "type": "movie",
    "vote_average": 5.829,
    "vote_count": 476
+  },
+  "movie:11541": {
+   "backdrop_path": "/jsv8eASSZmkKhYXMZqliYO9ntnd.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Guy Hamilton",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Jill Bryant",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Billy Kwan",
+     "n": "Linda Hunt"
+    },
+    {
+     "c": "Pete Curtis",
+     "n": "Michael Murphy"
+    },
+    {
+     "c": "Colonel Henderson",
+     "n": "Bill Kerr"
+    },
+    {
+     "c": "Wally O'Sullivan",
+     "n": "Noel Ferrier"
+    },
+    {
+     "c": "Kumar",
+     "n": "Bembol Roco"
+    },
+    {
+     "c": "Kevin Condon",
+     "n": "Paul Sonkkila"
+    },
+    {
+     "c": "Hartono",
+     "n": "Domingo Landicho"
+    },
+    {
+     "c": "Tiger Lily",
+     "n": "Kuh Ledesma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Peter Weir"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 11541,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young Australian reporter tries to navigate the political turmoil of Indonesia during the rule of President Sukarno with the help of a diminutive photographer.",
+   "popularity": 2.6221,
+   "poster_path": "/y9GIM95xWWU4urqqu0kziby0Ykg.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-12-17",
+   "revenue": 13200000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "id",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "A love caught in the fire of revolution.",
+   "title": "The Year of Living Dangerously",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 380
   },
   "movie:1184941": {
    "backdrop_path": "/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
@@ -1315,6 +1482,96 @@
    "type": "movie",
    "vote_average": 6.325,
    "vote_count": 424
+  },
+  "movie:13741": {
+   "backdrop_path": "/hQVTV0HKq2jJVfhYIvOwIXGtecW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Curtis",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Gervais",
+     "n": "Éric Judor"
+    },
+    {
+     "c": "Le commissaire",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "L'antiquaire",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Juliette",
+     "n": "Élodie Bouchez"
+    },
+    {
+     "c": "Sammy Bouglioni",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Freddy Bouglioni",
+     "n": "MC Jean Gab'1"
+    },
+    {
+     "c": "Xavier",
+     "n": "Fred Testot"
+    },
+    {
+     "c": "Le joueur de curling",
+     "n": "François Damiens"
+    },
+    {
+     "c": "Le prêtre",
+     "n": "Édouard Baer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Éric Judor",
+    "Ramzy Bedia"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 13741,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A bumbling Paris policeman is doggedly determined to capture the master thief that repeatedly eludes him, even when they're the last two men on Earth.",
+   "popularity": 1.0811,
+   "poster_path": "/11DqLXRUsARo7GIxoUETLhaBDCh.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-06-25",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What if Paris was yours?",
+   "title": "2 Alone in Paris",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.111,
+   "vote_count": 349
   },
   "movie:1454741": {
    "backdrop_path": "/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
@@ -2917,6 +3174,328 @@
    "vote_average": 5.8,
    "vote_count": 430
   },
+  "movie:344041": {
+   "backdrop_path": "/lIH9Fho3q3xK44ztlHbD28YE3Vz.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Carter",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Sade",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Officer Baker",
+     "n": "Jim Watson"
+    },
+    {
+     "c": "Bird",
+     "n": "Ella Ballentine"
+    },
+    {
+     "c": "Mara",
+     "n": "Joanna Douglas"
+    },
+    {
+     "c": "The Priest",
+     "n": "Ted Atherton"
+    },
+    {
+     "c": "Woman",
+     "n": "Laura de Carteret"
+    },
+    {
+     "c": "Roger",
+     "n": "John Tench"
+    },
+    {
+     "c": "Bodyguard",
+     "n": "Darcy Roy"
+    },
+    {
+     "c": "Sam",
+     "n": "J.J. Dimichele"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Alleca"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 344041,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A troubled veteran gets a chance at redemption by protecting a girl from an assassin after she witnesses a murder. Holding a shotgun with a single shell, he engages in physical and psychological warfare in a desperate fight for the girl's life.",
+   "popularity": 1.9487,
+   "poster_path": "/adlwQTs3zEo8EL2ta1IZebhoVPE.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    },
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-04",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A deadly game only one can survive",
+   "title": "Standoff",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.072,
+   "vote_count": 352
+  },
+  "movie:42441": {
+   "backdrop_path": "/lo2Dp8t6ElOQ2u8pnTqWhiRJqya.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cesare Proietti",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Silvio Galliani",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Vito 'Zebrone' La Monica",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Carlo Colombo",
+     "n": "Enzo Iacchetti"
+    },
+    {
+     "c": "Nando",
+     "n": "Maurizio Mattioli"
+    },
+    {
+     "c": "Gennaro Scognamiglio",
+     "n": "Nino D'Angelo"
+    },
+    {
+     "c": "Diego Armando Maradona",
+     "n": "Diego Maradona"
+    },
+    {
+     "c": "Fabio",
+     "n": "Angelo Bernabucci"
+    },
+    {
+     "c": "Ferdinando",
+     "n": "Peppe Quintale"
+    },
+    {
+     "c": "Marta Proietti",
+     "n": "Alessandra Bellini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 42441,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Four different stories about italian football team’s supporter.",
+   "popularity": 0.6407,
+   "poster_path": "/jKXjLxy7aZ7bpn55TDJeVoQon2o.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1999-10-01",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tifosi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 354
+  },
+  "movie:44741": {
+   "backdrop_path": "/eGqZyH83bQ1x5MKD5SggEfarPa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Angela",
+     "n": "Laura Antonelli"
+    },
+    {
+     "c": "Ignazio",
+     "n": "Turi Ferro"
+    },
+    {
+     "c": "Nino",
+     "n": "Alessandro Momo"
+    },
+    {
+     "c": "Luciana",
+     "n": "Tina Aumont"
+    },
+    {
+     "c": "Granma",
+     "n": "Lilla Brignone"
+    },
+    {
+     "c": "Don Cirillo",
+     "n": "Pino Caruso"
+    },
+    {
+     "c": "Ines Corallo",
+     "n": "Angela Luce"
+    },
+    {
+     "c": "Porcello",
+     "n": "Stefano Amato"
+    },
+    {
+     "c": "Nuccio",
+     "n": "Gianluigi Chirizzi"
+    },
+    {
+     "c": "Adelina",
+     "n": "Grazia Di Marzà"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Salvatore Samperi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 44741,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A widower and two of his sons become infatuated by their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
+   "popularity": 7.2628,
+   "poster_path": "/s1ioOR6IZ6pRN59wEIYCPcY6vW8.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-03-29",
+   "revenue": 109133,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Wasn't that thoughtful of mother — to hire a maid like Angela, and then die.",
+   "title": "Malicious",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 382
+  },
   "movie:457041": {
    "backdrop_path": "/wJprgIXjjpV3iZcMdF76Hyen75e.jpg",
    "budget": 0,
@@ -3387,6 +3966,357 @@
    "type": "movie",
    "vote_average": 7.403,
    "vote_count": 455
+  },
+  "movie:553141": {
+   "backdrop_path": "/2Wjxq7qeuyWvXSdqvOr5mkbcdwN.jpg",
+   "budget": 30000,
+   "cast": [
+    {
+     "c": "Father",
+     "n": "Christopher Rygh"
+    },
+    {
+     "c": "Daughter",
+     "n": "Cora Kaufman"
+    },
+    {
+     "c": "The Head (Voice)",
+     "n": "Aisha Ricketts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jordan Downey"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 553141,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.",
+   "popularity": 1.8453,
+   "poster_path": "/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-05",
+   "revenue": 44652,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Grief. Anger. Vengeance.",
+   "title": "The Head Hunter",
+   "trailer": {
+    "key": "PJ3UyXKnJDo",
+    "name": "The Head Hunter | Official Trailer (HD) | Vertical Entertainment",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.442,
+   "vote_count": 351
+  },
+  "movie:579741": {
+   "backdrop_path": "/4lGB2Iy7BruiRfvVc6MZ2UM0yNX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cherry (voice)",
+     "n": "Somegoro Ichikawa"
+    },
+    {
+     "c": "Smile (voice)",
+     "n": "Hana Sugisaki"
+    },
+    {
+     "c": "Beaver (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Japan (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Toughboy (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Julie (voice)",
+     "n": "Megumi Nakajima"
+    },
+    {
+     "c": "Marie (voice)",
+     "n": "Sumire Morohoshi"
+    },
+    {
+     "c": "Nami (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Akiko (voice)",
+     "n": "Minori Suzuki"
+    },
+    {
+     "c": "Koichi (voice)",
+     "n": "Hiroshi Kamiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kyohei Ishiguro"
+   ],
+   "genres": [
+    "Animation",
+    "Romance",
+    "Drama"
+   ],
+   "id": 579741,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After meeting one day, a shy boy who expresses himself through haiku and a bubbly but self-conscious girl share a brief, magical summer.",
+   "popularity": 2.0133,
+   "poster_path": "/ooISQS2rzVqgkt2aq5HNoz8n2sa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-22",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "One summer, youth runs free",
+   "title": "Words Bubble Up Like Soda Pop",
+   "trailer": {
+    "key": "EMPnetBr9OM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.327,
+   "vote_count": 356
+  },
+  "movie:6641": {
+   "backdrop_path": "/4x8R5fbLySPnSB1RchwExdN5wip.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Emily Jackson",
+     "n": "Brittany Murphy"
+    },
+    {
+     "c": "Peter Simon",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Paolo Sarmiento",
+     "n": "Santiago Cabrera"
+    },
+    {
+     "c": "Tallulah Wentworth",
+     "n": "Catherine Tate"
+    },
+    {
+     "c": "Finlay",
+     "n": "Jamie Sives"
+    },
+    {
+     "c": "Felicity Wentworth",
+     "n": "Stephanie Beacham"
+    },
+    {
+     "c": "Jacks",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Paolo",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Therapist",
+     "n": "Dawn French"
+    },
+    {
+     "c": "David Williams",
+     "n": "Will Keen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alek Keshishian"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 6641,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Flighty Emily \"Jacks\" Jackson works for the British edition of Vogue magazine. Rather than pursue a relationship, Jacks regularly hooks up with her devoted ex-boyfriend, James Wildstone, and lives with Peter Simon, a gay screenwriter. When Jacks meets Argentinian photographer's assistant Paolo Sarmiento, she assumes he is gay and tries to bring him and Peter together, unaware that Paolo is straight and in love with her.",
+   "popularity": 1.7919,
+   "poster_path": "/A0bXqv83sOVBnDyFGQCDeEWb0Os.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-09-09",
+   "revenue": 6400000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy that proves love is blind.",
+   "title": "Love and Other Disasters",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 362
   },
   "movie:664341": {
    "backdrop_path": "/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
@@ -3929,6 +4859,188 @@
    "type": "movie",
    "vote_average": 5.054,
    "vote_count": 391
+  },
+  "movie:880841": {
+   "backdrop_path": "/rXFe9rYsq4j1zEiOivJoUfdWsuR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sara",
+     "n": "Emma Roberts"
+    },
+    {
+     "c": "Alex",
+     "n": "John Gallagher Jr."
+    },
+    {
+     "c": "Renner",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Cindy",
+     "n": "Kate Arrington"
+    },
+    {
+     "c": "Infant Liam",
+     "n": "Marie May"
+    },
+    {
+     "c": "Anna Solomon",
+     "n": "Addy Miller"
+    },
+    {
+     "c": "Harrington",
+     "n": "Paul Dillon"
+    },
+    {
+     "c": "Robert Solomon",
+     "n": "Justin Matthew Smith"
+    },
+    {
+     "c": "Dr. Carver",
+     "n": "Paul Schneider"
+    },
+    {
+     "c": "Feral Boy",
+     "n": "Christian Michael Pates"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Spencer Squire"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 880841,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a young couple moves into a remote farmhouse with their infant son, the woman's struggles with postpartum psychosis begin to intensify... as the house reveals secrets of its own.",
+   "popularity": 1.5791,
+   "poster_path": "/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-11-10",
+   "revenue": 60500,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In this house, you're never yourself. And never alone.",
+   "title": "Abandoned",
+   "trailer": {
+    "key": "rNON4M0Sr6Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.792,
+   "vote_count": 341
   },
   "movie:890541": {
    "backdrop_path": "/se9b3c47yN4BJ05HNbNyAXbwjtj.jpg",

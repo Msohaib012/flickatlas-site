@@ -1,7 +1,71 @@
 {
  "bucket": "60",
- "count": 46,
+ "count": 60,
  "titles": {
+  "movie:10560": {
+   "d": "Center Stage (2000): Drama/Music film. Story: A group of 12 teenagers from various backgrounds… See cast, budget $29M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
+   "industry": "world",
+   "k": "Center Stage, Center Stage movie, Center Stage cast, Center Stage story, Center Stage box office collection, Center Stage budget, Center Stage review, Center Stage rating, Center Stage release date, Center Stage trailer, Center Stage Drama, Center Stage Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amanda Schull"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Gallagher"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan Stiefel"
+     },
+     {
+      "@type": "Person",
+      "name": "Donna Murphy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 372,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Center Stage (2000): Drama/Music film. Story: A group of 12 teenagers from various backgrounds… See cast, budget $29M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicholas Hytner"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10560",
+    "name": "Center Stage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10560"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Center Stage (2000)</h1>\n<p class=\"ssr-lead\">A group of 12 teenagers from various backgrounds enroll at the American Ballet Academy in New York to make it as ballet dancers and each one deals with the problems and stress of training and getting ahead in the world of dance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2000</li><li>Runtime: 115 minutes</li><li>Director: Nicholas Hytner</li><li>Genres: Drama, Music</li><li>Budget: $29M</li><li>TMDB rating: 6.9/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amanda Schull as Jody Sawyer</li><li>Zoe Saldaña as Eva Rodríguez</li><li>Peter Gallagher as Jonathan Reeves</li><li>Ethan Stiefel as Cooper</li><li>Donna Murphy as Juliette</li><li>Susan May Pratt as Maureen Cummings</li><li>Debra Monk as Nancy</li><li>Sascha Radetsky as Charlie</li><li>Eion Bailey as Jim</li><li>Megan Pepin as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Center Stage (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:1086260": {
    "d": "The Astronaut (2025): Horror/Science Fiction film. Story: After returning from her first space mission… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -706,6 +770,134 @@
    "t": "A Toxic Love Story (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:185460": {
+   "d": "Willow Creek (2013): Horror/Mystery film. Story: Looking to make a splash online with his research… See cast, TMDB rating 5.1/10, and release date 2 May 2013.",
+   "img": "https://image.tmdb.org/t/p/w780/jFJzscHXN9vbHRobRZZ49PkrJvl.jpg",
+   "industry": "world",
+   "k": "Willow Creek, Willow Creek movie, Willow Creek cast, Willow Creek story, Willow Creek box office collection, Willow Creek budget, Willow Creek review, Willow Creek rating, Willow Creek release date, Willow Creek trailer, Willow Creek Horror, Willow Creek Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexie Gilmore"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryce Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Jason"
+     },
+     {
+      "@type": "Person",
+      "name": "Timmy Red"
+     },
+     {
+      "@type": "Person",
+      "name": "Bucky Sinister"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Willow Creek (2013): Horror/Mystery film. Story: Looking to make a splash online with his research… See cast, TMDB rating 5.1/10, and release date 2 May 2013.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bobcat Goldthwait"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jFJzscHXN9vbHRobRZZ49PkrJvl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=185460",
+    "name": "Willow Creek",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=185460"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Willow Creek (2013)</h1>\n<p class=\"ssr-lead\">Looking to make a splash online with his research videos into the existence of Bigfoot, Jim and his girlfriend Kelly take a camping trip to the small town of Willow Creek, California, and the surrounding mountains where the infamous footage of the supposed sasquatch was filmed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 May 2013</li><li>Runtime: 80 minutes</li><li>Director: Bobcat Goldthwait</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 5.1/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexie Gilmore as Kelly</li><li>Bryce Johnson as Jim</li><li>Peter Jason as Ranger Troy Andrews</li><li>Timmy Red as Ukulele Singer</li><li>Bucky Sinister as Angry Man at Road</li><li>Laura Montagna as Missing Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Screambox Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Willow Creek (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:2260": {
+   "d": "Capturing the Friedmans (2003): Documentary/Crime film. Story: An Oscar nominated documentary about a middle-class… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zzA34BteuSwSgo9tYhtHwq87paL.jpg",
+   "industry": "world",
+   "k": "Capturing the Friedmans, Capturing the Friedmans movie, Capturing the Friedmans cast, Capturing the Friedmans story, Capturing the Friedmans box office collection, Capturing the Friedmans budget, Capturing the Friedmans review, Capturing the Friedmans rating, Capturing the Friedmans release date, Capturing the Friedmans Documentary, Capturing the Friedmans Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arnold Friedman"
+     },
+     {
+      "@type": "Person",
+      "name": "Elaine Friedman"
+     },
+     {
+      "@type": "Person",
+      "name": "David Friedman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Friedman"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Friedman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Capturing the Friedmans (2003): Documentary/Crime film. Story: An Oscar nominated documentary about a middle-class… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Jarecki"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zzA34BteuSwSgo9tYhtHwq87paL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2260",
+    "name": "Capturing the Friedmans",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2260"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Capturing the Friedmans (2003)</h1>\n<p class=\"ssr-lead\">An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 2003</li><li>Runtime: 107 minutes</li><li>Director: Andrew Jarecki</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 7.1/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arnold Friedman as Self (archive footage)</li><li>Elaine Friedman as Self</li><li>David Friedman as Self</li><li>Jesse Friedman as Self</li><li>Seth Friedman as Self (archive footage)</li><li>John McDermott as Self - Postal Inspector</li><li>Frances Galasso as Self - Ret. Director, Sex Crimes Unit</li><li>Anthony Sgueglia as Self - Detective, Sex Crimes Unit</li><li>Joseph Onorato as Self - Asst. District Attorney</li><li>Judd Martin as Self - Jesse&#x27;s Best Friend in High School</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Capturing the Friedmans (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:23160": {
    "d": "Werckmeister Harmonies (2001): Drama film. Story: A naive young man witnesses an escalation of violence… See cast and TMDB rating 7.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
@@ -768,6 +960,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Werckmeister Harmonies (2001)</h1>\n<p class=\"ssr-lead\">A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 February 2001</li><li>Runtime: 139 minutes</li><li>Director: Béla Tarr</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (403 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lars Rudolph as János Valuska</li><li>Peter Fitz as György Eszter</li><li>Hanna Schygulla as Tünde Eszter</li><li>Alfréd Járai as Lajos Harrer</li><li>Gyula Pauer as Mr. Hagelmayer</li><li>János Derzsi as Man In The Broad-Cloth Coat</li><li>Mihály Kormos as Factotum</li><li>Putyi Horváth as Porter</li><li>Éva Almássy Albert as Aunt Piri</li><li>Péter Dobai as Chief Constable</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Klassiki</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Werckmeister Harmonies (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:235260": {
+   "d": "Son of God (2014): Drama film. Story: In the Holy Land, the Roman occupation has produced a… See cast, budget $22M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hONTXxtQVSYySKW5f3nRndKUfhc.jpg",
+   "industry": "world",
+   "k": "Son of God, Son of God movie, Son of God cast, Son of God story, Son of God box office collection, Son of God budget, Son of God review, Son of God rating, Son of God release date, Son of God trailer, Son of God Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Diogo Morgado"
+     },
+     {
+      "@type": "Person",
+      "name": "Roma Downey"
+     },
+     {
+      "@type": "Person",
+      "name": "Greg Hicks"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrian Schiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Darwin Shaw"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Son of God (2014): Drama film. Story: In the Holy Land, the Roman occupation has produced a… See cast, budget $22M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Spencer"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hONTXxtQVSYySKW5f3nRndKUfhc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=235260",
+    "name": "Son of God",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-02-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=235260"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Son of God (2014)</h1>\n<p class=\"ssr-lead\">In the Holy Land, the Roman occupation has produced a cauldron of oppression, anxiety and excessive taxes levied upon the Jewish people. Fearing the wrath of Roman governor Pontius Pilate , Jewish high priest Caiaphas tries to keep control of his people. That control is threatened when Jesus arrives in Jerusalem, performing miracles and spreading messages of love and hope. Those who fear that Jesus will inspire a revolution decide that he must die.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 February 2014</li><li>Runtime: 138 minutes</li><li>Director: Christopher Spencer</li><li>Genres: Drama</li><li>Budget: $22M</li><li>TMDB rating: 6.8/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Diogo Morgado as Jesus</li><li>Roma Downey as Mary, Mother of Jesus</li><li>Greg Hicks as Pilate</li><li>Adrian Schiller as Caiaphas</li><li>Darwin Shaw as Peter</li><li>Sebastian Knapp as John</li><li>Joe Wredden as Judas</li><li>Simon Kunz as Nicodemus</li><li>Paul Marc Davis as Simon the Pharisee</li><li>Matthew Gravelle as Thomas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Son of God (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:2360": {
    "d": "Saving Grace (2000): Crime/Comedy film. Story: Unexpectedly widowed, prim and proper housewife Grace… See cast, budget $10M, and TMDB rating 6.5/10.",
@@ -832,6 +1087,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Saving Grace (2000)</h1>\n<p class=\"ssr-lead\">Unexpectedly widowed, prim and proper housewife Grace Trevethyn finds herself in dire financial straits when she inherits massive debts her late husband had been accruing for years. Faced with losing her house, she decides to use her talent for horticulture and hatches a plan to grow potent marijuana which can be sold at an astronomical price, thus solving her financial crisis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 January 2000</li><li>Runtime: 93 minutes</li><li>Director: Nigel Cole</li><li>Genres: Crime, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.5/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brenda Blethyn as Grace Trevethyn</li><li>Craig Ferguson as Matthew Steward</li><li>Martin Clunes as Dr. Martin Bamford</li><li>Tchéky Karyo as Jacques Chevalier</li><li>Jamie Foreman as China MacFarlane</li><li>Bill Bailey as Vince</li><li>Valerie Edmond as Nicky</li><li>Tristan Sturrock as Harvey</li><li>Leslie Phillips as Vicar Gerald Perey</li><li>Diana Quick as Honey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC+ Amazon Channel</li></ul>\n</article>",
    "t": "Saving Grace (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
+  },
+  "movie:24160": {
+   "d": "My Friends Act II (1982): Comedy film. Story: The four old friends meet on the grave of the fifth… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AtaH2jdp845H6oK59bkLlf25XXC.jpg",
+   "industry": "world",
+   "k": "My Friends Act II, My Friends Act II movie, My Friends Act II cast, My Friends Act II story, My Friends Act II box office collection, My Friends Act II budget, My Friends Act II review, My Friends Act II rating, My Friends Act II release date, My Friends Act II Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ugo Tognazzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Adolfo Celi"
+     },
+     {
+      "@type": "Person",
+      "name": "Gastone Moschin"
+     },
+     {
+      "@type": "Person",
+      "name": "Renzo Montagnani"
+     },
+     {
+      "@type": "Person",
+      "name": "Philippe Noiret"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "My Friends Act II (1982): Comedy film. Story: The four old friends meet on the grave of the fifth… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mario Monicelli"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AtaH2jdp845H6oK59bkLlf25XXC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24160",
+    "name": "My Friends Act II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-12-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24160"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Friends Act II (1982)</h1>\n<p class=\"ssr-lead\">The four old friends meet on the grave of the fifth of them, Perozzi, who died at the end of the first episode. Time has passed but they are still up for adventures and cruel jokes, and while they recall the one they created together with the late friend, new ones are on their way, starting right there at the cemetery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 1982</li><li>Runtime: 130 minutes</li><li>Director: Mario Monicelli</li><li>Genres: Comedy</li><li>TMDB rating: 7.6/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ugo Tognazzi as Il Conte Mascetti - Raffaello &quot;Lello&quot; Mascetti</li><li>Adolfo Celi as Professeur Sassaroli</li><li>Gastone Moschin as Il Melandri - Architetto Rambaldo Melandri</li><li>Renzo Montagnani as Necchi</li><li>Philippe Noiret as Giorgio Perozzi</li><li>Milena Vukotić as Alice Mascetti</li><li>Fiorella Bucci as Melisenda Mascetti</li><li>Franca Tamantini as Carmen</li><li>Paolo Stoppa as Savino Capogreco</li><li>Yole Marinelli as Anita Esposito</li></ul>\n</article>",
+   "t": "My Friends Act II (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
+  },
+  "movie:2760": {
+   "d": "The Lodger: A Story of the London Fog (1927): Crime/Thriller film. Story: London. A mysterious serial killer brutally murders… See cast and budget $14.7k.",
+   "img": "https://image.tmdb.org/t/p/w780/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+   "industry": "world",
+   "k": "The Lodger: A Story of the London Fog, The Lodger: A Story of the London Fog movie, The Lodger: A Story of the London Fog cast, The Lodger: A Story of the London Fog story, The Lodger: A Story of the London Fog box office collection, The Lodger: A Story of the London Fog budget, The Lodger: A Story of the London Fog review, The Lodger: A Story of the London Fog rating, The Lodger: A Story of the London Fog release date, The Lodger: A Story of the London Fog Crime, The Lodger: A Story of the London Fog Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ivor Novello"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie Ault"
+     },
+     {
+      "@type": "Person",
+      "name": "Arthur Chesney"
+     },
+     {
+      "@type": "Person",
+      "name": "June Tripp"
+     },
+     {
+      "@type": "Person",
+      "name": "Malcolm Keen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Lodger: A Story of the London Fog (1927): Crime/Thriller film. Story: London. A mysterious serial killer brutally murders… See cast and budget $14.7k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alfred Hitchcock"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2760",
+    "name": "The Lodger: A Story of the London Fog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1927-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2760"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lodger: A Story of the London Fog (1927)</h1>\n<p class=\"ssr-lead\">London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 1927</li><li>Runtime: 91 minutes</li><li>Director: Alfred Hitchcock</li><li>Genres: Crime, Thriller, Mystery</li><li>Budget: $14.7k</li><li>TMDB rating: 7.2/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ivor Novello as The Lodger Jonathan Drew</li><li>Marie Ault as Mrs. Bunting the Landlady</li><li>Arthur Chesney as Mr. Bunting</li><li>June Tripp as Daisy Bunting</li><li>Malcolm Keen as Joe Chandler</li><li>Reginald Gardiner as Dancer at Ball (uncredited)</li><li>Eve Gray as Showgirl Victim (uncredited)</li><li>Alfred Hitchcock as Man in Newspaper Office (uncredited)</li><li>Alma Reville as Woman Listening to Wireless (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, TCM, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Lodger: A Story of the London Fog (1927) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1927"
   },
   "movie:297160": {
    "d": "XX (2017): Horror film. Story: This all-female horror anthology features four dark… See cast, TMDB rating 5.0/10, and release date 17 February 2017.",
@@ -1103,6 +1485,198 @@
    "t": "Holding the Man (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:34560": {
+   "d": "Halloweentown High (2004): Family/Fantasy film. Story: Marnie puts her magic on the line to get several… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8yIBm3FmL0uADVnttvzRBSXaxJe.jpg",
+   "industry": "world",
+   "k": "Halloweentown High, Halloweentown High movie, Halloweentown High cast, Halloweentown High story, Halloweentown High box office collection, Halloweentown High budget, Halloweentown High review, Halloweentown High rating, Halloweentown High release date, Halloweentown High trailer, Halloweentown High Family, Halloweentown High Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kimberly J. Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Debbie Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Hoag"
+     },
+     {
+      "@type": "Person",
+      "name": "Joey Zimmerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Roeske"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 343,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Halloweentown High (2004): Family/Fantasy film. Story: Marnie puts her magic on the line to get several… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark A.Z. Dippé"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8yIBm3FmL0uADVnttvzRBSXaxJe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34560",
+    "name": "Halloweentown High",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34560"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Halloweentown High (2004)</h1>\n<p class=\"ssr-lead\">Marnie puts her magic on the line to get several Halloweentown teenagers transferred to her high school in the mortal world. But soon, Marnie and her new friends are in trouble and out of luck when the evil Knight Of The Iron Dagger appears. He&#x27;s determined to destroy all things magical, and it&#x27;s up to Marnie to save her high school, the human world and her magic.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2004</li><li>Runtime: 82 minutes</li><li>Director: Mark A.Z. Dippé</li><li>Genres: Family, Fantasy, Comedy, TV Movie</li><li>TMDB rating: 6.5/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kimberly J. Brown as Marnie Piper</li><li>Debbie Reynolds as Aggie Cromwell</li><li>Judith Hoag as Gwen Piper</li><li>Joey Zimmerman as Dylan Piper</li><li>Emily Roeske as Sophie Piper</li><li>Finn Wittrock as Cody</li><li>Clifton Davis as Principal Flannigan</li><li>Eliana Reyes as Cassie</li><li>Lucas Grabeel as Ethan</li><li>Michael Flynn as Dalloway</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Halloweentown High (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:348060": {
+   "d": "Antigang (2015): Action/Drama film. Story: As a rowdy team of detectives clashes with their… See cast, TMDB rating 5.9/10, and release date 19 August 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/eNwr5UbRWn6724zvY1i7oV74Iog.jpg",
+   "industry": "world",
+   "k": "Antigang, Antigang movie, Antigang cast, Antigang story, Antigang box office collection, Antigang budget, Antigang review, Antigang rating, Antigang release date, Antigang Action, Antigang Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Alban Lenoir"
+     },
+     {
+      "@type": "Person",
+      "name": "Caterina Murino"
+     },
+     {
+      "@type": "Person",
+      "name": "Oumar Diaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéfi Celma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 375,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Antigang (2015): Action/Drama film. Story: As a rowdy team of detectives clashes with their… See cast, TMDB rating 5.9/10, and release date 19 August 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Benjamin Rocher"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eNwr5UbRWn6724zvY1i7oV74Iog.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=348060",
+    "name": "Antigang",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=348060"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Antigang (2015)</h1>\n<p class=\"ssr-lead\">As a rowdy team of detectives clashes with their disciplined new boss, they must catch a vicious band of robbers who are wreaking havoc on their city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 2015</li><li>Runtime: 92 minutes</li><li>Director: Benjamin Rocher</li><li>Genres: Action, Drama</li><li>TMDB rating: 5.9/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Reno as Serge Buren</li><li>Alban Lenoir as Cartier</li><li>Caterina Murino as Margaux</li><li>Oumar Diaw as Manu</li><li>Stéfi Celma as Ricci</li><li>Sébastien Lalanne as Genoves</li><li>Thierry Neuvic as Becker</li><li>Jean-Toussaint Bernard as Boulez</li><li>Jakob Cedergren as Kasper</li><li>Sabrina Ouazani as Nadia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Antigang (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:371560": {
+   "d": "The Eyes of My Mother (2017): Drama/Horror film. Story: A young, lonely woman is consumed by her deepest and… See cast, budget $300.0k, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dUgO9cVENWQpDmZVzkWq2wXN5Od.jpg",
+   "industry": "world",
+   "k": "The Eyes of My Mother, The Eyes of My Mother movie, The Eyes of My Mother cast, The Eyes of My Mother story, The Eyes of My Mother box office collection, The Eyes of My Mother budget, The Eyes of My Mother review, The Eyes of My Mother rating, The Eyes of My Mother release date, The Eyes of My Mother trailer, The Eyes of My Mother Drama, The Eyes of My Mother Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kika Magalhães"
+     },
+     {
+      "@type": "Person",
+      "name": "Diana Agostini"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Brill"
+     },
+     {
+      "@type": "Person",
+      "name": "Clara Wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Bond"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 375,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Eyes of My Mother (2017): Drama/Horror film. Story: A young, lonely woman is consumed by her deepest and… See cast, budget $300.0k, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Pesce"
+     }
+    ],
+    "duration": "PT76M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dUgO9cVENWQpDmZVzkWq2wXN5Od.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=371560",
+    "name": "The Eyes of My Mother",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=371560"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Eyes of My Mother (2017)</h1>\n<p class=\"ssr-lead\">A young, lonely woman is consumed by her deepest and darkest desires after tragedy strikes her quiet country life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 February 2017</li><li>Runtime: 76 minutes</li><li>Director: Nicolas Pesce</li><li>Genres: Drama, Horror</li><li>Budget: $300.0k</li><li>TMDB rating: 6.2/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kika Magalhães as Francisca</li><li>Diana Agostini as Mother</li><li>Will Brill as Charlie</li><li>Clara Wong as Kimiko</li><li>Olivia Bond as Young Francisca</li><li>Joey Curtis-Green as Antonio</li><li>Flora Diaz as Lucy</li><li>Paul Nazak as Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel, Monsters and Nightmares Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "The Eyes of My Mother (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:38360": {
    "d": "The Cranes Are Flying (1957): Drama/Romance film. Story: Veronika and Boris come together in Moscow shortly… See cast and TMDB rating 7.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/r6bIGLFJ2ml9L970RNpuwDyb4Af.jpg",
@@ -1229,6 +1803,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Vault (2017)</h1>\n<p class=\"ssr-lead\">Two estranged sisters are forced to rob a bank in order to save their brother. But this is no ordinary bank.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 2017</li><li>Runtime: 91 minutes</li><li>Director: Dan Bush</li><li>Genres: Horror, Thriller</li><li>Budget: $5M</li><li>TMDB rating: 4.9/10 (435 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Franco as Ed Mass</li><li>Taryn Manning as Vee Dillon</li><li>Francesca Eastwood as Leah Dillon</li><li>Scott Haze as Michael Dillon</li><li>Q&#x27;orianka Kilcher as Susan Cromwell</li><li>Jeff Gum as James Aiken</li><li>Clifton Collins Jr. as Iger</li><li>Keith Loneker as Cyrus</li><li>Jill Jane Clements as Mary</li><li>Michael Milford as Kramer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "The Vault (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:429460": {
+   "d": "Muse (2017): Thriller/Horror film. Story: Samuel Salomon, a literature professor, has been off… See cast, TMDB rating 5.8/10, and release date 9 November 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/sImtWvw0KTzzlVLASnNQNb3qhTJ.jpg",
+   "industry": "world",
+   "k": "Muse, Muse movie, Muse cast, Muse story, Muse box office collection, Muse budget, Muse review, Muse rating, Muse release date, Muse Thriller, Muse Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elliot Cowan"
+     },
+     {
+      "@type": "Person",
+      "name": "Franka Potente"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Ularu"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonor Watling"
+     },
+     {
+      "@type": "Person",
+      "name": "Manuela Vellés"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Muse (2017): Thriller/Horror film. Story: Samuel Salomon, a literature professor, has been off… See cast, TMDB rating 5.8/10, and release date 9 November 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jaume Balagueró"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sImtWvw0KTzzlVLASnNQNb3qhTJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=429460",
+    "name": "Muse",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=429460"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Muse (2017)</h1>\n<p class=\"ssr-lead\">Samuel Salomon, a literature professor, has been off work for almost a year after the tragic death of his girlfriend. Samuel has been suffering from a recurring nightmare in which a woman is brutally murdered in a strange ritual. Suddenly, the same woman who appears every night in his dreams is found dead in exactly the same circumstances. Samuel sneaks into the crime scene and there he meets Rachel who has also dreamed about the murder. Together, they will do whatever they can to discover the identity of the mystery woman, entering a terrifying world controlled by the figures who have inspired artists throughout time: the Muses.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2017</li><li>Runtime: 107 minutes</li><li>Director: Jaume Balagueró</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.8/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elliot Cowan as Samuel Salomon</li><li>Franka Potente as Susan Gilard</li><li>Ana Ularu as Rachel</li><li>Leonor Watling as Lidia Garetti</li><li>Manuela Vellés as Beatriz Dagger</li><li>Joanne Whalley as Jacqueline</li><li>Christopher Lloyd as Rauschen</li><li>Cally O&#x27;Connell as Donnie</li><li>Sam Hardy as Nito</li><li>Stella McCusker as She Who Lies</li></ul>\n</article>",
+   "t": "Muse (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
   "movie:47760": {
@@ -1485,6 +2123,197 @@
    "t": "King of Thieves (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:525460": {
+   "d": "Welcome Home (2018): Thriller/Horror film. Story: A couple try to repair their damaged union in an… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1hrexCNSKU8SZ2rgl2UvBvcqs1M.jpg",
+   "industry": "world",
+   "k": "Welcome Home, Welcome Home movie, Welcome Home cast, Welcome Home story, Welcome Home box office collection, Welcome Home budget, Welcome Home review, Welcome Home rating, Welcome Home release date, Welcome Home trailer, Welcome Home Thriller, Welcome Home Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Paul"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Ratajkowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Riccardo Scamarcio"
+     },
+     {
+      "@type": "Person",
+      "name": "Katy Louise Saunders"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Bellagamba"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Welcome Home (2018): Thriller/Horror film. Story: A couple try to repair their damaged union in an… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Ratliff"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1hrexCNSKU8SZ2rgl2UvBvcqs1M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=525460",
+    "name": "Welcome Home",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-11-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=525460"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Welcome Home (2018)</h1>\n<p class=\"ssr-lead\">A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner&#x27;s intentions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 2018</li><li>Runtime: 98 minutes</li><li>Director: George Ratliff</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.3/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Paul as Bryan</li><li>Emily Ratajkowski as Cassie</li><li>Riccardo Scamarcio as Federico</li><li>Katy Louise Saunders as Alessandra</li><li>Alice Bellagamba as Isabella</li><li>Francesco Acquaroli as Eduardo</li><li>Nav Ghotra as Indian Woman</li><li>Sam Mane as Young Man</li><li>Daphne Alexander as Young Woman</li><li>Federico Riccardo Rossi as Young Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Welcome Home (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:541560": {
+   "d": "The Wind (2018): Horror/Mystery film. Story: Lizzy is a tough, resourceful frontierswoman settling… See cast, TMDB rating 5.7/10, and release date 5 May 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/cy70DnmcGf1Vo9XKYrz2t8NUzMS.jpg",
+   "industry": "world",
+   "k": "The Wind, The Wind movie, The Wind cast, The Wind story, The Wind box office collection, The Wind budget, The Wind review, The Wind rating, The Wind release date, The Wind trailer, The Wind Horror, The Wind Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Caitlin Gerard"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Zukerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Goldani Telles"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan McTee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 376,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Wind (2018): Horror/Mystery film. Story: Lizzy is a tough, resourceful frontierswoman settling… See cast, TMDB rating 5.7/10, and release date 5 May 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emma Tammi"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cy70DnmcGf1Vo9XKYrz2t8NUzMS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=541560",
+    "name": "The Wind",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-05-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=541560"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wind (2018)</h1>\n<p class=\"ssr-lead\">Lizzy is a tough, resourceful frontierswoman settling a remote stretch of land on the 19th-century American frontier. Isolated from civilization in a desolate wilderness where the wind never stops howling, she begins to sense a sinister presence that seems to be borne of the land itself, and when a newlywed couple arrive at a nearby homestead, their presence amplifies Lizzy&#x27;s fears, setting into motion a shocking chain of events.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2018</li><li>Runtime: 88 minutes</li><li>Director: Emma Tammi</li><li>Genres: Horror, Mystery, Western</li><li>TMDB rating: 5.7/10 (376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Caitlin Gerard as Lizzy Macklin</li><li>Ashley Zukerman as Isaac Macklin</li><li>Julia Goldani Telles as Emma Harper</li><li>Miles Anderson as The Reverend</li><li>Dylan McTee as Gideon Harper</li><li>Martin Patterson as Eli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Sundance Now, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Wind (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:541660": {
+   "d": "Loro (2018): Drama film. Story: Internationally released Director's Cut of \"Loro 1\"… See cast, budget $21M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z2yawpS9dv25HOif1oR6SlFORid.jpg",
+   "industry": "world",
+   "k": "Loro, Loro movie, Loro cast, Loro story, Loro box office collection, Loro budget, Loro review, Loro rating, Loro release date, Loro trailer, Loro Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Toni Servillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Elena Sofia Ricci"
+     },
+     {
+      "@type": "Person",
+      "name": "Riccardo Scamarcio"
+     },
+     {
+      "@type": "Person",
+      "name": "Kasia Smutniak"
+     },
+     {
+      "@type": "Person",
+      "name": "Euridice Axén"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Loro (2018): Drama film. Story: Internationally released Director's Cut of \"Loro 1\"… See cast, budget $21M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paolo Sorrentino"
+     }
+    ],
+    "duration": "PT157M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z2yawpS9dv25HOif1oR6SlFORid.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=541660",
+    "name": "Loro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=541660"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Loro (2018)</h1>\n<p class=\"ssr-lead\">Internationally released Director&#x27;s Cut of &quot;Loro 1&quot; and &quot;Loro 2&quot;, which were released separately as two movies in Italy. The film talks about the group of businessmen and politicians – the Loro (Them) from the title – who live and act near to media tycoon and politician Silvio Berlusconi in the years between 2006 and 2009.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 September 2018</li><li>Runtime: 157 minutes</li><li>Director: Paolo Sorrentino</li><li>Genres: Drama</li><li>Budget: $21M</li><li>TMDB rating: 6.7/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toni Servillo as Silvio Berlusconi / Ennio Doris</li><li>Elena Sofia Ricci as Veronica Lario</li><li>Riccardo Scamarcio as Sergio Morra</li><li>Kasia Smutniak as Kira</li><li>Euridice Axén as Tamara</li><li>Fabrizio Bentivoglio as Santino Recchia</li><li>Roberto De Francesco as Fabrizio Sala</li><li>Dario Cantarelli as Paolo Spagnolo</li><li>Anna Bonaiuto as Cupa Caiafa</li><li>Giovanni Esposito as Mariano Apicella</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Loro (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:55960": {
    "d": "Toto, Peppino, and the Hussy (1956): Comedy/Romance film. Story: Antonio, Peppino and Lucia are three brothers who… See cast and TMDB rating 8.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/oBBtZHbtLt8wOHemA9Qv8hzcqng.jpg",
@@ -1611,6 +2440,69 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>I Want You Back (2022)</h1>\n<p class=\"ssr-lead\">Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 2022</li><li>Runtime: 116 minutes</li><li>Director: Jason Orley</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.3/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Day as Peter</li><li>Jenny Slate as Emma Moore</li><li>Scott Eastwood as Noah</li><li>Gina Rodriguez as Anne</li><li>Manny Jacinto as Logan</li><li>Clark Backo as Ginny</li><li>Luke David Blumm as Trevor</li><li>Mason Gooding as Paul</li><li>Dylan Gelula as Lisa</li><li>Isabel May as Leighton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "I Want You Back (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:740460": {
+   "d": "The Wannabes (2022): Comedy film. Story: Daniel and Stéphane, two salesmen working in the same… See cast, TMDB rating 6.1/10, and release date 9 February 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
+   "industry": "world",
+   "k": "The Wannabes, The Wannabes movie, The Wannabes cast, The Wannabes story, The Wannabes box office collection, The Wannabes budget, The Wannabes review, The Wannabes rating, The Wannabes release date, The Wannabes Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Grégoire Ludig"
+     },
+     {
+      "@type": "Person",
+      "name": "David Marsais"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Pestel"
+     },
+     {
+      "@type": "Person",
+      "name": "Damien Gillard"
+     },
+     {
+      "@type": "Person",
+      "name": "Gaëlle Lebert"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 345,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Wannabes (2022): Comedy film. Story: Daniel and Stéphane, two salesmen working in the same… See cast, TMDB rating 6.1/10, and release date 9 February 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Barré"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=740460",
+    "name": "The Wannabes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-02-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=740460"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wannabes (2022)</h1>\n<p class=\"ssr-lead\">Daniel and Stéphane, two salesmen working in the same store but who cannot stand each other, decide despite everything to team up to participate in television games so they can pay their debts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 2022</li><li>Runtime: 102 minutes</li><li>Director: Jonathan Barré</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grégoire Ludig as Daniel Santini</li><li>David Marsais as Stéphane Chevalier</li><li>Julien Pestel as Blaise Petit</li><li>Damien Gillard as Fred Costa</li><li>Gaëlle Lebert as Laurence Santini</li><li>Juliette Plumecocq-Mech as Patricia</li><li>Théo Gross as Bastien</li><li>Patrick Hongniat as Gustave Chevalier</li><li>Alexandra Gentil as Léa</li><li>Harmandeep Palminder as FX</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Wannabes (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
   "movie:964960": {

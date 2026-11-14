@@ -1,7 +1,163 @@
 {
  "bucket": "28",
- "count": 41,
+ "count": 48,
  "titles": {
+  "movie:10128": {
+   "backdrop_path": "/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Matthew Sykes",
+     "n": "James Caan"
+    },
+    {
+     "c": "Samuel 'George' Francisco",
+     "n": "Mandy Patinkin"
+    },
+    {
+     "c": "William Harcourt",
+     "n": "Terence Stamp"
+    },
+    {
+     "c": "Rudyard Kipling",
+     "n": "Kevyn Major Howard"
+    },
+    {
+     "c": "Cassandra",
+     "n": "Leslie Bevis"
+    },
+    {
+     "c": "Fedorchuk",
+     "n": "Peter Jason"
+    },
+    {
+     "c": "Quint",
+     "n": "Conrad Dunn"
+    },
+    {
+     "c": "Joshua Strader",
+     "n": "Jeff Kober"
+    },
+    {
+     "c": "Bill Tuggle",
+     "n": "Roger Aaron Brown"
+    },
+    {
+     "c": "Captain Warner",
+     "n": "Francis X. McCarthy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Graham Baker"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Crime",
+    "Thriller",
+    "Action"
+   ],
+   "id": 10128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A few years from now, Earth will have the first contact with an alien civilization. These aliens, known as Newcomers, slowly begin to be integrated into human society after years of quarantine.",
+   "popularity": 2.0353,
+   "poster_path": "/2wEyQkFXX6ReyW44YQa1kLQYkCg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-10-07",
+   "revenue": 32155047,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare Yourself.",
+   "title": "Alien Nation",
+   "trailer": {
+    "key": "TmDRQWn7jgk",
+    "name": "Alien Nation",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.144,
+   "vote_count": 355
+  },
   "movie:10728": {
    "backdrop_path": "/dQbnFqsbtyHS7OD108vuFJiUyzy.jpg",
    "budget": 0,
@@ -649,6 +805,408 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 47
+  },
+  "movie:12528": {
+   "backdrop_path": "/1pXco8EiCGtYyBZuNSQIu6980lf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Spencer",
+     "n": "Keith Carradine"
+    },
+    {
+     "c": "Hardin",
+     "n": "Powers Boothe"
+    },
+    {
+     "c": "Reece",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "Simms",
+     "n": "Franklyn Seales"
+    },
+    {
+     "c": "Cribbs",
+     "n": "T.K. Carter"
+    },
+    {
+     "c": "Stuckey",
+     "n": "Lewis Smith"
+    },
+    {
+     "c": "Casper",
+     "n": "Les Lannom"
+    },
+    {
+     "c": "Poole",
+     "n": "Peter Coyote"
+    },
+    {
+     "c": "Bowden",
+     "n": "Alan Autry"
+    },
+    {
+     "c": "Trapper",
+     "n": "Brion James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Hill"
+   ],
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "id": 12528,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A squad of National Guards on an isolated weekend exercise in the Louisiana swamp must fight for their lives when they anger local Cajuns by stealing their canoes. Without live ammunition and in a strange country, their experience begins to mirror the Vietnam experience.",
+   "popularity": 1.8249,
+   "poster_path": "/nBPOcxiqc0PsG7Hz58JxSUN5BF0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-09-24",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's the land of hospitality... unless you don't belong there.",
+   "title": "Southern Comfort",
+   "trailer": {
+    "key": "SbjrFYzVnDw",
+    "name": "Vinegar Syndrome Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.841,
+   "vote_count": 380
+  },
+  "movie:14628": {
+   "backdrop_path": "/5a6ExKIhLAMRN72eQ3nwuFGtpbJ.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Irwin 'Fletch' Fletcher",
+     "n": "Chevy Chase"
+    },
+    {
+     "c": "Hamilton \"Ham\" Johnson",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Becky Culpepper",
+     "n": "Julianne Phillips"
+    },
+    {
+     "c": "Jimmy Lee Farnsworth",
+     "n": "R. Lee Ermey"
+    },
+    {
+     "c": "Frank Walker",
+     "n": "Richard Libertini"
+    },
+    {
+     "c": "Ben Dover",
+     "n": "Randall 'Tex' Cobb"
+    },
+    {
+     "c": "Calculus Entropy",
+     "n": "Cleavon Little"
+    },
+    {
+     "c": "Marvin Gillet",
+     "n": "George Wyner"
+    },
+    {
+     "c": "Amanda Ray Ross",
+     "n": "Patricia Kalember"
+    },
+    {
+     "c": "KKK Leader",
+     "n": "Geoffrey Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Ritchie"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 14628,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fletch is a fish out of water in small-town Louisiana, where he's checking out a tumbledown mansion he's inherited. When a woman he flirts with turns up dead, he becomes a suspect and must find the killer and clear his name.",
+   "popularity": 1.7265,
+   "poster_path": "/A30iCFQVKXvQzGHEE4hyVC0QtrD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-03-17",
+   "revenue": 35150960,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When there's more trouble than one man can handle...there's more than one man for the job.",
+   "title": "Fletch Lives",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.014,
+   "vote_count": 356
+  },
+  "movie:15028": {
+   "backdrop_path": "/ygys5z5itmGGbSp2G003A6crCyO.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Zak Gibbs",
+     "n": "Jesse Bradford"
+    },
+    {
+     "c": "Francesca",
+     "n": "Paula Garcés"
+    },
+    {
+     "c": "Dr. Earl Dopler",
+     "n": "French Stewart"
+    },
+    {
+     "c": "Henry Gates",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "Dr. Gibbs",
+     "n": "Robin Thomas"
+    },
+    {
+     "c": "Jenny Gibbs",
+     "n": "Julia Sweeney"
+    },
+    {
+     "c": "Kelly Gibbs",
+     "n": "Lindze Letherman"
+    },
+    {
+     "c": "Richard",
+     "n": "Jason George"
+    },
+    {
+     "c": "NSA Agent Moore",
+     "n": "Ken Jenkins"
+    },
+    {
+     "c": "Administrator",
+     "n": "Tony Abatemarco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Frakes"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 15028,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Until now, Zak Gibbs' greatest challenge has been to find a way to buy a car. But when he discovers an odd wristwatch amidst his father's various inventions and slips it on -- something very strange happens. The world around him seems to come to a stop, everything and everybody frozen in time. Zak quickly learns how to manipulate the device and he and his quick-witted and beautiful new friend, Francesca, start to have some real fun.",
+   "popularity": 2.9006,
+   "poster_path": "/6XZJ58gStdLZV8uJyTRcA5bGNyi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-03-29",
+   "revenue": 38793283,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What if you had the power to stop time?",
+   "title": "Clockstoppers",
+   "trailer": {
+    "key": "WuDCVKAoslY",
+    "name": "Clockstoppers - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.334,
+   "vote_count": 370
   },
   "movie:1549128": {
    "backdrop_path": "/ojD3wayQzUkzzjAadfuIOzo8Dwo.jpg",
@@ -1603,6 +2161,94 @@
    "vote_average": 5.2,
    "vote_count": 412
   },
+  "movie:320028": {
+   "backdrop_path": "/pULQ0mpwndS8Xj9yokTnqw1bugM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paolo Pontecorvo",
+     "n": "Alessandro Gassmann"
+    },
+    {
+     "c": "Betta Pontecorvo",
+     "n": "Valeria Golino"
+    },
+    {
+     "c": "Sandro De Luca",
+     "n": "Luigi Lo Cascio"
+    },
+    {
+     "c": "Claudio",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Simona",
+     "n": "Micaela Ramazzotti"
+    },
+    {
+     "c": "",
+     "n": "Marco Baliani"
+    },
+    {
+     "c": "Lucia",
+     "n": "Manuela Mandracchia"
+    },
+    {
+     "c": "Scintilla",
+     "n": "Giulia Salerno"
+    },
+    {
+     "c": "Pin",
+     "n": "Tommaso Strizzi"
+    },
+    {
+     "c": "la figlia",
+     "n": "Anna Virzì"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Francesca Archibugi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 320028,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Paolo is an outgoing and handsome real estate broker married to Simona, a beautiful woman from the rough outskirts of Rome who has become an author of spicy bestsellers and is pregnant with their child. Betta, Paolo’s sister and her husband Sandro organise a dinner party with Paolo, Simona and their childhood friend, the eccentric musician Claudio. During the lively gathering Paolo reveals what he would like to name his son, causing reactions to steam up and a torrent of revelations to follow reaching climactic proportions.",
+   "popularity": 0.7423,
+   "poster_path": "/f17lML6pYWA5OAQe9tHiM480sVc.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2015-01-22",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "An Italian Name",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.318,
+   "vote_count": 346
+  },
   "movie:38528": {
    "backdrop_path": "/8cg1VtHc2fdiRJYchbvvo2srswZ.jpg",
    "budget": 0,
@@ -1779,6 +2425,171 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 401
+  },
+  "movie:459928": {
+   "backdrop_path": "/AhwEkJY1RRna8M0dcSAhR9aCeF4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bree",
+     "n": "Nora-Jane Noone"
+    },
+    {
+     "c": "Jonna",
+     "n": "Alexandra Park"
+    },
+    {
+     "c": "Clara",
+     "n": "Diane Farr"
+    },
+    {
+     "c": "McGradey",
+     "n": "Tobin Bell"
+    },
+    {
+     "c": "Boy at the Pool",
+     "n": "Dogen Eyeler"
+    },
+    {
+     "c": "Detective Zimmerman",
+     "n": "Donald Prince"
+    },
+    {
+     "c": "Boy at the Pool",
+     "n": "Matthew Ryan Michaels"
+    },
+    {
+     "c": "David",
+     "n": "Christian Kain Blackburn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Matt Eskandari"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 459928,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two sisters are trapped under the fiberglass cover of an Olympic sized public pool and must brave the cold and each other to survive the harrowing night.",
+   "popularity": 1.8287,
+   "poster_path": "/y83L5OM2bQsaEm6H2bkgBDEggjx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-11-08",
+   "revenue": 6158,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "100,000 gallons of water. 50 meters wide. NO. WAY. OUT.",
+   "title": "12 Feet Deep",
+   "trailer": {
+    "key": "jxL67tUPt7Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.955,
+   "vote_count": 347
   },
   "movie:461928": {
    "backdrop_path": "/7GR03LqwB7ePPPhaK5BAYNzt3Vm.jpg",
@@ -3012,6 +3823,149 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 429
+  },
+  "movie:850028": {
+   "backdrop_path": "/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Sophie",
+     "n": "Wunmi Mosaku"
+    },
+    {
+     "c": "Tess",
+     "n": "Kaniehtiio Horn"
+    },
+    {
+     "c": "Simon",
+     "n": "Charlie Carrick"
+    },
+    {
+     "c": "Marcus",
+     "n": "Markjan Winnick"
+    },
+    {
+     "c": "Officer",
+     "n": "Daniel Stolfi"
+    },
+    {
+     "c": "Customer",
+     "n": "Carolyn Fe"
+    },
+    {
+     "c": "Fawning Sycophant",
+     "n": "Gordon Harper"
+    },
+    {
+     "c": "Store Owner",
+     "n": "Viviana Zarrillo"
+    },
+    {
+     "c": "Volunteer #1",
+     "n": "Mairi Babb"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Mary Nighy"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+   ],
+   "id": 850028,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pushed to the breaking point by Simon, her psychologically abusive boyfriend, Alice becomes an unwitting participant in an intervention staged by her two closest friends while on vacation. As she rediscovers the essence of herself and gains some much-needed perspective, she slowly starts to fray the cords of codependency that bind her. However, Simon's vengeance is as inevitable as it is shattering, and once unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.",
+   "popularity": 2.4282,
+   "poster_path": "/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-01-19",
+   "revenue": 121067,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the hardest thing to see is the truth.",
+   "title": "Alice, Darling",
+   "trailer": {
+    "key": "2D2ZRfqKUD4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 344
   },
   "movie:875828": {
    "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",

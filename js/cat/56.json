@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 38,
+ "count": 42,
  "titles": {
   "movie:1010756": {
    "backdrop_path": "/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
@@ -1282,6 +1282,171 @@
    "vote_average": 5.5,
    "vote_count": 400
   },
+  "movie:1956": {
+   "backdrop_path": "/zZ6I4kmBSKcA3r4LcvP1ya4Vkmh.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Gerry",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Gerry",
+     "n": "Matt Damon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gus Van Sant"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure",
+    "Mystery"
+   ],
+   "id": 1956,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two friends named Gerry become lost in the desert after taking a wrong turn. Their attempts to find their way home only lead them into further trouble.",
+   "popularity": 1.4368,
+   "poster_path": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+   "production_countries": [
+    "AR",
+    "CH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-09-20",
+   "revenue": 255000,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The desert can be a silent world.",
+   "title": "Gerry",
+   "trailer": {
+    "key": "L6Gfr0OJODI",
+    "name": "Gerry (2003) | Film4 Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 369
+  },
   "movie:20156": {
    "backdrop_path": "/dm760ik3qwkuBnuj8ayE75fx80c.jpg",
    "budget": 2000000,
@@ -1583,6 +1748,171 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 420
+  },
+  "movie:21956": {
+   "backdrop_path": "/3HX8idPAiLf3tFWMc9x8t8ukNI1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred Jones / Scooby-Doo (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Casey Kasem"
+    },
+    {
+     "c": "Daphne Blake (voice)",
+     "n": "Heather North"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "Nicole Jaffe"
+    },
+    {
+     "c": "Charlene Otero / Museum Guide / Old Woman #1 (voice)",
+     "n": "Candi Milo"
+    },
+    {
+     "c": "Sofia Otero / Old Woman #2 (voice)",
+     "n": "Maria Canals-Barrera"
+    },
+    {
+     "c": "Luis Otero / Musician #2 / Suspicious Tourist (voice)",
+     "n": "Jesse Borrego"
+    },
+    {
+     "c": "Jorge Otero (voice)",
+     "n": "Brandon Gonzales"
+    },
+    {
+     "c": "Señor Fuente / Man #1 (voice)",
+     "n": "Castulo Guerra"
+    },
+    {
+     "c": "El Curandero / Man #2 (voice)",
+     "n": "Benito Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Scott Jeralds"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Mystery"
+   ],
+   "id": 21956,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A friend of Fred's, Alejo Otero, invites the Scooby gang to Veracruz, Mexico. There they find a monster, El Chupacabra, terrorizing the town.",
+   "popularity": 2.0434,
+   "poster_path": "/fv4e6pGhl4fDUdRt2WIDLDgEq7e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-30",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A: Act macho. B: Eat tacos. C: Run!",
+   "title": "Scooby-Doo! and the Monster of Mexico",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.275,
+   "vote_count": 363
   },
   "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
@@ -2275,6 +2605,291 @@
    "type": "movie",
    "vote_average": 8.406,
    "vote_count": 385
+  },
+  "movie:811656": {
+   "backdrop_path": "/591Cjf3DWGAcJbQYdHmRS7fHH3z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Laura",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "Cody",
+     "n": "Santino Barnard"
+    },
+    {
+     "c": "Mr. Langtree",
+     "n": "Don Baldaramos"
+    },
+    {
+     "c": "Mrs. Langtree",
+     "n": "Colleen Camp"
+    },
+    {
+     "c": "Mr. Alonzo",
+     "n": "Lew Temple"
+    },
+    {
+     "c": "Jane",
+     "n": "Carol Anne Watts"
+    },
+    {
+     "c": "Policeman",
+     "n": "Peter Hodge"
+    },
+    {
+     "c": "Legionnaire",
+     "n": "Nick Vallelonga"
+    },
+    {
+     "c": "Grandmother",
+     "n": "Sally Elbert"
+    },
+    {
+     "c": "Young Grandmother",
+     "n": "Rachael Edlow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chris Sivertson"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 811656,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…",
+   "popularity": 1.6813,
+   "poster_path": "/vEOZlqNHRCM0ME7rRQ79Yc2apPk.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-29",
+   "revenue": 138450,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The past can pull you under.",
+   "title": "Monstrous",
+   "trailer": {
+    "key": "4bRnHRf6zv4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.858,
+   "vote_count": 356
+  },
+  "movie:890656": {
+   "backdrop_path": "/wMUPT99gw6IB9OVvC46rF8wHIRt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kai Jin",
+     "n": "Iko Uwais"
+    },
+    {
+     "c": "Lu Xin Lee",
+     "n": "Lewis Tan"
+    },
+    {
+     "c": "Tommy Wah",
+     "n": "Lawrence Kao"
+    },
+    {
+     "c": "Zama",
+     "n": "Pearl Thusi"
+    },
+    {
+     "c": "Preeya",
+     "n": "Francesca Corney"
+    },
+    {
+     "c": "Zan Hui",
+     "n": "JuJu Chan"
+    },
+    {
+     "c": "William Pan",
+     "n": "Jason Tobin"
+    },
+    {
+     "c": "Ku An Qi",
+     "n": "Rhatha Phongam"
+    },
+    {
+     "c": "Green-Eyed Woman",
+     "n": "Selina Wiesmann"
+    },
+    {
+     "c": "The Bartender",
+     "n": "Joseph Angelo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roel Reiné"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 890656,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.",
+   "popularity": 1.9204,
+   "poster_path": "/3cccEF9QZgV9bLWyupJO41HSrOV.jpg",
+   "production_countries": [
+    "US",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-18",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fistful of Vengeance",
+   "trailer": {
+    "key": "vC_n_L1KGbo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 344
   },
   "movie:934756": {
    "backdrop_path": "/orV7mt3Gu4h2WEE2ki2CfeIkMuK.jpg",

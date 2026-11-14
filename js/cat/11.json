@@ -1,7 +1,184 @@
 {
  "bucket": "11",
- "count": 44,
+ "count": 50,
  "titles": {
+  "movie:10411": {
+   "backdrop_path": "/4AR1E5kJ0QiQh0zPWd9KLYCxM4v.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Thomas Jefferson Johnson",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Dick Dodge",
+     "n": "Lane Smith"
+    },
+    {
+     "c": "Miss Loretta",
+     "n": "Sheryl Lee Ralph"
+    },
+    {
+     "c": "Olaf Andersen",
+     "n": "Joe Don Baker"
+    },
+    {
+     "c": "Celia Kirby",
+     "n": "Victoria Rowell"
+    },
+    {
+     "c": "Arthur Reinhardt",
+     "n": "Grant Shaud"
+    },
+    {
+     "c": "Terry Corrigan",
+     "n": "Kevin McCarthy"
+    },
+    {
+     "c": "Elijah Hawkins",
+     "n": "Charles S. Dutton"
+    },
+    {
+     "c": "Armando",
+     "n": "Victor Rivers"
+    },
+    {
+     "c": "Homer",
+     "n": "Chi McBride"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Lynn"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10411,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Florida con man uses the recent death of the long time Congressman from his district, who he just happens to share a last name with, to get elected to his version of paradise, the U.S. Congress, where the money flows from lobbyists.",
+   "popularity": 1.9703,
+   "poster_path": "/ny722xPMhsY6JlRmQQjLZs7JP0S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-12-04",
+   "revenue": 46666502,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From con man to congressman.",
+   "title": "The Distinguished Gentleman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 343
+  },
   "movie:10511": {
    "backdrop_path": "/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
    "budget": 0,
@@ -2361,6 +2538,107 @@
    "vote_average": 5.27,
    "vote_count": 422
   },
+  "movie:3111": {
+   "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+   "budget": 5019770,
+   "cast": [
+    {
+     "c": "Vicki Lester",
+     "n": "Judy Garland"
+    },
+    {
+     "c": "Norman Maine",
+     "n": "James Mason"
+    },
+    {
+     "c": "Matt Libby",
+     "n": "Jack Carson"
+    },
+    {
+     "c": "Oliver Niles",
+     "n": "Charles Bickford"
+    },
+    {
+     "c": "Danny McGuire",
+     "n": "Tommy Noonan"
+    },
+    {
+     "c": "Lola Lavery",
+     "n": "Lucy Marlow"
+    },
+    {
+     "c": "Susan Ettinger",
+     "n": "Amanda Blake"
+    },
+    {
+     "c": "Graves",
+     "n": "Irving Bacon"
+    },
+    {
+     "c": "Libby's Secretary",
+     "n": "Hazel Shermet"
+    },
+    {
+     "c": "Glenn Williams (uncredited)",
+     "n": "James Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "George Cukor"
+   ],
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "id": 3111,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A movie star helps a young singer-actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+   "popularity": 2.5178,
+   "poster_path": "/zpg2SzpYhZk1D1seDfIIlwaqAxT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1954-10-16",
+   "revenue": 12000000,
+   "runtime": 176,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The applause of the world... and then this!",
+   "title": "A Star Is Born",
+   "trailer": {
+    "key": "K48JkClgYIs",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.132,
+   "vote_count": 344
+  },
   "movie:31411": {
    "backdrop_path": "/7Za5Riy12u1CUDXeqMUlDBweYAE.jpg",
    "budget": 0,
@@ -2764,6 +3042,185 @@
    "vote_average": 5.654,
    "vote_count": 490
   },
+  "movie:34311": {
+   "backdrop_path": "/xXXUXxjZcuRE2zExhwtYG5RBat4.jpg",
+   "budget": 465000,
+   "cast": [
+    {
+     "c": "Angela Johnson",
+     "n": "Pamela Springsteen"
+    },
+    {
+     "c": "Molly Nagle",
+     "n": "Renée Estevez"
+    },
+    {
+     "c": "Sean Whitmore",
+     "n": "Tony Higgins"
+    },
+    {
+     "c": "Ally Burgess",
+     "n": "Valerie Hartman"
+    },
+    {
+     "c": "TC",
+     "n": "Brian Patrick Clarke"
+    },
+    {
+     "c": "Uncle John",
+     "n": "Walter Gotell"
+    },
+    {
+     "c": "Mare",
+     "n": "Susan Marie Snyder"
+    },
+    {
+     "c": "Demi",
+     "n": "Kendall Bean"
+    },
+    {
+     "c": "Lea",
+     "n": "Julie Murphy"
+    },
+    {
+     "c": "Brooke",
+     "n": "Carol Chambers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael A. Simpson"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 34311,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Angela Baker escapes from a mental hospital and surfaces at a summer camp as a counselor who lectures her teenage charges on proper moral behavior. Those teens who break her strict rules -- from the camp chatterbox or a sex-obsessed girl to the boys who are peeping Toms -- are murdered by the impostor in various gruesome ways. As more campers go missing, intrepid counselor Molly begins to piece together the truth.",
+   "popularity": 2.3983,
+   "poster_path": "/mHBKvFaq5vLcdbx6fnZ67vENzQk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qUSKopZ7YFZ6N1dUpTbNhgZd5FH.png",
+     "name": "ScreenPix Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu1q89warmeMRwZRMgWQSl6GIYV.png",
+     "name": "ScreenPix Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-08-26",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's back...",
+   "title": "Sleepaway Camp II: Unhappy Campers",
+   "trailer": {
+    "key": "-koz9LRQHIQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 342
+  },
   "movie:364111": {
    "backdrop_path": "/A4EYBTiUFUS1av5xb5GDjvouJJN.jpg",
    "budget": 0,
@@ -2871,6 +3328,162 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 444
+  },
+  "movie:37211": {
+   "backdrop_path": "/qFeuSLq1InfpK9PgjFHmdY3UZNq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Casey Kasem"
+    },
+    {
+     "c": "Scooby-Doo / Scrappy-Doo (voice)",
+     "n": "Don Messick"
+    },
+    {
+     "c": "Googie / Repulsa (voice)",
+     "n": "B.J. Ward"
+    },
+    {
+     "c": "Dracula (voice)",
+     "n": "Hamilton Camp"
+    },
+    {
+     "c": "Vanna Pira (voice)",
+     "n": "Pat Musick"
+    },
+    {
+     "c": "Brunch (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Crunch (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Frankenstein / Skull Head / Genghis Kong (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Bonejangles (voice)",
+     "n": "Brian Stokes Mitchell"
+    },
+    {
+     "c": "Dr. Jackyll / Mr. Snyde (voice)",
+     "n": "Ed Gilbert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ray Patterson"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "TV Movie"
+   ],
+   "id": 37211,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shaggy is turned into a werewolf by the wicked Count Dracula, and it's up to Scooby, Scrappy and Shaggy's girlfriend Googie to help him win a race against other monsters, and become human again.",
+   "popularity": 2.122,
+   "poster_path": "/cXUQuHnNBxFSZAmYfogMfrcvMk7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-11-13",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The New Scooby-Doo Movie You'll Howl For!",
+   "title": "Scooby-Doo! and the Reluctant Werewolf",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 353
   },
   "movie:392011": {
    "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
@@ -3152,6 +3765,95 @@
    "type": "movie",
    "vote_average": 4.306,
    "vote_count": 425
+  },
+  "movie:419511": {
+   "backdrop_path": "/7aKx0Qk3V5Q1coqriH0BCK9GIXT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Martino De Simone",
+     "n": "Alessandro Siani"
+    },
+    {
+     "c": "Guglielmo Gioia",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Augusta",
+     "n": "Carla Signoris"
+    },
+    {
+     "c": "Arianna Crof",
+     "n": "Elena Cucci"
+    },
+    {
+     "c": "Caterina De Simone",
+     "n": "Cristiana Dell'Anna"
+    },
+    {
+     "c": "Procolo",
+     "n": "Yari Gugliucci"
+    },
+    {
+     "c": "Pappagallo (voice)",
+     "n": "Francesco Cicchella"
+    },
+    {
+     "c": "Camionista",
+     "n": "Stefano Ambrogi"
+    },
+    {
+     "c": "Primario ospedale",
+     "n": "Giuseppe Antignati"
+    },
+    {
+     "c": "Dottoressa",
+     "n": "Antonella Arseni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Siani"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 419511,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A slacker switches up his cleaning job by pretending to be a mental coach's assistant and consults an injured ice skater who has lost her confidence.",
+   "popularity": 0.5997,
+   "poster_path": "/rdBwgbZOjWcrMKiXdkLTutOyUsw.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-01-01",
+   "revenue": 10748185,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mister Happiness",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 346
   },
   "movie:4911": {
    "backdrop_path": "/dmpYhHScw2B0PD9XM0HG0NF0q7T.jpg",
@@ -3475,6 +4177,187 @@
    "type": "movie",
    "vote_average": 6.053,
    "vote_count": 416
+  },
+  "movie:795811": {
+   "backdrop_path": "/mTOUk5M0LXIATbJDZkeH4xzA2hV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Meiko",
+     "n": "Kotone Furukawa"
+    },
+    {
+     "c": "Kazuaki",
+     "n": "Ayumu Nakajima"
+    },
+    {
+     "c": "Tsugumi",
+     "n": "Hyunri"
+    },
+    {
+     "c": "Segawa",
+     "n": "Kiyohiko Shibukawa"
+    },
+    {
+     "c": "Nao",
+     "n": "Katsuki Mori"
+    },
+    {
+     "c": "Sasaki",
+     "n": "Shouma Kai"
+    },
+    {
+     "c": "Natsuko",
+     "n": "Fusako Urabe"
+    },
+    {
+     "c": "Aya",
+     "n": "Aoba Kawai"
+    },
+    {
+     "c": "Magazine Editor",
+     "n": "Hitoshi Omika"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Ryusuke Hamaguchi"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 795811,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
+   "popularity": 2.4206,
+   "poster_path": "/z3xqVWOsetW6pSEgx1uiqXfzRet.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-11",
+   "revenue": 1548033,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Wheel of Fortune and Fantasy",
+   "trailer": {
+    "key": "e3IDB--grzs",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.203,
+   "vote_count": 377
   },
   "tv:1411": {
    "backdrop_path": "/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",

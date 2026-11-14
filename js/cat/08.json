@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 39,
+ "count": 47,
  "titles": {
   "movie:10208": {
    "backdrop_path": "/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
@@ -118,6 +118,147 @@
    "type": "movie",
    "vote_average": 6.122,
    "vote_count": 385
+  },
+  "movie:10908": {
+   "backdrop_path": "/vRx6kzCItpqwnYCcj2z8qf70gv3.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Eddie Lomax",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Jubal Early",
+     "n": "Pat Morita"
+    },
+    {
+     "c": "Johnny Six Toes",
+     "n": "Danny Trejo"
+    },
+    {
+     "c": "Rhonda Reynolds",
+     "n": "Gabrielle Fitzpatrick"
+    },
+    {
+     "c": "Ramsey Hogan",
+     "n": "Larry Drake"
+    },
+    {
+     "c": "Mr. Singh",
+     "n": "Vincent Schiavelli"
+    },
+    {
+     "c": "Matt Hogan",
+     "n": "David \"Shark\" Fralick"
+    },
+    {
+     "c": "Jesse Hogan",
+     "n": "Silas Weir Mitchell"
+    },
+    {
+     "c": "Petey Hogan",
+     "n": "Jonathan Avildsen"
+    },
+    {
+     "c": "Dottie Matthews",
+     "n": "Jaime Pressly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John G. Avildsen"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+   ],
+   "id": 10908,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eddie Lomax is a drifter who has been in a suicidal funk since the death of his close friend Johnny. Riding his motorcycle into a small desert town where Johnny once lived, Lomax is confronted by a gang of toughs, who beat him and steal his bike. However, Lomax is not a man to take an injustice lying down, and soon he begins exacting a violent revenge on the men who stole his motorcycle, with local handyman Jubal Early lending a hand and several area ladies offering aid and comfort.",
+   "popularity": 3.2279,
+   "poster_path": "/n5C3PSYfjpUqBhyVWEWJQmM3Sr9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-09-25",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Left for dead. Burning for revenge",
+   "title": "Inferno",
+   "trailer": {
+    "key": "mIeJ3ogJAlQ",
+    "name": "J.C.V.D - Inferno / Desert Heat [1999] - Trailer (HQ)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 366
   },
   "movie:1206008": {
    "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
@@ -410,6 +551,112 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 111
+  },
+  "movie:13908": {
+   "backdrop_path": "/fRATaeFqwsaHJuC7ERsGzoYs2lU.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Pistachio Disguisey",
+     "n": "Dana Carvey"
+    },
+    {
+     "c": "Devlin Bowman",
+     "n": "Brent Spiner"
+    },
+    {
+     "c": "Jennifer Baker",
+     "n": "Jennifer Esposito"
+    },
+    {
+     "c": "Grandfather Disguisey",
+     "n": "Harold Gould"
+    },
+    {
+     "c": "Fabbrizio Disguisey",
+     "n": "James Brolin"
+    },
+    {
+     "c": "Barney Baker",
+     "n": "Austin Wolff"
+    },
+    {
+     "c": "Mother Disguisey",
+     "n": "Edie McClurg"
+    },
+    {
+     "c": "Sophia (as Maria Canals)",
+     "n": "Maria Canals-Barrera"
+    },
+    {
+     "c": "Texas Man",
+     "n": "Robert Machray"
+    },
+    {
+     "c": "Henchman",
+     "n": "Michael Bailey Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Perry Andelin Blake"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 13908,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the patriarch of the Disguisey family is kidnapped by Devlin Bowman in an attempt to steal the most precious treasures from around the world, Italian waiter Pistachio Disguisey utilizes his supernatural ability to disguise himself in an attempt to stop him.",
+   "popularity": 2.0965,
+   "poster_path": "/JFKuKJeHHFFVb0ubpkPIXmkIOg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-08-02",
+   "revenue": 43400000,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "1,000 faces...and not a single clue.",
+   "title": "The Master of Disguise",
+   "trailer": {
+    "key": "e7sfYC2o3-U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.039,
+   "vote_count": 348
   },
   "movie:1442908": {
    "backdrop_path": "/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
@@ -1733,6 +1980,109 @@
    "vote_average": 6.8,
    "vote_count": 384
   },
+  "movie:31608": {
+   "backdrop_path": "/fRJKTmRji1LewYJvzCkYp3GCD7o.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Lucas",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Ned Perry",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Meg Perry",
+     "n": "Sarah Rowland Doroff"
+    },
+    {
+     "c": "Dugan",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Tener",
+     "n": "Alan Ruck"
+    },
+    {
+     "c": "Horvath",
+     "n": "Kenneth McMillan"
+    },
+    {
+     "c": "Bank Teller",
+     "n": "David Arnott"
+    },
+    {
+     "c": "Charlie",
+     "n": "Bruce McGill"
+    },
+    {
+     "c": "Woman Cop",
+     "n": "Lee Garlington"
+    },
+    {
+     "c": "Tucker",
+     "n": "Sy Richardson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Francis Veber"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 31608,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On his first day after being released from jail for 14 armed bank robberies, Lucas finds himself caught up in someone else's robbery. Perry has decided to hold up the local bank to raise money so that he can keep his daughter, Meg, and get her the treatment she needs. Dugan, a detective, assumes Lucas helped plan the robbery, and hence Lucas, Perry and Meg become three fugitives.",
+   "popularity": 2.4247,
+   "poster_path": "/qUNgtb0LEkRcHGanKHO0B3JWsw9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-01-27",
+   "revenue": 40600000,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They rob banks. She steals hearts.",
+   "title": "Three Fugitives",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.672,
+   "vote_count": 347
+  },
   "movie:33908": {
    "backdrop_path": "/lJ5lUT0yccP3ejklErN0HqlGMwv.jpg",
    "budget": 77532,
@@ -1981,6 +2331,141 @@
    "vote_average": 6.802,
    "vote_count": 442
   },
+  "movie:36208": {
+   "backdrop_path": "/j6izee2sNjefaFb2haOfbcKjaGc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tramp",
+     "n": "Charlie Chaplin"
+    },
+    {
+     "c": "Bartender (uncredited)",
+     "n": "Dave Anderson"
+    },
+    {
+     "c": "Unemployed Man (uncredited)",
+     "n": "Bert Appling"
+    },
+    {
+     "c": "Crook (uncredited)",
+     "n": "Albert Austin"
+    },
+    {
+     "c": "Fat Unemployed Man / Dance-Hall Lady (uncredited)",
+     "n": "Henry Bergman"
+    },
+    {
+     "c": "Man in Dance Hall (uncredited)",
+     "n": "Alva D. Blake"
+    },
+    {
+     "c": "Employment Agency Clerk (uncredited)",
+     "n": "Mel Brown"
+    },
+    {
+     "c": "Dance-Hall Dramatic Lady (uncredited)",
+     "n": "Minnie Chaplin"
+    },
+    {
+     "c": "Lunchwagon Owner (uncredited)",
+     "n": "Sydney Chaplin"
+    },
+    {
+     "c": "Woman in Dance Hall (uncredited)",
+     "n": "Dorothy Cleveland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Charlie Chaplin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 36208,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Tramp and his dog companion struggle to survive in the inner city.",
+   "popularity": 1.9032,
+   "poster_path": "/41vqtliesQrsJQ9iTJh5nFYQgBg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "FILMBOX+ Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1918-04-14",
+   "revenue": 0,
+   "runtime": 34,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "In his First Million Dollar Picture",
+   "title": "A Dog's Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.319,
+   "vote_count": 381
+  },
   "movie:400608": {
    "backdrop_path": "/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
    "budget": 0,
@@ -2217,6 +2702,242 @@
    "vote_average": 7.098,
    "vote_count": 496
   },
+  "movie:553608": {
+   "backdrop_path": "/3tt3tp81aGboViMplQItugAI2RO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cintia Dorella",
+     "n": "Maisa Silva"
+    },
+    {
+     "c": "Fredy Prince",
+     "n": "Filipe Bragança"
+    },
+    {
+     "c": "Patrícia Rocha",
+     "n": "Fernanda Paes Leme"
+    },
+    {
+     "c": "Graziele Rocha",
+     "n": "Letícia Pedro"
+    },
+    {
+     "c": "Gisele Rocha",
+     "n": "Kiria Malheiros"
+    },
+    {
+     "c": "Helena Dorella",
+     "n": "Elisa Pinheiro"
+    },
+    {
+     "c": "César Dorella",
+     "n": "Marcelo Valle"
+    },
+    {
+     "c": "Ana Dorella",
+     "n": "Miriam Freeland"
+    },
+    {
+     "c": "Belinha",
+     "n": "Giovanna Grigio"
+    },
+    {
+     "c": "Lara",
+     "n": "Bárbara Maia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bruno Garotti"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 553608,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Cintia is modern princess, she's connected, decided and loves music. This \"pop\" princess used to live with their parents in a huge castle with a nice view to the city. Every night she looked through the window and watch the view dreaming with a prince she didn't met yet. But one day her castle crumbles with everything around her, after her parents divorce she went to live with her aunt and stops believing in love.  What she didn't knew was that there was a charming prince in her history, that wanted to break the ice around our modern day cinderella.",
+   "popularity": 1.047,
+   "poster_path": "/rhEMGSlmtfvUYdGuE3M1dB0SmOA.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-02-28",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "DJ Cinderella",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 355
+  },
+  "movie:560008": {
+   "backdrop_path": "/2iOWzL6dManoWwzGEbe0mHkcdpm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "W. Eugene Smith",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Aileen",
+     "n": "Minami"
+    },
+    {
+     "c": "Mitsuo Yamazaki",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Robert \"Bob\" Hayes",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Junichi Nojima",
+     "n": "Jun Kunimura"
+    },
+    {
+     "c": "Kiyoshi",
+     "n": "Ryo Kase"
+    },
+    {
+     "c": "Tatsuo Matsumura",
+     "n": "Tadanobu Asano"
+    },
+    {
+     "c": "Masako Matsumura",
+     "n": "Akiko Iwase"
+    },
+    {
+     "c": "Millie",
+     "n": "Katherine Jenkins"
+    },
+    {
+     "c": "Diandra",
+     "n": "Lily Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Levitas"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 560008,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "War photographer W. Eugene Smith travels back to Japan where he documents the devastating effect of mercury poisoning in coastal communities.",
+   "popularity": 2.4516,
+   "poster_path": "/tjn9yxa5QNFsV2mFPsaWdqOOk2g.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "RS"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-13",
+   "revenue": 1623809,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let truth be the prejudice.",
+   "title": "Minamata",
+   "trailer": {
+    "key": "o4Z6ZALPabA",
+    "name": "Minamata - North American Trailer - starring Johnny Depp",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.893,
+   "vote_count": 351
+  },
   "movie:617708": {
    "backdrop_path": "/hXjK21t5S6WRR8HnG3apYpZ5lJW.jpg",
    "budget": 0,
@@ -2452,6 +3173,164 @@
    "type": "movie",
    "vote_average": 6.383,
    "vote_count": 389
+  },
+  "movie:642208": {
+   "backdrop_path": "/BjLgTDAcZc94KomcQAxMVye0yI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Tusker",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Clive",
+     "n": "Peter MacQueen"
+    },
+    {
+     "c": "Lilly",
+     "n": "Pippa Haywood"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Nina Marlin"
+    },
+    {
+     "c": "Paul",
+     "n": "Ian Drysdale"
+    },
+    {
+     "c": "Lola",
+     "n": "Lori Campbell"
+    },
+    {
+     "c": "Sue",
+     "n": "Sarah Woodward"
+    },
+    {
+     "c": "Tim",
+     "n": "James Dreyfus"
+    },
+    {
+     "c": "Shop Assistant",
+     "n": "Halema Hussain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Harry Macqueen"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 642208,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Sam and Tusker, partners of 20 years, are traveling across England in their old RV visiting friends, family and places from their past. Since Tusker was diagnosed with early-onset dementia two years ago, their time together is the most important thing they have.  As the trip progresses, however, their ideas for the future clash, secrets come out, and their love for each other is tested as never before. Ultimately, they must confront the question of what it means to love one another in the face of Tusker’s illness.",
+   "popularity": 1.6806,
+   "poster_path": "/c21Vwt4shqVxCQziFz0Hf91wSow.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-20",
+   "revenue": 3415787,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Supernova",
+   "trailer": {
+    "key": "I4Vk0CVcDts",
+    "name": "SUPERNOVA - Official Trailer - Starring Colin Firth and Stanley Tucci",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.856,
+   "vote_count": 365
   },
   "movie:672208": {
    "backdrop_path": "/rXRf5Okqg0FzDpmZkt4wly2asB2.jpg",
@@ -3337,6 +4216,116 @@
    "type": "movie",
    "vote_average": 6.879,
    "vote_count": 409
+  },
+  "movie:991708": {
+   "backdrop_path": "/f0oDdvbzZ1qjfggotV1aniJmd6b.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "El Conde",
+     "n": "Jaime Vadell"
+    },
+    {
+     "c": "Lucia",
+     "n": "Gloria Münchmeyer"
+    },
+    {
+     "c": "Fyodor",
+     "n": "Alfredo Castro"
+    },
+    {
+     "c": "Carmencita",
+     "n": "Paula Luchsinger"
+    },
+    {
+     "c": "Margaret",
+     "n": "Stella Gonet"
+    },
+    {
+     "c": "Luciana",
+     "n": "Catalina Guerra"
+    },
+    {
+     "c": "Mercedes",
+     "n": "Amparo Noguera"
+    },
+    {
+     "c": "Jacinta",
+     "n": "Antonia Zegers"
+    },
+    {
+     "c": "Aníbal",
+     "n": "Marcial Tagle"
+    },
+    {
+     "c": "Manuel",
+     "n": "Diego Muñoz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Pablo Larraín"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Horror"
+   ],
+   "id": 991708,
+   "industry": "world",
+   "origin_country": [
+    "CL"
+   ],
+   "original_language": "es",
+   "overview": "After living for over two centuries, Augusto Pinochet is a vampire ready to die… but the vultures around him won't let him go without one last bite.",
+   "popularity": 1.734,
+   "poster_path": "/5tcbdLbMzYEMBeJwf5PWcgUnmVa.jpg",
+   "production_countries": [
+    "CL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-07",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Things are about to get bloody...",
+   "title": "El Conde",
+   "trailer": {
+    "key": "YGvX7ma7Xnk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.109,
+   "vote_count": 380
   },
   "tv:126308": {
    "backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",

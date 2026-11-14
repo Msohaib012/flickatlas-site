@@ -1,7 +1,149 @@
 {
  "bucket": "91",
- "count": 38,
+ "count": 50,
  "titles": {
+  "movie:10491": {
+   "backdrop_path": "/pE334YKo9NNgee3VEGl6VR6gGSZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom Jericho",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Hester Wallace",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Claire Romilly",
+     "n": "Saffron Burrows"
+    },
+    {
+     "c": "Mr. Wigram",
+     "n": "Jeremy Northam"
+    },
+    {
+     "c": "Puck",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Logie",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Leveret",
+     "n": "Donald Sumpter"
+    },
+    {
+     "c": "Cave",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Baxter",
+     "n": "Richard Leaf"
+    },
+    {
+     "c": "Pinker",
+     "n": "Bohdan Poraj"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Apted"
+   ],
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller",
+    "Romance",
+    "War"
+   ],
+   "id": 10491,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The story of the WWII project to crack the code behind the Enigma machine, used by the Germans to encrypt messages sent to their submarines.",
+   "popularity": 2.0958,
+   "poster_path": "/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-01-22",
+   "revenue": 15705007,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Unlock the secret.",
+   "title": "Enigma",
+   "trailer": {
+    "key": "4bIBaf2MF18",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.299,
+   "vote_count": 369
+  },
   "movie:1051891": {
    "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
    "budget": 5000000,
@@ -1949,6 +2091,353 @@
    "vote_average": 7.958,
    "vote_count": 143
   },
+  "movie:2791": {
+   "backdrop_path": "/df6629Du7ndSJtjaDwa9glag5Hj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard B. Riddick (voice)",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Jack (voice)",
+     "n": "Rhiana Griffith"
+    },
+    {
+     "c": "Abu 'Imam' al-Walid (voice)",
+     "n": "Keith David"
+    },
+    {
+     "c": "Antonia Chillingsworth (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Junner (voice)",
+     "n": "Roger L. Jackson"
+    },
+    {
+     "c": "Toombs (voice)",
+     "n": "Nick Chinlund"
+    },
+    {
+     "c": "Skiff A.I. (voice)",
+     "n": "Dwight Schultz"
+    },
+    {
+     "c": "Merc Squad Leader (voice)",
+     "n": "Julia Fletcher"
+    },
+    {
+     "c": "Lab Tech (voice)",
+     "n": "Hedy Burress"
+    },
+    {
+     "c": "Tech (voice)",
+     "n": "Andrew Philpot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Peter Chung"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 2791,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After their narrow escape at the end of \"Pitch Black,\"  Riddick, Jack and the Imam find themselves at the mercy of a madwoman who intends to entomb Riddick forever as part of a twisted art exhibit.  With little but a shiv and Riddick's innate viciousness to aid them, Riddick and his allies must find a way to escape from their captor and her band of mercenaries.",
+   "popularity": 0.5364,
+   "poster_path": "/rfNOl21lDRyqTeORYp4PiBlsW1t.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-06-15",
+   "revenue": 0,
+   "runtime": 34,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Chronicles of Riddick: Dark Fury",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.059,
+   "vote_count": 363
+  },
+  "movie:280391": {
+   "backdrop_path": "/vq2TVlQmOUE6uZnRIZD475IcoAX.jpg",
+   "budget": 37580800,
+   "cast": [
+    {
+     "c": "Edouard (voice)",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Ian (voice)",
+     "n": "Arié Elmaleh"
+    },
+    {
+     "c": "Lucie (voice)",
+     "n": "Mélissa Theuriau"
+    },
+    {
+     "c": "Vladimir / Sergey (voice)",
+     "n": "Patrice Thibaud"
+    },
+    {
+     "c": "Simeon (voice)",
+     "n": "Christian Hecq"
+    },
+    {
+     "c": "Vania",
+     "n": "Diouc Koma"
+    },
+    {
+     "c": "Vania (voice)",
+     "n": "Adrien Antoine"
+    },
+    {
+     "c": "La sorcière",
+     "n": "Georgette Kala-Lobé"
+    },
+    {
+     "c": "La sorcière (voice)",
+     "n": "Nathalie Homs"
+    },
+    {
+     "c": "Marcel (voice)",
+     "n": "Youssef Hajdi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Jamel Debbouze"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Animation"
+   ],
+   "id": 280391,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Based on the novel 'Evolution Man' by Roy Lewis, this tells the story about the first man - young Edward - to descend from apes. Edward is ejected by his tribe, but is very resourceful. He learns to walk, discovers fire, manages to hunt - and we follow him as he evolves. He has a generous nature, and search for true humanity - a world where we don't eat our fathers.",
+   "popularity": 2.2809,
+   "poster_path": "/7qccdwXUMazLqkMKm4ZJ7lAnzUF.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-08",
+   "revenue": 16294916,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "These feet are made for walkin'",
+   "title": "Animal Kingdom: Let's Go Ape",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.238,
+   "vote_count": 372
+  },
+  "movie:312791": {
+   "backdrop_path": "/aoidrQ7c0Z170EvyoDSMDeq1mUV.jpg",
+   "budget": 3150000,
+   "cast": [
+    {
+     "c": "Kylie Atkins",
+     "n": "Ali Cobrin"
+    },
+    {
+     "c": "Liz Owens",
+     "n": "Erin Agostino"
+    },
+    {
+     "c": "Gary Preston",
+     "n": "James Thomas"
+    },
+    {
+     "c": "Kat",
+     "n": "Alice Hunter"
+    },
+    {
+     "c": "Devon",
+     "n": "Alyson Bath"
+    },
+    {
+     "c": "Ben Stanley",
+     "n": "Adam DiMarco"
+    },
+    {
+     "c": "Loverboy",
+     "n": "George Carroll"
+    },
+    {
+     "c": "Heather",
+     "n": "Elysia Rotaru"
+    },
+    {
+     "c": "Janet",
+     "n": "Chasty Ballesteros"
+    },
+    {
+     "c": "Mia",
+     "n": "Nicole Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Trevor Matthews",
+    "Jon Knautz"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 312791,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an attempt to make some extra cash while away at College, Kylie moves into a house that streams content to an X-rated website. After a deranged fan hacks in to determine the house's location, she finds herself in a terrifying fight for her life.",
+   "popularity": 3.2597,
+   "poster_path": "/4zR3QYWoeY2mTwVWnVxUQQptqdM.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-16",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Enjoy the show.",
+   "title": "GirlHouse",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.021,
+   "vote_count": 349
+  },
   "movie:335791": {
    "backdrop_path": "/vjGYFfG8Amm019QoSB9csEZC4X2.jpg",
    "budget": 10000000,
@@ -2080,6 +2569,649 @@
    "vote_average": 5.843,
    "vote_count": 442
   },
+  "movie:36691": {
+   "backdrop_path": "/nksADlpxKNoZVENbtNJiCovAsRD.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Ben Kalmen",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Nancy Kalmen",
+     "n": "Susan Sarandon"
+    },
+    {
+     "c": "Jimmy Marino",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Jordon Karsch",
+     "n": "Mary-Louise Parker"
+    },
+    {
+     "c": "Susan Porter",
+     "n": "Jenna Fischer"
+    },
+    {
+     "c": "Allyson Karsch",
+     "n": "Imogen Poots"
+    },
+    {
+     "c": "Daniel Cheston",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Steve Heller",
+     "n": "Richard Schiff"
+    },
+    {
+     "c": "Scotty",
+     "n": "Jake Siciliano"
+    },
+    {
+     "c": "Gary Porter",
+     "n": "David Costabile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Levien",
+    "Brian Koppelman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 36691,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A car magnate watches his personal and professional life hit the skids because of his business and romantic indiscretions.",
+   "popularity": 1.6216,
+   "poster_path": "/5Dpm8QDoL3w3ZOwVl6rgvjRWxrj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-09-07",
+   "revenue": 5000000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ben loves his family almost as much as he loves himself",
+   "title": "Solitary Man",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.925,
+   "vote_count": 361
+  },
+  "movie:414191": {
+   "backdrop_path": "/gbAfXcRSrd7WBRk1pNuZtHHw6cK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ethan",
+     "n": "Thomas Mann"
+    },
+    {
+     "c": "Hannah",
+     "n": "Nicola Peltz Beckham"
+    },
+    {
+     "c": "Becca",
+     "n": "Kate Moyer"
+    },
+    {
+     "c": "Matt",
+     "n": "Percy Hynes White"
+    },
+    {
+     "c": "Jess",
+     "n": "Christine Horne"
+    },
+    {
+     "c": "Richard",
+     "n": "John Ralston"
+    },
+    {
+     "c": "Dag",
+     "n": "Lucius Hoyos"
+    },
+    {
+     "c": "Lila",
+     "n": "Allison Hossack"
+    },
+    {
+     "c": "Tom",
+     "n": "Robert B. Kennedy"
+    },
+    {
+     "c": "Ms. Nash",
+     "n": "Carlyn Burchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Anthony Scott Burns"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 414191,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.",
+   "popularity": 1.3986,
+   "poster_path": "/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg",
+   "production_countries": [
+    "CA",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-07-27",
+   "revenue": 24039,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The dead are sending you a signal",
+   "title": "Our House",
+   "trailer": {
+    "key": "MZRC3xfhxnY",
+    "name": "Our House - Official Trailer | HD | IFC Midnight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 372
+  },
+  "movie:42691": {
+   "backdrop_path": "/gNSXF2AKz3mTNT9CSWma9gxnwBR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oedipus",
+     "n": "Franco Citti"
+    },
+    {
+     "c": "Jocasta, Queen of Thebes (and unnamed Italian young mother)",
+     "n": "Silvana Mangano"
+    },
+    {
+     "c": "Merope, Queen of Corinth",
+     "n": "Alida Valli"
+    },
+    {
+     "c": "Creon",
+     "n": "Carmelo Bene"
+    },
+    {
+     "c": "Tiresias",
+     "n": "Julian Beck"
+    },
+    {
+     "c": "Laius, King of Thebes (and unnamed Italian young father)",
+     "n": "Luciano Bartoli"
+    },
+    {
+     "c": "Servo di Laio",
+     "n": "Francesco Leonetti"
+    },
+    {
+     "c": "Polybus, King of Corinth",
+     "n": "Ahmed Belhachmi"
+    },
+    {
+     "c": "Sacerdote",
+     "n": "Giovanni Ivan Scratuglia"
+    },
+    {
+     "c": "Pastore di Polibo",
+     "n": "Giandomenico Davoli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Pier Paolo Pasolini"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 42691,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In pre-war Italy, a young couple have a baby boy. The father, however, is jealous of his son - and the scene moves to antiquity, where the baby is taken into the desert to be killed. He is rescued, given the name Oedipus, and brought up by the King and Queen of Corinth as their son. One day an oracle informs Oedipus that he is destined to kill his father and marry his mother. Horrified, he flees Corinth and his supposed parents - only to get into a fight and kill an older man on the road…",
+   "popularity": 2.2185,
+   "poster_path": "/7R3yPlLdiNhpGzasB8SDCT6Kwy.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1967-09-07",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Pasolini’s Terrifying… Compassionate… Magnificent…",
+   "title": "Oedipus Rex",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.775,
+   "vote_count": 377
+  },
+  "movie:593691": {
+   "backdrop_path": "/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Beyoncé"
+    },
+    {
+     "c": "Self - Special Guest",
+     "n": "JAŸ-Z"
+    },
+    {
+     "c": "Self - Special Guest",
+     "n": "Kelly Rowland"
+    },
+    {
+     "c": "Self - Special Guest",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Self - Special Guest",
+     "n": "Solange"
+    },
+    {
+     "c": "Self",
+     "n": "Blue Ivy Carter"
+    },
+    {
+     "c": "Self",
+     "n": "Rumi Carter"
+    },
+    {
+     "c": "Self",
+     "n": "Sir Carter"
+    },
+    {
+     "c": "Self",
+     "n": "Tina Knowles"
+    },
+    {
+     "c": "Self",
+     "n": "Chlöe Bailey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Beyoncé"
+   ],
+   "genres": [
+    "Documentary",
+    "Music",
+    "TV Movie"
+   ],
+   "id": 593691,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
+   "popularity": 1.7329,
+   "poster_path": "/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-16",
+   "revenue": 0,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "HOMECOMING: A film by Beyoncé",
+   "trailer": {
+    "key": "fB8qvx0HOlI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 357
+  },
+  "movie:5991": {
+   "backdrop_path": "/sTyt7e2PB5nfY02reL1iZUYPbly.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hotel Doorman",
+     "n": "Emil Jannings"
+    },
+    {
+     "c": "His Niece",
+     "n": "Maly Delschaft"
+    },
+    {
+     "c": "Bridegroom",
+     "n": "Max Hiller"
+    },
+    {
+     "c": "Hotel Manager",
+     "n": "Hans Unterkircher"
+    },
+    {
+     "c": "Potbellied Guest",
+     "n": "Hermann Vallentin"
+    },
+    {
+     "c": "Bridegroom's Aunt",
+     "n": "Emilie Kurz"
+    },
+    {
+     "c": "Night Watchman",
+     "n": "Georg John"
+    },
+    {
+     "c": "Thin Neighbor",
+     "n": "Emmy Wyda"
+    },
+    {
+     "c": "uncredited",
+     "n": "Harald Madsen"
+    },
+    {
+     "c": "Wedding Musician",
+     "n": "Carl Schenstrøm"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "F. W. Murnau"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 5991,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.",
+   "popularity": 1.8749,
+   "poster_path": "/7Y6Dxr3oYt1w7ew70YNdLLDYEjk.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1924-12-23",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Last Laugh",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.762,
+   "vote_count": 374
+  },
   "movie:611291": {
    "backdrop_path": "/nQRTynJcXF5GRcyEHF09yZIuQ7F.jpg",
    "budget": 0,
@@ -2168,6 +3300,146 @@
    "type": "movie",
    "vote_average": 8.295,
    "vote_count": 464
+  },
+  "movie:635891": {
+   "backdrop_path": "/1IGi6NEwuJAHU29RQfF2WrpxWZL.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Dante Hicks",
+     "n": "Brian O'Halloran"
+    },
+    {
+     "c": "Randal Graves",
+     "n": "Jeff Anderson"
+    },
+    {
+     "c": "Becky",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Jay",
+     "n": "Jason Mewes"
+    },
+    {
+     "c": "Silent Bob",
+     "n": "Kevin Smith"
+    },
+    {
+     "c": "Veronica Loughran",
+     "n": "Marilyn Ghigliotti"
+    },
+    {
+     "c": "Elias Grover",
+     "n": "Trevor Fehrman"
+    },
+    {
+     "c": "Blockchain Coltrane",
+     "n": "Austin Zajur"
+    },
+    {
+     "c": "Emma",
+     "n": "Jennifer Schwalbach Smith"
+    },
+    {
+     "c": "Milly",
+     "n": "Harley Quinn Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kevin Smith"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 635891,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After narrowly surviving a massive heart attack, Randal enlists his old friend Dante to help him make a movie immortalizing their youthful days at the little convenience store that started it all.",
+   "popularity": 1.7802,
+   "poster_path": "/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-04",
+   "revenue": 4737955,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're too old for this shift.",
+   "title": "Clerks III",
+   "trailer": {
+    "key": "uD3n3GM3Z_0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.976,
+   "vote_count": 355
   },
   "movie:848791": {
    "backdrop_path": "/h37garYpEwYeKBGZq9cHTbtEHPU.jpg",
@@ -2571,6 +3843,206 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 412
+  },
+  "movie:965791": {
+   "backdrop_path": "/aWcqE8wGN8Gv4VSPAGCqTFYy7aC.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Albert Laprade",
+     "n": "Pio Marmaï"
+    },
+    {
+     "c": "Bruno Ambrosi",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Cactus",
+     "n": "Noémie Merlant"
+    },
+    {
+     "c": "Henri Tomasi",
+     "n": "Mathieu Amalric"
+    },
+    {
+     "c": "Quinoa",
+     "n": "Grégoire Leprince-Ringuet"
+    },
+    {
+     "c": "Antilope",
+     "n": "Luàna Bajrami"
+    },
+    {
+     "c": "Sirène",
+     "n": "Sandrine Briard"
+    },
+    {
+     "c": "Sofiane",
+     "n": "Oussama Kheddam"
+    },
+    {
+     "c": "Madeleine",
+     "n": "Danièle Lebrun"
+    },
+    {
+     "c": "Corinne",
+     "n": "Alexandra Roth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Éric Toledano",
+    "Olivier Nakache"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 965791,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Compulsive spenders Albert and Bruno are in debt up to their necks. While seeking help from community workers to get their lives back on track, they run into a group of young green activists. Lured by the free beer and snacks rather than by the ideals of eco-activists, Albert and Bruno find themselves joining the movement without much conviction.",
+   "popularity": 1.1291,
+   "poster_path": "/teTTgwreGDfroU1A6VJWqoUpJBt.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-18",
+   "revenue": 7004555,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What's the worst that could happen to them?",
+   "title": "A Difficult Year",
+   "trailer": {
+    "key": "AuIX-b3divE",
+    "name": "A Difficult Year - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.927,
+   "vote_count": 342
+  },
+  "movie:990691": {
+   "backdrop_path": "/o21lRbAMn0MBlKawSIi3tCEM8K3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christian",
+     "n": "Dar Salim"
+    },
+    {
+     "c": "Leonora",
+     "n": "Sonja Richter"
+    },
+    {
+     "c": "Xenia",
+     "n": "Sus Wilkins"
+    },
+    {
+     "c": "Police Commissioner",
+     "n": "Mikael Birkkjær"
+    },
+    {
+     "c": "Kim",
+     "n": "Lars Ranthe"
+    },
+    {
+     "c": "Peter",
+     "n": "Morten Burian"
+    },
+    {
+     "c": "Martha",
+     "n": "Iris Mealor Olsen"
+    },
+    {
+     "c": "Ulrik",
+     "n": "Benjamin Kitter"
+    },
+    {
+     "c": "Young Leonora",
+     "n": "Karoline Hamm"
+    },
+    {
+     "c": "Sonja",
+     "n": "Natali Vallespir Sand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Barbara Topsøe-Rothenborg"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 990691,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.",
+   "popularity": 1.8698,
+   "poster_path": "/hSNHg7qReDtBk1u2PaSSzTTQ8ax.jpg",
+   "production_countries": [
+    "SE",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-08-26",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Loving Adults",
+   "trailer": {
+    "key": "o1VV1DEITI0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 372
   },
   "tv:225891": {
    "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",

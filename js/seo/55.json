@@ -1,7 +1,75 @@
 {
  "bucket": "55",
- "count": 43,
+ "count": 55,
  "titles": {
+  "movie:1002155": {
+   "d": "Monsieur Aznavour (2024): History/Music film. Story: From his poor childhood to his rise to fame, from his… See cast, budget $28M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
+   "industry": "world",
+   "k": "Monsieur Aznavour, Monsieur Aznavour movie, Monsieur Aznavour cast, Monsieur Aznavour story, Monsieur Aznavour box office collection, Monsieur Aznavour budget, Monsieur Aznavour review, Monsieur Aznavour rating, Monsieur Aznavour release date, Monsieur Aznavour trailer, Monsieur Aznavour History, Monsieur Aznavour Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tahar Rahim"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastien Bouillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie-Julie Baup"
+     },
+     {
+      "@type": "Person",
+      "name": "Luc Antoni"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Chupin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 377,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Monsieur Aznavour (2024): History/Music film. Story: From his poor childhood to his rise to fame, from his… See cast, budget $28M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Grand Corps Malade"
+     },
+     {
+      "@type": "Person",
+      "name": "Mehdi Idir"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "History",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1002155",
+    "name": "Monsieur Aznavour",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-10-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1002155"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monsieur Aznavour (2024)</h1>\n<p class=\"ssr-lead\">From his poor childhood to his rise to fame, from his triumphs to his failures, from Paris to New York, discover the exceptional journey of an artist. Intimate, intense, fragile and indestructible, devoted to his art until the very end, here is one of the most immortal singers of all time: MONSIEUR AZNAVOUR.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2024</li><li>Runtime: 134 minutes</li><li>Director: Grand Corps Malade, Mehdi Idir</li><li>Genres: History, Music, Drama</li><li>Budget: $28M</li><li>TMDB rating: 7.2/10 (377 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tahar Rahim as Charles Aznavour</li><li>Bastien Bouillon as Pierre Roche</li><li>Marie-Julie Baup as Edith Piaf</li><li>Luc Antoni as Raoul Breton</li><li>Nicolas Chupin as Jean-Louis Marquet</li><li>Ella Pellegrini as Micheline</li><li>Petra Silander as Ulla Thorsell</li><li>Camille Moutawakil as Aïda Aznavour</li><li>Tigran Mekhitarian as Missak Manouchian</li><li>Hovnatan Avédikian as Misha Aznavourian</li></ul>\n</article>",
+   "t": "Monsieur Aznavour (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1010755": {
    "d": "The Strangers: Chapter 3 (2026): Horror/Thriller film. Story: Tethered by a frightening conclusion, Maya and the… See cast and budget $8.5M.",
    "img": "https://image.tmdb.org/t/p/w780/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
@@ -65,6 +133,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Strangers: Chapter 3 (2026)</h1>\n<p class=\"ssr-lead\">Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 92 minutes</li><li>Director: Renny Harlin</li><li>Genres: Horror, Thriller</li><li>Budget: $8.5M</li><li>TMDB rating: 5.9/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Madelaine Petsch as Maya</li><li>Richard Brake as Sheriff Rotter</li><li>Ema Horvath as Shelly / Pinup</li><li>Gabriel Basso as Gregory / Scarecrow</li><li>Pedro Leandro as Deputy Walters</li><li>Rachel Shenton as Debbie</li><li>George Young as Howard</li><li>Kyle Breitkopf as Teenage Gregory / Scarecrow</li><li>Finn Cofell as Teenage Pinup</li><li>Stevee Davies as Dougie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Strangers: Chapter 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:10655": {
+   "d": "Gettysburg (1993): Drama/History film. Story: In the summer of 1863, General Robert E. Lee leads… See cast, budget $20M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
+   "industry": "world",
+   "k": "Gettysburg, Gettysburg movie, Gettysburg cast, Gettysburg story, Gettysburg box office collection, Gettysburg budget, Gettysburg review, Gettysburg rating, Gettysburg release date, Gettysburg Drama, Gettysburg History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Berenger"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Sheen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Elliott"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 352,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Gettysburg (1993): Drama/History film. Story: In the summer of 1863, General Robert E. Lee leads… See cast, budget $20M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ronald F. Maxwell"
+     }
+    ],
+    "duration": "PT254M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10655",
+    "name": "Gettysburg",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10655"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gettysburg (1993)</h1>\n<p class=\"ssr-lead\">In the summer of 1863, General Robert E. Lee leads the Confederate Army of Northern Virginia into Gettysburg, Pennsylvania with the goal of marching through to Washington, D.C. The Union Army of the Potomac, under the command of General George G. Meade, forms a defensive position to confront the rebel forces in what will prove to be the decisive battle of the American Civil War.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1993</li><li>Runtime: 254 minutes</li><li>Director: Ronald F. Maxwell</li><li>Genres: Drama, History, War</li><li>Budget: $20M</li><li>TMDB rating: 7.0/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Daniels as Col. Joshua Chamberlain</li><li>Tom Berenger as Lieut. Gen. James Longstreet</li><li>Martin Sheen as Gen. Robert E. Lee</li><li>Sam Elliott as Brig. Gen. John Buford</li><li>Stephen Lang as Maj. Gen. George E. Pickett</li><li>C. Thomas Howell as Lieut. Thomas D. Chamberlain</li><li>Richard Anderson as Maj. Gen. George G. Meade</li><li>Richard Jordan as Brig. Gen. Lewis A. Armistead</li><li>Kevin Conway as Sergeant Buster Kilrain</li><li>Andrew Prine as Brig. Gen. Richard B. Garnett</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Gettysburg (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
   },
   "movie:10855": {
    "d": "Naked Weapon (2002): Action/Drama film. Story: A mysterious woman, known as Madame M, kidnaps forty… See cast and TMDB rating 6.7/10.",
@@ -258,6 +390,134 @@
    "t": "Fight or Flight (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1239655": {
+   "d": "Friendship (2025): Comedy/Drama film. Story: Suburban dad Craig falls hard for his charismatic new… See cast, budget $2M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+   "industry": "world",
+   "k": "Friendship, Friendship movie, Friendship cast, Friendship story, Friendship box office collection, Friendship budget, Friendship review, Friendship rating, Friendship release date, Friendship trailer, Friendship Comedy, Friendship Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tim Robinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Rudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Mara"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Dylan Grazer"
+     },
+     {
+      "@type": "Person",
+      "name": "Rick Worthy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 350,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Friendship (2025): Comedy/Drama film. Story: Suburban dad Craig falls hard for his charismatic new… See cast, budget $2M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew DeYoung"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1239655",
+    "name": "Friendship",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-05-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1239655"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Friendship (2025)</h1>\n<p class=\"ssr-lead\">Suburban dad Craig falls hard for his charismatic new neighbor Austin, and his attempts to make an adult male friend threatens to ruin both of their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 May 2025</li><li>Runtime: 100 minutes</li><li>Director: Andrew DeYoung</li><li>Genres: Comedy, Drama</li><li>Budget: $2M</li><li>TMDB rating: 6.4/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tim Robinson as Craig Waterman</li><li>Paul Rudd as Austin Carmichael</li><li>Kate Mara as Tami Waterman</li><li>Jack Dylan Grazer as Steven Waterman</li><li>Rick Worthy as Mr. Mendoza</li><li>Whitmer Thomas as Ian</li><li>Daniel London as Stan</li><li>Eric Rahill as Mike</li><li>Jacob Ming-Trent as Nathan</li><li>Billy Bryk as Tony</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Friendship (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1299655": {
+   "d": "Blue Moon (2025): History/Drama film. Story: On the evening of March 31, 1943, legendary lyricist… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+   "industry": "world",
+   "k": "Blue Moon, Blue Moon movie, Blue Moon cast, Blue Moon story, Blue Moon box office collection, Blue Moon budget, Blue Moon review, Blue Moon rating, Blue Moon release date, Blue Moon trailer, Blue Moon History, Blue Moon Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ethan Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Cannavale"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaret Qualley"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Kennedy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Blue Moon (2025): History/Drama film. Story: On the evening of March 31, 1943, legendary lyricist… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Linklater"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1299655",
+    "name": "Blue Moon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1299655"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blue Moon (2025)</h1>\n<p class=\"ssr-lead\">On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 October 2025</li><li>Runtime: 101 minutes</li><li>Director: Richard Linklater</li><li>Genres: History, Drama</li><li>TMDB rating: 6.7/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ethan Hawke as Lorenz Hart</li><li>Bobby Cannavale as Eddie</li><li>Andrew Scott as Richard Rodgers</li><li>Margaret Qualley as Elizabeth Weiland</li><li>Patrick Kennedy as E.B. &#x27;Andy&#x27; White</li><li>Jonah Lees as Morty Rifkin</li><li>Simon Delaney as Oscar Hammerstein</li><li>Giles Surridge as Sven</li><li>Cillian Sullivan as Stephen Sondheim</li><li>Michael James Ford as Lawrence Langner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Blue Moon (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:13555": {
    "d": "The Funhouse (1981): Horror film. Story: Rebellious teen Amy defies her parents by going to a… See cast, budget $2M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/uDIZFlKa3h9ufzxpGXerCbIgmLc.jpg",
@@ -320,6 +580,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Funhouse (1981)</h1>\n<p class=\"ssr-lead\">Rebellious teen Amy defies her parents by going to a trashy carnival that has pulled into town. In tow are her boyfriend, Buzz, and their friends Liz and Richie. Thinking it would be fun to spend the night in the campy &quot;Funhouse&quot; horror ride, the teens witness a murder by a deformed worker wearing a mask. Locked in, Amy and her friends must evade the murderous carnival workers and escape before it leaves town the next day.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 1981</li><li>Runtime: 95 minutes</li><li>Director: Tobe Hooper</li><li>Genres: Horror</li><li>Budget: $2M</li><li>TMDB rating: 5.8/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elizabeth Berridge as Amy Harper</li><li>Cooper Huckabee as Buzz Dawson</li><li>Kevin Conway as The Barker</li><li>Wayne Doba as The Monster</li><li>Largo Woodruff as Liz Duncan</li><li>Miles Chapin as Richie Atterbury</li><li>Jeanne Austin as Mrs. Harper</li><li>Jack McDermott as Mr. Harper</li><li>Shawn Carson as Joey Harper</li><li>David Carson as Geek</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Funhouse (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1981"
+  },
+  "movie:139455": {
+   "d": "Silent Night (2012): Comedy/Horror film. Story: As their small Midwestern town prepares for its… See cast, budget $5M, and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5agsKXYOnrWLSonuYSxnfgyCwga.jpg",
+   "industry": "world",
+   "k": "Silent Night, Silent Night movie, Silent Night cast, Silent Night story, Silent Night box office collection, Silent Night budget, Silent Night review, Silent Night rating, Silent Night release date, Silent Night Comedy, Silent Night Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Malcolm McDowell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaime King"
+     },
+     {
+      "@type": "Person",
+      "name": "Donal Logue"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellen Wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Marie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 343,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Silent Night (2012): Comedy/Horror film. Story: As their small Midwestern town prepares for its… See cast, budget $5M, and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven C. Miller"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5agsKXYOnrWLSonuYSxnfgyCwga.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=139455",
+    "name": "Silent Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-11-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=139455"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Silent Night (2012)</h1>\n<p class=\"ssr-lead\">As their small Midwestern town prepares for its annual Christmas Eve parade, a sheriff and his deputy discover that a maniac in a Santa suit is murdering those he judges as naughty.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 November 2012</li><li>Runtime: 94 minutes</li><li>Director: Steven C. Miller</li><li>Genres: Comedy, Horror, Thriller, Mystery</li><li>Budget: $5M</li><li>TMDB rating: 5.2/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malcolm McDowell as Sheriff Cooper</li><li>Jaime King as Aubrey Bradimore</li><li>Donal Logue as Santa Jim</li><li>Ellen Wong as Brenda</li><li>Lisa Marie as Abused Mom</li><li>Courtney-Jane White as Tiffany</li><li>Cortney Palm as Maria</li><li>John B. Lowe as Dad</li><li>Rick Skene as Ronald Jones Jr. / Ronald Jones Sr.</li><li>Brendan Fehr as Deputy Jordan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Silent Night (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:1397055": {
    "d": "Love In Separate Beds (2026): Comedy film. Story: She hates men, he hates complications - but after one… See cast and TMDB rating 5.9/10.",
@@ -817,6 +1141,134 @@
    "t": "Schumacher ’94 – The Birth of a Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:19955": {
+   "d": "I Do (2006): Comedy/Romance film. Story: Life is easy for 43-year-old Luis, a happy single… See cast, TMDB rating 6.4/10, and release date 1 November 2006.",
+   "img": "https://image.tmdb.org/t/p/w780/igpbsI6LH5eV1gIrePmiI1cWc2M.jpg",
+   "industry": "world",
+   "k": "I Do, I Do movie, I Do cast, I Do story, I Do box office collection, I Do budget, I Do review, I Do rating, I Do release date, I Do Comedy, I Do Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alain Chabat"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Gainsbourg"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernadette Lafont"
+     },
+     {
+      "@type": "Person",
+      "name": "Wladimir Yordanoff"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Monot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 370,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "I Do (2006): Comedy/Romance film. Story: Life is easy for 43-year-old Luis, a happy single… See cast, TMDB rating 6.4/10, and release date 1 November 2006.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Éric Lartigau"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/igpbsI6LH5eV1gIrePmiI1cWc2M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19955",
+    "name": "I Do",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19955"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Do (2006)</h1>\n<p class=\"ssr-lead\">Life is easy for 43-year-old Luis, a happy single guy, fulfilled in his job of star nose with a perfume creation company, cosseted by his mother and five sisters. It could have lasted for a whole life, but fed up with mollycoddling and helping him, his mother and sisters decide it&#x27;s time he got married, and the sooner the better!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2006</li><li>Runtime: 90 minutes</li><li>Director: Éric Lartigau</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.4/10 (370 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alain Chabat as Luis Costa</li><li>Charlotte Gainsbourg as Emma</li><li>Bernadette Lafont as Geneviève Costa</li><li>Wladimir Yordanoff as Francis Bertatoff</li><li>Louise Monot as Maxine</li><li>Katia Lewkowicz as Carole</li><li>Grégoire Oestermann as Pierre-Yves</li><li>Véronique Barrault as Catherine</li><li>Marie-Armelle Deguy as Axelle</li><li>Luce Mouchel as Marie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
+   "t": "I Do (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
+  "movie:24655": {
+   "d": "The Car (1977): Horror/Action film. Story: The Utah community of Santa Ynez is being terrorized… See cast, TMDB rating 6.4/10, and release date 12 May 1977.",
+   "img": "https://image.tmdb.org/t/p/w780/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+   "industry": "world",
+   "k": "The Car, The Car movie, The Car cast, The Car story, The Car box office collection, The Car budget, The Car review, The Car rating, The Car release date, The Car Horror, The Car Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Brolin"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathleen Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "John Marley"
+     },
+     {
+      "@type": "Person",
+      "name": "R.G. Armstrong"
+     },
+     {
+      "@type": "Person",
+      "name": "John Rubinstein"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Car (1977): Horror/Action film. Story: The Utah community of Santa Ynez is being terrorized… See cast, TMDB rating 6.4/10, and release date 12 May 1977.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Elliot Silverstein"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24655",
+    "name": "The Car",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24655"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Car (1977)</h1>\n<p class=\"ssr-lead\">The Utah community of Santa Ynez is being terrorized by a mysterious black coupe that appears out of nowhere and begins running people down. After the car kills off the town sheriff, Captain Wade Parent is determined to stop the murderous driver.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 1977</li><li>Runtime: 96 minutes</li><li>Director: Elliot Silverstein</li><li>Genres: Horror, Action, Thriller, Mystery, Fantasy</li><li>TMDB rating: 6.4/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Brolin as Wade Parent</li><li>Kathleen Lloyd as Lauren Humphries</li><li>John Marley as Everett</li><li>R.G. Armstrong as Amos Clements</li><li>John Rubinstein as John Norris</li><li>Elizabeth Thompson as Margie Johnson</li><li>Roy Jenson as Ray Mott</li><li>Kim Richards as Lynn Marie Parent</li><li>Kyle Richards as Debra Parent</li><li>Kate Murtagh as Miss McDonald</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Car (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
+  },
   "movie:25155": {
    "d": "The Stepfather (1987): Horror/Thriller film. Story: Seemingly mild-mannered Henry Morrison has just… See cast, budget $1.2M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
@@ -945,6 +1397,70 @@
    "t": "Stolen Kisses (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
   },
+  "movie:25955": {
+   "d": "Pickup on South Street (1953): Thriller/Crime film. Story: In New York City, an insolent pickpocket, Skip McCoy… See cast and budget $780.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
+   "industry": "world",
+   "k": "Pickup on South Street, Pickup on South Street movie, Pickup on South Street cast, Pickup on South Street story, Pickup on South Street box office collection, Pickup on South Street budget, Pickup on South Street review, Pickup on South Street rating, Pickup on South Street release date, Pickup on South Street Thriller, Pickup on South Street Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard Widmark"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Peters"
+     },
+     {
+      "@type": "Person",
+      "name": "Thelma Ritter"
+     },
+     {
+      "@type": "Person",
+      "name": "Murvyn Vye"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Kiley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Pickup on South Street (1953): Thriller/Crime film. Story: In New York City, an insolent pickpocket, Skip McCoy… See cast and budget $780.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samuel Fuller"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25955",
+    "name": "Pickup on South Street",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1953-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25955"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pickup on South Street (1953)</h1>\n<p class=\"ssr-lead\">In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 1953</li><li>Runtime: 80 minutes</li><li>Director: Samuel Fuller</li><li>Genres: Thriller, Crime</li><li>Budget: $780.0k</li><li>TMDB rating: 7.4/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Widmark as Skip McCoy</li><li>Jean Peters as Candy</li><li>Thelma Ritter as Moe Williams</li><li>Murvyn Vye as Captain Dan Tiger</li><li>Richard Kiley as Joey</li><li>Willis Bouchey as Zara</li><li>Milburn Stone as Detective Winoki</li><li>Parley Baer as Headquarters Communist in Chair (uncredited)</li><li>Chet Brandenburg as Fight Spectator (uncredited)</li><li>Frank Kumagai as Lum (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: FlixFling</li><li>Rent: FlixFling</li><li>Buy: FlixFling</li></ul>\n</article>",
+   "t": "Pickup on South Street (1953) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1953"
+  },
   "movie:28055": {
    "d": "Blood and Black Lace (1964): Crime/Horror film. Story: Isabella, a young model, is murdered by a mysterious… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
@@ -1008,6 +1524,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Blood and Black Lace (1964)</h1>\n<p class=\"ssr-lead\">Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees&#x27; many vices, disappears, the masked killer begins killing off all the models in and around the house to find it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 1964</li><li>Runtime: 88 minutes</li><li>Director: Mario Bava</li><li>Genres: Crime, Horror, Mystery</li><li>TMDB rating: 7.3/10 (499 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cameron Mitchell as Massimo Morlacchi</li><li>Eva Bartok as Contessa Cristiana Cuomo</li><li>Thomas Reiner as Inspector Silvestri</li><li>Ariana Gorini as Nicole</li><li>Dante DiPaolo as Franco Scalo</li><li>Mary Arden as Peggy Peyton</li><li>Franco Ressel as Marchese Riccardo Morelli</li><li>Claude Dantes as Tao-Li</li><li>Luciano Pigozzi as Cesare Lazzarini</li><li>Lea Lander as Greta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cultpix</li></ul>\n</article>",
    "t": "Blood and Black Lace (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1964"
+  },
+  "movie:36355": {
+   "d": "Flipper (1996): Adventure/Family film. Story: Sandy Ricks is sent by his mom to Coral Key, a rustic… See cast, budget $25.53M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/750Uayj0Bww4QfqMUJCymW3EJkC.jpg",
+   "industry": "world",
+   "k": "Flipper, Flipper movie, Flipper cast, Flipper story, Flipper box office collection, Flipper budget, Flipper review, Flipper rating, Flipper release date, Flipper Adventure, Flipper Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Hogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Banks"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Deacon"
+     },
+     {
+      "@type": "Person",
+      "name": "Chelsea Field"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Flipper (1996): Adventure/Family film. Story: Sandy Ricks is sent by his mom to Coral Key, a rustic… See cast, budget $25.53M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Shapiro"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/750Uayj0Bww4QfqMUJCymW3EJkC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36355",
+    "name": "Flipper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36355"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Flipper (1996)</h1>\n<p class=\"ssr-lead\">Sandy Ricks is sent by his mom to Coral Key, a rustic island in the Florida keys, to spend the summer with his uncle Porter Ricks. Sandy dislikes everything about his new environment until a new friend comes into his life, a dolphin named Flipper, that brings uncle and nephew together and leads Sandy on the summer adventure of a lifetime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 1996</li><li>Runtime: 95 minutes</li><li>Director: Alan Shapiro</li><li>Genres: Adventure, Family</li><li>Budget: $25.53M</li><li>TMDB rating: 5.6/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elijah Wood as Sandy Ricks</li><li>Paul Hogan as Porter Ricks</li><li>Jonathan Banks as Dirk Moran</li><li>Robert Deacon as Bounty Fisherman #1</li><li>Chelsea Field as Cathy</li><li>Mary Jo Faraci as Sandy&#x27;s Mom</li><li>Allison Bertolino as Sandy&#x27;s Sister</li><li>Jessica Wesson as Kim</li><li>Jason Fuchs as Marvin</li><li>Mark Casella as Bounty Fisherman #2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Flipper (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
   },
   "movie:390555": {
    "d": "Bonanza: The Return (1993): Western/TV Movie film. Story: A man with a grudge against the late Little Joe seeks… See cast, budget $93, and TMDB rating 6.5/10.",
@@ -1137,6 +1717,70 @@
    "t": "Operation Red Sea (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:461955": {
+   "d": "Rakka (2017): Action/Science Fiction film. Story: A story of broken humanity following the invasion of… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fGQr2maSQIjLw4RET6XzOKKO9bo.jpg",
+   "industry": "world",
+   "k": "Rakka, Rakka movie, Rakka cast, Rakka story, Rakka box office collection, Rakka budget, Rakka review, Rakka rating, Rakka release date, Rakka Action, Rakka Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugene Khumbanyiwa"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Hobbs"
+     },
+     {
+      "@type": "Person",
+      "name": "Carly Pope"
+     },
+     {
+      "@type": "Person",
+      "name": "Brandon Auret"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Rakka (2017): Action/Science Fiction film. Story: A story of broken humanity following the invasion of… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neill Blomkamp"
+     }
+    ],
+    "duration": "PT22M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fGQr2maSQIjLw4RET6XzOKKO9bo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=461955",
+    "name": "Rakka",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-06-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=461955"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rakka (2017)</h1>\n<p class=\"ssr-lead\">A story of broken humanity following the invasion of a technologically superior alien species. Bleak, harrowing, and unrelenting, the humans must find enough courage to go on fighting.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 2017</li><li>Runtime: 22 minutes</li><li>Director: Neill Blomkamp</li><li>Genres: Action, Science Fiction, Horror, War</li><li>TMDB rating: 7.0/10 (362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sigourney Weaver as Jasper</li><li>Eugene Khumbanyiwa as Amir</li><li>Robert Hobbs as Carl</li><li>Carly Pope as Sarah</li><li>Brandon Auret as Nosh</li><li>Michael Huff as Politician</li><li>Jay Anstey as Woman Bomber</li><li>Alec Gillis as Militia #1</li></ul>\n</article>",
+   "t": "Rakka (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:46655": {
    "d": "The Little Bather (1968): Comedy film. Story: Louis-Philippe Fourchaume, another typical lead-role… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/fkIymGaZbJTuqTP9cPpRL3ZH7jj.jpg",
@@ -1199,6 +1843,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Little Bather (1968)</h1>\n<p class=\"ssr-lead\">Louis-Philippe Fourchaume, another typical lead-role for French comedy superstar Louis de Funès, is the dictatorial CEO of a French company which designs and produces sail yachts, and fires in yet another tantrum his designer André Castagnier, not realizing that man is his only chance to land a vital contract with the Italian magnate Marcello Cacciaperotti. So he has to find him at his extremely rural birthplace in &#x27;la France profonde&#x27;, which proves a torturous odyssey for the spoiled rich man; when he does get there his torment is far from over: the country bumpkin refuses to resume his slavish position now the shoe is on the other foot, so Fourchaume is dragged along in the boorish family life, and at times unable to control his temper, which may cost him more credit then he painstakingly builds up...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 1968</li><li>Runtime: 96 minutes</li><li>Director: Robert Dhéry</li><li>Genres: Comedy</li><li>TMDB rating: 6.6/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis de Funès as Louis-Philippe Fourchaume</li><li>Andréa Parisy as Marie-Béatrice Fourchaume</li><li>Franco Fabrizi as Marcello Cacciaperotti</li><li>Michel Galabru as Scipio</li><li>Robert Dhéry as André Castagnier</li><li>Colette Brosset as Charlotte Castagnier</li><li>Pierre Dac as Le ministre</li><li>Jacques Legras as Henri Castagnier, le curé</li><li>Michèle Alexandre as L&#x27;épouse du ministre</li><li>Nicole Vervil as La mère du petit Francis</li></ul>\n</article>",
    "t": "The Little Bather (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
+  },
+  "movie:492355": {
+   "d": "Just Believe (2018): Comedy film. Story: The owner of a dilapidated B&B has an idea: in order… See cast, TMDB rating 6.1/10, and release date 29 March 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/tKpKadxhYGhLq5m0Ek5jHVj0dhI.jpg",
+   "industry": "world",
+   "k": "Just Believe, Just Believe movie, Just Believe cast, Just Believe story, Just Believe box office collection, Just Believe budget, Just Believe review, Just Believe rating, Just Believe release date, Just Believe Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margherita Buy"
+     },
+     {
+      "@type": "Person",
+      "name": "Edoardo Leo"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuseppe Battiston"
+     },
+     {
+      "@type": "Person",
+      "name": "Giulia Michelini"
+     },
+     {
+      "@type": "Person",
+      "name": "Massimiliano Bruno"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 357,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Just Believe (2018): Comedy film. Story: The owner of a dilapidated B&B has an idea: in order… See cast, TMDB rating 6.1/10, and release date 29 March 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alessandro Aronadio"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tKpKadxhYGhLq5m0Ek5jHVj0dhI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=492355",
+    "name": "Just Believe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-03-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=492355"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Just Believe (2018)</h1>\n<p class=\"ssr-lead\">The owner of a dilapidated B&amp;B has an idea: in order to dodge bankruptcy, he has to turn his business into a place of worship—a tax-free activity, where he&#x27;ll host pilgrims in exchange for a generous donation. He joins forces with an unscrupulous accountant and a failed novelist to come up with his new religion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 2018</li><li>Runtime: 100 minutes</li><li>Director: Alessandro Aronadio</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (357 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margherita Buy as Adriana Alberti</li><li>Edoardo Leo as Massimo Alberti</li><li>Giuseppe Battiston as Marco Cilio</li><li>Giulia Michelini as Teresa</li><li>Massimiliano Bruno as Teodoro</li><li>Aleksandar Cvjetković as Milos</li><li>Franco Pinelli as Padre Giuseppe</li><li>Gegia as Suor Assunta</li><li>Gladys Robles as Marylou</li><li>Vittorio Hamarz Vasfi as Imam</li></ul>\n</article>",
+   "t": "Just Believe (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:791155": {
    "d": "Secret Headquarters (2022): Action/Comedy film. Story: While hanging out after school, Charlie and his… See cast and TMDB rating 6.3/10.",
@@ -1267,6 +1974,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Secret Headquarters (2022)</h1>\n<p class=\"ssr-lead\">While hanging out after school, Charlie and his friends discover the headquarters of the world’s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2022</li><li>Runtime: 104 minutes</li><li>Director: Ariel Schulman, Henry Joost</li><li>Genres: Action, Comedy, Science Fiction, Family</li><li>TMDB rating: 6.3/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Owen Wilson as Jack</li><li>Michael Peña as Argon</li><li>Walker Scobell as Charlie</li><li>Momona Tamada as Maya</li><li>Keith L. Williams as Berger</li><li>Abby James Witherspoon as Lizzie</li><li>Jesse Williams as Irons</li><li>Jessie Mueller as Lily</li><li>Dustin Ingram as Jersey</li><li>Charles Melton as Hawaii</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Secret Headquarters (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:84355": {
+   "d": "Your Sister's Sister (2011): Comedy film. Story: Iris invites her friend Jack to stay at her family's… See cast, budget $125.0k, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lW6mVGxqDjVaqcVJJbRnrXe8vsq.jpg",
+   "industry": "world",
+   "k": "Your Sister's Sister, Your Sister's Sister movie, Your Sister's Sister cast, Your Sister's Sister story, Your Sister's Sister box office collection, Your Sister's Sister budget, Your Sister's Sister review, Your Sister's Sister rating, Your Sister's Sister release date, Your Sister's Sister trailer, Your Sister's Sister Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emily Blunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosemarie DeWitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Duplass"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Harring"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Birbiglia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Your Sister's Sister (2011): Comedy film. Story: Iris invites her friend Jack to stay at her family's… See cast, budget $125.0k, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lynn Shelton"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lW6mVGxqDjVaqcVJJbRnrXe8vsq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=84355",
+    "name": "Your Sister's Sister",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=84355"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Your Sister&#x27;s Sister (2011)</h1>\n<p class=\"ssr-lead\">Iris invites her friend Jack to stay at her family&#x27;s island getaway after the death of his brother. At their remote cabin, Jack&#x27;s drunken encounter with Hannah, Iris&#x27; sister, kicks off a revealing stretch of days.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2011</li><li>Runtime: 90 minutes</li><li>Director: Lynn Shelton</li><li>Genres: Comedy</li><li>Budget: $125.0k</li><li>TMDB rating: 6.5/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Blunt as Iris</li><li>Rosemarie DeWitt as Hannah</li><li>Mark Duplass as Jack</li><li>Michael Harring as Tom (in photos)</li><li>Mike Birbiglia as Al</li><li>Jason Dodson as Tom&#x27;s Friend</li><li>Pete Erickson as Tom&#x27;s Friend</li><li>Kathryn Lebo as Tom&#x27;s Friend</li><li>Evan Mosher as Tom&#x27;s Friend</li><li>Jennifer Maas as Tom&#x27;s Friend</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now, Kino Film Collection</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Your Sister's Sister (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:86555": {
    "d": "Take This Waltz (2011): Drama/Comedy film. Story: Twenty-eight-year-old Margot is happily married to… See cast and TMDB rating 6.4/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 50,
+ "count": 58,
  "titles": {
   "movie:1020910": {
    "d": "Influencer (2023): Horror/Thriller film. Story: While struggling on a solo backpacking trip in… See cast, TMDB rating 6.2/10, and release date 18 May 2023.",
@@ -194,6 +194,70 @@
    "t": "Hoffa (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:1079310": {
+   "d": "Holy Cow (2024): Drama/Comedy film. Story: In the western part of the French Alps: After the… See cast, TMDB rating 6.9/10, and release date 11 December 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
+   "industry": "world",
+   "k": "Holy Cow, Holy Cow movie, Holy Cow cast, Holy Cow story, Holy Cow box office collection, Holy Cow budget, Holy Cow review, Holy Cow rating, Holy Cow release date, Holy Cow trailer, Holy Cow Drama, Holy Cow Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clément Faveau"
+     },
+     {
+      "@type": "Person",
+      "name": "Maïwène Barthélémy"
+     },
+     {
+      "@type": "Person",
+      "name": "Luna Garret"
+     },
+     {
+      "@type": "Person",
+      "name": "Mathis Bernard"
+     },
+     {
+      "@type": "Person",
+      "name": "Dimitri Baudry"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Holy Cow (2024): Drama/Comedy film. Story: In the western part of the French Alps: After the… See cast, TMDB rating 6.9/10, and release date 11 December 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louise Courvoisier"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1079310",
+    "name": "Holy Cow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1079310"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Holy Cow (2024)</h1>\n<p class=\"ssr-lead\">In the western part of the French Alps: After the drunk driving death of his father, 18-year-old Totone must look after his younger sister. He pursues a €30k Comté cheese award he has no hope of winning. Good thing Marie-Lise takes a liking for him!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2024</li><li>Runtime: 92 minutes</li><li>Director: Louise Courvoisier</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.9/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clément Faveau as Totone</li><li>Maïwène Barthélémy as Marie-Lise</li><li>Luna Garret as Claire</li><li>Mathis Bernard as Jean-Yves Bretin</li><li>Dimitri Baudry as Francis</li><li>Armand Sancey Richard as Cyril</li><li>Lucas Marillier as Pierrick</li><li>Lorelei Vasseur as Aurore</li><li>Damien Bilon as Guy</li><li>Jean-Marie Ganneval as Serge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kino Film Collection</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Holy Cow (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1098110": {
    "d": "Blood & Gold (2023): Drama/War film. Story: At the end of World War II, a German soldier is… See cast, TMDB rating 6.6/10, and release date 21 April 2023.",
    "img": "https://image.tmdb.org/t/p/w780/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
@@ -257,6 +321,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Blood &amp; Gold (2023)</h1>\n<p class=\"ssr-lead\">At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 April 2023</li><li>Runtime: 100 minutes</li><li>Director: Peter Thorwarth</li><li>Genres: Drama, War, Action</li><li>TMDB rating: 6.6/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Maaser as Heinrich</li><li>Jördis Triebel as Sonja</li><li>Marie Hacke as Elsa</li><li>Alexander Scheer as von Starnfeld</li><li>Roy McCrerey as Sergeant</li><li>Stephan Grossmann as Richard</li><li>Florian Schmidtke as Dörfler</li><li>Juri Senft as Koehler</li><li>Simon Rupp as Paule</li><li>Tomas Karel as Hebler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Blood & Gold (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:11310": {
+   "d": "City Slickers II: The Legend of Curly's Gold (1994): Comedy/Western film. Story: Mitch Robbins' 40th birthday begins quite well until… See cast and budget $40M.",
+   "img": "https://image.tmdb.org/t/p/w780/kuq99XpsY2wyI0yMMNjK5pTLafY.jpg",
+   "industry": "world",
+   "k": "City Slickers II: The Legend of Curly's Gold, City Slickers II: The Legend of Curly's Gold movie, City Slickers II: The Legend of Curly's Gold cast, City Slickers II: The Legend of Curly's Gold story, City Slickers II: The Legend of Curly's Gold box office collection, City Slickers II: The Legend of Curly's Gold budget, City Slickers II: The Legend of Curly's Gold review, City Slickers II: The Legend of Curly's Gold rating, City Slickers II: The Legend of Curly's Gold release date, City Slickers II: The Legend of Curly's Gold trailer, City Slickers II: The Legend of Curly's Gold Comedy, City Slickers II: The Legend of Curly's Gold Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Billy Crystal"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Lovitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Palance"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Wettig"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "City Slickers II: The Legend of Curly's Gold (1994): Comedy/Western film. Story: Mitch Robbins' 40th birthday begins quite well until… See cast and budget $40M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Weiland"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Comedy",
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kuq99XpsY2wyI0yMMNjK5pTLafY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11310",
+    "name": "City Slickers II: The Legend of Curly's Gold",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11310"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>City Slickers II: The Legend of Curly&#x27;s Gold (1994)</h1>\n<p class=\"ssr-lead\">Mitch Robbins&#x27; 40th birthday begins quite well until he returns home and finds his brother Glen, the black sheep of the family, in his sofa. Nevertheless he is about to have a wonderful birthday-night with his wife when he discovers a treasure map of Curly by chance. Together with Phil and unfortunately Glen he tries to find the hidden gold of Curly&#x27;s father in the desert of Arizona.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 1994</li><li>Runtime: 116 minutes</li><li>Director: Paul Weiland</li><li>Genres: Comedy, Western</li><li>Budget: $40M</li><li>TMDB rating: 5.4/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Billy Crystal as Mitch Robbins</li><li>Daniel Stern as Phil Berquist</li><li>Jon Lovitz as Glen Robbins</li><li>Jack Palance as Duke Page</li><li>Patricia Wettig as Barbara Robbins</li><li>Pruitt Taylor Vince as Bud</li><li>Bill McKinney as Matt</li><li>Lindsay Crystal as Holly Robbins</li><li>Beth Grant as Lois</li><li>Noble Willingham as Clay Stone</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "City Slickers II: The Legend of Curly's Gold (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
   },
   "movie:11510": {
    "d": "Repossessed (1990): Comedy/Horror film. Story: It's been some time since Father Jebedaiah Mayii… See cast and TMDB rating 5.3/10.",
@@ -1088,6 +1216,70 @@
    "t": "Six Degrees of Separation (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
   },
+  "movie:23410": {
+   "d": "The Thaw (2009): Horror/Science Fiction film. Story: At a remote Arctic research station, four ecology… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5df3793jyBeUQupx0uq1cA6lGF8.jpg",
+   "industry": "world",
+   "k": "The Thaw, The Thaw movie, The Thaw cast, The Thaw story, The Thaw box office collection, The Thaw budget, The Thaw review, The Thaw rating, The Thaw release date, The Thaw Horror, The Thaw Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Val Kilmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Martha MacIsaac"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Ashmore"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Schmid"
+     },
+     {
+      "@type": "Person",
+      "name": "Viv Leacock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 376,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Thaw (2009): Horror/Science Fiction film. Story: At a remote Arctic research station, four ecology… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark A. Lewis"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5df3793jyBeUQupx0uq1cA6lGF8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23410",
+    "name": "The Thaw",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-08-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23410"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Thaw (2009)</h1>\n<p class=\"ssr-lead\">At a remote Arctic research station, four ecology students discover the real horror of global warming is not the melting ice, but what&#x27;s frozen within it. A prehistoric parasite is released from the carcass of a Woolly Mammoth upon the unsuspecting students who are forced to quarantine and make necessary sacrifices, or risk infecting the rest of the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2009</li><li>Runtime: 94 minutes</li><li>Director: Mark A. Lewis</li><li>Genres: Horror, Science Fiction</li><li>TMDB rating: 5.7/10 (376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Val Kilmer as Dr. David Kruipen</li><li>Martha MacIsaac as Evelyn Kruipen</li><li>Aaron Ashmore as Atom Galen</li><li>Kyle Schmid as Federico Fulce</li><li>Viv Leacock as Bart</li><li>Steph Song as Ling Chen</li><li>Anne Marie DeLuise as Dr. Jane Sanders</li><li>John Callander as Edward</li><li>Lamech Kadloo as Nuti</li><li>Evan Adams as Professor Anderson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Thaw (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:244610": {
    "d": "The Den (2013): Horror/Thriller film. Story: A young woman studying the habits of webcam chat… See cast, budget $500.0k, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
@@ -1279,6 +1471,70 @@
    "t": "The Canal (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:26610": {
+   "d": "Insomnia (1997): Thriller/Crime film. Story: Detectives Jonas and Erik are called to the midnight… See cast, TMDB rating 7.0/10, and release date 14 March 1997.",
+   "img": "https://image.tmdb.org/t/p/w780/r2t5TjazNr6Kx9eQbcy50izuPw0.jpg",
+   "industry": "world",
+   "k": "Insomnia, Insomnia movie, Insomnia cast, Insomnia story, Insomnia box office collection, Insomnia budget, Insomnia review, Insomnia rating, Insomnia release date, Insomnia Thriller, Insomnia Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Sverre Anker Ousdal"
+     },
+     {
+      "@type": "Person",
+      "name": "Bjørn Floberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Mathiesen"
+     },
+     {
+      "@type": "Person",
+      "name": "Gisken Armand"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Insomnia (1997): Thriller/Crime film. Story: Detectives Jonas and Erik are called to the midnight… See cast, TMDB rating 7.0/10, and release date 14 March 1997.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Erik Skjoldbjærg"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r2t5TjazNr6Kx9eQbcy50izuPw0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26610",
+    "name": "Insomnia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26610"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Insomnia (1997)</h1>\n<p class=\"ssr-lead\">Detectives Jonas and Erik are called to the midnight sun country of northern Norway to investigate a recent homicide, but their plan to arrest the killer goes awry, and Jonas mistakenly shoots Erik. The suspect escapes, and a frightened Jonas pins Erik&#x27;s death on the fugitive. Jonas continues to pursue the killer as he seeks to protect himself; however, his mounting guilt and the omnipresent sun plague him with an insomnia that affects his sanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 1997</li><li>Runtime: 96 minutes</li><li>Director: Erik Skjoldbjærg</li><li>Genres: Thriller, Crime, Mystery</li><li>TMDB rating: 7.0/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stellan Skarsgård as Jonas Engström</li><li>Sverre Anker Ousdal as Erik Vik</li><li>Bjørn Floberg as Jon Holt</li><li>Maria Mathiesen as Tanja Lorentzen</li><li>Gisken Armand as Hilde Hagen</li><li>Kristian Figenschow as Arne Zakariassen</li><li>Thor Michael Aamodt as Tom Engen</li><li>Frode Rasmussen as Chief of Police</li><li>Bjørn Moan as Eilert</li><li>Maria Bonnevie as Ane</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Criterion Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Insomnia (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:354110": {
    "d": "Forsaken (2015): Western film. Story: John Henry returns to his hometown in hopes of… See cast, budget $11M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
@@ -1341,6 +1597,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Forsaken (2015)</h1>\n<p class=\"ssr-lead\">John Henry returns to his hometown in hopes of repairing his relationship with his estranged father, but a local gang is terrorizing the town. John Henry is the only one who can stop them, however he has abandoned both his gun and reputation as a fearless quick-draw killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2015</li><li>Runtime: 90 minutes</li><li>Director: Jon Cassar</li><li>Genres: Western</li><li>Budget: $11M</li><li>TMDB rating: 6.2/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiefer Sutherland as John Henry Clayton</li><li>Donald Sutherland as Rev. Clayton</li><li>Demi Moore as Mary-Alice Watson</li><li>Brian Cox as James McCurdy</li><li>Siobhan Williams as Emily Chadwick</li><li>Michael Wincott as Dave Turner</li><li>Landon Liboiron as Will Pickard</li><li>Greg Ellis as Tom Watson</li><li>Wesley Morgan as Sam</li><li>Aaron Poole as Frank Tillman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Forsaken (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:37910": {
+   "d": "Voices of a Distant Star (2002): Animation/Science Fiction film. Story: It is 2046 when a mysterious alien force begins their… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gxEsfgJxgqYL3hlg9yKNU8Qsycq.jpg",
+   "industry": "world",
+   "k": "Voices of a Distant Star, Voices of a Distant Star movie, Voices of a Distant Star cast, Voices of a Distant Star story, Voices of a Distant Star box office collection, Voices of a Distant Star budget, Voices of a Distant Star review, Voices of a Distant Star rating, Voices of a Distant Star release date, Voices of a Distant Star Animation, Voices of a Distant Star Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Makoto Shinkai"
+     },
+     {
+      "@type": "Person",
+      "name": "Mika Shinohara"
+     },
+     {
+      "@type": "Person",
+      "name": "Donna Burke"
+     },
+     {
+      "@type": "Person",
+      "name": "Chihiro Suzuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Sumi Mutoh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Voices of a Distant Star (2002): Animation/Science Fiction film. Story: It is 2046 when a mysterious alien force begins their… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Makoto Shinkai"
+     }
+    ],
+    "duration": "PT25M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gxEsfgJxgqYL3hlg9yKNU8Qsycq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37910",
+    "name": "Voices of a Distant Star",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-02-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37910"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Voices of a Distant Star (2002)</h1>\n<p class=\"ssr-lead\">It is 2046 when a mysterious alien force begins their annihilation of the human race. Leaving behind the one person she loves, Mikako joins the interstellar battle as a pilot. And so - while Mikako risks her life to save mankind - Noboru waits. The two lovers, worlds apart, desperately strive to remain connected as the gap between them widens at a frightening pace.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 February 2002</li><li>Runtime: 25 minutes</li><li>Director: Makoto Shinkai</li><li>Genres: Animation, Science Fiction, Romance</li><li>TMDB rating: 6.5/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Makoto Shinkai as Noboru Terao (voice)</li><li>Mika Shinohara as Mikako Nagamine (voice)</li><li>Donna Burke as Operator of the Lysithea (voice)</li><li>Chihiro Suzuki</li><li>Sumi Mutoh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Voices of a Distant Star (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:391710": {
    "d": "A Futile and Stupid Gesture (2018): Comedy/Drama film. Story: In a life full of triumph and failure, \"National… See cast, budget $10M, and TMDB rating 6.4/10.",
@@ -1406,6 +1726,70 @@
    "t": "A Futile and Stupid Gesture (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:396810": {
+   "d": "The Last Word (2017): Comedy/Drama film. Story: A retired businesswoman – who tries to control… See cast, TMDB rating 6.6/10, and release date 3 March 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/sEqSMNIkxizIHW8kWKoikVYWeXF.jpg",
+   "industry": "world",
+   "k": "The Last Word, The Last Word movie, The Last Word cast, The Last Word story, The Last Word box office collection, The Last Word budget, The Last Word review, The Last Word rating, The Last Word release date, The Last Word trailer, The Last Word Comedy, The Last Word Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shirley MacLaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Seyfried"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Heche"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Sadoski"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Baker Hall"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Last Word (2017): Comedy/Drama film. Story: A retired businesswoman – who tries to control… See cast, TMDB rating 6.6/10, and release date 3 March 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Pellington"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sEqSMNIkxizIHW8kWKoikVYWeXF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=396810",
+    "name": "The Last Word",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-03-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=396810"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Word (2017)</h1>\n<p class=\"ssr-lead\">A retired businesswoman – who tries to control everything around her – decides to write her own obituary. A young journalist takes up the task of finding out the truth, and the result is a life-altering friendship.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 March 2017</li><li>Runtime: 108 minutes</li><li>Director: Mark Pellington</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.6/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shirley MacLaine as Harriet Lauler</li><li>Amanda Seyfried as Anne Sherman</li><li>Anne Heche as Elizabeth</li><li>Thomas Sadoski as Robin Sands</li><li>Philip Baker Hall as Edward</li><li>Adina Porter as Bree Wilson</li><li>Sarah Baker as Zoe</li><li>Tom Everett Scott as Ronald Odom</li><li>Gedde Watanabe as Louie the gardener</li><li>Joel Murray as Joe Mueller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Hulu, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Last Word (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:41110": {
    "d": "I Am Love (2010): Drama film. Story: Emma has left Russia to live with her husband in… See cast, budget $3.6M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
@@ -1468,6 +1852,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>I Am Love (2010)</h1>\n<p class=\"ssr-lead\">Emma has left Russia to live with her husband in Italy. Now a member of a powerful industrial family, she is the respected mother of three, but feels unfulfilled. One day, Antonio, a talented chef and her son&#x27;s friend, makes her senses kindle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2010</li><li>Runtime: 120 minutes</li><li>Director: Luca Guadagnino</li><li>Genres: Drama</li><li>Budget: $3.6M</li><li>TMDB rating: 6.7/10 (427 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tilda Swinton as Emma Recchi</li><li>Flavio Parenti as Edoardo Recchi Junior</li><li>Edoardo Gabbriellini as Antonio Biscaglia</li><li>Alba Rohrwacher as Elisabetta Recchi</li><li>Pippo Delbono as Tancredi Recchi</li><li>Maria Paiato as Ida Marangon</li><li>Diane Fleri as Eva Ugolini</li><li>Waris Ahluwalia as Shai Kubelkian</li><li>Mattia Zaccaro as Gianluca Recchi</li><li>Chiara Tomarelli as Anita Toffoli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "I Am Love (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:41610": {
+   "d": "Fracchia The Human Beast (1981): Comedy film. Story: The world's greatest criminal and the world greatest… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7MIgvo5HPBxJLO6dWliaywhPDVy.jpg",
+   "industry": "world",
+   "k": "Fracchia The Human Beast, Fracchia The Human Beast movie, Fracchia The Human Beast cast, Fracchia The Human Beast story, Fracchia The Human Beast box office collection, Fracchia The Human Beast budget, Fracchia The Human Beast review, Fracchia The Human Beast rating, Fracchia The Human Beast release date, Fracchia The Human Beast Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paolo Villaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Lino Banfi"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Mazzamauro"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigi Reder"
+     },
+     {
+      "@type": "Person",
+      "name": "Massimo Boldi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 351,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Fracchia The Human Beast (1981): Comedy film. Story: The world's greatest criminal and the world greatest… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neri Parenti"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7MIgvo5HPBxJLO6dWliaywhPDVy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=41610",
+    "name": "Fracchia The Human Beast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1981-12-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=41610"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fracchia The Human Beast (1981)</h1>\n<p class=\"ssr-lead\">The world&#x27;s greatest criminal and the world greatest loser share the same face... now they&#x27;ll share the same life!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 1981</li><li>Runtime: 99 minutes</li><li>Director: Neri Parenti</li><li>Genres: Comedy</li><li>TMDB rating: 6.7/10 (351 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paolo Villaggio as Giandomenico Fracchia / La Belva Umana</li><li>Lino Banfi as Commissario Auricchio</li><li>Anna Mazzamauro as Signorina Corvino</li><li>Gigi Reder as Madre della Belva Umana</li><li>Massimo Boldi as Pera</li><li>Francesco Salvi as Neuro</li><li>Sandro Ghiani as De Simone</li><li>Antonio Allocca as Ufficiale dei Carabinieri</li><li>Jole Silvani as Palmira</li><li>Fiammetta Baralla as Cicciona che fa footing</li></ul>\n</article>",
+   "t": "Fracchia The Human Beast (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1981"
   },
   "movie:429210": {
    "d": "Bingo: The King of the Mornings (2017): Comedy/Drama film. Story: 1980s. Brazilian television exploding in color and… See cast and TMDB rating 8.0/10.",
@@ -1915,6 +2362,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sick (2022)</h1>\n<p class=\"ssr-lead\">While quarantining at her family&#x27;s lake house during the pandemic, Parker and her best friend are threatened by an unexpected visitor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2022</li><li>Runtime: 83 minutes</li><li>Director: John Hyams</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.1/10 (393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gideon Adlon as Parker</li><li>Bethlehem Million as Miri</li><li>Dylan Sprayberry as DJ</li><li>Marc Menchaca as Jason</li><li>Jane Adams as Pamela</li><li>Joel Courtney as Tyler</li><li>Chris Reid as Jeb</li><li>Duane Stephens as Mr. Lyons</li><li>Logan Murphy as Benji</li><li>Terry D. Gibson as Big Guy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Sick (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:91010": {
+   "d": "Game Change (2012): TV Movie/Drama film. Story: During the Republican run of the 2008 Presidential… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wYe0w2odluof3jb9tmn6ct3PS6o.jpg",
+   "industry": "world",
+   "k": "Game Change, Game Change movie, Game Change cast, Game Change story, Game Change box office collection, Game Change budget, Game Change review, Game Change rating, Game Change release date, Game Change trailer, Game Change TV Movie, Game Change Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter MacNicol"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamey Sheridan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Game Change (2012): TV Movie/Drama film. Story: During the Republican run of the 2008 Presidential… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jay Roach"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "TV Movie",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wYe0w2odluof3jb9tmn6ct3PS6o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=91010",
+    "name": "Game Change",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-02-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=91010"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Game Change (2012)</h1>\n<p class=\"ssr-lead\">During the Republican run of the 2008 Presidential election, candidate John McCain picks a relative unknown, Alaskan governor Sarah Palin, to be his running mate. As the campaign kicks into high gear, her lack of experience, in both political and media savvy, becomes a drain upon McCain and his strategists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 February 2012</li><li>Runtime: 118 minutes</li><li>Director: Jay Roach</li><li>Genres: TV Movie, Drama, Comedy, History</li><li>TMDB rating: 6.9/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julianne Moore as Sarah Palin</li><li>Woody Harrelson as Steve Schmidt</li><li>Ed Harris as John McCain</li><li>Peter MacNicol as Rick Davis</li><li>Jamey Sheridan as Mark Salter</li><li>Sarah Paulson as Nicolle Wallace</li><li>Ron Livingston as Mark Wallace</li><li>David Barry Gray as Todd Palin</li><li>Larry Sullivan as Chris Edwards</li><li>Mikal Evans as Bexie Nobles</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Game Change (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "tv:114410": {
    "d": "Chainsaw Man (2022) is an Animation and Action & Adventure TV series. Explore its story: Denji has a simple dream—to live a happy and peaceful… and cast.",

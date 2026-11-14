@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 42,
+ "count": 50,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -499,6 +499,353 @@
    "type": "movie",
    "vote_average": 7.083,
    "vote_count": 422
+  },
+  "movie:11309": {
+   "backdrop_path": "/nC1qaINaRBY1crPCQoFVPhSrq16.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Moses \"Hard Mo\" Baxter",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Jill",
+     "n": "Stacey Travis"
+    },
+    {
+     "c": "Shades",
+     "n": "John Lynch"
+    },
+    {
+     "c": "Lincoln Wineberg Jr.",
+     "n": "William Hootkins"
+    },
+    {
+     "c": "Nomad",
+     "n": "Carl McCoy"
+    },
+    {
+     "c": "Angry Bob",
+     "n": "Iggy Pop"
+    },
+    {
+     "c": "Alvy",
+     "n": "Mark Northover"
+    },
+    {
+     "c": "Vernon",
+     "n": "Paul McKenzie"
+    },
+    {
+     "c": "Chief",
+     "n": "Oscar James"
+    },
+    {
+     "c": "Taxi Driver",
+     "n": "Lemmy Kilmister"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Stanley"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 11309,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Mark 13 is a government-built killing machine programmed with artificial intelligence, able to repair and recharge itself from any energy source. Through a series of coincidences, the cyborg's head ends up in the home of a sculptress as a bizarre Christmas present from her boyfriend. Once inside its new home, the cyborg promptly reconstructs the rest of its body using a variety of household utensils and proceeds to go on a murderous rampage.",
+   "popularity": 2.2017,
+   "poster_path": "/ybauOsdo6ColZ1WsALqIYjpUg4X.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1990-09-14",
+   "revenue": 5728953,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't stop progress.",
+   "title": "Hardware",
+   "trailer": {
+    "key": "e0k2YvEns-M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 373
+  },
+  "movie:11909": {
+   "backdrop_path": "/llPr868m7jtx63Xr0ZItmvYZokv.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Ben / Siu Bun",
+     "n": "Tony Leung Chiu-wai"
+    },
+    {
+     "c": "Frank / Fai Jai",
+     "n": "Jacky Cheung Hok-yau"
+    },
+    {
+     "c": "Paul / Sau Ming",
+     "n": "Waise Lee Chi-hung"
+    },
+    {
+     "c": "Luke / Lok",
+     "n": "Simon Yam"
+    },
+    {
+     "c": "Jane / Siu Jan",
+     "n": "Fennie Yuen Kit-ying"
+    },
+    {
+     "c": "Sally Yan Sau Ching",
+     "n": "Yolinda Yan Chor-Sin"
+    },
+    {
+     "c": "Mr Y.S. Leong",
+     "n": "Lam Chung"
+    },
+    {
+     "c": "Ben's Mother",
+     "n": "Nina Paw Hei-ching"
+    },
+    {
+     "c": "Jane's Father",
+     "n": "Chang Gan-Wing"
+    },
+    {
+     "c": "Jane's Mother",
+     "n": "So Hang-Suen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Woo"
+   ],
+   "genres": [
+    "Action",
+    "War",
+    "Crime"
+   ],
+   "id": 11909,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Three childhood friends from the slums of Hong Kong flee to war-time Saigon after accidentally murdering a gang leader, but their troubles only escalate.",
+   "popularity": 3.0566,
+   "poster_path": "/q3Ytus4zMOHlvGurE9etmGABpA0.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-08-17",
+   "revenue": 1092869,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "en",
+    "fr",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Once The Best of Friends, Now The Worst of... Enemies!",
+   "title": "Bullet in the Head",
+   "trailer": {
+    "key": "86tatNXDTME",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.554,
+   "vote_count": 344
+  },
+  "movie:12509": {
+   "backdrop_path": "/diLUnClHswIfhpJSjpblvSjWL9U.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Jackson Pollock",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Lee Krasner",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Dan Miller",
+     "n": "Tom Bower"
+    },
+    {
+     "c": "Ruth Kligman",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Howard Putzel",
+     "n": "Bud Cort"
+    },
+    {
+     "c": "Tony Smith",
+     "n": "John Heard"
+    },
+    {
+     "c": "Willem DeKooning",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Charles Pollock",
+     "n": "David Leary"
+    },
+    {
+     "c": "Sande Pollock",
+     "n": "Robert Knott"
+    },
+    {
+     "c": "Helen Frankenthaler",
+     "n": "Stephanie Seymour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ed Harris"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 12509,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In August of 1949, Life Magazine ran a banner headline that begged the question: \"Jackson Pollock: Is he the greatest living painter in the United States?\" The film is a look back into the life of an extraordinary man, a man who has fittingly been called \"an artist dedicated to concealment, a celebrity who nobody knew.\" As he struggled with self-doubt, engaging in a lonely tug-of-war between needing to express himself and wanting to shut the world out, Pollock began a downward spiral.",
+   "popularity": 1.5055,
+   "poster_path": "/azsBSw2zw2uNHiCjTnbe9TJVEDB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-09-06",
+   "revenue": 10994533,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A true portrait of life and art.",
+   "title": "Pollock",
+   "trailer": {
+    "key": "-EvqaHos7Oo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.659,
+   "vote_count": 375
   },
   "movie:12609": {
    "backdrop_path": "/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
@@ -1509,6 +1856,232 @@
    "vote_average": 7.8,
    "vote_count": 152
   },
+  "movie:18009": {
+   "backdrop_path": "/yvtMS504Fvqxs613lD7hAGI51Dd.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "The Leprechaun",
+     "n": "Warwick Davis"
+    },
+    {
+     "c": "Cody",
+     "n": "Charlie Heath"
+    },
+    {
+     "c": "Bridget / William's Daughter",
+     "n": "Shevonne Durkin"
+    },
+    {
+     "c": "Ian",
+     "n": "Adam Biesk"
+    },
+    {
+     "c": "Drunk at the Pub",
+     "n": "Arturo Gil"
+    },
+    {
+     "c": "Housewife",
+     "n": "Linda Hopkins"
+    },
+    {
+     "c": "William O'Day",
+     "n": "James Lancaster"
+    },
+    {
+     "c": "Morty",
+     "n": "Sandy Baron"
+    },
+    {
+     "c": "Tourist's Girlfriend",
+     "n": "Kimmy Robertson"
+    },
+    {
+     "c": "Tourist",
+     "n": "Clint Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rodman Flender"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 18009,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A thousand years ago, the Leprechaun left a bloody trail when he ripped through the countryside in search of his stolen gold. Now he's back in the big city using all of his deadly tricks to snare the girl of his nightmares. His bloody quest becomes more deadly when her boyfriend steals one of the Leprechaun's gold coins. The town soon discovers two dead bodies and a trail of gold dust leads them to the Leprechaun's lair.",
+   "popularity": 1.7943,
+   "poster_path": "/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-04-08",
+   "revenue": 2300000,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time... luck has nothing to do with it.",
+   "title": "Leprechaun 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.444,
+   "vote_count": 382
+  },
+  "movie:21309": {
+   "backdrop_path": "/1WW94dBZmOf7LgvjTPqh9cA36KZ.jpg",
+   "budget": 1900000,
+   "cast": [
+    {
+     "c": "Layne",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Matt",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Clarissa",
+     "n": "Ione Skye"
+    },
+    {
+     "c": "Maggie",
+     "n": "Roxana Zal"
+    },
+    {
+     "c": "Samson",
+     "n": "Daniel Roebuck"
+    },
+    {
+     "c": "Feck",
+     "n": "Dennis Hopper"
+    },
+    {
+     "c": "Tim",
+     "n": "Joshua John Miller"
+    },
+    {
+     "c": "Bennett",
+     "n": "Tom Bower"
+    },
+    {
+     "c": "Jamie",
+     "n": "Danyi Deats"
+    },
+    {
+     "c": "Madeleine",
+     "n": "Constance Forslund"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Hunter"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 21309,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of high-school friends must come to terms with the fact that one of them, Samson, killed another, Jamie. Faced with the brutality of death, each must decide whether to turn their friend in to the police, or to help him escape the consequences of his dreadful deed.",
+   "popularity": 1.6857,
+   "poster_path": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-10-10",
+   "revenue": 4600000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Which was worse? The murder or what came after?",
+   "title": "River's Edge",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.561,
+   "vote_count": 343
+  },
   "movie:32909": {
    "backdrop_path": "/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg",
    "budget": 12000000,
@@ -1784,6 +2357,128 @@
    "type": "movie",
    "vote_average": 7.624,
    "vote_count": 472
+  },
+  "movie:346709": {
+   "backdrop_path": "/ygIHxA8EB246fwnNlHn6gN1QCf4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Penny",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Ava Brooks",
+     "n": "Courtney Eaton"
+    },
+    {
+     "c": "Dean Keller",
+     "n": "Ben McKenzie"
+    },
+    {
+     "c": "Tom Volk",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Clover Nestel",
+     "n": "Jessica Lu"
+    },
+    {
+     "c": "Ruth Carter",
+     "n": "Dina Meyer"
+    },
+    {
+     "c": "Telescope",
+     "n": "David Shae"
+    },
+    {
+     "c": "Maya Prinz",
+     "n": "Betzaida Landín"
+    },
+    {
+     "c": "Man Watching Live Coverage",
+     "n": "MWW Michael Wilkerson"
+    },
+    {
+     "c": "Market Shopper",
+     "n": "Jonathan  Aidan Cockrell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven C. Miller"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 346709,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Frank Penny is a disgraced cop looking for a shot at redemption. When the police chief's 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank's every move.",
+   "popularity": 2.2137,
+   "poster_path": "/h3mrc6JunZYFTmFas2gKilmw77q.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-25",
+   "revenue": 646389,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The clock is ticking. The world is watching.",
+   "title": "Line of Duty",
+   "trailer": {
+    "key": "HlicR75YXEE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 381
   },
   "movie:351809": {
    "backdrop_path": "/61x4IXb92ZPhqBJvzVW6Et9pvmY.jpg",
@@ -2434,6 +3129,211 @@
    "type": "movie",
    "vote_average": 5.58,
    "vote_count": 493
+  },
+  "movie:47909": {
+   "backdrop_path": "/m3xCLh3b3QH9QkZx67argsU5PTO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yang Mi-ja",
+     "n": "Yoon Jeong-hee"
+    },
+    {
+     "c": "Jong-wook",
+     "n": "David Lee"
+    },
+    {
+     "c": "Elder Kang",
+     "n": "Kim Hee-ra"
+    },
+    {
+     "c": "Ki-beom's Father",
+     "n": "Ahn Nae-sang"
+    },
+    {
+     "c": "Poet",
+     "n": "Kim Yong-taek"
+    },
+    {
+     "c": "Hee-jin's Mother",
+     "n": "Park Myung-shin"
+    },
+    {
+     "c": "Mr. Kang's Second Daughter-in-Law",
+     "n": "Jang Hye-jin"
+    },
+    {
+     "c": "Soo-ok",
+     "n": "Kim Nam-jin"
+    },
+    {
+     "c": "Park Sang-tae",
+     "n": "Kim Jong-goo"
+    },
+    {
+     "c": "Jo Mi-hye",
+     "n": "Kim Hye-jung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG12",
+   "date_kind": "release",
+   "director": [
+    "Lee Chang-dong"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 47909,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
+   "popularity": 2.7449,
+   "poster_path": "/5RS3zovYbHdpZqLqyEOr24qWKwf.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-05-13",
+   "revenue": 349899,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Poetry",
+   "trailer": {
+    "key": "nWgTXm7cJYs",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.578,
+   "vote_count": 357
   },
   "movie:513409": {
    "backdrop_path": "/rhklsYtIITDOdFSmhx2fIH9m9Vn.jpg",
@@ -3097,6 +3997,108 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 446
+  },
+  "movie:9809": {
+   "backdrop_path": "/1ZyZvbZlvA6fFLWEPmbJ84G3kG1.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "John Lyshitski",
+     "n": "Dax Shepard"
+    },
+    {
+     "c": "Nelson Biederman IV",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Barry",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Shanahan",
+     "n": "David Koechner"
+    },
+    {
+     "c": "Warden",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Lynard",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Jesus",
+     "n": "Miguel Nino"
+    },
+    {
+     "c": "Icepick",
+     "n": "Jay Whittaker"
+    },
+    {
+     "c": "Judge Eva Fwae Wun",
+     "n": "Amy Hill"
+    },
+    {
+     "c": "Judge Biederman",
+     "n": "David Darlow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bob Odenkirk"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 9809,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a career criminal's plan for revenge is thwarted by unlikely circumstances, he puts his intended victim's son in his place by putting him in prison...and then joining him.",
+   "popularity": 2.5277,
+   "poster_path": "/8p64GZR0xEQaAfHY2309ShgtMap.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-11-17",
+   "revenue": 4630045,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the slammer.",
+   "title": "Let's Go to Prison",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 379
   },
   "tv:105009": {
    "backdrop_path": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",

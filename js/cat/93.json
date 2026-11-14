@@ -1,7 +1,119 @@
 {
  "bucket": "93",
- "count": 37,
+ "count": 44,
  "titles": {
+  "movie:11593": {
+   "backdrop_path": "/qvcgsoiC5AV8JDExNd5eL4jxvVa.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Sully Sullivan",
+     "n": "Paul Newman"
+    },
+    {
+     "c": "Carl Roebuck",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Toby Roebuck",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Beryl Peoples",
+     "n": "Jessica Tandy"
+    },
+    {
+     "c": "Peter Sullivan",
+     "n": "Dylan Walsh"
+    },
+    {
+     "c": "Rub Squeers",
+     "n": "Pruitt Taylor Vince"
+    },
+    {
+     "c": "Wirf Wirfley",
+     "n": "Gene Saks"
+    },
+    {
+     "c": "Clive Peoples Jr.",
+     "n": "Josef Sommer"
+    },
+    {
+     "c": "Officer Raymer",
+     "n": "Philip Seymour Hoffman"
+    },
+    {
+     "c": "Judge Flatt",
+     "n": "Philip Bosco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Benton"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 11593,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rascally man nearing retirement juggles a workers' compensation suit while secretly working for his nemesis and flirting with his nemesis' young wife. As his estranged son returns, he faces new family responsibilities, while a banker plots to evict him from his home.",
+   "popularity": 2.2076,
+   "poster_path": "/csp8oUcYlJvKIzJhUe0Qaj3Hrqe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-01-13",
+   "revenue": 39491975,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a town where nothing ever happens... everything is about to happen to Sully.",
+   "title": "Nobody's Fool",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.893,
+   "vote_count": 363
+  },
   "movie:1199193": {
    "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
    "budget": 0,
@@ -164,6 +276,149 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 43
+  },
+  "movie:1232493": {
+   "backdrop_path": "/bBleQSVXH97a0G2oF9MDAYCOlLG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Basel Adra"
+    },
+    {
+     "c": "Self",
+     "n": "Yuval Abraham"
+    },
+    {
+     "c": "Self",
+     "n": "Farisa Abu Aram"
+    },
+    {
+     "c": "Self",
+     "n": "Nasser Adra"
+    },
+    {
+     "c": "Self",
+     "n": "Harun Abu Aram"
+    },
+    {
+     "c": "Self",
+     "n": "Kifah Adara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Rachel Szor",
+    "Hamdan Ballal",
+    "Yuval Abraham",
+    "Basel Adra"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1232493,
+   "industry": "world",
+   "origin_country": [
+    "PS"
+   ],
+   "original_language": "ar",
+   "overview": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
+   "popularity": 2.3766,
+   "poster_path": "/bVlXZnI24U4QPlGvggUbeShMhz8.jpg",
+   "production_countries": [
+    "NO",
+    "PS"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-01",
+   "revenue": 3651497,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "No Other Land",
+   "trailer": {
+    "key": "jOOgJICcxu0",
+    "name": "Alt Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.031,
+   "vote_count": 366
   },
   "movie:1241693": {
    "backdrop_path": "/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
@@ -1170,6 +1425,103 @@
    "vote_average": 6.3,
    "vote_count": 409
   },
+  "movie:20993": {
+   "backdrop_path": "/a8bPE7ufmXsfj2BLOrB8KuNMxN5.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Danila Bagrov",
+     "n": "Sergei Bodrov Jr."
+    },
+    {
+     "c": "Viktor Bagrov",
+     "n": "Viktor Sukhorukov"
+    },
+    {
+     "c": "Kostya / Mitya",
+     "n": "Aleksandr Dyachenko"
+    },
+    {
+     "c": "Ilya",
+     "n": "Kirill Pirogov"
+    },
+    {
+     "c": "Mennis",
+     "n": "Gary Houston"
+    },
+    {
+     "c": "Belkin",
+     "n": "Sergey Makovetskiy"
+    },
+    {
+     "c": "Bandit",
+     "n": "Dmitriy Orlov"
+    },
+    {
+     "c": "Fascist",
+     "n": "Konstantin Murzenko"
+    },
+    {
+     "c": "Himself",
+     "n": "Vladislav Opelyants"
+    },
+    {
+     "c": "",
+     "n": "Yanina Kogut"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16+",
+   "date_kind": "release",
+   "director": [
+    "Aleksei Balabanov"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 20993,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Arriving in Moscow, Chechen War veteran Danila meets Konstantin, an old friend who tells him that his twin brother has been forced into signing a crooked contract with a US ice hockey team. Soon after this meeting, Danila discovers Konstantin dead and he sets out to avenge his death; a journey that leads him to Chicago and a whole new experience.",
+   "popularity": 1.6245,
+   "poster_path": "/r5pffTC8XZsrGUYSU8e23dGmGNK.jpg",
+   "production_countries": [
+    "RU",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2000-05-11",
+   "revenue": 1080000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "Danila returns!",
+   "title": "Brother 2",
+   "trailer": {
+    "key": "PeWGNfQhfPY",
+    "name": "Брат-2 | Трейлер | Снова в кино с 24 марта",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.144,
+   "vote_count": 361
+  },
   "movie:258193": {
    "backdrop_path": "/9p29QBHdeeaZZeHbOVcKYb66M3s.jpg",
    "budget": 0,
@@ -1312,6 +1664,123 @@
    "type": "movie",
    "vote_average": 5.872,
    "vote_count": 421
+  },
+  "movie:258893": {
+   "backdrop_path": "/jlHQyiqUtADbhj9DwJZbvT37mbv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred Jones / Scooby-Doo (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Daphne Blake (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "Mindy Cohn"
+    },
+    {
+     "c": "AJ Lee (voice)",
+     "n": "April Jeanette Mendez"
+    },
+    {
+     "c": "Ms. Richards (voice)",
+     "n": "Mary McCormack"
+    },
+    {
+     "c": "John Cena (voice)",
+     "n": "John Cena"
+    },
+    {
+     "c": "Michael Cole (voice)",
+     "n": "Michael Coulthard"
+    },
+    {
+     "c": "Kane (voice)",
+     "n": "Glenn Jacobs"
+    },
+    {
+     "c": "Brodus Clay (voice)",
+     "n": "George Murdoch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brandon Vietti"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Mystery"
+   ],
+   "id": 258893,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The mystery begins when Shaggy and Scooby win tickets to \"WrestleMania\" and convince the crew to go with them to WWE City. But this city harbors a spooky secret - a ghastly Ghost Bear holds the town in his terrifying grip! To protect the coveted WWE Championship Title, the gang gets help from WWE Superstars like John Cena, Triple H, Sin Cara, Brodus Clay, AJ Lee, The Miz and Kane. Watch Scooby and the gang grapple with solving this case before it's too late.",
+   "popularity": 2.0441,
+   "poster_path": "/vgnxicD1qvhTrh4db9F7hJLoOaa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-03-11",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Scooby-Doo joins WWE in this tag-team mystery!",
+   "title": "Scooby-Doo! WrestleMania Mystery",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.271,
+   "vote_count": 349
   },
   "movie:27793": {
    "backdrop_path": "/12Tr8MQ3z4M2Kpsz7bQQhghNJ5X.jpg",
@@ -1537,6 +2006,315 @@
    "type": "movie",
    "vote_average": 6.549,
    "vote_count": 477
+  },
+  "movie:441393": {
+   "backdrop_path": "/eLqkx8A6NoYfVf9EKHEOJf5ljxk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhao Qiao",
+     "n": "Zhao Tao"
+    },
+    {
+     "c": "Guo Bin",
+     "n": "Liao Fan"
+    },
+    {
+     "c": "Lin Jiadong",
+     "n": "Diao Yinan"
+    },
+    {
+     "c": "Woman on Boat",
+     "n": "Ding Jiali"
+    },
+    {
+     "c": "Policeman in Fengjie",
+     "n": "Dong Zijian"
+    },
+    {
+     "c": "Man from Karamay",
+     "n": "Xu Zheng"
+    },
+    {
+     "c": "First Man in Fengjie Restaurant",
+     "n": "Zhang Yibai"
+    },
+    {
+     "c": "Second Man in Fengjie Restaurant",
+     "n": "Zhang Yi"
+    },
+    {
+     "c": "",
+     "n": "Feng Xiaogang"
+    },
+    {
+     "c": "",
+     "n": "Feng Jiamei"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jia Zhangke"
+   ],
+   "genres": [
+    "Crime",
+    "Romance",
+    "Drama"
+   ],
+   "id": 441393,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Set in China's underworld, this tale of love and betrayal follows a dancer who fired a gun to protect her mobster boyfriend during a fight. On release from prison 5 years later, she sets out to find him.",
+   "popularity": 2.049,
+   "poster_path": "/l6UkF23uWkO25x7UEMnT0H4R5GR.jpg",
+   "production_countries": [
+    "CN",
+    "FR",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-21",
+   "revenue": 0,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "In a world in ruins, love and loyalty burn out, but never disappear.",
+   "title": "Ash Is Purest White",
+   "trailer": {
+    "key": "l0fKX6VhovQ",
+    "name": "Ash is Purest White | Official US Trailer | Starts March 15",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.866,
+   "vote_count": 372
+  },
+  "movie:445793": {
+   "backdrop_path": "/gaPrwXYiUfp6kLjtOHaQc18tudW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrea",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Sofia",
+     "n": "Kasia Smutniak"
+    },
+    {
+     "c": "Michele",
+     "n": "Valerio Aprea"
+    },
+    {
+     "c": "Maria",
+     "n": "Marta Gastini"
+    },
+    {
+     "c": "Brancati",
+     "n": "Andrea Bruschi"
+    },
+    {
+     "c": "Cristian",
+     "n": "Gaetano Bruno"
+    },
+    {
+     "c": "Angelica",
+     "n": "Paola Calliari"
+    },
+    {
+     "c": "Luca",
+     "n": "Flavio Furno"
+    },
+    {
+     "c": "Anna",
+     "n": "Francesca Agostini"
+    },
+    {
+     "c": "Tommaso",
+     "n": "Sebastian Dimulescu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Simone Godano"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 445793,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Married for ten years, in full crisis, thinking about divorce. But following a failed scientific experiment, they suddenly find one inside the body of the other.",
+   "popularity": 0.9214,
+   "poster_path": "/4DOI8zRChA2x7tBQowLfintVQ9s.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-04-13",
+   "revenue": 2839240,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Husband & Wife",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 359
   },
   "movie:50393": {
    "backdrop_path": "/cMR6Mpo8N6JVKbEuxet6N0p1NMA.jpg",
@@ -1849,6 +2627,201 @@
    "type": "movie",
    "vote_average": 6.372,
    "vote_count": 461
+  },
+  "movie:63193": {
+   "backdrop_path": "/yGmSkfaYDp1JzrtXRcPq0Qcy6DL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brad Cohen",
+     "n": "James Wolk"
+    },
+    {
+     "c": "Norman Cohen",
+     "n": "Treat Williams"
+    },
+    {
+     "c": "Young Brad Cohen",
+     "n": "Dominic Scott Kay"
+    },
+    {
+     "c": "Nancy Lazarus",
+     "n": "Sarah Drew"
+    },
+    {
+     "c": "Diane",
+     "n": "Kathleen York"
+    },
+    {
+     "c": "Jim Ovbey",
+     "n": "Joe Chrest"
+    },
+    {
+     "c": "Ellen Cohen",
+     "n": "Patricia Heaton"
+    },
+    {
+     "c": "Jeff",
+     "n": "Johnny Pacar"
+    },
+    {
+     "c": "Young Jeff",
+     "n": "Charles Henry Wyson"
+    },
+    {
+     "c": "Ron",
+     "n": "Charlie Finn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Peter Werner"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 63193,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy with Tourette's syndrome overcomes criticism and discrimination to achieve his dream of becoming a teacher.",
+   "popularity": 2.7818,
+   "poster_path": "/w7UolFxzPi7ZA7LkglRotQ84g1g.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+     "name": "Hallmark+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+     "name": "Hallmark+ Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+     "name": "Hallmark TV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-12-07",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "24 schools turned him down, 1 gave him a chance… The unforgettable story of a teacher determined to make a difference.",
+   "title": "Front of the Class",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.058,
+   "vote_count": 343
   },
   "movie:63493": {
    "backdrop_path": "/fWOfr0L1ISpP3KF8qY2qG1qrxMi.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 38,
+ "count": 48,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -569,6 +569,224 @@
    "vote_average": 8.176,
    "vote_count": 1462
   },
+  "movie:12780": {
+   "backdrop_path": "/YmNqLZwBs3KB81Wpk30fh8faxe.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Dr. Yang / Iron Monkey",
+     "n": "Yu Rongguang"
+    },
+    {
+     "c": "Wong Kei-ying",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Miss Orchid / Miss Ho",
+     "n": "Jean Wang Ching-ying"
+    },
+    {
+     "c": "Wong Fei-Hung",
+     "n": "Angie Tsang Sze-Man"
+    },
+    {
+     "c": "Wonder Palm Monk Hin Hung",
+     "n": "Yen Shi-Kwan"
+    },
+    {
+     "c": "Governor Cheng Pak Fong",
+     "n": "James Wong Jim"
+    },
+    {
+     "c": "Master Fox",
+     "n": "Sunny Yuen Shun-Yi"
+    },
+    {
+     "c": "Monk Hin Hung's Disciple",
+     "n": "Hsiao Ho"
+    },
+    {
+     "c": "Monk Hin Hung's Disciple",
+     "n": "Lee Fai"
+    },
+    {
+     "c": "One of the Bad Monks",
+     "n": "Chun Kwai-Bo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Yuen Woo-ping"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 12780,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In this Hong Kong variation of Robin Hood, corrupt officials of a Chinese village are robbed by a masked bandit known as \"Iron Monkey\", named after a benevolent deity. When all else fails, the Governor forces a traveling physician into finding the bandit.",
+   "popularity": 2.1763,
+   "poster_path": "/qXYISomt08V5PUqCzYRLVSQZmWP.jpg",
+   "production_countries": [
+    "HK",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-09-03",
+   "revenue": 14694904,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Unmask the legend.",
+   "title": "Iron Monkey",
+   "trailer": {
+    "key": "B9-OQqbVkU8",
+    "name": "IRON MONKEY (Eureka Classics) New & Exclusive HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 344
+  },
+  "movie:13580": {
+   "backdrop_path": "/llwusQFdHmHCWS7jySP2r6bbAIm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alec Leamas",
+     "n": "Richard Burton"
+    },
+    {
+     "c": "Nancy 'Nan' Perry",
+     "n": "Claire Bloom"
+    },
+    {
+     "c": "Fiedler",
+     "n": "Oskar Werner"
+    },
+    {
+     "c": "Peters",
+     "n": "Sam Wanamaker"
+    },
+    {
+     "c": "Comrade Karden - Defense Attorney",
+     "n": "George Voskovec"
+    },
+    {
+     "c": "George Smiley",
+     "n": "Rupert Davies"
+    },
+    {
+     "c": "Control",
+     "n": "Cyril Cusack"
+    },
+    {
+     "c": "Hans-Dieter Mundt",
+     "n": "Peter van Eyck"
+    },
+    {
+     "c": "Ashe",
+     "n": "Michael Hordern"
+    },
+    {
+     "c": "Dick Carlton",
+     "n": "Robert Hardy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Martin Ritt"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 13580,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "British agent Alec Leamas refuses to come in from the Cold War during the 1960s, choosing to face another mission, which may prove to be his final one.",
+   "popularity": 2.3749,
+   "poster_path": "/lN3PWv6cW22mqXDcgGZgK1Aa2gh.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-12-16",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "Brace yourself for greatness.",
+   "title": "The Spy Who Came In from the Cold",
+   "trailer": {
+    "key": "vlYK9AoQlOc",
+    "name": "The Spy Who Came in From the Cold - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 359
+  },
   "movie:13980": {
    "backdrop_path": "/mfu8cTvpJwrnu3sm2vDqh7o4yXX.jpg",
    "budget": 0,
@@ -1031,6 +1249,97 @@
    "vote_average": 7.0,
    "vote_count": 23
   },
+  "movie:1680": {
+   "backdrop_path": "/9H8wGFwKKt2ADRhg2odywTg1NCZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Osamu Sakurai",
+     "n": "Tadao Takashima"
+    },
+    {
+     "c": "Kazuo Fujita",
+     "n": "Kenji Sahara"
+    },
+    {
+     "c": "Kinzaburo Furue",
+     "n": "Yū Fujiki"
+    },
+    {
+     "c": "Director Tako",
+     "n": "Ichirō Arishima"
+    },
+    {
+     "c": "General of the JSDF Eastern Army",
+     "n": "Jun Tazaki"
+    },
+    {
+     "c": "Dr. Shosuke Shigezawa",
+     "n": "Akihiko Hirata"
+    },
+    {
+     "c": "Fumiko Sakurai",
+     "n": "Mie Hama"
+    },
+    {
+     "c": "Tamiye",
+     "n": "Akiko Wakabayashi"
+    },
+    {
+     "c": "Chikiro's Mother",
+     "n": "Akemi Negishi"
+    },
+    {
+     "c": "Chief of Faro Island",
+     "n": "Yoshio Kosugi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ishirō Honda"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 1680,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The advertising director of Pacific Pharmaceuticals, frustrated with the low ratings of their sponsored TV program, seeks a more sensationalist approach. He orders his staff to Faro Island to capture King Kong for exploitation. As Godzilla re-emerges, a media frenzy generates with Pacific looking to capitalize off of the ultimate battle.",
+   "popularity": 3.4297,
+   "poster_path": "/dmCfyzUl0Ylk8Rpi6dYyWuBrnNr.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1962-08-11",
+   "revenue": 12550000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Will you win, Godzilla? Will you win, Kong? The battle of the century!",
+   "title": "King Kong vs. Godzilla",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 363
+  },
   "movie:1700680": {
    "backdrop_path": "/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
    "budget": 0,
@@ -1139,6 +1448,292 @@
    "vote_average": 7.698,
    "vote_count": 81
   },
+  "movie:17680": {
+   "backdrop_path": "/yG1DppzYVHoRifCPZ8Z6aDWoFgp.jpg",
+   "budget": 1700000,
+   "cast": [
+    {
+     "c": "Chelsea / Christine",
+     "n": "Sasha Grey"
+    },
+    {
+     "c": "Chris",
+     "n": "Chris Santos"
+    },
+    {
+     "c": "Phillip",
+     "n": "Philip Eytan"
+    },
+    {
+     "c": "Zizzo",
+     "n": "Peter Zizzo"
+    },
+    {
+     "c": "Vegas Buddy #1",
+     "n": "Ron Stein"
+    },
+    {
+     "c": "Vegas Buddy #2",
+     "n": "Marshall Gilman"
+    },
+    {
+     "c": "Vegas Buddy #3",
+     "n": "Michael Roberts"
+    },
+    {
+     "c": "Art Gallery Owner",
+     "n": "Jim Kempner"
+    },
+    {
+     "c": "David",
+     "n": "David Levien"
+    },
+    {
+     "c": "Interviewer",
+     "n": "Mark Jacobson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 17680,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chelsea is an in-demand call girl whose $2,000 an hour price tag allows her to live in New York's lap of luxury. Besides her beauty and sexual skill, Chelsea offers her clients companionship and conversation, or, as she dubs it, \"the girlfriend experience.\" With her successful business and a devoted, live-in boyfriend, Chelsea thinks she has it made... until a new client rocks her world.",
+   "popularity": 2.5711,
+   "poster_path": "/rDxSasCAEdXpaeEo3GsBt8i9wkr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-12-04",
+   "revenue": 1007962,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "See it with someone you ****",
+   "title": "The Girlfriend Experience",
+   "trailer": {
+    "key": "euwBlSZVrtQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 362
+  },
+  "movie:3080": {
+   "backdrop_path": "/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
+   "budget": 609000,
+   "cast": [
+    {
+     "c": "Jerry Travers",
+     "n": "Fred Astaire"
+    },
+    {
+     "c": "Dale Tremont",
+     "n": "Ginger Rogers"
+    },
+    {
+     "c": "Horace Hardwick",
+     "n": "Edward Everett Horton"
+    },
+    {
+     "c": "Alberto Beddini",
+     "n": "Erik Rhodes"
+    },
+    {
+     "c": "Bates",
+     "n": "Eric Blore"
+    },
+    {
+     "c": "Madge Hardwick",
+     "n": "Helen Broderick"
+    },
+    {
+     "c": "Flower Shop Clerk  (uncredited)",
+     "n": "Lucille Ball"
+    },
+    {
+     "c": "Venice Hotel Manager  (uncredited)",
+     "n": "Gino Corrado"
+    },
+    {
+     "c": "Florist (uncredited)",
+     "n": "Leonard Mudie"
+    },
+    {
+     "c": "Elevator Passenger / Hotel Guest / Dancer (uncredited)",
+     "n": "Dennis O'Keefe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mark Sandrich"
+   ],
+   "genres": [
+    "Music",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 3080,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Showman Jerry Travers is working for producer Horace Hardwick in London. Jerry demonstrates his new dance steps late one night in Horace's hotel room, much to the annoyance of sleeping Dale Tremont below. She goes upstairs to complain and the two are immediately attracted to each other. Complications arise when Dale mistakes Jerry for Horace.",
+   "popularity": 1.747,
+   "poster_path": "/qoPBiN6PBs2NsP7BNOJGCnmwruG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1935-08-29",
+   "revenue": 3202000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "They're Dancing Cheek-To-Cheek Again!",
+   "title": "Top Hat",
+   "trailer": {
+    "key": "FZUwE1n5zsE",
+    "name": "Top Hat",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.24,
+   "vote_count": 354
+  },
   "movie:315880": {
    "backdrop_path": "/aJDWjM71k7pujvzoaN3U7VfhW09.jpg",
    "budget": 10000000,
@@ -1241,6 +1836,164 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 418
+  },
+  "movie:33680": {
+   "backdrop_path": "/mTRmleBtvqlwMCLoRt9iwptDRRC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grusinskaya",
+     "n": "Greta Garbo"
+    },
+    {
+     "c": "Baron Felix von Gaigern",
+     "n": "John Barrymore"
+    },
+    {
+     "c": "Flämmchen",
+     "n": "Joan Crawford"
+    },
+    {
+     "c": "General Director Preysing",
+     "n": "Wallace Beery"
+    },
+    {
+     "c": "Otto Kringelein",
+     "n": "Lionel Barrymore"
+    },
+    {
+     "c": "Doctor Otternschlag",
+     "n": "Lewis Stone"
+    },
+    {
+     "c": "Senf",
+     "n": "Jean Hersholt"
+    },
+    {
+     "c": "Meierheim",
+     "n": "Robert McWade"
+    },
+    {
+     "c": "Zinnowitz",
+     "n": "Purnell Pratt"
+    },
+    {
+     "c": "Pimenov",
+     "n": "Ferdinand Gottschalk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Edmund Goulding"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 33680,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Guests at a posh Berlin hotel struggle through worry, scandal, and heartache.",
+   "popularity": 2.3593,
+   "poster_path": "/g8xrpXJWzz91R4jL8ybMKMValB2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1932-09-11",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "Thank the stars for a great entertainment!",
+   "title": "Grand Hotel",
+   "trailer": {
+    "key": "QFBKK8uaPww",
+    "name": "Grand Hotel - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 372
   },
   "movie:3780": {
    "backdrop_path": "/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg",
@@ -1523,6 +2276,297 @@
    "vote_average": 6.284,
    "vote_count": 470
   },
+  "movie:51980": {
+   "backdrop_path": "/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "'La Maheude'",
+     "n": "Miou-Miou"
+    },
+    {
+     "c": "Étienne Lantier",
+     "n": "Renaud"
+    },
+    {
+     "c": "Vincent Maheu, aka Bonnemort",
+     "n": "Jean Carmet"
+    },
+    {
+     "c": "Catherine Maheu",
+     "n": "Judith Henry"
+    },
+    {
+     "c": "Antoine Chaval",
+     "n": "Jean-Roger Milo"
+    },
+    {
+     "c": "Toussaint Maheu",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Souvarine",
+     "n": "Laurent Terzieff"
+    },
+    {
+     "c": "Victor Deneulin",
+     "n": "Bernard Fresson"
+    },
+    {
+     "c": "Rasseneur",
+     "n": "Jean-Pierre Bisson"
+    },
+    {
+     "c": "Philippe Hennebeau",
+     "n": "Jacques Dacqmine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Claude Berri"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 51980,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "It's mid 19th century, north of France. The story of a coal miner's town. They are exploited by the mine's owner. One day the decide to go on strike, and then the authorities repress them.",
+   "popularity": 1.1031,
+   "poster_path": "/cizv23RUxcpTrQt4kcOz7Sv6YJl.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-09-29",
+   "revenue": 0,
+   "runtime": 160,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Who needs God and Heaven? We can change this lousy world.",
+   "title": "Germinal",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.717,
+   "vote_count": 352
+  },
+  "movie:592480": {
+   "backdrop_path": "/k5cAlsHARQ6SZhRkAIPQzpmCaJO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Theraneau",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Alice Heimann",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Mélinda",
+     "n": "Nora Hamzawi"
+    },
+    {
+     "c": "Isabelle Leinsdorf",
+     "n": "Léonie Simaga"
+    },
+    {
+     "c": "Daniel",
+     "n": "Antoine Reinartz"
+    },
+    {
+     "c": "Delphine",
+     "n": "Maud Wyler"
+    },
+    {
+     "c": "Gauthier",
+     "n": "Alexandre Steiger"
+    },
+    {
+     "c": "Xavier",
+     "n": "Pascal Rénéric"
+    },
+    {
+     "c": "Pierre",
+     "n": "Thomas Rortais"
+    },
+    {
+     "c": "Patrick Brac",
+     "n": "Thomas Chabrol"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Pariser"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 592480,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The mayor of Lyon, Paul Théraneau, is in a delicate position. After 30 years in politics, he is running out of ideas and is faced with a feeling of existential emptiness. To overcome this, Paul hires a young and brilliant philosopher, Alice Heimann. Then follows a dialogue between two diametrically opposed personalities who will turn their certainties upside down.",
+   "popularity": 1.4408,
+   "poster_path": "/i6dlspGA6PS7eM2lOj4BMY65ndS.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-05-18",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Alice and the Mayor",
+   "trailer": {
+    "key": "8xtlgLVVxGA",
+    "name": "Alice And The Mayor Official Trailer MK2 l MILE END",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 353
+  },
   "movie:664280": {
    "backdrop_path": "/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
    "budget": 0,
@@ -1599,6 +2643,294 @@
    "type": "movie",
    "vote_average": 8.429,
    "vote_count": 478
+  },
+  "movie:678580": {
+   "backdrop_path": "/1XF9ugYliCBWkXI2dCWAjRb1jvY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rodrigo Sada",
+     "n": "Vadhir Derbez"
+    },
+    {
+     "c": "Mariana",
+     "n": "Bárbara López"
+    },
+    {
+     "c": "Rogelio Saviñón",
+     "n": "Arturo Barba"
+    },
+    {
+     "c": "Pedro",
+     "n": "Emiliano Zurita"
+    },
+    {
+     "c": "",
+     "n": "Ignacia Allamand"
+    },
+    {
+     "c": "Pasilla",
+     "n": "Gustavo Sánchez Parra"
+    },
+    {
+     "c": "Luis",
+     "n": "Memo Villegas"
+    },
+    {
+     "c": "Estela",
+     "n": "Sabine Moussier"
+    },
+    {
+     "c": "Asistente Savinon",
+     "n": "Rodrigo Bello"
+    },
+    {
+     "c": "Chofer Uber",
+     "n": "Alberto Cervantes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "B-15",
+   "date_kind": "release",
+   "director": [
+    "Raúl Martínez"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 678580,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.",
+   "popularity": 0.7168,
+   "poster_path": "/zvGC5jX5wQmU1GgPc0VGZz7Mtcs.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-15",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "El mesero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.992,
+   "vote_count": 358
+  },
+  "movie:78480": {
+   "backdrop_path": "/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bachir Lazhar",
+     "n": "Mohamed Fellag"
+    },
+    {
+     "c": "Simon",
+     "n": "Émilien Néron"
+    },
+    {
+     "c": "Mme Vaillancourt",
+     "n": "Danielle Proulx"
+    },
+    {
+     "c": "Alice L'Écuyer",
+     "n": "Sophie Nélisse"
+    },
+    {
+     "c": "Marie-Frédérique",
+     "n": "Marie-Ève Beauregard"
+    },
+    {
+     "c": "Parent",
+     "n": "Denise Lamontagne"
+    },
+    {
+     "c": "Claire",
+     "n": "Brigitte Poupart"
+    },
+    {
+     "c": "Concierge",
+     "n": "Louis Champagne"
+    },
+    {
+     "c": "Me Gilbert Danis",
+     "n": "Daniel Gadouas"
+    },
+    {
+     "c": "Victor",
+     "n": "Vincent Millard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Philippe Falardeau"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 78480,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "fr",
+   "overview": "During a harsh Montréal winter, an elementary-school class is left reeling after its teacher commits suicide. Bachir Lazhar, a charismatic Algerian immigrant, steps in as the substitute teacher for the classroom of traumatized children. All the while, he must keep his personal life tucked away: the fact that he is seeking political refuge in Québec – and that he, like the children, has suffered an appalling loss.",
+   "popularity": 1.3134,
+   "poster_path": "/qcSXbOP1iv859kgQgqZ4Ib9yqKG.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-10",
+   "revenue": 6581915,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "No matter where you go... there you are",
+   "title": "Monsieur Lazhar",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.177,
+   "vote_count": 378
   },
   "movie:798580": {
    "backdrop_path": "/A7I7Hy7CJtK7QlL6Y2I0UnnYo6J.jpg",

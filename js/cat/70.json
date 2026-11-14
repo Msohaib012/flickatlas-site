@@ -1,7 +1,398 @@
 {
  "bucket": "70",
- "count": 30,
+ "count": 42,
  "titles": {
+  "movie:10170": {
+   "backdrop_path": "/vPdb3zCAS4nxdRkc5S2hp1zh4pQ.jpg",
+   "budget": 21800000,
+   "cast": [
+    {
+     "c": "Bartholomew 'Barley' Scott Blair",
+     "n": "Sean Connery"
+    },
+    {
+     "c": "Katya Orlova",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Russell",
+     "n": "Roy Scheider"
+    },
+    {
+     "c": "Ned",
+     "n": "James Fox"
+    },
+    {
+     "c": "Brady",
+     "n": "John Mahoney"
+    },
+    {
+     "c": "Clive",
+     "n": "Michael Kitchen"
+    },
+    {
+     "c": "Colonel Quinn",
+     "n": "J.T. Walsh"
+    },
+    {
+     "c": "Walter",
+     "n": "Ken Russell"
+    },
+    {
+     "c": "Wicklow",
+     "n": "David Threlfall"
+    },
+    {
+     "c": "Dante",
+     "n": "Klaus Maria Brandauer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fred Schepisi"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 10170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Barley Scott Blair, a Lisbon-based editor of Russian literature who unexpectedly begins working for British intelligence, is commissioned to investigate the purposes of Dante, a dissident scientist trapped in the decaying Soviet Union that is crumbling under the new open-minded policies.",
+   "popularity": 1.9695,
+   "poster_path": "/fFvwQGcpEdXkuPJaS15Xtl6h6P4.jpg",
+   "production_countries": [
+    "US",
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-12-21",
+   "revenue": 22997992,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Their love was as dangerous as the secrets they kept.",
+   "title": "The Russia House",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.066,
+   "vote_count": 346
+  },
+  "movie:10770": {
+   "backdrop_path": "/qviAZShx8MVNwZjk1MoFFEdLUnx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sheriff Hall",
+     "n": "Bud Spencer"
+    },
+    {
+     "c": "Captain Briggs",
+     "n": "Raimund Harmstorf"
+    },
+    {
+     "c": "H7-25",
+     "n": "Cary Guffey"
+    },
+    {
+     "c": "Brennan",
+     "n": "Joe Bugner"
+    },
+    {
+     "c": "Turner",
+     "n": "Carlo Reali"
+    },
+    {
+     "c": "Allen",
+     "n": "Luigi Bonos"
+    },
+    {
+     "c": "Air Force General",
+     "n": "Harold E. Finch"
+    },
+    {
+     "c": "",
+     "n": "Dino Emanuelli"
+    },
+    {
+     "c": "Soldier",
+     "n": "Giancarlo Bastianoni"
+    },
+    {
+     "c": "Soldier",
+     "n": "Giovanni Cianfriglia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Michele Lupo"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 10770,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The town of Newnan are seeing little green men everywhere. The military have arrived and are on the lookout for UFOs. Everyone's high strung and Sheriff Hall (Bud Spencer) is left to deal with the aftermaths of the hysteria. On his way home from patrol he happens upon a little boy claiming to be an alien by the name of H7-25. At first the sheriff doesn't believe the boy, but with the mounting evidence, even he must eventually concede. Soon the military is after Sheriff Hall and H7-25, and it is up to the sheriff to keep the boy safe and beat up large swaths of soldiers so H7-25 can go home.",
+   "popularity": 1.6465,
+   "poster_path": "/hQKM2cefRD80N21NMFeztk3PnAk.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1979-08-10",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Sheriff and the Satellite Kid",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.407,
+   "vote_count": 350
+  },
+  "movie:10870": {
+   "backdrop_path": "/vTO1NvWhOR3CxrsnzZ1V8LwBjmC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe",
+     "n": "Éric Judor"
+    },
+    {
+     "c": "Averell",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Jack",
+     "n": "Saïd Serrari"
+    },
+    {
+     "c": "Lucky Luke",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "Le Cow-Boy Vanneur",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "El Tarlo",
+     "n": "Javivi"
+    },
+    {
+     "c": "Ma Dalton",
+     "n": "Marthe Villalonga"
+    },
+    {
+     "c": "William",
+     "n": "Romain Berger"
+    },
+    {
+     "c": "Le Directeur de la Banque",
+     "n": "Michel Muller"
+    },
+    {
+     "c": "Doxey / Le douanier américain / Le douanier mexicain",
+     "n": "Élie Semoun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Philippe Haïm"
+   ],
+   "genres": [
+    "Comedy",
+    "Western",
+    "Adventure"
+   ],
+   "id": 10870,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Joe and Averell are the eldest and youngest of the four Dalton brothers, the worst outlaws in Wild West history...",
+   "popularity": 1.0171,
+   "poster_path": "/h6mI0TunvRfKE02tOPtTJFAMZKX.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2004-11-08",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "nl",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lucky Luke and the Daltons",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 3.6,
+   "vote_count": 377
+  },
+  "movie:10970": {
+   "backdrop_path": "/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
+   "budget": 4400000,
+   "cast": [
+    {
+     "c": "Mel Funn",
+     "n": "Mel Brooks"
+    },
+    {
+     "c": "Marty Eggs",
+     "n": "Marty Feldman"
+    },
+    {
+     "c": "Dom Bell",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Studio Chief",
+     "n": "Sid Caesar"
+    },
+    {
+     "c": "Engulf",
+     "n": "Harold Gould"
+    },
+    {
+     "c": "Devour",
+     "n": "Ron Carey"
+    },
+    {
+     "c": "Vilma Kaplan",
+     "n": "Bernadette Peters"
+    },
+    {
+     "c": "Pregnant Lady",
+     "n": "Carol Arthur"
+    },
+    {
+     "c": "Newsvendor",
+     "n": "Liam Dunn"
+    },
+    {
+     "c": "Maitre d'",
+     "n": "Fritz Feld"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mel Brooks"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10970,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "xx",
+   "overview": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
+   "popularity": 1.7711,
+   "poster_path": "/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1976-06-17",
+   "revenue": 36145695,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Made In Hollywood. U.S.A.",
+   "title": "Silent Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.541,
+   "vote_count": 366
+  },
   "movie:1166170": {
    "backdrop_path": "/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
    "budget": 0,
@@ -479,6 +870,323 @@
    "type": "movie",
    "vote_average": 7.542,
    "vote_count": 24
+  },
+  "movie:1356670": {
+   "backdrop_path": "/hBTOBzXTa5q1Hpxo7sWfXVBkpv3.jpg",
+   "budget": 4600000,
+   "cast": [
+    {
+     "c": "Floria Lind",
+     "n": "Leonie Benesch"
+    },
+    {
+     "c": "Jan Sharif",
+     "n": "Alireza Bayram"
+    },
+    {
+     "c": "Mr. Severin",
+     "n": "Jürg Plüss"
+    },
+    {
+     "c": "Claudia Bach",
+     "n": "Jasmin Mattei"
+    },
+    {
+     "c": "Mrs. Morina",
+     "n": "Lale Yavaş"
+    },
+    {
+     "c": "Ms. Hungerbühler",
+     "n": "Andreas Beutler"
+    },
+    {
+     "c": "Mr. Leu",
+     "n": "Urs Bihler"
+    },
+    {
+     "c": "Bea Schmid",
+     "n": "Sonja Riesen"
+    },
+    {
+     "c": "Nabil Bilgin",
+     "n": "Ali Kandas"
+    },
+    {
+     "c": "Ms. Kuhn",
+     "n": "Margherita Schoch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Petra Biondina Volpe"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1356670,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "CH"
+   ],
+   "original_language": "de",
+   "overview": "Dedicated nurse Floria navigates the relentless pace of her hospital’s understaffed surgical ward with humanity and warmth. As her overnight shift intensifies, she is pushed to the brink in a race against time.",
+   "popularity": 2.596,
+   "poster_path": "/2X2FZIYdXYNwDbStJhgeoVn0pWH.jpg",
+   "production_countries": [
+    "CH",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-02-27",
+   "revenue": 3995267,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Late Shift",
+   "trailer": {
+    "key": "UlxEVrEhVes",
+    "name": "Late Shift | Official Trailer | In Select Theaters March 20",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.842,
+   "vote_count": 373
+  },
+  "movie:13570": {
+   "backdrop_path": "/zOfIcQhwElCp0tLX0dU02wJq3Nj.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Mr. Slausen / Davey Slausen",
+     "n": "Chuck Connors"
+    },
+    {
+     "c": "Molly",
+     "n": "Jocelyn Jones"
+    },
+    {
+     "c": "Jerry",
+     "n": "Jon Van Ness"
+    },
+    {
+     "c": "Eileen",
+     "n": "Robin Sherwood"
+    },
+    {
+     "c": "Becky",
+     "n": "Tanya Roberts"
+    },
+    {
+     "c": "Tina",
+     "n": "Dawn Jeffory"
+    },
+    {
+     "c": "Woody",
+     "n": "Keith McDermott"
+    },
+    {
+     "c": "Mannequin",
+     "n": "Arlecchino"
+    },
+    {
+     "c": "Mannequin",
+     "n": "Victoria Richart"
+    },
+    {
+     "c": "Mannequin",
+     "n": "Millie Dill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Schmoeller"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 13570,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After their car breaks down, a group of young travelers find themselves stranded at a roadside museum run by the enigmatic Mr. Slausen and populated by his collection of life-like wax mannequins.",
+   "popularity": 1.5061,
+   "poster_path": "/c19pSkUfNElrmVn0iYtiJys5dK8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Full Moon Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-03-16",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every year young people disappear.",
+   "title": "Tourist Trap",
+   "trailer": {
+    "key": "BbLCNWVaIgY",
+    "name": "Uncut Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 363
   },
   "movie:14070": {
    "backdrop_path": "/rwywuA4irKO1zoMLBhJJaiUHv3U.jpg",
@@ -1476,6 +2184,511 @@
    "vote_average": 7.6,
    "vote_count": 473
   },
+  "movie:36970": {
+   "backdrop_path": "/hZVk7Tc16mkfM3Y53ZQwMQIoolV.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Jacques Perrin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jacques Perrin"
+   ],
+   "genres": [
+    "Documentary",
+    "Family",
+    "Drama"
+   ],
+   "id": 36970,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "CH"
+   ],
+   "original_language": "en",
+   "overview": "An ecological drama/documentary, filmed throughout the globe. Part thriller, part meditation on the vanishing wonders of the sub-aquatic world.",
+   "popularity": 1.2648,
+   "poster_path": "/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg",
+   "production_countries": [
+    "FR",
+    "ES",
+    "CH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-22",
+   "revenue": 83090556,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Explore the depths of our planet's oceans.  Experience the stories that connect their world to ours.",
+   "title": "Oceans",
+   "trailer": {
+    "key": "VmLSHC6N1Pk",
+    "name": "Oceans Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.467,
+   "vote_count": 353
+  },
+  "movie:37770": {
+   "backdrop_path": "/2jeuM7yHUcXF7WUubnuJO4tXosT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rag. Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Rag. Renzo Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Mariangela Fantozzi, Uga Fantozzi",
+     "n": "Plinio Fernando"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Psicanalista della mutua",
+     "n": "Luigi Petrucci"
+    },
+    {
+     "c": "Duca Conte Dott. Matteo Maria Barambani",
+     "n": "Paul Müller"
+    },
+    {
+     "c": "Giudice Popolare",
+     "n": "Silvia Annichiarico"
+    },
+    {
+     "c": "Hooligan",
+     "n": "Pierfrancesco Villaggio"
+    },
+    {
+     "c": "",
+     "n": "Antonio Allocca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 37770,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Fantozzi is now retired but continues to go to the office where it is held up as a fine example of employees intending to do career.",
+   "popularity": 0.6911,
+   "poster_path": "/jJWsCKzOtDHqoRQlW6S8j5a29eX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1990-12-21",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi to the Rescue",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.023,
+   "vote_count": 368
+  },
+  "movie:438970": {
+   "backdrop_path": "/tV52jYHf2CkFzIMlrn87xs1aPM.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Fin Shepard",
+     "n": "Ian Ziering"
+    },
+    {
+     "c": "April Wexler",
+     "n": "Tara Reid"
+    },
+    {
+     "c": "Nova Clarke",
+     "n": "Cassie Scerbo"
+    },
+    {
+     "c": "Gemini",
+     "n": "Masiela Lusha"
+    },
+    {
+     "c": "Orion",
+     "n": "Olivia Newton-John"
+    },
+    {
+     "c": "Electra",
+     "n": "Chloe Lattanzi"
+    },
+    {
+     "c": "Gil Shepard",
+     "n": "Billy Barratt"
+    },
+    {
+     "c": "British Prime Minister",
+     "n": "Chris Kattan"
+    },
+    {
+     "c": "Matt Shepard",
+     "n": "Cody Linley"
+    },
+    {
+     "c": "Steven Beck",
+     "n": "Russell Hodgkinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Anthony C. Ferrante"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Science Fiction",
+    "TV Movie"
+   ],
+   "id": 438970,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fin and his wife April travel around the world to save their young son who's trapped inside a sharknado.",
+   "popularity": 2.3411,
+   "poster_path": "/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Bloodstream"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-08-06",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Make America bait again!",
+   "title": "Sharknado 5: Global Swarming",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.723,
+   "vote_count": 366
+  },
+  "movie:452970": {
+   "backdrop_path": "/7BZiAmm3qPK7QQ2HmUnScv2EvBM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Koji Kabuto (voice)",
+     "n": "Showtaro Morikubo"
+    },
+    {
+     "c": "Sayaka Yumi (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Lisa (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Tetsuya Tsurugi (voice)",
+     "n": "Toshihiko Seki"
+    },
+    {
+     "c": "Jun Hono (voice)",
+     "n": "Ami Koshimizu"
+    },
+    {
+     "c": "Prime Minister Yumi (voice)",
+     "n": "Junpei Morita"
+    },
+    {
+     "c": "Dr. Hell (voice)",
+     "n": "Unsho Ishizuka"
+    },
+    {
+     "c": "Count Brocken (voice)",
+     "n": "Keiji Fujiwara"
+    },
+    {
+     "c": "Baron Ashura's Female Side (voice)",
+     "n": "Romi Park"
+    },
+    {
+     "c": "Baron Ashura's Male Side (voice)",
+     "n": "Hiroyuki Miyasako"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Junji Shimizu"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Animation"
+   ],
+   "id": 452970,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When the evil Dr. Hell attacks the Earth, the mighty giant mecha Mazinger Z is formed to stop him.",
+   "popularity": 2.0412,
+   "poster_path": "/muN1Gf5SnGz8Il2ViqsIX4pkfxA.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-27",
+   "revenue": 2732673,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mazinger Z: Infinity",
+   "trailer": {
+    "key": "qZ2OYb1wxZc",
+    "name": "Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 361
+  },
   "movie:486070": {
    "backdrop_path": "/gTav1UE2Z8vgm0rMZ5oqVyWxN3l.jpg",
    "budget": 0,
@@ -1564,6 +2777,116 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 401
+  },
+  "movie:732670": {
+   "backdrop_path": "/ucEQXe6wPpPhgcJh4oXOAvX1lnb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rey (voice)",
+     "n": "Helen Sadler"
+    },
+    {
+     "c": "Emperor Palpatine / First Order Trooper / Mon Calamari (voice)",
+     "n": "Trevor Devall"
+    },
+    {
+     "c": "Darth Vader (voice)",
+     "n": "Matt Sloan"
+    },
+    {
+     "c": "Finn (voice)",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Greedo / Poe Dameron / Snowtrooper (voice)",
+     "n": "Jake Green"
+    },
+    {
+     "c": "Anakin Skywalker / Rodian (voice)",
+     "n": "Matt Lanter"
+    },
+    {
+     "c": "Obi-Wan Kenobi (voice)",
+     "n": "James Arnold Taylor"
+    },
+    {
+     "c": "Luke Skywalker / Stormtrooper (voice)",
+     "n": "Eric Bauza"
+    },
+    {
+     "c": "D-O / Kylo Ren (voice)",
+     "n": "Matthew Wood"
+    },
+    {
+     "c": "Han Solo  / Jawa (voice)",
+     "n": "AJ LoCascio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ken Cunningham"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Science Fiction",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 732670,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
+   "popularity": 2.3473,
+   "poster_path": "/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-17",
+   "revenue": 0,
+   "runtime": 50,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To: Luke. From: Your father.",
+   "title": "LEGO Star Wars Holiday Special",
+   "trailer": {
+    "key": "-bZxO5Dn9x0",
+    "name": "LEGO Star Wars Holiday Special | Official Trailer | Disney+",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.564,
+   "vote_count": 377
   },
   "movie:774370": {
    "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
@@ -1982,6 +3305,126 @@
    "type": "movie",
    "vote_average": 7.362,
    "vote_count": 466
+  },
+  "movie:9770": {
+   "backdrop_path": "/76STV6QPsVnYKX2HSEoTclAHIeQ.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Sam Baily",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Max Brackett",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Laurie Callahan",
+     "n": "Mia Kirshner"
+    },
+    {
+     "c": "Kevin Hollander",
+     "n": "Alan Alda"
+    },
+    {
+     "c": "Lou Potts",
+     "n": "Robert Prosky"
+    },
+    {
+     "c": "Mrs. Banks",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Dohlen",
+     "n": "William Atherton"
+    },
+    {
+     "c": "Lemke",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "The Kids",
+     "n": "Milton Davis Jr."
+    },
+    {
+     "c": "Cliff Williams",
+     "n": "Bill Nunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Costa-Gavras"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 9770,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A misguided museum guard who loses his job and then tries to get it back at gunpoint is thrown into the fierce world of ratings-driven TV gone mad.",
+   "popularity": 1.7535,
+   "poster_path": "/wXb9KGqxyrAHNygRRI1HW1BhcU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-10-10",
+   "revenue": 10500000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One man will make a mistake. The other will make it a spectacle.",
+   "title": "Mad City",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 383
   },
   "tv:195670": {
    "backdrop_path": "/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",

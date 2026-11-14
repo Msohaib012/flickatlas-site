@@ -1,7 +1,111 @@
 {
  "bucket": "81",
- "count": 34,
+ "count": 41,
  "titles": {
+  "movie:10881": {
+   "backdrop_path": "/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Ash",
+     "n": "Małgorzata Foremniak"
+    },
+    {
+     "c": "Game Master",
+     "n": "Władysław Kowalski"
+    },
+    {
+     "c": "Murphy",
+     "n": "Jerzy Gudejko"
+    },
+    {
+     "c": "Bishop",
+     "n": "Dariusz Biskupski"
+    },
+    {
+     "c": "Stunner",
+     "n": "Bartłomiej Świderski"
+    },
+    {
+     "c": "Receptionist",
+     "n": "Katarzyna Bargiełowska"
+    },
+    {
+     "c": "Gill",
+     "n": "Alicja Sapryk"
+    },
+    {
+     "c": "Ghost",
+     "n": "Zuzanna Kasz"
+    },
+    {
+     "c": "Player A",
+     "n": "Adam Szyszkowski"
+    },
+    {
+     "c": "Player C",
+     "n": "Marek Stawinski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Mamoru Oshii"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 10881,
+   "industry": "world",
+   "origin_country": [
+    "JP",
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "In a future world, young people are increasingly becoming addicted to an illegal (and potentially deadly) battle simulation game called Avalon. When Ash, a star player, hears of rumors that a more advanced level of the game exists somewhere, she gives up her loner ways and joins a gang of explorers. Even if she finds the gateway to the next level, will she ever be able to come back to reality?",
+   "popularity": 1.6264,
+   "poster_path": "/jg4lqIDSXXqPmmZyyAFdJ7bel8t.jpg",
+   "production_countries": [
+    "JP",
+    "PL"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-01-20",
+   "revenue": 8826094,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "Dare to enter a world of future videogames.",
+   "title": "Avalon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.484,
+   "vote_count": 368
+  },
   "movie:12281": {
    "backdrop_path": "/lFjONSYWA01SFDxnwRLxjUrh0GR.jpg",
    "budget": 500000,
@@ -1637,6 +1741,167 @@
    "vote_average": 7.563,
    "vote_count": 40
   },
+  "movie:17281": {
+   "backdrop_path": "/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
+   "budget": 3319355,
+   "cast": [
+    {
+     "c": "Gigi",
+     "n": "Leslie Caron"
+    },
+    {
+     "c": "Honoré Lachaille",
+     "n": "Maurice Chevalier"
+    },
+    {
+     "c": "Gaston Lachaille",
+     "n": "Louis Jourdan"
+    },
+    {
+     "c": "Madame Alvarez",
+     "n": "Hermione Gingold"
+    },
+    {
+     "c": "Liane D'Exelmans",
+     "n": "Eva Gabor"
+    },
+    {
+     "c": "Sandomir",
+     "n": "Jacques Bergerac"
+    },
+    {
+     "c": "Aunt Alicia",
+     "n": "Isabel Jeans"
+    },
+    {
+     "c": "Manuel",
+     "n": "John Abbott"
+    },
+    {
+     "c": "Young Lady with White Sunshade (uncredited)",
+     "n": "Corinne Marchand"
+    },
+    {
+     "c": "Girl at Maxim's (uncredited)",
+     "n": "Marie-Hélène Arnaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Vincente Minnelli"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 17281,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy.",
+   "popularity": 2.5102,
+   "poster_path": "/3GSuecnDr4N5ZaqTrwElSzt6eC2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1958-05-15",
+   "revenue": 13200000,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Thank heaven for Gigi",
+   "title": "Gigi",
+   "trailer": {
+    "key": "9UV5PzHMOtE",
+    "name": "Gigi - Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.23,
+   "vote_count": 365
+  },
   "movie:340481": {
    "backdrop_path": "/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
    "budget": 0,
@@ -2095,6 +2360,94 @@
    "vote_average": 6.0,
    "vote_count": 391
   },
+  "movie:369781": {
+   "backdrop_path": "/50Am0idc6sPz5cQZcwdmRfKMEZE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Léo",
+     "n": "Kev Adams"
+    },
+    {
+     "c": "Bartoloméo",
+     "n": "Vincent Elbaz"
+    },
+    {
+     "c": "Ben",
+     "n": "Paul Bartel"
+    },
+    {
+     "c": "Ana",
+     "n": "Chloé Coulloud"
+    },
+    {
+     "c": "Franck",
+     "n": "John Eledjam"
+    },
+    {
+     "c": "Lounès",
+     "n": "Majid Berhila"
+    },
+    {
+     "c": "Madam Commissioner",
+     "n": "Anne Suarez"
+    },
+    {
+     "c": "Bruno",
+     "n": "Guy Lecluyse"
+    },
+    {
+     "c": "Stéphanie",
+     "n": "Rebecca Azan"
+    },
+    {
+     "c": "Emilie",
+     "n": "Malonn Lévana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Edouard Pluvieux"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 369781,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In order to make his little sick brother's dream come true, Leo and his best mates organize a fake score...but on the d day, they make a mistake and the fake score becomes a real hold up.Here starts the extraordinary adventure of PUBLIC Amis.",
+   "popularity": 0.5798,
+   "poster_path": "/4DcYje54hmBsH3HK06PmMXp4fAu.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-02-17",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Big heart Robbers !",
+   "title": "Public Friends",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 373
+  },
   "movie:408381": {
    "backdrop_path": "/iY5y6Cj5AMUKqeNdroJayIeZSzY.jpg",
    "budget": 0,
@@ -2283,6 +2636,165 @@
    "type": "movie",
    "vote_average": 5.347,
    "vote_count": 399
+  },
+  "movie:482981": {
+   "backdrop_path": "/k18DGK5laMQJ8i79YnR509IzuKN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rose-Lynn Harlan",
+     "n": "Jessie Buckley"
+    },
+    {
+     "c": "Marion",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "Susannah",
+     "n": "Sophie Okonedo"
+    },
+    {
+     "c": "Sam",
+     "n": "Jamie Sives"
+    },
+    {
+     "c": "Alan",
+     "n": "Craig Parkinson"
+    },
+    {
+     "c": "Lyle",
+     "n": "Adam Mitchell"
+    },
+    {
+     "c": "Wynonna",
+     "n": "Daisy Littlefield"
+    },
+    {
+     "c": "Jackie",
+     "n": "Janey Godley"
+    },
+    {
+     "c": "Amanda",
+     "n": "Louise McCarthy"
+    },
+    {
+     "c": "Eileen",
+     "n": "Maureen Carr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Harper"
+   ],
+   "genres": [
+    "Music",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 482981,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A young Scottish singer, Rose-Lynn Harlan, dreams of making it as a country artist in Nashville after being released from prison.",
+   "popularity": 1.9528,
+   "poster_path": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-12",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sing your own song.",
+   "title": "Wild Rose",
+   "trailer": {
+    "key": "l_Ths6k7qXk",
+    "name": "WILD ROSE | OFFICIAL MAIN TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.773,
+   "vote_count": 376
   },
   "movie:506281": {
    "backdrop_path": "/qkymqmJW6IdZBIRWD66Ns4HHGJq.jpg",
@@ -2507,6 +3019,396 @@
    "type": "movie",
    "vote_average": 7.433,
    "vote_count": 473
+  },
+  "movie:59981": {
+   "backdrop_path": "/3UPdg8QO6CF5UqmOIJoLKhRM6e.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Dorothy (voice)",
+     "n": "Lea Michele"
+    },
+    {
+     "c": "The Appraiser / The Jester (voice)",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Glinda (voice)",
+     "n": "Bernadette Peters"
+    },
+    {
+     "c": "Scarecrow (voice)",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "The Tin Man (voice)",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "The Cowardly Lion (voice)",
+     "n": "Jim Belushi"
+    },
+    {
+     "c": "Wiser the Owl (voice)",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Marshall Mallow (voice)",
+     "n": "Hugh Dancy"
+    },
+    {
+     "c": "China Princess / Queen Mouse (voice)",
+     "n": "Megan Hilty"
+    },
+    {
+     "c": "Aunt Em (voice)",
+     "n": "Tacey Adams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dan St. Pierre",
+    "Will Finn"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 59981,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dorothy wakes in post-tornado Kansas, only to be whisked back to Oz to try to save her old friends, the Scarecrow, the Lion, the Tin Man, and Glinda, from a devious new villain, the Jester. New comrades Wiser the Owl, Marshal Mallow, China Princess, and Tugg the Tugboat join Dorothy on her latest magical journey through the colorful landscape of Oz to restore order and happiness to Emerald City.",
+   "popularity": 2.9663,
+   "poster_path": "/5XiNCjFudNX0Wj5LanPuIb8E9pU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-05-08",
+   "revenue": 21755418,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's trouble in OZ...",
+   "title": "Legends of Oz: Dorothy's Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.245,
+   "vote_count": 382
+  },
+  "movie:620881": {
+   "backdrop_path": "/q24PFUkXci5bqFrnbp4QM8dc2TU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rocco",
+     "n": "Wotan Wilke Möhring"
+    },
+    {
+     "c": "Eva",
+     "n": "Jessica Schwarz"
+    },
+    {
+     "c": "Bianca",
+     "n": "Jella Haase"
+    },
+    {
+     "c": "Leo",
+     "n": "Elyas M'Barek"
+    },
+    {
+     "c": "Carlotta",
+     "n": "Karoline Herfurth"
+    },
+    {
+     "c": "Simon",
+     "n": "Frederick Lau"
+    },
+    {
+     "c": "Pepe",
+     "n": "Florian David Fitz"
+    },
+    {
+     "c": "Sophie",
+     "n": "Emily Kusche"
+    },
+    {
+     "c": "Leos Mutter",
+     "n": "Adriana Altaras"
+    },
+    {
+     "c": "Young Pepe",
+     "n": "Levi Eisenblätter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Bora Dağtekin"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 620881,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Seven friends - three women and four men - meet for dinner. Everyone should put their cell phone on the table. No matter what message comes in - anyone can read it and listen to the phone calls. However, this leads to a lot of chaos.",
+   "popularity": 1.5326,
+   "poster_path": "/ej8QuSK03YmF3VojH6h2pI7aJIf.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-31",
+   "revenue": 47334260,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Perfect Secret",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 363
+  },
+  "movie:78381": {
+   "backdrop_path": "/AmeQAgUg0fTf9qztfkpmXg5sLul.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Hall Baltimore",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "V.",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Sheriff Bobby LaGrange",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "Edgar Allan Poe",
+     "n": "Ben Chaplin"
+    },
+    {
+     "c": "Denise",
+     "n": "Joanne Whalley"
+    },
+    {
+     "c": "Sam",
+     "n": "David Paymer"
+    },
+    {
+     "c": "Pastor Allan Floyd",
+     "n": "Anthony Fusco"
+    },
+    {
+     "c": "Flamingo",
+     "n": "Alden Ehrenreich"
+    },
+    {
+     "c": "Deputy Arbus",
+     "n": "Bruce A. Miroglio"
+    },
+    {
+     "c": "Melvin",
+     "n": "Don Novello"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Ford Coppola"
+   ],
+   "genres": [
+    "Mystery",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 78381,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A washed-up horror novelist arrives in a sleepy town on a book tour, only to stumble into a string of eerie murders. Haunted by dreams of a ghostly girl named V and guided by the spirit of Edgar Allan Poe, he’s drawn into a nightmarish world where fiction and reality blur—and the story he’s chasing leads back to his own buried guilt.",
+   "popularity": 1.8757,
+   "poster_path": "/jSn7DVovIFeTSiwwoziSYpJFaaS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-10",
+   "revenue": 647839,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Between the living and the dead, evil is waiting.",
+   "title": "Twixt",
+   "trailer": {
+    "key": "S7PrAoBi3rY",
+    "name": "B'Twixt Now and Sunrise: The Authentic Cut - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 344
   },
   "movie:920081": {
    "backdrop_path": "/gvNmnvu13TPAewP54hvCyuHwNwR.jpg",

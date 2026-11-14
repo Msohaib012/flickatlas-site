@@ -1,7 +1,350 @@
 {
  "bucket": "40",
- "count": 42,
+ "count": 52,
  "titles": {
+  "movie:10640": {
+   "backdrop_path": "/kGdrLjZ1J3XlD57LFjUQN6npCFQ.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Chuck Browning",
+     "n": "Peter Fonda"
+    },
+    {
+     "c": "Tracy Ballard",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Dr. Duffy",
+     "n": "Arthur Hill"
+    },
+    {
+     "c": "The Gunslinger",
+     "n": "Yul Brynner"
+    },
+    {
+     "c": "Dr. Mort Schneider",
+     "n": "John P. Ryan"
+    },
+    {
+     "c": "Harry Croft",
+     "n": "Stuart Margolin"
+    },
+    {
+     "c": "Game Show Host",
+     "n": "Allen Ludden"
+    },
+    {
+     "c": "Mr. Reed",
+     "n": "Robert Cornthwaite"
+    },
+    {
+     "c": "Mrs. Reed",
+     "n": "Angela Greene"
+    },
+    {
+     "c": "Eric",
+     "n": "Darrell Larson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard T. Heffron"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 10640,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two years after the Westworld tragedy in the Delos amusement park, the corporate owners have reopened the park following over $1 billion in safety and other improvements. For publicity purposes, reporters Chuck Browning and Tracy Ballard are invited to review the park. Just prior to arriving, however, Browning is given a clue by a dying man that something is amiss.",
+   "popularity": 2.9748,
+   "poster_path": "/sH5b8w52rEt8iqc1ibt1SwU5P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-07-14",
+   "revenue": 4200000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Is this you... or are YOU you?",
+   "title": "Futureworld",
+   "trailer": {
+    "key": "McF81caWG2U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 382
+  },
+  "movie:1087040": {
+   "backdrop_path": "/sGE6N1vJjxZLkOJEXdIOqTslxuL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Porn Industry Professional",
+     "n": "Noelle Perdue"
+    },
+    {
+     "c": "Self - Porn Industry Advocate / Director of Public Affairs, FSC",
+     "n": "Michael Stabile"
+    },
+    {
+     "c": "Self - Porn Performer",
+     "n": "Siri Dahl"
+    },
+    {
+     "c": "Self - Porn Performer",
+     "n": "Wolf Hudson"
+    },
+    {
+     "c": "Self - Journalist, The Logic",
+     "n": "Martin Patriquin"
+    },
+    {
+     "c": "Self - Porn Director",
+     "n": "Bree Mills"
+    },
+    {
+     "c": "Self - Porn Performer",
+     "n": "Cherie DeVille"
+    },
+    {
+     "c": "Self - Pornhub Ambassador",
+     "n": "Asa Akira"
+    },
+    {
+     "c": "Self - Pornhub Ambassador",
+     "n": "Natassia Dreams"
+    },
+    {
+     "c": "Self - Porn Performer",
+     "n": "Gwen Adora"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Suzanne Hillinger"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1087040,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Featuring interviews with performers, activists and past employees, this documentary offers a deep dive into the successes and scandals of Pornhub.",
+   "popularity": 2.6462,
+   "poster_path": "/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-03-15",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Money Shot: The Pornhub Story",
+   "trailer": {
+    "key": "WTAay-4QUuY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.738,
+   "vote_count": 376
+  },
+  "movie:11540": {
+   "backdrop_path": "/iJBusqvrFtJ76J2kND1SUmJSaib.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Arsène Lupin",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Joséphine",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Clarisse",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Beaumagnan",
+     "n": "Pascal Greggory"
+    },
+    {
+     "c": "Le duc de Dreux-Soubise",
+     "n": "Robin Renucci"
+    },
+    {
+     "c": "Léonard",
+     "n": "Patrick Toomey"
+    },
+    {
+     "c": "le duc d'Orléans",
+     "n": "Mathieu Carrière"
+    },
+    {
+     "c": "Le cardinal d'Etigues",
+     "n": "Philippe Lemaire"
+    },
+    {
+     "c": "La femme aux diamants",
+     "n": "Jessica Boyde"
+    },
+    {
+     "c": "Jean Lupin",
+     "n": "Aurélien Wiik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jean-Paul Salomé"
+   ],
+   "genres": [
+    "Romance",
+    "Action",
+    "Adventure",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 11540,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "As the daring thief Arsène Lupin ransacks the homes of wealthy Parisians, the police, with a secret weapon in their arsenal, attempt to ferret him out.",
+   "popularity": 1.8814,
+   "poster_path": "/eAXpjyyZ48bDrXaCGZOYvoBDc08.jpg",
+   "production_countries": [
+    "ES",
+    "FR",
+    "IT",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-13",
+   "revenue": 0,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Find out how it all started",
+   "title": "Arsène Lupin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.294,
+   "vote_count": 378
+  },
   "movie:116440": {
    "backdrop_path": "/cxJsU3BfJ7NkKae5gWqJkmu3aCO.jpg",
    "budget": 0,
@@ -351,6 +694,170 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 22
+  },
+  "movie:14140": {
+   "backdrop_path": "/rWJ1uWmdOQDzNl7y4nrigQ3XOfG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Douglas",
+     "n": "Dean Jones"
+    },
+    {
+     "c": "Wheely Applegate",
+     "n": "Don Knotts"
+    },
+    {
+     "c": "Diane Darcy",
+     "n": "Julie Sommars"
+    },
+    {
+     "c": "Inspector Bouchet",
+     "n": "Jacques Marin"
+    },
+    {
+     "c": "Quincey",
+     "n": "Roy Kinnear"
+    },
+    {
+     "c": "Max",
+     "n": "Bernard Fox"
+    },
+    {
+     "c": "Bruno Von Stickle",
+     "n": "Eric Braeden"
+    },
+    {
+     "c": "Detective Fontenoy",
+     "n": "Xavier Saint-Macary"
+    },
+    {
+     "c": "Monsieur Ribeaux",
+     "n": "François Lalande"
+    },
+    {
+     "c": "Emile",
+     "n": "Alan Caillou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Vincent McEveety"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Family",
+    "Action",
+    "Adventure"
+   ],
+   "id": 14140,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Herbie, the Volkswagen Beetle with a mind of its own, is racing in the Monte Carlo Rally. But thieves have hidden a cache of stolen diamonds in Herbie's gas tank, and are now trying to get them back.",
+   "popularity": 2.3401,
+   "poster_path": "/4gMplOTJWAj1oNrv0QJG6SGhBNQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-06-24",
+   "revenue": 29000000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Love Bug falls 'hood-over-wheels' for a classy chassis!",
+   "title": "Herbie Goes to Monte Carlo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.917,
+   "vote_count": 368
   },
   "movie:1492640": {
    "backdrop_path": "/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
@@ -861,6 +1368,117 @@
    "vote_average": 6.608,
    "vote_count": 446
   },
+  "movie:226140": {
+   "backdrop_path": "/uPkbev4PHRJBwRLD2xFrg3dpFMk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amy",
+     "n": "Danielle Harris"
+    },
+    {
+     "c": "Jacob Goodnight",
+     "n": "Glenn Jacobs"
+    },
+    {
+     "c": "Seth",
+     "n": "Kaj-Erik Eriksen"
+    },
+    {
+     "c": "Tamara",
+     "n": "Katharine Isabelle"
+    },
+    {
+     "c": "Kayla",
+     "n": "Chelan Simmons"
+    },
+    {
+     "c": "Carter",
+     "n": "Lee Majdoub"
+    },
+    {
+     "c": "Will",
+     "n": "Greyston Holt"
+    },
+    {
+     "c": "Holden",
+     "n": "Michael Eklund"
+    },
+    {
+     "c": "EMT #1",
+     "n": "Reese Alexander"
+    },
+    {
+     "c": "EMT #2",
+     "n": "Kelly-Ruth Mercier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jen Soska",
+    "Sylvia Soska"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 226140,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of friends pays a late-night visit to the city morgue to surprise Amy on her birthday. But the surprise is on them when the one-eyed corpse of brutal psychopath Jacob Goodnight unexpectedly rises from a cold sub-basement slab, turning their wild party into a terrifying slay-fest.",
+   "popularity": 2.349,
+   "poster_path": "/2sbinpukOMkrRkE3fGSHBKlAMvS.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-21",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You will pay for your sins.",
+   "title": "See No Evil 2",
+   "trailer": {
+    "key": "_mNVk_k4-5g",
+    "name": "\"See No Evil 2\" - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.31,
+   "vote_count": 358
+  },
   "movie:27040": {
    "backdrop_path": "/otRHDr3aMJboh9N4AMbuKKnlHYL.jpg",
    "budget": 275,
@@ -929,6 +1547,105 @@
    "type": "movie",
    "vote_average": 7.57,
    "vote_count": 464
+  },
+  "movie:27740": {
+   "backdrop_path": "/vG0xZrv6yehD7T2tNQNCF2iO3Ny.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Joe Weber",
+     "n": "Michael Moriarty"
+    },
+    {
+     "c": "Van Meer",
+     "n": "Samuel Fuller"
+    },
+    {
+     "c": "Judge Axel",
+     "n": "Andrew Duggan"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Ricky Addison Reed"
+    },
+    {
+     "c": "Aunt Clara",
+     "n": "June Havoc"
+    },
+    {
+     "c": "Mrs. Axel",
+     "n": "Evelyn Keyes"
+    },
+    {
+     "c": "Amanda",
+     "n": "Tara Reid"
+    },
+    {
+     "c": "Rains",
+     "n": "James Dixon"
+    },
+    {
+     "c": "Sherry",
+     "n": "Jill Gatsby"
+    },
+    {
+     "c": "Sally",
+     "n": "Ronee Blakley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Larry Cohen"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 27740,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Anthropologist Joe Weber takes his son on a trip to the New England town of Salem's Lot, unaware of its vampire population. When the inhabitants reveal their secret, they seek Weber to write a bible for them.",
+   "popularity": 2.1068,
+   "poster_path": "/sc3jWWodUIaofc176PlYUQzUslj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-09-11",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "American Vampires as only Stephen King could create them.",
+   "title": "A Return to Salem's Lot",
+   "trailer": {
+    "key": "ImfWpDwE9sk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.99,
+   "vote_count": 343
   },
   "movie:36040": {
    "backdrop_path": "/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
@@ -1120,6 +1837,114 @@
    "type": "movie",
    "vote_average": 7.278,
    "vote_count": 481
+  },
+  "movie:368940": {
+   "backdrop_path": "/iNpFgFgeD8u00HyloswG2l6L5OV.jpg",
+   "budget": 13500000,
+   "cast": [
+    {
+     "c": "Tapir Rosie (voice)",
+     "n": "Ilka Bessin"
+    },
+    {
+     "c": "Ziegenbock Zottel (voice)",
+     "n": "Dieter Hallervorden"
+    },
+    {
+     "c": "Robinson Crusoe (voice)",
+     "n": "Matthias Schweighöfer"
+    },
+    {
+     "c": "Stachelschwein Epi (voice)",
+     "n": "Aylin Tezel"
+    },
+    {
+     "c": "Papagei Dienstag (voice)",
+     "n": "Kaya Yanar"
+    },
+    {
+     "c": "Bosun (voice)",
+     "n": "Ron Allen"
+    },
+    {
+     "c": "Pong",
+     "n": "Tommy Morgenstern"
+    },
+    {
+     "c": "Kiki",
+     "n": "Melanie Hinze"
+    },
+    {
+     "c": "Edgar",
+     "n": "Bert Franzke"
+    },
+    {
+     "c": "Pango",
+     "n": "Tobias Lelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Vincent Kesteloot"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "id": 368940,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "BE"
+   ],
+   "original_language": "de",
+   "overview": "On a tiny exotic island, Tuesday, an outgoing parrot lives with his quirky animal friends in paradise. However, Tuesday can't stop dreaming about discovering the world. After a violent storm, Tuesday and his friends wake up to find a strange creature on the beach: Robinson Crusoe. Tuesday immediately views Crusoe as his ticket off the island to explore new lands. Likewise, Crusoe soon realizes that the key to surviving on the island is through the help of Tuesday and the other animals. It isn't always easy at first, as the animals don't speak \"human.\" Slowly but surely, they all start living together in harmony, until one day, when their comfortable life is overturned by two savage cats, who wish to take control of the island. A battle ensues between the cats and the group of friends but Crusoe and the animals soon discover the true power of friendship up against all odds (even savage cats).",
+   "popularity": 2.4326,
+   "poster_path": "/oW2CeCoFJKD57iyml0vWGRKKPaI.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-02-04",
+   "revenue": 40075446,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just because you're stranded... doesn't mean you can't make some friends.",
+   "title": "Robinson Crusoe",
+   "trailer": {
+    "key": "KNCjU9VEuNc",
+    "name": "The Wild Life (2016 Movie) Official Trailer – “Animal Island”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.778,
+   "vote_count": 376
   },
   "movie:479040": {
    "backdrop_path": "/gzmKA50LtpHSDYC7lKjUqLtK7Kn.jpg",
@@ -1792,6 +2617,214 @@
    "vote_average": 5.823,
    "vote_count": 404
   },
+  "movie:730840": {
+   "backdrop_path": "/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim (voice)",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Claire (voice)",
+     "n": "Lexi Medrano"
+    },
+    {
+     "c": "Toby (voice)",
+     "n": "Charlie Saxton"
+    },
+    {
+     "c": "Blinky (voice)",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Archie (voice)",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Steve (voice)",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Stuart (voice)",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Douxie (voice)",
+     "n": "Colin O'Donoghue"
+    },
+    {
+     "c": "Krel (voice)",
+     "n": "Diego Luna"
+    },
+    {
+     "c": "Aja (voice)",
+     "n": "Tatiana Maslany"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Johane Matte",
+    "Andrew L. Schmidt",
+    "Francisco Ruiz Velasco"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
+    "Action",
+    "Adventure"
+   ],
+   "id": 730840,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+   "popularity": 3.0796,
+   "poster_path": "/efWd3qF4j8SEl83F2ekp1pbCzJZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-21",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "el",
+    "en",
+    "pt",
+    "am",
+    "ar",
+    "av"
+   ],
+   "status": "Released",
+   "tagline": "They will rise.",
+   "title": "Trollhunters: Rise of the Titans",
+   "trailer": {
+    "key": "6H4Y21Hg2L8",
+    "name": "Trollhunters: Rise Of The Titans | Guillermo del Toro | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.547,
+   "vote_count": 379
+  },
+  "movie:797840": {
+   "backdrop_path": "/YN9QF1ktsd0Wjia3Hn2ylXMuWK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antonio",
+     "n": "Silvio Orlando"
+    },
+    {
+     "c": "Valentina",
+     "n": "Monica Bellucci"
+    },
+    {
+     "c": "Loris",
+     "n": "Valerio Mastandrea"
+    },
+    {
+     "c": "Sara",
+     "n": "Claudia Pandolfi"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Tommaso Ragno"
+    },
+    {
+     "c": "Giulia",
+     "n": "Sara Serraiocco"
+    },
+    {
+     "c": "Jacolucci",
+     "n": "Max Tortora"
+    },
+    {
+     "c": "Martina",
+     "n": "Emma Fasano"
+    },
+    {
+     "c": "Luca",
+     "n": "Vinicio Marchioni"
+    },
+    {
+     "c": "Mila",
+     "n": "Elena Lietti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Paolo Virzì"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 797840,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In Rome it hasn’t rained for three years and the lack of water is overturning rules and habits. Through the city dying of thirst and prohibitions moves a chorus of people, young and old, marginalised and successful, victims and profiteers. Their lives are linked in a single design, while each seeks his or her deliverance.",
+   "popularity": 0.8349,
+   "poster_path": "/2pl2qRaUvJ9iKiNROyKi5a9l31E.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-29",
+   "revenue": 1907869,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 346
+  },
   "movie:814340": {
    "backdrop_path": "/1LMGpNSUekWg3XCPweN33knQPW9.jpg",
    "budget": 0,
@@ -2124,6 +3157,179 @@
    "type": "movie",
    "vote_average": 4.8,
    "vote_count": 423
+  },
+  "movie:9440": {
+   "backdrop_path": "/d1yoQm9UAZWjiUT9xw1bSFOPXm.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Jack Stanton",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Susan Stanton",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Richard Jemmons",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Henry Burton",
+     "n": "Adrian Lester"
+    },
+    {
+     "c": "Daisy Green",
+     "n": "Maura Tierney"
+    },
+    {
+     "c": "Howard Ferguson",
+     "n": "Paul Guilfoyle"
+    },
+    {
+     "c": "Gov. Fred Picker",
+     "n": "Larry Hagman"
+    },
+    {
+     "c": "Libby Holden",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Mamma Stanton",
+     "n": "Diane Ladd"
+    },
+    {
+     "c": "March",
+     "n": "Rebecca Walker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Nichols"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 9440,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this adaptation of the best-selling roman à clef about Bill Clinton's 1992 run for the White House, the young and gifted Henry Burton is tapped to oversee the presidential campaign of Governor Jack Stanton. Burton is pulled into the politician's colorful world and looks on as Stanton -- who has a wandering eye that could be his downfall -- contends with his ambitious wife, Susan, and an outspoken adviser, Richard Jemmons.",
+   "popularity": 2.581,
+   "poster_path": "/RXEgVSEBkMnV8LkEGkBpuz3mkD.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "JP",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-03-20",
+   "revenue": 52090187,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What went down on the way to the top.",
+   "title": "Primary Colors",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 366
   },
   "tv:103540": {
    "backdrop_path": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 46,
+ "count": 53,
  "titles": {
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -144,6 +144,156 @@
    "type": "movie",
    "vote_average": 6.11,
    "vote_count": 480
+  },
+  "movie:11306": {
+   "backdrop_path": "/pkZyudy6PLofZUQhNhoPH49Qxah.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Dr. Guy Luthan",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Dr. Lawrence Myrick",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Jodie Trammel",
+     "n": "Sarah Jessica Parker"
+    },
+    {
+     "c": "Frank Hare",
+     "n": "David Morse"
+    },
+    {
+     "c": "Burke",
+     "n": "Bill Nunn"
+    },
+    {
+     "c": "Dr. Jeffrey Manko",
+     "n": "Paul Guilfoyle"
+    },
+    {
+     "c": "Dr. Judith Gruszynski",
+     "n": "Debra Monk"
+    },
+    {
+     "c": "Bobby",
+     "n": "John Toles-Bey"
+    },
+    {
+     "c": "Det. Stone",
+     "n": "Peter Appel"
+    },
+    {
+     "c": "Claude Minkins",
+     "n": "Shaun Austin-Olsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Apted"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 11306,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Guy Luthan, a British doctor working at a hospital in New York, starts making unwelcome enquiries when the body of a man who died in his emergency room disappears. After the trail leads Luthan to the door of an eminent surgeon at the hospital, Luthan soon finds himself in extreme danger from people who want the hospital's secret to remain undiscovered.",
+   "popularity": 2.1338,
+   "poster_path": "/uowP2Nw2mLpQni1vtbUb1LUSiP0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-09-27",
+   "revenue": 17380126,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not all surgery is intended to cure.",
+   "title": "Extreme Measures",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 375
   },
   "movie:114606": {
    "backdrop_path": "/iefrdyVseBkydA2L6pMkuYhod9W.jpg",
@@ -1018,6 +1168,170 @@
    "type": "movie",
    "vote_average": 5.653,
    "vote_count": 431
+  },
+  "movie:12706": {
+   "backdrop_path": "/maKFO957CHUHZ9K34Hqtg1oMojH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Manfred",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Bella",
+     "n": "Kate Hardie"
+    },
+    {
+     "c": "Jani De Villiers",
+     "n": "Alex Kingston"
+    },
+    {
+     "c": "Marion Nell",
+     "n": "Gina McKee"
+    },
+    {
+     "c": "Jack Snr.",
+     "n": "Nicholas Ball"
+    },
+    {
+     "c": "David Reynolds",
+     "n": "Alexander Morton"
+    },
+    {
+     "c": "Matt",
+     "n": "Paul Reynolds"
+    },
+    {
+     "c": "Giles Cremorne",
+     "n": "Nick Reding"
+    },
+    {
+     "c": "Car Dealer",
+     "n": "Barnaby Kay"
+    },
+    {
+     "c": "Girl with Joint",
+     "n": "Rhona Mitra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Hodges"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 12706,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Jack Manfred is an aspiring writer who to make ends meet, takes a job as a croupier. Jack remains an observer, knowing that everything in life is a gamble and that gamblers are born to lose. Inevitably, he gets sucked into the world of the casino which takes its toll on his relationships and the novel he is writing.",
+   "popularity": 1.6581,
+   "poster_path": "/bLLa74hdq9qsJpcVqLSwm3fKzJn.jpg",
+   "production_countries": [
+    "GB",
+    "IE",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-06-25",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life's a gamble...",
+   "title": "Croupier",
+   "trailer": {
+    "key": "w0J0xtuzizU",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.719,
+   "vote_count": 344
   },
   "movie:1274706": {
    "backdrop_path": "/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
@@ -2143,6 +2457,205 @@
    "vote_average": 7.184,
    "vote_count": 38
   },
+  "movie:20106": {
+   "backdrop_path": "/bZ56yw30p5rS9Zc5nY7qKa8a2Ez.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Bullit",
+     "n": "Kad Merad"
+    },
+    {
+     "c": "Douglas Riper",
+     "n": "Olivier Baroux"
+    },
+    {
+     "c": "Phil Canon",
+     "n": "Gérard Darmon"
+    },
+    {
+     "c": "shérif Steve Marley",
+     "n": "Jean-Paul Rouve"
+    },
+    {
+     "c": "Ginger",
+     "n": "Bénédicte Loyen"
+    },
+    {
+     "c": "Thomas Filbee",
+     "n": "Lionel Abelanski"
+    },
+    {
+     "c": "Pamela Rose",
+     "n": "Julie Bataille"
+    },
+    {
+     "c": "Luke Ribisi",
+     "n": "Manuel Le Lièvre"
+    },
+    {
+     "c": "Johnson",
+     "n": "Greg Germain"
+    },
+    {
+     "c": "Gibson",
+     "n": "François Cluzet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Éric Lartigau"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 20106,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "FBI Agents Bullit and Riper investigate the murder of a young dancer called Pamela Rose, found dead in her motel room in Bornsville, a small american town. Despite their differences, they must team up: the local police is hostile and they can only count on themselves to solve the crime. They meet Ginger, Pamela's best friend, and discover soon enough she knows more than she says.",
+   "popularity": 0.9682,
+   "poster_path": "/1m1hLUtU5xwPWUNOX7FVOyS0ekb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2003-06-04",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mais qui a tué Pamela Rose ?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.007,
+   "vote_count": 362
+  },
+  "movie:20306": {
+   "backdrop_path": "/nVTPAbTaExg00eoTHJnDJPkZKZT.jpg",
+   "budget": 700000,
+   "cast": [
+    {
+     "c": "Buddy Ackerman",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Guy",
+     "n": "Frank Whaley"
+    },
+    {
+     "c": "Dawn Lockard",
+     "n": "Michelle Forbes"
+    },
+    {
+     "c": "Rex",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Foster Kane",
+     "n": "T.E. Russell"
+    },
+    {
+     "c": "Cyrus Miles",
+     "n": "Roy Dotrice"
+    },
+    {
+     "c": "Manny",
+     "n": "Matthew Flint"
+    },
+    {
+     "c": "Moe",
+     "n": "Patrick Fischler"
+    },
+    {
+     "c": "Jack",
+     "n": "Jerry Levine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Huang"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
+   "id": 20306,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Guy is a young film executive who's willing to do whatever it takes to make it in Hollywood. He begins working for famed producer Buddy Ackerman, a domineering, manipulative, coldhearted boss. When Guy also finds out that his cynical girlfriend, Dawn, has been using sex as a career move, he reaches his limit. Guy decides to exact revenge on Buddy by kidnapping him and subjecting him to cruel and unusual punishment.",
+   "popularity": 1.2294,
+   "poster_path": "/eMRiIJIEyMLjWjktIqjNfzs9jGX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-09-10",
+   "revenue": 382928,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In Hollywood his dreams could come true. But first he has to make coffee.",
+   "title": "Swimming with Sharks",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.613,
+   "vote_count": 349
+  },
   "movie:20606": {
    "backdrop_path": "/oU0qUg19TL0qmOM4HQxKTWu7TEQ.jpg",
    "budget": 4000000,
@@ -3053,6 +3566,179 @@
    "vote_average": 6.012,
    "vote_count": 484
   },
+  "movie:522406": {
+   "backdrop_path": "/lR7qQNifkq2fNwy681lH3NtmynV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred Fitzell",
+     "n": "Dylan O'Brien"
+    },
+    {
+     "c": "Karen",
+     "n": "Hannah Gross"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Emory Cohen"
+    },
+    {
+     "c": "Andre",
+     "n": "Keir Gilchrist"
+    },
+    {
+     "c": "Cindy Williams",
+     "n": "Maika Monroe"
+    },
+    {
+     "c": "Mrs. Fitzell",
+     "n": "Liisa Repo-Martell"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Amanda Brugel"
+    },
+    {
+     "c": "Mr. MacDonald",
+     "n": "A.C. Peterson"
+    },
+    {
+     "c": "Pierced Man",
+     "n": "Aaron Poole"
+    },
+    {
+     "c": "Tattooed Woman",
+     "n": "Maika Harper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher MacBride"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 522406,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.",
+   "popularity": 2.0159,
+   "poster_path": "/kmcdGZUphc4oP5md6R7Q1oECD3P.jpg",
+   "production_countries": [
+    "CA",
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-06-03",
+   "revenue": 26747,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In the blink of an eye your life can turn upside down",
+   "title": "Flashback",
+   "trailer": {
+    "key": "Bum0t2CbAak",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 342
+  },
   "movie:56906": {
    "backdrop_path": "/pf6z6YRZRHwIILiEmFkVtciMRwI.jpg",
    "budget": 0,
@@ -3851,6 +4537,264 @@
    "type": "movie",
    "vote_average": 6.636,
    "vote_count": 433
+  },
+  "movie:872906": {
+   "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+   "budget": 31736340,
+   "cast": [
+    {
+     "c": "Vikram Rathore / Azad",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Narmada",
+     "n": "Nayanthara"
+    },
+    {
+     "c": "Kalee Gaikwad",
+     "n": "Vijay Sethupathi"
+    },
+    {
+     "c": "Aishwarya Rathore",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Madhavan Naik",
+     "n": "Sanjay Dutt"
+    },
+    {
+     "c": "Laxmi",
+     "n": "Priyamani"
+    },
+    {
+     "c": "Eeram",
+     "n": "Sanya Malhotra"
+    },
+    {
+     "c": "Ishkra",
+     "n": "Girija Oak"
+    },
+    {
+     "c": "Kalki",
+     "n": "Lehar Khan"
+    },
+    {
+     "c": "Helena",
+     "n": "Sanjeeta Bhattacharya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Atlee"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 872906,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+   "popularity": 4.4101,
+   "poster_path": "/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-07",
+   "revenue": 136675088,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jawan",
+   "trailer": {
+    "key": "MWOlnZSnXJo",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.008,
+   "vote_count": 366
+  },
+  "movie:926606": {
+   "backdrop_path": "/Lu57GTE24Ja5O61jieY2aIBk8d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Pete Davidson"
+    },
+    {
+     "c": "Lou",
+     "n": "John Glover"
+    },
+    {
+     "c": "Juno",
+     "n": "Mugga"
+    },
+    {
+     "c": "Les",
+     "n": "Adam Cantor"
+    },
+    {
+     "c": "Doc Sabian",
+     "n": "Bruce Altman"
+    },
+    {
+     "c": "Sadie",
+     "n": "Denise Burse"
+    },
+    {
+     "c": "Screaming Man",
+     "n": "Stuart Rudin"
+    },
+    {
+     "c": "Ethan",
+     "n": "Ethan Phillips"
+    },
+    {
+     "c": "Ellie",
+     "n": "Nathalie Schmidt"
+    },
+    {
+     "c": "Norma",
+     "n": "Mary Beth Peil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James DeMonaco"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 926606,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.",
+   "popularity": 2.268,
+   "poster_path": "/qyGY1k5GqAORsVhfZA3gFKirZWD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-08-01",
+   "revenue": 1001930,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Evil never gets old.",
+   "title": "The Home",
+   "trailer": {
+    "key": "EVjvYF_geAU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.859,
+   "vote_count": 345
   },
   "movie:977506": {
    "backdrop_path": "/czVIuIXqDPgCBHI3vLYQcRtzAo7.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 47,
+ "count": 52,
  "titles": {
   "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
@@ -916,6 +916,109 @@
    "type": "movie",
    "vote_average": 6.115,
    "vote_count": 439
+  },
+  "movie:1214484": {
+   "backdrop_path": "/lk2V8WFnAoXa44q8vqVeYyK6WJK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stella",
+     "n": "Josephine Bornebusch"
+    },
+    {
+     "c": "Gustav",
+     "n": "Pål Sverre Hagen"
+    },
+    {
+     "c": "Anna",
+     "n": "Sigrid Johnson"
+    },
+    {
+     "c": "Manne",
+     "n": "Olle Tikkakoski Lundström"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Leon Mentori"
+    },
+    {
+     "c": "Astrid",
+     "n": "Tone Danielsen"
+    },
+    {
+     "c": "Liz",
+     "n": "Irma Jämhammar"
+    },
+    {
+     "c": "Arild",
+     "n": "Niklas Falk"
+    },
+    {
+     "c": "Frank",
+     "n": "Mathias Lithner"
+    },
+    {
+     "c": "Angela",
+     "n": "Lola Zackow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Josephine Bornebusch"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1214484,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "A jaded mother makes a last-ditch effort to keep her family together by taking them on a trip to their teenage daughter’s pole dancing competition.",
+   "popularity": 1.1739,
+   "poster_path": "/hIJRqqAaMUtQ13mZL6lCE6myhXH.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-01",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes, letting go is the only way to hold on.",
+   "title": "Let Go",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.856,
+   "vote_count": 378
   },
   "movie:1217584": {
    "backdrop_path": "/1I6QPJ2s6lch1WYO54Cv2j2Y8Z4.jpg",
@@ -2478,6 +2581,176 @@
    "vote_average": 6.739,
    "vote_count": 467
   },
+  "movie:258284": {
+   "backdrop_path": "/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helen Manning",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Detective Nancy Porter",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Ronnie Fuller",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Alice Manning",
+     "n": "Danielle Macdonald"
+    },
+    {
+     "c": "Detective Kevin Jones",
+     "n": "Nate Parker"
+    },
+    {
+     "c": "Devlin Hatch",
+     "n": "Common"
+    },
+    {
+     "c": "Paul Porter",
+     "n": "Colin Donnell"
+    },
+    {
+     "c": "Dave Fuller",
+     "n": "Bill Sage"
+    },
+    {
+     "c": "Cynthia Barnes",
+     "n": "Renée Elise Goldsberry"
+    },
+    {
+     "c": "Young Alice Manning",
+     "n": "Brynne Norquist"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Amy J. Berg"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 258284,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One clear summer day in a Baltimore suburb, a baby goes missing from her front porch. Two young girls serve seven years for the crime and are released into a town that hasn't fully forgiven or forgotten. Soon, another child is missing, and two detectives are called in to investigate the mystery in a community where everyone seems to have a secret.",
+   "popularity": 1.3275,
+   "poster_path": "/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-04-20",
+   "revenue": 103536,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't look away for even a second.",
+   "title": "Every Secret Thing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 376
+  },
   "movie:298584": {
    "backdrop_path": "/wtDRdoHSKIY5zhv8pwy4WuOcoTD.jpg",
    "budget": 0,
@@ -2616,6 +2889,310 @@
    "type": "movie",
    "vote_average": 4.748,
    "vote_count": 495
+  },
+  "movie:340584": {
+   "backdrop_path": "/aXBcJsY4amhsT0UxIjLiVqFbSuM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jane Rutter",
+     "n": "Abbie Cornish"
+    },
+    {
+     "c": "Patrick Ryan",
+     "n": "Dermot Mulroney"
+    },
+    {
+     "c": "Alan Rutter",
+     "n": "Diego Klattenhoff"
+    },
+    {
+     "c": "Liam",
+     "n": "Justin Long"
+    },
+    {
+     "c": "Young Jane",
+     "n": "Peyton Kennedy"
+    },
+    {
+     "c": "Alice Rutter",
+     "n": "Lola Flanery"
+    },
+    {
+     "c": "Susie",
+     "n": "Sarah Abbott"
+    },
+    {
+     "c": "Jody",
+     "n": "Mackenzie Muldoon"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Katie Odegaard"
+    },
+    {
+     "c": "Dr. Michaels",
+     "n": "Stuart Hughes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ed Gass-Donnelly"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 340584,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A photographer struggling with memory loss discovers her pictures may indicate something sinister is hitting close to home.",
+   "popularity": 0.9357,
+   "poster_path": "/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-04",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The past won't forget.",
+   "title": "Lavender",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 363
+  },
+  "movie:340684": {
+   "backdrop_path": "/4BIYXILEHb6cTaEflJRTWRfIVvb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "Jonathan Gordon"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Jason Ralph"
+    },
+    {
+     "c": "Tim",
+     "n": "Haaz Sleiman"
+    },
+    {
+     "c": "Ursula",
+     "n": "Britt Lower"
+    },
+    {
+     "c": "London",
+     "n": "Meghann Fahy"
+    },
+    {
+     "c": "Wyatt",
+     "n": "Chris Conroy"
+    },
+    {
+     "c": "Priscilla Kinberg",
+     "n": "Allison Mackie"
+    },
+    {
+     "c": "Dick Blackworth",
+     "n": "Daniel Gerroll"
+    },
+    {
+     "c": "Dracula",
+     "n": "Max Jenkins"
+    },
+    {
+     "c": "Mr. Thornton",
+     "n": "Stephen Gevedon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Joey Kuhn"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 340684,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On Manhattan's gilded Upper East Side, a young gay painter is torn between an obsession with his infamous best friend and a promising new romance with an older foreign pianist.",
+   "popularity": 1.0994,
+   "poster_path": "/f3OXph1b1QZ9IUvLrd9yjgRqBPW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-05-16",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Those People",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.842,
+   "vote_count": 354
   },
   "movie:390584": {
    "backdrop_path": "/hrchlLkjT0ejyp7tWIprCZxRHm.jpg",
@@ -3789,6 +4366,121 @@
    "type": "movie",
    "vote_average": 3.5,
    "vote_count": 390
+  },
+  "movie:88284": {
+   "backdrop_path": "/zQ6jbZKqfNMeqFjEzNhDV4EZinG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barbara",
+     "n": "Nina Hoss"
+    },
+    {
+     "c": "André",
+     "n": "Ronald Zehrfeld"
+    },
+    {
+     "c": "Klaus Schütz",
+     "n": "Rainer Bock"
+    },
+    {
+     "c": "Assistenzärztin Schulze",
+     "n": "Christina Hecke"
+    },
+    {
+     "c": "Stationsschwester Schlösser",
+     "n": "Claudia Geisler-Bading"
+    },
+    {
+     "c": "Medizinstudent",
+     "n": "Peter Weiss"
+    },
+    {
+     "c": "Medizinstudentin",
+     "n": "Carolin Haupt"
+    },
+    {
+     "c": "Angelo",
+     "n": "Deniz Petzold"
+    },
+    {
+     "c": "Hausmeisterin Bungert",
+     "n": "Rosa Enskat"
+    },
+    {
+     "c": "Stella",
+     "n": "Jasna Fritzi Bauer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Christian Petzold"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 88284,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Exiled to a rural clinic in 1980s East Germany for seeking an exit visa, a disillusioned doctor maintains a guarded distance from her colleagues, unsure if the kindly head physician is a genuine ally or a Stasi informant.",
+   "popularity": 1.5861,
+   "poster_path": "/i7yjITqgz5zSW1jJWzxfwQsyDeo.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-08",
+   "revenue": 6889185,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Barbara",
+   "trailer": {
+    "key": "YRRf2Jf64Zo",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.148,
+   "vote_count": 374
   },
   "movie:8884": {
    "backdrop_path": "/6hQgTpZVNHrLafE6IeSAoThQwkH.jpg",

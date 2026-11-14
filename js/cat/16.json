@@ -1,6 +1,6 @@
 {
  "bucket": "16",
- "count": 42,
+ "count": 53,
  "titles": {
   "movie:1034716": {
    "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
@@ -108,6 +108,191 @@
    "type": "movie",
    "vote_average": 6.944,
    "vote_count": 771
+  },
+  "movie:12716": {
+   "backdrop_path": "/bjvKom2HhetBSCjBCtAf88tEQSp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joseph Pagnol",
+     "n": "Philippe Caubère"
+    },
+    {
+     "c": "Augustine Pagnol",
+     "n": "Nathalie Roussel"
+    },
+    {
+     "c": "Uncle Jules",
+     "n": "Didier Pain"
+    },
+    {
+     "c": "Aunt Rose",
+     "n": "Thérèse Liotard"
+    },
+    {
+     "c": "Marcel Pagnol, 11 years old",
+     "n": "Julien Ciamaca"
+    },
+    {
+     "c": "Paul Pagnol, 5 years old",
+     "n": "Victorien Delamare"
+    },
+    {
+     "c": "Lili des Bellons",
+     "n": "Joris Molinas"
+    },
+    {
+     "c": "Marcel Pagnol, 5 years old",
+     "n": "Benoit Martin"
+    },
+    {
+     "c": "Edmond des Papillons, aka Mond des Parpaillouns",
+     "n": "Paul Crauchet"
+    },
+    {
+     "c": "François, father of Lili",
+     "n": "Pierre Maguelon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Yves Robert"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 12716,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Raised by his science teacher father, Joseph Pagnol, and seamstress mother Augustine, young Marcel grows up during the turn of the century in awe of his rationalist dad. When the family takes a summer vacation in the countryside, Marcel becomes friends with Lili, who teaches him about rural life.",
+   "popularity": 1.5698,
+   "poster_path": "/4zwgcaKqIJ5GB6kCPpyMLZuNyoi.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-08-29",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "oc"
+   ],
+   "status": "Released",
+   "tagline": "A childhood in Provence.",
+   "title": "My Father's Glory",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.319,
+   "vote_count": 349
   },
   "movie:1284016": {
    "backdrop_path": "/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
@@ -1230,6 +1415,394 @@
    "vote_average": 7.7,
    "vote_count": 475
   },
+  "movie:217316": {
+   "backdrop_path": "/nPqDbXYaMhR2XKQ9IU8bkX7YgO7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Self",
+     "n": "Niki Lauda"
+    },
+    {
+     "c": "Self",
+     "n": "Michael Schumacher"
+    },
+    {
+     "c": "Self",
+     "n": "Lewis Hamilton"
+    },
+    {
+     "c": "Self",
+     "n": "Jenson Button"
+    },
+    {
+     "c": "Self",
+     "n": "Jackie Stewart"
+    },
+    {
+     "c": "Self",
+     "n": "Sebastian Vettel"
+    },
+    {
+     "c": "Self",
+     "n": "Bernie Ecclestone"
+    },
+    {
+     "c": "Self",
+     "n": "Mario Andretti"
+    },
+    {
+     "c": "Self",
+     "n": "Damon Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Paul Crowder"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 217316,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the golden era of Grand Prix Racing '1' tells the story of a generation of charismatic drivers who raced on the edge, risking their lives during Formula 1's deadliest period, and the men who stood up and changed the sport forever.",
+   "popularity": 1.0612,
+   "poster_path": "/nIHvkb3M1B9TnaiaABsfTzmFMYP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-09-30",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of the drivers who risked their lives and the men that changed the sport forever.",
+   "title": "1",
+   "trailer": {
+    "key": "k59zcs00k0A",
+    "name": "1 The Movie - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 372
+  },
+  "movie:244516": {
+   "backdrop_path": "/bq2spDK7r7f7KELPKE2piDtqLHx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giulio Sereni",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Domenico",
+     "n": "Claudio Bisio"
+    },
+    {
+     "c": "Francesco",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Antonio Sereni",
+     "n": "Carlo Buccirosso"
+    },
+    {
+     "c": "Leonardo Sereni",
+     "n": "Gigi Proietti"
+    },
+    {
+     "c": "Valentina Sereni",
+     "n": "Cristiana Capotondi"
+    },
+    {
+     "c": "Marina",
+     "n": "Angela Finocchiaro"
+    },
+    {
+     "c": "Chiara Sereni",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Elisa",
+     "n": "Rosalia Porcaro"
+    },
+    {
+     "c": "Nonna Emma",
+     "n": "Isa Barzizza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Fausto Brizzi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 244516,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A very extended family gathers for the Christmas holidays, after the death of the breadwinner Leonardo Sereni, famous singer. The eldest son Julius, with his wife Marina, has a panettone factory.",
+   "popularity": 0.5451,
+   "poster_path": "/rjQtWijw5jqJLf49cAjsZpalf4W.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2013-12-19",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Indovina chi viene a Natale?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 371
+  },
+  "movie:31216": {
+   "backdrop_path": "/crUMmliCpduKqMKsAcT3tPx6e3H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tala",
+     "n": "Lisa Ray"
+    },
+    {
+     "c": "Leyla",
+     "n": "Sheetal Sheth"
+    },
+    {
+     "c": "Reema",
+     "n": "Antonia Frering"
+    },
+    {
+     "c": "Omar",
+     "n": "Dalip Tahil"
+    },
+    {
+     "c": "Housekeeper",
+     "n": "Nina Wadia"
+    },
+    {
+     "c": "Maya",
+     "n": "Siddiqua Akhtar"
+    },
+    {
+     "c": "Yasmin",
+     "n": "Amber Rose Revah"
+    },
+    {
+     "c": "Sam",
+     "n": "Ernest Ignatius"
+    },
+    {
+     "c": "Lamia",
+     "n": "Anya Lahiri"
+    },
+    {
+     "c": "Zina",
+     "n": "Kimberly Jaraj"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14A",
+   "date_kind": "release",
+   "director": [
+    "Shamim Sarif"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 31216,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Tala, a London-based Palestinian, is preparing for her elaborate Middle Eastern wedding when she meets Leyla, a young British Indian woman who is dating her best friend. Spirited Christian Tala and shy Muslim Leyla could not be more different from each other, but the attraction is immediate and goes deeper than friendship. But Tala is not ready to accept the implications of the choice her heart has made for her and escapes back to Jordan, while Leyla tries to move on with her new-found life, to the shock of her tradition-loving parents. As Tala's wedding day approaches, simmering tensions come to boiling point and the pressure mounts for Tala to be true to herself.",
+   "popularity": 1.8164,
+   "poster_path": "/ePbH29RdMlz8mDEQyUkxRVcsB73.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Here TV"
+    },
+    {
+     "name": "Here TV  Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aFXgq7JAVVs2zdAlfqB1LlCfIUD.png",
+     "name": "Here TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/nLnN7wjiPLo5A2Um8BZA2IupEJS.png",
+     "name": "Here TV  Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-11-01",
+   "revenue": 40945,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two cultures. Two women. One love.",
+   "title": "I Can't Think Straight",
+   "trailer": {
+    "key": "KIetcsELZvo",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.51,
+   "vote_count": 341
+  },
   "movie:320316": {
    "backdrop_path": "/gIqzuwHmt9OzBrNbNL0LkuEpGiq.jpg",
    "budget": 1816720,
@@ -1317,6 +1890,171 @@
    "type": "movie",
    "vote_average": 5.79,
    "vote_count": 495
+  },
+  "movie:37916": {
+   "backdrop_path": "/dFXGxxVSwb9tYNfKMeFnxORmBlt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gennarino Carunchio",
+     "n": "Giancarlo Giannini"
+    },
+    {
+     "c": "Raffaella Pavone Lanzetti",
+     "n": "Mariangela Melato"
+    },
+    {
+     "c": "Signor Pavone Lanzetti",
+     "n": "Riccardo Salvino"
+    },
+    {
+     "c": "Anna",
+     "n": "Isa Danieli"
+    },
+    {
+     "c": "un collega di Gennarino",
+     "n": "Aldo Puglisi"
+    },
+    {
+     "c": "Una conoscente di Raffaela",
+     "n": "Anna Melita"
+    },
+    {
+     "c": "un giornalista di sinistra conoscente dei Pavone Lanzetti",
+     "n": "Eros Pagni"
+    },
+    {
+     "c": "",
+     "n": "Vittorio Fanfoni"
+    },
+    {
+     "c": "",
+     "n": "Lorenzo Piani"
+    },
+    {
+     "c": "",
+     "n": "Giuseppe Durini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Lina Wertmüller"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 37916,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A wealthy woman's yachting holiday with friends in the Mediterranean Sea takes an unexpected turn when she and one of the boat's crew are stranded on a desert island. Her capitalist beliefs and his communist convictions clash, but during their struggle to survive, social roles are reversed and heated passions come alive.",
+   "popularity": 2.3089,
+   "poster_path": "/8bkEUeQWVFBk3HE4qhluDarTMDj.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-12-18",
+   "revenue": 12014430,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Swept Away",
+   "trailer": {
+    "key": "3rz8zh7tBro",
+    "name": "Re-Release Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.367,
+   "vote_count": 349
   },
   "movie:40016": {
    "backdrop_path": "/wDrs28ZYYnXVIeb87H0dCYlWiFA.jpg",
@@ -1487,6 +2225,102 @@
    "type": "movie",
    "vote_average": 2.178,
    "vote_count": 383
+  },
+  "movie:43316": {
+   "backdrop_path": "/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cary Scott",
+     "n": "Jane Wyman"
+    },
+    {
+     "c": "Ron Kirby",
+     "n": "Rock Hudson"
+    },
+    {
+     "c": "Sara Warren",
+     "n": "Agnes Moorehead"
+    },
+    {
+     "c": "Harvey",
+     "n": "Conrad Nagel"
+    },
+    {
+     "c": "Alida Anderson",
+     "n": "Virginia Grey"
+    },
+    {
+     "c": "Kay Scott",
+     "n": "Gloria Talbott"
+    },
+    {
+     "c": "Ned Scott",
+     "n": "William Reynolds"
+    },
+    {
+     "c": "Mick Anderson",
+     "n": "Charles Drake"
+    },
+    {
+     "c": "Dr. Hennessy",
+     "n": "Hayden Rorke"
+    },
+    {
+     "c": "Mona Plash",
+     "n": "Jacqueline deWit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Douglas Sirk"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 43316,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends.",
+   "popularity": 2.0202,
+   "poster_path": "/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1955-08-25",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How much does Heaven Allow a Woman in Love?",
+   "title": "All That Heaven Allows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 359
   },
   "movie:44716": {
    "backdrop_path": "/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
@@ -1777,6 +2611,233 @@
    "vote_average": 4.8,
    "vote_count": 408
   },
+  "movie:469916": {
+   "backdrop_path": "/2etabWl8OYPD4QwhWv5VVVCY79q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Keren",
+     "n": "Stephanie Pearson"
+    },
+    {
+     "c": "Jodi",
+     "n": "Kelly Connaire"
+    },
+    {
+     "c": "Sara",
+     "n": "Alexa Yeames"
+    },
+    {
+     "c": "Todd",
+     "n": "Rod Hernandez"
+    },
+    {
+     "c": "Eric",
+     "n": "Anthony Kirlew"
+    },
+    {
+     "c": "Jeff",
+     "n": "Jason Tobias"
+    },
+    {
+     "c": "Deputy",
+     "n": "Graham Skipper"
+    },
+    {
+     "c": "Rifleman",
+     "n": "Aion Boyd"
+    },
+    {
+     "c": "Father",
+     "n": "Eric Matuschek"
+    },
+    {
+     "c": "Mother",
+     "n": "Ikumi Yoshimatsu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Ryuhei Kitamura"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 469916,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stranded at the side of the road after a tire blowout, a group of friends become targets for an enigmatic sniper.",
+   "popularity": 1.3041,
+   "poster_path": "/ekkOoPnYB8MfDn6gsM1GoMLEhoi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-25",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hell is on the way",
+   "title": "Downrange",
+   "trailer": {
+    "key": "WNh4yYXrbEg",
+    "name": "Downrange | Official Trailer [HD] | A Shudder Exclusive Horror Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 354
+  },
   "movie:500916": {
    "backdrop_path": "/lY3CHPKZV41z5rW2npA0UGeMAHI.jpg",
    "budget": 9000000,
@@ -1923,6 +2984,231 @@
    "type": "movie",
    "vote_average": 5.602,
    "vote_count": 449
+  },
+  "movie:597316": {
+   "backdrop_path": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sunny Starscout (voice)",
+     "n": "Vanessa Hudgens"
+    },
+    {
+     "c": "Izzy Moonbow (voice)",
+     "n": "Kimiko Glenn"
+    },
+    {
+     "c": "Hitch Trailblazer (voice)",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Pipp Petals (voice)",
+     "n": "Sofia Carson"
+    },
+    {
+     "c": "Zipp Storm (voice)",
+     "n": "Liza Koshy"
+    },
+    {
+     "c": "Sprout (voice)",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Phyllis (voice)",
+     "n": "Elizabeth Perkins"
+    },
+    {
+     "c": "Queen Haven (voice)",
+     "n": "Jane Krakowski"
+    },
+    {
+     "c": "Alphabittle (voice)",
+     "n": "Phil LaMarr"
+    },
+    {
+     "c": "Argyle (voice)",
+     "n": "Michael McKean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "José Luis Ucha",
+    "Robert Cullen"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 597316,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+   "popularity": 3.1838,
+   "poster_path": "/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+   "production_countries": [
+    "CA",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Netflix Kids"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-22",
+   "revenue": 4100000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get your sparkle on.",
+   "title": "My Little Pony: A New Generation",
+   "trailer": {
+    "key": "Pa_PRDVpjSk",
+    "name": "My Little Pony: A New Generation | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 360
+  },
+  "movie:618416": {
+   "backdrop_path": "/muWwsuYc1GvzxCia5octJmdiLta.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Bloom",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Cameron Bloom",
+     "n": "Andrew Lincoln"
+    },
+    {
+     "c": "Noah Bloom",
+     "n": "Griffin Murray-Johnston"
+    },
+    {
+     "c": "Rueben Bloom",
+     "n": "Felix Cameron"
+    },
+    {
+     "c": "Oli Bloom",
+     "n": "Abe Clifford-Barr"
+    },
+    {
+     "c": "Jan",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "Gaye Hatfield",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Megan",
+     "n": "Gia Carides"
+    },
+    {
+     "c": "Kylie",
+     "n": "Leeanna Walsman"
+    },
+    {
+     "c": "Bron",
+     "n": "Lisa Hensley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Glendyn Ivin"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 618416,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "When an unlikely ally enters the Bloom family's world in the form of an injured baby magpie they name Penguin, the bird’s arrival makes a profound difference in the struggling family’s life.",
+   "popularity": 1.7289,
+   "poster_path": "/5l6k0Z9tYddXW9327V2jZrfWG00.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-01-21",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The true story of an unlikely hero.",
+   "title": "Penguin Bloom",
+   "trailer": {
+    "key": "3D0PlwGIyW0",
+    "name": "Penguin Bloom starring Naomi Watts and Andrew Lincoln | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.877,
+   "vote_count": 354
   },
   "movie:785516": {
    "backdrop_path": "/zpqAzcQSbFaCscSjSpz2Fv8qSXC.jpg",
@@ -2165,6 +3451,120 @@
    "vote_average": 7.622,
    "vote_count": 440
   },
+  "movie:843416": {
+   "backdrop_path": "/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Girlie",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Clark",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Taxi Attendant",
+     "n": "Marcos A. Gonzalez"
+    },
+    {
+     "c": "Girl with a Fish",
+     "n": "Zora Lloyd"
+    },
+    {
+     "c": "Driver (uncredited)",
+     "n": "Shannon Gannon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christy Hall"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 843416,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman taking a cab ride from JFK airport engages in a conversation with the driver about the important relationships in their lives.",
+   "popularity": 2.4198,
+   "poster_path": "/dyrCsHUhOfpuci51lHcdAnO3db0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-06-27",
+   "revenue": 1878377,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Never forget where you came from.",
+   "title": "Daddio",
+   "trailer": {
+    "key": "gPXWkYK0UUQ",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.291,
+   "vote_count": 366
+  },
   "movie:9416": {
    "backdrop_path": "/mPId0j7owQmeOQHyOl2kEbzQpXd.jpg",
    "budget": 25000000,
@@ -2327,6 +3727,177 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 451
+  },
+  "movie:95516": {
+   "backdrop_path": "/piCrF7kAkTRPAziDUmigIzdJ5ho.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ewan",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Charlotte McQueen",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Ash",
+     "n": "Abhin Galeya"
+    },
+    {
+     "c": "Kate",
+     "n": "Tuppence Middleton"
+    },
+    {
+     "c": "Mark",
+     "n": "Tom Burke"
+    },
+    {
+     "c": "Nabil",
+     "n": "Peter Polycarpou"
+    },
+    {
+     "c": "Amin",
+     "n": "Silas Carson"
+    },
+    {
+     "c": "Harry",
+     "n": "Sam Douglas"
+    },
+    {
+     "c": "Rena",
+     "n": "Shivani Ghai"
+    },
+    {
+     "c": "Scott Catesby",
+     "n": "James Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Hadi Hajaig"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 95516,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "While working undercover as a bodyguard to arms dealer Harry, former-soldier-turned-secret-service-agent Ewan survives a bloody shootout with a member of an Islamic terrorist cell who steals Harry's briefcase full of Semtex explosives and escapes. Ewan's spymasters task Ewan with hunting down the cell members and retrieving the briefcase.",
+   "popularity": 1.3396,
+   "poster_path": "/dgHAFprnEkdD8vFZTFnjoWgmucP.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-08",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fight Fire With Fire",
+   "title": "Cleanskin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 376
   },
   "movie:9616": {
    "backdrop_path": "/7KBJf963tZBijpP6bKOJrxkowGp.jpg",

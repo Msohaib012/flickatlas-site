@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 34,
+ "count": 41,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -173,6 +173,116 @@
    "type": "movie",
    "vote_average": 5.073,
    "vote_count": 447
+  },
+  "movie:11632": {
+   "backdrop_path": "/eW3GgBzpLcbohMy6I07rSyPROuM.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Becky Sharp",
+     "n": "Reese Witherspoon"
+    },
+    {
+     "c": "Miss Matilda Crawley",
+     "n": "Eileen Atkins"
+    },
+    {
+     "c": "Mr. Osborne",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "The Marquess of Steyne",
+     "n": "Gabriel Byrne"
+    },
+    {
+     "c": "Amelia Sedley",
+     "n": "Romola Garai"
+    },
+    {
+     "c": "Sir Pitt Crawley",
+     "n": "Bob Hoskins"
+    },
+    {
+     "c": "William Dobbin",
+     "n": "Rhys Ifans"
+    },
+    {
+     "c": "Lady Southdown",
+     "n": "Geraldine McEwan"
+    },
+    {
+     "c": "Rawdon Crawley",
+     "n": "James Purefoy"
+    },
+    {
+     "c": "George Osborne",
+     "n": "Jonathan Rhys Meyers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mira Nair"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 11632,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In early 19th century England, orphaned Becky Sharp defies her poverty-stricken background and ascends the social ladder alongside her best friend.",
+   "popularity": 2.1943,
+   "poster_path": "/6GCjrrd1XIl8VSwjKo8c94LTwtd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-09-01",
+   "revenue": 16123851,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "All's fair in love & war.",
+   "title": "Vanity Fair",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 366
   },
   "movie:11832": {
    "backdrop_path": "/iFl8eN4vWcMNNozmJk8E7cLgeT9.jpg",
@@ -350,6 +460,146 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 461
+  },
+  "movie:1186532": {
+   "backdrop_path": "/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Isaiah Wright",
+     "n": "Aspen Kennedy Wilson"
+    },
+    {
+     "c": "Cynthia Wright",
+     "n": "Priscilla C. Shirer"
+    },
+    {
+     "c": "Joshua",
+     "n": "Cameron Arnett"
+    },
+    {
+     "c": "Miss Clara",
+     "n": "Karen Abercrombie"
+    },
+    {
+     "c": "Tony Jordan",
+     "n": "T.C. Stallings"
+    },
+    {
+     "c": "Janelle Moore",
+     "n": "B.J. Arnett"
+    },
+    {
+     "c": "James",
+     "n": "Ken Bevel"
+    },
+    {
+     "c": "Benjamin",
+     "n": "Benjamin Charles Watson"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Jonathan Evans"
+    },
+    {
+     "c": "Vaughn",
+     "n": "Jerry Shirer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Alex Kendrick"
+   ],
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 1186532,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum – to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
+   "popularity": 3.6295,
+   "poster_path": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-08-22",
+   "revenue": 40392664,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Whoever wants the next generation the most will get them.",
+   "title": "The Forge",
+   "trailer": {
+    "key": "iAt_j6zEeF0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.175,
+   "vote_count": 365
   },
   "movie:1210732": {
    "backdrop_path": "/s7xmwFJQj99lICSGQkr8sQ7G9IA.jpg",
@@ -1370,6 +1620,133 @@
    "vote_average": 7.73,
    "vote_count": 418
   },
+  "movie:25132": {
+   "backdrop_path": "/c9d0Mp6sWdneRp85etaW3jz6KMg.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Toby Thompson",
+     "n": "Jimmy Bennett"
+    },
+    {
+     "c": "Nose Noseworthy",
+     "n": "Jake Short"
+    },
+    {
+     "c": "Stacy Thompson",
+     "n": "Kat Dennings"
+    },
+    {
+     "c": "Loogie Short",
+     "n": "Trevor Gagnon"
+    },
+    {
+     "c": "Cole Black",
+     "n": "Devon Gearhart"
+    },
+    {
+     "c": "Helvetica Black",
+     "n": "Jolie Vanier"
+    },
+    {
+     "c": "Lug Short",
+     "n": "Rebel Rodriguez"
+    },
+    {
+     "c": "Laser Short",
+     "n": "Leo Howard"
+    },
+    {
+     "c": "Mom Thompson",
+     "n": "Leslie Mann"
+    },
+    {
+     "c": "Dad Thompson",
+     "n": "Jon Cryer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Rodriguez"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 25132,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boy's discovery of a colorful, wish-granting rock causes chaos in the suburban town of Black Falls when jealous kids and scheming adults alike set out to get their hands on it.",
+   "popularity": 2.078,
+   "poster_path": "/mgVuriiCXK1cGoXzZD7kO9w28DF.jpg",
+   "production_countries": [
+    "AE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-08-21",
+   "revenue": 29000000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "NOT SO TALL tales from the director of Spy Kids.",
+   "title": "Shorts",
+   "trailer": {
+    "key": "TANs96lF3GU",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.933,
+   "vote_count": 344
+  },
   "movie:305932": {
    "backdrop_path": "/6L5vre1eJu0dppvk6kGfVuSGNyC.jpg",
    "budget": 0,
@@ -1495,6 +1872,96 @@
    "type": "movie",
    "vote_average": 5.78,
    "vote_count": 457
+  },
+  "movie:415132": {
+   "backdrop_path": "/rFjeGAA4cW8PEuVbzayDGLg07l6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arès",
+     "n": "Ola Rapace"
+    },
+    {
+     "c": "Myosotis",
+     "n": "Micha Lescot"
+    },
+    {
+     "c": "Anna",
+     "n": "Ruth Vega Fernandez"
+    },
+    {
+     "c": "Coach",
+     "n": "Thierry Hancisse"
+    },
+    {
+     "c": "Altman",
+     "n": "Hélène Fillières"
+    },
+    {
+     "c": "Anouk",
+     "n": "Éva Lallier"
+    },
+    {
+     "c": "PDG Donevia",
+     "n": "Louis-Do de Lencquesaing"
+    },
+    {
+     "c": "Mae",
+     "n": "Élina Solomon"
+    },
+    {
+     "c": "Tyro",
+     "n": "Yvon Martin"
+    },
+    {
+     "c": "Boris",
+     "n": "Pierre Perrier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jean-Patrick Benes"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 415132,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In a near future, the world order has changed. With its 10 millions of unemployed citizens, France has now become a poor country. Its people wavers between rebellion and resignation and find an outlet in the shape of TV broadcast ultra brutal fights in which the players are legally doped and unscrupulous.",
+   "popularity": 1.189,
+   "poster_path": "/sVKz7eKtSkVGjKaSWo065XTkWk9.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-11-23",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ares",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.028,
+   "vote_count": 360
   },
   "movie:46332": {
    "backdrop_path": "/5dZC7725ogu9drxXLHoNhWIJsgo.jpg",
@@ -1650,6 +2117,318 @@
    "type": "movie",
    "vote_average": 6.659,
    "vote_count": 430
+  },
+  "movie:507532": {
+   "backdrop_path": "/5LgLy0BEzGvVqii1ERftWrzQgFs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom Eldridge",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "Charlie Sykes",
+     "n": "Toby Wallace"
+    },
+    {
+     "c": "Mabel",
+     "n": "Jenna Ortega"
+    },
+    {
+     "c": "Ray Eldridge",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Costa",
+     "n": "Ismael Cruz Cordova"
+    },
+    {
+     "c": "Pete Weeks",
+     "n": "Clayne Crawford"
+    },
+    {
+     "c": "Skeemo",
+     "n": "Aaron Stanford"
+    },
+    {
+     "c": "Nunes",
+     "n": "Scotty Tovar"
+    },
+    {
+     "c": "Gary Sykes",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Donna Sykes",
+     "n": "Lolita Davidovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Helgeland"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 507532,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two brothers from opposite sides of the tracks are reunited as adults. Desperate circumstances force them into a deal with an organized crime syndicate in Boston, and a young woman gets caught in the middle.",
+   "popularity": 2.1232,
+   "poster_path": "/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-08",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Finestkind",
+   "trailer": {
+    "key": "O8aPzwMl37g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.817,
+   "vote_count": 366
+  },
+  "movie:56832": {
+   "backdrop_path": "/jNsK2a8A1DYpaCX5HGElp3t4x6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kei Kurono",
+     "n": "Kazunari Ninomiya"
+    },
+    {
+     "c": "Joichiro Nishi",
+     "n": "Kanata Hongo"
+    },
+    {
+     "c": "Masaru Kato",
+     "n": "Kenichi Matsuyama"
+    },
+    {
+     "c": "Kei Kishimoto",
+     "n": "Natsuna Watanabe"
+    },
+    {
+     "c": "Tanaka Seijin",
+     "n": "Ainosuke Shibata"
+    },
+    {
+     "c": "Tae Kojima",
+     "n": "Yuriko Yoshitaka"
+    },
+    {
+     "c": "Eriko Ayukawa",
+     "n": "Ayumi Ito"
+    },
+    {
+     "c": "Kayo Sugimoto",
+     "n": "Chieko Ichikawa"
+    },
+    {
+     "c": "Muso Tokugawa",
+     "n": "Donpei Tsuchihira"
+    },
+    {
+     "c": "Green Onion Father",
+     "n": "Hidekazu Nagae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Shinsuke Sato"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 56832,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After trying to rescue a man on the subway tracks, two teens wake up in a room dominated by a mysterious black sphere that sends them to hunt down and kill aliens hiding on Earth.",
+   "popularity": 2.4785,
+   "poster_path": "/vScJdcqXHyupdeO3wkTqT92ew85.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-11-29",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The only way to resurrect is to kill.",
+   "title": "Gantz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.536,
+   "vote_count": 361
   },
   "movie:568332": {
    "backdrop_path": "/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
@@ -2169,6 +2948,110 @@
    "type": "movie",
    "vote_average": 6.663,
    "vote_count": 456
+  },
+  "movie:962232": {
+   "backdrop_path": "/pKfvYWbxhVnGHg6By3VaxtrbLZe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabriel",
+     "n": "Henrique Zaga"
+    },
+    {
+     "c": "Nina",
+     "n": "Giulia Be"
+    },
+    {
+     "c": "Alberto",
+     "n": "João Miguel"
+    },
+    {
+     "c": "Joaquim",
+     "n": "Othon Bastos"
+    },
+    {
+     "c": "Yuri",
+     "n": "Leo Bahia"
+    },
+    {
+     "c": "Raimunda",
+     "n": "Rita Assemany"
+    },
+    {
+     "c": "Emilia Borba",
+     "n": "Denise Del Vecchio"
+    },
+    {
+     "c": "Dra. Simone",
+     "n": "Isabel Fillardis"
+    },
+    {
+     "c": "Amanda",
+     "n": "Viviane Araújo"
+    },
+    {
+     "c": "Lurdes",
+     "n": "Adriana Lessa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Diego Freitas"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Music"
+   ],
+   "id": 962232,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "While waiting for a kidney transplant, a young pianist finds an unexpected connection with her doctor — and the courage to fulfill her musical dreams.",
+   "popularity": 1.5489,
+   "poster_path": "/AlAP6WRSBuf5cP8OgpHTF45BPUp.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-26",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Beyond the Universe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.899,
+   "vote_count": 353
   },
   "movie:972232": {
    "backdrop_path": "/rroo5ANTOLr1JY1JArmpJNQfsEV.jpg",

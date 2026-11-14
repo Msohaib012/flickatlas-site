@@ -1,7 +1,75 @@
 {
  "bucket": "19",
- "count": 40,
+ "count": 47,
  "titles": {
+  "movie:1143319": {
+   "d": "Puppy Love (2023): Comedy/Romance film. Story: After a disastrous first date, wild-child Nicole and… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
+   "industry": "world",
+   "k": "Puppy Love, Puppy Love movie, Puppy Love cast, Puppy Love story, Puppy Love box office collection, Puppy Love budget, Puppy Love review, Puppy Love rating, Puppy Love release date, Puppy Love trailer, Puppy Love Comedy, Puppy Love Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lucy Hale"
+     },
+     {
+      "@type": "Person",
+      "name": "Grant Gustin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Seymour"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Hitchcock"
+     },
+     {
+      "@type": "Person",
+      "name": "Nore Davis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 371,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Puppy Love (2023): Comedy/Romance film. Story: After a disastrous first date, wild-child Nicole and… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Alan Reid"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Fabiano"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1143319",
+    "name": "Puppy Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1143319"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Puppy Love (2023)</h1>\n<p class=\"ssr-lead\">After a disastrous first date, wild-child Nicole and socially-anxious Max vow to lose each other’s numbers until they learn that their dogs found a love match, and now puppies are on the way! The hilariously mismatched Nicole and Max are forced to become responsible co-parents, but may end up finding love themselves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2023</li><li>Runtime: 106 minutes</li><li>Director: Richard Alan Reid, Nicholas Fabiano</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.0/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lucy Hale as Nicole Matthews</li><li>Grant Gustin as Max Stevenson</li><li>Jane Seymour as Diane Matthews</li><li>Michael Hitchcock as Dr. Hert</li><li>Nore Davis as Sid</li><li>Alessandro Miro as Hunter Fosterini</li><li>Corey Woods as Harper</li><li>Sarah Almonte Peguero as Naomi</li><li>Rachel Risen as Lorraine</li><li>Christine Lee as Shay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play</li></ul>\n</article>",
+   "t": "Puppy Love (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:1168719": {
    "d": "Silent Friend (2026): Drama film. Story: In the heart of a botanical garden in a medieval… See cast, budget $3M, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/iOIc1rD53iF5D5y5pVGEs8uUTVc.jpg",
@@ -944,6 +1012,134 @@
    "t": "The Masque of the Red Death (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1964"
   },
+  "movie:26719": {
+   "d": "House of Games (1987): Crime/Thriller film. Story: A psychiatrist comes to the aid of a compulsive… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fPZIQ0l7zCvQQqpYXVeFvjcyGpj.jpg",
+   "industry": "world",
+   "k": "House of Games, House of Games movie, House of Games cast, House of Games story, House of Games box office collection, House of Games budget, House of Games review, House of Games rating, House of Games release date, House of Games Crime, House of Games Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lindsay Crouse"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Mantegna"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Nussbaum"
+     },
+     {
+      "@type": "Person",
+      "name": "Lilia Skala"
+     },
+     {
+      "@type": "Person",
+      "name": "J.T. Walsh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "House of Games (1987): Crime/Thriller film. Story: A psychiatrist comes to the aid of a compulsive… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Mamet"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fPZIQ0l7zCvQQqpYXVeFvjcyGpj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26719",
+    "name": "House of Games",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26719"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>House of Games (1987)</h1>\n<p class=\"ssr-lead\">A psychiatrist comes to the aid of a compulsive gambler and is led by a smooth-talking grifter into the shadowy but compelling world of stings, scams, and con men.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 1987</li><li>Runtime: 102 minutes</li><li>Director: David Mamet</li><li>Genres: Crime, Thriller, Drama</li><li>TMDB rating: 6.8/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lindsay Crouse as Dr. Margaret Ford</li><li>Joe Mantegna as Mike</li><li>Mike Nussbaum as Joey</li><li>Lilia Skala as Dr. Maria Littauer</li><li>J.T. Walsh as The Businessman</li><li>Steven Goldstein as Billy Hahn</li><li>Jack Wallace as Bartender</li><li>Ricky Jay as George</li><li>William H. Macy as Sgt. John Moran</li><li>Meshach Taylor as Mr. Dean</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "House of Games (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:3019": {
+   "d": "Dr. Jekyll and Mr. Hyde (1931): Horror/Science Fiction film. Story: Dr. Henry Jekyll believes that there are two distinct… See cast and budget $535.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+   "industry": "world",
+   "k": "Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde movie, Dr. Jekyll and Mr. Hyde cast, Dr. Jekyll and Mr. Hyde story, Dr. Jekyll and Mr. Hyde box office collection, Dr. Jekyll and Mr. Hyde budget, Dr. Jekyll and Mr. Hyde review, Dr. Jekyll and Mr. Hyde rating, Dr. Jekyll and Mr. Hyde release date, Dr. Jekyll and Mr. Hyde Horror, Dr. Jekyll and Mr. Hyde Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fredric March"
+     },
+     {
+      "@type": "Person",
+      "name": "Miriam Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Hobart"
+     },
+     {
+      "@type": "Person",
+      "name": "Holmes Herbert"
+     },
+     {
+      "@type": "Person",
+      "name": "Halliwell Hobbes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 347,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Dr. Jekyll and Mr. Hyde (1931): Horror/Science Fiction film. Story: Dr. Henry Jekyll believes that there are two distinct… See cast and budget $535.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rouben Mamoulian"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3019",
+    "name": "Dr. Jekyll and Mr. Hyde",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1931-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3019"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dr. Jekyll and Mr. Hyde (1931)</h1>\n<p class=\"ssr-lead\">Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 1931</li><li>Runtime: 96 minutes</li><li>Director: Rouben Mamoulian</li><li>Genres: Horror, Science Fiction, Drama</li><li>Budget: $535.0k</li><li>TMDB rating: 7.2/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fredric March as Dr. Henry Jekyll / Mr. Edward Hyde</li><li>Miriam Hopkins as Ivy Pearson</li><li>Rose Hobart as Muriel Carew</li><li>Holmes Herbert as Dr. John Lanyon</li><li>Halliwell Hobbes as Brig. Gen. Sir Danvers Carew</li><li>Edgar Norton as Poole</li><li>Tempe Pigott as Mrs. Hawkins</li><li>Leonard Carey as Briggs, Lanyon&#x27;s Butler (uncredited)</li><li>Sam Harris as Party Guest (uncredited)</li><li>Boyd Irwin as Police Inspector (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dr. Jekyll and Mr. Hyde (1931) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1931"
+  },
   "movie:315319": {
    "d": "We Accept Miracles (2015): Comedy film. Story: Fired from his HR job in the big city, Fulvio returns… See cast and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/x3eG6tbATEyciH3P0mBnLlOUsIg.jpg",
@@ -1070,6 +1266,74 @@
    "t": "Standing Tall (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:431819": {
+   "d": "Fireworks (2017): Animation/Romance film. Story: Moshimo, Japan. The annual fireworks festival is… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
+   "industry": "world",
+   "k": "Fireworks, Fireworks movie, Fireworks cast, Fireworks story, Fireworks box office collection, Fireworks budget, Fireworks review, Fireworks rating, Fireworks release date, Fireworks trailer, Fireworks Animation, Fireworks Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Suzu Hirose"
+     },
+     {
+      "@type": "Person",
+      "name": "Masaki Suda"
+     },
+     {
+      "@type": "Person",
+      "name": "Mamoru Miyano"
+     },
+     {
+      "@type": "Person",
+      "name": "Shintaro Asanuma"
+     },
+     {
+      "@type": "Person",
+      "name": "Toshiyuki Toyonaga"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Fireworks (2017): Animation/Romance film. Story: Moshimo, Japan. The annual fireworks festival is… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nobuyuki Takeuchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Akiyuki Shinbo"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Animation",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=431819",
+    "name": "Fireworks",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-08-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=431819"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fireworks (2017)</h1>\n<p class=\"ssr-lead\">Moshimo, Japan. The annual fireworks festival is about to take place and a group of schoolboys, arguing over whether they are round or flat when viewed from different angles, set out to find it out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 August 2017</li><li>Runtime: 90 minutes</li><li>Director: Nobuyuki Takeuchi, Akiyuki Shinbo</li><li>Genres: Animation, Romance, Fantasy, Drama</li><li>TMDB rating: 6.6/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Suzu Hirose as Nazuna Oikawa (voice)</li><li>Masaki Suda as Norimichi Shimada (voice)</li><li>Mamoru Miyano as Yūsuke Azumi (voice)</li><li>Shintaro Asanuma as Jun&#x27;ichi (voice)</li><li>Toshiyuki Toyonaga as Kazuhiro (voice)</li><li>Yuki Kaji as Minoru (voice)</li><li>Shin-ichiro Miki as Nazuna&#x27;s Mother&#x27;s Fiancé (voice)</li><li>Kana Hanazawa as Teacher Miura (voice)</li><li>Takahiro Sakurai as Teacher Mitsuishi (voice)</li><li>Michiko Neya as Norimichi&#x27;s Mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Fireworks (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:43919": {
    "d": "Hatchet II (2010): Horror/Comedy film. Story: Picking up right where the original ended, Marybeth… See cast, budget $2.5M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/sh9aRWXveSCeY2TDgNv3UzXAUb9.jpg",
@@ -1134,6 +1398,70 @@
    "t": "Hatchet II (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:443319": {
+   "d": "Phoenix Forgotten (2017): Horror/Mystery film. Story: Twenty years after three teenagers disappeared in the… See cast, budget $2.8M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vk0msqGGhttTQJKnojFffc3nbe1.jpg",
+   "industry": "world",
+   "k": "Phoenix Forgotten, Phoenix Forgotten movie, Phoenix Forgotten cast, Phoenix Forgotten story, Phoenix Forgotten box office collection, Phoenix Forgotten budget, Phoenix Forgotten review, Phoenix Forgotten rating, Phoenix Forgotten release date, Phoenix Forgotten trailer, Phoenix Forgotten Horror, Phoenix Forgotten Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Florence Hartigan"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Spencer Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Chelsea Lopez"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Matthews"
+     },
+     {
+      "@type": "Person",
+      "name": "Clint Jordan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 379,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Phoenix Forgotten (2017): Horror/Mystery film. Story: Twenty years after three teenagers disappeared in the… See cast, budget $2.8M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin Barber"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vk0msqGGhttTQJKnojFffc3nbe1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=443319",
+    "name": "Phoenix Forgotten",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-04-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=443319"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Phoenix Forgotten (2017)</h1>\n<p class=\"ssr-lead\">Twenty years after three teenagers disappeared in the wake of mysterious lights appearing above Phoenix, Arizona, unseen footage from that night has been discovered, chronicling the final hours of their fateful expedition.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 April 2017</li><li>Runtime: 87 minutes</li><li>Director: Justin Barber</li><li>Genres: Horror, Mystery, Science Fiction</li><li>Budget: $2.8M</li><li>TMDB rating: 6.4/10 (379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Florence Hartigan as Sophie</li><li>Luke Spencer Roberts as Josh</li><li>Chelsea Lopez as Ashley</li><li>Justin Matthews as Mark</li><li>Clint Jordan as Steve</li><li>Cyd Strittmatter as Caroline</li><li>Roberto Medina as Walt</li><li>Jeanine Jackson as Melissa Foster</li><li>David Carrera as Jack Foster</li><li>Matt Biedel as Daniel Abrams</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Phoenix Forgotten (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:463319": {
    "d": "Shadow (2018): Action/War film. Story: In a kingdom ruled by a young and unpredictable king… See cast, budget $44.01M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/1A0h3Bek2eyxHNRikyZdXDGXxdS.jpg",
@@ -1196,6 +1524,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Shadow (2018)</h1>\n<p class=\"ssr-lead\">In a kingdom ruled by a young and unpredictable king, the military commander has a secret weapon: a shadow, a look-alike who can fool both his enemies and the King himself. Now he must use this weapon in an intricate plan that will lead his people to victory in a war that the King does not want.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2018</li><li>Runtime: 116 minutes</li><li>Director: Zhang Yimou</li><li>Genres: Action, War</li><li>Budget: $44.01M</li><li>TMDB rating: 6.7/10 (483 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Deng Chao as Commander Zi Yu / Jing Zhou</li><li>Sun Li as Madam Xiao Ai</li><li>Ryan Zheng Kai as King Pei Liang</li><li>Wang Qianyuan as Captain Tian Zhan</li><li>Wang Jingchun as Minister Lu Yan</li><li>Hu Jun as General Yang Cang</li><li>Guan Xiaotong as Princess Qing Ping</li><li>Leo Wu as Yang Ping</li><li>Feng Bai</li><li>Li Zhuoyang as Guicheng Death Soldier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, MUBI, MUBI Amazon Channel, ViX Premium Amazon Channel, Amazon Prime Video with Ads, Hi-YAH Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Shadow (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:468219": {
+   "d": "Dead in a Week (Or Your Money Back) (2018): Comedy/Action film. Story: William has failed to kill himself so many times that… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7i6D8NmHoASGNlRTdnywwunopng.jpg",
+   "industry": "world",
+   "k": "Dead in a Week (Or Your Money Back), Dead in a Week (Or Your Money Back) movie, Dead in a Week (Or Your Money Back) cast, Dead in a Week (Or Your Money Back) story, Dead in a Week (Or Your Money Back) box office collection, Dead in a Week (Or Your Money Back) budget, Dead in a Week (Or Your Money Back) review, Dead in a Week (Or Your Money Back) rating, Dead in a Week (Or Your Money Back) release date, Dead in a Week (Or Your Money Back) trailer, Dead in a Week (Or Your Money Back) Comedy, Dead in a Week (Or Your Money Back) Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aneurin Barnard"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Wilkinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Freya Mavor"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Eccleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Marion Bailey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 378,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Dead in a Week (Or Your Money Back) (2018): Comedy/Action film. Story: William has failed to kill himself so many times that… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Edmunds"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7i6D8NmHoASGNlRTdnywwunopng.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=468219",
+    "name": "Dead in a Week (Or Your Money Back)",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=468219"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead in a Week (Or Your Money Back) (2018)</h1>\n<p class=\"ssr-lead\">William has failed to kill himself so many times that he outsources his suicide to aging assassin Leslie. But with the contract signed and death assured within a week (or his money back), William suddenly discovers reasons to live... However Leslie is under pressure from his boss to make sure the contract is completed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2018</li><li>Runtime: 90 minutes</li><li>Director: Tom Edmunds</li><li>Genres: Comedy, Action, Drama</li><li>TMDB rating: 6.3/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aneurin Barnard as William</li><li>Tom Wilkinson as Leslie</li><li>Freya Mavor as Ellie</li><li>Christopher Eccleston as Harvey</li><li>Marion Bailey as Penny</li><li>Velibor Topic as Ivan</li><li>Nigel Lindsay as Brian</li><li>Gethin Anthony as Charlie</li><li>Marcia Warren as Margaret</li><li>Emma Campbell-Jones as William&#x27;s Mum</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dead in a Week (Or Your Money Back) (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
   "movie:46919": {
@@ -1329,6 +1721,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla: City on the Edge of Battle (2018)</h1>\n<p class=\"ssr-lead\">Humanity&#x27;s desperate battle to reclaim the Earth from Godzilla continues. The key to defeating the King of the Monsters may be Mechagodzilla, a robotic weapon thought to have been lost nearly 20,000 years ago.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2018</li><li>Runtime: 101 minutes</li><li>Director: Hiroyuki Seshita, Kobun Shizuno</li><li>Genres: Animation, Science Fiction</li><li>TMDB rating: 6.5/10 (420 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mamoru Miyano as Haruo Sakaki (voice)</li><li>Yuki Kaji as Adam Bindewald (voice)</li><li>Tomokazu Sugita as Martin Lazzari (voice)</li><li>Takahiro Sakurai as Metphies (voice)</li><li>Junichi Suwabe as Mulu-elu Galu-gu (voice)</li><li>Kana Hanazawa as Yuko Tani (voice)</li><li>Kenta Miyake as Rilu-elu Belu-be (voice)</li><li>Kenyu Horiuchi as Unberto Mori (voice)</li><li>Kazuya Nakai as Halu-elu Dolu-do (voice)</li><li>Kazuhiro Yamaji as Endurph / Munak (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Godzilla: City on the Edge of Battle (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:618219": {
+   "d": "Mosul (2019): War/Drama film. Story: When ISIS took their homes, families and city, one… See cast, TMDB rating 6.7/10, and release date 4 September 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+   "industry": "world",
+   "k": "Mosul, Mosul movie, Mosul cast, Mosul story, Mosul box office collection, Mosul budget, Mosul review, Mosul rating, Mosul release date, Mosul trailer, Mosul War, Mosul Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Suhail Dabbach"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Bessa"
+     },
+     {
+      "@type": "Person",
+      "name": "Is'haq Elias"
+     },
+     {
+      "@type": "Person",
+      "name": "Waleed Elgadi"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayat Kamille"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Mosul (2019): War/Drama film. Story: When ISIS took their homes, families and city, one… See cast, TMDB rating 6.7/10, and release date 4 September 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Michael Carnahan"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "War",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=618219",
+    "name": "Mosul",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=618219"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mosul (2019)</h1>\n<p class=\"ssr-lead\">When ISIS took their homes, families and city, one group of men fought to take it all back. Based on true events, this is the story of the Nineveh SWAT team, a renegade police unit who waged a guerrilla operation against ISIS in a desperate struggle to save their home city of Mosul.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 2019</li><li>Runtime: 102 minutes</li><li>Director: Matthew Michael Carnahan</li><li>Genres: War, Drama, Action</li><li>TMDB rating: 6.7/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Suhail Dabbach as Jasem</li><li>Adam Bessa as Kawa</li><li>Is&#x27;haq Elias as Waleed</li><li>Waleed Elgadi as Colonel Kaveh Afsahani</li><li>Hayat Kamille as Hayat</li><li>Mohimen Mahbuba as Amir</li><li>Thaer Al-Shayei as Hooka</li><li>Ben Affan as Actor</li><li>Qutaiba Abdelhaq as Kamal</li><li>Abbas Abdulghani as Home Owner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Mosul (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:919": {
    "d": "Blood: The Last Vampire (2000): Animation/Fantasy film. Story: In Japan, the vampire-hunter Saya, who is a powerful… See cast and TMDB rating 6.9/10.",

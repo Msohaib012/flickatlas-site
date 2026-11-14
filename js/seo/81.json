@@ -1,7 +1,71 @@
 {
  "bucket": "81",
- "count": 34,
+ "count": 41,
  "titles": {
+  "movie:10881": {
+   "d": "Avalon (2001): Action/Science Fiction film. Story: In a future world, young people are increasingly… See cast, budget $8M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
+   "industry": "world",
+   "k": "Avalon, Avalon movie, Avalon cast, Avalon story, Avalon box office collection, Avalon budget, Avalon review, Avalon rating, Avalon release date, Avalon Action, Avalon Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Małgorzata Foremniak"
+     },
+     {
+      "@type": "Person",
+      "name": "Władysław Kowalski"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerzy Gudejko"
+     },
+     {
+      "@type": "Person",
+      "name": "Dariusz Biskupski"
+     },
+     {
+      "@type": "Person",
+      "name": "Bartłomiej Świderski"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Avalon (2001): Action/Science Fiction film. Story: In a future world, young people are increasingly… See cast, budget $8M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mamoru Oshii"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10881",
+    "name": "Avalon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-01-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10881"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Avalon (2001)</h1>\n<p class=\"ssr-lead\">In a future world, young people are increasingly becoming addicted to an illegal (and potentially deadly) battle simulation game called Avalon. When Ash, a star player, hears of rumors that a more advanced level of the game exists somewhere, she gives up her loner ways and joins a gang of explorers. Even if she finds the gateway to the next level, will she ever be able to come back to reality?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2001</li><li>Runtime: 107 minutes</li><li>Director: Mamoru Oshii</li><li>Genres: Action, Science Fiction</li><li>Budget: $8M</li><li>TMDB rating: 6.5/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Małgorzata Foremniak as Ash</li><li>Władysław Kowalski as Game Master</li><li>Jerzy Gudejko as Murphy</li><li>Dariusz Biskupski as Bishop</li><li>Bartłomiej Świderski as Stunner</li><li>Katarzyna Bargiełowska as Receptionist</li><li>Alicja Sapryk as Gill</li><li>Zuzanna Kasz as Ghost</li><li>Adam Szyszkowski as Player A</li><li>Marek Stawinski as Player C</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies</li><li>Buy: Google Play Movies</li></ul>\n</article>",
+   "t": "Avalon (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:12281": {
    "d": "Mean Creek (2004): Crime/Drama film. Story: Teenagers living in small-town Oregon take a boat… See cast, budget $500.0k, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/lFjONSYWA01SFDxnwRLxjUrh0GR.jpg",
@@ -900,6 +964,70 @@
    "t": "Haciendo amigos (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17281": {
+   "d": "Gigi (1958): Comedy/Romance film. Story: A home, a motorcar, servants, the latest fashions… See cast, budget $3.32M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
+   "industry": "world",
+   "k": "Gigi, Gigi movie, Gigi cast, Gigi story, Gigi box office collection, Gigi budget, Gigi review, Gigi rating, Gigi release date, Gigi trailer, Gigi Comedy, Gigi Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leslie Caron"
+     },
+     {
+      "@type": "Person",
+      "name": "Maurice Chevalier"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Jourdan"
+     },
+     {
+      "@type": "Person",
+      "name": "Hermione Gingold"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Gabor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Gigi (1958): Comedy/Romance film. Story: A home, a motorcar, servants, the latest fashions… See cast, budget $3.32M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vincente Minnelli"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17281",
+    "name": "Gigi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1958-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17281"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gigi (1958)</h1>\n<p class=\"ssr-lead\">A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who&#x27;s gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can&#x27;t buy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 1958</li><li>Runtime: 115 minutes</li><li>Director: Vincente Minnelli</li><li>Genres: Comedy, Romance</li><li>Budget: $3.32M</li><li>TMDB rating: 6.2/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leslie Caron as Gigi</li><li>Maurice Chevalier as Honoré Lachaille</li><li>Louis Jourdan as Gaston Lachaille</li><li>Hermione Gingold as Madame Alvarez</li><li>Eva Gabor as Liane D&#x27;Exelmans</li><li>Jacques Bergerac as Sandomir</li><li>Isabel Jeans as Aunt Alicia</li><li>John Abbott as Manuel</li><li>Corinne Marchand as Young Lady with White Sunshade (uncredited)</li><li>Marie-Hélène Arnaud as Girl at Maxim&#x27;s (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Gigi (1958) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1958"
+  },
   "movie:340481": {
    "d": "The Unknown Girl (2016): Thriller/Drama film. Story: Jenny, a young doctor who feels guilty after a young… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
@@ -1096,6 +1224,69 @@
    "t": "Wilson (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:369781": {
+   "d": "Public Friends (2016): Comedy film. Story: In order to make his little sick brother's dream come… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/50Am0idc6sPz5cQZcwdmRfKMEZE.jpg",
+   "industry": "world",
+   "k": "Public Friends, Public Friends movie, Public Friends cast, Public Friends story, Public Friends box office collection, Public Friends budget, Public Friends review, Public Friends rating, Public Friends release date, Public Friends Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kev Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Elbaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Bartel"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloé Coulloud"
+     },
+     {
+      "@type": "Person",
+      "name": "John Eledjam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Public Friends (2016): Comedy film. Story: In order to make his little sick brother's dream come… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edouard Pluvieux"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/50Am0idc6sPz5cQZcwdmRfKMEZE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=369781",
+    "name": "Public Friends",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=369781"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Public Friends (2016)</h1>\n<p class=\"ssr-lead\">In order to make his little sick brother&#x27;s dream come true, Leo and his best mates organize a fake score...but on the d day, they make a mistake and the fake score becomes a real hold up.Here starts the extraordinary adventure of PUBLIC Amis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2016</li><li>Runtime: 98 minutes</li><li>Director: Edouard Pluvieux</li><li>Genres: Comedy</li><li>TMDB rating: 6.2/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kev Adams as Léo</li><li>Vincent Elbaz as Bartoloméo</li><li>Paul Bartel as Ben</li><li>Chloé Coulloud as Ana</li><li>John Eledjam as Franck</li><li>Majid Berhila as Lounès</li><li>Anne Suarez as Madam Commissioner</li><li>Guy Lecluyse as Bruno</li><li>Rebecca Azan as Stéphanie</li><li>Malonn Lévana as Emilie</li></ul>\n</article>",
+   "t": "Public Friends (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:408381": {
    "d": "Monolith (2016): Thriller/Drama film. Story: A mother and her son plan a surprise visit to Los… See cast, TMDB rating 5.3/10, and release date 12 May 2016.",
    "img": "https://image.tmdb.org/t/p/w780/iY5y6Cj5AMUKqeNdroJayIeZSzY.jpg",
@@ -1159,6 +1350,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Monolith (2016)</h1>\n<p class=\"ssr-lead\">A mother and her son plan a surprise visit to Los Angeles to see her husband/his father. Halfway there they get into a terrible accident in the middle of nowhere and now must fight to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2016</li><li>Runtime: 81 minutes</li><li>Director: Ivan Silvestrini</li><li>Genres: Thriller, Drama, Horror</li><li>TMDB rating: 5.3/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katrina Bowden as Sandra</li><li>Nixon Hodges as David</li><li>Crew Hodges as David</li><li>Damon Dayoub as Carl</li><li>Brandon W. Jones as Ted</li><li>Ashley Madekwe as Jessa</li><li>Jay Hayden as Roy Lacombe</li><li>Andrea Ellsworth as Youth</li><li>Lauren McKnight as Carefree</li><li>Justine Wachsberger as Happy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Troma NOW</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Monolith (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:482981": {
+   "d": "Wild Rose (2019): Music/Comedy film. Story: A young Scottish singer, Rose-Lynn Harlan, dreams of… See cast, TMDB rating 6.8/10, and release date 12 April 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/k18DGK5laMQJ8i79YnR509IzuKN.jpg",
+   "industry": "world",
+   "k": "Wild Rose, Wild Rose movie, Wild Rose cast, Wild Rose story, Wild Rose box office collection, Wild Rose budget, Wild Rose review, Wild Rose rating, Wild Rose release date, Wild Rose trailer, Wild Rose Music, Wild Rose Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jessie Buckley"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Walters"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Okonedo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Sives"
+     },
+     {
+      "@type": "Person",
+      "name": "Craig Parkinson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 376,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Wild Rose (2019): Music/Comedy film. Story: A young Scottish singer, Rose-Lynn Harlan, dreams of… See cast, TMDB rating 6.8/10, and release date 12 April 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Harper"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k18DGK5laMQJ8i79YnR509IzuKN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=482981",
+    "name": "Wild Rose",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-04-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=482981"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wild Rose (2019)</h1>\n<p class=\"ssr-lead\">A young Scottish singer, Rose-Lynn Harlan, dreams of making it as a country artist in Nashville after being released from prison.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 April 2019</li><li>Runtime: 101 minutes</li><li>Director: Tom Harper</li><li>Genres: Music, Comedy, Drama</li><li>TMDB rating: 6.8/10 (376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jessie Buckley as Rose-Lynn Harlan</li><li>Julie Walters as Marion</li><li>Sophie Okonedo as Susannah</li><li>Jamie Sives as Sam</li><li>Craig Parkinson as Alan</li><li>Adam Mitchell as Lyle</li><li>Daisy Littlefield as Wynonna</li><li>Janey Godley as Jackie</li><li>Louise McCarthy as Amanda</li><li>Maureen Carr as Eileen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wild Rose (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:506281": {
    "d": "The World to Come (2021): Romance/Drama film. Story: In 1856, two women forge a close connection despite… See cast and TMDB rating 7.0/10.",
@@ -1287,6 +1542,202 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>That Obscure Object of Desire (1977)</h1>\n<p class=\"ssr-lead\">After dumping a bucket of water on a beautiful young woman from the window of a train car, wealthy Frenchman Mathieu, regales his fellow passengers with the story of the dysfunctional relationship between himself and the young woman in question, a fiery 19-year-old flamenco dancer named Conchita. What follows is a tale of cruelty, depravity and lies -- the very building blocks of love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 August 1977</li><li>Runtime: 103 minutes</li><li>Director: Luis Buñuel</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 7.4/10 (473 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fernando Rey as Mathieu Faber</li><li>Carole Bouquet as Conchita</li><li>Ángela Molina as Conchita</li><li>Julien Bertheau as Édouard</li><li>André Weber as Martin</li><li>Milena Vukotić as Mother on the Train</li><li>María Asquerino as Encarnación, Conchita&#x27;s Mother</li><li>Ellen Bahl as Manolita</li><li>Valerie Blanco as Isabelle</li><li>Auguste Carrière as Woman who Mending at the Window</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "That Obscure Object of Desire (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1977"
+  },
+  "movie:59981": {
+   "d": "Legends of Oz: Dorothy's Return (2014): Animation/Family film. Story: Dorothy wakes in post-tornado Kansas, only to be… See cast and budget $70M.",
+   "img": "https://image.tmdb.org/t/p/w780/3UPdg8QO6CF5UqmOIJoLKhRM6e.jpg",
+   "industry": "world",
+   "k": "Legends of Oz: Dorothy's Return, Legends of Oz: Dorothy's Return movie, Legends of Oz: Dorothy's Return cast, Legends of Oz: Dorothy's Return story, Legends of Oz: Dorothy's Return box office collection, Legends of Oz: Dorothy's Return budget, Legends of Oz: Dorothy's Return review, Legends of Oz: Dorothy's Return rating, Legends of Oz: Dorothy's Return release date, Legends of Oz: Dorothy's Return Animation, Legends of Oz: Dorothy's Return Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lea Michele"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Short"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernadette Peters"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelsey Grammer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Legends of Oz: Dorothy's Return (2014): Animation/Family film. Story: Dorothy wakes in post-tornado Kansas, only to be… See cast and budget $70M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dan St. Pierre"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Finn"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3UPdg8QO6CF5UqmOIJoLKhRM6e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=59981",
+    "name": "Legends of Oz: Dorothy's Return",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-05-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=59981"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Legends of Oz: Dorothy&#x27;s Return (2014)</h1>\n<p class=\"ssr-lead\">Dorothy wakes in post-tornado Kansas, only to be whisked back to Oz to try to save her old friends, the Scarecrow, the Lion, the Tin Man, and Glinda, from a devious new villain, the Jester. New comrades Wiser the Owl, Marshal Mallow, China Princess, and Tugg the Tugboat join Dorothy on her latest magical journey through the colorful landscape of Oz to restore order and happiness to Emerald City.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 May 2014</li><li>Runtime: 88 minutes</li><li>Director: Dan St. Pierre, Will Finn</li><li>Genres: Animation, Family, Fantasy</li><li>Budget: $70M</li><li>TMDB rating: 6.2/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lea Michele as Dorothy (voice)</li><li>Martin Short as The Appraiser / The Jester (voice)</li><li>Bernadette Peters as Glinda (voice)</li><li>Dan Aykroyd as Scarecrow (voice)</li><li>Kelsey Grammer as The Tin Man (voice)</li><li>Jim Belushi as The Cowardly Lion (voice)</li><li>Oliver Platt as Wiser the Owl (voice)</li><li>Hugh Dancy as Marshall Mallow (voice)</li><li>Megan Hilty as China Princess / Queen Mouse (voice)</li><li>Tacey Adams as Aunt Em (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Legends of Oz: Dorothy's Return (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:620881": {
+   "d": "The Perfect Secret (2019): Comedy/Drama film. Story: Seven friends - three women and four men - meet for… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q24PFUkXci5bqFrnbp4QM8dc2TU.jpg",
+   "industry": "world",
+   "k": "The Perfect Secret, The Perfect Secret movie, The Perfect Secret cast, The Perfect Secret story, The Perfect Secret box office collection, The Perfect Secret budget, The Perfect Secret review, The Perfect Secret rating, The Perfect Secret release date, The Perfect Secret Comedy, The Perfect Secret Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wotan Wilke Möhring"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Schwarz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jella Haase"
+     },
+     {
+      "@type": "Person",
+      "name": "Elyas M'Barek"
+     },
+     {
+      "@type": "Person",
+      "name": "Karoline Herfurth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Perfect Secret (2019): Comedy/Drama film. Story: Seven friends - three women and four men - meet for… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bora Dağtekin"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q24PFUkXci5bqFrnbp4QM8dc2TU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=620881",
+    "name": "The Perfect Secret",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=620881"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Perfect Secret (2019)</h1>\n<p class=\"ssr-lead\">Seven friends - three women and four men - meet for dinner. Everyone should put their cell phone on the table. No matter what message comes in - anyone can read it and listen to the phone calls. However, this leads to a lot of chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2019</li><li>Runtime: 111 minutes</li><li>Director: Bora Dağtekin</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.5/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wotan Wilke Möhring as Rocco</li><li>Jessica Schwarz as Eva</li><li>Jella Haase as Bianca</li><li>Elyas M&#x27;Barek as Leo</li><li>Karoline Herfurth as Carlotta</li><li>Frederick Lau as Simon</li><li>Florian David Fitz as Pepe</li><li>Emily Kusche as Sophie</li><li>Adriana Altaras as Leos Mutter</li><li>Levi Eisenblätter as Young Pepe</li></ul>\n</article>",
+   "t": "The Perfect Secret (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:78381": {
+   "d": "Twixt (2011): Mystery/Fantasy film. Story: A washed-up horror novelist arrives in a sleepy town… See cast, budget $7M, and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AmeQAgUg0fTf9qztfkpmXg5sLul.jpg",
+   "industry": "world",
+   "k": "Twixt, Twixt movie, Twixt cast, Twixt story, Twixt box office collection, Twixt budget, Twixt review, Twixt rating, Twixt release date, Twixt trailer, Twixt Mystery, Twixt Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Val Kilmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Elle Fanning"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Dern"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Chaplin"
+     },
+     {
+      "@type": "Person",
+      "name": "Joanne Whalley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 344,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Twixt (2011): Mystery/Fantasy film. Story: A washed-up horror novelist arrives in a sleepy town… See cast, budget $7M, and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Mystery",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AmeQAgUg0fTf9qztfkpmXg5sLul.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=78381",
+    "name": "Twixt",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=78381"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Twixt (2011)</h1>\n<p class=\"ssr-lead\">A washed-up horror novelist arrives in a sleepy town on a book tour, only to stumble into a string of eerie murders. Haunted by dreams of a ghostly girl named V and guided by the spirit of Edgar Allan Poe, he’s drawn into a nightmarish world where fiction and reality blur—and the story he’s chasing leads back to his own buried guilt.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2011</li><li>Runtime: 88 minutes</li><li>Director: Francis Ford Coppola</li><li>Genres: Mystery, Fantasy, Horror</li><li>Budget: $7M</li><li>TMDB rating: 5.1/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Val Kilmer as Hall Baltimore</li><li>Elle Fanning as V.</li><li>Bruce Dern as Sheriff Bobby LaGrange</li><li>Ben Chaplin as Edgar Allan Poe</li><li>Joanne Whalley as Denise</li><li>David Paymer as Sam</li><li>Anthony Fusco as Pastor Allan Floyd</li><li>Alden Ehrenreich as Flamingo</li><li>Bruce A. Miroglio as Deputy Arbus</li><li>Don Novello as Melvin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Twixt (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:920081": {
    "d": "Megaboa (2021): Action/Horror film. Story: On a trip to Colombia, a group of college students… See cast, TMDB rating 6.3/10, and release date 26 November 2021.",

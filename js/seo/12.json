@@ -1,6 +1,6 @@
 {
  "bucket": "12",
- "count": 35,
+ "count": 40,
  "titles": {
   "movie:118412": {
    "d": "Berserk: The Golden Age Arc II - The Battle for Doldrey (2012): Animation/Action film. Story: The Band of the Hawk and their enigmatic leader… See cast.",
@@ -385,6 +385,70 @@
    "t": "The Price to Pay (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:140212": {
+   "d": "Confession of Murder (2012): Action/Thriller film. Story: A serial killer reappears 15 years after his murder… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zfC6I4v7OQw5crVsl3DMA0BLgbj.jpg",
+   "industry": "world",
+   "k": "Confession of Murder, Confession of Murder movie, Confession of Murder cast, Confession of Murder story, Confession of Murder box office collection, Confession of Murder budget, Confession of Murder review, Confession of Murder rating, Confession of Murder release date, Confession of Murder Action, Confession of Murder Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jung Jae-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Si-hoo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Hae-kyun"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Young-ae"
+     },
+     {
+      "@type": "Person",
+      "name": "Choi Won-young"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 347,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Confession of Murder (2012): Action/Thriller film. Story: A serial killer reappears 15 years after his murder… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jung Byung-gil"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zfC6I4v7OQw5crVsl3DMA0BLgbj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=140212",
+    "name": "Confession of Murder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=140212"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Confession of Murder (2012)</h1>\n<p class=\"ssr-lead\">A serial killer reappears 15 years after his murder spree with a book detailing his crimes. The resentful cop who failed to catch him before is assigned to protect him. The families of the victims plan revenge. And as the media circus spirals out of control, a masked man called &quot;J&quot; appears claiming to be the real killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2012</li><li>Runtime: 119 minutes</li><li>Director: Jung Byung-gil</li><li>Genres: Action, Thriller</li><li>TMDB rating: 7.1/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jung Jae-young as Det. Choi Hyung-goo</li><li>Park Si-hoo as Lee Doo-suk</li><li>Jung Hae-kyun as Jay</li><li>Kim Young-ae as Han Ji-soo</li><li>Choi Won-young as Jung Tae-suk</li><li>Kim Jong-goo as Snake Hunter</li><li>Jang Kwang as Director</li><li>Cho Eun-ji as Choi Kang-sook</li><li>Oh Yong as Kang Do-hyeok</li><li>Park Woong as Director Kim</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Confession of Murder (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:1477712": {
    "d": "Ice Cream Man (2026): Horror/Comedy film. Story: An idyllic summer town descends into madness when an… See cast, budget $5.5M, and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
@@ -641,6 +705,70 @@
    "t": "Angst (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
   },
+  "movie:21712": {
+   "d": "Mind Game (2004): Animation/Romance film. Story: Nishi is a loser who has a crush on his childhood… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/19SRSM2ybfVpCBxBFLXwyD18WkM.jpg",
+   "industry": "world",
+   "k": "Mind Game, Mind Game movie, Mind Game cast, Mind Game story, Mind Game box office collection, Mind Game budget, Mind Game review, Mind Game rating, Mind Game release date, Mind Game trailer, Mind Game Animation, Mind Game Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Koji Imada"
+     },
+     {
+      "@type": "Person",
+      "name": "Sayaka Maeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Seiko Takuma"
+     },
+     {
+      "@type": "Person",
+      "name": "Takashi Fujii"
+     },
+     {
+      "@type": "Person",
+      "name": "Tomomitsu Yamaguchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Mind Game (2004): Animation/Romance film. Story: Nishi is a loser who has a crush on his childhood… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Masaaki Yuasa"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Animation",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/19SRSM2ybfVpCBxBFLXwyD18WkM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21712",
+    "name": "Mind Game",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-08-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21712"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mind Game (2004)</h1>\n<p class=\"ssr-lead\">Nishi is a loser who has a crush on his childhood girlfriend. After an encounter with the Japanese mafia, he journeys to heaven and back, and ends up trapped in an even more unlikely place.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2004</li><li>Runtime: 103 minutes</li><li>Director: Masaaki Yuasa</li><li>Genres: Animation, Romance, Comedy, Drama, Fantasy, Adventure</li><li>TMDB rating: 7.5/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Koji Imada as Nishi (voice)</li><li>Sayaka Maeda as Myon (voice)</li><li>Seiko Takuma as Yan (voice)</li><li>Takashi Fujii as Jiisan (voice)</li><li>Tomomitsu Yamaguchi as Ryou (voice)</li><li>Rintaro Nishi as Yakuza (voice)</li><li>Kenichi Chujou as Atsu (voice)</li><li>Hiroyuki Kohori as Radio DJ (voice)</li><li>Shuji Kawatani as Radio DJ (voice)</li><li>Naomi Shindo as Myon&#x27;s Mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mind Game (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:2212": {
    "d": "Nightwatch (1997): Drama/Horror film. Story: A law student takes a job as a night watchman at a… See cast, budget $10M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/zn5hHgu7J3YzB6Wjab2o0veuAZI.jpg",
@@ -895,6 +1023,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Whiplash (2013)</h1>\n<p class=\"ssr-lead\">A ferocious, bullying music teacher teaches a dedicated student.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2013</li><li>Runtime: 18 minutes</li><li>Director: Damien Chazelle</li><li>Genres: Drama, Music</li><li>TMDB rating: 7.8/10 (447 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Simmons as Andrew Neiman</li><li>J.K. Simmons as Fletcher</li><li>Nate Lang as Carl</li><li>C.J. Vana as Metz</li><li>Honora Javier as Amy</li><li>Omari Grayson as Trumpet Player</li><li>Stuart Hammill as Trumpet Player</li><li>Charlie Estes as Trumpet Player</li><li>Ranfins Rincon as Trumpet Player</li><li>John Greer as Trombone Player</li></ul>\n</article>",
    "t": "Whiplash (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:39312": {
+   "d": "Restrepo (2010): War/Documentary film. Story: Directors Hetherington and Junger spend a year with… See cast, TMDB rating 7.2/10, and release date 25 June 2010.",
+   "img": "https://image.tmdb.org/t/p/w780/9G38qGg7T0qIjfl5OxyQnypB9Y4.jpg",
+   "industry": "world",
+   "k": "Restrepo, Restrepo movie, Restrepo cast, Restrepo story, Restrepo box office collection, Restrepo budget, Restrepo review, Restrepo rating, Restrepo release date, Restrepo War, Restrepo Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juan \"Doc\" Restrepo"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Kearney"
+     },
+     {
+      "@type": "Person",
+      "name": "LaMonta Caldwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Aron Hijar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Restrepo (2010): War/Documentary film. Story: Directors Hetherington and Junger spend a year with… See cast, TMDB rating 7.2/10, and release date 25 June 2010.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Hetherington"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Junger"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "War",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9G38qGg7T0qIjfl5OxyQnypB9Y4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39312",
+    "name": "Restrepo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39312"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Restrepo (2010)</h1>\n<p class=\"ssr-lead\">Directors Hetherington and Junger spend a year with the 2nd Battalion of the United States Army located in one of Afghanistan&#x27;s most dangerous valleys. The documentary provides insight and empathy on how to win the battle through hard work, deadly gunfights and mutual friendships while the unit must push back the Taliban.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2010</li><li>Runtime: 93 minutes</li><li>Director: Tim Hetherington, Sebastian Junger</li><li>Genres: War, Documentary</li><li>TMDB rating: 7.2/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juan &quot;Doc&quot; Restrepo as Himself</li><li>Dan Kearney as Himself</li><li>LaMonta Caldwell as Himself</li><li>Aron Hijar as Himself</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Restrepo (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:44012": {
    "d": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976): Drama film. Story: A lonely young widow lives with her son following an… See cast.",
@@ -1458,6 +1650,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sound of My Voice (2011)</h1>\n<p class=\"ssr-lead\">A journalist and his girlfriend get pulled in while they investigate a cult whose leader claims to be from the future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2011</li><li>Runtime: 85 minutes</li><li>Director: Zal Batmanglij</li><li>Genres: Science Fiction, Drama, Mystery, Thriller</li><li>TMDB rating: 6.3/10 (449 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brit Marling as Maggie</li><li>Christopher Denham as Peter Aitken</li><li>Nicole Vicius as Lorna Michaelson</li><li>Davenia McFadden as Carol Briggs</li><li>Kandice Stroh as Joanne</li><li>Richard Wharton as Klaus</li><li>Christy Meyers as Mel</li><li>Constance Wu as Christine</li><li>Matthew Carey as Lyle</li><li>Jacob Price as PJ</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cinemax Amazon Channel, Cinemax Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Sound of My Voice (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:869612": {
+   "d": "Master Gardener (2023): Drama/Romance film. Story: Narvel Roth is a meticulous horticulturist who is… See cast, budget $4.1M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kmsC7wvrKbla7kCg6YTWHtxmaGI.jpg",
+   "industry": "world",
+   "k": "Master Gardener, Master Gardener movie, Master Gardener cast, Master Gardener story, Master Gardener box office collection, Master Gardener budget, Master Gardener review, Master Gardener rating, Master Gardener release date, Master Gardener trailer, Master Gardener Drama, Master Gardener Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Edgerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Quintessa Swindell"
+     },
+     {
+      "@type": "Person",
+      "name": "Esai Morales"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduardo Losan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 363,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Master Gardener (2023): Drama/Romance film. Story: Narvel Roth is a meticulous horticulturist who is… See cast, budget $4.1M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Schrader"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kmsC7wvrKbla7kCg6YTWHtxmaGI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=869612",
+    "name": "Master Gardener",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=869612"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Master Gardener (2023)</h1>\n<p class=\"ssr-lead\">Narvel Roth is a meticulous horticulturist who is devoted to tending the grounds of a beautiful estate and pandering to his employer, the wealthy dowager Mrs. Haverhill. When she demands that he take on her wayward and troubled niece, it unlocks dark secrets from a buried violent past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2023</li><li>Runtime: 111 minutes</li><li>Director: Paul Schrader</li><li>Genres: Drama, Romance</li><li>Budget: $4.1M</li><li>TMDB rating: 6.0/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Edgerton as Narvel Roth</li><li>Sigourney Weaver as Norma Haverhill</li><li>Quintessa Swindell as Maya Core</li><li>Esai Morales as Oscar Neruda</li><li>Eduardo Losan as Xavier</li><li>Victoria Hill as Isobel Phelps</li><li>Amy Le as Janine</li><li>Erika Ashley as Maggie</li><li>Timothy McKinney as Ronnie</li><li>Jared Bankens as RG</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Master Gardener (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:973912": {
+   "d": "Cocorico (2024): Comedy film. Story: The Bouvier-Sauvages, a large aristocratic family… See cast, TMDB rating 5.6/10, and release date 7 February 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/r3mNrASQwRvFg9keHAhK2f5BKa5.jpg",
+   "industry": "world",
+   "k": "Cocorico, Cocorico movie, Cocorico cast, Cocorico story, Cocorico box office collection, Cocorico budget, Cocorico review, Cocorico rating, Cocorico release date, Cocorico Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Didier Bourdon"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvie Testud"
+     },
+     {
+      "@type": "Person",
+      "name": "Marianne Denicourt"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Pestel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Cocorico (2024): Comedy film. Story: The Bouvier-Sauvages, a large aristocratic family… See cast, TMDB rating 5.6/10, and release date 7 February 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julien Hervé"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r3mNrASQwRvFg9keHAhK2f5BKa5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=973912",
+    "name": "Cocorico",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=973912"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cocorico (2024)</h1>\n<p class=\"ssr-lead\">The Bouvier-Sauvages, a large aristocratic family, meet the much more modest Martin family when their children&#x27;s wedding is announced. For the occasion, the future bride and groom offer their parents DNA tests, which will reveal their true origins. The results are totally unexpected and will make the effect of a bomb.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2024</li><li>Runtime: 91 minutes</li><li>Director: Julien Hervé</li><li>Genres: Comedy</li><li>TMDB rating: 5.6/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Frédéric Bouvier Sauvage</li><li>Didier Bourdon as Gérard Martin</li><li>Sylvie Testud as Nicole Martin</li><li>Marianne Denicourt as Catherine Bouvier Sauvage</li><li>Julien Pestel as François Martin</li><li>Chloé Coulloud as Alice Bouvier-Sauvage</li><li>Patrick Préjean as Gérard Martin&#x27;s father</li><li>Sophie Froissard as Maria</li><li>Johann Dionnet as Mr. Ribeiro</li><li>Loïc Rojouan as Concession Man</li></ul>\n</article>",
+   "t": "Cocorico (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:9812": {
    "d": "Thursday (1998): Thriller/Action film. Story: A former Los Angeles drug dealer moves far away to… See cast and TMDB rating 6.9/10.",

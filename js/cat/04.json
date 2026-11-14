@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10604": {
    "backdrop_path": "/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
@@ -1681,6 +1681,174 @@
    "vote_average": 6.2,
    "vote_count": 425
   },
+  "movie:2204": {
+   "backdrop_path": "/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Philip Winter",
+     "n": "Rüdiger Vogler"
+    },
+    {
+     "c": "Alice van Damm",
+     "n": "Yella Rottländer"
+    },
+    {
+     "c": "Lisa van Damm",
+     "n": "Lisa Kreuzer"
+    },
+    {
+     "c": "Angela",
+     "n": "Edda Köchl"
+    },
+    {
+     "c": "Publisher",
+     "n": "Ernest Boehm"
+    },
+    {
+     "c": "Car Dealer",
+     "n": "Sam Presti"
+    },
+    {
+     "c": "Airport Hostess",
+     "n": "Lois Moran"
+    },
+    {
+     "c": "Woman at Swimming Park",
+     "n": "Didi Petrikat"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Hans Hirschmüller"
+    },
+    {
+     "c": "Woman on Ferry",
+     "n": "Sibylle Baier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Wim Wenders"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 2204,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
+   "popularity": 2.1817,
+   "poster_path": "/lw22wORmENkTZHGXI6bKmAIHxjO.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-05-17",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Alice in the Cities",
+   "trailer": {
+    "key": "s6KYAJZeuEA",
+    "name": "Alice in the Cities - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 369
+  },
   "movie:22504": {
    "backdrop_path": "/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
    "budget": 0,
@@ -2199,6 +2367,160 @@
    "vote_average": 5.8,
    "vote_count": 421
   },
+  "movie:334304": {
+   "backdrop_path": "/ESrvgUpFNJrCi57T6MQjXYnN3b.jpg",
+   "budget": 15100000,
+   "cast": [
+    {
+     "c": "Sébastien",
+     "n": "Félix Bossuet"
+    },
+    {
+     "c": "César",
+     "n": "Tchéky Karyo"
+    },
+    {
+     "c": "Pierre, Sébastien's father",
+     "n": "Thierry Neuvic"
+    },
+    {
+     "c": "Angélina, César's niece",
+     "n": "Margaux Chatelier"
+    },
+    {
+     "c": "Mayor",
+     "n": "Urbain Cancelier"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Thylane Blondeau"
+    },
+    {
+     "c": "Alfonso",
+     "n": "Joseph Malerba"
+    },
+    {
+     "c": "Marcel",
+     "n": "Ludi Boeken"
+    },
+    {
+     "c": "Louis, the mechanic",
+     "n": "Jeffrey Noel"
+    },
+    {
+     "c": "René",
+     "n": "Fred Epaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "9",
+   "date_kind": "release",
+   "director": [
+    "Christian Duguay"
+   ],
+   "genres": [
+    "Adventure",
+    "Family"
+   ],
+   "id": 334304,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "September, 1945. Sebastian impatiently waits for the return of his friend Angelina, whom he has not seen for two years. When the plane carrying the young woman to her small village in the Alps is reported to have crashed in the mountains, Sebastian is convinced that Angelina is still alive. Along with his faithful dog Belle, Sebastian embarks on the most dangerous adventure of his life.",
+   "popularity": 2.0064,
+   "poster_path": "/ma4p0CbGvAXDqKBLPI5VNFRbzSg.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-08",
+   "revenue": 14526807,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Belle and Sebastian: The Adventure Continues",
+   "trailer": {
+    "key": "rnOU3viEp90",
+    "name": "BELLE & SEBASTIAN: THE ADVENTURE CONTINUES | Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.899,
+   "vote_count": 363
+  },
   "movie:43904": {
    "backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
    "budget": 0,
@@ -2342,6 +2664,114 @@
    "type": "movie",
    "vote_average": 7.484,
    "vote_count": 489
+  },
+  "movie:485504": {
+   "backdrop_path": "/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carl Hooker",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Beth Flowers",
+     "n": "Jessica Alba"
+    },
+    {
+     "c": "Deputy Billy Calhoun",
+     "n": "Dax Shepard"
+    },
+    {
+     "c": "Larry Michael Roth",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Sheriff Bob Fuller",
+     "n": "Kurtwood Smith"
+    },
+    {
+     "c": "Eric Roth",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Kate Daniels",
+     "n": "Michelle Mylett"
+    },
+    {
+     "c": "Vicente Cruz",
+     "n": "Emilio Rivera"
+    },
+    {
+     "c": "Jewels Daniels",
+     "n": "Kimberly Quinn"
+    },
+    {
+     "c": "Mike",
+     "n": "Jimmy O. Yang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "David E. Talbert"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 485504,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.",
+   "popularity": 1.3483,
+   "poster_path": "/vwMGs5w9FFokYGkBvlKZ6OmX2vO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-12-08",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bullets, beer, holiday cheer.",
+   "title": "El Camino Christmas",
+   "trailer": {
+    "key": "8h5tAhXwma8",
+    "name": "El Camino Christmas | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.544,
+   "vote_count": 352
   },
   "movie:496704": {
    "backdrop_path": "/s24IEZ2wWCEHImaAwBZxXLEKUUT.jpg",
@@ -2632,6 +3062,274 @@
    "vote_average": 5.4,
    "vote_count": 425
   },
+  "movie:544404": {
+   "backdrop_path": "/1WT5MPdagc2PXcsF74TvinTqLz2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claire Millaud",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Dr. Catherine Bormans",
+     "n": "Nicole Garcia"
+    },
+    {
+     "c": "Alex Chelly",
+     "n": "François Civil"
+    },
+    {
+     "c": "Katia",
+     "n": "Marie-Ange Casta"
+    },
+    {
+     "c": "Ludovic Dalaux",
+     "n": "Guillaume Gouix"
+    },
+    {
+     "c": "Gilles",
+     "n": "Charles Berling"
+    },
+    {
+     "c": "Max",
+     "n": "Jules Houplain"
+    },
+    {
+     "c": "Tristan",
+     "n": "Jules Gauzelin"
+    },
+    {
+     "c": "Serge",
+     "n": "Francis Leplay"
+    },
+    {
+     "c": "Paul",
+     "n": "Pierre Giraud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Safy Nebbou"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 544404,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Claire, a 50-year-old divorced teacher, creates a fake Facebook profile of a 24-year-old woman to catfish Alex, the roommate of her former lover, Ludo.",
+   "popularity": 2.0687,
+   "poster_path": "/woZuI9pSg9mmaaILkVubbrbJmmP.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-02-27",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Who You Think I Am",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 353
+  },
+  "movie:560204": {
+   "backdrop_path": "/1Q3cxQmZcU7lqwWlruKL2yCC5j2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kyle",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Swin",
+     "n": "Clark Duke"
+    },
+    {
+     "c": "Frog",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Bright",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Johanna",
+     "n": "Eden Brolin"
+    },
+    {
+     "c": "Her",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Almond",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Joe",
+     "n": "Patrick Muldoon"
+    },
+    {
+     "c": "Stranger",
+     "n": "Jacob Zachar"
+    },
+    {
+     "c": "Barry",
+     "n": "Juston Street"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clark Duke"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action",
+    "Mystery"
+   ],
+   "id": 560204,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they've never met. But when a deal goes horribly wrong, the consequences are deadly.",
+   "popularity": 1.4177,
+   "poster_path": "/ieNGttYsxunAANK9LRZa4LdkEqi.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-05-05",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Crime knows no borders",
+   "title": "Arkansas",
+   "trailer": {
+    "key": "2oDRSS67Ohw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 361
+  },
   "movie:576004": {
    "backdrop_path": "/3ZCwBCB9vTykcxUvBQFRnzPbyEc.jpg",
    "budget": 0,
@@ -2771,6 +3469,222 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 437
+  },
+  "movie:633604": {
+   "backdrop_path": "/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alison",
+     "n": "Maaike Neuville"
+    },
+    {
+     "c": "Michael",
+     "n": "Bart Hollanders"
+    },
+    {
+     "c": "Daniel",
+     "n": "Benjamin Ramon"
+    },
+    {
+     "c": "Janja",
+     "n": "Clara Cleymans"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Annick Christiaens"
+    },
+    {
+     "c": "Dr. K",
+     "n": "Éric Godon"
+    },
+    {
+     "c": "Yonah",
+     "n": "Joshua Rubin"
+    },
+    {
+     "c": "Oksana",
+     "n": "Taeke Nicolaï"
+    },
+    {
+     "c": "William",
+     "n": "Tom Audenaert"
+    },
+    {
+     "c": "Cleaner",
+     "n": "Nourredine Farihi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Lars Damoiseaux"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 633604,
+   "industry": "world",
+   "origin_country": [
+    "BE"
+   ],
+   "original_language": "nl",
+   "overview": "A young couple travels to a shabby Eastern European hospital for plastic surgery. The young woman wants a breast reduction. Her mother comes along for yet another face-lift. Wandering through an abandoned ward the boyfriend stumbles upon a young woman, gagged and strapped to an operating table; she is the result of an experimental rejuvenation treatment. He frees her, but does not realize he just caused the outbreak of a virus that will change doctors, patients and his mother-in-law into bloodthirsty zombies.",
+   "popularity": 1.9997,
+   "poster_path": "/nRysfd4JdnPJx82ZYs8atFmSuVC.jpg",
+   "production_countries": [
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-18",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "Facelifts, boob jobs and zombies",
+   "title": "Yummy",
+   "trailer": {
+    "key": "8PwxcMfSbGw",
+    "name": "Official Green Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.332,
+   "vote_count": 381
   },
   "movie:749004": {
    "backdrop_path": "/yuXZXuS4RCTnCYScrRWBCNz2ywB.jpg",
@@ -3008,6 +3922,175 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 57
+  },
+  "movie:9104": {
+   "backdrop_path": "/7Pw5NOv7aUtmHyh1yASEldOlAz0.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Ray Elwood",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Colonel Berman",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Sergeant Lee",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Robyn Lee",
+     "n": "Anna Paquin"
+    },
+    {
+     "c": "Mrs. Berman",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Garcia",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Stoney",
+     "n": "Leon"
+    },
+    {
+     "c": "Pfc. Brian Knoll",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "General Lancaster",
+     "n": "Dean Stockwell"
+    },
+    {
+     "c": "Colonel Marshall",
+     "n": "Brian Delate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gregor Jordan"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "War",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 9104,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A criminal subculture operates among U.S. soldiers stationed in West Germany just before the fall of the Berlin wall.",
+   "popularity": 1.2372,
+   "poster_path": "/qNl4T8xxC0xDeX8JFJVCBzH4Kg8.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-10-31",
+   "revenue": 2300805,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "War is hell... but peace is f*#!%!! boring.",
+   "title": "Buffalo Soldiers",
+   "trailer": {
+    "key": "n6SjdN8Ju1U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 366
   },
   "tv:1104": {
    "backdrop_path": "/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",

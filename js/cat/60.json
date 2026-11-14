@@ -1,7 +1,129 @@
 {
  "bucket": "60",
- "count": 46,
+ "count": 60,
  "titles": {
+  "movie:10560": {
+   "backdrop_path": "/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "Jody Sawyer",
+     "n": "Amanda Schull"
+    },
+    {
+     "c": "Eva Rodríguez",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Jonathan Reeves",
+     "n": "Peter Gallagher"
+    },
+    {
+     "c": "Cooper",
+     "n": "Ethan Stiefel"
+    },
+    {
+     "c": "Juliette",
+     "n": "Donna Murphy"
+    },
+    {
+     "c": "Maureen Cummings",
+     "n": "Susan May Pratt"
+    },
+    {
+     "c": "Nancy",
+     "n": "Debra Monk"
+    },
+    {
+     "c": "Charlie",
+     "n": "Sascha Radetsky"
+    },
+    {
+     "c": "Jim",
+     "n": "Eion Bailey"
+    },
+    {
+     "c": "Anna",
+     "n": "Megan Pepin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Hytner"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 10560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of 12 teenagers from various backgrounds enroll at the American Ballet Academy in New York to make it as ballet dancers and each one deals with the problems and stress of training and getting ahead in the world of dance.",
+   "popularity": 1.6123,
+   "poster_path": "/95Et0t08Nv6S8FD593HpXyvcRt8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-05-12",
+   "revenue": 26400000,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life doesn't hold tryouts.",
+   "title": "Center Stage",
+   "trailer": {
+    "key": "tf7vVdDExuM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 372
+  },
   "movie:1086260": {
    "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
    "budget": 0,
@@ -1450,6 +1572,282 @@
    "vote_average": 6.5,
    "vote_count": 64
   },
+  "movie:185460": {
+   "backdrop_path": "/jFJzscHXN9vbHRobRZZ49PkrJvl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly",
+     "n": "Alexie Gilmore"
+    },
+    {
+     "c": "Jim",
+     "n": "Bryce Johnson"
+    },
+    {
+     "c": "Ranger Troy Andrews",
+     "n": "Peter Jason"
+    },
+    {
+     "c": "Ukulele Singer",
+     "n": "Timmy Red"
+    },
+    {
+     "c": "Angry Man at Road",
+     "n": "Bucky Sinister"
+    },
+    {
+     "c": "Missing Woman",
+     "n": "Laura Montagna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Bobcat Goldthwait"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 185460,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Looking to make a splash online with his research videos into the existence of Bigfoot, Jim and his girlfriend Kelly take a camping trip to the small town of Willow Creek, California, and the surrounding mountains where the infamous footage of the supposed sasquatch was filmed.",
+   "popularity": 1.3099,
+   "poster_path": "/79JtBWsWmG6zhektBbwq0u8r9pE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-05-02",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Believe the legend... fear the truth.",
+   "title": "Willow Creek",
+   "trailer": {
+    "key": "BErdQ2k2RZc",
+    "name": "Willow Creek - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 365
+  },
+  "movie:2260": {
+   "backdrop_path": "/zzA34BteuSwSgo9tYhtHwq87paL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Arnold Friedman"
+    },
+    {
+     "c": "Self",
+     "n": "Elaine Friedman"
+    },
+    {
+     "c": "Self",
+     "n": "David Friedman"
+    },
+    {
+     "c": "Self",
+     "n": "Jesse Friedman"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Seth Friedman"
+    },
+    {
+     "c": "Self - Postal Inspector",
+     "n": "John McDermott"
+    },
+    {
+     "c": "Self - Ret. Director, Sex Crimes Unit",
+     "n": "Frances Galasso"
+    },
+    {
+     "c": "Self - Detective, Sex Crimes Unit",
+     "n": "Anthony Sgueglia"
+    },
+    {
+     "c": "Self - Asst. District Attorney",
+     "n": "Joseph Onorato"
+    },
+    {
+     "c": "Self - Jesse's Best Friend in High School",
+     "n": "Judd Martin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Andrew Jarecki"
+   ],
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 2260,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+   "popularity": 0.8728,
+   "poster_path": "/429t6nh7M8cg29CtgXAjvwWe1Dv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-05-30",
+   "revenue": 4076990,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who do you believe?",
+   "title": "Capturing the Friedmans",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.146,
+   "vote_count": 378
+  },
   "movie:23160": {
    "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
    "budget": 0,
@@ -1620,6 +2018,167 @@
    "vote_average": 7.855,
    "vote_count": 403
   },
+  "movie:235260": {
+   "backdrop_path": "/hONTXxtQVSYySKW5f3nRndKUfhc.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Jesus",
+     "n": "Diogo Morgado"
+    },
+    {
+     "c": "Mary, Mother of Jesus",
+     "n": "Roma Downey"
+    },
+    {
+     "c": "Pilate",
+     "n": "Greg Hicks"
+    },
+    {
+     "c": "Caiaphas",
+     "n": "Adrian Schiller"
+    },
+    {
+     "c": "Peter",
+     "n": "Darwin Shaw"
+    },
+    {
+     "c": "John",
+     "n": "Sebastian Knapp"
+    },
+    {
+     "c": "Judas",
+     "n": "Joe Wredden"
+    },
+    {
+     "c": "Nicodemus",
+     "n": "Simon Kunz"
+    },
+    {
+     "c": "Simon the Pharisee",
+     "n": "Paul Marc Davis"
+    },
+    {
+     "c": "Thomas",
+     "n": "Matthew Gravelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christopher Spencer"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 235260,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the Holy Land, the Roman occupation has produced a cauldron of oppression, anxiety and excessive taxes levied upon the Jewish people. Fearing the wrath of Roman governor Pontius Pilate , Jewish high priest Caiaphas tries to keep control of his people. That control is threatened when Jesus arrives in Jerusalem, performing miracles and spreading messages of love and hope. Those who fear that Jesus will inspire a revolution decide that he must die.",
+   "popularity": 1.8646,
+   "poster_path": "/ayqHV0rHuAdMv8PS497W2OByGWk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-28",
+   "revenue": 70829270,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Their Empire. His Kingdom.",
+   "title": "Son of God",
+   "trailer": {
+    "key": "-Hsl5UG9O_c",
+    "name": "Son Of God | Official Trailer [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.804,
+   "vote_count": 368
+  },
   "movie:2360": {
    "backdrop_path": "/7GQH1qYmqu0llcYque6flDmSR55.jpg",
    "budget": 10000000,
@@ -1728,6 +2287,263 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 462
+  },
+  "movie:24160": {
+   "backdrop_path": "/AtaH2jdp845H6oK59bkLlf25XXC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Il Conte Mascetti - Raffaello \"Lello\" Mascetti",
+     "n": "Ugo Tognazzi"
+    },
+    {
+     "c": "Professeur Sassaroli",
+     "n": "Adolfo Celi"
+    },
+    {
+     "c": "Il Melandri - Architetto Rambaldo Melandri",
+     "n": "Gastone Moschin"
+    },
+    {
+     "c": "Necchi",
+     "n": "Renzo Montagnani"
+    },
+    {
+     "c": "Giorgio Perozzi",
+     "n": "Philippe Noiret"
+    },
+    {
+     "c": "Alice Mascetti",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Melisenda Mascetti",
+     "n": "Fiorella Bucci"
+    },
+    {
+     "c": "Carmen",
+     "n": "Franca Tamantini"
+    },
+    {
+     "c": "Savino Capogreco",
+     "n": "Paolo Stoppa"
+    },
+    {
+     "c": "Anita Esposito",
+     "n": "Yole Marinelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Mario Monicelli"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 24160,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The four old friends meet on the grave of the fifth of them, Perozzi, who died at the end of the first episode. Time has passed but they are still up for adventures and cruel jokes, and while they recall the one they created together with the late friend, new ones are on their way, starting right there at the cemetery.",
+   "popularity": 1.0931,
+   "poster_path": "/fkEx0jDetl0yfU0K9wyaaz0A9w4.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1982-12-22",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Friends Act II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 378
+  },
+  "movie:2760": {
+   "backdrop_path": "/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+   "budget": 14670,
+   "cast": [
+    {
+     "c": "The Lodger Jonathan Drew",
+     "n": "Ivor Novello"
+    },
+    {
+     "c": "Mrs. Bunting the Landlady",
+     "n": "Marie Ault"
+    },
+    {
+     "c": "Mr. Bunting",
+     "n": "Arthur Chesney"
+    },
+    {
+     "c": "Daisy Bunting",
+     "n": "June Tripp"
+    },
+    {
+     "c": "Joe Chandler",
+     "n": "Malcolm Keen"
+    },
+    {
+     "c": "Dancer at Ball (uncredited)",
+     "n": "Reginald Gardiner"
+    },
+    {
+     "c": "Showgirl Victim (uncredited)",
+     "n": "Eve Gray"
+    },
+    {
+     "c": "Man in Newspaper Office (uncredited)",
+     "n": "Alfred Hitchcock"
+    },
+    {
+     "c": "Woman Listening to Wireless (uncredited)",
+     "n": "Alma Reville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 2760,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.",
+   "popularity": 2.1324,
+   "poster_path": "/tD84zwFeFRf3zG98x558N3PBMV.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1927-02-14",
+   "revenue": 83568,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Lodger: A Story of the London Fog",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.153,
+   "vote_count": 365
   },
   "movie:297160": {
    "backdrop_path": "/5eAR0hLTl3xSYPDAiQMz2nTByWt.jpg",
@@ -2412,6 +3228,480 @@
    "vote_average": 7.665,
    "vote_count": 471
   },
+  "movie:34560": {
+   "backdrop_path": "/8yIBm3FmL0uADVnttvzRBSXaxJe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marnie Piper",
+     "n": "Kimberly J. Brown"
+    },
+    {
+     "c": "Aggie Cromwell",
+     "n": "Debbie Reynolds"
+    },
+    {
+     "c": "Gwen Piper",
+     "n": "Judith Hoag"
+    },
+    {
+     "c": "Dylan Piper",
+     "n": "Joey Zimmerman"
+    },
+    {
+     "c": "Sophie Piper",
+     "n": "Emily Roeske"
+    },
+    {
+     "c": "Cody",
+     "n": "Finn Wittrock"
+    },
+    {
+     "c": "Principal Flannigan",
+     "n": "Clifton Davis"
+    },
+    {
+     "c": "Cassie",
+     "n": "Eliana Reyes"
+    },
+    {
+     "c": "Ethan",
+     "n": "Lucas Grabeel"
+    },
+    {
+     "c": "Dalloway",
+     "n": "Michael Flynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Mark A.Z. Dippé"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 34560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Marnie puts her magic on the line to get several Halloweentown teenagers transferred to her high school in the mortal world. But soon, Marnie and her new friends are in trouble and out of luck when the evil Knight Of The Iron Dagger appears. He's determined to destroy all things magical, and it's up to Marnie to save her high school, the human world and her magic.",
+   "popularity": 1.9083,
+   "poster_path": "/dJsmptwkTWbxk1NwLAKeoYtcTuJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-08",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Too ghoul for school.",
+   "title": "Halloweentown High",
+   "trailer": {
+    "key": "eJD_l_K1Asc",
+    "name": "Halloweentown High - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.542,
+   "vote_count": 343
+  },
+  "movie:348060": {
+   "backdrop_path": "/eNwr5UbRWn6724zvY1i7oV74Iog.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Serge Buren",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Cartier",
+     "n": "Alban Lenoir"
+    },
+    {
+     "c": "Margaux",
+     "n": "Caterina Murino"
+    },
+    {
+     "c": "Manu",
+     "n": "Oumar Diaw"
+    },
+    {
+     "c": "Ricci",
+     "n": "Stéfi Celma"
+    },
+    {
+     "c": "Genoves",
+     "n": "Sébastien Lalanne"
+    },
+    {
+     "c": "Becker",
+     "n": "Thierry Neuvic"
+    },
+    {
+     "c": "Boulez",
+     "n": "Jean-Toussaint Bernard"
+    },
+    {
+     "c": "Kasper",
+     "n": "Jakob Cedergren"
+    },
+    {
+     "c": "Nadia",
+     "n": "Sabrina Ouazani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Benjamin Rocher"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 348060,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "GB"
+   ],
+   "original_language": "fr",
+   "overview": "As a rowdy team of detectives clashes with their disciplined new boss, they must catch a vicious band of robbers who are wreaking havoc on their city.",
+   "popularity": 2.4817,
+   "poster_path": "/nHIcxyXEKUNVJ0psIrjNyld1XWL.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-08-19",
+   "revenue": 3056677,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Good cops. Bad Attitude.",
+   "title": "Antigang",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.857,
+   "vote_count": 375
+  },
+  "movie:371560": {
+   "backdrop_path": "/dUgO9cVENWQpDmZVzkWq2wXN5Od.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Francisca",
+     "n": "Kika Magalhães"
+    },
+    {
+     "c": "Mother",
+     "n": "Diana Agostini"
+    },
+    {
+     "c": "Charlie",
+     "n": "Will Brill"
+    },
+    {
+     "c": "Kimiko",
+     "n": "Clara Wong"
+    },
+    {
+     "c": "Young Francisca",
+     "n": "Olivia Bond"
+    },
+    {
+     "c": "Antonio",
+     "n": "Joey Curtis-Green"
+    },
+    {
+     "c": "Lucy",
+     "n": "Flora Diaz"
+    },
+    {
+     "c": "Father",
+     "n": "Paul Nazak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Pesce"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 371560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young, lonely woman is consumed by her deepest and darkest desires after tragedy strikes her quiet country life.",
+   "popularity": 1.5079,
+   "poster_path": "/hoR1TAxIkO1rRHu3F7cWzKZqxq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-02",
+   "revenue": 48539,
+   "runtime": 76,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Eyes of My Mother",
+   "trailer": {
+    "key": "Gp2adx_ScA8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 375
+  },
   "movie:38360": {
    "backdrop_path": "/r6bIGLFJ2ml9L970RNpuwDyb4Af.jpg",
    "budget": 0,
@@ -2703,6 +3993,99 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 435
+  },
+  "movie:429460": {
+   "backdrop_path": "/sImtWvw0KTzzlVLASnNQNb3qhTJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samuel Salomon",
+     "n": "Elliot Cowan"
+    },
+    {
+     "c": "Susan Gilard",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Rachel",
+     "n": "Ana Ularu"
+    },
+    {
+     "c": "Lidia Garetti",
+     "n": "Leonor Watling"
+    },
+    {
+     "c": "Beatriz Dagger",
+     "n": "Manuela Vellés"
+    },
+    {
+     "c": "Jacqueline",
+     "n": "Joanne Whalley"
+    },
+    {
+     "c": "Rauschen",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Donnie",
+     "n": "Cally O'Connell"
+    },
+    {
+     "c": "Nito",
+     "n": "Sam Hardy"
+    },
+    {
+     "c": "She Who Lies",
+     "n": "Stella McCusker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Jaume Balagueró"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 429460,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "Samuel Salomon, a literature professor, has been off work for almost a year after the tragic death of his girlfriend. Samuel has been suffering from a recurring nightmare in which a woman is brutally murdered in a strange ritual. Suddenly, the same woman who appears every night in his dreams is found dead in exactly the same circumstances. Samuel sneaks into the crime scene and there he meets Rachel who has also dreamed about the murder. Together, they will do whatever they can to discover the identity of the mystery woman, entering a terrifying world controlled by the figures who have inspired artists throughout time: the Muses.",
+   "popularity": 1.5456,
+   "poster_path": "/vlDFEhlBon98itV43QOPCk7r0I7.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IE",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-11-09",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Muse",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.806,
+   "vote_count": 382
   },
   "movie:47760": {
    "backdrop_path": "/ryWdhY92EhVyb9wpyPZ7ru3NVO.jpg",
@@ -3223,6 +4606,553 @@
    "vote_average": 5.564,
    "vote_count": 474
   },
+  "movie:525460": {
+   "backdrop_path": "/1hrexCNSKU8SZ2rgl2UvBvcqs1M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bryan",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Cassie",
+     "n": "Emily Ratajkowski"
+    },
+    {
+     "c": "Federico",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Alessandra",
+     "n": "Katy Louise Saunders"
+    },
+    {
+     "c": "Isabella",
+     "n": "Alice Bellagamba"
+    },
+    {
+     "c": "Eduardo",
+     "n": "Francesco Acquaroli"
+    },
+    {
+     "c": "Indian Woman",
+     "n": "Nav Ghotra"
+    },
+    {
+     "c": "Young Man",
+     "n": "Sam Mane"
+    },
+    {
+     "c": "Young Woman",
+     "n": "Daphne Alexander"
+    },
+    {
+     "c": "Young Man",
+     "n": "Federico Riccardo Rossi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Ratliff"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 525460,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner's intentions.",
+   "popularity": 1.866,
+   "poster_path": "/fMhJQoMitAh0pN0fLlD7iUGcBp0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-11-16",
+   "revenue": 331704,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Betrayal hurts. Jealousy kills.",
+   "title": "Welcome Home",
+   "trailer": {
+    "key": "ui4sIL-Zhak",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 368
+  },
+  "movie:541560": {
+   "backdrop_path": "/cy70DnmcGf1Vo9XKYrz2t8NUzMS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lizzy Macklin",
+     "n": "Caitlin Gerard"
+    },
+    {
+     "c": "Isaac Macklin",
+     "n": "Ashley Zukerman"
+    },
+    {
+     "c": "Emma Harper",
+     "n": "Julia Goldani Telles"
+    },
+    {
+     "c": "The Reverend",
+     "n": "Miles Anderson"
+    },
+    {
+     "c": "Gideon Harper",
+     "n": "Dylan McTee"
+    },
+    {
+     "c": "Eli",
+     "n": "Martin Patterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Emma Tammi"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Western"
+   ],
+   "id": 541560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lizzy is a tough, resourceful frontierswoman settling a remote stretch of land on the 19th-century American frontier. Isolated from civilization in a desolate wilderness where the wind never stops howling, she begins to sense a sinister presence that seems to be borne of the land itself, and when a newlywed couple arrive at a nearby homestead, their presence amplifies Lizzy's fears, setting into motion a shocking chain of events.",
+   "popularity": 1.3815,
+   "poster_path": "/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-05",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "It never stops.",
+   "title": "The Wind",
+   "trailer": {
+    "key": "HnlH9bEh5lY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 376
+  },
+  "movie:541660": {
+   "backdrop_path": "/z2yawpS9dv25HOif1oR6SlFORid.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Silvio Berlusconi / Ennio Doris",
+     "n": "Toni Servillo"
+    },
+    {
+     "c": "Veronica Lario",
+     "n": "Elena Sofia Ricci"
+    },
+    {
+     "c": "Sergio Morra",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Kira",
+     "n": "Kasia Smutniak"
+    },
+    {
+     "c": "Tamara",
+     "n": "Euridice Axén"
+    },
+    {
+     "c": "Santino Recchia",
+     "n": "Fabrizio Bentivoglio"
+    },
+    {
+     "c": "Fabrizio Sala",
+     "n": "Roberto De Francesco"
+    },
+    {
+     "c": "Paolo Spagnolo",
+     "n": "Dario Cantarelli"
+    },
+    {
+     "c": "Cupa Caiafa",
+     "n": "Anna Bonaiuto"
+    },
+    {
+     "c": "Mariano Apicella",
+     "n": "Giovanni Esposito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Paolo Sorrentino"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 541660,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Internationally released Director's Cut of \"Loro 1\" and \"Loro 2\", which were released separately as two movies in Italy. The film talks about the group of businessmen and politicians – the Loro (Them) from the title – who live and act near to media tycoon and politician Silvio Berlusconi in the years between 2006 and 2009.",
+   "popularity": 1.5328,
+   "poster_path": "/yAogxeovs5HpzhD4UbrDsSybtp7.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-13",
+   "revenue": 1681525,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the party.",
+   "title": "Loro",
+   "trailer": {
+    "key": "0SC9H6LnZxc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 362
+  },
   "movie:55960": {
    "backdrop_path": "/oBBtZHbtLt8wOHemA9Qv8hzcqng.jpg",
    "budget": 0,
@@ -3439,6 +5369,143 @@
    "type": "movie",
    "vote_average": 6.297,
    "vote_count": 396
+  },
+  "movie:740460": {
+   "backdrop_path": "/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel Santini",
+     "n": "Grégoire Ludig"
+    },
+    {
+     "c": "Stéphane Chevalier",
+     "n": "David Marsais"
+    },
+    {
+     "c": "Blaise Petit",
+     "n": "Julien Pestel"
+    },
+    {
+     "c": "Fred Costa",
+     "n": "Damien Gillard"
+    },
+    {
+     "c": "Laurence Santini",
+     "n": "Gaëlle Lebert"
+    },
+    {
+     "c": "Patricia",
+     "n": "Juliette Plumecocq-Mech"
+    },
+    {
+     "c": "Bastien",
+     "n": "Théo Gross"
+    },
+    {
+     "c": "Gustave Chevalier",
+     "n": "Patrick Hongniat"
+    },
+    {
+     "c": "Léa",
+     "n": "Alexandra Gentil"
+    },
+    {
+     "c": "FX",
+     "n": "Harmandeep Palminder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Barré"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 740460,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Daniel and Stéphane, two salesmen working in the same store but who cannot stand each other, decide despite everything to team up to participate in television games so they can pay their debts.",
+   "popularity": 0.8437,
+   "poster_path": "/7MdTly7XxHhSgnlHuJcqzrj7Uso.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-09",
+   "revenue": 2627605,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Wannabes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.072,
+   "vote_count": 345
   },
   "movie:964960": {
    "backdrop_path": "/yDA4vgY6Thi8jflN94kHa05mqjj.jpg",

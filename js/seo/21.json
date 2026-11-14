@@ -1,7 +1,63 @@
 {
  "bucket": "21",
- "count": 42,
+ "count": 54,
  "titles": {
+  "movie:1010821": {
+   "d": "Groot Takes a Bath (2022): Animation/Family film. Story: Everybody needs some alone time to relax and wash up… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
+   "industry": "world",
+   "k": "Groot Takes a Bath, Groot Takes a Bath movie, Groot Takes a Bath cast, Groot Takes a Bath story, Groot Takes a Bath box office collection, Groot Takes a Bath budget, Groot Takes a Bath review, Groot Takes a Bath rating, Groot Takes a Bath release date, Groot Takes a Bath Animation, Groot Takes a Bath Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Fred Tatasciore"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaitlyn Robrock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Groot Takes a Bath (2022): Animation/Family film. Story: Everybody needs some alone time to relax and wash up… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kirsten Lepore"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1010821",
+    "name": "Groot Takes a Bath",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1010821"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Groot Takes a Bath (2022)</h1>\n<p class=\"ssr-lead\">Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2022</li><li>Runtime: 6 minutes</li><li>Director: Kirsten Lepore</li><li>Genres: Animation, Family, Comedy, Science Fiction</li><li>TMDB rating: 7.1/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Baby Groot (voice)</li><li>Fred Tatasciore as Additional Voices (voice)</li><li>Kaitlyn Robrock as Additional Voices (voice)</li></ul>\n</article>",
+   "t": "Groot Takes a Bath (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:1103621": {
    "d": "How to Make Millions Before Grandma Dies (2024): Drama film. Story: M, a university dropout low on money and luck… See cast, budget $1M, and TMDB rating 8.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
@@ -256,6 +312,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tere Ishk Mein (2025)</h1>\n<p class=\"ssr-lead\">A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2025</li><li>Runtime: 169 minutes</li><li>Director: Aanand L. Rai</li><li>Genres: Romance, Drama</li><li>Budget: $9.51M</li><li>TMDB rating: 5.3/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dhanush as Shankar Gurrukkal</li><li>Kriti Sanon as Mukti Behniwal</li><li>Prakash Raj as Raghav Gurrukkal</li><li>Tota Roy Chowdhury as Yashwant Behniwal</li><li>Priyanshu Painyuli as Ved</li><li>Paramvir Singh Cheema as Jasjeet Singh Shergill</li><li>Vineet Kumar Singh as Group Capt. V Shekhawat</li><li>Mohammed Zeeshan Ayyub as Murari Gupta</li><li>Sushil Dahiya as Inspector Suraj Bhan</li><li>Chittaranjan Tripathy as Professor Mathur</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Tere Ishk Mein (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:11521": {
+   "d": "Little Man Tate (1991): Drama/Family film. Story: Dede is a sole parent trying to bring up her son… See cast, budget $10M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yTc0yX0WelxoUwWojK5076f5jMS.jpg",
+   "industry": "world",
+   "k": "Little Man Tate, Little Man Tate movie, Little Man Tate cast, Little Man Tate story, Little Man Tate box office collection, Little Man Tate budget, Little Man Tate review, Little Man Tate rating, Little Man Tate release date, Little Man Tate Drama, Little Man Tate Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Dianne Wiest"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Hann-Byrd"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Connick Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "David Hyde Pierce"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Little Man Tate (1991): Drama/Family film. Story: Dede is a sole parent trying to bring up her son… See cast, budget $10M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Drama",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yTc0yX0WelxoUwWojK5076f5jMS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11521",
+    "name": "Little Man Tate",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-09-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11521"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Man Tate (1991)</h1>\n<p class=\"ssr-lead\">Dede is a sole parent trying to bring up her son Fred. When it is discovered that Fred is a genius, she is determined to ensure that Fred has all the opportunities that he needs, and that he is not taken advantage of by people who forget that his extremely powerful intellect is harboured in the body and emotions of a child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 September 1991</li><li>Runtime: 99 minutes</li><li>Director: Jodie Foster</li><li>Genres: Drama, Family</li><li>Budget: $10M</li><li>TMDB rating: 6.6/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jodie Foster as Dede Tate</li><li>Dianne Wiest as Jane Grierson</li><li>Adam Hann-Byrd as Fred Tate</li><li>Harry Connick Jr. as Eddie</li><li>David Hyde Pierce as Garth Emmerick</li><li>Debi Mazar as Gina</li><li>P.J. Ochlan as Damon Wells</li><li>Michael Shulman as Matt Montini</li><li>Celia Weston as Miss Nimvel</li><li>George Plimpton as Winston F. Buckner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Little Man Tate (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
   },
   "movie:12121": {
    "d": "Made in America (1993): Comedy film. Story: A young black woman discovers that her father was a… See cast, budget $22M, and TMDB rating 5.5/10.",
@@ -832,6 +952,69 @@
    "t": "Monsters: Dark Continent (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:14621": {
+   "d": "Lean On Me (1989): Drama film. Story: When principal Joe Clark takes over decaying Eastside… See cast, budget $10M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/f4cilOhPkg90LfH8jgzNuuVx12H.jpg",
+   "industry": "world",
+   "k": "Lean On Me, Lean On Me movie, Lean On Me cast, Lean On Me story, Lean On Me box office collection, Lean On Me budget, Lean On Me review, Lean On Me rating, Lean On Me release date, Lean On Me Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Morgan Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Beverly Todd"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Guillaume"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan Phillips"
+     },
+     {
+      "@type": "Person",
+      "name": "Lynne Thigpen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 361,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Lean On Me (1989): Drama film. Story: When principal Joe Clark takes over decaying Eastside… See cast, budget $10M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John G. Avildsen"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/f4cilOhPkg90LfH8jgzNuuVx12H.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14621",
+    "name": "Lean On Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-03-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14621"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lean On Me (1989)</h1>\n<p class=\"ssr-lead\">When principal Joe Clark takes over decaying Eastside High School, he&#x27;s faced with students wearing gang colors and graffiti-covered walls. Determined to do anything he must to turn the school around, he expels suspected drug dealers, padlocks doors and demands effort and results from students, staff and parents. Autocratic to a fault, this real-life educator put it all on the line.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 March 1989</li><li>Runtime: 108 minutes</li><li>Director: John G. Avildsen</li><li>Genres: Drama</li><li>Budget: $10M</li><li>TMDB rating: 7.3/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Morgan Freeman as Principal Joe Clark</li><li>Beverly Todd as Ms. Levias</li><li>Robert Guillaume as Dr. Frank Napier</li><li>Ethan Phillips as Mr. Rosenberg</li><li>Lynne Thigpen as Leonna Barrett</li><li>Michael Beach as Mr. Darnell</li><li>Tony Todd as Mr. William Wright</li><li>Karen Malina White as Kaneesha Carter</li><li>Alan North as Mayor Don Bottman</li><li>Robin Bartlett as Mrs. Elliott</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Lean On Me (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:1493021": {
    "d": "Lavoreremo da grandi (2026): Comedy film. Story: Three friends, Beppe, Umberto, and Gigi, await the… See cast and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/hk6tV2KIP8MkkDBNpvWRnvUrKyG.jpg",
@@ -1091,6 +1274,70 @@
    "t": "Stray Kids: The dominATE Experience (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:16121": {
+   "d": "The Big Red One (1980): Drama/War film. Story: A veteran sergeant of World War I leads a squad in… See cast, budget $4.5M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mpRSzmUX0Lsimgg0M8hZRS2xrDC.jpg",
+   "industry": "world",
+   "k": "The Big Red One, The Big Red One movie, The Big Red One cast, The Big Red One story, The Big Red One box office collection, The Big Red One budget, The Big Red One review, The Big Red One rating, The Big Red One release date, The Big Red One trailer, The Big Red One Drama, The Big Red One War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Marvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Hamill"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Carradine"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Di Cicco"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Ward"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Big Red One (1980): Drama/War film. Story: A veteran sergeant of World War I leads a squad in… See cast, budget $4.5M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samuel Fuller"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mpRSzmUX0Lsimgg0M8hZRS2xrDC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16121",
+    "name": "The Big Red One",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-05-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16121"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Big Red One (1980)</h1>\n<p class=\"ssr-lead\">A veteran sergeant of World War I leads a squad in World War II, always in the company of the survivor Pvt. Griff, the writer Pvt. Zab, the Sicilian Pvt. Vinci and Pvt. Johnson, in Vichy French Africa, Sicily, D-Day at Omaha Beach, Belgium and France, and ending in a concentration camp in Czechoslovakia where they face the true horror of war.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 1980</li><li>Runtime: 162 minutes</li><li>Director: Samuel Fuller</li><li>Genres: Drama, War</li><li>Budget: $4.5M</li><li>TMDB rating: 6.7/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Marvin as The Sergeant</li><li>Mark Hamill as Griff</li><li>Robert Carradine as Zab</li><li>Bobby Di Cicco as Vinci</li><li>Kelly Ward as Johnson</li><li>Stéphane Audran as Walloon</li><li>Siegfried Rauch as Schroeder</li><li>Serge Marquand as Rensonnet</li><li>Charles Macaulay as General / Captain</li><li>Alain Doutey as Broban</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Big Red One (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
   "movie:1721": {
    "d": "All the Way Boys (1972): Adventure/Action film. Story: The \"Trinity\" crew makes another modern era film. See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/iHJTF9WcXUfp8iy7EHPxMQ3XQyK.jpg",
@@ -1154,6 +1401,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>All the Way Boys (1972)</h1>\n<p class=\"ssr-lead\">The &quot;Trinity&quot; crew makes another modern era film. Plata and Salud are pilots ditching aircraft for insurance money. They wind up crashing for real in the jungles of South America. The plot involves &quot;Mr. Big&quot;, who is buying the diamonds from the miners for much too little, and has thugs who keep the price down. Of course, Plata and Salud side with the miners</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 1972</li><li>Runtime: 120 minutes</li><li>Director: Giuseppe Colizzi</li><li>Genres: Adventure, Action, Comedy</li><li>TMDB rating: 6.8/10 (446 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Terence Hill as Plata</li><li>Bud Spencer as Salud</li><li>Reinhard Kolldehoff as Mr. Ears</li><li>Riccardo Pizzuti as Naso</li><li>Marcello Verziera as Puncher</li><li>Sergio Bruzzichini</li><li>Cyril Cusack as Matto</li><li>Alexander Allerson as Salud&#x27;s Brother</li><li>Ferdinando Murolo as Man in Jungle</li><li>Antoine Michel as Daveira</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "All the Way Boys (1972) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1972"
+  },
+  "movie:174321": {
+   "d": "The English Teacher (2013): Comedy/Drama film. Story: Small-town Pennsylvania schoolteacher Linda Sinclair… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rMrtoZfd0B0jDc1IW6r7MHELAtt.jpg",
+   "industry": "world",
+   "k": "The English Teacher, The English Teacher movie, The English Teacher cast, The English Teacher story, The English Teacher box office collection, The English Teacher budget, The English Teacher review, The English Teacher rating, The English Teacher release date, The English Teacher trailer, The English Teacher Comedy, The English Teacher Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Angarano"
+     },
+     {
+      "@type": "Person",
+      "name": "Greg Kinnear"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily Collins"
+     },
+     {
+      "@type": "Person",
+      "name": "Fiona Shaw"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The English Teacher (2013): Comedy/Drama film. Story: Small-town Pennsylvania schoolteacher Linda Sinclair… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Craig Zisk"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rMrtoZfd0B0jDc1IW6r7MHELAtt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=174321",
+    "name": "The English Teacher",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=174321"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The English Teacher (2013)</h1>\n<p class=\"ssr-lead\">Small-town Pennsylvania schoolteacher Linda Sinclair balances her staid home life with an incredible passion for her subject. Then a former star pupil reenters her life after failing as a playwright in New York City. Seeing in his script the inspiration that she has always longed to instill in her students, this dyed-in-the-wool romantic enlists the help of long-suffering drama teacher Carl to mount the work as the high school’s next and riskiest production.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 May 2013</li><li>Runtime: 92 minutes</li><li>Director: Craig Zisk</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 5.6/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julianne Moore as Linda Sinclair</li><li>Michael Angarano as Jason Sherwood</li><li>Greg Kinnear as Dr. Tom Sherwood</li><li>Lily Collins as Halle Anderson</li><li>Fiona Shaw as Narrator</li><li>Norbert Leo Butz as Vice Principal Phil Pelaski</li><li>Jessica Hecht as Principal Trudie Slocum</li><li>Charlie Saxton as Will</li><li>Nathan Lane as Carl Kapinas</li><li>Nikki Blonsky as Sheila Nussbaum</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Philo, Fandor Amazon Channel, Amazon Prime Video with Ads, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The English Teacher (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:21521": {
+   "d": "Project A - Part II (1987): Action/Comedy film. Story: Dragon is now transferred to be the police head of… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rvpN5CrzCdwvwlBq0PDvoUYh9WE.jpg",
+   "industry": "world",
+   "k": "Project A - Part II, Project A - Part II movie, Project A - Part II cast, Project A - Part II story, Project A - Part II box office collection, Project A - Part II budget, Project A - Part II review, Project A - Part II rating, Project A - Part II release date, Project A - Part II trailer, Project A - Part II Action, Project A - Part II Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Maggie Cheung Man-yuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosamund Kwan Chi-Lam"
+     },
+     {
+      "@type": "Person",
+      "name": "Carina Lau"
+     },
+     {
+      "@type": "Person",
+      "name": "David Lam Wai"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Project A - Part II (1987): Action/Comedy film. Story: Dragon is now transferred to be the police head of… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rvpN5CrzCdwvwlBq0PDvoUYh9WE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21521",
+    "name": "Project A - Part II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-07-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21521"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Project A - Part II (1987)</h1>\n<p class=\"ssr-lead\">Dragon is now transferred to be the police head of Sai Wan district, and has to contend with a gangster kingpin, anti-Manchu revolutionaries, some runaway pirates, Manchu Loyalists and a corrupt police superintendent.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 1987</li><li>Runtime: 105 minutes</li><li>Director: Jackie Chan</li><li>Genres: Action, Comedy</li><li>TMDB rating: 7.1/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Sgt. Dragon Ma Yue Lung</li><li>Maggie Cheung Man-yuk as Maggie</li><li>Rosamund Kwan Chi-Lam as Ms. Pak</li><li>Carina Lau as Carina</li><li>David Lam Wai as Superintendent Chun</li><li>Bill Tung Biu as Chief Inspector Tung</li><li>Herman Kwan Hoi-san as Captain Chik</li><li>Isabella Wong Man-ying as Winnie Chik</li><li>Regina Kent as Regina</li><li>Tai Bo as Mr. B</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
+   "t": "Project A - Part II (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
+  "movie:2321": {
+   "d": "Married to the Mob (1988): Comedy/Crime film. Story: Angela de Marco is fed up with her gangster husband's… See cast, budget $10M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aQKLuDKzaRBKpQVDsgbRT8C2SYJ.jpg",
+   "industry": "world",
+   "k": "Married to the Mob, Married to the Mob movie, Married to the Mob cast, Married to the Mob story, Married to the Mob box office collection, Married to the Mob budget, Married to the Mob review, Married to the Mob rating, Married to the Mob release date, Married to the Mob trailer, Married to the Mob Comedy, Married to the Mob Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Pfeiffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Stockwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Modine"
+     },
+     {
+      "@type": "Person",
+      "name": "Mercedes Ruehl"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Married to the Mob (1988): Comedy/Crime film. Story: Angela de Marco is fed up with her gangster husband's… See cast, budget $10M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Demme"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aQKLuDKzaRBKpQVDsgbRT8C2SYJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2321",
+    "name": "Married to the Mob",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2321"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Married to the Mob (1988)</h1>\n<p class=\"ssr-lead\">Angela de Marco is fed up with her gangster husband&#x27;s line of work and wants no part of the crime world. When her husband is killed for having an affair with the mistress of mob boss Tony &quot;The Tiger&quot; Russo, Angela and her son depart for New York City to make a fresh start. Unfortunately, Tony has set his sights upon Angela -- and so has an undercover FBI agent looking to use her to bust Tony.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 1988</li><li>Runtime: 104 minutes</li><li>Director: Jonathan Demme</li><li>Genres: Comedy, Crime</li><li>Budget: $10M</li><li>TMDB rating: 6.0/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Pfeiffer as Angela de Marco</li><li>Alec Baldwin as &#x27;Cucumber&#x27; Frank de Marco</li><li>Dean Stockwell as Tony Russo, Sr.</li><li>Matthew Modine as Mike Downey</li><li>Mercedes Ruehl as Connie Russo</li><li>Oliver Platt as Ed Benitez</li><li>Trey Wilson as Regional Director Franklin</li><li>Nancy Travis as Karen Lutnick</li><li>&#x27;Sister&#x27; Carol East as Rita &quot;Hello Gorgeous&quot; Harcourt</li><li>Paul Lazar as Tommy Boyle</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Married to the Mob (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
   },
   "movie:2621": {
    "d": "Return to Me (2000): Romance/Comedy film. Story: It took a lot of persuading to get Bob, a recently… See cast, budget $24M, and TMDB rating 6.7/10.",
@@ -1219,6 +1658,197 @@
    "t": "Return to Me (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:27621": {
+   "d": "The Cheetah Girls: One World (2008): Family/Comedy film. Story: Chanel, Dorinda, and Aqua are off to India to star in… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/socMWFFL8f5j41tVQ9TO64QkSxB.jpg",
+   "industry": "world",
+   "k": "The Cheetah Girls: One World, The Cheetah Girls: One World movie, The Cheetah Girls: One World cast, The Cheetah Girls: One World story, The Cheetah Girls: One World box office collection, The Cheetah Girls: One World budget, The Cheetah Girls: One World review, The Cheetah Girls: One World rating, The Cheetah Girls: One World release date, The Cheetah Girls: One World Family, The Cheetah Girls: One World Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrienne Bailon-Houghton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina Bryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiely Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Roshan Seth"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Steger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Cheetah Girls: One World (2008): Family/Comedy film. Story: Chanel, Dorinda, and Aqua are off to India to star in… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Hoen"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/socMWFFL8f5j41tVQ9TO64QkSxB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=27621",
+    "name": "The Cheetah Girls: One World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=27621"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Cheetah Girls: One World (2008)</h1>\n<p class=\"ssr-lead\">Chanel, Dorinda, and Aqua are off to India to star in a Bollywood movie. But when they discover that they will have to compete against each other to get the role in the movie, will the Cheetahs break up again?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2008</li><li>Runtime: 90 minutes</li><li>Director: Paul Hoen</li><li>Genres: Family, Comedy, Drama, Music, TV Movie</li><li>TMDB rating: 6.1/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrienne Bailon-Houghton as Chanel Simmons</li><li>Sabrina Bryan as Dorinda Thomas</li><li>Kiely Williams as Aqua Walker</li><li>Roshan Seth as Uncle Kamal Bhatia</li><li>Michael Steger as Vikram</li><li>Kunal Sharma as Amar</li><li>Deepti Daryanani as Gita</li><li>Rupak Ginn as Rahim</li><li>Vinod Nagpal as Swami</li><li>J. Brandon Hill as Marty</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, YouTube TV</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Cheetah Girls: One World (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
+  "movie:286521": {
+   "d": "5 Flights Up (2014): Drama film. Story: A long-time married couple who've spent their lives… See cast, budget $6M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sydvKR3zdaLPQM96tUJmi7vD0XR.jpg",
+   "industry": "world",
+   "k": "5 Flights Up, 5 Flights Up movie, 5 Flights Up cast, 5 Flights Up story, 5 Flights Up box office collection, 5 Flights Up budget, 5 Flights Up review, 5 Flights Up rating, 5 Flights Up release date, 5 Flights Up Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Morgan Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Preston"
+     },
+     {
+      "@type": "Person",
+      "name": "Cynthia Nixon"
+     },
+     {
+      "@type": "Person",
+      "name": "Alysia Reiner"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 342,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "5 Flights Up (2014): Drama film. Story: A long-time married couple who've spent their lives… See cast, budget $6M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Loncraine"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sydvKR3zdaLPQM96tUJmi7vD0XR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=286521",
+    "name": "5 Flights Up",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=286521"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>5 Flights Up (2014)</h1>\n<p class=\"ssr-lead\">A long-time married couple who&#x27;ve spent their lives together in the same New York apartment become overwhelmed by personal and real estate-related issues when they plan to move away.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2014</li><li>Runtime: 92 minutes</li><li>Director: Richard Loncraine</li><li>Genres: Drama</li><li>Budget: $6M</li><li>TMDB rating: 6.0/10 (342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Morgan Freeman as Alex Carver</li><li>Diane Keaton as Ruth Carver</li><li>Carrie Preston as Miriam Carswell</li><li>Cynthia Nixon as Lily Portman</li><li>Alysia Reiner as Blue Leggings</li><li>Josh Pais as Jackson</li><li>Claire van der Boom as Young Ruth</li><li>Korey Jackson as Young Alex</li><li>Sterling Jerins as Zoe</li><li>Liza J. Bennett as Mrs. Vincent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "5 Flights Up (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:30421": {
+   "d": "A Chinese Ghost Story (1987): Fantasy/Action film. Story: A naïve young tax collector for the imperial… See cast, budget $1.25M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qkxMRQvKUsvidg7ewU1pcEbSX4h.jpg",
+   "industry": "world",
+   "k": "A Chinese Ghost Story, A Chinese Ghost Story movie, A Chinese Ghost Story cast, A Chinese Ghost Story story, A Chinese Ghost Story box office collection, A Chinese Ghost Story budget, A Chinese Ghost Story review, A Chinese Ghost Story rating, A Chinese Ghost Story release date, A Chinese Ghost Story trailer, A Chinese Ghost Story Fantasy, A Chinese Ghost Story Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leslie Cheung Kwok-wing"
+     },
+     {
+      "@type": "Person",
+      "name": "Joey Wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Wu Ma"
+     },
+     {
+      "@type": "Person",
+      "name": "Lau Siu-ming"
+     },
+     {
+      "@type": "Person",
+      "name": "David Lam Wai"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Chinese Ghost Story (1987): Fantasy/Action film. Story: A naïve young tax collector for the imperial… See cast, budget $1.25M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tony Ching Siu-tung"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qkxMRQvKUsvidg7ewU1pcEbSX4h.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=30421",
+    "name": "A Chinese Ghost Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-07-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=30421"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Chinese Ghost Story (1987)</h1>\n<p class=\"ssr-lead\">A naïve young tax collector for the imperial government winds up spending the night in a haunted temple. There he falls in love with a beautiful woman who, unfortunately, is dead. With the aid of a powerful Daoist Swordsman, he must defeat undead hordes, overcome a sinister Tree Demoness, and descend to the pits of hell, to fight for the spirit he loves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 July 1987</li><li>Runtime: 95 minutes</li><li>Director: Tony Ching Siu-tung</li><li>Genres: Fantasy, Action</li><li>Budget: $1.25M</li><li>TMDB rating: 7.3/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leslie Cheung Kwok-wing as Ling Choi-san</li><li>Joey Wong as Lip Siu Sin</li><li>Wu Ma as Swordsman Yin Chek-ha</li><li>Lau Siu-ming as Tree Demon</li><li>David Lam Wai as Swordsman Hsia Hou</li><li>Fanny Sit Chi-Lun as Siu Ching</li><li>David Wu as Secretary Chiu</li><li>Wong Jing as Judge</li><li>Huang Ha as Boss at Tavern</li><li>Sze Mei-Yee as Sells Paintings</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
+   "t": "A Chinese Ghost Story (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
   "movie:3121": {
    "d": "Nashville (1975): Drama/Comedy film. Story: The intersecting stories of twenty-four… See cast, budget $2.2M, TMDB rating 7.3/10, and release date 11 June 1975.",
    "img": "https://image.tmdb.org/t/p/w780/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
@@ -1282,6 +1912,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Nashville (1975)</h1>\n<p class=\"ssr-lead\">The intersecting stories of twenty-four characters—from country star to wannabe to reporter to waitress—and their connection through the music business in Nashville, Tennessee.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 1975</li><li>Runtime: 160 minutes</li><li>Director: Robert Altman</li><li>Genres: Drama, Comedy, Music</li><li>Budget: $2.2M</li><li>TMDB rating: 7.3/10 (494 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Arkin as Norman</li><li>Barbara Baxley as Lady Pearl</li><li>Ned Beatty as Delbert Reese</li><li>Karen Black as Connie White</li><li>Ronee Blakley as Barbara Jean</li><li>Timothy Brown as Tommy Brown</li><li>Keith Carradine as Tom Frank</li><li>Geraldine Chaplin as Opal</li><li>Robert DoQui as Wade Cooley</li><li>Shelley Duvall as L.A. Joan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Nashville (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:409421": {
+   "d": "BLAME! (2017): Action/Drama film. Story: In the distant technological future, civilization has… See cast, TMDB rating 6.5/10, and release date 20 May 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg",
+   "industry": "world",
+   "k": "BLAME!, BLAME! movie, BLAME! cast, BLAME! story, BLAME! box office collection, BLAME! budget, BLAME! review, BLAME! rating, BLAME! release date, BLAME! trailer, BLAME! Action, BLAME! Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takahiro Sakurai"
+     },
+     {
+      "@type": "Person",
+      "name": "Kana Hanazawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Sora Amamiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Mamoru Miyano"
+     },
+     {
+      "@type": "Person",
+      "name": "Aya Suzaki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 374,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "BLAME! (2017): Action/Drama film. Story: In the distant technological future, civilization has… See cast, TMDB rating 6.5/10, and release date 20 May 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Seshita"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=409421",
+    "name": "BLAME!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=409421"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>BLAME! (2017)</h1>\n<p class=\"ssr-lead\">In the distant technological future, civilization has reached its ultimate Net-based form. An &quot;infection&quot; in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city&#x27;s controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2017</li><li>Runtime: 106 minutes</li><li>Director: Hiroyuki Seshita</li><li>Genres: Action, Drama, Science Fiction, Animation</li><li>TMDB rating: 6.5/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takahiro Sakurai as Killy (voice)</li><li>Kana Hanazawa as Cibo (voice)</li><li>Sora Amamiya as Zuru (voice)</li><li>Mamoru Miyano as Sutezo (voice)</li><li>Aya Suzaki as Tae (voice)</li><li>Nobunaga Shimazaki as Fusata (voice)</li><li>Nanako Mori as Fuku (voice)</li><li>Kazuhiro Yamaji as Pop (voice)</li><li>Aki Toyosaki as Administration Authority (voice)</li><li>Saori Hayami as Sanakan (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "BLAME! (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:46221": {
    "d": "The Tunnel (2011): Horror/Thriller film. Story: An investigation into a government cover-up leads to… See cast, budget $135.0k, and TMDB rating 5.8/10.",
@@ -1732,6 +2426,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cyberbully (2011)</h1>\n<p class=\"ssr-lead\">A woman tries to help her teenage daughter when she becomes the victim of online bullying.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2011</li><li>Runtime: 90 minutes</li><li>Director: Charles Binamé</li><li>Genres: Drama, TV Movie</li><li>TMDB rating: 6.0/10 (478 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Osment as Taylor Hillridge</li><li>Kay Panabaker as Samantha Caldone</li><li>Meaghan Rath as Cheyenne Mortenson</li><li>Kelly Rowan as Kris Hillridge</li><li>Jon McLaren as Scott Ozsik</li><li>Robert Naylor as Eric Hillridge</li><li>Nastassia Markiewicz as Lindsay Fordyce</li><li>Jade Hassouné as Caleb</li><li>Caroline Redekopp as Karen Caldone</li><li>Ivan Smith as Darren Mortensen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Cyberbully (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:930921": {
+   "d": "Strangeness (2022): Comedy/History film. Story: During a trip to Sicily in 1920, Luigi Pirandello… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
+   "industry": "world",
+   "k": "Strangeness, Strangeness movie, Strangeness cast, Strangeness story, Strangeness box office collection, Strangeness budget, Strangeness review, Strangeness rating, Strangeness release date, Strangeness Comedy, Strangeness History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Toni Servillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Salvatore Ficarra"
+     },
+     {
+      "@type": "Person",
+      "name": "Valentino Picone"
+     },
+     {
+      "@type": "Person",
+      "name": "Giulia Andò"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosario Lisma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 367,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Strangeness (2022): Comedy/History film. Story: During a trip to Sicily in 1920, Luigi Pirandello… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roberto Andò"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Comedy",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=930921",
+    "name": "Strangeness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=930921"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Strangeness (2022)</h1>\n<p class=\"ssr-lead\">During a trip to Sicily in 1920, Luigi Pirandello meets two gravediggers-turned-playwrights rehearsing a play with their amateur dramatics. Pirandello takes an interest in the odd couple, having been suffering from writer&#x27;s block while working on his eventual masterpiece, Six Characters in Search of an Author.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2022</li><li>Runtime: 103 minutes</li><li>Director: Roberto Andò</li><li>Genres: Comedy, History, Drama</li><li>TMDB rating: 6.9/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toni Servillo as Luigi Pirandello</li><li>Salvatore Ficarra as Onofrio &quot;Nofrio&quot; Principato</li><li>Valentino Picone as Sebastiano &quot;Bastiano&quot; Vella</li><li>Giulia Andò as Santina</li><li>Rosario Lisma as Mimmo Casà</li><li>Donatella Finocchiaro as La balia</li><li>Aurora Quattrocchi as Maria Antonietta Portolano</li><li>Galatea Ranzi as La madre</li><li>Fausto Russo Alesi as Il padre</li><li>Filippo Luna as Il direttore di scena</li></ul>\n</article>",
+   "t": "Strangeness (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:996821": {
    "d": "You're Cordially Invited (2025): Comedy/Romance film. Story: When two weddings are accidentally booked on the same… See cast and TMDB rating 5.8/10.",

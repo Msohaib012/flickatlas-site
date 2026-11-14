@@ -1,7 +1,148 @@
 {
  "bucket": "64",
- "count": 38,
+ "count": 47,
  "titles": {
+  "movie:10064": {
+   "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Ashford",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Deed",
+     "n": "LL Cool J"
+    },
+    {
+     "c": "Pollack",
+     "n": "Justin Timberlake"
+    },
+    {
+     "c": "Wallace",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Lazerov",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Reigert",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Tilman",
+     "n": "John Heard"
+    },
+    {
+     "c": "Willow",
+     "n": "Piper Perabo"
+    },
+    {
+     "c": "Reyes",
+     "n": "Marco Sanchez"
+    },
+    {
+     "c": "Maria",
+     "n": "Roselyn Sánchez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David J. Burke"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller"
+   ],
+   "id": 10064,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the troubled city of Edison, a young journalist, his jaded editor, and an honest investigator from the district attorney's office join forces to gather evidence against corrupt members of an elite police unit.",
+   "popularity": 1.8978,
+   "poster_path": "/7K2amWJd9lASC9R04M7IfVklBc1.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-07-29",
+   "revenue": 4165675,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In this city, only the cops are above the law.",
+   "title": "Edison",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 382
+  },
   "movie:10264": {
    "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
    "budget": 13500000,
@@ -135,6 +276,111 @@
    "type": "movie",
    "vote_average": 6.601,
    "vote_count": 456
+  },
+  "movie:10364": {
+   "backdrop_path": "/7Oju2DdZTL7RUnoKctRvH4u1n8N.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Capt. John Yossarian",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Col. Cathcart",
+     "n": "Martin Balsam"
+    },
+    {
+     "c": "Maj. Danby",
+     "n": "Richard Benjamin"
+    },
+    {
+     "c": "Capt. Nately",
+     "n": "Art Garfunkel"
+    },
+    {
+     "c": "Dr. \"Doc\" Daneeka",
+     "n": "Jack Gilford"
+    },
+    {
+     "c": "Lt. Col. Korn",
+     "n": "Buck Henry"
+    },
+    {
+     "c": "Maj. Major Major",
+     "n": "Bob Newhart"
+    },
+    {
+     "c": "Chaplain Capt. A.T. Tappman",
+     "n": "Anthony Perkins"
+    },
+    {
+     "c": "Nurse Duckett",
+     "n": "Paula Prentiss"
+    },
+    {
+     "c": "1st Lt. Dobbs",
+     "n": "Martin Sheen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Nichols"
+   ],
+   "genres": [
+    "War",
+    "Comedy"
+   ],
+   "id": 10364,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A WWII military pilot makes a valiant effort to be certified insane in order to be excused from flying missions. But there's a catch.",
+   "popularity": 2.097,
+   "poster_path": "/eSB3i3vvFiRTszmZVawWqROzM6p.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1970-06-24",
+   "revenue": 24911670,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The nice thing about war is that the person who kills you really has nothing against you. Personally.",
+   "title": "Catch-22",
+   "trailer": {
+    "key": "Unn8fgs8fao",
+    "name": "Catch-22 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.664,
+   "vote_count": 379
   },
   "movie:10464": {
    "backdrop_path": "/rxRf5Te8PX4Ko5iFUN13llcsLI1.jpg",
@@ -1335,6 +1581,151 @@
    "vote_average": 6.6,
    "vote_count": 270
   },
+  "movie:17264": {
+   "backdrop_path": "/am84QBW5S17uKUeuWvjLIS8urrr.jpg",
+   "budget": 2700000,
+   "cast": [
+    {
+     "c": "Alec Ramsey",
+     "n": "Kelly Reno"
+    },
+    {
+     "c": "Henry Dailey",
+     "n": "Mickey Rooney"
+    },
+    {
+     "c": "Alec's Mother",
+     "n": "Teri Garr"
+    },
+    {
+     "c": "Snoe",
+     "n": "Clarence Muse"
+    },
+    {
+     "c": "Alec's Father",
+     "n": "Hoyt Axton"
+    },
+    {
+     "c": "Neville",
+     "n": "Michael Higgins"
+    },
+    {
+     "c": "Jake",
+     "n": "Ed McNamara"
+    },
+    {
+     "c": "Arab",
+     "n": "Doghmi Larbi"
+    },
+    {
+     "c": "The Black Stallion",
+     "n": "Cass-Olé"
+    },
+    {
+     "c": "Jockey #1",
+     "n": "John Burton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Carroll Ballard"
+   ],
+   "genres": [
+    "Family",
+    "Adventure"
+   ],
+   "id": 17264,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion that is brought on board and stabled in the ship he is sailing on. When it tragically sinks both he and the horse survive only to be stranded on a deserted island. He befriends it, so when finally rescued both return to his home where they soon meet Henry Dailey, a once successful trainer. Together they begin training the horse to race against the fastest ones in the world.",
+   "popularity": 2.1101,
+   "poster_path": "/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-10-17",
+   "revenue": 37799643,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "it",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "From the moment he first saw the stallion, he knew it would either destroy him, or carry him where no one had ever been before…",
+   "title": "The Black Stallion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.095,
+   "vote_count": 348
+  },
   "movie:18764": {
    "backdrop_path": "/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
    "budget": 0,
@@ -1603,6 +1994,105 @@
    "vote_average": 5.82,
    "vote_count": 389
   },
+  "movie:19164": {
+   "backdrop_path": "/ctzWJ7TALj46muJXWELhdmtIxTE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "John Ingle"
+    },
+    {
+     "c": "Cera (voice)",
+     "n": "Candace Hutson"
+    },
+    {
+     "c": "Ducky (voice)",
+     "n": "Heather Hogan"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Petrie / Ichy (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Littlefoot (voice)",
+     "n": "Scott McAfee"
+    },
+    {
+     "c": "Grandpa (voice)",
+     "n": "Kenneth Mars"
+    },
+    {
+     "c": "Grandma (voice)",
+     "n": "Linda Gary"
+    },
+    {
+     "c": "Tickles (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Old One (voice)",
+     "n": "Carol Bruce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Roy Allen Smith"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 19164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Littlefoot's grandfather falls ill, the only way to cure him is with a flower from the forbidding land of the mists, which holds unexpected perils and danger.",
+   "popularity": 2.5029,
+   "poster_path": "/sqBhPAvSwPCZq4Kg79CvxGrU7nj.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-11-01",
+   "revenue": 0,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bring home littefoot's brand new, feature length adventure!",
+   "title": "The Land Before Time IV: Journey Through the Mists",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 380
+  },
   "movie:27064": {
    "backdrop_path": "/PnwQJeWhmx9wh9wWM0a0YhLmE.jpg",
    "budget": 5000000,
@@ -1733,6 +2223,339 @@
    "type": "movie",
    "vote_average": 7.8,
    "vote_count": 383
+  },
+  "movie:283564": {
+   "backdrop_path": "/6jnSkRFKkcyKyQJGO5eVfFeXFGF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Trixie",
+     "n": "Shannon Chan-Kent"
+    },
+    {
+     "c": "Kord Zane",
+     "n": "Andrew Francis"
+    },
+    {
+     "c": "Dark Slinger",
+     "n": "Brian Dobson"
+    },
+    {
+     "c": "Dr. Blakk",
+     "n": "Mark Oliver"
+    },
+    {
+     "c": "Pronto",
+     "n": "Lee Tockar"
+    },
+    {
+     "c": "Eli Shane",
+     "n": "Sam Vincent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Steve Sacks",
+    "Johnny Darrell",
+    "Daniel DeSerranno",
+    "Behzad Mansoori-Dara",
+    "Logan McPherson"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 283564,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A new member has joined Eli and the Shane Gang! Junjie, once the protector of the Eastern Caverns, is a master of the slugslinging art of Slug Fu! But even with the power of five slingers, the Shane Gang find themselves in over their heads as they race across The 99 Caverns in search of the Legendary Elemental Slugs. The five Elementals are ancient slugs of great power, and the forbearers of all slugs found in SlugTerra today. In the wrong hands, they could bring Slugterra to the brink of destruction. So when an evil alliance starts hunting down the Elementals, Eli and his friends — old and new — take off in pursuit of the greatest threat their world has ever faced!",
+   "popularity": 1.0101,
+   "poster_path": "/ApN2lteDsoIU5dDHJXeqVD13vpd.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "RetroCrush Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qtw1f8sXwc57wAY6l0RuYzMOg4t.png",
+     "name": "RetroCrush Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-08-02",
+   "revenue": 0,
+   "runtime": 63,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "SlugTerra: Return of the Elementals",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 364
+  },
+  "movie:291264": {
+   "backdrop_path": "/aaSXUNaSdzRag4BlgyGJjLYGwDd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baxter Fang",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Annie Fang",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Caleb Fang",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Camille Fang",
+     "n": "Maryann Plunkett"
+    },
+    {
+     "c": "Suzanne Crosby",
+     "n": "Marin Ireland"
+    },
+    {
+     "c": "Young Camille",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Young Caleb",
+     "n": "Jason Butler Harner"
+    },
+    {
+     "c": "Sally Schiff",
+     "n": "Ali Wentworth"
+    },
+    {
+     "c": "Hobart Waxman",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Kenny",
+     "n": "Michael Chernus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jason Bateman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 291264,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A brother and sister return to their family home in search of their world famous parents who have disappeared.",
+   "popularity": 1.3612,
+   "poster_path": "/gVLOpMH3p8PpnbGa1UOGDr78xSS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-16",
+   "revenue": 262921,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Family Fang",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.868,
+   "vote_count": 357
   },
   "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
@@ -2046,6 +2869,114 @@
    "type": "movie",
    "vote_average": 7.208,
    "vote_count": 431
+  },
+  "movie:384664": {
+   "backdrop_path": "/kEHu88JMh9Zh4RYcgK7Lo2YZwdW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maik Klingenberg",
+     "n": "Tristan Göbel"
+    },
+    {
+     "c": "Tschick",
+     "n": "Anand Batbileg"
+    },
+    {
+     "c": "Isa",
+     "n": "Mercedes Müller"
+    },
+    {
+     "c": "Klingenberg's Mother",
+     "n": "Anja Schneider"
+    },
+    {
+     "c": "Klingenberg's Father",
+     "n": "Uwe Bohm"
+    },
+    {
+     "c": "Teacher",
+     "n": "Udo Samel"
+    },
+    {
+     "c": "Friedemanns's Mother",
+     "n": "Claudia Geisler-Bading"
+    },
+    {
+     "c": "Juvenile Judge",
+     "n": "Alexander Scheer"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Marc Hosemann"
+    },
+    {
+     "c": "Lawyer",
+     "n": "Friederike Kempter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Fatih Akin"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 384664,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Maik, a fourteen-year-old teenager, sets out on a road trip during summertime with Tschick, a new classmate, in a stolen car. The two share life changing experiences during the eventful journey.",
+   "popularity": 1.3891,
+   "poster_path": "/fMXPFsNFWgxi6NCmttI6GJq8pa8.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-09-15",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The Best Summer of All!",
+   "title": "Goodbye Berlin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.646,
+   "vote_count": 366
   },
   "movie:41664": {
    "backdrop_path": "/rxPaVWl6Ravm0nhQ2EBopYBF4lm.jpg",
@@ -2438,6 +3369,157 @@
    "type": "movie",
    "vote_average": 7.923,
    "vote_count": 464
+  },
+  "movie:508664": {
+   "backdrop_path": "/7uacpbrJd9g9xSTLgfyg1NwkAiu.jpg",
+   "budget": 23934823,
+   "cast": [
+    {
+     "c": "Major Harry Smith",
+     "n": "Travis Fimmel"
+    },
+    {
+     "c": "Private Bill 'Yank' Akell",
+     "n": "Toby Blome"
+    },
+    {
+     "c": "Warrant Officer Class 2 Jack Kirby",
+     "n": "Alexander England"
+    },
+    {
+     "c": "Captain Morrie Stanley",
+     "n": "Aaron Glenane"
+    },
+    {
+     "c": "Bombardier Ray Ngatai",
+     "n": "Uli Latukefu"
+    },
+    {
+     "c": "Gunner Murry Watene",
+     "n": "Richard Te Are"
+    },
+    {
+     "c": "Sergeant Bob Buick",
+     "n": "Luke Bracey"
+    },
+    {
+     "c": "Private Vic Grice",
+     "n": "Sean McCarthy"
+    },
+    {
+     "c": "Second Lieutenant Gordon Sharp",
+     "n": "Mojean Aria"
+    },
+    {
+     "c": "Private Barry 'Custard' Meller",
+     "n": "Ryan Hance"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kriv Stenders"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 508664,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.",
+   "popularity": 2.9278,
+   "poster_path": "/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-08",
+   "revenue": 2078370,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Outnumbered. Outgunned. Never out of courage.",
+   "title": "Danger Close: The Battle of Long Tan",
+   "trailer": {
+    "key": "_E0J11-rB7Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.798,
+   "vote_count": 374
   },
   "movie:517764": {
    "backdrop_path": "/7Bl98JC4kGe62ORuFIsFtWtcIA2.jpg",
@@ -3213,6 +4295,114 @@
    "type": "movie",
    "vote_average": 6.369,
    "vote_count": 1659
+  },
+  "movie:871964": {
+   "backdrop_path": "/icOUc1llxf2GJr1Z4dBbJYLzuvw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adas Adamiec",
+     "n": "Mateusz Więcławek"
+    },
+    {
+     "c": "Zosia Wolska",
+     "n": "Julia Wieniawa"
+    },
+    {
+     "c": "Wanessa",
+     "n": "Zofia Wichłacz"
+    },
+    {
+     "c": "Waldemar Gwizdala",
+     "n": "Andrzej Grabowski"
+    },
+    {
+     "c": "Oliwier",
+     "n": "Wojciech Mecwaldowski"
+    },
+    {
+     "c": "Janeczka",
+     "n": "Izabela Dąbrowska"
+    },
+    {
+     "c": "Mariusz",
+     "n": "Sebastian Stankiewicz"
+    },
+    {
+     "c": "Slawek",
+     "n": "Robert Wabich"
+    },
+    {
+     "c": "Janusz",
+     "n": "Lech Dyblik"
+    },
+    {
+     "c": "Diviner",
+     "n": "Paweł Krawczyk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Bartosz M. Kowalski"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy"
+   ],
+   "id": 871964,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.",
+   "popularity": 1.5761,
+   "poster_path": "/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-10-27",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nobody Sleeps in the Woods Tonight 2",
+   "trailer": {
+    "key": "R_wIaGkiUBI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 352
   },
   "movie:9264": {
    "backdrop_path": "/1EhnpDKRkxNKDpMBm8FFsYJl12j.jpg",

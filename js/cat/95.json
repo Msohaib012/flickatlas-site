@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 36,
+ "count": 44,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -655,6 +655,205 @@
    "vote_average": 7.467,
    "vote_count": 180
   },
+  "movie:14295": {
+   "backdrop_path": "/hardcwpNmv4soWzTZWWD6OhzsSX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sammy",
+     "n": "Laura Linney"
+    },
+    {
+     "c": "Terry",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Brian",
+     "n": "Matthew Broderick"
+    },
+    {
+     "c": "Bob",
+     "n": "Jon Tenney"
+    },
+    {
+     "c": "Rudy",
+     "n": "Rory Culkin"
+    },
+    {
+     "c": "Mabel",
+     "n": "J. Smith-Cameron"
+    },
+    {
+     "c": "Rudy Sr.",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Sheila",
+     "n": "Gaby Hoffmann"
+    },
+    {
+     "c": "Sheriff Darryl",
+     "n": "Adam LeFevre"
+    },
+    {
+     "c": "Mrs. Prescott",
+     "n": "Amy Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kenneth Lonergan"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14295,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single mother's life is thrown into turmoil after her struggling, rarely-seen younger brother returns to town.",
+   "popularity": 1.7174,
+   "poster_path": "/7mGFmij1FZD5eUnNwvUjmpqrDl6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-03-03",
+   "revenue": 11200000,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Family first. Love always.",
+   "title": "You Can Count on Me",
+   "trailer": {
+    "key": "55MVAFsS7iM",
+    "name": "You Can Count on Me - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 372
+  },
   "movie:1437195": {
    "backdrop_path": "/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
    "budget": 0,
@@ -763,6 +962,162 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 51
+  },
+  "movie:14695": {
+   "backdrop_path": "/dYsVuPUWCfj9CYxSsoe3Yci3r3A.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Allison Lang",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Emily",
+     "n": "Bijou Phillips"
+    },
+    {
+     "c": "Amanda",
+     "n": "Shiri Appleby"
+    },
+    {
+     "c": "Stuart Lang",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "Sam",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Eric",
+     "n": "Matt O'Leary"
+    },
+    {
+     "c": "Hector",
+     "n": "Freddy Rodríguez"
+    },
+    {
+     "c": "Joanna Lang",
+     "n": "Laura San Giacomo"
+    },
+    {
+     "c": "Toby",
+     "n": "Mike Vogel"
+    },
+    {
+     "c": "Chino",
+     "n": "Raymond Cruz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barbara Kopple"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 14695,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wealthy Los Angeles teen and her superficial friends want to break out of suburbia and experience Southern California's \"gangsta\" lifestyle, but problems arise when they provoke the wrath of a violent Latino gang.",
+   "popularity": 3.4363,
+   "poster_path": "/xY4c4bHPCRrwIvkxJ6qRLoyxQVo.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-10-16",
+   "revenue": 371000,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Too much is never enough.",
+   "title": "Havoc",
+   "trailer": {
+    "key": "uf5UcDDASIM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.279,
+   "vote_count": 372
   },
   "movie:1480295": {
    "backdrop_path": "/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
@@ -1250,6 +1605,226 @@
    "type": "movie",
    "vote_average": 6.965,
    "vote_count": 404
+  },
+  "movie:27995": {
+   "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
+   "budget": 175000,
+   "cast": [
+    {
+     "c": "Nola Darling",
+     "n": "Tracy Camilla Johns"
+    },
+    {
+     "c": "Jamie Overstreet",
+     "n": "Tommy Redmond Hicks"
+    },
+    {
+     "c": "Greer Childs",
+     "n": "John Canada Terrell"
+    },
+    {
+     "c": "Mars Blackmon",
+     "n": "Spike Lee"
+    },
+    {
+     "c": "Opal Gilstrap",
+     "n": "Raye Dowell"
+    },
+    {
+     "c": "Clorinda Bradford",
+     "n": "Joie Lee"
+    },
+    {
+     "c": "Doctor Jamison",
+     "n": "S. Epatha Merkerson"
+    },
+    {
+     "c": "Sonny Darling",
+     "n": "Bill Lee"
+    },
+    {
+     "c": "Ava",
+     "n": "Cheryl Burr"
+    },
+    {
+     "c": "Noble",
+     "n": "Aaron Dugger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 27995,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Nola Darling's simultaneous sexual relationships with three different men is told by her and by her partners and other friends. All three men wanted her to commit solely to them; Nola resists being \"owned\" by a single partner.",
+   "popularity": 1.854,
+   "poster_path": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-08-08",
+   "revenue": 7137503,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A seriously sexy comedy.",
+   "title": "She's Gotta Have It",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.637,
+   "vote_count": 375
+  },
+  "movie:29095": {
+   "backdrop_path": "/x0sEJCg6UsLoGs8r9b4l8rp1oxe.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Mark Loftmore",
+     "n": "Zach Galligan"
+    },
+    {
+     "c": "Mrs. Loftmore",
+     "n": "Jennifer Bassey"
+    },
+    {
+     "c": "Jenkins",
+     "n": "Joe Baker"
+    },
+    {
+     "c": "Sarah Brightman",
+     "n": "Deborah Foreman"
+    },
+    {
+     "c": "China Webster",
+     "n": "Michelle Johnson"
+    },
+    {
+     "c": "Waxwork Man",
+     "n": "David Warner"
+    },
+    {
+     "c": "James",
+     "n": "Eric Brown"
+    },
+    {
+     "c": "Gemma",
+     "n": "Clare Carey"
+    },
+    {
+     "c": "Lecturer",
+     "n": "Buckley Norris"
+    },
+    {
+     "c": "Tony",
+     "n": "Dana Ashbrook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anthony Hickox"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 29095,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wealthy slacker Mark, his new girlfriend Sarah, and their friends, are invited to a special showing at a mysterious wax museum which displays eighteen of the most evil men of all time. After his ex-girlfriend and another friend disappear, Mark becomes suspicious…",
+   "popularity": 2.1067,
+   "poster_path": "/48RXt1Zu8iNL0mgCojydmqBsjsC.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-06-17",
+   "revenue": 808114,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Stop on by and give afterlife a try.",
+   "title": "Waxwork",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.16,
+   "vote_count": 347
   },
   "movie:294795": {
    "backdrop_path": "/8KFAnl84oi6QSjFDCIGFgZPiOph.jpg",
@@ -1938,6 +2513,132 @@
    "vote_average": 7.6,
    "vote_count": 432
   },
+  "movie:501395": {
+   "backdrop_path": "/6xIZ4GCZ5Dhjv8tYU88ZbZ4PwxQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ned Kelly",
+     "n": "George MacKay"
+    },
+    {
+     "c": "Sgt. Fitzpatrick",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Ellen Kelly",
+     "n": "Essie Davis"
+    },
+    {
+     "c": "Harry Power",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Sergeant O'Neil",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Young Ned Kelly",
+     "n": "Orlando Schwerdt"
+    },
+    {
+     "c": "Dan Kelly",
+     "n": "Earl Cave"
+    },
+    {
+     "c": "Joe Byrne",
+     "n": "Sean Keenan"
+    },
+    {
+     "c": "Mary Hearn",
+     "n": "Thomasin McKenzie"
+    },
+    {
+     "c": "Mary's Baby Boy",
+     "n": "Rory Collins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin Kurzel"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Western",
+    "Thriller"
+   ],
+   "id": 501395,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "AU",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set against the badlands of Australia where the English rule with a bloody fist and the Irish endure, Ned Kelly discovers he comes from a line of Irish rebels — an uncompromising army of cross dressing bandits immortalised for terrorising their oppressors back in Ireland. Fuelled by the unfair arrest of his mother, Kelly recruits a wild bunch of warriors to plot one of the most audacious attacks of anarchy and rebellion the country has ever seen.",
+   "popularity": 2.0978,
+   "poster_path": "/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg",
+   "production_countries": [
+    "AU",
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-31",
+   "revenue": 471152,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The British Empire branded them as outlaws. The oppressed called them heroes.",
+   "title": "True History of the Kelly Gang",
+   "trailer": {
+    "key": "KtGlll-I_n8",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.883,
+   "vote_count": 371
+  },
   "movie:5595": {
    "backdrop_path": "/64I5NOLvPDrO4qVTHk0c09vWYmt.jpg",
    "budget": 0,
@@ -2502,6 +3203,302 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 433
+  },
+  "movie:673595": {
+   "backdrop_path": "/y6J8TOnSUscFeMgvWxc6xeEEXo7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phonic Frog (voice)",
+     "n": "Chris Edgerly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "David Silverman"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Romance"
+   ],
+   "id": 673595,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Maggie Simpson is rescued by a cute young baby from playground peril, it's girl meets boy, girl loses boy, guess what happens next?",
+   "popularity": 1.7059,
+   "poster_path": "/k6fgOq7wPKujibXGWYlcIBgkcwQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-06",
+   "revenue": 0,
+   "runtime": 4,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Maggie Simpson in \"Playdate with Destiny\"",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.359,
+   "vote_count": 375
+  },
+  "movie:760195": {
+   "backdrop_path": "/7z5MJGJ9CObnu770ZubDQye7DKD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rivers",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Jeff",
+     "n": "Rupert Friend"
+    },
+    {
+     "c": "Samantha",
+     "n": "Madeline Brewer"
+    },
+    {
+     "c": "Jenny",
+     "n": "Violet McGraw"
+    },
+    {
+     "c": "Maggie",
+     "n": "Mamie Gummer"
+    },
+    {
+     "c": "Nerezza",
+     "n": "Troy James"
+    },
+    {
+     "c": "Alan",
+     "n": "Simon Quarterman"
+    },
+    {
+     "c": "Connor Gibbons",
+     "n": "Eric T. Miller"
+    },
+    {
+     "c": "Officer Pitt",
+     "n": "Manny Perez"
+    },
+    {
+     "c": "Officer Rossi",
+     "n": "Lorrie Odom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Brent Bell"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 760195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young girl finds solace in her artist father and the ghost of her dead mother.",
+   "popularity": 2.1572,
+   "poster_path": "/jNJ8vKNKT75EW4cvpiWCMvg5TFS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-04-30",
+   "revenue": 4496216,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It won't let go.",
+   "title": "Separation",
+   "trailer": {
+    "key": "dkDDTNTXhNw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.614,
+   "vote_count": 346
+  },
+  "movie:9095": {
+   "backdrop_path": "/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg",
+   "budget": 47000000,
+   "cast": [
+    {
+     "c": "Mary Reilly",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Dr. Henry Jekyll / Edward Hyde",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Mr. Poole",
+     "n": "George Cole"
+    },
+    {
+     "c": "Mary’s Father",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Mrs. Farraday",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Mrs. Kent",
+     "n": "Kathy Staff"
+    },
+    {
+     "c": "Bradshaw",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Annie",
+     "n": "Bronagh Gallagher"
+    },
+    {
+     "c": "Mary's Mother",
+     "n": "Linda Bassett"
+    },
+    {
+     "c": "Sir Danvers Carew",
+     "n": "Ciarán Hinds"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Frears"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 9095,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.",
+   "popularity": 1.7904,
+   "poster_path": "/cW5wTiv5fdtBOd22utmAIZBCMS3.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-02-23",
+   "revenue": 12379402,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The untold story of Jekyll and Hyde",
+   "title": "Mary Reilly",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 350
   },
   "tv:119495": {
    "backdrop_path": "/htD5SJpPOvkmAowU80KrWnN59WO.jpg",

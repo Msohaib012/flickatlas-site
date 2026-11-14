@@ -1,6 +1,6 @@
 {
  "bucket": "33",
- "count": 28,
+ "count": 33,
  "titles": {
   "movie:10433": {
    "backdrop_path": "/xX5St4pQuLWK9JbKHYuDnLOQSon.jpg",
@@ -255,6 +255,119 @@
    "type": "movie",
    "vote_average": 5.801,
    "vote_count": 390
+  },
+  "movie:11333": {
+   "backdrop_path": "/lprN6r3ufTAeCtRf1K1uD9eIska.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dave Speed",
+     "n": "Terence Hill"
+    },
+    {
+     "c": "Willy Dunlop",
+     "n": "Ernest Borgnine"
+    },
+    {
+     "c": "Rosy Labouche",
+     "n": "Joanne Dru"
+    },
+    {
+     "c": "Torpedo",
+     "n": "Marc Lawrence"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Julie Gordon"
+    },
+    {
+     "c": "Chief McEnroy",
+     "n": "Lee Sandman"
+    },
+    {
+     "c": "Paradise Alley",
+     "n": "Sal Borgese"
+    },
+    {
+     "c": "NASA Major",
+     "n": "Woody Woodbury"
+    },
+    {
+     "c": "",
+     "n": "Dow Stout"
+    },
+    {
+     "c": "Silvius",
+     "n": "Herb Goldstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sergio Corbucci"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 11333,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "While delivering a parking ticket to a small village in the Florida everglades, Officer Dave Speed finds himself in the middle of a radiation experiment conducted by the American government and NASA, where a detonated nuclear missile gives him a multitude of superpowers.",
+   "popularity": 1.5917,
+   "poster_path": "/8kSgFV7nvzLVJhmVkq8n4k2VoC0.jpg",
+   "production_countries": [
+    "ES",
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-09-18",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Dave Speed is saving the world from crime... but who is saving the world from Dave Speed?",
+   "title": "Super Fuzz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 376
   },
   "movie:11633": {
    "backdrop_path": "/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
@@ -1214,6 +1327,95 @@
    "vote_average": 7.043,
    "vote_count": 444
   },
+  "movie:27233": {
+   "backdrop_path": "/9PK3yTYHdCL0BrNrY4rmXy5UJnn.jpg",
+   "budget": 125000,
+   "cast": [
+    {
+     "c": "Shinji",
+     "n": "Masanobu Ando"
+    },
+    {
+     "c": "Masaru",
+     "n": "Ken Kaneko"
+    },
+    {
+     "c": "Homeroom Teacher",
+     "n": "Leo Morimoto"
+    },
+    {
+     "c": "Boxing Club Manager",
+     "n": "Hatsuo Yamaya"
+    },
+    {
+     "c": "Sachiko's Mother",
+     "n": "Mitsuko Oka"
+    },
+    {
+     "c": "Sachiko",
+     "n": "Yuko Daike"
+    },
+    {
+     "c": "Local Yakuza Chief",
+     "n": "Ryo Ishibashi"
+    },
+    {
+     "c": "No. 2 in Local Gang",
+     "n": "Susumu Terajima"
+    },
+    {
+     "c": "Hayashi",
+     "n": "Moro Morooka"
+    },
+    {
+     "c": "Hiroshi",
+     "n": "Michisuke Kashiwaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Takeshi Kitano"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 27233,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Shinji and Masaru spend most of their school days harassing fellow classmates and playing pranks. They drop out and Shinji becomes a small-time boxer, while Masaru joins up with a local yakuza gang. However, the world is a tough place.",
+   "popularity": 2.0109,
+   "poster_path": "/pyyf9Q9eV9ug8ADxkQOZvvyWkgX.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-07-27",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "We haven't even started.",
+   "title": "Kids Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.939,
+   "vote_count": 352
+  },
   "movie:285733": {
    "backdrop_path": "/d8YV61996Zq00UqSVBV9K8KJgN4.jpg",
    "budget": 0,
@@ -1586,6 +1788,185 @@
    "vote_average": 7.0,
    "vote_count": 387
   },
+  "movie:51533": {
+   "backdrop_path": "/wQEVpkMlMTTOQLLxf5bwKsyEwKD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pocky Zhang",
+     "n": "Jiang Wen"
+    },
+    {
+     "c": "Huang Silang",
+     "n": "Chow Yun-Fat"
+    },
+    {
+     "c": "Old Tang",
+     "n": "Ge You"
+    },
+    {
+     "c": "Magistrate's wife",
+     "n": "Carina Lau"
+    },
+    {
+     "c": "The Second",
+     "n": "Shao Bing"
+    },
+    {
+     "c": "The Third",
+     "n": "Liao Fan"
+    },
+    {
+     "c": "The Four",
+     "n": "Du Yiheng"
+    },
+    {
+     "c": "The Five",
+     "n": "Li Jing"
+    },
+    {
+     "c": "The Six",
+     "n": "Zhang Mo"
+    },
+    {
+     "c": "The Seven",
+     "n": "Wei Xiao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jiang Wen"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 51533,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "When circumstances force an outlaw to impersonate a county governor and clean up a corrupt town, the Robin Hood figure finds himself in a showdown with the local godfather.",
+   "popularity": 3.8618,
+   "poster_path": "/pkwBO3XkQLhgb31vl5ZwmGC5meT.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-20",
+   "revenue": 104731450,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "A comic western legend.",
+   "title": "Let the Bullets Fly",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.759,
+   "vote_count": 373
+  },
   "movie:586333": {
    "backdrop_path": "/abTnQsdz3wRHDTtYauDnTEQkwnb.jpg",
    "budget": 0,
@@ -1692,6 +2073,131 @@
    "type": "movie",
    "vote_average": 5.117,
    "vote_count": 390
+  },
+  "movie:660833": {
+   "backdrop_path": "/ycylamLkpWFMpt7Mn7aCjeii8nB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Loretta",
+     "n": "Paloma Kwiatkowski"
+    },
+    {
+     "c": "Gerry",
+     "n": "Munro Chambers"
+    },
+    {
+     "c": "Dierdre",
+     "n": "Marlee Matlin"
+    },
+    {
+     "c": "Danny",
+     "n": "Robert Naylor"
+    },
+    {
+     "c": "Amy",
+     "n": "Sandra Mae Frank"
+    },
+    {
+     "c": "Amy 2 (voice)",
+     "n": "Shauna Black"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gaurav Seth"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 660833,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four brilliant university students are forced to confront themselves in terrifying ways when their Quantum Physics experiment leads to an entangled parallel existence that leaves them questioning who they are and what is real.",
+   "popularity": 1.8641,
+   "poster_path": "/jMhWb00KXwnYbneENxImQslRzUs.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-11-12",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some doors should never be opened.",
+   "title": "Multiverse",
+   "trailer": {
+    "key": "G46YTzX0E7A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.627,
+   "vote_count": 351
   },
   "movie:718633": {
    "backdrop_path": "/iwyKRyOFlOZ1fBdONscHiDEcEgz.jpg",
@@ -1801,6 +2307,176 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 493
+  },
+  "movie:7233": {
+   "backdrop_path": "/eo9RDCkWCAoWgcIkUtJTpst6yOt.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Roy McCormick",
+     "n": "Martin Lawrence"
+    },
+    {
+     "c": "Jeanie Ellis",
+     "n": "Wendy Raquel Robinson"
+    },
+    {
+     "c": "Tim Fink",
+     "n": "Breckin Meyer"
+    },
+    {
+     "c": "Mr. Newirth",
+     "n": "Horatio Sanz"
+    },
+    {
+     "c": "Larry Burgess Sr.",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Keith Ellis",
+     "n": "Oren Williams"
+    },
+    {
+     "c": "Principal Walsh",
+     "n": "Megan Mullally"
+    },
+    {
+     "c": "One-Love",
+     "n": "Eddy Martin"
+    },
+    {
+     "c": "Wes",
+     "n": "Steven Christopher Parker"
+    },
+    {
+     "c": "Ralph",
+     "n": "Steven Anthony Lawrence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Steve Carr"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 7233,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An acclaimed college hoops coach is demoted to a junior varsity team after a public meltdown.",
+   "popularity": 2.1841,
+   "poster_path": "/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-07-01",
+   "revenue": 17492014,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "A comedy where old school ...meets middle school.",
+   "title": "Rebound",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 372
   },
   "movie:785533": {
    "backdrop_path": "/dvd330SU63LGyLf7WMKTMgJIl53.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 37,
+ "count": 42,
  "titles": {
   "movie:10425": {
    "backdrop_path": "/o1QOSrwY9cjkEi1f9RL3tYxUFta.jpg",
@@ -167,6 +167,176 @@
    "type": "movie",
    "vote_average": 6.166,
    "vote_count": 419
+  },
+  "movie:12525": {
+   "backdrop_path": "/7Lzqpkdwmhmok2WGxmNWgBp82s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie McFadden",
+     "n": "Don Keith Opper"
+    },
+    {
+     "c": "Ethan",
+     "n": "Paul Whitthorne"
+    },
+    {
+     "c": "Fran",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Rick",
+     "n": "Anders Hove"
+    },
+    {
+     "c": "Bernie",
+     "n": "Eric DaRe"
+    },
+    {
+     "c": "Al Bert",
+     "n": "Brad Dourif"
+    },
+    {
+     "c": "Counselor Tetra / Ug",
+     "n": "Terrence Mann"
+    },
+    {
+     "c": "Angela (voice)",
+     "n": "Martine Beswick"
+    },
+    {
+     "c": "Dr. McCormick",
+     "n": "Anne Ramsay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rupert Harvey"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 12525,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+   "popularity": 1.7005,
+   "poster_path": "/k1Xio02tnxgyFA9PnlP2OSCIK2C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-08-20",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In space, they love to hear you scream!",
+   "title": "Critters 4",
+   "trailer": {
+    "key": "Ic3pHEu9FV4",
+    "name": "Critters 4 (1992)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 367
   },
   "movie:1261825": {
    "backdrop_path": "/haAekI7zBtffqILr90DkviTe9fk.jpg",
@@ -1862,6 +2032,158 @@
    "vote_average": 6.288,
    "vote_count": 396
   },
+  "movie:27725": {
+   "backdrop_path": "/6AcvQvapwSI0fw2j9fVUxMOkwNB.jpg",
+   "budget": 455000,
+   "cast": [
+    {
+     "c": "Marie",
+     "n": "Ida Lupino"
+    },
+    {
+     "c": "Roy Earle",
+     "n": "Humphrey Bogart"
+    },
+    {
+     "c": "Babe",
+     "n": "Alan Curtis"
+    },
+    {
+     "c": "Red",
+     "n": "Arthur Kennedy"
+    },
+    {
+     "c": "Velma",
+     "n": "Joan Leslie"
+    },
+    {
+     "c": "Pa",
+     "n": "Henry Travers"
+    },
+    {
+     "c": "'Doc' Banton",
+     "n": "Henry Hull"
+    },
+    {
+     "c": "Healy",
+     "n": "Jerome Cowan"
+    },
+    {
+     "c": "Mrs. Baughmam",
+     "n": "Minna Gombell"
+    },
+    {
+     "c": "Jake Kranmer",
+     "n": "Barton MacLane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Raoul Walsh"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action",
+    "Thriller"
+   ],
+   "id": 27725,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Given a pardon from jail, Roy Earle gets back into the swing of things as he robs a swanky resort.",
+   "popularity": 1.4897,
+   "poster_path": "/fkP6yy25Wja6Sn3AIlZ4F1BWsy0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1941-01-23",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "HE KILLED... and there on the crest of Sierra's highest crag... HE MUST BE KILLED!",
+   "title": "High Sierra",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 375
+  },
   "movie:290825": {
    "backdrop_path": "/oOVWuXkxQRYwUpd0Jg7QVxlMd2W.jpg",
    "budget": 5000000,
@@ -2337,6 +2659,226 @@
    "type": "movie",
    "vote_average": 4.492,
    "vote_count": 424
+  },
+  "movie:42425": {
+   "backdrop_path": "/s3eOnLXmUNqP5CsVjZu4yUGMab3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ascanio Colonna",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Walter Colombo",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Professor Mortimer",
+     "n": "Dean Jones"
+    },
+    {
+     "c": "Lorenzo il Magnifico",
+     "n": "Marco Messeri"
+    },
+    {
+     "c": "Natasha",
+     "n": "Ela Weber"
+    },
+    {
+     "c": "Michela",
+     "n": "Veronica Logan"
+    },
+    {
+     "c": "Asprenio Orsini Varaldo",
+     "n": "Brando De Sica"
+    },
+    {
+     "c": "Giusy Colombo",
+     "n": "Virginie Marsan"
+    },
+    {
+     "c": "Gina Colombo",
+     "n": "Erica Beltrami"
+    },
+    {
+     "c": "Rosanna Orsini Varaldo; Antonietta, madre di Rosanna",
+     "n": "Gea Martire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Vanzina"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 42425,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "While visiting Universal Studios in Hollywood along with their respective families, two Italian tourists get on a real time machine and got lost in time. Professor Mortimer effort to rescue them result in trips through various ages of ancient Italy.",
+   "popularity": 0.6659,
+   "poster_path": "/iMKjxF3LfJnWXqZN76PDZPDKiN7.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-12-13",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Walk in Time",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 350
+  },
+  "movie:520725": {
+   "backdrop_path": "/brLBKS5vQfP1vjiupHqa3xg1XQC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Djibi, le père / le prince",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Clotilde, la voisine / la femme à la porte",
+     "n": "Bérénice Bejo"
+    },
+    {
+     "c": "Pritprout",
+     "n": "François Damiens"
+    },
+    {
+     "c": "Sofia (12 ans)",
+     "n": "Sarah Gaye"
+    },
+    {
+     "c": "Sofia (8 ans) / la princesse",
+     "n": "Keyla Fala"
+    },
+    {
+     "c": "Max / le nouveau prince",
+     "n": "Néotis Ronzon"
+    },
+    {
+     "c": "Wallace, le régisseur",
+     "n": "Philippe Vieux"
+    },
+    {
+     "c": "Bernard, le régisseur",
+     "n": "Philippe Uchan"
+    },
+    {
+     "c": "Jacques dit \"Benoit\", l'accessoiriste",
+     "n": "Lionel Laget"
+    },
+    {
+     "c": "Johnny, le régisseur",
+     "n": "Philippe Hérisson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Michel Hazanavicius"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 520725,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Djibi lives alone with Sofia, his 8-year-old daughter. Every night, he invents a story to put him to sleep. When Sofia falls asleep, these extraordinary stories come to life somewhere in an imaginary world inhabited by knights, pirates and other dragons. In this world that belongs only to them, Sofia is always the princess to save, and the brave Prince is none other than Djibi himself.  But 3 years later, the entry of Sofia to the college will mark the end of her childhood. To the despair of her father, she no longer needs her stories at night. On the one hand, Djibi will have to accept that his daughter will grow up and move away from him. On the other hand, in the World of Stories, the Prince will have to face the most epic of all his adventures. Find your destiny in a world where it no longer has a place.",
+   "popularity": 1.5507,
+   "poster_path": "/iFcSfoMu9hQIX4t0CxIkDJKgIES.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-12",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "de",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Lost Prince",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.672,
+   "vote_count": 379
   },
   "movie:538225": {
    "backdrop_path": "/kIXJRoqUdqU9AowvS7PqBqMK8N8.jpg",
@@ -3083,6 +3625,121 @@
    "type": "movie",
    "vote_average": 8.061,
    "vote_count": 444
+  },
+  "movie:82825": {
+   "backdrop_path": "/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Vidya Bagchi / Vidya Basu",
+     "n": "Vidya Balan"
+    },
+    {
+     "c": "ASI Satyoki \"Rana\" Sinha",
+     "n": "Parambrata Chatterjee"
+    },
+    {
+     "c": "Bob Biswas",
+     "n": "Saswata Chatterjee"
+    },
+    {
+     "c": "A. Khan",
+     "n": "Nawazuddin Siddiqui"
+    },
+    {
+     "c": "Arnab Bagchi / Milan Damji",
+     "n": "Indraneil Sengupta"
+    },
+    {
+     "c": "K. Bhaskaran",
+     "n": "Dhritiman Chatterjee"
+    },
+    {
+     "c": "Retd. Colonel Bajpai",
+     "n": "Darshan Jariwala"
+    },
+    {
+     "c": "Paresh Pal",
+     "n": "Kalyan Chatterjee"
+    },
+    {
+     "c": "Sub-Inspector Chatterjee",
+     "n": "Kharaj Mukherjee"
+    },
+    {
+     "c": "Agnes D'Mello",
+     "n": "Colleen Blanche"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Sujoy Ghosh"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 82825,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Pregnant and alone in the city of Kolkata, a woman begins a relentless search for her missing husband, only to find that nothing is what it seems.",
+   "popularity": 1.0275,
+   "poster_path": "/eJpl0LdFTSA3wcPYtUUgbsBxPbe.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-09",
+   "revenue": 16000000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "bn",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "A mother of a story.",
+   "title": "Kahaani",
+   "trailer": {
+    "key": "CUj73MLqZoQ",
+    "name": "Kahaani trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.222,
+   "vote_count": 374
   },
   "movie:890825": {
    "backdrop_path": "/lRCAcwJeh93YHO3ghFBDf0Pj3w3.jpg",

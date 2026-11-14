@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 41,
+ "count": 47,
  "titles": {
   "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
@@ -691,6 +691,93 @@
    "type": "movie",
    "vote_average": 6.787,
    "vote_count": 495
+  },
+  "movie:13926": {
+   "backdrop_path": "/dxNJOGKmFRkTw9PATxvKhjlIHuP.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 13926,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Life as the sole sale item in the clearance corner of Eben's Bikes can get lonely. So Red, a unicycle, dreams up a clown owner and his own juggling act that steals the show. But all too soon, the applause turns into the sound of rainfall, as reality rushes back. Red must resign himself to sitting in the corner and await his fate.",
+   "popularity": 1.252,
+   "poster_path": "/ebPNnYqoEYntnrGdwtmppvBRHpu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-08-17",
+   "revenue": 0,
+   "runtime": 4,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "Red, a unicycle, dreams that he steals the show.",
+   "title": "Red's Dream",
+   "trailer": {
+    "key": "M80lX3Gl5Dw",
+    "name": "Red's Dream - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 376
   },
   "movie:1393326": {
    "backdrop_path": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
@@ -1423,6 +1510,266 @@
    "vote_average": 6.8,
    "vote_count": 38
   },
+  "movie:193726": {
+   "backdrop_path": "/yj8hwM8tRC3teJiRLEfsXOpXtio.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Assassin (segment\"Amateur\")",
+     "n": "Eric Jacobus"
+    },
+    {
+     "c": "Peter Toland (segment\"Badger\")",
+     "n": "Julian Barratt"
+    },
+    {
+     "c": "Fletcher (segment\"Capital Punishment\")",
+     "n": "Ian Virgo"
+    },
+    {
+     "c": "(segment\"Equilibrium\")",
+     "n": "Miguel Ángel Muñoz"
+    },
+    {
+     "c": "Soldier (segment\"Falling\")",
+     "n": "Dana Meinrath"
+    },
+    {
+     "c": "Grandad (segment\"Grandad\")",
+     "n": "Nicholas Amer"
+    },
+    {
+     "c": "Grandson (segment\"Grandad\")",
+     "n": "Richard Hardisty"
+    },
+    {
+     "c": "Mama (segment\"Invincible\")",
+     "n": "Sherry Lara"
+    },
+    {
+     "c": "(segment\"Jesus\")",
+     "n": "Francisco Barreiro"
+    },
+    {
+     "c": "The Girl (segment\"Knell\")",
+     "n": "Julija Steponaitytė"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Erik Matti",
+    "Kristina Buožytė",
+    "Robert Morgan",
+    "Bill Plympton",
+    "Rodney Ascher",
+    "Lancelot Oduwa Imasuen",
+    "Vincenzo Natali",
+    "Alexandre Bustillo",
+    "Bruno Samper",
+    "Aharon Keshales",
+    "Dennison Ramalho",
+    "E.L. Katz",
+    "Jerome Sable",
+    "Jen Soska",
+    "Navot Papushado",
+    "Julian Gilbey",
+    "Julien Maury",
+    "Larry Fessenden",
+    "Sylvia Soska",
+    "Hajime Ohata",
+    "Sôichi Umezawa",
+    "Chris Nash",
+    "Todd Rohal",
+    "Julian Barratt",
+    "Alejandro Brugués",
+    "Marvin Kren",
+    "Jim Hosking",
+    "Robert Boocheck",
+    "Juan Martínez Moreno",
+    "Steven Kostanski",
+    "Wolfgang Matzl"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 193726,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "NZ",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Taking all that was great from the first instalment, the movie aims to be a wilder, leaner, faster-paced and even more entertaining anthology this time around, with a new crop of award-winning, visionary filmmakers from around the globe.",
+   "popularity": 3.357,
+   "poster_path": "/9oijbrQPBjBerEa8yJtrCaV0emz.jpg",
+   "production_countries": [
+    "BR",
+    "CA",
+    "CU",
+    "FR",
+    "JP",
+    "LT",
+    "NZ",
+    "NG",
+    "PH",
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-02",
+   "revenue": 7171,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr",
+    "de",
+    "ja",
+    "pt",
+    "es",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Some people never learn.",
+   "title": "ABCs of Death 2",
+   "trailer": {
+    "key": "gTFt2qIgHkI",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 356
+  },
   "movie:20726": {
    "backdrop_path": "/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
    "budget": 20000000,
@@ -1837,6 +2184,124 @@
    "vote_average": 6.192,
    "vote_count": 435
   },
+  "movie:35626": {
+   "backdrop_path": "/a5o1VxHC6urCKWE620YFgYneV7j.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Frank",
+     "n": "Vincent Pastore"
+    },
+    {
+     "c": "Linda",
+     "n": "Jackie Tohn"
+    },
+    {
+     "c": "Ricky",
+     "n": "Jonathan Tiersten"
+    },
+    {
+     "c": "Ronnie",
+     "n": "Paul DeAngelo"
+    },
+    {
+     "c": "Charlie 'The Chef'",
+     "n": "Isaac Hayes"
+    },
+    {
+     "c": "Alan",
+     "n": "Michael Gibney"
+    },
+    {
+     "c": "Angela / Sheriff Jerry",
+     "n": "Felissa Rose"
+    },
+    {
+     "c": "Mickey",
+     "n": "Lenny Venito"
+    },
+    {
+     "c": "Karen",
+     "n": "Erin Broderick"
+    },
+    {
+     "c": "Weed",
+     "n": "Adam Wylie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Hiltzik"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 35626,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When campers and staff at Camp Manabe mysteriously begin disappearing and turning into gruesome corpses, paranoid Ronnie can't shake the memory of a series of grisly murders that took place at Camp Arawak two decades earlier.",
+   "popularity": 1.4386,
+   "poster_path": "/p6V97pjGwN0fENR6mlBeUoAT73z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-11-04",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Kids can be so mean.",
+   "title": "Return to Sleepaway Camp",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.716,
+   "vote_count": 349
+  },
   "movie:362826": {
    "backdrop_path": "/ictYT7jrWrJwTs11agZVxX8W1ZB.jpg",
    "budget": 0,
@@ -2224,6 +2689,108 @@
    "vote_average": 7.1,
    "vote_count": 390
   },
+  "movie:4226": {
+   "backdrop_path": "/wjOC016WdJd6xCphiebKNYDuq4Q.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Hagitha Utslay",
+     "n": "Tiffani Thiessen"
+    },
+    {
+     "c": "Doughy",
+     "n": "Tom Arnold"
+    },
+    {
+     "c": "Principal",
+     "n": "Coolio"
+    },
+    {
+     "c": "Martina",
+     "n": "Majandra Delfino"
+    },
+    {
+     "c": "Barbara",
+     "n": "Julie Benz"
+    },
+    {
+     "c": "Boner",
+     "n": "Danny Strong"
+    },
+    {
+     "c": "Slab",
+     "n": "Simon Rex"
+    },
+    {
+     "c": "Dawson",
+     "n": "Harley Cross"
+    },
+    {
+     "c": "Screw",
+     "n": "Aimee Graham"
+    },
+    {
+     "c": "Mrs. Peacock",
+     "n": "Kim Greist"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Blanchard"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4226,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this horror parody, a masked serial killer menaces the town of Bulimia Falls with various sharp objects. Attention-seeking television personality Hagitha Utslay is soon on the scene, reporting on the ever-growing body count. Former mall security guard Doughy shows up to protect the teenage population, but he's clearly not much help, allowing the murderer to pick off even more hapless kids as numerous scary movies are referenced.",
+   "popularity": 2.3521,
+   "poster_path": "/m0jr23r30h8DUrX3kIu7rO3NIQp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-10-17",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No shame. No mercy. No brains.",
+   "title": "Shriek If You Know What I Did Last Friday the 13th",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 353
+  },
   "movie:437626": {
    "backdrop_path": "/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
    "budget": 0,
@@ -2352,6 +2919,274 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 459
+  },
+  "movie:440626": {
+   "backdrop_path": "/zjVz2XCXKwb0FX8qge1LbTd80H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alexander Pechersky",
+     "n": "Konstantin Khabensky"
+    },
+    {
+     "c": "Karl Frenzel",
+     "n": "Christopher Lambert"
+    },
+    {
+     "c": "Hanna",
+     "n": "Michalina Olszańska"
+    },
+    {
+     "c": "Luca",
+     "n": "Felice Jankell"
+    },
+    {
+     "c": "Selma",
+     "n": "Mariya Kozhevnikova"
+    },
+    {
+     "c": "Leo",
+     "n": "Dainius Kazlauskas"
+    },
+    {
+     "c": "Siegfried Greitschus",
+     "n": "Philippe Reinhardt"
+    },
+    {
+     "c": "Johann Neumann",
+     "n": "Maximilian Dirr"
+    },
+    {
+     "c": "Berg",
+     "n": "Mindaugas Papinigis"
+    },
+    {
+     "c": "Gustav Wagner",
+     "n": "Wolfgang Cerny"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Konstantin Khabensky"
+   ],
+   "genres": [
+    "War",
+    "Drama"
+   ],
+   "id": 440626,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "The film is based on a real story that happened in 1943 in the Sobibor concentration camp in German-occupied Poland. The main character of the movie is the Soviet-Jewish soldier Alexander Pechersky, who at that time was serving in the Red Army as a lieutenant. In October 1943, he was captured by the Nazis and deported to the Sobibor concentration camp, where Jews were being exterminated in gas chambers. But, in just 3 weeks, Alexander was able to plan an international uprising of prisoners from Poland and Western Europe. This uprising resulted in being the only successful one throughout the war, which led to the largest escape of prisoners from a Nazi concentration camp.",
+   "popularity": 2.0774,
+   "poster_path": "/dnexT2if0lRTp8jsGSOY4JVAnnj.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-03",
+   "revenue": 4988176,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "yi",
+    "ru",
+    "de",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "Based On a True Story That Changed The World",
+   "title": "Sobibor",
+   "trailer": {
+    "key": "-hBacXWZrfM",
+    "name": "Official Trailer (Subbed)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.545,
+   "vote_count": 341
+  },
+  "movie:479626": {
+   "backdrop_path": "/eiBXqcjxrw9osXatNfqTGmibhTC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Avicii"
+    },
+    {
+     "c": "Self",
+     "n": "David Guetta"
+    },
+    {
+     "c": "Self",
+     "n": "Tiësto"
+    },
+    {
+     "c": "Self",
+     "n": "Mike Einziger"
+    },
+    {
+     "c": "Self",
+     "n": "Nile Rodgers"
+    },
+    {
+     "c": "Self",
+     "n": "Wyclef Jean"
+    },
+    {
+     "c": "Self",
+     "n": "Chris Martin"
+    },
+    {
+     "c": "Self",
+     "n": "Aloe Blacc"
+    },
+    {
+     "c": "Self - Former President USA (archive footage)",
+     "n": "Barack Obama"
+    },
+    {
+     "c": "Self",
+     "n": "Salem Al Fakir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "Btl",
+   "date_kind": "release",
+   "director": [
+    "Levan Tsikurishvili"
+   ],
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "id": 479626,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Documentary about the arena-packing Swedish DJ, chronicling his explosive rise to fame and surprising decision to retire from live performances in 2016.",
+   "popularity": 0.9779,
+   "poster_path": "/obVlatSLP94kmml5UaCjLsdWPWG.jpg",
+   "production_countries": [
+    "SE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-26",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Avicii: True Stories",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.986,
+   "vote_count": 365
   },
   "movie:491926": {
    "backdrop_path": "/vNeEaRg6WWDSOGOwXuaZ2UziMWY.jpg",

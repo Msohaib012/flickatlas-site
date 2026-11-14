@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 26,
+ "count": 31,
  "titles": {
   "movie:1020047": {
    "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
@@ -260,6 +260,119 @@
    "type": "movie",
    "vote_average": 6.409,
    "vote_count": 389
+  },
+  "movie:11347": {
+   "backdrop_path": "/eeBXjRQikfiIlagI0EWTAE1ymLr.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Lady Sylvia Marsh",
+     "n": "Amanda Donohoe"
+    },
+    {
+     "c": "Lord James D'Ampton",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Eve Trent",
+     "n": "Catherine Oxenberg"
+    },
+    {
+     "c": "Angus Flint",
+     "n": "Peter Capaldi"
+    },
+    {
+     "c": "Mary Trent",
+     "n": "Sammi Davis"
+    },
+    {
+     "c": "Peters",
+     "n": "Stratford Johns"
+    },
+    {
+     "c": "P.C. Erny",
+     "n": "Paul Brooke"
+    },
+    {
+     "c": "Dorothy Trent",
+     "n": "Imogen Claire"
+    },
+    {
+     "c": "Kevin",
+     "n": "Chris Pitt"
+    },
+    {
+     "c": "Nurse Gladwell",
+     "n": "Gina McKee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ken Russell"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 11347,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When an archaeologist uncovers a strange skull in a foreign land, the residents of a nearby town begin to disappear, leading to further inexplicable occurrences.",
+   "popularity": 3.145,
+   "poster_path": "/mHY7MwqrsCJNEAPt6K5PcNXmAfL.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-09-21",
+   "revenue": 1189315,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some legends really bite.",
+   "title": "The Lair of the White Worm",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.923,
+   "vote_count": 344
   },
   "movie:1257147": {
    "backdrop_path": "/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
@@ -786,6 +899,244 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 34
+  },
+  "movie:15247": {
+   "backdrop_path": "/y7qyru5dzEGk6QUO8ZobgfVbF2b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Palmer",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Major Dalby",
+     "n": "Nigel Green"
+    },
+    {
+     "c": "Colonel H.L. Ross",
+     "n": "Guy Doleman"
+    },
+    {
+     "c": "Jean Courtney",
+     "n": "Sue Lloyd"
+    },
+    {
+     "c": "Jock Carswell",
+     "n": "Gordon Jackson"
+    },
+    {
+     "c": "Dr. Radcliffe",
+     "n": "Aubrey Richards"
+    },
+    {
+     "c": "Bluejay",
+     "n": "Frank Gatliff"
+    },
+    {
+     "c": "Barney",
+     "n": "Thomas Baptiste"
+    },
+    {
+     "c": "Housemartin",
+     "n": "Oliver MacGreevy"
+    },
+    {
+     "c": "Alice",
+     "n": "Freda Bamford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Sidney J. Furie"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 15247,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Sly and dry intelligence agent Harry Palmer is tasked with investigating British Intelligence security, and is soon enmeshed in a world of double-dealing, kidnap and murder when he finds a traitor operating at the heart of the secret service.",
+   "popularity": 1.7535,
+   "poster_path": "/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-03-18",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sq",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The spy story of the century.",
+   "title": "The Ipcress File",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 370
+  },
+  "movie:299847": {
+   "backdrop_path": "/h0cOt7XbrRiKYdytcdoYFu6I7Jh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marcello",
+     "n": "Claudio Bisio"
+    },
+    {
+     "c": "Nazareno",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Silvia",
+     "n": "Anna Foglietta"
+    },
+    {
+     "c": "Vitaliana",
+     "n": "Paola Minaccioni"
+    },
+    {
+     "c": "Betta",
+     "n": "Caterina Guzzanti"
+    },
+    {
+     "c": "Enrico",
+     "n": "Pietro Sermonti"
+    },
+    {
+     "c": "Pasquale",
+     "n": "Massimiliano Bruno"
+    },
+    {
+     "c": "Michelangelo",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Mercedes",
+     "n": "Kelly Palacios"
+    },
+    {
+     "c": "Andrea",
+     "n": "Gioele Dix"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Massimiliano Bruno"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 299847,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A psychoanalyst learns to have an illness and as a consequence he decides to quit his job. All his patients get together to find a way to make him feel better.",
+   "popularity": 0.8382,
+   "poster_path": "/5xDDVnfrSDTMXgdnH5m9kY8qE09.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-30",
+   "revenue": 4626678,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Who analyzes the analyst?",
+   "title": "Happily Mixed Up",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.144,
+   "vote_count": 353
   },
   "movie:37347": {
    "backdrop_path": "/lJyDK0shCLOVa7OZQrcYkM9MKmq.jpg",
@@ -1811,6 +2162,203 @@
    "type": "movie",
    "vote_average": 7.373,
    "vote_count": 386
+  },
+  "movie:730047": {
+   "backdrop_path": "/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Cyrano de Bergerac",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Roxanne",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Christian de Neuvillette",
+     "n": "Kelvin Harrison Jr."
+    },
+    {
+     "c": "De Guiche",
+     "n": "Ben Mendelsohn"
+    },
+    {
+     "c": "Marie",
+     "n": "Monica Dolan"
+    },
+    {
+     "c": "Le Bret",
+     "n": "Bashir Salahuddin"
+    },
+    {
+     "c": "Valvert",
+     "n": "Joshua James"
+    },
+    {
+     "c": "Sister Claire",
+     "n": "Anjana Vasan"
+    },
+    {
+     "c": "Mother Marthe",
+     "n": "Ruth Sheen"
+    },
+    {
+     "c": "Guard",
+     "n": "Glen Hansard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Wright"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 730047,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her—and Roxanne has fallen in love, at first sight, with Christian.",
+   "popularity": 2.118,
+   "poster_path": "/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-06",
+   "revenue": 6397112,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Have you ever loved someone?",
+   "title": "Cyrano",
+   "trailer": {
+    "key": "fOInHcgmKus",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.332,
+   "vote_count": 342
+  },
+  "movie:779047": {
+   "backdrop_path": "/9B4hHMsnjxo8NnTcKIfg3cjJzMi.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Zach Parrish"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family",
+    "Romance"
+   ],
+   "id": 779047,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a vibrant city pulsating with rhythm and movement, an elderly man and his young-at-heart wife rekindle their youthful passion for life and each other on one magical night.",
+   "popularity": 1.0422,
+   "poster_path": "/zKnenwvQB6xA4mxc8zxL2S8qVbR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-03-03",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Us Again",
+   "trailer": {
+    "key": "0ylr70WNAe8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.767,
+   "vote_count": 360
   },
   "movie:94047": {
    "backdrop_path": "/4QHF7kAYjIpZ5U8A0amvhRkHlZ1.jpg",

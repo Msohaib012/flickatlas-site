@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 33,
+ "count": 39,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -378,6 +378,96 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
+  },
+  "movie:11465": {
+   "backdrop_path": "/A4sFrTjB4JOrmCQLRqnfz91BQTK.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Jerry Lee Lewis",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Myra Gale Brown",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "J.W. Brown",
+     "n": "John Doe"
+    },
+    {
+     "c": "Jud Phillips",
+     "n": "Stephen Tobolowsky"
+    },
+    {
+     "c": "Jimmy Swaggart",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Lois Brown",
+     "n": "Lisa Blount"
+    },
+    {
+     "c": "Sam Phillips",
+     "n": "Trey Wilson"
+    },
+    {
+     "c": "Steve Allen",
+     "n": "Steve Allen"
+    },
+    {
+     "c": "Elvis",
+     "n": "Michael St. Gerard"
+    },
+    {
+     "c": "James Van Eaton",
+     "n": "Mojo Nixon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jim McBride"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Music"
+   ],
+   "id": 11465,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Jerry Lee Lewis, arguably the greatest and certainly one of the wildest musicians of the 1950s. His arrogance, remarkable talent, and unconventional lifestyle often brought him into conflict with others in the industry, and even earned him the scorn and condemnation of the public.",
+   "popularity": 2.3449,
+   "poster_path": "/cb0zpDUnHBj8PxWQG5L96m3rxrk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1989-06-30",
+   "revenue": 13741060,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The true story of a legend.",
+   "title": "Great Balls of Fire!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 359
   },
   "movie:12165": {
    "backdrop_path": "/7BSSLv4MvBjEmercZIolaOUR42q.jpg",
@@ -1631,6 +1721,198 @@
    "vote_average": 6.809,
    "vote_count": 403
   },
+  "movie:17965": {
+   "backdrop_path": "/sVCJjlVfoslaUQ19aU4XMgB2yVB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Anton Phibes",
+     "n": "Vincent Price"
+    },
+    {
+     "c": "Dr. Vesalius",
+     "n": "Joseph Cotten"
+    },
+    {
+     "c": "Rabbi",
+     "n": "Hugh Griffith"
+    },
+    {
+     "c": "Dr. Longstreet",
+     "n": "Terry-Thomas"
+    },
+    {
+     "c": "Vulnavia",
+     "n": "Virginia North"
+    },
+    {
+     "c": "Inspector Trout",
+     "n": "Peter Jeffrey"
+    },
+    {
+     "c": "Crow",
+     "n": "Derek Godfrey"
+    },
+    {
+     "c": "Sgt. Schenley",
+     "n": "Norman Jones"
+    },
+    {
+     "c": "Superintendent Waverley",
+     "n": "John Cater"
+    },
+    {
+     "c": "Goldsmith",
+     "n": "Aubrey Woods"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Fuest"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 17965,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a team of surgeons botches his beloved wife's operation, the distraught Dr. Phibes unleashes a score of Old-Testament atrocities on his enemies.",
+   "popularity": 2.2239,
+   "poster_path": "/4853HMKlJl1RozE6OyHBKQemCE0.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1971-04-01",
+   "revenue": 1827000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Love means never having to say you're ugly.",
+   "title": "The Abominable Dr. Phibes",
+   "trailer": {
+    "key": "hwIL4dAsfLA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.941,
+   "vote_count": 355
+  },
+  "movie:19165": {
+   "backdrop_path": "/1U2wQbsCqAydFB4jMC7fqs8Frs3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator / Cera's Father (voice)",
+     "n": "John Ingle"
+    },
+    {
+     "c": "Littlefoot (voice)",
+     "n": "Brandon La Croix"
+    },
+    {
+     "c": "Ducky (voice)",
+     "n": "Aria Noelle Curzon"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Cera (voice)",
+     "n": "Anndi McAfee"
+    },
+    {
+     "c": "Petrie / Mr. Clubtail (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Grandpa (voice)",
+     "n": "Kenneth Mars"
+    },
+    {
+     "c": "Grandma (voice)",
+     "n": "Miriam Flynn"
+    },
+    {
+     "c": "Ducky's Mother / Petrie's Mother (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Chomper (voice)",
+     "n": "Cannon Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Charles Grosvenor"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 19165,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Great Valley turns barren and herds of dinosaurs have to find another place to inhabit. Cera, Littlefoot and Petrie, all kids, leave to find food and get stranded on a lush unknown island.",
+   "popularity": 2.4849,
+   "poster_path": "/nlsJfYQ3dwzvr6kwG60P0nh59Sa.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-09-12",
+   "revenue": 0,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Chomper's back! littlefoot's pal returns for the adventure of lifetime!",
+   "title": "The Land Before Time V: The Mysterious Island",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 361
+  },
   "movie:28665": {
    "backdrop_path": "/xNSvcxjfrEMnqaCRmkDydEoHYL8.jpg",
    "budget": 18000000,
@@ -1898,6 +2180,335 @@
    "type": "movie",
    "vote_average": 7.313,
    "vote_count": 402
+  },
+  "movie:370665": {
+   "backdrop_path": "/axCqDdiznyQxmTO2hjYjDPYHZvO.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Raj/Kaali",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Meera Malik",
+     "n": "Kajol"
+    },
+    {
+     "c": "Veer",
+     "n": "Varun Dhawan"
+    },
+    {
+     "c": "Ishita",
+     "n": "Kriti Sanon"
+    },
+    {
+     "c": "King",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Mani Bhai",
+     "n": "Johny Lever"
+    },
+    {
+     "c": "Oscar Bhai",
+     "n": "Sanjay Mishra"
+    },
+    {
+     "c": "Dev Malik",
+     "n": "Kabir Bedi"
+    },
+    {
+     "c": "Shakti",
+     "n": "Mukesh Tiwari"
+    },
+    {
+     "c": "Randheer Bakshi",
+     "n": "Vinod Khanna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Rohit Shetty"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Comedy"
+   ],
+   "id": 370665,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Raj is a Mafia member. One day he meet a girl (Meera) while chasing by his rival gang and falls in love with her. Later he finds out that this girl is the daughter of the leader of his rival gang. Yet their love story continues until he was shot by his girlfriend upon a deep misunderstanding. After that incident these two lovers lives separate until their siblings fallen in love. With this new love story their paths intertwines again.",
+   "popularity": 1.9238,
+   "poster_path": "/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-18",
+   "revenue": 61000000,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dilwale",
+   "trailer": {
+    "key": "AHuOo1DLcRc",
+    "name": "Dilwale Trailer | Kajol, Shah Rukh Khan, Varun Dhawan, Kriti Sanon | A Rohit Shetty Film",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.522,
+   "vote_count": 363
+  },
+  "movie:374465": {
+   "backdrop_path": "/7enN15KGCXEYxb10bx3EOM8h9DI.jpg",
+   "budget": 2100000,
+   "cast": [
+    {
+     "c": "Nathalie Chazeaux",
+     "n": "Isabelle Huppert"
+    },
+    {
+     "c": "Heinz",
+     "n": "André Marcon"
+    },
+    {
+     "c": "Fabien",
+     "n": "Roman Kolinka"
+    },
+    {
+     "c": "Yvette",
+     "n": "Édith Scob"
+    },
+    {
+     "c": "Chloé",
+     "n": "Sarah Le Picard"
+    },
+    {
+     "c": "Johann",
+     "n": "Solal Forte"
+    },
+    {
+     "c": "Elsa",
+     "n": "Élise Lhomeau"
+    },
+    {
+     "c": "Hugo",
+     "n": "Lionel Dray"
+    },
+    {
+     "c": "Daniel",
+     "n": "Yves Heck"
+    },
+    {
+     "c": "Simon (élève lycée)",
+     "n": "Grégoire Montana-Haroche"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mia Hansen-Løve"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 374465,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Nathalie teaches philosophy at a high school in Paris. She is passionate about her job and particularly enjoys passing on the pleasure of thinking. Married with two children, she divides her time between her family, former students and her very possessive mother. One day, Nathalie’s husband announces he is leaving her for another woman. With freedom thrust upon her, Nathalie must reinvent her life.",
+   "popularity": 1.1866,
+   "poster_path": "/6MAAJJ51y2RUa1gvvVje4s0FB7W.jpg",
+   "production_countries": [
+    "DE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-06",
+   "revenue": 282382,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Things to Come",
+   "trailer": {
+    "key": "f6k83SzrFek",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 351
   },
   "movie:41665": {
    "backdrop_path": "/8bOqmWt0OwkSCWbQJTb5YYvyH2C.jpg",
@@ -2527,6 +3138,124 @@
    "type": "movie",
    "vote_average": 6.184,
    "vote_count": 439
+  },
+  "movie:9065": {
+   "backdrop_path": "/9vOfO3CP8mqqq0oqCNl9R7M07xE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leopold Kessler",
+     "n": "Jean-Marc Barr"
+    },
+    {
+     "c": "Katharina Hartmann",
+     "n": "Barbara Sukowa"
+    },
+    {
+     "c": "Lawrence Hartmann",
+     "n": "Udo Kier"
+    },
+    {
+     "c": "Uncle Kessler",
+     "n": "Ernst-Hugo Järegård"
+    },
+    {
+     "c": "Pater",
+     "n": "Erik Mørk"
+    },
+    {
+     "c": "Max Hartmann",
+     "n": "Jørgen Reenberg"
+    },
+    {
+     "c": "Siggy",
+     "n": "Henning Jensen"
+    },
+    {
+     "c": "Colonel Harris",
+     "n": "Eddie Constantine"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Steleman",
+     "n": "Benny Poulsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lars von Trier"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 9065,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "de",
+   "overview": "In 1945 Germany, following the end of World War II, Leopold Kessler, an American of German descent, is hired by his uncle as a sleeping car conductor on the Zentropa train line. Leopold's wish is to be neutral to the ongoing purges of loyalists by Allied forces and do what he can to help a hurting country, but ultimately finds himself being used by both sides.",
+   "popularity": 1.7091,
+   "poster_path": "/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
+   "production_countries": [
+    "DK",
+    "FR",
+    "DE",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-06-27",
+   "revenue": 1007976,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "World War II had finished, but it left indelible marks.",
+   "title": "Europa",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.335,
+   "vote_count": 382
   },
   "movie:963765": {
    "backdrop_path": "/8J5GetxLHw6R380GUBEmH95dvrl.jpg",

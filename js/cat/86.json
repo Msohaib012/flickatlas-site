@@ -1,7 +1,144 @@
 {
  "bucket": "86",
- "count": 43,
+ "count": 49,
  "titles": {
+  "movie:10886": {
+   "backdrop_path": "/ckkDsME8QIqBDp1wO0PvJ2q5ACU.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Irena",
+     "n": "Kseniya Rappoport"
+    },
+    {
+     "c": "Muffa",
+     "n": "Michele Placido"
+    },
+    {
+     "c": "Valeria Adacher",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Donato Adacher",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Tea Adacher",
+     "n": "Clara Dossena"
+    },
+    {
+     "c": "Matteo",
+     "n": "Alessandro Haber"
+    },
+    {
+     "c": "Gina",
+     "n": "Piera Degli Esposti"
+    },
+    {
+     "c": "GIP",
+     "n": "Pino Calabrese"
+    },
+    {
+     "c": "Lucrezia",
+     "n": "Ángela Molina"
+    },
+    {
+     "c": "Nello",
+     "n": "Paolo Elmo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Giuseppe Tornatore"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 10886,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A Ukrainian woman named Irena calculatedly insinuates herself into the lives of a young, affluent Italian family. Stopping at nothing to become the couple's trusted maid and the beloved nanny to their fragile young daughter, Irena risks everything in her quest to uncover the truth about the family.",
+   "popularity": 1.909,
+   "poster_path": "/piBn5ydvdfCHSfys6N1A7LNwQft.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-10-09",
+   "revenue": 6881566,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Unknown Woman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.205,
+   "vote_count": 383
+  },
   "movie:11986": {
    "backdrop_path": "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
    "budget": 0,
@@ -1134,6 +1271,394 @@
    "vote_average": 7.028,
    "vote_count": 452
   },
+  "movie:19286": {
+   "backdrop_path": "/xGGRgSD7vbkyFwrt24x6cG4ytbp.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Leprechaun",
+     "n": "Warwick Davis"
+    },
+    {
+     "c": "Scott",
+     "n": "John Gatins"
+    },
+    {
+     "c": "Tammy",
+     "n": "Lee Armstrong"
+    },
+    {
+     "c": "Fazio",
+     "n": "John DeMita"
+    },
+    {
+     "c": "Mitch",
+     "n": "Michael Callan"
+    },
+    {
+     "c": "Loretta",
+     "n": "Caroline Williams"
+    },
+    {
+     "c": "Gupta",
+     "n": "Marcelo Tubert"
+    },
+    {
+     "c": "Art",
+     "n": "Tom Dugan"
+    },
+    {
+     "c": "Waitress",
+     "n": "Leigh-Allyn Baker"
+    },
+    {
+     "c": "Lucky",
+     "n": "Richard Reicheg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Trenchard-Smith"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 19286,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It was a normal night in Las Vegas, Nevada, all the lights were flashing brightly, until a man with one hand, one eye, and one leg walks into a pawn shop with a statue of a hideous looking Leprechaun. The owner claims it's a good luck charm. The statue also wore a medallion around it's neck. The careless pawn shop owner took off the medallion setting the Leprechaun free...",
+   "popularity": 2.3247,
+   "poster_path": "/z9NT2smK66pYOjBtmZuKFFTZ478.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-06-27",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to Vegas... the odds are you won't leave alive!",
+   "title": "Leprechaun 3",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 371
+  },
+  "movie:201086": {
+   "backdrop_path": "/rKIifnWUilOKt8raPEx35Lt3jmT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruce",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Drew",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Sam",
+     "n": "Olivia Colman"
+    },
+    {
+     "c": "Julia",
+     "n": "Rashida Jones"
+    },
+    {
+     "c": "Bejan",
+     "n": "Kayvan Novak"
+    },
+    {
+     "c": "Ron Parfitt",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Gary",
+     "n": "Rory Kinnear"
+    },
+    {
+     "c": "Helen",
+     "n": "Alexandra Roach"
+    },
+    {
+     "c": "Young Sam",
+     "n": "Isabella Steinbarth"
+    },
+    {
+     "c": "Security Guard Kevin",
+     "n": "Steve Oram"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Griffiths"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 201086,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Beneath Bruce Garrett's under-confident, overweight exterior, the passionate heart of a salsa king lies dormant. Now, one woman is about to reignite his Latin fire.",
+   "popularity": 1.4157,
+   "poster_path": "/xuRAyIUJmgXwI1ba06AxYBAQMTc.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-14",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "fa"
+   ],
+   "status": "Released",
+   "tagline": "All's fair in Love & Salsa",
+   "title": "Cuban Fury",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.094,
+   "vote_count": 355
+  },
+  "movie:207686": {
+   "backdrop_path": "/ZIwr7usYLrVodguqdosMiXzJc5.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Dulce",
+     "n": "Ruddy Rodriguez"
+    },
+    {
+     "c": "Juan Jose",
+     "n": "Gonzalo Cubero"
+    },
+    {
+     "c": "Priest",
+     "n": "Guillermo García"
+    },
+    {
+     "c": "Vidente Adriana",
+     "n": "Adriana Calzadilla"
+    },
+    {
+     "c": "Leopoldo",
+     "n": "Rosmel Bustamante"
+    },
+    {
+     "c": "Rodrigo",
+     "n": "Hector Mercado"
+    },
+    {
+     "c": "Inspector",
+     "n": "Miguel Flores"
+    },
+    {
+     "c": "Madame Victoria",
+     "n": "Simona Chirinos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Alejandro Hidalgo"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 207686,
+   "industry": "world",
+   "origin_country": [
+    "VE"
+   ],
+   "original_language": "es",
+   "overview": "The story of Dulce, a mother who has encounters with apparitions inside her old house. She must decipher a mystery that could trigger a prophecy: the death of her family.",
+   "popularity": 1.1365,
+   "poster_path": "/88keS5TaMqlbuqCZIgwwusmv4tu.jpg",
+   "production_countries": [
+    "VE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-06-21",
+   "revenue": 4588899,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "There's no turning back.",
+   "title": "The House at the End of Time",
+   "trailer": {
+    "key": "clEBwkjs0sQ",
+    "name": "The House at the End of Time - Official Trailer - (2014)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 350
+  },
   "movie:21786": {
    "backdrop_path": "/99xMo0iXjCUzV1sYuANA4eUujXv.jpg",
    "budget": 0,
@@ -1801,6 +2326,248 @@
    "type": "movie",
    "vote_average": 5.906,
    "vote_count": 420
+  },
+  "movie:415086": {
+   "backdrop_path": "/cknjcnAD4xFxktXlkG1nzSLJzAn.jpg",
+   "budget": 273428,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Kip Andersen"
+    },
+    {
+     "c": "Self",
+     "n": "Larry Baldwin"
+    },
+    {
+     "c": "Self",
+     "n": "Neal Barnard"
+    },
+    {
+     "c": "Self",
+     "n": "Tia Blanco"
+    },
+    {
+     "c": "Self",
+     "n": "David Carter"
+    },
+    {
+     "c": "Self",
+     "n": "Jake Conroy"
+    },
+    {
+     "c": "Self",
+     "n": "Garth Davis"
+    },
+    {
+     "c": "Self",
+     "n": "Caldwell Esselstyn Jr."
+    },
+    {
+     "c": "Self",
+     "n": "Mike Ewall"
+    },
+    {
+     "c": "Self",
+     "n": "Alan Goldhamer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kip Andersen",
+    "Keegan Kuhn"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 415086,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Filmmaker Kip Andersen uncovers the secret to preventing and even reversing chronic diseases, and he investigates why the nation's leading health organizations doesn't want people to know about it.",
+   "popularity": 0.7755,
+   "poster_path": "/sz9cPeSmiGLA1EDUPszlrWfSrId.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-16",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The health film that health organizations don't want you to see.",
+   "title": "What the Health",
+   "trailer": {
+    "key": "Jf44vLndiRM",
+    "name": "WHAT THE HEALTH Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.776,
+   "vote_count": 371
+  },
+  "movie:416186": {
+   "backdrop_path": "/sPbSkNWMbgfodgRKZAz0VyS2ffd.jpg",
+   "budget": 12840746,
+   "cast": [
+    {
+     "c": "Jean-Luc Godard",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Anne Wiazemsky",
+     "n": "Stacy Martin"
+    },
+    {
+     "c": "Michèle Rosier",
+     "n": "Bérénice Bejo"
+    },
+    {
+     "c": "Bambam",
+     "n": "Micha Lescot"
+    },
+    {
+     "c": "Michel Cournot",
+     "n": "Grégory Gadebois"
+    },
+    {
+     "c": "Jean-Pierre Gorin",
+     "n": "Félix Kysyl"
+    },
+    {
+     "c": "Jean-Henri 'Jean-Jock' Roger",
+     "n": "Arthur Orcier"
+    },
+    {
+     "c": "Bernardo Bertolucci",
+     "n": "Guido Caprino"
+    },
+    {
+     "c": "Marco Ferreri",
+     "n": "Emmanuele Aita"
+    },
+    {
+     "c": "Marco Margine",
+     "n": "Matteo Martari"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michel Hazanavicius"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 416186,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1967, during the making of “La Chinoise,” film director Jean-Luc Godard falls in love with 19-year-old actress Anne Wiazemsky and marries her.",
+   "popularity": 1.8393,
+   "poster_path": "/JfAE5Pj1Qqv7Ij5DaUG0QoZC97.jpg",
+   "production_countries": [
+    "MM",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-09-13",
+   "revenue": 82264,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "cs",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This movie is a “stupid, stupid idea.”",
+   "title": "Godard Mon Amour",
+   "trailer": {
+    "key": "Nh2zKF6Ucv8",
+    "name": "US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 379
   },
   "movie:4886": {
    "backdrop_path": "/anyaK6Ab3g2FQyXpTI36rAWRQsw.jpg",

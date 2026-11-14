@@ -1,6 +1,6 @@
 {
  "bucket": "76",
- "count": 34,
+ "count": 39,
  "titles": {
   "movie:1005776": {
    "backdrop_path": "/zLUeVsiJ4mKlqSI7cB7lnxCzSbb.jpg",
@@ -335,6 +335,217 @@
    "type": "movie",
    "vote_average": 7.172,
    "vote_count": 480
+  },
+  "movie:1072876": {
+   "backdrop_path": "/jsp420JTZ7EK5LhpwzunE1Pu43d.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Tommy",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Maddy",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Theresa",
+     "n": "Natalie Morales"
+    },
+    {
+     "c": "Andy Samberg",
+     "n": "Andy Samberg"
+    },
+    {
+     "c": "Amy",
+     "n": "Mary Holland"
+    },
+    {
+     "c": "Mary",
+     "n": "Emily Hampshire"
+    },
+    {
+     "c": "Laurie",
+     "n": "Nancy Lenehan"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Daryl J. Johnson"
+    },
+    {
+     "c": "Becky Ann",
+     "n": "Miriam Flynn"
+    },
+    {
+     "c": "7 Foot Man",
+     "n": "Boban Marjanović"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jake Johnson"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1072876,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a man is offered a million dollars to play a game in which hunters try to kill him, he thinks he has found the perfect loophole: they can only attack when he’s alone. His only problem is that none of his friends or family believe the game is real. Forced to seek companionship in unexpected places, he navigates the bizarre challenge with humor, paranoia, and a surprising search for connection.",
+   "popularity": 2.421,
+   "poster_path": "/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-03",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Surviving is all about the company you keep.",
+   "title": "Self Reliance",
+   "trailer": {
+    "key": "Ocw_fVdr4_g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.863,
+   "vote_count": 347
+  },
+  "movie:1081676": {
+   "backdrop_path": "/j1bOCozOQOxJpk0iAQbJDS2w8OJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rafał Wilczur / Antoni Kosiba",
+     "n": "Leszek Lichota"
+    },
+    {
+     "c": "Marysia Wilczur",
+     "n": "Maria Kowalska"
+    },
+    {
+     "c": "Leszek Czyński",
+     "n": "Ignacy Liss"
+    },
+    {
+     "c": "Zośka",
+     "n": "Anna Szymańczyk"
+    },
+    {
+     "c": "Eleonora Czyńska",
+     "n": "Izabela Kuna"
+    },
+    {
+     "c": "Stanisław Czyński",
+     "n": "Mikołaj Grabowski"
+    },
+    {
+     "c": "Jerzy Dobraniecki",
+     "n": "Mirosław Haniszewski"
+    },
+    {
+     "c": "Butler",
+     "n": "Artur Barciś"
+    },
+    {
+     "c": "Beata Wilczur",
+     "n": "Małgorzata Mikołajczak"
+    },
+    {
+     "c": "Lesien",
+     "n": "Jarosław Gruda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Michał Gazda"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1081676,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "A once-respected surgeon who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past.",
+   "popularity": 3.0016,
+   "poster_path": "/1THDAakV8hmbRC9YIqJ9SngVinr.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-26",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Forgotten Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.788,
+   "vote_count": 382
   },
   "movie:1242876": {
    "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
@@ -1921,6 +2132,136 @@
    "vote_average": 6.743,
    "vote_count": 452
   },
+  "movie:337676": {
+   "backdrop_path": "/jyvbxKsmIIYTQsjOCjnRYWyUEsa.jpg",
+   "budget": 9898623,
+   "cast": [
+    {
+     "c": "Amin",
+     "n": "Shaïn Boumedine"
+    },
+    {
+     "c": "Ophélie",
+     "n": "Ophélie Bau"
+    },
+    {
+     "c": "Tony",
+     "n": "Salim Kéchiouche"
+    },
+    {
+     "c": "Céline",
+     "n": "Lou Luttiau"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Alexia Chardard"
+    },
+    {
+     "c": "Camélia",
+     "n": "Hafsia Herzi"
+    },
+    {
+     "c": "Amin's mother",
+     "n": "Delinda Kechiche"
+    },
+    {
+     "c": "Kamel",
+     "n": "Kamel Saadi"
+    },
+    {
+     "c": "Tony's mother",
+     "n": "Hatika Karaoui"
+    },
+    {
+     "c": "Mel",
+     "n": "Meleinda Elasfour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Abdellatif Kechiche"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 337676,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Amin, an aspiring screenwriter living in Paris, returns home for the summer, in Sète, South of France. It is a time of reconnecting with his family and his childhood friends. Together with his cousin Tony and his best friend Ophélie, he spends his time between the Tunisian restaurant run by his parents, the local bars and the beaches frequented by girls on holiday.",
+   "popularity": 2.6602,
+   "poster_path": "/jJLL0E243c8CBTlryvYh69rQQV9.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/4YC38wgKDkaL2NQiujnUFRt9VIB.png",
+     "name": "Curzon Home Cinema",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-21",
+   "revenue": 1132997,
+   "runtime": 174,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar",
+    "fr",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "For love, only Mektoub can decide.",
+   "title": "Mektoub, My Love: Canto Uno",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 351
+  },
   "movie:340176": {
    "backdrop_path": "/rch5tr1bpNyfeRJxARoU7I2a9KR.jpg",
    "budget": 1250000,
@@ -2105,6 +2446,223 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 399
+  },
+  "movie:536176": {
+   "backdrop_path": "/eVLiY6ThGcgTa19dmOa8MtPQSLH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dominic Cummings",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Craig Oliver",
+     "n": "Rory Kinnear"
+    },
+    {
+     "c": "Matthew Elliott",
+     "n": "John Heffernan"
+    },
+    {
+     "c": "Michael Gove",
+     "n": "Oliver Maltman"
+    },
+    {
+     "c": "Boris Johnson",
+     "n": "Richard Goulding"
+    },
+    {
+     "c": "Douglas Carswell",
+     "n": "Simon Paisley Day"
+    },
+    {
+     "c": "Arron Banks",
+     "n": "Lee Boardman"
+    },
+    {
+     "c": "Elizabeth Denham",
+     "n": "Lucy Russell"
+    },
+    {
+     "c": "Nigel Farage",
+     "n": "Paul Ryan"
+    },
+    {
+     "c": "Zack Massingham",
+     "n": "Kyle Soller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Toby Haynes"
+   ],
+   "genres": [
+    "History",
+    "TV Movie",
+    "Drama"
+   ],
+   "id": 536176,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.",
+   "popularity": 1.5619,
+   "poster_path": "/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-19",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everyone knows who won. But not everyone knows how.",
+   "title": "Brexit: The Uncivil War",
+   "trailer": {
+    "key": "E5S1EMmCWAE",
+    "name": "Brexit (2019) | Official Trailer | HBO",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.605,
+   "vote_count": 375
+  },
+  "movie:574376": {
+   "backdrop_path": "/bd6NQDFpUoqNWWJ8eBBip3SR2kP.jpg",
+   "budget": 3328289,
+   "cast": [
+    {
+     "c": "Mario",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Julia",
+     "n": "María Vázquez"
+    },
+    {
+     "c": "Toño",
+     "n": "Ismael Martínez"
+    },
+    {
+     "c": "Presidiario 2",
+     "n": "Pablo Guisa Koestinger"
+    },
+    {
+     "c": "Xepas",
+     "n": "Daniel Currás"
+    },
+    {
+     "c": "Ana",
+     "n": "María Luisa Mayol"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Víctor Duplá"
+    },
+    {
+     "c": "Kiko",
+     "n": "Enric Auquer"
+    },
+    {
+     "c": "Antonio Padín",
+     "n": "Xan Cejudo"
+    },
+    {
+     "c": "Cura funeral",
+     "n": "Marcos Javier Fernández Eimil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Paco Plaza"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 574376,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "ES",
+    "FR",
+    "GB"
+   ],
+   "original_language": "es",
+   "overview": "Mario, an exemplary man, lives in a village on the Galician coast. In the old people’s home, where he works as a nurse, everyone appreciates him. When the best known narco in the area, Antonio Padín, recently released from prison, enters the residence, Mario tries to make Antonio feel at home.  Now, Padín's two sons, Kike and Toño, are in charge of the family business. The failure of an operation will put Kike in jail and cause them to owe a large debt to a Colombian supplier. Toño will turn to the nurse to try to convince his father to assume the debt. But Mario has his own plans.",
+   "popularity": 1.6208,
+   "poster_path": "/3WEJAWFusNeZIJDNYxeIPytuZ1g.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "ES",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-30",
+   "revenue": 2407571,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "gl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Eye for an Eye",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.679,
+   "vote_count": 346
   },
   "movie:606876": {
    "backdrop_path": "/fFDapFaawMLjLOoYFNg3aqkIQg6.jpg",

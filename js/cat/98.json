@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 37,
+ "count": 52,
  "titles": {
   "movie:1061798": {
    "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
@@ -319,6 +319,178 @@
    "vote_average": 6.6,
    "vote_count": 486
   },
+  "movie:1129598": {
+   "backdrop_path": "/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrew",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Grun",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Sue",
+     "n": "Mena Suvari"
+    },
+    {
+     "c": "Tyler",
+     "n": "Dylan Flashner"
+    },
+    {
+     "c": "Max",
+     "n": "Tristan Thompson"
+    },
+    {
+     "c": "Chrissy",
+     "n": "Michaela Sasner"
+    },
+    {
+     "c": "Thabo",
+     "n": "Jeremy Tardy"
+    },
+    {
+     "c": "Scar",
+     "n": "Mohamed Hakeemshady"
+    },
+    {
+     "c": "Fatigues",
+     "n": "Alpha Miknas"
+    },
+    {
+     "c": "Wanda",
+     "n": "Godwin Asamoah Obeng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Mukunda Michael Dewil"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1129598,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.",
+   "popularity": 2.3214,
+   "poster_path": "/aOsPclgSiOqhndI2Xp2ksz2g9n6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-08-30",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Let the hunt begin.",
+   "title": "Prey",
+   "trailer": {
+    "key": "7KduJUygxKE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.933,
+   "vote_count": 373
+  },
   "movie:1140498": {
    "backdrop_path": "/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
    "budget": 15000000,
@@ -613,6 +785,278 @@
    "vote_average": 6.445,
    "vote_count": 455
   },
+  "movie:11598": {
+   "backdrop_path": "/fiSvjqNpjGJJEFryM7n4pIVQV6f.jpg",
+   "budget": 600000,
+   "cast": [
+    {
+     "c": "Loo (segment \"A Fistful of Yen\")",
+     "n": "Evan C. Kim"
+    },
+    {
+     "c": "Dr. Klahn (segment \"A Fistful of Yen\")",
+     "n": "Bong Soo Han"
+    },
+    {
+     "c": "Ming Chow (segment \"A Fistful of Yen\")",
+     "n": "Agneta Eckemyr"
+    },
+    {
+     "c": "Cleopatra Schwartz (segment \"Cleopatra Schwartz\")",
+     "n": "Marilyn Joi"
+    },
+    {
+     "c": "Housewife (segment \"Household Odors\")",
+     "n": "Marcy Goldman"
+    },
+    {
+     "c": "Himself (segment \"Headache Clinic\")",
+     "n": "Bill Bixby"
+    },
+    {
+     "c": "TV Technician Thrown by Gorilla (segment \"A.M. Today\")",
+     "n": "John Landis"
+    },
+    {
+     "c": "The Clumsy Waiter (segment \"That's Armageddon\")",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "The Nurse (segment \"That's Armageddon\")",
+     "n": "Victoria Carroll"
+    },
+    {
+     "c": "The Architect (segment \"That's Armageddon\")",
+     "n": "George Lazenby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Landis"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11598,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A series of loosely connected skits that spoof news programs, commercials, porno films, kung-fu films, disaster films, blaxploitation films, spy films, mafia films, and the fear that somebody is watching you on the other side of the TV.",
+   "popularity": 2.1281,
+   "poster_path": "/qk0iXBQgP6b4xfS2bIUNBSENJAn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-08-10",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The hottest, most out-of-control movie ever to stagger onto the screen!",
+   "title": "The Kentucky Fried Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.183,
+   "vote_count": 383
+  },
+  "movie:119698": {
+   "backdrop_path": "/nAhKxK8inVjHeHAw6W2xkQjdbh5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr Liz Draper",
+     "n": "Natasha Loring"
+    },
+    {
+     "c": "Luke Marchant",
+     "n": "Matt Kane"
+    },
+    {
+     "c": "Marchant",
+     "n": "Richard Dillane"
+    },
+    {
+     "c": "Charlie Rutherford",
+     "n": "Peter Brooke"
+    },
+    {
+     "c": "Dave Moore",
+     "n": "Stephen Jennings"
+    },
+    {
+     "c": "Pete Van Aarde",
+     "n": "Andre Weideman"
+    },
+    {
+     "c": "Amara",
+     "n": "Abena Ayivor"
+    },
+    {
+     "c": "Etienne",
+     "n": "Sivu Nobongoza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "13",
+   "date_kind": "release",
+   "director": [
+    "Sid Bennett"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Horror"
+   ],
+   "id": 119698,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Found footage of an expedition into the Congo jungle where a team of explorers stumbles upon a colony of Dinosaurs.",
+   "popularity": 1.8316,
+   "poster_path": "/js6rDLqluuYF01DXKdOu34GqRLt.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g7BsbL25SKZVg365NCENaZNVrEF.png",
+     "name": "Studiocanal Presents Amazon Channel",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-08-09",
+   "revenue": 2412576,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The discovery of a lifetime will become a fight for survival.",
+   "title": "The Dinosaur Project",
+   "trailer": {
+    "key": "EDiVFbqtF6w",
+    "name": "The Dinosaur Project",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.778,
+   "vote_count": 349
+  },
   "movie:1239198": {
    "backdrop_path": "/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
    "budget": 0,
@@ -719,6 +1163,212 @@
    "type": "movie",
    "vote_average": 6.458,
    "vote_count": 48
+  },
+  "movie:12598": {
+   "backdrop_path": "/2y6qnUaICupt4epIdanjgsEzhv9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antoine Brisebard",
+     "n": "Louis de Funès"
+    },
+    {
+     "c": "Sylvie Brisebard",
+     "n": "Claude Gensac"
+    },
+    {
+     "c": "Tonelotti l'entrepreneur",
+     "n": "Michel Galabru"
+    },
+    {
+     "c": "Inspecteur Ducros",
+     "n": "Bernard Blier"
+    },
+    {
+     "c": "Adrien Colas",
+     "n": "Guy Tréjan"
+    },
+    {
+     "c": "Mr. Grunder",
+     "n": "Ferdy Mayne"
+    },
+    {
+     "c": "Cécile Grunder",
+     "n": "Yvonne Clech"
+    },
+    {
+     "c": "Madame Cramusel",
+     "n": "Florence Blot"
+    },
+    {
+     "c": "Françoise",
+     "n": "Micheline Luccioni"
+    },
+    {
+     "c": "Mathilde",
+     "n": "Christiane Muller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jean Girault"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 12598,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A writer accidentally shoots his blackmailer and tries to hide the body.",
+   "popularity": 1.1647,
+   "poster_path": "/oO916dKqqKIWcQjUnbWjEcLF47Y.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1971-08-31",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Committing a crime is easy. Hiding a body is murder.",
+   "title": "Jo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.22,
+   "vote_count": 357
+  },
+  "movie:1266798": {
+   "backdrop_path": "/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zem Brecht",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Salia Malberg",
+     "n": "Adèle Exarchopoulos"
+    },
+    {
+     "c": "Jon Mafram",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Théo Rimarval",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Irina Mitrovna",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Cal",
+     "n": "Stéphane Bak"
+    },
+    {
+     "c": "Luc",
+     "n": "Hugo Dillon"
+    },
+    {
+     "c": "Malik Bouzid",
+     "n": "Artus"
+    },
+    {
+     "c": "Charline",
+     "n": "Mélanie Berthinier"
+    },
+    {
+     "c": "Amel",
+     "n": "Daphné Patakia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Cédric Jimenez"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 1266798,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
+   "popularity": 3.188,
+   "poster_path": "/olMvhbCRuhTbf6EMKxKGHi2on3L.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-10-15",
+   "revenue": 11348181,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "In a city divided, they fight for the truth.",
+   "title": "Dog 51",
+   "trailer": {
+    "key": "nBizRrKtVc0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.153,
+   "vote_count": 379
   },
   "movie:1373198": {
    "backdrop_path": "/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
@@ -841,6 +1491,114 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 62
+  },
+  "movie:14098": {
+   "backdrop_path": "/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Marnie Watson",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Shanks",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Joey",
+     "n": "Ed Westwick"
+    },
+    {
+     "c": "Mike Watson / The Ghost",
+     "n": "Michael Paré"
+    },
+    {
+     "c": "Frances",
+     "n": "Patricia Charbonneau"
+    },
+    {
+     "c": "Jimmy",
+     "n": "John Fallon"
+    },
+    {
+     "c": "Father Pritchet",
+     "n": "Kevin Geer"
+    },
+    {
+     "c": "Homeless Man",
+     "n": "Tibor Pálffy"
+    },
+    {
+     "c": "Patrolman",
+     "n": "Kembe Sorel"
+    },
+    {
+     "c": "Patrolwoman",
+     "n": "Evelyne Kandech"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eric Red"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 14098,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Marnie Watson kills her abusive husband in self-defense, she is condemned to house arrest... only to discover that the house is possessed by the enraged and violent spirit of her dead husband.",
+   "popularity": 1.5349,
+   "poster_path": "/ryocnetNNLWs0Oefkqkea6HccqV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-07-22",
+   "revenue": 1415804,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Her husband is dead and he's taking the news badly...",
+   "title": "100 Feet",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.736,
+   "vote_count": 358
   },
   "movie:1412598": {
    "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
@@ -1391,6 +2149,194 @@
    "vote_average": 7.153,
    "vote_count": 111
   },
+  "movie:1698": {
+   "backdrop_path": "/6OzOuU2JE0lm11p0UEUm3dCiH3L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paula",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Hein",
+     "n": "Benno Fürmann"
+    },
+    {
+     "c": "Gretchen",
+     "n": "Anna Loos"
+    },
+    {
+     "c": "Caspar",
+     "n": "Sebastian Blomberg"
+    },
+    {
+     "c": "Phil",
+     "n": "Holger Speckhahn"
+    },
+    {
+     "c": "Prof. Grombek",
+     "n": "Traugott Buhre"
+    },
+    {
+     "c": "Ludwig",
+     "n": "Oliver Wnuk"
+    },
+    {
+     "c": "David",
+     "n": "Arndt Schwering-Sohnrey"
+    },
+    {
+     "c": "Franz",
+     "n": "Andreas Guenther"
+    },
+    {
+     "c": "Gabi",
+     "n": "Antonia Holfelder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stefan Ruzowitzky"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1698,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Medical student Paula wins a place at an exclusive Heidelberg medical school. When the body of a young man she met on the train turns up on her dissection table, she begins to investigate the mysterious circumstances surrounding his death.",
+   "popularity": 1.6451,
+   "poster_path": "/hZgnRhrOkmjjod5u3umbw4y08kX.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-02-03",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Some study. Some are studied.",
+   "title": "Anatomy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.073,
+   "vote_count": 343
+  },
+  "movie:18298": {
+   "backdrop_path": "/417ACqYWlwc6RzgVhO4B5xRgZ0C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Balthazar",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Melchior",
+     "n": "Bernard Campan"
+    },
+    {
+     "c": "Gaspard",
+     "n": "Pascal Légitimus"
+    },
+    {
+     "c": "Macha",
+     "n": "Virginie de Clausade"
+    },
+    {
+     "c": "la mère de Macha",
+     "n": "Nathalie Roussel"
+    },
+    {
+     "c": "Hoeder",
+     "n": "Claude Brosset"
+    },
+    {
+     "c": "l'ami de la mère",
+     "n": "Didier Flamand"
+    },
+    {
+     "c": "Jo",
+     "n": "Walid Afkir"
+    },
+    {
+     "c": "Guillaume",
+     "n": "Christophe Hémon"
+    },
+    {
+     "c": "La concierge de Macha",
+     "n": "Colette Maire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Didier Bourdon",
+    "Bernard Campan"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 18298,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The Three Wise Men – Balthazar, Melchior and Gaspard – are on their way to Bethlehem to pay homage to the infant Jesus when they are suddenly, an inexplicably, transported two thousand years into the future. They find themselves walking the streets of Paris, where they encounter a young woman called Macha who, they are convinced, will lead them to the newborn Messiah.",
+   "popularity": 0.9132,
+   "poster_path": "/hRhDIVeSVYTLCpPProW1WAIm9ZU.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2001-12-12",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Three Kings",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.66,
+   "vote_count": 356
+  },
   "movie:18898": {
    "backdrop_path": "/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
    "budget": 6000000,
@@ -1525,6 +2471,214 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 387
+  },
+  "movie:19698": {
+   "backdrop_path": "/y3jFTq9K46XeQzEXqo1QXpmhXmY.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Pee Wee",
+     "n": "Dan Monahan"
+    },
+    {
+     "c": "Tommy",
+     "n": "Wyatt Knight"
+    },
+    {
+     "c": "Billy",
+     "n": "Mark Herrier"
+    },
+    {
+     "c": "Mickey",
+     "n": "Roger Wilson"
+    },
+    {
+     "c": "TIm",
+     "n": "Cyril O'Reilly"
+    },
+    {
+     "c": "Meat",
+     "n": "Tony Ganios"
+    },
+    {
+     "c": "Wendy",
+     "n": "Kaki Hunter"
+    },
+    {
+     "c": "Brian",
+     "n": "Scott Colomby"
+    },
+    {
+     "c": "Balbricker",
+     "n": "Nancy Parsons"
+    },
+    {
+     "c": "John Henry (as Joseph Runningfox)",
+     "n": "Joseph Runningfox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bob Clark"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 19698,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the students of Angel Beach High decide to stage \"An Evening With Shakespeare,\" their efforts are threatened by Miss Balbricker, who views the works of Shakespeare as obscene. She enlists the help of Reverend Bubba Flavel, a religious fanatic who brings along his flock of followers to pressure the school into shutting down the production.",
+   "popularity": 2.2972,
+   "poster_path": "/rZjSlaXM8Ez91ZV39frILApGuKg.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1983-06-24",
+   "revenue": 54959266,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you thought the night before was funny, wait till you see the next day.",
+   "title": "Porky's II: The Next Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 382
+  },
+  "movie:26198": {
+   "backdrop_path": "/yqDKFfyMnhmiXJgLHYeykU0iKqC.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Glaeken Trismegestus",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Eva Cuza",
+     "n": "Alberta Watson"
+    },
+    {
+     "c": "Captain Klaus Woermann",
+     "n": "Jürgen Prochnow"
+    },
+    {
+     "c": "Father Mihail Fonescu",
+     "n": "Robert Prosky"
+    },
+    {
+     "c": "Major Kaempffer",
+     "n": "Gabriel Byrne"
+    },
+    {
+     "c": "Dr. Theodore Cuza",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Alexandru",
+     "n": "William Morgan Sheppard"
+    },
+    {
+     "c": "Tomescu",
+     "n": "Royston Tickner"
+    },
+    {
+     "c": "Radu Molasar",
+     "n": "Michael Carter"
+    },
+    {
+     "c": "Lutz",
+     "n": "John Vine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Mann"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 26198,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set during World War II, a German army garrison is sent to guard a mountain pass in a village in Romania's Carpathian mountains and sets up barracks in an ancient stone fortress. Two of the soldiers unwittingly release a mysterious entity that kills or corrupts those within its influence, drawing the attention of a Gestapo commander, a Jewish scholar, and a mysterious traveller.",
+   "popularity": 2.7956,
+   "poster_path": "/yd9wU3oajNxwaFHQ02rtTBuSFJD.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-12-16",
+   "revenue": 3661757,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They were all drawn to the keep. Tonight, they will all face the evil.",
+   "title": "The Keep",
+   "trailer": {
+    "key": "Tiu3-nbLoyY",
+    "name": "Vinegar Syndrome Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.639,
+   "vote_count": 348
   },
   "movie:2998": {
    "backdrop_path": "/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
@@ -2207,6 +3361,173 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 397
+  },
+  "movie:401698": {
+   "backdrop_path": "/3dzpw2dpLbB3goixNYJIB8jdaE1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stéphane",
+     "n": "Patrick Timsit"
+    },
+    {
+     "c": "Nathan",
+     "n": "Bérenger Anceaux"
+    },
+    {
+     "c": "Louis",
+     "n": "Jules Houplain"
+    },
+    {
+     "c": "Bruno",
+     "n": "Bruno Putzulu"
+    },
+    {
+     "c": "Corinne",
+     "n": "Barbara Schulz"
+    },
+    {
+     "c": "Catherine",
+     "n": "Catherine Jacob"
+    },
+    {
+     "c": "Laura",
+     "n": "Lisa Kramarz"
+    },
+    {
+     "c": "Tristan",
+     "n": "Nicolas Carpentier"
+    },
+    {
+     "c": "Aude",
+     "n": "Clara Choï"
+    },
+    {
+     "c": "La prof d'allemand",
+     "n": "Ingrid Donnadieu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Didier Bivel"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "TV Movie"
+   ],
+   "id": 401698,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Nathan, 16, lives alone with his father Stephane. A newcomer in high school, he is invited to a party and falls in love with Louis, a boy in his class. They find themselves out of sight and kiss each other, but someone takes a picture of them. Soon, the photo is published on Facebook and a storm overtakes their lives as they face bullying and rejection.",
+   "popularity": 1.2663,
+   "poster_path": "/1VixWTXYRLLBgmPuph80Qzcuffb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Dekkoo"
+    },
+    {
+     "name": "Here TV"
+    },
+    {
+     "name": "Dekkoo Amazon Channel"
+    },
+    {
+     "name": "Here TV  Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqiY6w53xNELS5Y16pYQYvCxgE.png",
+     "name": "Dekkoo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/aFXgq7JAVVs2zdAlfqB1LlCfIUD.png",
+     "name": "Here TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7AysG1tyPp51IG8iR3MeXBhQCaa.png",
+     "name": "Dekkoo Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/nLnN7wjiPLo5A2Um8BZA2IupEJS.png",
+     "name": "Here TV  Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-02-04",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hidden Kisses",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.44,
+   "vote_count": 341
   },
   "movie:41498": {
    "backdrop_path": "/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
@@ -2927,6 +4248,339 @@
    "vote_average": 7.1,
    "vote_count": 393
   },
+  "movie:6498": {
+   "backdrop_path": "/2FAGeHcOOxviG3iNTFh4paFoJYM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Martin",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Kalinka",
+     "n": "Sofie Gråbøl"
+    },
+    {
+     "c": "Jens",
+     "n": "Kim Bodnia"
+    },
+    {
+     "c": "Lotte",
+     "n": "Lotte Andersen"
+    },
+    {
+     "c": "Kommisæren",
+     "n": "Ulf Pilgaard"
+    },
+    {
+     "c": "Joyce",
+     "n": "Rikke Louise Andersson"
+    },
+    {
+     "c": "Rolf",
+     "n": "Stig Hoffmeyer"
+    },
+    {
+     "c": "Den gamle nattevagt",
+     "n": "Gyrd Løfquist"
+    },
+    {
+     "c": "Lægen",
+     "n": "Niels Anders Thorn"
+    },
+    {
+     "c": "Teaterdirektøren",
+     "n": "Leif Adolfsson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ole Bornedal"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 6498,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Martin, a law student, takes up a job as a nightwatchman at a mortuary to fund his studies. But the mortuary harbours a dark secret, and he has to find the truth before he is implicated in a serial murder case.",
+   "popularity": 1.8918,
+   "poster_path": "/wThSC3JdyeXOWM11RWBxWfUQg74.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-02-25",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "They are looking for a night watchman. Martin is not afraid of the dark but he just has one problem... he got the job!",
+   "title": "Nightwatch",
+   "trailer": {
+    "key": "gVwN6YlZ7fw",
+    "name": "Original Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.88,
+   "vote_count": 351
+  },
+  "movie:761898": {
+   "backdrop_path": "/qKVOTKPPtvoXd75L1HOSBPLtKWS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kirito (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    },
+    {
+     "c": "Asuna 'Asuna' Yuuki (voice)",
+     "n": "Haruka Tomatsu"
+    },
+    {
+     "c": "Misumi 'Mito' Tozawa (voice)",
+     "n": "Inori Minase"
+    },
+    {
+     "c": "Akihiko Kayaba (voice)",
+     "n": "Koichi Yamadera"
+    },
+    {
+     "c": "Agil (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Diabel (voice)",
+     "n": "Nobuyuki Hiyama"
+    },
+    {
+     "c": "Silica (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Mito Avatar (Voice)",
+     "n": "Ryusei Nakao"
+    },
+    {
+     "c": "Kibaou (voice)",
+     "n": "Tomokazu Seki"
+    },
+    {
+     "c": "Argo (voice)",
+     "n": "Shiori Izawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ayako Kono"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 761898,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Asuna Yuuki had never played online games until accidentally putting on the NerveGear for Sword Art Online, the world’s first VRMMORPG. She soon finds herself and other players trapped inside a game, where if a player dies in the game, they die in the real world. As she continues to live on in this world where death is always a step away, a solitary swordsman named Kirito appears before her.",
+   "popularity": 2.7709,
+   "poster_path": "/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-10-30",
+   "revenue": 14037060,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "This might be a game, but it's not something you play!",
+   "title": "Sword Art Online the Movie - Progressive - Aria of a Starless Night",
+   "trailer": {
+    "key": "Jf6RyZkuVco",
+    "name": "English Dub Trailer 5",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.86,
+   "vote_count": 362
+  },
   "movie:785398": {
    "backdrop_path": "/bdncpEiiH3C7OjzvIu07zl2zcTd.jpg",
    "budget": 0,
@@ -3060,6 +4714,264 @@
    "type": "movie",
    "vote_average": 6.485,
    "vote_count": 448
+  },
+  "movie:8198": {
+   "backdrop_path": "/fay6quwuE1sqGJ7R9I2PH5SNmTn.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Thomas Fowler",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Alden Pyle",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Phuong",
+     "n": "Đỗ Thị Hải Yến"
+    },
+    {
+     "c": "Hinh",
+     "n": "Tzi Ma"
+    },
+    {
+     "c": "Inspector Vigot",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Joe Tunney",
+     "n": "Robert Stanton"
+    },
+    {
+     "c": "Bill Granger",
+     "n": "Holmes Osborne"
+    },
+    {
+     "c": "General Thế",
+     "n": "Ngo Quang Hai"
+    },
+    {
+     "c": "Mr. Muoi",
+     "n": "Ferdinand Hoang"
+    },
+    {
+     "c": "Phuong's Sister",
+     "n": "Pham Thi Mai Hoa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Phillip Noyce"
+   ],
+   "genres": [
+    "Romance",
+    "Thriller",
+    "Drama",
+    "War"
+   ],
+   "id": 8198,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cynical British journalist Fowler falls in love with a young Vietnamese woman but is dismayed when a naïve U.S. official also begins vying for her attention. In retaliation, Fowler informs the communists that the American is selling arms to their enemy.",
+   "popularity": 2.1725,
+   "poster_path": "/nLooNNrvzpf49G7HsB9siQT4036.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "GB",
+    "US",
+    "VN"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-11-22",
+   "revenue": 27674124,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "In war, the most powerful weapon is seduction.",
+   "title": "The Quiet American",
+   "trailer": {
+    "key": "UrI9gS6O-p8",
+    "name": "Official UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.553,
+   "vote_count": 351
+  },
+  "movie:898": {
+   "backdrop_path": "/1J6QXImtqIQxiOdVTonLV5IbRwA.jpg",
+   "budget": 2650000,
+   "cast": [
+    {
+     "c": "Robert Stroud",
+     "n": "Burt Lancaster"
+    },
+    {
+     "c": "Harvey Shoemaker",
+     "n": "Karl Malden"
+    },
+    {
+     "c": "Elizabeth Stroud",
+     "n": "Thelma Ritter"
+    },
+    {
+     "c": "Bull Ransom",
+     "n": "Neville Brand"
+    },
+    {
+     "c": "Stella Johnson",
+     "n": "Betty Field"
+    },
+    {
+     "c": "Feto Gomez",
+     "n": "Telly Savalas"
+    },
+    {
+     "c": "Tom Gaddis",
+     "n": "Edmond O'Brien"
+    },
+    {
+     "c": "Roy Comstock",
+     "n": "Hugh Marlowe"
+    },
+    {
+     "c": "Dr. Ellis",
+     "n": "Whit Bissell"
+    },
+    {
+     "c": "Kramer",
+     "n": "Crahan Denton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Frankenheimer"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "History"
+   ],
+   "id": 898,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud's life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.",
+   "popularity": 2.0001,
+   "poster_path": "/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1962-07-04",
+   "revenue": 3100000,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Inside the rock called Alcatraz they tried to chain a volcano they called 'The Bird Man'!",
+   "title": "Birdman of Alcatraz",
+   "trailer": {
+    "key": "8j-U4REl0yE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.449,
+   "vote_count": 371
   },
   "tv:1398": {
    "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",

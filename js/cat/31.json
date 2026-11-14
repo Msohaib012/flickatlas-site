@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 40,
+ "count": 52,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -335,6 +335,114 @@
    "type": "movie",
    "vote_average": 6.514,
    "vote_count": 399
+  },
+  "movie:1093231": {
+   "backdrop_path": "/m0XCtFisSD0O6P55G1pUHdFccuL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lana",
+     "n": "Brooke Shields"
+    },
+    {
+     "c": "Emma",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Will",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Janice",
+     "n": "Rachael Harris"
+    },
+    {
+     "c": "RJ",
+     "n": "Sean Teale"
+    },
+    {
+     "c": "Lucas",
+     "n": "Chad Michael Murray"
+    },
+    {
+     "c": "Clay",
+     "n": "Michael McDonald"
+    },
+    {
+     "c": "Scott",
+     "n": "Wilson Cruz"
+    },
+    {
+     "c": "Camala",
+     "n": "Tasneem Roc"
+    },
+    {
+     "c": "Harley",
+     "n": "Dalip Sondhi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mark Waters"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1093231,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lana's daughter Emma returns from abroad and drops a bombshell: she's getting married. In Thailand. In a month! Things only get worse when Lana learns that the man who captured Emma's heart is the son of the man who broke hers years ago.",
+   "popularity": 2.8424,
+   "poster_path": "/vdTvwykMWvVgdaViBVRh8IFTku5.jpg",
+   "production_countries": [
+    "TH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-05-08",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "First love deserves a second chance.",
+   "title": "Mother of the Bride",
+   "trailer": {
+    "key": "bUSoEQBHtSg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.83,
+   "vote_count": 374
   },
   "movie:1159831": {
    "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
@@ -816,6 +924,190 @@
    "vote_average": 7.0,
    "vote_count": 140
   },
+  "movie:133931": {
+   "backdrop_path": "/34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Tendai (voice)",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Zoe (voice)",
+     "n": "Abigail Breslin"
+    },
+    {
+     "c": "Sekhuru (voice)",
+     "n": "Leonard Nimoy"
+    },
+    {
+     "c": "Kai (voice)",
+     "n": "Jeremy Suarez"
+    },
+    {
+     "c": "Ajax (voice)",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Gogo (voice)",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Pavi (voice)",
+     "n": "Noureen DeWulf"
+    },
+    {
+     "c": "Cecil (voice)",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "Ezee (voice)",
+     "n": "Jamal Mixon"
+    },
+    {
+     "c": "Morton (voice)",
+     "n": "David Shaughnessy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Wayne Thornley"
+   ],
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "id": 133931,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in a bustling bird city on the edge of the majestic Victoria Falls, \"Zambezia\" is the story of Kai - a naïve, but high-spirited young falcon who travels to the bird city of \"Zambezia\" where he discovers the truth about his origins and, in defending the city, learns how to be part of a community.",
+   "popularity": 2.352,
+   "poster_path": "/7aJl440TlbyqthklVrvCnSbjKYe.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-06-05",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Airborne to be wild.",
+   "title": "Zambezia",
+   "trailer": {
+    "key": "YwVcjdEe0c8",
+    "name": "Adventures in Zambezia Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.232,
+   "vote_count": 342
+  },
   "movie:1383731": {
    "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
    "budget": 0,
@@ -1271,6 +1563,113 @@
    "vote_average": 5.545,
    "vote_count": 22
   },
+  "movie:14831": {
+   "backdrop_path": "/qhpib62efVnZon7yiYaV1hEb2kF.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "John",
+     "n": "John Lennon"
+    },
+    {
+     "c": "Paul",
+     "n": "Paul McCartney"
+    },
+    {
+     "c": "George",
+     "n": "George Harrison"
+    },
+    {
+     "c": "Ringo",
+     "n": "Ringo Starr"
+    },
+    {
+     "c": "Clang",
+     "n": "Leo McKern"
+    },
+    {
+     "c": "Ahme",
+     "n": "Eleanor Bron"
+    },
+    {
+     "c": "Foot",
+     "n": "Victor Spinetti"
+    },
+    {
+     "c": "Algernon",
+     "n": "Roy Kinnear"
+    },
+    {
+     "c": "Bhuta",
+     "n": "John Bluthal"
+    },
+    {
+     "c": "Superintendent",
+     "n": "Patrick Cargill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Richard Lester"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Music"
+   ],
+   "id": 14831,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An obscure Eastern cult that practices human sacrifice pursues Ringo after he unknowingly puts on a ceremonial ring (that, of course, won't come off). On top of that, a pair of mad scientists, members of Scotland Yard, and a beautiful but dead-eyed assassin all have their own plans for the Fab Four.",
+   "popularity": 1.9375,
+   "poster_path": "/nLvgIB3bVb8jyhls5W6B74Xt4Ei.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-07-29",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Stop worrying! HELP! is on the way!",
+   "title": "Help!",
+   "trailer": {
+    "key": "n_GOaRaTaJo",
+    "name": "The Beatles Help!  The Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.865,
+   "vote_count": 363
+  },
   "movie:1554631": {
    "backdrop_path": "/p8NfxilxJaV5cmtU4lHmBQOPLFv.jpg",
    "budget": 0,
@@ -1575,6 +1974,271 @@
    "vote_average": 6.511,
    "vote_count": 495
   },
+  "movie:253331": {
+   "backdrop_path": "/759wfisWoD7eJZmi1wi6Y0cW3jw.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Elliot Anderson",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Eloise Anderson",
+     "n": "Jillian Estell"
+    },
+    {
+     "c": "Rowena Jeffers",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Carol",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Duvan",
+     "n": "Mpho Koaho"
+    },
+    {
+     "c": "Rick Reynolds",
+     "n": "Bill Burr"
+    },
+    {
+     "c": "Rosita",
+     "n": "Bertha Bindewald"
+    },
+    {
+     "c": "Reggie Davis",
+     "n": "André Holland"
+    },
+    {
+     "c": "Jeremiah Jeffers",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Judge Cummins",
+     "n": "Paula Newsome"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Binder"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 253331,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A grieving widower is drawn into a custody battle over his granddaughter, whom he helped raise her entire life.",
+   "popularity": 1.7606,
+   "poster_path": "/hOxxudUwgh5KGC7LtxDCkkwn1YP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-01-30",
+   "revenue": 21571189,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's more to family than what you see.",
+   "title": "Black or White",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 368
+  },
+  "movie:25431": {
+   "backdrop_path": "/q9bDTKlHh5nURBo4VS0cVa0x4E1.jpg",
+   "budget": 1728000,
+   "cast": [
+    {
+     "c": "Adam Bonner",
+     "n": "Spencer Tracy"
+    },
+    {
+     "c": "Amanda Bonner",
+     "n": "Katharine Hepburn"
+    },
+    {
+     "c": "Doris Attinger",
+     "n": "Judy Holliday"
+    },
+    {
+     "c": "Warren Attinger",
+     "n": "Tom Ewell"
+    },
+    {
+     "c": "Kip Lurie",
+     "n": "David Wayne"
+    },
+    {
+     "c": "Beryl Caighn",
+     "n": "Jean Hagen"
+    },
+    {
+     "c": "Olympia La Pere",
+     "n": "Hope Emerson"
+    },
+    {
+     "c": "Grace",
+     "n": "Eve March"
+    },
+    {
+     "c": "Judge Reiser",
+     "n": "Clarence Kolb"
+    },
+    {
+     "c": "Jules Frikke",
+     "n": "Emerson Treacy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Cukor"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 25431,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman's attempted murder of her uncaring husband results in everyday quarrels in the lives of Adam and Amanda, a pair of happily married lawyers who end up on opposite sides of the case in court.",
+   "popularity": 1.5411,
+   "poster_path": "/k9gT6d2sDT9Jd4dvzHowTt3l6Zg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1949-11-17",
+   "revenue": 9470000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's The Hilarious Answer To Who Wears The Pants!",
+   "title": "Adam's Rib",
+   "trailer": {
+    "key": "tQ5NpJ81AY4",
+    "name": "Adam's Rib - Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.107,
+   "vote_count": 354
+  },
   "movie:27431": {
    "backdrop_path": "/5yunPf3vpOMYon7HBJtrwZNs1YG.jpg",
    "budget": 1000000,
@@ -1711,6 +2375,127 @@
    "type": "movie",
    "vote_average": 6.68,
    "vote_count": 472
+  },
+  "movie:282631": {
+   "backdrop_path": "/3KB32UjT3iL6YziK7760YzSiOEI.jpg",
+   "budget": 9500000,
+   "cast": [
+    {
+     "c": "Admiral Yi Sun-Shin",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Kurushima Michifusa",
+     "n": "Ryu Seung-ryong"
+    },
+    {
+     "c": "Wakizaka Yasuharu",
+     "n": "Cho Jin-woong"
+    },
+    {
+     "c": "Im Jun-yeong",
+     "n": "Jin Goo"
+    },
+    {
+     "c": "Mrs. Jeong",
+     "n": "Lee Jung-hyun"
+    },
+    {
+     "c": "Todo Takatora",
+     "n": "Kim Myung-gon"
+    },
+    {
+     "c": "Yi Hoe",
+     "n": "Kwon Yul"
+    },
+    {
+     "c": "Haru",
+     "n": "No Min-woo"
+    },
+    {
+     "c": "Kim Joong-geol",
+     "n": "Kim Tae-hun"
+    },
+    {
+     "c": "Junsa",
+     "n": "Ryohei Otani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Kim Han-min"
+   ],
+   "genres": [
+    "War",
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "id": 282631,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Admiral Yi Sun-sin faces a tough challenge when he is forced to defend his nation with just 13 battleships against 300 Japanese enemy ships in the Battle of Myeongryang.",
+   "popularity": 2.9254,
+   "poster_path": "/xx701fnV2e4BlQGwgISLYUG0DsG.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-07-30",
+   "revenue": 138342258,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "12 ships against a fleet of 330.",
+   "title": "The Admiral: Roaring Currents",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 348
   },
   "movie:361931": {
    "backdrop_path": "/fUO2MHIKGFfMEctfxzpFZBfjsT3.jpg",
@@ -2129,6 +2914,213 @@
    "type": "movie",
    "vote_average": 7.097,
    "vote_count": 436
+  },
+  "movie:48831": {
+   "backdrop_path": "/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean-Louis",
+     "n": "Jean-Louis Trintignant"
+    },
+    {
+     "c": "Maud",
+     "n": "Françoise Fabian"
+    },
+    {
+     "c": "Françoise",
+     "n": "Marie-Christine Barrault"
+    },
+    {
+     "c": "Vidal",
+     "n": "Antoine Vitez"
+    },
+    {
+     "c": "Concert Violinist",
+     "n": "Leonid Kogan"
+    },
+    {
+     "c": "Priest",
+     "n": "Guy Léger"
+    },
+    {
+     "c": "Blonde Friend",
+     "n": "Anne Dubot"
+    },
+    {
+     "c": "Marie (uncredited)",
+     "n": "Marie Becker"
+    },
+    {
+     "c": "Student (uncredited)",
+     "n": "Marie-Claude Rauzier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Éric Rohmer"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 48831,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Devout Roman Catholic Jean-Louis subscribes to an austere moral code influenced by the philosophy of 17th-century physicist Blaise Pascal. When he spots a pretty girl at church, he promises to one day marry her. But then an old friend introduces him to alluring divorcee Maud. After a conversation about love and credo, the chaste Jean-Louis spends the night at Maud's, conflicted about his desires.",
+   "popularity": 1.9295,
+   "poster_path": "/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-06-04",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Night at Maud's",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.631,
+   "vote_count": 374
+  },
+  "movie:499631": {
+   "backdrop_path": "/pR4VJyfqzos7KCOKAJsYLxWPMhq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fabrizio De André",
+     "n": "Luca Marinelli"
+    },
+    {
+     "c": "Giuseppe De André",
+     "n": "Ennio Fantastichini"
+    },
+    {
+     "c": "Dori Ghezzi",
+     "n": "Valentina Bellè"
+    },
+    {
+     "c": "Enrica Rignon",
+     "n": "Elena Radonicich"
+    },
+    {
+     "c": "Mauro De Andrè",
+     "n": "Davide Iacopini"
+    },
+    {
+     "c": "Paolo Villaggio",
+     "n": "Gianluca Gobbi"
+    },
+    {
+     "c": "Riccardo Mannerini",
+     "n": "Tommaso Ragno"
+    },
+    {
+     "c": "Luigi Tenco",
+     "n": "Matteo Martari"
+    },
+    {
+     "c": "Vittoria Ghezzi",
+     "n": "Anna Ferruzzo"
+    },
+    {
+     "c": "Carlo Ghezzi",
+     "n": "Lorenzo Gioielli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Luca Facchini"
+   ],
+   "genres": [
+    "Music",
+    "History"
+   ],
+   "id": 499631,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A biopic on the personal and artistic life of Italian songwriter Fabrizio De André.",
+   "popularity": 0.3969,
+   "poster_path": "/fjiczyRh6Qc74JnfUr2R846YbKU.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-01-23",
+   "revenue": 0,
+   "runtime": 188,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fabrizio De André: Principe libero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 357
   },
   "movie:517331": {
    "backdrop_path": "/cLAvMhCYwRelzzOJTXuXxzMFZZV.jpg",
@@ -2778,6 +3770,237 @@
    "vote_average": 6.9,
    "vote_count": 486
   },
+  "movie:675531": {
+   "backdrop_path": "/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richie Shepard",
+     "n": "Casey Likes"
+    },
+    {
+     "c": "Officer Jerry Ricks",
+     "n": "Luke Kirby"
+    },
+    {
+     "c": "Mitch Crenshaw",
+     "n": "West Mulholland"
+    },
+    {
+     "c": "Kelly Haines",
+     "n": "Emyri Crutchfield"
+    },
+    {
+     "c": "Curly Stooge",
+     "n": "Dylan McEwan"
+    },
+    {
+     "c": "Dan Shepard",
+     "n": "Jeremy Davies"
+    },
+    {
+     "c": "Sawtooth Jack",
+     "n": "Dustin Ceithamer"
+    },
+    {
+     "c": "Donna Shepard",
+     "n": "Elizabeth Reaser"
+    },
+    {
+     "c": "Jim Shephard",
+     "n": "Britain Dalton"
+    },
+    {
+     "c": "Bud",
+     "n": "Alejandro Akara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Slade"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 675531,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+   "popularity": 2.4167,
+   "poster_path": "/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-11",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil stalks.",
+   "title": "Dark Harvest",
+   "trailer": {
+    "key": "Pge4NmBzdkE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.063,
+   "vote_count": 351
+  },
+  "movie:680531": {
+   "backdrop_path": "/oS6w2tQBaWeEZlmREbMHqxnHm8y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eugénie Cléry",
+     "n": "Lou de Laâge"
+    },
+    {
+     "c": "Geneviève Gleizes",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Théophile Cléry",
+     "n": "Benjamin Voisin"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Emmanuelle Bercot"
+    },
+    {
+     "c": "François Cléry",
+     "n": "Cédric Kahn"
+    },
+    {
+     "c": "Louise",
+     "n": "Lomane de Dietrich"
+    },
+    {
+     "c": "Jules",
+     "n": "Christophe Montenez"
+    },
+    {
+     "c": "Camille",
+     "n": "Coralie Russier"
+    },
+    {
+     "c": "Henriette",
+     "n": "Alice Barnole"
+    },
+    {
+     "c": "Marguerite",
+     "n": "Lauréna Thellier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Mélanie Laurent"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "History"
+   ],
+   "id": 680531,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A woman who is unfairly institutionalized at a Paris asylum plots to escape with the help of one of its nurses. Based on the novel 'Le bal des folles' by Victoria Mas.",
+   "popularity": 2.6706,
+   "poster_path": "/A8KeSPmFDxqHKwNzyiuwUvPIrw0.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-12",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Mad Women's Ball",
+   "trailer": {
+    "key": "YW-69FfY7z8",
+    "name": "Le Bal des Folles (The Mad Women’s Ball) | Official Trailer | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.054,
+   "vote_count": 372
+  },
   "movie:746131": {
    "backdrop_path": "/ouQPvA86SW1DXFTsc2qaRqz4tAg.jpg",
    "budget": 0,
@@ -3017,6 +4240,338 @@
    "type": "movie",
    "vote_average": 7.851,
    "vote_count": 472
+  },
+  "movie:811631": {
+   "backdrop_path": "/o0JpLYCadyUCR4KwxN7hrzFE968.jpg",
+   "budget": 4749917,
+   "cast": [
+    {
+     "c": "Pam Bales",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "John",
+     "n": "Billy Howle"
+    },
+    {
+     "c": "Dave",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Patrick",
+     "n": "Parker Sawyers"
+    },
+    {
+     "c": "Finn",
+     "n": "Joshua Rollins"
+    },
+    {
+     "c": "Hiker Will",
+     "n": "Eliot Sumner"
+    },
+    {
+     "c": "Pam daughter #2",
+     "n": "Lina Kolenko"
+    },
+    {
+     "c": "Body double Pam",
+     "n": "Karin Putrih"
+    },
+    {
+     "c": "Pam daughter #1",
+     "n": "Arya Petric"
+    },
+    {
+     "c": "Pam's daughter body double #1",
+     "n": "Kaja Dolenc"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Małgorzata Szumowska"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 811631,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "One woman's journey for self-discovery and turns into a harrowing tale of survival.",
+   "popularity": 2.0108,
+   "poster_path": "/4B34NKfHCFVHriYfKhbsunHYl4x.jpg",
+   "production_countries": [
+    "AU",
+    "PL",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-03-25",
+   "revenue": 1707067,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Infinite Storm",
+   "trailer": {
+    "key": "zRaUIPMq-u0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.733,
+   "vote_count": 376
+  },
+  "movie:915931": {
+   "backdrop_path": "/7x0K8loq2160nZw5zBitoiUb7Jj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mia",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Thomas",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Vincent",
+     "n": "Grégoire Colin"
+    },
+    {
+     "c": "Sara",
+     "n": "Maya Sansa"
+    },
+    {
+     "c": "Félicia",
+     "n": "Nastya Golubeva Carax"
+    },
+    {
+     "c": "Assane",
+     "n": "Amadou Mbow"
+    },
+    {
+     "c": "Épicier",
+     "n": "Souleymane Touré"
+    },
+    {
+     "c": "Invitée mariage",
+     "n": "Ema Zampa"
+    },
+    {
+     "c": "Anjali",
+     "n": "Clarisse Makundul"
+    },
+    {
+     "c": "L'homme à la sortie de métro",
+     "n": "Jean Pierre Horcholle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alice Winocour"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 915931,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Three months after surviving a terrorist attack in a bistro, Mia is still traumatized and unable to recall the events of that night. In an effort to move forward, she investigates her memories and retraces her steps.",
+   "popularity": 2.7624,
+   "poster_path": "/zaNVTXH3woUs1LGUEeMMntDs3oM.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-07",
+   "revenue": 3614838,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Revoir Paris",
+   "trailer": {
+    "key": "eYB__HUfFy4",
+    "name": "Official UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.041,
+   "vote_count": 362
   },
   "movie:9431": {
    "backdrop_path": "/4pdn51JC1pliaFjf5tNDi8sMRqs.jpg",

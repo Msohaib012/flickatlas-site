@@ -1,7 +1,71 @@
 {
  "bucket": "44",
- "count": 40,
+ "count": 50,
  "titles": {
+  "movie:1053544": {
+   "d": "The Abyss (2023): Thriller/Drama film. Story: As the Swedish town of Kiruna sinks, Frigga finds… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/omRgNEWxU8wDbh5Qfdadf4l6V9n.jpg",
+   "industry": "world",
+   "k": "The Abyss, The Abyss movie, The Abyss cast, The Abyss story, The Abyss box office collection, The Abyss budget, The Abyss review, The Abyss rating, The Abyss release date, The Abyss Thriller, The Abyss Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tuva Novotny"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Franzén"
+     },
+     {
+      "@type": "Person",
+      "name": "Kardo Razzazi"
+     },
+     {
+      "@type": "Person",
+      "name": "Felicia Truedsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Kovács"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 341,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Abyss (2023): Thriller/Drama film. Story: As the Swedish town of Kiruna sinks, Frigga finds… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Holm"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/omRgNEWxU8wDbh5Qfdadf4l6V9n.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1053544",
+    "name": "The Abyss",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1053544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Abyss (2023)</h1>\n<p class=\"ssr-lead\">As the Swedish town of Kiruna sinks, Frigga finds herself torn between her family and her job as security chief at the world&#x27;s largest underground mine.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2023</li><li>Runtime: 104 minutes</li><li>Director: Richard Holm</li><li>Genres: Thriller, Drama, Action</li><li>TMDB rating: 5.7/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tuva Novotny as Frigga Vibenius</li><li>Peter Franzén as Tage Vibenius</li><li>Kardo Razzazi as Dabir Ayobi</li><li>Felicia Truedsson as Mika Vibenius</li><li>Angela Kovács as Erika Svalin</li><li>Tintin Poggats Sarri as Aila</li><li>Edvin Ryding as Simon Vibenius</li><li>Åsa Simma as Livli</li><li>Jonathan Fredriksson as Patrik</li><li>Jakob Hultcrantz Hansson as Joakim Lundmark</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li></ul>\n</article>",
+   "t": "The Abyss (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:10544": {
    "d": "Ned Kelly (2003): Action/Adventure film. Story: After getting threatened by Kelly's friends and… See cast, TMDB rating 6.0/10, and release date 22 March 2003.",
    "img": "https://image.tmdb.org/t/p/w780/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg",
@@ -193,6 +257,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In the Cut (2003)</h1>\n<p class=\"ssr-lead\">A New York City writing professor, Frannie Avery, has an affair with a police detective who is investigating the murder of a beautiful young woman in her neighborhood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2003</li><li>Runtime: 119 minutes</li><li>Director: Jane Campion</li><li>Genres: Drama, Mystery, Thriller, Romance</li><li>Budget: $12M</li><li>TMDB rating: 5.1/10 (481 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Meg Ryan as Frannie Avery</li><li>Mark Ruffalo as Giovanni A. Malloy</li><li>Jennifer Jason Leigh as Pauline</li><li>Nick Damici as Detective Rodriguez</li><li>Sharrieff Pugh as Cornelius Webb</li><li>Heather Litteer as Angela Sands</li><li>Michael Nuccio as Frannie&#x27;s Young Father</li><li>Allison Nega as Young Father&#x27;s Fiancee</li><li>Dominick Aries as Attentive Husband</li><li>Susan Gardner as Perfect Wife</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "In the Cut (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
+  },
+  "movie:11144": {
+   "d": "They Called Him Bulldozer (1978): Action/Comedy film. Story: The \"Bulldozer\", a former football star, is now… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a7m4NkcKcN6ancZdIs3jBCvNIBU.jpg",
+   "industry": "world",
+   "k": "They Called Him Bulldozer, They Called Him Bulldozer movie, They Called Him Bulldozer cast, They Called Him Bulldozer story, They Called Him Bulldozer box office collection, They Called Him Bulldozer budget, They Called Him Bulldozer review, They Called Him Bulldozer rating, They Called Him Bulldozer release date, They Called Him Bulldozer Action, They Called Him Bulldozer Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bud Spencer"
+     },
+     {
+      "@type": "Person",
+      "name": "Raimund Harmstorf"
+     },
+     {
+      "@type": "Person",
+      "name": "Ottaviano Dell'Acqua"
+     },
+     {
+      "@type": "Person",
+      "name": "Nando Paone"
+     },
+     {
+      "@type": "Person",
+      "name": "Enzo Santaniello"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 360,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "They Called Him Bulldozer (1978): Action/Comedy film. Story: The \"Bulldozer\", a former football star, is now… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michele Lupo"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a7m4NkcKcN6ancZdIs3jBCvNIBU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11144",
+    "name": "They Called Him Bulldozer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11144"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>They Called Him Bulldozer (1978)</h1>\n<p class=\"ssr-lead\">The &quot;Bulldozer&quot;, a former football star, is now working as a fisherman. As a group of street-people arranges a football match against the local Armybase, he is asked to be their trainer. His boat was damaged by a submarine and he currently has no work, so he agrees.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 1978</li><li>Runtime: 102 minutes</li><li>Director: Michele Lupo</li><li>Genres: Action, Comedy</li><li>TMDB rating: 6.9/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bud Spencer as Bulldozer</li><li>Raimund Harmstorf as Sergeant Kempfer</li><li>Ottaviano Dell&#x27;Acqua as Gerry</li><li>Nando Paone as Ghigo</li><li>Enzo Santaniello as Tojo (Red-haired boy)</li><li>Marco Stefanelli as Tony</li><li>Giovanni Vettorazzo as Spitz</li><li>Reinhard Kolldehoff as Colonel Martin</li><li>Joe Bugner as Alberto Sarticoli &#x27;Orso&#x27; a/k/a &#x27;Bear&#x27;</li><li>Luigi Bonos as Meccanico (as Gigi Bonos)</li></ul>\n</article>",
+   "t": "They Called Him Bulldozer (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
   },
   "movie:1115544": {
    "d": "Mike & Nick & Nick & Alice (2026): Comedy/Science Fiction film. Story: Two gangsters and the woman they love try to survive… See cast and TMDB rating 6.7/10.",
@@ -389,6 +517,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Misdirection (2026)</h1>\n<p class=\"ssr-lead\">A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 2026</li><li>Runtime: 88 minutes</li><li>Director: Kevin Lewis</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 6.2/10 (110 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olga Kurylenko as Sara Black</li><li>Frank Grillo as David Blume</li><li>Oliver Trevena as Jason Wright</li><li>Landa Morland as Julie Smalles</li><li>Vladislav Lapidus as Jack</li><li>Lacy McClory as Female Security Officer</li><li>Emilija Matić as Sara&#x27;s sister</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Misdirection (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1151244": {
+   "d": "Vermiglio (2024): Drama film. Story: In the last days of the Second World War, a deserting… See cast, budget $4.6M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fYepNPcgAYHQRMNZW95oOykLRgQ.jpg",
+   "industry": "world",
+   "k": "Vermiglio, Vermiglio movie, Vermiglio cast, Vermiglio story, Vermiglio box office collection, Vermiglio budget, Vermiglio review, Vermiglio rating, Vermiglio release date, Vermiglio trailer, Vermiglio Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tommaso Ragno"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuseppe De Domenico"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberta Rovelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Martina Scrinzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Orietta Notari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Vermiglio (2024): Drama film. Story: In the last days of the Second World War, a deserting… See cast, budget $4.6M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maura Delpero"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fYepNPcgAYHQRMNZW95oOykLRgQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1151244",
+    "name": "Vermiglio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-09-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1151244"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Vermiglio (2024)</h1>\n<p class=\"ssr-lead\">In the last days of the Second World War, a deserting soldier disrupts a tranquil and isolated mountain community. For one family, his arrival brings excitement and romance, but tragedy lies in wait.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 September 2024</li><li>Runtime: 119 minutes</li><li>Director: Maura Delpero</li><li>Genres: Drama</li><li>Budget: $4.6M</li><li>TMDB rating: 7.0/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tommaso Ragno as Cesare</li><li>Giuseppe De Domenico as Pietro</li><li>Roberta Rovelli as Adele</li><li>Martina Scrinzi as Lucia</li><li>Orietta Notari as Zia Cesira</li><li>Carlotta Gamba as Virginia</li><li>Santiago Fondevila as Attilio</li><li>Sara Serraiocco as Anna Pennisi</li><li>Rachele Potrich as Ada</li><li>Anna Thaler as Flavia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Vermiglio (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:1323244": {
    "d": "Rage of Stars (2026): Action/Science Fiction film. Story: A story about a woman from the International Special… See cast and TMDB rating 6.4/10.",
@@ -648,6 +839,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Untold UK: Liverpool&#x27;s Miracle of Istanbul (2026)</h1>\n<p class=\"ssr-lead\">At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 May 2026</li><li>Runtime: 78 minutes</li><li>Director: Matt Rudge</li><li>Genres: Documentary, History</li><li>TMDB rating: 7.1/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Carragher as Self</li><li>Steven Gerrard as Self</li><li>Rafael Benítez as Self</li><li>Jerzy Dudek as Self</li><li>Didi Hamann as Self</li><li>Djimi Traoré as Self</li><li>Xabi Alonso as Self</li><li>Michael Owen as Self</li><li>Stephen Warnock as Self</li><li>Neil Mellor as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Untold UK: Liverpool's Miracle of Istanbul (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:18444": {
+   "d": "Swiss Family Robinson (1960): Adventure/Family film. Story: After being shipwrecked, the Robinson family is… See cast, budget $5M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vNijAksUUekLP0sMuuGctkSFK2L.jpg",
+   "industry": "world",
+   "k": "Swiss Family Robinson, Swiss Family Robinson movie, Swiss Family Robinson cast, Swiss Family Robinson story, Swiss Family Robinson box office collection, Swiss Family Robinson budget, Swiss Family Robinson review, Swiss Family Robinson rating, Swiss Family Robinson release date, Swiss Family Robinson Adventure, Swiss Family Robinson Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Mills"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorothy McGuire"
+     },
+     {
+      "@type": "Person",
+      "name": "James MacArthur"
+     },
+     {
+      "@type": "Person",
+      "name": "Janet Munro"
+     },
+     {
+      "@type": "Person",
+      "name": "Sessue Hayakawa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Swiss Family Robinson (1960): Adventure/Family film. Story: After being shipwrecked, the Robinson family is… See cast, budget $5M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Annakin"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vNijAksUUekLP0sMuuGctkSFK2L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18444",
+    "name": "Swiss Family Robinson",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1960-12-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18444"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Swiss Family Robinson (1960)</h1>\n<p class=\"ssr-lead\">After being shipwrecked, the Robinson family is marooned on an island inhabited only by an impressive array of wildlife. In true pioneer spirit, they quickly make themselves at home but soon face a danger even greater than nature: dastardly pirates.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 1960</li><li>Runtime: 126 minutes</li><li>Director: Ken Annakin</li><li>Genres: Adventure, Family</li><li>Budget: $5M</li><li>TMDB rating: 6.8/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Mills as Father</li><li>Dorothy McGuire as Mother</li><li>James MacArthur as Fritz</li><li>Janet Munro as Roberta &#x27;Bertie&#x27;</li><li>Sessue Hayakawa as Kuala, Pirate Chief</li><li>Tommy Kirk as Ernst</li><li>Kevin Corcoran as Francis</li><li>Cecil Parker as Captain Moreland</li><li>Andy Ho as Auban</li><li>Milton Reid as Big Pirate</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Swiss Family Robinson (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1960"
   },
   "movie:2144": {
    "d": "One Night at McCool's (2001): Comedy/Crime film. Story: On an ordinary night, in an ordinary part of town, a… See cast, budget $18M, and TMDB rating 5.9/10.",
@@ -969,6 +1224,70 @@
    "t": "Dragon Ball: Curse of the Blood Rubies (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
   },
+  "movie:411144": {
+   "d": "We Have Always Lived in the Castle (2019): Mystery/Thriller film. Story: In Shirleyville, Vermont, during the sixties, sisters… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wm5QhKgitszib5KjaWeNK6yAgoj.jpg",
+   "industry": "world",
+   "k": "We Have Always Lived in the Castle, We Have Always Lived in the Castle movie, We Have Always Lived in the Castle cast, We Have Always Lived in the Castle story, We Have Always Lived in the Castle box office collection, We Have Always Lived in the Castle budget, We Have Always Lived in the Castle review, We Have Always Lived in the Castle rating, We Have Always Lived in the Castle release date, We Have Always Lived in the Castle trailer, We Have Always Lived in the Castle Mystery, We Have Always Lived in the Castle Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Taissa Farmiga"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Daddario"
+     },
+     {
+      "@type": "Person",
+      "name": "Crispin Glover"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Paula Malcomson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 350,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "We Have Always Lived in the Castle (2019): Mystery/Thriller film. Story: In Shirleyville, Vermont, during the sixties, sisters… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stacie Passon"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wm5QhKgitszib5KjaWeNK6yAgoj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=411144",
+    "name": "We Have Always Lived in the Castle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=411144"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>We Have Always Lived in the Castle (2019)</h1>\n<p class=\"ssr-lead\">In Shirleyville, Vermont, during the sixties, sisters Merricat and Constance, along with their ailing uncle Julian, confined to a wheelchair, live isolated in a big mansion located on the hill overlooking the town, tormented by the memories of a family tragedy occurred six years ago. The arrival of cousin Charles will threaten the fragile equilibrium of their minds, haunted by madness, fear and superstition.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 2019</li><li>Runtime: 96 minutes</li><li>Director: Stacie Passon</li><li>Genres: Mystery, Thriller</li><li>TMDB rating: 5.5/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taissa Farmiga as Merricat Blackwood</li><li>Alexandra Daddario as Constance Blackwood</li><li>Crispin Glover as Uncle Julian Blackwood</li><li>Sebastian Stan as Charles Blackwood</li><li>Paula Malcomson as Helen Clarke</li><li>Peter Coonan as Bobby Dunham</li><li>Ian Toner as Jim Donnell</li><li>Joanne Crawford as Stella</li><li>Anna Nugent as Lucille Wright</li><li>Peter O&#x27;Meara as Sam Clarke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "We Have Always Lived in the Castle (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:433244": {
    "d": "Clinical (2017): Thriller/Horror film. Story: A psychiatrist tries to put her life back together… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg",
@@ -1033,6 +1352,70 @@
    "t": "Clinical (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:507244": {
+   "d": "Afterburn (2025): Action/Science Fiction film. Story: Set against the backdrop of a postapocalyptic Earth… See cast, budget $60M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o0H6PjNX3wPS1JLOvw9Z0sEDDgW.jpg",
+   "industry": "world",
+   "k": "Afterburn, Afterburn movie, Afterburn cast, Afterburn story, Afterburn box office collection, Afterburn budget, Afterburn review, Afterburn rating, Afterburn release date, Afterburn trailer, Afterburn Action, Afterburn Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Olga Kurylenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristofer Hivju"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Bernhardt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 377,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Afterburn (2025): Action/Science Fiction film. Story: Set against the backdrop of a postapocalyptic Earth… See cast, budget $60M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.J. Perry"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o0H6PjNX3wPS1JLOvw9Z0sEDDgW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=507244",
+    "name": "Afterburn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=507244"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Afterburn (2025)</h1>\n<p class=\"ssr-lead\">Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 2025</li><li>Runtime: 105 minutes</li><li>Director: J.J. Perry</li><li>Genres: Action, Science Fiction, Comedy</li><li>Budget: $60M</li><li>TMDB rating: 6.2/10 (377 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Bautista as Jake</li><li>Olga Kurylenko as Drea</li><li>Kristofer Hivju as General Volkov</li><li>Samuel L. Jackson as Valentine</li><li>Daniel Bernhardt as Gorynych</li><li>Simon Merrells as Tank Commander</li><li>Kevin Eldon as Father Samson</li><li>Eden Epstein as Fuentes</li><li>George Somner as Pilot</li><li>Sergio Freijo as Officer Sanchez</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Afterburn (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:52744": {
    "d": "Falling in Love (1984): Drama/Romance film. Story: During shopping for Christmas, Frank and Molly run… See cast, budget $12M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/kKoiL1jeLFqqH2StTKvFnT54exu.jpg",
@@ -1096,6 +1479,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Falling in Love (1984)</h1>\n<p class=\"ssr-lead\">During shopping for Christmas, Frank and Molly run into each other. This fleeting short moment will start to change their lives, when they recognize each other months later in the train home and have a good time together. Although both are married and Frank has two little kids, they meet more and more often, their friendship becoming the most precious thing in their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 1984</li><li>Runtime: 106 minutes</li><li>Director: Ulu Grosbard</li><li>Genres: Drama, Romance</li><li>Budget: $12M</li><li>TMDB rating: 6.6/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Frank Raftis</li><li>Meryl Streep as Molly Gilmore</li><li>Harvey Keitel as Ed Lasky</li><li>Jane Kaczmarek as Ann Raftis</li><li>George Martin as John Trainer</li><li>David Clennon as Brian Gilmore</li><li>Dianne Wiest as Isabelle</li><li>Victor Argo as Victor Rawlins</li><li>Wiley Earl as Mike Raftis</li><li>Jesse Bradford as Joe Raftis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Falling in Love (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:548544": {
+   "d": "Invisible Life (2019): Drama film. Story: Rio de Janeiro, Brazil, 1950. In the conservative… See cast, TMDB rating 7.7/10, and release date 8 September 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/u2Av6NyDeLkwYTBXxIGousLNzz.jpg",
+   "industry": "world",
+   "k": "Invisible Life, Invisible Life movie, Invisible Life cast, Invisible Life story, Invisible Life box office collection, Invisible Life budget, Invisible Life review, Invisible Life rating, Invisible Life release date, Invisible Life trailer, Invisible Life Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carol Duarte"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Stockler"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernanda Montenegro"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregório Duvivier"
+     },
+     {
+      "@type": "Person",
+      "name": "Bárbara Santos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 353,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Invisible Life (2019): Drama film. Story: Rio de Janeiro, Brazil, 1950. In the conservative… See cast, TMDB rating 7.7/10, and release date 8 September 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karim Aïnouz"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u2Av6NyDeLkwYTBXxIGousLNzz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=548544",
+    "name": "Invisible Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=548544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Invisible Life (2019)</h1>\n<p class=\"ssr-lead\">Rio de Janeiro, Brazil, 1950. In the conservative home of the Gusmão family, Eurídice and Guida are two inseparable sisters who support each other. While Guida can share with her younger sister the details of her romantic adventures, Eurídice finds in her older sister the encouragement she needs to pursue her dream of becoming a professional pianist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2019</li><li>Runtime: 140 minutes</li><li>Director: Karim Aïnouz</li><li>Genres: Drama</li><li>TMDB rating: 7.7/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carol Duarte as Eurídice Gusmão</li><li>Julia Stockler as Guida Gusmão</li><li>Fernanda Montenegro as Older Eurídice Gusmão</li><li>Gregório Duvivier as Antenor</li><li>Bárbara Santos as Filomena</li><li>Flávia Gusmão as Ana</li><li>António Fonseca as Manoel</li><li>Maria Manoella as Zélia</li><li>Cristina Pereira as Cecília</li><li>Nikolas Antunes as Iorgus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Invisible Life (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:634544": {
    "d": "Uncle Frank (2020): Drama film. Story: In 1973, when Frank Bledsoe and his 18-year-old niece… See cast, TMDB rating 7.3/10, and release date 25 November 2020.",
@@ -1224,6 +1670,133 @@
    "t": "Me Against You: Mr. S's Vendetta (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:653744": {
+   "d": "Sergio (2020): Drama film. Story: A sweeping drama set in the chaotic aftermath of the… See cast, budget $16M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xSECYW2bdaJJCWcuv9IhuiKR9As.jpg",
+   "industry": "world",
+   "k": "Sergio, Sergio movie, Sergio cast, Sergio story, Sergio box office collection, Sergio budget, Sergio review, Sergio rating, Sergio release date, Sergio trailer, Sergio Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wagner Moura"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana de Armas"
+     },
+     {
+      "@type": "Person",
+      "name": "Garret Dillahunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Dalton"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Whitford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 369,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Sergio (2020): Drama film. Story: A sweeping drama set in the chaotic aftermath of the… See cast, budget $16M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Greg Barker"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xSECYW2bdaJJCWcuv9IhuiKR9As.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=653744",
+    "name": "Sergio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=653744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sergio (2020)</h1>\n<p class=\"ssr-lead\">A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Brazilian Sérgio Vieira de Mello hangs in the balance during the most treacherous mission of his career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2020</li><li>Runtime: 118 minutes</li><li>Director: Greg Barker</li><li>Genres: Drama</li><li>Budget: $16M</li><li>TMDB rating: 6.5/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wagner Moura as Sérgio Vieira de Mello</li><li>Ana de Armas as Carolina Larriera</li><li>Garret Dillahunt as Bill Von Zehle</li><li>Will Dalton as Andre Valentine</li><li>Bradley Whitford as Paul Bremer</li><li>Brían F. O&#x27;Byrne as Gil Loescher</li><li>Clemens Schick as Gaby Pichon</li><li>Clarisse Abujamra as Gilda Vieira de Mello</li><li>Pedro Hossi as General Xanana Gusmão</li><li>Sahajak Boonthanakit as Ieng Sary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Sergio (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:657644": {
+   "d": "Minnal Murali (2021): Action/Comedy film. Story: A tailor gains special powers after being struck by… See cast, budget $2.11M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hAv1GwwatyWV1RFXOfaASxgUVm4.jpg",
+   "industry": "bollywood",
+   "k": "Minnal Murali, Minnal Murali movie, Minnal Murali cast, Minnal Murali story, Minnal Murali box office collection, Minnal Murali budget, Minnal Murali review, Minnal Murali rating, Minnal Murali release date, Minnal Murali Action, Minnal Murali Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tovino Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Guru Somasundaram"
+     },
+     {
+      "@type": "Person",
+      "name": "Aju Varghese"
+     },
+     {
+      "@type": "Person",
+      "name": "Vasisht Umesh"
+     },
+     {
+      "@type": "Person",
+      "name": "Shelly Kishore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 354,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Minnal Murali (2021): Action/Comedy film. Story: A tailor gains special powers after being struck by… See cast, budget $2.11M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Basil Joseph"
+     }
+    ],
+    "duration": "PT158M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hAv1GwwatyWV1RFXOfaASxgUVm4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=657644",
+    "name": "Minnal Murali",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=657644"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Minnal Murali (2021)</h1>\n<p class=\"ssr-lead\">A tailor gains special powers after being struck by lightning but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2021</li><li>Runtime: 158 minutes</li><li>Director: Basil Joseph</li><li>Genres: Action, Comedy, Fantasy</li><li>Budget: $2.11M</li><li>TMDB rating: 7.2/10 (354 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tovino Thomas as Jaison / Minnal Murali / Martin Rangakala</li><li>Guru Somasundaram as Shibu / Minnal Murali</li><li>Aju Varghese as Pothan</li><li>Vasisht Umesh as Josemon</li><li>Shelly Kishore as Usha</li><li>Femina George as &quot;Bruce Lee&quot; Biji</li><li>P Balachandran as Varkey</li><li>Harisree Ashokan as Daasan</li><li>Baiju Santhosh as S.I. Saajan</li><li>Arya Salim as Jesmi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Minnal Murali (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:74944": {
    "d": "War of the Buttons (2011): Family/Adventure film. Story: A village in the South of France, 1960. A band of… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/5li8dEJE67Ahe5j3gZPEY0ZRsgm.jpg",
@@ -1350,6 +1923,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Worst Week of My Life (2011)</h1>\n<p class=\"ssr-lead\">Seven days before his wedding, a man must contend with a series of never-ending disasters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2011</li><li>Runtime: 93 minutes</li><li>Director: Alessandro Genovesi</li><li>Genres: Comedy</li><li>Budget: $11M</li><li>TMDB rating: 6.1/10 (456 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabio De Luigi as Paolo</li><li>Cristiana Capotondi as Margherita</li><li>Monica Guerritore as Clara</li><li>Antonio Catania as Giorgio</li><li>Nadir Caselli as Ginevra</li><li>Chiara Francini as Simona</li><li>Arisa as Martina</li><li>Andrea Mingardi as Dino</li><li>Gisella Sofio as La nonna</li><li>Alessandro Siani as Ivano</li></ul>\n</article>",
    "t": "The Worst Week of My Life (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:895744": {
+   "d": "Studio 666 (2022): Horror/Comedy film. Story: Legendary rock band Foo Fighters move into an Encino… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ppNyhrKHCeEgASliV4QN03bp6QR.jpg",
+   "industry": "world",
+   "k": "Studio 666, Studio 666 movie, Studio 666 cast, Studio 666 story, Studio 666 box office collection, Studio 666 budget, Studio 666 review, Studio 666 rating, Studio 666 release date, Studio 666 Horror, Studio 666 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Grohl"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Hawkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Nate Mendel"
+     },
+     {
+      "@type": "Person",
+      "name": "Pat Smear"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Shiflett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 373,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Studio 666 (2022): Horror/Comedy film. Story: Legendary rock band Foo Fighters move into an Encino… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "BJ McDonnell"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ppNyhrKHCeEgASliV4QN03bp6QR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=895744",
+    "name": "Studio 666",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-02-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=895744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Studio 666 (2022)</h1>\n<p class=\"ssr-lead\">Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 February 2022</li><li>Runtime: 106 minutes</li><li>Director: BJ McDonnell</li><li>Genres: Horror, Comedy, Music</li><li>TMDB rating: 5.8/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Grohl as Dave Grohl</li><li>Taylor Hawkins as Taylor Hawkins</li><li>Nate Mendel as Nate Mendel</li><li>Pat Smear as Pat Smear</li><li>Chris Shiflett as Chris Shiflett</li><li>Rami Jaffee as Rami Jaffee</li><li>Whitney Cummings as Samantha</li><li>Leslie Grossman as Barb Weems</li><li>Will Forte as Darren Sandelbaum</li><li>Jenna Ortega as Skye Willow</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Studio 666 (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:9544": {
    "d": "FearDotCom (2002): Horror/Thriller film. Story: When four bodies are discovered among the industrial… See cast, budget $40M, and TMDB rating 3.9/10.",

@@ -1,7 +1,71 @@
 {
  "bucket": "00",
- "count": 40,
+ "count": 51,
  "titles": {
+  "movie:10900": {
+   "d": "Surveillance (2008): Horror/Thriller film. Story: An FBI agent tracks a serial killer with the help of… See cast, budget $3.5M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iExOE5nfduuD1rL1flHBhkCffxp.jpg",
+   "industry": "world",
+   "k": "Surveillance, Surveillance movie, Surveillance cast, Surveillance story, Surveillance box office collection, Surveillance budget, Surveillance review, Surveillance rating, Surveillance release date, Surveillance Horror, Surveillance Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julia Ormond"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Pullman"
+     },
+     {
+      "@type": "Person",
+      "name": "Pell James"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Simpkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Cheri Oteri"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 380,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Surveillance (2008): Horror/Thriller film. Story: An FBI agent tracks a serial killer with the help of… See cast, budget $3.5M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Lynch"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iExOE5nfduuD1rL1flHBhkCffxp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10900",
+    "name": "Surveillance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10900"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Surveillance (2008)</h1>\n<p class=\"ssr-lead\">An FBI agent tracks a serial killer with the help of three of his would-be victims - all of whom have wildly different stories to tell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 February 2008</li><li>Runtime: 97 minutes</li><li>Director: Jennifer Lynch</li><li>Genres: Horror, Thriller, Mystery</li><li>Budget: $3.5M</li><li>TMDB rating: 6.0/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Ormond as Elisabeth Anderson</li><li>Bill Pullman as Sam Hallaway</li><li>Pell James as Bobbi Prescott</li><li>Ryan Simpkins as Stephanie</li><li>Cheri Oteri as Mom</li><li>Michael Ironside as Billings</li><li>French Stewart as Jim Conrad</li><li>Kent Harper as Bennett</li><li>Caroline Aaron as Janet</li><li>Gill Gayle as Degrasso</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Magnolia Selects Amazon Channel, Warriors and Gangsters Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Surveillance (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:11300": {
    "d": "Something Wild (1986): Crime/Comedy film. Story: A free-spirited woman \"kidnaps\" a yuppie for a… See cast, budget $7M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/cAx07D2s8uCwy1YtJTTMJAlaFDo.jpg",
@@ -513,6 +577,70 @@
    "t": "Reckless (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14900": {
+   "d": "The Great Muppet Caper (1981): Comedy/Crime film. Story: Kermit and Fozzie are newspaper reporters sent to… See cast, budget $14M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9Z7xIh9prmqI8ki43G4d5gaaV8h.jpg",
+   "industry": "world",
+   "k": "The Great Muppet Caper, The Great Muppet Caper movie, The Great Muppet Caper cast, The Great Muppet Caper story, The Great Muppet Caper box office collection, The Great Muppet Caper budget, The Great Muppet Caper review, The Great Muppet Caper rating, The Great Muppet Caper release date, The Great Muppet Caper trailer, The Great Muppet Caper Comedy, The Great Muppet Caper Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Oz"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Goelz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Hunt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Great Muppet Caper (1981): Comedy/Crime film. Story: Kermit and Fozzie are newspaper reporters sent to… See cast, budget $14M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Henson"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9Z7xIh9prmqI8ki43G4d5gaaV8h.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14900",
+    "name": "The Great Muppet Caper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1981-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14900"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Muppet Caper (1981)</h1>\n<p class=\"ssr-lead\">Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It&#x27;s up to Kermit and the rest of the Muppets to bring the real culprits to justice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 1981</li><li>Runtime: 97 minutes</li><li>Director: Jim Henson</li><li>Genres: Comedy, Crime, Family, Mystery</li><li>Budget: $14M</li><li>TMDB rating: 6.9/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Henson as Kermit the Frog / Rowlf the Dog / Dr. Teeth / Waldorf / Swedish Chef / The Muppet Newsman / Zeke / Man in Dubonnet Club</li><li>Frank Oz as Miss Piggy / Fozzie Bear / Animal / Sam the Eagle / Gramps / Swedish Chef (voice)</li><li>Dave Goelz as The Great Gonzo / Beauregard / Zoot / Dr. Bunsen Honeydew / Lobbuck Lou / Singing Food (voice)</li><li>Jerry Nelson as Sergeant Floyd Pepper / Pops / Lew Zealand / Louis Kazagger / Bellhop Rat / Slim Wilson / &quot;Dirty Bird&quot; / Man in Park</li><li>Richard Hunt as Scooter / Statler / Sweetums / Janice / Beaker / Bellhop Rat / Bubba / Gramps / Monster / Singing Food / Cab Driver</li><li>Charles Grodin as Nicky Holiday</li><li>Diana Rigg as Lady Holiday</li><li>John Cleese as Neville</li><li>Robert Morley as British Gentleman by Pond</li><li>Peter Ustinov as Truck Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Great Muppet Caper (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1981"
+  },
   "movie:1493400": {
    "d": "Camp Rock 3 (2026): Music/Comedy film. Story: When pop group Connect 3 returns to Camp Rock to… See cast, TMDB rating 6.5/10, and release date 13 August 2026.",
    "img": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
@@ -707,6 +835,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Elway (2025)</h1>\n<p class=\"ssr-lead\">Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2025</li><li>Runtime: 99 minutes</li><li>Director: Ken Rodgers, Chris Weaver</li><li>Genres: Documentary</li><li>TMDB rating: 6.6/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Elway as Self</li><li>Adam Schefter as Self</li><li>Terrell Davis as Self</li><li>Mike Shanahan as Self</li><li>Gary Kubiak as Self</li><li>Jana Elway as Self (archive footage)</li><li>Dennis Engel as Self</li><li>Janet Elway as Self</li><li>Terry Bradshaw as Self (archive footage)</li><li>Dan Reeves as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Elway (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:16000": {
+   "d": "Ben 10: Race Against Time (2008): Action/Family film. Story: Ben, Gwen, and Max must stop an extraterrestrial who… See cast and budget $18M.",
+   "img": "https://image.tmdb.org/t/p/w780/Ap9FjTsRBFBKrUSCQ0xUiaQ0yMW.jpg",
+   "industry": "world",
+   "k": "Ben 10: Race Against Time, Ben 10: Race Against Time movie, Ben 10: Race Against Time cast, Ben 10: Race Against Time story, Ben 10: Race Against Time box office collection, Ben 10: Race Against Time budget, Ben 10: Race Against Time review, Ben 10: Race Against Time rating, Ben 10: Race Against Time release date, Ben 10: Race Against Time Action, Ben 10: Race Against Time Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Graham Phillips"
+     },
+     {
+      "@type": "Person",
+      "name": "Christien Anholt"
+     },
+     {
+      "@type": "Person",
+      "name": "Haley Ramm"
+     },
+     {
+      "@type": "Person",
+      "name": "Beth Littleford"
+     },
+     {
+      "@type": "Person",
+      "name": "Don McManus"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 382,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Ben 10: Race Against Time (2008): Action/Family film. Story: Ben, Gwen, and Max must stop an extraterrestrial who… See cast and budget $18M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Winter"
+     }
+    ],
+    "duration": "PT67M",
+    "genre": [
+     "Action",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Ap9FjTsRBFBKrUSCQ0xUiaQ0yMW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16000",
+    "name": "Ben 10: Race Against Time",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16000"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ben 10: Race Against Time (2008)</h1>\n<p class=\"ssr-lead\">Ben, Gwen, and Max must stop an extraterrestrial who plans to open a gateway that leads to an alien invasion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2008</li><li>Runtime: 67 minutes</li><li>Director: Alex Winter</li><li>Genres: Action, Family, Science Fiction, TV Movie</li><li>Budget: $18M</li><li>TMDB rating: 5.9/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Graham Phillips as Ben Tennyson</li><li>Christien Anholt as Eon</li><li>Haley Ramm as Gwen Tennyson</li><li>Beth Littleford as Sandra Tennyson</li><li>Don McManus as Carl Tennyson</li><li>Sab Shimono as Old Man</li><li>Aloma Wright as Mrs. Dalton</li><li>Robert Picardo as Principal White</li><li>Lee Majors as Grandpa Max Tennyson</li><li>Tyler Patrick Jones as Cash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Now TV Cinema, HBO Max</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Ben 10: Race Against Time (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1616400": {
    "d": "#SKYKING (2026): Documentary film. Story: Tells the story of 28-year-old Horizon Air ground… See cast, TMDB rating 7.2/10, and release date 12 March 2026.",
@@ -1015,6 +1207,70 @@
    "t": "The Little Vampire (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:26900": {
+   "d": "The Bandit (1996): Crime/Drama film. Story: The film tells the story of a group of bandits… See cast, TMDB rating 7.3/10, and release date 29 November 1996.",
+   "img": "https://image.tmdb.org/t/p/w780/oojHJ1BRCeHBkdIEshjP85gDDfY.jpg",
+   "industry": "world",
+   "k": "The Bandit, The Bandit movie, The Bandit cast, The Bandit story, The Bandit box office collection, The Bandit budget, The Bandit review, The Bandit rating, The Bandit release date, The Bandit Crime, The Bandit Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Şener Şen"
+     },
+     {
+      "@type": "Person",
+      "name": "Uğur Yücel"
+     },
+     {
+      "@type": "Person",
+      "name": "Sermin Hürmeriç"
+     },
+     {
+      "@type": "Person",
+      "name": "Yeşim Salkım"
+     },
+     {
+      "@type": "Person",
+      "name": "Kamran Usluer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 381,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Bandit (1996): Crime/Drama film. Story: The film tells the story of a group of bandits… See cast, TMDB rating 7.3/10, and release date 29 November 1996.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yavuz Turgul"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oojHJ1BRCeHBkdIEshjP85gDDfY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=26900",
+    "name": "The Bandit",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-11-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=26900"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bandit (1996)</h1>\n<p class=\"ssr-lead\">The film tells the story of a group of bandits captured in the Cudi Mountains 35 years ago. All of them have died, either from illness or vendettas; only Baran (Şener Şen) survives. After serving his 35-year sentence, Baran is released from Viranşehir Prison and learns that his birthplace is now submerged under the waters of a dam. Ceren Ana (Zübeyde Erden) tells him about the past. Baran is imprisoned because of the betrayal of his old friend Berfo (Kamran Usluer). Berfo stole the bandits gold, bought his childhood love Keje (Sermin Hürmeriç) from her father, and fled to Istanbul. While Baran is searching for Keje, he encounters a young man named Cumali (Uğur Yücel). These two men find solace in each other to avoid being swept away by the storms of the big city. And in this world where violence, betrayal, passion, boundless love and hatred intertwine, they try to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 1996</li><li>Runtime: 128 minutes</li><li>Director: Yavuz Turgul</li><li>Genres: Crime, Drama, Thriller</li><li>TMDB rating: 7.3/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Şener Şen as Baran</li><li>Uğur Yücel as Cumali</li><li>Sermin Hürmeriç as Keje</li><li>Yeşim Salkım as Emel</li><li>Kamran Usluer as Mahmut Şahoğlu/Berfo</li><li>Kayhan Yıldızoğlu as Artist Kemal</li><li>Necdet Mahfi Ayral as Andrey Mişkin</li><li>Güven Hokna as Sevim Abla</li><li>Özkan Uğur as Sedat</li><li>Ülkü Duru as Emel&#x27;in Annesi</li></ul>\n</article>",
+   "t": "The Bandit (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:270400": {
    "d": "Breathe (2014): Drama film. Story: Charlie, a 17-year-old girl tortured by doubt, is… See cast, TMDB rating 7.1/10, and release date 12 November 2014.",
    "img": "https://image.tmdb.org/t/p/w780/xxkuySNoMailIohAdqJQuyNbuOz.jpg",
@@ -1077,6 +1333,196 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Breathe (2014)</h1>\n<p class=\"ssr-lead\">Charlie, a 17-year-old girl tortured by doubt, is thrilled when she becomes friends with Sarah, but when Sarah tires of Charlie and looks for a new friend, their relationship takes an ominous turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2014</li><li>Runtime: 91 minutes</li><li>Director: Mélanie Laurent</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joséphine Japy as Charlie</li><li>Lou de Laâge as Sarah</li><li>Isabelle Carré as Vanessa</li><li>Roxane Duran as Victoire</li><li>Claire Keim as Laura</li><li>Radivoje Bukvić as Charlie&#x27;s father</li><li>Thomas Solivérès as Gastine</li><li>Camille Claris as Delphine</li><li>Louka Meliava as Lucas</li><li>Louise Grinberg as Louise</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
    "t": "Breathe (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:285700": {
+   "d": "The Fool (2014): Drama film. Story: The Fool is a movie about a simple plumber. An honest… See cast, budget $1.3M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c4ewJ2mW1EDf12p8VYV0cZghW3V.jpg",
+   "industry": "world",
+   "k": "The Fool, The Fool movie, The Fool cast, The Fool story, The Fool box office collection, The Fool budget, The Fool review, The Fool rating, The Fool release date, The Fool Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Artyom Bystrov"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalya Surkova"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuriy Tsurilo"
+     },
+     {
+      "@type": "Person",
+      "name": "Boris Nevzorov"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirill Poluhin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 350,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Fool (2014): Drama film. Story: The Fool is a movie about a simple plumber. An honest… See cast, budget $1.3M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yury Bykov"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c4ewJ2mW1EDf12p8VYV0cZghW3V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=285700",
+    "name": "The Fool",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=285700"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Fool (2014)</h1>\n<p class=\"ssr-lead\">The Fool is a movie about a simple plumber. An honest man, he is up against an entire system of corrupted bureaucrats. At stake are the lives of 800 inhabitants of an old dorm that is at risk of collapsing within the span of the night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2014</li><li>Runtime: 116 minutes</li><li>Director: Yury Bykov</li><li>Genres: Drama</li><li>Budget: $1.3M</li><li>TMDB rating: 7.8/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Artyom Bystrov as Nikitin</li><li>Natalya Surkova as Galaganova</li><li>Yuriy Tsurilo as Bogachev</li><li>Boris Nevzorov as Fedotov</li><li>Kirill Poluhin as Matyugin</li><li>Alexander Korshunov as father</li><li>Olga Samoshina as mother</li><li>Darya Moroz as Masha</li><li>Sergei Artsybashev as Tulsky</li><li>Elena Panova as drunkard&#x27;s wife</li></ul>\n</article>",
+   "t": "The Fool (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:31900": {
+   "d": "Gainsbourg: A Heroic Life (2010): Drama film. Story: A glimpse at the life of French singer Serge… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aFGFVXvqOzrK07jnRaSrzIJYp95.jpg",
+   "industry": "world",
+   "k": "Gainsbourg: A Heroic Life, Gainsbourg: A Heroic Life movie, Gainsbourg: A Heroic Life cast, Gainsbourg: A Heroic Life story, Gainsbourg: A Heroic Life box office collection, Gainsbourg: A Heroic Life budget, Gainsbourg: A Heroic Life review, Gainsbourg: A Heroic Life rating, Gainsbourg: A Heroic Life release date, Gainsbourg: A Heroic Life trailer, Gainsbourg: A Heroic Life Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Éric Elmosnino"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Gordon"
+     },
+     {
+      "@type": "Person",
+      "name": "Laetitia Casta"
+     },
+     {
+      "@type": "Person",
+      "name": "Doug Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Mouglalis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 365,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Gainsbourg: A Heroic Life (2010): Drama film. Story: A glimpse at the life of French singer Serge… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joann Sfar"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aFGFVXvqOzrK07jnRaSrzIJYp95.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=31900",
+    "name": "Gainsbourg: A Heroic Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-01-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=31900"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gainsbourg: A Heroic Life (2010)</h1>\n<p class=\"ssr-lead\">A glimpse at the life of French singer Serge Gainsbourg, from growing up in 1940s Nazi-occupied Paris through his successful song-writing years in the 1960s to his death in 1991 at the age of 62.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2010</li><li>Runtime: 130 minutes</li><li>Director: Joann Sfar</li><li>Genres: Drama</li><li>TMDB rating: 6.9/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Éric Elmosnino as Serge Gainsbourg</li><li>Lucy Gordon as Jane Birkin</li><li>Laetitia Casta as Brigitte Bardot</li><li>Doug Jones as La gueule</li><li>Anna Mouglalis as Juliette Greco</li><li>Mylène Jampanoï as Bambou</li><li>Sara Forestier as France Gall</li><li>Kacey Mottet Klein as Lucien Ginsburg</li><li>Răzvan Vasilescu as Joseph Gainsburg (le père)</li><li>Dinara Drukarova as Olga Gainsburg (la mère)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Gainsbourg: A Heroic Life (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:32600": {
+   "d": "Seven Chances (1925): Comedy/Romance film. Story: Struggling stockbroker Jimmie Shannon learns that, if… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jWID4Frsol1gIWK6tB4vrCcBxcd.jpg",
+   "industry": "world",
+   "k": "Seven Chances, Seven Chances movie, Seven Chances cast, Seven Chances story, Seven Chances box office collection, Seven Chances budget, Seven Chances review, Seven Chances rating, Seven Chances release date, Seven Chances trailer, Seven Chances Comedy, Seven Chances Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Buster Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "T. Roy Barnes"
+     },
+     {
+      "@type": "Person",
+      "name": "Snitz Edwards"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Dwyer"
+     },
+     {
+      "@type": "Person",
+      "name": "Frances Raymond"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 346,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Seven Chances (1925): Comedy/Romance film. Story: Struggling stockbroker Jimmie Shannon learns that, if… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Buster Keaton"
+     }
+    ],
+    "duration": "PT56M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jWID4Frsol1gIWK6tB4vrCcBxcd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=32600",
+    "name": "Seven Chances",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1925-03-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=32600"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Seven Chances (1925)</h1>\n<p class=\"ssr-lead\">Struggling stockbroker Jimmie Shannon learns that, if he gets married by 7 p.m. on his 27th birthday -- which is today -- he&#x27;ll inherit $7 million from an eccentric relative.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 March 1925</li><li>Runtime: 56 minutes</li><li>Director: Buster Keaton</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.5/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Buster Keaton as James &#x27;Jimmie&#x27; Shannon</li><li>T. Roy Barnes as Billy Meekin, His Partner</li><li>Snitz Edwards as His Lawyer</li><li>Ruth Dwyer as Mary Jones, His Girl</li><li>Frances Raymond as Mrs. Jones, Her Mother</li><li>Erwin Connelly as The Clergyman</li><li>Jules Cowles as The Hired Hand</li><li>Eugenia Gilbert as First Chance: Girl Who Laughs at Jimmie at the Club</li><li>Doris Deane as Second Chance: Girl Who Laughs at Jimmie at the Golf Course</li><li>Judy King as Third Chance: Girl Who Shreds &#x27;Will You Marry Me&#x27; Note</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: IndieFlix, Kino Film Collection, IndieFlix Shorts Amazon Channel, FILMBOX+ Now Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Seven Chances (1925) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1925"
   },
   "movie:400": {
    "d": "Things to Do in Denver When You're Dead (1996): Drama/Crime film. Story: Five different criminals face imminent death after… See cast and budget $8M.",
@@ -1205,6 +1651,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Basilicata Coast To Coast (2010)</h1>\n<p class=\"ssr-lead\">A musical comedy, a journey filled with unexpected twists and unexpected encounters, leading a group of musicians to set out to the rhythm of their musical verses to participate in the Scanzano Jonico Song-Theatre Festival, walking across Basilicata, from the Tyrrhenian to the Ionian Sea, along the route that gives the project its name. The journey will have a therapeutic effect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2010</li><li>Runtime: 105 minutes</li><li>Director: Rocco Papaleo</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alessandro Gassmann as Rocco Santamaria</li><li>Paolo Briguglia as Salvatore Chiarelli</li><li>Max Gazzè as Franco Cardillo</li><li>Rocco Papaleo as Nicola Palmieri</li><li>Giovanna Mezzogiorno as Tropea Limongi</li><li>Claudia Potenza as Maria Teresa</li><li>Michela Andreozzi as Lucia</li><li>Augusto Fornari as Press Agent</li><li>Gaetano Amato as Onorevole Limongi</li><li>Antonio Gerardi as Carmine Crocco</li></ul>\n</article>",
    "t": "Basilicata Coast To Coast (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:5000": {
+   "d": "Forbidden Games (1952): Drama/War film. Story: Orphaned after a Nazi air raid, Paulette, a young… See cast, TMDB rating 7.8/10, and release date 9 May 1952.",
+   "img": "https://image.tmdb.org/t/p/w780/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+   "industry": "world",
+   "k": "Forbidden Games, Forbidden Games movie, Forbidden Games cast, Forbidden Games story, Forbidden Games box office collection, Forbidden Games budget, Forbidden Games review, Forbidden Games rating, Forbidden Games release date, Forbidden Games trailer, Forbidden Games Drama, Forbidden Games War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brigitte Fossey"
+     },
+     {
+      "@type": "Person",
+      "name": "Georges Poujouly"
+     },
+     {
+      "@type": "Person",
+      "name": "Philippe de Chérisey"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Badie"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanne Courtal"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 368,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Forbidden Games (1952): Drama/War film. Story: Orphaned after a Nazi air raid, Paulette, a young… See cast, TMDB rating 7.8/10, and release date 9 May 1952.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "René Clément"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5000",
+    "name": "Forbidden Games",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1952-05-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5000"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forbidden Games (1952)</h1>\n<p class=\"ssr-lead\">Orphaned after a Nazi air raid, Paulette, a young Parisian girl, runs into Michel, an older peasant boy, and the two quickly become close. Together, they try to make sense of the chaotic and crumbling world around them, attempting to cope with death as they create a burial ground for Paulette&#x27;s deceased pet dog. Eventually, however, Paulette&#x27;s stay with Michel&#x27;s family is threatened by the harsh realities of wartime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 May 1952</li><li>Runtime: 87 minutes</li><li>Director: René Clément</li><li>Genres: Drama, War</li><li>TMDB rating: 7.8/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brigitte Fossey as Paulette</li><li>Georges Poujouly as Michel Dolle</li><li>Philippe de Chérisey as Francis Gouard</li><li>Laurence Badie as Berthe Dolle</li><li>Suzanne Courtal as Madame Dolle</li><li>Lucien Hubert as Monsieur Dolle</li><li>Madeleine Barbulée as Red Cross Nun</li><li>Jacques Marin as Georges Dolle</li><li>Pierre Merovée as Raymond Dolle</li><li>Denise Péronne as Jeanne Gouard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li></ul>\n</article>",
+   "t": "Forbidden Games (1952) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1952"
+  },
+  "movie:516700": {
+   "d": "Gundala (2019): Action/Adventure film. Story: Sancaka has lived on the streets since his parents… See cast, budget $1.86M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ai7xP2p2zYxLFmcLQJaDkEBgY7E.jpg",
+   "industry": "world",
+   "k": "Gundala, Gundala movie, Gundala cast, Gundala story, Gundala box office collection, Gundala budget, Gundala review, Gundala rating, Gundala release date, Gundala trailer, Gundala Action, Gundala Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Abimana Aryasatya"
+     },
+     {
+      "@type": "Person",
+      "name": "Tara Basro"
+     },
+     {
+      "@type": "Person",
+      "name": "Bront Palarae"
+     },
+     {
+      "@type": "Person",
+      "name": "Ario Bayu"
+     },
+     {
+      "@type": "Person",
+      "name": "Muzakki Ramdhan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Gundala (2019): Action/Adventure film. Story: Sancaka has lived on the streets since his parents… See cast, budget $1.86M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joko Anwar"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ai7xP2p2zYxLFmcLQJaDkEBgY7E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=516700",
+    "name": "Gundala",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=516700"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gundala (2019)</h1>\n<p class=\"ssr-lead\">Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 August 2019</li><li>Runtime: 123 minutes</li><li>Director: Joko Anwar</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $1.86M</li><li>TMDB rating: 6.2/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Abimana Aryasatya as Sancaka / Gundala</li><li>Tara Basro as Wulan</li><li>Bront Palarae as Pengkor</li><li>Ario Bayu as Ghani Zulham / Ghazul</li><li>Muzakki Ramdhan as Young Sancaka</li><li>Faris Fadjar as Young Awang</li><li>Rio Dewanto as Sancaka&#x27;s Father</li><li>Marissa Anita as Kurniati Dewi</li><li>Lukman Sardi as Ridwan Bahri</li><li>Cecep Arif Rahman as Swara Batin / The Dancer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Hi-YAH, ViX Premium Amazon Channel, Amazon Prime Video with Ads, Hi-YAH Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Gundala (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:553600": {
+   "d": "Promare (2019): Animation/Action film. Story: Galo and the Burning Rescue Fire Department face off… See cast, TMDB rating 7.1/10, and release date 24 May 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/f2KgbKxSgOUfHxH434pfpzWC0N1.jpg",
+   "industry": "world",
+   "k": "Promare, Promare movie, Promare cast, Promare story, Promare box office collection, Promare budget, Promare review, Promare rating, Promare release date, Promare trailer, Promare Animation, Promare Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kenichi Matsuyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Taichi Saotome"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayane Sakura"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Yoshino"
+     },
+     {
+      "@type": "Person",
+      "name": "Tetsu Inada"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 341,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Promare (2019): Animation/Action film. Story: Galo and the Burning Rescue Fire Department face off… See cast, TMDB rating 7.1/10, and release date 24 May 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Imaishi"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/f2KgbKxSgOUfHxH434pfpzWC0N1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=553600",
+    "name": "Promare",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=553600"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Promare (2019)</h1>\n<p class=\"ssr-lead\">Galo and the Burning Rescue Fire Department face off against BURNISH, a group of mutants who are able to control and wield flames, and the fire disaster they have unleashed on Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 May 2019</li><li>Runtime: 111 minutes</li><li>Director: Hiroyuki Imaishi</li><li>Genres: Animation, Action, Science Fiction</li><li>TMDB rating: 7.1/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kenichi Matsuyama as Galo Thymos (voice)</li><li>Taichi Saotome as Lio Fotia (voice)</li><li>Ayane Sakura as Aina Ardebit (voice)</li><li>Hiroyuki Yoshino as Remi Puguna (voice)</li><li>Tetsu Inada as Varys Truss (voice)</li><li>Mayumi Shintani as Lucia Fex (voice)</li><li>Rikiya Koyama as Ignis Ex (voice)</li><li>Taiten Kusunoki as Vulcan Haestus (voice)</li><li>Ami Koshimizu as Heris Ardebit (voice)</li><li>Nobuyuki Hiyama as Gueira (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Promare (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:568300": {
    "d": "BTS World Tour: Love Yourself in Seoul (2019): Music/Documentary film. Story: Shot at the Olympic Stadium in Seoul during the BTS… See cast.",
@@ -1397,6 +2035,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Clean (2022)</h1>\n<p class=\"ssr-lead\">Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 2022</li><li>Runtime: 93 minutes</li><li>Director: Paul Solet</li><li>Genres: Crime, Action, Drama</li><li>TMDB rating: 6.1/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrien Brody as Clean</li><li>Glenn Fleshler as Michael</li><li>Richie Merritt as Mikey</li><li>Chandler DuPont as Dianda</li><li>Mykelti Williamson as Travis</li><li>Michelle Wilson as Ethel</li><li>John Bianco as Frank</li><li>RZA as Pawn Shop Kurt</li><li>Gerard Cordero as Vic</li><li>Alex Corrado as Tommy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Clean (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:718400": {
+   "d": "The Vanished (2020): Thriller/Horror film. Story: A family vacation takes a terrifying turn when… See cast, TMDB rating 6.0/10, and release date 21 August 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/c2tlXIpwii4Es8s0bLQ8KJ3c0jd.jpg",
+   "industry": "world",
+   "k": "The Vanished, The Vanished movie, The Vanished cast, The Vanished story, The Vanished box office collection, The Vanished budget, The Vanished review, The Vanished rating, The Vanished release date, The Vanished trailer, The Vanished Thriller, The Vanished Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anne Heche"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Jane"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Patric"
+     },
+     {
+      "@type": "Person",
+      "name": "John D. Hickman"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Facinelli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 376,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Vanished (2020): Thriller/Horror film. Story: A family vacation takes a terrifying turn when… See cast, TMDB rating 6.0/10, and release date 21 August 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Facinelli"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c2tlXIpwii4Es8s0bLQ8KJ3c0jd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=718400",
+    "name": "The Vanished",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=718400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Vanished (2020)</h1>\n<p class=\"ssr-lead\">A family vacation takes a terrifying turn when parents Paul and Wendy discover their young daughter has vanished without a trace. Stopping at nothing to find her, the search for the truth leads to a shocking revelation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2020</li><li>Runtime: 115 minutes</li><li>Director: Peter Facinelli</li><li>Genres: Thriller, Horror, Crime, Action</li><li>TMDB rating: 6.0/10 (376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne Heche as Wendy</li><li>Thomas Jane as Paul</li><li>Jason Patric as Sheriff Baker</li><li>John D. Hickman as Tom</li><li>Peter Facinelli as Deputy Rakes</li><li>Alex Haydon as Justin</li><li>Aleksei Archer as Miranda</li><li>Kristopher Wente as Eric</li><li>Rebecca Lines as Marianne</li><li>Lily Anne Harrison as Janet</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Vanished (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:848700": {
    "d": "Minotaur (2026): Drama/Crime film. Story: When Gleb, a successful company director, finds… See cast, budget $7.5M, and TMDB rating 7.5/10.",
